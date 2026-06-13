@@ -1,0 +1,245 @@
+{
+  "cardId": "jaya-the-epic-itself",
+  "questions": [
+    {
+      "id": "jaya-the-epic-itself-q01",
+      "difficulty": "easy",
+      "q": "Who is credited with composing the Mahabharata?",
+      "options": ["Valmiki", "Vyasa", "Vaishampayana", "Narada"],
+      "answer": 1,
+      "explanation": "Vyasa, also called Krishna Dvaipayana, composed the Mahabharata, while Valmiki is the poet of the Ramayana."
+    },
+    {
+      "id": "jaya-the-epic-itself-q02",
+      "difficulty": "easy",
+      "q": "Who served as the scribe who wrote down the epic as it was dictated?",
+      "options": ["Hanuman", "Kartikeya", "Ganesha", "Narada"],
+      "answer": 2,
+      "explanation": "Ganesha, the elephant-headed god, agreed to write down the immense poem as Vyasa dictated it."
+    },
+    {
+      "id": "jaya-the-epic-itself-q03",
+      "difficulty": "easy",
+      "q": "What condition did Ganesha set before agreeing to write down the epic?",
+      "options": ["Vyasa's dictation must never pause", "The epic must praise Ganesha in every chapter", "The epic must be finished within a single day", "Vyasa must fast until the work was complete"],
+      "answer": 0,
+      "explanation": "Ganesha demanded that the dictation flow without a single pause, or he would stop writing forever."
+    },
+    {
+      "id": "jaya-the-epic-itself-q04",
+      "difficulty": "easy",
+      "q": "What was the earliest name of the epic that later became the Mahabharata?",
+      "options": ["Bharata", "Vijaya", "Jaya", "Itihasa"],
+      "answer": 2,
+      "explanation": "The epic was first called Jaya, then grew into the Bharata, and finally into the Mahabharata."
+    },
+    {
+      "id": "jaya-the-epic-itself-q05",
+      "difficulty": "easy",
+      "q": "Approximately how many verses does the Mahabharata contain in its full form?",
+      "options": ["24,000", "50,000", "100,000", "8,800"],
+      "answer": 2,
+      "explanation": "With about one hundred thousand shlokas, the Mahabharata is the longest epic poem in the world."
+    },
+    {
+      "id": "jaya-the-epic-itself-q06",
+      "difficulty": "easy",
+      "q": "The Mahabharata famously calls itself the fifth of what body of sacred works?",
+      "options": ["Purana", "Veda", "Upanishad", "Shastra"],
+      "answer": 1,
+      "explanation": "The epic declares itself the fifth Veda, open to all who could not study the original four."
+    },
+    {
+      "id": "jaya-the-epic-itself-q07",
+      "difficulty": "easy",
+      "q": "Complete the epic's famous claim: \"What is here may be found elsewhere, but what is not here...\"",
+      "options": ["exists nowhere", "is not worth knowing", "belongs to the next age", "must be sought in the Vedas"],
+      "answer": 0,
+      "explanation": "The Adi Parva boasts that whatever exists is found in the epic, and what it lacks exists nowhere."
+    },
+    {
+      "id": "jaya-the-epic-itself-q08",
+      "difficulty": "easy",
+      "q": "What does the word \"Jaya\", the epic's original title, mean?",
+      "options": ["War", "Glory", "Truth", "Victory"],
+      "answer": 3,
+      "explanation": "Jaya means victory, a fitting name for a poem about a war and the triumph of dharma."
+    },
+    {
+      "id": "jaya-the-epic-itself-q09",
+      "difficulty": "easy",
+      "q": "The Bhagavad Gita, contained within the Mahabharata, was spoken on which battlefield?",
+      "options": ["Indraprastha", "Kurukshetra", "Hastinapura", "Dwarka"],
+      "answer": 1,
+      "explanation": "Krishna delivered the Gita to Arjuna between the two armies arrayed at Kurukshetra."
+    },
+    {
+      "id": "jaya-the-epic-itself-q10",
+      "difficulty": "easy",
+      "q": "Into how many major parvas, or books, is the Mahabharata divided?",
+      "options": ["Twelve", "Eighteen", "Sixteen", "Twenty-four"],
+      "answer": 1,
+      "explanation": "The epic is divided into eighteen parvas, echoing the eighteen days of the great war."
+    },
+    {
+      "id": "jaya-the-epic-itself-q11",
+      "difficulty": "medium",
+      "q": "What counter-condition did Vyasa set before Ganesha could begin writing?",
+      "options": ["Ganesha must understand each verse before writing it", "Ganesha must write only during the night", "Ganesha must never reveal the epic to the gods", "Ganesha must recite every verse back aloud"],
+      "answer": 0,
+      "explanation": "Vyasa required Ganesha to grasp the meaning of every verse before setting it down, buying himself time to compose."
+    },
+    {
+      "id": "jaya-the-epic-itself-q12",
+      "difficulty": "medium",
+      "q": "What did Ganesha famously use as a pen while writing the epic?",
+      "options": ["A peacock feather", "His own broken tusk", "A reed from the Ganga", "A splinter of sandalwood"],
+      "answer": 1,
+      "explanation": "When his stylus failed, Ganesha broke off one of his own tusks so the writing would never stop."
+    },
+    {
+      "id": "jaya-the-epic-itself-q13",
+      "difficulty": "medium",
+      "q": "What was the intermediate title of the epic between Jaya and the Mahabharata?",
+      "options": ["Vijaya", "Kurukatha", "Bharata", "Harivamsa"],
+      "answer": 2,
+      "explanation": "The poem grew from Jaya into the Bharata before reaching its final form as the Mahabharata."
+    },
+    {
+      "id": "jaya-the-epic-itself-q14",
+      "difficulty": "medium",
+      "q": "Who recited the epic to King Janamejaya at his great snake sacrifice?",
+      "options": ["Shuka", "Sauti", "Vaishampayana", "Jaimini"],
+      "answer": 2,
+      "explanation": "Vyasa's disciple Vaishampayana gave the epic its first public recitation at Janamejaya's sarpa satra."
+    },
+    {
+      "id": "jaya-the-epic-itself-q15",
+      "difficulty": "medium",
+      "q": "Who later retold the epic to the assembled sages of the Naimisha forest?",
+      "options": ["Ugrashravas, the bard Sauti", "Vaishampayana", "Narada", "Markandeya"],
+      "answer": 0,
+      "explanation": "The bard Ugrashravas, called Sauti, carried the tale to the sages of Naimisharanya, framing the epic as we have it."
+    },
+    {
+      "id": "jaya-the-epic-itself-q16",
+      "difficulty": "medium",
+      "q": "Within which parva of the Mahabharata does the Bhagavad Gita appear?",
+      "options": ["Drona Parva", "Udyoga Parva", "Shanti Parva", "Bhishma Parva"],
+      "answer": 3,
+      "explanation": "The Gita's seven hundred verses are embedded in the Bhishma Parva, just as the war begins."
+    },
+    {
+      "id": "jaya-the-epic-itself-q17",
+      "difficulty": "medium",
+      "q": "What is the first of the Mahabharata's eighteen books called?",
+      "options": ["Sabha Parva", "Adi Parva", "Vana Parva", "Sauptika Parva"],
+      "answer": 1,
+      "explanation": "The Adi Parva, the Book of Beginnings, opens the epic with its origins and the ancestry of the Kurus."
+    },
+    {
+      "id": "jaya-the-epic-itself-q18",
+      "difficulty": "medium",
+      "q": "According to tradition, how long did Vyasa labor to compose the epic?",
+      "options": ["One year", "Twelve years", "Three years", "A hundred years"],
+      "answer": 2,
+      "explanation": "The Adi Parva states that Vyasa composed the great work over three years of constant effort."
+    },
+    {
+      "id": "jaya-the-epic-itself-q19",
+      "difficulty": "medium",
+      "q": "Which work is traditionally attached to the Mahabharata as its appendix or supplement?",
+      "options": ["The Harivamsa", "The Bhagavata", "The Vishnu Purana", "The Yoga Vasistha"],
+      "answer": 0,
+      "explanation": "The Harivamsa, recounting Krishna's lineage and early life, is appended to the epic as a khila or supplement."
+    },
+    {
+      "id": "jaya-the-epic-itself-q20",
+      "difficulty": "medium",
+      "q": "The number eighteen patterns the epic: eighteen parvas, eighteen days of war, eighteen Gita chapters, and how many armies at Kurukshetra?",
+      "options": ["Eleven", "Eighteen", "Seven", "Twenty-one"],
+      "answer": 1,
+      "explanation": "Eighteen akshauhinis assembled for the war, seven for the Pandavas and eleven for the Kauravas."
+    },
+    {
+      "id": "jaya-the-epic-itself-q21",
+      "difficulty": "medium",
+      "q": "To which genre of sacred literature does the Mahabharata assign itself?",
+      "options": ["Kavya", "Purana", "Smriti", "Itihasa"],
+      "answer": 3,
+      "explanation": "The epic calls itself itihasa, meaning \"thus indeed it happened\", a chronicle rather than mere poetry."
+    },
+    {
+      "id": "jaya-the-epic-itself-q22",
+      "difficulty": "medium",
+      "q": "How did Vyasa slow Ganesha down whenever he needed time to think ahead?",
+      "options": ["He composed knotty verses Ganesha had to puzzle over", "He demanded rest at the end of every chapter", "He sent Ganesha to fetch sacred water", "He recited verses in a tongue Ganesha did not know"],
+      "answer": 0,
+      "explanation": "Vyasa wove in difficult kuta-shlokas that forced Ganesha to pause and ponder before writing them."
+    },
+    {
+      "id": "jaya-the-epic-itself-q23",
+      "difficulty": "hard",
+      "q": "According to tradition, how many verses did the original core called Jaya contain?",
+      "options": ["8,800", "24,000", "48,000", "100,000"],
+      "answer": 0,
+      "explanation": "The Jaya core is traditionally counted at 8,800 verses before the epic's later expansions."
+    },
+    {
+      "id": "jaya-the-epic-itself-q24",
+      "difficulty": "hard",
+      "q": "How many verses did the intermediate Bharata contain, before the tale grew to its final size?",
+      "options": ["8,800", "12,000", "24,000", "60,000"],
+      "answer": 2,
+      "explanation": "The Bharata stage is said to have held 24,000 verses, told without the epic's many side tales."
+    },
+    {
+      "id": "jaya-the-epic-itself-q25",
+      "difficulty": "hard",
+      "q": "In legend, what happened when the epic was weighed against the four Vedas?",
+      "options": ["It balanced the Vedas exactly", "It outweighed them, earning the name Mahabharata", "It was lighter but judged holier", "The scales shattered before judgment"],
+      "answer": 1,
+      "explanation": "The gods found the Bharata heavier than the four Vedas together, and its greatness gave it the name Mahabharata."
+    },
+    {
+      "id": "jaya-the-epic-itself-q26",
+      "difficulty": "hard",
+      "q": "Which sage led the assembly at Naimisha forest that heard the bard Sauti recite the epic?",
+      "options": ["Bhrigu", "Atri", "Shaunaka", "Gautama"],
+      "answer": 2,
+      "explanation": "Shaunaka, the kulapati of the Naimisha hermitage, presided over the twelve-year rite where Sauti told the tale."
+    },
+    {
+      "id": "jaya-the-epic-itself-q27",
+      "difficulty": "hard",
+      "q": "What is the final, eighteenth book of the Mahabharata called?",
+      "options": ["Mausala Parva", "Mahaprasthanika Parva", "Anushasana Parva", "Svargarohana Parva"],
+      "answer": 3,
+      "explanation": "The Svargarohana Parva, the Book of the Ascent to Heaven, closes the epic with Yudhishthira's arrival among the gods."
+    },
+    {
+      "id": "jaya-the-epic-itself-q28",
+      "difficulty": "hard",
+      "q": "Vyasa first taught the epic to a circle of disciples that included which of his own sons?",
+      "options": ["Jaimini", "Paila", "Sumantu", "Shuka"],
+      "answer": 3,
+      "explanation": "Vyasa's son Shuka learned the epic alongside disciples such as Vaishampayana, Jaimini, Paila, and Sumantu."
+    },
+    {
+      "id": "jaya-the-epic-itself-q29",
+      "difficulty": "hard",
+      "q": "On whose advice did Vyasa seek out Ganesha to serve as his scribe?",
+      "options": ["Shiva", "Indra", "Saraswati", "Brahma"],
+      "answer": 3,
+      "explanation": "When Vyasa wondered who could write down his vast poem, Brahma appeared and directed him to invoke Ganesha."
+    },
+    {
+      "id": "jaya-the-epic-itself-q30",
+      "difficulty": "hard",
+      "q": "Tradition says reciters may begin the Mahabharata from three different points; one such opening starts with which king's tale?",
+      "options": ["Uparichara Vasu", "Janamejaya", "Yayati", "Dushyanta"],
+      "answer": 0,
+      "explanation": "The epic notes three traditional beginnings, one of which opens with the story of King Uparichara Vasu."
+    }
+  ]
+}

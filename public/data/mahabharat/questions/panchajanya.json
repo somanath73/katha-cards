@@ -1,0 +1,245 @@
+{
+  "cardId": "panchajanya",
+  "questions": [
+    {
+      "id": "panchajanya-q01",
+      "difficulty": "easy",
+      "q": "Who was the owner and blower of the conch Panchajanya?",
+      "options": ["Arjuna", "Krishna", "Bhima", "Yudhishthira"],
+      "answer": 1,
+      "explanation": "Krishna, who served as Arjuna's charioteer in the war, owned and sounded the great conch Panchajanya."
+    },
+    {
+      "id": "panchajanya-q02",
+      "difficulty": "easy",
+      "q": "What kind of object is Panchajanya?",
+      "options": ["A celestial bow", "A spinning discus", "A great conch shell", "A golden mace"],
+      "answer": 2,
+      "explanation": "Panchajanya is Krishna's great conch shell, blown to signal battle."
+    },
+    {
+      "id": "panchajanya-q03",
+      "difficulty": "easy",
+      "q": "What color is Panchajanya traditionally described as?",
+      "options": ["White", "Golden", "Deep blue", "Blood red"],
+      "answer": 0,
+      "explanation": "The conch is described as brilliantly white, befitting an emblem of Vishnu."
+    },
+    {
+      "id": "panchajanya-q04",
+      "difficulty": "easy",
+      "q": "From which slain being did Krishna obtain Panchajanya?",
+      "options": ["The serpent Takshaka", "The tyrant Jarasandha", "The architect Maya", "The demon Panchajana"],
+      "answer": 3,
+      "explanation": "Krishna slew the sea demon Panchajana and took the conch that came to bear his name."
+    },
+    {
+      "id": "panchajanya-q05",
+      "difficulty": "easy",
+      "q": "Where did the demon Panchajana dwell before Krishna slew him?",
+      "options": ["Inside a mountain cave", "In the depths of the ocean", "Within the Khandava forest", "Beneath the city of Mathura"],
+      "answer": 1,
+      "explanation": "Panchajana lived deep in the ocean, where Krishna dove down to slay him."
+    },
+    {
+      "id": "panchajanya-q06",
+      "difficulty": "easy",
+      "q": "Why did Krishna hunt down the demon Panchajana in the first place?",
+      "options": ["To win a wager with Balarama", "To avenge an insult to the Yadavas", "To seize the demon's hidden treasure", "To recover his guru's lost son"],
+      "answer": 3,
+      "explanation": "Krishna's guru asked for his dead son's return as his teaching fee, which led Krishna to the demon of the sea."
+    },
+    {
+      "id": "panchajanya-q07",
+      "difficulty": "easy",
+      "q": "What duty was Krishna performing when he blew Panchajanya at Kurukshetra?",
+      "options": ["Serving as Arjuna's charioteer", "Commanding the Pandava army", "Leading the Narayani Sena", "Guarding Yudhishthira's chariot"],
+      "answer": 0,
+      "explanation": "Krishna had vowed not to fight and instead drove Arjuna's chariot, sounding his conch from the chariot box."
+    },
+    {
+      "id": "panchajanya-q08",
+      "difficulty": "easy",
+      "q": "The blowing of Panchajanya opens the battlefield scene of which famous text?",
+      "options": ["The Ramayana", "The Rigveda", "The Bhagavad Gita", "The Vidura Niti"],
+      "answer": 2,
+      "explanation": "The first chapter of the Bhagavad Gita describes Krishna blowing Panchajanya between the two armies."
+    },
+    {
+      "id": "panchajanya-q09",
+      "difficulty": "easy",
+      "q": "According to tradition, what effect did Panchajanya's blast have on Krishna's enemies?",
+      "options": ["It struck terror into their hearts", "It put their armies to sleep", "It shattered their weapons", "It blinded their charioteers"],
+      "answer": 0,
+      "explanation": "Its blast was said to strike terror into enemy hearts, especially those already guilty."
+    },
+    {
+      "id": "panchajanya-q10",
+      "difficulty": "easy",
+      "q": "Besides Krishna, who else sounded their own named conches alongside Panchajanya at the war's opening?",
+      "options": ["The eleven Kaurava commanders", "The five Pandava brothers", "The five sons of Draupadi", "The Vrishni heroes of Dwarka"],
+      "answer": 1,
+      "explanation": "Each of the five Pandavas blew his own named conch after Krishna sounded Panchajanya."
+    },
+    {
+      "id": "panchajanya-q11",
+      "difficulty": "medium",
+      "q": "What was the name of the guru whose dead son Krishna restored on the quest that won him Panchajanya?",
+      "options": ["Parashurama", "Bharadwaja", "Sandipani", "Vishvamitra"],
+      "answer": 2,
+      "explanation": "Sandipani of Avanti taught Krishna and asked for his lost son as guru-dakshina."
+    },
+    {
+      "id": "panchajanya-q12",
+      "difficulty": "medium",
+      "q": "Which conch did Arjuna sound in answer to Krishna's Panchajanya?",
+      "options": ["Paundra", "Devadatta", "Sughosha", "Anantavijaya"],
+      "answer": 1,
+      "explanation": "Arjuna answered with Devadatta, his own god-given conch."
+    },
+    {
+      "id": "panchajanya-q13",
+      "difficulty": "medium",
+      "q": "After slaying the demon and finding the boy missing, where did Krishna travel next?",
+      "options": ["To Indra's heaven", "To Varuna's palace", "To the serpent realm of Patala", "To Yama's city of the dead"],
+      "answer": 3,
+      "explanation": "Finding no boy with the demon, Krishna went on to Yama's city and demanded the child back."
+    },
+    {
+      "id": "panchajanya-q14",
+      "difficulty": "medium",
+      "q": "Which conch did Bhima, of terrible deeds, blow beside Panchajanya?",
+      "options": ["Paundra", "Manipushpaka", "Devadatta", "Anantavijaya"],
+      "answer": 0,
+      "explanation": "Bhima, called Vrikodara, blew the mighty conch Paundra."
+    },
+    {
+      "id": "panchajanya-q15",
+      "difficulty": "medium",
+      "q": "Which conch belonged to King Yudhishthira?",
+      "options": ["Sughosha", "Paundra", "Anantavijaya", "Manipushpaka"],
+      "answer": 2,
+      "explanation": "Yudhishthira sounded Anantavijaya, whose name means endless victory."
+    },
+    {
+      "id": "panchajanya-q16",
+      "difficulty": "medium",
+      "q": "How did Panchajanya get its name?",
+      "options": ["From the five Pandava brothers who echoed it", "From the demon Panchajana whose form yielded it", "From the five elements it was said to command", "From the Panchala kingdom where it was forged"],
+      "answer": 1,
+      "explanation": "The conch is named for the demon Panchajana, from whom Krishna won it."
+    },
+    {
+      "id": "panchajanya-q17",
+      "difficulty": "medium",
+      "q": "By which name does the Bhagavad Gita call Krishna in the verse where he blows Panchajanya?",
+      "options": ["Madhusudana", "Govinda", "Keshava", "Hrishikesha"],
+      "answer": 3,
+      "explanation": "Gita 1.15 says Hrishikesha, master of the senses, blew Panchajanya."
+    },
+    {
+      "id": "panchajanya-q18",
+      "difficulty": "medium",
+      "q": "The conch borne by Krishna marks him as the avatar of which god?",
+      "options": ["Vishnu", "Shiva", "Brahma", "Indra"],
+      "answer": 0,
+      "explanation": "The conch is one of Vishnu's classic emblems, and Krishna is Vishnu's avatar."
+    },
+    {
+      "id": "panchajanya-q19",
+      "difficulty": "medium",
+      "q": "Which pair of conches did the twins Nakula and Sahadeva sound with Panchajanya?",
+      "options": ["Paundra and Devadatta", "Anantavijaya and Paundra", "Sughosha and Manipushpaka", "Devadatta and Sughosha"],
+      "answer": 2,
+      "explanation": "Nakula blew Sughosha and Sahadeva blew Manipushpaka."
+    },
+    {
+      "id": "panchajanya-q20",
+      "difficulty": "medium",
+      "q": "In what form did the demon Panchajana live beneath the sea?",
+      "options": ["As a giant sea serpent", "Within the body of a conch", "As a whirlpool of dark water", "In the shape of a monstrous fish"],
+      "answer": 1,
+      "explanation": "The demon dwelt in the sea within the body of a conch, which became Panchajanya."
+    },
+    {
+      "id": "panchajanya-q21",
+      "difficulty": "medium",
+      "q": "In which region did Krishna study at the ashram of the guru he served on this quest?",
+      "options": ["Avanti, at Ujjain", "Magadha, at Girivraja", "Matsya, at Virata's city", "Gandhara, in the far northwest"],
+      "answer": 0,
+      "explanation": "Sandipani's ashram was at Ujjain in Avanti, where Krishna and Balarama studied."
+    },
+    {
+      "id": "panchajanya-q22",
+      "difficulty": "medium",
+      "q": "What guru-dakshina did the teacher ask of Krishna, setting off the adventure of Panchajanya?",
+      "options": ["A thousand cows with gilded horns", "The conquest of a rival kingdom", "A share of the Yadava treasury", "The return of his son lost in the sea"],
+      "answer": 3,
+      "explanation": "Sandipani asked for the restoration of his son, who had been lost in the sea."
+    },
+    {
+      "id": "panchajanya-q23",
+      "difficulty": "hard",
+      "q": "On the Kaurava side, who sounded his conch with a lion's roar just before Panchajanya answered?",
+      "options": ["Drona", "Duryodhana", "Bhishma", "Karna"],
+      "answer": 2,
+      "explanation": "In the Gita, the grandsire Bhishma roared like a lion and blew his conch before the divine conches replied."
+    },
+    {
+      "id": "panchajanya-q24",
+      "difficulty": "hard",
+      "q": "At which seaside holy place was the guru's son seized by the sea?",
+      "options": ["Prabhasa", "Pushkara", "Kashi", "Kanyakumari"],
+      "answer": 0,
+      "explanation": "The boy had been seized by the sea while bathing at the holy site of Prabhasa."
+    },
+    {
+      "id": "panchajanya-q25",
+      "difficulty": "hard",
+      "q": "What color were the horses yoked to the chariot from which Panchajanya was blown at Kurukshetra?",
+      "options": ["Black", "White", "Chestnut", "Dappled grey"],
+      "answer": 1,
+      "explanation": "The Gita describes Krishna and Arjuna in a great chariot yoked with white horses."
+    },
+    {
+      "id": "panchajanya-q26",
+      "difficulty": "hard",
+      "q": "Who accompanied Krishna both as fellow student and on the quest to recover the guru's son?",
+      "options": ["Satyaki", "Uddhava", "Pradyumna", "Balarama"],
+      "answer": 3,
+      "explanation": "Balarama studied with Krishna under Sandipani and shared the quest for the guru's son."
+    },
+    {
+      "id": "panchajanya-q27",
+      "difficulty": "hard",
+      "q": "According to the Gita, the uproar of Panchajanya and the other Pandava conches rent the hearts of whom?",
+      "options": ["The assembled sages", "The sons of Dhritarashtra", "The neutral kings watching", "The soldiers of Matsya"],
+      "answer": 1,
+      "explanation": "Gita 1.19 says the tumult rent the hearts of Dhritarashtra's sons."
+    },
+    {
+      "id": "panchajanya-q28",
+      "difficulty": "hard",
+      "q": "Alongside the conch, which three objects complete Vishnu's four classic emblems?",
+      "options": ["Discus, mace, and lotus", "Bow, sword, and lotus", "Discus, trident, and noose", "Mace, axe, and banner"],
+      "answer": 0,
+      "explanation": "Vishnu classically bears the conch, discus, mace, and lotus in his four hands."
+    },
+    {
+      "id": "panchajanya-q29",
+      "difficulty": "hard",
+      "q": "Which text outside the Mahabharata tells the fullest story of how Krishna won Panchajanya?",
+      "options": ["The Yoga Vasistha", "The Manusmriti", "The Bhagavata Purana", "The Arthashastra"],
+      "answer": 2,
+      "explanation": "The Bhagavata Purana tells the tale in full, with the Harivamsa offering a parallel account."
+    },
+    {
+      "id": "panchajanya-q30",
+      "difficulty": "hard",
+      "q": "How did Krishna announce his arrival at Yama's city while seeking the guru's son?",
+      "options": ["He hurled the Sudarshana at its gates", "He sent Garuda ahead as his herald", "He called out the boy's name three times", "He blew the newly won conch Panchajanya"],
+      "answer": 3,
+      "explanation": "Krishna blew his newly won conch at Yama's city, and the god of death returned the boy."
+    }
+  ]
+}

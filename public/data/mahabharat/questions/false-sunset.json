@@ -1,0 +1,245 @@
+{
+  "cardId": "false-sunset",
+  "questions": [
+    {
+      "id": "false-sunset-q01",
+      "difficulty": "easy",
+      "q": "Whom had Arjuna sworn to kill by sunset on the fourteenth day of the war?",
+      "options": ["Karna", "Drona", "Jayadratha", "Duryodhana"],
+      "answer": 2,
+      "explanation": "Arjuna's sunset vow named Jayadratha, the king who had sealed the wheel formation behind Abhimanyu."
+    },
+    {
+      "id": "false-sunset-q02",
+      "difficulty": "easy",
+      "q": "Who created the illusion of an early sunset at Kurukshetra?",
+      "options": ["Krishna", "Indra", "Vyasa", "Shiva"],
+      "answer": 0,
+      "explanation": "Krishna produced the false darkness so that Jayadratha would come out of hiding before the real sunset."
+    },
+    {
+      "id": "false-sunset-q03",
+      "difficulty": "easy",
+      "q": "In the popular retelling, what did Krishna use to hide the sun?",
+      "options": ["The Kaumodaki mace", "The Sudarshana Chakra", "The Panchajanya conch", "A bank of storm clouds"],
+      "answer": 1,
+      "explanation": "Krishna is said to have sent his discus to veil the sun, plunging the battlefield into an apparent dusk."
+    },
+    {
+      "id": "false-sunset-q04",
+      "difficulty": "easy",
+      "q": "What had Arjuna vowed to do if he failed to kill Jayadratha before sundown?",
+      "options": ["Surrender the Gandiva to Drona", "Renounce the war and retire to the forest", "Serve Duryodhana as a slave", "Burn himself alive on a pyre"],
+      "answer": 3,
+      "explanation": "Arjuna swore to enter blazing fire if Jayadratha still lived when the sun set on the fourteenth day."
+    },
+    {
+      "id": "false-sunset-q05",
+      "difficulty": "easy",
+      "q": "Why did Arjuna swear his sunset oath against Jayadratha?",
+      "options": ["Jayadratha had insulted Draupadi in open court", "Jayadratha had gravely wounded Yudhishthira", "Jayadratha had set fire to the Pandava camp", "Jayadratha had trapped Abhimanyu by blocking his rescuers"],
+      "answer": 3,
+      "explanation": "Jayadratha's boon had held the Pandavas at the mouth of the Chakravyuha while Abhimanyu died alone inside."
+    },
+    {
+      "id": "false-sunset-q06",
+      "difficulty": "easy",
+      "q": "On which day of the war did the false sunset take place?",
+      "options": ["The thirteenth", "The fourteenth", "The fifteenth", "The seventeenth"],
+      "answer": 1,
+      "explanation": "The false sunset crowned the fourteenth day, the deadline of the vow Arjuna had sworn the night before."
+    },
+    {
+      "id": "false-sunset-q07",
+      "difficulty": "easy",
+      "q": "How did the Kaurava warriors react when darkness seemed to fall?",
+      "options": ["They relaxed and began celebrating Arjuna's failure", "They withdrew to their camp for the night", "They launched a final assault on Arjuna's chariot", "They lit torches to keep on fighting"],
+      "answer": 0,
+      "explanation": "Believing the sun had set and Arjuna must now die by his own vow, Jayadratha's guards dropped their vigilance and rejoiced."
+    },
+    {
+      "id": "false-sunset-q08",
+      "difficulty": "easy",
+      "q": "What happened in the sky moments after Jayadratha showed himself in triumph?",
+      "options": ["A storm broke over the battlefield", "Night fell completely and the fighting stopped", "The veil lifted and the sun blazed out again", "An eclipse swallowed the last of the light"],
+      "answer": 2,
+      "explanation": "Krishna withdrew the veil, the sun reappeared above the horizon, and the deadline was revealed to be unspent."
+    },
+    {
+      "id": "false-sunset-q09",
+      "difficulty": "easy",
+      "q": "Who released the arrow that killed Jayadratha when the sun reappeared?",
+      "options": ["Bhima", "Arjuna", "Satyaki", "Dhrishtadyumna"],
+      "answer": 1,
+      "explanation": "At Krishna's urging Arjuna loosed the arrow that took Jayadratha's head in the restored daylight."
+    },
+    {
+      "id": "false-sunset-q10",
+      "difficulty": "easy",
+      "q": "On the fourteenth day, the whole Kaurava host was effectively turned into what?",
+      "options": ["A siege ring around the Pandava camp", "An escort for Drona's chariot", "A wall protecting Duryodhana", "A bodyguard for one terrified king"],
+      "answer": 3,
+      "explanation": "The entire army was arranged for a single purpose: keeping Jayadratha alive and hidden until the sun went down."
+    },
+    {
+      "id": "false-sunset-q11",
+      "difficulty": "medium",
+      "q": "Which formations did Drona layer together to shield Jayadratha?",
+      "options": ["A single revolving Chakravyuha", "The Garuda and Crane arrays combined", "A cart, a lotus, and a needle array, one behind another", "The Makara array backed by war elephants"],
+      "answer": 2,
+      "explanation": "Drona built the Shakata, Padma, and Suchi formations in depth, placing Jayadratha at the very rear."
+    },
+    {
+      "id": "false-sunset-q12",
+      "difficulty": "medium",
+      "q": "As the kill approached, what did Krishna instruct Arjuna to do with Jayadratha's head?",
+      "options": ["Make it fall into the lap of his father Vriddhakshatra", "Bury it beneath the battlefield", "Carry it back to Yudhishthira as proof", "Cast it into the Saraswati river"],
+      "answer": 0,
+      "explanation": "Krishna told Arjuna to send the head flying into the lap of the old ascetic Vriddhakshatra so it would never touch the ground."
+    },
+    {
+      "id": "false-sunset-q13",
+      "difficulty": "medium",
+      "q": "Why could Jayadratha's head not be allowed to touch the ground?",
+      "options": ["Shiva's boon would revive him from the earth", "A head touching the soil would defile Arjuna's vow", "The earth goddess would curse whoever beheaded him", "His father's pronouncement doomed whoever made it fall to earth"],
+      "answer": 3,
+      "explanation": "Vriddhakshatra had declared that whoever caused his son's head to fall to the earth would have his own head burst into a hundred pieces."
+    },
+    {
+      "id": "false-sunset-q14",
+      "difficulty": "medium",
+      "q": "What happened to Vriddhakshatra after the severed head dropped into his lap?",
+      "options": ["He hurled the head back toward the battlefield in fury", "He rose, the head fell, and his own head burst into a hundred pieces", "He died quietly of grief over his evening prayers", "He cursed Krishna and walked into the fire"],
+      "answer": 1,
+      "explanation": "Rising unaware from prayer, the old king let the head slip to the ground, and his own ancient curse rebounded upon himself."
+    },
+    {
+      "id": "false-sunset-q15",
+      "difficulty": "medium",
+      "q": "What did Krishna do during the day when the chariot horses were exhausted?",
+      "options": ["He exchanged them for Shalya's fresh horses", "He invoked Garuda to carry the chariot onward", "He unyoked and tended them while Arjuna held off the enemy alone", "He drove on, trusting in their celestial origin"],
+      "answer": 2,
+      "explanation": "In the heart of the enemy army Krishna unyoked the wounded horses and tended them while Arjuna kept the Kauravas at bay on foot."
+    },
+    {
+      "id": "false-sunset-q16",
+      "difficulty": "medium",
+      "q": "How was water provided for the horses in the middle of the enemy army?",
+      "options": ["Arjuna pierced the earth with an arrow to raise a spring", "Satyaki fetched water through the enemy lines", "Krishna summoned rain with a mantra", "Bhima cut a channel from a nearby lake"],
+      "answer": 0,
+      "explanation": "Arjuna shot the ground to bring up water for the horses and even raised a shelter of arrows while Krishna tended them."
+    },
+    {
+      "id": "false-sunset-q17",
+      "difficulty": "medium",
+      "q": "Which warrior died when the mace he hurled at the unarmed Krishna rebounded upon him?",
+      "options": ["Srutayudha", "Sudakshina", "Alambusha", "Vinda"],
+      "answer": 0,
+      "explanation": "Varuna's son Srutayudha bore a mace that killed its own thrower if cast at one not fighting, and Krishna the charioteer bore no arms."
+    },
+    {
+      "id": "false-sunset-q18",
+      "difficulty": "medium",
+      "q": "What did the frightened Jayadratha beg of Duryodhana and Drona before the fourteenth day?",
+      "options": ["To be posted guarding the camp in the rear", "To be given the strongest chariot and bow", "To be allowed to leave the war and go home", "To have Karna stationed at his side all day"],
+      "answer": 2,
+      "explanation": "Hearing of Arjuna's vow, Jayadratha wanted to flee to Sindhu, and stayed only when promised the army's full protection."
+    },
+    {
+      "id": "false-sunset-q19",
+      "difficulty": "medium",
+      "q": "Who calmed Jayadratha by promising to wall him in behind great formations?",
+      "options": ["Karna", "Shakuni", "Ashwatthama", "Drona"],
+      "answer": 3,
+      "explanation": "Drona, the Kaurava commander, pledged to hide Jayadratha behind layered arrays that Arjuna could not pierce in a day."
+    },
+    {
+      "id": "false-sunset-q20",
+      "difficulty": "medium",
+      "q": "Which two warriors did Yudhishthira send, one after the other, to support Arjuna deep inside the Kaurava array?",
+      "options": ["Drupada and then Virata", "Satyaki and then Bhima", "Nakula and then Sahadeva", "Dhrishtadyumna and then Shikhandi"],
+      "answer": 1,
+      "explanation": "Anxious for Arjuna, Yudhishthira first sent Satyaki and then Bhima cutting through Drona's formations after him."
+    },
+    {
+      "id": "false-sunset-q21",
+      "difficulty": "medium",
+      "q": "Which Kamboja prince fell to Arjuna as he cut his way toward Jayadratha?",
+      "options": ["Vinda of Avanti", "Sudakshina", "Srutayus", "Niramitra"],
+      "answer": 1,
+      "explanation": "Sudakshina of Kamboja was among the great warriors Arjuna slew during his furious drive across the fourteenth day."
+    },
+    {
+      "id": "false-sunset-q22",
+      "difficulty": "medium",
+      "q": "What happened on the same night after Jayadratha was slain?",
+      "options": ["The battle raged on in darkness and Ghatotkacha fell to Karna's dart", "Both armies observed a truce to mourn their dead", "Ashwatthama raided the sleeping Pandava camp", "Bhishma died upon his bed of arrows"],
+      "answer": 0,
+      "explanation": "Fighting continued into the unprecedented night battle in which Karna spent Indra's dart on Ghatotkacha."
+    },
+    {
+      "id": "false-sunset-q23",
+      "difficulty": "hard",
+      "q": "How does the older Sanskrit text of the epic describe Krishna bringing on the apparent sunset?",
+      "options": ["He hurled the Kaumodaki mace to block the light", "He commanded Surya to set before his time", "He spread an illusory darkness through his yogic power", "He had Hanuman's banner cast its shadow across the field"],
+      "answer": 2,
+      "explanation": "The Drona Parva describes Krishna creating darkness by yoga; the image of the discus physically covering the sun is a later popular elaboration."
+    },
+    {
+      "id": "false-sunset-q24",
+      "difficulty": "hard",
+      "q": "By what means did Jayadratha's head travel beyond the battlefield to his father's lap?",
+      "options": ["Garuda carried it away at Krishna's word", "Krishna transported it by his yogic power", "A wind raised by Drona's mantras bore it off", "Arjuna's mantra-charged arrows bore it onward in flight"],
+      "answer": 3,
+      "explanation": "Krishna told Arjuna to keep striking with charged arrows so the head never touched the ground until it reached Vriddhakshatra."
+    },
+    {
+      "id": "false-sunset-q25",
+      "difficulty": "hard",
+      "q": "What advantage did Arjuna's public vow hand to the Kauravas?",
+      "options": ["They could force Arjuna into a night battle", "They could demand a duel on their own terms", "They needed only to hide one man until dusk to see Arjuna die", "They could claim victory by formal forfeit"],
+      "answer": 2,
+      "explanation": "The vow meant the Kauravas did not have to defeat Arjuna at all, merely shield Jayadratha until sunset and let the oath destroy him."
+    },
+    {
+      "id": "false-sunset-q26",
+      "difficulty": "hard",
+      "q": "While racing the sun, Arjuna cut off the sword arm of a warrior about to slay the exhausted Satyaki. Who was he?",
+      "options": ["Alambusha", "Kritavarma", "Somadatta", "Bhurisravas"],
+      "answer": 3,
+      "explanation": "Arjuna severed Bhurisravas's arm as he was about to behead Satyaki; Satyaki then killed the praying warrior, another rule broken that day."
+    },
+    {
+      "id": "false-sunset-q27",
+      "difficulty": "hard",
+      "q": "When exactly had Arjuna sworn his sunset oath?",
+      "options": ["At dawn on the fourteenth day", "On the night of the thirteenth day, on hearing how Abhimanyu died", "The moment Abhimanyu entered the wheel formation", "At the council of war before the first day"],
+      "answer": 1,
+      "explanation": "Returning to camp on the thirteenth evening and learning how his son had been trapped, Arjuna swore the vow that night."
+    },
+    {
+      "id": "false-sunset-q28",
+      "difficulty": "hard",
+      "q": "How is the false sunset most often read symbolically?",
+      "options": ["As crooked means answering the greater crookedness of Abhimanyu's killing", "As the sun god taking revenge upon the Kauravas", "As proof that vows hold no power over fate", "As a warning that war after dark was forbidden"],
+      "answer": 0,
+      "explanation": "Krishna's deception is usually read as a counter to the Kauravas' own breach of dharma when six warriors killed one boy."
+    },
+    {
+      "id": "false-sunset-q29",
+      "difficulty": "hard",
+      "q": "What special protection did Duryodhana receive from Drona on the fourteenth day?",
+      "options": ["Armor bound onto his body with sacred mantras", "The mantra of the Brahmastra", "A boon of invisibility lasting until dusk", "Drona's own chariot and standard"],
+      "answer": 0,
+      "explanation": "Drona tied mantra-charged armor on Duryodhana so Arjuna's arrows could not pierce him, but Duryodhana lacked the skill to win even so."
+    },
+    {
+      "id": "false-sunset-q30",
+      "difficulty": "hard",
+      "q": "What sound made the distant Yudhishthira fear that Arjuna had fallen, prompting him to send help?",
+      "options": ["The Gandiva's twang falling suddenly silent", "The blast of Krishna's conch Panchajanya", "The roar of Hanuman from the chariot banner", "The victory drums of Drona's array"],
+      "answer": 1,
+      "explanation": "Yudhishthira reasoned that Krishna would take up the fight, and blow his conch, only if Arjuna were down, so he sent Satyaki and then Bhima."
+    }
+  ]
+}

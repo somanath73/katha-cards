@@ -1,0 +1,325 @@
+{
+  "cardId": "draupadi",
+  "questions": [
+    {
+      "id": "draupadi-q01",
+      "difficulty": "easy",
+      "q": "How was Draupadi born?",
+      "options": [
+        "From a lotus floating on the Ganga",
+        "Full-grown from her father's sacrificial fire",
+        "As an ordinary infant blessed by Shiva",
+        "From a boon granted by the sage Durvasa"
+      ],
+      "answer": 1,
+      "explanation": "Draupadi rose full-grown and radiant from the sacrificial fire of King Drupada, moments after her brother Dhrishtadyumna."
+    },
+    {
+      "id": "draupadi-q02",
+      "difficulty": "easy",
+      "q": "Why was Draupadi called Krishnaa?",
+      "options": [
+        "Because of her dark complexion",
+        "Because Krishna was her dearest friend",
+        "Because she was born at midnight",
+        "Because she worshipped Krishna from childhood"
+      ],
+      "answer": 0,
+      "explanation": "The name Krishnaa means the dark one, given for her dark and dazzling complexion at birth."
+    },
+    {
+      "id": "draupadi-q03",
+      "difficulty": "easy",
+      "q": "How many husbands did Draupadi have?",
+      "options": ["One", "Three", "Five", "Seven"],
+      "answer": 2,
+      "explanation": "Draupadi was the shared wife of all five Pandava brothers, a marriage sanctioned by Vyasa and her own past-life boon."
+    },
+    {
+      "id": "draupadi-q04",
+      "difficulty": "easy",
+      "q": "Who dragged Draupadi by the hair into the Kuru assembly after the dice game?",
+      "options": ["Duryodhana", "Shakuni", "Karna", "Dushasana"],
+      "answer": 3,
+      "explanation": "Dushasana hauled Draupadi into the court by her hair at Duryodhana's command, an outrage Bhima vowed to avenge."
+    },
+    {
+      "id": "draupadi-q05",
+      "difficulty": "easy",
+      "q": "Who was Draupadi's father?",
+      "options": ["Drupada", "Virata", "Shalya", "Kuntibhoja"],
+      "answer": 0,
+      "explanation": "Draupadi was the daughter of Drupada, king of Panchala, which is the source of her name."
+    },
+    {
+      "id": "draupadi-q06",
+      "difficulty": "easy",
+      "q": "From what does the name Panchali derive?",
+      "options": [
+        "Her five husbands",
+        "Her being a princess of Panchala",
+        "The five fires of her birth rite",
+        "A five-stringed garland she wore"
+      ],
+      "answer": 1,
+      "explanation": "Panchali simply means the woman of Panchala, her father Drupada's kingdom."
+    },
+    {
+      "id": "draupadi-q07",
+      "difficulty": "easy",
+      "q": "Who is credited in the most retold version with making Draupadi's sari endless during the disrobing?",
+      "options": ["Indra", "Vyasa", "Krishna", "Surya"],
+      "answer": 2,
+      "explanation": "Popular retellings credit Krishna's grace with the endless cloth, while the critical edition attributes the miracle to unseen dharma."
+    },
+    {
+      "id": "draupadi-q08",
+      "difficulty": "easy",
+      "q": "Which brother of Draupadi emerged from the same sacrificial fire?",
+      "options": ["Shikhandi", "Satyajit", "Uttamaujas", "Dhrishtadyumna"],
+      "answer": 3,
+      "explanation": "Dhrishtadyumna stepped armed from the flames just before Draupadi rose from the altar."
+    },
+    {
+      "id": "draupadi-q09",
+      "difficulty": "easy",
+      "q": "What name did Draupadi take while in disguise during the thirteenth year of exile?",
+      "options": ["Sairandhri", "Brihannala", "Granthika", "Tantipala"],
+      "answer": 0,
+      "explanation": "Draupadi served as Sairandhri, a maid skilled in dressing hair, in the household of King Virata."
+    },
+    {
+      "id": "draupadi-q10",
+      "difficulty": "easy",
+      "q": "Whom did Draupadi serve as a maid during the year in hiding?",
+      "options": [
+        "Queen Gandhari",
+        "Queen Sudeshna of Matsya",
+        "Princess Uttara",
+        "Queen Satyabhama"
+      ],
+      "answer": 1,
+      "explanation": "Draupadi attended Sudeshna, Virata's queen, whose brother Kichaka would fatally desire her."
+    },
+    {
+      "id": "draupadi-q11",
+      "difficulty": "medium",
+      "q": "What question did Draupadi put to the assembly after the dice game?",
+      "options": [
+        "Whether Shakuni's dice had been honest",
+        "Whether a king could wager his own brothers",
+        "Whether Yudhishthira, having first lost himself, had any right to stake her",
+        "Whether Bhishma would grant her his protection"
+      ],
+      "answer": 2,
+      "explanation": "Her question, whether a man already lost could stake his wife, silenced the elders, and no one in the hall could answer it."
+    },
+    {
+      "id": "draupadi-q12",
+      "difficulty": "medium",
+      "q": "According to popular tradition, what vow did Draupadi take concerning her hair after the dice hall?",
+      "options": [
+        "To shave it off until her husbands were avenged",
+        "To braid it with iron threads of mourning",
+        "To cover it before every king but her husbands",
+        "To leave it unbound until it was washed with Dushasana's blood"
+      ],
+      "answer": 3,
+      "explanation": "The vow of unbound hair is a famous later tradition built on Bhima's blood oath in the epic, and it ended only after Dushasana's death."
+    },
+    {
+      "id": "draupadi-q13",
+      "difficulty": "medium",
+      "q": "What did Draupadi ask for with the boons Dhritarashtra offered her?",
+      "options": [
+        "Freedom for Yudhishthira, then freedom with weapons for his brothers",
+        "The return of her jewels and her father's lands",
+        "Banishment of Shakuni and Dushasana from court",
+        "A promise that no dice game would ever be played again"
+      ],
+      "answer": 0,
+      "explanation": "With her first boon she freed Yudhishthira from slavery and with her second the other four Pandavas along with their weapons."
+    },
+    {
+      "id": "draupadi-q14",
+      "difficulty": "medium",
+      "q": "Why did Draupadi decline a third boon from Dhritarashtra?",
+      "options": [
+        "She feared the old king would trick her",
+        "She said greed was unbecoming, as two boons sufficed for a kshatriya woman",
+        "Bhishma forbade her from asking for more",
+        "Her husbands signaled her to ask nothing further"
+      ],
+      "answer": 1,
+      "explanation": "Draupadi answered that covetousness destroys virtue and that her husbands, once free, could win back everything themselves."
+    },
+    {
+      "id": "draupadi-q15",
+      "difficulty": "medium",
+      "q": "Which king abducted Draupadi from the hermitage during the forest exile?",
+      "options": ["Kichaka", "Shishupala", "Jayadratha", "Bhagadatta"],
+      "answer": 2,
+      "explanation": "Jayadratha of Sindhu carried Draupadi off from the Kamyaka forest and was caught and humiliated by the Pandavas, his head shaved in disgrace."
+    },
+    {
+      "id": "draupadi-q16",
+      "difficulty": "medium",
+      "q": "Who harassed Draupadi at Virata's court and was crushed by Bhima in the dance hall?",
+      "options": ["Uttara Kumara", "Susharma", "King Virata himself", "Kichaka"],
+      "answer": 3,
+      "explanation": "Kichaka, the queen's brother and commander of Virata's forces, pursued Sairandhri and was lured to a midnight tryst where Bhima killed him."
+    },
+    {
+      "id": "draupadi-q17",
+      "difficulty": "medium",
+      "q": "By what collective name were Draupadi's five sons known?",
+      "options": [
+        "The Upapandavas",
+        "The Panchakumaras",
+        "The Saumakas",
+        "The Yajnasenas"
+      ],
+      "answer": 0,
+      "explanation": "Her five sons, one by each Pandava, were called the Upapandavas and were slain in Ashwatthama's night raid."
+    },
+    {
+      "id": "draupadi-q18",
+      "difficulty": "medium",
+      "q": "From what does Draupadi's name Yajnaseni derive?",
+      "options": [
+        "Her birth during a war sacrifice",
+        "Her father's other name, Yajnasena",
+        "Her lifelong devotion to fire rituals",
+        "The sage who blessed her at birth"
+      ],
+      "answer": 1,
+      "explanation": "Drupada was also called Yajnasena, so his fire-born daughter bore the name Yajnaseni."
+    },
+    {
+      "id": "draupadi-q19",
+      "difficulty": "medium",
+      "q": "Who laid down the rule governing Draupadi's time with each husband, with exile for any intruder?",
+      "options": ["Vyasa", "Kunti", "Narada", "Drupada"],
+      "answer": 2,
+      "explanation": "Narada, citing the brothers Sunda and Upasunda who died over a woman, had the Pandavas agree to a compact about Draupadi's company."
+    },
+    {
+      "id": "draupadi-q20",
+      "difficulty": "medium",
+      "q": "Which husband broke the privacy compact and accepted a long pilgrimage as penance?",
+      "options": ["Yudhishthira", "Bhima", "Nakula", "Arjuna"],
+      "answer": 3,
+      "explanation": "Arjuna entered the chamber to fetch weapons for a brahmin's cause and honored the penalty with a twelve-year pilgrimage."
+    },
+    {
+      "id": "draupadi-q21",
+      "difficulty": "medium",
+      "q": "Whom did Draupadi call upon when Durvasa and his disciples arrived after she had already eaten?",
+      "options": ["Krishna", "Surya", "Dharma", "Vyasa"],
+      "answer": 0,
+      "explanation": "Krishna answered her plea, ate the single grain left in the akshaya patra, and the hunger of all the guests was satisfied."
+    },
+    {
+      "id": "draupadi-q22",
+      "difficulty": "medium",
+      "q": "Of which goddess was Draupadi held to be the earthly incarnation?",
+      "options": ["Parvati", "Shri, the goddess of fortune", "Saraswati", "Ganga"],
+      "answer": 1,
+      "explanation": "The epic's roll of divine descents names Draupadi as the incarnation of Shri, born to be the wife of the five Pandavas."
+    },
+    {
+      "id": "draupadi-q23",
+      "difficulty": "hard",
+      "q": "What did a divine voice proclaim at Draupadi's birth?",
+      "options": [
+        "That she would bear a hundred sons",
+        "That she would one day reign in Indra's heaven",
+        "That the dark beauty would bring about the destruction of the kshatriyas",
+        "That she would never know sorrow in her life"
+      ],
+      "answer": 2,
+      "explanation": "The voice declared that Krishnaa, best of women, would accomplish the purpose of the gods and lead the kshatriyas to ruin."
+    },
+    {
+      "id": "draupadi-q24",
+      "difficulty": "hard",
+      "q": "Which of Draupadi's sons was fathered by Yudhishthira?",
+      "options": ["Sutasoma", "Shrutakarma", "Shatanika", "Prativindhya"],
+      "answer": 3,
+      "explanation": "Prativindhya was her son by Yudhishthira; Sutasoma, Shrutakarma, Shatanika, and Shrutasena were by the other four."
+    },
+    {
+      "id": "draupadi-q25",
+      "difficulty": "hard",
+      "q": "After the night raid killed her sons, what did Draupadi demand as the price of Ashwatthama's life?",
+      "options": [
+        "The gem set in his forehead",
+        "His right hand that held the blade",
+        "His exile beyond the seas",
+        "His father's bow as recompense"
+      ],
+      "answer": 0,
+      "explanation": "Draupadi asked for the jewel born in Ashwatthama's brow, which was prised out and placed on Yudhishthira's head."
+    },
+    {
+      "id": "draupadi-q26",
+      "difficulty": "hard",
+      "q": "Why did Draupadi ultimately spare Ashwatthama's life?",
+      "options": [
+        "Krishna commanded her to be silent",
+        "She would not have his mother weep as she wept, and he was their guru's son",
+        "Yudhishthira had sworn an oath of protection",
+        "She feared the sin of slaying an immortal"
+      ],
+      "answer": 1,
+      "explanation": "Even in grief Draupadi refused to make Kripi mourn a son as she mourned hers, and held the guru's son beyond killing."
+    },
+    {
+      "id": "draupadi-q27",
+      "difficulty": "hard",
+      "q": "With which queen did Draupadi discuss the duties of a devoted wife during the forest exile?",
+      "options": ["Rukmini", "Sudeshna", "Satyabhama", "Subhadra"],
+      "answer": 2,
+      "explanation": "In the celebrated forest dialogue, Draupadi explained to Krishna's wife Satyabhama how she served her husbands and managed a royal household."
+    },
+    {
+      "id": "draupadi-q28",
+      "difficulty": "hard",
+      "q": "On the final journey north, what reason did Yudhishthira give for Draupadi falling first?",
+      "options": [
+        "Her vanity in her unmatched beauty",
+        "Her curse upon the Kuru elders",
+        "Her fierce and unforgiving anger",
+        "Her partiality toward Arjuna over her other husbands"
+      ],
+      "answer": 3,
+      "explanation": "Yudhishthira said that though wed to five, her heart favored Arjuna, and that partiality brought her down on the great journey."
+    },
+    {
+      "id": "draupadi-q29",
+      "difficulty": "hard",
+      "q": "In the critical edition of the epic, how is Draupadi's protection during the disrobing described?",
+      "options": [
+        "Robes appear endlessly through unseen dharma, without Krishna being named",
+        "Krishna arrives in person and shields her in the hall",
+        "Gandhari rushes in and covers her with her own veil",
+        "Indra sends down celestial garments from heaven"
+      ],
+      "answer": 0,
+      "explanation": "In the critical edition garment after garment simply appears as Dushasana pulls, a miracle of dharma; the appeal to Krishna is a later expansion."
+    },
+    {
+      "id": "draupadi-q30",
+      "difficulty": "hard",
+      "q": "What condition was Draupadi in when summoned to the dice hall, deepening the outrage?",
+      "options": [
+        "She was fasting under a vow of silence",
+        "She was in her courses, clad in a single garment",
+        "She was in mourning white for her father",
+        "She was carrying her firstborn son"
+      ],
+      "answer": 1,
+      "explanation": "Draupadi protested that she was in her period and wearing a single cloth, making her dragging into the full court doubly shameful."
+    }
+  ]
+}

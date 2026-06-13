@@ -1,0 +1,1007 @@
+{
+  "category": "mahabharat",
+  "name": "Mahabharat",
+  "questionsPerCard": 30,
+  "cards": [
+    {
+      "id": "jaya-the-epic-itself",
+      "order": 1,
+      "title": "Jaya, the Epic Itself",
+      "subtitle": "A Hundred Thousand Verses",
+      "type": "concept",
+      "emblem": "star",
+      "palette": "royal",
+      "description": "Composed by Vyasa and written down by Ganesha on the condition that the dictation never pause, the epic grew from Jaya to Bharata to the Mahabharata. It calls itself the fifth Veda and declares: what is here may be found elsewhere, but what is not here exists nowhere."
+    },
+    {
+      "id": "vyasa",
+      "order": 2,
+      "title": "Vyasa",
+      "subtitle": "The Island-Born Composer",
+      "type": "character",
+      "emblem": "scroll",
+      "palette": "dusk",
+      "description": "Krishna Dvaipayana, dark son of the sage Parashara and young Satyavati, fathered Dhritarashtra, Pandu, and Vidura to save the dying Kuru line. He arranged the Vedas, composed the epic he lived inside, and appeared at every turning point of the story he wrote."
+    },
+    {
+      "id": "kuru-lineage",
+      "order": 3,
+      "title": "The Kuru Lineage",
+      "subtitle": "The Tree of Bharata",
+      "type": "concept",
+      "emblem": "tree",
+      "palette": "forest",
+      "description": "From Bharata, son of Dushyanta and Shakuntala, through King Kuru who ploughed the sacred field, the dynasty descended to Shantanu and splintered into rival branches. A family tree of adopted heirs, levirate sons, and broken successions whose tangles made the great war inevitable."
+    },
+    {
+      "id": "ganga",
+      "order": 4,
+      "title": "Ganga",
+      "subtitle": "The River Mother",
+      "type": "character",
+      "emblem": "river",
+      "palette": "ocean",
+      "description": "The river goddess married Shantanu on the condition that he never question her, then drowned seven of her newborn sons to free the cursed Vasus from mortal life. The eighth child she spared and raised was Devavrata, who would become Bhishma."
+    },
+    {
+      "id": "shantanu",
+      "order": 5,
+      "title": "Shantanu",
+      "subtitle": "The King Who Loved Twice",
+      "type": "character",
+      "emblem": "crown",
+      "palette": "dawn",
+      "description": "King of Hastinapura who lost Ganga by breaking his word, then pined for the fisher-girl Satyavati whose father demanded her sons inherit the throne. His desire cost his eldest son everything, and in gratitude he granted Devavrata the power to choose the hour of his own death."
+    },
+    {
+      "id": "bhishmas-vow",
+      "order": 6,
+      "title": "Bhishma's Vow",
+      "subtitle": "The Grandsire's Terrible Oath",
+      "type": "event",
+      "emblem": "throne",
+      "palette": "royal",
+      "description": "To win Satyavati for his lovesick father, Devavrata renounced the throne and swore lifelong celibacy so no son of his could ever claim it. The gods rained flowers and named him Bhishma, he of the terrible oath, a vow that would hold an empire hostage for three generations."
+    },
+    {
+      "id": "satyavati",
+      "order": 7,
+      "title": "Satyavati",
+      "subtitle": "The Fragrant Fisher Queen",
+      "type": "character",
+      "emblem": "vessel",
+      "palette": "dusk",
+      "description": "Born of a fish and raised by a ferryman, Matsyagandha smelled of fish until the sage Parashara gave her a fragrance carried for a yojana and a secret son, Vyasa. As queen mother she summoned that son to sire heirs when her line failed, and ended her days in forest retreat."
+    },
+    {
+      "id": "bhishma",
+      "order": 8,
+      "title": "Bhishma",
+      "subtitle": "The Grandsire of the Kurus",
+      "type": "character",
+      "emblem": "arrow",
+      "palette": "ocean",
+      "description": "The eighth Vasu born to Ganga, invincible in battle and bound by his vow, he fought his own guru Parashurama to a standstill and abducted three princesses for his brother's wedding. He served every king of Hastinapura and led the Kaurava army for ten days against the grandchildren he loved."
+    },
+    {
+      "id": "amba",
+      "order": 9,
+      "title": "Amba",
+      "subtitle": "The Wronged Princess Reborn",
+      "type": "character",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "Abducted by Bhishma from her swayamvara and then rejected by the lover she was returned to, Amba was left with no place in the world and one purpose: Bhishma's destruction. After years of austerity Shiva promised her revenge in another life, and she walked into fire to hasten it."
+    },
+    {
+      "id": "hastinapura",
+      "order": 10,
+      "title": "Hastinapura",
+      "subtitle": "City of Elephants",
+      "type": "place",
+      "emblem": "elephant",
+      "palette": "royal",
+      "description": "The ancestral capital of the Kurus on the banks of the Ganga, named for the elephant and crowded with thrones that never passed cleanly from father to son. Its court hosted the tournament, the dice game, and every fateful council of the epic."
+    },
+    {
+      "id": "dhritarashtra",
+      "order": 11,
+      "title": "Dhritarashtra",
+      "subtitle": "The Blind King",
+      "type": "character",
+      "emblem": "throne",
+      "palette": "dusk",
+      "description": "Born blind because his mother Ambika shut her eyes before Vyasa, he was passed over for the crown yet ruled for decades through weakness and blind love for his hundred sons. After the war his embrace crushed an iron statue of Bhima, and he died in a forest fire he refused to flee."
+    },
+    {
+      "id": "gandhari",
+      "order": 12,
+      "title": "Gandhari",
+      "subtitle": "The Blindfolded Queen",
+      "type": "character",
+      "emblem": "eye",
+      "palette": "dawn",
+      "description": "Princess of Gandhara who bound her own eyes for life upon marrying a blind king, storing a lifetime of power in her unused gaze. Mother of one hundred sons born from a single mass of flesh, she lifted her blindfold once to make Duryodhana invincible, and cursed Krishna when all hundred lay dead."
+    },
+    {
+      "id": "pandu",
+      "order": 13,
+      "title": "Pandu",
+      "subtitle": "The Pale King",
+      "type": "character",
+      "emblem": "mountain",
+      "palette": "forest",
+      "description": "The pale younger brother who won the throne and filled Hastinapura's treasury with conquest, only to shoot the sage Kindama in the form of a deer and be cursed to die in any embrace of love. He renounced the crown for the mountain forests of Shatashringa, where the curse finally claimed him with Madri."
+    },
+    {
+      "id": "kunti",
+      "order": 14,
+      "title": "Kunti",
+      "subtitle": "Mother of Heroes",
+      "type": "character",
+      "emblem": "lotus",
+      "palette": "dawn",
+      "description": "Born Pritha and given in adoption to King Kuntibhoja, she earned from the sage Durvasa a mantra to summon any god and tested it once too curiously. Mother of Yudhishthira, Bhima, and Arjuna by gods, and of a son she set adrift on the river, whose secret she carried to the brink of war."
+    },
+    {
+      "id": "madri",
+      "order": 15,
+      "title": "Madri",
+      "subtitle": "Princess of Madra",
+      "type": "character",
+      "emblem": "moon",
+      "palette": "dusk",
+      "description": "Pandu's second wife, sister of Shalya, who borrowed Kunti's mantra to summon the twin Ashvins and bore Nakula and Sahadeva. When her beauty triggered Pandu's curse she blamed herself, mounted his pyre, and entrusted her twins to Kunti."
+    },
+    {
+      "id": "vidura",
+      "order": 16,
+      "title": "Vidura",
+      "subtitle": "The Voice of Dharma",
+      "type": "character",
+      "emblem": "scroll",
+      "palette": "forest",
+      "description": "Son of Vyasa and a serving maid, barred from the throne by birth yet wiser than every king he counselled, he was Dharma himself born under a sage's curse. His Vidura Niti remains a manual of statecraft, and his coded warning saved the Pandavas from the house of lac."
+    },
+    {
+      "id": "divine-descent",
+      "order": 17,
+      "title": "The Divine Descent",
+      "subtitle": "Amsavatarana",
+      "type": "concept",
+      "emblem": "star",
+      "palette": "royal",
+      "description": "The epic's secret cast list: gods and demons born into human roles to relieve the burdened Earth. Krishna as Vishnu, Draupadi as Shri, Bhishma as a cursed Vasu, the Pandavas fathered by gods, and the Kauravas as asuras incarnate, all playing parts written before their births."
+    },
+    {
+      "id": "birth-of-the-kauravas",
+      "order": 18,
+      "title": "Birth of the Kauravas",
+      "subtitle": "The Hundred Jars",
+      "type": "event",
+      "emblem": "vessel",
+      "palette": "flame",
+      "description": "After two years of pregnancy Gandhari struck her womb in despair and delivered a hard ball of flesh, which Vyasa divided into a hundred and one pieces nurtured in jars of ghee. Jackals howled at Duryodhana's birth, and the wise begged the king to abandon the child who would end the line."
+    },
+    {
+      "id": "karna",
+      "order": 19,
+      "title": "Karna",
+      "subtitle": "The Sun's Abandoned Son",
+      "type": "character",
+      "emblem": "sun",
+      "palette": "dawn",
+      "description": "Born to unwed Kunti with golden armor and earrings fused to his body, set afloat on the river and raised by the charioteer Adhiratha and Radha. The most generous of warriors collected curses like wounds, gave away his only protection, and chose loyalty to Duryodhana over the brothers he was born to."
+    },
+    {
+      "id": "shakuni",
+      "order": 20,
+      "title": "Shakuni",
+      "subtitle": "The Master of Dice",
+      "type": "character",
+      "emblem": "dice",
+      "palette": "dusk",
+      "description": "Prince of Gandhara and Gandhari's brother, the limping uncle who whispered in Duryodhana's ear and rolled dice that obeyed his will. The architect of the game that broke the Pandavas met his end on the eighteenth day at the hands of Sahadeva, exactly as vowed."
+    },
+    {
+      "id": "gandhara",
+      "order": 21,
+      "title": "Gandhara",
+      "subtitle": "Shakuni's Mountain Realm",
+      "type": "place",
+      "emblem": "mountain",
+      "palette": "forest",
+      "description": "The far northwestern kingdom beyond the five rivers, homeland of Gandhari and Shakuni, whose name survives in modern Kandahar. From its hills came the blindfolded queen, the cunning dice-master, and a grudge that travelled all the way to Kurukshetra."
+    },
+    {
+      "id": "duryodhana",
+      "order": 22,
+      "title": "Duryodhana",
+      "subtitle": "The Unyielding Prince",
+      "type": "character",
+      "emblem": "mace",
+      "palette": "flame",
+      "description": "Eldest of the hundred, born to omens and named Suyodhana by those who loved him, he refused the Pandavas even five villages, declaring he would not spare land enough for a needle's point. Balarama's finest mace student, his envy built the lac house and the dice game, and his thighs hid the one mortal flaw in a body his mother's gaze made like thunder."
+    },
+    {
+      "id": "dushasana",
+      "order": 23,
+      "title": "Dushasana",
+      "subtitle": "The Cruel Hand",
+      "type": "character",
+      "emblem": "sword",
+      "palette": "dusk",
+      "description": "Second of the Kauravas and his brother's most eager instrument, he dragged Draupadi to the court by her hair and laid hands on her sari before the assembled kings. On the seventeenth day Bhima tore open his chest and drank his blood, fulfilling the vow sworn in that same hall."
+    },
+    {
+      "id": "parashurama",
+      "order": 24,
+      "title": "Parashurama",
+      "subtitle": "The Axe-Bearing Guru",
+      "type": "character",
+      "emblem": "trident",
+      "palette": "ocean",
+      "description": "The immortal sixth avatar of Vishnu who cleansed the earth of kshatriyas twenty-one times, then retired to teach the art of war. Guru to Bhishma, Drona, and Karna, he fought his student Bhishma for twenty-three days over Amba, and cursed Karna to forget his weapons at the hour of greatest need."
+    },
+    {
+      "id": "drona",
+      "order": 25,
+      "title": "Drona",
+      "subtitle": "The Master of Weapons",
+      "type": "character",
+      "emblem": "bow",
+      "palette": "royal",
+      "description": "Born of a vessel to the sage Bharadwaja, humiliated in poverty by his boyhood friend Drupada, he became weapons master to all the Kuru princes. As his teaching fee he demanded Drupada's capture in chains, and as Kaurava commander he built the wheel formation that killed a sixteen-year-old."
+    },
+    {
+      "id": "kripacharya",
+      "order": 26,
+      "title": "Kripacharya",
+      "subtitle": "The Immortal Teacher",
+      "type": "character",
+      "emblem": "shield",
+      "palette": "forest",
+      "description": "Found as an infant among the reeds with his twin sister Kripi and raised in Shantanu's palace, he was the princes' first teacher before Drona arrived. One of the seven immortals, he fought all eighteen days, joined the night raid, survived the war, and lived on to teach Parikshit."
+    },
+    {
+      "id": "ekalavya",
+      "order": 27,
+      "title": "Ekalavya",
+      "subtitle": "The Thumb-Given Archer",
+      "type": "character",
+      "emblem": "arrow",
+      "palette": "dusk",
+      "description": "The Nishada prince whom Drona refused, so he practiced before a clay image of the guru until he could seal a barking dog's mouth with seven arrows. When Drona finally claimed his fee, Ekalavya cut off his right thumb without hesitation, surrendering supremacy to protect Arjuna's place."
+    },
+    {
+      "id": "tournament-of-princes",
+      "order": 28,
+      "title": "The Tournament of Princes",
+      "subtitle": "Where Karna Rose",
+      "type": "event",
+      "emblem": "crown",
+      "palette": "flame",
+      "description": "At the graduation exhibition of the Kuru princes, an unknown warrior matched Arjuna feat for feat and demanded a duel, only to be mocked for his charioteer birth. Duryodhana crowned the stranger king of Anga on the spot, buying Karna's lifelong loyalty as the sun set on the unfinished challenge."
+    },
+    {
+      "id": "anga",
+      "order": 29,
+      "title": "Anga",
+      "subtitle": "Karna's Gifted Kingdom",
+      "type": "place",
+      "emblem": "sun",
+      "palette": "dawn",
+      "description": "The eastern kingdom with its capital at Champa, handed to Karna in a single theatrical gesture at the tournament grounds. The gift made a charioteer's son a king, sealed history's most fateful friendship, and gave Karna the name Angaraja."
+    },
+    {
+      "id": "yudhishthira",
+      "order": 30,
+      "title": "Yudhishthira",
+      "subtitle": "The King of Dharma",
+      "type": "character",
+      "emblem": "throne",
+      "palette": "royal",
+      "description": "Eldest Pandava, son of the god Dharma, so truthful that his chariot rode above the ground until one half-lie brought it down. His single weakness, the dice, cost his brothers, his wife, and his kingdom; his unbending righteousness won them back and carried him bodily into heaven."
+    },
+    {
+      "id": "bhima",
+      "order": 31,
+      "title": "Bhima",
+      "subtitle": "The Wolf-Bellied",
+      "type": "character",
+      "emblem": "mace",
+      "palette": "flame",
+      "description": "Son of the wind god with the strength of ten thousand elephants, poisoned and thrown in the river as a boy only to return stronger from the naga realms. Vrikodara the wolf-bellied killed all hundred Kauravas as he swore he would, drank Dushasana's blood, and smashed Duryodhana's thighs."
+    },
+    {
+      "id": "arjuna",
+      "order": 32,
+      "title": "Arjuna",
+      "subtitle": "The Peerless Archer",
+      "type": "character",
+      "emblem": "bow",
+      "palette": "dawn",
+      "description": "Indra's son and Drona's favorite, the ambidextrous Savyasachi who saw only the bird's eye, won Draupadi disguised as a brahmin, and wrestled Shiva himself for a weapon. He bore ten names, danced a year as Brihannala, and was Nara to Krishna's Narayana on the battlefield."
+    },
+    {
+      "id": "nakula",
+      "order": 33,
+      "title": "Nakula",
+      "subtitle": "The Handsome Horseman",
+      "type": "character",
+      "emblem": "horse",
+      "palette": "forest",
+      "description": "Elder twin son of Madri by the Ashvins, famed as the most beautiful man of his age and a master of horses and the sword. He served King Virata as the horse-keeper Granthika, and on the final journey it was pride in his own beauty that brought him down."
+    },
+    {
+      "id": "sahadeva",
+      "order": 34,
+      "title": "Sahadeva",
+      "subtitle": "The Silent Seer",
+      "type": "character",
+      "emblem": "star",
+      "palette": "dusk",
+      "description": "Youngest of the Pandavas, the quiet astrologer said to know the future yet bound never to volunteer it. He tended Virata's cattle as Tantipala during the year in hiding, and on the eighteenth day he kept his oldest vow by killing Shakuni, the man of the dice."
+    },
+    {
+      "id": "lakshagriha",
+      "order": 35,
+      "title": "Lakshagriha",
+      "subtitle": "The House of Lac",
+      "type": "event",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "Duryodhana's architect Purochana built a palace of lac and ghee at Varanavata to burn the Pandavas in their sleep, but Vidura's riddling warning and a hired miner's tunnel undid the plot. The brothers fired the trap themselves and walked out beneath the earth, leaving the world to mourn five charred strangers."
+    },
+    {
+      "id": "ekachakra",
+      "order": 36,
+      "title": "Ekachakra",
+      "subtitle": "The Town of Refuge",
+      "type": "place",
+      "emblem": "vessel",
+      "palette": "forest",
+      "description": "The small town where the Pandavas, presumed dead, lived disguised as brahmins in a potter's house, surviving on alms that Kunti divided each night, half for Bhima alone. Here Vyasa guided their steps, and here they learned of the demon who taxed the town in human lives."
+    },
+    {
+      "id": "slaying-of-bakasura",
+      "order": 37,
+      "title": "The Slaying of Bakasura",
+      "subtitle": "The Demon's Last Meal",
+      "type": "event",
+      "emblem": "mace",
+      "palette": "dusk",
+      "description": "Ekachakra bought its safety by sending the rakshasa Baka a cartload of food and the person who delivered it. When the lot fell on their host's family, Kunti sent Bhima, who ate the entire tribute on the way, broke the demon's back, and dumped the body at the town gate."
+    },
+    {
+      "id": "hidimbi",
+      "order": 38,
+      "title": "Hidimbi",
+      "subtitle": "The Forest Queen",
+      "type": "character",
+      "emblem": "tree",
+      "palette": "dawn",
+      "description": "The rakshasi sent by her brother Hidimba to kill the sleeping Pandavas instead fell in love with Bhima and watched him slay her kin. She won him as husband on Kunti's terms, bore the giant Ghatotkacha, and let her family go when the road called them on."
+    },
+    {
+      "id": "ghatotkacha",
+      "order": 39,
+      "title": "Ghatotkacha",
+      "subtitle": "The Giant of the Night",
+      "type": "character",
+      "emblem": "moon",
+      "palette": "ocean",
+      "description": "Bhima's half-rakshasa son, bald as a pot at birth, who came whenever his father thought of him and whose illusions grew mightiest after dark. On the fourteenth night his rampage forced Karna to spend Indra's dart meant for Arjuna, and his falling body, swelled to mountain size, crushed an army."
+    },
+    {
+      "id": "panchala",
+      "order": 40,
+      "title": "Panchala",
+      "subtitle": "Drupada's Proud Realm",
+      "type": "place",
+      "emblem": "spear",
+      "palette": "royal",
+      "description": "The great kingdom south of the Ganga with its capital at Kampilya, ancient rival and uneasy neighbor of the Kurus. Halved by Drona's vengeance, it answered with fire-born children and gave the epic its queen, its commander, and the swayamvara that bound five brothers to one wife."
+    },
+    {
+      "id": "drupada",
+      "order": 41,
+      "title": "Drupada",
+      "subtitle": "The King Forged by Vengeance",
+      "type": "character",
+      "emblem": "crown",
+      "palette": "forest",
+      "description": "Drona's boyhood friend who, as king, mocked the poor brahmin's claim to friendship and paid with half his kingdom. He commissioned a sacrifice for a son destined to behead Drona and received a daughter from the same flames; both prophecies were kept."
+    },
+    {
+      "id": "draupadis-swayamvara",
+      "order": 42,
+      "title": "Draupadi's Swayamvara",
+      "subtitle": "The Eye of the Fish",
+      "type": "event",
+      "emblem": "eye",
+      "palette": "ocean",
+      "description": "Suitors had to string a colossal bow and pierce the eye of a fish revolving overhead while aiming at its reflection below. Kings failed and Karna was turned away, until a brahmin youth struck the mark; at home, Kunti's unwitting command to share the alms made Draupadi wife to all five."
+    },
+    {
+      "id": "draupadi",
+      "order": 43,
+      "title": "Draupadi",
+      "subtitle": "The Fire-Born Queen",
+      "type": "character",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "Krishnaa, Panchali, Yajnaseni: born full-grown from the sacrificial fire, dark and dazzling, wife of five husbands and empress of Indraprastha. Dragged into court by her hair, she left it loose for thirteen years until she could wash it as Bhima vowed, and her questions on dharma silenced kings."
+    },
+    {
+      "id": "dhrishtadyumna",
+      "order": 44,
+      "title": "Dhrishtadyumna",
+      "subtitle": "The Flame-Born Commander",
+      "type": "character",
+      "emblem": "sword",
+      "palette": "dusk",
+      "description": "He stepped out of Drupada's sacrificial fire armed and armored, born for a single sentence of destiny: the death of Drona. Commander of the Pandava armies for all eighteen days, he beheaded the meditating guru and was himself smothered in his sleep in the night raid, denied a warrior's death."
+    },
+    {
+      "id": "krishna",
+      "order": 45,
+      "title": "Krishna",
+      "subtitle": "The Divine Charioteer",
+      "type": "character",
+      "emblem": "flute",
+      "palette": "royal",
+      "description": "Eighth avatar of Vishnu, prince of the Yadavas, who offered one side his armies and the other only himself, unarmed. As Arjuna's charioteer he spoke the Gita, swallowed insults and broke his own vow of not lifting weapons, bent the rules to end the war, and accepted Gandhari's curse with a smile."
+    },
+    {
+      "id": "balarama",
+      "order": 46,
+      "title": "Balarama",
+      "subtitle": "The Plough-Bearer",
+      "type": "character",
+      "emblem": "tree",
+      "palette": "forest",
+      "description": "Krishna's mighty elder brother under the palm-tree banner, incarnation of the serpent Shesha, who taught the mace to both Bhima and Duryodhana. Refusing to choose between students, he spent the war on pilgrimage along the Saraswati and returned just in time to rage at Bhima's final foul blow."
+    },
+    {
+      "id": "dwarka",
+      "order": 47,
+      "title": "Dwarka",
+      "subtitle": "The Golden City by the Sea",
+      "type": "place",
+      "emblem": "garuda",
+      "palette": "ocean",
+      "description": "When Jarasandha's sieges made Mathura unlivable, Krishna raised a fortress city on the western ocean, built by the divine architect Vishvakarma. Capital of the Yadavas for a golden age, it was swallowed by the sea seven days after Krishna's death, exactly as foretold."
+    },
+    {
+      "id": "subhadra",
+      "order": 48,
+      "title": "Subhadra",
+      "subtitle": "The Sister Who Held the Reins",
+      "type": "character",
+      "emblem": "chariot",
+      "palette": "dawn",
+      "description": "Sister of Krishna and Balarama, promised by one brother to Duryodhana and steered by the other toward Arjuna, who carried her off with her full consent. She drove the chariot herself so no one could call it abduction, and bore Abhimanyu, the boy who learned war in her womb."
+    },
+    {
+      "id": "khandava-dahana",
+      "order": 49,
+      "title": "Khandava Dahana",
+      "subtitle": "The Forest Fed to Fire",
+      "type": "event",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "Agni, the fire god, sick and dimmed, begged Krishna and Arjuna to feed him the Khandava forest while they held off Indra's protecting rains. The conflagration won Arjuna the Gandiva and his chariot, spared the architect Maya and the serpent Takshaka, and planted a hatred that would outlive generations."
+    },
+    {
+      "id": "indraprastha",
+      "order": 50,
+      "title": "Indraprastha",
+      "subtitle": "The City of Illusions",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "royal",
+      "description": "Raised on the barren tract of Khandavaprastha that the Pandavas accepted as their half of the kingdom, it became a capital to rival Indra's heaven. In Maya's hall of illusions Duryodhana mistook crystal for water and water for crystal, and the laughter that followed echoed all the way to the dice hall."
+    },
+    {
+      "id": "magadha",
+      "order": 51,
+      "title": "Magadha",
+      "subtitle": "Jarasandha's Fortress Realm",
+      "type": "place",
+      "emblem": "mountain",
+      "palette": "forest",
+      "description": "The eastern empire ruled from Girivraja, the city ringed by five hills, where Jarasandha, born in two halves and joined by a demoness, caged scores of captured kings for sacrifice. Krishna, Bhima, and Arjuna entered disguised as brahmins, and Bhima tore the emperor apart in a wrestling match lasting days."
+    },
+    {
+      "id": "rajasuya-yajna",
+      "order": 52,
+      "title": "The Rajasuya Yajna",
+      "subtitle": "The Emperor's Sacrifice",
+      "type": "event",
+      "emblem": "throne",
+      "palette": "dawn",
+      "description": "With Jarasandha gone and the four directions conquered by his brothers, Yudhishthira was consecrated emperor at Indraprastha. The first honor offered to Krishna drew a hundred insults from Shishupala, and the hundred-and-first was answered by the Sudarshana; envy of the splendor sent Duryodhana home plotting."
+    },
+    {
+      "id": "game-of-dice",
+      "order": 53,
+      "title": "The Game of Dice",
+      "subtitle": "The Kingdom on a Throw",
+      "type": "event",
+      "emblem": "dice",
+      "palette": "dusk",
+      "description": "Summoned to a friendly game he could not refuse, Yudhishthira lost to Shakuni's dice his wealth, his kingdom, his brothers, himself, and finally Draupadi. A second match set the final stakes: thirteen years of exile, the last to be spent undiscovered, or the whole sentence served again."
+    },
+    {
+      "id": "disrobing-of-draupadi",
+      "order": 54,
+      "title": "The Disrobing of Draupadi",
+      "subtitle": "The Question No One Answered",
+      "type": "event",
+      "emblem": "serpent",
+      "palette": "flame",
+      "description": "Dragged into the assembly in a single cloth, Draupadi asked whether a man who had lost himself could stake his wife, and the elders sat silent. As Dushasana pulled at her sari it grew without end by Krishna's grace, Bhima swore his two terrible vows, and a frightened king returned everything with boons."
+    },
+    {
+      "id": "vows-and-curses",
+      "order": 55,
+      "title": "Vows and Curses",
+      "subtitle": "Words That Bind Fate",
+      "type": "concept",
+      "emblem": "star",
+      "palette": "royal",
+      "description": "In this epic, words once spoken become iron: Bhishma's celibacy, Bhima's promise to drink blood and break thighs, Arjuna's sunset deadline, Kindama's dying curse, Urvashi's curse turned blessing, and Gandhari's doom upon the Yadavas. Fate in the Mahabharata is mostly speech that cannot be unsaid."
+    },
+    {
+      "id": "thirteen-year-exile",
+      "order": 56,
+      "title": "The Thirteen-Year Exile",
+      "subtitle": "Twelve Years Seen, One Unseen",
+      "type": "concept",
+      "emblem": "tree",
+      "palette": "forest",
+      "description": "The price of the second dice game: twelve years in the forests of Kamyaka and Dwaita among sages and demons, then a thirteenth year in absolute disguise, with discovery meaning the whole term anew. The exile forged weapons, alliances, and patience that the Kauravas would meet at Kurukshetra."
+    },
+    {
+      "id": "akshaya-patra",
+      "order": 57,
+      "title": "The Akshaya Patra",
+      "subtitle": "The Inexhaustible Vessel",
+      "type": "artifact",
+      "emblem": "vessel",
+      "palette": "dawn",
+      "description": "The sun god's gift to Yudhishthira in exile: a copper vessel that yielded unlimited food each day until Draupadi herself had eaten. When Durvasa and ten thousand disciples arrived after her meal, a single leftover grain of rice accepted by Krishna filled every stomach in creation."
+    },
+    {
+      "id": "kiratarjuniya",
+      "order": 58,
+      "title": "Kiratarjuniya",
+      "subtitle": "The Hunter's Challenge",
+      "type": "event",
+      "emblem": "mountain",
+      "palette": "dusk",
+      "description": "Doing fierce penance on the mountain Indrakila, Arjuna shot a charging boar in the same instant as a mountain hunter, and the quarrel over the kill became a wrestling match with god himself. Shiva, pleased by the mortal who fought him, revealed his form and granted the Pashupatastra."
+    },
+    {
+      "id": "pashupatastra",
+      "order": 59,
+      "title": "Pashupatastra",
+      "subtitle": "Shiva's Ultimate Weapon",
+      "type": "artifact",
+      "emblem": "trident",
+      "palette": "flame",
+      "description": "The personal weapon of Shiva, capable of unmaking creation, granted to Arjuna with grave conditions on its use against lesser foes. He carried the deadliest weapon of the war through all eighteen days and never once loosed it, which may be the point."
+    },
+    {
+      "id": "devadatta",
+      "order": 60,
+      "title": "Devadatta",
+      "subtitle": "The God-Given Conch",
+      "type": "artifact",
+      "emblem": "conch",
+      "palette": "ocean",
+      "description": "Arjuna's white conch of celestial origin, whose blast unmanned enemy hearts on every field he fought. At Kurukshetra's opening it answered Krishna's Panchajanya, one voice among five as each Pandava sounded his own named shell."
+    },
+    {
+      "id": "yaksha-prashna",
+      "order": 61,
+      "title": "The Yaksha's Questions",
+      "subtitle": "Riddles at the Poisoned Lake",
+      "type": "event",
+      "emblem": "river",
+      "palette": "forest",
+      "description": "One by one four Pandavas drank from a lake without answering its invisible guardian, and fell dead. Yudhishthira answered every riddle, from what is faster than wind to what is the greatest wonder, then chose to revive Nakula over his own full brothers; the Yaksha was his father Dharma, testing him."
+    },
+    {
+      "id": "year-in-disguise",
+      "order": 62,
+      "title": "The Year in Disguise",
+      "subtitle": "Agyatavasa at Virata",
+      "type": "event",
+      "emblem": "shield",
+      "palette": "dusk",
+      "description": "For the thirteenth year the heroes vanished into King Virata's household: Kanka the courtier, Vallabha the cook, Brihannala the dance teacher, Granthika the horse-keeper, Tantipala the cowherd, and Sairandhri the queen's maid. Their weapons hung wrapped like a corpse in a shami tree until the final weeks blew every cover."
+    },
+    {
+      "id": "virata",
+      "order": 63,
+      "title": "Virata",
+      "subtitle": "The Kingdom of Disguise",
+      "type": "place",
+      "emblem": "tree",
+      "palette": "dawn",
+      "description": "The Matsya kingdom of old King Virata, where the Pandavas served in hiding and Kichaka's death drew raiders to the cattle. A trembling prince with a transgender charioteer routed the Kuru host, and the year ended with Uttara given as bride to Abhimanyu, binding Matsya to the Pandava cause."
+    },
+    {
+      "id": "kichaka",
+      "order": 64,
+      "title": "Kichaka",
+      "subtitle": "The Tyrant of Virata",
+      "type": "character",
+      "emblem": "mace",
+      "palette": "flame",
+      "description": "Queen Sudeshna's brother and the real power behind Virata's throne, he pursued the maid Sairandhri without knowing she had five husbands and one of them was Bhima. Lured to a midnight tryst in the dance hall, he was crushed into a ball of flesh, and his hundred kinsmen followed him to the pyre."
+    },
+    {
+      "id": "uttara",
+      "order": 65,
+      "title": "Uttara",
+      "subtitle": "The Last Mother of the Kurus",
+      "type": "character",
+      "emblem": "lotus",
+      "palette": "royal",
+      "description": "The young princess of Virata who learned dance from Brihannala, never guessing her teacher was Arjuna, who then accepted her as daughter-in-law for Abhimanyu. Widowed at sixteen and carrying the dynasty's only heir, she watched Krishna turn aside the weapon aimed at her unborn son."
+    },
+    {
+      "id": "gandiva",
+      "order": 66,
+      "title": "Gandiva",
+      "subtitle": "The Thunder Bow",
+      "type": "artifact",
+      "emblem": "bow",
+      "palette": "dusk",
+      "description": "The celestial bow of Brahma's making, passed from Varuna through Agni to Arjuna at the burning of Khandava, with two quivers that never emptied. Its twang was thunder, an insult to it nearly made Arjuna kill his own brother to keep a vow, and at the journey's end it was returned to the sea."
+    },
+    {
+      "id": "barbarika",
+      "order": 67,
+      "title": "Barbarika",
+      "subtitle": "The Three-Arrow Warrior",
+      "type": "character",
+      "emblem": "arrow",
+      "palette": "forest",
+      "description": "Ghatotkacha's son, so mighty that three arrows could end the entire war, but bound by a vow to always fight for the weaker side, a loop that would annihilate both armies. Krishna asked his head as alms before the first battle; the head, granted its wish, watched all eighteen days from a hilltop."
+    },
+    {
+      "id": "krishnas-peace-embassy",
+      "order": 68,
+      "title": "Krishna's Peace Embassy",
+      "subtitle": "Five Villages Refused",
+      "type": "event",
+      "emblem": "scroll",
+      "palette": "dawn",
+      "description": "As last envoy Krishna asked only five villages for the Pandavas and was told he would not get land enough for a needle's point. When Duryodhana moved to seize the ambassador, Krishna revealed his universal form to the blinded court, dined at Vidura's humble table, and left with war now certain."
+    },
+    {
+      "id": "karnas-gift-of-armor",
+      "order": 69,
+      "title": "Karna's Gift of Armor",
+      "subtitle": "Generosity Unto Death",
+      "type": "event",
+      "emblem": "sun",
+      "palette": "flame",
+      "description": "Warned in a dream by his father Surya that Indra would come begging, Karna still refused to refuse. He cut the golden armor and earrings from his living flesh and handed them to the disguised god, accepting in return the Vasavi Shakti, a dart that could be used only once."
+    },
+    {
+      "id": "shalya",
+      "order": 70,
+      "title": "Shalya",
+      "subtitle": "The Reluctant Charioteer",
+      "type": "character",
+      "emblem": "chariot",
+      "palette": "dusk",
+      "description": "King of Madra and uncle to the twins, tricked into fighting for Duryodhana by lavish hospitality he accepted before knowing its source. He kept a secret promise to Yudhishthira by demoralizing Karna from the chariot box, led the Kaurava army on the final morning, and died on Yudhishthira's spear."
+    },
+    {
+      "id": "sanjaya",
+      "order": 71,
+      "title": "Sanjaya",
+      "subtitle": "The Far-Seeing Narrator",
+      "type": "character",
+      "emblem": "eye",
+      "palette": "ocean",
+      "description": "Dhritarashtra's charioteer and conscience, granted divine sight by Vyasa so a blind king could hear his sons die in real time. Through his eyes the world received the Bhagavad Gita; his vision ended the moment Duryodhana fell, and he followed the old king into the forest at the last."
+    },
+    {
+      "id": "akshauhini",
+      "order": 72,
+      "title": "The Akshauhini",
+      "subtitle": "The Arithmetic of War",
+      "type": "concept",
+      "emblem": "elephant",
+      "palette": "royal",
+      "description": "The epic counts its armies precisely: one akshauhini holds 21,870 chariots, 21,870 elephants, 65,610 horsemen, and 109,350 foot soldiers. Eighteen of them assembled at Kurukshetra, seven for the Pandavas and eleven for the Kauravas, and after eighteen days almost none of those millions remained."
+    },
+    {
+      "id": "rules-of-war",
+      "order": 73,
+      "title": "The Rules of War",
+      "subtitle": "Codes Made and Broken",
+      "type": "concept",
+      "emblem": "shield",
+      "palette": "forest",
+      "description": "Before the first arrow, both sides swore a code: equals fight equals, no killing after sunset, none who surrender, retreat, or stand unarmed may be struck. The war's tragedy is the ledger of these rules breaking one by one, from Abhimanyu's lone death to a mace swung below the navel."
+    },
+    {
+      "id": "kurukshetra",
+      "order": 74,
+      "title": "Kurukshetra",
+      "subtitle": "The Field of Dharma",
+      "type": "place",
+      "emblem": "sword",
+      "palette": "flame",
+      "description": "Dharmakshetra, sanctified by King Kuru's ploughing and by Parashurama's five lakes of kshatriya blood at Samantapanchaka. On this plain in present-day Haryana, eighteen armies met for eighteen days, and the Gita's first word names the field before any warrior."
+    },
+    {
+      "id": "bhagavad-gita",
+      "order": 75,
+      "title": "The Bhagavad Gita",
+      "subtitle": "The Song Between Armies",
+      "type": "event",
+      "emblem": "chariot",
+      "palette": "dawn",
+      "description": "Seeing teachers and kinsmen arrayed for slaughter, Arjuna dropped his bow, and between the two hosts Krishna spoke seven hundred verses in eighteen chapters on duty, devotion, and the deathless self. The teaching peaked in the Vishvarupa, the cosmic form declaring: I am Time, destroyer of worlds."
+    },
+    {
+      "id": "panchajanya",
+      "order": 76,
+      "title": "Panchajanya",
+      "subtitle": "The First Blast of War",
+      "type": "artifact",
+      "emblem": "conch",
+      "palette": "ocean",
+      "description": "Krishna's great white conch, taken from the sea demon Panchajana whom he slew to recover his guru's son. Its note opened the Gita and the war itself, and its sound was said to strike terror only into hearts already guilty."
+    },
+    {
+      "id": "shikhandi",
+      "order": 77,
+      "title": "Shikhandi",
+      "subtitle": "The Reborn Avenger",
+      "type": "character",
+      "emblem": "moon",
+      "palette": "dusk",
+      "description": "Amba reborn as Drupada's daughter, raised as a son, who gained manhood from the yaksha Sthunakarna and carried two lifetimes of grievance to Kurukshetra. Bhishma would not raise arms against one born a woman, and behind that refusal stood Arjuna with the arrows of the tenth day."
+    },
+    {
+      "id": "fall-of-bhishma",
+      "order": 78,
+      "title": "The Fall of Bhishma",
+      "subtitle": "The Bed of Arrows",
+      "type": "event",
+      "emblem": "arrow",
+      "palette": "royal",
+      "description": "On the tenth day Arjuna fought from behind Shikhandi, and the grandsire let the arrows come until they bore him off his chariot onto a bed of shafts that held him above the earth. He asked for a pillow and got three arrows, asked for water and Arjuna pierced the ground for a spring, then waited weeks for the sun's northern turn to die."
+    },
+    {
+      "id": "chakravyuha",
+      "order": 79,
+      "title": "The Chakravyuha",
+      "subtitle": "The Wheel of Death",
+      "type": "event",
+      "emblem": "chakra",
+      "palette": "flame",
+      "description": "On the thirteenth day Drona spun his army into a rotating wheel formation that only Krishna and Arjuna could fully breach, and both were lured away. A sixteen-year-old who had heard only the way in from his mother's womb went alone, and six maharathis broke every rule to make sure he never came out."
+    },
+    {
+      "id": "abhimanyu",
+      "order": 80,
+      "title": "Abhimanyu",
+      "subtitle": "The Boy Who Broke the Wheel",
+      "type": "character",
+      "emblem": "sword",
+      "palette": "dawn",
+      "description": "Son of Arjuna and Subhadra, husband of Uttara, he learned the Chakravyuha's entrance as an unborn child listening to his father's voice. Surrounded and stripped of weapons on the thirteenth day, he fought on with a chariot wheel for a shield until the six greatest Kaurava warriors brought him down together."
+    },
+    {
+      "id": "jayadratha",
+      "order": 81,
+      "title": "Jayadratha",
+      "subtitle": "The King Who Held the Gate",
+      "type": "character",
+      "emblem": "horse",
+      "palette": "forest",
+      "description": "King of Sindhu and husband of the Kauravas' only sister, once spared after abducting Draupadi with just his head shaved for shame. Armed with Shiva's boon to hold back four Pandavas for one day, he sealed the wheel formation behind Abhimanyu, and his severed head was dropped by Arjuna's arrow into his own father's lap so the old man's curse would fall on himself."
+    },
+    {
+      "id": "false-sunset",
+      "order": 82,
+      "title": "The False Sunset",
+      "subtitle": "The Discus Veils the Sun",
+      "type": "event",
+      "emblem": "sun",
+      "palette": "dusk",
+      "description": "Arjuna swore to kill Jayadratha by sundown of the fourteenth day or burn himself alive, and the entire Kaurava host became one man's bodyguard. When darkness seemed to fall the celebrating guards relaxed, the sky blazed open again, and Arjuna's arrow flew through Krishna's lifted shadow on the sun."
+    },
+    {
+      "id": "sudarshana-chakra",
+      "order": 83,
+      "title": "Sudarshana Chakra",
+      "subtitle": "The Discus of Vishnu",
+      "type": "artifact",
+      "emblem": "chakra",
+      "palette": "ocean",
+      "description": "The spinning, serrated discus of Vishnu, given to Krishna by Agni at the burning of Khandava, which returned to his finger after every throw. It silenced Shishupala at the hundred-and-first insult and eclipsed the sun at Kurukshetra, the weapon of a god who had vowed not to fight."
+    },
+    {
+      "id": "vasavi-shakti",
+      "order": 84,
+      "title": "The Vasavi Shakti",
+      "subtitle": "Indra's One-Use Dart",
+      "type": "artifact",
+      "emblem": "spear",
+      "palette": "flame",
+      "description": "Indra's infallible dart, traded to Karna for the armor of his flesh and bound to a single use before returning to the god. Karna hoarded it for Arjuna alone, but on the fourteenth night Ghatotkacha's rampage forced his hand, and Krishna danced for joy as the weapon left the world."
+    },
+    {
+      "id": "fall-of-drona",
+      "order": 85,
+      "title": "The Fall of Drona",
+      "subtitle": "A Lie Half-Spoken",
+      "type": "event",
+      "emblem": "elephant",
+      "palette": "dusk",
+      "description": "Unstoppable on the fifteenth day, Drona could be disarmed only by despair, so Bhima killed an elephant named Ashwatthama and roared the news. Yudhishthira confirmed it, murmuring that it was an elephant, his chariot touched the earth for the first time, and Dhrishtadyumna beheaded the guru who had laid down his arms in meditation."
+    },
+    {
+      "id": "narayanastra",
+      "order": 86,
+      "title": "Narayanastra",
+      "subtitle": "The Storm of a Million Weapons",
+      "type": "artifact",
+      "emblem": "fire",
+      "palette": "royal",
+      "description": "Vishnu's own astra, releasable once in a lifetime, which Ashwatthama hurled at the Pandava host in fury after his father's death. It rained countless blazing missiles that grew fiercer against resistance, and Krishna's counsel saved an army: throw down your weapons, dismount, and surrender even the wish to fight."
+    },
+    {
+      "id": "vijaya",
+      "order": 87,
+      "title": "Vijaya",
+      "subtitle": "Karna's Unconquered Bow",
+      "type": "artifact",
+      "emblem": "bow",
+      "palette": "dawn",
+      "description": "The great bow crafted by Vishvakarma and carried by Parashurama, who bestowed it on his finest student before the curse parted them. Strung by Karna on the seventeenth day, its thunderous twang announced a duel the gods themselves gathered to watch."
+    },
+    {
+      "id": "fall-of-karna",
+      "order": 88,
+      "title": "The Fall of Karna",
+      "subtitle": "The Wheel of Fate Sinks",
+      "type": "event",
+      "emblem": "chariot",
+      "palette": "flame",
+      "description": "On the seventeenth day the earth swallowed Karna's chariot wheel, a brahmin's old curse ripening, while Parashurama's curse stole the weapon-lore from his mind. As he begged time to free the wheel, Krishna recited the dharma Karna had broken at the dice hall, and Arjuna's Anjalika arrow took his head."
+    },
+    {
+      "id": "mace-duel",
+      "order": 89,
+      "title": "The Mace Duel",
+      "subtitle": "The Last Duel at the Lake",
+      "type": "event",
+      "emblem": "mace",
+      "palette": "dusk",
+      "description": "His armies gone, Duryodhana cooled his burning body beneath the waters of Lake Dvaipayana until taunts drew him out for one final mace duel with Bhima, refereed by an outraged Balarama. Krishna slapped his own thigh as a signal, Bhima struck below the navel as vowed, and the broken prince still claimed the better death."
+    },
+    {
+      "id": "ashwatthama",
+      "order": 90,
+      "title": "Ashwatthama",
+      "subtitle": "The Cursed Immortal",
+      "type": "character",
+      "emblem": "serpent",
+      "palette": "forest",
+      "description": "Drona's son, born with a protective gem in his forehead and a cry like a horse that named him. After avenging his father with a massacre of the sleeping, he aimed Brahma's weapon at an unborn child and was cursed by Krishna to wander the earth for three thousand years, wounded and alone."
+    },
+    {
+      "id": "night-raid",
+      "order": 91,
+      "title": "Ashwatthama's Night Raid",
+      "subtitle": "The Sleeping Camp",
+      "type": "event",
+      "emblem": "moon",
+      "palette": "dusk",
+      "description": "Watching an owl slaughter sleeping crows, Ashwatthama found his plan: with Kripa and Kritavarma holding the gates and fire at his back, he passed a dreadful figure of Shiva at the threshold and butchered the Pandava camp in its sleep. Dhrishtadyumna, Shikhandi, and the five young sons of Draupadi died without battle, the war's last atrocity."
+    },
+    {
+      "id": "brahmastra",
+      "order": 92,
+      "title": "Brahmastra",
+      "subtitle": "The Creator's Fire",
+      "type": "artifact",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "The mantra-borne weapon of Brahma, capable of scorching creation, which both Arjuna and Ashwatthama unleashed in their final confrontation. Commanded by the sages to withdraw them, Arjuna could and did; Ashwatthama could not, and bent his weapon into the womb of Uttara to end the Pandava line."
+    },
+    {
+      "id": "ashwatthamas-mani",
+      "order": 93,
+      "title": "Ashwatthama's Mani",
+      "subtitle": "The Forehead Gem",
+      "type": "artifact",
+      "emblem": "star",
+      "palette": "ocean",
+      "description": "The jewel born in Ashwatthama's brow, guarding its bearer from weapons, hunger, and fear. Demanded as the price of his life after the night raid, it was prised out and set on Yudhishthira's head at Draupadi's word, leaving its owner to his three thousand years of wandering."
+    },
+    {
+      "id": "kapi-dhwaja",
+      "order": 94,
+      "title": "Kapi Dhwaja",
+      "subtitle": "The Banner of Hanuman",
+      "type": "artifact",
+      "emblem": "chariot",
+      "palette": "royal",
+      "description": "Arjuna's divine chariot from Agni flew the banner on which Hanuman himself sat through every battle, roaring terror into enemy ranks. When the war ended Krishna dismounted last, Hanuman departed, and the chariot burst into flame, having been held whole all along only by their presence."
+    },
+    {
+      "id": "yuyutsu",
+      "order": 95,
+      "title": "Yuyutsu",
+      "subtitle": "The Kaurava Who Crossed Over",
+      "type": "character",
+      "emblem": "shield",
+      "palette": "dawn",
+      "description": "Dhritarashtra's son by a serving woman, raised among the hundred yet never one of them. When Yudhishthira invited any to change sides before the first arrow, Yuyutsu alone walked across the field, and so became the only son of Dhritarashtra to survive the war and serve the new age."
+    },
+    {
+      "id": "end-of-the-yadavas",
+      "order": 96,
+      "title": "The End of the Yadavas",
+      "subtitle": "Mausala, the Iron Curse",
+      "type": "event",
+      "emblem": "mace",
+      "palette": "ocean",
+      "description": "Thirty-six years after the war, Gandhari's curse ripened: a mocking prank brought a brahmin's curse of an iron pestle, ground to powder and cast in the sea, which grew as razor grass on the shore of Prabhasa. In one drunken brawl the Yadavas slaughtered each other with it, Krishna was slain by a hunter's arrow in his heel, and the sea took Dwarka."
+    },
+    {
+      "id": "parikshit",
+      "order": 97,
+      "title": "Parikshit",
+      "subtitle": "The Child Saved in the Womb",
+      "type": "character",
+      "emblem": "crown",
+      "palette": "royal",
+      "description": "Abhimanyu's son, struck by the Brahmastra before birth and delivered stillborn, until Krishna revived him by an act of truth, his last great deed. The sole surviving thread of the Kuru line, he was crowned when the Pandavas departed and reigned until a sage's curse sent the serpent Takshaka to find him."
+    },
+    {
+      "id": "dharma",
+      "order": 98,
+      "title": "Dharma",
+      "subtitle": "The Subtle Path",
+      "type": "concept",
+      "emblem": "lotus",
+      "palette": "dawn",
+      "description": "The epic's true protagonist: righteousness so subtle that every hero fails it somewhere and every villain can quote it. It tests Yudhishthira as a Yaksha at a lake and as a dog at heaven's gate, and Vidura states its law plainly: dharma protects those who protect it, and destroys those who destroy it."
+    },
+    {
+      "id": "final-journey",
+      "order": 99,
+      "title": "The Final Journey",
+      "subtitle": "Mahaprasthana",
+      "type": "event",
+      "emblem": "mountain",
+      "palette": "dusk",
+      "description": "After thirty-six years of rule the Pandavas renounced everything and walked north into the Himalayas toward Meru, a dog at their heels. One by one they fell, Draupadi first, each undone by a named flaw, until only Yudhishthira remained to refuse heaven itself unless the dog, his father Dharma in disguise, could enter too."
+    },
+    {
+      "id": "janamejaya",
+      "order": 100,
+      "title": "Janamejaya",
+      "subtitle": "The Listener King",
+      "type": "character",
+      "emblem": "serpent",
+      "palette": "flame",
+      "description": "Parikshit's son, who launched a great snake sacrifice to avenge his father's death by Takshaka's bite, halted at the last moment by the boy sage Astika. At that rite Vaishampayana recited Vyasa's epic to the king, and so the Mahabharata reached the world as a story told over a fire meant for vengeance."
+    }
+  ]
+}

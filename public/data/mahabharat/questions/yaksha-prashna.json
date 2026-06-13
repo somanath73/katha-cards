@@ -1,0 +1,245 @@
+{
+  "cardId": "yaksha-prashna",
+  "questions": [
+    {
+      "id": "yaksha-prashna-q01",
+      "difficulty": "easy",
+      "q": "Which Pandava answered all of the Yaksha's riddles at the enchanted lake?",
+      "options": ["Arjuna", "Yudhishthira", "Bhima", "Nakula"],
+      "answer": 1,
+      "explanation": "Yudhishthira, the eldest Pandava, answered every riddle correctly and won back his brothers' lives."
+    },
+    {
+      "id": "yaksha-prashna-q02",
+      "difficulty": "easy",
+      "q": "Who was the Yaksha of the lake finally revealed to be?",
+      "options": ["Indra, the king of the gods", "Shiva, the great destroyer", "Dharma, the god of righteousness", "Varuna, lord of the waters"],
+      "answer": 2,
+      "explanation": "The Yaksha was Dharma, Yudhishthira's own divine father, who had come to test his son."
+    },
+    {
+      "id": "yaksha-prashna-q03",
+      "difficulty": "easy",
+      "q": "What happened to the four Pandava brothers who drank from the lake without answering the guardian's questions?",
+      "options": ["They fell down dead beside the water", "They were turned into motionless stone", "They forgot their names and their kin", "They were dragged beneath the surface"],
+      "answer": 0,
+      "explanation": "Each brother who ignored the warning and drank collapsed lifeless on the shore, until Dharma later revived them."
+    },
+    {
+      "id": "yaksha-prashna-q04",
+      "difficulty": "easy",
+      "q": "Where did the Yaksha put his questions to Yudhishthira?",
+      "options": ["On a high mountain pass", "At a river crossing", "Beside an enchanted lake", "At a spring in the desert"],
+      "answer": 2,
+      "explanation": "The encounter took place at a forest lake whose invisible guardian struck down anyone who drank without answering him."
+    },
+    {
+      "id": "yaksha-prashna-q05",
+      "difficulty": "easy",
+      "q": "When the Yaksha offered to revive a single brother, whom did Yudhishthira choose?",
+      "options": ["Bhima", "Arjuna", "Sahadeva", "Nakula"],
+      "answer": 3,
+      "explanation": "Yudhishthira asked for Nakula, Madri's son, passing over his own full brothers Bhima and Arjuna."
+    },
+    {
+      "id": "yaksha-prashna-q06",
+      "difficulty": "easy",
+      "q": "According to Yudhishthira's answer, what is faster than the wind?",
+      "options": ["The glance of the eye", "The mind", "An arrow loosed in anger", "Garuda in full flight"],
+      "answer": 1,
+      "explanation": "Yudhishthira answered that the mind travels faster than the wind."
+    },
+    {
+      "id": "yaksha-prashna-q07",
+      "difficulty": "easy",
+      "q": "During which period of the Pandavas' lives did the Yaksha's questioning take place?",
+      "options": ["Near the end of the twelve-year forest exile", "During the year of disguise at Virata", "Just after the dice game at Hastinapura", "During the war at Kurukshetra"],
+      "answer": 0,
+      "explanation": "The episode closes the twelve years in the forest, immediately before the hidden thirteenth year began."
+    },
+    {
+      "id": "yaksha-prashna-q08",
+      "difficulty": "easy",
+      "q": "Why did the Pandavas go looking for the lake in the first place?",
+      "options": ["They were on pilgrimage to bathe in holy waters", "They were tracking a wounded tiger to its lair", "They grew thirsty while pursuing a deer through the forest", "They were searching for a sage's hidden hermitage"],
+      "answer": 2,
+      "explanation": "Exhausted from chasing a deer on a brahmin's behalf, the thirsty brothers went seeking water one by one."
+    },
+    {
+      "id": "yaksha-prashna-q09",
+      "difficulty": "easy",
+      "q": "In what form did the lake's guardian first speak its warning?",
+      "options": ["As a great serpent coiled on the bank", "As a crane standing by the water", "As an old brahmin seated on the shore", "As a voice rolling from a storm cloud"],
+      "answer": 1,
+      "explanation": "The guardian first spoke as a crane by the lake before showing its towering Yaksha form, and at last revealing itself as Dharma."
+    },
+    {
+      "id": "yaksha-prashna-q10",
+      "difficulty": "easy",
+      "q": "What did Yudhishthira name as the greatest wonder in the world?",
+      "options": ["That fire burns upward while water flows down", "That the sun rises without fail every day", "That kings wage war though all men must die", "That beings die every day, yet the living wish to live forever"],
+      "answer": 3,
+      "explanation": "Yudhishthira said the greatest wonder is that people watch others go to death daily yet believe themselves permanent."
+    },
+    {
+      "id": "yaksha-prashna-q11",
+      "difficulty": "medium",
+      "q": "Which brother was sent first to fetch water from the lake?",
+      "options": ["Nakula", "Sahadeva", "Arjuna", "Bhima"],
+      "answer": 0,
+      "explanation": "Nakula went first, drank without heeding the voice, and was the first to fall."
+    },
+    {
+      "id": "yaksha-prashna-q12",
+      "difficulty": "medium",
+      "q": "In what order did the four brothers fall at the lake?",
+      "options": ["Bhima, Arjuna, Nakula, Sahadeva", "Arjuna, Bhima, Sahadeva, Nakula", "Nakula, Sahadeva, Arjuna, Bhima", "Sahadeva, Nakula, Bhima, Arjuna"],
+      "answer": 2,
+      "explanation": "Nakula fell first, then Sahadeva, then Arjuna, and finally the mighty Bhima."
+    },
+    {
+      "id": "yaksha-prashna-q13",
+      "difficulty": "medium",
+      "q": "Why did Yudhishthira choose to revive Nakula rather than Bhima or Arjuna?",
+      "options": ["Because Nakula was the youngest and most innocent", "So that Kunti and Madri would each keep one living son", "Because Nakula had fallen first and waited longest", "Because the twins shared a single life between them"],
+      "answer": 1,
+      "explanation": "Yudhishthira reasoned that since he, Kunti's son, lived, fairness demanded that Madri also have one surviving son."
+    },
+    {
+      "id": "yaksha-prashna-q14",
+      "difficulty": "medium",
+      "q": "What had the fleeing deer carried off, setting the Pandavas on their chase?",
+      "options": ["A hermit's sacred water pot", "The king's ceremonial bow", "A villager's bundle of grain", "A brahmin's fire-drilling sticks caught in its antlers"],
+      "answer": 3,
+      "explanation": "A deer ran off with a brahmin's arani, the fire-drilling sticks needed for his rites, and the brothers chased it to recover them."
+    },
+    {
+      "id": "yaksha-prashna-q15",
+      "difficulty": "medium",
+      "q": "Which boon from the Yaksha proved vital for the Pandavas' coming thirteenth year?",
+      "options": ["That they would pass their year of disguise unrecognized", "That their weapons would never fail them in battle", "That Duryodhana's spies would be struck blind", "That King Virata would welcome them as kinsmen"],
+      "answer": 0,
+      "explanation": "Dharma granted that the Pandavas would remain undiscovered during the year they had to live in disguise."
+    },
+    {
+      "id": "yaksha-prashna-q16",
+      "difficulty": "medium",
+      "q": "What did Yudhishthira say is heavier than the earth?",
+      "options": ["A king's burden of duty", "A debt left unpaid", "One's mother", "A vow that has been broken"],
+      "answer": 2,
+      "explanation": "Yudhishthira answered that the mother is heavier, weightier in worth, than the earth itself."
+    },
+    {
+      "id": "yaksha-prashna-q17",
+      "difficulty": "medium",
+      "q": "What did Yudhishthira say stands higher than the heavens?",
+      "options": ["A guru's wisdom", "One's father", "Truth itself", "The soul of the righteous"],
+      "answer": 1,
+      "explanation": "Paired with the mother being heavier than the earth, Yudhishthira said the father is higher than the sky."
+    },
+    {
+      "id": "yaksha-prashna-q18",
+      "difficulty": "medium",
+      "q": "By what, according to Yudhishthira's answer, is a person truly a brahmin?",
+      "options": ["By birth in a brahmin family", "By mastery of the four Vedas", "By years of harsh austerity", "By right conduct alone"],
+      "answer": 3,
+      "explanation": "Yudhishthira declared that conduct, not birth or learning, makes one a true brahmin."
+    },
+    {
+      "id": "yaksha-prashna-q19",
+      "difficulty": "medium",
+      "q": "Asked to define the true path of dharma, what did Yudhishthira answer?",
+      "options": ["The path walked by the great is the path to follow", "The path laid down in the oldest of the Vedas", "The path each conscience chooses for itself", "The path of sacrifice prescribed by the priests"],
+      "answer": 0,
+      "explanation": "He said reasoning is inconclusive and scriptures conflict, so the way trodden by the great, the mahajana, is the path."
+    },
+    {
+      "id": "yaksha-prashna-q20",
+      "difficulty": "medium",
+      "q": "Whom did Yudhishthira describe as the truly happy man?",
+      "options": ["The king whose enemies have all submitted", "The renunciate who owns nothing at all", "The man free of debt and exile who cooks a simple meal at home", "The householder blessed with many sons"],
+      "answer": 2,
+      "explanation": "Yudhishthira said happiness belongs to one who, neither indebted nor away from home, cooks his own humble vegetables."
+    },
+    {
+      "id": "yaksha-prashna-q21",
+      "difficulty": "medium",
+      "q": "What did Yudhishthira say is more numerous than the blades of grass?",
+      "options": ["The stars of the night sky", "The thoughts that rise in the mind", "The sorrows of the world", "The desires of living men"],
+      "answer": 1,
+      "explanation": "Yudhishthira answered that thoughts outnumber even the blades of grass."
+    },
+    {
+      "id": "yaksha-prashna-q22",
+      "difficulty": "medium",
+      "q": "What warning did the unseen guardian give each thirsty brother?",
+      "options": ["That the lake was poisoned beyond any cure", "That a curse bound any kshatriya who touched it", "That drinking would cost them all their memories", "That the water was his, to be drunk only after answering his questions"],
+      "answer": 3,
+      "explanation": "The voice claimed the lake as its own and demanded answers before anyone drank, a warning four brothers fatally ignored."
+    },
+    {
+      "id": "yaksha-prashna-q23",
+      "difficulty": "hard",
+      "q": "In which book of the Mahabharata does the Yaksha Prashna episode appear?",
+      "options": ["Virata Parva", "Vana (Aranya) Parva", "Udyoga Parva", "Sabha Parva"],
+      "answer": 1,
+      "explanation": "The episode closes the Vana Parva, also called the Aranya Parva, the book of the forest exile."
+    },
+    {
+      "id": "yaksha-prashna-q24",
+      "difficulty": "hard",
+      "q": "Asked by the Yaksha what the news of the world is, how did Yudhishthira reply?",
+      "options": ["That Time cooks all beings in the world's cauldron, with the sun as fire and days as fuel", "That the gods war eternally with the demons, and the earth is their battlefield", "That kingdoms rise and fall while the Ganga flows on unchanged", "That death stalks the unrighteous while dharma shelters the good"],
+      "answer": 0,
+      "explanation": "His famous answer pictures Time as a cook stirring all creatures in the cauldron of the world."
+    },
+    {
+      "id": "yaksha-prashna-q25",
+      "difficulty": "hard",
+      "q": "By giving up what, said Yudhishthira, does a person become beloved by all?",
+      "options": ["Wealth", "Anger", "Pride", "Desire"],
+      "answer": 2,
+      "explanation": "Renouncing pride makes one agreeable to all; he added that giving up anger ends grief and giving up desire makes one rich."
+    },
+    {
+      "id": "yaksha-prashna-q26",
+      "difficulty": "hard",
+      "q": "When Dharma offered Yudhishthira a boon, what did he request first?",
+      "options": ["The safe return of his lost kingdom", "Invincibility for his brothers in the coming war", "A promise that Draupadi would never again be shamed", "The return of the brahmin's fire-sticks taken by the deer"],
+      "answer": 3,
+      "explanation": "True to the errand that began it all, Yudhishthira first asked that the brahmin's arani be restored so his rites would not suffer."
+    },
+    {
+      "id": "yaksha-prashna-q27",
+      "difficulty": "hard",
+      "q": "According to Yudhishthira's answers, what is the friend bestowed on a man by the gods?",
+      "options": ["His own steadfast mind", "His wife", "His eldest son", "His accumulated merit"],
+      "answer": 1,
+      "explanation": "Yudhishthira answered that the wife is the companion given to man by the gods."
+    },
+    {
+      "id": "yaksha-prashna-q28",
+      "difficulty": "hard",
+      "q": "How did Yudhishthira first learn that there was water nearby in the forest?",
+      "options": ["Nakula climbed a tree and saw water-loving plants and cranes", "A passing hermit pointed the way to the hidden lake", "Bhima caught the scent of lotus blossoms on the wind", "A flight of swans crossed the sky toward the water"],
+      "answer": 0,
+      "explanation": "At Yudhishthira's bidding Nakula climbed a tree, spotted signs of water such as cranes and moisture-loving trees, and went toward them."
+    },
+    {
+      "id": "yaksha-prashna-q29",
+      "difficulty": "hard",
+      "q": "What did Yudhishthira say rescues a man in danger?",
+      "options": ["His kinsmen", "His wealth", "His courage", "His weapons"],
+      "answer": 2,
+      "explanation": "Yudhishthira answered that courage, steadfastness of spirit, is what saves one in peril."
+    },
+    {
+      "id": "yaksha-prashna-q30",
+      "difficulty": "hard",
+      "q": "After reviving all four brothers, what reason did the Yaksha give for the entire encounter?",
+      "options": ["To punish the Pandavas for hunting in his forest", "To win Yudhishthira as guardian of the sacred lake", "To prove no mortal could resist the lake's waters", "He was Dharma, come to test his son's righteousness"],
+      "answer": 3,
+      "explanation": "Revealing himself as Dharma, the god said he had come to see his son and test his devotion to righteousness, then revived all four brothers."
+    }
+  ]
+}

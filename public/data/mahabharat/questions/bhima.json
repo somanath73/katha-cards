@@ -1,0 +1,245 @@
+{
+  "cardId": "bhima",
+  "questions": [
+    {
+      "id": "bhima-q01",
+      "difficulty": "easy",
+      "q": "Which god fathered Bhima?",
+      "options": ["Indra, lord of the heavens", "Vayu, the wind god", "Agni, the fire god", "Surya, the sun god"],
+      "answer": 1,
+      "explanation": "Kunti invoked Vayu with Durvasa's mantra, and Bhima was born with his father's storm-like strength."
+    },
+    {
+      "id": "bhima-q02",
+      "difficulty": "easy",
+      "q": "What weapon was Bhima most famous for wielding?",
+      "options": ["The bow", "The sword", "The mace", "The spear"],
+      "answer": 2,
+      "explanation": "Bhima was the greatest mace fighter among the Pandavas, trained in the gada by Balarama himself."
+    },
+    {
+      "id": "bhima-q03",
+      "difficulty": "easy",
+      "q": "What does Bhima's famous epithet Vrikodara mean?",
+      "options": ["The wolf-bellied", "The iron-armed", "The storm-voiced", "The lion-hearted"],
+      "answer": 0,
+      "explanation": "Vrikodara means wolf-bellied, a nod to Bhima's lean waist and enormous, never-satisfied appetite."
+    },
+    {
+      "id": "bhima-q04",
+      "difficulty": "easy",
+      "q": "Whose blood did Bhima drink on the seventeenth day of the Kurukshetra war?",
+      "options": ["Duryodhana's", "Shakuni's", "Karna's", "Dushasana's"],
+      "answer": 3,
+      "explanation": "Bhima tore open Dushasana's chest and drank his blood, fulfilling the vow he swore when Draupadi was dragged by her hair."
+    },
+    {
+      "id": "bhima-q05",
+      "difficulty": "easy",
+      "q": "Whose thighs did Bhima smash in the final mace duel of the war?",
+      "options": ["Duryodhana's", "Dushasana's", "Shakuni's", "Jayadratha's"],
+      "answer": 0,
+      "explanation": "Bhima shattered Duryodhana's thighs at Lake Dvaipayana, keeping the oath he swore after Duryodhana bared his thigh to Draupadi."
+    },
+    {
+      "id": "bhima-q06",
+      "difficulty": "easy",
+      "q": "What was Bhima's position by birth among the five Pandava brothers?",
+      "options": ["Eldest", "Second", "Third", "Fourth"],
+      "answer": 1,
+      "explanation": "Bhima was the second Pandava, born after Yudhishthira and before Arjuna."
+    },
+    {
+      "id": "bhima-q07",
+      "difficulty": "easy",
+      "q": "Who was Bhima's mother?",
+      "options": ["Madri", "Gandhari", "Kunti", "Satyavati"],
+      "answer": 2,
+      "explanation": "Kunti bore Bhima as her second son after summoning the wind god Vayu."
+    },
+    {
+      "id": "bhima-q08",
+      "difficulty": "easy",
+      "q": "What name did Bhima take while serving as a cook in King Virata's palace?",
+      "options": ["Kanka", "Granthika", "Tantipala", "Vallabha"],
+      "answer": 3,
+      "explanation": "During the thirteenth year of hiding Bhima worked in Virata's kitchens as the cook Vallabha."
+    },
+    {
+      "id": "bhima-q09",
+      "difficulty": "easy",
+      "q": "Which rakshasi became Bhima's wife in the forest after the escape from Varanavata?",
+      "options": ["Hidimbi", "Ulupi", "Chitrangada", "Sudeshna"],
+      "answer": 0,
+      "explanation": "Hidimbi, sent by her brother to kill the sleeping Pandavas, fell in love with Bhima and married him on Kunti's terms."
+    },
+    {
+      "id": "bhima-q10",
+      "difficulty": "easy",
+      "q": "Who was Bhima's half-rakshasa son, famed for his night-time illusions in the great war?",
+      "options": ["Barbarika", "Ghatotkacha", "Iravan", "Alambusha"],
+      "answer": 1,
+      "explanation": "Ghatotkacha, Bhima's son by Hidimbi, fought so fiercely by night that Karna had to spend Indra's dart to stop him."
+    },
+    {
+      "id": "bhima-q11",
+      "difficulty": "medium",
+      "q": "Who poisoned the boy Bhima and threw his unconscious body into the river?",
+      "options": ["Shakuni", "Dushasana", "Duryodhana", "Karna"],
+      "answer": 2,
+      "explanation": "The young Duryodhana, jealous of Bhima's strength, fed him poisoned food and cast him into the Ganga."
+    },
+    {
+      "id": "bhima-q12",
+      "difficulty": "medium",
+      "q": "What did Bhima gain when he sank into the realm of the nagas as a boy?",
+      "options": ["The Pashupatastra of Shiva", "A mace forged by Vishvakarma", "Immunity to every blade", "The strength of ten thousand elephants"],
+      "answer": 3,
+      "explanation": "The serpent king Vasuki had Bhima drink a divine elixir, and he rose from the naga realm with the strength of ten thousand elephants."
+    },
+    {
+      "id": "bhima-q13",
+      "difficulty": "medium",
+      "q": "Which man-eating demon did Bhima kill to save the town of Ekachakra?",
+      "options": ["Bakasura", "Jatasura", "Kirmira", "Alambusha"],
+      "answer": 0,
+      "explanation": "Bhima ate the cartload of tribute meant for Bakasura, broke the demon's back, and dumped the body at the town gate."
+    },
+    {
+      "id": "bhima-q14",
+      "difficulty": "medium",
+      "q": "Who taught Bhima the art of mace fighting?",
+      "options": ["Drona", "Balarama", "Kripa", "Bhishma"],
+      "answer": 1,
+      "explanation": "Balarama, Krishna's elder brother, trained both Bhima and Duryodhana in the mace and refused to take sides between them."
+    },
+    {
+      "id": "bhima-q15",
+      "difficulty": "medium",
+      "q": "How did Bhima finally kill the emperor Jarasandha of Magadha?",
+      "options": ["He crushed his skull with the mace", "He strangled him after days of wrestling", "He tore his body in two and flung the halves apart", "He broke his back across his knee"],
+      "answer": 2,
+      "explanation": "Krishna signalled by splitting a blade of grass and tossing the halves in opposite directions, so Bhima tore apart the king who had been born in two halves."
+    },
+    {
+      "id": "bhima-q16",
+      "difficulty": "medium",
+      "q": "Whom did Bhima crush to death in a dance hall for harassing Draupadi at Virata's court?",
+      "options": ["Jayadratha", "Uluka", "Susharma", "Kichaka"],
+      "answer": 3,
+      "explanation": "Bhima lured Kichaka, the queen's brother, to a midnight tryst in the dance hall and crushed him into a ball of flesh."
+    },
+    {
+      "id": "bhima-q17",
+      "difficulty": "medium",
+      "q": "Which flower did Bhima set out to find because Draupadi asked for it during the exile?",
+      "options": ["The Saugandhika lotus", "The Parijata blossom", "The Brahma-kamala", "The Kalpavriksha bloom"],
+      "answer": 0,
+      "explanation": "A wind-blown Saugandhika lotus delighted Draupadi, and Bhima stormed off toward Kubera's lake to gather more."
+    },
+    {
+      "id": "bhima-q18",
+      "difficulty": "medium",
+      "q": "Which elder brother, also a son of Vayu, blocked Bhima's path with his tail during the flower quest?",
+      "options": ["Garuda", "Hanuman", "Jambavan", "Sugriva"],
+      "answer": 1,
+      "explanation": "The aged Hanuman lay across the path, and Bhima, unable to lift even his brother's tail, learned humility before receiving his blessing."
+    },
+    {
+      "id": "bhima-q19",
+      "difficulty": "medium",
+      "q": "Where did Bhima swear his two terrible vows to drink Dushasana's blood and break Duryodhana's thigh?",
+      "options": ["On the field of Kurukshetra", "In the Kamyaka forest", "In the dice hall at Hastinapura", "At the court of Indraprastha"],
+      "answer": 2,
+      "explanation": "Bhima thundered both vows in the assembly hall of Hastinapura as Draupadi was humiliated after the dice game."
+    },
+    {
+      "id": "bhima-q20",
+      "difficulty": "medium",
+      "q": "After the war, what did the grieving Dhritarashtra crush in the embrace he meant for Bhima?",
+      "options": ["Bhima's battle chariot", "A stone pillar of the court", "Bhima's great mace", "An iron statue of Bhima"],
+      "answer": 3,
+      "explanation": "Krishna, sensing the blind king's rage, pushed forward an iron statue of Bhima, which Dhritarashtra crushed to pieces in his arms."
+    },
+    {
+      "id": "bhima-q21",
+      "difficulty": "medium",
+      "q": "How many of the hundred Kaurava brothers did Bhima kill, as he had vowed?",
+      "options": ["All one hundred", "Ninety-nine of them", "Half of them", "Only the eldest two"],
+      "answer": 0,
+      "explanation": "Bhima kept his oath to the letter, slaying every one of Gandhari's hundred sons during the eighteen days of war."
+    },
+    {
+      "id": "bhima-q22",
+      "difficulty": "medium",
+      "q": "What was the name of Bhima's conch, sounded at the opening of the Kurukshetra war?",
+      "options": ["Anantavijaya", "Paundra", "Sughosha", "Manipushpaka"],
+      "answer": 1,
+      "explanation": "Bhima blew the great conch Paundra, one of the five named shells the Pandavas sounded in answer to Krishna's Panchajanya."
+    },
+    {
+      "id": "bhima-q23",
+      "difficulty": "hard",
+      "q": "According to Yudhishthira, what flaw caused Bhima to fall on the final journey to the Himalayas?",
+      "options": ["He had killed kinsmen in anger", "He loved Draupadi above his brothers", "He ate without thought for others and boasted of his strength", "He struck Duryodhana below the navel"],
+      "answer": 2,
+      "explanation": "On the Mahaprasthana, Yudhishthira explained that Bhima fell because of his gluttony and his boasts that none equalled his strength."
+    },
+    {
+      "id": "bhima-q24",
+      "difficulty": "hard",
+      "q": "Who was Bhima's son by Draupadi, one of the five Upapandavas?",
+      "options": ["Sutasoma", "Shatanika", "Shrutasena", "Prativindhya"],
+      "answer": 0,
+      "explanation": "Sutasoma was Bhima's son by Draupadi; like his four brothers he was slain in Ashwatthama's night raid."
+    },
+    {
+      "id": "bhima-q25",
+      "difficulty": "hard",
+      "q": "Which direction did Bhima conquer in the campaigns before Yudhishthira's Rajasuya sacrifice?",
+      "options": ["The north", "The west", "The south", "The east"],
+      "answer": 3,
+      "explanation": "Bhima marched east, subduing kingdoms as far as the eastern seas while his brothers took the other three directions."
+    },
+    {
+      "id": "bhima-q26",
+      "difficulty": "hard",
+      "q": "What did Bhima kill on the fifteenth day of the war to make the cry 'Ashwatthama is dead' technically true?",
+      "options": ["A horse named Ashwatthama", "An elephant named Ashwatthama", "A Kaurava soldier named Ashwatthama", "A war banner bearing Ashwatthama's name"],
+      "answer": 1,
+      "explanation": "Bhima slew an elephant named Ashwatthama so the announcement of the name would break Drona's will without being an outright lie."
+    },
+    {
+      "id": "bhima-q27",
+      "difficulty": "hard",
+      "q": "Which cursed ancestor, in the form of a giant serpent, seized Bhima during the forest exile?",
+      "options": ["Takshaka", "Karkotaka", "Nahusha", "Ashvasena"],
+      "answer": 2,
+      "explanation": "Nahusha, an ancestor of the Kurus fallen through Agastya's curse, coiled around Bhima and released him only after Yudhishthira answered his questions."
+    },
+    {
+      "id": "bhima-q28",
+      "difficulty": "hard",
+      "q": "Why did Balarama rage against Bhima at the end of the mace duel with Duryodhana?",
+      "options": ["Bhima struck Duryodhana below the navel, violating the code of mace combat", "Bhima attacked before the duel had formally begun", "Bhima used a mace of iron against one of wood", "Bhima fought on after the sun had set"],
+      "answer": 0,
+      "explanation": "Mace rules forbade blows below the navel, and Balarama raised his plough in fury until Krishna calmed him by recalling Bhima's old vow."
+    },
+    {
+      "id": "bhima-q29",
+      "difficulty": "hard",
+      "q": "Which rakshasa, a kinsman of Bakasura, did Bhima slay in the Kamyaka forest at the start of the twelve-year exile?",
+      "options": ["Alambusha", "Hidimba", "Jatasura", "Kirmira"],
+      "answer": 3,
+      "explanation": "Kirmira, Baka's brother, blocked the exiles' path seeking revenge, and Bhima broke him in a night battle at the start of the forest years."
+    },
+    {
+      "id": "bhima-q30",
+      "difficulty": "hard",
+      "q": "Who was Bhima's grandson, the warrior said to be able to end the entire war with just three arrows?",
+      "options": ["Iravan", "Anjanaparvan", "Barbarika", "Vrishaketu"],
+      "answer": 2,
+      "explanation": "Barbarika, Ghatotkacha's son, was bound to fight for the weaker side, so Krishna asked for his head before the war, a tale told mainly in the epic's later tradition."
+    }
+  ]
+}

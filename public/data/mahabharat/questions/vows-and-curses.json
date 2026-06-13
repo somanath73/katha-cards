@@ -1,0 +1,245 @@
+{
+  "cardId": "vows-and-curses",
+  "questions": [
+    {
+      "id": "vows-and-curses-q01",
+      "difficulty": "easy",
+      "q": "What twin vow did Devavrata swear to win Satyavati for his father?",
+      "options": ["To conquer all kings and crown Satyavati's son", "To serve as regent until a grandson came of age", "To renounce the throne and remain celibate for life", "To guard the Ganga and never cross it again"],
+      "answer": 2,
+      "explanation": "Devavrata gave up his claim to the throne and swore lifelong celibacy so no son of his could ever contest it."
+    },
+    {
+      "id": "vows-and-curses-q02",
+      "difficulty": "easy",
+      "q": "Whose blood did Bhima vow to drink?",
+      "options": ["Dushasana's", "Duryodhana's", "Shakuni's", "Karna's"],
+      "answer": 0,
+      "explanation": "Bhima swore in the dice hall to drink the blood of Dushasana, who had dragged Draupadi by her hair."
+    },
+    {
+      "id": "vows-and-curses-q03",
+      "difficulty": "easy",
+      "q": "Whose thighs did Bhima swear to smash with his mace?",
+      "options": ["Dushasana's", "Duryodhana's", "Jayadratha's", "Karna's"],
+      "answer": 1,
+      "explanation": "When Duryodhana bared his thigh at Draupadi, Bhima vowed to shatter it, and did so in their final duel."
+    },
+    {
+      "id": "vows-and-curses-q04",
+      "difficulty": "easy",
+      "q": "Arjuna vowed to kill which king by sunset or enter the fire himself?",
+      "options": ["Bhagadatta", "Shakuni", "Karna", "Jayadratha"],
+      "answer": 3,
+      "explanation": "After Abhimanyu's death, Arjuna swore to slay Jayadratha before the next sunset or immolate himself."
+    },
+    {
+      "id": "vows-and-curses-q05",
+      "difficulty": "easy",
+      "q": "The dying sage Kindama cursed which king to die in a loving embrace?",
+      "options": ["Shantanu", "Dhritarashtra", "Vichitravirya", "Pandu"],
+      "answer": 3,
+      "explanation": "Shot while in the form of a deer, Kindama cursed Pandu that love's embrace would be his death."
+    },
+    {
+      "id": "vows-and-curses-q06",
+      "difficulty": "easy",
+      "q": "Whom did Gandhari curse after the war for letting the slaughter happen?",
+      "options": ["Ashwatthama", "Krishna", "Shakuni", "Yudhishthira"],
+      "answer": 1,
+      "explanation": "Grieving over her hundred dead sons, Gandhari cursed Krishna, who accepted the doom with a smile."
+    },
+    {
+      "id": "vows-and-curses-q07",
+      "difficulty": "easy",
+      "q": "What rare boon did Shantanu grant his son Devavrata?",
+      "options": ["The power to choose the hour of his own death", "Invincibility against all mortal weapons", "Memory of all his former births", "Mastery of every astra without a guru"],
+      "answer": 0,
+      "explanation": "In gratitude for the terrible vow, Shantanu granted Devavrata ichchha-mrityu, death only at his own chosen hour."
+    },
+    {
+      "id": "vows-and-curses-q08",
+      "difficulty": "easy",
+      "q": "Which Pandava vowed to kill Shakuni, the master of dice?",
+      "options": ["Bhima", "Nakula", "Sahadeva", "Arjuna"],
+      "answer": 2,
+      "explanation": "Sahadeva swore to slay Shakuni and kept the vow on the eighteenth day of the war."
+    },
+    {
+      "id": "vows-and-curses-q09",
+      "difficulty": "easy",
+      "q": "The apsara Urvashi cursed which hero when he refused her advances?",
+      "options": ["Bhima", "Arjuna", "Karna", "Yudhishthira"],
+      "answer": 1,
+      "explanation": "In Indra's heaven Arjuna honored Urvashi as a mother of his line, and the spurned apsara cursed him to lose his manhood."
+    },
+    {
+      "id": "vows-and-curses-q10",
+      "difficulty": "easy",
+      "q": "Parashurama cursed which student for concealing his true birth?",
+      "options": ["Drona", "Bhishma", "Ashwatthama", "Karna"],
+      "answer": 3,
+      "explanation": "Discovering that Karna was no brahmin, Parashurama cursed him to forget his weapon-lore at the hour of greatest need."
+    },
+    {
+      "id": "vows-and-curses-q11",
+      "difficulty": "medium",
+      "q": "What exactly did Parashurama's curse take from Karna?",
+      "options": ["The memory of his greatest weapon at the hour of direst need", "His golden armor and earrings of the sun", "His skill with the bow after sunset", "The loyalty of his charioteer in battle"],
+      "answer": 0,
+      "explanation": "The curse made the invocation of the supreme astra slip from Karna's mind exactly when his life depended on it."
+    },
+    {
+      "id": "vows-and-curses-q12",
+      "difficulty": "medium",
+      "q": "Why did a brahmin curse Karna that his chariot wheel would sink?",
+      "options": ["Karna had mocked his poverty before kings", "Karna refused him alms at the gate", "Karna's arrow had slain his cow by mischance", "Karna trampled his field with chariots"],
+      "answer": 2,
+      "explanation": "Karna accidentally killed a brahmin's cow while practicing, and the owner cursed his wheel to be swallowed by the earth in battle."
+    },
+    {
+      "id": "vows-and-curses-q13",
+      "difficulty": "medium",
+      "q": "How did Indra soften Urvashi's curse of unmanhood on Arjuna?",
+      "options": ["He revoked it for the price of the Vasavi dart", "He bound it to the night hours alone", "He limited it to a single year instead of a lifetime", "He transferred it onto a willing gandharva"],
+      "answer": 2,
+      "explanation": "Indra softened the curse to last only one year, foretelling that it would serve Arjuna well during the year of hiding."
+    },
+    {
+      "id": "vows-and-curses-q14",
+      "difficulty": "medium",
+      "q": "How did Urvashi's curse end up serving Arjuna?",
+      "options": ["It became his perfect cover as Brihannala during the hidden year", "It shielded him from Karna's infallible dart", "It let him pass unseen into Indra's heaven", "It excused him from his vow to kill Karna"],
+      "answer": 0,
+      "explanation": "Arjuna spent the thirteenth year as the dance teacher Brihannala in Virata's court, the curse turned to a disguise no one questioned."
+    },
+    {
+      "id": "vows-and-curses-q15",
+      "difficulty": "medium",
+      "q": "What did Gandhari's curse decree for Krishna and his people?",
+      "options": ["That Dwarka's walls would crumble within a year", "That Krishna would be reborn among the defeated Kurus", "That no Yadava would ever again hold a throne", "That the Yadavas would slay each other and Krishna die alone after thirty-six years"],
+      "answer": 3,
+      "explanation": "Thirty-six years later the Yadavas destroyed one another at Prabhasa and Krishna died alone, struck by a hunter's arrow."
+    },
+    {
+      "id": "vows-and-curses-q16",
+      "difficulty": "medium",
+      "q": "What were the precise terms of Kindama's curse on Pandu?",
+      "options": ["He would sire no heir and forfeit his crown", "Death would seize him in the act of loving embrace", "He would be reborn as the deer he had slain", "His skin would stay pale as ash forever"],
+      "answer": 1,
+      "explanation": "Because Pandu shot the sage while he was joined with his mate, the curse decreed that desire's embrace would kill him."
+    },
+    {
+      "id": "vows-and-curses-q17",
+      "difficulty": "medium",
+      "q": "What promise did Karna give Kunti before the war?",
+      "options": ["To meet her sons unarmed at Kurukshetra", "To reveal his birth to Duryodhana", "To shield Arjuna from every other warrior", "To spare four Pandavas and fight only Arjuna, leaving her five sons"],
+      "answer": 3,
+      "explanation": "Karna promised that whatever happened she would keep five sons, since either he or Arjuna would survive their duel."
+    },
+    {
+      "id": "vows-and-curses-q18",
+      "difficulty": "medium",
+      "q": "What curse did Yudhishthira pronounce after learning Karna's secret too late?",
+      "options": ["That dice would ruin every king who touched them", "That no woman would ever again keep a secret", "That Kunti would forget her firstborn's face", "That the sun would hide its face from the Kurus"],
+      "answer": 1,
+      "explanation": "Grieving that Kunti had hidden Karna's birth, Yudhishthira cursed all women to be unable to keep a secret."
+    },
+    {
+      "id": "vows-and-curses-q19",
+      "difficulty": "medium",
+      "q": "What had Arjuna vowed regarding any man who insulted his bow Gandiva?",
+      "options": ["To break the man's bow and burn it", "To exile himself from the man's presence", "To kill the insulter on the spot", "To renounce archery before the man"],
+      "answer": 2,
+      "explanation": "When a wounded Yudhishthira disparaged the Gandiva, Krishna's counsel let Arjuna satisfy the vow with harsh words instead of bloodshed."
+    },
+    {
+      "id": "vows-and-curses-q20",
+      "difficulty": "medium",
+      "q": "What former-life prayer is said to explain Draupadi's five husbands?",
+      "options": ["She asked Shiva five times for a worthy husband", "She prayed to the five elements for protectors", "She promised Agni five lifetimes of devotion", "She carried water for five sages through a drought"],
+      "answer": 0,
+      "explanation": "Vyasa told Drupada that the maiden's fivefold prayer to Shiva had ordained five husbands in her next birth."
+    },
+    {
+      "id": "vows-and-curses-q21",
+      "difficulty": "medium",
+      "q": "What did the gods do when Devavrata swore his terrible oath?",
+      "options": ["They veiled the sun in mourning for the Kurus", "They rained down flowers and hailed him as Bhishma", "They sent Indra to dissuade him from the vow", "They carved the vow in stone on Meru's flank"],
+      "answer": 1,
+      "explanation": "Flowers fell from heaven and voices cried Bhishma, the terrible one, giving Devavrata his immortal name."
+    },
+    {
+      "id": "vows-and-curses-q22",
+      "difficulty": "medium",
+      "q": "What vow drove Amba through years of penance and into the fire?",
+      "options": ["To win Shalva's love again in another life", "To rule Kashi as its unwed queen", "To become the cause of Bhishma's death", "To outshine her sisters Ambika and Ambalika"],
+      "answer": 2,
+      "explanation": "Rejected on every side, Amba lived for Bhishma's destruction and was reborn to stand before him as Shikhandi."
+    },
+    {
+      "id": "vows-and-curses-q23",
+      "difficulty": "hard",
+      "q": "Under whose curse was Dharma himself born as the mortal Vidura?",
+      "options": ["The sage Mandavya, unjustly punished on a stake", "The sage Gautama, betrayed by Indra's guile", "The sage Kindama, slain in a deer's form", "The sage Agastya, insulted at a feast"],
+      "answer": 0,
+      "explanation": "Animandavya, impaled though innocent, cursed Dharma to be born of a serving woman for punishing him beyond measure, and so Vidura was born."
+    },
+    {
+      "id": "vows-and-curses-q24",
+      "difficulty": "hard",
+      "q": "Which Yadava prince, dressed as a pregnant woman to mock visiting sages, was cursed to bear an iron pestle?",
+      "options": ["Pradyumna, son of Krishna", "Aniruddha, Krishna's grandson", "Kritavarma of the Bhojas", "Samba, son of Krishna and Jambavati"],
+      "answer": 3,
+      "explanation": "The sages' curse on Samba produced the iron pestle whose powdered fragments grew as the razor grass that armed the Yadavas' mutual slaughter."
+    },
+    {
+      "id": "vows-and-curses-q25",
+      "difficulty": "hard",
+      "q": "What curse did the boy Shringi hurl for the insult to his father, the sage Shamika?",
+      "options": ["That Takshaka's bite would kill King Parikshit within seven days", "That Janamejaya's sacrifice would never be completed", "That Hastinapura would be swallowed by the Ganga", "That the serpent race would perish in fire"],
+      "answer": 0,
+      "explanation": "Because Parikshit had draped a dead snake on the meditating Shamika, Shringi doomed the king to die of Takshaka's bite in seven days."
+    },
+    {
+      "id": "vows-and-curses-q26",
+      "difficulty": "hard",
+      "q": "Which vow did Krishna bend at Kurukshetra, to Bhishma's open joy?",
+      "options": ["His vow to speak only truth to Arjuna", "His vow never to leave the chariot in battle", "His vow to stay only one day with each army", "His vow to lift no weapon during the war"],
+      "answer": 3,
+      "explanation": "Krishna charged at Bhishma weapon in hand, a chariot wheel in many tellings, making true Bhishma's own vow to force him to arms."
+    },
+    {
+      "id": "vows-and-curses-q27",
+      "difficulty": "hard",
+      "q": "Which curse explains the python that crushed Bhima in the forest until Yudhishthira's answers freed it?",
+      "options": ["Vasishtha's curse upon the Vasus", "Agastya's curse upon King Nahusha", "Kadru's curse upon her serpent sons", "Brahma's curse upon the naga Takshaka"],
+      "answer": 1,
+      "explanation": "The python was Nahusha, the fallen king of heaven cursed by Agastya, released when Yudhishthira answered his questions on dharma."
+    },
+    {
+      "id": "vows-and-curses-q28",
+      "difficulty": "hard",
+      "q": "Why were the eight Vasus, Bhishma among them, cursed to mortal birth?",
+      "options": ["They mocked Brahma's order of creation", "They refused Indra's summons to war", "They stole the sage Vasishtha's cow of plenty", "They spied on Shiva and Parvati at play"],
+      "answer": 2,
+      "explanation": "Vasishtha cursed the Vasus for stealing his cow Nandini; seven were freed at birth by Ganga, but the chief offender had to live a full life as Bhishma."
+    },
+    {
+      "id": "vows-and-curses-q29",
+      "difficulty": "hard",
+      "q": "What standing vow of charity made Karna helpless before Indra's begging?",
+      "options": ["To feed a thousand brahmins each evening", "To grant any wish spoken in Duryodhana's name", "To gift gold to all who blessed the sun", "To refuse no one who asked while he worshipped the sun"],
+      "answer": 3,
+      "explanation": "Karna never refused a request made during his sun worship, so the disguised Indra timed his begging for the armor then."
+    },
+    {
+      "id": "vows-and-curses-q30",
+      "difficulty": "hard",
+      "q": "On which days of the war did Bhima keep his two terrible vows from the dice hall?",
+      "options": ["The tenth and the eleventh", "The seventeenth and the eighteenth", "The fourteenth and the fifteenth", "The thirteenth and the sixteenth"],
+      "answer": 1,
+      "explanation": "Bhima drank Dushasana's blood on the seventeenth day and broke Duryodhana's thighs on the eighteenth."
+    }
+  ]
+}

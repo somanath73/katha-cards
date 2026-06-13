@@ -1,0 +1,395 @@
+{
+  "cardId": "ashwatthamas-mani",
+  "questions": [
+    {
+      "id": "ashwatthamas-mani-q01",
+      "difficulty": "easy",
+      "q": "Where on Ashwatthama's body was his famous gem located?",
+      "options": [
+        "Set in the hilt of his sword",
+        "Hung on a chain at his throat",
+        "Born in his forehead",
+        "Bound upon his right arm"
+      ],
+      "answer": 2,
+      "explanation": "The mani was a jewel that grew in Ashwatthama's brow, present from the moment of his birth."
+    },
+    {
+      "id": "ashwatthamas-mani-q02",
+      "difficulty": "easy",
+      "q": "Whose son was Ashwatthama, the bearer of the forehead gem?",
+      "options": [
+        "Kripa",
+        "Drona",
+        "Vyasa",
+        "Shalya"
+      ],
+      "answer": 1,
+      "explanation": "Ashwatthama was the only son of Drona, the weapons master of the Kuru princes."
+    },
+    {
+      "id": "ashwatthamas-mani-q03",
+      "difficulty": "easy",
+      "q": "What protections did the gem grant its bearer?",
+      "options": [
+        "Safety from weapons, hunger, and disease",
+        "Freedom from old age and forgetfulness",
+        "Immunity to curses spoken by brahmins",
+        "Victory in every game of dice"
+      ],
+      "answer": 0,
+      "explanation": "The jewel guarded Ashwatthama from weapons, hunger, disease, and fear, making him almost impossible to harm."
+    },
+    {
+      "id": "ashwatthamas-mani-q04",
+      "difficulty": "easy",
+      "q": "Who demanded the gem as the price of Ashwatthama's life after the night raid?",
+      "options": [
+        "Kunti",
+        "Uttara",
+        "Subhadra",
+        "Draupadi"
+      ],
+      "answer": 3,
+      "explanation": "Draupadi, whose five sons he had murdered, accepted the jewel from his brow in place of his death."
+    },
+    {
+      "id": "ashwatthamas-mani-q05",
+      "difficulty": "easy",
+      "q": "On whose head was the surrendered gem finally placed?",
+      "options": [
+        "Arjuna's",
+        "Yudhishthira's",
+        "Parikshit's",
+        "Bhima's"
+      ],
+      "answer": 1,
+      "explanation": "At Draupadi's word, the jewel was set upon the head of Yudhishthira, the eldest Pandava and king."
+    },
+    {
+      "id": "ashwatthamas-mani-q06",
+      "difficulty": "easy",
+      "q": "Which Pandava carried the gem back from the defeated Ashwatthama?",
+      "options": [
+        "Bhima",
+        "Nakula",
+        "Arjuna",
+        "Sahadeva"
+      ],
+      "answer": 0,
+      "explanation": "Bhima, who had led the furious pursuit, brought the jewel to Draupadi as proof that her sons were requited."
+    },
+    {
+      "id": "ashwatthamas-mani-q07",
+      "difficulty": "easy",
+      "q": "Why was Ashwatthama's life spared even after the massacre of the sleeping camp?",
+      "options": [
+        "He swore an oath of lifelong peace",
+        "Krishna owed an old debt to Drona",
+        "He was their teacher's son and a brahmin",
+        "He surrendered all his celestial weapons"
+      ],
+      "answer": 2,
+      "explanation": "As the son of guru Drona and a brahmin, he was judged unworthy of slaughter, so the gem was taken instead."
+    },
+    {
+      "id": "ashwatthamas-mani-q08",
+      "difficulty": "easy",
+      "q": "What does the Sanskrit word mani mean?",
+      "options": [
+        "A crown",
+        "A vow",
+        "A mantra",
+        "A jewel"
+      ],
+      "answer": 3,
+      "explanation": "Mani means jewel or gem, naming the precious stone that grew in Ashwatthama's forehead."
+    },
+    {
+      "id": "ashwatthamas-mani-q09",
+      "difficulty": "easy",
+      "q": "From what moment had Ashwatthama borne the gem in his brow?",
+      "options": [
+        "From his birth",
+        "From his weapons initiation",
+        "From his father's death",
+        "From Shiva's gift at the camp gate"
+      ],
+      "answer": 0,
+      "explanation": "He was born with the protective jewel already in his forehead, a mark of his extraordinary nature."
+    },
+    {
+      "id": "ashwatthamas-mani-q10",
+      "difficulty": "easy",
+      "q": "What fate followed for Ashwatthama once the gem was taken from him?",
+      "options": [
+        "A swift death under Bhima's mace",
+        "Refuge in Vyasa's hermitage forever",
+        "Three thousand years of cursed wandering",
+        "Rebirth as the guardian of Parikshit"
+      ],
+      "answer": 2,
+      "explanation": "Stripped of the gem and cursed by Krishna, he was doomed to wander the earth for three thousand years, wounded and alone."
+    },
+    {
+      "id": "ashwatthamas-mani-q11",
+      "difficulty": "medium",
+      "q": "What did Draupadi finally accept in place of Ashwatthama's death?",
+      "options": [
+        "His lifelong exile beyond the Himalayas",
+        "The gem prised from his brow",
+        "A vow that he never touch a weapon again",
+        "His service as guardian of the new king"
+      ],
+      "answer": 1,
+      "explanation": "Though her sons lay dead, Draupadi relented from demanding his life and asked instead for the famous jewel."
+    },
+    {
+      "id": "ashwatthamas-mani-q12",
+      "difficulty": "medium",
+      "q": "Who proposed that the gem should rest on Yudhishthira's head?",
+      "options": [
+        "Krishna",
+        "Vyasa",
+        "Bhima",
+        "Draupadi"
+      ],
+      "answer": 3,
+      "explanation": "Draupadi herself directed that the king should wear the jewel, closing her demand for requital."
+    },
+    {
+      "id": "ashwatthamas-mani-q13",
+      "difficulty": "medium",
+      "q": "What reasoning did Draupadi give for sparing the murderer of her sons?",
+      "options": [
+        "His gem alone carried all his guilt",
+        "Krishna had pledged him safe passage",
+        "A teacher's son stood as the teacher himself",
+        "The gods forbade slaying a weeping foe"
+      ],
+      "answer": 2,
+      "explanation": "She held that the son of their guru deserved the reverence owed to the guru, and that a brahmin should not be slain."
+    },
+    {
+      "id": "ashwatthamas-mani-q14",
+      "difficulty": "medium",
+      "q": "How highly did Ashwatthama value the gem he was forced to surrender?",
+      "options": [
+        "Above all the wealth of Kurus and Pandavas",
+        "As a mere bauble beside his weapons",
+        "As his mother Kripi's only heirloom",
+        "As a gift he had meant for Duryodhana"
+      ],
+      "answer": 0,
+      "explanation": "He declared the jewel more precious than all the riches both royal houses had ever gathered."
+    },
+    {
+      "id": "ashwatthamas-mani-q15",
+      "difficulty": "medium",
+      "q": "What torment did Krishna's curse add to Ashwatthama's emptied brow?",
+      "options": [
+        "Blindness at every sunrise",
+        "A serpent coiled forever at his heels",
+        "A hunger no food could ever ease",
+        "A reeking wound that would never heal"
+      ],
+      "answer": 3,
+      "explanation": "Krishna doomed him to wander with the gem-socket festering, smelling of pus and blood, shunned by all."
+    },
+    {
+      "id": "ashwatthamas-mani-q16",
+      "difficulty": "medium",
+      "q": "Where did the surrender of the gem take place?",
+      "options": [
+        "In Duryodhana's dying presence",
+        "At Vyasa's riverside hermitage",
+        "In the burnt-out Pandava camp",
+        "Before the throne at Hastinapura"
+      ],
+      "answer": 1,
+      "explanation": "The Pandavas and Krishna cornered Ashwatthama at Vyasa's hermitage by the Ganga, where the jewel changed hands."
+    },
+    {
+      "id": "ashwatthamas-mani-q17",
+      "difficulty": "medium",
+      "q": "In what state did the pursuers find Ashwatthama before the gem was taken?",
+      "options": [
+        "Seated among sages beside Vyasa",
+        "Hiding armed in a banyan's hollow",
+        "Fleeing on Kritavarma's chariot",
+        "Standing midstream in the Ganga"
+      ],
+      "answer": 0,
+      "explanation": "He had fled to Vyasa's hermitage and sat among the sages by the river when Bhima and the others ran him down."
+    },
+    {
+      "id": "ashwatthamas-mani-q18",
+      "difficulty": "medium",
+      "q": "From the menace of which beings was the gem's bearer also said to be safe?",
+      "options": [
+        "From jackals, crows, and owls",
+        "From kings, thieves, and ministers",
+        "From fire, flood, and famine alone",
+        "From gods, danavas, and nagas"
+      ],
+      "answer": 3,
+      "explanation": "The epic says the wearer of the jewel had no fear of gods, danavas, or nagas, besides weapons, disease, and hunger."
+    },
+    {
+      "id": "ashwatthamas-mani-q19",
+      "difficulty": "medium",
+      "q": "After receiving the gem from Ashwatthama, to whom did Bhima first deliver it?",
+      "options": [
+        "Kunti",
+        "Draupadi",
+        "Yudhishthira",
+        "Uttara"
+      ],
+      "answer": 1,
+      "explanation": "Bhima laid the jewel before Draupadi, who then directed that it be worn by the king."
+    },
+    {
+      "id": "ashwatthamas-mani-q20",
+      "difficulty": "medium",
+      "q": "In which book of the epic is the gem demanded and surrendered?",
+      "options": [
+        "Stri Parva",
+        "Shanti Parva",
+        "Sauptika Parva",
+        "Mausala Parva"
+      ],
+      "answer": 2,
+      "explanation": "The Sauptika Parva, which narrates the night raid, closes with the pursuit of Ashwatthama and the taking of his gem."
+    },
+    {
+      "id": "ashwatthamas-mani-q21",
+      "difficulty": "medium",
+      "q": "What, ironically, could the protective gem not save its bearer from?",
+      "options": [
+        "The fruit of his own deeds",
+        "The arrows of Arjuna",
+        "The fire of the night camp",
+        "The hunger of his wandering"
+      ],
+      "answer": 0,
+      "explanation": "The jewel warded off weapons, disease, and hunger, yet nothing shielded Ashwatthama from the curse his atrocities earned."
+    },
+    {
+      "id": "ashwatthamas-mani-q22",
+      "difficulty": "medium",
+      "q": "What desperate act did the cornered Ashwatthama commit before yielding his gem?",
+      "options": [
+        "He swallowed poison hidden in his ring",
+        "He loosed Brahma's weapon from a stalk of grass",
+        "He called on Shiva to possess him again",
+        "He turned his own sword upon himself"
+      ],
+      "answer": 1,
+      "explanation": "Before surrendering, he charged a blade of grass with the Brahma weapon, which he then could not withdraw."
+    },
+    {
+      "id": "ashwatthamas-mani-q23",
+      "difficulty": "hard",
+      "q": "Even after the gem passed to the Pandavas, what could Ashwatthama not undo?",
+      "options": [
+        "His vow of loyalty to Duryodhana",
+        "The fire still raging in the camp",
+        "His mother's grief at Hastinapura",
+        "The weapon already bent at the unborn"
+      ],
+      "answer": 3,
+      "explanation": "His released weapon still sped toward Uttara's womb, and only Krishna's vow to revive the child answered it."
+    },
+    {
+      "id": "ashwatthamas-mani-q24",
+      "difficulty": "hard",
+      "q": "In popular legend, what do wanderers say the gem-shorn Ashwatthama still seeks?",
+      "options": [
+        "Balm for his festering wound",
+        "A new gem of equal power",
+        "Passage to his father's heaven",
+        "A king to serve once more"
+      ],
+      "answer": 0,
+      "explanation": "Folk traditions across India tell of meeting an ageless wanderer begging oil or balm for his unhealed brow; the tale is later legend, not Vyasa's text."
+    },
+    {
+      "id": "ashwatthamas-mani-q25",
+      "difficulty": "hard",
+      "q": "In which group does tradition count Ashwatthama, the gem's first owner?",
+      "options": [
+        "The eight Vasus of heaven",
+        "The nine treasures of Kubera",
+        "The seven chiranjivis who never die",
+        "The ten avatars of Vishnu"
+      ],
+      "answer": 2,
+      "explanation": "Ashwatthama is reckoned among the seven chiranjivis, the undying ones who walk the earth across the ages."
+    },
+    {
+      "id": "ashwatthamas-mani-q26",
+      "difficulty": "hard",
+      "q": "What did the gem's arrival finally allow Draupadi to end?",
+      "options": [
+        "Her thirteen years of unbound hair",
+        "Her fast of death-resolve",
+        "Her year of mourning seclusion",
+        "Her vow of silence before kings"
+      ],
+      "answer": 1,
+      "explanation": "Draupadi had sworn to fast unto death until her sons were avenged, and rose only when the jewel was laid before her."
+    },
+    {
+      "id": "ashwatthamas-mani-q27",
+      "difficulty": "hard",
+      "q": "Wearing the gem upon his head, Yudhishthira is compared to what?",
+      "options": [
+        "The sun rising over Meru",
+        "A serpent crowned with a hood-jewel",
+        "Indra beneath the rainbow banner",
+        "A mountain crested by the moon"
+      ],
+      "answer": 3,
+      "explanation": "With the jewel on his brow the king shone like a mountain crowned by the risen moon."
+    },
+    {
+      "id": "ashwatthamas-mani-q28",
+      "difficulty": "hard",
+      "q": "The bearer of the forehead gem was born to Drona and which mother?",
+      "options": [
+        "Kripi",
+        "Devayani",
+        "Sulabha",
+        "Lopamudra"
+      ],
+      "answer": 0,
+      "explanation": "Ashwatthama's mother was Kripi, twin sister of Kripacharya, found as an infant among the reeds."
+    },
+    {
+      "id": "ashwatthamas-mani-q29",
+      "difficulty": "hard",
+      "q": "What birth-event accompanied the gem and gave Drona's son his name?",
+      "options": [
+        "He was born beneath the Ashvini star",
+        "His birth-cry rang like a horse's neigh",
+        "He was delivered in a royal stable",
+        "His father rode a white horse to greet him"
+      ],
+      "answer": 1,
+      "explanation": "The newborn cried out like the celestial horse Ucchaihshravas, earning the name Ashwatthama, the horse-voiced."
+    },
+    {
+      "id": "ashwatthamas-mani-q30",
+      "difficulty": "hard",
+      "q": "In the epic's moral framing, what did the surrender of the gem accomplish?",
+      "options": [
+        "A trophy proving Bhima's supremacy",
+        "A charm to guard the new king's reign",
+        "A bloodless requital for the slaughtered",
+        "A relic restoring Drona's lost honor"
+      ],
+      "answer": 2,
+      "explanation": "Draupadi accepted the jewel as requital so the guru's son need not be slain, closing the cycle of vengeance without more blood."
+    }
+  ]
+}

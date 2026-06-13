@@ -1,0 +1,245 @@
+{
+  "cardId": "mace-duel",
+  "questions": [
+    {
+      "id": "mace-duel-q01",
+      "difficulty": "easy",
+      "q": "Who faced each other in the final mace duel of the Kurukshetra war?",
+      "options": ["Bhima and Shakuni", "Arjuna and Duryodhana", "Yudhishthira and Shalya", "Bhima and Duryodhana"],
+      "answer": 3,
+      "explanation": "The war's last great single combat pitted Bhima against Duryodhana with maces."
+    },
+    {
+      "id": "mace-duel-q02",
+      "difficulty": "easy",
+      "q": "Where had Duryodhana hidden before the mace duel?",
+      "options": ["In a cave at Samantapanchaka", "Beneath the waters of Lake Dvaipayana", "In the reeds along the Saraswati", "Inside the ruined Kaurava camp"],
+      "answer": 1,
+      "explanation": "With his armies destroyed, Duryodhana cooled his burning body beneath the waters of Lake Dvaipayana."
+    },
+    {
+      "id": "mace-duel-q03",
+      "difficulty": "easy",
+      "q": "Where did Bhima's final blow land on Duryodhana?",
+      "options": ["Below the navel, upon the thighs", "On the crown of the head", "Across the shoulders", "Square upon the chest"],
+      "answer": 0,
+      "explanation": "Bhima smashed Duryodhana's thighs with a blow below the navel, fulfilling his dice-hall vow."
+    },
+    {
+      "id": "mace-duel-q04",
+      "difficulty": "easy",
+      "q": "Which enraged teacher of both fighters witnessed the mace duel?",
+      "options": ["Kripacharya", "Parashurama", "Balarama", "Drona"],
+      "answer": 2,
+      "explanation": "Balarama, who had taught the mace to both men, arrived to watch and raged at the foul final blow."
+    },
+    {
+      "id": "mace-duel-q05",
+      "difficulty": "easy",
+      "q": "Who signaled Bhima during the duel by slapping his own thigh?",
+      "options": ["Arjuna", "Krishna", "Yudhishthira", "Sahadeva"],
+      "answer": 1,
+      "explanation": "Krishna slapped his thigh to remind Bhima where Duryodhana could be struck down."
+    },
+    {
+      "id": "mace-duel-q06",
+      "difficulty": "easy",
+      "q": "On which day of the war was the mace duel fought?",
+      "options": ["The fifteenth", "The sixteenth", "The seventeenth", "The eighteenth"],
+      "answer": 3,
+      "explanation": "The duel at the lake came on the eighteenth and final day, after the Kaurava host was destroyed."
+    },
+    {
+      "id": "mace-duel-q07",
+      "difficulty": "easy",
+      "q": "Who had taught the mace to both Bhima and Duryodhana?",
+      "options": ["Drona", "Bhishma", "Balarama", "Kripa"],
+      "answer": 2,
+      "explanation": "Both fighters had learned mace combat from Balarama, Krishna's elder brother."
+    },
+    {
+      "id": "mace-duel-q08",
+      "difficulty": "easy",
+      "q": "Which old vow did Bhima fulfill with his winning blow?",
+      "options": ["To break Duryodhana's thighs", "To drink Duryodhana's blood", "To crush a hundred maces", "To avenge Abhimanyu's death"],
+      "answer": 0,
+      "explanation": "Bhima had sworn in the dice hall to shatter the thigh Duryodhana bared at Draupadi; the blood vow was for Dushasana."
+    },
+    {
+      "id": "mace-duel-q09",
+      "difficulty": "easy",
+      "q": "What weapon did both fighters carry in their final duel?",
+      "options": ["The mace", "The sword", "The spear", "The battle-axe"],
+      "answer": 0,
+      "explanation": "Duryodhana chose the gada, the mace, the weapon at which he was held to be supreme."
+    },
+    {
+      "id": "mace-duel-q10",
+      "difficulty": "easy",
+      "q": "What finally drew Duryodhana out of the lake?",
+      "options": ["Balarama's command to rise", "A promise of safe passage home", "The taunts of the Pandavas", "News of Ashwatthama's raid"],
+      "answer": 2,
+      "explanation": "Stung by Yudhishthira's and Bhima's taunts of cowardice, Duryodhana rose from the waters to fight."
+    },
+    {
+      "id": "mace-duel-q11",
+      "difficulty": "medium",
+      "q": "How did Duryodhana remain beneath the surface of the lake?",
+      "options": ["With a diving bell built by Maya", "By a boon of water-breathing from Varuna", "Through Shiva's gift of a fish's form", "By solidifying the waters around him with his secret art"],
+      "answer": 3,
+      "explanation": "Duryodhana used the art of jala-stambhana to charm the waters solid around himself and rest within."
+    },
+    {
+      "id": "mace-duel-q12",
+      "difficulty": "medium",
+      "q": "What rash offer did Yudhishthira make before the duel?",
+      "options": ["That the loser's line would be banished forever", "That Duryodhana could fight any one Pandava and win back everything", "That Bhima would fight without his mace", "That Krishna would stand aside as a hostage"],
+      "answer": 1,
+      "explanation": "Yudhishthira promised the kingdom to Duryodhana if he could defeat any single Pandava with the weapon of his choice."
+    },
+    {
+      "id": "mace-duel-q13",
+      "difficulty": "medium",
+      "q": "Why was Bhima's winning blow against the rules?",
+      "options": ["Maces could not be swung two-handed", "A fallen opponent could not be struck again", "Mace-fighting forbade strikes below the navel", "No blow could be landed after sunset"],
+      "answer": 2,
+      "explanation": "The code of mace combat barred blows beneath the navel, and Bhima's strike to the thighs broke it."
+    },
+    {
+      "id": "mace-duel-q14",
+      "difficulty": "medium",
+      "q": "Why were Duryodhana's thighs his one vulnerable point?",
+      "options": ["He had covered his loins from Gandhari's empowering gaze", "A childhood wound there had never fully healed", "Shakuni's charm protected all but his legs", "His armor of boons ended at the waist"],
+      "answer": 0,
+      "explanation": "Gandhari's lifted blindfold made his body adamant, but he had worn a cloth over his loins, leaving them mortal."
+    },
+    {
+      "id": "mace-duel-q15",
+      "difficulty": "medium",
+      "q": "Who restrained the furious Balarama after the foul blow?",
+      "options": ["Yudhishthira", "Krishna", "Arjuna", "Vyasa"],
+      "answer": 1,
+      "explanation": "Krishna held back his brother and argued that Bhima had only fulfilled a sworn vow against a man steeped in adharma."
+    },
+    {
+      "id": "mace-duel-q16",
+      "difficulty": "medium",
+      "q": "Whom did the dying Duryodhana anoint as his army's last commander?",
+      "options": ["Kritavarma", "Kripacharya", "Shalya", "Ashwatthama"],
+      "answer": 3,
+      "explanation": "With his last strength Duryodhana consecrated Ashwatthama, who that night raided the sleeping Pandava camp."
+    },
+    {
+      "id": "mace-duel-q17",
+      "difficulty": "medium",
+      "q": "What fell from the sky after Duryodhana's dying speech?",
+      "options": ["A rain of ash and embers", "A flight of screaming crows", "A sudden burst of monsoon rain", "A shower of celestial flowers"],
+      "answer": 3,
+      "explanation": "The gods rained flowers on the fallen Duryodhana, a sign that shamed the victorious Pandavas."
+    },
+    {
+      "id": "mace-duel-q18",
+      "difficulty": "medium",
+      "q": "What was Duryodhana's dying boast to Krishna and the Pandavas?",
+      "options": ["That Bhima would never reign in peace", "That he had lived as a king and died a warrior's death bound for heaven", "That his sons would avenge the Kauravas", "That Krishna's own city would burn within a year"],
+      "answer": 1,
+      "explanation": "Duryodhana declared he had studied, given gifts, ruled the earth, and died in battle, claiming the better death."
+    },
+    {
+      "id": "mace-duel-q19",
+      "difficulty": "medium",
+      "q": "Where was the mace duel finally fought?",
+      "options": ["At the gates of Hastinapura", "On the burned ground of Khandava", "At holy Samantapanchaka near the lake", "Inside the ruins of the Kaurava camp"],
+      "answer": 2,
+      "explanation": "The fighters moved to sacred Samantapanchaka, where Parashurama had once made his five lakes of blood."
+    },
+    {
+      "id": "mace-duel-q20",
+      "difficulty": "medium",
+      "q": "How did the Pandavas learn where Duryodhana was hiding?",
+      "options": ["Hunters who had seen him at the lake brought word", "Sanjaya revealed it under oath", "A water bird led Krishna to the spot", "Yuyutsu had followed his brother in secret"],
+      "answer": 0,
+      "explanation": "Hunters who came upon the charmed lake carried the news to the Pandavas in hope of reward."
+    },
+    {
+      "id": "mace-duel-q21",
+      "difficulty": "medium",
+      "q": "How did Duryodhana answer the charge of cowardice for hiding in the lake?",
+      "options": ["He blamed Shakuni for advising the retreat", "He said he had entered the water not from fear but to cool his burning body and rest", "He claimed Shiva had ordered him to wait there", "He denied that he had hidden at all"],
+      "answer": 1,
+      "explanation": "Duryodhana insisted he had withdrawn exhausted and grieving, not afraid, and would fight them all in turn."
+    },
+    {
+      "id": "mace-duel-q22",
+      "difficulty": "medium",
+      "q": "What did the broken Duryodhana accuse Krishna of after the blow?",
+      "options": ["Poisoning the lake he slept in", "Bribing Balarama to stay away", "Stealing his mother's blessing", "Winning the war through a chain of deceits"],
+      "answer": 3,
+      "explanation": "Duryodhana listed Shikhandi, the lie to Drona, Karna's wheel, and the thigh-slap signal as Krishna's unfair stratagems."
+    },
+    {
+      "id": "mace-duel-q23",
+      "difficulty": "hard",
+      "q": "Which fighter was considered the finer mace technician?",
+      "options": ["Duryodhana, whose skill exceeded Bhima's raw might", "Bhima, trained longer under Balarama", "Neither, for they were perfectly matched", "Bhima, blessed by Vayu with faultless form"],
+      "answer": 0,
+      "explanation": "Even Krishna admitted Duryodhana surpassed Bhima in mace skill, which is why fair combat favored the Kaurava."
+    },
+    {
+      "id": "mace-duel-q24",
+      "difficulty": "hard",
+      "q": "From what was Balarama returning when he arrived at the duel?",
+      "options": ["The defense of Dwarka against raiders", "A council of the Yadava elders", "A pilgrimage along the Saraswati river", "A vigil at Prabhasa by the sea"],
+      "answer": 2,
+      "explanation": "Refusing to take sides in the war, Balarama had spent it on a pilgrimage along the Saraswati and returned for the duel."
+    },
+    {
+      "id": "mace-duel-q25",
+      "difficulty": "hard",
+      "q": "With what did Balarama threaten Bhima after the foul blow?",
+      "options": ["His thunder-voiced conch", "His mace, twin to Bhima's own", "His upraised plough", "A curse of lifelong wandering"],
+      "answer": 2,
+      "explanation": "Balarama rushed at Bhima with his plough raised before Krishna intervened to calm him."
+    },
+    {
+      "id": "mace-duel-q26",
+      "difficulty": "hard",
+      "q": "How did Krishna calm Balarama's anger at the unfair strike?",
+      "options": ["He recalled Bhima's dice-hall vow and Duryodhana's long record of adharma", "He promised that Bhima would do a year of penance", "He swore the blow had been an accident of fate", "He reminded him that a guest may not shed blood"],
+      "answer": 0,
+      "explanation": "Krishna argued that Bhima had merely kept a public vow against a man whose crimes had forfeited fair treatment."
+    },
+    {
+      "id": "mace-duel-q27",
+      "difficulty": "hard",
+      "q": "What offer did Duryodhana make from within the lake when Yudhishthira taunted him?",
+      "options": ["To duel all five brothers one by one", "To restore Indraprastha and keep Hastinapura", "To serve the Pandavas as a minister", "To give up the whole earth and retire to the forest"],
+      "answer": 3,
+      "explanation": "Duryodhana offered them the kingdom outright, but Yudhishthira refused to take as a gift what must be won in battle."
+    },
+    {
+      "id": "mace-duel-q28",
+      "difficulty": "hard",
+      "q": "In which parva of the epic does the mace duel take place?",
+      "options": ["The Karna Parva", "The Shalya Parva", "The Sauptika Parva", "The Stri Parva"],
+      "answer": 1,
+      "explanation": "The Gadayuddha, the mace duel, forms the closing section of the Shalya Parva."
+    },
+    {
+      "id": "mace-duel-q29",
+      "difficulty": "hard",
+      "q": "Why did Krishna scold Yudhishthira for his offer to Duryodhana?",
+      "options": ["It staked everything won in the war on a single fight that only Bhima might survive", "It broke the oath sworn before the assembled armies", "It insulted Balarama, the duel's witness", "It gave Duryodhana time to summon fresh allies"],
+      "answer": 0,
+      "explanation": "Krishna fumed that Duryodhana, supreme with the mace, could have chosen a weaker Pandava and won back the whole kingdom."
+    },
+    {
+      "id": "mace-duel-q30",
+      "difficulty": "hard",
+      "q": "What news consoled the dying Duryodhana before he breathed his last?",
+      "options": ["That Dhritarashtra still held Hastinapura's throne", "That Balarama had cursed the Pandava line", "That Ashwatthama had slaughtered the Pandava camp in the night", "That his son Lakshmana had escaped the field"],
+      "answer": 2,
+      "explanation": "The three night-raiders reported the massacre of the sleeping camp, and Duryodhana died gladdened by the terrible news."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "year-in-disguise",
+  "questions": [
+    {
+      "id": "year-in-disguise-q01",
+      "difficulty": "easy",
+      "q": "In whose kingdom did the Pandavas spend their thirteenth year of exile?",
+      "options": ["King Drupada's Panchala", "King Shalya's Madra", "King Virata's Matsya", "King Jarasandha's Magadha"],
+      "answer": 2,
+      "explanation": "The Pandavas hid for the thirteenth year as servants in the Matsya kingdom of King Virata."
+    },
+    {
+      "id": "year-in-disguise-q02",
+      "difficulty": "easy",
+      "q": "What name did Arjuna take during the year in hiding?",
+      "options": ["Brihannala", "Granthika", "Kanka", "Vallabha"],
+      "answer": 0,
+      "explanation": "Arjuna lived as Brihannala, the dance and music teacher of Virata's inner palace."
+    },
+    {
+      "id": "year-in-disguise-q03",
+      "difficulty": "easy",
+      "q": "What work did Bhima perform in Virata's palace during the hidden year?",
+      "options": ["Stable master for the king's horses", "Cook in the royal kitchens", "Guard at the palace gates", "Keeper of the royal treasury"],
+      "answer": 1,
+      "explanation": "Bhima served as the cook Vallabha, also entertaining the court as a wrestler."
+    },
+    {
+      "id": "year-in-disguise-q04",
+      "difficulty": "easy",
+      "q": "Under what identity did Draupadi live during the hidden year?",
+      "options": ["As a priestess in the city temple", "As a weaver in the royal workshops", "As a nurse to the royal children", "As Sairandhri, the queen's maid"],
+      "answer": 3,
+      "explanation": "Draupadi served Queen Sudeshna as the hairdresser and maid called Sairandhri."
+    },
+    {
+      "id": "year-in-disguise-q05",
+      "difficulty": "easy",
+      "q": "What name and role did Yudhishthira assume at Virata's court?",
+      "options": ["Tantipala, the chief cowherd", "Granthika, the keeper of horses", "Kanka, a brahmin courtier and dice companion", "Vallabha, the cook of the royal kitchens"],
+      "answer": 2,
+      "explanation": "Yudhishthira became Kanka, a brahmin who entertained King Virata with dice and counsel."
+    },
+    {
+      "id": "year-in-disguise-q06",
+      "difficulty": "easy",
+      "q": "Where did the Pandavas hide their weapons for the year of disguise?",
+      "options": ["Wrapped like a corpse and hung in a shami tree", "Buried beneath the floor of a temple", "Sunk in a sealed chest in the river", "Walled up in a cave outside the city"],
+      "answer": 0,
+      "explanation": "They bundled the weapons to look like a corpse and hung them in a shami tree near the burning ground so no one would touch them."
+    },
+    {
+      "id": "year-in-disguise-q07",
+      "difficulty": "easy",
+      "q": "What was the penalty if the Pandavas were discovered during the thirteenth year?",
+      "options": ["Immediate execution by the Kauravas", "The entire term of exile would have to be served again", "Permanent banishment from the land of Bharata", "Surrender of their weapons to Duryodhana forever"],
+      "answer": 1,
+      "explanation": "By the terms of the dice game, discovery in the thirteenth year meant repeating the whole sentence of exile."
+    },
+    {
+      "id": "year-in-disguise-q08",
+      "difficulty": "easy",
+      "q": "What did Brihannala teach in Virata's palace?",
+      "options": ["Archery to the king's soldiers", "Scripture to the royal priests", "Statecraft to the king's heir", "Dance and music to princess Uttara"],
+      "answer": 3,
+      "explanation": "Brihannala taught dancing, singing, and music to princess Uttara and her companions in the inner apartments."
+    },
+    {
+      "id": "year-in-disguise-q09",
+      "difficulty": "easy",
+      "q": "Which Pandava worked as Granthika, the keeper of Virata's horses?",
+      "options": ["Sahadeva", "Bhima", "Nakula", "Yudhishthira"],
+      "answer": 2,
+      "explanation": "Nakula, a famed master of horses, tended the royal stables under the name Granthika."
+    },
+    {
+      "id": "year-in-disguise-q10",
+      "difficulty": "easy",
+      "q": "What duty did Sahadeva take up during the hidden year?",
+      "options": ["Tending the king's cattle as Tantipala", "Serving wine at the king's table", "Keeping accounts of the royal stores", "Training hounds for the royal hunt"],
+      "answer": 0,
+      "explanation": "Sahadeva became Tantipala, the overseer of King Virata's vast cattle herds."
+    },
+    {
+      "id": "year-in-disguise-q11",
+      "difficulty": "medium",
+      "q": "Why was Arjuna able to live convincingly as Brihannala?",
+      "options": ["He used an illusion taught by the gandharva Chitrasena", "Urvashi's curse of unmanliness, limited by Indra to one chosen year, took effect", "He had trained as a dancer in Indra's court for five years", "Krishna's maya veiled his true form from every eye"],
+      "answer": 1,
+      "explanation": "Urvashi had cursed Arjuna to lose his manhood, and Indra softened the curse to a single year of Arjuna's choosing, which became the year in hiding."
+    },
+    {
+      "id": "year-in-disguise-q12",
+      "difficulty": "medium",
+      "q": "How did the Pandavas keep people away from the tree where their weapons hung?",
+      "options": ["They posted Bhima to guard it through the nights", "They paid the keepers of the burning ground to watch it", "They hung charms of warning from its branches", "They said the bundle was their aged mother's corpse, hung up by family custom"],
+      "answer": 3,
+      "explanation": "Claiming the wrapped bundle was the corpse of their old mother, hung according to their family custom, they made the tree a place everyone avoided."
+    },
+    {
+      "id": "year-in-disguise-q13",
+      "difficulty": "medium",
+      "q": "Who led the first raid on Virata's cattle, striking from the south?",
+      "options": ["Susharma, king of the Trigartas", "Shalya, king of Madra", "Karna, king of Anga", "Jayadratha, king of Sindhu"],
+      "answer": 0,
+      "explanation": "Susharma of Trigarta, an old enemy of Matsya, attacked first and seized the southern herds."
+    },
+    {
+      "id": "year-in-disguise-q14",
+      "difficulty": "medium",
+      "q": "When King Virata was captured during the Trigarta raid, who rescued him?",
+      "options": ["Nakula, riding out on the king's horses", "Prince Uttara with the palace guard", "Bhima, fighting as the cook Vallabha", "Sahadeva with an army of cowherds"],
+      "answer": 2,
+      "explanation": "Bhima ran down Susharma's chariot, freed Virata, and took the Trigarta king captive in turn."
+    },
+    {
+      "id": "year-in-disguise-q15",
+      "difficulty": "medium",
+      "q": "When the Kauravas seized Virata's cattle in the north, who rode out against them?",
+      "options": ["King Virata with his full army", "Prince Uttara with Brihannala driving his chariot", "Kanka leading the palace garrison", "The queen's kinsmen with their retainers"],
+      "answer": 1,
+      "explanation": "With the army away in the south, the boastful prince Uttara rode out alone with the dance teacher Brihannala as his charioteer."
+    },
+    {
+      "id": "year-in-disguise-q16",
+      "difficulty": "medium",
+      "q": "Who arranged for Brihannala to drive prince Uttara's chariot?",
+      "options": ["Queen Sudeshna, who trusted the dance teacher", "Kanka, hinting at a hidden warrior's skill", "Prince Uttara himself, who admired the teacher", "Sairandhri, who revealed that Brihannala had once been Arjuna's charioteer"],
+      "answer": 3,
+      "explanation": "Sairandhri told the princess that Brihannala had driven Arjuna's chariot, and princess Uttara persuaded the teacher to take the reins."
+    },
+    {
+      "id": "year-in-disguise-q17",
+      "difficulty": "medium",
+      "q": "What did Arjuna do at the shami tree before facing the Kuru army?",
+      "options": ["Took down the Gandiva and revealed his true name to prince Uttara", "Prayed to Shiva for the power of the Pashupatastra", "Sent prince Uttara home to warn King Virata", "Burned his Brihannala garments as an offering"],
+      "answer": 0,
+      "explanation": "At the tree Arjuna retrieved his hidden weapons, strung the Gandiva, and told the terrified prince who he really was."
+    },
+    {
+      "id": "year-in-disguise-q18",
+      "difficulty": "medium",
+      "q": "How did Arjuna overcome the entire Kuru host single-handed at the cattle raid?",
+      "options": ["He challenged their champions to duels one by one", "He scattered their chariots with the Pashupatastra", "He used the Sammohana astra to put the army to sleep", "He set their camp ablaze with arrows of fire"],
+      "answer": 2,
+      "explanation": "Arjuna loosed the Sammohana astra, which stupefied the Kaurava warriors where they stood."
+    },
+    {
+      "id": "year-in-disguise-q19",
+      "difficulty": "medium",
+      "q": "What trophies did Arjuna gather from the defeated Kuru warriors?",
+      "options": ["Their banners, to hang in Virata's hall", "Their fine garments, as playthings for princess Uttara's dolls", "Their crowns, as tribute for King Virata", "Their bows, to arm the soldiers of Matsya"],
+      "answer": 1,
+      "explanation": "At the princess's earlier request, Arjuna had prince Uttara collect the rich garments of the stupefied warriors as dresses for her dolls."
+    },
+    {
+      "id": "year-in-disguise-q20",
+      "difficulty": "medium",
+      "q": "Who argued that the thirteen years were already complete when Arjuna revealed himself?",
+      "options": ["Drona, who refused to fight his favorite student", "Vidura, pleading for peace before the court", "Bhishma, reckoning the extra months of the lunar calendar", "Krishna, arriving as an envoy from Dwarka"],
+      "answer": 2,
+      "explanation": "Bhishma calculated that the intercalary months of the lunar calendar meant the full term had passed before Arjuna showed himself."
+    },
+    {
+      "id": "year-in-disguise-q21",
+      "difficulty": "medium",
+      "q": "How did Sairandhri explain her mysterious protection to curious questioners?",
+      "options": ["She claimed five Gandharva husbands watched over her", "She claimed a sage's blessing shielded her from harm", "She claimed to be under the queen's personal protection", "She claimed the goddess Durga guarded her steps"],
+      "answer": 0,
+      "explanation": "Draupadi said she was the wife of five Gandharvas who would destroy any man who wronged her."
+    },
+    {
+      "id": "year-in-disguise-q22",
+      "difficulty": "medium",
+      "q": "When Virata angrily struck Kanka and his nose bled, why was the blood caught in a vessel?",
+      "options": ["To hide the wound from the assembled court", "To keep evidence of the king's offense", "To tend the hurt without summoning physicians", "So a righteous man's blood would not fall to the earth and blight the kingdom"],
+      "answer": 3,
+      "explanation": "Sairandhri caught the blood because, as Yudhishthira later explained, had a righteous man's blood touched the ground, the king and his realm would have perished."
+    },
+    {
+      "id": "year-in-disguise-q23",
+      "difficulty": "hard",
+      "q": "Why did King Virata strike Kanka with a die during their game?",
+      "options": ["Kanka had won too many throws in a row", "Kanka kept crediting Brihannala, not prince Uttara, with the victory over the Kurus", "Kanka had hinted at the king's cowardice during the cattle raid", "Kanka let slip that he had once served Yudhishthira"],
+      "answer": 1,
+      "explanation": "Each time Virata praised his son's triumph, Kanka insisted Brihannala had won the battle, until the furious king flung a die at his face."
+    },
+    {
+      "id": "year-in-disguise-q24",
+      "difficulty": "hard",
+      "q": "Which book of the Mahabharata narrates the year the Pandavas spent in hiding?",
+      "options": ["Virata Parva", "Vana Parva", "Udyoga Parva", "Sabha Parva"],
+      "answer": 0,
+      "explanation": "The Virata Parva, the fourth book of the epic, is devoted entirely to the year of disguise."
+    },
+    {
+      "id": "year-in-disguise-q25",
+      "difficulty": "hard",
+      "q": "What news set the Kauravas planning the raid that nearly exposed the Pandavas?",
+      "options": ["A spy had glimpsed Sairandhri's unbound hair", "A merchant reported five brahmins living strangely", "Duryodhana dreamed of Bhima working in a kitchen", "Kichaka had been slain by unseen Gandharvas, a feat fit only for Bhima"],
+      "answer": 3,
+      "explanation": "Spies reported the mighty Kichaka crushed in the night by so-called Gandharvas, and the Kauravas reasoned only Bhima killed that way."
+    },
+    {
+      "id": "year-in-disguise-q26",
+      "difficulty": "hard",
+      "q": "Which earlier divine boon helped the Pandavas pass the year unrecognized?",
+      "options": ["Krishna's promise given at the dice hall", "Durvasa's blessing won by their hospitality", "The boon of Dharma, granted at the lake of the Yaksha", "Indra's gift after the burning of Khandava"],
+      "answer": 2,
+      "explanation": "After the riddles at the lake, Dharma had granted Yudhishthira that the brothers would not be recognized during the thirteenth year."
+    },
+    {
+      "id": "year-in-disguise-q27",
+      "difficulty": "hard",
+      "q": "What secret names did the brothers agree to use for one another in Virata's city?",
+      "options": ["Jaya, Jayanta, Vijaya, Jayatsena, and Jayadbala", "Soma, Surya, Agni, Vayu, and Indra", "Kanka, Vallabha, Brihannala, Granthika, and Tantipala", "Dhira, Vira, Shura, Sthira, and Gambhira"],
+      "answer": 0,
+      "explanation": "Beyond their public servant names, the five agreed on the call-names Jaya, Jayanta, Vijaya, Jayatsena, and Jayadbala for private use."
+    },
+    {
+      "id": "year-in-disguise-q28",
+      "difficulty": "hard",
+      "q": "Where did the Pandavas establish themselves immediately after the year of disguise ended?",
+      "options": ["At Indraprastha, their former capital", "At Kampilya, the city of Drupada", "At Upaplavya, a city of the Matsya kingdom", "At Dwarka, as the guests of Krishna"],
+      "answer": 2,
+      "explanation": "The Pandavas moved openly to Upaplavya in Matsya, where allies gathered and the war councils were held."
+    },
+    {
+      "id": "year-in-disguise-q29",
+      "difficulty": "hard",
+      "q": "What did prince Uttara do at his first sight of the assembled Kuru army?",
+      "options": ["He sounded his conch and charged in alone", "He fled the chariot in terror until Brihannala chased him down", "He fainted and had to be revived with river water", "He tried to surrender the royal cattle at once"],
+      "answer": 1,
+      "explanation": "The boastful prince leapt from the chariot and ran, and Brihannala had to chase him, calm him, and put him to the reins instead."
+    },
+    {
+      "id": "year-in-disguise-q30",
+      "difficulty": "hard",
+      "q": "What did Duryodhana claim when Arjuna's identity became known on the battlefield?",
+      "options": ["That Arjuna's celestial weapons had been used unfairly", "That Virata had conspired to shelter fugitives", "That Matsya's cattle were lawful Kuru property", "That the Pandavas were found before the term ended and must repeat their exile"],
+      "answer": 3,
+      "explanation": "Duryodhana insisted the discovery came within the thirteenth year, but Bhishma's calendar reckoning showed the term was already complete."
+    }
+  ]
+}

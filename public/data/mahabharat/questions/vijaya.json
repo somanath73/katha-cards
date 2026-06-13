@@ -1,0 +1,245 @@
+{
+  "cardId": "vijaya",
+  "questions": [
+    {
+      "id": "vijaya-q01",
+      "difficulty": "easy",
+      "q": "Which warrior carried the great bow Vijaya in the Kurukshetra war?",
+      "options": ["Arjuna", "Karna", "Bhishma", "Drona"],
+      "answer": 1,
+      "explanation": "Vijaya was Karna's celebrated bow, received from his guru Parashurama."
+    },
+    {
+      "id": "vijaya-q02",
+      "difficulty": "easy",
+      "q": "Who crafted the bow Vijaya?",
+      "options": ["Maya, the asura architect", "Agni, the fire god", "Brahma, the creator", "Vishvakarma, the divine artisan"],
+      "answer": 3,
+      "explanation": "Vishvakarma, the architect and craftsman of the gods, fashioned Vijaya."
+    },
+    {
+      "id": "vijaya-q03",
+      "difficulty": "easy",
+      "q": "From whom did Karna receive the bow Vijaya?",
+      "options": ["Duryodhana", "Surya", "Parashurama", "Indra"],
+      "answer": 2,
+      "explanation": "Parashurama bestowed Vijaya upon Karna, the finest student of his art of war."
+    },
+    {
+      "id": "vijaya-q04",
+      "difficulty": "easy",
+      "q": "What does the name Vijaya mean?",
+      "options": ["Victory", "Thunder", "The unbending", "Sun-blessed"],
+      "answer": 0,
+      "explanation": "Vijaya means victory, a fitting name for a bow said never to fail its bearer."
+    },
+    {
+      "id": "vijaya-q05",
+      "difficulty": "easy",
+      "q": "On which day of the Kurukshetra war did Karna string Vijaya for his great duel?",
+      "options": ["The fourteenth day", "The fifteenth day", "The eighteenth day", "The seventeenth day"],
+      "answer": 3,
+      "explanation": "Karna strung Vijaya on the seventeenth day, the day of his final confrontation with Arjuna."
+    },
+    {
+      "id": "vijaya-q06",
+      "difficulty": "easy",
+      "q": "Against which archer did Karna wield Vijaya in his final duel?",
+      "options": ["Bhima", "Arjuna", "Satyaki", "Dhrishtadyumna"],
+      "answer": 1,
+      "explanation": "Vijaya met Arjuna's Gandiva in the duel the gods themselves gathered to watch."
+    },
+    {
+      "id": "vijaya-q07",
+      "difficulty": "easy",
+      "q": "What kind of weapon was Vijaya?",
+      "options": ["A bow", "A mace", "A dart", "A sword"],
+      "answer": 0,
+      "explanation": "Vijaya was a great bow, counted among the mightiest ever made."
+    },
+    {
+      "id": "vijaya-q08",
+      "difficulty": "easy",
+      "q": "As whose student did Karna earn the gift of Vijaya?",
+      "options": ["Drona's", "Kripa's", "Parashurama's", "Bhishma's"],
+      "answer": 2,
+      "explanation": "Karna studied the science of arms under Parashurama, who gave the bow to his finest pupil."
+    },
+    {
+      "id": "vijaya-q09",
+      "difficulty": "easy",
+      "q": "To what was the sound of Vijaya's bowstring compared?",
+      "options": ["A lion's roar", "A conch blast", "A crash of thunder", "A temple bell"],
+      "answer": 2,
+      "explanation": "When Karna strung and twanged Vijaya, its sound rolled across the field like thunder."
+    },
+    {
+      "id": "vijaya-q10",
+      "difficulty": "easy",
+      "q": "For which god did Vishvakarma originally fashion Vijaya?",
+      "options": ["Indra", "Varuna", "Yama", "Kubera"],
+      "answer": 0,
+      "explanation": "In the Karna Parva, Karna relates that Vishvakarma made Vijaya for Indra, king of the gods."
+    },
+    {
+      "id": "vijaya-q11",
+      "difficulty": "medium",
+      "q": "Against whom did Indra wield Vijaya before passing it on?",
+      "options": ["The serpents of Patala", "The daityas, demon foes of the gods", "The rakshasas of the southern forests", "The mortal kings of the earth"],
+      "answer": 1,
+      "explanation": "Karna tells Shalya that Indra used Vijaya to vanquish the daityas before giving it to Parashurama."
+    },
+    {
+      "id": "vijaya-q12",
+      "difficulty": "medium",
+      "q": "What deception ended Karna's time with Parashurama, the guru who gave him Vijaya?",
+      "options": ["He hid the bow Vijaya from his guru", "He practiced forbidden weapons at night", "He revealed the guru's secrets to rivals", "He had claimed to be a brahmin"],
+      "answer": 3,
+      "explanation": "Parashurama taught only brahmins, and on discovering Karna's false claim he cursed him to forget his weapon-lore at the fatal hour."
+    },
+    {
+      "id": "vijaya-q13",
+      "difficulty": "medium",
+      "q": "Against which famous bow was Vijaya chiefly measured at Kurukshetra?",
+      "options": ["Gandiva", "Pinaka", "Sharanga", "Kodanda"],
+      "answer": 0,
+      "explanation": "The seventeenth-day duel pitted Karna's Vijaya against Arjuna's celestial bow Gandiva."
+    },
+    {
+      "id": "vijaya-q14",
+      "difficulty": "medium",
+      "q": "Who drove Karna's chariot on the day he strung Vijaya?",
+      "options": ["Adhiratha", "Sanjaya", "Shalya", "Vrishasena"],
+      "answer": 2,
+      "explanation": "Shalya, king of Madra, served as Karna's reluctant charioteer in the final duel."
+    },
+    {
+      "id": "vijaya-q15",
+      "difficulty": "medium",
+      "q": "Which two gods had fathered the rival archers when Vijaya met Gandiva?",
+      "options": ["Vayu and Agni", "Yama and Varuna", "Brahma and Shiva", "Surya and Indra"],
+      "answer": 3,
+      "explanation": "Karna was the son of Surya and Arjuna the son of Indra, so the duel set the sun god's son against the storm god's."
+    },
+    {
+      "id": "vijaya-q16",
+      "difficulty": "medium",
+      "q": "What was said of Vijaya's frame and bowstring?",
+      "options": ["They shone only at midday", "They could not be broken by any weapon", "They drank the blood of the slain", "They grew heavier after every kill"],
+      "answer": 1,
+      "explanation": "Vijaya was held to be indestructible, a bow whose body and string no weapon could sever."
+    },
+    {
+      "id": "vijaya-q17",
+      "difficulty": "medium",
+      "q": "What did Karna himself claim about Vijaya when speaking to Shalya?",
+      "options": ["That it had once belonged to Bhishma", "That it was superior even to the Gandiva", "That it would shatter upon his death", "That only a brahmin could string it"],
+      "answer": 1,
+      "explanation": "In the Karna Parva, Karna boasts that Vijaya surpasses Gandiva and makes him more than Arjuna's match."
+    },
+    {
+      "id": "vijaya-q18",
+      "difficulty": "medium",
+      "q": "How did Parashurama himself use the bow Vijaya?",
+      "options": ["To guard his hermitage on Mount Mahendra", "To win his long duel against Bhishma", "To burn the triple fortress of Tripura", "In the campaigns that scoured the kshatriyas from the earth"],
+      "answer": 3,
+      "explanation": "Karna recounts that with Vijaya the Bhargava destroyed the kshatriya race twenty-one times over."
+    },
+    {
+      "id": "vijaya-q19",
+      "difficulty": "medium",
+      "q": "What rank did Karna hold when he strung Vijaya for the duel?",
+      "options": ["Supreme commander of the Kaurava army", "Newly crowned king of Anga", "Marshal of the wheel formation", "Chief bodyguard of Duryodhana"],
+      "answer": 0,
+      "explanation": "After Drona's fall Karna led the Kaurava host, commanding on the sixteenth and seventeenth days."
+    },
+    {
+      "id": "vijaya-q20",
+      "difficulty": "medium",
+      "q": "What had Karna demanded so his chariot could rival Krishna's driving in the duel?",
+      "options": ["A new chariot built by Vishvakarma", "The withdrawal of Bhima from the field", "Shalya, a master of horses, as his driver", "A pledge that no warrior would intervene"],
+      "answer": 2,
+      "explanation": "Karna asked for Shalya as his charioteer, arguing he matched Krishna in horsemanship."
+    },
+    {
+      "id": "vijaya-q21",
+      "difficulty": "medium",
+      "q": "Through which chain of owners did Vijaya pass?",
+      "options": ["Brahma to Shiva to Parashurama to Karna", "Agni to Varuna to Arjuna to Karna", "Vishnu to Surya to Adhiratha to Karna", "Vishvakarma to Indra to Parashurama to Karna"],
+      "answer": 3,
+      "explanation": "Made by Vishvakarma, Vijaya went from Indra to Parashurama and finally to Karna."
+    },
+    {
+      "id": "vijaya-q22",
+      "difficulty": "medium",
+      "q": "In Karna's words, what could no enemy do while Vijaya was in his hands?",
+      "options": ["Cut his bowstring in combat", "Defeat him in a fair fight", "Come within a bowshot of his chariot", "Wound his charioteer or horses"],
+      "answer": 1,
+      "explanation": "Karna told Shalya that bearing Vijaya he counted himself unbeatable in open and equal battle."
+    },
+    {
+      "id": "vijaya-q23",
+      "difficulty": "hard",
+      "q": "The name Vijaya also appears in the epic on which famous list?",
+      "options": ["The five sacred conches of the Pandavas", "The seven deathless weapons of heaven", "The ten names of Arjuna", "The nine treasures of Kubera"],
+      "answer": 2,
+      "explanation": "In the Virata Parva, Arjuna lists Vijaya among his own ten names, an irony given his rival's bow."
+    },
+    {
+      "id": "vijaya-q24",
+      "difficulty": "hard",
+      "q": "In which parva does Karna deliver his own praise of the bow Vijaya?",
+      "options": ["The Karna Parva", "The Drona Parva", "The Shalya Parva", "The Udyoga Parva"],
+      "answer": 0,
+      "explanation": "Karna recounts Vijaya's origins and virtues to Shalya in the Karna Parva, before riding against Arjuna."
+    },
+    {
+      "id": "vijaya-q25",
+      "difficulty": "hard",
+      "q": "How did the celestial onlookers behave during the duel of Vijaya and Gandiva?",
+      "options": ["They split into rival camps backing each archer", "They turned their faces away from the field", "They rained flowers equally upon both", "They begged Brahma to halt the fight"],
+      "answer": 0,
+      "explanation": "The Karna Parva describes the gods dividing into partisans of Karna and of Arjuna as the duel began."
+    },
+    {
+      "id": "vijaya-q26",
+      "difficulty": "hard",
+      "q": "What ultimately failed Karna in the duel despite Vijaya's perfection?",
+      "options": ["The bow's string snapped at last", "Shalya abandoned the chariot in anger", "His memory of the weapon-lore, stolen by a curse", "His quivers ran empty before dusk"],
+      "answer": 2,
+      "explanation": "The bow never faltered, but Parashurama's curse made Karna forget the mantra of his greatest weapon at the fatal hour."
+    },
+    {
+      "id": "vijaya-q27",
+      "difficulty": "hard",
+      "q": "According to the common retelling, when did Parashurama hand Vijaya to Karna?",
+      "options": ["On the eve of the Kurukshetra war", "At their parting, softening the curse he had spoken", "At Karna's coronation as king of Anga", "When Karna first came begging to learn"],
+      "answer": 1,
+      "explanation": "Popular retellings place the gift at their sorrowful parting, while the epic itself simply records that Parashurama gave Karna the bow."
+    },
+    {
+      "id": "vijaya-q28",
+      "difficulty": "hard",
+      "q": "Whom did Karna defeat but spare on the day he bore Vijaya, honoring an old promise?",
+      "options": ["Dhrishtadyumna and Satyaki", "Drupada and his sons", "Shikhandi and the Panchala princes", "Yudhishthira, Bhima, and Madri's twins"],
+      "answer": 3,
+      "explanation": "Karna had promised Kunti to spare every Pandava but Arjuna, so she would still have five sons when the war ended."
+    },
+    {
+      "id": "vijaya-q29",
+      "difficulty": "hard",
+      "q": "Which dreadful arrow loosed from Vijaya struck off Arjuna's diadem?",
+      "options": ["The Anjalika", "The Vasavi Shakti", "The serpent arrow bearing Ashwasena", "The Brahmastra shaft"],
+      "answer": 2,
+      "explanation": "The naga Ashwasena rode Karna's arrow, and Krishna pressed the chariot down so it razed only Arjuna's crown."
+    },
+    {
+      "id": "vijaya-q30",
+      "difficulty": "hard",
+      "q": "Why was the meeting of Vijaya and Gandiva said to draw the gods as spectators?",
+      "options": ["It pitted the sons of Surya and Indra in the war's supreme duel", "It was the first duel ever fought after sunset", "Both bows had been pledged to Brahma's service", "A prophecy said both archers must die that day"],
+      "answer": 0,
+      "explanation": "The long-fated clash of Karna and Arjuna, half-brothers and sons of gods, was the contest heaven itself assembled to watch."
+    }
+  ]
+}

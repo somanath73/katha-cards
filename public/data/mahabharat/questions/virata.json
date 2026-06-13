@@ -1,0 +1,245 @@
+{
+  "cardId": "virata",
+  "questions": [
+    {
+      "id": "virata-q01",
+      "difficulty": "easy",
+      "q": "What was the name of the kingdom ruled by King Virata?",
+      "options": ["Panchala", "Matsya", "Madra", "Kekaya"],
+      "answer": 1,
+      "explanation": "Virata ruled the Matsya kingdom, where the Pandavas spent their thirteenth year in disguise."
+    },
+    {
+      "id": "virata-q02",
+      "difficulty": "easy",
+      "q": "Who was King Virata's queen?",
+      "options": ["Subhadra", "Satyavati", "Savitri", "Sudeshna"],
+      "answer": 3,
+      "explanation": "Queen Sudeshna was Virata's wife, and the disguised Draupadi served as her maid."
+    },
+    {
+      "id": "virata-q03",
+      "difficulty": "easy",
+      "q": "Which famous fugitives served in Virata's household for a year?",
+      "options": ["The five Pandavas and Draupadi in disguise", "Krishna and Balarama fleeing Jarasandha", "Drona and Kripa in their years of poverty", "Amba and her sisters after the abduction"],
+      "answer": 0,
+      "explanation": "The Pandavas and Draupadi spent their year of hiding as servants in Virata's palace, unknown to the king himself."
+    },
+    {
+      "id": "virata-q04",
+      "difficulty": "easy",
+      "q": "Who commanded Virata's armies and was brother to the queen?",
+      "options": ["Susharma", "Bhuminjaya", "Kichaka", "Shankha"],
+      "answer": 2,
+      "explanation": "Kichaka, Queen Sudeshna's brother, commanded the Matsya forces and was the real power behind the throne."
+    },
+    {
+      "id": "virata-q05",
+      "difficulty": "easy",
+      "q": "Which of Virata's children rode out against the Kaurava cattle raiders?",
+      "options": ["Shveta", "Prince Uttara", "Shankha", "Shatanika"],
+      "answer": 1,
+      "explanation": "Prince Uttara rode against the Kuru host with the dance teacher Brihannala, secretly Arjuna, as his charioteer."
+    },
+    {
+      "id": "virata-q06",
+      "difficulty": "easy",
+      "q": "Who was Virata's daughter, famed as a student of dance?",
+      "options": ["Uttara", "Devika", "Vijaya", "Karenumati"],
+      "answer": 0,
+      "explanation": "Princess Uttara learned dance from Brihannala and later married Abhimanyu, Arjuna's son."
+    },
+    {
+      "id": "virata-q07",
+      "difficulty": "easy",
+      "q": "What does the name of Virata's kingdom, Matsya, mean?",
+      "options": ["Mountain", "Chariot", "Elephant", "Fish"],
+      "answer": 3,
+      "explanation": "Matsya means fish, the name of the kingdom and its people."
+    },
+    {
+      "id": "virata-q08",
+      "difficulty": "easy",
+      "q": "Which disguised Pandava became King Virata's courtier and dice companion?",
+      "options": ["Bhima as Vallabha", "Nakula as Granthika", "Yudhishthira as Kanka", "Sahadeva as Tantipala"],
+      "answer": 2,
+      "explanation": "Yudhishthira, as the brahmin Kanka, kept the king company at dice and in counsel."
+    },
+    {
+      "id": "virata-q09",
+      "difficulty": "easy",
+      "q": "What drew enemy armies to Virata's kingdom in the thirteenth year of the Pandavas' exile?",
+      "options": ["Raids on the kingdom's vast cattle herds", "A claim on the throne by a rival prince", "A border dispute over the river fords", "The fame of the kingdom's gold mines"],
+      "answer": 0,
+      "explanation": "First the Trigartas and then the Kauravas raided Matsya's cattle after the death of its protector Kichaka."
+    },
+    {
+      "id": "virata-q10",
+      "difficulty": "easy",
+      "q": "Which side did King Virata join in the Kurukshetra war?",
+      "options": ["The Kauravas, bound by an old treaty", "Neither side, remaining neutral", "The Pandavas, his new kinsmen by marriage", "He stayed home to guard Matsya"],
+      "answer": 2,
+      "explanation": "Bound to the Pandavas through Uttara's marriage to Abhimanyu, Virata fought and died on their side."
+    },
+    {
+      "id": "virata-q11",
+      "difficulty": "medium",
+      "q": "Who led the Trigarta attack on Virata's southern herds?",
+      "options": ["Sudakshina", "Susharma", "Shrutayudha", "Sudhanva"],
+      "answer": 1,
+      "explanation": "Susharma, king of the Trigartas and an old enemy of Matsya, led the first cattle raid from the south."
+    },
+    {
+      "id": "virata-q12",
+      "difficulty": "medium",
+      "q": "Why did the Trigartas believe Matsya could finally be raided?",
+      "options": ["Virata had grown old and blind", "The Matsya army had marched to a distant war", "Virata had quarreled with his own commander", "Kichaka, the kingdom's feared protector, was dead"],
+      "answer": 3,
+      "explanation": "With Kichaka mysteriously slain, Susharma argued that Matsya lay open at last to its enemies."
+    },
+    {
+      "id": "virata-q13",
+      "difficulty": "medium",
+      "q": "What befell King Virata in the battle against the Trigartas?",
+      "options": ["He was captured by Susharma and rescued by the disguised Bhima", "He was wounded by an arrow and carried from the field", "He fled the field and abandoned his cattle", "He fell from his chariot and was given up for dead"],
+      "answer": 0,
+      "explanation": "Susharma carried the old king off in his chariot until Bhima, fighting as the cook Vallabha, ran him down and freed Virata."
+    },
+    {
+      "id": "virata-q14",
+      "difficulty": "medium",
+      "q": "Which marriage bound the Matsya kingdom to the Pandava cause?",
+      "options": ["Prince Uttara's marriage to a Panchala princess", "Virata's marriage to a Yadava bride", "Princess Uttara's marriage to Abhimanyu", "Sudeshna's sister's marriage to Nakula"],
+      "answer": 2,
+      "explanation": "The wedding of Virata's daughter Uttara to Arjuna's son Abhimanyu sealed the alliance between Matsya and the Pandavas."
+    },
+    {
+      "id": "virata-q15",
+      "difficulty": "medium",
+      "q": "In which Matsya city did the Pandavas gather their allies before the war?",
+      "options": ["Girivraja", "Upaplavya", "Kampilya", "Champa"],
+      "answer": 1,
+      "explanation": "After revealing themselves, the Pandavas based at Upaplavya in Matsya, where envoys came and war councils met."
+    },
+    {
+      "id": "virata-q16",
+      "difficulty": "medium",
+      "q": "What did Virata offer Arjuna upon learning Brihannala's true identity?",
+      "options": ["Half the Matsya kingdom and its treasury", "Command of all the Matsya armies", "A chariot of gold and a thousand cows", "The hand of his daughter Uttara in marriage"],
+      "answer": 3,
+      "explanation": "Virata offered Uttara as a bride, but Arjuna, who had been her teacher, accepted her instead as a daughter-in-law for Abhimanyu."
+    },
+    {
+      "id": "virata-q17",
+      "difficulty": "medium",
+      "q": "What pastime of King Virata kept the disguised Yudhishthira close to the throne?",
+      "options": ["Playing dice in the royal hall", "Listening to recitations of scripture", "Hunting in the royal preserves", "Debating with visiting sages"],
+      "answer": 0,
+      "explanation": "Virata loved dice, and Kanka was engaged precisely as the king's dice companion and courtier."
+    },
+    {
+      "id": "virata-q18",
+      "difficulty": "medium",
+      "q": "What force did Virata bring to the Pandava side at Kurukshetra?",
+      "options": ["Two hundred war elephants and little else", "Only his personal guard of chariots", "A full akshauhini of the Matsya army", "Seven thousand horsemen of the plains"],
+      "answer": 2,
+      "explanation": "Virata contributed one of the seven akshauhinis that made up the Pandava host."
+    },
+    {
+      "id": "virata-q19",
+      "difficulty": "medium",
+      "q": "Who killed King Virata during the Kurukshetra war?",
+      "options": ["Karna", "Drona", "Bhishma", "Ashwatthama"],
+      "answer": 1,
+      "explanation": "Drona slew the aged Virata, along with Drupada, on the fifteenth day of the war."
+    },
+    {
+      "id": "virata-q20",
+      "difficulty": "medium",
+      "q": "Which of Virata's sons was slain by Shalya on the first day of the war?",
+      "options": ["Shveta", "Shankha", "Shatanika", "Uttara"],
+      "answer": 3,
+      "explanation": "Prince Uttara fell to Shalya's dart on the first day, and his brother Shveta was killed by Bhishma the same day."
+    },
+    {
+      "id": "virata-q21",
+      "difficulty": "medium",
+      "q": "What position did the disguised Draupadi hold in Virata's palace?",
+      "options": ["Hairdresser and maid to Queen Sudeshna", "Nurse to the king's grandchildren", "Cook in the queen's kitchens", "Keeper of the palace shrine"],
+      "answer": 0,
+      "explanation": "As Sairandhri, Draupadi dressed Queen Sudeshna's hair and served in her inner apartments."
+    },
+    {
+      "id": "virata-q22",
+      "difficulty": "medium",
+      "q": "With which modern site is Virata's capital traditionally identified?",
+      "options": ["Ujjain in Madhya Pradesh", "Hastinapur in Uttar Pradesh", "Bairat in Rajasthan", "Kandahar in Afghanistan"],
+      "answer": 2,
+      "explanation": "By long tradition Viratanagara is identified with Bairat in Rajasthan, though the identification is traditional rather than certain."
+    },
+    {
+      "id": "virata-q23",
+      "difficulty": "hard",
+      "q": "Where does the Virata Parva fall among the Mahabharata's eighteen books?",
+      "options": ["Third", "Fourth", "Fifth", "Sixth"],
+      "answer": 1,
+      "explanation": "The Virata Parva is the fourth book, following the Vana Parva and preceding the Udyoga Parva."
+    },
+    {
+      "id": "virata-q24",
+      "difficulty": "hard",
+      "q": "Who chose Virata's kingdom as the Pandavas' hiding place for the thirteenth year?",
+      "options": ["Yudhishthira, who praised Virata as strong, virtuous, and friendly", "Krishna, who sent secret word from Dwarka", "Dhaumya, after consulting the stars", "Draupadi, who knew Queen Sudeshna of old"],
+      "answer": 0,
+      "explanation": "When the brothers weighed possible kingdoms, Yudhishthira settled on Matsya, calling old Virata powerful, charitable, and well disposed."
+    },
+    {
+      "id": "virata-q25",
+      "difficulty": "hard",
+      "q": "How did Brihannala convince prince Uttara of his true identity at the shami tree?",
+      "options": ["By stringing the Gandiva in a single motion", "By showing the scars of the Khandava burning", "By summoning his celestial chariot", "By reciting his ten names and explaining each one"],
+      "answer": 3,
+      "explanation": "Arjuna recited his ten names, Arjuna, Phalguna, Jishnu, Kiritin and the rest, explaining how he earned each, and the prince believed."
+    },
+    {
+      "id": "virata-q26",
+      "difficulty": "hard",
+      "q": "What did Virata offer Yudhishthira when the Pandavas finally revealed themselves?",
+      "options": ["A pledge of ten thousand soldiers", "His own services as a charioteer", "His entire kingdom along with its treasury", "The command of the Matsya cavalry"],
+      "answer": 2,
+      "explanation": "Overwhelmed that kings had served in his house, Virata placed his whole kingdom and treasury at Yudhishthira's disposal."
+    },
+    {
+      "id": "virata-q27",
+      "difficulty": "hard",
+      "q": "What was the eventual fate of Susharma, the Trigarta king who raided Matsya?",
+      "options": ["He surrendered to Virata and paid tribute", "He was slain by Arjuna in the war against the samsaptakas", "He fled to the mountains after the war", "He was trampled in the chariot charge of the first day"],
+      "answer": 1,
+      "explanation": "Susharma led the samsaptaka oath-warriors against Arjuna at Kurukshetra and was finally killed by him late in the war."
+    },
+    {
+      "id": "virata-q28",
+      "difficulty": "hard",
+      "q": "What family relation did King Virata bear to Parikshit?",
+      "options": ["Maternal grandfather, through his daughter Uttara", "Paternal great-uncle, through Abhimanyu", "Adoptive father, by rite of sanctuary", "Maternal uncle, through Queen Sudeshna"],
+      "answer": 0,
+      "explanation": "Parikshit was the son of Virata's daughter Uttara, making the Matsya king his maternal grandfather."
+    },
+    {
+      "id": "virata-q29",
+      "difficulty": "hard",
+      "q": "What story did the disguised Pandavas tell of their past when seeking service with Virata?",
+      "options": ["That war had destroyed their northern homeland", "That a famine had scattered their family", "That they were pilgrims delayed by floods", "That they had previously served in Yudhishthira's court"],
+      "answer": 3,
+      "explanation": "Each presented himself as a former servant of Yudhishthira, Kanka as his dice companion, Vallabha as his cook, and so on."
+    },
+    {
+      "id": "virata-q30",
+      "difficulty": "hard",
+      "q": "Why did prince Uttara face the Kaurava raid with no army behind him?",
+      "options": ["The soldiers refused to fight the Kurus", "The garrison had mutinied over unpaid wages", "Virata had led the whole army south against the Trigartas", "Plague had emptied the barracks that season"],
+      "answer": 2,
+      "explanation": "The Kauravas struck the northern herds while Virata and the entire Matsya army were away fighting Susharma's Trigartas in the south."
+    }
+  ]
+}

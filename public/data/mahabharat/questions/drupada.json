@@ -1,0 +1,330 @@
+{
+  "cardId": "drupada",
+  "questions": [
+    {
+      "id": "drupada-q01",
+      "difficulty": "easy",
+      "q": "Which kingdom did Drupada rule?",
+      "options": ["Magadha", "Panchala", "Matsya", "Sindhu"],
+      "answer": 1,
+      "explanation": "Drupada was king of Panchala, the great realm south of the Ganga and longtime rival of the Kurus."
+    },
+    {
+      "id": "drupada-q02",
+      "difficulty": "easy",
+      "q": "Who was Drupada's boyhood friend who later became his most bitter enemy?",
+      "options": ["Drona", "Kripa", "Bhishma", "Shalya"],
+      "answer": 0,
+      "explanation": "Drupada and Drona were close friends as students, but Drupada's insult to the impoverished Drona turned them into lifelong enemies."
+    },
+    {
+      "id": "drupada-q03",
+      "difficulty": "easy",
+      "q": "Which daughter of Drupada was born from a sacrificial fire?",
+      "options": ["Subhadra", "Uttara", "Draupadi", "Hidimbi"],
+      "answer": 2,
+      "explanation": "Draupadi emerged dark and dazzling from the same sacrificial fire that produced her brother Dhrishtadyumna."
+    },
+    {
+      "id": "drupada-q04",
+      "difficulty": "easy",
+      "q": "Which son of Drupada was destined from birth to kill Drona?",
+      "options": ["Shikhandi", "Dhrishtadyumna", "Satyajit", "Uttamaujas"],
+      "answer": 1,
+      "explanation": "Dhrishtadyumna stepped out of Drupada's sacrificial fire already armed, born expressly for the death of Drona."
+    },
+    {
+      "id": "drupada-q05",
+      "difficulty": "easy",
+      "q": "Why did Drupada commission a great fire sacrifice?",
+      "options": [
+        "To win back lost territory from Magadha",
+        "To beg the gods for rain in Panchala",
+        "To crown himself emperor of the north",
+        "To obtain a son who would slay Drona"
+      ],
+      "answer": 3,
+      "explanation": "Burning with humiliation after his defeat, Drupada sought a son who could kill Drona, and the rite gave him both a son and a daughter."
+    },
+    {
+      "id": "drupada-q06",
+      "difficulty": "easy",
+      "q": "What did Drona demand from the Kuru princes as his teaching fee?",
+      "options": [
+        "The capture of Drupada in battle",
+        "Half of Hastinapura's treasury",
+        "A herd of ten thousand cows",
+        "A celestial bow from the gods"
+      ],
+      "answer": 0,
+      "explanation": "As guru-dakshina Drona asked his royal students to defeat Drupada and bring him captive, which they did."
+    },
+    {
+      "id": "drupada-q07",
+      "difficulty": "easy",
+      "q": "Which warrior defeated and captured Drupada to pay Drona's teaching fee?",
+      "options": ["Bhima", "Duryodhana", "Arjuna", "Yudhishthira"],
+      "answer": 2,
+      "explanation": "After the Kauravas failed, Arjuna stormed Kampilya, defeated Drupada, and brought him bound before Drona."
+    },
+    {
+      "id": "drupada-q08",
+      "difficulty": "easy",
+      "q": "What event did Drupada hold to find a husband for his daughter Draupadi?",
+      "options": [
+        "A dice tournament",
+        "A swayamvara with an archery test",
+        "A horse sacrifice",
+        "A wrestling contest"
+      ],
+      "answer": 1,
+      "explanation": "Drupada held a swayamvara whose near-impossible archery test required piercing the eye of a fish revolving overhead."
+    },
+    {
+      "id": "drupada-q09",
+      "difficulty": "easy",
+      "q": "By what other name was Drupada known, from which Draupadi's epithet Yajnaseni derives?",
+      "options": ["Saubala", "Vichitravirya", "Brihadratha", "Yajnasena"],
+      "answer": 3,
+      "explanation": "Drupada was also called Yajnasena, and his fire-born daughter was therefore known as Yajnaseni."
+    },
+    {
+      "id": "drupada-q10",
+      "difficulty": "easy",
+      "q": "On which side did Drupada fight in the Kurukshetra war?",
+      "options": [
+        "The Pandavas",
+        "The Kauravas",
+        "He stayed neutral",
+        "He went on pilgrimage instead"
+      ],
+      "answer": 0,
+      "explanation": "As father-in-law of the Pandavas and enemy of Drona, Drupada brought his Panchala forces to the Pandava side."
+    },
+    {
+      "id": "drupada-q11",
+      "difficulty": "medium",
+      "q": "Where did Drupada and Drona become friends as boys?",
+      "options": [
+        "At Parashurama's mountain retreat",
+        "In the court of Hastinapura",
+        "At the hermitage of the sage Bharadwaja",
+        "In the city of Mathura"
+      ],
+      "answer": 2,
+      "explanation": "Drupada was sent to study at the ashram of Drona's father, the sage Bharadwaja, where the two boys grew inseparable."
+    },
+    {
+      "id": "drupada-q12",
+      "difficulty": "medium",
+      "q": "What did young Drupada promise Drona during their student days?",
+      "options": [
+        "His daughter's hand in marriage",
+        "Half his kingdom when he became king",
+        "Command of the Panchala army",
+        "A seat beside him at every sacrifice"
+      ],
+      "answer": 1,
+      "explanation": "The boy Drupada promised Drona half his kingdom, a pledge he mocked when Drona later came to claim friendship."
+    },
+    {
+      "id": "drupada-q13",
+      "difficulty": "medium",
+      "q": "How did King Drupada respond when the impoverished Drona came to him claiming friendship?",
+      "options": [
+        "He declared that friendship exists only between equals",
+        "He granted him a village and a herd of cattle",
+        "He quietly paid him to leave Panchala forever",
+        "He imprisoned him for insolence before the court"
+      ],
+      "answer": 0,
+      "explanation": "Drupada scorned the poor brahmin, saying a king and a beggar cannot be friends, an insult Drona never forgot."
+    },
+    {
+      "id": "drupada-q14",
+      "difficulty": "medium",
+      "q": "After defeating Drupada, how did Drona divide Panchala?",
+      "options": [
+        "He gave the whole kingdom to Arjuna",
+        "He annexed all of it to Hastinapura",
+        "He razed the capital and left it kingless",
+        "He kept the northern half and returned the southern half"
+      ],
+      "answer": 3,
+      "explanation": "Drona spared Drupada's life but kept Panchala north of the Ganga for himself, returning the southern half so they would now be equals."
+    },
+    {
+      "id": "drupada-q15",
+      "difficulty": "medium",
+      "q": "What was the capital of the southern Panchala that remained to Drupada?",
+      "options": ["Ahichchhatra", "Girivraja", "Kampilya", "Varanavata"],
+      "answer": 2,
+      "explanation": "Drupada ruled his diminished kingdom from Kampilya, where Draupadi's swayamvara was later held."
+    },
+    {
+      "id": "drupada-q16",
+      "difficulty": "medium",
+      "q": "Which brahmin brothers conducted the sacrifice that produced Drupada's fire-born children?",
+      "options": [
+        "Yaja and Upayaja",
+        "Nara and Narayana",
+        "Vishwamitra and Vashishtha",
+        "Agastya and Atri"
+      ],
+      "answer": 0,
+      "explanation": "The brothers Yaja and Upayaja performed the rite from which Dhrishtadyumna and Draupadi were born."
+    },
+    {
+      "id": "drupada-q17",
+      "difficulty": "medium",
+      "q": "Who was Drupada's father?",
+      "options": ["Somadatta", "Prishata", "Brihadratha", "Kuntibhoja"],
+      "answer": 1,
+      "explanation": "Drupada was the son of King Prishata of Panchala, which is why he is also called Parshata."
+    },
+    {
+      "id": "drupada-q18",
+      "difficulty": "medium",
+      "q": "From which capital did Drona rule the northern half of Panchala he seized?",
+      "options": ["Indraprastha", "Champa", "Pragjyotisha", "Ahichchhatra"],
+      "answer": 3,
+      "explanation": "Drona took Ahichchhatra as the seat of northern Panchala, leaving Drupada the south with Kampilya."
+    },
+    {
+      "id": "drupada-q19",
+      "difficulty": "medium",
+      "q": "Why did Drupada secretly design Draupadi's swayamvara test to be nearly impossible?",
+      "options": [
+        "He hoped only Arjuna could pass it and become his ally",
+        "He wanted no suitor to ever claim his daughter",
+        "He intended Karna to win and rule Panchala",
+        "He wished to humiliate the kings of the eastern realms"
+      ],
+      "answer": 0,
+      "explanation": "Drupada longed for Arjuna, the one warrior able to counter Drona, and shaped the bow test with him in mind despite rumors of the Pandavas' death."
+    },
+    {
+      "id": "drupada-q20",
+      "difficulty": "medium",
+      "q": "Drupada objected to Draupadi marrying all five Pandavas; who persuaded him to consent?",
+      "options": ["Narada", "Bhishma", "Vyasa", "Drona"],
+      "answer": 2,
+      "explanation": "Vyasa revealed Draupadi's past-life boon and divine destiny, convincing Drupada the five-husband marriage was sanctioned by fate."
+    },
+    {
+      "id": "drupada-q21",
+      "difficulty": "medium",
+      "q": "Which child of Drupada was the princess Amba reborn?",
+      "options": ["Dhrishtadyumna", "Shikhandi", "Draupadi", "Satyajit"],
+      "answer": 1,
+      "explanation": "Amba was reborn as Drupada's child Shikhandi, raised as a son and destined to be the instrument of Bhishma's fall."
+    },
+    {
+      "id": "drupada-q22",
+      "difficulty": "medium",
+      "q": "Who killed Drupada during the Kurukshetra war?",
+      "options": ["Karna", "Ashwatthama", "Bhishma", "Drona"],
+      "answer": 3,
+      "explanation": "Drona slew both Drupada and Virata on the fifteenth day of the war, shortly before his own death at Dhrishtadyumna's hands."
+    },
+    {
+      "id": "drupada-q23",
+      "difficulty": "hard",
+      "q": "What happened when Drupada's queen was summoned to receive the sacrificial offering meant to give her children?",
+      "options": [
+        "She was unprepared, so the oblation was poured straight into the fire",
+        "She refused it, fearing the prophecy of Drona's death",
+        "She fainted at the altar and was carried away",
+        "She passed it secretly to her serving maid"
+      ],
+      "answer": 0,
+      "explanation": "The queen asked the sages to wait as she was not ritually ready, but Yaja poured the offering into the fire, from which the children then arose."
+    },
+    {
+      "id": "drupada-q24",
+      "difficulty": "hard",
+      "q": "Which sage first refused Drupada's request to perform the vengeance sacrifice, directing him elsewhere?",
+      "options": ["Yaja", "Upayaja", "Dhaumya", "Parashara"],
+      "answer": 1,
+      "explanation": "The scrupulous Upayaja rejected Drupada's offer of wealth and sent him to his elder brother Yaja, who accepted the task."
+    },
+    {
+      "id": "drupada-q25",
+      "difficulty": "hard",
+      "q": "How did Drupada spend the years after Drona seized half his kingdom?",
+      "options": [
+        "Raising mercenary armies in the western hills",
+        "Performing penance to Shiva in the Himalayas",
+        "Searching for brahmins able to grant him a son who could kill Drona",
+        "Building alliances through marriages with Magadha"
+      ],
+      "answer": 2,
+      "explanation": "Knowing no warrior could match Drona, Drupada wandered among brahmin settlements seeking priests with the power to give him a destined son."
+    },
+    {
+      "id": "drupada-q26",
+      "difficulty": "hard",
+      "q": "What did the disembodied voice proclaim when Dhrishtadyumna stepped from Drupada's sacrificial fire?",
+      "options": [
+        "That he would rule all of Bharata",
+        "That he would betray his own father",
+        "That he would die before his sister",
+        "That he had been born for the destruction of Drona"
+      ],
+      "answer": 3,
+      "explanation": "A voice from the sky announced that the fire-born prince would dispel Panchala's grief by slaying Drona."
+    },
+    {
+      "id": "drupada-q27",
+      "difficulty": "hard",
+      "q": "What command did Drupada hold in the Pandava war effort?",
+      "options": [
+        "He led one of the seven akshauhinis of the Pandava host",
+        "He commanded only the cavalry reserves",
+        "He guarded the camp and the supply lines",
+        "He served as an elder counselor without troops"
+      ],
+      "answer": 0,
+      "explanation": "Drupada was named one of the seven leaders, each commanding a full akshauhini of the Pandava army."
+    },
+    {
+      "id": "drupada-q28",
+      "difficulty": "hard",
+      "q": "Who avenged Drupada's death on the very day he fell?",
+      "options": [
+        "Shikhandi, with arrows through Drona's chest",
+        "Dhrishtadyumna, by beheading Drona",
+        "Bhima, by crushing Drona's chariot",
+        "Arjuna, with the Pashupatastra"
+      ],
+      "answer": 1,
+      "explanation": "On the fifteenth day Dhrishtadyumna beheaded Drona, fulfilling his birth destiny and avenging his father within hours of Drupada's fall."
+    },
+    {
+      "id": "drupada-q29",
+      "difficulty": "hard",
+      "q": "By what clan names were Drupada's people also known in the epic?",
+      "options": [
+        "The Bhojas and Andhakas",
+        "The Trigartas and Sauviras",
+        "The Somakas and Srinjayas",
+        "The Nishadas and Kiratas"
+      ],
+      "answer": 2,
+      "explanation": "The Panchalas of Drupada's house are repeatedly called Somakas and Srinjayas after their famed ancestors."
+    },
+    {
+      "id": "drupada-q30",
+      "difficulty": "hard",
+      "q": "What diplomatic step did Drupada propose at the Pandava war council in Upaplavya?",
+      "options": [
+        "Offering Duryodhana the whole of Panchala for peace",
+        "Challenging Drona to single combat before the war",
+        "Asking Balarama to arbitrate between the cousins",
+        "Sending his own priest to Hastinapura while swiftly gathering allies"
+      ],
+      "answer": 3,
+      "explanation": "Drupada advised dispatching messengers at once to allied kings and sent his family priest to the Kuru court as the first peace envoy."
+    }
+  ]
+}

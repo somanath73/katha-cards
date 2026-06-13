@@ -1,0 +1,245 @@
+{
+  "cardId": "kuru-lineage",
+  "questions": [
+    {
+      "id": "kuru-lineage-q01",
+      "difficulty": "easy",
+      "q": "Who were the parents of Bharata, the emperor after whom the dynasty's land is named?",
+      "options": ["Dushyanta and Shakuntala", "Shantanu and Ganga", "Yayati and Devayani", "Pandu and Kunti"],
+      "answer": 0,
+      "explanation": "Bharata was the son of King Dushyanta and Shakuntala, and the dynasty traced its glory to him."
+    },
+    {
+      "id": "kuru-lineage-q02",
+      "difficulty": "easy",
+      "q": "What is the land of the dynasty called in Bharata's honor?",
+      "options": ["Aryavarta", "Bharatavarsha", "Kurujangala", "Jambudvipa"],
+      "answer": 1,
+      "explanation": "The land came to be called Bharatavarsha, the realm of Bharata, a name India carries to this day."
+    },
+    {
+      "id": "kuru-lineage-q03",
+      "difficulty": "easy",
+      "q": "From whom does the dynasty take the name \"Kuru\"?",
+      "options": ["A sacred river of the north", "An ancient forest sage", "King Kuru, an ancestor of the line", "The kusha grass of the field"],
+      "answer": 2,
+      "explanation": "King Kuru, a descendant of Bharata, gave his name both to the dynasty and to the field of Kurukshetra."
+    },
+    {
+      "id": "kuru-lineage-q04",
+      "difficulty": "easy",
+      "q": "Which sacred field did King Kuru plough, sanctifying it for all time?",
+      "options": ["Panchala", "Matsya", "Magadha", "Kurukshetra"],
+      "answer": 3,
+      "explanation": "Kuru ploughed the field that became Kurukshetra, the plain where his descendants would one day fight."
+    },
+    {
+      "id": "kuru-lineage-q05",
+      "difficulty": "easy",
+      "q": "What was the ancestral capital city of the Kuru dynasty?",
+      "options": ["Indraprastha", "Hastinapura", "Kampilya", "Mathura"],
+      "answer": 1,
+      "explanation": "Hastinapura, the City of Elephants on the Ganga, was the seat of the Kuru kings."
+    },
+    {
+      "id": "kuru-lineage-q06",
+      "difficulty": "easy",
+      "q": "Which son of Shantanu and Ganga survived infancy to continue serving the line?",
+      "options": ["Devavrata", "Chitrangada", "Vichitravirya", "Vidura"],
+      "answer": 0,
+      "explanation": "Devavrata, the eighth son spared by Ganga, grew up to become Bhishma, the dynasty's great guardian."
+    },
+    {
+      "id": "kuru-lineage-q07",
+      "difficulty": "easy",
+      "q": "In the lineage's final split into rival branches, the sons of Pandu were known by what name?",
+      "options": ["Kauravas", "Yadavas", "Pandavas", "Panchalas"],
+      "answer": 2,
+      "explanation": "Pandu's five sons were called the Pandavas, rivals to their cousins the Kauravas."
+    },
+    {
+      "id": "kuru-lineage-q08",
+      "difficulty": "easy",
+      "q": "To which great royal line do the Kurus belong?",
+      "options": ["The solar dynasty of Ikshvaku", "The lunar dynasty descended from the moon", "The fire-born line of Agni", "The serpent line of Takshaka"],
+      "answer": 1,
+      "explanation": "The Kurus belong to the Chandravamsha, the lunar dynasty descended from Soma, the moon."
+    },
+    {
+      "id": "kuru-lineage-q09",
+      "difficulty": "easy",
+      "q": "The hundred Kauravas of the lineage were the sons of which king?",
+      "options": ["Pandu", "Shantanu", "Vichitravirya", "Dhritarashtra"],
+      "answer": 3,
+      "explanation": "The blind king Dhritarashtra and Gandhari were the parents of the hundred Kauravas."
+    },
+    {
+      "id": "kuru-lineage-q10",
+      "difficulty": "easy",
+      "q": "Which heir, saved in his mother's womb, alone carried the Kuru line beyond the great war?",
+      "options": ["Janamejaya", "Parikshit", "Abhimanyu", "Yuyutsu"],
+      "answer": 1,
+      "explanation": "Parikshit, son of Abhimanyu and Uttara, was revived by Krishna and became the line's sole surviving thread."
+    },
+    {
+      "id": "kuru-lineage-q11",
+      "difficulty": "medium",
+      "q": "Who were Shakuntala's birth parents?",
+      "options": ["Vishvamitra and Menaka", "Kanva and an apsara", "Kashyapa and Aditi", "Bharadwaja and Ghritachi"],
+      "answer": 0,
+      "explanation": "Shakuntala was born to the sage Vishvamitra and the apsara Menaka, who abandoned her in the forest."
+    },
+    {
+      "id": "kuru-lineage-q12",
+      "difficulty": "medium",
+      "q": "Which sage found and raised the abandoned Shakuntala in his hermitage?",
+      "options": ["Vasishtha", "Durvasa", "Kanva", "Bharadwaja"],
+      "answer": 2,
+      "explanation": "The sage Kanva raised Shakuntala as his own daughter in his forest hermitage."
+    },
+    {
+      "id": "kuru-lineage-q13",
+      "difficulty": "medium",
+      "q": "What childhood name did Bharata earn by fearlessly taming wild beasts?",
+      "options": ["Bhumanyu", "Suhotra", "Ajamidha", "Sarvadamana"],
+      "answer": 3,
+      "explanation": "The boy was called Sarvadamana, the all-tamer, for he played with lions and tigers as a child."
+    },
+    {
+      "id": "kuru-lineage-q14",
+      "difficulty": "medium",
+      "q": "Why is Bharata's choice of successor remembered as remarkable?",
+      "options": ["He set aside his own nine sons and installed a worthy heir", "He divided the realm equally among nine sons", "He left the throne to his only daughter", "He returned the crown to his father Dushyanta"],
+      "answer": 0,
+      "explanation": "Judging his nine sons unworthy, Bharata adopted Bhumanyu, obtained through Bharadwaja's rites, putting merit above blood."
+    },
+    {
+      "id": "kuru-lineage-q15",
+      "difficulty": "medium",
+      "q": "How did the ancestor Puru win the throne from his father Yayati?",
+      "options": ["By winning a celestial contest", "By marrying a naga princess", "By taking his father's old age upon himself", "By conquering the eastern kingdoms"],
+      "answer": 2,
+      "explanation": "Puru alone agreed to exchange his youth for Yayati's cursed old age, and was rewarded with the kingdom."
+    },
+    {
+      "id": "kuru-lineage-q16",
+      "difficulty": "medium",
+      "q": "Who was the father of Yayati in the lunar line?",
+      "options": ["Pururavas", "Ayu", "Soma", "Nahusha"],
+      "answer": 3,
+      "explanation": "Yayati was the son of Nahusha, the king who once briefly held Indra's throne."
+    },
+    {
+      "id": "kuru-lineage-q17",
+      "difficulty": "medium",
+      "q": "After whom was the capital Hastinapura named?",
+      "options": ["Indra's elephant Airavata", "A hill shaped like an elephant", "King Hastin, an early ancestor", "The elephant corps of King Kuru"],
+      "answer": 2,
+      "explanation": "King Hastin, an early ancestor of the line, founded the city that bore his name, the City of Elephants."
+    },
+    {
+      "id": "kuru-lineage-q18",
+      "difficulty": "medium",
+      "q": "Who was the father of King Shantanu?",
+      "options": ["Bahlika", "Pratipa", "Devapi", "Kuru"],
+      "answer": 1,
+      "explanation": "Shantanu was born to King Pratipa in the king's old age, after long austerities."
+    },
+    {
+      "id": "kuru-lineage-q19",
+      "difficulty": "medium",
+      "q": "Which elder brother of Shantanu renounced the world instead of taking the throne?",
+      "options": ["Devapi", "Bahlika", "Somadatta", "Chitrangada"],
+      "answer": 0,
+      "explanation": "Devapi, the eldest, became an ascetic, leaving the succession to pass toward Shantanu."
+    },
+    {
+      "id": "kuru-lineage-q20",
+      "difficulty": "medium",
+      "q": "Chitrangada and Vichitravirya, the short-lived heirs, were the sons of which couple?",
+      "options": ["Shantanu and Ganga", "Vichitravirya and Ambika", "Shantanu and Satyavati", "Pratipa and Sunanda"],
+      "answer": 2,
+      "explanation": "They were the two sons born to Shantanu and his second wife, the fisher queen Satyavati."
+    },
+    {
+      "id": "kuru-lineage-q21",
+      "difficulty": "medium",
+      "q": "How did the young king Chitrangada meet his death?",
+      "options": ["At his own brother's hand in a quarrel", "By a naga's poison", "From wounds taken on a boar hunt", "Slain by a gandharva who bore the same name"],
+      "answer": 3,
+      "explanation": "A gandharva also named Chitrangada challenged the proud young king and killed him in a long duel."
+    },
+    {
+      "id": "kuru-lineage-q22",
+      "difficulty": "medium",
+      "q": "When Vichitravirya died childless, who fathered Dhritarashtra, Pandu, and Vidura to continue the lineage?",
+      "options": ["Bhishma", "Vyasa", "Shantanu", "Parashara"],
+      "answer": 1,
+      "explanation": "By the custom of niyoga, the sage Vyasa fathered the three princes upon the widowed queens and a maid."
+    },
+    {
+      "id": "kuru-lineage-q23",
+      "difficulty": "hard",
+      "q": "The lunar line descends from the moon through which ancestor, famous for his love of the apsara Urvashi?",
+      "options": ["Pururavas", "Nahusha", "Budha", "Ila"],
+      "answer": 0,
+      "explanation": "Pururavas, grandson of the moon through Budha and Ila, loved Urvashi and fathered the line's continuation."
+    },
+    {
+      "id": "kuru-lineage-q24",
+      "difficulty": "hard",
+      "q": "Who was the mother of Puru, the ancestor from whom the dynasty descends?",
+      "options": ["Devayani", "Menaka", "Urvashi", "Sharmishtha"],
+      "answer": 3,
+      "explanation": "Puru was Yayati's son by Sharmishtha, the asura princess, not by his first wife Devayani."
+    },
+    {
+      "id": "kuru-lineage-q25",
+      "difficulty": "hard",
+      "q": "In Vyasa's Mahabharata, what finally made Dushyanta acknowledge Shakuntala and her son?",
+      "options": ["Dushyanta found his lost signet ring", "A voice from the heavens confirmed her word", "The sage Kanva arrived bearing proof", "The boy strung the royal bow"],
+      "answer": 1,
+      "explanation": "In the epic a celestial voice vouched for Shakuntala; the famous lost-ring device belongs to Kalidasa's later play."
+    },
+    {
+      "id": "kuru-lineage-q26",
+      "difficulty": "hard",
+      "q": "What boon was attached to the field that King Kuru ploughed?",
+      "options": ["No weapon could ever be forged there", "Crops there would never fail", "Kings would always be crowned there", "Those who die there attain heaven"],
+      "answer": 3,
+      "explanation": "Kuru's austerities won the promise that those who die at Kurukshetra rise to heaven, sanctifying the future battlefield."
+    },
+    {
+      "id": "kuru-lineage-q27",
+      "difficulty": "hard",
+      "q": "Which brother of Shantanu left Hastinapura to rule in his maternal uncle's distant kingdom?",
+      "options": ["Bahlika", "Devapi", "Somadatta", "Shalya"],
+      "answer": 0,
+      "explanation": "Bahlika settled in the northwestern realm of Bahli, leaving the Hastinapura succession to Shantanu."
+    },
+    {
+      "id": "kuru-lineage-q28",
+      "difficulty": "hard",
+      "q": "Why was Pandu crowned king although Dhritarashtra was the elder brother?",
+      "options": ["He won a contest of arms", "Dhritarashtra's blindness barred him from the throne", "Satyavati favored the younger prince", "Dhritarashtra renounced the crown willingly"],
+      "answer": 1,
+      "explanation": "Law held that a blind man could not rule, so the crown passed over Dhritarashtra to Pandu."
+    },
+    {
+      "id": "kuru-lineage-q29",
+      "difficulty": "hard",
+      "q": "After Parikshit, which king continued the Kuru line and heard the epic recited?",
+      "options": ["Shatanika", "Yuyutsu", "Uttara", "Janamejaya"],
+      "answer": 3,
+      "explanation": "Parikshit's son Janamejaya succeeded him, and at his snake sacrifice the Mahabharata was first recited."
+    },
+    {
+      "id": "kuru-lineage-q30",
+      "difficulty": "hard",
+      "q": "Strictly speaking, to whom does the title \"Kaurava\", descendant of Kuru, apply?",
+      "options": ["Only the hundred sons of Dhritarashtra", "Only the five sons of Pandu", "Both the sons of Dhritarashtra and the sons of Pandu", "Only the descendants of Bahlika"],
+      "answer": 2,
+      "explanation": "Both rival branches descend from King Kuru, though usage reserves the name Kaurava for Dhritarashtra's sons."
+    }
+  ]
+}

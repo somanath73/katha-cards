@@ -1,0 +1,335 @@
+{
+  "cardId": "krishna",
+  "questions": [
+    {
+      "id": "krishna-q01",
+      "difficulty": "easy",
+      "q": "Which avatar of Vishnu is Krishna counted as in the traditional list?",
+      "options": ["The sixth", "The seventh", "The eighth", "The ninth"],
+      "answer": 2,
+      "explanation": "Krishna is reckoned the eighth avatar of Vishnu, born to relieve the burdened Earth."
+    },
+    {
+      "id": "krishna-q02",
+      "difficulty": "easy",
+      "q": "What role did Krishna take at Arjuna's side in the Kurukshetra war?",
+      "options": ["His charioteer", "His armorer", "His flag-bearer", "His fellow archer"],
+      "answer": 0,
+      "explanation": "Having vowed not to bear arms, Krishna drove Arjuna's chariot through all eighteen days of battle."
+    },
+    {
+      "id": "krishna-q03",
+      "difficulty": "easy",
+      "q": "What teaching did Krishna deliver to Arjuna between the two armies?",
+      "options": [
+        "The Vedanta Sutras",
+        "The Bhagavad Gita",
+        "The Vidura Niti",
+        "The Yoga Sutras"
+      ],
+      "answer": 1,
+      "explanation": "When Arjuna dropped his bow in despair, Krishna spoke the seven hundred verses of the Bhagavad Gita."
+    },
+    {
+      "id": "krishna-q04",
+      "difficulty": "easy",
+      "q": "Which city did Krishna build for the Yadavas on the western sea?",
+      "options": ["Mathura", "Champa", "Girivraja", "Dwarka"],
+      "answer": 3,
+      "explanation": "Krishna raised the fortress city of Dwarka on the western ocean, built by the divine architect Vishvakarma."
+    },
+    {
+      "id": "krishna-q05",
+      "difficulty": "easy",
+      "q": "What was the name of Krishna's conch?",
+      "options": ["Panchajanya", "Devadatta", "Anantavijaya", "Paundra"],
+      "answer": 0,
+      "explanation": "Krishna's conch Panchajanya, taken from the sea demon Panchajana, sounded the opening of the war."
+    },
+    {
+      "id": "krishna-q06",
+      "difficulty": "easy",
+      "q": "Which sister of Krishna married Arjuna?",
+      "options": ["Lakshmana", "Subhadra", "Bhanumati", "Mitravinda"],
+      "answer": 1,
+      "explanation": "Krishna steered his sister Subhadra toward Arjuna, who carried her off with her consent and Krishna's blessing."
+    },
+    {
+      "id": "krishna-q07",
+      "difficulty": "easy",
+      "q": "Who was Krishna's mighty elder brother?",
+      "options": ["Pradyumna", "Satyaki", "Balarama", "Akrura"],
+      "answer": 2,
+      "explanation": "Balarama, the plough-bearer and incarnation of Shesha, was Krishna's elder brother."
+    },
+    {
+      "id": "krishna-q08",
+      "difficulty": "easy",
+      "q": "Before the war, what choice did Krishna offer Arjuna and Duryodhana?",
+      "options": [
+        "His treasury to one, his fleet to the other",
+        "His blessing to one, his curse to the other",
+        "Dwarka to one side, Mathura to the other",
+        "His vast army to one side, himself alone and unarmed to the other"
+      ],
+      "answer": 3,
+      "explanation": "Krishna offered his Narayani army to one claimant and only his own unarmed self to the other."
+    },
+    {
+      "id": "krishna-q09",
+      "difficulty": "easy",
+      "q": "Who chose the unarmed Krishna over his entire army?",
+      "options": ["Arjuna", "Duryodhana", "Yudhishthira", "Bhima"],
+      "answer": 0,
+      "explanation": "Arjuna chose Krishna alone, while Duryodhana left delighted with the great Narayani host."
+    },
+    {
+      "id": "krishna-q10",
+      "difficulty": "easy",
+      "q": "What was the name of Krishna's discus?",
+      "options": [
+        "The Vajra Chakra",
+        "The Sudarshana Chakra",
+        "The Kala Chakra",
+        "The Dharma Chakra"
+      ],
+      "answer": 1,
+      "explanation": "Krishna wielded the Sudarshana Chakra, the spinning discus that returned to his hand after every throw."
+    },
+    {
+      "id": "krishna-q11",
+      "difficulty": "medium",
+      "q": "Who were Krishna's birth parents?",
+      "options": [
+        "Nanda and Yashoda",
+        "Ugrasena and Padmavati",
+        "Vasudeva and Devaki",
+        "Shurasena and Marisha"
+      ],
+      "answer": 2,
+      "explanation": "Krishna was born to Vasudeva and Devaki in Kamsa's prison and raised in secret by Nanda and Yashoda."
+    },
+    {
+      "id": "krishna-q12",
+      "difficulty": "medium",
+      "q": "Which tyrant uncle did Krishna slay in Mathura?",
+      "options": ["Jarasandha", "Shishupala", "Narakasura", "Kamsa"],
+      "answer": 3,
+      "explanation": "Krishna killed Kamsa, Devaki's brother, who had murdered her earlier children to escape a prophecy of his own death."
+    },
+    {
+      "id": "krishna-q13",
+      "difficulty": "medium",
+      "q": "Why did Krishna move the Yadavas from Mathura to Dwarka?",
+      "options": [
+        "Jarasandha's repeated sieges made Mathura unsafe",
+        "A famine had emptied the Mathura countryside",
+        "A sage cursed Mathura to sink into the Yamuna",
+        "Kamsa's allies had seized the city's gates"
+      ],
+      "answer": 0,
+      "explanation": "Jarasandha of Magadha, father-in-law of the slain Kamsa, besieged Mathura again and again until Krishna moved his people west."
+    },
+    {
+      "id": "krishna-q14",
+      "difficulty": "medium",
+      "q": "Whom did Krishna behead with his discus at Yudhishthira's Rajasuya?",
+      "options": ["Jarasandha", "Shishupala", "Dantavakra", "Rukmi"],
+      "answer": 1,
+      "explanation": "When Shishupala's insults passed the hundredth, Krishna loosed the Sudarshana and took off the Chedi king's head."
+    },
+    {
+      "id": "krishna-q15",
+      "difficulty": "medium",
+      "q": "As peace envoy, what minimal demand did Krishna make of Duryodhana for the Pandavas?",
+      "options": [
+        "Half the Kuru kingdom",
+        "The return of Indraprastha alone",
+        "Just five villages",
+        "A public apology to Draupadi"
+      ],
+      "answer": 2,
+      "explanation": "Krishna asked for only five villages, and Duryodhana refused even land enough for the point of a needle."
+    },
+    {
+      "id": "krishna-q16",
+      "difficulty": "medium",
+      "q": "What did Krishna reveal when Duryodhana tried to seize him at the Kuru court?",
+      "options": [
+        "A hidden army surrounding Hastinapura",
+        "The secret of Karna's birth",
+        "The Sudarshana poised above the throne",
+        "His blazing universal form"
+      ],
+      "answer": 3,
+      "explanation": "Krishna displayed the Vishvarupa, his cosmic form, blinding the court and showing the folly of binding a god."
+    },
+    {
+      "id": "krishna-q17",
+      "difficulty": "medium",
+      "q": "At whose humble home did Krishna dine in Hastinapura, declining Duryodhana's feast?",
+      "options": ["Vidura's", "Bhishma's", "Kripa's", "Sanjaya's"],
+      "answer": 0,
+      "explanation": "Krishna chose the simple food of the devoted Vidura over Duryodhana's royal hospitality offered without love."
+    },
+    {
+      "id": "krishna-q18",
+      "difficulty": "medium",
+      "q": "In the most retold version, how did Krishna save Draupadi in the dice hall?",
+      "options": [
+        "He appeared and struck down Dushasana",
+        "By his grace her sari grew without end",
+        "He sent Garuda to carry her away",
+        "He froze the assembly with a single glance"
+      ],
+      "answer": 1,
+      "explanation": "Popular retellings say Krishna's grace made the sari endless as Dushasana pulled; the critical edition credits unseen dharma."
+    },
+    {
+      "id": "krishna-q19",
+      "difficulty": "medium",
+      "q": "What curse did Gandhari lay upon Krishna after the war?",
+      "options": [
+        "That he would be reborn a hundred times",
+        "That Dwarka would burn that very night",
+        "That his clan would destroy itself in thirty-six years and he would die alone",
+        "That he would forget his divinity forever"
+      ],
+      "answer": 2,
+      "explanation": "Grieving her hundred sons, Gandhari cursed the Yadavas to mutual slaughter in thirty-six years, and Krishna accepted it with a smile."
+    },
+    {
+      "id": "krishna-q20",
+      "difficulty": "medium",
+      "q": "How did Krishna's mortal life end?",
+      "options": [
+        "He was slain in the iron-pestle brawl at Prabhasa",
+        "He drowned when the sea swallowed Dwarka",
+        "He renounced his body in yogic trance on a mountaintop",
+        "A hunter named Jara pierced his heel with an arrow, mistaking him for a deer"
+      ],
+      "answer": 3,
+      "explanation": "As Krishna rested beneath a tree, the hunter Jara mistook his foot for a deer and shot the arrow that ended his earthly life."
+    },
+    {
+      "id": "krishna-q21",
+      "difficulty": "medium",
+      "q": "What was Kunti's relation to Krishna?",
+      "options": [
+        "She was his father Vasudeva's sister, making him her nephew",
+        "She was his mother Devaki's cousin by marriage",
+        "She was his foster mother Yashoda's sister",
+        "She was unrelated, bound to him only by alliance"
+      ],
+      "answer": 0,
+      "explanation": "Kunti, born Pritha, was Vasudeva's sister, so Krishna was the Pandavas' cousin through their mother."
+    },
+    {
+      "id": "krishna-q22",
+      "difficulty": "medium",
+      "q": "Krishna's false-sunset stratagem helped Arjuna keep his vow to kill which king?",
+      "options": ["Bhagadatta", "Jayadratha", "Shrutayudha", "Vinda of Avanti"],
+      "answer": 1,
+      "explanation": "When darkness seemed to fall, Jayadratha's guards relaxed, the light returned, and Arjuna's arrow fulfilled the sunset vow."
+    },
+    {
+      "id": "krishna-q23",
+      "difficulty": "hard",
+      "q": "Why did Krishna endure a hundred insults from Shishupala before killing him?",
+      "options": [
+        "He was bound by a vow of nonviolence at sacrifices",
+        "Bhishma had begged mercy for the Chedi king",
+        "He had promised Shishupala's mother to forgive a hundred offenses",
+        "The Rajasuya rites forbade bloodshed until sundown"
+      ],
+      "answer": 2,
+      "explanation": "Krishna had promised his aunt, Shishupala's mother, to pardon a hundred offenses, and the hundred-and-first was answered with the discus."
+    },
+    {
+      "id": "krishna-q24",
+      "difficulty": "hard",
+      "q": "What secret did Krishna disclose to Karna before the war began?",
+      "options": [
+        "The day appointed for Bhishma's fall",
+        "The mortal flaw in Duryodhana's body",
+        "The hiding place of the Pandava weapons",
+        "That Karna was Kunti's firstborn and elder brother to the Pandavas"
+      ],
+      "answer": 3,
+      "explanation": "Krishna revealed Karna's birth and offered him the throne as the eldest Pandava, but Karna chose loyalty to Duryodhana."
+    },
+    {
+      "id": "krishna-q25",
+      "difficulty": "hard",
+      "q": "How did Krishna break his own vow of not bearing arms during the war?",
+      "options": [
+        "He charged at Bhishma with a weapon, restrained only by Arjuna's pleas",
+        "He hurled the Sudarshana at Drona's formation",
+        "He shot a single arrow to save Yudhishthira",
+        "He swung a mace against Shalya's guard"
+      ],
+      "answer": 0,
+      "explanation": "Enraged by Bhishma's onslaught, Krishna leapt down and rushed at him — with a chariot wheel in popular tradition, a whip or the discus in the texts — until Arjuna held him back."
+    },
+    {
+      "id": "krishna-q26",
+      "difficulty": "hard",
+      "q": "How did Bhishma respond when Krishna rushed at him in fury?",
+      "options": [
+        "He fled the field until sunset",
+        "He welcomed death at the god's hands, lowering his own weapons in reverence",
+        "He reminded Krishna of his vow and shamed him into retreat",
+        "He called on Shikhandi to shield him"
+      ],
+      "answer": 1,
+      "explanation": "Bhishma dropped his bow and welcomed the attack, declaring that death at Krishna's hands would be his highest glory."
+    },
+    {
+      "id": "krishna-q27",
+      "difficulty": "hard",
+      "q": "What counsel of Krishna saved the Pandava army from the Narayanastra?",
+      "options": [
+        "To scatter in every direction until the storm passed",
+        "To raise the Pashupatastra in counter",
+        "To lay down arms, dismount, and abandon even the wish to fight",
+        "To shelter behind a wall of elephants"
+      ],
+      "answer": 2,
+      "explanation": "The Narayanastra grew fiercer against resistance, so Krishna ordered total surrender of weapons and will, and the storm passed over."
+    },
+    {
+      "id": "krishna-q28",
+      "difficulty": "hard",
+      "q": "Whom did Krishna revive by a solemn act of truth after the war?",
+      "options": [
+        "Abhimanyu, on the thirteenth night",
+        "Ghatotkacha, after the dart had flown",
+        "The five sleeping sons of Draupadi",
+        "The stillborn Parikshit, struck in the womb by the Brahmastra"
+      ],
+      "answer": 3,
+      "explanation": "Krishna revived Uttara's stillborn son Parikshit, blasted in the womb by Ashwatthama's weapon, preserving the Kuru line."
+    },
+    {
+      "id": "krishna-q29",
+      "difficulty": "hard",
+      "q": "How did Krishna engineer the death of Jarasandha?",
+      "options": [
+        "He entered Girivraja disguised as a brahmin with Bhima and Arjuna and had Bhima wrestle him",
+        "He lured him into a sea battle off the coast of Dwarka",
+        "He turned Jarasandha's vassal kings against him with gifts",
+        "He challenged him to single combat with the discus"
+      ],
+      "answer": 0,
+      "explanation": "Disguised as brahmins, the three entered Magadha's capital, and at Krishna's prompting Bhima tore Jarasandha apart in a wrestling match."
+    },
+    {
+      "id": "krishna-q30",
+      "difficulty": "hard",
+      "q": "In the pairing of the ancient seers reborn on the battlefield, Krishna was Narayana; who was Nara?",
+      "options": ["Yudhishthira", "Arjuna", "Vyasa", "Balarama"],
+      "answer": 1,
+      "explanation": "The epic identifies Krishna and Arjuna as the ancient seers Narayana and Nara, inseparable across the ages."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "panchala",
+  "questions": [
+    {
+      "id": "panchala-q01",
+      "difficulty": "easy",
+      "q": "What was the capital city of King Drupada's Panchala?",
+      "options": [
+        "Ahichchhatra",
+        "Kampilya",
+        "Kashi",
+        "Mathura"
+      ],
+      "answer": 1,
+      "explanation": "Drupada ruled from Kampilya, the southern Panchala capital where Draupadi's swayamvara was later held."
+    },
+    {
+      "id": "panchala-q02",
+      "difficulty": "easy",
+      "q": "Who ruled Panchala at the time of the Pandavas?",
+      "options": [
+        "Virata",
+        "Shalya",
+        "Jarasandha",
+        "Drupada"
+      ],
+      "answer": 3,
+      "explanation": "King Drupada, Drona's boyhood friend turned bitter enemy, ruled Panchala and fathered its fire-born children."
+    },
+    {
+      "id": "panchala-q03",
+      "difficulty": "easy",
+      "q": "Which queen of the epic was born in Panchala and named for it?",
+      "options": [
+        "Draupadi, called Panchali",
+        "Gandhari, the blindfolded",
+        "Kunti, mother of heroes",
+        "Subhadra, sister of Krishna"
+      ],
+      "answer": 0,
+      "explanation": "Draupadi rose from her father's sacrificial fire in Panchala, and the land gave her the famous name Panchali."
+    },
+    {
+      "id": "panchala-q04",
+      "difficulty": "easy",
+      "q": "Which fire-born prince of Panchala commanded the Pandava armies?",
+      "options": [
+        "Shikhandi",
+        "Satyajit",
+        "Dhrishtadyumna",
+        "Uttamaujas"
+      ],
+      "answer": 2,
+      "explanation": "Dhrishtadyumna, born armed and armored from Drupada's sacrifice, led the Pandava host for all eighteen days."
+    },
+    {
+      "id": "panchala-q05",
+      "difficulty": "easy",
+      "q": "Which famous contest was held in Panchala?",
+      "options": [
+        "The dice game for the kingdom",
+        "Draupadi's swayamvara of the fish's eye",
+        "The tournament of the Kuru princes",
+        "The rajasuya of the emperor"
+      ],
+      "answer": 1,
+      "explanation": "At Kampilya, suitors had to string the great bow and strike a target raised high on a revolving device — pictured as a fish in popular tradition — to win Draupadi's hand."
+    },
+    {
+      "id": "panchala-q06",
+      "difficulty": "easy",
+      "q": "Which neighboring power was Panchala's ancient rival?",
+      "options": [
+        "The Kurus of Hastinapura",
+        "The Yadavas of Dwarka",
+        "The Matsyas of Virata",
+        "The Magadhas of Girivraja"
+      ],
+      "answer": 0,
+      "explanation": "Panchala and the Kuru kingdom were old rivals and uneasy neighbors, a tension that shaped the whole epic."
+    },
+    {
+      "id": "panchala-q07",
+      "difficulty": "easy",
+      "q": "Who seized half of Panchala as revenge for an old insult?",
+      "options": [
+        "Bhishma",
+        "Karna",
+        "Drona",
+        "Duryodhana"
+      ],
+      "answer": 2,
+      "explanation": "Drona had his Kuru pupils defeat and capture Drupada, then kept half the kingdom as the price of the king's old contempt."
+    },
+    {
+      "id": "panchala-q08",
+      "difficulty": "easy",
+      "q": "What does Draupadi's name Panchali mean?",
+      "options": [
+        "Born of the sacred fire",
+        "Daughter of five rivers",
+        "Wife of five husbands",
+        "Woman of the Panchala land"
+      ],
+      "answer": 3,
+      "explanation": "Panchali simply marks her as the princess of Panchala, just as Gandhari is named for Gandhara."
+    },
+    {
+      "id": "panchala-q09",
+      "difficulty": "easy",
+      "q": "From what were Drupada's children Dhrishtadyumna and Draupadi born?",
+      "options": [
+        "The sacrificial fire",
+        "The waters of the Ganga",
+        "A boon of Shiva spoken aloud",
+        "A jar of consecrated ghee"
+      ],
+      "answer": 0,
+      "explanation": "Both emerged full-grown from Drupada's great sacrifice — Dhrishtadyumna armed and armored from the flames, Draupadi dark and dazzling from its altar."
+    },
+    {
+      "id": "panchala-q10",
+      "difficulty": "easy",
+      "q": "Why did Drona bear a grudge against King Drupada?",
+      "options": [
+        "Drupada had stolen Drona's herd of cattle",
+        "Drupada had mocked the poor brahmin's claim to their boyhood friendship",
+        "Drupada had banished Drona from Panchala",
+        "Drupada had refused Drona's son a bride"
+      ],
+      "answer": 1,
+      "explanation": "When the impoverished Drona came seeking help, King Drupada sneered that friendship exists only between equals."
+    },
+    {
+      "id": "panchala-q11",
+      "difficulty": "medium",
+      "q": "Who captured Drupada in battle to pay Drona's teaching fee?",
+      "options": [
+        "Bhima, leading the Kaurava princes",
+        "Karna, fighting for Duryodhana",
+        "Arjuna, leading his brothers",
+        "Ashwatthama, fighting beside his father"
+      ],
+      "answer": 2,
+      "explanation": "After the Kaurava princes failed, Arjuna stormed Kampilya with his brothers and dragged Drupada in bonds before Drona."
+    },
+    {
+      "id": "panchala-q12",
+      "difficulty": "medium",
+      "q": "How was Panchala divided after Drona's victory over Drupada?",
+      "options": [
+        "Drona kept the lands north of the Ganga and returned the south to Drupada",
+        "Drona took the capital and left Drupada the countryside",
+        "The kingdom was split between Drupada's two sons",
+        "Drona gave the whole realm to Ashwatthama and kept nothing"
+      ],
+      "answer": 0,
+      "explanation": "Drona retained northern Panchala for himself and handed back the southern half, declaring they were now equals and friends."
+    },
+    {
+      "id": "panchala-q13",
+      "difficulty": "medium",
+      "q": "Which sages conducted the sacrifice through which Drupada obtained his fire-born children?",
+      "options": [
+        "Vyasa and Vaishampayana",
+        "Agnivesha and Bharadwaja",
+        "Yaja's rivals from Kampilya",
+        "The brothers Yaja and Upayaja"
+      ],
+      "answer": 3,
+      "explanation": "Drupada persuaded the brahmin brothers Yaja and Upayaja to perform the rite that yielded Dhrishtadyumna and Draupadi."
+    },
+    {
+      "id": "panchala-q14",
+      "difficulty": "medium",
+      "q": "For what explicit purpose did Drupada commission his great sacrifice?",
+      "options": [
+        "To win back the northern half of his kingdom",
+        "To obtain a son destined to kill Drona",
+        "To secure a place for himself in heaven",
+        "To bring rain after a seven-year drought"
+      ],
+      "answer": 1,
+      "explanation": "Burning for revenge, Drupada commissioned the rite to obtain a son who would slay Drona; the same sacrifice also yielded his daughter Draupadi."
+    },
+    {
+      "id": "panchala-q15",
+      "difficulty": "medium",
+      "q": "Which child of Drupada was the princess Amba reborn to destroy Bhishma?",
+      "options": [
+        "Shikhandi",
+        "Dhrishtadyumna",
+        "Satyajit",
+        "Yudhamanyu"
+      ],
+      "answer": 0,
+      "explanation": "Shikhandi, born a girl and raised as a son in Panchala, carried Amba's vengeance to Bhishma on the tenth day."
+    },
+    {
+      "id": "panchala-q16",
+      "difficulty": "medium",
+      "q": "Where did the Pandavas lodge in Kampilya when they came for the swayamvara?",
+      "options": [
+        "In the palace guest quarters",
+        "In a temple of Shiva outside the walls",
+        "In the house of a potter",
+        "In the camp of the visiting kings"
+      ],
+      "answer": 2,
+      "explanation": "Still disguised as brahmins, the brothers and Kunti took shelter in a potter's house in Drupada's capital."
+    },
+    {
+      "id": "panchala-q17",
+      "difficulty": "medium",
+      "q": "By which other clan names are the Panchala warriors known throughout the epic?",
+      "options": [
+        "The Vrishnis and Bhojas",
+        "The Sutas and Magadhas",
+        "The Trigartas and Sauviras",
+        "The Somakas and Srinjayas"
+      ],
+      "answer": 3,
+      "explanation": "The epic frequently calls Drupada's people Somakas and Srinjayas, after illustrious ancestors of the Panchala line."
+    },
+    {
+      "id": "panchala-q18",
+      "difficulty": "medium",
+      "q": "What bond had once existed between Drupada and Drona?",
+      "options": [
+        "They were cousins through their mothers",
+        "They had studied together as boys in the same hermitage",
+        "They had served the same king as ministers",
+        "They had been rivals for the same bride"
+      ],
+      "answer": 1,
+      "explanation": "As boys they studied side by side in the hermitage of Drona's father Bharadwaja, where Drupada promised to share his fortune."
+    },
+    {
+      "id": "panchala-q19",
+      "difficulty": "medium",
+      "q": "What test did suitors face at the swayamvara held in Panchala?",
+      "options": [
+        "To string a colossal bow and strike the eye of a fish revolving high overhead",
+        "To bend a bow of iron across the knee and snap it",
+        "To shoot an arrow through seven palm trees",
+        "To lift the great bow of Shiva above the head"
+      ],
+      "answer": 0,
+      "explanation": "Kings failed even to string the bow, until Arjuna in brahmin disguise struck the revolving target overhead and won Draupadi; the fish is the traditional image of the mark, and aiming at its reflection in oil belongs to later retellings, not Vyasa's text."
+    },
+    {
+      "id": "panchala-q20",
+      "difficulty": "medium",
+      "q": "By what other name was King Drupada known?",
+      "options": [
+        "Sutasoma",
+        "Chitrasena",
+        "Yajnasena",
+        "Brihadbala"
+      ],
+      "answer": 2,
+      "explanation": "Drupada was also called Yajnasena, which is why Draupadi bears the name Yajnaseni."
+    },
+    {
+      "id": "panchala-q21",
+      "difficulty": "medium",
+      "q": "Who secretly followed the disguised victors of the swayamvara and concluded they must be kshatriyas?",
+      "options": [
+        "Drupada's old minister",
+        "Shikhandi, in a maid's disguise",
+        "The priest of the royal house",
+        "Dhrishtadyumna, hidden at the potter's house"
+      ],
+      "answer": 3,
+      "explanation": "Dhrishtadyumna shadowed the brahmin youths home, listened to their talk of war and weapons, and reported that they were warriors."
+    },
+    {
+      "id": "panchala-q22",
+      "difficulty": "medium",
+      "q": "Which two Panchala princes guarded the wheels of Arjuna's chariot at Kurukshetra?",
+      "options": [
+        "Satyajit and Shatanika",
+        "Yudhamanyu and Uttamaujas",
+        "Janamejaya and Sutasoma",
+        "Kumara and Vrika"
+      ],
+      "answer": 1,
+      "explanation": "The brothers Yudhamanyu and Uttamaujas protected Arjuna's chariot wheels throughout the war and died in the night raid."
+    },
+    {
+      "id": "panchala-q23",
+      "difficulty": "hard",
+      "q": "Which city became the capital of the northern half of Panchala that Drona took?",
+      "options": [
+        "Ahichchhatra",
+        "Makandi",
+        "Kanyakubja",
+        "Varanavata"
+      ],
+      "answer": 0,
+      "explanation": "Drona's northern share was ruled from Ahichchhatra, while Drupada kept the south with Kampilya on the Ganga."
+    },
+    {
+      "id": "panchala-q24",
+      "difficulty": "hard",
+      "q": "Who killed King Drupada in the Kurukshetra war?",
+      "options": [
+        "Karna, on the seventeenth day",
+        "Bhishma, in the opening week",
+        "Drona, shortly before his own death",
+        "Ashwatthama, in the night raid"
+      ],
+      "answer": 2,
+      "explanation": "Drona cut down his old enemy Drupada, along with King Virata, on the fifteenth day, shortly before Dhrishtadyumna beheaded him."
+    },
+    {
+      "id": "panchala-q25",
+      "difficulty": "hard",
+      "q": "Who annihilated the surviving Panchala leadership in the night raid after the war's last day?",
+      "options": [
+        "Kritavarma at the gates",
+        "Ashwatthama, avenging his father Drona",
+        "Kripa with fire arrows",
+        "Duryodhana's hired rakshasas"
+      ],
+      "answer": 1,
+      "explanation": "Ashwatthama butchered Dhrishtadyumna, Shikhandi, and the sleeping Panchalas while Kripa and Kritavarma held the camp gates."
+    },
+    {
+      "id": "panchala-q26",
+      "difficulty": "hard",
+      "q": "Who was Drupada's father, giving him the patronymic Parshata?",
+      "options": [
+        "Somaka",
+        "Brihatkshatra",
+        "Sudasa",
+        "Prishata"
+      ],
+      "answer": 3,
+      "explanation": "Drupada was the son of King Prishata, and the name Parshata for his line passes on to Dhrishtadyumna as well."
+    },
+    {
+      "id": "panchala-q27",
+      "difficulty": "hard",
+      "q": "Who finally persuaded a doubtful Drupada to accept Draupadi's marriage to all five Pandavas?",
+      "options": [
+        "Vyasa, by revealing her past life and divine design",
+        "Kunti, by citing her unbreakable word",
+        "Krishna, by threat of Yadava arms",
+        "Bhishma, by citing ancient precedents"
+      ],
+      "answer": 0,
+      "explanation": "Vyasa told Drupada of Draupadi's former life, in which she won a five-fold boon of husbands, and the king consented."
+    },
+    {
+      "id": "panchala-q28",
+      "difficulty": "hard",
+      "q": "With which modern Indian state is Drupada's capital Kampilya usually identified?",
+      "options": [
+        "Bihar, near Patna",
+        "Madhya Pradesh, near Gwalior",
+        "Uttar Pradesh, at Kampil in Farrukhabad district",
+        "Haryana, near Kurukshetra"
+      ],
+      "answer": 2,
+      "explanation": "Kampilya is generally identified with the town of Kampil on the Ganga in Farrukhabad district, Uttar Pradesh."
+    },
+    {
+      "id": "panchala-q29",
+      "difficulty": "hard",
+      "q": "What command did old Drupada himself hold in the Pandava host?",
+      "options": [
+        "Keeper of the camp and supplies",
+        "Leader of one of the seven akshauhinis",
+        "Charioteer to his son Dhrishtadyumna",
+        "Commander of the night watch"
+      ],
+      "answer": 1,
+      "explanation": "Drupada was named among the seven leaders of the Pandavas' seven akshauhinis, alongside Virata, Dhrishtadyumna, and others."
+    },
+    {
+      "id": "panchala-q30",
+      "difficulty": "hard",
+      "q": "Despite the prophecy of his own death, what did Drona do for the fire-born prince of Panchala?",
+      "options": [
+        "He refused to ever meet him",
+        "He demanded the boy's thumb as fee",
+        "He bound him by oath never to fight the Kurus",
+        "He accepted Dhrishtadyumna as a pupil and taught him the use of arms"
+      ],
+      "answer": 3,
+      "explanation": "Knowing the boy was born to kill him, Drona magnanimously trained Dhrishtadyumna in weapons, trusting fate to take its course."
+    }
+  ]
+}

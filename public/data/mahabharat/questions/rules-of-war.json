@@ -1,0 +1,245 @@
+{
+  "cardId": "rules-of-war",
+  "questions": [
+    {
+      "id": "rules-of-war-q01",
+      "difficulty": "easy",
+      "q": "What did the two armies do before the first arrow flew at Kurukshetra?",
+      "options": ["Exchanged hostages as surety of good faith", "Swore a mutual code of rules for fair combat", "Performed a joint sacrifice to Shiva together", "Agreed to limit the war to ten days"],
+      "answer": 1,
+      "explanation": "Kauravas and Pandavas together swore a covenant of battle conduct before the fighting began."
+    },
+    {
+      "id": "rules-of-war-q02",
+      "difficulty": "easy",
+      "q": "At what moment was each day's fighting supposed to cease under the code?",
+      "options": ["At sunset", "At midnight", "At noon", "At the fall of a commander"],
+      "answer": 0,
+      "explanation": "Combat was to end at sundown each day, a rule shattered by the night battle of the fourteenth day."
+    },
+    {
+      "id": "rules-of-war-q03",
+      "difficulty": "easy",
+      "q": "Which of these acts did the code of war expressly forbid?",
+      "options": ["Challenging a far stronger opponent", "Fighting from the back of an elephant", "Striking a warrior who had surrendered", "Sounding conches before a charge"],
+      "answer": 2,
+      "explanation": "Those who surrendered, retreated, or stood unarmed were not to be struck under the sworn code."
+    },
+    {
+      "id": "rules-of-war-q04",
+      "difficulty": "easy",
+      "q": "Under the rule of equals, a chariot warrior was to duel whom?",
+      "options": ["Any soldier he happened to choose", "The nearest elephant rider in the line", "A foot soldier armed with a spear", "Another warrior mounted on a chariot"],
+      "answer": 3,
+      "explanation": "Equals were to fight equals: chariot against chariot, elephant against elephant, horseman against horseman."
+    },
+    {
+      "id": "rules-of-war-q05",
+      "difficulty": "easy",
+      "q": "In mace combat, where was a blow strictly forbidden to land?",
+      "options": ["On the head", "Below the navel", "On the back", "Above the shoulders"],
+      "answer": 1,
+      "explanation": "Striking below the navel was the great taboo of mace-fighting, the very blow Bhima dealt Duryodhana."
+    },
+    {
+      "id": "rules-of-war-q06",
+      "difficulty": "easy",
+      "q": "Which young warrior died when six maharathis attacked him together, shattering the code?",
+      "options": ["Abhimanyu", "Ghatotkacha", "Uttara", "Iravan"],
+      "answer": 0,
+      "explanation": "Sixteen-year-old Abhimanyu was surrounded and slain by six great warriors inside the Chakravyuha on the thirteenth day."
+    },
+    {
+      "id": "rules-of-war-q07",
+      "difficulty": "easy",
+      "q": "In what state was Drona when he was beheaded, against every rule of combat?",
+      "options": ["Charging with his bow fully drawn", "Asleep inside his tent at night", "Unarmed and seated in meditation", "Wounded and calling out for water"],
+      "answer": 2,
+      "explanation": "Believing his son dead, Drona laid down his weapons and sat in meditation, and was killed in that defenseless state."
+    },
+    {
+      "id": "rules-of-war-q08",
+      "difficulty": "easy",
+      "q": "What was Karna doing when Arjuna's arrow took his life?",
+      "options": ["Stringing his great bow Vijaya", "Aiming the Vasavi Shakti dart", "Blowing his conch in triumph", "Unarmed, freeing his sunken chariot wheel"],
+      "answer": 3,
+      "explanation": "Karna was struck down while he stood on the ground struggling to lift his chariot wheel from the earth."
+    },
+    {
+      "id": "rules-of-war-q09",
+      "difficulty": "easy",
+      "q": "How did the code say a retreating or fleeing warrior must be treated?",
+      "options": ["He could be chased for one arrow's flight", "He was not to be struck or pursued", "He forfeited his weapons to the victor", "He could be captured and held for ransom"],
+      "answer": 1,
+      "explanation": "A warrior who quit the fight or turned away was protected from attack under the sworn rules."
+    },
+    {
+      "id": "rules-of-war-q10",
+      "difficulty": "easy",
+      "q": "On which night did the armies battle on long after sunset, breaking the code outright?",
+      "options": ["The eighth night", "The tenth night", "The fourteenth night", "The seventeenth night"],
+      "answer": 2,
+      "explanation": "After Jayadratha's death the fighting raged through the fourteenth night, the night Ghatotkacha fell."
+    },
+    {
+      "id": "rules-of-war-q11",
+      "difficulty": "medium",
+      "q": "Which battlefield figures did the code place beyond the reach of weapons?",
+      "options": ["Standard bearers and flag carriers", "Kings commanding from the rear lines", "Physicians alone, within the camps", "Charioteers, drummers, and conch-blowers"],
+      "answer": 3,
+      "explanation": "Non-combatants such as drivers, musicians, and bearers of supplies were never to be struck."
+    },
+    {
+      "id": "rules-of-war-q12",
+      "difficulty": "medium",
+      "q": "What did the code demand of a warrior who saw two enemies already dueling?",
+      "options": ["He must not strike a man engaged with another", "He could join in if his own side was losing", "He must announce himself, then join freely", "He should aim only at the stronger duelist"],
+      "answer": 0,
+      "explanation": "One engaged in single combat with an opponent was not to be attacked by any third warrior."
+    },
+    {
+      "id": "rules-of-war-q13",
+      "difficulty": "medium",
+      "q": "How were warriors who fought with words alone to be answered, under the code?",
+      "options": ["With a formal challenge to a duel", "With banishment from the battlefield", "With words only, never with weapons", "With an appeal to the two commanders"],
+      "answer": 2,
+      "explanation": "The covenant declared that those who contend with speech should be met with speech, not arms."
+    },
+    {
+      "id": "rules-of-war-q14",
+      "difficulty": "medium",
+      "q": "From behind whom did Arjuna shoot the arrows that felled Bhishma on the tenth day?",
+      "options": ["Dhrishtadyumna", "Shikhandi", "Krishna", "Yudhishthira"],
+      "answer": 1,
+      "explanation": "Arjuna fought from behind Shikhandi, knowing the grandsire would not loose arrows in that direction."
+    },
+    {
+      "id": "rules-of-war-q15",
+      "difficulty": "medium",
+      "q": "Why would Bhishma not raise his weapons against Shikhandi?",
+      "options": ["Shikhandi was his own grandnephew", "Shikhandi fought entirely without armor", "He had promised Drupada to show mercy", "He refused to fight one who was born a woman"],
+      "answer": 3,
+      "explanation": "Bhishma's personal code forbade fighting one born female, and Shikhandi was Amba reborn and raised as a son."
+    },
+    {
+      "id": "rules-of-war-q16",
+      "difficulty": "medium",
+      "q": "Inside the Chakravyuha, what rule-breaking act did Karna commit against Abhimanyu?",
+      "options": ["He attacked from behind and severed Abhimanyu's bow", "He struck Abhimanyu's unarmored back with a dart", "He crushed Abhimanyu beneath his chariot wheels", "He seized Abhimanyu's hair and dragged him down"],
+      "answer": 0,
+      "explanation": "On Drona's counsel Karna cut the boy's bow from behind, after which others slew his horses and charioteer."
+    },
+    {
+      "id": "rules-of-war-q17",
+      "difficulty": "medium",
+      "q": "What half-truth broke Drona's will to fight on the fifteenth day?",
+      "options": ["Krishna's claim that Hastinapura had fallen", "Bhima's boast that Duryodhana lay dying", "Yudhishthira's words that Ashwatthama was dead, the elephant murmured low", "Sanjaya's report that the Kaurava camp was burning"],
+      "answer": 2,
+      "explanation": "Bhima had killed an elephant named Ashwatthama, and Yudhishthira confirmed the death while muttering the qualifier."
+    },
+    {
+      "id": "rules-of-war-q18",
+      "difficulty": "medium",
+      "q": "Who beheaded the unarmed, meditating Drona?",
+      "options": ["Bhima", "Dhrishtadyumna", "Shikhandi", "Satyaki"],
+      "answer": 1,
+      "explanation": "Dhrishtadyumna, born from fire to destroy Drona, took the guru's head as he sat with weapons laid down."
+    },
+    {
+      "id": "rules-of-war-q19",
+      "difficulty": "medium",
+      "q": "How did Krishna signal Bhima during the final mace duel with Duryodhana?",
+      "options": ["He blew the Panchajanya twice", "He pointed toward the setting sun", "He whispered to Arjuna to call out", "He slapped his own thigh"],
+      "answer": 3,
+      "explanation": "Krishna struck his thigh in Bhima's sight, reminding him of his vow to break Duryodhana's thighs."
+    },
+    {
+      "id": "rules-of-war-q20",
+      "difficulty": "medium",
+      "q": "Who erupted in fury, calling Bhima's low blow a disgrace to the laws of mace-fighting?",
+      "options": ["Balarama", "Kripa", "Ashwatthama", "Yudhishthira"],
+      "answer": 0,
+      "explanation": "Balarama, teacher of both mace fighters, raged that Bhima had struck below the navel against all rules."
+    },
+    {
+      "id": "rules-of-war-q21",
+      "difficulty": "medium",
+      "q": "How did Bhurishravas die in violation of the warrior's code?",
+      "options": ["Trampled by war elephants while disarmed", "Shot in the back while withdrawing from battle", "Beheaded by Satyaki as he sat weaponless in meditation", "Stabbed in his sleep during the night raid"],
+      "answer": 2,
+      "explanation": "After Arjuna severed his sword arm mid-duel, itself a breach, Satyaki slew the seated warrior who had renounced the fight."
+    },
+    {
+      "id": "rules-of-war-q22",
+      "difficulty": "medium",
+      "q": "When Abhimanyu's weapons were exhausted inside the wheel formation, what did he fight with at the last?",
+      "options": ["A torn battle standard", "A chariot wheel lifted as weapon and shield", "His dead charioteer's long whip", "A fallen elephant's broken tusk"],
+      "answer": 1,
+      "explanation": "Stripped of bow and sword, Abhimanyu raised a chariot wheel and fought on until he was finally brought down."
+    },
+    {
+      "id": "rules-of-war-q23",
+      "difficulty": "hard",
+      "q": "When the trapped Karna invoked the rules of fair combat, how did Krishna reply?",
+      "options": ["He offered Karna safe passage if he yielded", "He granted a pause until the wheel was freed", "He recited the dharma Karna had broken at the dice hall and after", "He declared that war itself acknowledges no rules"],
+      "answer": 2,
+      "explanation": "Krishna asked where Karna's dharma had been when Draupadi was dragged to court and Abhimanyu was mobbed."
+    },
+    {
+      "id": "rules-of-war-q24",
+      "difficulty": "hard",
+      "q": "How did the armies keep fighting after darkness fell on the fourteenth day?",
+      "options": ["Thousands of lamps and torches were lit across the field", "The moon rose full and bright as day", "Agni himself illumined the battlefield", "The burning camps lit the whole plain"],
+      "answer": 0,
+      "explanation": "The Drona Parva describes lamps fixed on chariots and elephants and torches in soldiers' hands turning night to day."
+    },
+    {
+      "id": "rules-of-war-q25",
+      "difficulty": "hard",
+      "q": "Who delivered the final mace blow to the exhausted, weaponless Abhimanyu?",
+      "options": ["Karna himself", "The son of Dushasana", "Jayadratha at the gate", "Shakuni's son Uluka"],
+      "answer": 1,
+      "explanation": "Dushasana's son struck the fallen boy's head with a mace, completing the war's most infamous breach of the code."
+    },
+    {
+      "id": "rules-of-war-q26",
+      "difficulty": "hard",
+      "q": "Ashwatthama's night raid trampled which most basic protection of the warrior's code?",
+      "options": ["That brahmins must never be made targets", "That fire must not be used against camps", "That commanders may die only in duels", "That the sleeping and unarmed must never be slain"],
+      "answer": 3,
+      "explanation": "The massacre of sleeping warriors after the war's end was the final and most complete violation of the covenant."
+    },
+    {
+      "id": "rules-of-war-q27",
+      "difficulty": "hard",
+      "q": "What changed about Yudhishthira's chariot the moment he spoke his half-lie about Ashwatthama?",
+      "options": ["Its wheels, which had floated above the earth, sank to the ground", "Its horses bolted in terror toward the Kaurava lines", "Its banner of twin drums burst suddenly into flame", "Its axle cracked beneath him in mid-battle"],
+      "answer": 0,
+      "explanation": "The chariot that had always ridden above the earth by the king's truthfulness touched the ground for the first time."
+    },
+    {
+      "id": "rules-of-war-q28",
+      "difficulty": "hard",
+      "q": "As he lay dying, Duryodhana enumerated the war's broken rules and accused whom of engineering them all?",
+      "options": ["Yudhishthira", "Bhima", "Krishna", "Dhrishtadyumna"],
+      "answer": 2,
+      "explanation": "Duryodhana charged Krishna with every unfair stratagem, and Krishna answered by recounting the Kauravas' own crimes."
+    },
+    {
+      "id": "rules-of-war-q29",
+      "difficulty": "hard",
+      "q": "What trick drew Jayadratha out of hiding before Arjuna's sunset deadline expired?",
+      "options": ["A false report of Arjuna's funeral pyre", "Krishna's discus veiled the sun, feigning dusk", "Bhima's open challenge to single combat", "A decoy chariot flying Arjuna's monkey banner"],
+      "answer": 1,
+      "explanation": "When the sky darkened the Kauravas celebrated and Jayadratha emerged, only for the sun to blaze out again."
+    },
+    {
+      "id": "rules-of-war-q30",
+      "difficulty": "hard",
+      "q": "After denouncing the thigh blow at the mace duel, what did the umpiring Balarama do?",
+      "options": ["He struck Bhima a single blow with his plough", "He carried the broken Duryodhana from the field", "He demanded the duel be fought once again", "He left for Dwarka, declaring Duryodhana would win lasting glory"],
+      "answer": 3,
+      "explanation": "Pacified by Krishna after raising his plough in anger, Balarama departed proclaiming Duryodhana's eternal fame as the fair fighter."
+    }
+  ]
+}

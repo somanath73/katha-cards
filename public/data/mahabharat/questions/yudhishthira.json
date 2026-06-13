@@ -1,0 +1,245 @@
+{
+  "cardId": "yudhishthira",
+  "questions": [
+    {
+      "id": "yudhishthira-q01",
+      "difficulty": "easy",
+      "q": "Which god fathered Yudhishthira?",
+      "options": ["Indra", "Vayu", "Dharma", "Surya"],
+      "answer": 2,
+      "explanation": "Kunti invoked Dharma, the god of righteousness, and Yudhishthira was born as his son."
+    },
+    {
+      "id": "yudhishthira-q02",
+      "difficulty": "easy",
+      "q": "Who was Yudhishthira's mother?",
+      "options": ["Kunti", "Madri", "Gandhari", "Satyavati"],
+      "answer": 0,
+      "explanation": "Yudhishthira was the first son Kunti bore using the mantra of the sage Durvasa."
+    },
+    {
+      "id": "yudhishthira-q03",
+      "difficulty": "easy",
+      "q": "What was Yudhishthira's place among the five Pandavas?",
+      "options": ["The middle brother", "The youngest", "Second after Bhima", "The eldest"],
+      "answer": 3,
+      "explanation": "Yudhishthira was the eldest Pandava, the basis of his claim to the Kuru throne."
+    },
+    {
+      "id": "yudhishthira-q04",
+      "difficulty": "easy",
+      "q": "What was Yudhishthira's one great weakness?",
+      "options": ["Wine", "The game of dice", "Hunting", "Flattery"],
+      "answer": 1,
+      "explanation": "Yudhishthira could not refuse a game of dice, and that single weakness cost him his kingdom, his brothers, and Draupadi."
+    },
+    {
+      "id": "yudhishthira-q05",
+      "difficulty": "easy",
+      "q": "What does the title Dharmaraja, given to Yudhishthira, mean?",
+      "options": ["King of righteousness", "Lord of the dice", "Master of patience", "King of Hastinapura"],
+      "answer": 0,
+      "explanation": "Dharmaraja means king of righteousness, honoring both his fathering by Dharma and his own unbending conduct."
+    },
+    {
+      "id": "yudhishthira-q06",
+      "difficulty": "easy",
+      "q": "What was miraculous about Yudhishthira's chariot during the war?",
+      "options": ["Its horses never tired", "It could not be seen by enemies", "It rode above the ground", "It moved without a charioteer"],
+      "answer": 2,
+      "explanation": "Because of his perfect truthfulness, Yudhishthira's chariot was said to travel slightly above the earth."
+    },
+    {
+      "id": "yudhishthira-q07",
+      "difficulty": "easy",
+      "q": "What finally brought Yudhishthira's floating chariot down to earth?",
+      "options": ["Drona's curse", "A wound from Karna's arrow", "Krishna's command", "His half-lie about Ashwatthama's death"],
+      "answer": 3,
+      "explanation": "When he confirmed Ashwatthama's death while muttering that it might be an elephant, his wheels touched the ground for the first time."
+    },
+    {
+      "id": "yudhishthira-q08",
+      "difficulty": "easy",
+      "q": "Whom did Yudhishthira share as wife with his four brothers?",
+      "options": ["Subhadra", "Draupadi", "Uttara", "Devika"],
+      "answer": 1,
+      "explanation": "Draupadi became the common wife of all five Pandavas after Kunti's unwitting command to share what they had brought home."
+    },
+    {
+      "id": "yudhishthira-q09",
+      "difficulty": "easy",
+      "q": "On the final journey north, who alone stayed beside Yudhishthira to the very end?",
+      "options": ["Bhima", "Draupadi", "A dog", "Arjuna"],
+      "answer": 2,
+      "explanation": "One by one his wife and brothers fell, but the dog that had followed from Hastinapura walked with him to heaven's gate."
+    },
+    {
+      "id": "yudhishthira-q10",
+      "difficulty": "easy",
+      "q": "How did Yudhishthira finally reach heaven, uniquely among mortals?",
+      "options": ["In his own mortal body", "Through a celestial rebirth", "Carried by Garuda after death", "By merging into the Ganga"],
+      "answer": 0,
+      "explanation": "Indra came with his chariot and bore Yudhishthira to heaven in his living body, an honor granted to no other Pandava."
+    },
+    {
+      "id": "yudhishthira-q11",
+      "difficulty": "medium",
+      "q": "What does the name Yudhishthira literally mean?",
+      "options": ["Lord of justice", "Steady in battle", "Born of truth", "First of kings"],
+      "answer": 1,
+      "explanation": "The name combines yudhi and sthira, meaning one who is steady or firm in battle."
+    },
+    {
+      "id": "yudhishthira-q12",
+      "difficulty": "medium",
+      "q": "What disguise did Yudhishthira adopt during the year of hiding at Virata's court?",
+      "options": ["Vallabha the cook", "Granthika the horse-keeper", "Tantipala the cowherd", "Kanka the courtier"],
+      "answer": 3,
+      "explanation": "Yudhishthira posed as Kanka, a brahmin courtier and dice companion to King Virata."
+    },
+    {
+      "id": "yudhishthira-q13",
+      "difficulty": "medium",
+      "q": "Who was the Yaksha questioning Yudhishthira at the poisoned lake revealed to be?",
+      "options": ["His father Dharma in disguise", "Indra testing his patience", "A gandharva cursed by sages", "A naga guarding the waters"],
+      "answer": 0,
+      "explanation": "The invisible guardian who had felled his brothers was Dharma himself, testing his son with riddles."
+    },
+    {
+      "id": "yudhishthira-q14",
+      "difficulty": "medium",
+      "q": "Whom did Yudhishthira ask the Yaksha to revive, and why?",
+      "options": ["Arjuna, for the war ahead", "Bhima, for his great strength", "Nakula, so each mother would have a living son", "Sahadeva, for his foresight"],
+      "answer": 2,
+      "explanation": "He chose Madri's son Nakula over his own full brothers so that both of Pandu's wives would keep a living son, an answer that delighted the Yaksha."
+    },
+    {
+      "id": "yudhishthira-q15",
+      "difficulty": "medium",
+      "q": "How did Yudhishthira answer the Yaksha's riddle about the world's greatest wonder?",
+      "options": ["That truth weighs more than the earth", "That men die daily, yet the living wish to live forever", "That the mind is faster than the wind", "That dharma alone follows the dead"],
+      "answer": 1,
+      "explanation": "He answered that though beings die every day, those who remain wish to live forever, and that is the greatest wonder."
+    },
+    {
+      "id": "yudhishthira-q16",
+      "difficulty": "medium",
+      "q": "Which god gave Yudhishthira the inexhaustible Akshaya Patra during the exile?",
+      "options": ["Indra", "Agni", "Varuna", "Surya"],
+      "answer": 3,
+      "explanation": "The sun god Surya granted Yudhishthira the copper vessel that yielded unlimited food each day until Draupadi had eaten."
+    },
+    {
+      "id": "yudhishthira-q17",
+      "difficulty": "medium",
+      "q": "Whom did Yudhishthira slay on the war's final day, and with what weapon?",
+      "options": ["Shalya, with a hurled spear", "Shakuni, with his sword", "Susharma, with arrows", "Duryodhana, with a mace"],
+      "answer": 0,
+      "explanation": "On the eighteenth day Yudhishthira killed Shalya, the last Kaurava commander, with a spear, fulfilling his appointed share of the war."
+    },
+    {
+      "id": "yudhishthira-q18",
+      "difficulty": "medium",
+      "q": "Where was Yudhishthira crowned after the great war, and how long did he reign?",
+      "options": ["At Indraprastha, for thirteen years", "At Kurukshetra, for one year of rites", "At Hastinapura, for thirty-six years", "At Dwarka, for eighteen years"],
+      "answer": 2,
+      "explanation": "Yudhishthira was crowned at Hastinapura and ruled for thirty-six years before renouncing the throne for the final journey."
+    },
+    {
+      "id": "yudhishthira-q19",
+      "difficulty": "medium",
+      "q": "What stake was set in the second game of dice that Yudhishthira lost?",
+      "options": ["His brothers' celestial weapons", "Thirteen years of exile with the last in disguise", "Half the kingdom forever", "Draupadi's freedom"],
+      "answer": 1,
+      "explanation": "The single throw set thirteen years of exile, the last to be spent undiscovered, with discovery meaning the whole term served again."
+    },
+    {
+      "id": "yudhishthira-q20",
+      "difficulty": "medium",
+      "q": "At which great sacrifice was Yudhishthira consecrated emperor?",
+      "options": ["The Ashvamedha at Hastinapura", "The snake sacrifice of Janamejaya", "The Vajapeya at Kampilya", "The Rajasuya at Indraprastha"],
+      "answer": 3,
+      "explanation": "After Jarasandha's fall and his brothers' conquests, Yudhishthira performed the Rajasuya at Indraprastha and was consecrated emperor."
+    },
+    {
+      "id": "yudhishthira-q21",
+      "difficulty": "medium",
+      "q": "From whom did Yudhishthira receive long teachings on kingship after the war?",
+      "options": ["Bhishma, on the bed of arrows", "Krishna, on the chariot", "Vyasa, in the forest", "Vidura, in the palace"],
+      "answer": 0,
+      "explanation": "In the Shanti Parva, the dying Bhishma instructed Yudhishthira at length on rajadharma from his bed of arrows."
+    },
+    {
+      "id": "yudhishthira-q22",
+      "difficulty": "medium",
+      "q": "What does Yudhishthira's epithet Ajatashatru mean?",
+      "options": ["He who never retreats", "Speaker of only truth", "One whose enemy was never born", "The unshakable king"],
+      "answer": 2,
+      "explanation": "Ajatashatru means one whose enemy has never been born, a tribute to his freedom from hatred."
+    },
+    {
+      "id": "yudhishthira-q23",
+      "difficulty": "hard",
+      "q": "What curse did Yudhishthira pronounce on learning that Kunti had hidden Karna's birth?",
+      "options": ["That dice would ruin every king", "That Kunti would forget her sons", "That secrets would destroy their keepers", "That no woman would ever keep a secret"],
+      "answer": 3,
+      "explanation": "Grieving that he had unknowingly fought his own brother, Yudhishthira cursed all women that they would never again keep a secret."
+    },
+    {
+      "id": "yudhishthira-q24",
+      "difficulty": "hard",
+      "q": "Which brother did Yudhishthira stake first in the game of dice?",
+      "options": ["Nakula", "Sahadeva", "Arjuna", "Bhima"],
+      "answer": 0,
+      "explanation": "After losing his wealth and kingdom, Yudhishthira staked Nakula first, then Sahadeva, Arjuna, Bhima, himself, and finally Draupadi."
+    },
+    {
+      "id": "yudhishthira-q25",
+      "difficulty": "hard",
+      "q": "What did the half-golden mongoose declare at Yudhishthira's Ashvamedha sacrifice?",
+      "options": ["That the horse had strayed into heaven", "That the sacrifice was worth less than a poor brahmin's gift of flour", "That Yudhishthira's reign would last a century", "That the gods had refused the offerings"],
+      "answer": 1,
+      "explanation": "The mongoose, half its body turned gold by a starving brahmin's tiny gift, declared the imperial sacrifice no match for that act of selfless giving."
+    },
+    {
+      "id": "yudhishthira-q26",
+      "difficulty": "hard",
+      "q": "What happened at the moment of Vidura's death in the forest?",
+      "options": ["He cursed the Kuru line with his last breath", "He revived briefly to bless Parikshit", "His life-force passed into Yudhishthira", "He vanished, leaving only his staff"],
+      "answer": 2,
+      "explanation": "Since both were incarnations of Dharma, Vidura's spirit left his body and merged into Yudhishthira as they met in the forest."
+    },
+    {
+      "id": "yudhishthira-q27",
+      "difficulty": "hard",
+      "q": "What was Yudhishthira's final test after he was shown his brothers suffering in hell?",
+      "options": ["He chose to remain in hell beside his loved ones", "He was asked to surrender his crown to Duryodhana", "He had to cross the Vaitarani river alone", "He was offered rebirth on earth instead"],
+      "answer": 0,
+      "explanation": "Yudhishthira declared he would stay in hell where his loved ones were, and the vision dissolved as the gods revealed it was his last trial."
+    },
+    {
+      "id": "yudhishthira-q28",
+      "difficulty": "hard",
+      "q": "Why, according to Yudhishthira, did Draupadi fall first on the final journey?",
+      "options": ["Her pride in her beauty", "Her vow of vengeance", "Her fierce temper", "Her partiality toward Arjuna"],
+      "answer": 3,
+      "explanation": "Yudhishthira explained that though wed to five, Draupadi had favored Arjuna in her heart, and that partiality brought her down first."
+    },
+    {
+      "id": "yudhishthira-q29",
+      "difficulty": "hard",
+      "q": "Whom did Yudhishthira install at Indraprastha before departing on the final journey?",
+      "options": ["Yuyutsu", "Vajra, Krishna's great-grandson", "Parikshit", "Dhrishtaketu"],
+      "answer": 1,
+      "explanation": "Parikshit was crowned at Hastinapura while Vajra, the survivor of Krishna's line, was given Indraprastha."
+    },
+    {
+      "id": "yudhishthira-q30",
+      "difficulty": "hard",
+      "q": "Who was Yudhishthira's son by Draupadi?",
+      "options": ["Sutasoma", "Shatanika", "Prativindhya", "Shrutakarma"],
+      "answer": 2,
+      "explanation": "Prativindhya was Yudhishthira's son among the five Upapandavas, all of whom were slain in Ashwatthama's night raid."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "kurukshetra",
+  "questions": [
+    {
+      "id": "kurukshetra-q01",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state does the plain of Kurukshetra lie?",
+      "options": ["Punjab", "Uttar Pradesh", "Haryana", "Rajasthan"],
+      "answer": 2,
+      "explanation": "Kurukshetra is in modern Haryana, where the town of the same name still draws pilgrims."
+    },
+    {
+      "id": "kurukshetra-q02",
+      "difficulty": "easy",
+      "q": "By what name does the Bhagavad Gita's very first word describe Kurukshetra?",
+      "options": ["Dharmakshetra, the field of dharma", "Ranabhumi, the ground of war", "Punyabhumi, the land of merit", "Devakshetra, the field of the gods"],
+      "answer": 0,
+      "explanation": "The Gita opens with the words dharmakshetre kurukshetre, naming it the field of dharma before any warrior."
+    },
+    {
+      "id": "kurukshetra-q03",
+      "difficulty": "easy",
+      "q": "After which king is Kurukshetra named?",
+      "options": ["Bharata", "Kuru", "Shantanu", "Hasti"],
+      "answer": 1,
+      "explanation": "The field bears the name of King Kuru, ancestor of both the Kauravas and the Pandavas."
+    },
+    {
+      "id": "kurukshetra-q04",
+      "difficulty": "easy",
+      "q": "For how many days did the great war rage at Kurukshetra?",
+      "options": ["Ten", "Twelve", "Fifteen", "Eighteen"],
+      "answer": 3,
+      "explanation": "The war lasted eighteen days, from Bhishma's ten-day command to the final mace duel."
+    },
+    {
+      "id": "kurukshetra-q05",
+      "difficulty": "easy",
+      "q": "How many akshauhini armies assembled on the field of Kurukshetra?",
+      "options": ["Eleven", "Eighteen", "Seven", "Twenty-one"],
+      "answer": 1,
+      "explanation": "Eighteen akshauhinis gathered there, seven for the Pandavas and eleven for the Kauravas."
+    },
+    {
+      "id": "kurukshetra-q06",
+      "difficulty": "easy",
+      "q": "What did King Kuru famously do to sanctify this land?",
+      "options": ["Ploughed the field with his own hands", "Built a thousand fire altars upon it", "Bathed it in waters carried from the Ganga", "Planted a forest of sacred fig trees"],
+      "answer": 0,
+      "explanation": "King Kuru tilled the field himself for years, an act of devotion that hallowed the ground forever."
+    },
+    {
+      "id": "kurukshetra-q07",
+      "difficulty": "easy",
+      "q": "Which celebrated discourse was spoken on this field just before the fighting began?",
+      "options": ["The Vidura Niti", "The Sanatsujatiya", "The Bhagavad Gita", "The Yaksha Prashna"],
+      "answer": 2,
+      "explanation": "Krishna delivered the Bhagavad Gita to Arjuna between the two armies drawn up at Kurukshetra."
+    },
+    {
+      "id": "kurukshetra-q08",
+      "difficulty": "easy",
+      "q": "Which warrior lay for weeks upon a bed of arrows on the field of Kurukshetra?",
+      "options": ["Drona", "Karna", "Duryodhana", "Bhishma"],
+      "answer": 3,
+      "explanation": "After falling on the tenth day, Bhishma rested on the shafts that pierced him, choosing the hour of his death."
+    },
+    {
+      "id": "kurukshetra-q09",
+      "difficulty": "easy",
+      "q": "Who created the five lakes of blood associated with Kurukshetra in an earlier age?",
+      "options": ["Vyasa", "Parashurama", "Indra", "Shiva"],
+      "answer": 1,
+      "explanation": "Parashurama filled five lakes with the blood of his slaughtered enemies at this very place."
+    },
+    {
+      "id": "kurukshetra-q10",
+      "difficulty": "easy",
+      "q": "What is the name of the site of those five lakes within Kurukshetra?",
+      "options": ["Samantapanchaka", "Panchavati", "Panchala", "Pushkara"],
+      "answer": 0,
+      "explanation": "Samantapanchaka, the place of the five lakes, is the older sacred name for the battleground."
+    },
+    {
+      "id": "kurukshetra-q11",
+      "difficulty": "medium",
+      "q": "With whose blood did Parashurama fill the five lakes?",
+      "options": ["Demons slain to avenge his father", "The rakshasas of the northern forests", "Kshatriyas, exterminated twenty-one times over", "The kin of Kartavirya Arjuna alone"],
+      "answer": 2,
+      "explanation": "Parashurama cleansed the earth of kshatriyas twenty-one times and pooled their blood at Samantapanchaka."
+    },
+    {
+      "id": "kurukshetra-q12",
+      "difficulty": "medium",
+      "q": "What boon did King Kuru win for those connected with this field?",
+      "options": ["Rebirth in a royal line for all pilgrims", "Freedom from every curse upon the land", "A painless and instant death for the old", "Passage to heaven for those who die there in battle or penance"],
+      "answer": 3,
+      "explanation": "Kuru's austerity won the promise that whoever dies at Kurukshetra fighting or performing penance attains heaven."
+    },
+    {
+      "id": "kurukshetra-q13",
+      "difficulty": "medium",
+      "q": "Which god granted Kuru the boon that sanctified the field?",
+      "options": ["Indra", "Yama", "Brahma", "Vishnu"],
+      "answer": 0,
+      "explanation": "Indra, after questioning the ploughing king, granted that those who die there go to heaven."
+    },
+    {
+      "id": "kurukshetra-q14",
+      "difficulty": "medium",
+      "q": "What did King Kuru say he was sowing as he ploughed the field?",
+      "options": ["Seeds of golden grain for the gods", "The eight virtues, beginning with truth and austerity", "The ashes of his royal ancestors", "Seeds of the celestial kalpa tree"],
+      "answer": 1,
+      "explanation": "Kuru declared he was cultivating austerity, truth, forgiveness, kindness, purity, charity, yoga, and continence."
+    },
+    {
+      "id": "kurukshetra-q15",
+      "difficulty": "medium",
+      "q": "In which lake on the Kurukshetra plain did Duryodhana hide after his armies fell?",
+      "options": ["Lake Manasa", "Lake Bindusara", "Lake Dvaipayana", "Lake Pampa"],
+      "answer": 2,
+      "explanation": "Duryodhana cooled his wounds beneath the waters of Lake Dvaipayana until taunts drew him out to the duel."
+    },
+    {
+      "id": "kurukshetra-q16",
+      "difficulty": "medium",
+      "q": "Balarama's wartime pilgrimage along which river ended at Kurukshetra just before the mace duel?",
+      "options": ["The Saraswati", "The Yamuna", "The Ganga", "The Sindhu"],
+      "answer": 0,
+      "explanation": "Refusing to take sides, Balarama toured the holy fords of the Saraswati and arrived in time to watch the final duel."
+    },
+    {
+      "id": "kurukshetra-q17",
+      "difficulty": "medium",
+      "q": "Between which two rivers does tradition place the holy land of Kurukshetra?",
+      "options": ["Ganga and Yamuna", "Sindhu and Saraswati", "Yamuna and Gomati", "Saraswati and Drishadvati"],
+      "answer": 3,
+      "explanation": "The epic locates the sacred region between the Saraswati to the north and the Drishadvati to the south."
+    },
+    {
+      "id": "kurukshetra-q18",
+      "difficulty": "medium",
+      "q": "Beside which river did the Pandavas pitch their camp at Kurukshetra?",
+      "options": ["Drishadvati", "Hiranvati", "Apaga", "Oghavati"],
+      "answer": 1,
+      "explanation": "The Pandava host encamped on the banks of the Hiranvati after marching to the field of war."
+    },
+    {
+      "id": "kurukshetra-q19",
+      "difficulty": "medium",
+      "q": "What did Gandhari do when she surveyed the corpse-strewn field with divine sight after the war?",
+      "options": ["She forgave the Pandavas at Vyasa's plea", "She vowed to fast unto death upon the field", "She cursed Krishna and the Yadava race", "She fell senseless and never spoke again"],
+      "answer": 2,
+      "explanation": "Beholding her hundred sons dead on Kurukshetra, Gandhari cursed Krishna's clan to destroy itself in thirty-six years."
+    },
+    {
+      "id": "kurukshetra-q20",
+      "difficulty": "medium",
+      "q": "For what celestial turning did Bhishma wait upon his arrow bed at Kurukshetra?",
+      "options": ["Uttarayana, the sun's northern course", "The full moon of the Kartika month", "The autumn equinox of the gods", "The dawning of the new yuga"],
+      "answer": 0,
+      "explanation": "Empowered to choose his hour of death, Bhishma waited for the auspicious northern journey of the sun."
+    },
+    {
+      "id": "kurukshetra-q21",
+      "difficulty": "medium",
+      "q": "The epic exalts Samantapanchaka at Kurukshetra as the sacrificial altar of whom?",
+      "options": ["Indra, king of the gods", "Shiva, lord of destruction", "Vishnu, the preserver", "Brahma, the creator, as his northern altar"],
+      "answer": 3,
+      "explanation": "Kurukshetra is praised as the northern sacrificial altar of Brahma, making the war itself a kind of sacrifice."
+    },
+    {
+      "id": "kurukshetra-q22",
+      "difficulty": "medium",
+      "q": "The war at Kurukshetra is said to have been fought at the junction of which two yugas?",
+      "options": ["Treta and Dwapara", "Dwapara and Kali", "Kali and Satya", "Satya and Treta"],
+      "answer": 1,
+      "explanation": "The epic places the war at the twilight where the Dwapara Yuga gives way to the Kali Yuga."
+    },
+    {
+      "id": "kurukshetra-q23",
+      "difficulty": "hard",
+      "q": "King Kuru, who gave the field its name, was the son of which royal pair?",
+      "options": ["Samvarana and Tapati", "Dushyanta and Shakuntala", "Pratipa and Sunanda", "Hasti and Yashodhara"],
+      "answer": 0,
+      "explanation": "Kuru was born to King Samvarana and Tapati, daughter of the sun god, as the Adi Parva relates."
+    },
+    {
+      "id": "kurukshetra-q24",
+      "difficulty": "hard",
+      "q": "How many nights did Bhishma say he had lain upon the bed of arrows at Kurukshetra?",
+      "options": ["Eighteen", "Forty-nine", "Fifty-eight", "Sixty-five"],
+      "answer": 2,
+      "explanation": "Bhishma tells Yudhishthira he has lain fifty-eight nights on the sharp arrows awaiting the sun's turn."
+    },
+    {
+      "id": "kurukshetra-q25",
+      "difficulty": "hard",
+      "q": "What rite did Parashurama perform with the blood of the five lakes?",
+      "options": ["A victory sacrifice offered to Shiva", "Tarpana, libations offered to his ancestors", "An atonement for the kings he had slain", "The consecration of his battle axe"],
+      "answer": 1,
+      "explanation": "Parashurama offered the blood as libations to his forefathers, who then granted him pardon for the slaughter."
+    },
+    {
+      "id": "kurukshetra-q26",
+      "difficulty": "hard",
+      "q": "Who utters the words dharmakshetre kurukshetre that open the Bhagavad Gita?",
+      "options": ["Krishna", "Sanjaya", "Arjuna", "Dhritarashtra"],
+      "answer": 3,
+      "explanation": "The blind king Dhritarashtra speaks the Gita's first verse, asking Sanjaya what happened on the holy field."
+    },
+    {
+      "id": "kurukshetra-q27",
+      "difficulty": "hard",
+      "q": "What does the name Samantapanchaka literally evoke?",
+      "options": ["The five lakes lying all around", "The fifth altar of the gods", "Five rivers meeting in one plain", "The five sons of King Kuru"],
+      "answer": 0,
+      "explanation": "The name refers to the five pools of Parashurama spread across that sacred region."
+    },
+    {
+      "id": "kurukshetra-q28",
+      "difficulty": "hard",
+      "q": "After the war, where were the water libations for the slain of Kurukshetra offered?",
+      "options": ["At the five lakes of Samantapanchaka", "On the banks of the Ganga", "At the source of the Saraswati", "In the Hiranvati beside the camp"],
+      "answer": 1,
+      "explanation": "The mourners went to the Ganga for the water rites, where Kunti revealed that Karna was her firstborn son."
+    },
+    {
+      "id": "kurukshetra-q29",
+      "difficulty": "hard",
+      "q": "According to the epic, what marked the holy boundary of the Kurukshetra region?",
+      "options": ["A ring of one hundred fire altars", "The shadow of the Himalaya at dawn", "The points Tarantuka, Arantuka, Machakruka, and Rama's lakes", "Pillars raised by King Bharata's victory rites"],
+      "answer": 2,
+      "explanation": "The Vana Parva bounds Kurukshetra by Tarantuka, Arantuka, Machakruka, and the lakes of Rama, calling all within it holy."
+    },
+    {
+      "id": "kurukshetra-q30",
+      "difficulty": "hard",
+      "q": "Duryodhana's refuge, Lake Dvaipayana, shares its name with which figure of the epic?",
+      "options": ["Sanjaya, the far-seeing narrator", "Shuka, the enlightened son of Vyasa", "Dhaumya, priest of the Pandavas", "Vyasa, called Krishna Dvaipayana, the island-born"],
+      "answer": 3,
+      "explanation": "Dvaipayana, meaning island-born, is Vyasa's own epithet, and the lake of Duryodhana's hiding bears the same name."
+    }
+  ]
+}

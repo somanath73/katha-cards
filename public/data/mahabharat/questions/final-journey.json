@@ -1,0 +1,245 @@
+{
+  "cardId": "final-journey",
+  "questions": [
+    {
+      "id": "final-journey-q01",
+      "difficulty": "easy",
+      "q": "How many years did the Pandavas rule after the war before renouncing the throne?",
+      "options": ["Twelve years", "Eighteen years", "Twenty-four years", "Thirty-six years"],
+      "answer": 3,
+      "explanation": "After thirty-six years of rule, the news of Krishna's death and the Yadavas' end moved the Pandavas to renounce the world."
+    },
+    {
+      "id": "final-journey-q02",
+      "difficulty": "easy",
+      "q": "Toward which great mountain did the Pandavas walk on their last journey?",
+      "options": ["Kailasa", "Meru", "Mandara", "Indrakila"],
+      "answer": 1,
+      "explanation": "The Pandavas crossed the Himalayas heading for Mount Meru, the axis of the world, on the Mahaprasthana."
+    },
+    {
+      "id": "final-journey-q03",
+      "difficulty": "easy",
+      "q": "Who was the first of the travelers to fall on the northward march?",
+      "options": ["Sahadeva", "Nakula", "Draupadi", "Arjuna"],
+      "answer": 2,
+      "explanation": "Draupadi fell first, and the brothers then dropped one by one in reverse order of age."
+    },
+    {
+      "id": "final-journey-q04",
+      "difficulty": "easy",
+      "q": "What creature joined the Pandavas and followed them on the final journey?",
+      "options": ["A dog", "A white bull", "A crow", "A horse"],
+      "answer": 0,
+      "explanation": "A dog attached itself to the party as they left Hastinapura and stayed with Yudhishthira to the very end."
+    },
+    {
+      "id": "final-journey-q05",
+      "difficulty": "easy",
+      "q": "Who alone of the seven travelers remained standing at the journey's end?",
+      "options": ["Bhima", "Yudhishthira", "Arjuna", "Draupadi"],
+      "answer": 1,
+      "explanation": "Only Yudhishthira, with the dog beside him, was still walking when Indra's chariot descended."
+    },
+    {
+      "id": "final-journey-q06",
+      "difficulty": "easy",
+      "q": "Whom did Yudhishthira crown at Hastinapura before the Pandavas departed?",
+      "options": ["Yuyutsu", "Vajra", "Janamejaya", "Parikshit"],
+      "answer": 3,
+      "explanation": "Abhimanyu's son Parikshit, the last thread of the Kuru line, was installed as king before the departure."
+    },
+    {
+      "id": "final-journey-q07",
+      "difficulty": "easy",
+      "q": "Who was the faithful dog at heaven's gate finally revealed to be?",
+      "options": ["Dharma, Yudhishthira's divine father", "Indra, testing the king's resolve", "Agni, come to reclaim the Gandiva", "Narada, watching the Kuru line end"],
+      "answer": 0,
+      "explanation": "The dog was the god Dharma in disguise, testing whether his son would abandon a devoted creature for heaven."
+    },
+    {
+      "id": "final-journey-q08",
+      "difficulty": "easy",
+      "q": "Who arrived with a celestial chariot to carry Yudhishthira to heaven?",
+      "options": ["Yama", "Vayu", "Indra", "Surya"],
+      "answer": 2,
+      "explanation": "Indra, king of the gods, came in his chariot to take Yudhishthira to heaven in his own body."
+    },
+    {
+      "id": "final-journey-q09",
+      "difficulty": "easy",
+      "q": "What condition did Yudhishthira set before he would board the chariot to heaven?",
+      "options": ["His brothers must be revived on the spot", "Draupadi must first be crowned in heaven", "His mortal sins must first be erased", "The faithful dog must be allowed to come too"],
+      "answer": 3,
+      "explanation": "Yudhishthira refused heaven itself unless the dog that had walked with him could enter as well."
+    },
+    {
+      "id": "final-journey-q10",
+      "difficulty": "easy",
+      "q": "Which book of the Mahabharata describes the Pandavas' great departure?",
+      "options": ["Svargarohana Parva", "Mahaprasthanika Parva", "Ashramavasika Parva", "Mausala Parva"],
+      "answer": 1,
+      "explanation": "The Mahaprasthanika Parva, the seventeenth book, narrates the great setting-forth toward Meru."
+    },
+    {
+      "id": "final-journey-q11",
+      "difficulty": "medium",
+      "q": "Who fell second on the journey, immediately after Draupadi?",
+      "options": ["Sahadeva", "Nakula", "Arjuna", "Bhima"],
+      "answer": 0,
+      "explanation": "Sahadeva, the youngest brother, fell after Draupadi, and the others followed in reverse order of age."
+    },
+    {
+      "id": "final-journey-q12",
+      "difficulty": "medium",
+      "q": "What flaw did Yudhishthira name as the cause of Draupadi's fall?",
+      "options": ["Her pride in her fire-born beauty", "Her unforgiving hatred of the Kauravas", "Her partiality for Arjuna above her other husbands", "Her vanity as empress of Indraprastha"],
+      "answer": 2,
+      "explanation": "Though wed to five, Draupadi had favored Arjuna in her heart, and that partiality brought her down first."
+    },
+    {
+      "id": "final-journey-q13",
+      "difficulty": "medium",
+      "q": "Why did Sahadeva fall on the mountain path?",
+      "options": ["He had concealed the future he could foresee", "He was proud of his wisdom, thinking none his equal", "He had loved his mother Madri above his dharma", "He had sworn a vow that he failed to keep"],
+      "answer": 1,
+      "explanation": "Yudhishthira said Sahadeva fell because he believed no one equalled him in wisdom."
+    },
+    {
+      "id": "final-journey-q14",
+      "difficulty": "medium",
+      "q": "What failing brought Nakula down on the journey?",
+      "options": ["His secret envy of his brothers", "His attachment to his horses and sword", "His failure to defend Draupadi in the dice hall", "His vanity in believing none matched his beauty"],
+      "answer": 3,
+      "explanation": "Nakula, famed as the handsomest man of his age, fell for his pride in his own beauty."
+    },
+    {
+      "id": "final-journey-q15",
+      "difficulty": "medium",
+      "q": "What failing did Yudhishthira name when Arjuna fell?",
+      "options": ["His slaying of Karna against the rules of war", "His pride in the Gandiva above the gods", "His boast that he could destroy all foes in a single day, never fulfilled", "His envy of Ekalavya's surpassing skill"],
+      "answer": 2,
+      "explanation": "Arjuna fell for the pride of his unfulfilled boast that he would consume all his enemies in one day."
+    },
+    {
+      "id": "final-journey-q16",
+      "difficulty": "medium",
+      "q": "What flaws did Yudhishthira name when mighty Bhima fell?",
+      "options": ["Gluttony and boastfulness about his strength", "Cruelty in drinking Dushasana's blood", "Wrath that never once cooled in his life", "Striking Duryodhana below the navel"],
+      "answer": 0,
+      "explanation": "Bhima fell because he ate without thought for others and vaunted his strength too much."
+    },
+    {
+      "id": "final-journey-q17",
+      "difficulty": "medium",
+      "q": "Who confronted the Pandavas at the journey's start and demanded that Arjuna give up the Gandiva?",
+      "options": ["Varuna, rising from the waters", "Indra, reclaiming heaven's gifts", "Vyasa, closing the age of weapons", "Agni, who had first procured the bow"],
+      "answer": 3,
+      "explanation": "Agni stood before them like a mountain of flame and bade Arjuna return the Gandiva, which he had obtained from Varuna."
+    },
+    {
+      "id": "final-journey-q18",
+      "difficulty": "medium",
+      "q": "What was done with the Gandiva and its two inexhaustible quivers?",
+      "options": ["They were buried beneath Mount Meru", "They were cast into the sea, returned to Varuna", "They were burned up in Agni's own flame", "They were hung once more in the shami tree"],
+      "answer": 1,
+      "explanation": "At Agni's command Arjuna threw the great bow and quivers into the waters, restoring them to Varuna."
+    },
+    {
+      "id": "final-journey-q19",
+      "difficulty": "medium",
+      "q": "What did the Pandavas see when their long circuit brought them to the western coast?",
+      "options": ["Dwarka swallowed by the ocean", "The submerged iron pestle of the curse", "Krishna waiting for them on the shore", "A bridge of stone across the sea"],
+      "answer": 0,
+      "explanation": "On the western shore they beheld Krishna's golden city of Dwarka covered over by the sea."
+    },
+    {
+      "id": "final-journey-q20",
+      "difficulty": "medium",
+      "q": "What objection did Indra raise against the dog entering heaven?",
+      "options": ["The dog was a demon in disguise", "The dog must first be tested by fire", "Heaven has no place for dogs, whose presence defiles offerings", "Only those who shed the body may enter heaven"],
+      "answer": 2,
+      "explanation": "Indra protested that dog-keepers win no heaven and that a dog's gaze defiles sacred offerings, but Yudhishthira would not yield."
+    },
+    {
+      "id": "final-journey-q21",
+      "difficulty": "medium",
+      "q": "As his companions fell one by one, what did Yudhishthira do?",
+      "options": ["He performed funeral rites for each before walking on", "He explained each one's flaw to Bhima and walked on without looking back", "He carried their ashes onward in his water pot", "He kept vigil over each of them until nightfall"],
+      "answer": 1,
+      "explanation": "To Bhima's anguished questions Yudhishthira named each one's failing and continued north, never turning his head."
+    },
+    {
+      "id": "final-journey-q22",
+      "difficulty": "medium",
+      "q": "Who was installed as ruler at Indraprastha before the Pandavas departed?",
+      "options": ["Yuyutsu", "Subhadra", "Satyaki", "Vajra, the Yadava heir"],
+      "answer": 3,
+      "explanation": "Vajra, Krishna's great-grandson and survivor of the Yadava massacre, was set on the throne of Indraprastha."
+    },
+    {
+      "id": "final-journey-q23",
+      "difficulty": "hard",
+      "q": "Whom did Yudhishthira see enthroned in glory when he first entered heaven?",
+      "options": ["Duryodhana", "Karna", "Bhishma", "Shakuni"],
+      "answer": 0,
+      "explanation": "To his outrage, Yudhishthira found Duryodhana seated in splendor while he could not yet see his brothers."
+    },
+    {
+      "id": "final-journey-q24",
+      "difficulty": "hard",
+      "q": "What was the final test Yudhishthira faced after reaching heaven?",
+      "options": ["To renounce his memory of Draupadi", "To judge Duryodhana's right to heaven", "An illusion of hell where his brothers' voices begged him to stay", "To pardon Ashwatthama for the night massacre"],
+      "answer": 2,
+      "explanation": "Led to a reeking darkness where his loved ones seemed to suffer, he chose to remain with them, and the illusion vanished."
+    },
+    {
+      "id": "final-journey-q25",
+      "difficulty": "hard",
+      "q": "How did Yudhishthira finally shed his mortal body?",
+      "options": ["It dissolved when he forgave Duryodhana", "Yama drew the breath from him painlessly", "It burned away in the fire of Indra's chariot", "He bathed in the celestial Ganga at the gods' bidding"],
+      "answer": 3,
+      "explanation": "At the gods' direction he plunged into the heavenly Ganga and rose in a divine form, free of grief and enmity."
+    },
+    {
+      "id": "final-journey-q26",
+      "difficulty": "hard",
+      "q": "Who was appointed preceptor of the young king Parikshit when the Pandavas left?",
+      "options": ["Kripacharya", "Sanjaya", "Dhaumya", "Yuyutsu"],
+      "answer": 0,
+      "explanation": "Parikshit was placed under the tutelage of the immortal Kripacharya, while Yuyutsu was asked to oversee the kingdom's affairs."
+    },
+    {
+      "id": "final-journey-q27",
+      "difficulty": "hard",
+      "q": "In which direction did the Pandavas first set out before finally turning north?",
+      "options": ["West, toward the ruins of Dwarka", "South, toward the Vindhya forests", "East, toward the sea where the Gandiva was surrendered", "They walked north from the very first step"],
+      "answer": 2,
+      "explanation": "They went east first to the sea, where Agni claimed the Gandiva, then circled south and west past drowned Dwarka before turning north."
+    },
+    {
+      "id": "final-journey-q28",
+      "difficulty": "hard",
+      "q": "Where had Dharma said he previously tested Yudhishthira, before the test as the dog?",
+      "options": ["In the dice hall of Hastinapura", "At the lake in the Dvaita forest, as the Yaksha", "On the night of Ashwatthama's raid", "At the gates of Indraprastha"],
+      "answer": 1,
+      "explanation": "Revealing himself, Dharma recalled testing his son at the Dvaita forest lake, where Yudhishthira chose Nakula's life."
+    },
+    {
+      "id": "final-journey-q29",
+      "difficulty": "hard",
+      "q": "Which sage addressed Yudhishthira in heaven when he raged at Duryodhana's honored seat?",
+      "options": ["Narada", "Vyasa", "Markandeya", "Brihaspati"],
+      "answer": 0,
+      "explanation": "Narada told him that heavenly enmities must cease and that Duryodhana had earned his place by a hero's death."
+    },
+    {
+      "id": "final-journey-q30",
+      "difficulty": "hard",
+      "q": "Why, according to the Svargarohana Parva, did Duryodhana merit a place in heaven?",
+      "options": ["Gandhari's austerities had ransomed his sins", "Krishna's dying mercy had redeemed him", "He had fulfilled kshatriya dharma, dying fearlessly in battle", "His final repentance at the lake had cleansed him"],
+      "answer": 2,
+      "explanation": "Duryodhana won the worlds of heroes by meeting death unflinchingly in battle, the kshatriya's sanctifying end."
+    }
+  ]
+}

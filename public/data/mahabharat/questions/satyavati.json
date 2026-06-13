@@ -1,0 +1,395 @@
+{
+  "cardId": "satyavati",
+  "questions": [
+    {
+      "id": "satyavati-q01",
+      "difficulty": "easy",
+      "q": "What work did young Satyavati do on the river?",
+      "options": [
+        "She sold fish in the market of Hastinapura",
+        "She wove nets for the fishermen's guild",
+        "She ferried travelers across the water in a boat",
+        "She gathered pearls for the king of Chedi"
+      ],
+      "answer": 2,
+      "explanation": "Raised among fisherfolk, Satyavati plied a ferry boat, which is how the sage Parashara came to meet her."
+    },
+    {
+      "id": "satyavati-q02",
+      "difficulty": "easy",
+      "q": "What was Satyavati called in her youth because she smelled of fish?",
+      "options": [
+        "Matsyagandha",
+        "Padmagandha",
+        "Kalindi",
+        "Sugandha"
+      ],
+      "answer": 0,
+      "explanation": "Born of a fish, she carried its odor and was known as Matsyagandha, the fish-scented one, until Parashara transformed her."
+    },
+    {
+      "id": "satyavati-q03",
+      "difficulty": "easy",
+      "q": "Which sage gave Satyavati her divine fragrance?",
+      "options": [
+        "Vasishtha",
+        "Bharadwaja",
+        "Durvasa",
+        "Parashara"
+      ],
+      "answer": 3,
+      "explanation": "The sage Parashara, struck by her beauty on the ferry, replaced her fishy odor with a heavenly fragrance."
+    },
+    {
+      "id": "satyavati-q04",
+      "difficulty": "easy",
+      "q": "Who was Satyavati's secret son, born before her royal marriage?",
+      "options": [
+        "Vidura",
+        "Vyasa",
+        "Shuka",
+        "Sanjaya"
+      ],
+      "answer": 1,
+      "explanation": "Her union with Parashara produced Krishna Dvaipayana Vyasa, the future composer of the Mahabharata itself."
+    },
+    {
+      "id": "satyavati-q05",
+      "difficulty": "easy",
+      "q": "Which king did Satyavati marry?",
+      "options": [
+        "Pratipa of Hastinapura",
+        "Uparichara of Chedi",
+        "Shantanu of Hastinapura",
+        "Shalva of Saubha"
+      ],
+      "answer": 2,
+      "explanation": "King Shantanu of Hastinapura fell in love with her by the river and married her after Devavrata's great oath cleared the way."
+    },
+    {
+      "id": "satyavati-q06",
+      "difficulty": "easy",
+      "q": "Who raised Satyavati as his daughter?",
+      "options": [
+        "A chief of fishermen who worked the river",
+        "A forest sage in his hermitage",
+        "The royal cowherd of Hastinapura",
+        "A merchant on the banks of the Ganga"
+      ],
+      "answer": 0,
+      "explanation": "The fisher chief, often called Dasharaja, found and raised Satyavati, and later set the famous condition on her marriage."
+    },
+    {
+      "id": "satyavati-q07",
+      "difficulty": "easy",
+      "q": "From what creature was Satyavati born?",
+      "options": [
+        "A swan on the sacred lake",
+        "A fish swimming in the river",
+        "A doe in the deep forest",
+        "A serpent of the lower worlds"
+      ],
+      "answer": 1,
+      "explanation": "Satyavati was born from a fish that had swallowed a king's seed, which is why she first smelled of fish."
+    },
+    {
+      "id": "satyavati-q08",
+      "difficulty": "easy",
+      "q": "What were Satyavati's two sons by her royal husband named?",
+      "options": [
+        "Dhritarashtra and Pandu",
+        "Devavrata and Devapi",
+        "Bahlika and Somadatta",
+        "Chitrangada and Vichitravirya"
+      ],
+      "answer": 3,
+      "explanation": "Satyavati bore Shantanu two sons, Chitrangada and Vichitravirya, both of whom died without leaving heirs."
+    },
+    {
+      "id": "satyavati-q09",
+      "difficulty": "easy",
+      "q": "What condition secured Satyavati's marriage to the king?",
+      "options": [
+        "That her sons, not the crown prince, would inherit the throne",
+        "That she be crowned before the wedding",
+        "That the king renounce all other wives",
+        "That her father be made chief minister"
+      ],
+      "answer": 0,
+      "explanation": "Her foster father demanded that Satyavati's sons inherit Hastinapura, a condition met only by Devavrata's terrible oath."
+    },
+    {
+      "id": "satyavati-q10",
+      "difficulty": "easy",
+      "q": "Who took a terrible vow so that Satyavati could become queen?",
+      "options": [
+        "Vidura",
+        "Chitrangada",
+        "Devavrata, later called Bhishma",
+        "Vichitravirya"
+      ],
+      "answer": 2,
+      "explanation": "Devavrata renounced the throne and swore celibacy to satisfy her father's condition, earning the name Bhishma."
+    },
+    {
+      "id": "satyavati-q11",
+      "difficulty": "medium",
+      "q": "What name did Satyavati gain when her new fragrance carried a full yojana?",
+      "options": [
+        "Matsyagandha",
+        "Yojanagandha",
+        "Padmavati",
+        "Adrika"
+      ],
+      "answer": 1,
+      "explanation": "Because her divine scent could be perceived from a yojana away, she became known as Yojanagandha."
+    },
+    {
+      "id": "satyavati-q12",
+      "difficulty": "medium",
+      "q": "Besides fragrance, what else did Parashara grant Satyavati after their union?",
+      "options": [
+        "A son who would never know sorrow",
+        "A promise that she would one day be queen",
+        "Protection from all curses for her descendants",
+        "The restoration of her maidenhood"
+      ],
+      "answer": 3,
+      "explanation": "Parashara granted that her virginity be restored, so the secret birth of Vyasa left no mark on her future."
+    },
+    {
+      "id": "satyavati-q13",
+      "difficulty": "medium",
+      "q": "Where was Satyavati's first son born, earning him the name Dvaipayana?",
+      "options": [
+        "On an island in the river Yamuna",
+        "In a hermitage in the Himalayan foothills",
+        "In the fisher village by the Ganga",
+        "In the palace gardens of Chedi"
+      ],
+      "answer": 0,
+      "explanation": "Vyasa was born on an island in the Yamuna, and Dvaipayana means the island-born."
+    },
+    {
+      "id": "satyavati-q14",
+      "difficulty": "medium",
+      "q": "What parting promise did her newborn son Vyasa make to Satyavati?",
+      "options": [
+        "He would return every year at the monsoon",
+        "He would compose an epic in her honor",
+        "He would appear whenever she thought of him",
+        "He would guard her sons from all harm"
+      ],
+      "answer": 2,
+      "explanation": "Vyasa, who grew to manhood at birth, departed for austerities promising to come to his mother the moment she remembered him."
+    },
+    {
+      "id": "satyavati-q15",
+      "difficulty": "medium",
+      "q": "When her royal line stood heirless, whom did Satyavati first urge to father children on the widowed queens?",
+      "options": [
+        "Her own son Vyasa",
+        "A worthy brahmin of the court",
+        "The king of a friendly realm",
+        "Bhishma, despite his vow"
+      ],
+      "answer": 3,
+      "explanation": "Satyavati first begged Bhishma to marry the widows or sire heirs, and only after his refusal did she reveal Vyasa's existence."
+    },
+    {
+      "id": "satyavati-q16",
+      "difficulty": "medium",
+      "q": "After Bhishma refused, whom did Satyavati summon to save the dynasty?",
+      "options": [
+        "The sage Parashara",
+        "Her firstborn son Vyasa",
+        "Her brother from the fisher clan",
+        "The family priest of the Kurus"
+      ],
+      "answer": 1,
+      "explanation": "Remembering Vyasa's promise, Satyavati summoned him to sire heirs on Vichitravirya's widows by niyoga."
+    },
+    {
+      "id": "satyavati-q17",
+      "difficulty": "medium",
+      "q": "Which three grandsons were born of the union Satyavati arranged through Vyasa?",
+      "options": [
+        "Dhritarashtra, Pandu, and Vidura",
+        "Chitrangada, Vichitravirya, and Devavrata",
+        "Yudhishthira, Bhima, and Arjuna",
+        "Karna, Drona, and Kripa"
+      ],
+      "answer": 0,
+      "explanation": "Vyasa fathered Dhritarashtra on Ambika, Pandu on Ambalika, and Vidura on a serving maid, rescuing the Kuru line."
+    },
+    {
+      "id": "satyavati-q18",
+      "difficulty": "medium",
+      "q": "How did Satyavati's elder son Chitrangada die?",
+      "options": [
+        "Of a wasting disease in his youth",
+        "Drowned crossing the swollen Ganga",
+        "Slain in battle by a gandharva who bore his own name",
+        "Poisoned by a rival claimant to the throne"
+      ],
+      "answer": 2,
+      "explanation": "A gandharva also named Chitrangada challenged the proud young king and killed him after a long combat."
+    },
+    {
+      "id": "satyavati-q19",
+      "difficulty": "medium",
+      "q": "What fate took Satyavati's younger son Vichitravirya?",
+      "options": [
+        "He fell in battle against the Panchalas",
+        "He died young of disease, leaving no children",
+        "He renounced the throne and vanished into the forest",
+        "He was slain by a curse for insulting a sage"
+      ],
+      "answer": 1,
+      "explanation": "Vichitravirya died childless of disease, commonly described as consumption, leaving the dynasty without an heir."
+    },
+    {
+      "id": "satyavati-q20",
+      "difficulty": "medium",
+      "q": "Why was Satyavati's grandson Dhritarashtra born blind?",
+      "options": [
+        "His mother Ambika shut her eyes before Vyasa",
+        "Vyasa cursed the child for his mother's pride",
+        "A sage's curse on the Kuru line claimed him",
+        "Satyavati's own broken promise demanded a price"
+      ],
+      "answer": 0,
+      "explanation": "Frightened by Vyasa's grim appearance, Ambika closed her eyes during their union, so her son was born blind."
+    },
+    {
+      "id": "satyavati-q21",
+      "difficulty": "medium",
+      "q": "Why was her grandson Pandu born pale?",
+      "options": [
+        "He was born under the waning moon",
+        "Ganga's chill waters touched his mother",
+        "A blessing of Surya marked him with light",
+        "His mother Ambalika turned white with fear before Vyasa"
+      ],
+      "answer": 3,
+      "explanation": "Ambalika went pale at the sight of Vyasa, and her son Pandu was therefore born with a pale complexion."
+    },
+    {
+      "id": "satyavati-q22",
+      "difficulty": "medium",
+      "q": "Who was sent to Vyasa in the queens' place at the third summons?",
+      "options": [
+        "A princess of a vassal house",
+        "Satyavati's own younger sister",
+        "A serving maid, who bore the wise Vidura",
+        "A daughter of the family priest"
+      ],
+      "answer": 2,
+      "explanation": "Ambika sent her serving maid instead of going herself, and the maid received Vyasa calmly and bore the wise Vidura."
+    },
+    {
+      "id": "satyavati-q23",
+      "difficulty": "hard",
+      "q": "Which celestial nymph, cursed to live as a fish, gave birth to Satyavati?",
+      "options": [
+        "Adrika",
+        "Menaka",
+        "Urvashi",
+        "Ghritachi"
+      ],
+      "answer": 0,
+      "explanation": "The apsara Adrika, cursed to live as a fish in the Yamuna, swallowed a king's seed and bore Satyavati and her twin."
+    },
+    {
+      "id": "satyavati-q24",
+      "difficulty": "hard",
+      "q": "Whose seed, swallowed by the fish, fathered Satyavati and her twin?",
+      "options": [
+        "King Pratipa of Hastinapura",
+        "The sage Parashara",
+        "King Uparichara Vasu of Chedi",
+        "The river god of the Yamuna"
+      ],
+      "answer": 2,
+      "explanation": "King Uparichara Vasu of Chedi was the father, his seed having been carried to the river and swallowed by the cursed fish."
+    },
+    {
+      "id": "satyavati-q25",
+      "difficulty": "hard",
+      "q": "Who was Satyavati's twin, born from the same fish?",
+      "options": [
+        "A serpent prince raised in the depths",
+        "A boy named Matsya, taken by the king",
+        "A daughter named Kali, raised in Chedi",
+        "A boy named Dasharaja, the fisher chief"
+      ],
+      "answer": 1,
+      "explanation": "The fish yielded twins; the boy Matsya was kept by King Uparichara, while the girl was given to the fisher chief to raise."
+    },
+    {
+      "id": "satyavati-q26",
+      "difficulty": "hard",
+      "q": "On whose counsel did Satyavati finally leave the palace for the forest?",
+      "options": [
+        "Bhishma's, after the burning of the lac house",
+        "Vidura's, when the dice game was announced",
+        "Kunti's, after the death of Madri",
+        "Vyasa's, who warned that joyless times were coming"
+      ],
+      "answer": 3,
+      "explanation": "After Pandu's death, Vyasa told his mother the happy days were over and dark times ahead, so she retired to the forest with Ambika and Ambalika."
+    },
+    {
+      "id": "satyavati-q27",
+      "difficulty": "hard",
+      "q": "What waiting period did Vyasa request before the niyoga, which Satyavati's urgency overruled?",
+      "options": [
+        "A year of vows so the queens could bear worthy sons",
+        "A month of fasting for the whole court",
+        "Six years until the widows finished mourning",
+        "A single night of prayer at the Ganga"
+      ],
+      "answer": 0,
+      "explanation": "Vyasa asked that the queens observe a year-long vow to purify themselves, but Satyavati insisted the kingdom could not wait."
+    },
+    {
+      "id": "satyavati-q28",
+      "difficulty": "hard",
+      "q": "How did Parashara hide his union with Satyavati from watching eyes?",
+      "options": [
+        "He stopped time along the river's course",
+        "He took her to an underwater palace",
+        "He made them both invisible to mortals",
+        "He wrapped the boat in a thick screen of mist"
+      ],
+      "answer": 3,
+      "explanation": "Parashara created a dense fog around the boat on the river, concealing them from both banks."
+    },
+    {
+      "id": "satyavati-q29",
+      "difficulty": "hard",
+      "q": "By what name was the dark-complexioned Satyavati also known?",
+      "options": [
+        "Krishnaa",
+        "Shyama",
+        "Kali",
+        "Tamasi"
+      ],
+      "answer": 2,
+      "explanation": "Because of her dark complexion Satyavati was also called Kali, while Krishnaa is the parallel name borne by Draupadi."
+    },
+    {
+      "id": "satyavati-q30",
+      "difficulty": "hard",
+      "q": "What became of the apsara Adrika once the twins were taken from her fish body?",
+      "options": [
+        "She remained a fish guarding the Yamuna",
+        "Freed from her curse, she returned to the heavens",
+        "She became a river flowing through Chedi",
+        "She served Satyavati as guardian spirit"
+      ],
+      "answer": 1,
+      "explanation": "Bearing the two human children fulfilled the terms of Adrika's curse, and she regained her celestial form and rose to heaven."
+    }
+  ]
+}

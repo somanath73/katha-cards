@@ -1,0 +1,245 @@
+{
+  "cardId": "ganga",
+  "questions": [
+    {
+      "id": "ganga-q01",
+      "difficulty": "easy",
+      "q": "Which king did the goddess Ganga marry in mortal form?",
+      "options": ["Pratipa", "Shantanu", "Dushyanta", "Pandu"],
+      "answer": 1,
+      "explanation": "Ganga became the wife of King Shantanu of Hastinapura, binding him with a single condition."
+    },
+    {
+      "id": "ganga-q02",
+      "difficulty": "easy",
+      "q": "What condition did Ganga set before marrying her royal husband?",
+      "options": ["He must never question her actions", "He must give up hunting forever", "He must never look at her by daylight", "He must renounce his throne for her"],
+      "answer": 0,
+      "explanation": "Shantanu had to vow never to question anything Ganga did, or she would leave him at once."
+    },
+    {
+      "id": "ganga-q03",
+      "difficulty": "easy",
+      "q": "How many of her newborn sons did Ganga drown in the river?",
+      "options": ["Five", "Six", "Seven", "Eight"],
+      "answer": 2,
+      "explanation": "Ganga drowned seven sons one after another, and only the eighth child was spared."
+    },
+    {
+      "id": "ganga-q04",
+      "difficulty": "easy",
+      "q": "What was the name of the eighth son whom Ganga spared and raised?",
+      "options": ["Chitrangada", "Devavrata", "Vichitravirya", "Vidura"],
+      "answer": 1,
+      "explanation": "The eighth child was Devavrata, whom Ganga took away to raise and train herself."
+    },
+    {
+      "id": "ganga-q05",
+      "difficulty": "easy",
+      "q": "By what name did Ganga's son Devavrata become famous throughout the epic?",
+      "options": ["Drona", "Karna", "Kripa", "Bhishma"],
+      "answer": 3,
+      "explanation": "Devavrata earned the name Bhishma, he of the terrible oath, after his vow of celibacy."
+    },
+    {
+      "id": "ganga-q06",
+      "difficulty": "easy",
+      "q": "Ganga is the goddess of what?",
+      "options": ["The sacred river that bears her name", "The dawn and its light", "The moon and the tides", "The monsoon rains"],
+      "answer": 0,
+      "explanation": "Ganga is the living goddess of the sacred river Ganga, holiest of India's waters."
+    },
+    {
+      "id": "ganga-q07",
+      "difficulty": "easy",
+      "q": "Why did Ganga drown her newborn sons?",
+      "options": ["To punish Shantanu for his pride", "To free the cursed Vasus swiftly from mortal life", "To appease the river's hunger", "To fulfill a secret vow to Brahma"],
+      "answer": 1,
+      "explanation": "Her sons were the eight Vasus cursed to be born mortal, and drowning them at birth cut their exile short."
+    },
+    {
+      "id": "ganga-q08",
+      "difficulty": "easy",
+      "q": "Which sage cursed the eight Vasus to be born as mortals?",
+      "options": ["Durvasa", "Bhrigu", "Vasishtha", "Agastya"],
+      "answer": 2,
+      "explanation": "The sage Vasishtha cursed the Vasus to mortal birth for stealing his beloved cow."
+    },
+    {
+      "id": "ganga-q09",
+      "difficulty": "easy",
+      "q": "What had the Vasus stolen to earn their curse?",
+      "options": ["Vasishtha's divine cow Nandini", "Indra's white horse Uchchaihshravas", "The sage's sacred fire", "Brahma's book of fate"],
+      "answer": 0,
+      "explanation": "The Vasus carried off Nandini, Vasishtha's wish-granting cow, and were cursed to be born on earth."
+    },
+    {
+      "id": "ganga-q10",
+      "difficulty": "easy",
+      "q": "What happened when Shantanu finally protested as Ganga carried the eighth child to the river?",
+      "options": ["She drowned the child anyway", "She spared the child but left Shantanu forever", "She struck Shantanu blind", "She turned the child into a river"],
+      "answer": 1,
+      "explanation": "Because Shantanu broke his vow by questioning her, Ganga spared the boy but revealed herself and departed."
+    },
+    {
+      "id": "ganga-q11",
+      "difficulty": "medium",
+      "q": "Which Vasu was condemned to live out a long mortal life rather than be freed at birth?",
+      "options": ["Anila, lord of the winds", "Anala, lord of fire", "Dhara, lord of the earth", "Dyaus, who had led the theft"],
+      "answer": 3,
+      "explanation": "Dyaus, the chief offender, had to endure a full mortal life as Bhishma; some retellings name this Vasu Prabhasa."
+    },
+    {
+      "id": "ganga-q12",
+      "difficulty": "medium",
+      "q": "Why did that Vasu steal the divine cow Nandini in the first place?",
+      "options": ["To win a wager with Indra", "Because his wife begged it for her mortal friend", "To break Vasishtha's long penance", "To feed the gods at a great sacrifice"],
+      "answer": 1,
+      "explanation": "His wife wanted Nandini's milk for a mortal friend, so the Vasu took the cow at her urging."
+    },
+    {
+      "id": "ganga-q13",
+      "difficulty": "medium",
+      "q": "When did Ganga return Devavrata to his father Shantanu?",
+      "options": ["As a newborn, within the year", "As a youth already trained by the greatest masters", "Only on Shantanu's deathbed", "Only after Satyavati's wedding"],
+      "answer": 1,
+      "explanation": "Ganga raised the boy herself and returned him years later, educated by the finest teachers of heaven and earth."
+    },
+    {
+      "id": "ganga-q14",
+      "difficulty": "medium",
+      "q": "Under Ganga's care, who trained young Devavrata in the arts of war?",
+      "options": ["Drona", "Kripa", "Parashurama", "Indra"],
+      "answer": 2,
+      "explanation": "Parashurama taught Devavrata weapons, while Vasishtha taught him the Vedas and Brihaspati statecraft."
+    },
+    {
+      "id": "ganga-q15",
+      "difficulty": "medium",
+      "q": "Which of Bhishma's names honors his mother Ganga?",
+      "options": ["Gangeya", "Kaunteya", "Vasusena", "Saubala"],
+      "answer": 0,
+      "explanation": "Bhishma is called Gangeya and Gangaputra, the son of Ganga."
+    },
+    {
+      "id": "ganga-q16",
+      "difficulty": "medium",
+      "q": "When Ganga first approached old King Pratipa by the river, where did she seat herself?",
+      "options": ["At his feet", "On his left thigh", "On his right thigh", "Upon his throne"],
+      "answer": 2,
+      "explanation": "Ganga sat upon Pratipa's right thigh, which determined how the king could accept her."
+    },
+    {
+      "id": "ganga-q17",
+      "difficulty": "medium",
+      "q": "How did Pratipa interpret Ganga's choice of his right thigh?",
+      "options": ["The right thigh is the seat of a daughter or daughter-in-law, so she must wed his son", "The right thigh is reserved for the queen alone", "The right thigh is the seat of conquest and war", "Sitting there was an insult demanding her exile"],
+      "answer": 0,
+      "explanation": "Pratipa explained that the right thigh belongs to a daughter or daughter-in-law, so she should marry his future son."
+    },
+    {
+      "id": "ganga-q18",
+      "difficulty": "medium",
+      "q": "Which king, cursed for desiring Ganga in heaven, was reborn as her future husband Shantanu?",
+      "options": ["Nahusha", "Mahabhisha", "Yayati", "Pururavas"],
+      "answer": 1,
+      "explanation": "King Mahabhisha, cursed for gazing at Ganga in Brahma's court, was reborn as Shantanu to meet her again."
+    },
+    {
+      "id": "ganga-q19",
+      "difficulty": "medium",
+      "q": "Who pronounced the curse that condemned King Mahabhisha to a mortal birth?",
+      "options": ["Indra", "Shiva", "Brahma", "Narada"],
+      "answer": 2,
+      "explanation": "Brahma cursed Mahabhisha to be born among mortals, and Ganga, who had returned his gaze, descended to earth where their love would play out."
+    },
+    {
+      "id": "ganga-q20",
+      "difficulty": "medium",
+      "q": "Whose long austerities finally brought Ganga down from heaven to earth?",
+      "options": ["Sagara", "Anshuman", "Dilipa", "Bhagiratha"],
+      "answer": 3,
+      "explanation": "King Bhagiratha's relentless penance persuaded Ganga to descend, which is why she is called Bhagirathi."
+    },
+    {
+      "id": "ganga-q21",
+      "difficulty": "medium",
+      "q": "Who broke the crushing force of Ganga's descent from heaven?",
+      "options": ["Shiva, who caught her in his matted hair", "Himavan, with his highest peaks", "Vayu, in a great whirlwind", "Vishnu, on Garuda's wings"],
+      "answer": 0,
+      "explanation": "Shiva received the plunging river in his matted locks so her fall would not shatter the earth."
+    },
+    {
+      "id": "ganga-q22",
+      "difficulty": "medium",
+      "q": "Whom was Ganga brought down to earth to liberate?",
+      "options": ["The cursed Vasus", "The serpents of Patala", "Bhagiratha's fallen soldiers", "The sixty thousand sons of Sagara"],
+      "answer": 3,
+      "explanation": "Her waters were needed to purify the ashes of Sagara's sixty thousand sons, burned by the sage Kapila's glance."
+    },
+    {
+      "id": "ganga-q23",
+      "difficulty": "hard",
+      "q": "When Ganga rose from her waters lamenting after Bhishma's death, how was she consoled?",
+      "options": ["That Bhishma would be reborn as her ninth son", "That his ashes would turn the river to gold", "That he would guard the gates of heaven", "That her son had returned to his place among the Vasus"],
+      "answer": 3,
+      "explanation": "Krishna and Vyasa comforted the grieving Ganga, reminding her that her son was the Vasu Dyaus restored to heaven."
+    },
+    {
+      "id": "ganga-q24",
+      "difficulty": "hard",
+      "q": "What does Ganga's epithet \"Tripathaga\" mean?",
+      "options": ["She who grants three boons", "She of the three springs", "She who flows through the three worlds", "She who wed three kings"],
+      "answer": 2,
+      "explanation": "Tripathaga means the river flowing through heaven, earth, and the netherworld."
+    },
+    {
+      "id": "ganga-q25",
+      "difficulty": "hard",
+      "q": "Why is Ganga called \"Vishnupadi\"?",
+      "options": ["She rests at Vishnu's feet in Vaikuntha", "Vishnu measured her with three strides", "She carries Vishnu's golden sandals", "She sprang from the foot of Vishnu"],
+      "answer": 3,
+      "explanation": "Tradition holds that Ganga issued from the foot of Vishnu, earning her the name Vishnupadi."
+    },
+    {
+      "id": "ganga-q26",
+      "difficulty": "hard",
+      "q": "What creature serves as Ganga's vahana, or divine mount?",
+      "options": ["A white swan", "A makara, a crocodile-like water beast", "A white bull", "A great sea turtle"],
+      "answer": 1,
+      "explanation": "Ganga rides the makara, a crocodile-like creature of the waters, in classical iconography."
+    },
+    {
+      "id": "ganga-q27",
+      "difficulty": "hard",
+      "q": "In Puranic genealogy, who is Ganga's father, making her a sister of Parvati?",
+      "options": ["Daksha", "Brahma", "Himavan", "Meru"],
+      "answer": 2,
+      "explanation": "Ganga is counted as a daughter of Himavan, lord of the Himalayas, and thus Parvati's sister."
+    },
+    {
+      "id": "ganga-q28",
+      "difficulty": "hard",
+      "q": "Why does Ganga bear the name \"Bhagirathi\"?",
+      "options": ["It honors Bhagiratha, whose penance brought her to earth", "It names the gorge she carved through the mountains", "It comes from bhaga, meaning fortune", "Shiva gave her the name at her descent"],
+      "answer": 0,
+      "explanation": "She is called Bhagirathi after King Bhagiratha, whose austerities drew her down from heaven."
+    },
+    {
+      "id": "ganga-q29",
+      "difficulty": "hard",
+      "q": "How did Ganga come to be called \"Jahnavi\"?",
+      "options": ["She watered the sage Jahnu's grove", "Jahnu was her firstborn son", "The sage Jahnu swallowed her flood in anger and later released her", "She rose in the land called Jahnudesha"],
+      "answer": 2,
+      "explanation": "When her flood disturbed his sacrifice, the sage Jahnu drank her up, then released her, making her his daughter Jahnavi."
+    },
+    {
+      "id": "ganga-q30",
+      "difficulty": "hard",
+      "q": "What did the cursed Vasus themselves request of Ganga before their mortal birth?",
+      "options": ["To raise them as warrior princes in Hastinapura", "To hide them from Vasishtha forever", "To cast them into the river at birth and cut their exile short", "To bear them all in one single birth"],
+      "answer": 2,
+      "explanation": "The Vasus begged Ganga to be their mother and to drown them at birth so their mortal exile would be brief."
+    }
+  ]
+}

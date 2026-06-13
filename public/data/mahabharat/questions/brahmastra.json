@@ -1,0 +1,395 @@
+{
+  "cardId": "brahmastra",
+  "questions": [
+    {
+      "id": "brahmastra-q01",
+      "difficulty": "easy",
+      "q": "Which deity is the source and presiding power of the Brahmastra?",
+      "options": [
+        "Shiva",
+        "Brahma",
+        "Vishnu",
+        "Indra"
+      ],
+      "answer": 1,
+      "explanation": "The Brahmastra is the weapon of Brahma the creator, said to carry the power to scorch creation itself."
+    },
+    {
+      "id": "brahmastra-q02",
+      "difficulty": "easy",
+      "q": "How is the Brahmastra summoned by its wielder?",
+      "options": [
+        "By reciting a secret mantra",
+        "By dipping the arrow in soma",
+        "By a year-long fire sacrifice",
+        "By the touch of a guru's hand"
+      ],
+      "answer": 0,
+      "explanation": "The weapon is mantra-borne: sacred syllables invoke it into an arrow or even a blade of grass."
+    },
+    {
+      "id": "brahmastra-q03",
+      "difficulty": "easy",
+      "q": "From which teacher did Arjuna learn the use of Brahma's weapon?",
+      "options": [
+        "Parashurama",
+        "Vyasa",
+        "Indra",
+        "Drona"
+      ],
+      "answer": 3,
+      "explanation": "Drona taught the weapon to Arjuna, his favorite pupil, along with its strict conditions of use."
+    },
+    {
+      "id": "brahmastra-q04",
+      "difficulty": "easy",
+      "q": "In the final confrontation after the war, who proved unable to withdraw his Brahma weapon?",
+      "options": [
+        "Arjuna",
+        "Karna",
+        "Ashwatthama",
+        "Drona"
+      ],
+      "answer": 2,
+      "explanation": "Commanded by the sages, Arjuna recalled his weapon, but Ashwatthama could not and had to bend its course instead."
+    },
+    {
+      "id": "brahmastra-q05",
+      "difficulty": "easy",
+      "q": "Where did Ashwatthama finally direct his unstoppable weapon?",
+      "options": [
+        "At Arjuna's chariot",
+        "Into the womb of Uttara",
+        "At the city of Hastinapura",
+        "Into the waters of the Ganga"
+      ],
+      "answer": 1,
+      "explanation": "Unable to recall it, Ashwatthama turned the weapon upon Uttara's womb to end the Pandava line."
+    },
+    {
+      "id": "brahmastra-q06",
+      "difficulty": "easy",
+      "q": "Who restored to life the stillborn child struck by the weapon in the womb?",
+      "options": [
+        "Vyasa",
+        "Dhaumya",
+        "Krishna",
+        "Narada"
+      ],
+      "answer": 2,
+      "explanation": "Krishna revived the child by an act of truth, one of his last great deeds in the epic."
+    },
+    {
+      "id": "brahmastra-q07",
+      "difficulty": "easy",
+      "q": "Which future king was struck by the Brahma weapon before he was even born?",
+      "options": [
+        "Parikshit",
+        "Abhimanyu",
+        "Janamejaya",
+        "Prativindhya"
+      ],
+      "answer": 0,
+      "explanation": "Parikshit, son of Abhimanyu and Uttara, was hit in the womb and delivered stillborn before Krishna revived him."
+    },
+    {
+      "id": "brahmastra-q08",
+      "difficulty": "easy",
+      "q": "What humble object did Ashwatthama charge with Brahma's weapon when cornered?",
+      "options": [
+        "An iron dart",
+        "His father's arrow",
+        "A chariot axle",
+        "A blade of grass"
+      ],
+      "answer": 3,
+      "explanation": "Having no bow at hand, he plucked a stalk of grass and infused it with the mantra of the weapon."
+    },
+    {
+      "id": "brahmastra-q09",
+      "difficulty": "easy",
+      "q": "Which two sages stepped between the rival weapons and ordered them withdrawn?",
+      "options": [
+        "Bhrigu and Bharadwaja",
+        "Narada and Vyasa",
+        "Vasishtha and Vishvamitra",
+        "Kanva and Durvasa"
+      ],
+      "answer": 1,
+      "explanation": "Narada and Vyasa placed themselves between the two blazing weapons and commanded both warriors to recall them."
+    },
+    {
+      "id": "brahmastra-q10",
+      "difficulty": "easy",
+      "q": "Where did the final clash of the two Brahma weapons take place?",
+      "options": [
+        "Near the hermitage of Vyasa",
+        "On the field of Kurukshetra",
+        "At the gates of Hastinapura",
+        "On the banks of the Yamuna"
+      ],
+      "answer": 0,
+      "explanation": "The Pandavas ran Ashwatthama down at Vyasa's riverside hermitage, where he loosed the weapon in desperation."
+    },
+    {
+      "id": "brahmastra-q11",
+      "difficulty": "medium",
+      "q": "Why did Karna fail to use the Brahma weapon against Arjuna at the decisive moment?",
+      "options": [
+        "Indra had reclaimed the weapon from him",
+        "His charioteer Shalya refused to advance",
+        "Parashurama's curse made him forget the mantra",
+        "The sun set before he could release it"
+      ],
+      "answer": 2,
+      "explanation": "Parashurama had cursed Karna to forget his weapon-lore at the hour of greatest need, and the mantra deserted him on the seventeenth day."
+    },
+    {
+      "id": "brahmastra-q12",
+      "difficulty": "medium",
+      "q": "What condition did Drona attach when he taught Arjuna the Brahma weapon?",
+      "options": [
+        "To use it only on the war's final day",
+        "To use it only with Drona's own leave",
+        "Never to loose it within a city's walls",
+        "Never to use it against human warriors"
+      ],
+      "answer": 3,
+      "explanation": "Drona warned that the weapon must never be hurled at human foes, but reserved for superhuman adversaries alone."
+    },
+    {
+      "id": "brahmastra-q13",
+      "difficulty": "medium",
+      "q": "What qualification did the epic say was needed to withdraw the weapon once released?",
+      "options": [
+        "A life of disciplined, celibate purity",
+        "Possession of a guru's blessing token",
+        "Mastery of all four Vedas by heart",
+        "A bath in the Ganga before battle"
+      ],
+      "answer": 0,
+      "explanation": "Only one of rigorous brahmacharya and pure conduct could recall it, which Arjuna possessed and Ashwatthama lacked."
+    },
+    {
+      "id": "brahmastra-q14",
+      "difficulty": "medium",
+      "q": "With what declared intent did Ashwatthama release his weapon at the hermitage?",
+      "options": [
+        "For the glory of my father Drona",
+        "For the destruction of the Pandavas",
+        "For the ruin of Panchala's whole line",
+        "For the end of Krishna's counsel"
+      ],
+      "answer": 1,
+      "explanation": "He loosed the blade of grass with the words that it be for the destruction of the Pandavas."
+    },
+    {
+      "id": "brahmastra-q15",
+      "difficulty": "medium",
+      "q": "What did Arjuna wish for as he loosed his own counter-weapon?",
+      "options": [
+        "The death of Ashwatthama alone",
+        "Victory for the line of Pandu",
+        "The burning of the raider's gem",
+        "Only that the enemy weapon be stilled"
+      ],
+      "answer": 3,
+      "explanation": "Saluting the gods and his guru, Arjuna invoked the weapon wishing no harm, only the neutralizing of his foe's missile."
+    },
+    {
+      "id": "brahmastra-q16",
+      "difficulty": "medium",
+      "q": "What calamity does the epic say falls on a land where the Brahma weapon strikes?",
+      "options": [
+        "A century of serpent plagues",
+        "The earth swallows the wielder whole",
+        "Twelve rainless years upon the land",
+        "Eternal night over the battlefield"
+      ],
+      "answer": 2,
+      "explanation": "Where the weapon falls, the rains fail for twelve years, blighting all that lives there."
+    },
+    {
+      "id": "brahmastra-q17",
+      "difficulty": "medium",
+      "q": "How did Karna come to possess knowledge of the Brahma weapon?",
+      "options": [
+        "From Parashurama, by hiding his true birth",
+        "From Drona, beside the other Kuru princes",
+        "From his father Surya in a waking dream",
+        "From Indra, in trade for his golden armor"
+      ],
+      "answer": 0,
+      "explanation": "Karna learned it from Parashurama while posing as a brahmin, and was cursed to forget it when the deception surfaced."
+    },
+    {
+      "id": "brahmastra-q18",
+      "difficulty": "medium",
+      "q": "Why did the sages intervene when the two weapons blazed toward each other?",
+      "options": [
+        "To save Ashwatthama from Bhima's mace",
+        "To claim both weapons for the gods",
+        "To avert the scorching of all creation",
+        "To stop the war entering a nineteenth day"
+      ],
+      "answer": 2,
+      "explanation": "The meeting of two Brahma weapons threatened the worlds themselves, so Narada and Vyasa commanded their withdrawal."
+    },
+    {
+      "id": "brahmastra-q19",
+      "difficulty": "medium",
+      "q": "By what name does Vyasa's text call the weapon that Arjuna and Ashwatthama loosed at each other?",
+      "options": [
+        "The Pashupatastra",
+        "The Brahmashira",
+        "The Narayanastra",
+        "The Vaishnavastra"
+      ],
+      "answer": 1,
+      "explanation": "The Sanskrit epic names it the Brahmashira, the head of Brahma, though retellings commonly call it the Brahmastra."
+    },
+    {
+      "id": "brahmastra-q20",
+      "difficulty": "medium",
+      "q": "From whom had Ashwatthama himself learned the Brahma weapon?",
+      "options": [
+        "From Shiva at the camp gate",
+        "From Kripa, his maternal uncle",
+        "From Vyasa in the hermitage",
+        "From his father Drona"
+      ],
+      "answer": 3,
+      "explanation": "Drona imparted the weapon to his son, despite knowing the dangers of his impetuous temper."
+    },
+    {
+      "id": "brahmastra-q21",
+      "difficulty": "medium",
+      "q": "What punishment did Krishna pronounce on Ashwatthama for striking at the unborn child?",
+      "options": [
+        "A curse of three thousand years of wandering",
+        "Banishment to the northern mountains for life",
+        "Death at the next sunrise by Bhima's hand",
+        "Rebirth as a Panchala in the coming age"
+      ],
+      "answer": 0,
+      "explanation": "Krishna cursed him to roam the earth for three thousand years, alone, shunned, and reeking of blood and pus."
+    },
+    {
+      "id": "brahmastra-q22",
+      "difficulty": "medium",
+      "q": "What did Krishna vow concerning the child struck in the womb?",
+      "options": [
+        "He would avenge the child upon Drona's line",
+        "He would himself restore the dead child to life",
+        "He would grant the mother another son",
+        "He would seal the weapon away forever"
+      ],
+      "answer": 1,
+      "explanation": "Krishna declared the child would be reborn alive and rule the Kurus, and he made the vow good when Parikshit was delivered stillborn."
+    },
+    {
+      "id": "brahmastra-q23",
+      "difficulty": "hard",
+      "q": "When ordered to withdraw his weapon, what did Ashwatthama confess?",
+      "options": [
+        "That the weapon obeyed only Drona's line",
+        "That Shiva now controlled the missile's path",
+        "That he lacked the power to recall it once loosed",
+        "That he feared Arjuna would strike him unarmed"
+      ],
+      "answer": 2,
+      "explanation": "He admitted he could not draw the weapon back, and could only redirect it toward another target."
+    },
+    {
+      "id": "brahmastra-q24",
+      "difficulty": "hard",
+      "q": "Why was the child struck by the weapon named Parikshit?",
+      "options": [
+        "After the sage who blessed his birth",
+        "For the gem set on Yudhishthira's crown",
+        "After his grandfather's chariot banner",
+        "Because he was born to a perishing line"
+      ],
+      "answer": 3,
+      "explanation": "He was named for being born when the Kuru race had all but perished, the sole thread of a dying dynasty."
+    },
+    {
+      "id": "brahmastra-q25",
+      "difficulty": "hard",
+      "q": "Which earlier duel in the epic also saw warriors hurl Brahma's weapon at each other?",
+      "options": [
+        "Arjuna against Drona at Virata",
+        "Bhishma against Parashurama over Amba",
+        "Karna against Bhima at Kurukshetra",
+        "Drona against Drupada at Kampilya"
+      ],
+      "answer": 1,
+      "explanation": "In their twenty-three day duel over Amba, both Bhishma and his guru Parashurama loosed the Brahma weapon."
+    },
+    {
+      "id": "brahmastra-q26",
+      "difficulty": "hard",
+      "q": "How does the epic describe the moment the two weapons met?",
+      "options": [
+        "The worlds shook as if the end of an age had come",
+        "A great rain quenched both fires instantly",
+        "Night fell across the field at midday",
+        "The river Ganga reversed its course"
+      ],
+      "answer": 0,
+      "explanation": "The colliding weapons blazed like the fire that ends a yuga, oppressing all creatures until the sages intervened."
+    },
+    {
+      "id": "brahmastra-q27",
+      "difficulty": "hard",
+      "q": "What purifying act did Arjuna perform before invoking his counter-weapon?",
+      "options": [
+        "He circled his chariot thrice sunwise",
+        "He bound his bowstring with darbha grass",
+        "He cast off his sandals and his armor",
+        "He sipped consecrated water in rite"
+      ],
+      "answer": 3,
+      "explanation": "Arjuna touched water in ritual purification, saluted gods and guru, and only then released the weapon."
+    },
+    {
+      "id": "brahmastra-q28",
+      "difficulty": "hard",
+      "q": "Why did the strike on Uttara's womb threaten far more than a single life?",
+      "options": [
+        "Uttara carried twin sons of Abhimanyu",
+        "The blast would consume all Hastinapura",
+        "The unborn child was the Kuru line's sole heir",
+        "It would slay Uttara and her mother too"
+      ],
+      "answer": 2,
+      "explanation": "With Draupadi's sons and Abhimanyu dead, the child in Uttara's womb was the only hope of the dynasty's survival."
+    },
+    {
+      "id": "brahmastra-q29",
+      "difficulty": "hard",
+      "q": "Which section of the epic narrates the release of the grass-stalk weapon?",
+      "options": [
+        "The Aishika episode of the Sauptika Parva",
+        "The Jalapradanika of the Stri Parva",
+        "The Rajadharma of the Shanti Parva",
+        "The Gada section of the Shalya Parva"
+      ],
+      "answer": 0,
+      "explanation": "The Aishika sub-book, named for the ishika reed Ashwatthama charged with the weapon, closes the Sauptika Parva."
+    },
+    {
+      "id": "brahmastra-q30",
+      "difficulty": "hard",
+      "q": "Why did celestial sages rebuke Drona on the war's fifteenth day?",
+      "options": [
+        "For fighting past sunset against the code",
+        "For unleashing the Brahma weapon on common troops",
+        "For refusing to face Dhrishtadyumna in duel",
+        "For abandoning Duryodhana's embattled flank"
+      ],
+      "answer": 1,
+      "explanation": "Sages appeared and condemned Drona for burning ordinary soldiers ignorant of celestial weapons, urging him to lay down his arms."
+    }
+  ]
+}

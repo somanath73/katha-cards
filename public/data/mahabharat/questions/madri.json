@@ -1,0 +1,245 @@
+{
+  "cardId": "madri",
+  "questions": [
+    {
+      "id": "madri-q01",
+      "difficulty": "easy",
+      "q": "Madri was a princess of which kingdom?",
+      "options": ["Gandhara", "Madra", "Panchala", "Chedi"],
+      "answer": 1,
+      "explanation": "Madri came from Madra, the northwestern kingdom ruled by her family."
+    },
+    {
+      "id": "madri-q02",
+      "difficulty": "easy",
+      "q": "Who was Madri's brother?",
+      "options": ["Shalya", "Shakuni", "Drupada", "Shishupala"],
+      "answer": 0,
+      "explanation": "Her brother was Shalya, the king of Madra who later led the Kaurava army on the war's final day."
+    },
+    {
+      "id": "madri-q03",
+      "difficulty": "easy",
+      "q": "Madri became the second wife of which king?",
+      "options": ["Dhritarashtra", "Vidura", "Pandu", "Bhishma"],
+      "answer": 2,
+      "explanation": "Madri was married to Pandu, king of Hastinapura, after his marriage to Kunti."
+    },
+    {
+      "id": "madri-q04",
+      "difficulty": "easy",
+      "q": "Who were Madri's two sons?",
+      "options": ["Bhima and Arjuna", "Yudhishthira and Arjuna", "Karna and Yuyutsu", "Nakula and Sahadeva"],
+      "answer": 3,
+      "explanation": "Madri bore the twins Nakula and Sahadeva, the youngest of the five Pandavas."
+    },
+    {
+      "id": "madri-q05",
+      "difficulty": "easy",
+      "q": "Which deities did Madri invoke with the borrowed mantra?",
+      "options": ["The Ashvins", "The Maruts", "The Rudras", "The Adityas"],
+      "answer": 0,
+      "explanation": "She summoned the twin Ashvins, the celestial physicians, who gave her twin sons."
+    },
+    {
+      "id": "madri-q06",
+      "difficulty": "easy",
+      "q": "What were Nakula and Sahadeva to each other?",
+      "options": ["Cousins raised together", "Twin brothers", "Brothers born a year apart", "Foster brothers"],
+      "answer": 1,
+      "explanation": "Nakula and Sahadeva were twins, mirroring the twin Ashvins who fathered them."
+    },
+    {
+      "id": "madri-q07",
+      "difficulty": "easy",
+      "q": "How did Madri die?",
+      "options": ["In a forest fire", "Of grief in Hastinapura", "Slain by a rakshasa", "On Pandu's funeral pyre"],
+      "answer": 3,
+      "explanation": "Blaming herself for Pandu's death, Madri mounted his funeral pyre and died with him."
+    },
+    {
+      "id": "madri-q08",
+      "difficulty": "easy",
+      "q": "To whom did Madri entrust her twin sons before her death?",
+      "options": ["Gandhari", "Satyavati", "Kunti", "Subhadra"],
+      "answer": 2,
+      "explanation": "Madri left Nakula and Sahadeva in Kunti's care, trusting her to raise them as her own."
+    },
+    {
+      "id": "madri-q09",
+      "difficulty": "easy",
+      "q": "Who was Madri's co-wife?",
+      "options": ["Kunti", "Ambika", "Gandhari", "Devika"],
+      "answer": 0,
+      "explanation": "Madri shared her husband Pandu with his first wife, Kunti."
+    },
+    {
+      "id": "madri-q10",
+      "difficulty": "easy",
+      "q": "From whom did Madri obtain the use of the child-granting mantra?",
+      "options": ["Durvasa taught it to her directly", "Kunti shared it with her", "Vyasa granted it as a boon", "Shalya procured it for her"],
+      "answer": 1,
+      "explanation": "At Pandu's request, Kunti shared her mantra with Madri for a single use."
+    },
+    {
+      "id": "madri-q11",
+      "difficulty": "medium",
+      "q": "Who arranged and secured Madri's marriage to Pandu?",
+      "options": ["Satyavati", "Vidura", "Shalya", "Bhishma"],
+      "answer": 3,
+      "explanation": "Bhishma himself traveled to Madra and obtained Madri as a second wife for Pandu."
+    },
+    {
+      "id": "madri-q12",
+      "difficulty": "medium",
+      "q": "What custom of the Madra royal house did Bhishma honor to obtain Madri?",
+      "options": ["A swayamvara of assembled kings", "A trial of arms with her kinsmen", "Payment of a bride-price in gold and gems", "An exchange of royal hostages"],
+      "answer": 2,
+      "explanation": "The Madra family custom required a bride-price, and Bhishma gave abundant wealth for Madri's hand."
+    },
+    {
+      "id": "madri-q13",
+      "difficulty": "medium",
+      "q": "How did Madri obtain two sons from only a single use of the mantra?",
+      "options": ["She invoked the twin Ashvins, who are inseparable", "She recited the mantra twice in one breath", "The gods doubled the boon out of pity", "Kunti secretly granted her a second use"],
+      "answer": 0,
+      "explanation": "By cleverly calling the twin gods together, Madri received twin sons from one invocation."
+    },
+    {
+      "id": "madri-q14",
+      "difficulty": "medium",
+      "q": "How did Kunti react to Madri gaining twins from one invocation?",
+      "options": ["She rejoiced and offered another use", "She felt outwitted and refused to share the mantra again", "She demanded one twin as her own", "She asked Pandu to reward Madri"],
+      "answer": 1,
+      "explanation": "Kunti felt deceived by the clever use of the mantra and would not lend it to Madri a second time."
+    },
+    {
+      "id": "madri-q15",
+      "difficulty": "medium",
+      "q": "What triggered the curse that killed Pandu?",
+      "options": ["A fall on the mountain paths", "A broken vow to the hermits", "Poisoned food at the hermitage", "His desire-filled embrace of Madri"],
+      "answer": 3,
+      "explanation": "Kindama's curse decreed death in love's embrace, and it struck when Pandu embraced Madri one spring day."
+    },
+    {
+      "id": "madri-q16",
+      "difficulty": "medium",
+      "q": "Which reason did Madri give for being the one to follow Pandu in death instead of Kunti?",
+      "options": ["A vow she had made at her wedding", "Her father's family tradition demanded it", "She could not raise both sets of sons with the impartial love Kunti could give", "The hermits of the mountain chose her"],
+      "answer": 2,
+      "explanation": "Madri argued that Kunti alone could mother all five boys equally, while she herself could not, so she must be the one to go."
+    },
+    {
+      "id": "madri-q17",
+      "difficulty": "medium",
+      "q": "For what did Madri blame herself after Pandu's death?",
+      "options": ["Borrowing Kunti's mantra too eagerly", "Being the occasion of the curse, unable to ward off Pandu's advance", "Leaving the hermitage unguarded that day", "Ignoring the sages' warnings about spring"],
+      "answer": 1,
+      "explanation": "Madri reproached herself that the curse struck through her, since she could not turn Pandu away in time."
+    },
+    {
+      "id": "madri-q18",
+      "difficulty": "medium",
+      "q": "Which of Madri's sons was famed as the most beautiful man of his age?",
+      "options": ["Nakula", "Sahadeva", "Abhimanyu", "Arjuna"],
+      "answer": 0,
+      "explanation": "Nakula, the elder twin, was renowned as the handsomest man of his time."
+    },
+    {
+      "id": "madri-q19",
+      "difficulty": "medium",
+      "q": "On which side did Madri's brother Shalya fight in the great war?",
+      "options": ["He stayed neutral on pilgrimage", "The Pandava side, openly", "He withdrew midway through the war", "The Kaurava side, bound by Duryodhana's hospitality"],
+      "answer": 3,
+      "explanation": "Though uncle to the twins, Shalya was tricked into the Kaurava camp by lavish hospitality he had unknowingly accepted from Duryodhana."
+    },
+    {
+      "id": "madri-q20",
+      "difficulty": "medium",
+      "q": "Where was Madri living when her twin sons were born?",
+      "options": ["The mountain hermitage of Shatashringa", "The palace at Hastinapura", "Her father's house in Madra", "The forest of Kamyaka"],
+      "answer": 0,
+      "explanation": "The twins were born during the family's ascetic life among the hermits of Shatashringa."
+    },
+    {
+      "id": "madri-q21",
+      "difficulty": "medium",
+      "q": "Pandu asked Kunti to help Madri because Madri grieved over what?",
+      "options": ["Her exile from her homeland", "Her lower rank as the second wife", "Her childlessness while Kunti had three sons", "Her separation from her brother Shalya"],
+      "answer": 2,
+      "explanation": "Seeing Kunti's three sons, the childless Madri sorrowed, and Pandu persuaded Kunti to share the mantra once."
+    },
+    {
+      "id": "madri-q22",
+      "difficulty": "medium",
+      "q": "Who raised Nakula and Sahadeva after Madri's death?",
+      "options": ["Gandhari, alongside her hundred sons", "Kunti, as dearly as her own sons", "The sages of the hermitage", "Shalya, at his court in Madra"],
+      "answer": 1,
+      "explanation": "Kunti honored Madri's dying trust and raised the twins with love said to exceed even that for her own children."
+    },
+    {
+      "id": "madri-q23",
+      "difficulty": "hard",
+      "q": "With only one permitted use of the mantra, how was the choice of the twin gods made?",
+      "options": ["Kunti instructed Madri to call them", "Bhishma sent word advising it", "Madri herself reflected and called the inseparable Ashvins", "The sages of the hermitage chose for her"],
+      "answer": 2,
+      "explanation": "In the Adi Parva, Madri thought it over and summoned the twin Ashvins to gain two sons at once, though some retellings credit Pandu's advice."
+    },
+    {
+      "id": "madri-q24",
+      "difficulty": "hard",
+      "q": "When Pandu later asked Kunti to give Madri another turn with the mantra, what did Kunti say?",
+      "options": ["She agreed to one final use", "She said the mantra's power was exhausted", "She deferred the decision to Vyasa", "She refused, fearing Madri's cleverness would let her surpass her in sons"],
+      "answer": 3,
+      "explanation": "Kunti complained that Madri had won two sons from one use and refused, afraid of being outdone."
+    },
+    {
+      "id": "madri-q25",
+      "difficulty": "hard",
+      "q": "What was the capital city of Madri's homeland, Madra?",
+      "options": ["Kampilya", "Sagala", "Champa", "Pragjyotisha"],
+      "answer": 1,
+      "explanation": "Madra's capital was Sagala, also called Sakala, in the Punjab region of the northwest."
+    },
+    {
+      "id": "madri-q26",
+      "difficulty": "hard",
+      "q": "What claim did Madri make about Pandu's final moment to justify following him in death?",
+      "options": ["That she must follow him because he died with his desire for her unsatisfied", "That he had blessed only her with his last breath", "That he had revoked his vow of asceticism for her", "That he had commanded her to join him"],
+      "answer": 0,
+      "explanation": "Madri argued that Pandu had died seeking her in desire, so she alone must follow him to fulfill it in the next world."
+    },
+    {
+      "id": "madri-q27",
+      "difficulty": "hard",
+      "q": "Madri's younger son Sahadeva was famed for what?",
+      "options": ["Mastery of horses", "Unrivaled mace-play", "Quiet wisdom and knowledge of astrology", "Celestial archery"],
+      "answer": 2,
+      "explanation": "Tradition celebrates Sahadeva as the silent seer of the brothers, learned in the stars and the future."
+    },
+    {
+      "id": "madri-q28",
+      "difficulty": "hard",
+      "q": "By which epithet are Nakula and Sahadeva often identified in the epic?",
+      "options": ["The Madreyas, sons of Madri", "The Gandharas", "The Saindhavas", "The Vaikartanas"],
+      "answer": 0,
+      "explanation": "The twins are called Madreyas after their mother, just as Kunti's sons are called Kaunteyas."
+    },
+    {
+      "id": "madri-q29",
+      "difficulty": "hard",
+      "q": "Before Madri mounted the funeral pyre, what dispute took place?",
+      "options": ["The sages forbade either widow to die", "Shalya demanded the body be taken to Madra", "The young twins tried to hold her back", "Kunti too claimed the right to follow Pandu, and Madri had to persuade her"],
+      "answer": 3,
+      "explanation": "Kunti, as the elder wife, claimed the right to die with Pandu, but Madri prevailed with her arguments and ascended the pyre."
+    },
+    {
+      "id": "madri-q30",
+      "difficulty": "hard",
+      "q": "Madri's self-immolation is one of the epic's rare instances of which practice?",
+      "options": ["The agnipariksha ordeal of fire", "Anugamana, a widow following her husband onto the pyre", "Jauhar before an invading army", "Prayopavesa, fasting unto death"],
+      "answer": 1,
+      "explanation": "Her death is a rare epic example of anugamana, the widow's following of her husband in death, which later tradition called sati."
+    }
+  ]
+}

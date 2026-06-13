@@ -1,0 +1,245 @@
+{
+  "cardId": "balarama",
+  "questions": [
+    {
+      "id": "balarama-q01",
+      "difficulty": "easy",
+      "q": "How was Balarama related to Krishna?",
+      "options": ["He was Krishna's cousin", "He was Krishna's younger brother", "He was Krishna's elder brother", "He was Krishna's maternal uncle"],
+      "answer": 2,
+      "explanation": "Balarama was the mighty elder brother of Krishna, both being sons of Vasudeva."
+    },
+    {
+      "id": "balarama-q02",
+      "difficulty": "easy",
+      "q": "What was Balarama's signature weapon?",
+      "options": ["The plough", "The bow", "The trident", "The discus"],
+      "answer": 0,
+      "explanation": "Balarama wielded the plough, called hala, alongside his pestle-like mace, earning him the name Halayudha."
+    },
+    {
+      "id": "balarama-q03",
+      "difficulty": "easy",
+      "q": "Balarama was regarded as the incarnation of which cosmic serpent?",
+      "options": ["Vasuki", "Takshaka", "Kaliya", "Shesha"],
+      "answer": 3,
+      "explanation": "He was held to be the incarnation of Shesha, the world-bearing serpent on whom Vishnu rests."
+    },
+    {
+      "id": "balarama-q04",
+      "difficulty": "easy",
+      "q": "Which two rival princes both learned mace fighting from Balarama?",
+      "options": ["Arjuna and Karna", "Bhima and Duryodhana", "Yudhishthira and Shakuni", "Nakula and Dushasana"],
+      "answer": 1,
+      "explanation": "Balarama taught the mace to both Bhima and Duryodhana, which bound him to fighters on both sides of the war."
+    },
+    {
+      "id": "balarama-q05",
+      "difficulty": "easy",
+      "q": "What did Balarama do while the Kurukshetra war was being fought?",
+      "options": ["He commanded the Kaurava reserves", "He went on pilgrimage along the Saraswati", "He guarded Dwarka against invasion", "He meditated atop Mount Kailasa"],
+      "answer": 1,
+      "explanation": "Refusing to fight either side, Balarama spent the war visiting the holy fords along the Saraswati River."
+    },
+    {
+      "id": "balarama-q06",
+      "difficulty": "easy",
+      "q": "What emblem flew on Balarama's banner?",
+      "options": ["A golden garuda", "A roaring lion", "A coiled serpent", "A palm tree"],
+      "answer": 3,
+      "explanation": "Balarama fought under the tala-dhwaja, the banner bearing the palm tree."
+    },
+    {
+      "id": "balarama-q07",
+      "difficulty": "easy",
+      "q": "What does Balarama's name Halayudha mean?",
+      "options": ["He whose weapon is the plough", "He who bears the mountain", "He whose strength is boundless", "He who tames wild bulls"],
+      "answer": 0,
+      "explanation": "Halayudha combines hala, the plough, with ayudha, weapon, naming him the plough-armed warrior."
+    },
+    {
+      "id": "balarama-q08",
+      "difficulty": "easy",
+      "q": "Who was Balarama's younger sister, who married Arjuna?",
+      "options": ["Revati", "Rukmini", "Subhadra", "Satyabhama"],
+      "answer": 2,
+      "explanation": "Subhadra, sister of Balarama and Krishna, became Arjuna's wife and the mother of Abhimanyu."
+    },
+    {
+      "id": "balarama-q09",
+      "difficulty": "easy",
+      "q": "Whom did Balarama marry?",
+      "options": ["Jambavati", "Mitravinda", "Lakshmana", "Revati"],
+      "answer": 3,
+      "explanation": "Balarama married Revati, the daughter of King Raivata."
+    },
+    {
+      "id": "balarama-q10",
+      "difficulty": "easy",
+      "q": "From whose womb was Balarama finally born?",
+      "options": ["Rohini's", "Devaki's", "Yashoda's", "Kunti's"],
+      "answer": 0,
+      "explanation": "Though conceived in Devaki, the unborn Balarama was divinely transferred to Rohini, Vasudeva's other wife, who bore him."
+    },
+    {
+      "id": "balarama-q11",
+      "difficulty": "medium",
+      "q": "Why did Balarama rage at Bhima after the final mace duel of the war?",
+      "options": ["Bhima refused to bow to his teacher", "Bhima struck Duryodhana below the navel, breaking the rules of mace combat", "Bhima had mocked his pilgrimage before the duel", "Bhima fought the duel without seeking his blessing"],
+      "answer": 1,
+      "explanation": "Mace-fighting law forbade blows below the navel, so Bhima's thigh-shattering strike on Duryodhana outraged Balarama."
+    },
+    {
+      "id": "balarama-q12",
+      "difficulty": "medium",
+      "q": "Which of his pupils did Balarama consider the finer wielder of the mace?",
+      "options": ["Bhima", "Yudhishthira", "Duryodhana", "Sahadeva"],
+      "answer": 2,
+      "explanation": "Balarama regarded Duryodhana as his finest mace student, surpassing even the mighty Bhima in skill."
+    },
+    {
+      "id": "balarama-q13",
+      "difficulty": "medium",
+      "q": "To whom had Balarama wished to give his sister Subhadra in marriage?",
+      "options": ["Duryodhana", "Karna", "Jayadratha", "Shishupala"],
+      "answer": 0,
+      "explanation": "Balarama favored his pupil Duryodhana as Subhadra's groom, which is why Krishna quietly steered Arjuna toward her instead."
+    },
+    {
+      "id": "balarama-q14",
+      "difficulty": "medium",
+      "q": "Who calmed Balarama's fury when Arjuna carried Subhadra away from Dwarka?",
+      "options": ["Vasudeva", "Ugrasena", "Satyaki", "Krishna"],
+      "answer": 3,
+      "explanation": "Krishna pacified Balarama by arguing that no groom was worthier than Arjuna and that the carrying-off was an honored heroic custom."
+    },
+    {
+      "id": "balarama-q15",
+      "difficulty": "medium",
+      "q": "Along which river did Balarama make his pilgrimage during the great war?",
+      "options": ["The Ganga", "The Yamuna", "The Saraswati", "The Godavari"],
+      "answer": 2,
+      "explanation": "Balarama toured the sacred fords of the Saraswati, a journey the Shalya Parva describes at length."
+    },
+    {
+      "id": "balarama-q16",
+      "difficulty": "medium",
+      "q": "According to the epic, roughly how long did Balarama's wartime pilgrimage last?",
+      "options": ["Forty-two days", "Eighteen days", "Twelve years", "One hundred days"],
+      "answer": 0,
+      "explanation": "Balarama says he set out under the Pushya star and returned under Shravana, a span of forty-two days covering the whole war."
+    },
+    {
+      "id": "balarama-q17",
+      "difficulty": "medium",
+      "q": "Why is Balarama called Sankarshana?",
+      "options": ["Because he could drag mountains from their roots", "Because he was drawn from Devaki's womb into Rohini's", "Because he hauled grounded ships ashore at Dwarka", "Because he pulled Krishna from the Yamuna's depths"],
+      "answer": 1,
+      "explanation": "The name Sankarshana, the one drawn across, recalls how the embryo was transferred from Devaki to Rohini to save him from Kamsa."
+    },
+    {
+      "id": "balarama-q18",
+      "difficulty": "medium",
+      "q": "Who was Balarama's father?",
+      "options": ["Nanda", "Ugrasena", "Kamsa", "Vasudeva"],
+      "answer": 3,
+      "explanation": "Balarama was the son of Vasudeva, making him a Yadava prince by birth."
+    },
+    {
+      "id": "balarama-q19",
+      "difficulty": "medium",
+      "q": "Against whom did Balarama raise his plough in anger after the foul blow at Lake Dvaipayana?",
+      "options": ["Bhima", "Arjuna", "Yudhishthira", "Krishna"],
+      "answer": 0,
+      "explanation": "Enraged by the strike below the navel, Balarama rushed at Bhima with his plough until Krishna restrained him."
+    },
+    {
+      "id": "balarama-q20",
+      "difficulty": "medium",
+      "q": "What did Balarama declare about Duryodhana after the unfair end of the mace duel?",
+      "options": ["That he deserved his fate as a tyrant", "That he should have surrendered when his armies fell", "That as a fair fighter he would win lasting glory and the realms above", "That he should be denied all funeral honors"],
+      "answer": 2,
+      "explanation": "Balarama proclaimed that Duryodhana, having fought fairly, would attain glory and blessed realms, while Bhima would be remembered as a crooked fighter."
+    },
+    {
+      "id": "balarama-q21",
+      "difficulty": "medium",
+      "q": "Why did Balarama refuse to fight at Kurukshetra?",
+      "options": ["Gandhari had bound him with an oath", "Both sides were dear to him as kin and pupils, so he would not choose", "A sage's curse forbade him to lift weapons", "Krishna ordered him to guard the western coast"],
+      "answer": 1,
+      "explanation": "With Duryodhana his cherished student and the Pandavas his cousins, Balarama declared he could not raise arms against either side."
+    },
+    {
+      "id": "balarama-q22",
+      "difficulty": "medium",
+      "q": "How did Balarama's appearance famously contrast with Krishna's?",
+      "options": ["He was shorter and golden-eyed", "He dressed in yellow while Krishna wore white", "He bore a discus while Krishna bore a plough", "He was fair-skinned while Krishna was dark"],
+      "answer": 3,
+      "explanation": "Balarama was depicted as fair as the moon or white as a conch, the visual opposite of his dark-hued brother Krishna."
+    },
+    {
+      "id": "balarama-q23",
+      "difficulty": "hard",
+      "q": "How did Balarama leave the world at Prabhasa?",
+      "options": ["A white serpent issued from his mouth into the sea as he sat in meditation", "A hunter's arrow pierced his heel beneath a fig tree", "He walked into the ocean carrying his plough on his shoulder", "He ascended in a celestial chariot before the Yadava brawl began"],
+      "answer": 0,
+      "explanation": "In the Mausala Parva, Balarama sat in yoga by the shore and the great white serpent Shesha glided from his mouth into the ocean, shortly before Krishna's own death."
+    },
+    {
+      "id": "balarama-q24",
+      "difficulty": "hard",
+      "q": "Whom did Balarama strike down over a dice game during the wedding festivities of Aniruddha?",
+      "options": ["Shishupala", "Dantavakra", "Rukmi", "Paundraka"],
+      "answer": 2,
+      "explanation": "Provoked by cheating and insults at dice, Balarama slew Rukmi, Rukmini's brother, an episode told in the Bhagavata and Harivamsha traditions."
+    },
+    {
+      "id": "balarama-q25",
+      "difficulty": "hard",
+      "q": "In the Puranic retelling, which city did Balarama begin dragging with his plough to free the captured Samba?",
+      "options": ["Mathura", "Girivraja", "Kampilya", "Hastinapura"],
+      "answer": 3,
+      "explanation": "When the Kauravas imprisoned Krishna's son Samba, the Bhagavata Purana says Balarama hooked his plough into Hastinapura and dragged it toward the Ganga until they yielded."
+    },
+    {
+      "id": "balarama-q26",
+      "difficulty": "hard",
+      "q": "Which river did Balarama famously divert with his plough?",
+      "options": ["The Saraswati", "The Yamuna", "The Narmada", "The Kaveri"],
+      "answer": 1,
+      "explanation": "In the Puranic account, when the Yamuna ignored his call, Balarama dragged the river to himself with his plough, changing her course."
+    },
+    {
+      "id": "balarama-q27",
+      "difficulty": "hard",
+      "q": "Which asura did the young Balarama slay in the herding grounds of his boyhood?",
+      "options": ["Bakasura", "Pralamba", "Aghasura", "Keshi"],
+      "answer": 1,
+      "explanation": "Pralamba carried Balarama off on his shoulders during a game, and the boy crushed the demon's head with his fist, as told in the Harivamsha and Bhagavata."
+    },
+    {
+      "id": "balarama-q28",
+      "difficulty": "hard",
+      "q": "Who was the father of Balarama's wife Revati?",
+      "options": ["King Raivata Kakudmi", "King Kuntibhoja", "King Bhishmaka", "King Shalva"],
+      "answer": 0,
+      "explanation": "Revati was the daughter of King Raivata, also called Kakudmi, who in Puranic lore sought Brahma's counsel to find her a worthy husband."
+    },
+    {
+      "id": "balarama-q29",
+      "difficulty": "hard",
+      "q": "Which demon haunting the palm grove of Talavana did Balarama destroy?",
+      "options": ["Trinavarta", "Arishtasura", "Dhenuka", "Shankhachuda"],
+      "answer": 2,
+      "explanation": "Balarama killed the donkey demon Dhenuka by whirling him into a palm tree, freeing the grove of Talavana, an episode from the Bhagavata tradition."
+    },
+    {
+      "id": "balarama-q30",
+      "difficulty": "hard",
+      "q": "Which of Balarama's names honors his mother?",
+      "options": ["Sankarshana", "Halayudha", "Balabhadra", "Rauhineya"],
+      "answer": 3,
+      "explanation": "Rauhineya means son of Rohini, the mother who bore and raised him."
+    }
+  ]
+}

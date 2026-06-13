@@ -1,0 +1,245 @@
+{
+  "cardId": "ekalavya",
+  "questions": [
+    {
+      "id": "ekalavya-q01",
+      "difficulty": "easy",
+      "q": "To which forest community did Ekalavya belong?",
+      "options": ["The Yadavas", "The Matsyas", "The Nishadas", "The Kiratas"],
+      "answer": 2,
+      "explanation": "Ekalavya was a prince of the Nishadas, a forest-dwelling community of hunters."
+    },
+    {
+      "id": "ekalavya-q02",
+      "difficulty": "easy",
+      "q": "Whom did Ekalavya revere as his guru even after being turned away?",
+      "options": ["Drona", "Kripa", "Parashurama", "Bhishma"],
+      "answer": 0,
+      "explanation": "Though Drona refused to teach him, Ekalavya accepted Drona as his guru in his heart and trained in his name."
+    },
+    {
+      "id": "ekalavya-q03",
+      "difficulty": "easy",
+      "q": "Why did Drona refuse to accept Ekalavya as a pupil?",
+      "options": ["The boy had no bow of his own", "Because of his low Nishada birth", "He arrived after lessons had ended", "He could not pay the teaching fee"],
+      "answer": 1,
+      "explanation": "Drona declined the Nishada boy on account of his birth, mindful of his royal pupils and of Arjuna's promised pre-eminence."
+    },
+    {
+      "id": "ekalavya-q04",
+      "difficulty": "easy",
+      "q": "Before what did Ekalavya practice archery in the forest?",
+      "options": ["A sacred fire he kept burning", "A portrait of his father", "A shrine of Shiva", "A clay image of Drona"],
+      "answer": 3,
+      "explanation": "Ekalavya fashioned a clay image of Drona and practiced before it with such devotion that he attained near-unmatched skill."
+    },
+    {
+      "id": "ekalavya-q05",
+      "difficulty": "easy",
+      "q": "What did Drona finally demand from Ekalavya as his teacher's fee?",
+      "options": ["His right thumb", "His great bow", "His kingdom's tribute", "A vow never to fight Arjuna"],
+      "answer": 0,
+      "explanation": "Drona claimed Ekalavya's right thumb as gurudakshina, the one price that would cripple his archery."
+    },
+    {
+      "id": "ekalavya-q06",
+      "difficulty": "easy",
+      "q": "How did Ekalavya respond to Drona's demand for his thumb?",
+      "options": ["He begged for a lesser price", "He challenged Drona to a duel", "He cut it off without hesitation", "He asked Arjuna to intercede"],
+      "answer": 2,
+      "explanation": "With a cheerful face and no hesitation, Ekalavya severed his right thumb and offered it to Drona."
+    },
+    {
+      "id": "ekalavya-q07",
+      "difficulty": "easy",
+      "q": "Which animal's barking mouth did Ekalavya famously seal with arrows?",
+      "options": ["A jackal's", "A dog's", "A wolf's", "A boar's"],
+      "answer": 1,
+      "explanation": "Ekalavya filled the mouth of a barking dog with arrows so deftly that the animal was silenced without being wounded."
+    },
+    {
+      "id": "ekalavya-q08",
+      "difficulty": "easy",
+      "q": "How many arrows did Ekalavya shoot into the barking dog's mouth?",
+      "options": ["Three", "Five", "Nine", "Seven"],
+      "answer": 3,
+      "explanation": "Ekalavya loosed seven arrows into the dog's open mouth, the feat that revealed his skill to the Kuru princes."
+    },
+    {
+      "id": "ekalavya-q09",
+      "difficulty": "easy",
+      "q": "Whose supremacy as an archer did Ekalavya's sacrifice ultimately protect?",
+      "options": ["Arjuna's", "Karna's", "Ashwatthama's", "Drona's"],
+      "answer": 0,
+      "explanation": "By surrendering his thumb, Ekalavya gave up his superiority so that Arjuna would remain the world's foremost archer."
+    },
+    {
+      "id": "ekalavya-q10",
+      "difficulty": "easy",
+      "q": "In which art did Ekalavya achieve near-unmatched mastery through self-practice?",
+      "options": ["Mace fighting", "Swordsmanship", "Archery", "Chariot driving"],
+      "answer": 2,
+      "explanation": "Through years of solitary devotion, Ekalavya made himself an archer to rival the best of Drona's own pupils."
+    },
+    {
+      "id": "ekalavya-q11",
+      "difficulty": "medium",
+      "q": "What did the feat with the barking dog demonstrate about Ekalavya?",
+      "options": ["His cruelty toward animals", "His fear of being discovered", "His knowledge of celestial weapons", "His extraordinary speed and precision"],
+      "answer": 3,
+      "explanation": "Sealing the dog's mouth without harming it showed astonishing lightness of hand, and is often described as shooting guided by sound alone."
+    },
+    {
+      "id": "ekalavya-q12",
+      "difficulty": "medium",
+      "q": "The dog whose mouth Ekalavya sealed had wandered from whose party?",
+      "options": ["Duryodhana's hunting camp", "The Pandavas' hunting expedition", "Drona's hermitage", "A Nishada raiding band"],
+      "answer": 1,
+      "explanation": "The dog had strayed from the Pandavas, who were out hunting in the forest, and its return with a mouth full of arrows astonished them."
+    },
+    {
+      "id": "ekalavya-q13",
+      "difficulty": "medium",
+      "q": "Which prince was most shaken on witnessing Ekalavya's skill?",
+      "options": ["Arjuna", "Bhima", "Yudhishthira", "Nakula"],
+      "answer": 0,
+      "explanation": "Arjuna was deeply troubled, for the forest archer's skill threatened the supremacy Drona had promised him."
+    },
+    {
+      "id": "ekalavya-q14",
+      "difficulty": "medium",
+      "q": "What promise of Drona's lay behind the demand for Ekalavya's thumb?",
+      "options": ["That a Nishada would never hold a bow", "That Ashwatthama would inherit his lore", "That no pupil would surpass Arjuna", "That all kings would honor the Kurus"],
+      "answer": 2,
+      "explanation": "Drona had assured Arjuna that no pupil of his would ever excel him, and the thumb was the price of keeping that word."
+    },
+    {
+      "id": "ekalavya-q15",
+      "difficulty": "medium",
+      "q": "How did Ekalavya shoot after losing his thumb?",
+      "options": ["He gave up the bow forever", "With a wooden thumb he carved", "Only with his left hand", "With his remaining fingers"],
+      "answer": 3,
+      "explanation": "Ekalavya continued to shoot using his remaining fingers, still formidable but no longer supreme."
+    },
+    {
+      "id": "ekalavya-q16",
+      "difficulty": "medium",
+      "q": "How did Ekalavya receive Drona when the master arrived at his forest range?",
+      "options": ["With cold silence", "With reverence, honoring him as his guru", "With a challenge to test him", "With gifts of gold and game"],
+      "answer": 1,
+      "explanation": "Ekalavya touched Drona's feet and honored him as his teacher, offering him whatever he wished."
+    },
+    {
+      "id": "ekalavya-q17",
+      "difficulty": "medium",
+      "q": "What is Ekalavya's sacrifice most often held up as an emblem of?",
+      "options": ["Absolute devotion to the guru", "The rewards of royal birth", "The dangers of forest life", "The futility of self-study"],
+      "answer": 0,
+      "explanation": "Ekalavya's unquestioning gift of his thumb is the epic's starkest image of guru-bhakti, though it is also widely read as the cost of caste exclusion."
+    },
+    {
+      "id": "ekalavya-q18",
+      "difficulty": "medium",
+      "q": "Where did Ekalavya carry out his years of archery practice?",
+      "options": ["In Hastinapura's training grounds", "In a cave in the Himalayas", "At a hermitage he made in the forest", "In the courtyard of Drona's home"],
+      "answer": 2,
+      "explanation": "After Drona's refusal, Ekalavya withdrew to the forest, set up the clay image, and trained there in solitude."
+    },
+    {
+      "id": "ekalavya-q19",
+      "difficulty": "medium",
+      "q": "When the astonished princes asked who he was, how did Ekalavya identify himself?",
+      "options": ["A wandering hunter with no master", "A pupil of Parashurama in hiding", "A king come to challenge Drona", "The Nishada prince and a disciple of Drona"],
+      "answer": 3,
+      "explanation": "Ekalavya named himself the son of the Nishada chief and declared himself a disciple of Drona laboring at mastery of the bow."
+    },
+    {
+      "id": "ekalavya-q20",
+      "difficulty": "medium",
+      "q": "What custom did Drona invoke when he asked Ekalavya for a fee?",
+      "options": ["Rajadharma, the duty of kings", "Gurudakshina, the pupil's offering", "Atithi-satkara, the honoring of guests", "Pratigya, the warrior's vow"],
+      "answer": 1,
+      "explanation": "Drona invoked gurudakshina, the customary offering a pupil owes his teacher, before naming the thumb as his price."
+    },
+    {
+      "id": "ekalavya-q21",
+      "difficulty": "medium",
+      "q": "What became of the dog after Ekalavya's seven arrows?",
+      "options": ["It returned unhurt to the Pandavas, its mouth propped open", "It fell dead at Ekalavya's feet", "It fled deeper into the forest, never found", "It led Ekalavya back to Drona's camp"],
+      "answer": 0,
+      "explanation": "The dog ran back to the Pandavas unharmed with the arrows filling its mouth, and the sight led them to seek out the archer."
+    },
+    {
+      "id": "ekalavya-q22",
+      "difficulty": "medium",
+      "q": "Why did Drona travel to Ekalavya's forest range?",
+      "options": ["To recruit him for the Kuru army", "To apologize for refusing him", "To see the archer who claimed to be his pupil", "To hunt with the assembled princes"],
+      "answer": 2,
+      "explanation": "After Arjuna's anguished complaint, Drona went with him to see for himself the forest archer who called himself Drona's disciple."
+    },
+    {
+      "id": "ekalavya-q23",
+      "difficulty": "hard",
+      "q": "According to the epic, who eventually slew Ekalavya?",
+      "options": ["Arjuna", "Krishna", "Bhima", "Drona"],
+      "answer": 1,
+      "explanation": "Krishna himself recalls having slain Ekalavya, counting it among the foes he removed from the Pandavas' path."
+    },
+    {
+      "id": "ekalavya-q24",
+      "difficulty": "hard",
+      "q": "As a grown ruler, Ekalavya is remembered as an ally of which enemy of Krishna?",
+      "options": ["Shishupala of Chedi", "Kamsa of Mathura", "Shalva of Saubha", "Jarasandha of Magadha"],
+      "answer": 3,
+      "explanation": "Tradition places the adult Ekalavya among the allies of Jarasandha in his wars against Krishna's Yadavas."
+    },
+    {
+      "id": "ekalavya-q25",
+      "difficulty": "hard",
+      "q": "How did Krishna justify Ekalavya's death when recounting it to Arjuna?",
+      "options": ["As an obstacle removed for the Pandavas' sake", "As punishment for abandoning his guru", "As revenge for an insult to the Yadavas", "As an accident of battle he regretted"],
+      "answer": 0,
+      "explanation": "In the Drona Parva, Krishna lists Ekalavya among the mighty foes slain for the Pandavas' good, saying such men had to fall for their cause to prevail."
+    },
+    {
+      "id": "ekalavya-q26",
+      "difficulty": "hard",
+      "q": "In which book of the Mahabharata does the story of Ekalavya's thumb appear?",
+      "options": ["The Sabha Parva", "The Vana Parva", "The Adi Parva", "The Drona Parva"],
+      "answer": 2,
+      "explanation": "The episode is told in the Adi Parva, within the account of Drona's training of the Kuru princes."
+    },
+    {
+      "id": "ekalavya-q27",
+      "difficulty": "hard",
+      "q": "What change did the princes observe in Ekalavya's archery after he gave his thumb?",
+      "options": ["His arrows no longer flew straight", "He refused ever to string a bow", "His aim improved through harder practice", "His former lightness of hand was gone"],
+      "answer": 3,
+      "explanation": "The epic notes that when Ekalavya shot thereafter with his fingers, his earlier lightness and speed of hand had left him."
+    },
+    {
+      "id": "ekalavya-q28",
+      "difficulty": "hard",
+      "q": "In the Harivamsa tradition, what is Ekalavya's surprising birth connection?",
+      "options": ["He was Drona's abandoned firstborn", "He was Krishna's cousin, raised by the Nishada chief", "He was a son of the god Surya", "He was Jarasandha's half-brother"],
+      "answer": 1,
+      "explanation": "In the Harivamsa variant, Ekalavya was born to Devashrava, a brother of Vasudeva, and was brought up among the Nishadas, making him Krishna's cousin."
+    },
+    {
+      "id": "ekalavya-q29",
+      "difficulty": "hard",
+      "q": "Who was Ekalavya's father?",
+      "options": ["Hiranyadhanus, a chief of the Nishadas", "Hiranyakashipu, an asura king", "Hiranyaksha, a forest chieftain", "Hiranyavarma, a mountain lord"],
+      "answer": 0,
+      "explanation": "Ekalavya was the son of Hiranyadhanus, a king of the Nishadas, which is why he is called a Nishada prince."
+    },
+    {
+      "id": "ekalavya-q30",
+      "difficulty": "hard",
+      "q": "How is Ekalavya described when the Kuru princes first saw him in the forest?",
+      "options": ["In white silk with a golden bow", "In ash-smeared robes of a renunciate", "In royal armor with a peacock crest", "In black deerskin with matted hair"],
+      "answer": 3,
+      "explanation": "The epic pictures him dark-bodied, clad in black deerskin, with matted locks, a figure of the wild utterly unlike the palace princes."
+    }
+  ]
+}

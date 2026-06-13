@@ -1,0 +1,245 @@
+{
+  "cardId": "tournament-of-princes",
+  "questions": [
+    {
+      "id": "tournament-of-princes-q01",
+      "difficulty": "easy",
+      "q": "What occasion did the great tournament at Hastinapura celebrate?",
+      "options": ["Yudhishthira's installation as heir", "The completion of the princes' weapons training", "The annual festival of Indra", "Bhishma's birthday rites"],
+      "answer": 1,
+      "explanation": "The tournament was the graduation exhibition staged to display the Kuru princes' mastery of arms at the end of their training."
+    },
+    {
+      "id": "tournament-of-princes-q02",
+      "difficulty": "easy",
+      "q": "Who arranged and presided over the exhibition of the princes' skills?",
+      "options": ["Bhishma", "Vidura", "Kripa", "Drona"],
+      "answer": 3,
+      "explanation": "Drona, the princes' weapons master, organized the exhibition to show the court what his pupils had learned."
+    },
+    {
+      "id": "tournament-of-princes-q03",
+      "difficulty": "easy",
+      "q": "Which unknown warrior strode into the arena and stunned the crowd?",
+      "options": ["Karna", "Ekalavya", "Shalya", "Jarasandha"],
+      "answer": 0,
+      "explanation": "Karna, then a stranger to the court, entered unannounced in his golden armor and earrings and electrified the arena."
+    },
+    {
+      "id": "tournament-of-princes-q04",
+      "difficulty": "easy",
+      "q": "Whose feats did the stranger repeat one by one before the crowd?",
+      "options": ["Bhima's", "Duryodhana's", "Arjuna's", "Ashwatthama's"],
+      "answer": 2,
+      "explanation": "Karna matched every feat Arjuna had just performed, proving himself the equal of the day's champion."
+    },
+    {
+      "id": "tournament-of-princes-q05",
+      "difficulty": "easy",
+      "q": "What did the stranger demand after matching the day's champion?",
+      "options": ["The prize of the tournament", "Single combat with Arjuna", "A place among Drona's pupils", "The throne of Hastinapura"],
+      "answer": 1,
+      "explanation": "Karna challenged Arjuna to a duel then and there, setting up the rivalry that would run through the entire epic."
+    },
+    {
+      "id": "tournament-of-princes-q06",
+      "difficulty": "easy",
+      "q": "Who crowned the stranger a king on the spot in the arena?",
+      "options": ["Duryodhana", "Dhritarashtra", "Bhishma", "Shakuni"],
+      "answer": 0,
+      "explanation": "Duryodhana, seeing both a rival to Arjuna and a friend worth winning, crowned Karna king of Anga in a single theatrical gesture."
+    },
+    {
+      "id": "tournament-of-princes-q07",
+      "difficulty": "easy",
+      "q": "Over which kingdom was Karna crowned at the tournament?",
+      "options": ["Sindhu", "Madra", "Chedi", "Anga"],
+      "answer": 3,
+      "explanation": "Duryodhana bestowed the eastern kingdom of Anga on Karna, which gave Karna the royal rank needed to face a prince."
+    },
+    {
+      "id": "tournament-of-princes-q08",
+      "difficulty": "easy",
+      "q": "Why was Karna mocked in the arena?",
+      "options": ["He carried a broken bow", "He arrived without an invitation", "He was thought a charioteer's son", "He refused to name his teacher"],
+      "answer": 2,
+      "explanation": "Karna was believed to be the son of the charioteer Adhiratha, a birth the princes held unworthy of a duel with royalty."
+    },
+    {
+      "id": "tournament-of-princes-q09",
+      "difficulty": "easy",
+      "q": "What brought the confrontation between Karna and Arjuna to an end that day?",
+      "options": ["The setting of the sun", "A sudden storm of rain", "Bhishma's command to stop", "Karna's withdrawal from the field"],
+      "answer": 0,
+      "explanation": "Sunset closed the tournament before the duel could be fought, leaving the challenge between Karna and Arjuna forever unfinished."
+    },
+    {
+      "id": "tournament-of-princes-q10",
+      "difficulty": "easy",
+      "q": "What lasting prize did Duryodhana win by his gift at the tournament?",
+      "options": ["Karna's golden armor", "Karna's lifelong loyalty", "The allegiance of Anga's army", "The blessing of the brahmins"],
+      "answer": 1,
+      "explanation": "By crowning Karna at his moment of humiliation, Duryodhana bought a loyalty Karna would honor until his death."
+    },
+    {
+      "id": "tournament-of-princes-q11",
+      "difficulty": "medium",
+      "q": "Who demanded that the unknown challenger declare his lineage before dueling?",
+      "options": ["Drona", "Vidura", "Kripa", "Bhishma"],
+      "answer": 2,
+      "explanation": "Kripa invoked the rule that princes duel only their equals and asked Karna to name his father, mother, and royal line."
+    },
+    {
+      "id": "tournament-of-princes-q12",
+      "difficulty": "medium",
+      "q": "Which Pandava taunted Karna that he deserved a whip rather than a duel?",
+      "options": ["Arjuna", "Yudhishthira", "Nakula", "Bhima"],
+      "answer": 3,
+      "explanation": "Bhima jeered that as a charioteer's son Karna should take up the whip, an insult Karna never forgot."
+    },
+    {
+      "id": "tournament-of-princes-q13",
+      "difficulty": "medium",
+      "q": "Who was sent to separate Bhima and Duryodhana when their mace bout turned dangerous?",
+      "options": ["Ashwatthama", "Yuyutsu", "Vikarna", "Sanjaya"],
+      "answer": 0,
+      "explanation": "When the mace duel between Bhima and Duryodhana grew truly hostile, Drona sent his son Ashwatthama to part them."
+    },
+    {
+      "id": "tournament-of-princes-q14",
+      "difficulty": "medium",
+      "q": "Who recognized the stranger by his divine armor and earrings and fainted in the stands?",
+      "options": ["Gandhari", "Kunti", "Draupadi", "Satyavati"],
+      "answer": 1,
+      "explanation": "Kunti knew the golden armor and earrings of the son she had set adrift, and the sight of him facing Arjuna made her swoon."
+    },
+    {
+      "id": "tournament-of-princes-q15",
+      "difficulty": "medium",
+      "q": "Who attended to Kunti when she collapsed during the tournament?",
+      "options": ["Bhishma", "Sanjaya", "Kripa", "Vidura"],
+      "answer": 3,
+      "explanation": "Vidura had Kunti revived with sandal-water and comforted her, though her secret remained unspoken."
+    },
+    {
+      "id": "tournament-of-princes-q16",
+      "difficulty": "medium",
+      "q": "Whose arrival in the arena exposed Karna's humble upbringing?",
+      "options": ["Radha, his foster mother", "Shalya, his future charioteer", "Adhiratha, his foster father", "Surya, his divine father"],
+      "answer": 2,
+      "explanation": "The old charioteer Adhiratha tottered into the arena, and Karna's greeting revealed him before the whole assembly as a suta's son."
+    },
+    {
+      "id": "tournament-of-princes-q17",
+      "difficulty": "medium",
+      "q": "What did Karna do the moment Adhiratha entered the arena?",
+      "options": ["He bowed to him as his father", "He turned his face away in shame", "He denied knowing the old man", "He led him quietly out of sight"],
+      "answer": 0,
+      "explanation": "His head still wet from the coronation, Karna saluted Adhiratha as his father, an act of love that handed his mockers their weapon."
+    },
+    {
+      "id": "tournament-of-princes-q18",
+      "difficulty": "medium",
+      "q": "How did Duryodhana answer the mockery of Karna's birth?",
+      "options": ["By offering to adopt Karna as a brother", "By declaring that the origins of heroes and rivers are unknown", "By producing proof of Karna's royal blood", "By challenging Bhima to fight him instead"],
+      "answer": 1,
+      "explanation": "Duryodhana declared that the sources of rivers and the lineage of heroes are alike hidden, and that valor is its own credential."
+    },
+    {
+      "id": "tournament-of-princes-q19",
+      "difficulty": "medium",
+      "q": "When Karna asked what he could give in return for the crown of Anga, what did Duryodhana request?",
+      "options": ["Half of Anga's yearly tribute", "A vow to slay Arjuna", "The divine armor on Karna's body", "Nothing but his friendship"],
+      "answer": 3,
+      "explanation": "Duryodhana asked only for Karna's friendship, and Karna granted it for life."
+    },
+    {
+      "id": "tournament-of-princes-q20",
+      "difficulty": "medium",
+      "q": "Who described the day's dramatic events to the blind king Dhritarashtra?",
+      "options": ["Sanjaya", "Shakuni", "Vidura", "Gandhari"],
+      "answer": 2,
+      "explanation": "At the tournament it was Vidura who told Dhritarashtra what the roaring crowd was watching, including Karna's entrance."
+    },
+    {
+      "id": "tournament-of-princes-q21",
+      "difficulty": "medium",
+      "q": "Under whose royal sanction did Duryodhana bestow a kingdom in the arena?",
+      "options": ["Bhishma's", "Dhritarashtra's", "Drona's", "The assembled brahmins'"],
+      "answer": 1,
+      "explanation": "Dhritarashtra approved his son's gift on the spot, lending the coronation of Karna full royal authority."
+    },
+    {
+      "id": "tournament-of-princes-q22",
+      "difficulty": "medium",
+      "q": "Where was the tournament of the Kuru princes staged?",
+      "options": ["A great arena built outside Hastinapura", "The palace courtyard of Indraprastha", "The plain of Kurukshetra", "The riverside ghats of the Ganga"],
+      "answer": 0,
+      "explanation": "A vast arena with galleries for the royal household and the public was specially built on level ground at Hastinapura."
+    },
+    {
+      "id": "tournament-of-princes-q23",
+      "difficulty": "hard",
+      "q": "Which feat did Arjuna perform with five arrows during his display?",
+      "options": ["Splitting five swords in flight", "Pinning five birds with one draw", "Shooting them into the mouth of a moving iron boar", "Cutting five banners from distant poles"],
+      "answer": 2,
+      "explanation": "Among his exhibition feats, Arjuna sank five arrows into the jaws of a moving iron boar."
+    },
+    {
+      "id": "tournament-of-princes-q24",
+      "difficulty": "hard",
+      "q": "Into what target did Arjuna sink twenty-one arrows during the exhibition?",
+      "options": ["The eye of a revolving fish", "A mustard seed on a post", "The gap of a swinging ring", "The hollow of a cow's horn swinging on a rope"],
+      "answer": 3,
+      "explanation": "Arjuna shot twenty-one arrows into the hollow of a cow's horn that hung swinging from a rope."
+    },
+    {
+      "id": "tournament-of-princes-q25",
+      "difficulty": "hard",
+      "q": "What omen split the sky as Karna and Arjuna faced each other in the arena?",
+      "options": ["Indra's clouds shaded Arjuna while the sun blazed on Karna", "An eclipse darkened the whole arena", "Lightning struck the royal pavilion", "A rain of flowers fell between them"],
+      "answer": 0,
+      "explanation": "The rival fathers showed themselves: Indra's clouds gathered over Arjuna while Surya's light bathed Karna, dividing the heavens like the crowd below."
+    },
+    {
+      "id": "tournament-of-princes-q26",
+      "difficulty": "hard",
+      "q": "How was Karna consecrated king in the arena?",
+      "options": ["Bhishma placed his own circlet on Karna's head", "Brahmins anointed him with holy water on a golden seat", "Duryodhana simply proclaimed it without rites", "Dhritarashtra sent the crown of Anga from the palace"],
+      "answer": 1,
+      "explanation": "Duryodhana had brahmins perform a full consecration on the spot, seating Karna on gold and anointing him with sacred water, parched rice, and flowers."
+    },
+    {
+      "id": "tournament-of-princes-q27",
+      "difficulty": "hard",
+      "q": "What exactly did Bhima say a charioteer's son deserved instead of a duel?",
+      "options": ["A seat among the servants", "A horse to groom", "A bowl of alms", "A charioteer's whip"],
+      "answer": 3,
+      "explanation": "Bhima sneered that the whip suited Karna's hands better than a warrior's challenge, adding that he no more deserved Anga than a dog deserves the sacrificial offering."
+    },
+    {
+      "id": "tournament-of-princes-q28",
+      "difficulty": "hard",
+      "q": "How did Duryodhana counter Kripa's objection that princes duel only their equals?",
+      "options": ["He claimed Karna was secretly of royal blood", "He offered to duel Arjuna in Karna's place", "He cited that heroes and leaders of armies may claim kingship, then crowned Karna", "He demanded the rule be struck from the warrior code"],
+      "answer": 2,
+      "explanation": "Duryodhana argued that kingship belongs to the well-born, the hero, and the leader of armies, then solved the objection by making Karna a king himself."
+    },
+    {
+      "id": "tournament-of-princes-q29",
+      "difficulty": "hard",
+      "q": "How did the watching crowd react to the standoff between Karna and Arjuna?",
+      "options": ["It split into rival factions cheering each champion", "It fell into total silence", "It fled fearing celestial weapons", "It pelted Karna with flowers alone"],
+      "answer": 0,
+      "explanation": "The assembly divided in tumult, some shouting for Karna and some for Arjuna, mirroring the war to come."
+    },
+    {
+      "id": "tournament-of-princes-q30",
+      "difficulty": "hard",
+      "q": "How did Arjuna verbally answer Karna's challenge in the arena?",
+      "options": ["He welcomed a worthy rival at last", "He vowed to finish the duel at Kurukshetra", "He asked Karna to join the Pandavas", "He scorned him as an uninvited intruder"],
+      "answer": 3,
+      "explanation": "Arjuna retorted that Karna had entered uninvited and would meet the fate reserved for unbidden meddlers."
+    }
+  ]
+}

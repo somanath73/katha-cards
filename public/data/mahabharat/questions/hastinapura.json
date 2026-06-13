@@ -1,0 +1,395 @@
+{
+  "cardId": "hastinapura",
+  "questions": [
+    {
+      "id": "hastinapura-q01",
+      "difficulty": "easy",
+      "q": "What does the name Hastinapura mean?",
+      "options": [
+        "City of a Hundred Thrones",
+        "City of the Sacred River",
+        "City of the Elephant",
+        "City of the Kuru Kings"
+      ],
+      "answer": 2,
+      "explanation": "Hastinapura derives from hastin, the Sanskrit word for elephant, and means the city of the elephant."
+    },
+    {
+      "id": "hastinapura-q02",
+      "difficulty": "easy",
+      "q": "On which river's banks did Hastinapura stand?",
+      "options": [
+        "The Ganga",
+        "The Yamuna",
+        "The Saraswati",
+        "The Sindhu"
+      ],
+      "answer": 0,
+      "explanation": "The Kuru capital stood on the banks of the Ganga, the river whose goddess married King Shantanu."
+    },
+    {
+      "id": "hastinapura-q03",
+      "difficulty": "easy",
+      "q": "Which dynasty held Hastinapura as its ancestral capital?",
+      "options": [
+        "The Yadavas",
+        "The Kurus",
+        "The Panchalas",
+        "The Matsyas"
+      ],
+      "answer": 1,
+      "explanation": "Hastinapura was the seat of the Kuru dynasty, the royal house whose succession disputes drive the epic."
+    },
+    {
+      "id": "hastinapura-q04",
+      "difficulty": "easy",
+      "q": "Who was king of Hastinapura when the epic's family story begins with a doomed marriage to a goddess?",
+      "options": [
+        "Pandu",
+        "Dhritarashtra",
+        "Janamejaya",
+        "Shantanu"
+      ],
+      "answer": 3,
+      "explanation": "King Shantanu of Hastinapura married the river goddess Ganga, beginning the chain of events that leads to the great war."
+    },
+    {
+      "id": "hastinapura-q05",
+      "difficulty": "easy",
+      "q": "Which catastrophic game was hosted in Hastinapura's assembly hall?",
+      "options": [
+        "The dice game that cost the Pandavas their kingdom",
+        "The archery contest for Draupadi's hand",
+        "The gambling match of Nala and Pushkara",
+        "The riddle contest with the Yaksha"
+      ],
+      "answer": 0,
+      "explanation": "The fateful dice game against Shakuni took place in Hastinapura's hall, stripping the Pandavas of everything they owned."
+    },
+    {
+      "id": "hastinapura-q06",
+      "difficulty": "easy",
+      "q": "Which blind king ruled Hastinapura for decades?",
+      "options": [
+        "Pandu",
+        "Vichitravirya",
+        "Dhritarashtra",
+        "Chitrangada"
+      ],
+      "answer": 2,
+      "explanation": "Dhritarashtra, blind from birth, held the throne of Hastinapura for decades through the rise and fall of his hundred sons."
+    },
+    {
+      "id": "hastinapura-q07",
+      "difficulty": "easy",
+      "q": "Who was crowned king of Hastinapura after the great war?",
+      "options": [
+        "Arjuna",
+        "Bhima",
+        "Parikshit",
+        "Yudhishthira"
+      ],
+      "answer": 3,
+      "explanation": "After the victory at Kurukshetra, Yudhishthira was crowned at Hastinapura and ruled for thirty-six years."
+    },
+    {
+      "id": "hastinapura-q08",
+      "difficulty": "easy",
+      "q": "What rival capital did the Pandavas raise after the kingdom was divided?",
+      "options": [
+        "Kampilya",
+        "Indraprastha",
+        "Dwarka",
+        "Mathura"
+      ],
+      "answer": 1,
+      "explanation": "Given the barren half of the realm, the Pandavas built Indraprastha, a capital splendid enough to rival Hastinapura."
+    },
+    {
+      "id": "hastinapura-q09",
+      "difficulty": "easy",
+      "q": "After which figure is Hastinapura traditionally said to be named?",
+      "options": [
+        "The elephant-headed god Ganesha",
+        "The white elephant of Indra",
+        "King Hastin, an early ancestor of the Kurus",
+        "Queen Hastini, mother of King Kuru"
+      ],
+      "answer": 2,
+      "explanation": "Tradition credits King Hastin, an early ancestor of the Kuru line, with founding and giving his name to the city."
+    },
+    {
+      "id": "hastinapura-q10",
+      "difficulty": "easy",
+      "q": "In which modern Indian state does the site of Hastinapura lie?",
+      "options": [
+        "Uttar Pradesh",
+        "Haryana",
+        "Rajasthan",
+        "Bihar"
+      ],
+      "answer": 0,
+      "explanation": "Hastinapura is identified with a site in the Meerut district of Uttar Pradesh, near the Ganga."
+    },
+    {
+      "id": "hastinapura-q11",
+      "difficulty": "medium",
+      "q": "When the kingdom was split, which portion did the Pandavas receive?",
+      "options": [
+        "The fertile lands around Hastinapura itself",
+        "Khandavaprastha, the barren tract by the Yamuna",
+        "The eastern provinces toward Magadha",
+        "The mountain districts north of the Ganga"
+      ],
+      "answer": 1,
+      "explanation": "Dhritarashtra kept Hastinapura for his sons and gave the Pandavas the wilderness of Khandavaprastha, which they transformed into Indraprastha."
+    },
+    {
+      "id": "hastinapura-q12",
+      "difficulty": "medium",
+      "q": "What unforgettable event marked the princes' graduation tournament at Hastinapura?",
+      "options": [
+        "Ekalavya's defeat of every Kuru prince",
+        "Bhima's mace duel against Balarama",
+        "Drona's demand for Drupada's capture",
+        "An unknown warrior, Karna, matched Arjuna feat for feat"
+      ],
+      "answer": 3,
+      "explanation": "At the exhibition of arms, the unknown Karna repeated Arjuna's every feat and was crowned king of Anga by Duryodhana on the spot."
+    },
+    {
+      "id": "hastinapura-q13",
+      "difficulty": "medium",
+      "q": "Who served the Hastinapura court as its wisest counselor and voice of dharma?",
+      "options": [
+        "Sanjaya",
+        "Kripa",
+        "Vidura",
+        "Shakuni"
+      ],
+      "answer": 2,
+      "explanation": "Vidura, born of Vyasa and a serving maid, counselled the kings of Hastinapura and was regarded as dharma incarnate."
+    },
+    {
+      "id": "hastinapura-q14",
+      "difficulty": "medium",
+      "q": "Which outrage took place before the elders in Hastinapura's hall after the dice game?",
+      "options": [
+        "The attempted disrobing of Draupadi",
+        "The poisoning of young Bhima",
+        "The burning of the house of lac",
+        "The banishment of Karna from court"
+      ],
+      "answer": 0,
+      "explanation": "Draupadi was dragged into Hastinapura's assembly and Dushasana tried to strip her while the elders sat silent."
+    },
+    {
+      "id": "hastinapura-q15",
+      "difficulty": "medium",
+      "q": "Who came to Hastinapura as a final envoy asking only five villages for peace?",
+      "options": [
+        "Vidura",
+        "Sanjaya",
+        "Drupada's priest",
+        "Krishna"
+      ],
+      "answer": 3,
+      "explanation": "Krishna's peace embassy to Hastinapura asked merely five villages for the Pandavas, and Duryodhana refused even that."
+    },
+    {
+      "id": "hastinapura-q16",
+      "difficulty": "medium",
+      "q": "Between the reigns of its kings, who repeatedly safeguarded Hastinapura's throne as guardian?",
+      "options": [
+        "Vyasa",
+        "Bhishma",
+        "Shakuni",
+        "Drona"
+      ],
+      "answer": 1,
+      "explanation": "Barred from ruling by his vow, Bhishma served as guardian and regent of Hastinapura across three generations of kings."
+    },
+    {
+      "id": "hastinapura-q17",
+      "difficulty": "medium",
+      "q": "What did Duryodhana attempt against the envoy Krishna in the Hastinapura court?",
+      "options": [
+        "To seize and imprison him",
+        "To poison his evening meal",
+        "To bribe him with the throne of Anga",
+        "To challenge him to a duel"
+      ],
+      "answer": 0,
+      "explanation": "Duryodhana plotted to seize Krishna during the embassy, whereupon Krishna revealed his cosmic form to the court."
+    },
+    {
+      "id": "hastinapura-q18",
+      "difficulty": "medium",
+      "q": "To which town were the Pandavas sent from Hastinapura, into a trap built of lac?",
+      "options": [
+        "Ekachakra",
+        "Kampilya",
+        "Varanavata",
+        "Pramanakoti"
+      ],
+      "answer": 2,
+      "explanation": "Duryodhana had the flammable lac palace built at Varanavata, where the Pandavas were sent under pretext of a festival."
+    },
+    {
+      "id": "hastinapura-q19",
+      "difficulty": "medium",
+      "q": "Whose hundred sons were born and raised within Hastinapura's palace?",
+      "options": [
+        "Kunti's",
+        "Satyavati's",
+        "Madri's",
+        "Gandhari's"
+      ],
+      "answer": 3,
+      "explanation": "Gandhari's hundred sons, the Kauravas, were born from a divided mass of flesh and raised in Hastinapura."
+    },
+    {
+      "id": "hastinapura-q20",
+      "difficulty": "medium",
+      "q": "For how many years did the dice game's sentence exile the Pandavas from Hastinapura's domain?",
+      "options": [
+        "Eighteen",
+        "Thirteen",
+        "Twelve",
+        "Fourteen"
+      ],
+      "answer": 1,
+      "explanation": "The second dice game imposed thirteen years of exile: twelve in the forest and a thirteenth spent undiscovered in disguise."
+    },
+    {
+      "id": "hastinapura-q21",
+      "difficulty": "medium",
+      "q": "Who described the distant war, blow by blow, to the blind king within Hastinapura's walls?",
+      "options": [
+        "Vidura, reading omens in the sky",
+        "Vyasa, composing as the battle raged",
+        "Sanjaya, gifted with divine sight",
+        "Yuyutsu, riding daily from the field"
+      ],
+      "answer": 2,
+      "explanation": "Vyasa granted Sanjaya divine sight so that he could narrate the entire war to Dhritarashtra inside the palace."
+    },
+    {
+      "id": "hastinapura-q22",
+      "difficulty": "medium",
+      "q": "Who ruled Hastinapura after the Pandavas renounced the world and walked north?",
+      "options": [
+        "Parikshit, grandson of Arjuna",
+        "Vajra, great-grandson of Krishna",
+        "Yuyutsu, son of Dhritarashtra",
+        "Janamejaya, the listener king"
+      ],
+      "answer": 0,
+      "explanation": "When the Pandavas departed on their final journey, Abhimanyu's son Parikshit was crowned king at Hastinapura."
+    },
+    {
+      "id": "hastinapura-q23",
+      "difficulty": "hard",
+      "q": "When Parikshit was set on Hastinapura's throne, who was crowned at Indraprastha?",
+      "options": [
+        "Yuyutsu, son of Dhritarashtra",
+        "Kritavarma of the Yadavas",
+        "Aniruddha, grandson of Krishna",
+        "Vajra, great-grandson of Krishna"
+      ],
+      "answer": 3,
+      "explanation": "The Pandavas installed Vajra, Krishna's great-grandson and a survivor of the Yadava destruction, as king at Indraprastha."
+    },
+    {
+      "id": "hastinapura-q24",
+      "difficulty": "hard",
+      "q": "Excavations at Hastinapura in the early 1950s, led by B. B. Lal, associated the site with which culture?",
+      "options": [
+        "Northern Black Polished Ware",
+        "Painted Grey Ware",
+        "Ochre Coloured Pottery",
+        "Harappan Black-on-Red Ware"
+      ],
+      "answer": 1,
+      "explanation": "B. B. Lal's excavations linked the Hastinapura site to the Painted Grey Ware culture of the Ganga-Yamuna doab."
+    },
+    {
+      "id": "hastinapura-q25",
+      "difficulty": "hard",
+      "q": "According to Puranic tradition, why was Hastinapura eventually abandoned by King Nichakshu?",
+      "options": [
+        "A great flood of the Ganga swept the city away",
+        "A twelve-year famine emptied the countryside",
+        "A curse of Vyasa doomed the royal palace",
+        "An earthquake split the city's foundations"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas record that the Ganga washed Hastinapura away in Nichakshu's reign, and the capital was moved to Kaushambi."
+    },
+    {
+      "id": "hastinapura-q26",
+      "difficulty": "hard",
+      "q": "By what other elephant-derived names does the epic call Hastinapura?",
+      "options": [
+        "Hastivati and Kunjarapuri",
+        "Airavatapura and Mahanagara",
+        "Gajasahvaya and Nagapura",
+        "Dantapura and Gajagriha"
+      ],
+      "answer": 2,
+      "explanation": "The epic also calls the city Gajasahvaya and Nagapura, both names built on words for elephant."
+    },
+    {
+      "id": "hastinapura-q27",
+      "difficulty": "hard",
+      "q": "How long did Dhritarashtra remain in Hastinapura under Yudhishthira's rule before retiring to the forest?",
+      "options": [
+        "Fifteen years",
+        "Thirty-six years",
+        "Five years",
+        "Twenty-one years"
+      ],
+      "answer": 0,
+      "explanation": "Dhritarashtra lived honored in Hastinapura for fifteen years after the war before leaving for the forest with Gandhari and Kunti."
+    },
+    {
+      "id": "hastinapura-q28",
+      "difficulty": "hard",
+      "q": "During his peace embassy, where did Krishna choose to dine and lodge in Hastinapura?",
+      "options": [
+        "In Duryodhana's palace of honor",
+        "In Bhishma's austere quarters",
+        "In a royal guesthouse by the gates",
+        "In the humble home of Vidura"
+      ],
+      "answer": 3,
+      "explanation": "Krishna refused Duryodhana's lavish hospitality and took his simple meal at the house of Vidura instead."
+    },
+    {
+      "id": "hastinapura-q29",
+      "difficulty": "hard",
+      "q": "Why was Shantanu's eldest brother Devapi passed over for Hastinapura's throne?",
+      "options": [
+        "He was slain in a border war with the Panchalas",
+        "He suffered a skin ailment and retired as an ascetic",
+        "He was born of a maid and barred by the elders",
+        "He refused the throne to study under Parashurama"
+      ],
+      "answer": 1,
+      "explanation": "Devapi had a skin disease that made him unacceptable as king, and he withdrew to the forest as an ascetic, leaving the throne to Shantanu."
+    },
+    {
+      "id": "hastinapura-q30",
+      "difficulty": "hard",
+      "q": "Which sole son of Dhritarashtra survived the war to serve the new rulers of Hastinapura?",
+      "options": [
+        "Vikarna",
+        "Dushasana",
+        "Yuyutsu",
+        "Durmukha"
+      ],
+      "answer": 2,
+      "explanation": "Yuyutsu, Dhritarashtra's son by a serving woman, crossed to the Pandava side before the war and alone survived to serve the new reign."
+    }
+  ]
+}

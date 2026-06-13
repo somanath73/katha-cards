@@ -1,0 +1,245 @@
+{
+  "cardId": "kiratarjuniya",
+  "questions": [
+    {
+      "id": "kiratarjuniya-q01",
+      "difficulty": "easy",
+      "q": "On which mountain was Arjuna performing his great penance when he met the hunter?",
+      "options": ["Kailasa", "Indrakila", "Mandara", "Gandhamadana"],
+      "answer": 1,
+      "explanation": "Arjuna's austerities and the duel with the disguised god took place on Mount Indrakila in the Himalayas."
+    },
+    {
+      "id": "kiratarjuniya-q02",
+      "difficulty": "easy",
+      "q": "Who was the kirata, the mountain hunter who disputed Arjuna's kill?",
+      "options": ["Indra in disguise", "Yama in disguise", "Shiva in disguise", "Kubera in disguise"],
+      "answer": 2,
+      "explanation": "The hunter was Shiva himself, come down to test Arjuna before granting him his weapon."
+    },
+    {
+      "id": "kiratarjuniya-q03",
+      "difficulty": "easy",
+      "q": "What animal charged at Arjuna during his austerities?",
+      "options": ["A tiger", "A boar", "A stag", "A wild elephant"],
+      "answer": 1,
+      "explanation": "A monstrous boar rushed at the meditating Arjuna, who seized his bow to defend himself."
+    },
+    {
+      "id": "kiratarjuniya-q04",
+      "difficulty": "easy",
+      "q": "What was the charging boar in reality?",
+      "options": ["The demon Muka in disguise", "A beast sent by Duryodhana", "An illusion spun by Indra", "The spirit of the mountain"],
+      "answer": 0,
+      "explanation": "The boar was the rakshasa Muka, who had taken animal form to kill Arjuna."
+    },
+    {
+      "id": "kiratarjuniya-q05",
+      "difficulty": "easy",
+      "q": "What did Arjuna and the hunter quarrel over?",
+      "options": ["The right to camp on the peak", "Whose bow was the mightier", "Who had trespassed on whose ground", "Whose arrow had claimed the boar"],
+      "answer": 3,
+      "explanation": "Both arrows struck the boar, and each archer claimed the kill, turning the dispute into a duel."
+    },
+    {
+      "id": "kiratarjuniya-q06",
+      "difficulty": "easy",
+      "q": "Which weapon did Shiva grant Arjuna when the contest ended?",
+      "options": ["The Brahmastra", "The Vasavi Shakti", "The Pashupatastra", "The Sudarshana Chakra"],
+      "answer": 2,
+      "explanation": "Pleased by Arjuna's valour, Shiva bestowed the Pashupatastra, his own ultimate weapon."
+    },
+    {
+      "id": "kiratarjuniya-q07",
+      "difficulty": "easy",
+      "q": "Why was Arjuna performing austerities in the Himalayas at all?",
+      "options": ["To atone for the game of dice", "To win celestial weapons for the coming war", "To beg Shiva for a son", "To free Draupadi from a curse"],
+      "answer": 1,
+      "explanation": "During the exile Arjuna sought divine weapons so the Pandavas could face Bhishma, Drona, and Karna in war."
+    },
+    {
+      "id": "kiratarjuniya-q08",
+      "difficulty": "easy",
+      "q": "When everything else had failed, even the trees and rocks he hurled, how did Arjuna fight the hunter at the last?",
+      "options": ["With his bare hands", "With a torn-up pine tree", "With stones from the slope", "With the hunter's own spear"],
+      "answer": 0,
+      "explanation": "Arrows spent, bow seized, sword shattered, and even trees and rocks exhausted, Arjuna closed in and wrestled the hunter with his fists."
+    },
+    {
+      "id": "kiratarjuniya-q09",
+      "difficulty": "easy",
+      "q": "Who accompanied Shiva to the encounter, likewise dressed as a hunter?",
+      "options": ["Ganga as a hill-woman", "Nandi as a tracker", "Kartikeya as a spearman", "Parvati as a huntress"],
+      "answer": 3,
+      "explanation": "Parvati came in the garb of a huntress, with Shiva's ganas following as the hunting party."
+    },
+    {
+      "id": "kiratarjuniya-q10",
+      "difficulty": "easy",
+      "q": "What did Shiva do once Arjuna's valour had pleased him?",
+      "options": ["He carried Arjuna to Kailasa", "He restored the boar to life", "He revealed his true divine form", "He crowned Arjuna king of the mountain"],
+      "answer": 2,
+      "explanation": "Shiva cast off the hunter's shape, revealed himself in glory, and blessed the astonished Arjuna."
+    },
+    {
+      "id": "kiratarjuniya-q11",
+      "difficulty": "medium",
+      "q": "Arjuna set out on his quest after receiving the Pratismriti lore from whom?",
+      "options": ["Yudhishthira, who had it from Vyasa", "Dhaumya, the family priest", "Krishna, before returning to Dwarka", "Drona, through a secret messenger"],
+      "answer": 0,
+      "explanation": "Vyasa gave the Pratismriti to Yudhishthira, who imparted it to Arjuna before sending him north."
+    },
+    {
+      "id": "kiratarjuniya-q12",
+      "difficulty": "medium",
+      "q": "Before the duel with the hunter, which god tested Arjuna in the form of an old ascetic?",
+      "options": ["Surya", "Indra", "Agni", "Vayu"],
+      "answer": 1,
+      "explanation": "Indra came as an aged brahmin urging Arjuna to abandon his weapons, and revealed himself when his son refused."
+    },
+    {
+      "id": "kiratarjuniya-q13",
+      "difficulty": "medium",
+      "q": "What did the disguised Indra finally advise Arjuna to do?",
+      "options": ["Return at once to his brothers", "Cast his weapons into the snow and meditate", "Travel on to Indra's own heaven first", "Propitiate Shiva before any weapons could be his"],
+      "answer": 3,
+      "explanation": "Indra promised his own weapons only after Arjuna had won the favour of Shiva through penance."
+    },
+    {
+      "id": "kiratarjuniya-q14",
+      "difficulty": "medium",
+      "q": "How extreme did Arjuna's penance become in its final phase?",
+      "options": ["He stood on tiptoe with arms raised, living on air", "He sat ringed by five blazing fires", "He hung head-down from a deodar branch", "He stood neck-deep in a frozen lake"],
+      "answer": 0,
+      "explanation": "Arjuna ended by standing on the tips of his toes with arms upraised, taking nothing but air for food."
+    },
+    {
+      "id": "kiratarjuniya-q15",
+      "difficulty": "medium",
+      "q": "Who went to Shiva alarmed by the heat of Arjuna's austerities?",
+      "options": ["The nagas of the foothills", "The gandharvas of the peak", "The great sages of the region", "The animals of the forest"],
+      "answer": 2,
+      "explanation": "The sages dwelling on the mountain complained to Shiva of the blazing energy of Arjuna's penance, and the god promised to act."
+    },
+    {
+      "id": "kiratarjuniya-q16",
+      "difficulty": "medium",
+      "q": "How did the two arrows strike the charging boar?",
+      "options": ["Arjuna's first, the hunter's a breath later", "Both in the same instant", "The hunter's first, by a hand's width", "Only Arjuna's; the hunter's went wide"],
+      "answer": 1,
+      "explanation": "Arjuna and the kirata loosed their shafts at the same moment, so the kill could not be settled by timing."
+    },
+    {
+      "id": "kiratarjuniya-q17",
+      "difficulty": "medium",
+      "q": "What baffling thing happened to Arjuna's inexhaustible quivers during the fight?",
+      "options": ["The arrows flew back at him", "The arrows turned to flowers mid-flight", "The quivers froze shut on his back", "They ran empty against the hunter"],
+      "answer": 3,
+      "explanation": "The quivers that never emptied in any battle were drained dry, for the hunter absorbed every shaft."
+    },
+    {
+      "id": "kiratarjuniya-q18",
+      "difficulty": "medium",
+      "q": "What became of the bow Gandiva during the struggle with the hunter?",
+      "options": ["The hunter snatched it from Arjuna's grasp", "It snapped across the hunter's chest", "Arjuna hurled it into a gorge in rage", "Its string burned away at a touch"],
+      "answer": 0,
+      "explanation": "When Arjuna struck with the bow itself, the disguised Shiva simply seized it from his hands."
+    },
+    {
+      "id": "kiratarjuniya-q19",
+      "difficulty": "medium",
+      "q": "What happened when Arjuna attacked the hunter with his sword?",
+      "options": ["The hunter caught the blade in his teeth", "It passed through the hunter like mist", "It shattered on the hunter's body", "The hunter melted into the rocks"],
+      "answer": 2,
+      "explanation": "The blade broke to pieces on the hunter's body, leaving Arjuna to fight on with trees, stones, and fists."
+    },
+    {
+      "id": "kiratarjuniya-q20",
+      "difficulty": "medium",
+      "q": "How did Arjuna finally recognize his opponent's true identity?",
+      "options": ["The garland he offered to a clay image of Shiva appeared on the hunter", "The hunter cast no shadow on the snow", "A third eye opened on the hunter's brow", "Nandi the bull appeared at the hunter's side"],
+      "answer": 0,
+      "explanation": "Battered, Arjuna worshipped an earthen image of Shiva, and saw his offered garland resting on the kirata's head."
+    },
+    {
+      "id": "kiratarjuniya-q21",
+      "difficulty": "medium",
+      "q": "What did Shiva reveal about Arjuna's own past identity?",
+      "options": ["He had been Shiva's gana in a former age", "He was an incarnation of Agni's spark", "He was Parashurama's chosen heir", "He had been the sage Nara, companion of Narayana"],
+      "answer": 3,
+      "explanation": "Shiva told Arjuna that in a former body he was the sage Nara, the eternal companion of Narayana, who is Krishna."
+    },
+    {
+      "id": "kiratarjuniya-q22",
+      "difficulty": "medium",
+      "q": "Which poet composed the classical Sanskrit court epic Kiratarjuniya based on the episode?",
+      "options": ["Kalidasa", "Bharavi", "Magha", "Bana"],
+      "answer": 1,
+      "explanation": "Bharavi's Kiratarjuniya, composed around the sixth century CE, is counted among the great Sanskrit kavyas."
+    },
+    {
+      "id": "kiratarjuniya-q23",
+      "difficulty": "hard",
+      "q": "In which book of the Mahabharata does the Kirata episode occur?",
+      "options": ["Adi Parva", "Sabha Parva", "Vana Parva", "Drona Parva"],
+      "answer": 2,
+      "explanation": "The encounter is told in the Vana Parva, the book of the forest exile, in its Kairata section."
+    },
+    {
+      "id": "kiratarjuniya-q24",
+      "difficulty": "hard",
+      "q": "Soon after Shiva departed, which world-guardians appeared to grant Arjuna their own weapons?",
+      "options": ["Agni, Vayu, and Soma", "Brahma, Surya, and Chandra", "The Ashvins, Maruts, and Rudras", "Yama, Varuna, and Kubera"],
+      "answer": 3,
+      "explanation": "The lokapalas Yama, Varuna, and Kubera each gave Arjuna a weapon, and Indra promised his own in heaven."
+    },
+    {
+      "id": "kiratarjuniya-q25",
+      "difficulty": "hard",
+      "q": "Which weapon did Yama bestow on Arjuna after the Kirata encounter?",
+      "options": ["His danda, the rod of death", "His pasha, the binding noose", "His mudgara, the iron hammer", "His banner of the black buffalo"],
+      "answer": 0,
+      "explanation": "Yama gave his danda, the rod of death, while the noose was the gift of Varuna."
+    },
+    {
+      "id": "kiratarjuniya-q26",
+      "difficulty": "hard",
+      "q": "What weapon did Kubera give Arjuna in the same gathering?",
+      "options": ["The shankha of treasures", "The antardhana, which saps and scatters foes", "The gada of the yakshas", "The chhaya, a weapon of shadows"],
+      "answer": 1,
+      "explanation": "Kubera bestowed the antardhana, a weapon said to drain the energy of enemies and cast them into stupor."
+    },
+    {
+      "id": "kiratarjuniya-q27",
+      "difficulty": "hard",
+      "q": "On what ground did the kirata claim the fallen boar?",
+      "options": ["A hunter owns whatever dies on his hillside", "An ascetic has no business shooting game", "He had aimed at and struck the quarry first", "The beast had been driven by his hounds"],
+      "answer": 2,
+      "explanation": "The hunter insisted he had marked and hit the boar first, accusing Arjuna of violating the code of the chase."
+    },
+    {
+      "id": "kiratarjuniya-q28",
+      "difficulty": "hard",
+      "q": "What is said to have happened when the Pashupatastra took its place at Arjuna's side?",
+      "options": ["The earth shook and unseen drums thundered", "The sun stood still above the peak", "Every river ran backward for a day", "All the fires of the world went out"],
+      "answer": 0,
+      "explanation": "At the weapon's arrival the earth with its mountains trembled, and the blare of conches and drums filled the air."
+    },
+    {
+      "id": "kiratarjuniya-q29",
+      "difficulty": "hard",
+      "q": "For what verbal feat is Bharavi's Kiratarjuniya especially celebrated?",
+      "options": ["A canto readable in reverse as the Ramayana", "Stanzas that never use the vowel a", "A chapter composed without verbs", "A verse built from a single consonant"],
+      "answer": 3,
+      "explanation": "Its fifteenth canto contains the famous verse composed using only the consonant na, a marvel of chitrakavya."
+    },
+    {
+      "id": "kiratarjuniya-q30",
+      "difficulty": "hard",
+      "q": "After the world-guardians' gifts, who arrived to carry Arjuna up to Indra's heaven?",
+      "options": ["Garuda, sent by Vishnu", "Matali, with Indra's own chariot", "The Ashvins, with their golden car", "Vayu, on a great storm wind"],
+      "answer": 1,
+      "explanation": "Indra's charioteer Matali descended with the celestial chariot and bore Arjuna to Amaravati."
+    }
+  ]
+}

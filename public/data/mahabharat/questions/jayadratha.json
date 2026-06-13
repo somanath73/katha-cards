@@ -1,0 +1,245 @@
+{
+  "cardId": "jayadratha",
+  "questions": [
+    {
+      "id": "jayadratha-q01",
+      "difficulty": "easy",
+      "q": "Of which kingdom was Jayadratha the king?",
+      "options": ["Madra", "Sindhu", "Chedi", "Anga"],
+      "answer": 1,
+      "explanation": "Jayadratha ruled the Sindhu kingdom, which is why the epic often calls him Saindhava."
+    },
+    {
+      "id": "jayadratha-q02",
+      "difficulty": "easy",
+      "q": "Whom did Jayadratha marry?",
+      "options": ["Uttara", "Subhadra", "Kripi", "Dussala"],
+      "answer": 3,
+      "explanation": "Jayadratha married Dussala, the only daughter of Dhritarashtra and Gandhari and thus the Kauravas' only sister."
+    },
+    {
+      "id": "jayadratha-q03",
+      "difficulty": "easy",
+      "q": "Whom did Jayadratha abduct during the Pandavas' forest exile?",
+      "options": ["Draupadi", "Subhadra", "Kunti", "Hidimbi"],
+      "answer": 0,
+      "explanation": "Finding Draupadi alone at the hermitage in the Kamyaka forest, Jayadratha carried her off in his chariot."
+    },
+    {
+      "id": "jayadratha-q04",
+      "difficulty": "easy",
+      "q": "Which warrior finally killed Jayadratha in the Kurukshetra war?",
+      "options": ["Bhima", "Yudhishthira", "Arjuna", "Sahadeva"],
+      "answer": 2,
+      "explanation": "Arjuna beheaded Jayadratha with an arrow at the close of the fourteenth day, fulfilling his terrible vow."
+    },
+    {
+      "id": "jayadratha-q05",
+      "difficulty": "easy",
+      "q": "On which day of the Kurukshetra war did Jayadratha die?",
+      "options": ["The tenth day", "The thirteenth day", "The fourteenth day", "The eighteenth day"],
+      "answer": 2,
+      "explanation": "Jayadratha was slain at sunset on the fourteenth day, the deadline Arjuna had set in his vow."
+    },
+    {
+      "id": "jayadratha-q06",
+      "difficulty": "easy",
+      "q": "From which god did Jayadratha win the boon he later used at the Chakravyuha?",
+      "options": ["Shiva", "Indra", "Surya", "Brahma"],
+      "answer": 0,
+      "explanation": "After his humiliation by the Pandavas, Jayadratha performed austerities and received his battle boon from Shiva."
+    },
+    {
+      "id": "jayadratha-q07",
+      "difficulty": "easy",
+      "q": "What part did Jayadratha play on the thirteenth day, when Abhimanyu died?",
+      "options": ["He led the Kaurava cavalry charge", "He fought Abhimanyu in single combat", "He stood guard over Drona's chariot", "He blocked the Pandavas from following Abhimanyu inside"],
+      "answer": 3,
+      "explanation": "Using Shiva's boon, Jayadratha held the entrance of the wheel formation so Abhimanyu was trapped inside alone."
+    },
+    {
+      "id": "jayadratha-q08",
+      "difficulty": "easy",
+      "q": "How was Jayadratha punished when he was caught after abducting Draupadi?",
+      "options": ["He was branded on the forehead", "His head was shaved in humiliation", "His thumbs were cut off", "He was imprisoned for twelve years"],
+      "answer": 1,
+      "explanation": "Bhima shaved Jayadratha's head, leaving five tufts of hair, and the shamed king was then released alive."
+    },
+    {
+      "id": "jayadratha-q09",
+      "difficulty": "easy",
+      "q": "Why did Yudhishthira spare Jayadratha's life after the abduction of Draupadi?",
+      "options": ["So that Dussala, the Kauravas' only sister, would not be widowed", "Because Jayadratha begged forgiveness at Draupadi's feet", "Because Krishna arrived and forbade the killing", "Because a king could not be slain outside of battle"],
+      "answer": 0,
+      "explanation": "Yudhishthira reasoned that killing Jayadratha would widow their cousin Dussala and grieve Gandhari, so he was shamed instead."
+    },
+    {
+      "id": "jayadratha-q10",
+      "difficulty": "easy",
+      "q": "By what name, taken from his kingdom, is Jayadratha often called in the epic?",
+      "options": ["Angaraja", "Magadheya", "Saindhava", "Gandharaja"],
+      "answer": 2,
+      "explanation": "As ruler of Sindhu he is repeatedly called Saindhava, the man of the Sindhu country."
+    },
+    {
+      "id": "jayadratha-q11",
+      "difficulty": "medium",
+      "q": "What exactly did Shiva's boon allow Jayadratha to do?",
+      "options": ["Defeat all five Pandavas in single combat", "Hold back four Pandavas, but never Arjuna, for one day", "Become invulnerable to every weapon for one day", "Slay any warrior who crossed his chariot in battle"],
+      "answer": 1,
+      "explanation": "Shiva granted that Jayadratha could check the four Pandavas other than Arjuna in battle for a single day."
+    },
+    {
+      "id": "jayadratha-q12",
+      "difficulty": "medium",
+      "q": "Who was Jayadratha's father?",
+      "options": ["Somadatta", "Bhagadatta", "Brihadratha", "Vriddhakshatra"],
+      "answer": 3,
+      "explanation": "Jayadratha was the son of the old Sindhu king Vriddhakshatra, who had retired to a life of austerities."
+    },
+    {
+      "id": "jayadratha-q13",
+      "difficulty": "medium",
+      "q": "What doom had Vriddhakshatra pronounced concerning his son's head?",
+      "options": ["The killer would be consumed by fire from the sky", "The killer would die within a year of the deed", "Whoever made the head fall to the earth would have his own head burst into a hundred pieces", "The killer's entire lineage would end with him"],
+      "answer": 2,
+      "explanation": "Warned that his son would die beheaded in battle, Vriddhakshatra declared that whoever caused the head to drop to the ground would have his own head shatter."
+    },
+    {
+      "id": "jayadratha-q14",
+      "difficulty": "medium",
+      "q": "Where was Jayadratha traveling when he came upon Draupadi alone?",
+      "options": ["To the Shalva kingdom, hoping to win a bride", "To Hastinapura for the game of dice", "On pilgrimage to the lakes of Samantapanchaka", "Back to Sindhu with tribute from Indraprastha"],
+      "answer": 0,
+      "explanation": "Jayadratha was on his way to the Shalva country seeking marriage when he passed the Kamyaka forest and saw Draupadi."
+    },
+    {
+      "id": "jayadratha-q15",
+      "difficulty": "medium",
+      "q": "Whom did Jayadratha send to learn the identity of the beautiful woman at the hermitage?",
+      "options": ["Uluka", "Kotikasya", "Sudakshina", "Kritavarma"],
+      "answer": 1,
+      "explanation": "Jayadratha sent King Kotikasya, who questioned Draupadi before the Sindhu king approached her himself."
+    },
+    {
+      "id": "jayadratha-q16",
+      "difficulty": "medium",
+      "q": "What did Bhima force the captured Jayadratha to declare?",
+      "options": ["That he would renounce his kingdom forever", "That he would fight for the Pandavas in any future war", "That he would never again bear arms", "That he was a slave of the Pandavas"],
+      "answer": 3,
+      "explanation": "Bhima made the shaven Jayadratha declare himself the Pandavas' slave, though Yudhishthira then mercifully released him from the bond."
+    },
+    {
+      "id": "jayadratha-q17",
+      "difficulty": "medium",
+      "q": "What did Jayadratha do after his humiliating release by the Pandavas?",
+      "options": ["He returned home and plotted with Shakuni", "He immediately pledged his army to Duryodhana", "He renounced his throne in favor of his son", "He performed severe austerities to win a boon from Shiva"],
+      "answer": 3,
+      "explanation": "Burning with shame, Jayadratha worshipped Shiva with harsh penances until the god granted him a limited boon against the Pandavas."
+    },
+    {
+      "id": "jayadratha-q18",
+      "difficulty": "medium",
+      "q": "What vow did Arjuna take when he learned of Jayadratha's role in Abhimanyu's death?",
+      "options": ["To raze the entire Sindhu kingdom to the ground", "To kill Jayadratha before the next sunset or burn himself alive", "To slay all six warriors who had struck Abhimanyu together", "To never sleep again until Jayadratha lay dead"],
+      "answer": 1,
+      "explanation": "Arjuna swore to slay Jayadratha before the sun set on the fourteenth day or else enter the fire himself."
+    },
+    {
+      "id": "jayadratha-q19",
+      "difficulty": "medium",
+      "q": "How did Drona protect Jayadratha on the fourteenth day?",
+      "options": ["He hid him inside the walls of Hastinapura", "He surrounded him with a ring of war elephants alone", "He stationed him far to the rear behind layered battle formations", "He disguised him as a common foot soldier in the ranks"],
+      "answer": 2,
+      "explanation": "Drona placed Jayadratha deep behind a cart, lotus, and needle array, with the best Kaurava warriors as his shield."
+    },
+    {
+      "id": "jayadratha-q20",
+      "difficulty": "medium",
+      "q": "What became of Jayadratha's severed head?",
+      "options": ["Arjuna's arrows carried it into his father's lap", "It fell into the waters of the Saraswati", "Krishna caught it and hid it from the Kauravas", "It landed before Duryodhana's chariot"],
+      "answer": 0,
+      "explanation": "On Krishna's instruction, Arjuna's mantra-charged arrows bore the head beyond the field and dropped it into the lap of the praying Vriddhakshatra."
+    },
+    {
+      "id": "jayadratha-q21",
+      "difficulty": "medium",
+      "q": "What happened to Vriddhakshatra when he rose from his evening prayers?",
+      "options": ["His son's head dropped to the earth and his own head burst into pieces", "He was struck blind upon the spot", "He died of grief the moment he saw the head", "He cursed Arjuna's lineage and entered the fire"],
+      "answer": 0,
+      "explanation": "Unaware of what lay in his lap, the old king stood up, the head fell to the ground, and his own curse claimed him as his head burst apart."
+    },
+    {
+      "id": "jayadratha-q22",
+      "difficulty": "medium",
+      "q": "What did the terrified Jayadratha want to do on the night he heard of Arjuna's vow?",
+      "options": ["Challenge Arjuna to single combat at dawn", "Take shelter in a mountain shrine of Shiva", "Beg Krishna to intercede for his life", "Abandon the war and flee to his own kingdom"],
+      "answer": 3,
+      "explanation": "Jayadratha begged leave to go home, but Duryodhana and Drona persuaded him to stay by promising overwhelming protection."
+    },
+    {
+      "id": "jayadratha-q23",
+      "difficulty": "hard",
+      "q": "Which four warriors did Jayadratha's boon hold at the entrance of the Chakravyuha?",
+      "options": ["Yudhishthira, Bhima, Arjuna, and Nakula", "Yudhishthira, Bhima, Nakula, and Sahadeva", "Bhima, Nakula, Sahadeva, and Satyaki", "Yudhishthira, Nakula, Sahadeva, and Drupada"],
+      "answer": 1,
+      "explanation": "The boon worked on the four Pandavas other than Arjuna, who had been lured to a distant part of the field by the Samsaptakas."
+    },
+    {
+      "id": "jayadratha-q24",
+      "difficulty": "hard",
+      "q": "Where was Vriddhakshatra performing austerities when his son's head landed in his lap?",
+      "options": ["At Kashi on the banks of the Ganga", "In the great temple of the Sindhu capital", "Just beyond the battlefield, near Samantapanchaka", "On the high slopes of Mount Kailasa"],
+      "answer": 2,
+      "explanation": "The epic places the old ascetic at his prayers just outside Samantapanchaka, beyond the edge of the Kurukshetra plain."
+    },
+    {
+      "id": "jayadratha-q25",
+      "difficulty": "hard",
+      "q": "When Jayadratha asked Shiva for the power to defeat all five Pandavas, what was the god's answer about Arjuna?",
+      "options": ["Arjuna could be defeated only after sunset", "Arjuna, protected by Krishna, was beyond anyone's power to defeat", "Arjuna could be beaten once the Gandiva left his hands", "Arjuna alone could be checked, but never the other four"],
+      "answer": 1,
+      "explanation": "Shiva declared that no one could vanquish Arjuna, who was guarded by Krishna, and granted power only over the other four brothers."
+    },
+    {
+      "id": "jayadratha-q26",
+      "difficulty": "hard",
+      "q": "Who chased down and seized Jayadratha as he fled with Draupadi?",
+      "options": ["Nakula and Sahadeva on horseback", "Yudhishthira and Bhima", "Bhima and Arjuna", "Arjuna and Sahadeva"],
+      "answer": 2,
+      "explanation": "Arjuna's arrows stopped the fleeing chariot and Bhima dragged Jayadratha down, while Yudhishthira urged that the captive not be killed."
+    },
+    {
+      "id": "jayadratha-q27",
+      "difficulty": "hard",
+      "q": "How many tufts of hair did Bhima leave on Jayadratha's shaved head?",
+      "options": ["Five", "Three", "Seven", "One"],
+      "answer": 0,
+      "explanation": "Bhima left five tufts standing, a mocking mark of the five brothers Jayadratha had wronged."
+    },
+    {
+      "id": "jayadratha-q28",
+      "difficulty": "hard",
+      "q": "Which son of Jayadratha and Dussala later sat on the throne of Sindhu?",
+      "options": ["Vrishaketu", "Niramitra", "Ketuvarman", "Suratha"],
+      "answer": 3,
+      "explanation": "Suratha ruled Sindhu after his father; during Arjuna's later horse-sacrifice campaign Dussala came to him carrying Suratha's infant son."
+    },
+    {
+      "id": "jayadratha-q29",
+      "difficulty": "hard",
+      "q": "Which great warrior fought in the final ring of defenders around Jayadratha at sunset?",
+      "options": ["Bhagadatta", "Bhurisravas", "Shakuni", "Karna"],
+      "answer": 3,
+      "explanation": "Karna, with Duryodhana, Kripa, Ashwatthama, Shalya, and Vrishasena, formed the last shield around Jayadratha; Bhagadatta and Bhurisravas were already dead."
+    },
+    {
+      "id": "jayadratha-q30",
+      "difficulty": "hard",
+      "q": "What does the name Jayadratha literally mean?",
+      "options": ["He whose chariot is victorious", "He who holds the gate", "Conqueror of rivers", "Born of a vow of victory"],
+      "answer": 0,
+      "explanation": "The name joins jaya, victory, with ratha, chariot, meaning one possessing a victorious chariot."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "chakravyuha",
+  "questions": [
+    {
+      "id": "chakravyuha-q01",
+      "difficulty": "easy",
+      "q": "Which commander arrayed the Chakravyuha at Kurukshetra?",
+      "options": ["Bhishma", "Drona", "Karna", "Shakuni"],
+      "answer": 1,
+      "explanation": "Drona, then commanding the Kaurava army, arrayed the wheel formation."
+    },
+    {
+      "id": "chakravyuha-q02",
+      "difficulty": "easy",
+      "q": "On which day of the Kurukshetra war was the Chakravyuha formed?",
+      "options": ["The tenth day", "The eleventh day", "The twelfth day", "The thirteenth day"],
+      "answer": 3,
+      "explanation": "Drona spun the wheel on the thirteenth day of the eighteen-day war."
+    },
+    {
+      "id": "chakravyuha-q03",
+      "difficulty": "easy",
+      "q": "On what shape was the Chakravyuha modeled?",
+      "options": ["A revolving wheel", "A flying eagle", "A crouching lion", "A crescent moon"],
+      "answer": 0,
+      "explanation": "The formation revolved like a spinning wheel, its layers constantly turning."
+    },
+    {
+      "id": "chakravyuha-q04",
+      "difficulty": "easy",
+      "q": "Who entered the Chakravyuha alone when no one else could?",
+      "options": ["Ghatotkacha", "Bhima", "Abhimanyu", "Satyaki"],
+      "answer": 2,
+      "explanation": "Sixteen-year-old Abhimanyu pierced the wheel alone when no other Pandava warrior could."
+    },
+    {
+      "id": "chakravyuha-q05",
+      "difficulty": "easy",
+      "q": "What crucial knowledge did the boy who entered the formation lack?",
+      "options": ["How to fight while encircled", "How to come back out of it", "How to break its outer ring", "How to signal for help inside"],
+      "answer": 1,
+      "explanation": "Abhimanyu knew only the way in, never having learned the way out."
+    },
+    {
+      "id": "chakravyuha-q06",
+      "difficulty": "easy",
+      "q": "Where did Abhimanyu first hear the secret of entering the Chakravyuha?",
+      "options": ["In his mother's womb", "On his father's war chariot", "In Drona's own classroom", "In a dream sent by the gods"],
+      "answer": 0,
+      "explanation": "He heard Arjuna describe the entrance while still in Subhadra's womb."
+    },
+    {
+      "id": "chakravyuha-q07",
+      "difficulty": "easy",
+      "q": "Which army formed the Chakravyuha at Kurukshetra?",
+      "options": ["The Panchala army", "The Matsya army", "The Pandava army", "The Kaurava army"],
+      "answer": 3,
+      "explanation": "Drona formed the wheel with the Kaurava host while Arjuna was away."
+    },
+    {
+      "id": "chakravyuha-q08",
+      "difficulty": "easy",
+      "q": "Which two warriors on the Pandava side could fully breach the wheel and come out again?",
+      "options": ["Bhima and Yudhishthira", "Nakula and Sahadeva", "Krishna and Arjuna", "Drupada and Virata"],
+      "answer": 2,
+      "explanation": "Only Krishna and Arjuna on the Pandava side could both enter and leave the wheel."
+    },
+    {
+      "id": "chakravyuha-q09",
+      "difficulty": "easy",
+      "q": "What was the fate of the young warrior trapped inside the wheel?",
+      "options": ["He was slain by many warriors together", "He fought his way out at sunset", "He was taken prisoner by Drona", "He was rescued by Bhima's charge"],
+      "answer": 0,
+      "explanation": "Six great warriors broke the rules of war to bring the boy down together."
+    },
+    {
+      "id": "chakravyuha-q10",
+      "difficulty": "easy",
+      "q": "Why was Arjuna unable to face the Chakravyuha that day?",
+      "options": ["He lay wounded in the camp", "He had been drawn far away by a sworn enemy band", "He was guarding Yudhishthira's person", "He had vowed not to fight that day"],
+      "answer": 1,
+      "explanation": "The Samsaptakas, sworn to kill Arjuna or die, drew him to a distant part of the field."
+    },
+    {
+      "id": "chakravyuha-q11",
+      "difficulty": "medium",
+      "q": "Who led the sworn warriors who lured Arjuna away from the wheel?",
+      "options": ["Susharma of the Trigartas", "Bhagadatta of Pragjyotisha", "Shakuni of Gandhara", "Kritavarma of the Bhojas"],
+      "answer": 0,
+      "explanation": "Susharma and his Trigarta Samsaptakas had vowed to fight Arjuna to the death."
+    },
+    {
+      "id": "chakravyuha-q12",
+      "difficulty": "medium",
+      "q": "What was Drona's true objective in spinning the wheel formation?",
+      "options": ["To kill Bhima in single combat", "To burn the Pandava camp by day", "To capture Yudhishthira alive", "To force Krishna to take up arms"],
+      "answer": 2,
+      "explanation": "Drona had promised Duryodhana he would take Yudhishthira captive while Arjuna was away."
+    },
+    {
+      "id": "chakravyuha-q13",
+      "difficulty": "medium",
+      "q": "Who asked Abhimanyu to break open the Chakravyuha?",
+      "options": ["Bhima", "Yudhishthira", "Krishna", "Dhrishtadyumna"],
+      "answer": 1,
+      "explanation": "Yudhishthira asked the boy to open the wheel so the army could follow him in."
+    },
+    {
+      "id": "chakravyuha-q14",
+      "difficulty": "medium",
+      "q": "What was the Pandava plan once Abhimanyu pierced the formation's mouth?",
+      "options": ["He would cut his way out on the far side", "He would capture Drona at the hub", "Krishna would extract him by chariot", "The others would pour in close behind him"],
+      "answer": 3,
+      "explanation": "Bhima, Yudhishthira, and the rest were to charge in through the breach behind him."
+    },
+    {
+      "id": "chakravyuha-q15",
+      "difficulty": "medium",
+      "q": "Who sealed the breach behind Abhimanyu, cutting him off from all help?",
+      "options": ["Karna", "Ashwatthama", "Jayadratha", "Duryodhana"],
+      "answer": 2,
+      "explanation": "Jayadratha of Sindhu held the breach and shut the Pandavas out."
+    },
+    {
+      "id": "chakravyuha-q16",
+      "difficulty": "medium",
+      "q": "What divine grant allowed one king to hold back Abhimanyu's rescuers that day?",
+      "options": ["Shiva's boon to repel four Pandavas for a single day", "Brahma's gift of an unbreakable golden armor", "Indra's dart that could not miss its mark", "Surya's blessing of tireless strength till dusk"],
+      "answer": 0,
+      "explanation": "Shiva had granted Jayadratha the power to hold off all the Pandavas except Arjuna for one day."
+    },
+    {
+      "id": "chakravyuha-q17",
+      "difficulty": "medium",
+      "q": "Which son of Duryodhana fell to Abhimanyu inside the wheel?",
+      "options": ["Vikarna", "Vrishasena", "Durmasena", "Lakshmana"],
+      "answer": 3,
+      "explanation": "Abhimanyu slew Duryodhana's son Lakshmana, enraging the Kaurava prince."
+    },
+    {
+      "id": "chakravyuha-q18",
+      "difficulty": "medium",
+      "q": "How many maharathis finally surrounded Abhimanyu at once?",
+      "options": ["Four", "Six", "Eight", "Ten"],
+      "answer": 1,
+      "explanation": "Six maharathis, led by Drona and Karna, ringed the lone boy."
+    },
+    {
+      "id": "chakravyuha-q19",
+      "difficulty": "medium",
+      "q": "Which warrior cut Abhimanyu's bow from behind?",
+      "options": ["Drona", "Ashwatthama", "Karna", "Kripa"],
+      "answer": 2,
+      "explanation": "On Drona's counsel, Karna severed Abhimanyu's bow from behind."
+    },
+    {
+      "id": "chakravyuha-q20",
+      "difficulty": "medium",
+      "q": "Deprived of his weapons, what did Abhimanyu finally take up to fight?",
+      "options": ["A chariot wheel", "A broken flagstaff", "An elephant's tusk", "A fallen soldier's spear"],
+      "answer": 0,
+      "explanation": "Weaponless, Abhimanyu whirled a chariot wheel as both shield and weapon."
+    },
+    {
+      "id": "chakravyuha-q21",
+      "difficulty": "medium",
+      "q": "Who delivered the blow that killed Abhimanyu?",
+      "options": ["Karna, with a final arrow", "Drona, with a thrown lance", "Jayadratha, with his sword", "Dushasana's son, with a mace"],
+      "answer": 3,
+      "explanation": "The son of Dushasana crushed Abhimanyu's head with a mace as both rose from the ground."
+    },
+    {
+      "id": "chakravyuha-q22",
+      "difficulty": "medium",
+      "q": "What vow did Arjuna swear when he learned what had happened inside the wheel?",
+      "options": ["To slay all six attackers within three days", "To kill Jayadratha by sunset next day or burn himself", "To never again leave Yudhishthira's side in battle", "To destroy the Trigarta host to the last man"],
+      "answer": 1,
+      "explanation": "Arjuna swore to slay Jayadratha before the next sunset or enter the fire himself."
+    },
+    {
+      "id": "chakravyuha-q23",
+      "difficulty": "hard",
+      "q": "Which list correctly names the six who brought Abhimanyu down together?",
+      "options": ["Drona, Karna, Kripa, Ashwatthama, Kritavarma, Brihadbala", "Drona, Karna, Shalya, Duryodhana, Shakuni, Jayadratha", "Karna, Kripa, Bhagadatta, Bhurishravas, Shalya, Vikarna", "Drona, Ashwatthama, Duryodhana, Dushasana, Shakuni, Kritavarma"],
+      "answer": 0,
+      "explanation": "Drona, Karna, Kripa, Ashwatthama, Kritavarma, and Brihadbala together overwhelmed him."
+    },
+    {
+      "id": "chakravyuha-q24",
+      "difficulty": "hard",
+      "q": "Which king of Kosala was slain by Abhimanyu during the final encirclement?",
+      "options": ["Bhagadatta", "Shrutayudha", "Brihadbala", "Bhurishravas"],
+      "answer": 2,
+      "explanation": "Abhimanyu killed Brihadbala, the king of Kosala, even as the six pressed in."
+    },
+    {
+      "id": "chakravyuha-q25",
+      "difficulty": "hard",
+      "q": "In the common retelling, why was the lesson on escaping the wheel never completed in the womb?",
+      "options": ["Arjuna was called away to battle mid-story", "Krishna deliberately cut the story short", "A storm drowned out the rest of the telling", "Subhadra fell asleep as Arjuna spoke"],
+      "answer": 3,
+      "explanation": "The epic says only that he learned the entry; popular retellings add that Subhadra dozed off before the escape was told."
+    },
+    {
+      "id": "chakravyuha-q26",
+      "difficulty": "hard",
+      "q": "Which agreed rule of war did Abhimanyu's death most flagrantly violate?",
+      "options": ["No fighting after the sun had set", "Many warriors must not strike one man at once", "Charioteers must never be targeted", "Princes under age could not be challenged"],
+      "answer": 1,
+      "explanation": "The war's code forbade many warriors from striking a single fighter at once."
+    },
+    {
+      "id": "chakravyuha-q27",
+      "difficulty": "hard",
+      "q": "By what other name is Drona's wheel formation also known?",
+      "options": ["Garudavyuha", "Makaravyuha", "Padmavyuha", "Shakatavyuha"],
+      "answer": 2,
+      "explanation": "Tradition also calls the wheel array the Padmavyuha, the lotus formation."
+    },
+    {
+      "id": "chakravyuha-q28",
+      "difficulty": "hard",
+      "q": "Besides Krishna and Arjuna, who is sometimes said in later retellings to have known the full secret of the wheel?",
+      "options": ["Pradyumna", "Balarama", "Satyaki", "Ghatotkacha"],
+      "answer": 0,
+      "explanation": "Some retellings say Krishna's son Pradyumna also knew the wheel's full secret."
+    },
+    {
+      "id": "chakravyuha-q29",
+      "difficulty": "hard",
+      "q": "Which son of Shalya fell to Abhimanyu inside the formation?",
+      "options": ["Madranjaya", "Shrutasena", "Satyasena", "Rukmaratha"],
+      "answer": 3,
+      "explanation": "Abhimanyu slew Rukmaratha, the son of Shalya of Madra, within the wheel."
+    },
+    {
+      "id": "chakravyuha-q30",
+      "difficulty": "hard",
+      "q": "Who hesitated at the formation's mouth and counseled Abhimanyu about the burden he was taking up?",
+      "options": ["His uncle Krishna, by a sign", "His own charioteer, Sumitra", "King Virata, his wife's father", "The aged Drupada at his wing"],
+      "answer": 1,
+      "explanation": "His charioteer Sumitra urged caution, reminding him of the burden Drona's array posed."
+    }
+  ]
+}

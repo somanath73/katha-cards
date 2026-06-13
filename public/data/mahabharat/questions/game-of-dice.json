@@ -1,0 +1,245 @@
+{
+  "cardId": "game-of-dice",
+  "questions": [
+    {
+      "id": "game-of-dice-q01",
+      "difficulty": "easy",
+      "q": "Who rolled the dice against Yudhishthira in the fateful game?",
+      "options": ["Duryodhana", "Karna", "Dushasana", "Shakuni"],
+      "answer": 3,
+      "explanation": "Shakuni, the master of dice from Gandhara, cast the throws that stripped Yudhishthira of everything."
+    },
+    {
+      "id": "game-of-dice-q02",
+      "difficulty": "easy",
+      "q": "In which city's assembly hall was the dice game played?",
+      "options": ["Indraprastha", "Hastinapura", "Girivraja", "Kampilya"],
+      "answer": 1,
+      "explanation": "Dhritarashtra had a new hall built at Hastinapura, and Yudhishthira was summoned there to play."
+    },
+    {
+      "id": "game-of-dice-q03",
+      "difficulty": "easy",
+      "q": "Whose envy of the Pandavas' wealth set the dice game in motion?",
+      "options": ["Duryodhana's", "Dushasana's", "Karna's", "Jayadratha's"],
+      "answer": 0,
+      "explanation": "Duryodhana returned from the Rajasuya sick with envy, and Shakuni offered the dice as the cure."
+    },
+    {
+      "id": "game-of-dice-q04",
+      "difficulty": "easy",
+      "q": "After staking even himself, whom did Yudhishthira wager last of all?",
+      "options": ["Kunti", "Subhadra", "Draupadi", "Uttara"],
+      "answer": 2,
+      "explanation": "The final stake was Draupadi herself, and Shakuni's winning throw plunged the hall into infamy."
+    },
+    {
+      "id": "game-of-dice-q05",
+      "difficulty": "easy",
+      "q": "Who carried the invitation to the game from Hastinapura to Indraprastha?",
+      "options": ["Vidura", "Sanjaya", "Shakuni", "Dushasana"],
+      "answer": 0,
+      "explanation": "Dhritarashtra sent Vidura himself, though Vidura had argued bitterly against the whole scheme."
+    },
+    {
+      "id": "game-of-dice-q06",
+      "difficulty": "easy",
+      "q": "Who pleaded most insistently with Dhritarashtra to forbid the game?",
+      "options": ["Bhishma", "Gandhari", "Vidura", "Drona"],
+      "answer": 2,
+      "explanation": "Vidura warned again and again that the dice would destroy the family, but the blind king yielded to his son."
+    },
+    {
+      "id": "game-of-dice-q07",
+      "difficulty": "easy",
+      "q": "On whose behalf did Shakuni cast the dice?",
+      "options": ["Dhritarashtra's", "Duryodhana's", "Karna's", "His own"],
+      "answer": 1,
+      "explanation": "Duryodhana named the stakes and claimed the winnings while his uncle Shakuni did the playing."
+    },
+    {
+      "id": "game-of-dice-q08",
+      "difficulty": "easy",
+      "q": "What sentence did the second dice game impose upon the losers?",
+      "options": ["Permanent surrender of Indraprastha", "Ten years as palace servants", "Lifelong banishment beyond the mountains", "Twelve years of exile plus a year in disguise"],
+      "answer": 3,
+      "explanation": "The single stake of the rematch was twelve years in the forest and a thirteenth year lived undiscovered."
+    },
+    {
+      "id": "game-of-dice-q09",
+      "difficulty": "easy",
+      "q": "What became of all the Pandavas' losses from the first game?",
+      "options": ["Duryodhana kept them under seal", "They were split among the Kauravas", "Dhritarashtra undid them, granting Draupadi boons and restoring all", "Bhishma forced their return by decree"],
+      "answer": 2,
+      "explanation": "Draupadi's boons freed the Pandavas, and the shaken Dhritarashtra then returned all the wealth and kingdom that had been lost."
+    },
+    {
+      "id": "game-of-dice-q10",
+      "difficulty": "easy",
+      "q": "Which game finally drove the Pandavas into exile?",
+      "options": ["A second game played for one final stake", "The first game's last throw", "A rematch demanded by Draupadi", "A contest of dice with Karna"],
+      "answer": 0,
+      "explanation": "After the first game's losses were undone, Yudhishthira was called back for one more throw with exile as the stake."
+    },
+    {
+      "id": "game-of-dice-q11",
+      "difficulty": "medium",
+      "q": "Which brother did Yudhishthira stake first when his wealth was gone?",
+      "options": ["Bhima", "Arjuna", "Sahadeva", "Nakula"],
+      "answer": 3,
+      "explanation": "Yudhishthira staked Nakula first, then Sahadeva, then Arjuna, then Bhima, and finally himself."
+    },
+    {
+      "id": "game-of-dice-q12",
+      "difficulty": "medium",
+      "q": "Why did Yudhishthira feel unable to refuse the summons to play?",
+      "options": ["He hoped to win Hastinapura from Duryodhana", "He held it a rule never to refuse a challenge and obeyed his elder's summons", "Krishna had advised him to accept the game", "Draupadi urged him to defend the family honor"],
+      "answer": 1,
+      "explanation": "Bound by his principle never to decline a challenge and by Dhritarashtra's command, Yudhishthira walked into the trap."
+    },
+    {
+      "id": "game-of-dice-q13",
+      "difficulty": "medium",
+      "q": "Who first proposed that Draupadi be placed as a stake?",
+      "options": ["Duryodhana", "Shakuni", "Karna", "Dushasana"],
+      "answer": 1,
+      "explanation": "It was Shakuni who suggested that Yudhishthira could still wager Draupadi after losing himself."
+    },
+    {
+      "id": "game-of-dice-q14",
+      "difficulty": "medium",
+      "q": "What was Vidura's legal objection to the staking of Draupadi?",
+      "options": ["A queen could be staked only with her consent", "Dice winnings could never include persons", "Only Dhritarashtra could approve such a stake", "Having lost himself first, Yudhishthira owned nothing left to stake"],
+      "answer": 3,
+      "explanation": "Vidura argued the stake was void because a man who had already gambled himself away had no right over anyone else."
+    },
+    {
+      "id": "game-of-dice-q15",
+      "difficulty": "medium",
+      "q": "What did Draupadi ask for with her first boon from Dhritarashtra?",
+      "options": ["The return of Indraprastha", "Freedom for all five of her husbands", "Freedom for Yudhishthira, so her son would be no slave's child", "The banishment of Shakuni from the court"],
+      "answer": 2,
+      "explanation": "Her first boon freed Yudhishthira so that her son Prativindhya could never be called the child of a slave."
+    },
+    {
+      "id": "game-of-dice-q16",
+      "difficulty": "medium",
+      "q": "What did Draupadi's second boon secure?",
+      "options": ["Freedom for the other four Pandavas with their weapons and chariots", "The restoration of the Pandavas' entire treasury", "A promise that no rematch would ever be played", "Safe passage for Kunti back to Indraprastha"],
+      "answer": 0,
+      "explanation": "With her second boon the remaining four brothers were freed along with their arms and chariots."
+    },
+    {
+      "id": "game-of-dice-q17",
+      "difficulty": "medium",
+      "q": "Why did Draupadi decline to ask for a third boon?",
+      "options": ["Dhritarashtra withdrew the offer in fear", "Karna mocked her into silence", "She said greed was unworthy and two boons were a kshatriya woman's measure", "Yudhishthira commanded her to stop"],
+      "answer": 2,
+      "explanation": "Draupadi answered that greed devours dharma and that a kshatriya woman may properly claim only two boons."
+    },
+    {
+      "id": "game-of-dice-q18",
+      "difficulty": "medium",
+      "q": "What did the enraged Bhima threaten to do to Yudhishthira during the staking?",
+      "options": ["Strike him down with his mace", "Burn the hands that had played the dice", "Drag him from the gambling seat", "Renounce him as his elder brother"],
+      "answer": 1,
+      "explanation": "Bhima called for fire to burn his brother's gambling hands before he was calmed."
+    },
+    {
+      "id": "game-of-dice-q19",
+      "difficulty": "medium",
+      "q": "Who restrained Bhima when he raged against Yudhishthira in the hall?",
+      "options": ["Arjuna", "Nakula", "Vidura", "Yuyutsu"],
+      "answer": 0,
+      "explanation": "Arjuna soothed Bhima, reminding him that turning on their elder brother would only complete their enemies' victory."
+    },
+    {
+      "id": "game-of-dice-q20",
+      "difficulty": "medium",
+      "q": "How did Karna mock the Pandavas after Draupadi's boons freed them?",
+      "options": ["He called Yudhishthira a beggar king", "He challenged Arjuna to a duel on the spot", "He demanded Draupadi serve the Kaurava queens", "He sneered that a woman had become the Pandavas' boat to safety"],
+      "answer": 3,
+      "explanation": "Karna jeered that drowning men had never before been rescued by a boat in the form of a woman."
+    },
+    {
+      "id": "game-of-dice-q21",
+      "difficulty": "medium",
+      "q": "What lay in wait if the Pandavas were discovered during the thirteenth year?",
+      "options": ["The whole term of exile served again", "Immediate execution as oath-breakers", "Ten further years of servitude", "Forfeiture of Draupadi to the Kauravas"],
+      "answer": 0,
+      "explanation": "Discovery in the year of hiding meant the entire cycle of twelve years and one hidden year would begin anew."
+    },
+    {
+      "id": "game-of-dice-q22",
+      "difficulty": "medium",
+      "q": "Whose weak consent, against all wise counsel, allowed both games to proceed?",
+      "options": ["Bhishma's", "Gandhari's", "Dhritarashtra's", "Drona's"],
+      "answer": 2,
+      "explanation": "Dhritarashtra, blinded by love for Duryodhana and resigned to fate, approved both the game and the rematch."
+    },
+    {
+      "id": "game-of-dice-q23",
+      "difficulty": "hard",
+      "q": "How did Dushasana taunt the ruined Pandavas in the hall?",
+      "options": ["He offered them each a beggar's bowl", "He branded them cattle of the Kauravas", "He swore they would never return alive", "He danced about calling them sesame seeds without kernels"],
+      "answer": 3,
+      "explanation": "Dushasana capered around the fallen princes, mocking them as worthless sesame seeds and crying out like a beast."
+    },
+    {
+      "id": "game-of-dice-q24",
+      "difficulty": "hard",
+      "q": "Which vow did Arjuna swear in the assembly after the final game?",
+      "options": ["To behead Shakuni with his own sword", "To slay Karna in battle", "To burn Hastinapura to the ground", "To never touch dice all his life"],
+      "answer": 1,
+      "explanation": "Arjuna vowed that his arrows would kill Karna, the vow he kept on the war's seventeenth day."
+    },
+    {
+      "id": "game-of-dice-q25",
+      "difficulty": "hard",
+      "q": "Why did Yudhishthira cover his face with his cloth as the Pandavas departed?",
+      "options": ["To hide his tears from Duryodhana", "Fearing his burning gaze might harm the people", "In shame before the citizens of Hastinapura", "To honor a vow of silence until his return"],
+      "answer": 1,
+      "explanation": "Vidura explained to Dhritarashtra that Yudhishthira veiled his eyes lest their wrathful gaze scorch the innocent."
+    },
+    {
+      "id": "game-of-dice-q26",
+      "difficulty": "hard",
+      "q": "By what name is the second, single-stake dice game known?",
+      "options": ["The Antima-dyuta", "The Maha-dyuta", "The Punar-dyuta", "The Anudyuta"],
+      "answer": 3,
+      "explanation": "The rematch is called the Anudyuta, the sequel game, in the Sabha Parva."
+    },
+    {
+      "id": "game-of-dice-q27",
+      "difficulty": "hard",
+      "q": "Where was Krishna while the dice game destroyed his friends?",
+      "options": ["On pilgrimage along the Saraswati", "Asleep under Yogamaya in Dwarka", "Fighting King Shalva's siege of Dwarka", "Attending a sacrifice in Pragjyotisha"],
+      "answer": 2,
+      "explanation": "Krishna later told Yudhishthira he had been at war with Shalva, and that he would have prevented the game had he known."
+    },
+    {
+      "id": "game-of-dice-q28",
+      "difficulty": "hard",
+      "q": "What repeated utterance betrayed Dhritarashtra's secret delight during the play?",
+      "options": ["His eager cry of 'Has it been won?' at every stake", "His loud blessings upon Duryodhana's name", "His repeated calls for celebratory music", "His whispered tallies of the growing winnings"],
+      "answer": 0,
+      "explanation": "Again and again the blind king asked whether the stake had been won, unable to hide his eagerness."
+    },
+    {
+      "id": "game-of-dice-q29",
+      "difficulty": "hard",
+      "q": "What do popular later retellings say Shakuni's obedient dice were made from?",
+      "options": ["Ivory of Gandhara's white elephants", "Knucklebones of a slain rakshasa", "Sandalwood blessed by dark rites", "The bones of his dead father"],
+      "answer": 3,
+      "explanation": "The bones-of-his-father story is a beloved folk and televised tradition; Vyasa's epic credits only Shakuni's unmatched skill at play."
+    },
+    {
+      "id": "game-of-dice-q30",
+      "difficulty": "hard",
+      "q": "What was the greatest territorial stake Yudhishthira lost before turning to living persons?",
+      "options": ["His personal ornaments", "The Pandava army", "His kingdom itself", "The royal treasury"],
+      "answer": 2,
+      "explanation": "Once his city, country, and lands were gone, only his brothers, himself, and Draupadi remained to be staked."
+    }
+  ]
+}

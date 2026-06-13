@@ -1,0 +1,245 @@
+{
+  "cardId": "kichaka",
+  "questions": [
+    {
+      "id": "kichaka-q01",
+      "difficulty": "easy",
+      "q": "Who was Kichaka's sister?",
+      "options": ["Kunti", "Draupadi", "Sudeshna", "Subhadra"],
+      "answer": 2,
+      "explanation": "Kichaka was the brother of Sudeshna, the queen of King Virata of Matsya."
+    },
+    {
+      "id": "kichaka-q02",
+      "difficulty": "easy",
+      "q": "Which palace servant did Kichaka pursue with unwanted advances?",
+      "options": ["Sairandhri, the queen's new maid", "The keeper of the queen's wardrobe", "The princess's dance companion", "The daughter of the royal cook"],
+      "answer": 0,
+      "explanation": "Kichaka was inflamed by Sairandhri, never suspecting she was Draupadi living in disguise."
+    },
+    {
+      "id": "kichaka-q03",
+      "difficulty": "easy",
+      "q": "Who killed Kichaka?",
+      "options": ["Arjuna", "Bhima", "Nakula", "Yudhishthira"],
+      "answer": 1,
+      "explanation": "Bhima, disguised as the cook Vallabha, killed Kichaka with his bare hands in the night."
+    },
+    {
+      "id": "kichaka-q04",
+      "difficulty": "easy",
+      "q": "Where did Kichaka meet his death?",
+      "options": ["In the royal stables at dawn", "In his own quarters during a feast", "On the practice grounds at noon", "In the dance hall at midnight"],
+      "answer": 3,
+      "explanation": "Kichaka was lured to a midnight tryst in the dance hall, where Bhima waited in the darkness."
+    },
+    {
+      "id": "kichaka-q05",
+      "difficulty": "easy",
+      "q": "What position did Kichaka hold in the Matsya kingdom?",
+      "options": ["Chief priest of the royal household", "Commander of King Virata's armies", "Keeper of the royal treasury", "Governor of the border provinces"],
+      "answer": 1,
+      "explanation": "As commander of Virata's forces and the queen's brother, Kichaka was the real power behind the Matsya throne."
+    },
+    {
+      "id": "kichaka-q06",
+      "difficulty": "easy",
+      "q": "What crucial fact did Kichaka not know about the maid he was pursuing?",
+      "options": ["She was a spy sent by the Kauravas", "She was under Queen Sudeshna's sworn protection", "She was Draupadi, and one of her five husbands was Bhima", "She was a Gandharva woman wearing mortal form"],
+      "answer": 2,
+      "explanation": "Sairandhri was Draupadi in disguise, and the cook working in the same palace was her husband Bhima."
+    },
+    {
+      "id": "kichaka-q07",
+      "difficulty": "easy",
+      "q": "What did Bhima do to Kichaka's body after killing him?",
+      "options": ["Crushed it into a shapeless ball of flesh", "Threw it down from the palace walls", "Buried it beneath the dance hall floor", "Carried it openly to the burning ground"],
+      "answer": 0,
+      "explanation": "Bhima rammed Kichaka's head and limbs into his trunk, leaving a ball of flesh that terrified all who saw it."
+    },
+    {
+      "id": "kichaka-q08",
+      "difficulty": "easy",
+      "q": "Who did Sairandhri claim would punish anyone who wronged her?",
+      "options": ["The goddess Durga whom she served", "The king of the Gandharva realm", "Her brothers in a distant kingdom", "Her five Gandharva husbands"],
+      "answer": 3,
+      "explanation": "Draupadi's cover story was that five mighty Gandharva husbands guarded her invisibly."
+    },
+    {
+      "id": "kichaka-q09",
+      "difficulty": "easy",
+      "q": "What outrage did Kichaka commit in King Virata's open court?",
+      "options": ["He tore the queen's necklace from her neck", "He kicked Sairandhri in front of the king", "He struck the courtier Kanka across the face", "He drew his sword on prince Uttara"],
+      "answer": 1,
+      "explanation": "When Sairandhri fled to the court for protection, Kichaka kicked her before Virata, who dared not act against him."
+    },
+    {
+      "id": "kichaka-q10",
+      "difficulty": "easy",
+      "q": "What were Kichaka's hundred-odd kinsmen called?",
+      "options": ["Trigartas", "Maukharis", "Upakichakas", "Sutaputras"],
+      "answer": 2,
+      "explanation": "His kinsmen, the Upakichakas, died trying to burn Sairandhri on his pyre."
+    },
+    {
+      "id": "kichaka-q11",
+      "difficulty": "medium",
+      "q": "How did Queen Sudeshna assist her brother's designs on Sairandhri?",
+      "options": ["She sent Sairandhri to Kichaka's quarters to fetch wine", "She granted Kichaka entry to the women's chambers", "She told Kichaka where Sairandhri slept at night", "She ordered Sairandhri to dance at his feast"],
+      "answer": 0,
+      "explanation": "Yielding to her brother's pleas, Sudeshna sent the unwilling maid to his palace on the pretext of fetching wine."
+    },
+    {
+      "id": "kichaka-q12",
+      "difficulty": "medium",
+      "q": "When Kichaka first laid hands on her in his palace, where did Sairandhri flee?",
+      "options": ["To the queen's private apartments", "To the temple of Durga in the city", "To the kitchens, seeking Vallabha", "To the royal court where Virata sat"],
+      "answer": 3,
+      "explanation": "She broke free and ran to the assembly hall, where Kichaka pursued her and kicked her before the king."
+    },
+    {
+      "id": "kichaka-q13",
+      "difficulty": "medium",
+      "q": "Why did the disguised Yudhishthira and Bhima do nothing as Sairandhri was kicked in court?",
+      "options": ["The king had forbidden servants to quarrel", "Acting openly would expose their identities in the final year of hiding", "They did not recognize her through her disguise", "They feared Kichaka's strength in equal combat"],
+      "answer": 1,
+      "explanation": "Any open defense would have revealed the Pandavas and forced the whole exile to be served again, so Yudhishthira restrained Bhima with veiled words."
+    },
+    {
+      "id": "kichaka-q14",
+      "difficulty": "medium",
+      "q": "What did Draupadi demand when she came to Bhima in the kitchen at night?",
+      "options": ["That the Pandavas leave Matsya at once", "That Bhima reveal himself to King Virata", "That Kichaka die for the insults she had suffered", "That she be released from her vow of service"],
+      "answer": 2,
+      "explanation": "Weeping over her humiliations, Draupadi told Bhima she could not live unless Kichaka was killed."
+    },
+    {
+      "id": "kichaka-q15",
+      "difficulty": "medium",
+      "q": "What trap was set for Kichaka?",
+      "options": ["An invitation to a secret midnight meeting in the dance hall", "A challenge to a wrestling match before the king", "A drugged cup of wine at the evening feast", "A forged summons to the queen's chambers"],
+      "answer": 0,
+      "explanation": "Following Bhima's plan, Sairandhri pretended to yield and invited Kichaka to meet her alone in the dance hall at night."
+    },
+    {
+      "id": "kichaka-q16",
+      "difficulty": "medium",
+      "q": "Who actually waited for Kichaka on the couch in the darkened hall?",
+      "options": ["Sairandhri, with a hidden dagger", "An empty bundle of cushions and silk", "Bhima, lying in wait in her place", "A palace guard bribed by the queen"],
+      "answer": 2,
+      "explanation": "Bhima lay on the couch in the dark, and when Kichaka reached for him the wrestling match to the death began."
+    },
+    {
+      "id": "kichaka-q17",
+      "difficulty": "medium",
+      "q": "How did the Upakichakas meet their end?",
+      "options": ["Virata executed them for treason", "They fell in the Trigarta cattle raid", "They killed one another quarreling over succession", "Bhima slew them when they tried to burn Sairandhri with the corpse"],
+      "answer": 3,
+      "explanation": "When they seized Sairandhri to burn her on Kichaka's pyre, Bhima fell on them at the burning ground and killed them all."
+    },
+    {
+      "id": "kichaka-q18",
+      "difficulty": "medium",
+      "q": "What did the Kauravas deduce from the news of Kichaka's strange death?",
+      "options": ["That Virata was hiding a divine champion", "That only a warrior like Bhima could have crushed Kichaka so", "That the Gandharvas had taken Matsya's side", "That Matsya was cursed and ripe for plunder"],
+      "answer": 1,
+      "explanation": "Hearing how the body was crushed, Duryodhana's council reasoned that such a death pointed to Bhima, and so to the hidden Pandavas."
+    },
+    {
+      "id": "kichaka-q19",
+      "difficulty": "medium",
+      "q": "How was Kichaka's death explained in Virata's city?",
+      "options": ["Gandharvas had slain him for touching their wife", "A rival commander had hired assassins", "The gods had punished his overweening pride", "He had died in a drunken brawl"],
+      "answer": 0,
+      "explanation": "The city believed Sairandhri's invisible Gandharva husbands had destroyed Kichaka for his lust."
+    },
+    {
+      "id": "kichaka-q20",
+      "difficulty": "medium",
+      "q": "Why had Matsya's enemies kept away from the kingdom for years?",
+      "options": ["The kingdom's walls were thought unbreachable", "Virata's alliance with Panchala protected it", "Fear of Kichaka's might shielded the realm", "The Kurus had guaranteed Matsya's borders"],
+      "answer": 2,
+      "explanation": "Kichaka's strength had long kept raiders at bay, which is why his death immediately invited the Trigarta and Kuru attacks."
+    },
+    {
+      "id": "kichaka-q21",
+      "difficulty": "medium",
+      "q": "What did Kichaka promise Sairandhri to win her over?",
+      "options": ["Marriage to his eldest son", "Her freedom and safe passage home", "Jewels from the royal treasury", "Wealth and rank as his mistress and queen"],
+      "answer": 3,
+      "explanation": "Kichaka offered to make the maid his queen, promising riches, servants, and his own devotion."
+    },
+    {
+      "id": "kichaka-q22",
+      "difficulty": "medium",
+      "q": "What condition did Sairandhri set for the supposed tryst?",
+      "options": ["That he free her from the queen's service first", "That he come alone, telling no one", "That he renounce his command for her sake", "That he swear an oath before the sacred fire"],
+      "answer": 1,
+      "explanation": "She insisted on absolute secrecy so no friend or kinsman would know, which left Kichaka alone with Bhima in the dark."
+    },
+    {
+      "id": "kichaka-q23",
+      "difficulty": "hard",
+      "q": "How many of Kichaka's kinsmen died with him, by the traditional count?",
+      "options": ["A hundred and five", "Exactly one hundred", "Sixty-four", "Two hundred and one"],
+      "answer": 0,
+      "explanation": "The epic counts a hundred and five Upakichakas slain by Bhima at the burning ground."
+    },
+    {
+      "id": "kichaka-q24",
+      "difficulty": "hard",
+      "q": "Which king had long suffered defeat and plunder at Kichaka's hands?",
+      "options": ["Jayadratha of Sindhu", "Shalya of Madra", "Susharma of Trigarta", "Sudakshina of Kamboja"],
+      "answer": 2,
+      "explanation": "Susharma of Trigarta had been beaten repeatedly by Kichaka, which is why he urged a raid on Matsya the moment Kichaka was dead."
+    },
+    {
+      "id": "kichaka-q25",
+      "difficulty": "hard",
+      "q": "At what point in the Pandavas' hidden year did the Kichaka episode occur?",
+      "options": ["In the very first weeks of their service", "Near the end, with only a short time left to stay concealed", "Exactly at the midpoint of the year", "After the year had already expired"],
+      "answer": 1,
+      "explanation": "The episode came late in the thirteenth year, when discovery would have been most ruinous, with Draupadi having served some ten months."
+    },
+    {
+      "id": "kichaka-q26",
+      "difficulty": "hard",
+      "q": "What assurance did Bhima give the weeping Draupadi in the kitchen?",
+      "options": ["That the year would soon end and Kichaka would face them in open war", "That he would spirit her away to Panchala by night", "That Yudhishthira would demand justice from Virata", "That he would kill Kichaka the very next night at the meeting place"],
+      "answer": 3,
+      "explanation": "Bhima promised to be waiting in the dance hall the following night and to crush Kichaka there in secret."
+    },
+    {
+      "id": "kichaka-q27",
+      "difficulty": "hard",
+      "q": "Dragged toward the burning ground, by what names did Sairandhri cry out for rescue?",
+      "options": ["Jaya, Jayanta, Vijaya, Jayatsena, and Jayadbala", "Kanka, Vallabha, and Granthika", "Dharma, Vayu, and Indra, fathers of her lords", "Chitrasena and the hosts of the Gandharvas"],
+      "answer": 0,
+      "explanation": "She called her supposed Gandharva husbands by the secret names the Pandavas had agreed upon, and Bhima answered the call."
+    },
+    {
+      "id": "kichaka-q28",
+      "difficulty": "hard",
+      "q": "How did Bhima reach the burning ground to save Sairandhri without being recognized?",
+      "options": ["He rode out openly in the king's livery", "He disguised himself as a wandering ascetic", "He slipped over the city wall by night and tore up a tree for a weapon", "He joined the funeral procession as a mourner"],
+      "answer": 2,
+      "explanation": "Bhima went over the wall unseen, uprooted a tree, and fell upon the Upakichakas like the Gandharva everyone feared."
+    },
+    {
+      "id": "kichaka-q29",
+      "difficulty": "hard",
+      "q": "How did Virata's court respond to the slaughter of the Upakichakas?",
+      "options": ["The king demanded the Gandharvas be appeased with sacrifice", "In terror of the unseen Gandharvas, the queen was told to send Sairandhri away", "The army was mustered to hunt down the killers", "Kanka was accused of plotting the deaths"],
+      "answer": 1,
+      "explanation": "The frightened king had Sudeshna ask Sairandhri to leave, and Draupadi begged just thirteen more days, after which her Gandharvas would take her away."
+    },
+    {
+      "id": "kichaka-q30",
+      "difficulty": "hard",
+      "q": "With what weapons did Bhima fight Kichaka in the dance hall?",
+      "options": ["A mace seized from the palace armory", "A knotted cloth weighted with stones", "An iron pestle from the kitchens", "None; he wrestled and crushed him bare-handed"],
+      "answer": 3,
+      "explanation": "The fight was a bare-handed wrestling match in the dark, ending with Bhima crushing Kichaka into a ball of flesh."
+    }
+  ]
+}

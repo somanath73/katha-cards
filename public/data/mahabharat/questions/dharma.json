@@ -1,0 +1,245 @@
+{
+  "cardId": "dharma",
+  "questions": [
+    {
+      "id": "dharma-q01",
+      "difficulty": "easy",
+      "q": "Which Pandava was the son of the god Dharma himself?",
+      "options": ["Yudhishthira", "Bhima", "Arjuna", "Sahadeva"],
+      "answer": 0,
+      "explanation": "Kunti summoned the god Dharma with her mantra, and Yudhishthira was born as his son."
+    },
+    {
+      "id": "dharma-q02",
+      "difficulty": "easy",
+      "q": "What title did Yudhishthira's righteousness earn him?",
+      "options": ["Vrikodara", "Savyasachi", "Dharmaraja", "Gudakesha"],
+      "answer": 2,
+      "explanation": "Yudhishthira is called Dharmaraja, the king of dharma, for his devotion to righteousness."
+    },
+    {
+      "id": "dharma-q03",
+      "difficulty": "easy",
+      "q": "In what form did Dharma question Yudhishthira beside the deadly lake in the forest?",
+      "options": ["As an aged brahmin", "As an invisible yaksha speaking through a crane", "As a golden swan upon the water", "As a wandering minstrel"],
+      "answer": 1,
+      "explanation": "The lake's guardian was a yaksha heard first as a crane's voice, and it revealed itself as Dharma testing his son."
+    },
+    {
+      "id": "dharma-q04",
+      "difficulty": "easy",
+      "q": "In what form did Dharma walk with Yudhishthira all the way to heaven's gate?",
+      "options": ["A white bull", "An old beggar", "A riderless horse", "A devoted dog"],
+      "answer": 3,
+      "explanation": "The dog that followed the Pandavas on the final journey was Dharma in disguise, testing his son one more time."
+    },
+    {
+      "id": "dharma-q05",
+      "difficulty": "easy",
+      "q": "Which wise counselor of Hastinapura was the god Dharma born as in human form?",
+      "options": ["Sanjaya", "Kripacharya", "Vidura", "Dhaumya"],
+      "answer": 2,
+      "explanation": "Vidura, the voice of dharma at the Kuru court, was Dharma himself born under a sage's curse."
+    },
+    {
+      "id": "dharma-q06",
+      "difficulty": "easy",
+      "q": "Complete the law stated by Vidura: \"Dharma protects those who protect it, and...\"",
+      "options": ["destroys those who destroy it", "rewards those who preach it", "forgets those who forget it", "tests those who trust it"],
+      "answer": 0,
+      "explanation": "The maxim dharmo rakshati rakshitah warns that dharma destroys its destroyers just as surely as it guards its guardians."
+    },
+    {
+      "id": "dharma-q07",
+      "difficulty": "easy",
+      "q": "What does the very first word of the Bhagavad Gita call Kurukshetra?",
+      "options": ["Ranakshetra, the field of battle", "Mokshakshetra, the field of release", "Yajnakshetra, the field of sacrifice", "Dharmakshetra, the field of dharma"],
+      "answer": 3,
+      "explanation": "The Gita opens with the word dharmakshetre, naming Kurukshetra the field of dharma before any warrior is named."
+    },
+    {
+      "id": "dharma-q08",
+      "difficulty": "easy",
+      "q": "When Duryodhana asked his mother for a blessing of victory, what did Gandhari say instead?",
+      "options": ["May your brothers shield you in battle", "Where dharma is, there victory will be", "May my blindfolded eyes guard you", "Victory belongs always to the strong"],
+      "answer": 1,
+      "explanation": "Gandhari refused to wish her son victory outright, saying only that victory follows dharma."
+    },
+    {
+      "id": "dharma-q09",
+      "difficulty": "easy",
+      "q": "Yudhishthira's single half-lie during the war concerned whose reported death?",
+      "options": ["Karna's", "Drona's", "Ashwatthama's", "Bhishma's"],
+      "answer": 2,
+      "explanation": "Yudhishthira confirmed that Ashwatthama was dead, murmuring that it was an elephant, to break Drona's will."
+    },
+    {
+      "id": "dharma-q10",
+      "difficulty": "easy",
+      "q": "What befell Yudhishthira's chariot the moment he spoke his half-truth to Drona?",
+      "options": ["It sank and touched the earth for the first time", "Its horses bolted from the battlefield", "Its banner burst suddenly into flame", "Its wheels stuck fast in the bloody mud"],
+      "answer": 0,
+      "explanation": "His chariot, which had always ridden above the ground by the power of his truth, descended to the earth."
+    },
+    {
+      "id": "dharma-q11",
+      "difficulty": "medium",
+      "q": "Why was the god Dharma born on earth as Vidura, son of a serving maid?",
+      "options": ["He chose a humble birth to observe mankind", "The sage Animandavya cursed him for a disproportionate punishment", "Brahma assigned him to guide the blind king", "Shiva decreed that he atone for judging the gods"],
+      "answer": 1,
+      "explanation": "The sage Animandavya, unjustly impaled, cursed Dharma to be born of a shudra woman, and so Dharma became Vidura."
+    },
+    {
+      "id": "dharma-q12",
+      "difficulty": "medium",
+      "q": "What punishment decreed by Dharma provoked the sage Mandavya's famous curse?",
+      "options": ["Exile for a theft witnessed in silence", "Blindness for gazing at what was forbidden", "Poverty for refusing alms to a beggar", "Impalement for a trifling childhood cruelty to insects"],
+      "answer": 3,
+      "explanation": "Dharma had let Mandavya suffer impalement for piercing insects as a boy, a penalty the sage ruled grossly out of proportion."
+    },
+    {
+      "id": "dharma-q13",
+      "difficulty": "medium",
+      "q": "At the poisoned lake, what did Yudhishthira name as the greatest wonder of the world?",
+      "options": ["That beings die daily, yet the living wish to live forever", "That the sun rises without fail each day", "That men sin even though they fear the gods", "That water, soft as it is, wears away stone"],
+      "answer": 0,
+      "explanation": "His answer to the Yaksha was that men see others die every day yet believe themselves immortal."
+    },
+    {
+      "id": "dharma-q14",
+      "difficulty": "medium",
+      "q": "Granted one brother's revival by the Yaksha, whom did Yudhishthira choose, and why?",
+      "options": ["Arjuna, for the war that was still to come", "Bhima, for the strength the family would need", "Nakula, so that each of his father's wives would have a living son", "Sahadeva, for the foresight he alone possessed"],
+      "answer": 2,
+      "explanation": "He chose Madri's son Nakula over his own full brothers so that both Kunti and Madri would have a surviving son, and the impartiality delighted Dharma."
+    },
+    {
+      "id": "dharma-q15",
+      "difficulty": "medium",
+      "q": "What did Yudhishthira refuse to do at heaven's very gate?",
+      "options": ["Bow before the throne of Indra", "Forgive Duryodhana his place in heaven", "Shed his mortal body before entering", "Abandon the dog that had followed him"],
+      "answer": 3,
+      "explanation": "He declined heaven itself rather than desert a devoted creature, and the dog revealed himself as Dharma."
+    },
+    {
+      "id": "dharma-q16",
+      "difficulty": "medium",
+      "q": "What does the Bhagavad Gita teach about svadharma, one's own duty?",
+      "options": ["Any duty done with skill becomes one's own", "Better one's own dharma done imperfectly than another's done well", "Duties may be exchanged when fortunes change", "The truly wise stand beyond all duty"],
+      "answer": 1,
+      "explanation": "Krishna teaches that one's own dharma, however flawed in execution, is better than another's dharma performed perfectly."
+    },
+    {
+      "id": "dharma-q17",
+      "difficulty": "medium",
+      "q": "Who delivered the great discourses on dharma and kingship while lying on a bed of arrows?",
+      "options": ["Bhishma, awaiting the sun's northern turn", "Drona, before laying down his weapons", "Vidura, at the door of his forest hut", "Vyasa, at the close of his epic"],
+      "answer": 0,
+      "explanation": "From his bed of arrows Bhishma taught Yudhishthira the dharma of kings in the Shanti and Anushasana Parvas."
+    },
+    {
+      "id": "dharma-q18",
+      "difficulty": "medium",
+      "q": "What question of dharma did Draupadi hurl at the assembly in the dice hall?",
+      "options": ["Whether dice could outweigh the duty of kings", "Whether elders who watch evil share in its guilt", "Whether a man who had lost himself could then stake his wife", "Whether a queen could be staked without her consent"],
+      "answer": 2,
+      "explanation": "Draupadi asked whether Yudhishthira, having first lost his own freedom, had any right to wager her, and no elder could answer."
+    },
+    {
+      "id": "dharma-q19",
+      "difficulty": "medium",
+      "q": "How did Bhishma answer Draupadi's question in the gambling hall?",
+      "options": ["He ruled the stake unlawful but was overruled", "He confessed that dharma is subtle and he could not resolve it", "He declared that a wife can never be property", "He kept silent until Krishna should arrive"],
+      "answer": 1,
+      "explanation": "Bhishma admitted that the course of dharma is subtle (sukshma) and that he could not untangle her question."
+    },
+    {
+      "id": "dharma-q20",
+      "difficulty": "medium",
+      "q": "What does the epic's recurring refrain \"Yato dharmas tato jayah\" declare?",
+      "options": ["Dharma yields to fate in the end", "Victory crowns only the patient", "Dharma is the king above all kings", "Where dharma is, there is victory"],
+      "answer": 3,
+      "explanation": "The refrain, spoken among others by Gandhari and Sanjaya, promises that victory stands wherever dharma stands."
+    },
+    {
+      "id": "dharma-q21",
+      "difficulty": "medium",
+      "q": "After refusing heaven without the dog, what final ordeal did Yudhishthira still face?",
+      "options": ["A duel against his own shadow self", "A second exile among the stars", "An illusion of hell where his brothers and Draupadi cried out", "A demand to renounce all memory of the war"],
+      "answer": 2,
+      "explanation": "Shown his loved ones suffering in a false hell, Yudhishthira chose to stay with them, and the illusion dissolved."
+    },
+    {
+      "id": "dharma-q22",
+      "difficulty": "medium",
+      "q": "What does the celebrated saying \"Ahimsa paramo dharmah\" proclaim?",
+      "options": ["Non-violence is the highest dharma", "Truth is the highest dharma", "Sacrifice is the highest dharma", "Obedience is the highest dharma"],
+      "answer": 0,
+      "explanation": "The Mahabharata repeatedly declares non-violence the highest dharma, even as it narrates a war."
+    },
+    {
+      "id": "dharma-q23",
+      "difficulty": "hard",
+      "q": "In the Vana Parva, what was the occupation of the dharma-teacher who humbled the proud brahmin Kaushika?",
+      "options": ["A potter in Varanasi", "A king's barber in Kampilya", "A washerman on the Ganga", "A meat-seller in Mithila"],
+      "answer": 3,
+      "explanation": "The Dharmavyadha, a humble butcher of Mithila, taught Kaushika that dharma lies in faithfully doing one's own duty."
+    },
+    {
+      "id": "dharma-q24",
+      "difficulty": "hard",
+      "q": "At Yudhishthira's Ashvamedha sacrifice, what did the half-golden mongoose declare?",
+      "options": ["That the horse had been unlawfully seized", "That the rite was worth less than a poor brahmin's gift of barley flour", "That dharma had left the earth along with Krishna", "That no sacrifice could cleanse the slaughter of the war"],
+      "answer": 1,
+      "explanation": "Half its body turned gold at a starving brahmin family's gift of flour, and the emperor's vast sacrifice could not gild the rest."
+    },
+    {
+      "id": "dharma-q25",
+      "difficulty": "hard",
+      "q": "Asked by the Yaksha what the true path of dharma is, what did Yudhishthira reply?",
+      "options": ["The path is laid down in the Vedas alone", "The path is whatever the heart finds blameless", "The path is the one trodden by the great", "The path is unbroken service to the gods"],
+      "answer": 2,
+      "explanation": "Since scriptures differ and reasoning wavers, he answered that the way is where the great ones have walked (mahajano yena gatah sa panthah)."
+    },
+    {
+      "id": "dharma-q26",
+      "difficulty": "hard",
+      "q": "What is \"apad-dharma,\" expounded by Bhishma in the Shanti Parva?",
+      "options": ["The dharma permitted in times of distress and calamity", "The dharma owed by servants to their masters", "The dharma of ascetics who renounce the world", "The secret dharma known only to crowned kings"],
+      "answer": 0,
+      "explanation": "Apad-dharma is the relaxed code allowed in emergencies, when survival forces departures from ordinary rules."
+    },
+    {
+      "id": "dharma-q27",
+      "difficulty": "hard",
+      "q": "Why was Yudhishthira made to glimpse hell before his final place in heaven?",
+      "options": ["For permitting the unfair blow that felled Duryodhana", "As a token expiation for his half-lie about Ashwatthama", "For abandoning his brothers on the mountain path", "For gambling away his wife and his kingdom"],
+      "answer": 1,
+      "explanation": "The gods explained that the brief vision of hell was the price of his deception of Drona, his one stain on truth."
+    },
+    {
+      "id": "dharma-q28",
+      "difficulty": "hard",
+      "q": "As the wheel-stuck Karna pleaded for the dharma of fair combat, who recited his past breaches of dharma?",
+      "options": ["Arjuna, lowering his bow in doubt", "Shalya, from Karna's own chariot", "Bhima, roaring from across the field", "Krishna, from Arjuna's chariot"],
+      "answer": 3,
+      "explanation": "Krishna asked where Karna's dharma had been at the dice game, the disrobing, and Abhimanyu's killing, and bade Arjuna shoot."
+    },
+    {
+      "id": "dharma-q29",
+      "difficulty": "hard",
+      "q": "To whom did Vidura deliver the long counsel on dharma known as the Vidura Niti?",
+      "options": ["Dhritarashtra, sleepless before the war", "Yudhishthira, during the forest exile", "Duryodhana, on the eve of the dice game", "Sanjaya, before his embassy to the Pandavas"],
+      "answer": 0,
+      "explanation": "The Vidura Niti is Vidura's night-long counsel to the anxious, sleepless Dhritarashtra in the Udyoga Parva."
+    },
+    {
+      "id": "dharma-q30",
+      "difficulty": "hard",
+      "q": "How many times, by his own account, did the god Dharma formally test his son Yudhishthira?",
+      "options": ["Once", "Twice", "Three times", "Seven times"],
+      "answer": 2,
+      "explanation": "Dharma names three tests: as the Yaksha at the Dvaita lake, as the dog on the final journey, and in the closing illusion of hell."
+    }
+  ]
+}

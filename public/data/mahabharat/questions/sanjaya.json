@@ -1,0 +1,245 @@
+{
+  "cardId": "sanjaya",
+  "questions": [
+    {
+      "id": "sanjaya-q01",
+      "difficulty": "easy",
+      "q": "Whom did Sanjaya serve as charioteer, counselor, and wartime narrator?",
+      "options": ["Duryodhana", "Dhritarashtra", "Yudhishthira", "Bhishma"],
+      "answer": 1,
+      "explanation": "Sanjaya was the trusted charioteer and advisor of the blind king Dhritarashtra at Hastinapura."
+    },
+    {
+      "id": "sanjaya-q02",
+      "difficulty": "easy",
+      "q": "Which sage granted Sanjaya the divine sight to witness the Kurukshetra war from afar?",
+      "options": ["Narada", "Durvasa", "Vyasa", "Parashurama"],
+      "answer": 2,
+      "explanation": "Vyasa bestowed divine vision on Sanjaya so that the blind king could receive a full account of the war."
+    },
+    {
+      "id": "sanjaya-q03",
+      "difficulty": "easy",
+      "q": "What did Sanjaya's celebrated gift allow him to do during the war?",
+      "options": ["See every event on the distant battlefield", "Fly above the armies on a celestial chariot", "Become invisible among the marching soldiers", "Speak with the spirits of the newly slain"],
+      "answer": 0,
+      "explanation": "His divine sight let him behold everything that happened at Kurukshetra while he sat far away in the palace."
+    },
+    {
+      "id": "sanjaya-q04",
+      "difficulty": "easy",
+      "q": "To whom did Sanjaya recite the Bhagavad Gita as Krishna spoke it on the field?",
+      "options": ["Gandhari", "Vidura", "Yuyutsu", "Dhritarashtra"],
+      "answer": 3,
+      "explanation": "The Gita reaches the world framed as Sanjaya's report of Krishna's words to the blind king Dhritarashtra."
+    },
+    {
+      "id": "sanjaya-q05",
+      "difficulty": "easy",
+      "q": "Why could Dhritarashtra not watch the war himself, making Sanjaya his eyes?",
+      "options": ["He was too frail to leave the palace", "He had been blind from birth", "He was bound by a vow to stay indoors", "He was held captive by his own sons"],
+      "answer": 1,
+      "explanation": "Dhritarashtra was born blind, so Sanjaya's divine sight became the king's only window onto the battle."
+    },
+    {
+      "id": "sanjaya-q06",
+      "difficulty": "easy",
+      "q": "Through Sanjaya's narration, the world received which famous teaching spoken before the battle?",
+      "options": ["The Bhagavad Gita", "The Vidura Niti", "The Yaksha Prashna", "The Anu Gita"],
+      "answer": 0,
+      "explanation": "Sanjaya relayed Krishna's discourse to Arjuna word for word, and that report is the Bhagavad Gita."
+    },
+    {
+      "id": "sanjaya-q07",
+      "difficulty": "easy",
+      "q": "To which class or profession did Sanjaya belong by birth?",
+      "options": ["The brahmin priesthood", "The kshatriya warrior order", "The suta, charioteer-bard class", "The vaishya merchant guilds"],
+      "answer": 2,
+      "explanation": "Like Karna's foster father Adhiratha, Sanjaya was a suta, the class of charioteers and royal bards."
+    },
+    {
+      "id": "sanjaya-q08",
+      "difficulty": "easy",
+      "q": "At what moment did Sanjaya's divine vision come to an end?",
+      "options": ["When Bhishma fell on the tenth day", "When Karna died on the seventeenth day", "When the night raid burned the camp", "When Duryodhana fell in the mace duel"],
+      "answer": 3,
+      "explanation": "The vision Vyasa gave for the war ended the moment Duryodhana was struck down, its purpose complete."
+    },
+    {
+      "id": "sanjaya-q09",
+      "difficulty": "easy",
+      "q": "What did Sanjaya do when Dhritarashtra finally renounced the palace years after the war?",
+      "options": ["He followed the old king into forest retreat", "He stayed on to advise King Yudhishthira", "He returned to his ancestral village", "He became a priest at Kurukshetra's shrines"],
+      "answer": 0,
+      "explanation": "Faithful to the end, Sanjaya accompanied Dhritarashtra into the forest hermitage in his final years."
+    },
+    {
+      "id": "sanjaya-q10",
+      "difficulty": "easy",
+      "q": "For what quality was Sanjaya's counsel to Dhritarashtra best known?",
+      "options": ["Flattery that soothed the anxious king", "Blunt honesty that spared no one's feelings", "Riddles that concealed his true meaning", "Careful silence on all family matters"],
+      "answer": 1,
+      "explanation": "Sanjaya repeatedly told the king hard truths, rebuking him for the ruin his own weakness invited."
+    },
+    {
+      "id": "sanjaya-q11",
+      "difficulty": "medium",
+      "q": "Who was Sanjaya's father?",
+      "options": ["Gavalgana", "Adhiratha", "Bharadwaja", "Sumantra"],
+      "answer": 0,
+      "explanation": "Sanjaya was the son of the suta Gavalgana, a respected member of Hastinapura's court."
+    },
+    {
+      "id": "sanjaya-q12",
+      "difficulty": "medium",
+      "q": "Before giving Sanjaya the divine eye, Vyasa first offered it to whom?",
+      "options": ["Vidura, who declined out of humility", "Gandhari, who would not lift her blindfold", "Dhritarashtra, who refused to watch his kin die", "Yuyutsu, who had crossed to the Pandavas"],
+      "answer": 2,
+      "explanation": "Vyasa offered sight to Dhritarashtra himself, but the king could not bear to see the slaughter of his family."
+    },
+    {
+      "id": "sanjaya-q13",
+      "difficulty": "medium",
+      "q": "On what mission was Sanjaya sent to the Pandavas at Upaplavya before the war?",
+      "options": ["To declare war formally on Duryodhana's behalf", "To plead for peace without offering back their kingdom", "To invite Yudhishthira to a second game of dice", "To secretly count the strength of their armies"],
+      "answer": 1,
+      "explanation": "Dhritarashtra sent Sanjaya as envoy to beg for peace while pointedly offering no land in return."
+    },
+    {
+      "id": "sanjaya-q14",
+      "difficulty": "medium",
+      "q": "During the final rout of the war, which Pandava-side warrior captured Sanjaya?",
+      "options": ["Bhima", "Dhrishtadyumna", "Arjuna", "Satyaki"],
+      "answer": 3,
+      "explanation": "Satyaki seized Sanjaya sword in hand, and only Vyasa's timely intervention secured the narrator's release."
+    },
+    {
+      "id": "sanjaya-q15",
+      "difficulty": "medium",
+      "q": "Beyond seeing distant events, what further power did Sanjaya's divine sight include?",
+      "options": ["Knowing the unspoken thoughts of the warriors", "Foreseeing the war's outcome in his dreams", "Hearing the councils of the gods in heaven", "Reading the past lives of every fighter"],
+      "answer": 0,
+      "explanation": "Vyasa promised that nothing open or secret, by day or night, even thought itself, would escape Sanjaya's knowledge."
+    },
+    {
+      "id": "sanjaya-q16",
+      "difficulty": "medium",
+      "q": "What news did Sanjaya rush to deliver in person, opening his great war narration?",
+      "options": ["The death of Drona on the fifteenth day", "The slaying of Karna by Arjuna", "The fall of Bhishma on the tenth day", "The breaking of Duryodhana's thighs"],
+      "answer": 2,
+      "explanation": "Sanjaya came to Dhritarashtra announcing that Bhishma had fallen, then recounted the ten days that led there."
+    },
+    {
+      "id": "sanjaya-q17",
+      "difficulty": "medium",
+      "q": "In the Bhagavad Gita's very first verse, what does Dhritarashtra ask Sanjaya?",
+      "options": ["Whether his sons can still win the war", "What his sons and the Pandavas did, assembled on the holy field", "Whether Krishna has taken up weapons at last", "How many days the great battle will rage"],
+      "answer": 1,
+      "explanation": "The Gita opens with the king asking what his people and the Pandavas did when gathered at Dharmakshetra Kurukshetra."
+    },
+    {
+      "id": "sanjaya-q18",
+      "difficulty": "medium",
+      "q": "Which overwhelming divine revelation did Sanjaya witness along with Arjuna?",
+      "options": ["The burning of the Khandava forest", "Shiva's appearance as a mountain hunter", "The Yaksha's riddles at the poisoned lake", "Krishna's universal form, the Vishvarupa"],
+      "answer": 3,
+      "explanation": "At the Gita's close Sanjaya marvels that by Vyasa's grace he too beheld Krishna's cosmic form and trembles recalling it."
+    },
+    {
+      "id": "sanjaya-q19",
+      "difficulty": "medium",
+      "q": "Years after the war, which two queens departed for the forest retreat alongside Dhritarashtra and Sanjaya?",
+      "options": ["Gandhari and Kunti", "Draupadi and Subhadra", "Uttara and Sudeshna", "Ambika and Ambalika"],
+      "answer": 0,
+      "explanation": "Gandhari and Kunti joined the old king's retreat, with Vidura and Sanjaya also accompanying the party."
+    },
+    {
+      "id": "sanjaya-q20",
+      "difficulty": "medium",
+      "q": "How did Sanjaya survive the forest fire that consumed Dhritarashtra and the queens?",
+      "options": ["He carried the king to a river but arrived too late", "He had returned to Hastinapura earlier that month", "The old king commanded him to save himself and depart", "Vyasa shielded him within a circle of holy water"],
+      "answer": 2,
+      "explanation": "Dhritarashtra, choosing to accept the flames, ordered the loyal Sanjaya to leave them and live."
+    },
+    {
+      "id": "sanjaya-q21",
+      "difficulty": "medium",
+      "q": "In the Gita's famous closing verse, Sanjaya declares that fortune and victory abide wherever what is found?",
+      "options": ["The blessings of Vyasa and the assembled gods", "Krishna the lord of yoga together with Arjuna the archer", "A king who heeds the words of honest counselors", "The field of dharma and its five sacred lakes"],
+      "answer": 1,
+      "explanation": "Sanjaya's last words promise prosperity, victory, and firm justice wherever Krishna and the bowman Partha stand together."
+    },
+    {
+      "id": "sanjaya-q22",
+      "difficulty": "medium",
+      "q": "When Dhritarashtra lamented the coming ruin of his house, whom did Sanjaya squarely blame?",
+      "options": ["Shakuni's loaded dice and nothing else", "Blind fate, which no mortal king can resist", "Krishna's open partiality for the Pandavas", "The king's own indulgence of Duryodhana"],
+      "answer": 3,
+      "explanation": "Sanjaya bluntly reminded the king that the catastrophe sprang from his refusal to restrain his own son."
+    },
+    {
+      "id": "sanjaya-q23",
+      "difficulty": "hard",
+      "q": "Sanjaya's eyewitness narration of the fighting spans which stretch of the epic?",
+      "options": ["The four battle books, Bhishma Parva through Shalya Parva", "Only the Bhishma Parva's first ten days", "The entire epic from the Adi Parva onward", "The Sauptika Parva's night raid alone"],
+      "answer": 0,
+      "explanation": "With the divine eye Sanjaya narrates the four war books, from Bhishma to Shalya Parva, losing the vision when Duryodhana falls."
+    },
+    {
+      "id": "sanjaya-q24",
+      "difficulty": "hard",
+      "q": "Sanjaya returned from his embassy at evening and deferred his full report until morning; what famous discourse filled the king's sleepless night?",
+      "options": ["The Sanatsujatiya recited by Sanjaya himself", "The second chapter of the Bhagavad Gita", "The Vidura Niti, Vidura's counsel on statecraft", "The Anu Gita carried by a royal messenger"],
+      "answer": 2,
+      "explanation": "The anxious Dhritarashtra summoned Vidura, whose night-long teachings became the Vidura Niti, followed by Sanatsujata's discourse."
+    },
+    {
+      "id": "sanjaya-q25",
+      "difficulty": "hard",
+      "q": "During the pre-war counsels, what secret truth did Sanjaya press upon Dhritarashtra?",
+      "options": ["That Karna was Kunti's firstborn son", "That Krishna was the supreme Narayana in human form", "That Bhishma would never fight against Shikhandi", "That Shakuni's dice obeyed his hidden will"],
+      "answer": 1,
+      "explanation": "In the Udyoga Parva Sanjaya revealed to the king that Krishna was Vasudeva-Narayana himself, urging him to choose peace."
+    },
+    {
+      "id": "sanjaya-q26",
+      "difficulty": "hard",
+      "q": "What did Dhritarashtra's peace message, carried by Sanjaya, conspicuously fail to offer?",
+      "options": ["A marriage alliance binding the two houses", "A public apology for the game of dice", "Safe passage for Krishna's coming embassy", "The return of the Pandavas' rightful kingdom"],
+      "answer": 3,
+      "explanation": "The message begged the Pandavas for peace yet offered no land back, which Yudhishthira and Krishna both exposed."
+    },
+    {
+      "id": "sanjaya-q27",
+      "difficulty": "hard",
+      "q": "After the forest fire claimed the old king and queens, where did Sanjaya finally go?",
+      "options": ["Back to serve at Hastinapura's court", "To the Himalayas as a wandering ascetic", "To Dwarka to live among the Yadavas", "To Kurukshetra to tend the funeral shrines"],
+      "answer": 1,
+      "explanation": "The Ashramavasika Parva relates that Sanjaya, released by his king, set out for the Himalayas and was seen no more."
+    },
+    {
+      "id": "sanjaya-q28",
+      "difficulty": "hard",
+      "q": "For how many years after the war did Dhritarashtra remain in Hastinapura, with Sanjaya in attendance, before retiring to the forest?",
+      "options": ["Five", "Ten", "Fifteen", "Twenty"],
+      "answer": 2,
+      "explanation": "Dhritarashtra lived fifteen years under Yudhishthira's respectful care before grief and Vidura's counsel drew him to the forest."
+    },
+    {
+      "id": "sanjaya-q29",
+      "difficulty": "hard",
+      "q": "Within the epic's frame story, who retold Sanjaya's battlefield reports at King Janamejaya's snake sacrifice?",
+      "options": ["Vaishampayana", "Ugrashrava Sauti", "Vyasa himself", "Astika"],
+      "answer": 0,
+      "explanation": "Vyasa's disciple Vaishampayana recited the whole epic, including Sanjaya's war narration, to Janamejaya at the sacrifice."
+    },
+    {
+      "id": "sanjaya-q30",
+      "difficulty": "hard",
+      "q": "What does the name Sanjaya literally mean?",
+      "options": ["He who sees from afar", "Servant of the king", "Voice of the truth", "Complete victory"],
+      "answer": 3,
+      "explanation": "Sanjaya means completely victorious, a fitting name for the man who narrated both victory and ruin."
+    }
+  ]
+}

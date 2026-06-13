@@ -1,0 +1,245 @@
+{
+  "cardId": "duryodhana",
+  "questions": [
+    {
+      "id": "duryodhana-q01",
+      "difficulty": "easy",
+      "q": "Who were Duryodhana's parents?",
+      "options": ["Pandu and Kunti", "Shantanu and Satyavati", "Dhritarashtra and Gandhari", "Vichitravirya and Ambika"],
+      "answer": 2,
+      "explanation": "Duryodhana was the firstborn of the blind king Dhritarashtra and the blindfolded queen Gandhari."
+    },
+    {
+      "id": "duryodhana-q02",
+      "difficulty": "easy",
+      "q": "What was Duryodhana's position among the hundred Kauravas?",
+      "options": ["The eldest", "The second", "The middle", "The youngest"],
+      "answer": 0,
+      "explanation": "Duryodhana was the eldest of Gandhari's hundred sons and led them all."
+    },
+    {
+      "id": "duryodhana-q03",
+      "difficulty": "easy",
+      "q": "Which weapon was Duryodhana's particular specialty?",
+      "options": ["The bow", "The sword", "The spear", "The mace"],
+      "answer": 3,
+      "explanation": "Duryodhana was counted among the greatest mace fighters of his age."
+    },
+    {
+      "id": "duryodhana-q04",
+      "difficulty": "easy",
+      "q": "Who trained Duryodhana in the art of mace fighting?",
+      "options": ["Drona", "Balarama", "Kripa", "Bhishma"],
+      "answer": 1,
+      "explanation": "Balarama, Krishna's elder brother, taught the mace to both Duryodhana and Bhima, and prized Duryodhana as his finest student."
+    },
+    {
+      "id": "duryodhana-q05",
+      "difficulty": "easy",
+      "q": "Whom did Duryodhana crown king of Anga at the tournament of princes?",
+      "options": ["Shakuni", "Karna", "Ashwatthama", "Jayadratha"],
+      "answer": 1,
+      "explanation": "By crowning the mocked charioteer's son a king on the spot, Duryodhana won Karna's lifelong loyalty."
+    },
+    {
+      "id": "duryodhana-q06",
+      "difficulty": "easy",
+      "q": "Which uncle guided Duryodhana's schemes against the Pandavas?",
+      "options": ["Vidura", "Shalya", "Shakuni", "Kripa"],
+      "answer": 2,
+      "explanation": "Shakuni, his mother's brother, whispered in Duryodhana's ear and rolled the dice for him."
+    },
+    {
+      "id": "duryodhana-q07",
+      "difficulty": "easy",
+      "q": "How much land did Duryodhana finally refuse to grant the Pandavas?",
+      "options": ["Even land enough for a needle's point", "Half the kingdom they once ruled", "Anything beyond five small villages", "All territory east of the Ganga"],
+      "answer": 0,
+      "explanation": "He declared he would not spare even as much land as the point of a needle, making war certain."
+    },
+    {
+      "id": "duryodhana-q08",
+      "difficulty": "easy",
+      "q": "Who killed Duryodhana at the end of the great war?",
+      "options": ["Arjuna", "Yudhishthira", "Sahadeva", "Bhima"],
+      "answer": 3,
+      "explanation": "Bhima brought him down in the final mace duel, fulfilling his old vow."
+    },
+    {
+      "id": "duryodhana-q09",
+      "difficulty": "easy",
+      "q": "Which fatal blow brought Duryodhana down in his last duel?",
+      "options": ["An arrow through the throat", "A sword thrust to the heart", "A spear cast into his chest", "A mace strike that smashed his thighs"],
+      "answer": 3,
+      "explanation": "Bhima's mace shattered Duryodhana's thighs, the one mortal weakness in his body."
+    },
+    {
+      "id": "duryodhana-q10",
+      "difficulty": "easy",
+      "q": "By what name did those who loved Duryodhana call him?",
+      "options": ["Sudarshana", "Suyodhana", "Sushena", "Subahu"],
+      "answer": 1,
+      "explanation": "His well-wishers called him Suyodhana, the fine fighter, softening the name's harsher meaning."
+    },
+    {
+      "id": "duryodhana-q11",
+      "difficulty": "medium",
+      "q": "What omen accompanied Duryodhana's birth?",
+      "options": ["A comet blazed over Hastinapura", "The palace wells turned red", "Jackals howled across the city", "An eclipse darkened the noon sun"],
+      "answer": 2,
+      "explanation": "Jackals howled and asses brayed at his birth, and the wise read doom in the omens."
+    },
+    {
+      "id": "duryodhana-q12",
+      "difficulty": "medium",
+      "q": "Who counselled Dhritarashtra to abandon the infant Duryodhana?",
+      "options": ["Vidura", "Bhishma", "Sanjaya", "Drona"],
+      "answer": 0,
+      "explanation": "Vidura and the wise warned that the child would destroy the line, but the king's love refused."
+    },
+    {
+      "id": "duryodhana-q13",
+      "difficulty": "medium",
+      "q": "What did young Duryodhana do to Bhima at Pramanakoti?",
+      "options": ["Poisoned his food and threw him into the Ganga", "Locked him inside a burning storehouse", "Loosed venomous serpents into his bed", "Pushed him from the palace ramparts"],
+      "answer": 0,
+      "explanation": "Bhima survived the poison and the river, returning from the naga realms stronger than before."
+    },
+    {
+      "id": "duryodhana-q14",
+      "difficulty": "medium",
+      "q": "Which agent built Duryodhana's lac palace trap at Varanavata?",
+      "options": ["Sanjaya", "Kanika", "Charvaka", "Purochana"],
+      "answer": 3,
+      "explanation": "Purochana raised the flammable house of lac and ghee, and burned in it himself."
+    },
+    {
+      "id": "duryodhana-q15",
+      "difficulty": "medium",
+      "q": "What humiliation befell Duryodhana in Maya's palace at Indraprastha?",
+      "options": ["He was barred at the gates by guards", "He mistook a pool for solid floor and fell in", "His crown was knocked off by a low archway", "He lost his way and missed the royal feast"],
+      "answer": 1,
+      "explanation": "Deceived by the hall of illusions, he fell into water he took for crystal, and the laughter that followed fed his envy."
+    },
+    {
+      "id": "duryodhana-q16",
+      "difficulty": "medium",
+      "q": "Who took Duryodhana captive during the Ghosha Yatra cattle expedition?",
+      "options": ["The rakshasa Hidimba", "King Virata's marshals", "The gandharva Chitrasena", "The naga Takshaka"],
+      "answer": 2,
+      "explanation": "The gandharva king Chitrasena captured him, and the exiled Pandavas freed him on Yudhishthira's orders."
+    },
+    {
+      "id": "duryodhana-q17",
+      "difficulty": "medium",
+      "q": "What did Duryodhana resolve to do after the Pandavas rescued him from the gandharvas?",
+      "options": ["Abdicate the throne to Dushasana", "Renounce arms and turn ascetic", "Starve himself to death in shame", "March at once on Indraprastha"],
+      "answer": 2,
+      "explanation": "Humiliated by owing his life to his enemies, he vowed to fast unto death until his allies talked him out of it."
+    },
+    {
+      "id": "duryodhana-q18",
+      "difficulty": "medium",
+      "q": "Offered a choice by Krishna before the war, what did Duryodhana pick?",
+      "options": ["Krishna alone and unarmed", "Krishna's vast Narayani army", "Balarama as his commander", "The Yadava treasury and fleet"],
+      "answer": 1,
+      "explanation": "Duryodhana gladly took the Narayani Sena, leaving the unarmed Krishna to Arjuna."
+    },
+    {
+      "id": "duryodhana-q19",
+      "difficulty": "medium",
+      "q": "What did Duryodhana attempt during Krishna's peace embassy?",
+      "options": ["To seize and imprison the envoy", "To bribe him with half the kingdom", "To challenge him to a dice game", "To poison him at the welcome feast"],
+      "answer": 0,
+      "explanation": "When Duryodhana moved to capture the ambassador, Krishna revealed his cosmic form to the court."
+    },
+    {
+      "id": "duryodhana-q20",
+      "difficulty": "medium",
+      "q": "Which son of Duryodhana was killed by Abhimanyu at Kurukshetra?",
+      "options": ["Durmukha", "Chitrasena", "Vivinshati", "Lakshmana"],
+      "answer": 3,
+      "explanation": "Abhimanyu slew Duryodhana's son Lakshmana on the thirteenth day, sealing the order to trap the boy."
+    },
+    {
+      "id": "duryodhana-q21",
+      "difficulty": "medium",
+      "q": "Where did Duryodhana hide after his armies were destroyed?",
+      "options": ["In a mountain cave at Himavat", "Inside the Khandava forest ruins", "Within Hastinapura's iron vaults", "Beneath the waters of Lake Dvaipayana"],
+      "answer": 3,
+      "explanation": "Using his power over water, he solidified the lake around himself to cool his burning body."
+    },
+    {
+      "id": "duryodhana-q22",
+      "difficulty": "medium",
+      "q": "Who raged at Bhima's below-the-belt blow in Duryodhana's final duel?",
+      "options": ["Balarama", "Yudhishthira", "Kripa", "Sanjaya"],
+      "answer": 0,
+      "explanation": "Balarama, guru of both fighters, raised his plough in fury until Krishna calmed him."
+    },
+    {
+      "id": "duryodhana-q23",
+      "difficulty": "hard",
+      "q": "Why were Duryodhana's thighs vulnerable to Bhima despite Gandhari's gaze?",
+      "options": ["Her gaze weakened after years of blindfolding", "A rishi's curse rested upon his thighs", "He had covered his loins before facing her", "Bhima's mace bore a divine blessing"],
+      "answer": 2,
+      "explanation": "In the widely told episode, Krishna shamed him into wearing a loincloth, so the gaze never touched his thighs."
+    },
+    {
+      "id": "duryodhana-q24",
+      "difficulty": "hard",
+      "q": "Whom did Duryodhana appoint as his fourth army commander?",
+      "options": ["Kripa", "Shalya", "Ashwatthama", "Kritavarma"],
+      "answer": 1,
+      "explanation": "After Bhishma, Drona, and Karna had fallen, Shalya led the Kaurava host on the eighteenth morning."
+    },
+    {
+      "id": "duryodhana-q25",
+      "difficulty": "hard",
+      "q": "How many akshauhinis fought under Duryodhana's banner at Kurukshetra?",
+      "options": ["Seven", "Eleven", "Nine", "Thirteen"],
+      "answer": 1,
+      "explanation": "Duryodhana fielded eleven akshauhinis against the Pandavas' seven."
+    },
+    {
+      "id": "duryodhana-q26",
+      "difficulty": "hard",
+      "q": "Where was Duryodhana's final mace duel with Bhima fought?",
+      "options": ["On the banks of the Ganga at Hastinapura", "At the gates of Indraprastha", "On the dueling grounds of Dwarka", "At holy Samantapanchaka near Kurukshetra"],
+      "answer": 3,
+      "explanation": "The duel took place at sacred Samantapanchaka, which let the fallen prince claim a blessed death."
+    },
+    {
+      "id": "duryodhana-q27",
+      "difficulty": "hard",
+      "q": "What signal reminded Bhima to strike Duryodhana on the thighs?",
+      "options": ["Krishna slapped his own thigh", "Arjuna twanged the Gandiva twice", "Sahadeva pointed to the setting sun", "Yudhishthira lowered his royal banner"],
+      "answer": 0,
+      "explanation": "The thigh-slap signal is the widely told version; in the Shalya Parva it is Arjuna who gives it at Krishna's hint."
+    },
+    {
+      "id": "duryodhana-q28",
+      "difficulty": "hard",
+      "q": "Whom did the dying Duryodhana anoint as commander for one last strike?",
+      "options": ["Kripa", "Kritavarma", "Ashwatthama", "Shakuni"],
+      "answer": 2,
+      "explanation": "Ashwatthama, named his final commander, led the night raid on the sleeping Pandava camp."
+    },
+    {
+      "id": "duryodhana-q29",
+      "difficulty": "hard",
+      "q": "Where does Yudhishthira find Duryodhana when he reaches the afterlife?",
+      "options": ["Enthroned in heaven among the gods", "Suffering in the darkest hell", "Reborn as a beggar on earth", "Wandering as a restless ghost"],
+      "answer": 0,
+      "explanation": "Having died a kshatriya's death on holy ground, Duryodhana sits radiant in heaven, to Yudhishthira's dismay."
+    },
+    {
+      "id": "duryodhana-q30",
+      "difficulty": "hard",
+      "q": "Which grand sacrifice did Duryodhana perform while the Pandavas were in exile?",
+      "options": ["The Rajasuya consecration", "The Ashvamedha horse rite", "The Vaishnava sacrifice", "The Sarpa Satra snake rite"],
+      "answer": 2,
+      "explanation": "Told the Rajasuya was impossible while Yudhishthira lived, Duryodhana held the Vaishnava yajna instead."
+    }
+  ]
+}

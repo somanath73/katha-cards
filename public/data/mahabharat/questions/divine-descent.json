@@ -1,0 +1,395 @@
+{
+  "cardId": "divine-descent",
+  "questions": [
+    {
+      "id": "divine-descent-q01",
+      "difficulty": "easy",
+      "q": "What was the purpose of the Amsavatarana, the divine descent described in the epic?",
+      "options": [
+        "To reward the gods with earthly pleasures",
+        "To relieve the Earth of the burden of demonic kings",
+        "To test the devotion of human sages",
+        "To restore the Vedas lost in a great flood"
+      ],
+      "answer": 1,
+      "explanation": "Oppressed by the weight of asuras born as arrogant kings, the Earth begged for relief, and the gods descended in portions to lighten her burden."
+    },
+    {
+      "id": "divine-descent-q02",
+      "difficulty": "easy",
+      "q": "Krishna is the incarnation of which god?",
+      "options": [
+        "Brahma, the creator",
+        "Shiva, the destroyer",
+        "Vishnu, the preserver",
+        "Indra, the rain-king"
+      ],
+      "answer": 2,
+      "explanation": "Krishna is Vishnu, also called Narayana, born among the Yadavas to relieve the Earth and guide the great war."
+    },
+    {
+      "id": "divine-descent-q03",
+      "difficulty": "easy",
+      "q": "Draupadi is described as the incarnation of which goddess?",
+      "options": [
+        "Saraswati, goddess of learning",
+        "Parvati, consort of Shiva",
+        "Ganga, the river goddess",
+        "Shri, the goddess of fortune"
+      ],
+      "answer": 3,
+      "explanation": "The fire-born Draupadi was a portion of Shri, the goddess of prosperity, destined to be the wife of the five Pandavas."
+    },
+    {
+      "id": "divine-descent-q04",
+      "difficulty": "easy",
+      "q": "Which god fathered Yudhishthira?",
+      "options": [
+        "Dharma, lord of righteousness",
+        "Vayu, the wind god",
+        "Indra, king of the gods",
+        "Surya, the sun god"
+      ],
+      "answer": 0,
+      "explanation": "Kunti summoned Dharma with her mantra, and the god of righteousness fathered the truthful Yudhishthira."
+    },
+    {
+      "id": "divine-descent-q05",
+      "difficulty": "easy",
+      "q": "Bhima was the son of which god?",
+      "options": [
+        "Agni, the fire god",
+        "Varuna, lord of waters",
+        "Vayu, the wind god",
+        "Soma, the moon god"
+      ],
+      "answer": 2,
+      "explanation": "Bhima was fathered by Vayu, the wind god, which explains his immense strength and storm-like temper."
+    },
+    {
+      "id": "divine-descent-q06",
+      "difficulty": "easy",
+      "q": "Arjuna was the son of which god?",
+      "options": [
+        "Surya, the sun god",
+        "Indra, king of the gods",
+        "Yama, lord of death",
+        "Kubera, lord of wealth"
+      ],
+      "answer": 1,
+      "explanation": "Arjuna was born of Indra, king of the gods, and later visited his father's heaven to gather celestial weapons."
+    },
+    {
+      "id": "divine-descent-q07",
+      "difficulty": "easy",
+      "q": "Which divine pair fathered the twins Nakula and Sahadeva?",
+      "options": [
+        "The Ashvins, the celestial physicians",
+        "The Maruts, the storm gods",
+        "The Adityas, the sons of Aditi",
+        "The Rudras, the attendants of Shiva"
+      ],
+      "answer": 0,
+      "explanation": "Madri used Kunti's mantra to summon the twin Ashvins, who fathered the handsome twins Nakula and Sahadeva."
+    },
+    {
+      "id": "divine-descent-q08",
+      "difficulty": "easy",
+      "q": "Karna was born with a portion of which god?",
+      "options": [
+        "Indra, the thunder-wielder",
+        "Agni, the fire god",
+        "Chandra, the moon god",
+        "Surya, the sun god"
+      ],
+      "answer": 3,
+      "explanation": "Karna was the son of Surya, born with golden armor and earrings that marked his solar origin."
+    },
+    {
+      "id": "divine-descent-q09",
+      "difficulty": "easy",
+      "q": "Bhishma was the incarnation of what kind of celestial being?",
+      "options": [
+        "A gandharva musician of Indra's court",
+        "A Vasu cursed to be born among mortals",
+        "A naga king of the underworld",
+        "A yaksha guardian of hidden treasure"
+      ],
+      "answer": 1,
+      "explanation": "Bhishma was the eighth Vasu, born to Ganga under a curse and condemned to a long mortal life."
+    },
+    {
+      "id": "divine-descent-q10",
+      "difficulty": "easy",
+      "q": "According to the epic's list of incarnations, the hundred Kauravas were born from portions of what beings?",
+      "options": [
+        "Cursed gandharvas",
+        "Fallen Vasus",
+        "Rakshasas, demonic beings",
+        "Mortal kings reborn"
+      ],
+      "answer": 2,
+      "explanation": "The Adi Parva states that Duryodhana's brothers were rakshasas incarnate, born to play their parts in the Earth's unburdening."
+    },
+    {
+      "id": "divine-descent-q11",
+      "difficulty": "medium",
+      "q": "Duryodhana was said to be the incarnation of what?",
+      "options": [
+        "The asura Viprachitti",
+        "The demon Kalanemi",
+        "The serpent Takshaka",
+        "Kali, the spirit of the dark age"
+      ],
+      "answer": 3,
+      "explanation": "The Adi Parva identifies Duryodhana as a portion of Kali, the spirit of strife and the darkest age."
+    },
+    {
+      "id": "divine-descent-q12",
+      "difficulty": "medium",
+      "q": "Shakuni was identified as the incarnation of what?",
+      "options": [
+        "Dvapara, spirit of the third cosmic age",
+        "Kali, spirit of quarrel and ruin",
+        "The asura Vrishaparva reborn",
+        "The demon Bakasura in human form"
+      ],
+      "answer": 0,
+      "explanation": "Shakuni embodied Dvapara, the spirit of the age named for the losing throw of the dice, a fitting soul for the master gambler."
+    },
+    {
+      "id": "divine-descent-q13",
+      "difficulty": "medium",
+      "q": "Vidura embodied which god, born mortal through a sage's curse?",
+      "options": [
+        "Varuna",
+        "Dharma",
+        "Mitra",
+        "Brihaspati"
+      ],
+      "answer": 1,
+      "explanation": "Cursed by the sage Mandavya, the god Dharma took birth as the wise Vidura in a serving maid's womb."
+    },
+    {
+      "id": "divine-descent-q14",
+      "difficulty": "medium",
+      "q": "Drona was born from a portion of which celestial figure?",
+      "options": [
+        "Vishvakarma, the divine architect",
+        "Kubera, the lord of riches",
+        "Brihaspati, preceptor of the gods",
+        "Shukra, preceptor of the asuras"
+      ],
+      "answer": 2,
+      "explanation": "The weapons master Drona carried a portion of Brihaspati, the wise preceptor of the gods."
+    },
+    {
+      "id": "divine-descent-q15",
+      "difficulty": "medium",
+      "q": "Dhrishtadyumna, born from fire to slay Drona, carried a portion of which god?",
+      "options": [
+        "Rudra, the howler",
+        "Yama, lord of death",
+        "Indra, the storm king",
+        "Agni, the fire god"
+      ],
+      "answer": 3,
+      "explanation": "Fittingly for one who stepped out of the sacrificial flames, Dhrishtadyumna was a portion of Agni."
+    },
+    {
+      "id": "divine-descent-q16",
+      "difficulty": "medium",
+      "q": "Balarama, Krishna's elder brother, was the incarnation of which being?",
+      "options": [
+        "Shesha, the cosmic serpent",
+        "Garuda, the divine eagle",
+        "Vasuki, king of the nagas",
+        "Airavata, Indra's elephant"
+      ],
+      "answer": 0,
+      "explanation": "Balarama was the incarnation of Shesha, the thousand-headed serpent on whom Vishnu rests."
+    },
+    {
+      "id": "divine-descent-q17",
+      "difficulty": "medium",
+      "q": "Krishna and Arjuna were identified as which ancient pair of seers reborn?",
+      "options": [
+        "Vasishtha and Vishvamitra",
+        "Narayana and Nara",
+        "Bhrigu and Angiras",
+        "Atri and Agastya"
+      ],
+      "answer": 1,
+      "explanation": "Krishna was Narayana and Arjuna was Nara, the inseparable ancient rishis reborn to fight side by side."
+    },
+    {
+      "id": "divine-descent-q18",
+      "difficulty": "medium",
+      "q": "Why were the eight Vasus cursed to be born as Ganga's mortal sons?",
+      "options": [
+        "They mocked the sage Durvasa at a celestial feast",
+        "They refused to fight in the war of gods and demons",
+        "They stole the sage Vasishtha's divine cow",
+        "They spied on Shiva and Parvati on Mount Kailasa"
+      ],
+      "answer": 2,
+      "explanation": "The Vasus stole Vasishtha's wish-granting cow Nandini, and the furious sage cursed them to mortal birth."
+    },
+    {
+      "id": "divine-descent-q19",
+      "difficulty": "medium",
+      "q": "Why did Bhishma alone of the eight Vasus have to live out a long mortal life?",
+      "options": [
+        "He volunteered to stay so his brothers could go free",
+        "Ganga loved him too dearly to release him",
+        "He was the youngest and had to serve the eldest's term",
+        "As the chief offender in the theft, he bore the heaviest sentence"
+      ],
+      "answer": 3,
+      "explanation": "The Vasu Dyaus actually carried out the theft of the cow, so while Ganga freed his seven brothers at birth, he had to endure a full mortal life as Bhishma."
+    },
+    {
+      "id": "divine-descent-q20",
+      "difficulty": "medium",
+      "q": "In which book of the Mahabharata is the Amsavatarana, the roll-call of incarnations, narrated?",
+      "options": [
+        "The Adi Parva, the book of beginnings",
+        "The Bhishma Parva, the book of the grandsire",
+        "The Shanti Parva, the book of peace",
+        "The Svargarohana Parva, the book of ascent"
+      ],
+      "answer": 0,
+      "explanation": "The Amsavatarana section of the Adi Parva lists which god, demon, or celestial took birth as each major character."
+    },
+    {
+      "id": "divine-descent-q21",
+      "difficulty": "medium",
+      "q": "Kamsa, the tyrant of Mathura slain by Krishna, was the rebirth of which demon?",
+      "options": [
+        "Hiranyaksha",
+        "Kalanemi",
+        "Shumbha",
+        "Madhu"
+      ],
+      "answer": 1,
+      "explanation": "Kamsa was the asura Kalanemi reborn, an old enemy of Vishnu destined to fall to him again."
+    },
+    {
+      "id": "divine-descent-q22",
+      "difficulty": "medium",
+      "q": "In the Puranic tradition that continues the epic, Devaki, the mother of Krishna, is held to be the rebirth of whom?",
+      "options": [
+        "Diti, mother of the daityas",
+        "Lakshmi, goddess of fortune",
+        "Aditi, mother of the gods",
+        "The Earth herself in human form"
+      ],
+      "answer": 2,
+      "explanation": "The Harivamsha and the Puranas identify Devaki with Aditi, mother of the gods; the epic's own incarnation list does not make this identification."
+    },
+    {
+      "id": "divine-descent-q23",
+      "difficulty": "hard",
+      "q": "Abhimanyu was the incarnation of Varchas, the son of which god?",
+      "options": [
+        "Surya, the sun",
+        "Agni, the fire",
+        "Indra, the rain-king",
+        "Soma, the moon"
+      ],
+      "answer": 3,
+      "explanation": "Abhimanyu was Varchas, the brilliant son of Soma the moon god, lent to the Earth for the great war."
+    },
+    {
+      "id": "divine-descent-q24",
+      "difficulty": "hard",
+      "q": "What condition did Soma set when he allowed his son Varchas to be born as Abhimanyu?",
+      "options": [
+        "The boy would remain on earth only sixteen years before returning",
+        "The boy would never marry a mortal woman",
+        "The boy would never be made to fight after sunset",
+        "The boy would be raised in Dwarka, far away from war"
+      ],
+      "answer": 0,
+      "explanation": "Unable to bear a longer separation, Soma decreed that Varchas would return after sixteen years, which is why Abhimanyu died at sixteen."
+    },
+    {
+      "id": "divine-descent-q25",
+      "difficulty": "hard",
+      "q": "Ashwatthama was described as born from combined portions of which beings?",
+      "options": [
+        "Brahma, Surya, and the two Ashvins",
+        "Shiva along with Yama, Kama, and Krodha",
+        "Vishnu, Vayu, and the serpent Shesha",
+        "Indra, Agni, and the spirit of Kali"
+      ],
+      "answer": 1,
+      "explanation": "The Adi Parva says Ashwatthama sprang from united portions of Mahadeva, Yama, desire, and wrath, foreshadowing his terrible deeds."
+    },
+    {
+      "id": "divine-descent-q26",
+      "difficulty": "hard",
+      "q": "Jarasandha, the emperor of Magadha, carried a portion of which demon?",
+      "options": [
+        "Hiranyakashipu",
+        "Ravana",
+        "Viprachitti",
+        "Vritra"
+      ],
+      "answer": 2,
+      "explanation": "The mighty Jarasandha was born of a portion of the asura Viprachitti according to the epic's roll of incarnations."
+    },
+    {
+      "id": "divine-descent-q27",
+      "difficulty": "hard",
+      "q": "Shishupala, slain by Krishna's discus, was the rebirth of which being?",
+      "options": [
+        "The serpent Kaliya",
+        "The asura Naraka",
+        "The demon Madhu",
+        "Hiranyakashipu, the great daitya"
+      ],
+      "answer": 3,
+      "explanation": "The Adi Parva names Shishupala as Hiranyakashipu reborn, though Puranic retellings expand this into the Jaya and Vijaya cycle of three demonic births."
+    },
+    {
+      "id": "divine-descent-q28",
+      "difficulty": "hard",
+      "q": "Crushed by the weight of demonic kings, to whom did the Earth first carry her appeal for relief?",
+      "options": [
+        "Brahma, the creator",
+        "Shiva, the destroyer",
+        "Indra, king of heaven",
+        "Vishnu, asleep on the cosmic ocean"
+      ],
+      "answer": 0,
+      "explanation": "The Earth appealed to Brahma, who then commanded the gods to take birth in portions among mortals."
+    },
+    {
+      "id": "divine-descent-q29",
+      "difficulty": "hard",
+      "q": "At Draupadi's wedding, Vyasa told Drupada a secret tale explaining her five husbands. Who were the Pandavas in that account?",
+      "options": [
+        "Five rishis reborn from a single shared penance",
+        "The five faces of Shiva given human form",
+        "Five former Indras imprisoned by Shiva and reborn",
+        "Five Vasus released early from Vasishtha's curse"
+      ],
+      "answer": 2,
+      "explanation": "Vyasa revealed that five arrogant former Indras had been imprisoned by Shiva and reborn as the Pandavas, with Shri reborn as their common wife."
+    },
+    {
+      "id": "divine-descent-q30",
+      "difficulty": "hard",
+      "q": "Who recites the Amsavatarana list of divine incarnations, and to whom?",
+      "options": [
+        "Vaishampayana to King Janamejaya at the snake sacrifice",
+        "Sanjaya to Dhritarashtra on the eve of the great war",
+        "Krishna to Arjuna between the two assembled armies",
+        "Vyasa to Ganesha as the epic was first written down"
+      ],
+      "answer": 0,
+      "explanation": "Like the rest of the epic's main narration, the Amsavatarana is told by Vaishampayana to Janamejaya during the snake sacrifice."
+    }
+  ]
+}

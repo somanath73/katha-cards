@@ -1,0 +1,245 @@
+{
+  "cardId": "pandu",
+  "questions": [
+    {
+      "id": "pandu-q01",
+      "difficulty": "easy",
+      "q": "What does the name Pandu literally mean?",
+      "options": ["The pale one", "The mighty one", "The pious one", "The swift one"],
+      "answer": 0,
+      "explanation": "Pandu means pale or white, describing the unusual pallor he bore from birth."
+    },
+    {
+      "id": "pandu-q02",
+      "difficulty": "easy",
+      "q": "Who was Pandu's elder brother?",
+      "options": ["Vidura", "Bhishma", "Vichitravirya", "Dhritarashtra"],
+      "answer": 3,
+      "explanation": "Dhritarashtra was the elder brother, passed over for the throne because of his blindness."
+    },
+    {
+      "id": "pandu-q03",
+      "difficulty": "easy",
+      "q": "Who were Pandu's two wives?",
+      "options": ["Ambika and Ambalika", "Kunti and Madri", "Gandhari and Madri", "Kunti and Gandhari"],
+      "answer": 1,
+      "explanation": "Pandu first married Kunti and later took Madri, the princess of Madra, as his second wife."
+    },
+    {
+      "id": "pandu-q04",
+      "difficulty": "easy",
+      "q": "The five brothers who carry Pandu's name are called what?",
+      "options": ["The Vasus", "The Bharatas", "The Pandavas", "The Kauravas"],
+      "answer": 2,
+      "explanation": "Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva are the Pandavas, sons of Pandu."
+    },
+    {
+      "id": "pandu-q05",
+      "difficulty": "easy",
+      "q": "Which sage did Pandu fatally shoot while the sage was in the form of a deer?",
+      "options": ["Durvasa", "Kanva", "Markandeya", "Kindama"],
+      "answer": 3,
+      "explanation": "Pandu shot the sage Kindama, who was sporting with his mate in the form of a deer."
+    },
+    {
+      "id": "pandu-q06",
+      "difficulty": "easy",
+      "q": "What curse did the dying Kindama lay upon Pandu?",
+      "options": ["He would die the moment he embraced a wife in desire", "His sons would never rule a kingdom", "He would lose his kingdom in a game of dice", "He would be born blind in his next life"],
+      "answer": 0,
+      "explanation": "Kindama cursed Pandu to die in the act of love, the very state in which the sage was struck."
+    },
+    {
+      "id": "pandu-q07",
+      "difficulty": "easy",
+      "q": "Who was Pandu's biological father?",
+      "options": ["Parashara", "Shantanu", "Vyasa", "Bharadwaja"],
+      "answer": 2,
+      "explanation": "Vyasa fathered Pandu by Ambalika through niyoga to save the dying Kuru line."
+    },
+    {
+      "id": "pandu-q08",
+      "difficulty": "easy",
+      "q": "Why was Pandu crowned king instead of his elder brother?",
+      "options": ["Dhritarashtra refused the throne outright", "Dhritarashtra's blindness barred him from kingship", "A vote of the council chose Pandu", "A sage's prophecy demanded it"],
+      "answer": 1,
+      "explanation": "Dhritarashtra's blindness was held to disqualify him, so the younger Pandu received the crown."
+    },
+    {
+      "id": "pandu-q09",
+      "difficulty": "easy",
+      "q": "Where did Pandu retire to live as an ascetic after the curse?",
+      "options": ["The Kamyaka forest", "Mount Kailasa", "Indrakila", "The mountain of Shatashringa"],
+      "answer": 3,
+      "explanation": "He settled with his wives among the hermits of Shatashringa, the hundred-peaked mountain."
+    },
+    {
+      "id": "pandu-q10",
+      "difficulty": "easy",
+      "q": "Whom was Pandu embracing when Kindama's curse finally claimed his life?",
+      "options": ["Madri", "Kunti", "Ambalika", "Devika"],
+      "answer": 0,
+      "explanation": "Overcome by desire for Madri, Pandu embraced her and died instantly, as the curse had foretold."
+    },
+    {
+      "id": "pandu-q11",
+      "difficulty": "medium",
+      "q": "Why was Pandu born pale?",
+      "options": ["He was born dangerously premature", "A curse drained the color from his skin", "His mother Ambalika blanched with fear on seeing Vyasa", "He was born during a solar eclipse"],
+      "answer": 2,
+      "explanation": "Ambalika turned pale at Vyasa's fierce appearance during conception, so her son was born with that pallor."
+    },
+    {
+      "id": "pandu-q12",
+      "difficulty": "medium",
+      "q": "What was the sage Kindama doing when Pandu shot him?",
+      "options": ["Meditating in deer form", "Mating with his doe in the form of a deer", "Drinking at a forest stream", "Grazing in a deer herd"],
+      "answer": 1,
+      "explanation": "Kindama had taken deer form to mate with his wife, and Pandu's arrows struck them in that act."
+    },
+    {
+      "id": "pandu-q13",
+      "difficulty": "medium",
+      "q": "How many of Pandu's five sons were actually born of his own body?",
+      "options": ["All five", "Two", "Three", "None"],
+      "answer": 3,
+      "explanation": "Because of the curse, all five Pandavas were fathered by gods invoked through Kunti's mantra."
+    },
+    {
+      "id": "pandu-q14",
+      "difficulty": "medium",
+      "q": "Which god did Pandu ask Kunti to summon first, giving him his eldest son Yudhishthira?",
+      "options": ["Dharma", "Indra", "Vayu", "Surya"],
+      "answer": 0,
+      "explanation": "Pandu chose Dharma first so that his heir would be a son of righteousness itself."
+    },
+    {
+      "id": "pandu-q15",
+      "difficulty": "medium",
+      "q": "Before the curse, what was Pandu famed for as king of Hastinapura?",
+      "options": ["Building the city of Indraprastha", "Conquering many kingdoms and filling the treasury", "Composing a celebrated code of laws", "Digging great canals from the Ganga"],
+      "answer": 1,
+      "explanation": "Pandu's victorious campaigns subdued many kings and restored Hastinapura's wealth and prestige."
+    },
+    {
+      "id": "pandu-q16",
+      "difficulty": "medium",
+      "q": "What did Pandu do with his royal life after Kindama's curse?",
+      "options": ["He ruled the kingdom from the forest", "He searched for healers to lift the curse", "He renounced the throne and lived as an ascetic", "He sought a counter-boon from Shiva"],
+      "answer": 2,
+      "explanation": "Stricken with remorse, Pandu gave up the kingdom and adopted the austere life of a forest hermit."
+    },
+    {
+      "id": "pandu-q17",
+      "difficulty": "medium",
+      "q": "Why did Pandu beg Kunti to bear sons by invoking the gods?",
+      "options": ["He had learned that the sonless cannot attain the blessed worlds", "Bhishma had demanded heirs for the throne", "Gandhari's growing brood threatened his line", "A dream from his ancestors commanded it"],
+      "answer": 0,
+      "explanation": "Pandu pleaded that a man without sons is barred from the higher worlds, so heirs had to be begotten for him."
+    },
+    {
+      "id": "pandu-q18",
+      "difficulty": "medium",
+      "q": "How many arrows did Pandu shoot at the mating deer?",
+      "options": ["One", "Three", "Seven", "Five"],
+      "answer": 3,
+      "explanation": "The epic says Pandu struck the coupling deer with five swift arrows before learning they were a sage and his wife."
+    },
+    {
+      "id": "pandu-q19",
+      "difficulty": "medium",
+      "q": "The influence of which season finally overcame Pandu's restraint on the day he died?",
+      "options": ["Autumn", "The monsoon", "Spring", "Winter"],
+      "answer": 2,
+      "explanation": "Wandering with Madri amid the blossoms of spring, Pandu was overpowered by desire despite years of restraint."
+    },
+    {
+      "id": "pandu-q20",
+      "difficulty": "medium",
+      "q": "Who was Pandu's legal father, in whose name he was begotten through niyoga?",
+      "options": ["Shantanu", "Vichitravirya", "Chitrangada", "Bahlika"],
+      "answer": 1,
+      "explanation": "Pandu was raised as the son of Vichitravirya, who had died childless, though Vyasa was his begetter."
+    },
+    {
+      "id": "pandu-q21",
+      "difficulty": "medium",
+      "q": "When Pandu asked Kunti for a fourth son, how did she respond?",
+      "options": ["She demanded that Madri ask first", "She summoned the god Dharma once more", "She agreed, but the mantra failed her", "She refused, saying scripture brands a woman's fourth resort as wanton"],
+      "answer": 3,
+      "explanation": "Kunti declined, citing the law that a woman who resorts to a fourth man falls from virtue."
+    },
+    {
+      "id": "pandu-q22",
+      "difficulty": "medium",
+      "q": "After Pandu's death, who escorted his sons and the funeral remains to Hastinapura?",
+      "options": ["The ascetics of the mountain hermitage", "Bhishma's soldiers", "Kunti's kinsmen from Kuntibhoja", "Vidura's messengers"],
+      "answer": 0,
+      "explanation": "The hermits of Shatashringa brought Kunti, the five boys, and the remains of Pandu and Madri to the Kuru capital."
+    },
+    {
+      "id": "pandu-q23",
+      "difficulty": "hard",
+      "q": "Which king of Magadha did Pandu defeat during his great campaign of conquest?",
+      "options": ["Jarasandha", "Dirgha", "Brihadratha", "Ripunjaya"],
+      "answer": 1,
+      "explanation": "The Adi Parva records that Pandu slew Dirgha, the offending king of Magadha, during his digvijaya."
+    },
+    {
+      "id": "pandu-q24",
+      "difficulty": "hard",
+      "q": "Why did the dying Kindama say Pandu's deed deserved a curse?",
+      "options": ["Because deer were sacred to his hermitage", "Because Pandu had hunted on holy ground", "Because he struck a creature in the act of mating, which even hunters spare", "Because Pandu refused to ask the sage's forgiveness"],
+      "answer": 2,
+      "explanation": "Kindama did not condemn hunting itself but the cruelty of killing a creature at the moment of union."
+    },
+    {
+      "id": "pandu-q25",
+      "difficulty": "hard",
+      "q": "What did Pandu first tell Kunti and Madri after the curse fell on him?",
+      "options": ["That they should return to Hastinapura while he became a forest ascetic", "That they must hide the curse from Bhishma", "That they should seek sons by niyoga at once", "That the family would soon return to rule the city"],
+      "answer": 0,
+      "explanation": "Pandu urged his wives to go back to the capital, but both refused and followed him into the ascetic life."
+    },
+    {
+      "id": "pandu-q26",
+      "difficulty": "hard",
+      "q": "How did the fatal moment between Pandu and Madri come about?",
+      "options": ["Madri begged him for a single embrace", "He believed the curse had lapsed after many years", "A festival's wine clouded his judgment", "Wandering with her amid spring blossoms, he yielded to desire despite her protests"],
+      "answer": 3,
+      "explanation": "Alone with Madri in the flowering spring forest, Pandu was seized by desire and embraced her even as she resisted."
+    },
+    {
+      "id": "pandu-q27",
+      "difficulty": "hard",
+      "q": "In which parva of the Mahabharata is Pandu's life and death narrated?",
+      "options": ["Adi Parva", "Vana Parva", "Udyoga Parva", "Shanti Parva"],
+      "answer": 0,
+      "explanation": "Pandu's reign, curse, and death all appear in the Adi Parva, the epic's book of beginnings."
+    },
+    {
+      "id": "pandu-q28",
+      "difficulty": "hard",
+      "q": "What special effort did Pandu undertake before the conception of Arjuna?",
+      "options": ["He sacrificed a hundred horses", "He fasted for a month at the Ganga's source", "He won a boon from Shiva in single combat", "He stood in year-long penance to win Indra's favor"],
+      "answer": 3,
+      "explanation": "Pandu and Kunti observed severe year-long vows to please Indra, who then fathered the peerless Arjuna."
+    },
+    {
+      "id": "pandu-q29",
+      "difficulty": "hard",
+      "q": "At whose urging did Kunti share her god-summoning mantra with Madri?",
+      "options": ["Vyasa's", "Pandu's", "Madri's own plea", "Bhishma's"],
+      "answer": 1,
+      "explanation": "Pandu, grieved that Madri remained childless, persuaded Kunti to grant her one use of the mantra."
+    },
+    {
+      "id": "pandu-q30",
+      "difficulty": "hard",
+      "q": "Pandu's story is most often read as a parable about what theme?",
+      "options": ["The supremacy of royal power", "The rewards of righteous conquest", "The destructive power of unmastered desire", "The futility of all asceticism"],
+      "answer": 2,
+      "explanation": "From the hunt that earned the curse to the embrace that fulfilled it, Pandu's fate dramatizes desire overriding restraint."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "end-of-the-yadavas",
+  "questions": [
+    {
+      "id": "end-of-the-yadavas-q01",
+      "difficulty": "easy",
+      "q": "How many years after the Kurukshetra war did the destruction of the Yadavas take place?",
+      "options": ["Eighteen years", "Twenty-four years", "Thirty-six years", "Fifty years"],
+      "answer": 2,
+      "explanation": "Gandhari's curse ripened exactly thirty-six years after the war, as she had foretold."
+    },
+    {
+      "id": "end-of-the-yadavas-q02",
+      "difficulty": "easy",
+      "q": "Whose curse foretold that the Yadava race would destroy itself?",
+      "options": ["Gandhari, mourning her hundred sons", "Draupadi, mourning her five sons", "Subhadra, mourning Abhimanyu", "Uttara, mourning her young husband"],
+      "answer": 0,
+      "explanation": "Standing among her dead sons after the war, Gandhari cursed Krishna that his kinsmen would slay one another in thirty-six years."
+    },
+    {
+      "id": "end-of-the-yadavas-q03",
+      "difficulty": "easy",
+      "q": "What cursed object became the instrument of the Yadavas' destruction?",
+      "options": ["A poisoned discus", "A cursed sword", "A blazing trident", "An iron pestle"],
+      "answer": 3,
+      "explanation": "The sages' curse produced an iron pestle (musala), which gives the Mausala Parva its name."
+    },
+    {
+      "id": "end-of-the-yadavas-q04",
+      "difficulty": "easy",
+      "q": "How did Krishna meet his death?",
+      "options": ["He drowned when the sea took Dwarka", "He was shot in the heel by a hunter's arrow", "He was slain by an iron mace in the brawl", "He walked into a forest fire"],
+      "answer": 1,
+      "explanation": "The hunter Jara's arrow pierced Krishna's heel, the one vulnerable spot, as he lay in yoga beneath a tree."
+    },
+    {
+      "id": "end-of-the-yadavas-q05",
+      "difficulty": "easy",
+      "q": "What was the name of the hunter whose arrow killed Krishna?",
+      "options": ["Jara", "Daruka", "Ekalavya", "Samba"],
+      "answer": 0,
+      "explanation": "The hunter Jara shot Krishna by mistake and was forgiven by the dying avatar."
+    },
+    {
+      "id": "end-of-the-yadavas-q06",
+      "difficulty": "easy",
+      "q": "What happened to the city of Dwarka seven days after Krishna's death?",
+      "options": ["It was sacked by Abhira robbers", "It burned in a great fire", "It was swallowed by the sea", "It was buried in a sandstorm"],
+      "answer": 2,
+      "explanation": "Exactly as foretold, the ocean rose and submerged Dwarka on the seventh day after Krishna departed."
+    },
+    {
+      "id": "end-of-the-yadavas-q07",
+      "difficulty": "easy",
+      "q": "Which book of the Mahabharata narrates the destruction of the Yadavas?",
+      "options": ["Svargarohana Parva", "Mausala Parva", "Shanti Parva", "Sauptika Parva"],
+      "answer": 1,
+      "explanation": "The Mausala Parva, the book of the iron pestle, is the sixteenth of the epic's eighteen books."
+    },
+    {
+      "id": "end-of-the-yadavas-q08",
+      "difficulty": "easy",
+      "q": "At which holy place on the seashore did the Yadavas slaughter one another?",
+      "options": ["Kurukshetra", "Pushkara", "Naimisha", "Prabhasa"],
+      "answer": 3,
+      "explanation": "The Yadavas had gone on pilgrimage to Prabhasa on the western coast when the drunken brawl erupted."
+    },
+    {
+      "id": "end-of-the-yadavas-q09",
+      "difficulty": "easy",
+      "q": "What grew from the powdered iron pestle that was cast into the sea?",
+      "options": ["Razor-sharp eraka grass on the shore", "A reef of black iron rocks", "Swarms of venomous sea serpents", "A grove of iron-thorned trees"],
+      "answer": 0,
+      "explanation": "The powder washed ashore at Prabhasa and sprang up as eraka grass, each blade fated to become a weapon."
+    },
+    {
+      "id": "end-of-the-yadavas-q10",
+      "difficulty": "easy",
+      "q": "Which elder brother of Krishna also gave up his life at Prabhasa?",
+      "options": ["Satyaki", "Kritavarma", "Balarama", "Pradyumna"],
+      "answer": 2,
+      "explanation": "Balarama sat in meditation by the sea and left his body before Krishna's own death."
+    },
+    {
+      "id": "end-of-the-yadavas-q11",
+      "difficulty": "medium",
+      "q": "Which son of Krishna was dressed as a pregnant woman to mock the visiting sages?",
+      "options": ["Pradyumna", "Aniruddha", "Charudeshna", "Samba"],
+      "answer": 3,
+      "explanation": "The Yadava youths disguised Samba, Krishna's son by Jambavati, and asked the sages what child he would bear."
+    },
+    {
+      "id": "end-of-the-yadavas-q12",
+      "difficulty": "medium",
+      "q": "What did the angered sages declare the disguised Samba would deliver?",
+      "options": ["A serpent that would poison the city", "An iron pestle that would destroy the race", "A stillborn child as a mark of doom", "A firebrand that would burn Dwarka"],
+      "answer": 1,
+      "explanation": "The sages cursed that Samba would bring forth an iron pestle that would annihilate the Vrishnis and Andhakas."
+    },
+    {
+      "id": "end-of-the-yadavas-q13",
+      "difficulty": "medium",
+      "q": "What set off the fatal brawl among the Yadavas at Prabhasa?",
+      "options": ["A dispute over dividing the pilgrimage offerings", "An insult flung at Balarama's plough", "Drunken taunts about the night raid on the Pandava camp", "A quarrel over a rigged game of dice"],
+      "answer": 2,
+      "explanation": "In his cups, Satyaki taunted Kritavarma for slaughtering sleeping men in Ashwatthama's night raid, and blood answered words."
+    },
+    {
+      "id": "end-of-the-yadavas-q14",
+      "difficulty": "medium",
+      "q": "Whom did Satyaki behead at the start of the brawl at Prabhasa?",
+      "options": ["Kritavarma", "Akrura", "Uddhava", "Ugrasena"],
+      "answer": 0,
+      "explanation": "Satyaki struck off Kritavarma's head, and the enraged Bhojas and Andhakas then fell upon Satyaki and Pradyumna."
+    },
+    {
+      "id": "end-of-the-yadavas-q15",
+      "difficulty": "medium",
+      "q": "What happened when the enraged Yadavas plucked the eraka grass by the shore?",
+      "options": ["It crumbled to ash in their hands", "Each blade became an iron club in their grip", "It cut their palms so they bled to death", "It coiled around their arms like serpents"],
+      "answer": 1,
+      "explanation": "Every blade of the cursed grass turned to iron in their hands, and with these bolts they slaughtered each other."
+    },
+    {
+      "id": "end-of-the-yadavas-q16",
+      "difficulty": "medium",
+      "q": "How did Balarama leave the world at Prabhasa?",
+      "options": ["He walked into the sea and drowned", "He was struck down by an iron mace", "He burned himself on a funeral pyre", "A white serpent left his mouth and entered the ocean"],
+      "answer": 3,
+      "explanation": "As Balarama sat in meditation, the great serpent Shesha, his true form, issued from his mouth and was received by the ocean."
+    },
+    {
+      "id": "end-of-the-yadavas-q17",
+      "difficulty": "medium",
+      "q": "Who carried the news of the Yadava massacre to the Pandavas in Hastinapura?",
+      "options": ["Uddhava, Krishna's friend", "Satyaki, the surviving warrior", "Daruka, Krishna's charioteer", "Vajra, Krishna's great-grandson"],
+      "answer": 2,
+      "explanation": "At Krishna's command his charioteer Daruka rode to Hastinapura to summon Arjuna."
+    },
+    {
+      "id": "end-of-the-yadavas-q18",
+      "difficulty": "medium",
+      "q": "Which Pandava traveled to Dwarka to evacuate the survivors of the massacre?",
+      "options": ["Arjuna", "Bhima", "Yudhishthira", "Nakula"],
+      "answer": 0,
+      "explanation": "Arjuna came to Dwarka, performed the funeral rites, and led the women and citizens away before the sea closed in."
+    },
+    {
+      "id": "end-of-the-yadavas-q19",
+      "difficulty": "medium",
+      "q": "What humiliation befell Arjuna while escorting the survivors of Dwarka?",
+      "options": ["He lost the road in the desert for a month", "The sea pursued and scattered the caravan", "Takshaka's serpents attacked the camp at night", "Abhira robbers carried off the women as his weapons failed"],
+      "answer": 3,
+      "explanation": "When Abhira bandits attacked, the Gandiva grew heavy and Arjuna's astras would not come, a sign that his era had ended."
+    },
+    {
+      "id": "end-of-the-yadavas-q20",
+      "difficulty": "medium",
+      "q": "Who was installed as ruler of the surviving Yadavas at Indraprastha?",
+      "options": ["Samba", "Vajra", "Aniruddha", "Kritavarma"],
+      "answer": 1,
+      "explanation": "Arjuna installed Vajra, Krishna's great-grandson, as king of the remnant of the Yadavas at Indraprastha."
+    },
+    {
+      "id": "end-of-the-yadavas-q21",
+      "difficulty": "medium",
+      "q": "What was the hunter Jara doing when he loosed the arrow that killed Krishna?",
+      "options": ["Stalking what he took for a deer", "Defending himself from a wild boar", "Testing a newly forged arrowhead", "Shooting waterbirds by the seashore"],
+      "answer": 0,
+      "explanation": "Jara mistook Krishna's moving foot for a crouching deer and shot the fatal arrow into his heel."
+    },
+    {
+      "id": "end-of-the-yadavas-q22",
+      "difficulty": "medium",
+      "q": "How did the Yadavas try to neutralize the cursed iron pestle after Samba delivered it?",
+      "options": ["They buried it beneath a temple of Shiva", "They threw it whole into a mountain chasm", "They ground it to powder and cast it into the sea", "They melted it down and forged it into a plough"],
+      "answer": 2,
+      "explanation": "The pestle was pounded to dust and thrown into the ocean, but the curse returned as razor grass on the shore."
+    },
+    {
+      "id": "end-of-the-yadavas-q23",
+      "difficulty": "hard",
+      "q": "What became of the one lump of the iron pestle that could not be ground down?",
+      "options": ["It was hidden in Dwarka's treasury and lost with the city", "A fish swallowed it and a hunter forged it into an arrowhead", "Balarama hurled it beyond the horizon into the deep", "Krishna wore it as an amulet until the day he died"],
+      "answer": 1,
+      "explanation": "A fish swallowed the unbreakable fragment, and the hunter Jara found it in the fish's belly and tipped his arrow with it."
+    },
+    {
+      "id": "end-of-the-yadavas-q24",
+      "difficulty": "hard",
+      "q": "Which sages, in the common telling of the Mausala Parva, were mocked by the Yadava youths?",
+      "options": ["Agastya, Vasishtha, and Bhrigu", "Durvasa, Bharadwaja, and Gautama", "Markandeya, Lomasha, and Pulastya", "Vishvamitra, Kanva, and Narada"],
+      "answer": 3,
+      "explanation": "Vishvamitra, Kanva, and Narada, visiting Dwarka, answered the prank with the curse of the iron pestle."
+    },
+    {
+      "id": "end-of-the-yadavas-q25",
+      "difficulty": "hard",
+      "q": "How did Krishna respond when Gandhari pronounced her curse after the war?",
+      "options": ["He accepted it calmly, saying the Yadavas could be destroyed only by themselves", "He begged her to withdraw the words before they took root", "He countered the curse with a blessing upon her line", "He laughed and declared that no curse could touch an avatar"],
+      "answer": 0,
+      "explanation": "Krishna accepted the curse with equanimity, knowing the invincible Yadavas could fall to no hand but their own."
+    },
+    {
+      "id": "end-of-the-yadavas-q26",
+      "difficulty": "hard",
+      "q": "What standing prohibition did the Yadavas violate at the Prabhasa festival?",
+      "options": ["The vow never to draw weapons against kin", "The rule against feasting before the sages had eaten", "The order to remain within the walls of Dwarka", "The ban on making and drinking liquor"],
+      "answer": 3,
+      "explanation": "Though strong drink had been banned in Dwarka by royal decree, the Yadavas drank deep at Prabhasa and fell to quarreling."
+    },
+    {
+      "id": "end-of-the-yadavas-q27",
+      "difficulty": "hard",
+      "q": "Which of Krishna's own sons fell in the brawl at Prabhasa?",
+      "options": ["Vajra", "Pradyumna", "Daruka", "Akrura"],
+      "answer": 1,
+      "explanation": "Pradyumna was slain before Krishna's eyes, along with Samba, Charudeshna, and his grandson Aniruddha."
+    },
+    {
+      "id": "end-of-the-yadavas-q28",
+      "difficulty": "hard",
+      "q": "Under what kind of tree was Krishna resting when the hunter's arrow struck him?",
+      "options": ["A banyan on a riverbank", "A shami tree by an old battlefield", "A pippal (fig) tree in the forest", "A sandalwood tree by the sea"],
+      "answer": 2,
+      "explanation": "Krishna lay in yoga beneath a pippal tree with his foot upon his thigh when Jara's arrow found his heel."
+    },
+    {
+      "id": "end-of-the-yadavas-q29",
+      "difficulty": "hard",
+      "q": "Who ordered the iron pestle ground to powder and thrown into the sea?",
+      "options": ["King Ugrasena", "King Vasudeva", "Balarama", "Akrura"],
+      "answer": 0,
+      "explanation": "Ugrasena, also called Ahuka, the Yadava king, had the pestle pounded to dust and cast into the ocean to thwart the curse."
+    },
+    {
+      "id": "end-of-the-yadavas-q30",
+      "difficulty": "hard",
+      "q": "What omen involving Krishna's own emblems preceded the destruction of the Yadavas?",
+      "options": ["Panchajanya cracked apart in his hands", "Garuda abandoned the palace roof forever", "The Sudarshana discus and his chariot rose to the sky and vanished", "His banner turned black in a single night"],
+      "answer": 2,
+      "explanation": "The discus given by Agni flew up to heaven and Krishna's chariot was carried away over the sea, signs that his work on earth was done."
+    }
+  ]
+}

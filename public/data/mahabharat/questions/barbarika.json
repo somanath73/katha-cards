@@ -1,0 +1,245 @@
+{
+  "cardId": "barbarika",
+  "questions": [
+    {
+      "id": "barbarika-q01",
+      "difficulty": "easy",
+      "q": "Whose son was the warrior Barbarika?",
+      "options": ["Abhimanyu's", "Iravan's", "Ghatotkacha's", "Karna's"],
+      "answer": 2,
+      "explanation": "Barbarika was the son of Ghatotkacha, the giant born to Bhima and the rakshasi Hidimbi."
+    },
+    {
+      "id": "barbarika-q02",
+      "difficulty": "easy",
+      "q": "Which Pandava was Barbarika's grandfather?",
+      "options": ["Bhima", "Arjuna", "Yudhishthira", "Nakula"],
+      "answer": 0,
+      "explanation": "As Ghatotkacha's son, Barbarika was the grandson of Bhima, the second Pandava."
+    },
+    {
+      "id": "barbarika-q03",
+      "difficulty": "easy",
+      "q": "How many arrows did Barbarika claim he needed to finish the entire war?",
+      "options": ["One", "Three", "Five", "Seven"],
+      "answer": 1,
+      "explanation": "Barbarika carried three infallible arrows, which he said could end the war at Kurukshetra in moments."
+    },
+    {
+      "id": "barbarika-q04",
+      "difficulty": "easy",
+      "q": "What vow governed Barbarika's part in any battle?",
+      "options": ["To fight only at night", "To never strike the first blow", "To spare all crowned kings", "To always fight for the weaker side"],
+      "answer": 3,
+      "explanation": "Barbarika was bound by a vow to always support the weaker or losing side in any conflict."
+    },
+    {
+      "id": "barbarika-q05",
+      "difficulty": "easy",
+      "q": "Who asked Barbarika for his head as alms before the war?",
+      "options": ["Vyasa", "Krishna", "Indra", "Yudhishthira"],
+      "answer": 1,
+      "explanation": "Krishna, foreseeing the havoc Barbarika's vow would cause, asked for his head in charity before the first battle."
+    },
+    {
+      "id": "barbarika-q06",
+      "difficulty": "easy",
+      "q": "In what guise was the request for Barbarika's head made?",
+      "options": ["A brahmin", "An old soldier", "A blind beggar", "A wandering bard"],
+      "answer": 0,
+      "explanation": "Krishna approached Barbarika disguised as a brahmin seeking alms, knowing the young warrior would refuse no gift."
+    },
+    {
+      "id": "barbarika-q07",
+      "difficulty": "easy",
+      "q": "What did Barbarika's severed head do during the war?",
+      "options": ["It recited the Gita", "It guarded the Pandava camp", "It watched all eighteen days of battle", "It slept until the final day"],
+      "answer": 2,
+      "explanation": "Granted his last wish, Barbarika's head remained alive and witnessed the entire eighteen-day war."
+    },
+    {
+      "id": "barbarika-q08",
+      "difficulty": "easy",
+      "q": "From where did Barbarika's head observe the fighting at Kurukshetra?",
+      "options": ["A temple roof", "A chariot platform", "A banyan grove", "A hilltop"],
+      "answer": 3,
+      "explanation": "Krishna placed the head atop a hill overlooking the battlefield so it could see every day of the war."
+    },
+    {
+      "id": "barbarika-q09",
+      "difficulty": "easy",
+      "q": "Under which name is Barbarika widely worshipped today?",
+      "options": ["Khatu Shyam", "Ayyappa", "Khandoba", "Vithoba"],
+      "answer": 0,
+      "explanation": "Barbarika is venerated as Khatu Shyam, a beloved deity of the folk tradition centered in Rajasthan."
+    },
+    {
+      "id": "barbarika-q10",
+      "difficulty": "easy",
+      "q": "Who was Barbarika's mother?",
+      "options": ["Hidimbi", "Ulupi", "Maurvi", "Uttara"],
+      "answer": 2,
+      "explanation": "Barbarika's mother is most commonly named Maurvi, though some retellings call her Ahilawati."
+    },
+    {
+      "id": "barbarika-q11",
+      "difficulty": "medium",
+      "q": "When Krishna asked how quickly he could end the war, what did Barbarika reply?",
+      "options": ["In a single day", "In barely a minute", "Before the third sunrise", "Within one watch of the night"],
+      "answer": 1,
+      "explanation": "Barbarika answered that with his three arrows he could finish the entire war in about a minute, astonishing Krishna."
+    },
+    {
+      "id": "barbarika-q12",
+      "difficulty": "medium",
+      "q": "What test did Krishna set to prove the power of Barbarika's arrows?",
+      "options": ["Splitting a mountain peak", "Stopping a river in flood", "Shooting out a lamp at midnight", "Marking every leaf of a peepal tree"],
+      "answer": 3,
+      "explanation": "Krishna challenged Barbarika to pierce all the leaves of a peepal tree, and a single arrow marked every one."
+    },
+    {
+      "id": "barbarika-q13",
+      "difficulty": "medium",
+      "q": "After marking the tree's leaves, where did Barbarika's test arrow come to hover?",
+      "options": ["Over Krishna's foot", "Above the tree's crown", "Over Barbarika's own head", "Above the quiver of arrows"],
+      "answer": 0,
+      "explanation": "The arrow circled and hovered over Krishna's foot, refusing to leave any marked leaf untouched."
+    },
+    {
+      "id": "barbarika-q14",
+      "difficulty": "medium",
+      "q": "Why did the test arrow hover over Krishna's foot?",
+      "options": ["Krishna froze it with his will", "The wind god deflected it", "Krishna had hidden a leaf beneath his foot", "Its power was exhausted at last"],
+      "answer": 2,
+      "explanation": "Krishna had secretly pressed one leaf under his foot, and the arrow waited to pierce it, proving nothing could escape the weapon."
+    },
+    {
+      "id": "barbarika-q15",
+      "difficulty": "medium",
+      "q": "To whom had Barbarika given the promise that ruled his choice of sides in battle?",
+      "options": ["His father", "His mother", "His guru", "His grandmother"],
+      "answer": 1,
+      "explanation": "Barbarika had promised his mother that he would always fight on behalf of whichever side was weaker."
+    },
+    {
+      "id": "barbarika-q16",
+      "difficulty": "medium",
+      "q": "Which side did Barbarika intend to join first at Kurukshetra, and why?",
+      "options": ["The Kauravas, for their glory", "The Kauravas, to repay a debt", "Neither side, as a neutral judge", "The Pandavas, because they were weaker"],
+      "answer": 3,
+      "explanation": "Since the Pandavas had the smaller army, Barbarika's vow first placed him on their side."
+    },
+    {
+      "id": "barbarika-q17",
+      "difficulty": "medium",
+      "q": "What outcome did Krishna foresee if Barbarika fought under his vow to aid the weaker side?",
+      "options": ["He would switch sides until he alone survived", "He would be slain on the very first day", "The war would simply never begin", "The gods would descend to stop him"],
+      "answer": 0,
+      "explanation": "Krishna explained that each side would become the weaker in turn, forcing Barbarika to oscillate until both armies were destroyed and only he remained."
+    },
+    {
+      "id": "barbarika-q18",
+      "difficulty": "medium",
+      "q": "Why did Krishna say a head was required before the battle could begin?",
+      "options": ["To appease the war god Kartikeya", "To fulfill an old curse upon the field", "The field's consecration demanded the bravest kshatriya's sacrifice", "To complete the count of eighteen armies"],
+      "answer": 2,
+      "explanation": "In the popular telling, Krishna said the battlefield's worship required the sacrifice of the head of the bravest kshatriya, and Barbarika was the bravest."
+    },
+    {
+      "id": "barbarika-q19",
+      "difficulty": "medium",
+      "q": "After the war, when the Pandavas debated who deserved credit for the victory, what did Barbarika's head declare?",
+      "options": ["That Arjuna's bow had won the war", "That Krishna's discus alone had slain the armies", "That Bhima's mace had decided everything", "That fate, not warriors, had triumphed"],
+      "answer": 1,
+      "explanation": "The head, having watched every day, said it saw only Krishna's discus slaying the warriors on both sides."
+    },
+    {
+      "id": "barbarika-q20",
+      "difficulty": "medium",
+      "q": "What boon did Krishna grant Barbarika after accepting his head?",
+      "options": ["A place in Indra's heaven", "Rebirth as a future king", "Immortality upon the battlefield", "Worship in Kali Yuga by Krishna's own name, Shyam"],
+      "answer": 3,
+      "explanation": "Pleased by the supreme gift, Krishna granted that Barbarika would be worshipped in the Kali Yuga by Krishna's own name, Shyam."
+    },
+    {
+      "id": "barbarika-q21",
+      "difficulty": "medium",
+      "q": "In the popular telling, who bestowed the three infallible arrows on Barbarika?",
+      "options": ["Shiva", "Brahma", "Indra", "Surya"],
+      "answer": 0,
+      "explanation": "Barbarika earned the three arrows through austerities, most commonly said to be granted by Shiva, though some versions credit the goddesses."
+    },
+    {
+      "id": "barbarika-q22",
+      "difficulty": "medium",
+      "q": "In which Indian state does the famous temple of Barbarika as Khatu Shyam stand?",
+      "options": ["Gujarat", "Haryana", "Rajasthan", "Madhya Pradesh"],
+      "answer": 2,
+      "explanation": "The Khatu Shyam temple stands at Khatu village in the Sikar district of Rajasthan."
+    },
+    {
+      "id": "barbarika-q23",
+      "difficulty": "hard",
+      "q": "In which text does Barbarika's early story appear most fully?",
+      "options": ["The Harivamsa", "The Skanda Purana", "The Vishnu Purana", "The Devi Bhagavata"],
+      "answer": 1,
+      "explanation": "Barbarika's tale is told in the Kaumarika Khanda of the Skanda Purana, as he is absent from the critical text of Vyasa's epic."
+    },
+    {
+      "id": "barbarika-q24",
+      "difficulty": "hard",
+      "q": "Barbarika's mother Maurvi is described as the daughter of which demon?",
+      "options": ["Naraka", "Hidimba", "Baka", "Mura"],
+      "answer": 3,
+      "explanation": "Maurvi was the daughter of the demon Mura, the foe whom Krishna himself slew, an irony in Barbarika's lineage."
+    },
+    {
+      "id": "barbarika-q25",
+      "difficulty": "hard",
+      "q": "In the lore of Barbarika's three arrows, what was the first arrow's task?",
+      "options": ["To mark everything meant for destruction", "To shield its master from harm", "To summon the other two arrows", "To blind the enemy host"],
+      "answer": 0,
+      "explanation": "The first arrow marked all that was to be destroyed, the second marked what was to be spared, and the third destroyed everything marked."
+    },
+    {
+      "id": "barbarika-q26",
+      "difficulty": "hard",
+      "q": "What did Brahma decree about Barbarika in his previous birth as a yaksha?",
+      "options": ["He would never know defeat", "He would be reborn without memory", "That Krishna would claim his head when Earth's burden was lifted", "He would guard the northern mountains forever"],
+      "answer": 2,
+      "explanation": "In the Skanda Purana the yaksha's boast drew Brahma's decree that Vishnu, as Krishna, would take his head at the time of relieving Earth's burden."
+    },
+    {
+      "id": "barbarika-q27",
+      "difficulty": "hard",
+      "q": "Which epithet celebrates Barbarika specifically as the donor of his own head?",
+      "options": ["Sheesh ke Daani", "Teen Baan Dhari", "Haare ka Sahara", "Morvi Nandan"],
+      "answer": 0,
+      "explanation": "Sheesh ke Daani literally means the giver of the head, honoring his ultimate act of charity to Krishna."
+    },
+    {
+      "id": "barbarika-q28",
+      "difficulty": "hard",
+      "q": "Devotees hail Barbarika as Haare ka Sahara, a title meaning what?",
+      "options": ["Lord of the three arrows", "Watcher on the hill", "King of the forest folk", "Support of the defeated"],
+      "answer": 3,
+      "explanation": "Haare ka Sahara means the refuge or support of the defeated, recalling his vow to stand with the losing side."
+    },
+    {
+      "id": "barbarika-q29",
+      "difficulty": "hard",
+      "q": "In which Hindu month is the great annual fair of Khatu Shyam held?",
+      "options": ["Kartika", "Phalguna", "Shravana", "Chaitra"],
+      "answer": 1,
+      "explanation": "The famous Khatu Shyam fair is held each year in the month of Phalguna, drawing millions of pilgrims."
+    },
+    {
+      "id": "barbarika-q30",
+      "difficulty": "hard",
+      "q": "Besides Krishna's discus, what did Barbarika's head say it saw devouring the battlefield?",
+      "options": ["Shiva dancing the tandava", "The sun standing still", "Draupadi as the goddess drinking the blood of the slain", "The ancestors gathering the dead"],
+      "answer": 2,
+      "explanation": "In the popular telling, the head saw the discus slaying the warriors while Draupadi, as the fearsome goddess, drank the blood of the fallen."
+    }
+  ]
+}

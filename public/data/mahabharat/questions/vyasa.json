@@ -1,0 +1,245 @@
+{
+  "cardId": "vyasa",
+  "questions": [
+    {
+      "id": "vyasa-q01",
+      "difficulty": "easy",
+      "q": "What was Vyasa's birth name?",
+      "options": ["Krishna Dvaipayana", "Devavrata", "Parashara", "Shuka"],
+      "answer": 0,
+      "explanation": "He was born Krishna Dvaipayana, named for his dark complexion and the island of his birth."
+    },
+    {
+      "id": "vyasa-q02",
+      "difficulty": "easy",
+      "q": "Who were Vyasa's parents?",
+      "options": ["Shantanu and Ganga", "The sage Parashara and Satyavati", "Vasishtha and Arundhati", "Bharadwaja and Ghritachi"],
+      "answer": 1,
+      "explanation": "Vyasa was born to the sage Parashara and the young ferry-girl Satyavati before her royal marriage."
+    },
+    {
+      "id": "vyasa-q03",
+      "difficulty": "easy",
+      "q": "Why was Vyasa given the name Dvaipayana?",
+      "options": ["He was dark-skinned", "He was raised by fisherfolk", "He was born on an island in a river", "He never crossed the sea"],
+      "answer": 2,
+      "explanation": "Dvaipayana means island-born, for he was delivered on a river island in the Yamuna."
+    },
+    {
+      "id": "vyasa-q04",
+      "difficulty": "easy",
+      "q": "Which three princes did Vyasa father to save the dying Kuru line?",
+      "options": ["Dhritarashtra, Pandu, and Vidura", "Bhishma, Chitrangada, and Vichitravirya", "Yudhishthira, Bhima, and Arjuna", "Karna, Duryodhana, and Yuyutsu"],
+      "answer": 0,
+      "explanation": "Through niyoga with the widowed queens and a maid, Vyasa fathered Dhritarashtra, Pandu, and Vidura."
+    },
+    {
+      "id": "vyasa-q05",
+      "difficulty": "easy",
+      "q": "What great feat did Vyasa accomplish with the Vedas?",
+      "options": ["He composed all four Vedas himself", "He divided and arranged the Vedas into four collections", "He recited the Vedas to Ganesha", "He hid the Vedas from the asuras"],
+      "answer": 1,
+      "explanation": "He classified the single mass of Vedic hymns into four Vedas, earning the title Veda Vyasa."
+    },
+    {
+      "id": "vyasa-q06",
+      "difficulty": "easy",
+      "q": "What does the title \"Vyasa\" itself mean?",
+      "options": ["The wanderer", "The island-born", "The arranger or divider", "The truthful one"],
+      "answer": 2,
+      "explanation": "Vyasa means the one who divides and arranges, a title earned by his ordering of the Vedas."
+    },
+    {
+      "id": "vyasa-q07",
+      "difficulty": "easy",
+      "q": "Vyasa's mother Satyavati later became the queen of which king?",
+      "options": ["Pandu", "Pratipa", "Dushyanta", "Shantanu"],
+      "answer": 3,
+      "explanation": "Satyavati married King Shantanu of Hastinapura after Bhishma's great vow cleared the way."
+    },
+    {
+      "id": "vyasa-q08",
+      "difficulty": "easy",
+      "q": "To whom did Vyasa grant divine sight so the great war could be narrated to the blind king?",
+      "options": ["Sanjaya", "Vidura", "Kripa", "Yuyutsu"],
+      "answer": 0,
+      "explanation": "Vyasa gave Sanjaya celestial vision so he could describe the battle of Kurukshetra to Dhritarashtra."
+    },
+    {
+      "id": "vyasa-q09",
+      "difficulty": "easy",
+      "q": "Why was Dhritarashtra, Vyasa's first son by the queens, born blind?",
+      "options": ["A sage's curse lay upon the womb", "Ambika shut her eyes during her union with Vyasa", "He was struck blind by lightning at birth", "His mother fasted through the whole pregnancy"],
+      "answer": 1,
+      "explanation": "Queen Ambika closed her eyes in fear before Vyasa, so her son Dhritarashtra was born blind."
+    },
+    {
+      "id": "vyasa-q10",
+      "difficulty": "easy",
+      "q": "Why was Pandu born pale?",
+      "options": ["Ambalika turned pale with fright during her union with Vyasa", "He was born in the winter snows", "Kunti's mantra drained his color", "A naga's venom touched him at birth"],
+      "answer": 0,
+      "explanation": "Queen Ambalika blanched at the sight of the grim sage, and her son Pandu was born pale."
+    },
+    {
+      "id": "vyasa-q11",
+      "difficulty": "medium",
+      "q": "Who was the mother of Vidura, Vyasa's third son?",
+      "options": ["Queen Ambika", "Queen Ambalika", "A serving maid sent in the queens' place", "A gandharva woman"],
+      "answer": 2,
+      "explanation": "A serving maid sent in place of the frightened queens received Vyasa calmly, and her son was the wise Vidura."
+    },
+    {
+      "id": "vyasa-q12",
+      "difficulty": "medium",
+      "q": "At whose request did Vyasa father heirs upon the widows of Vichitravirya?",
+      "options": ["Bhishma", "Satyavati", "Ganga", "Kunti"],
+      "answer": 1,
+      "explanation": "His mother Satyavati summoned Vyasa to save the Kuru line when her son Vichitravirya died childless."
+    },
+    {
+      "id": "vyasa-q13",
+      "difficulty": "medium",
+      "q": "What is the name of the custom by which Vyasa fathered heirs for his dead half-brother?",
+      "options": ["Svayamvara", "Garbhadhana", "Niyoga", "Pravrajya"],
+      "answer": 2,
+      "explanation": "Niyoga allowed a sage or kinsman to father children upon a childless widow to continue the line."
+    },
+    {
+      "id": "vyasa-q14",
+      "difficulty": "medium",
+      "q": "What promise did the newborn Vyasa make to his mother before departing?",
+      "options": ["He would return every twelve years", "He would never leave her side", "He would send his son in his place", "He would appear whenever she thought of him"],
+      "answer": 3,
+      "explanation": "Vyasa promised Satyavati he would come to her the moment she thought of him, a promise he kept."
+    },
+    {
+      "id": "vyasa-q15",
+      "difficulty": "medium",
+      "q": "How did Vyasa pass his childhood after his miraculous birth?",
+      "options": ["He was fostered by the sage Kanva", "He grew to manhood the moment he was born", "He was carried to heaven for schooling", "He was hidden among fisherfolk"],
+      "answer": 1,
+      "explanation": "Vyasa grew to full adulthood immediately upon birth and left at once for a life of austerities."
+    },
+    {
+      "id": "vyasa-q16",
+      "difficulty": "medium",
+      "q": "What boon did Vyasa grant Gandhari that shaped the fate of the Kuru house?",
+      "options": ["A hundred sons", "A son destined to rule the world", "Certain victory for her children", "Restored sight for her husband"],
+      "answer": 0,
+      "explanation": "Pleased by her service, Vyasa granted Gandhari the boon of one hundred sons."
+    },
+    {
+      "id": "vyasa-q17",
+      "difficulty": "medium",
+      "q": "What did Vyasa do with the hard ball of flesh that Gandhari delivered?",
+      "options": ["He buried it beneath a banyan tree", "He cast it into the Ganga", "He divided it into a hundred and one pieces nurtured in jars of ghee", "He restored it whole to her womb"],
+      "answer": 2,
+      "explanation": "Vyasa cut the mass into a hundred and one pieces and set them in jars of ghee, from which the Kauravas and Duhshala were born."
+    },
+    {
+      "id": "vyasa-q18",
+      "difficulty": "medium",
+      "q": "While the Pandavas hid at Ekachakra, toward what event did Vyasa direct their steps?",
+      "options": ["Draupadi's swayamvara in Panchala", "The court of King Virata", "The burning of the Khandava forest", "The golden city of Dwarka"],
+      "answer": 0,
+      "explanation": "Vyasa visited the disguised Pandavas and guided them toward Panchala, where Draupadi's swayamvara awaited."
+    },
+    {
+      "id": "vyasa-q19",
+      "difficulty": "medium",
+      "q": "How did Vyasa justify Draupadi's marriage to five husbands when Drupada objected?",
+      "options": ["A queen may wed all the brothers of a king", "In a former life Draupadi had prayed to Shiva five times for a husband", "Drupada had once promised her to five kings", "The fire that bore her demanded five offerings"],
+      "answer": 1,
+      "explanation": "Vyasa revealed that in a past life she had asked Shiva five times for a husband, so five were granted."
+    },
+    {
+      "id": "vyasa-q20",
+      "difficulty": "medium",
+      "q": "What was the name of Vyasa's own sage son?",
+      "options": ["Jaimini", "Paila", "Sumantu", "Shuka"],
+      "answer": 3,
+      "explanation": "Shuka, Vyasa's son, became a great sage and was among the first to learn the epic from his father."
+    },
+    {
+      "id": "vyasa-q21",
+      "difficulty": "medium",
+      "q": "Vyasa is counted among the Chiranjivis; what does that mean?",
+      "options": ["A wandering royal bard", "A twice-born priest", "One of the deathless who live on through the ages", "A keeper of sacred fires"],
+      "answer": 2,
+      "explanation": "The Chiranjivis are immortals who endure through the age, and tradition counts Vyasa among them."
+    },
+    {
+      "id": "vyasa-q22",
+      "difficulty": "medium",
+      "q": "After the war, what extraordinary vision did Vyasa grant the grieving Dhritarashtra and Gandhari?",
+      "options": ["A dream of Hastinapura restored to glory", "The future drowning of Dwarka", "The serpent sacrifice of a future king", "The slain warriors rising from the Ganga for a single night"],
+      "answer": 3,
+      "explanation": "By Vyasa's power the dead of Kurukshetra rose from the Ganga for one night to console the living."
+    },
+    {
+      "id": "vyasa-q23",
+      "difficulty": "hard",
+      "q": "Which disciple of Vyasa recited the epic at Janamejaya's snake sacrifice?",
+      "options": ["Jaimini", "Shuka", "Sumantu", "Vaishampayana"],
+      "answer": 3,
+      "explanation": "Vyasa had Vaishampayana recite the whole epic to King Janamejaya during the great sarpa satra."
+    },
+    {
+      "id": "vyasa-q24",
+      "difficulty": "hard",
+      "q": "Whom did Satyavati first ask to father heirs on the widowed queens before revealing Vyasa's existence?",
+      "options": ["Kripa", "Bhishma", "Parashurama", "Drona"],
+      "answer": 1,
+      "explanation": "Satyavati first begged Bhishma to wed the widows and sire heirs, and only after he refused did she summon Vyasa."
+    },
+    {
+      "id": "vyasa-q25",
+      "difficulty": "hard",
+      "q": "Which three women did Vyasa lead away to forest retreat in their final years?",
+      "options": ["Kunti, Gandhari, and Draupadi", "Satyavati, Ambika, and Ambalika", "Ganga and her river maidens", "Subhadra and Uttara"],
+      "answer": 1,
+      "explanation": "Foreseeing the horrors to come, Vyasa took his mother Satyavati and the widowed queens Ambika and Ambalika to the forest."
+    },
+    {
+      "id": "vyasa-q26",
+      "difficulty": "hard",
+      "q": "Vyasa is traditionally regarded as a partial incarnation of which deity?",
+      "options": ["Shiva", "Brahma", "Vishnu", "Indra"],
+      "answer": 2,
+      "explanation": "Tradition honors Vyasa as an amsha, or portion, of Vishnu in his form as Narayana."
+    },
+    {
+      "id": "vyasa-q27",
+      "difficulty": "hard",
+      "q": "During the exile, Vyasa gave Yudhishthira the Pratismriti spell to be passed on to whom?",
+      "options": ["Bhima", "Nakula", "Sahadeva", "Arjuna"],
+      "answer": 3,
+      "explanation": "The Pratismriti lore was meant for Arjuna, who used it to seek celestial weapons from the gods."
+    },
+    {
+      "id": "vyasa-q28",
+      "difficulty": "hard",
+      "q": "Why did Queen Ambika shut her eyes when Vyasa came to her?",
+      "options": ["She was keeping a vow of darkness", "Custom forbade a queen to look upon a sage", "Vyasa's fierce ascetic appearance terrified her", "Satyavati had commanded her to do so"],
+      "answer": 2,
+      "explanation": "Vyasa's matted hair, blazing eyes, and grim ascetic form so frightened Ambika that she could not keep her eyes open."
+    },
+    {
+      "id": "vyasa-q29",
+      "difficulty": "hard",
+      "q": "Vyasa's father Parashara descended from which great rishi?",
+      "options": ["Vasishtha", "Vishvamitra", "Bhrigu", "Angiras"],
+      "answer": 0,
+      "explanation": "Parashara was the son of Shakti and grandson of the sage Vasishtha, placing Vyasa in Vasishtha's line."
+    },
+    {
+      "id": "vyasa-q30",
+      "difficulty": "hard",
+      "q": "What gift did Vyasa offer Dhritarashtra before the war that the old king refused?",
+      "options": ["The throne of Indraprastha", "Divine sight to watch the war with his own eyes", "A new son to replace Duryodhana", "Foreknowledge of the war's victor"],
+      "answer": 1,
+      "explanation": "Vyasa offered to give Dhritarashtra eyes to see the battle, but the king refused to watch his kin die, so Sanjaya received the sight instead."
+    }
+  ]
+}

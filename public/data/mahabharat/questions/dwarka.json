@@ -1,0 +1,245 @@
+{
+  "cardId": "dwarka",
+  "questions": [
+    {
+      "id": "dwarka-q01",
+      "difficulty": "easy",
+      "q": "Why did Krishna found the city of Dwarka?",
+      "options": ["To be nearer the plains of Kurukshetra", "To fulfil a vow made to the sea god", "To move the Yadavas beyond the reach of Jarasandha's sieges", "To rule jointly with the Pandava brothers"],
+      "answer": 2,
+      "explanation": "Jarasandha's repeated assaults made Mathura unlivable, so Krishna shifted the Yadavas to a new fortress city on the distant western coast."
+    },
+    {
+      "id": "dwarka-q02",
+      "difficulty": "easy",
+      "q": "Which divine architect built Dwarka?",
+      "options": ["Vishvakarma", "Maya the danava", "Agni's celestial smiths", "Nala the bridge-builder"],
+      "answer": 0,
+      "explanation": "Vishvakarma, architect of the gods, raised the golden city of Dwarka at Krishna's behest."
+    },
+    {
+      "id": "dwarka-q03",
+      "difficulty": "easy",
+      "q": "On which shore did Dwarka rise?",
+      "options": ["The eastern ocean near Champa", "The banks of the Ganga", "The southern coast facing Lanka", "The edge of the western ocean"],
+      "answer": 3,
+      "explanation": "Dwarka was built on the western seacoast, far from the Gangetic heartland of the Kurus."
+    },
+    {
+      "id": "dwarka-q04",
+      "difficulty": "easy",
+      "q": "What was the fate of Dwarka after Krishna's death?",
+      "options": ["It was burned by Ashwatthama", "It was swallowed by the sea", "It was sacked by Jarasandha's heirs", "It crumbled in a great earthquake"],
+      "answer": 1,
+      "explanation": "Exactly as foretold, the ocean rose and engulfed Dwarka after Krishna left the world."
+    },
+    {
+      "id": "dwarka-q05",
+      "difficulty": "easy",
+      "q": "How many days after Krishna's passing did the sea claim Dwarka?",
+      "options": ["Three", "Seven", "Eighteen", "Thirty-six"],
+      "answer": 1,
+      "explanation": "The Mausala Parva records that the sea swallowed the city on the seventh day after Krishna's death."
+    },
+    {
+      "id": "dwarka-q06",
+      "difficulty": "easy",
+      "q": "Which clan ruled from Dwarka during its golden age?",
+      "options": ["The Kurus", "The Panchalas", "The Matsyas", "The Yadavas"],
+      "answer": 3,
+      "explanation": "Dwarka served as the capital of the Yadavas, the clan of Krishna and Balarama."
+    },
+    {
+      "id": "dwarka-q07",
+      "difficulty": "easy",
+      "q": "What does the name Dwarka evoke?",
+      "options": ["A city of many gates", "A city of golden towers", "A city beneath the waves", "A city of swift horses"],
+      "answer": 0,
+      "explanation": "The name comes from dvara, meaning gate or door, marking it as the many-gated city."
+    },
+    {
+      "id": "dwarka-q08",
+      "difficulty": "easy",
+      "q": "From which besieged city did Krishna lead his people to Dwarka?",
+      "options": ["Hastinapura", "Indraprastha", "Mathura", "Girivraja"],
+      "answer": 2,
+      "explanation": "Krishna evacuated the Yadavas from Mathura, which Jarasandha had attacked again and again."
+    },
+    {
+      "id": "dwarka-q09",
+      "difficulty": "easy",
+      "q": "At Prabhasa near Dwarka, how did Krishna meet his end?",
+      "options": ["He fell in the drunken Yadava brawl", "He walked into the rising sea", "He gave up his body in a sacred fire", "A hunter's arrow pierced his heel"],
+      "answer": 3,
+      "explanation": "The hunter Jara mistook Krishna's foot for a deer and shot the arrow that ended his earthly life."
+    },
+    {
+      "id": "dwarka-q10",
+      "difficulty": "easy",
+      "q": "In which modern Indian state does tradition place ancient Dwarka?",
+      "options": ["Gujarat", "Kerala", "Bengal", "Punjab"],
+      "answer": 0,
+      "explanation": "Dwarka is identified with the coastal town of the same name in Gujarat, where marine archaeology has explored submerged ruins."
+    },
+    {
+      "id": "dwarka-q11",
+      "difficulty": "medium",
+      "q": "Why did Jarasandha besiege Mathura again and again?",
+      "options": ["Krishna had stolen the Syamantaka jewel from him", "Krishna had slain Kamsa, the husband of Jarasandha's daughters", "The Yadavas had raided his capital Girivraja", "Balarama had insulted him at a royal swayamvara"],
+      "answer": 1,
+      "explanation": "Kamsa was Jarasandha's son-in-law, and the Magadhan emperor swore vengeance when Krishna killed him."
+    },
+    {
+      "id": "dwarka-q12",
+      "difficulty": "medium",
+      "q": "Who sat as the crowned king of the Yadavas at Dwarka?",
+      "options": ["Krishna himself", "Vasudeva", "Ugrasena", "Satyaki"],
+      "answer": 2,
+      "explanation": "Krishna restored Ugrasena to the throne after slaying Kamsa, and Ugrasena reigned as the formal king at Dwarka."
+    },
+    {
+      "id": "dwarka-q13",
+      "difficulty": "medium",
+      "q": "On which festive hill near Dwarka did Arjuna first behold Subhadra?",
+      "options": ["Raivataka", "Govardhana", "Indrakila", "Gandhamadana"],
+      "answer": 0,
+      "explanation": "During a great festival on Mount Raivataka, Arjuna saw Subhadra and resolved to win her."
+    },
+    {
+      "id": "dwarka-q14",
+      "difficulty": "medium",
+      "q": "Who led Dwarka's survivors away before the sea came?",
+      "options": ["Yudhishthira", "Daruka", "Vajra", "Arjuna"],
+      "answer": 3,
+      "explanation": "Arjuna travelled to Dwarka after the Yadava massacre and led the women, children, and elders out as the waters began to rise."
+    },
+    {
+      "id": "dwarka-q15",
+      "difficulty": "medium",
+      "q": "Where was young Vajra enthroned after the exodus from Dwarka?",
+      "options": ["Hastinapura", "Champa", "Indraprastha", "Kampilya"],
+      "answer": 2,
+      "explanation": "The Mausala Parva says Arjuna installed Vajra as king at Indraprastha, though some later retellings place him at Mathura."
+    },
+    {
+      "id": "dwarka-q16",
+      "difficulty": "medium",
+      "q": "Who attacked the refugee column on the road from Dwarka?",
+      "options": ["Abhira herdsmen turned robbers", "Trigarta charioteers", "Nishada hunters of the hills", "Kirata raiders from the north"],
+      "answer": 0,
+      "explanation": "Abhira robbers fell upon the caravan, and Arjuna, his divine prowess faded, could not protect many of Krishna's women."
+    },
+    {
+      "id": "dwarka-q17",
+      "difficulty": "medium",
+      "q": "What destroyed the Yadava men shortly before the sea took Dwarka?",
+      "options": ["A plague sent by angered sages", "A drunken brawl fought with iron-hard eraka grass", "Shalva's renewed assault from the sky", "A famine that emptied the city"],
+      "answer": 1,
+      "explanation": "At Prabhasa the drunken Yadavas turned on one another, and the eraka reeds they snatched up became iron in their hands."
+    },
+    {
+      "id": "dwarka-q18",
+      "difficulty": "medium",
+      "q": "Which grieving queen's curse foretold the destruction of Krishna's clan and capital?",
+      "options": ["Kunti", "Draupadi", "Satyabhama", "Gandhari"],
+      "answer": 3,
+      "explanation": "After her hundred sons died, Gandhari cursed Krishna that the Yadavas would slaughter one another in thirty-six years."
+    },
+    {
+      "id": "dwarka-q19",
+      "difficulty": "medium",
+      "q": "Who was dressed as a pregnant woman in the prank that drew the sages' curse on the Yadavas?",
+      "options": ["Samba", "Pradyumna", "Aniruddha", "Charudeshna"],
+      "answer": 0,
+      "explanation": "The Yadava youths presented Krishna's son Samba as a pregnant woman, and the insulted sages decreed he would deliver an iron pestle to destroy the clan."
+    },
+    {
+      "id": "dwarka-q20",
+      "difficulty": "medium",
+      "q": "What was done with the cursed iron pestle after it was ground to powder?",
+      "options": ["It was buried beneath the palace floor", "It was melted into a temple bell", "It was cast into the sea, washing ashore as deadly grass", "It was hurled into a mountain chasm"],
+      "answer": 2,
+      "explanation": "The powder thrown into the sea returned on the shore of Prabhasa as razor-sharp eraka grass, the very weapon of the Yadava self-slaughter."
+    },
+    {
+      "id": "dwarka-q21",
+      "difficulty": "medium",
+      "q": "By what alternative name was Krishna's sea-girt capital known?",
+      "options": ["Mahishmati", "Dvaravati", "Shonitapura", "Pragjyotisha"],
+      "answer": 1,
+      "explanation": "The epic frequently calls the city Dvaravati, another form of the name Dwarka."
+    },
+    {
+      "id": "dwarka-q22",
+      "difficulty": "medium",
+      "q": "Where did Krishna send the Yadavas for the seaside festival that became their last?",
+      "options": ["Pushkara", "Naimisha", "Kurukshetra", "Prabhasa"],
+      "answer": 3,
+      "explanation": "Seeing evil omens fill Dwarka, Krishna directed the Yadavas to the holy shore of Prabhasa, where the fratricidal brawl erupted."
+    },
+    {
+      "id": "dwarka-q23",
+      "difficulty": "hard",
+      "q": "How many times is Jarasandha commonly said to have attacked Mathura before the move to Dwarka?",
+      "options": ["Seventeen", "Seven", "Twenty-one", "One hundred"],
+      "answer": 0,
+      "explanation": "The Puranic count has Jarasandha defeated seventeen times, with the next campaign prompting Krishna to shift the Yadavas west."
+    },
+    {
+      "id": "dwarka-q24",
+      "difficulty": "hard",
+      "q": "Which other invader menaced Mathura at the time of the move and was lured to his doom in Muchukunda's cave?",
+      "options": ["Shishupala", "Paundraka", "Kalayavana", "Narakasura"],
+      "answer": 2,
+      "explanation": "Krishna led the foreign king Kalayavana into the cave where the sleeping Muchukunda's awakened gaze burned him to ash, a tale from the Harivamsha and Puranas."
+    },
+    {
+      "id": "dwarka-q25",
+      "difficulty": "hard",
+      "q": "Which epithet did Krishna earn for quitting the battlefield of Mathura?",
+      "options": ["Madhusudana", "Keshava", "Damodara", "Ranchhod"],
+      "answer": 3,
+      "explanation": "Tradition, especially in Gujarat, lovingly calls Krishna Ranchhod, the one who left the battlefield, for choosing strategic retreat to Dwarka over pride."
+    },
+    {
+      "id": "dwarka-q26",
+      "difficulty": "hard",
+      "q": "Dwarka rose on the site of which ancient city of King Revata's line?",
+      "options": ["Kushavati", "Kushasthali", "Saketa", "Avanti"],
+      "answer": 1,
+      "explanation": "The new capital was raised on the site of Kushasthali, the old fortress of Raivata's dynasty in the Anarta country."
+    },
+    {
+      "id": "dwarka-q27",
+      "difficulty": "hard",
+      "q": "How was Vajra, the last king sent out of Dwarka, related to Krishna?",
+      "options": ["Grandson through Samba", "Great-grandson through Pradyumna and Aniruddha", "Nephew through Gada", "Grandnephew through Satyaki"],
+      "answer": 1,
+      "explanation": "Vajra was the son of Aniruddha and grandson of Pradyumna, making him Krishna's great-grandson and the surviving heir of the Yadavas."
+    },
+    {
+      "id": "dwarka-q28",
+      "difficulty": "hard",
+      "q": "Which parva of the Mahabharata narrates the destruction of Dwarka?",
+      "options": ["Mausala Parva", "Stri Parva", "Shalya Parva", "Sauptika Parva"],
+      "answer": 0,
+      "explanation": "The Mausala Parva, the book of the iron pestle, tells of the Yadava massacre, Krishna's death, and the sea taking Dwarka."
+    },
+    {
+      "id": "dwarka-q29",
+      "difficulty": "hard",
+      "q": "What was the name of the hunter whose arrow killed Krishna near Dwarka?",
+      "options": ["Guha", "Vyadha", "Jara", "Kirata"],
+      "answer": 2,
+      "explanation": "The hunter Jara, whose name means old age, mistook Krishna's heel for a deer and loosed the fatal arrow at Prabhasa."
+    },
+    {
+      "id": "dwarka-q30",
+      "difficulty": "hard",
+      "q": "Who carried the news of the Yadava massacre from Dwarka to the Pandavas?",
+      "options": ["Satyaki", "Uddhava", "Akrura", "Daruka"],
+      "answer": 3,
+      "explanation": "Krishna's charioteer Daruka rode to Hastinapura to summon Arjuna for the evacuation of the doomed city."
+    }
+  ]
+}

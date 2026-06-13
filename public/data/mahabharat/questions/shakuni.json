@@ -1,0 +1,395 @@
+{
+  "cardId": "shakuni",
+  "questions": [
+    {
+      "id": "shakuni-q01",
+      "difficulty": "easy",
+      "q": "Of which kingdom was Shakuni a prince?",
+      "options": [
+        "Madra",
+        "Gandhara",
+        "Sindhu",
+        "Kekaya"
+      ],
+      "answer": 1,
+      "explanation": "Shakuni was a prince of Gandhara, the far northwestern kingdom whose name survives in modern Kandahar."
+    },
+    {
+      "id": "shakuni-q02",
+      "difficulty": "easy",
+      "q": "Who was Shakuni's sister?",
+      "options": [
+        "Kunti, mother of the Pandavas",
+        "Madri, the second wife of Pandu",
+        "Dushala, the wife of Jayadratha",
+        "Gandhari, the blindfolded queen"
+      ],
+      "answer": 3,
+      "explanation": "Shakuni was the brother of Gandhari, who married the blind king Dhritarashtra of Hastinapura."
+    },
+    {
+      "id": "shakuni-q03",
+      "difficulty": "easy",
+      "q": "Which nephew did Shakuni constantly counsel and scheme for?",
+      "options": [
+        "Duryodhana",
+        "Yudhishthira",
+        "Abhimanyu",
+        "Ghatotkacha"
+      ],
+      "answer": 0,
+      "explanation": "Shakuni was the whispering uncle behind Duryodhana, feeding his envy and engineering his plots."
+    },
+    {
+      "id": "shakuni-q04",
+      "difficulty": "easy",
+      "q": "What skill made Shakuni infamous throughout the epic?",
+      "options": [
+        "Forging unbreakable weapons",
+        "Reading the stars and omens",
+        "His mastery of the dice",
+        "Brewing untraceable poisons"
+      ],
+      "answer": 2,
+      "explanation": "Shakuni was a peerless dice player whose throws seemed to obey his will."
+    },
+    {
+      "id": "shakuni-q05",
+      "difficulty": "easy",
+      "q": "What scheme of Shakuni's stripped the Pandavas of their kingdom?",
+      "options": [
+        "A forged decree of banishment",
+        "The rigged game of dice",
+        "A midnight raid on Indraprastha",
+        "A false treaty with Panchala"
+      ],
+      "answer": 1,
+      "explanation": "Shakuni's crooked play at the dice game won Yudhishthira's wealth, kingdom, brothers, and finally Draupadi."
+    },
+    {
+      "id": "shakuni-q06",
+      "difficulty": "easy",
+      "q": "Which Pandava killed Shakuni in the war?",
+      "options": [
+        "Sahadeva",
+        "Nakula",
+        "Bhima",
+        "Arjuna"
+      ],
+      "answer": 0,
+      "explanation": "Sahadeva, the youngest Pandava, slew Shakuni exactly as he had vowed after the dice game."
+    },
+    {
+      "id": "shakuni-q07",
+      "difficulty": "easy",
+      "q": "On which day of the Kurukshetra war did Shakuni die?",
+      "options": [
+        "The tenth day",
+        "The thirteenth day",
+        "The seventeenth day",
+        "The eighteenth day"
+      ],
+      "answer": 3,
+      "explanation": "Shakuni fell on the eighteenth and final day of the war, shortly before Duryodhana's last stand."
+    },
+    {
+      "id": "shakuni-q08",
+      "difficulty": "easy",
+      "q": "In the dice game against Yudhishthira, who actually cast the dice for the Kaurava side?",
+      "options": [
+        "Duryodhana, the challenger",
+        "Dushasana, his loyal brother",
+        "Shakuni, playing on Duryodhana's behalf",
+        "Karna, the king of Anga"
+      ],
+      "answer": 2,
+      "explanation": "Duryodhana supplied the stakes while his uncle Shakuni threw the dice and won every round."
+    },
+    {
+      "id": "shakuni-q09",
+      "difficulty": "easy",
+      "q": "By what patronymic is Shakuni often called in the epic?",
+      "options": [
+        "Saubala, son of Subala",
+        "Gandharva, son of the north",
+        "Kaitava, son of deception",
+        "Parvateya, son of the mountains"
+      ],
+      "answer": 0,
+      "explanation": "Shakuni is frequently called Saubala after his father Subala, the king of Gandhara."
+    },
+    {
+      "id": "shakuni-q10",
+      "difficulty": "easy",
+      "q": "What was the family relationship between Shakuni and Duryodhana?",
+      "options": [
+        "Teacher and pupil bound by oath",
+        "Maternal uncle and nephew",
+        "Foster brothers raised together",
+        "Cousins through King Subala"
+      ],
+      "answer": 1,
+      "explanation": "As Gandhari's brother, Shakuni was Duryodhana's maternal uncle, his mama and closest adviser."
+    },
+    {
+      "id": "shakuni-q11",
+      "difficulty": "medium",
+      "q": "What was at stake in the second, final round of dice?",
+      "options": [
+        "The throne of Hastinapura against Indraprastha",
+        "Draupadi's freedom against half the kingdom",
+        "Thirteen years of exile, the last spent in disguise",
+        "A pledge of peace lasting thirty-six years"
+      ],
+      "answer": 2,
+      "explanation": "The single final throw condemned the losers to twelve years of forest exile and a thirteenth year undiscovered, or the whole term again."
+    },
+    {
+      "id": "shakuni-q12",
+      "difficulty": "medium",
+      "q": "Why did Yudhishthira feel unable to refuse the invitation to dice?",
+      "options": [
+        "Shakuni had promised him the game would be fair",
+        "He trusted that his luck at dice could never fail",
+        "Draupadi and his brothers urged him to accept",
+        "Honor forbade refusing a challenge, and his elder had summoned him"
+      ],
+      "answer": 3,
+      "explanation": "Bound by the kshatriya code never to decline a challenge and by Dhritarashtra's summons, Yudhishthira went despite his misgivings."
+    },
+    {
+      "id": "shakuni-q13",
+      "difficulty": "medium",
+      "q": "What event planted the idea of the dice game in Shakuni's mind?",
+      "options": [
+        "Yudhishthira's victories in the Rajasuya conquests",
+        "Duryodhana's burning envy after his humiliation at Indraprastha",
+        "Bhima's taunts at the tournament of the princes",
+        "Krishna's growing friendship with the Pandavas"
+      ],
+      "answer": 1,
+      "explanation": "After Duryodhana was mocked in Maya's hall of illusions, Shakuni proposed the dice game as a bloodless way to ruin the Pandavas."
+    },
+    {
+      "id": "shakuni-q14",
+      "difficulty": "medium",
+      "q": "Who was Uluka, sent to the Pandavas with Duryodhana's insulting message on the eve of war?",
+      "options": [
+        "Shakuni's son",
+        "Shakuni's younger brother",
+        "Shakuni's charioteer",
+        "Shakuni's spymaster"
+      ],
+      "answer": 0,
+      "explanation": "Uluka was Shakuni's son, dispatched as Duryodhana's envoy to taunt the Pandavas before the fighting began."
+    },
+    {
+      "id": "shakuni-q15",
+      "difficulty": "medium",
+      "q": "What happened to Uluka on the war's final day?",
+      "options": [
+        "He fled to Gandhara and survived the war",
+        "He surrendered to Yudhishthira at dawn",
+        "He fell to Bhima while guarding Duryodhana",
+        "He was slain by Sahadeva before Shakuni's eyes"
+      ],
+      "answer": 3,
+      "explanation": "Sahadeva killed Uluka in his father's sight on the eighteenth day, just before bringing down Shakuni himself."
+    },
+    {
+      "id": "shakuni-q16",
+      "difficulty": "medium",
+      "q": "What vow was sworn against Shakuni after the dice game?",
+      "options": [
+        "Arjuna swore to kill him before the war's first sunset",
+        "Bhima swore to crush the hand that cast the dice",
+        "Sahadeva swore to cut him down in battle",
+        "Nakula swore to scatter his dice with arrows"
+      ],
+      "answer": 2,
+      "explanation": "In the assembly Sahadeva vowed to slay Shakuni, the architect of the deceitful game, and fulfilled it on the war's last day."
+    },
+    {
+      "id": "shakuni-q17",
+      "difficulty": "medium",
+      "q": "What declaration did Shakuni famously repeat after each decisive throw?",
+      "options": [
+        "I have won",
+        "The dice obey me",
+        "Fate favors Gandhara",
+        "Stake once more, king"
+      ],
+      "answer": 0,
+      "explanation": "After every round Shakuni announced that he had won, as stake after stake passed to Duryodhana."
+    },
+    {
+      "id": "shakuni-q18",
+      "difficulty": "medium",
+      "q": "In the epic's roll of incarnations, Shakuni embodied what?",
+      "options": [
+        "Kali, the spirit of the darkest age",
+        "Dvapara, the spirit of the age of the deuce",
+        "The asura Viprachitti reborn",
+        "The serpent Takshaka in human form"
+      ],
+      "answer": 1,
+      "explanation": "The Adi Parva identifies Shakuni as Dvapara incarnate, the spirit of the losing dice-throw, while Duryodhana embodied Kali."
+    },
+    {
+      "id": "shakuni-q19",
+      "difficulty": "medium",
+      "q": "What forces did Shakuni command at Kurukshetra?",
+      "options": [
+        "The elephant corps of the eastern kings",
+        "The river fleet guarding the supply lines",
+        "The Gandhara horsemen of the northwest",
+        "The mercenary archers of the southern coast"
+      ],
+      "answer": 2,
+      "explanation": "Shakuni led the swift cavalry of Gandhara, mountain horsemen who harried the Pandava flanks."
+    },
+    {
+      "id": "shakuni-q20",
+      "difficulty": "medium",
+      "q": "How did Shakuni famously describe his dice when promising to win Yudhishthira's wealth without a battle?",
+      "options": [
+        "As gifts from the god of fate himself",
+        "As older than the throne of Hastinapura",
+        "As pieces carved from his own destiny",
+        "As his bow and arrows, his skill of battle"
+      ],
+      "answer": 3,
+      "explanation": "In the Sabha Parva, Shakuni boasted that the dice were his bows and arrows, the heart of the dice his bowstring, and the dice-board his chariot — gambling was his form of war."
+    },
+    {
+      "id": "shakuni-q21",
+      "difficulty": "medium",
+      "q": "During Krishna's peace embassy, Shakuni was among those who backed which plan of Duryodhana's?",
+      "options": [
+        "To seize and imprison Krishna the envoy",
+        "To poison the envoy's evening meal",
+        "To ambush the envoy on the road home",
+        "To bribe the envoy with Gandhara gold"
+      ],
+      "answer": 0,
+      "explanation": "Duryodhana plotted with his inner circle to capture Krishna, a scheme foiled when Krishna revealed his cosmic form."
+    },
+    {
+      "id": "shakuni-q22",
+      "difficulty": "medium",
+      "q": "What was the last stake Yudhishthira wagered and lost at Shakuni's urging in the first game?",
+      "options": [
+        "His own freedom, after losing his brothers",
+        "Draupadi, after he had staked even himself",
+        "The crown jewels of Indraprastha",
+        "The royal treasury and his chariots"
+      ],
+      "answer": 1,
+      "explanation": "Having lost his wealth, his brothers, and his own self, Yudhishthira finally staked Draupadi, and Shakuni won again."
+    },
+    {
+      "id": "shakuni-q23",
+      "difficulty": "hard",
+      "q": "What weapon ended Shakuni's life?",
+      "options": [
+        "Sahadeva's sword in a duel fought on foot",
+        "A spear hurled from Nakula's chariot",
+        "A gold-winged broad-headed arrow from Sahadeva's bow",
+        "A mace blow delivered beside the lake"
+      ],
+      "answer": 2,
+      "explanation": "Sahadeva severed Shakuni's head with a broad-headed arrow winged with gold in the final day's fighting."
+    },
+    {
+      "id": "shakuni-q24",
+      "difficulty": "hard",
+      "q": "With what did Sahadeva taunt Shakuni at the moment of killing him?",
+      "options": [
+        "The memory of Uluka's flight from battle",
+        "The exile's years counted out like throws",
+        "The blindfold his sister wore for life",
+        "The dice of the gambling hall, now answered by arrows"
+      ],
+      "answer": 3,
+      "explanation": "Sahadeva reminded Shakuni of the dice he had cast in the assembly hall, declaring that arrows would now repay those throws."
+    },
+    {
+      "id": "shakuni-q25",
+      "difficulty": "hard",
+      "q": "When Sahadeva struck down his son Uluka, how did Shakuni respond?",
+      "options": [
+        "He wept and charged at Sahadeva in grief and fury",
+        "He fled toward Duryodhana's last stronghold",
+        "He offered Sahadeva his dice as ransom",
+        "He called on Ashwatthama to avenge the boy"
+      ],
+      "answer": 0,
+      "explanation": "Maddened by grief at Uluka's death, Shakuni rushed upon Sahadeva and was slain in that final clash."
+    },
+    {
+      "id": "shakuni-q26",
+      "difficulty": "hard",
+      "q": "Early in the war, several of Shakuni's brothers were slain when they attacked which warrior?",
+      "options": [
+        "Abhimanyu, the son of Subhadra",
+        "Iravan, Arjuna's son by the naga princess Ulupi",
+        "Ghatotkacha, the giant son of Bhima",
+        "Shikhandi, the reborn princess of Kashi"
+      ],
+      "answer": 1,
+      "explanation": "On the eighth day the Gandhara princes, sons of Subala, fell upon Iravan and were cut down by him before he himself was slain."
+    },
+    {
+      "id": "shakuni-q27",
+      "difficulty": "hard",
+      "q": "In popular later retellings, what were Shakuni's unbeatable dice said to be made from?",
+      "options": [
+        "Ivory taken from the king of elephants",
+        "The knucklebones of a defeated rival king",
+        "The wood of a tree struck by lightning",
+        "The bones of his dead father, Subala"
+      ],
+      "answer": 3,
+      "explanation": "The tale that the dice were carved from Subala's bones and obeyed his son is a popular folk addition, absent from Vyasa's Sanskrit epic, where Shakuni simply plays with deceitful skill."
+    },
+    {
+      "id": "shakuni-q28",
+      "difficulty": "hard",
+      "q": "By the time Shakuni fell on the eighteenth day, what was true of the Kaurava leadership?",
+      "options": [
+        "Bhishma and Drona still directed the armies from the field",
+        "Karna had withdrawn wounded to the royal camp",
+        "Shalya had already fallen, leaving Duryodhana all but alone",
+        "Ashwatthama had been crowned the supreme commander"
+      ],
+      "answer": 2,
+      "explanation": "Yudhishthira had killed the commander Shalya that morning, so Shakuni's death left Duryodhana with almost no leaders standing."
+    },
+    {
+      "id": "shakuni-q29",
+      "difficulty": "hard",
+      "q": "Who was Shakuni's father?",
+      "options": [
+        "Subala, the king of Gandhara",
+        "Suvira, the lord of the hills",
+        "Sudakshina of Kamboja",
+        "Susharma of Trigarta"
+      ],
+      "answer": 0,
+      "explanation": "Shakuni was the son of King Subala of Gandhara, which is why the epic calls him Saubala."
+    },
+    {
+      "id": "shakuni-q30",
+      "difficulty": "hard",
+      "q": "Why did Yudhishthira protest before agreeing that Shakuni would throw the dice?",
+      "options": [
+        "He suspected the dice were enchanted by demons",
+        "He wanted Vidura to inspect the dice beforehand",
+        "He had vowed to gamble only against crowned kings",
+        "It seemed crooked for a substitute to play on Duryodhana's behalf"
+      ],
+      "answer": 3,
+      "explanation": "Yudhishthira objected that one man staking while another played was irregular, but Shakuni brushed the objection aside and the game went on."
+    }
+  ]
+}

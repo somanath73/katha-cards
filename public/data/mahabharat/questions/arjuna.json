@@ -1,0 +1,245 @@
+{
+  "cardId": "arjuna",
+  "questions": [
+    {
+      "id": "arjuna-q01",
+      "difficulty": "easy",
+      "q": "Which god fathered Arjuna?",
+      "options": ["Surya, the sun god", "Vayu, the wind god", "Indra, king of the gods", "Agni, the fire god"],
+      "answer": 2,
+      "explanation": "Kunti summoned Indra, king of the gods, and bore Arjuna as her third son."
+    },
+    {
+      "id": "arjuna-q02",
+      "difficulty": "easy",
+      "q": "What was the name of Arjuna's celestial bow?",
+      "options": ["Vijaya", "Gandiva", "Sharanga", "Pinaka"],
+      "answer": 1,
+      "explanation": "Arjuna wielded the Gandiva, a bow of Brahma's making that came to him at the burning of the Khandava forest."
+    },
+    {
+      "id": "arjuna-q03",
+      "difficulty": "easy",
+      "q": "Who served as Arjuna's charioteer in the Kurukshetra war?",
+      "options": ["Balarama", "Satyaki", "Shalya", "Krishna"],
+      "answer": 3,
+      "explanation": "Krishna chose to drive Arjuna's chariot unarmed, and from that chariot box he spoke the Bhagavad Gita."
+    },
+    {
+      "id": "arjuna-q04",
+      "difficulty": "easy",
+      "q": "What was the name of Arjuna's conch?",
+      "options": ["Devadatta", "Panchajanya", "Paundra", "Anantavijaya"],
+      "answer": 0,
+      "explanation": "Arjuna blew the white conch Devadatta, the god-given shell whose blast unmanned enemy hearts."
+    },
+    {
+      "id": "arjuna-q05",
+      "difficulty": "easy",
+      "q": "What feat won Arjuna the hand of Draupadi at her swayamvara?",
+      "options": ["He defeated every king in single combat", "He pierced the eye of a revolving fish while watching its reflection", "He strung the bow of Shiva that none could lift", "He out-shot Karna in a contest of speed"],
+      "answer": 1,
+      "explanation": "Disguised as a brahmin, Arjuna strung the colossal bow and struck the eye of the fish revolving overhead while aiming at its reflection below."
+    },
+    {
+      "id": "arjuna-q06",
+      "difficulty": "easy",
+      "q": "Who was Arjuna's weapons teacher, whose favorite pupil he became?",
+      "options": ["Kripa", "Parashurama", "Drona", "Bhishma"],
+      "answer": 2,
+      "explanation": "Drona, weapons master of the Kuru princes, loved Arjuna above all his students and promised to make him the world's greatest archer."
+    },
+    {
+      "id": "arjuna-q07",
+      "difficulty": "easy",
+      "q": "What identity did Arjuna assume during the year of hiding at Virata's court?",
+      "options": ["Kanka the courtier", "Vallabha the cook", "Granthika the horse-keeper", "Brihannala the dance teacher"],
+      "answer": 3,
+      "explanation": "Arjuna spent the thirteenth year as Brihannala, teaching dance and music to the princess Uttara."
+    },
+    {
+      "id": "arjuna-q08",
+      "difficulty": "easy",
+      "q": "Which sister of Krishna did Arjuna marry?",
+      "options": ["Subhadra", "Uttara", "Revati", "Rukmini"],
+      "answer": 0,
+      "explanation": "Arjuna carried off Subhadra with her full consent and Krishna's blessing, and she drove the chariot herself."
+    },
+    {
+      "id": "arjuna-q09",
+      "difficulty": "easy",
+      "q": "Who was Arjuna's son with Subhadra, slain inside the Chakravyuha?",
+      "options": ["Iravan", "Babruvahana", "Abhimanyu", "Shrutakarman"],
+      "answer": 2,
+      "explanation": "Abhimanyu, who learned the wheel formation's entrance in his mother's womb, died on the thirteenth day surrounded by six maharathis."
+    },
+    {
+      "id": "arjuna-q10",
+      "difficulty": "easy",
+      "q": "What teaching did Krishna deliver to Arjuna between the two armies at Kurukshetra?",
+      "options": ["The Vidura Niti", "The Bhagavad Gita", "The Anu Gita", "The Yoga Vasishtha"],
+      "answer": 1,
+      "explanation": "When Arjuna dropped his bow at the sight of his kinsmen, Krishna spoke the seven hundred verses of the Bhagavad Gita."
+    },
+    {
+      "id": "arjuna-q11",
+      "difficulty": "medium",
+      "q": "Why was Arjuna called Savyasachi?",
+      "options": ["He could draw the bow with either hand", "He never missed a moving target", "He could loose a thousand arrows in a breath", "He fought best from a moving chariot"],
+      "answer": 0,
+      "explanation": "Savyasachi means one who can shoot with the left hand as well as the right, marking Arjuna's ambidextrous archery."
+    },
+    {
+      "id": "arjuna-q12",
+      "difficulty": "medium",
+      "q": "Who fought Arjuna in the guise of a mountain hunter over a slain boar?",
+      "options": ["Indra in disguise", "Shiva in disguise", "Varuna in disguise", "Yama in disguise"],
+      "answer": 1,
+      "explanation": "Shiva came as a kirata hunter on Mount Indrakila, wrestled the mortal who would not yield, and rewarded him with the Pashupatastra."
+    },
+    {
+      "id": "arjuna-q13",
+      "difficulty": "medium",
+      "q": "Why did Arjuna spend a year living as the dancer Brihannala?",
+      "options": ["He swore it as penance for killing a brahmin", "Drona demanded it as his teaching fee", "Shiva required it before granting his weapon", "The apsara Urvashi cursed him when he refused her advances"],
+      "answer": 3,
+      "explanation": "Urvashi cursed Arjuna to lose his manhood when he honored her as a mother, and Indra softened the curse to a single year of Arjuna's choosing."
+    },
+    {
+      "id": "arjuna-q14",
+      "difficulty": "medium",
+      "q": "What did Arjuna vow after learning how his son Abhimanyu had died?",
+      "options": ["To slay Drona before the war's end", "To destroy the whole Kaurava army in one day", "To kill Jayadratha before the next sunset or burn himself alive", "To never again leave his brothers' side in battle"],
+      "answer": 2,
+      "explanation": "Arjuna swore to kill Jayadratha, who had sealed the wheel formation behind Abhimanyu, by sundown of the fourteenth day or enter the fire."
+    },
+    {
+      "id": "arjuna-q15",
+      "difficulty": "medium",
+      "q": "How did Krishna help Arjuna reach Jayadratha before his sunset deadline?",
+      "options": ["He veiled the sun with his Sudarshana discus, feigning sunset", "He spirited Jayadratha's guards away with illusions", "He drove the chariot unseen through the Kaurava camp", "He persuaded Drona to open the formation"],
+      "answer": 0,
+      "explanation": "When the sky darkened the celebrating guards relaxed, Krishna withdrew the discus, and Arjuna's arrow took Jayadratha's head in the returning light."
+    },
+    {
+      "id": "arjuna-q16",
+      "difficulty": "medium",
+      "q": "Behind which warrior did Arjuna position himself to bring down Bhishma on the tenth day?",
+      "options": ["Dhrishtadyumna", "Drupada", "Virata", "Shikhandi"],
+      "answer": 3,
+      "explanation": "Bhishma would not raise arms against Shikhandi, who had been born a woman, so Arjuna's arrows flew from behind him."
+    },
+    {
+      "id": "arjuna-q17",
+      "difficulty": "medium",
+      "q": "With which arrow did Arjuna behead Karna on the seventeenth day?",
+      "options": ["The Anjalika", "The Nagastra", "The Varunastra", "The Vajrastra"],
+      "answer": 0,
+      "explanation": "As Karna struggled with his sunken chariot wheel, Arjuna loosed the Anjalika arrow at Krishna's urging."
+    },
+    {
+      "id": "arjuna-q18",
+      "difficulty": "medium",
+      "q": "From whose keeping did the bow Gandiva pass to Arjuna at the burning of the Khandava forest?",
+      "options": ["Indra's", "Varuna's", "Brahma's", "Surya's"],
+      "answer": 1,
+      "explanation": "At Agni's request Varuna bestowed on Arjuna the Gandiva along with two inexhaustible quivers and a divine chariot."
+    },
+    {
+      "id": "arjuna-q19",
+      "difficulty": "medium",
+      "q": "In Drona's test of aim at a wooden bird, what did Arjuna say he could see?",
+      "options": ["The whole bird on its branch", "The tree, the bird and the sky", "Only the eye of the bird", "Nothing until the arrow flew"],
+      "answer": 2,
+      "explanation": "While the other princes described the tree and the bird, Arjuna saw only the bird's eye, and Drona told him to shoot."
+    },
+    {
+      "id": "arjuna-q20",
+      "difficulty": "medium",
+      "q": "Which figure rode upon the banner of Arjuna's chariot throughout the war?",
+      "options": ["A golden lion", "Hanuman", "Garuda", "A coiled serpent"],
+      "answer": 1,
+      "explanation": "Hanuman himself sat on the Kapi Dhwaja, Arjuna's monkey banner, roaring terror into enemy ranks."
+    },
+    {
+      "id": "arjuna-q21",
+      "difficulty": "medium",
+      "q": "Arjuna was held to be the incarnation of which ancient sage, eternally paired with Krishna's other half?",
+      "options": ["Nara", "Narayana", "Kapila", "Markandeya"],
+      "answer": 0,
+      "explanation": "Arjuna was Nara to Krishna's Narayana, the twin sages reborn to relieve the burdened earth."
+    },
+    {
+      "id": "arjuna-q22",
+      "difficulty": "medium",
+      "q": "Why did Arjuna undertake a twelve-year pilgrimage away from Indraprastha?",
+      "options": ["He lost a wager to his elder brother", "He slew a sage's deer by mischance", "He spurned the love of an apsara", "He intruded on Yudhishthira and Draupadi while fetching his weapons"],
+      "answer": 3,
+      "explanation": "To rescue a brahmin's stolen cattle Arjuna broke the brothers' privacy pact, and he insisted on serving the agreed exile despite Yudhishthira's pardon."
+    },
+    {
+      "id": "arjuna-q23",
+      "difficulty": "hard",
+      "q": "What nearly drove Arjuna to kill Yudhishthira on the seventeenth day of the war?",
+      "options": ["Yudhishthira ordered him to spare Karna", "Yudhishthira accused him of fleeing Karna's arrows", "Yudhishthira told him to give the Gandiva to a better warrior, triggering a secret vow", "Yudhishthira staked him in another game of dice"],
+      "answer": 2,
+      "explanation": "Arjuna had vowed to behead anyone who told him to surrender the Gandiva, and Krishna resolved it by counting harsh words to an elder as his death."
+    },
+    {
+      "id": "arjuna-q24",
+      "difficulty": "hard",
+      "q": "Which of Arjuna's sons defeated and killed him in battle during the Ashvamedha campaign, before he was revived?",
+      "options": ["Babruvahana", "Iravan", "Abhimanyu", "Shrutakarman"],
+      "answer": 0,
+      "explanation": "Babruvahana of Manipura felled his father, and the naga gem brought through Ulupi restored Arjuna, expiating his unfair slaying of Bhishma."
+    },
+    {
+      "id": "arjuna-q25",
+      "difficulty": "hard",
+      "q": "Who was Ulupi, who claimed Arjuna as her husband during his pilgrimage?",
+      "options": ["An apsara of Indra's court", "A princess of Manipura", "A daughter of King Virata", "A Naga princess of the underwater realm"],
+      "answer": 3,
+      "explanation": "Ulupi, daughter of the serpent king Kauravya, drew Arjuna into the naga realm and bore him the warrior Iravan."
+    },
+    {
+      "id": "arjuna-q26",
+      "difficulty": "hard",
+      "q": "Which direction did Arjuna conquer for Yudhishthira's Rajasuya sacrifice?",
+      "options": ["The south", "The north", "The east", "The west"],
+      "answer": 1,
+      "explanation": "Arjuna marched north, subduing kingdoms up to the Himalayan realms and bringing back vast tribute for the imperial sacrifice."
+    },
+    {
+      "id": "arjuna-q27",
+      "difficulty": "hard",
+      "q": "What happened to Arjuna's chariot at the end of the Kurukshetra war?",
+      "options": ["It was driven home in triumph to Hastinapura", "It sank into the earth with its horses", "It burst into flames the moment Krishna dismounted", "It was given to Parikshit as an heirloom"],
+      "answer": 2,
+      "explanation": "Krishna dismounted last and the chariot burned to ash, for only his presence and Hanuman's had held together a frame long destroyed by celestial weapons."
+    },
+    {
+      "id": "arjuna-q28",
+      "difficulty": "hard",
+      "q": "According to Yudhishthira, what flaw brought Arjuna down on the final journey north?",
+      "options": ["He had boasted he would destroy all his foes in a single day", "He had never forgiven Karna's insults", "He had doubted Krishna's word at the last", "He had grieved beyond measure for Abhimanyu"],
+      "answer": 0,
+      "explanation": "On the Mahaprasthana, Yudhishthira said Arjuna fell because of pride in his prowess and the boast that he could consume all enemies in one day."
+    },
+    {
+      "id": "arjuna-q29",
+      "difficulty": "hard",
+      "q": "After Krishna's death, what humiliation showed Arjuna that his old powers had left him?",
+      "options": ["He was defeated in a contest by the young Parikshit", "His arrows refused to leave the Gandiva's string", "He lost his way on the road to Dwarka", "He could not stop common robbers from seizing the Yadava women"],
+      "answer": 3,
+      "explanation": "Escorting the survivors of Dwarka, Arjuna found his quivers empty and his mantras forgotten as Abhira bandits carried off the women."
+    },
+    {
+      "id": "arjuna-q30",
+      "difficulty": "hard",
+      "q": "To whom did Arjuna recite his ten names to prove his identity at the end of the year in hiding?",
+      "options": ["King Virata", "Queen Sudeshna", "Prince Uttara", "The Kaurava envoy"],
+      "answer": 2,
+      "explanation": "At the shami tree before the cattle battle, Brihannala recited Arjuna's ten names to convince the terrified prince Uttara that his charioteer was the great archer himself."
+    }
+  ]
+}

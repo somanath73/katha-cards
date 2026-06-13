@@ -1,0 +1,245 @@
+{
+  "cardId": "thirteen-year-exile",
+  "questions": [
+    {
+      "id": "thirteen-year-exile-q01",
+      "difficulty": "easy",
+      "q": "How many years in total did the Pandavas have to spend in exile after losing the second game of dice?",
+      "options": ["Ten years", "Twelve years", "Thirteen years", "Eighteen years"],
+      "answer": 2,
+      "explanation": "The terms set twelve years in the forest plus a thirteenth year that had to be passed unrecognized."
+    },
+    {
+      "id": "thirteen-year-exile-q02",
+      "difficulty": "easy",
+      "q": "What special condition governed the thirteenth year of the Pandavas' exile?",
+      "options": ["They had to live among people without being recognized", "They had to keep total silence for the year", "They had to remain inside the Kamyaka forest", "They had to surrender their weapons in Hastinapura"],
+      "answer": 0,
+      "explanation": "The agyatavasa, the year unseen, required them to live in disguise without anyone discovering who they were."
+    },
+    {
+      "id": "thirteen-year-exile-q03",
+      "difficulty": "easy",
+      "q": "What was the penalty if the Pandavas were discovered during their year in hiding?",
+      "options": ["Draupadi would become a Kaurava servant", "They would forfeit Indraprastha forever", "Each brother would owe a year of servitude", "The entire term of exile would begin again"],
+      "answer": 3,
+      "explanation": "Discovery meant serving the whole sentence anew, twelve years in the forest and another year unseen."
+    },
+    {
+      "id": "thirteen-year-exile-q04",
+      "difficulty": "easy",
+      "q": "Which event condemned the Pandavas to their thirteen-year exile?",
+      "options": ["The burning of the house of lac", "The failure of Krishna's peace embassy", "The second game of dice with Shakuni", "Drona's demand for his teacher's fee"],
+      "answer": 2,
+      "explanation": "Yudhishthira lost the second match against Shakuni's dice, and exile was the stake."
+    },
+    {
+      "id": "thirteen-year-exile-q05",
+      "difficulty": "easy",
+      "q": "Who shared the forest exile with the five Pandava brothers?",
+      "options": ["Kunti", "Subhadra", "Draupadi", "Uttara"],
+      "answer": 2,
+      "explanation": "Draupadi went into the forest with her husbands, while Kunti stayed behind in Vidura's household."
+    },
+    {
+      "id": "thirteen-year-exile-q06",
+      "difficulty": "easy",
+      "q": "In whose kingdom did the Pandavas pass their thirteenth year in disguise?",
+      "options": ["Drupada of Panchala", "Virata of Matsya", "Jayadratha of Sindhu", "Shalya of Madra"],
+      "answer": 1,
+      "explanation": "They entered the service of old King Virata of the Matsya kingdom under assumed identities."
+    },
+    {
+      "id": "thirteen-year-exile-q07",
+      "difficulty": "easy",
+      "q": "Which two forests sheltered the Pandavas for most of their twelve wandering years?",
+      "options": ["Kamyaka and Dwaita", "Khandava and Naimisha", "Dandaka and Panchavati", "Madhuvana and Champaka"],
+      "answer": 0,
+      "explanation": "The brothers moved chiefly between the Kamyaka and Dwaita forests, living among sages and hunters."
+    },
+    {
+      "id": "thirteen-year-exile-q08",
+      "difficulty": "easy",
+      "q": "Which Pandava left the others during the exile to win celestial weapons through penance?",
+      "options": ["Bhima", "Yudhishthira", "Sahadeva", "Arjuna"],
+      "answer": 3,
+      "explanation": "Arjuna travelled north to the Himalayas to perform austerities and gather divine weapons for the coming war."
+    },
+    {
+      "id": "thirteen-year-exile-q09",
+      "difficulty": "easy",
+      "q": "Which god granted Yudhishthira the Akshaya Patra to feed his followers in the forest?",
+      "options": ["Indra", "Surya", "Agni", "Varuna"],
+      "answer": 1,
+      "explanation": "Surya, the sun god, gave the inexhaustible vessel that yielded food each day until Draupadi had eaten."
+    },
+    {
+      "id": "thirteen-year-exile-q10",
+      "difficulty": "easy",
+      "q": "During the year in disguise, who crushed Kichaka for tormenting Draupadi?",
+      "options": ["Bhima", "Arjuna", "Nakula", "Yudhishthira"],
+      "answer": 0,
+      "explanation": "Bhima met Kichaka in the dance hall at night and crushed him into a shapeless mass."
+    },
+    {
+      "id": "thirteen-year-exile-q11",
+      "difficulty": "medium",
+      "q": "Who carried off Draupadi from the Kamyaka forest while the brothers were away hunting?",
+      "options": ["Kichaka of Matsya", "Shishupala of Chedi", "Jayadratha of Sindhu", "Bhagadatta of Pragjyotisha"],
+      "answer": 2,
+      "explanation": "Jayadratha, husband of the Kauravas' sister Dussala, seized Draupadi and was hunted down by the Pandavas."
+    },
+    {
+      "id": "thirteen-year-exile-q12",
+      "difficulty": "medium",
+      "q": "How was Jayadratha punished after his failed abduction of Draupadi during the exile?",
+      "options": ["He was executed by Arjuna on the spot", "His kingdom was stripped from him", "He was imprisoned for the rest of the exile", "His head was shaved and he was released alive"],
+      "answer": 3,
+      "explanation": "At Yudhishthira's word Bhima spared his life but shaved his head, leaving five tufts, and let him go in disgrace."
+    },
+    {
+      "id": "thirteen-year-exile-q13",
+      "difficulty": "medium",
+      "q": "What was the Ghosha Yatra, the expedition that ended in humiliation for Duryodhana?",
+      "options": ["A pilgrimage to the lakes of Samantapanchaka", "A trip to the cattle stations meant to flaunt wealth before the exiled Pandavas", "A hunting party arranged by Karna in Gandhara", "A spy mission to find where the Pandavas hid"],
+      "answer": 1,
+      "explanation": "On the pretext of inspecting the royal herds, Duryodhana went to parade his splendour before the exiles and was captured instead."
+    },
+    {
+      "id": "thirteen-year-exile-q14",
+      "difficulty": "medium",
+      "q": "Who took Duryodhana prisoner during the Ghosha Yatra?",
+      "options": ["The rakshasa kin of Hidimba", "The gandharva king Chitrasena", "The Nishada archers of the hills", "Soldiers of Virata's Matsya kingdom"],
+      "answer": 1,
+      "explanation": "Chitrasena's gandharvas routed the Kaurava camp and bound Duryodhana, Karna having fled the field."
+    },
+    {
+      "id": "thirteen-year-exile-q15",
+      "difficulty": "medium",
+      "q": "Who rescued Duryodhana from his gandharva captors?",
+      "options": ["Karna and Shakuni", "Bhishma and Drona", "Arjuna and Bhima, at Yudhishthira's command", "Ashwatthama and Kripa"],
+      "answer": 2,
+      "explanation": "Yudhishthira ruled that a kinsman's humiliation shamed the whole family, so the Pandavas freed their own tormentor."
+    },
+    {
+      "id": "thirteen-year-exile-q16",
+      "difficulty": "medium",
+      "q": "Which famously short-tempered sage arrived with his disciples after Draupadi had already eaten, at Duryodhana's prompting?",
+      "options": ["Markandeya", "Lomasha", "Narada", "Durvasa"],
+      "answer": 3,
+      "explanation": "Duryodhana sent Durvasa hoping the unfed sage would curse the Pandavas, but Krishna intervened."
+    },
+    {
+      "id": "thirteen-year-exile-q17",
+      "difficulty": "medium",
+      "q": "Whom did Bhima find lying across his path while seeking the Saugandhika flower?",
+      "options": ["The serpent Takshaka", "His brother Hanuman", "The yaksha guardian of Kubera", "The sage Agastya"],
+      "answer": 1,
+      "explanation": "Hanuman, also a son of Vayu, blocked the path with his tail, humbled Bhima, and then blessed him."
+    },
+    {
+      "id": "thirteen-year-exile-q18",
+      "difficulty": "medium",
+      "q": "Near the end of the forest years, four Pandavas drank from a lake and fell dead because they ignored whose challenge?",
+      "options": ["An invisible yaksha guarding the water", "A naga king coiled beneath the surface", "A crane cursed by the sage Agastya", "A gandharva in Kubera's service"],
+      "answer": 0,
+      "explanation": "The yaksha, who was Dharma in disguise, revived them all after Yudhishthira answered his riddles."
+    },
+    {
+      "id": "thirteen-year-exile-q19",
+      "difficulty": "medium",
+      "q": "Where did the Pandavas conceal their weapons before entering Virata's service?",
+      "options": ["In a cave on Mount Indrakila", "Bound like a corpse high in a shami tree", "Beneath the altar of a forest shrine", "Sunk in a chest in the river Yamuna"],
+      "answer": 1,
+      "explanation": "They wrapped the weapons to look like a corpse and hung the bundle in a shami tree so that no one would touch it."
+    },
+    {
+      "id": "thirteen-year-exile-q20",
+      "difficulty": "medium",
+      "q": "Which identity did Arjuna assume in Virata's palace, turning Urvashi's curse into a shield?",
+      "options": ["Kanka, the dice-playing courtier", "Granthika, the keeper of horses", "Brihannala, the dance teacher", "Vallabha, the palace cook"],
+      "answer": 2,
+      "explanation": "As Brihannala, Arjuna taught dance and song to the princess Uttara, hidden in plain sight."
+    },
+    {
+      "id": "thirteen-year-exile-q21",
+      "difficulty": "medium",
+      "q": "Which sage consoled Yudhishthira with the tale of Nala and Damayanti, another king ruined by dice?",
+      "options": ["Vyasa", "Durvasa", "Lomasha", "Brihadashva"],
+      "answer": 3,
+      "explanation": "Brihadashva told the story of Nala and also taught Yudhishthira the Akshahridaya, the secret science of dice."
+    },
+    {
+      "id": "thirteen-year-exile-q22",
+      "difficulty": "medium",
+      "q": "Why did the apsara Urvashi curse Arjuna during his stay in Indra's heaven?",
+      "options": ["He defeated her beloved gandharva in a duel", "He rejected her advances, honouring her as a mother of his line", "He interrupted her dance before Indra's court", "He revealed her secret love to the assembled gods"],
+      "answer": 1,
+      "explanation": "Spurned, Urvashi cursed him to live as a eunuch, which Indra softened to a single year that became his perfect disguise."
+    },
+    {
+      "id": "thirteen-year-exile-q23",
+      "difficulty": "hard",
+      "q": "Which lore did Vyasa impart to Yudhishthira, who passed it to Arjuna so he could approach the gods for weapons?",
+      "options": ["The Pratismriti spell", "The Akshahridaya secret", "The Mritasanjivani science", "The Varuni invocation"],
+      "answer": 0,
+      "explanation": "Vyasa taught Yudhishthira the Pratismriti, and armed with it Arjuna set out north toward the gods."
+    },
+    {
+      "id": "thirteen-year-exile-q24",
+      "difficulty": "hard",
+      "q": "Which ocean-fortressed demons did Arjuna destroy on Indra's behalf during his years in heaven?",
+      "options": ["The Kalakanjas", "The Yatudhanas", "The Mandehas", "The Nivatakavachas"],
+      "answer": 3,
+      "explanation": "Arjuna annihilated the Nivatakavachas in their sea fortress and razed the flying city of Hiranyapura on his way back."
+    },
+    {
+      "id": "thirteen-year-exile-q25",
+      "difficulty": "hard",
+      "q": "Which sage strengthened the exiles with the story of Savitri, who argued her husband back from Yama?",
+      "options": ["Markandeya", "Dhaumya", "Narada", "Shaunaka"],
+      "answer": 0,
+      "explanation": "The long-lived Markandeya told the Pandavas the tales of Savitri and of Rama to fortify them in their suffering."
+    },
+    {
+      "id": "thirteen-year-exile-q26",
+      "difficulty": "hard",
+      "q": "After his shameful rescue from the gandharvas, what did Duryodhana resolve to do?",
+      "options": ["Abdicate in favour of Dushasana", "Renounce arms and turn ascetic", "March at once against the Dwaita forest", "Starve himself to death in disgrace"],
+      "answer": 3,
+      "explanation": "Duryodhana sat down to fast unto death and was dissuaded by Karna, Shakuni, and the daityas who claimed him as their own."
+    },
+    {
+      "id": "thirteen-year-exile-q27",
+      "difficulty": "hard",
+      "q": "A giant python seized Bhima in the hills and freed him only after Yudhishthira answered its questions; who was the serpent?",
+      "options": ["Takshaka, survivor of Khandava", "Nahusha, a fallen ancestor-king", "Vasuki, lord of the nagas", "Karkotaka of the burning wood"],
+      "answer": 1,
+      "explanation": "Nahusha, once king of heaven and cursed by Agastya into a serpent, was released from his curse by Yudhishthira's answers."
+    },
+    {
+      "id": "thirteen-year-exile-q28",
+      "difficulty": "hard",
+      "q": "Roughly how long did Arjuna remain in Indra's heaven, training in arms, music, and dance?",
+      "options": ["One year", "Three years", "Five years", "Seven years"],
+      "answer": 2,
+      "explanation": "Arjuna is commonly said to have spent five years in Amaravati, learning weapons from Indra and dance from Chitrasena."
+    },
+    {
+      "id": "thirteen-year-exile-q29",
+      "difficulty": "hard",
+      "q": "When Arjuna's identity came out at the cattle raid, who reckoned that the thirteenth year had in fact been completed?",
+      "options": ["Bhishma", "Drona", "Kripa", "Vidura"],
+      "answer": 0,
+      "explanation": "Bhishma calculated by the extra intercalary months of the lunar calendar that the full term had already passed, against Duryodhana's protest."
+    },
+    {
+      "id": "thirteen-year-exile-q30",
+      "difficulty": "hard",
+      "q": "Which sage, sent down from Indra's presence, guided the Pandavas on their great pilgrimage during the forest years?",
+      "options": ["Lomasha", "Pulastya", "Kanva", "Shaunaka"],
+      "answer": 0,
+      "explanation": "Lomasha brought word of Arjuna from heaven and then led the brothers on their tirtha-yatra along with the priest Dhaumya."
+    }
+  ]
+}

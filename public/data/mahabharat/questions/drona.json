@@ -1,0 +1,245 @@
+{
+  "cardId": "drona",
+  "questions": [
+    {
+      "id": "drona-q01",
+      "difficulty": "easy",
+      "q": "Who was Drona's father?",
+      "options": ["Parashara", "Bharadwaja", "Gautama", "Atri"],
+      "answer": 1,
+      "explanation": "Drona was the son of the great sage Bharadwaja."
+    },
+    {
+      "id": "drona-q02",
+      "difficulty": "easy",
+      "q": "How did Drona get his name?",
+      "options": ["He was born from a vessel, the drona", "He was named for the mountain of his birth", "It was the name of his father's hermitage", "It honors the bow he always carried"],
+      "answer": 0,
+      "explanation": "His father's seed was preserved in a drona, a vessel, from which the child was born."
+    },
+    {
+      "id": "drona-q03",
+      "difficulty": "easy",
+      "q": "Who was Drona's only son?",
+      "options": ["Uttamaujas", "Yuyutsu", "Ashwatthama", "Shrutakarma"],
+      "answer": 2,
+      "explanation": "Ashwatthama, born with a gem in his forehead, was Drona's beloved only son."
+    },
+    {
+      "id": "drona-q04",
+      "difficulty": "easy",
+      "q": "Whom did Drona marry?",
+      "options": ["Sudeshna", "Subhadra", "Devika", "Kripi"],
+      "answer": 3,
+      "explanation": "Drona married Kripi, the twin sister of Kripacharya."
+    },
+    {
+      "id": "drona-q05",
+      "difficulty": "easy",
+      "q": "What role did Drona hold at Hastinapura?",
+      "options": ["Chief minister of the realm", "Commander of the city guard", "Weapons teacher to the Kuru princes", "Royal priest of the court"],
+      "answer": 2,
+      "explanation": "Drona became the acharya who trained both the Pandavas and the Kauravas in arms."
+    },
+    {
+      "id": "drona-q06",
+      "difficulty": "easy",
+      "q": "Who was Drona's favorite pupil?",
+      "options": ["Duryodhana", "Yudhishthira", "Ashwatthama", "Arjuna"],
+      "answer": 3,
+      "explanation": "Arjuna's devotion and skill made him Drona's favorite, promised to be the world's greatest archer."
+    },
+    {
+      "id": "drona-q07",
+      "difficulty": "easy",
+      "q": "From which self-taught archer did Drona demand a thumb as his fee?",
+      "options": ["Barbarika", "Ekalavya", "Shikhandi", "Uttara"],
+      "answer": 1,
+      "explanation": "Ekalavya, who had learned before a clay image of Drona, cut off his right thumb without hesitation."
+    },
+    {
+      "id": "drona-q08",
+      "difficulty": "easy",
+      "q": "What gurudakshina did Drona demand from his royal pupils?",
+      "options": ["The capture of King Drupada", "A thousand cows with gilded horns", "Half of Hastinapura's treasury", "The kingdom of Anga for his son"],
+      "answer": 0,
+      "explanation": "As his teaching fee Drona demanded Drupada be brought to him in chains, and Arjuna delivered."
+    },
+    {
+      "id": "drona-q09",
+      "difficulty": "easy",
+      "q": "For how many days did Drona command the Kaurava army?",
+      "options": ["Five", "Three", "Seven", "Ten"],
+      "answer": 0,
+      "explanation": "Drona led the Kaurava host from the eleventh through the fifteenth day of the war."
+    },
+    {
+      "id": "drona-q10",
+      "difficulty": "easy",
+      "q": "Who beheaded Drona on the battlefield?",
+      "options": ["Shikhandi", "Dhrishtadyumna", "Satyaki", "Bhima"],
+      "answer": 1,
+      "explanation": "Dhrishtadyumna, born from fire to slay him, cut off the head of the meditating guru."
+    },
+    {
+      "id": "drona-q11",
+      "difficulty": "medium",
+      "q": "Which boyhood friend's rebuff set the course of Drona's life?",
+      "options": ["Virata's", "Shalya's", "Bhagadatta's", "Drupada's"],
+      "answer": 3,
+      "explanation": "King Drupada's contempt for his poor old friend planted the feud that shaped Drona's destiny."
+    },
+    {
+      "id": "drona-q12",
+      "difficulty": "medium",
+      "q": "What did King Drupada tell the poor Drona who came claiming friendship?",
+      "options": ["That brahmins had no place at court", "That he had never met him before", "That friendship exists only between equals", "That old debts meant nothing to kings"],
+      "answer": 2,
+      "explanation": "Drupada declared that a king and a beggar could not be friends, a humiliation Drona never forgave."
+    },
+    {
+      "id": "drona-q13",
+      "difficulty": "medium",
+      "q": "Which incident of poverty drove Drona to seek a livelihood?",
+      "options": ["The roof of his hut collapsed in the rains", "Thieves carried off his sacred cattle", "His wife was mocked at the village well", "His son was fooled with flour water in place of milk"],
+      "answer": 3,
+      "explanation": "Playmates gave Ashwatthama flour mixed in water as milk, and the boy's joy broke his father's pride."
+    },
+    {
+      "id": "drona-q14",
+      "difficulty": "medium",
+      "q": "How did Drona first display his skill before the Kuru princes?",
+      "options": ["He split a falcon's feather in mid-flight", "He strung the great bow of the armory", "He drew their lost ball from a well with blades of grass", "He shot an arrow through seven clay pots"],
+      "answer": 2,
+      "explanation": "He raised the ball with a chain of grass blades and retrieved his own ring with an arrow."
+    },
+    {
+      "id": "drona-q15",
+      "difficulty": "medium",
+      "q": "Who appointed Drona as teacher of the Kuru princes?",
+      "options": ["Bhishma", "Dhritarashtra", "Vidura", "Kripa"],
+      "answer": 0,
+      "explanation": "Bhishma, recognizing the master of weapons, engaged Drona to train all the princes."
+    },
+    {
+      "id": "drona-q16",
+      "difficulty": "medium",
+      "q": "In Drona's archery test with a wooden bird, what did Arjuna alone say he saw?",
+      "options": ["The whole tree and the bird together", "Only the eye of the bird", "The bird, the branch, and the leaves", "Nothing at all until he loosed the arrow"],
+      "answer": 1,
+      "explanation": "While the others saw tree, branch, and bird, Arjuna saw only the eye, and Drona bade him shoot."
+    },
+    {
+      "id": "drona-q17",
+      "difficulty": "medium",
+      "q": "What did Drona do with Panchala after Drupada's capture?",
+      "options": ["He gave the whole kingdom to Ashwatthama", "He kept the northern half and returned the rest", "He razed the capital Kampilya to the ground", "He annexed it entirely to Hastinapura"],
+      "answer": 1,
+      "explanation": "Drona kept northern Panchala with Ahichhatra for himself and let Drupada rule the south."
+    },
+    {
+      "id": "drona-q18",
+      "difficulty": "medium",
+      "q": "How did Drupada answer Drona's vengeance?",
+      "options": ["He forged an alliance with Magadha", "He marched his armies on Hastinapura", "He challenged Drona to single combat", "He held a sacrifice for a son fated to slay Drona"],
+      "answer": 3,
+      "explanation": "From Drupada's sacrificial fire came Dhrishtadyumna, born to kill Drona, and Draupadi beside him."
+    },
+    {
+      "id": "drona-q19",
+      "difficulty": "medium",
+      "q": "Knowing the prophecy, what did Drona do when Dhrishtadyumna came to learn weapons?",
+      "options": ["He turned the boy away from his school", "He bound him by an oath never to fight him", "He accepted and trained his destined slayer", "He demanded half of Panchala as his fee"],
+      "answer": 2,
+      "explanation": "Drona taught Dhrishtadyumna generously, saying none could escape what fate had written."
+    },
+    {
+      "id": "drona-q20",
+      "difficulty": "medium",
+      "q": "Which battle formation did Drona array on the thirteenth day?",
+      "options": ["The Chakravyuha, a rotating wheel", "The Garuda, a great eagle", "The Makara, a sea monster", "The Shakata, a cart"],
+      "answer": 0,
+      "explanation": "Drona's wheel formation trapped the young Abhimanyu, who knew the way in but not the way out."
+    },
+    {
+      "id": "drona-q21",
+      "difficulty": "medium",
+      "q": "What promise did Drona make to Duryodhana as commander?",
+      "options": ["To kill Arjuna in single combat", "To slay all five Pandava brothers", "To take Yudhishthira captive alive", "To end the war within three days"],
+      "answer": 2,
+      "explanation": "Drona vowed to capture Yudhishthira alive, but Arjuna foiled the attempt each day."
+    },
+    {
+      "id": "drona-q22",
+      "difficulty": "medium",
+      "q": "Which two old kings fell to Drona on the fifteenth day?",
+      "options": ["Drupada and Virata", "Bhagadatta and Susharma", "Kuntibhoja and Purujit", "Dhrishtaketu and Chekitana"],
+      "answer": 0,
+      "explanation": "In his last unstoppable hours Drona slew both Drupada and Virata before the deception undid him."
+    },
+    {
+      "id": "drona-q23",
+      "difficulty": "hard",
+      "q": "From which warrior-sage did Drona receive his celestial weapons?",
+      "options": ["Agnivesha", "Vasishtha", "Vishvamitra", "Parashurama"],
+      "answer": 3,
+      "explanation": "Parashurama, giving away all he owned, granted Drona his weapons and their secrets; earlier he had studied under Agnivesha."
+    },
+    {
+      "id": "drona-q24",
+      "difficulty": "hard",
+      "q": "Why was Yudhishthira to be captured alive rather than killed?",
+      "options": ["Drona refused to slay a righteous king", "Duryodhana meant to win everything again at dice", "Dhritarashtra hoped to trade him for peace", "Shakuni wished to humiliate him at court"],
+      "answer": 1,
+      "explanation": "Duryodhana planned to force another dice game and send the Pandavas back into exile."
+    },
+    {
+      "id": "drona-q25",
+      "difficulty": "hard",
+      "q": "Who killed the elephant named Ashwatthama to break Drona's spirit?",
+      "options": ["Bhima", "Dhrishtadyumna", "Satyaki", "Nakula"],
+      "answer": 0,
+      "explanation": "Bhima slew the elephant and roared that Ashwatthama was dead, planting the fatal doubt."
+    },
+    {
+      "id": "drona-q26",
+      "difficulty": "hard",
+      "q": "What muffled words completed Yudhishthira's report to Drona that Ashwatthama was dead?",
+      "options": ["Slain by the hand of Bhima", "So the soldiers all report", "Whether a man or an elephant", "If the gods will have it so"],
+      "answer": 2,
+      "explanation": "Yudhishthira murmured naro va kunjaro va, man or elephant, words drowned out so the guru never heard them."
+    },
+    {
+      "id": "drona-q27",
+      "difficulty": "hard",
+      "q": "What happened to Yudhishthira's chariot the moment he spoke the half-lie to Drona?",
+      "options": ["Its white horses turned ashen grey", "Its wheels sank to touch the earth at last", "Its banner toppled from the staff", "Its axle splintered with a thunderclap"],
+      "answer": 1,
+      "explanation": "The chariot that had always ridden four fingers above the ground touched the earth for the first time."
+    },
+    {
+      "id": "drona-q28",
+      "difficulty": "hard",
+      "q": "According to the epic, what happened to Drona in the instant before the blade fell?",
+      "options": ["He cursed Dhrishtadyumna with his last breath", "He called out for his son Ashwatthama", "He took up his bow for one final arrow", "His spirit had already left his body in yogic trance"],
+      "answer": 3,
+      "explanation": "Having laid down his arms in meditation, Drona's soul ascended to Brahmaloka, a sight granted to only five witnesses."
+    },
+    {
+      "id": "drona-q29",
+      "difficulty": "hard",
+      "q": "How did Ashwatthama avenge Drona immediately after his father's death?",
+      "options": ["He slew Dhrishtadyumna in single combat", "He set fire to the Pandava camp that night", "He took an oath of lifelong silence", "He hurled the Narayanastra at the Pandava army"],
+      "answer": 3,
+      "explanation": "In fury Ashwatthama loosed the Narayanastra, which Krishna defused by ordering the army to lay down arms."
+    },
+    {
+      "id": "drona-q30",
+      "difficulty": "hard",
+      "q": "The sight of which apsara led to Drona's miraculous birth?",
+      "options": ["Menaka", "Ghritachi", "Urvashi", "Rambha"],
+      "answer": 1,
+      "explanation": "Bharadwaja beheld the apsara Ghritachi, and his seed, kept in a vessel, became Drona."
+    }
+  ]
+}

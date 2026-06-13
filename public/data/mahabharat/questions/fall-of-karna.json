@@ -1,0 +1,245 @@
+{
+  "cardId": "fall-of-karna",
+  "questions": [
+    {
+      "id": "fall-of-karna-q01",
+      "difficulty": "easy",
+      "q": "On which day of the Kurukshetra war did Karna fall?",
+      "options": ["The fifteenth day", "The sixteenth day", "The seventeenth day", "The eighteenth day"],
+      "answer": 2,
+      "explanation": "Karna was killed by Arjuna on the seventeenth day of the eighteen-day war."
+    },
+    {
+      "id": "fall-of-karna-q02",
+      "difficulty": "easy",
+      "q": "Who killed Karna?",
+      "options": ["Arjuna", "Bhima", "Satyaki", "Dhrishtadyumna"],
+      "answer": 0,
+      "explanation": "Arjuna slew Karna in their long-fated duel, urged on by Krishna."
+    },
+    {
+      "id": "fall-of-karna-q03",
+      "difficulty": "easy",
+      "q": "What misfortune struck Karna's chariot during his final duel?",
+      "options": ["Its horses bolted from the field", "Its axle snapped in two", "Its banner burst into flame", "Its wheel sank into the earth"],
+      "answer": 3,
+      "explanation": "The earth swallowed Karna's chariot wheel at the fatal moment, the ripening of an old curse."
+    },
+    {
+      "id": "fall-of-karna-q04",
+      "difficulty": "easy",
+      "q": "Who was Arjuna's charioteer during the duel with Karna?",
+      "options": ["Satyaki", "Krishna", "Yuyutsu", "Uttara"],
+      "answer": 1,
+      "explanation": "Krishna drove Arjuna's chariot and guided him through every turn of the duel."
+    },
+    {
+      "id": "fall-of-karna-q05",
+      "difficulty": "easy",
+      "q": "Which arrow did Arjuna use to take Karna's head?",
+      "options": ["The Anjalika", "The Nagastra", "The Pashupata", "The Varunastra"],
+      "answer": 0,
+      "explanation": "Arjuna loosed the blazing Anjalika arrow, which severed Karna's head as he stood by his sunken wheel."
+    },
+    {
+      "id": "fall-of-karna-q06",
+      "difficulty": "easy",
+      "q": "Which god was Karna's father?",
+      "options": ["Indra", "Agni", "Surya", "Vayu"],
+      "answer": 2,
+      "explanation": "Karna was born to Kunti by Surya, the sun god, before her marriage."
+    },
+    {
+      "id": "fall-of-karna-q07",
+      "difficulty": "easy",
+      "q": "Who drove Karna's chariot in his last battle?",
+      "options": ["Adhiratha", "Shalya", "Sanjaya", "Vrishasena"],
+      "answer": 1,
+      "explanation": "Shalya, king of Madra, served as Karna's charioteer on the seventeenth day."
+    },
+    {
+      "id": "fall-of-karna-q08",
+      "difficulty": "easy",
+      "q": "What did Karna ask of Arjuna while he struggled with the sunken wheel?",
+      "options": ["To grant him a warrior's burial", "To fight him on foot with swords", "To let him send for another chariot", "To hold his fire until the wheel was freed"],
+      "answer": 3,
+      "explanation": "Karna invoked the code of war and asked for time to free his wheel before the fight resumed."
+    },
+    {
+      "id": "fall-of-karna-q09",
+      "difficulty": "easy",
+      "q": "Whose curse made Karna forget his weapon-lore at the fatal hour?",
+      "options": ["Kindama's", "Durvasa's", "Gandhari's", "Parashurama's"],
+      "answer": 3,
+      "explanation": "Parashurama, deceived about Karna's birth, cursed him to forget his knowledge when he needed it most."
+    },
+    {
+      "id": "fall-of-karna-q10",
+      "difficulty": "easy",
+      "q": "Out of loyalty to whom did Karna fight and die at Kurukshetra?",
+      "options": ["Shakuni", "Duryodhana", "Dhritarashtra", "Bhishma"],
+      "answer": 1,
+      "explanation": "Karna stood by Duryodhana, the friend who had crowned him king of Anga, to his last breath."
+    },
+    {
+      "id": "fall-of-karna-q11",
+      "difficulty": "medium",
+      "q": "Whose curse caused Karna's chariot wheel to sink into the earth?",
+      "options": ["A naga whose kin died at Khandava", "The earth goddess he had once wrung dry", "A brahmin whose cow Karna had accidentally killed", "A hermit disturbed during his evening rite"],
+      "answer": 2,
+      "explanation": "Karna accidentally shot a brahmin's cow while practicing, and the furious brahmin cursed his wheel to sink in his hour of greatest peril."
+    },
+    {
+      "id": "fall-of-karna-q12",
+      "difficulty": "medium",
+      "q": "How did Krishna answer Karna's appeal to the rules of war?",
+      "options": ["By reciting the dharma Karna had broken, from the dice hall to Abhimanyu's death", "By offering Karna a final chance to surrender", "By halting the duel until the wheel was freed", "By declaring that all rules had lapsed at sunset"],
+      "answer": 0,
+      "explanation": "Krishna asked where Karna's dharma had been at Draupadi's humiliation, the rigged dice game, and the killing of Abhimanyu."
+    },
+    {
+      "id": "fall-of-karna-q13",
+      "difficulty": "medium",
+      "q": "Which serpent entered Karna's arrow to strike at Arjuna?",
+      "options": ["Takshaka", "Ashwasena", "Vasuki", "Karkotaka"],
+      "answer": 1,
+      "explanation": "The naga Ashwasena hid in Karna's quiver and rode his arrow, seeking vengeance on Arjuna."
+    },
+    {
+      "id": "fall-of-karna-q14",
+      "difficulty": "medium",
+      "q": "How did Krishna save Arjuna from the serpent arrow?",
+      "options": ["He raised a wall of wind before the chariot", "He caught the arrow in his bare hand", "He blinded the serpent with the Sudarshana's light", "He pressed the chariot down so the arrow took only the diadem"],
+      "answer": 3,
+      "explanation": "Krishna stamped the chariot into the earth, and the arrow that would have taken Arjuna's head struck off his crown instead."
+    },
+    {
+      "id": "fall-of-karna-q15",
+      "difficulty": "medium",
+      "q": "Why did Karna refuse to shoot the serpent Ashwasena a second time?",
+      "options": ["He had vowed never to loose the same arrow twice", "Shalya warned that the serpent would turn on him", "The serpent fled his quiver in terror", "His bowstring had been cut by Arjuna"],
+      "answer": 0,
+      "explanation": "Even when Ashwasena revealed himself and begged, Karna refused to fire an arrow twice, calling it beneath his honor."
+    },
+    {
+      "id": "fall-of-karna-q16",
+      "difficulty": "medium",
+      "q": "Which Pandava, defeated and spared by Karna, withdrew wounded to the camp on the day Karna died?",
+      "options": ["Bhima", "Sahadeva", "Yudhishthira", "Nakula"],
+      "answer": 2,
+      "explanation": "Karna humiliated and spared Yudhishthira, whose later insult to the Gandiva nearly made Arjuna turn on his own brother."
+    },
+    {
+      "id": "fall-of-karna-q17",
+      "difficulty": "medium",
+      "q": "What promise had Karna made to Kunti before the war?",
+      "options": ["That he would renounce Duryodhana if she begged", "That he would never face Arjuna in battle", "That she would still have five sons when the war ended", "That he would reveal his birth after the victory"],
+      "answer": 2,
+      "explanation": "Karna promised to spare every Pandava except Arjuna, so Kunti would keep five sons whichever of the two fell."
+    },
+    {
+      "id": "fall-of-karna-q18",
+      "difficulty": "medium",
+      "q": "What sight marked the moment of Karna's death?",
+      "options": ["A light rose from his body and entered the sun", "His chariot wheel sprang free of the earth", "His golden armor reappeared upon his chest", "The river Ganga overflowed her banks"],
+      "answer": 0,
+      "explanation": "Witnesses saw a radiance leave the fallen Karna and merge into the setting sun, his father Surya."
+    },
+    {
+      "id": "fall-of-karna-q19",
+      "difficulty": "medium",
+      "q": "What did Yudhishthira pronounce when he learned Karna had been their eldest brother?",
+      "options": ["A vow to fast for a hundred days", "A curse that women would never again keep secrets", "A curse upon the dice that began the feud", "A vow to renounce the throne he had won"],
+      "answer": 1,
+      "explanation": "Grieving that Kunti had hidden the truth, Yudhishthira cursed all women to be unable to keep a secret."
+    },
+    {
+      "id": "fall-of-karna-q20",
+      "difficulty": "medium",
+      "q": "Which weapon's summoning mantra slipped from Karna's memory at the end?",
+      "options": ["The Pashupatastra's", "The Narayanastra's", "The Vaishnavastra's", "The Brahmastra's"],
+      "answer": 3,
+      "explanation": "By Parashurama's curse, the Brahmastra's mantra deserted Karna exactly when his life depended on it."
+    },
+    {
+      "id": "fall-of-karna-q21",
+      "difficulty": "medium",
+      "q": "Who revealed to the Pandavas after the war that Karna was Kunti's firstborn?",
+      "options": ["Kunti, as the funeral waters were offered", "Vyasa, at the victory sacrifice", "Sanjaya, reporting to the blind king", "Draupadi, who had guessed the truth"],
+      "answer": 0,
+      "explanation": "At the funeral rites Kunti told her sons to offer water for Karna, revealing he was their eldest brother."
+    },
+    {
+      "id": "fall-of-karna-q22",
+      "difficulty": "medium",
+      "q": "In which parva of the epic does Karna's fall occur?",
+      "options": ["The Drona Parva", "The Shalya Parva", "The Karna Parva", "The Sauptika Parva"],
+      "answer": 2,
+      "explanation": "The Karna Parva covers the sixteenth and seventeenth days, ending with Karna's death."
+    },
+    {
+      "id": "fall-of-karna-q23",
+      "difficulty": "hard",
+      "q": "Why did the serpent Ashwasena seek Karna's arrow as his vehicle?",
+      "options": ["Karna had once spared his life in the forest", "Duryodhana had promised him Takshaka's throne", "Shiva had commanded him to test Arjuna", "His mother had died in Arjuna's fire at Khandava"],
+      "answer": 3,
+      "explanation": "Ashwasena's mother was killed when Arjuna burned the Khandava forest, and he sought revenge through Karna's shaft."
+    },
+    {
+      "id": "fall-of-karna-q24",
+      "difficulty": "hard",
+      "q": "What did the serpent arrow destroy in place of Arjuna's head?",
+      "options": ["The Gandiva's upper string", "His celestial diadem, famed in the three worlds", "Hanuman's banner above the chariot", "The chariot's protective canopy"],
+      "answer": 1,
+      "explanation": "The arrow razed Arjuna's jeweled crown, the celebrated diadem from which he took the name Kiritin."
+    },
+    {
+      "id": "fall-of-karna-q25",
+      "difficulty": "hard",
+      "q": "What secret pact shaped Shalya's words to Karna from the chariot box?",
+      "options": ["A promise to Kunti to guard her firstborn", "A promise to Yudhishthira to blunt Karna's spirit", "A pact with Krishna to slow the horses", "An oath to Bhishma to prevent the duel"],
+      "answer": 1,
+      "explanation": "Tricked into serving Duryodhana, Shalya had secretly promised Yudhishthira to demoralize Karna by praising Arjuna."
+    },
+    {
+      "id": "fall-of-karna-q26",
+      "difficulty": "hard",
+      "q": "What had Karna offered the brahmin in hopes of escaping the curse upon his chariot wheel?",
+      "options": ["His golden earrings and armor", "His kingdom of Anga in penance", "A year of service in the hermitage", "Riches and cattle, which the brahmin refused"],
+      "answer": 3,
+      "explanation": "Karna offered wealth in atonement for the slain cow, but the brahmin said his word, once spoken, could not return."
+    },
+    {
+      "id": "fall-of-karna-q27",
+      "difficulty": "hard",
+      "q": "Before the war, what offer from Krishna had Karna already refused, sealing the path to his fall?",
+      "options": ["Command of the Pandava armies for all eighteen days", "Marriage into the Yadava house at Dwarka", "The throne as Kunti's firstborn, with the Pandavas as his brothers", "Safe passage out of the war back to Anga"],
+      "answer": 2,
+      "explanation": "Krishna revealed Karna's birth and offered him the crown as the eldest Pandava, but Karna chose loyalty to Duryodhana."
+    },
+    {
+      "id": "fall-of-karna-q28",
+      "difficulty": "hard",
+      "q": "At what point in the day did Karna fall?",
+      "options": ["In the late afternoon, as the sun he was born of sank low", "At dawn, before the conches had sounded", "At high noon, under his father's full gaze", "After sunset, by the light of torches"],
+      "answer": 0,
+      "explanation": "Karna died in the waning afternoon of the seventeenth day, as his father the sun declined toward the horizon."
+    },
+    {
+      "id": "fall-of-karna-q29",
+      "difficulty": "hard",
+      "q": "How did Duryodhana react to the news of Karna's death?",
+      "options": ["He surrendered command to Shakuni that night", "He fled at once to the lake Dvaipayana", "He blamed Shalya and demanded his arrest", "He wept inconsolably yet refused all talk of peace"],
+      "answer": 3,
+      "explanation": "Shattered by the loss of his dearest friend, Duryodhana still rejected counsel to make peace and fought on."
+    },
+    {
+      "id": "fall-of-karna-q30",
+      "difficulty": "hard",
+      "q": "What was Karna doing at the instant the fatal arrow flew?",
+      "options": ["Kneeling in prayer to the setting sun", "Standing on the ground, straining to lift his sunken wheel", "Standing weaponless with his arms crossed", "Climbing back aboard his chariot, bow in hand"],
+      "answer": 1,
+      "explanation": "Karna had dismounted to free the swallowed wheel when Krishna urged Arjuna to strike before the chance was lost."
+    }
+  ]
+}
