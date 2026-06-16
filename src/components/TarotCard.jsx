@@ -1,4 +1,4 @@
-import { useRef } from 'react'
+import { useRef, useState } from 'react'
 import Emblem from './Emblem'
 import { paletteFor } from '../data/palettes'
 import { toRoman } from '../lib/random'
@@ -15,9 +15,11 @@ export function CardBack({ className = '', style }) {
   )
 }
 
-export default function TarotCard({ card, best = 0, onClick }) {
+export default function TarotCard({ card, best = 0, imgSrc = null, onClick }) {
   const ref = useRef(null)
+  const [imgOk, setImgOk] = useState(Boolean(imgSrc))
   const pal = paletteFor(card.palette)
+  const hasArt = Boolean(imgSrc) && imgOk
 
   const move = (e) => {
     const el = ref.current
@@ -41,34 +43,48 @@ export default function TarotCard({ card, best = 0, onClick }) {
   return (
     <button
       ref={ref}
-      className="tcard"
+      className={`tcard ${hasArt ? 'has-art' : ''}`}
       style={{ '--c1': pal.c1, '--c2': pal.c2, '--accent': pal.accent, '--glow': pal.glow }}
       onMouseMove={move}
       onMouseLeave={leave}
       onClick={onClick}
     >
       <div className="tcard-tilt">
+        {imgSrc && (
+          <img
+            className="tcard-art"
+            src={imgSrc}
+            alt={card.title}
+            loading="lazy"
+            onError={() => setImgOk(false)}
+          />
+        )}
+        {hasArt && <div className="tcard-shade" />}
         <div className="tcard-border" />
         <div className="tcard-face">
           <div className="tcard-top">
             <span className="tcard-numeral">{toRoman(card.order)}</span>
             <span className="tcard-type">{card.type}</span>
           </div>
-          <div className="tcard-emblem">
-            <div className="tcard-halo" />
-            <Emblem name={card.emblem} />
-          </div>
-          <div className="tcard-name">{card.title}</div>
-          <div className="tcard-sub">{card.subtitle}</div>
-          <div className="tcard-stars">
-            {best > 0 ? (
-              <>
-                {'★'.repeat(best)}
-                <span className="dim">{'★'.repeat(3 - best)}</span>
-              </>
-            ) : (
-              <span className="dim">unplayed</span>
-            )}
+          {!hasArt && (
+            <div className="tcard-emblem">
+              <div className="tcard-halo" />
+              <Emblem name={card.emblem} />
+            </div>
+          )}
+          <div className="tcard-bottom">
+            <div className="tcard-name">{card.title}</div>
+            <div className="tcard-sub">{card.subtitle}</div>
+            <div className="tcard-stars">
+              {best > 0 ? (
+                <>
+                  {'★'.repeat(best)}
+                  <span className="dim">{'★'.repeat(3 - best)}</span>
+                </>
+              ) : (
+                <span className="dim">unplayed</span>
+              )}
+            </div>
           </div>
         </div>
         <div className="tcard-sheen" />

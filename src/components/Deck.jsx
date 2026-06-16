@@ -89,7 +89,13 @@ export default function Deck({ category, progress, onBack }) {
       ) : (
         <div className="grid">
           {shown.map((c) => (
-            <TarotCard key={c.id} card={c} best={progress.bestFor(c.id)} onClick={() => setActive(c)} />
+            <TarotCard
+              key={c.id}
+              card={c}
+              best={progress.bestFor(c.id)}
+              imgSrc={c.image ? `${import.meta.env.BASE_URL}data/${category.id}/${c.image}` : null}
+              onClick={() => setActive(c)}
+            />
           ))}
           {shown.length === 0 && <p className="empty">No cards match — try another search.</p>}
         </div>

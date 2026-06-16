@@ -7,6 +7,7 @@ import { drawQuestions, toRoman } from '../lib/random'
 
 export default function QuizModal({ card, categoryId, progress, onClose }) {
   const pal = paletteFor(card.palette)
+  const imgSrc = card.image ? `${import.meta.env.BASE_URL}data/${categoryId}/${card.image}` : null
   const [bank, setBank] = useState(null)
   const [missing, setMissing] = useState(false)
   const [flipped, setFlipped] = useState(false)
@@ -96,13 +97,19 @@ export default function QuizModal({ card, categoryId, progress, onClose }) {
                   <CardBack />
                 </div>
                 <div className="flip-front">
-                  <div className="reveal-card">
+                  <div className={`reveal-card ${imgSrc ? 'has-art' : ''}`}>
+                    {imgSrc && <img className="reveal-art" src={imgSrc} alt={card.title} />}
+                    {imgSrc && <div className="reveal-shade" />}
                     <span className="tcard-numeral">{toRoman(card.order)}</span>
-                    <div className="reveal-emblem">
-                      <Emblem name={card.emblem} />
+                    {!imgSrc && (
+                      <div className="reveal-emblem">
+                        <Emblem name={card.emblem} />
+                      </div>
+                    )}
+                    <div className="reveal-card-foot">
+                      <h3>{card.title}</h3>
+                      <p className="reveal-sub">{card.subtitle}</p>
                     </div>
-                    <h3>{card.title}</h3>
-                    <p className="reveal-sub">{card.subtitle}</p>
                   </div>
                 </div>
               </div>
