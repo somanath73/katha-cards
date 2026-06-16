@@ -1,0 +1,395 @@
+{
+  "cardId": "amritsar",
+  "questions": [
+    {
+      "id": "amritsar-q01",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state is the city of Amritsar located?",
+      "options": [
+        "Punjab",
+        "Haryana",
+        "Rajasthan",
+        "Himachal Pradesh"
+      ],
+      "answer": 0,
+      "explanation": "Amritsar is a major city in the state of Punjab in northern India."
+    },
+    {
+      "id": "amritsar-q02",
+      "difficulty": "easy",
+      "q": "Which famous Sikh shrine is located in Amritsar?",
+      "options": [
+        "Akshardham",
+        "Golden Temple",
+        "Somnath Temple",
+        "Jagannath Temple"
+      ],
+      "answer": 1,
+      "explanation": "Amritsar is home to the Golden Temple, the holiest shrine of Sikhism."
+    },
+    {
+      "id": "amritsar-q03",
+      "difficulty": "easy",
+      "q": "Which 1919 massacre made Amritsar a focal point of the freedom struggle?",
+      "options": [
+        "Chauri Chaura incident",
+        "Kakori incident",
+        "Jallianwala Bagh massacre",
+        "Black Hole of Calcutta"
+      ],
+      "answer": 2,
+      "explanation": "The Jallianwala Bagh massacre of 1919 occurred in Amritsar and galvanized nationwide protest."
+    },
+    {
+      "id": "amritsar-q04",
+      "difficulty": "easy",
+      "q": "In which year did the Jallianwala Bagh massacre take place in Amritsar?",
+      "options": [
+        "1922",
+        "1857",
+        "1930",
+        "1919"
+      ],
+      "answer": 3,
+      "explanation": "The massacre at Jallianwala Bagh in Amritsar took place in 1919."
+    },
+    {
+      "id": "amritsar-q05",
+      "difficulty": "easy",
+      "q": "The Golden Temple in Amritsar is the holiest shrine of which religion?",
+      "options": [
+        "Jainism",
+        "Sikhism",
+        "Buddhism",
+        "Zoroastrianism"
+      ],
+      "answer": 1,
+      "explanation": "The Golden Temple, or Harmandir Sahib, is the central shrine of Sikhism."
+    },
+    {
+      "id": "amritsar-q06",
+      "difficulty": "easy",
+      "q": "Jallianwala Bagh, the site of the 1919 massacre, is best described as a what?",
+      "options": [
+        "Royal palace",
+        "Railway station",
+        "Public garden enclosure",
+        "Market street"
+      ],
+      "answer": 2,
+      "explanation": "Jallianwala Bagh was an enclosed public garden in Amritsar where the crowd had gathered."
+    },
+    {
+      "id": "amritsar-q07",
+      "difficulty": "easy",
+      "q": "Amritsar lies in which broad region of the Indian subcontinent?",
+      "options": [
+        "South India",
+        "Eastern India",
+        "Central India",
+        "North-western India"
+      ],
+      "answer": 3,
+      "explanation": "Amritsar is in Punjab, in the north-western part of India."
+    },
+    {
+      "id": "amritsar-q08",
+      "difficulty": "easy",
+      "q": "The name 'Amritsar' is associated with which feature linked to the Golden Temple?",
+      "options": [
+        "A sacred water tank (pool of nectar)",
+        "A sacred mountain",
+        "A sacred river delta",
+        "A sacred forest"
+      ],
+      "answer": 0,
+      "explanation": "The name Amritsar derives from the Amrit Sarovar, the sacred pool surrounding the Golden Temple."
+    },
+    {
+      "id": "amritsar-q09",
+      "difficulty": "easy",
+      "q": "What kind of crowd was fired upon at Jallianwala Bagh in Amritsar in 1919?",
+      "options": [
+        "An armed militia",
+        "A military parade",
+        "An unarmed gathering",
+        "A foreign army"
+      ],
+      "answer": 2,
+      "explanation": "British troops fired on an unarmed crowd peacefully gathered at Jallianwala Bagh."
+    },
+    {
+      "id": "amritsar-q10",
+      "difficulty": "easy",
+      "q": "The events in Amritsar in 1919 intensified the Indian demand for what?",
+      "options": [
+        "More trade with Britain",
+        "Religious conversion",
+        "Higher taxes",
+        "Freedom from colonial rule"
+      ],
+      "answer": 3,
+      "explanation": "The massacre deepened anger against colonial rule and strengthened the demand for freedom."
+    },
+    {
+      "id": "amritsar-q11",
+      "difficulty": "medium",
+      "q": "On what date in 1919 did the Jallianwala Bagh massacre occur in Amritsar?",
+      "options": [
+        "13 April 1919",
+        "10 May 1919",
+        "8 August 1919",
+        "30 January 1919"
+      ],
+      "answer": 0,
+      "explanation": "The massacre took place on 13 April 1919, the day of the Baisakhi festival."
+    },
+    {
+      "id": "amritsar-q12",
+      "difficulty": "medium",
+      "q": "Which British officer ordered the firing at Jallianwala Bagh in Amritsar?",
+      "options": [
+        "Lord Curzon",
+        "Brigadier-General Reginald Dyer",
+        "Sir Cyril Radcliffe",
+        "General Roberts"
+      ],
+      "answer": 1,
+      "explanation": "Brigadier-General Reginald Dyer ordered troops to open fire on the crowd."
+    },
+    {
+      "id": "amritsar-q13",
+      "difficulty": "medium",
+      "q": "The Jallianwala Bagh gathering in Amritsar coincided with which festival?",
+      "options": [
+        "Diwali",
+        "Holi",
+        "Lohri",
+        "Baisakhi"
+      ],
+      "answer": 3,
+      "explanation": "The crowd had assembled on Baisakhi, a major spring festival in Punjab."
+    },
+    {
+      "id": "amritsar-q14",
+      "difficulty": "medium",
+      "q": "Whose arrest and deportation helped spark unrest in Amritsar before the massacre?",
+      "options": [
+        "Saifuddin Kitchlew and Satyapal",
+        "Bhagat Singh and Rajguru",
+        "Tilak and Gokhale",
+        "Nehru and Patel"
+      ],
+      "answer": 0,
+      "explanation": "The arrest of local leaders Dr Saifuddin Kitchlew and Dr Satyapal stirred protest in Amritsar."
+    },
+    {
+      "id": "amritsar-q15",
+      "difficulty": "medium",
+      "q": "Which honour did Rabindranath Tagore renounce in protest after the Amritsar massacre?",
+      "options": [
+        "His Nobel Prize",
+        "His British knighthood",
+        "His university degree",
+        "His seat in Congress"
+      ],
+      "answer": 1,
+      "explanation": "Tagore returned his knighthood in protest against the Jallianwala Bagh massacre."
+    },
+    {
+      "id": "amritsar-q16",
+      "difficulty": "medium",
+      "q": "By what name is the enclosed garden where the 1919 Amritsar massacre took place known?",
+      "options": [
+        "Company Bagh",
+        "Ram Bagh",
+        "Jallianwala Bagh",
+        "Shalimar Bagh"
+      ],
+      "answer": 2,
+      "explanation": "The massacre occurred at Jallianwala Bagh, an enclosed garden in the heart of Amritsar."
+    },
+    {
+      "id": "amritsar-q17",
+      "difficulty": "medium",
+      "q": "What restrictive measure was in force in Amritsar at the time of the 1919 gathering?",
+      "options": [
+        "A ban on public assemblies",
+        "A nationwide curfew lifted that day",
+        "Free movement for all",
+        "A trade fair permit"
+      ],
+      "answer": 0,
+      "explanation": "Dyer had banned public meetings, and the assembly defied that prohibition."
+    },
+    {
+      "id": "amritsar-q18",
+      "difficulty": "medium",
+      "q": "The committee set up by the British to inquire into the Amritsar massacre was known as the what?",
+      "options": [
+        "Simon Commission",
+        "Cripps Mission",
+        "Hunter Commission",
+        "Cabinet Mission"
+      ],
+      "answer": 2,
+      "explanation": "The Hunter Commission was appointed to investigate the Jallianwala Bagh massacre."
+    },
+    {
+      "id": "amritsar-q19",
+      "difficulty": "medium",
+      "q": "After the Amritsar massacre, Dyer enforced a notorious 'crawling order' on which street?",
+      "options": [
+        "The road to the Golden Temple",
+        "A lane where a British woman had been assaulted",
+        "The Grand Trunk Road",
+        "The railway approach road"
+      ],
+      "answer": 1,
+      "explanation": "Dyer ordered Indians to crawl along the lane where missionary Marcella Sherwood had been attacked."
+    },
+    {
+      "id": "amritsar-q20",
+      "difficulty": "medium",
+      "q": "Which broader province was placed under martial law following the Amritsar events of 1919?",
+      "options": [
+        "Bengal",
+        "Bombay",
+        "Madras",
+        "Punjab"
+      ],
+      "answer": 3,
+      "explanation": "Martial law was imposed across Punjab in the aftermath of the Amritsar disturbances."
+    },
+    {
+      "id": "amritsar-q21",
+      "difficulty": "medium",
+      "q": "The agitation that brought crowds onto Amritsar's streets in early 1919 was directed against which law?",
+      "options": [
+        "The Salt Act",
+        "The Vernacular Press Act",
+        "The Rowlatt Act",
+        "The Doctrine of Lapse"
+      ],
+      "answer": 2,
+      "explanation": "Protests against the repressive Rowlatt Act fuelled the unrest in Amritsar before the massacre."
+    },
+    {
+      "id": "amritsar-q22",
+      "difficulty": "medium",
+      "q": "Approximately how long did Dyer's troops fire on the crowd at Jallianwala Bagh in Amritsar?",
+      "options": [
+        "About ten minutes",
+        "About two hours",
+        "A few seconds",
+        "An entire day"
+      ],
+      "answer": 0,
+      "explanation": "The troops fired for roughly ten minutes, until much of their ammunition was spent."
+    },
+    {
+      "id": "amritsar-q23",
+      "difficulty": "hard",
+      "q": "Roughly how many rounds did Dyer's troops fire at Jallianwala Bagh in Amritsar?",
+      "options": [
+        "About 200 rounds",
+        "About 5,000 rounds",
+        "About 50 rounds",
+        "About 1,650 rounds"
+      ],
+      "answer": 3,
+      "explanation": "The official Hunter Commission recorded that about 1,650 rounds were fired into the crowd."
+    },
+    {
+      "id": "amritsar-q24",
+      "difficulty": "hard",
+      "q": "Which young revolutionary later assassinated Michael O'Dwyer, the Punjab Lieutenant-Governor linked to the Amritsar massacre?",
+      "options": [
+        "Bhagat Singh",
+        "Udham Singh",
+        "Surya Sen",
+        "Chandrashekhar Azad"
+      ],
+      "answer": 1,
+      "explanation": "Udham Singh shot Michael O'Dwyer in London in 1940 in revenge for the Amritsar massacre."
+    },
+    {
+      "id": "amritsar-q25",
+      "difficulty": "hard",
+      "q": "In which London hall did Udham Singh shoot Michael O'Dwyer in 1940?",
+      "options": [
+        "Royal Albert Hall",
+        "Caxton Hall",
+        "Westminster Hall",
+        "Central Hall"
+      ],
+      "answer": 1,
+      "explanation": "Udham Singh shot O'Dwyer at Caxton Hall in London in March 1940."
+    },
+    {
+      "id": "amritsar-q26",
+      "difficulty": "hard",
+      "q": "Which Lieutenant-Governor of Punjab approved of Dyer's actions at Amritsar?",
+      "options": [
+        "Lord Chelmsford",
+        "Edwin Montagu",
+        "Lord Hardinge",
+        "Michael O'Dwyer"
+      ],
+      "answer": 3,
+      "explanation": "Michael O'Dwyer, Lieutenant-Governor of Punjab, endorsed Dyer's conduct at Amritsar."
+    },
+    {
+      "id": "amritsar-q27",
+      "difficulty": "hard",
+      "q": "What was the official Hunter Commission figure for those killed at Jallianwala Bagh in Amritsar?",
+      "options": [
+        "379 killed",
+        "Over 2,000 killed",
+        "Exactly 100 killed",
+        "About 50 killed"
+      ],
+      "answer": 0,
+      "explanation": "The official toll was put at 379 dead, though Indian estimates ranged much higher."
+    },
+    {
+      "id": "amritsar-q28",
+      "difficulty": "hard",
+      "q": "Which feature of Jallianwala Bagh in Amritsar made escape from the firing especially difficult?",
+      "options": [
+        "It was surrounded by a moat",
+        "It was an open desert",
+        "It had only narrow exits, mostly blocked by troops",
+        "It had high electric fencing"
+      ],
+      "answer": 2,
+      "explanation": "The garden was enclosed by buildings with only a few narrow exits, which Dyer's troops blocked."
+    },
+    {
+      "id": "amritsar-q29",
+      "difficulty": "hard",
+      "q": "Many people in Amritsar's Jallianwala Bagh died by jumping into what to escape the bullets?",
+      "options": [
+        "The Sutlej river",
+        "A storm drain",
+        "A canal lock",
+        "A well within the garden"
+      ],
+      "answer": 3,
+      "explanation": "A number of victims jumped into a well in the garden, which became a memorial site."
+    },
+    {
+      "id": "amritsar-q30",
+      "difficulty": "hard",
+      "q": "Following the inquiry into Amritsar, what happened to Brigadier-General Dyer's army career?",
+      "options": [
+        "He was promoted to general",
+        "He was relieved of command and forced to resign",
+        "He was knighted by the King",
+        "He was given a new command in India"
+      ],
+      "answer": 1,
+      "explanation": "Dyer was censured by the Hunter Commission, removed from command, and compelled to resign."
+    }
+  ]
+}

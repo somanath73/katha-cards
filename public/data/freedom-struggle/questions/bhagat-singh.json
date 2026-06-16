@@ -1,0 +1,395 @@
+{
+  "cardId": "bhagat-singh",
+  "questions": [
+    {
+      "id": "bhagat-singh-q01",
+      "difficulty": "easy",
+      "q": "On what date was Bhagat Singh executed?",
+      "options": [
+        "23 March 1931",
+        "8 April 1929",
+        "13 April 1919",
+        "15 August 1947"
+      ],
+      "answer": 0,
+      "explanation": "Bhagat Singh was hanged on 23 March 1931 in Lahore."
+    },
+    {
+      "id": "bhagat-singh-q02",
+      "difficulty": "easy",
+      "q": "In which city was Bhagat Singh executed?",
+      "options": [
+        "Delhi",
+        "Lahore",
+        "Amritsar",
+        "Allahabad"
+      ],
+      "answer": 1,
+      "explanation": "Bhagat Singh was hanged in Lahore Central Jail in 1931."
+    },
+    {
+      "id": "bhagat-singh-q03",
+      "difficulty": "easy",
+      "q": "By what honorific title is Bhagat Singh widely remembered?",
+      "options": [
+        "Netaji",
+        "Lokmanya",
+        "Shaheed-e-Azam",
+        "Mahatma"
+      ],
+      "answer": 2,
+      "explanation": "Bhagat Singh is honoured as Shaheed-e-Azam, meaning the Great Martyr."
+    },
+    {
+      "id": "bhagat-singh-q04",
+      "difficulty": "easy",
+      "q": "Bhagat Singh was a member of which revolutionary organization?",
+      "options": [
+        "Indian National Congress",
+        "Muslim League",
+        "Forward Bloc",
+        "HSRA"
+      ],
+      "answer": 3,
+      "explanation": "Bhagat Singh was a leading member of the Hindustan Socialist Republican Association (HSRA)."
+    },
+    {
+      "id": "bhagat-singh-q05",
+      "difficulty": "easy",
+      "q": "In which 1929 act did Bhagat Singh throw a bomb 'to make the deaf hear'?",
+      "options": [
+        "Bombing of the Central Legislative Assembly",
+        "Kakori train robbery",
+        "Chittagong Armoury Raid",
+        "Dandi March"
+      ],
+      "answer": 0,
+      "explanation": "Bhagat Singh threw bombs in the Central Legislative Assembly in April 1929 to register protest."
+    },
+    {
+      "id": "bhagat-singh-q06",
+      "difficulty": "easy",
+      "q": "Which two comrades were executed along with Bhagat Singh on 23 March 1931?",
+      "options": [
+        "Azad and Bismil",
+        "Rajguru and Sukhdev",
+        "Ashfaqulla and Roshan Singh",
+        "Surya Sen and Tarakeswar"
+      ],
+      "answer": 1,
+      "explanation": "Bhagat Singh was hanged alongside Rajguru and Sukhdev on 23 March 1931."
+    },
+    {
+      "id": "bhagat-singh-q07",
+      "difficulty": "easy",
+      "q": "Which slogan is most closely associated with Bhagat Singh?",
+      "options": [
+        "Quit India",
+        "Jai Hind",
+        "Inquilab Zindabad",
+        "Do or Die"
+      ],
+      "answer": 2,
+      "explanation": "Bhagat Singh popularized the slogan 'Inquilab Zindabad', meaning 'Long Live the Revolution'."
+    },
+    {
+      "id": "bhagat-singh-q08",
+      "difficulty": "easy",
+      "q": "For the killing of which British police officer was Bhagat Singh primarily tried and sentenced?",
+      "options": [
+        "Reginald Dyer",
+        "James Scott",
+        "Cyril Radcliffe",
+        "John Saunders"
+      ],
+      "answer": 3,
+      "explanation": "Bhagat Singh was tried for the 1928 killing of Assistant Superintendent John Saunders."
+    },
+    {
+      "id": "bhagat-singh-q09",
+      "difficulty": "easy",
+      "q": "Approximately how old was Bhagat Singh when he was executed?",
+      "options": [
+        "23",
+        "35",
+        "45",
+        "18"
+      ],
+      "answer": 0,
+      "explanation": "Bhagat Singh was about 23 years old when he was hanged in 1931."
+    },
+    {
+      "id": "bhagat-singh-q10",
+      "difficulty": "easy",
+      "q": "In which present-day country's region was Bhagat Singh born?",
+      "options": [
+        "Bengal",
+        "Punjab (now in Pakistan)",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "answer": 1,
+      "explanation": "Bhagat Singh was born in 1907 in the village of Banga in the Punjab district of Lyallpur, now in Pakistan."
+    },
+    {
+      "id": "bhagat-singh-q11",
+      "difficulty": "medium",
+      "q": "Which comrade threw bombs in the Central Legislative Assembly alongside Bhagat Singh in 1929?",
+      "options": [
+        "Shivaram Rajguru",
+        "Sukhdev Thapar",
+        "Batukeshwar Dutt",
+        "Chandrashekhar Azad"
+      ],
+      "answer": 2,
+      "explanation": "Batukeshwar Dutt joined Bhagat Singh in the Assembly bombing and was arrested with him."
+    },
+    {
+      "id": "bhagat-singh-q12",
+      "difficulty": "medium",
+      "q": "The Saunders killing in 1928 was carried out to avenge the death of which leader?",
+      "options": [
+        "Motilal Nehru",
+        "Bal Gangadhar Tilak",
+        "C. R. Das",
+        "Lala Lajpat Rai"
+      ],
+      "answer": 3,
+      "explanation": "The killing of Saunders avenged Lala Lajpat Rai, who died after a lathi charge during a Simon Commission protest."
+    },
+    {
+      "id": "bhagat-singh-q13",
+      "difficulty": "medium",
+      "q": "Which youth organization did Bhagat Singh help found in 1926?",
+      "options": [
+        "Naujawan Bharat Sabha",
+        "Anushilan Samiti",
+        "Khudai Khidmatgar",
+        "Servants of India Society"
+      ],
+      "answer": 0,
+      "explanation": "Bhagat Singh co-founded the Naujawan Bharat Sabha in 1926 to spread revolutionary ideas among youth."
+    },
+    {
+      "id": "bhagat-singh-q14",
+      "difficulty": "medium",
+      "q": "Which essay written by Bhagat Singh in jail explained his rejection of religious belief?",
+      "options": [
+        "Hind Swaraj",
+        "Why I Am an Atheist",
+        "The Philosophy of the Bomb",
+        "Discovery of India"
+      ],
+      "answer": 1,
+      "explanation": "Bhagat Singh wrote the essay 'Why I Am an Atheist' while imprisoned in 1930."
+    },
+    {
+      "id": "bhagat-singh-q15",
+      "difficulty": "medium",
+      "q": "In which conspiracy case was Bhagat Singh tried and sentenced to death?",
+      "options": [
+        "Kakori Conspiracy Case",
+        "Meerut Conspiracy Case",
+        "Lahore Conspiracy Case",
+        "Alipore Bomb Case"
+      ],
+      "answer": 2,
+      "explanation": "Bhagat Singh was sentenced in the Lahore Conspiracy Case relating to the Saunders killing."
+    },
+    {
+      "id": "bhagat-singh-q16",
+      "difficulty": "medium",
+      "q": "While in jail, Bhagat Singh and fellow prisoners undertook what form of protest demanding better treatment?",
+      "options": [
+        "A sit-in outside court",
+        "A printing of leaflets",
+        "A salt march",
+        "A hunger strike"
+      ],
+      "answer": 3,
+      "explanation": "Bhagat Singh led a long hunger strike in jail demanding that political prisoners be treated with dignity."
+    },
+    {
+      "id": "bhagat-singh-q17",
+      "difficulty": "medium",
+      "q": "Which fellow prisoner died during the 1929 jail hunger strike that Bhagat Singh supported?",
+      "options": [
+        "Jatindra Nath Das",
+        "Sukhdev Thapar",
+        "Rajguru",
+        "Batukeshwar Dutt"
+      ],
+      "answer": 0,
+      "explanation": "Jatindra Nath Das died after a 63-day hunger strike in 1929, a protest joined by Bhagat Singh."
+    },
+    {
+      "id": "bhagat-singh-q18",
+      "difficulty": "medium",
+      "q": "After the Assembly bombing, what did Bhagat Singh and his comrade deliberately do?",
+      "options": [
+        "Flee abroad",
+        "Court arrest by not escaping",
+        "Surrender their weapons to Congress",
+        "Hide in Nepal"
+      ],
+      "answer": 1,
+      "explanation": "Bhagat Singh and Dutt threw bombs that injured no one and then allowed themselves to be arrested to use the trial as a platform."
+    },
+    {
+      "id": "bhagat-singh-q19",
+      "difficulty": "medium",
+      "q": "What was the year of Bhagat Singh's birth?",
+      "options": [
+        "1897",
+        "1915",
+        "1907",
+        "1900"
+      ],
+      "answer": 2,
+      "explanation": "Bhagat Singh was born on 28 September 1907."
+    },
+    {
+      "id": "bhagat-singh-q20",
+      "difficulty": "medium",
+      "q": "The 1929 Assembly bombing protested the passage of which bills?",
+      "options": [
+        "The Rowlatt and Press Bills",
+        "The Salt and Sedition Bills",
+        "The Arms and Vernacular Press Bills",
+        "The Public Safety and Trade Disputes Bills"
+      ],
+      "answer": 3,
+      "explanation": "Bhagat Singh's Assembly action protested the Public Safety Bill and the Trade Disputes Bill."
+    },
+    {
+      "id": "bhagat-singh-q21",
+      "difficulty": "medium",
+      "q": "Which leaflet did Bhagat Singh and Dutt scatter in the Assembly after throwing their bombs?",
+      "options": [
+        "A leaflet declaring 'It takes a loud voice to make the deaf hear'",
+        "The Communist Manifesto",
+        "The Nehru Report",
+        "The Lahore Resolution"
+      ],
+      "answer": 0,
+      "explanation": "They threw leaflets carrying a message that it takes a loud voice to make the deaf hear, explaining their protest."
+    },
+    {
+      "id": "bhagat-singh-q22",
+      "difficulty": "medium",
+      "q": "Disguised after the Saunders killing, Bhagat Singh escaped Lahore in 1928 by which means?",
+      "options": [
+        "By boat down the Ravi",
+        "By train, posing as a gentleman with Durga Bhabhi as his 'wife'",
+        "On foot through the hills",
+        "By hiding in a Congress procession"
+      ],
+      "answer": 1,
+      "explanation": "Bhagat Singh escaped Lahore by train disguised as an Englishman's companion, with Durga Bhabhi posing as his wife and a child in arms."
+    },
+    {
+      "id": "bhagat-singh-q23",
+      "difficulty": "hard",
+      "q": "Which earlier bombing case in 1929 was Bhagat Singh first convicted of before the Saunders trial concluded?",
+      "options": [
+        "The Kakori Case",
+        "The Chittagong Case",
+        "The Assembly Bomb Case",
+        "The Meerut Case"
+      ],
+      "answer": 2,
+      "explanation": "Bhagat Singh was first sentenced to transportation for life in the Assembly Bomb Case before being sentenced to death in the Lahore Conspiracy Case."
+    },
+    {
+      "id": "bhagat-singh-q24",
+      "difficulty": "hard",
+      "q": "Bhagat Singh briefly worked under a pen name for which Kanpur-based nationalist newspaper?",
+      "options": [
+        "Kesari",
+        "Young India",
+        "Amrita Bazar Patrika",
+        "Pratap"
+      ],
+      "answer": 3,
+      "explanation": "Bhagat Singh wrote for Ganesh Shankar Vidyarthi's newspaper Pratap in Kanpur, often under pseudonyms."
+    },
+    {
+      "id": "bhagat-singh-q25",
+      "difficulty": "hard",
+      "q": "Under which pen name did Bhagat Singh write for the newspaper Pratap during his time in Kanpur?",
+      "options": [
+        "Balwant Singh",
+        "Balraj",
+        "Azad",
+        "Vidrohi"
+      ],
+      "answer": 0,
+      "explanation": "While working at Ganesh Shankar Vidyarthi's newspaper Pratap in Kanpur, Bhagat Singh wrote under the pen name 'Balwant Singh'."
+    },
+    {
+      "id": "bhagat-singh-q26",
+      "difficulty": "hard",
+      "q": "The 1928 reorganization that Bhagat Singh helped shape added which word to the group's earlier name?",
+      "options": [
+        "Republican",
+        "Socialist",
+        "Revolutionary",
+        "National"
+      ],
+      "answer": 1,
+      "explanation": "Bhagat Singh and others added 'Socialist' to rename the Hindustan Republican Association as the HSRA in 1928."
+    },
+    {
+      "id": "bhagat-singh-q27",
+      "difficulty": "hard",
+      "q": "Bhagat Singh's father, Kishan Singh, and uncle Ajit Singh were active in which earlier agrarian agitation?",
+      "options": [
+        "The Champaran Satyagraha",
+        "The Bardoli Satyagraha",
+        "The Pagri Sambhal Jatta movement",
+        "The Moplah rebellion"
+      ],
+      "answer": 2,
+      "explanation": "Bhagat Singh's family, including his uncle Ajit Singh, were involved in the Pagri Sambhal Jatta peasant movement in Punjab."
+    },
+    {
+      "id": "bhagat-singh-q28",
+      "difficulty": "hard",
+      "q": "On what date in 1929 did Bhagat Singh and Batukeshwar Dutt throw bombs in the Central Legislative Assembly?",
+      "options": [
+        "23 March",
+        "30 October",
+        "9 August",
+        "8 April"
+      ],
+      "answer": 3,
+      "explanation": "The Assembly bombing took place on 8 April 1929."
+    },
+    {
+      "id": "bhagat-singh-q29",
+      "difficulty": "hard",
+      "q": "Bhagat Singh's execution was carried out a day earlier than scheduled. On which date had the hanging originally been set?",
+      "options": [
+        "24 March 1931",
+        "23 April 1931",
+        "13 April 1931",
+        "1 April 1931"
+      ],
+      "answer": 0,
+      "explanation": "The execution, originally fixed for 24 March 1931, was advanced and carried out on the evening of 23 March 1931."
+    },
+    {
+      "id": "bhagat-singh-q30",
+      "difficulty": "hard",
+      "q": "Which collection of Bhagat Singh's writings from prison is a noted source for his political thought?",
+      "options": [
+        "Hind Swaraj",
+        "The Jail Notebook",
+        "An Autobiography",
+        "The Story of My Experiments with Truth"
+      ],
+      "answer": 1,
+      "explanation": "Bhagat Singh's 'Jail Notebook' records the books he read and his reflections, illuminating his evolving ideology."
+    }
+  ]
+}

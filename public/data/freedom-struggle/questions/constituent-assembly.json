@@ -1,0 +1,395 @@
+{
+  "cardId": "constituent-assembly",
+  "questions": [
+    {
+      "id": "constituent-assembly-q01",
+      "difficulty": "easy",
+      "q": "What was the main task of the Constituent Assembly of India?",
+      "options": [
+        "To frame the Constitution of India",
+        "To elect the President",
+        "To negotiate Partition",
+        "To run the army"
+      ],
+      "answer": 0,
+      "explanation": "The Constituent Assembly was convened to draft and adopt the Constitution of independent India."
+    },
+    {
+      "id": "constituent-assembly-q02",
+      "difficulty": "easy",
+      "q": "Who presided over the Constituent Assembly as its permanent President?",
+      "options": [
+        "Jawaharlal Nehru",
+        "B. R. Ambedkar",
+        "Rajendra Prasad",
+        "Sardar Patel"
+      ],
+      "answer": 2,
+      "explanation": "Dr. Rajendra Prasad was elected the permanent President of the Constituent Assembly."
+    },
+    {
+      "id": "constituent-assembly-q03",
+      "difficulty": "easy",
+      "q": "Who chaired the Drafting Committee of the Constituent Assembly?",
+      "options": [
+        "Rajendra Prasad",
+        "B. R. Ambedkar",
+        "Sardar Patel",
+        "C. Rajagopalachari"
+      ],
+      "answer": 1,
+      "explanation": "Dr. B. R. Ambedkar chaired the Drafting Committee and is regarded as the chief architect of the Constitution."
+    },
+    {
+      "id": "constituent-assembly-q04",
+      "difficulty": "easy",
+      "q": "In which month and year did the Constituent Assembly first meet?",
+      "options": [
+        "August 1947",
+        "January 1950",
+        "June 1948",
+        "December 1946"
+      ],
+      "answer": 3,
+      "explanation": "The Constituent Assembly held its first sitting in December 1946."
+    },
+    {
+      "id": "constituent-assembly-q05",
+      "difficulty": "easy",
+      "q": "Who moved the famous Objectives Resolution in the Constituent Assembly?",
+      "options": [
+        "B. R. Ambedkar",
+        "Rajendra Prasad",
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel"
+      ],
+      "answer": 2,
+      "explanation": "Jawaharlal Nehru moved the Objectives Resolution in December 1946, which laid down the guiding principles of the Constitution."
+    },
+    {
+      "id": "constituent-assembly-q06",
+      "difficulty": "easy",
+      "q": "Roughly how long did the Constituent Assembly take to complete the Constitution?",
+      "options": [
+        "About two years and eleven months",
+        "About six months",
+        "About ten years",
+        "About one month"
+      ],
+      "answer": 0,
+      "explanation": "The Assembly took about two years, eleven months, and eighteen days to draft and adopt the Constitution."
+    },
+    {
+      "id": "constituent-assembly-q07",
+      "difficulty": "easy",
+      "q": "The Constituent Assembly was set up based on the recommendations of which 1946 mission?",
+      "options": [
+        "The Cripps Mission",
+        "The Simon Commission",
+        "The Wavell Plan",
+        "The Cabinet Mission"
+      ],
+      "answer": 3,
+      "explanation": "The Constituent Assembly was constituted under the framework proposed by the Cabinet Mission of 1946."
+    },
+    {
+      "id": "constituent-assembly-q08",
+      "difficulty": "easy",
+      "q": "Who served as the temporary or interim chairman at the very first meeting of the Constituent Assembly?",
+      "options": [
+        "Rajendra Prasad",
+        "Sachchidananda Sinha",
+        "B. N. Rau",
+        "H. C. Mukherjee"
+      ],
+      "answer": 1,
+      "explanation": "Dr. Sachchidananda Sinha, the oldest member, was the temporary chairman at the inaugural session in December 1946."
+    },
+    {
+      "id": "constituent-assembly-q09",
+      "difficulty": "easy",
+      "q": "The Objectives Resolution moved by Nehru later formed the basis of which part of the Constitution?",
+      "options": [
+        "The Preamble",
+        "The schedules",
+        "The emergency provisions",
+        "The amendment procedure"
+      ],
+      "answer": 0,
+      "explanation": "The Objectives Resolution was substantially incorporated into the Preamble of the Constitution."
+    },
+    {
+      "id": "constituent-assembly-q10",
+      "difficulty": "easy",
+      "q": "On what date did the Constituent Assembly finally adopt the Constitution?",
+      "options": [
+        "15 August 1947",
+        "26 January 1950",
+        "26 November 1949",
+        "30 January 1948"
+      ],
+      "answer": 2,
+      "explanation": "The Constituent Assembly adopted the Constitution on 26 November 1949, now observed as Constitution Day."
+    },
+    {
+      "id": "constituent-assembly-q11",
+      "difficulty": "medium",
+      "q": "Members of the Constituent Assembly were chosen mainly through:",
+      "options": [
+        "Direct universal adult franchise",
+        "Nomination by the Viceroy",
+        "Hereditary princely seats only",
+        "Indirect election by the provincial legislative assemblies"
+      ],
+      "answer": 3,
+      "explanation": "Members were largely elected indirectly by the elected members of the provincial assemblies, with seats also for the princely states."
+    },
+    {
+      "id": "constituent-assembly-q12",
+      "difficulty": "medium",
+      "q": "Who served as the constitutional adviser to the Constituent Assembly and prepared an initial draft?",
+      "options": [
+        "K. M. Munshi",
+        "B. N. Rau",
+        "Alladi Krishnaswami Ayyar",
+        "T. T. Krishnamachari"
+      ],
+      "answer": 1,
+      "explanation": "Sir B. N. Rau was the constitutional adviser who prepared an initial draft for the Drafting Committee to consider."
+    },
+    {
+      "id": "constituent-assembly-q13",
+      "difficulty": "medium",
+      "q": "After Partition, the membership of the Constituent Assembly was reduced to roughly how many?",
+      "options": [
+        "About 500",
+        "About 150",
+        "About 299",
+        "About 50"
+      ],
+      "answer": 2,
+      "explanation": "Following Partition the Assembly's strength was around 299 members for the Indian Union."
+    },
+    {
+      "id": "constituent-assembly-q14",
+      "difficulty": "medium",
+      "q": "The Drafting Committee chaired by Ambedkar consisted of how many members in total?",
+      "options": [
+        "Seven",
+        "Five",
+        "Eleven",
+        "Three"
+      ],
+      "answer": 0,
+      "explanation": "The Drafting Committee had seven members, with Ambedkar as its chairman."
+    },
+    {
+      "id": "constituent-assembly-q15",
+      "difficulty": "medium",
+      "q": "Which woman member, a noted social worker, served in the Constituent Assembly and on its committees?",
+      "options": [
+        "Aruna Asaf Ali",
+        "Hansa Mehta",
+        "Usha Mehta",
+        "Kamaladevi alone"
+      ],
+      "answer": 1,
+      "explanation": "Hansa Mehta was among the women members of the Constituent Assembly and argued for equal rights for women."
+    },
+    {
+      "id": "constituent-assembly-q16",
+      "difficulty": "medium",
+      "q": "The Constituent Assembly also functioned as which body until the first general elections?",
+      "options": [
+        "The Supreme Court",
+        "The Planning Commission",
+        "The Election Commission",
+        "The provisional Parliament of India"
+      ],
+      "answer": 3,
+      "explanation": "After 1947 the Assembly doubled as the provisional Parliament of the Dominion of India until elections were held."
+    },
+    {
+      "id": "constituent-assembly-q17",
+      "difficulty": "medium",
+      "q": "Which leader chaired the important Union Powers Committee and the Union Constitution Committee?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Sardar Patel",
+        "B. R. Ambedkar",
+        "Rajendra Prasad"
+      ],
+      "answer": 0,
+      "explanation": "Nehru chaired key committees including the Union Powers Committee and the Union Constitution Committee."
+    },
+    {
+      "id": "constituent-assembly-q18",
+      "difficulty": "medium",
+      "q": "Sardar Patel chaired which crucial committees dealing with rights and minorities in the Assembly?",
+      "options": [
+        "The Drafting Committee",
+        "The Finance Committee",
+        "The Advisory Committee on Fundamental Rights and Minorities",
+        "The Steering Committee"
+      ],
+      "answer": 2,
+      "explanation": "Patel chaired the Advisory Committee on Fundamental Rights, Minorities and Tribal Areas."
+    },
+    {
+      "id": "constituent-assembly-q19",
+      "difficulty": "medium",
+      "q": "The phrase 'We, the People of India' that opens the Constitution reflects the spirit of which Assembly resolution?",
+      "options": [
+        "The Lahore Resolution",
+        "The Karachi Resolution",
+        "The Wardha Resolution",
+        "The Objectives Resolution"
+      ],
+      "answer": 3,
+      "explanation": "Nehru's Objectives Resolution emphasized the sovereignty of the people, echoed in the Preamble's opening words."
+    },
+    {
+      "id": "constituent-assembly-q20",
+      "difficulty": "medium",
+      "q": "Members nominated by the Muslim League largely did what after Partition was decided?",
+      "options": [
+        "Joined the Drafting Committee",
+        "Withdrew to form Pakistan's separate assembly",
+        "Boycotted only the Preamble vote",
+        "Were expelled by Patel"
+      ],
+      "answer": 1,
+      "explanation": "Most Muslim League members left the Indian Constituent Assembly to take part in Pakistan's own constituent body."
+    },
+    {
+      "id": "constituent-assembly-q21",
+      "difficulty": "medium",
+      "q": "Which scholar-statesman who later became Education Minister was a member of the Constituent Assembly?",
+      "options": [
+        "Muhammad Ali Jinnah",
+        "Liaquat Ali Khan",
+        "Maulana Abul Kalam Azad",
+        "V. D. Savarkar"
+      ],
+      "answer": 2,
+      "explanation": "Maulana Azad, a senior Congress leader and India's first Education Minister, was a member of the Assembly."
+    },
+    {
+      "id": "constituent-assembly-q22",
+      "difficulty": "medium",
+      "q": "In total, how many sessions did the Constituent Assembly hold while framing the Constitution?",
+      "options": [
+        "Five",
+        "Twenty",
+        "Three",
+        "Eleven"
+      ],
+      "answer": 3,
+      "explanation": "The Constituent Assembly met in eleven sessions over the period of drafting the Constitution."
+    },
+    {
+      "id": "constituent-assembly-q23",
+      "difficulty": "hard",
+      "q": "The Objectives Resolution was moved by Nehru on which date in 1946?",
+      "options": [
+        "13 December 1946",
+        "9 December 1946",
+        "26 November 1946",
+        "15 August 1946"
+      ],
+      "answer": 0,
+      "explanation": "Nehru introduced the Objectives Resolution on 13 December 1946, days after the Assembly first convened on 9 December."
+    },
+    {
+      "id": "constituent-assembly-q24",
+      "difficulty": "hard",
+      "q": "Approximately how many amendments were considered during the clause-by-clause debate on the draft Constitution?",
+      "options": [
+        "Around 200",
+        "Around 2,000",
+        "Around 50",
+        "Around 10,000"
+      ],
+      "answer": 1,
+      "explanation": "The Assembly considered roughly two thousand amendments during its detailed reading of the draft Constitution."
+    },
+    {
+      "id": "constituent-assembly-q25",
+      "difficulty": "hard",
+      "q": "Which member, a distinguished jurist from Madras, was a key figure on the Drafting Committee alongside Ambedkar?",
+      "options": [
+        "Sachchidananda Sinha",
+        "H. C. Mukherjee",
+        "Frank Anthony",
+        "Alladi Krishnaswami Ayyar"
+      ],
+      "answer": 3,
+      "explanation": "Alladi Krishnaswami Ayyar, an eminent lawyer, was an influential member of the Drafting Committee."
+    },
+    {
+      "id": "constituent-assembly-q26",
+      "difficulty": "hard",
+      "q": "The signing of the completed Constitution by members took place primarily on which date?",
+      "options": [
+        "24 January 1950",
+        "26 November 1949",
+        "15 August 1947",
+        "26 January 1930"
+      ],
+      "answer": 0,
+      "explanation": "Members signed the Constitution on 24 January 1950, two days before it came into force on 26 January 1950."
+    },
+    {
+      "id": "constituent-assembly-q27",
+      "difficulty": "hard",
+      "q": "Who served as Vice-President of the Constituent Assembly, assisting Rajendra Prasad?",
+      "options": [
+        "B. N. Rau",
+        "T. T. Krishnamachari",
+        "H. C. Mukherjee",
+        "K. M. Munshi"
+      ],
+      "answer": 2,
+      "explanation": "Harendra Coomar Mukherjee served as the Vice-President (Vice-Chairman) of the Constituent Assembly."
+    },
+    {
+      "id": "constituent-assembly-q28",
+      "difficulty": "hard",
+      "q": "The original Constitution as adopted in 1949 contained roughly how many articles?",
+      "options": [
+        "250",
+        "395",
+        "500",
+        "150"
+      ],
+      "answer": 1,
+      "explanation": "The Constitution as originally adopted had 395 articles, 22 parts, and 8 schedules."
+    },
+    {
+      "id": "constituent-assembly-q29",
+      "difficulty": "hard",
+      "q": "The calligrapher who hand-wrote the original Constitution in flowing italic script was:",
+      "options": [
+        "Nandalal Bose",
+        "Beohar Rammanohar Sinha",
+        "B. N. Rau",
+        "Prem Behari Narain Raizada"
+      ],
+      "answer": 3,
+      "explanation": "Prem Behari Narain Raizada hand-wrote the original Constitution, while artists led by Nandalal Bose illustrated it."
+    },
+    {
+      "id": "constituent-assembly-q30",
+      "difficulty": "hard",
+      "q": "Which member, an Anglo-Indian leader, represented his community in the Constituent Assembly?",
+      "options": [
+        "Alladi Krishnaswami Ayyar",
+        "Sachchidananda Sinha",
+        "Frank Anthony",
+        "K. T. Shah"
+      ],
+      "answer": 2,
+      "explanation": "Frank Anthony represented the Anglo-Indian community in the Constituent Assembly."
+    }
+  ]
+}

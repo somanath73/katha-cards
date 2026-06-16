@@ -1,0 +1,395 @@
+{
+  "cardId": "anushilan-samiti",
+  "questions": [
+    {
+      "id": "anushilan-samiti-q01",
+      "difficulty": "easy",
+      "q": "In which Indian province did the Anushilan Samiti primarily operate?",
+      "options": [
+        "Bengal",
+        "Punjab",
+        "Maharashtra",
+        "Madras"
+      ],
+      "answer": 0,
+      "explanation": "The Anushilan Samiti was one of the earliest revolutionary organizations centred in Bengal."
+    },
+    {
+      "id": "anushilan-samiti-q02",
+      "difficulty": "easy",
+      "q": "The Anushilan Samiti is best described as what kind of organization?",
+      "options": [
+        "A moderate constitutional party",
+        "A revolutionary (armed) nationalist organization",
+        "A religious charity",
+        "A trade union"
+      ],
+      "answer": 1,
+      "explanation": "It was a revolutionary organization that combined physical culture with armed nationalism against colonial rule."
+    },
+    {
+      "id": "anushilan-samiti-q03",
+      "difficulty": "easy",
+      "q": "Besides armed activism, what did the Anushilan Samiti emphasize for its members?",
+      "options": [
+        "Commercial trading",
+        "Foreign travel",
+        "Physical culture and fitness",
+        "Court litigation"
+      ],
+      "answer": 2,
+      "explanation": "The Samiti combined physical culture (akhara-style training) with the cultivation of nationalist and revolutionary ideals."
+    },
+    {
+      "id": "anushilan-samiti-q04",
+      "difficulty": "easy",
+      "q": "In which period was the Anushilan Samiti founded and most active?",
+      "options": [
+        "The 1850s",
+        "The 1940s",
+        "The 1980s",
+        "The early twentieth century"
+      ],
+      "answer": 3,
+      "explanation": "It emerged and operated in the early twentieth century, during and after the Swadeshi movement."
+    },
+    {
+      "id": "anushilan-samiti-q05",
+      "difficulty": "easy",
+      "q": "The members of the Anushilan Samiti were involved in actions against whom?",
+      "options": [
+        "Colonial officials",
+        "Indian farmers",
+        "Religious pilgrims",
+        "Local merchants"
+      ],
+      "answer": 0,
+      "explanation": "Its members carried out several armed actions targeting British colonial officials."
+    },
+    {
+      "id": "anushilan-samiti-q06",
+      "difficulty": "easy",
+      "q": "The word 'Anushilan' in the organization's name relates to which idea?",
+      "options": [
+        "Trade and commerce",
+        "Practice, cultivation, or disciplined exercise",
+        "Worship of idols",
+        "Foreign diplomacy"
+      ],
+      "answer": 1,
+      "explanation": "'Anushilan' connotes disciplined practice or cultivation, reflecting the group's emphasis on training and self-discipline."
+    },
+    {
+      "id": "anushilan-samiti-q07",
+      "difficulty": "easy",
+      "q": "Which novel by Bankim Chandra Chattopadhyay inspired the ethos of the Anushilan Samiti?",
+      "options": [
+        "Devdas",
+        "Gora",
+        "Anandamath",
+        "Godan"
+      ],
+      "answer": 2,
+      "explanation": "The Samiti drew inspiration from Bankim Chandra's 'Anandamath,' with its ideal of disciplined patriotic ascetics."
+    },
+    {
+      "id": "anushilan-samiti-q08",
+      "difficulty": "easy",
+      "q": "The Anushilan Samiti is associated with revolutionaries from which present-day regions?",
+      "options": [
+        "Punjab and Sindh",
+        "Gujarat and Rajasthan",
+        "Tamil Nadu and Kerala",
+        "West Bengal and Bangladesh"
+      ],
+      "answer": 3,
+      "explanation": "Its branches operated across undivided Bengal, covering present-day West Bengal and Bangladesh."
+    },
+    {
+      "id": "anushilan-samiti-q09",
+      "difficulty": "easy",
+      "q": "The Anushilan Samiti is considered one of the earliest examples of what in India?",
+      "options": [
+        "Organized revolutionary nationalism",
+        "Parliamentary democracy",
+        "Cooperative banking",
+        "Mass nonviolent satyagraha"
+      ],
+      "answer": 0,
+      "explanation": "It was among the first organized revolutionary nationalist secret societies in colonial India."
+    },
+    {
+      "id": "anushilan-samiti-q10",
+      "difficulty": "easy",
+      "q": "The Anushilan Samiti was structured to keep its activities largely what?",
+      "options": [
+        "Publicly advertised",
+        "Secret",
+        "Government-funded",
+        "Internationally televised"
+      ],
+      "answer": 1,
+      "explanation": "As a revolutionary body, it functioned as a secret society to evade colonial surveillance."
+    },
+    {
+      "id": "anushilan-samiti-q11",
+      "difficulty": "medium",
+      "q": "In which city was the original Anushilan Samiti founded in 1902?",
+      "options": [
+        "Dhaka",
+        "Lahore",
+        "Calcutta",
+        "Bombay"
+      ],
+      "answer": 2,
+      "explanation": "The first Anushilan Samiti was founded in Calcutta in 1902."
+    },
+    {
+      "id": "anushilan-samiti-q12",
+      "difficulty": "medium",
+      "q": "Which barrister and nationalist is widely credited with founding the Calcutta Anushilan Samiti in 1902?",
+      "options": [
+        "Chittaranjan Das",
+        "Surendranath Banerjee",
+        "Bipin Chandra Pal",
+        "Pramatha Nath Mitra (P. Mitra)"
+      ],
+      "answer": 3,
+      "explanation": "Barrister Pramatha Nath Mitra (P. Mitra) is generally credited with founding the Calcutta Anushilan Samiti in 1902."
+    },
+    {
+      "id": "anushilan-samiti-q13",
+      "difficulty": "medium",
+      "q": "A separate, very influential branch of the Anushilan Samiti was based in which East Bengal city?",
+      "options": [
+        "Dhaka",
+        "Chittagong",
+        "Sylhet",
+        "Rajshahi"
+      ],
+      "answer": 0,
+      "explanation": "The Dhaka Anushilan Samiti, founded in 1906, became one of the most powerful revolutionary networks in East Bengal."
+    },
+    {
+      "id": "anushilan-samiti-q14",
+      "difficulty": "medium",
+      "q": "Who founded the influential Dhaka branch of the Anushilan Samiti in 1906?",
+      "options": [
+        "Barindra Kumar Ghosh",
+        "Pulin Behari Das",
+        "Jatindranath Mukherjee",
+        "Rash Behari Bose"
+      ],
+      "answer": 1,
+      "explanation": "Pulin Behari Das organized the Dhaka Anushilan Samiti in 1906 and built it into a formidable network."
+    },
+    {
+      "id": "anushilan-samiti-q15",
+      "difficulty": "medium",
+      "q": "Which prominent revolutionary, known as 'Bagha Jatin,' was a leading figure linked to the Anushilan and Jugantar groups?",
+      "options": [
+        "Khudiram Bose",
+        "Surya Sen",
+        "Jatindranath Mukherjee",
+        "Aurobindo Ghosh"
+      ],
+      "answer": 2,
+      "explanation": "Jatindranath Mukherjee, called 'Bagha Jatin,' was a key revolutionary associated with the Bengal revolutionary movement."
+    },
+    {
+      "id": "anushilan-samiti-q16",
+      "difficulty": "medium",
+      "q": "Which militant offshoot newspaper-named faction grew out of the Anushilan Samiti's circle?",
+      "options": [
+        "Kesari",
+        "Young India",
+        "Harijan",
+        "Jugantar (Yugantar)"
+      ],
+      "answer": 3,
+      "explanation": "The Jugantar (Yugantar) group, named after a revolutionary weekly, emerged from the broader Anushilan revolutionary milieu."
+    },
+    {
+      "id": "anushilan-samiti-q17",
+      "difficulty": "medium",
+      "q": "Members of the Anushilan/Jugantar circle were implicated in which 1908 bombing conspiracy?",
+      "options": [
+        "The Alipore Bomb Case",
+        "The Kakori Conspiracy",
+        "The Meerut Conspiracy",
+        "The Lahore Conspiracy"
+      ],
+      "answer": 0,
+      "explanation": "Revolutionaries from this milieu were tried in the Alipore Bomb Case of 1908 following the Muzaffarpur bombing."
+    },
+    {
+      "id": "anushilan-samiti-q18",
+      "difficulty": "medium",
+      "q": "The revolutionary philosophy of the Anushilan Samiti was strongly shaped by the writings of which Bengali figure?",
+      "options": [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chattopadhyay",
+        "Ishwar Chandra Vidyasagar",
+        "Michael Madhusudan Dutt"
+      ],
+      "answer": 1,
+      "explanation": "Bankim Chandra Chattopadhyay's nationalist and devotional writings, especially Anandamath, deeply inspired the Samiti."
+    },
+    {
+      "id": "anushilan-samiti-q19",
+      "difficulty": "medium",
+      "q": "Which revolutionary, executed in 1908 for the Muzaffarpur bombing, was connected to the Bengal revolutionary movement?",
+      "options": [
+        "Bhagat Singh",
+        "Ashfaqulla Khan",
+        "Khudiram Bose",
+        "Rajguru"
+      ],
+      "answer": 2,
+      "explanation": "Khudiram Bose, hanged in 1908 for the Muzaffarpur bomb attack, was one of the young Bengal revolutionaries of this era."
+    },
+    {
+      "id": "anushilan-samiti-q20",
+      "difficulty": "medium",
+      "q": "The Anushilan Samiti's rise was closely tied to the agitation following which event?",
+      "options": [
+        "The Jallianwala Bagh massacre",
+        "The Chauri Chaura incident",
+        "The Cripps Mission",
+        "The Partition of Bengal in 1905"
+      ],
+      "answer": 3,
+      "explanation": "The revolutionary movement in Bengal surged amid the anger over Lord Curzon's 1905 Partition of Bengal."
+    },
+    {
+      "id": "anushilan-samiti-q21",
+      "difficulty": "medium",
+      "q": "Which brother of Aurobindo Ghosh was a leading organizer of Bengal's revolutionary secret societies?",
+      "options": [
+        "Barindra Kumar Ghosh",
+        "Pulin Behari Das",
+        "Jatindranath Mukherjee",
+        "Satyendranath Bose"
+      ],
+      "answer": 0,
+      "explanation": "Barindra Kumar Ghosh, Aurobindo's brother, helped organize the revolutionary group and its bomb-making activities at Maniktala."
+    },
+    {
+      "id": "anushilan-samiti-q22",
+      "difficulty": "medium",
+      "q": "What kind of training centres did the Anushilan Samiti establish to recruit and train young men?",
+      "options": [
+        "Banks and trading houses",
+        "Gymnasiums and akharas",
+        "Printing presses only",
+        "Temples for worship only"
+      ],
+      "answer": 1,
+      "explanation": "The Samiti set up gymnasiums (akharas) where recruits trained physically while being instilled with revolutionary ideals."
+    },
+    {
+      "id": "anushilan-samiti-q23",
+      "difficulty": "hard",
+      "q": "In which year was the original Calcutta Anushilan Samiti founded?",
+      "options": [
+        "1885",
+        "1911",
+        "1902",
+        "1928"
+      ],
+      "answer": 2,
+      "explanation": "The Calcutta Anushilan Samiti was founded in 1902, several years before the Partition of Bengal."
+    },
+    {
+      "id": "anushilan-samiti-q24",
+      "difficulty": "hard",
+      "q": "Which forms of physical training were taught in the Anushilan Samiti's gymnasiums to build up its young recruits?",
+      "options": [
+        "Sumo wrestling",
+        "Western boxing leagues",
+        "Naval cadet drills",
+        "Lathi and sword play with indigenous martial arts"
+      ],
+      "answer": 3,
+      "explanation": "The Samiti's akhara-style gymnasiums emphasized indigenous physical culture such as lathi play, sword fighting, and wrestling to prepare recruits."
+    },
+    {
+      "id": "anushilan-samiti-q25",
+      "difficulty": "hard",
+      "q": "The Anushilan Samiti was formally banned by the British under which kind of measure during World War I?",
+      "options": [
+        "The Defence of India Act / emergency regulations",
+        "The Government of India Act 1858",
+        "The Indian Councils Act 1909",
+        "The Rowlatt Act of 1947"
+      ],
+      "answer": 0,
+      "explanation": "Wartime emergency laws such as the Defence of India Act (1915) were used to suppress and detain Anushilan revolutionaries."
+    },
+    {
+      "id": "anushilan-samiti-q26",
+      "difficulty": "hard",
+      "q": "The 1915 plot involving German arms shipments to Bengal revolutionaries, linked to this network, is known as what?",
+      "options": [
+        "The Kakori Conspiracy",
+        "The Hindu-German Conspiracy / Indo-German plot",
+        "The Meerut Conspiracy Case",
+        "The Quit India plot"
+      ],
+      "answer": 1,
+      "explanation": "Bengal revolutionaries, including Bagha Jatin, were involved in the wartime Indo-German (Hindu-German) Conspiracy to import arms."
+    },
+    {
+      "id": "anushilan-samiti-q27",
+      "difficulty": "hard",
+      "q": "Bagha Jatin (Jatindranath Mukherjee) died in 1915 after a gun battle at which place?",
+      "options": [
+        "Alipore, Calcutta",
+        "Chittagong, Bengal",
+        "Balasore (Buribalam river), Odisha",
+        "Cawnpore, United Provinces"
+      ],
+      "answer": 2,
+      "explanation": "Bagha Jatin was mortally wounded in the Battle of Balasore on the banks of the Buribalam river in 1915."
+    },
+    {
+      "id": "anushilan-samiti-q28",
+      "difficulty": "hard",
+      "q": "Over time, members of the Anushilan and Jugantar tradition split, with some later joining which ideological movement in the 1930s?",
+      "options": [
+        "The Muslim League",
+        "The Justice Party",
+        "The Liberal Federation",
+        "Communism / socialism"
+      ],
+      "answer": 3,
+      "explanation": "Many former revolutionaries from this tradition embraced Marxist and socialist politics during the 1930s and after."
+    },
+    {
+      "id": "anushilan-samiti-q29",
+      "difficulty": "hard",
+      "q": "The Maniktala bomb factory associated with this revolutionary circle was located in which garden in Calcutta?",
+      "options": [
+        "The Muraripukur (Maniktala) garden",
+        "The Eden Gardens",
+        "The Botanical Gardens at Shibpur",
+        "Victoria Memorial gardens"
+      ],
+      "answer": 0,
+      "explanation": "The secret bomb factory uncovered in 1908 was at the Muraripukur garden in the Maniktala area of Calcutta."
+    },
+    {
+      "id": "anushilan-samiti-q30",
+      "difficulty": "hard",
+      "q": "Which revolutionary leader of the Dhaka Anushilan Samiti authored manuals on lathi play and physical training?",
+      "options": [
+        "Barindra Kumar Ghosh",
+        "Pulin Behari Das",
+        "Khudiram Bose",
+        "Kanailal Dutt"
+      ],
+      "answer": 1,
+      "explanation": "Pulin Behari Das, founder of the Dhaka branch, was renowned for organizing physical training and lathi instruction."
+    }
+  ]
+}

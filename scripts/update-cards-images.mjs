@@ -6,8 +6,9 @@ import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..')
-const cardsPath = join(root, 'public/data/mahabharat/cards.json')
-const artDir = join(root, 'public/data/mahabharat/art')
+const category = process.argv[2] || 'mahabharat'
+const cardsPath = join(root, `public/data/${category}/cards.json`)
+const artDir = join(root, `public/data/${category}/art`)
 const deck = JSON.parse(readFileSync(cardsPath, 'utf8'))
 
 let withArt = 0

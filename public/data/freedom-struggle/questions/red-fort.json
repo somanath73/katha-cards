@@ -1,0 +1,395 @@
+{
+  "cardId": "red-fort",
+  "questions": [
+    {
+      "id": "red-fort-q01",
+      "difficulty": "easy",
+      "q": "In which Indian city is the Red Fort located?",
+      "options": [
+        "Delhi",
+        "Agra",
+        "Lahore",
+        "Lucknow"
+      ],
+      "answer": 0,
+      "explanation": "The Red Fort stands in Delhi, on the banks of the Yamuna river."
+    },
+    {
+      "id": "red-fort-q02",
+      "difficulty": "easy",
+      "q": "The Red Fort was built during which imperial era?",
+      "options": [
+        "The British era",
+        "The Maurya era",
+        "The Mughal era",
+        "The Gupta era"
+      ],
+      "answer": 2,
+      "explanation": "The Red Fort is a Mughal-era fortress, built in the seventeenth century."
+    },
+    {
+      "id": "red-fort-q03",
+      "difficulty": "easy",
+      "q": "From the ramparts of the Red Fort, who hoists the national flag each Independence Day?",
+      "options": [
+        "The Chief Justice",
+        "The Prime Minister",
+        "The Army Chief",
+        "The Mayor of Delhi"
+      ],
+      "answer": 1,
+      "explanation": "The Prime Minister of India hoists the national flag from the Red Fort each Independence Day."
+    },
+    {
+      "id": "red-fort-q04",
+      "difficulty": "easy",
+      "q": "The Red Fort served as the setting for which famous post-war court-martials?",
+      "options": [
+        "The Meerut trials",
+        "The Kakori trials",
+        "The Chittagong trials",
+        "The INA trials"
+      ],
+      "answer": 3,
+      "explanation": "The INA trials of 1945-46 were held at the Red Fort, lending them the name 'Red Fort Trials.'"
+    },
+    {
+      "id": "red-fort-q05",
+      "difficulty": "easy",
+      "q": "The Red Fort is widely regarded as a symbol of what?",
+      "options": [
+        "Foreign trade",
+        "Religious pilgrimage",
+        "Indian sovereignty",
+        "Agricultural wealth"
+      ],
+      "answer": 2,
+      "explanation": "The Red Fort has become a powerful symbol of Indian sovereignty and national pride."
+    },
+    {
+      "id": "red-fort-q06",
+      "difficulty": "easy",
+      "q": "By which Hindi or Urdu name is the Red Fort also known?",
+      "options": [
+        "Lal Qila",
+        "Hawa Mahal",
+        "Char Minar",
+        "Bara Imambara"
+      ],
+      "answer": 0,
+      "explanation": "The Red Fort is known in Hindi and Urdu as the Lal Qila, meaning 'Red Fort.'"
+    },
+    {
+      "id": "red-fort-q07",
+      "difficulty": "easy",
+      "q": "The Red Fort takes its name from the colour of which building material?",
+      "options": [
+        "White marble",
+        "Grey granite",
+        "Black basalt",
+        "Red sandstone"
+      ],
+      "answer": 3,
+      "explanation": "The fort is named for its massive walls of red sandstone."
+    },
+    {
+      "id": "red-fort-q08",
+      "difficulty": "easy",
+      "q": "On which river's banks was the Red Fort originally built?",
+      "options": [
+        "The Ganga",
+        "The Yamuna",
+        "The Ravi",
+        "The Sabarmati"
+      ],
+      "answer": 1,
+      "explanation": "The Red Fort was built beside the Yamuna river in Delhi."
+    },
+    {
+      "id": "red-fort-q09",
+      "difficulty": "easy",
+      "q": "On India's first Independence Day, the national flag was raised over the Red Fort in which year?",
+      "options": [
+        "1930",
+        "1947",
+        "1919",
+        "1950"
+      ],
+      "answer": 1,
+      "explanation": "The tricolour was hoisted at the Red Fort as India became independent in 1947."
+    },
+    {
+      "id": "red-fort-q10",
+      "difficulty": "easy",
+      "q": "During the freedom struggle, the Red Fort gained prominence partly because the British used it for what purpose?",
+      "options": [
+        "Holding cricket matches",
+        "Storing salt",
+        "Coronating viceroys",
+        "Trying captured INA officers"
+      ],
+      "answer": 3,
+      "explanation": "The British court-martialled captured Indian National Army officers there in 1945-46."
+    },
+    {
+      "id": "red-fort-q11",
+      "difficulty": "medium",
+      "q": "Which Mughal emperor commissioned the construction of the Red Fort?",
+      "options": [
+        "Shah Jahan",
+        "Akbar",
+        "Aurangzeb",
+        "Babur"
+      ],
+      "answer": 0,
+      "explanation": "The Red Fort was commissioned by Emperor Shah Jahan, who also built the Taj Mahal."
+    },
+    {
+      "id": "red-fort-q12",
+      "difficulty": "medium",
+      "q": "The Red Fort was built when Shah Jahan moved his capital to a new city named what?",
+      "options": [
+        "Fatehpur Sikri",
+        "Daulatabad",
+        "Shahjahanabad",
+        "Tughlaqabad"
+      ],
+      "answer": 2,
+      "explanation": "The fort was the centrepiece of Shahjahanabad, Shah Jahan's new capital in Delhi."
+    },
+    {
+      "id": "red-fort-q13",
+      "difficulty": "medium",
+      "q": "Construction of the Red Fort was completed around which year?",
+      "options": [
+        "1526",
+        "1707",
+        "1857",
+        "1648"
+      ],
+      "answer": 3,
+      "explanation": "The Red Fort was completed around 1648 after roughly a decade of construction."
+    },
+    {
+      "id": "red-fort-q14",
+      "difficulty": "medium",
+      "q": "During the Revolt of 1857, the Red Fort was the seat of which symbolic rebel leader?",
+      "options": [
+        "Nana Saheb",
+        "Bahadur Shah Zafar",
+        "Tatya Tope",
+        "Rani Lakshmibai"
+      ],
+      "answer": 1,
+      "explanation": "The last Mughal emperor Bahadur Shah Zafar was proclaimed leader of the 1857 rebels at the Red Fort in Delhi."
+    },
+    {
+      "id": "red-fort-q15",
+      "difficulty": "medium",
+      "q": "After the British suppressed the 1857 revolt, what did they do at and around the Red Fort?",
+      "options": [
+        "Converted it into a temple",
+        "Gifted it to the Nizam",
+        "Damaged and demolished parts of it and stationed troops there",
+        "Left it entirely untouched"
+      ],
+      "answer": 2,
+      "explanation": "Following 1857 the British demolished many structures within the fort and turned it into a military garrison."
+    },
+    {
+      "id": "red-fort-q16",
+      "difficulty": "medium",
+      "q": "Subhas Chandra Bose's INA gave a famous slogan expressing the aim of marching to the Red Fort. What was it?",
+      "options": [
+        "Chalo Dilli (March to Delhi)",
+        "Karo ya Maro",
+        "Simon Go Back",
+        "Vande Mataram"
+      ],
+      "answer": 0,
+      "explanation": "The INA's battle cry 'Chalo Dilli,' meaning 'March to Delhi,' aimed at reaching the Red Fort, the seat of power."
+    },
+    {
+      "id": "red-fort-q17",
+      "difficulty": "medium",
+      "q": "The first Prime Minister to hoist the flag and address the nation from the Red Fort on Independence Day was whom?",
+      "options": [
+        "Lal Bahadur Shastri",
+        "Sardar Patel",
+        "Jawaharlal Nehru",
+        "Rajendra Prasad"
+      ],
+      "answer": 2,
+      "explanation": "Jawaharlal Nehru, India's first Prime Minister, raised the flag and addressed the nation from the Red Fort in 1947."
+    },
+    {
+      "id": "red-fort-q18",
+      "difficulty": "medium",
+      "q": "Which renowned audience hall inside the Red Fort was used by the Mughal emperor for public petitions?",
+      "options": [
+        "The Diwan-i-Aam",
+        "The Sheesh Mahal",
+        "The Buland Darwaza",
+        "The Panch Mahal"
+      ],
+      "answer": 0,
+      "explanation": "The Diwan-i-Aam, or Hall of Public Audience, is one of the celebrated structures within the Red Fort."
+    },
+    {
+      "id": "red-fort-q19",
+      "difficulty": "medium",
+      "q": "The INA trials at the Red Fort drew public attention partly because the venue itself symbolized what?",
+      "options": [
+        "British naval strength",
+        "Colonial trade",
+        "Religious orthodoxy",
+        "Indian sovereignty and former imperial power"
+      ],
+      "answer": 3,
+      "explanation": "Holding the trials at the Red Fort, a symbol of Indian sovereignty, heightened their nationalist resonance."
+    },
+    {
+      "id": "red-fort-q20",
+      "difficulty": "medium",
+      "q": "In 2007 the Red Fort received which form of international recognition?",
+      "options": [
+        "A Nobel Peace Prize",
+        "UNESCO World Heritage Site status",
+        "The Magsaysay Award",
+        "An Olympic venue designation"
+      ],
+      "answer": 1,
+      "explanation": "The Red Fort complex was inscribed as a UNESCO World Heritage Site in 2007."
+    },
+    {
+      "id": "red-fort-q21",
+      "difficulty": "medium",
+      "q": "Construction of the Red Fort began around which year under Shah Jahan?",
+      "options": [
+        "1638",
+        "1605",
+        "1658",
+        "1700"
+      ],
+      "answer": 0,
+      "explanation": "Work on the Red Fort began around 1638-1639 and continued for roughly a decade."
+    },
+    {
+      "id": "red-fort-q22",
+      "difficulty": "medium",
+      "q": "Which famous jewelled throne, later looted, was originally housed in the Red Fort's Diwan-i-Khas?",
+      "options": [
+        "The Lion Throne",
+        "The Lotus Throne",
+        "The Marble Throne",
+        "The Peacock Throne"
+      ],
+      "answer": 3,
+      "explanation": "Shah Jahan's celebrated Peacock Throne stood in the Diwan-i-Khas of the Red Fort before it was carried off by Nadir Shah in 1739."
+    },
+    {
+      "id": "red-fort-q23",
+      "difficulty": "hard",
+      "q": "Whose invasion in 1739 led to the looting of the Red Fort, including the Peacock Throne?",
+      "options": [
+        "Ahmad Shah Abdali",
+        "Nadir Shah of Persia",
+        "Timur",
+        "Mahmud of Ghazni"
+      ],
+      "answer": 1,
+      "explanation": "Nadir Shah of Persia sacked Delhi in 1739 and carried away the Peacock Throne from the Red Fort."
+    },
+    {
+      "id": "red-fort-q24",
+      "difficulty": "hard",
+      "q": "A celebrated Persian couplet inscribed in the Red Fort's Diwan-i-Khas declares that if there is a paradise on earth, where is it?",
+      "options": [
+        "It is in Agra",
+        "It is in Lahore",
+        "It is here, it is here, it is here",
+        "It is in heaven alone"
+      ],
+      "answer": 2,
+      "explanation": "The famous inscription reads, 'If there is a paradise on earth, it is this, it is this, it is this.'"
+    },
+    {
+      "id": "red-fort-q25",
+      "difficulty": "hard",
+      "q": "After the 1857 trial at the Red Fort, Bahadur Shah Zafar was exiled to which city?",
+      "options": [
+        "Cape Town",
+        "Singapore",
+        "Aden",
+        "Rangoon"
+      ],
+      "answer": 3,
+      "explanation": "Bahadur Shah Zafar was tried after 1857 and exiled to Rangoon, where he died in 1862."
+    },
+    {
+      "id": "red-fort-q26",
+      "difficulty": "hard",
+      "q": "Which principal gateway of the Red Fort faces the historic Chandni Chowk market area?",
+      "options": [
+        "The Ajmeri Gate",
+        "The Lahori Gate",
+        "The Buland Darwaza",
+        "The India Gate"
+      ],
+      "answer": 1,
+      "explanation": "The Lahori Gate is the main gate of the Red Fort and faces toward Chandni Chowk; the Prime Minister speaks from its rampart."
+    },
+    {
+      "id": "red-fort-q27",
+      "difficulty": "hard",
+      "q": "The elegant marble pavilions along the Red Fort's eastern side overlooking the river were collectively part of what palace complex?",
+      "options": [
+        "The imperial private palaces (such as Rang Mahal and Khas Mahal)",
+        "A British barracks block",
+        "A Mughal mosque school",
+        "A railway terminus"
+      ],
+      "answer": 0,
+      "explanation": "The riverfront held the emperor's private palaces, including the Rang Mahal and Khas Mahal, within the Red Fort."
+    },
+    {
+      "id": "red-fort-q28",
+      "difficulty": "hard",
+      "q": "Who is traditionally credited as a chief architect associated with the building of the Red Fort and Shahjahanabad?",
+      "options": [
+        "Mirza Ghalib",
+        "Raja Man Singh",
+        "Ustad Ahmad Lahori",
+        "Tansen"
+      ],
+      "answer": 2,
+      "explanation": "Ustad Ahmad Lahori, also linked with the Taj Mahal, is traditionally credited with the Red Fort's design."
+    },
+    {
+      "id": "red-fort-q29",
+      "difficulty": "hard",
+      "q": "A white marble mosque added inside the Red Fort by Aurangzeb is known by what name?",
+      "options": [
+        "The Jama Masjid",
+        "The Moti Masjid",
+        "The Badshahi Masjid",
+        "The Sunehri Masjid"
+      ],
+      "answer": 1,
+      "explanation": "The Moti Masjid, or Pearl Mosque, a small marble mosque, was built inside the Red Fort by Aurangzeb."
+    },
+    {
+      "id": "red-fort-q30",
+      "difficulty": "hard",
+      "q": "The water channel that once ran through the Red Fort's palaces carrying flowing water was poetically called what?",
+      "options": [
+        "The Yamuna Canal",
+        "The Ganga Nehar",
+        "The Shahi Talab",
+        "The Nahr-i-Bihisht (Stream of Paradise)"
+      ],
+      "answer": 3,
+      "explanation": "A channel called the Nahr-i-Bihisht, or 'Stream of Paradise,' once flowed through the Red Fort's private palaces."
+    }
+  ]
+}

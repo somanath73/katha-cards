@@ -1,0 +1,395 @@
+{
+  "cardId": "indian-constitution",
+  "questions": [
+    {
+      "id": "indian-constitution-q01",
+      "difficulty": "easy",
+      "q": "On what date did the Constitution of India come into force?",
+      "options": [
+        "26 January 1950",
+        "15 August 1947",
+        "26 November 1949",
+        "2 October 1950"
+      ],
+      "answer": 0,
+      "explanation": "The Constitution came into effect on 26 January 1950, celebrated each year as Republic Day."
+    },
+    {
+      "id": "indian-constitution-q02",
+      "difficulty": "easy",
+      "q": "On what date was the Constitution of India adopted by the Constituent Assembly?",
+      "options": [
+        "26 January 1950",
+        "15 August 1947",
+        "26 November 1949",
+        "30 January 1948"
+      ],
+      "answer": 2,
+      "explanation": "The Constitution was adopted on 26 November 1949, now observed as Constitution Day."
+    },
+    {
+      "id": "indian-constitution-q03",
+      "difficulty": "easy",
+      "q": "Who is widely regarded as the chief architect of the Indian Constitution?",
+      "options": [
+        "Jawaharlal Nehru",
+        "B. R. Ambedkar",
+        "Rajendra Prasad",
+        "Sardar Patel"
+      ],
+      "answer": 1,
+      "explanation": "Dr. B. R. Ambedkar, chairman of the Drafting Committee, is regarded as the chief architect of the Constitution."
+    },
+    {
+      "id": "indian-constitution-q04",
+      "difficulty": "easy",
+      "q": "The day the Constitution came into force is celebrated as which national day?",
+      "options": [
+        "Independence Day",
+        "Gandhi Jayanti",
+        "Constitution Day",
+        "Republic Day"
+      ],
+      "answer": 3,
+      "explanation": "26 January, the day the Constitution commenced, is celebrated as Republic Day."
+    },
+    {
+      "id": "indian-constitution-q05",
+      "difficulty": "easy",
+      "q": "The Constitution declares India to be a sovereign, socialist, secular, democratic:",
+      "options": [
+        "Monarchy",
+        "Dominion",
+        "Republic",
+        "Confederation"
+      ],
+      "answer": 2,
+      "explanation": "The Preamble declares India a sovereign, socialist, secular, democratic republic (socialist and secular added in 1976)."
+    },
+    {
+      "id": "indian-constitution-q06",
+      "difficulty": "easy",
+      "q": "The introductory statement of the Constitution outlining its ideals is called the:",
+      "options": [
+        "Preamble",
+        "Schedule",
+        "Directive",
+        "Amendment"
+      ],
+      "answer": 0,
+      "explanation": "The Preamble is the introductory statement that sets out the guiding ideals of the Constitution."
+    },
+    {
+      "id": "indian-constitution-q07",
+      "difficulty": "easy",
+      "q": "Why was 26 January specifically chosen as the date for the Constitution to take effect?",
+      "options": [
+        "It was Gandhi's birthday",
+        "It was the day of Partition",
+        "It was Nehru's birthday",
+        "It marked the 1930 Purna Swaraj (Independence Day) pledge"
+      ],
+      "answer": 3,
+      "explanation": "26 January honoured the Purna Swaraj declaration first observed as Independence Day in 1930."
+    },
+    {
+      "id": "indian-constitution-q08",
+      "difficulty": "easy",
+      "q": "The Constitution of India is often described as one of the:",
+      "options": [
+        "Shortest constitutions in the world",
+        "Longest written constitutions in the world",
+        "Only unwritten constitutions",
+        "Oldest constitutions in the world"
+      ],
+      "answer": 1,
+      "explanation": "The Indian Constitution is among the longest and most detailed written constitutions in the world."
+    },
+    {
+      "id": "indian-constitution-q09",
+      "difficulty": "easy",
+      "q": "Fundamental Rights guaranteed by the Constitution include the right to:",
+      "options": [
+        "Equality",
+        "Property as a fundamental right today",
+        "Strike",
+        "Free housing"
+      ],
+      "answer": 0,
+      "explanation": "The right to equality is one of the Fundamental Rights; the right to property was later removed as a fundamental right in 1978."
+    },
+    {
+      "id": "indian-constitution-q10",
+      "difficulty": "easy",
+      "q": "Who became the first President of India when the Constitution came into force in 1950?",
+      "options": [
+        "Jawaharlal Nehru",
+        "B. R. Ambedkar",
+        "Rajendra Prasad",
+        "S. Radhakrishnan"
+      ],
+      "answer": 2,
+      "explanation": "Dr. Rajendra Prasad became the first President of the Republic of India on 26 January 1950."
+    },
+    {
+      "id": "indian-constitution-q11",
+      "difficulty": "medium",
+      "q": "The Directive Principles of State Policy in the Constitution were inspired by the constitution of which country?",
+      "options": [
+        "United States",
+        "Australia",
+        "Canada",
+        "Ireland"
+      ],
+      "answer": 3,
+      "explanation": "The Directive Principles of State Policy were borrowed from the Irish Constitution."
+    },
+    {
+      "id": "indian-constitution-q12",
+      "difficulty": "medium",
+      "q": "The idea of Fundamental Rights in the Indian Constitution drew chiefly on which country's example?",
+      "options": [
+        "United Kingdom",
+        "United States",
+        "France",
+        "Soviet Union"
+      ],
+      "answer": 1,
+      "explanation": "The concept of justiciable Fundamental Rights was largely modelled on the United States Bill of Rights."
+    },
+    {
+      "id": "indian-constitution-q13",
+      "difficulty": "medium",
+      "q": "The parliamentary system of government in the Constitution was modelled mainly on which country?",
+      "options": [
+        "The United States",
+        "Switzerland",
+        "The United Kingdom",
+        "Germany"
+      ],
+      "answer": 2,
+      "explanation": "India adopted the Westminster-style parliamentary system from the United Kingdom."
+    },
+    {
+      "id": "indian-constitution-q14",
+      "difficulty": "medium",
+      "q": "The original Constitution of 1950 had how many schedules?",
+      "options": [
+        "Eight",
+        "Twelve",
+        "Five",
+        "Twenty"
+      ],
+      "answer": 0,
+      "explanation": "The Constitution originally contained eight schedules; four more were added by later amendments."
+    },
+    {
+      "id": "indian-constitution-q15",
+      "difficulty": "medium",
+      "q": "The Constitution describes India in Article 1 as a 'Union of States' rather than a federation. This wording is attributed to:",
+      "options": [
+        "A copying error",
+        "The emphasis on indissoluble unity",
+        "The influence of the United States",
+        "A demand by the princely states"
+      ],
+      "answer": 1,
+      "explanation": "Ambedkar explained that 'Union of States' stressed that the federation was an indestructible, indissoluble whole."
+    },
+    {
+      "id": "indian-constitution-q16",
+      "difficulty": "medium",
+      "q": "Which feature of the Constitution allows a single citizenship for the whole of India?",
+      "options": [
+        "Dual federal-state citizenship",
+        "Provincial citizenship",
+        "Princely citizenship",
+        "A unified national citizenship"
+      ],
+      "answer": 3,
+      "explanation": "Unlike some federations, the Constitution provides a single, uniform citizenship for all of India."
+    },
+    {
+      "id": "indian-constitution-q17",
+      "difficulty": "medium",
+      "q": "The emergency provisions of the Indian Constitution were largely inspired by which country's framework?",
+      "options": [
+        "The Weimar Constitution of Germany",
+        "The French Constitution",
+        "The Canadian Constitution",
+        "The Japanese Constitution"
+      ],
+      "answer": 0,
+      "explanation": "The emergency provisions drew on the Weimar Constitution of Germany, among other sources."
+    },
+    {
+      "id": "indian-constitution-q18",
+      "difficulty": "medium",
+      "q": "The original Constitution did NOT include Fundamental Duties, which were added later by which amendment?",
+      "options": [
+        "The 1st Amendment, 1951",
+        "The 44th Amendment, 1978",
+        "The 42nd Amendment, 1976",
+        "The 73rd Amendment, 1992"
+      ],
+      "answer": 2,
+      "explanation": "Fundamental Duties were inserted by the 42nd Amendment in 1976 on the recommendation of the Swaran Singh Committee."
+    },
+    {
+      "id": "indian-constitution-q19",
+      "difficulty": "medium",
+      "q": "The Constitution provides for an independent judiciary headed by which court?",
+      "options": [
+        "The Privy Council",
+        "The Federal Tribunal",
+        "The High Court of Delhi",
+        "The Supreme Court of India"
+      ],
+      "answer": 3,
+      "explanation": "The Constitution established the Supreme Court of India as the apex independent judicial body."
+    },
+    {
+      "id": "indian-constitution-q20",
+      "difficulty": "medium",
+      "q": "The concept of a federal structure with a strong centre in the Constitution was influenced notably by which dominion?",
+      "options": [
+        "Australia",
+        "Canada",
+        "South Africa",
+        "New Zealand"
+      ],
+      "answer": 1,
+      "explanation": "The federal scheme with a strong central government was influenced by the Canadian model."
+    },
+    {
+      "id": "indian-constitution-q21",
+      "difficulty": "medium",
+      "q": "The Preamble was amended in 1976 to add which words, among others?",
+      "options": [
+        "Sovereign and Democratic",
+        "Federal and Unitary",
+        "Socialist and Secular",
+        "Liberal and Capitalist"
+      ],
+      "answer": 2,
+      "explanation": "The 42nd Amendment of 1976 added the words 'Socialist' and 'Secular' to the Preamble."
+    },
+    {
+      "id": "indian-constitution-q22",
+      "difficulty": "medium",
+      "q": "The Constitution originally recognized how many languages in its language schedule?",
+      "options": [
+        "Twenty-two",
+        "Eight",
+        "Eighteen",
+        "Fourteen"
+      ],
+      "answer": 3,
+      "explanation": "The Eighth Schedule originally listed fourteen languages; the number has since grown to twenty-two."
+    },
+    {
+      "id": "indian-constitution-q23",
+      "difficulty": "hard",
+      "q": "Which article of the Constitution is often called the 'heart and soul' by Ambedkar for guaranteeing constitutional remedies?",
+      "options": [
+        "Article 32",
+        "Article 14",
+        "Article 19",
+        "Article 21"
+      ],
+      "answer": 0,
+      "explanation": "Ambedkar called Article 32, the right to constitutional remedies, the 'heart and soul' of the Constitution."
+    },
+    {
+      "id": "indian-constitution-q24",
+      "difficulty": "hard",
+      "q": "The original Constitution provided for the right to property under which articles, later repealed as a fundamental right?",
+      "options": [
+        "Articles 14 and 15",
+        "Articles 19(1)(f) and 31",
+        "Articles 25 and 26",
+        "Articles 32 and 33"
+      ],
+      "answer": 1,
+      "explanation": "The right to property under Articles 19(1)(f) and 31 was removed as a fundamental right by the 44th Amendment in 1978."
+    },
+    {
+      "id": "indian-constitution-q25",
+      "difficulty": "hard",
+      "q": "The 'Basic Structure' doctrine, limiting Parliament's power to amend the Constitution, was established in which 1973 case?",
+      "options": [
+        "Golak Nath case",
+        "Minerva Mills case",
+        "A. K. Gopalan case",
+        "Kesavananda Bharati case"
+      ],
+      "answer": 3,
+      "explanation": "The Supreme Court laid down the Basic Structure doctrine in the Kesavananda Bharati v. State of Kerala case in 1973."
+    },
+    {
+      "id": "indian-constitution-q26",
+      "difficulty": "hard",
+      "q": "Which part of the Constitution contains the Directive Principles of State Policy?",
+      "options": [
+        "Part IV",
+        "Part III",
+        "Part V",
+        "Part IX"
+      ],
+      "answer": 0,
+      "explanation": "The Directive Principles of State Policy are contained in Part IV of the Constitution."
+    },
+    {
+      "id": "indian-constitution-q27",
+      "difficulty": "hard",
+      "q": "The very first amendment to the Constitution, in 1951, mainly addressed restrictions on which right?",
+      "options": [
+        "The right to vote",
+        "The right to property in the cities only",
+        "Freedom of speech and land reform",
+        "The right to education"
+      ],
+      "answer": 2,
+      "explanation": "The First Amendment of 1951 imposed reasonable restrictions on free speech and protected land reform laws."
+    },
+    {
+      "id": "indian-constitution-q28",
+      "difficulty": "hard",
+      "q": "Between adoption (26 November 1949) and full commencement (26 January 1950), some provisions took effect earlier. Those articles came into force:",
+      "options": [
+        "Only in 1952",
+        "Immediately on 26 November 1949 (citizenship, elections)",
+        "Only after Partition",
+        "Never"
+      ],
+      "answer": 1,
+      "explanation": "Some articles, such as those on citizenship and elections, came into force on 26 November 1949, while the rest commenced on 26 January 1950."
+    },
+    {
+      "id": "indian-constitution-q29",
+      "difficulty": "hard",
+      "q": "The Fundamental Duties added in 1976 are listed in which article of the Constitution?",
+      "options": [
+        "Article 21A",
+        "Article 44",
+        "Article 370",
+        "Article 51A"
+      ],
+      "answer": 3,
+      "explanation": "The Fundamental Duties are enumerated in Article 51A, added by the 42nd Amendment in 1976."
+    },
+    {
+      "id": "indian-constitution-q30",
+      "difficulty": "hard",
+      "q": "The concurrent list, allowing both the Centre and States to legislate, was borrowed primarily from which country's constitution?",
+      "options": [
+        "United States",
+        "Ireland",
+        "Australia",
+        "Japan"
+      ],
+      "answer": 2,
+      "explanation": "The idea of a Concurrent List, on which both Union and States can legislate, was drawn from the Australian Constitution."
+    }
+  ]
+}

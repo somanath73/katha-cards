@@ -1,0 +1,395 @@
+{
+  "cardId": "charkha",
+  "questions": [
+    {
+      "id": "charkha-q01",
+      "difficulty": "easy",
+      "q": "What is a charkha?",
+      "options": [
+        "A weaving loom",
+        "A spinning wheel",
+        "A printing press",
+        "A water pump"
+      ],
+      "answer": 1,
+      "explanation": "The charkha is a hand-operated spinning wheel used to make yarn."
+    },
+    {
+      "id": "charkha-q02",
+      "difficulty": "easy",
+      "q": "Which Indian leader made the charkha a central symbol of the freedom movement?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Bhagat Singh",
+        "Mahatma Gandhi",
+        "Bal Gangadhar Tilak"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi made the charkha a symbol of self-reliance and the national movement."
+    },
+    {
+      "id": "charkha-q03",
+      "difficulty": "easy",
+      "q": "The charkha is used to produce what?",
+      "options": [
+        "Salt",
+        "Paper",
+        "Steel",
+        "Yarn or thread"
+      ],
+      "answer": 3,
+      "explanation": "The charkha spins fibre such as cotton into yarn or thread."
+    },
+    {
+      "id": "charkha-q04",
+      "difficulty": "easy",
+      "q": "The yarn spun on the charkha was woven into which freedom-era cloth?",
+      "options": [
+        "Khadi",
+        "Silk brocade",
+        "Denim",
+        "Velvet"
+      ],
+      "answer": 0,
+      "explanation": "Charkha-spun yarn was woven into khadi, the cloth of the freedom movement."
+    },
+    {
+      "id": "charkha-q05",
+      "difficulty": "easy",
+      "q": "The charkha symbolized Gandhi's vision of what?",
+      "options": [
+        "Foreign trade",
+        "Heavy industry",
+        "Self-reliance and rural empowerment",
+        "Military strength"
+      ],
+      "answer": 2,
+      "explanation": "The charkha stood for self-reliance and the empowerment of rural India."
+    },
+    {
+      "id": "charkha-q06",
+      "difficulty": "easy",
+      "q": "The charkha became one of the most recognized symbols of which struggle?",
+      "options": [
+        "The Russian Revolution",
+        "The French Revolution",
+        "The American Civil War",
+        "The Indian freedom movement"
+      ],
+      "answer": 3,
+      "explanation": "The charkha became an enduring emblem of India's freedom movement."
+    },
+    {
+      "id": "charkha-q07",
+      "difficulty": "easy",
+      "q": "The charkha appeared on which national emblem during the freedom struggle?",
+      "options": [
+        "Early national flags",
+        "Postage stamps only",
+        "Coins only",
+        "Court seals only"
+      ],
+      "answer": 0,
+      "explanation": "The charkha was featured on early versions of the Indian national flag."
+    },
+    {
+      "id": "charkha-q08",
+      "difficulty": "easy",
+      "q": "Spinning on the charkha was meant to give extra income to whom?",
+      "options": [
+        "British officials",
+        "Poor villagers",
+        "Factory owners",
+        "Princes"
+      ],
+      "answer": 1,
+      "explanation": "The charkha was meant to provide supplementary income to India's poor villagers."
+    },
+    {
+      "id": "charkha-q09",
+      "difficulty": "easy",
+      "q": "The charkha worked as an alternative to which kind of cloth production?",
+      "options": [
+        "Handwoven khadi",
+        "Indian village pottery",
+        "Temple weaving",
+        "Foreign machine-made textiles"
+      ],
+      "answer": 3,
+      "explanation": "The charkha offered an Indian, self-reliant alternative to foreign machine-made textiles."
+    },
+    {
+      "id": "charkha-q10",
+      "difficulty": "easy",
+      "q": "Gandhi encouraged people to spend part of each day doing what with a charkha?",
+      "options": [
+        "Spinning yarn",
+        "Repairing it for sale",
+        "Painting it",
+        "Storing it away"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi urged people to spend time daily spinning yarn on the charkha."
+    },
+    {
+      "id": "charkha-q11",
+      "difficulty": "medium",
+      "q": "The charkha occupied the centre of which pre-independence national flag?",
+      "options": [
+        "The British Union Jack",
+        "The Congress (Swaraj) flag",
+        "The Mughal standard",
+        "The Maratha flag"
+      ],
+      "answer": 1,
+      "explanation": "The Congress 'Swaraj' flag of the 1920s-30s carried a charkha at its centre."
+    },
+    {
+      "id": "charkha-q12",
+      "difficulty": "medium",
+      "q": "Who designed the early flag featuring the charkha that was presented to Gandhi in 1921?",
+      "options": [
+        "Bankim Chandra Chattopadhyay",
+        "Rabindranath Tagore",
+        "Pingali Venkayya",
+        "Subramania Bharati"
+      ],
+      "answer": 2,
+      "explanation": "Pingali Venkayya designed the flag with the charkha that Gandhi endorsed in 1921."
+    },
+    {
+      "id": "charkha-q13",
+      "difficulty": "medium",
+      "q": "On the national flag of independent India, the charkha was replaced by what symbol?",
+      "options": [
+        "The Ashoka Chakra",
+        "A lotus",
+        "A lion",
+        "A star"
+      ],
+      "answer": 0,
+      "explanation": "In 1947 the charkha was replaced by the Ashoka Chakra on the national flag."
+    },
+    {
+      "id": "charkha-q14",
+      "difficulty": "medium",
+      "q": "Gandhi popularized a small, portable spinning wheel that could fold into a box, known as the what?",
+      "options": [
+        "Power charkha",
+        "Steam charkha",
+        "Box charkha (peti charkha)",
+        "Loom charkha"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi popularized the portable box charkha (peti charkha) for easy spinning anywhere."
+    },
+    {
+      "id": "charkha-q15",
+      "difficulty": "medium",
+      "q": "During which movement did mass spinning on the charkha become a major nationalist activity?",
+      "options": [
+        "The Quit India Movement",
+        "The Non-Cooperation Movement",
+        "The Champaran Satyagraha",
+        "The Home Rule agitation"
+      ],
+      "answer": 1,
+      "explanation": "Charkha spinning spread widely during the Non-Cooperation Movement of the early 1920s."
+    },
+    {
+      "id": "charkha-q16",
+      "difficulty": "medium",
+      "q": "The charkha was a core part of Gandhi's wider programme called what?",
+      "options": [
+        "The Drain of Wealth theory",
+        "The Forward Policy",
+        "The Doctrine of Lapse",
+        "The Constructive Programme"
+      ],
+      "answer": 3,
+      "explanation": "Spinning on the charkha was central to Gandhi's Constructive Programme."
+    },
+    {
+      "id": "charkha-q17",
+      "difficulty": "medium",
+      "q": "Which 1925 organization was set up partly to spread charkha spinning and khadi?",
+      "options": [
+        "The Servants of India Society",
+        "The Swaraj Party",
+        "The All India Spinners' Association",
+        "The Forward Bloc"
+      ],
+      "answer": 2,
+      "explanation": "The All India Spinners' Association, founded in 1925, promoted spinning and khadi."
+    },
+    {
+      "id": "charkha-q18",
+      "difficulty": "medium",
+      "q": "Gandhi saw daily charkha spinning as a way to dignify what?",
+      "options": [
+        "Manual labour",
+        "Foreign trade",
+        "Military service",
+        "Court life"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi believed spinning dignified manual labour and bound classes together."
+    },
+    {
+      "id": "charkha-q19",
+      "difficulty": "medium",
+      "q": "The charkha symbolized resistance to economic dependence on which country's textile mills?",
+      "options": [
+        "Japan",
+        "France",
+        "Germany",
+        "Britain"
+      ],
+      "answer": 3,
+      "explanation": "The charkha symbolized resistance to dependence on British textile mills."
+    },
+    {
+      "id": "charkha-q20",
+      "difficulty": "medium",
+      "q": "Why did Gandhi favour the charkha as a tool for the poorest Indians?",
+      "options": [
+        "It required electricity",
+        "It was cheap, simple, and usable at home",
+        "It needed a large factory",
+        "It needed foreign parts"
+      ],
+      "answer": 1,
+      "explanation": "The charkha was cheap, simple, and could be used in any home, suiting the rural poor."
+    },
+    {
+      "id": "charkha-q21",
+      "difficulty": "medium",
+      "q": "The charkha embodied Gandhi's preference for what scale of production?",
+      "options": [
+        "Large centralized factories",
+        "Decentralized cottage production",
+        "Overseas outsourcing",
+        "Plantation agriculture"
+      ],
+      "answer": 1,
+      "explanation": "The charkha reflected Gandhi's belief in decentralized, village-based cottage production."
+    },
+    {
+      "id": "charkha-q22",
+      "difficulty": "medium",
+      "q": "Many Congress members were at times required to send in a quota of yarn spun on the charkha as a sign of what?",
+      "options": [
+        "Payment of taxes",
+        "Membership in the army",
+        "A criminal penalty",
+        "Commitment to the movement"
+      ],
+      "answer": 3,
+      "explanation": "Spinning yarn quotas became, at times, a token of commitment for Congress workers."
+    },
+    {
+      "id": "charkha-q23",
+      "difficulty": "hard",
+      "q": "Gandhi offered a cash prize in the 1920s for an improved charkha design that could boost spinning output. What was the broad aim?",
+      "options": [
+        "To increase yarn production efficiency",
+        "To replace it with a power loom",
+        "To export charkhas abroad",
+        "To mechanize it with steam"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi sought an improved charkha to raise hand-spinning efficiency while keeping it manual."
+    },
+    {
+      "id": "charkha-q24",
+      "difficulty": "hard",
+      "q": "Which multi-spindle improved spinning wheel, developed in the 1950s and named for the sky, was promoted to raise a spinner's output?",
+      "options": [
+        "The power charkha",
+        "The jenny charkha",
+        "The Ambar charkha",
+        "The steam charkha"
+      ],
+      "answer": 2,
+      "explanation": "The Ambar charkha, a multi-spindle improved spinning wheel introduced in the 1950s, was promoted to raise hand-spinning output."
+    },
+    {
+      "id": "charkha-q25",
+      "difficulty": "hard",
+      "q": "The charkha on the 1931 Karachi-era Congress tricolour was placed on which colour band?",
+      "options": [
+        "The saffron band",
+        "The green band",
+        "A blue band",
+        "The white central band"
+      ],
+      "answer": 3,
+      "explanation": "On the 1931 Congress tricolour the charkha was placed on the central white band."
+    },
+    {
+      "id": "charkha-q26",
+      "difficulty": "hard",
+      "q": "Gandhi argued that the charkha could counter which colonial economic process he and others described?",
+      "options": [
+        "The expansion of railways",
+        "The drain of wealth and destruction of indigenous industry",
+        "The growth of universities",
+        "The spread of newspapers"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi saw the charkha as a counter to the drain of wealth and the ruin of indigenous industry."
+    },
+    {
+      "id": "charkha-q27",
+      "difficulty": "hard",
+      "q": "Which raw material is most commonly fed into a charkha to be spun into thread?",
+      "options": [
+        "Carded cotton (the sliver or pooni)",
+        "Raw silk cocoons",
+        "Sheep fleece only",
+        "Jute stalks"
+      ],
+      "answer": 0,
+      "explanation": "Carded cotton, formed into a sliver or pooni, is most commonly spun on the charkha."
+    },
+    {
+      "id": "charkha-q28",
+      "difficulty": "hard",
+      "q": "Gandhi's daily spinning practice was sometimes described by him as a form of what beyond economics?",
+      "options": [
+        "A competitive sport",
+        "A meditative or spiritual discipline",
+        "A military drill",
+        "A legal procedure"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi regarded spinning as a meditative, almost spiritual discipline, not merely an economic act."
+    },
+    {
+      "id": "charkha-q29",
+      "difficulty": "hard",
+      "q": "In debates with which leader did Gandhi defend the charkha against the case for large-scale industrialization?",
+      "options": [
+        "Sardar Patel",
+        "Maulana Azad",
+        "Jawaharlal Nehru",
+        "Rajendra Prasad"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi and Nehru differed over the charkha-centred village economy versus heavy industrialization."
+    },
+    {
+      "id": "charkha-q30",
+      "difficulty": "hard",
+      "q": "The charkha's prominence on the national flag was finally changed at which 1947 body's decision?",
+      "options": [
+        "The Round Table Conference",
+        "The Cabinet Mission",
+        "The Cripps Mission",
+        "The Constituent Assembly's flag committee"
+      ],
+      "answer": 3,
+      "explanation": "In 1947 the Constituent Assembly adopted the flag with the Ashoka Chakra in place of the charkha."
+    }
+  ]
+}

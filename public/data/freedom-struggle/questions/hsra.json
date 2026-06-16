@@ -1,0 +1,395 @@
+{
+  "cardId": "hsra",
+  "questions": [
+    {
+      "id": "hsra-q01",
+      "difficulty": "easy",
+      "q": "What does the abbreviation HSRA stand for?",
+      "options": [
+        "Hindustan Socialist Republican Association",
+        "Hindustan Swaraj Revolutionary Army",
+        "Hindu Socialist Republican Alliance",
+        "Hindustan Soldiers Republican Assembly"
+      ],
+      "answer": 0,
+      "explanation": "HSRA stands for the Hindustan Socialist Republican Association, a revolutionary organization of the freedom struggle."
+    },
+    {
+      "id": "hsra-q02",
+      "difficulty": "easy",
+      "q": "In which year was the organization reorganized and renamed the Hindustan Socialist Republican Association?",
+      "options": [
+        "1922",
+        "1928",
+        "1925",
+        "1931"
+      ],
+      "answer": 1,
+      "explanation": "The HSRA was formed in 1928 when the earlier Hindustan Republican Association was reorganized."
+    },
+    {
+      "id": "hsra-q03",
+      "difficulty": "easy",
+      "q": "The HSRA was a reorganized form of which earlier revolutionary body?",
+      "options": [
+        "Anushilan Samiti",
+        "Ghadar Party",
+        "Hindustan Republican Association",
+        "Forward Bloc"
+      ],
+      "answer": 2,
+      "explanation": "The HSRA grew out of the Hindustan Republican Association (HRA), which had carried out the Kakori action."
+    },
+    {
+      "id": "hsra-q04",
+      "difficulty": "easy",
+      "q": "Which leader served as the commander-in-chief of the HSRA?",
+      "options": [
+        "Bhagat Singh",
+        "Sukhdev Thapar",
+        "Bhagwati Charan Vohra",
+        "Chandrashekhar Azad"
+      ],
+      "answer": 3,
+      "explanation": "Chandrashekhar Azad led the HSRA as its commander-in-chief after its 1928 reorganization."
+    },
+    {
+      "id": "hsra-q05",
+      "difficulty": "easy",
+      "q": "What word added to the HRA's name reflected the new socialist ideology of the HSRA?",
+      "options": [
+        "Socialist",
+        "Republican",
+        "Hindustan",
+        "Association"
+      ],
+      "answer": 0,
+      "explanation": "The word 'Socialist' was added to mark the organization's adoption of a socialist goal for a free India."
+    },
+    {
+      "id": "hsra-q06",
+      "difficulty": "easy",
+      "q": "Which famous young revolutionary was a leading member and ideologue of the HSRA?",
+      "options": [
+        "Lala Lajpat Rai",
+        "Bhagat Singh",
+        "Surya Sen",
+        "Khudiram Bose"
+      ],
+      "answer": 1,
+      "explanation": "Bhagat Singh was among the foremost leaders and ideologues of the HSRA."
+    },
+    {
+      "id": "hsra-q07",
+      "difficulty": "easy",
+      "q": "What kind of state did the HSRA ultimately aim to establish in India?",
+      "options": [
+        "A constitutional monarchy",
+        "A dominion within the empire",
+        "A socialist republic",
+        "A federation of princely states"
+      ],
+      "answer": 2,
+      "explanation": "The HSRA sought complete independence and the creation of a socialist republic."
+    },
+    {
+      "id": "hsra-q08",
+      "difficulty": "easy",
+      "q": "In which country did the HSRA operate as a revolutionary organization?",
+      "options": [
+        "Britain",
+        "United States",
+        "Burma",
+        "India"
+      ],
+      "answer": 3,
+      "explanation": "The HSRA operated within British India, primarily in the north of the country."
+    },
+    {
+      "id": "hsra-q09",
+      "difficulty": "easy",
+      "q": "Which method did the HSRA chiefly favour to win independence?",
+      "options": [
+        "Revolutionary armed struggle",
+        "Constitutional petitions",
+        "Civil disobedience",
+        "Electoral participation"
+      ],
+      "answer": 0,
+      "explanation": "The HSRA pursued independence through revolutionary and armed means rather than constitutional methods."
+    },
+    {
+      "id": "hsra-q10",
+      "difficulty": "easy",
+      "q": "Three HSRA members were executed together in Lahore on 23 March 1931. Who were they?",
+      "options": [
+        "Azad, Bismil and Khan",
+        "Bhagat Singh, Rajguru and Sukhdev",
+        "Bose, Sen and Sahgal",
+        "Bismil, Khan and Roshan Singh"
+      ],
+      "answer": 1,
+      "explanation": "HSRA members Bhagat Singh, Rajguru and Sukhdev were hanged at Lahore on 23 March 1931."
+    },
+    {
+      "id": "hsra-q11",
+      "difficulty": "medium",
+      "q": "At which Delhi location did revolutionaries meet in September 1928 to form the HSRA?",
+      "options": [
+        "Red Fort",
+        "Jama Masjid",
+        "Feroz Shah Kotla ruins",
+        "Chandni Chowk"
+      ],
+      "answer": 2,
+      "explanation": "The HSRA was constituted at a meeting held at the Feroz Shah Kotla ruins in Delhi in September 1928."
+    },
+    {
+      "id": "hsra-q12",
+      "difficulty": "medium",
+      "q": "The HSRA assassinated which British police officer in Lahore in December 1928?",
+      "options": [
+        "James Scott",
+        "John Simon",
+        "Cecil Kaye",
+        "John Saunders"
+      ],
+      "answer": 3,
+      "explanation": "HSRA members shot Assistant Superintendent John Saunders in Lahore in December 1928, mistaking him for Scott."
+    },
+    {
+      "id": "hsra-q13",
+      "difficulty": "medium",
+      "q": "The Saunders killing was carried out to avenge the death of which nationalist leader?",
+      "options": [
+        "Lala Lajpat Rai",
+        "Gopal Krishna Gokhale",
+        "Bal Gangadhar Tilak",
+        "Motilal Nehru"
+      ],
+      "answer": 0,
+      "explanation": "The HSRA killed Saunders to avenge Lala Lajpat Rai, who had died after a lathi charge during a Simon Commission protest."
+    },
+    {
+      "id": "hsra-q14",
+      "difficulty": "medium",
+      "q": "In which 1929 action did HSRA members throw bombs inside a legislative chamber 'to make the deaf hear'?",
+      "options": [
+        "Kakori train robbery",
+        "Central Legislative Assembly bombing",
+        "Chittagong Armoury Raid",
+        "Viceroy's train bombing"
+      ],
+      "answer": 1,
+      "explanation": "Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly in April 1929."
+    },
+    {
+      "id": "hsra-q15",
+      "difficulty": "medium",
+      "q": "Which HSRA member accompanied Bhagat Singh in throwing bombs in the Central Legislative Assembly in 1929?",
+      "options": [
+        "Shivaram Rajguru",
+        "Jatindra Nath Das",
+        "Batukeshwar Dutt",
+        "Bhagwati Charan Vohra"
+      ],
+      "answer": 2,
+      "explanation": "Batukeshwar Dutt joined Bhagat Singh in throwing bombs in the Assembly and was arrested with him."
+    },
+    {
+      "id": "hsra-q16",
+      "difficulty": "medium",
+      "q": "Which HSRA member died after a prolonged hunger strike in jail in 1929?",
+      "options": [
+        "Sukhdev Thapar",
+        "Chandrashekhar Azad",
+        "Bhagwati Charan Vohra",
+        "Jatindra Nath Das"
+      ],
+      "answer": 3,
+      "explanation": "Jatindra Nath Das died in September 1929 after a hunger strike of over sixty days demanding better treatment for political prisoners."
+    },
+    {
+      "id": "hsra-q17",
+      "difficulty": "medium",
+      "q": "Which document, often attributed to HSRA members, was famously titled 'Why I Am an Atheist'?",
+      "options": [
+        "An essay by Bhagat Singh",
+        "A pamphlet by Chandrashekhar Azad",
+        "A speech by Sukhdev",
+        "A letter by Rajguru"
+      ],
+      "answer": 0,
+      "explanation": "Bhagat Singh of the HSRA wrote the essay 'Why I Am an Atheist' while in jail in 1930."
+    },
+    {
+      "id": "hsra-q18",
+      "difficulty": "medium",
+      "q": "Where did HSRA commander Chandrashekhar Azad die in a gun battle in February 1931?",
+      "options": [
+        "Lahore Central Jail",
+        "Alfred Park, Allahabad",
+        "Chandni Chowk, Delhi",
+        "Kakori, near Lucknow"
+      ],
+      "answer": 1,
+      "explanation": "Azad died fighting police at Alfred Park in Allahabad in February 1931, shooting himself to avoid capture."
+    },
+    {
+      "id": "hsra-q19",
+      "difficulty": "medium",
+      "q": "Which slogan was popularized by HSRA revolutionaries during their trials and protests?",
+      "options": [
+        "Vande Mataram",
+        "Jai Hind",
+        "Inquilab Zindabad",
+        "Quit India"
+      ],
+      "answer": 2,
+      "explanation": "HSRA revolutionaries, especially Bhagat Singh, popularized the slogan 'Inquilab Zindabad' meaning 'Long Live the Revolution'."
+    },
+    {
+      "id": "hsra-q20",
+      "difficulty": "medium",
+      "q": "The 1928 reorganization meeting drew members chiefly from which two regions?",
+      "options": [
+        "Bengal and Bombay",
+        "Madras and Mysore",
+        "Sind and Baluchistan",
+        "Punjab and the United Provinces"
+      ],
+      "answer": 3,
+      "explanation": "The HSRA's members were drawn largely from Punjab and the United Provinces (modern Uttar Pradesh)."
+    },
+    {
+      "id": "hsra-q21",
+      "difficulty": "medium",
+      "q": "Which earlier 1925 action of the predecessor HRA helped inspire the HSRA's revolutionary tradition?",
+      "options": [
+        "The Kakori train robbery",
+        "The Chittagong raid",
+        "The Meerut conspiracy",
+        "The Alipore bomb case"
+      ],
+      "answer": 0,
+      "explanation": "The Hindustan Republican Association carried out the 1925 Kakori train robbery, part of the lineage the HSRA continued."
+    },
+    {
+      "id": "hsra-q22",
+      "difficulty": "medium",
+      "q": "Which HSRA bomb-maker is credited with helping prepare the devices used in the group's actions?",
+      "options": [
+        "Ashfaqulla Khan",
+        "Bhagwati Charan Vohra",
+        "Surya Sen",
+        "Khudiram Bose"
+      ],
+      "answer": 1,
+      "explanation": "Bhagwati Charan Vohra was an HSRA member involved in preparing bombs; he died testing one in 1930."
+    },
+    {
+      "id": "hsra-q23",
+      "difficulty": "hard",
+      "q": "Who is credited as the principal author of the HSRA manifesto 'The Philosophy of the Bomb' (1930)?",
+      "options": [
+        "Bhagat Singh",
+        "Chandrashekhar Azad",
+        "Bhagwati Charan Vohra",
+        "Yashpal"
+      ],
+      "answer": 2,
+      "explanation": "Bhagwati Charan Vohra is generally credited as the chief author of 'The Philosophy of the Bomb', issued in reply to Gandhi's criticism."
+    },
+    {
+      "id": "hsra-q24",
+      "difficulty": "hard",
+      "q": "The HSRA's 1929 Assembly bombing was a protest against which two proposed bills?",
+      "options": [
+        "The Rowlatt Bill and the Press Bill",
+        "The Vernacular Press Bill and the Arms Bill",
+        "The Salt Bill and the Sedition Bill",
+        "The Public Safety Bill and the Trade Disputes Bill"
+      ],
+      "answer": 3,
+      "explanation": "The Assembly bombing protested the Public Safety Bill and the Trade Disputes Bill being pushed through the legislature."
+    },
+    {
+      "id": "hsra-q25",
+      "difficulty": "hard",
+      "q": "Which conspiracy case tried HSRA members for the Saunders killing and Assembly bombing?",
+      "options": [
+        "The Lahore Conspiracy Case",
+        "The Meerut Conspiracy Case",
+        "The Alipore Bomb Case",
+        "The Kakori Conspiracy Case"
+      ],
+      "answer": 0,
+      "explanation": "HSRA members were tried in the Lahore Conspiracy Case, which led to the death sentences for Bhagat Singh, Rajguru and Sukhdev."
+    },
+    {
+      "id": "hsra-q26",
+      "difficulty": "hard",
+      "q": "Which HSRA-linked revolutionary attempted to bomb the Viceroy Lord Irwin's train near Delhi in December 1929?",
+      "options": [
+        "Surya Sen",
+        "Members of the HSRA including Yashpal",
+        "Khudiram Bose",
+        "Ashfaqulla Khan"
+      ],
+      "answer": 1,
+      "explanation": "HSRA revolutionaries, with Yashpal among those involved, attempted to bomb the Viceroy's train near Delhi in December 1929."
+    },
+    {
+      "id": "hsra-q27",
+      "difficulty": "hard",
+      "q": "Which HSRA member later became a noted Hindi novelist and wrote 'Simhavalokan' recounting the revolutionary years?",
+      "options": [
+        "Bhagwati Charan Vohra",
+        "Sukhdev Thapar",
+        "Yashpal",
+        "Jatindra Nath Das"
+      ],
+      "answer": 2,
+      "explanation": "Yashpal, an HSRA member, became a major Hindi writer and chronicled the period in works including 'Simhavalokan'."
+    },
+    {
+      "id": "hsra-q28",
+      "difficulty": "hard",
+      "q": "The HSRA reorganization in 1928 was prompted partly by the loss of which earlier leaders to the gallows?",
+      "options": [
+        "Bhagat Singh and Rajguru",
+        "Surya Sen and Tarakeswar Dastidar",
+        "Khudiram Bose and Prafulla Chaki",
+        "Ram Prasad Bismil and Ashfaqulla Khan"
+      ],
+      "answer": 3,
+      "explanation": "The HRA leaders Ram Prasad Bismil and Ashfaqulla Khan were executed in 1927 after Kakori, prompting younger members to regroup as the HSRA."
+    },
+    {
+      "id": "hsra-q29",
+      "difficulty": "hard",
+      "q": "In which year did Bhagwati Charan Vohra die while testing a bomb on the banks of the Ravi?",
+      "options": [
+        "1930",
+        "1928",
+        "1931",
+        "1925"
+      ],
+      "answer": 0,
+      "explanation": "Bhagwati Charan Vohra died in 1930 when a bomb he was testing near the Ravi river exploded."
+    },
+    {
+      "id": "hsra-q30",
+      "difficulty": "hard",
+      "q": "Besides Punjab and the UP, which leader connected the HSRA with revolutionary circles in Bengal?",
+      "options": [
+        "Subhas Chandra Bose",
+        "Jatindra Nath Das",
+        "Surya Sen",
+        "Bipin Chandra Pal"
+      ],
+      "answer": 1,
+      "explanation": "Jatindra Nath Das, a Bengali revolutionary, joined the HSRA's circle and was central to its hunger strike in Lahore jail."
+    }
+  ]
+}

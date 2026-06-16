@@ -1,0 +1,395 @@
+{
+  "cardId": "simon-commission",
+  "questions": [
+    {
+      "id": "simon-commission-q01",
+      "difficulty": "easy",
+      "q": "In which year was the Simon Commission sent to India?",
+      "options": [
+        "1928",
+        "1919",
+        "1922",
+        "1935"
+      ],
+      "answer": 0,
+      "explanation": "The Simon Commission arrived in India in 1928 to review constitutional reforms."
+    },
+    {
+      "id": "simon-commission-q02",
+      "difficulty": "easy",
+      "q": "Which famous slogan greeted the Simon Commission across India?",
+      "options": [
+        "Quit India",
+        "Simon Go Back",
+        "Inquilab Zindabad",
+        "Vande Mataram"
+      ],
+      "answer": 1,
+      "explanation": "The slogan 'Simon Go Back' was raised everywhere the commission travelled."
+    },
+    {
+      "id": "simon-commission-q03",
+      "difficulty": "easy",
+      "q": "Why was the Simon Commission so strongly opposed by Indians?",
+      "options": [
+        "It proposed partition",
+        "It banned the Congress",
+        "It had no Indian members",
+        "It raised the salt tax"
+      ],
+      "answer": 2,
+      "explanation": "The commission was entirely British, with no Indian members, which Indians found deeply insulting."
+    },
+    {
+      "id": "simon-commission-q04",
+      "difficulty": "easy",
+      "q": "After whom was the Simon Commission named?",
+      "options": [
+        "Lord Simon Curzon",
+        "Simon Radcliffe",
+        "Sir Stafford Simon",
+        "Sir John Simon"
+      ],
+      "answer": 3,
+      "explanation": "The commission was named after its chairman, Sir John Simon."
+    },
+    {
+      "id": "simon-commission-q05",
+      "difficulty": "easy",
+      "q": "What was the main task of the Simon Commission?",
+      "options": [
+        "To review constitutional reforms in India",
+        "To partition Bengal",
+        "To investigate the Jallianwala Bagh massacre",
+        "To negotiate independence"
+      ],
+      "answer": 0,
+      "explanation": "The commission was set up to examine the working of the 1919 reforms and recommend constitutional changes."
+    },
+    {
+      "id": "simon-commission-q06",
+      "difficulty": "easy",
+      "q": "Which kind of demonstrations commonly met the Simon Commission?",
+      "options": [
+        "Candlelight vigils",
+        "Black-flag demonstrations",
+        "Hunger strikes only",
+        "Silent prayer meetings"
+      ],
+      "answer": 1,
+      "explanation": "Crowds waved black flags at the commission as a sign of protest."
+    },
+    {
+      "id": "simon-commission-q07",
+      "difficulty": "easy",
+      "q": "Which major Indian political party boycotted the Simon Commission?",
+      "options": [
+        "Forward Bloc",
+        "Communist Party",
+        "Indian National Congress",
+        "Justice Party only"
+      ],
+      "answer": 2,
+      "explanation": "The Indian National Congress decided to boycott the commission entirely."
+    },
+    {
+      "id": "simon-commission-q08",
+      "difficulty": "easy",
+      "q": "Which national leader was fatally injured during a protest against the Simon Commission?",
+      "options": [
+        "Motilal Nehru",
+        "Bal Gangadhar Tilak",
+        "Gopal Krishna Gokhale",
+        "Lala Lajpat Rai"
+      ],
+      "answer": 3,
+      "explanation": "Lala Lajpat Rai was injured in a lathi charge while protesting the commission in Lahore and died soon after."
+    },
+    {
+      "id": "simon-commission-q09",
+      "difficulty": "easy",
+      "q": "Of how many members was the Simon Commission composed?",
+      "options": [
+        "Seven",
+        "Three",
+        "Twelve",
+        "Twenty"
+      ],
+      "answer": 0,
+      "explanation": "The commission consisted of seven British members, all from the British Parliament."
+    },
+    {
+      "id": "simon-commission-q10",
+      "difficulty": "easy",
+      "q": "The members of the Simon Commission belonged to which body?",
+      "options": [
+        "The Indian Civil Service",
+        "The British Parliament",
+        "The princely states",
+        "The Viceroy's Executive Council"
+      ],
+      "answer": 1,
+      "explanation": "All seven members were British Members of Parliament, which is why the commission was called all-British."
+    },
+    {
+      "id": "simon-commission-q11",
+      "difficulty": "medium",
+      "q": "At which port city did the Simon Commission first land in February 1928?",
+      "options": [
+        "Calcutta",
+        "Madras",
+        "Bombay",
+        "Karachi"
+      ],
+      "answer": 2,
+      "explanation": "The commission landed at Bombay in February 1928, where it was met with a hartal and black-flag protests."
+    },
+    {
+      "id": "simon-commission-q12",
+      "difficulty": "medium",
+      "q": "In which city was Lala Lajpat Rai injured during the anti-Simon protest?",
+      "options": [
+        "Amritsar",
+        "Delhi",
+        "Calcutta",
+        "Lahore"
+      ],
+      "answer": 3,
+      "explanation": "Lala Lajpat Rai was struck during a lathi charge at Lahore when the commission visited."
+    },
+    {
+      "id": "simon-commission-q13",
+      "difficulty": "medium",
+      "q": "Which British police officer ordered the lathi charge that injured Lala Lajpat Rai?",
+      "options": [
+        "James Scott",
+        "John Saunders",
+        "Reginald Dyer",
+        "Michael O'Dwyer"
+      ],
+      "answer": 0,
+      "explanation": "Superintendent James Scott ordered the lathi charge in Lahore in which Lajpat Rai was injured."
+    },
+    {
+      "id": "simon-commission-q14",
+      "difficulty": "medium",
+      "q": "The Simon Commission was set up under which earlier Act, which had promised a review after ten years?",
+      "options": [
+        "Government of India Act 1858",
+        "Government of India Act 1919",
+        "Rowlatt Act 1919",
+        "Indian Councils Act 1909"
+      ],
+      "answer": 1,
+      "explanation": "The Government of India Act 1919 provided for a review of the reforms after ten years, leading to the Simon Commission."
+    },
+    {
+      "id": "simon-commission-q15",
+      "difficulty": "medium",
+      "q": "Which future British Prime Minister was a member of the Simon Commission?",
+      "options": [
+        "Winston Churchill",
+        "Stanley Baldwin",
+        "Clement Attlee",
+        "Ramsay MacDonald"
+      ],
+      "answer": 2,
+      "explanation": "Clement Attlee, later the Prime Minister who oversaw Indian independence, served as a member of the Simon Commission."
+    },
+    {
+      "id": "simon-commission-q16",
+      "difficulty": "medium",
+      "q": "The killing of which police officer by revolutionaries was carried out to avenge Lala Lajpat Rai's death?",
+      "options": [
+        "James Scott",
+        "John Simon",
+        "William Hutchinson",
+        "John Saunders"
+      ],
+      "answer": 3,
+      "explanation": "HSRA revolutionaries shot John Saunders in December 1928, intending to avenge Lajpat Rai but mistaking Saunders for Scott."
+    },
+    {
+      "id": "simon-commission-q17",
+      "difficulty": "medium",
+      "q": "What was the official name of the Simon Commission?",
+      "options": [
+        "Indian Statutory Commission",
+        "Indian Reforms Commission",
+        "Indian Constitutional Committee",
+        "Royal Commission on India"
+      ],
+      "answer": 0,
+      "explanation": "Its official title was the Indian Statutory Commission, commonly known as the Simon Commission."
+    },
+    {
+      "id": "simon-commission-q18",
+      "difficulty": "medium",
+      "q": "Which Indian response to the Simon Commission attempted to draft a constitution for India in 1928?",
+      "options": [
+        "The Lahore Resolution",
+        "The Nehru Report",
+        "The Poona Pact",
+        "The Cripps proposals"
+      ],
+      "answer": 1,
+      "explanation": "In response to the all-British commission, Indians produced the Nehru Report of 1928 as their own constitutional blueprint."
+    },
+    {
+      "id": "simon-commission-q19",
+      "difficulty": "medium",
+      "q": "Who chaired the committee that produced the Nehru Report of 1928?",
+      "options": [
+        "Jawaharlal Nehru",
+        "C. R. Das",
+        "Motilal Nehru",
+        "M. A. Jinnah"
+      ],
+      "answer": 2,
+      "explanation": "Motilal Nehru chaired the committee that drafted the Nehru Report in answer to the Simon Commission."
+    },
+    {
+      "id": "simon-commission-q20",
+      "difficulty": "medium",
+      "q": "In which year was Lala Lajpat Rai fatally injured during a Simon Commission protest?",
+      "options": [
+        "1919",
+        "1930",
+        "1925",
+        "1928"
+      ],
+      "answer": 3,
+      "explanation": "Lala Lajpat Rai was injured in the October 1928 protest against the commission and died in November 1928."
+    },
+    {
+      "id": "simon-commission-q21",
+      "difficulty": "medium",
+      "q": "The Simon Commission was appointed by the government of which British Secretary of State for India?",
+      "options": [
+        "Lord Birkenhead",
+        "Lord Curzon",
+        "Lord Reading",
+        "Lord Linlithgow"
+      ],
+      "answer": 0,
+      "explanation": "The commission was appointed under Lord Birkenhead, then Secretary of State for India."
+    },
+    {
+      "id": "simon-commission-q22",
+      "difficulty": "medium",
+      "q": "Which Indian party largely supported or cooperated with the Simon Commission in the south?",
+      "options": [
+        "The Forward Bloc",
+        "The Justice Party",
+        "The Swaraj Party",
+        "The Khilafat Committee"
+      ],
+      "answer": 1,
+      "explanation": "The Justice Party in Madras was among the few that cooperated with the commission rather than boycotting it."
+    },
+    {
+      "id": "simon-commission-q23",
+      "difficulty": "hard",
+      "q": "In which year did the Simon Commission publish its final report?",
+      "options": [
+        "1928",
+        "1932",
+        "1930",
+        "1935"
+      ],
+      "answer": 2,
+      "explanation": "The Simon Commission submitted its report in 1930, after touring India in 1928 and 1929."
+    },
+    {
+      "id": "simon-commission-q24",
+      "difficulty": "hard",
+      "q": "The Simon Commission's report fed into which subsequent series of London discussions on Indian reform?",
+      "options": [
+        "The Cabinet Mission",
+        "The Cripps Mission",
+        "The Lucknow Pact talks",
+        "The Round Table Conferences"
+      ],
+      "answer": 3,
+      "explanation": "The commission's recommendations were taken up at the Round Table Conferences held in London from 1930 to 1932."
+    },
+    {
+      "id": "simon-commission-q25",
+      "difficulty": "hard",
+      "q": "The Government of India Act of which year was eventually shaped in part by the Simon Commission's recommendations?",
+      "options": [
+        "1935",
+        "1919",
+        "1947",
+        "1909"
+      ],
+      "answer": 0,
+      "explanation": "The Simon Commission's report contributed to the framing of the Government of India Act 1935."
+    },
+    {
+      "id": "simon-commission-q26",
+      "difficulty": "hard",
+      "q": "Which Labour MP and trade union leader, president of the South Wales Miners' Federation, sat on the Simon Commission?",
+      "options": [
+        "Stanley Baldwin",
+        "Vernon Hartshorn",
+        "Edward Cadogan",
+        "Donald Howard"
+      ],
+      "answer": 1,
+      "explanation": "Vernon Hartshorn, a Welsh Labour MP and president of the South Wales Miners' Federation, was one of the seven members of the Simon Commission."
+    },
+    {
+      "id": "simon-commission-q27",
+      "difficulty": "hard",
+      "q": "On what date in October 1928 was Lala Lajpat Rai struck during the Lahore demonstration against the commission?",
+      "options": [
+        "8 April",
+        "13 April",
+        "30 October",
+        "26 January"
+      ],
+      "answer": 2,
+      "explanation": "Lajpat Rai was injured in the lathi charge on 30 October 1928 in Lahore and died on 17 November 1928."
+    },
+    {
+      "id": "simon-commission-q28",
+      "difficulty": "hard",
+      "q": "Which committee, formed alongside the commission, allowed limited Indian consultation through provincial bodies?",
+      "options": [
+        "The Constituent Assembly",
+        "The Federal Court",
+        "The Communal Award board",
+        "Central and provincial committees of legislators"
+      ],
+      "answer": 3,
+      "explanation": "Central and provincial committees of Indian legislators were created to confer with the commission, though most nationalists boycotted them."
+    },
+    {
+      "id": "simon-commission-q29",
+      "difficulty": "hard",
+      "q": "The intense opposition to the Simon Commission is widely seen as helping push the Congress toward which 1929 demand?",
+      "options": [
+        "Purna Swaraj (complete independence)",
+        "Dominion status",
+        "Separate electorates",
+        "Federation of princely states"
+      ],
+      "answer": 0,
+      "explanation": "The exclusion of Indians and the failure of dominion-status hopes fed the Congress's 1929 declaration of Purna Swaraj at Lahore."
+    },
+    {
+      "id": "simon-commission-q30",
+      "difficulty": "hard",
+      "q": "How many British Members of Parliament chaired by Sir John Simon made up the commission, and from which two parties did they mainly come?",
+      "options": [
+        "Three, all Conservative",
+        "Seven, from the Conservative and Labour benches",
+        "Twelve, all Liberal",
+        "Five, from Labour only"
+      ],
+      "answer": 1,
+      "explanation": "The seven-member commission, chaired by the Liberal Sir John Simon, drew its members from across the British parties including Conservatives and Labour."
+    }
+  ]
+}

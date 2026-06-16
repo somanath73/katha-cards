@@ -1,0 +1,395 @@
+{
+  "cardId": "kesari-newspaper",
+  "questions": [
+    {
+      "id": "kesari-newspaper-q01",
+      "difficulty": "easy",
+      "q": "Who founded and edited the nationalist newspaper Kesari?",
+      "options": [
+        "Bal Gangadhar Tilak",
+        "Gopal Krishna Gokhale",
+        "Dadabhai Naoroji",
+        "Bipin Chandra Pal"
+      ],
+      "answer": 0,
+      "explanation": "Bal Gangadhar Tilak founded and edited Kesari, using it to spread assertive nationalist ideas."
+    },
+    {
+      "id": "kesari-newspaper-q02",
+      "difficulty": "easy",
+      "q": "In which language was Tilak's newspaper Kesari published?",
+      "options": [
+        "Hindi",
+        "Marathi",
+        "Bengali",
+        "Gujarati"
+      ],
+      "answer": 1,
+      "explanation": "Kesari was published in Marathi, while Tilak's companion paper Maratha was in English."
+    },
+    {
+      "id": "kesari-newspaper-q03",
+      "difficulty": "easy",
+      "q": "What does the word 'Kesari', the name of Tilak's newspaper, mean?",
+      "options": [
+        "The Sun",
+        "The River",
+        "The Lion",
+        "The Dawn"
+      ],
+      "answer": 2,
+      "explanation": "'Kesari' means lion, signalling the paper's bold and aggressive nationalist tone."
+    },
+    {
+      "id": "kesari-newspaper-q04",
+      "difficulty": "easy",
+      "q": "Tilak edited Kesari along with which English-language newspaper?",
+      "options": [
+        "Young India",
+        "The Hindu",
+        "Amrita Bazar Patrika",
+        "Maratha"
+      ],
+      "answer": 3,
+      "explanation": "Tilak ran the English-language Maratha alongside the Marathi Kesari."
+    },
+    {
+      "id": "kesari-newspaper-q05",
+      "difficulty": "easy",
+      "q": "Which newspaper did Mahatma Gandhi use to spread his ideas in English?",
+      "options": [
+        "Kesari",
+        "Young India",
+        "Maratha",
+        "Bande Mataram"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi edited Young India to communicate his nationalist and social ideas in English."
+    },
+    {
+      "id": "kesari-newspaper-q06",
+      "difficulty": "easy",
+      "q": "Which journal did Gandhi launch focused on the upliftment of the depressed classes?",
+      "options": [
+        "Kesari",
+        "Maratha",
+        "Harijan",
+        "Kranti"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi launched Harijan to advocate for the upliftment of those he called Harijans."
+    },
+    {
+      "id": "kesari-newspaper-q07",
+      "difficulty": "easy",
+      "q": "The nationalist press of the freedom era is best described as a tool for what?",
+      "options": [
+        "Promoting British trade",
+        "Publishing only sports news",
+        "Replacing the postal service",
+        "Spreading political awakening"
+      ],
+      "answer": 3,
+      "explanation": "Newspapers like Kesari became powerful instruments of political awakening against colonial rule."
+    },
+    {
+      "id": "kesari-newspaper-q08",
+      "difficulty": "easy",
+      "q": "Kesari was founded in which western Indian city associated with Tilak?",
+      "options": [
+        "Pune",
+        "Kolkata",
+        "Madras",
+        "Lahore"
+      ],
+      "answer": 0,
+      "explanation": "Kesari was established in Pune (Poona), the centre of Tilak's nationalist activity."
+    },
+    {
+      "id": "kesari-newspaper-q09",
+      "difficulty": "easy",
+      "q": "The British colonial government responded to the nationalist press mainly by doing what?",
+      "options": [
+        "Funding it generously",
+        "Distributing it for free",
+        "Imposing restrictions and prosecutions",
+        "Translating it into English"
+      ],
+      "answer": 2,
+      "explanation": "The government repeatedly restricted and prosecuted the nationalist press to silence it."
+    },
+    {
+      "id": "kesari-newspaper-q10",
+      "difficulty": "easy",
+      "q": "Which leader is most closely linked with the slogan 'Swaraj is my birthright' published in his press?",
+      "options": [
+        "Lala Lajpat Rai",
+        "Bipin Chandra Pal",
+        "Annie Besant",
+        "Bal Gangadhar Tilak"
+      ],
+      "answer": 3,
+      "explanation": "Tilak, editor of Kesari, famously declared 'Swaraj is my birthright and I shall have it.'"
+    },
+    {
+      "id": "kesari-newspaper-q11",
+      "difficulty": "medium",
+      "q": "In which year did Tilak begin publishing the newspapers Kesari and Maratha?",
+      "options": [
+        "1881",
+        "1857",
+        "1905",
+        "1920"
+      ],
+      "answer": 0,
+      "explanation": "Tilak, with associates, started Kesari and Maratha in 1881."
+    },
+    {
+      "id": "kesari-newspaper-q12",
+      "difficulty": "medium",
+      "q": "Tilak was tried for sedition over articles in Kesari following which 1897 event in Pune?",
+      "options": [
+        "The partition of Bengal",
+        "The assassination of plague officer Rand",
+        "The Jallianwala Bagh massacre",
+        "The Chauri Chaura incident"
+      ],
+      "answer": 1,
+      "explanation": "After the 1897 killing of plague commissioner W. C. Rand, Tilak was tried for sedition over his Kesari writings."
+    },
+    {
+      "id": "kesari-newspaper-q13",
+      "difficulty": "medium",
+      "q": "Tilak's most famous 1908 sedition trial centred on articles he wrote in Kesari defending whom?",
+      "options": [
+        "British officials",
+        "Princely rulers",
+        "Moderate Congressmen",
+        "Bengal revolutionaries"
+      ],
+      "answer": 3,
+      "explanation": "Tilak's 1908 trial arose from Kesari articles sympathetic to Bengal revolutionaries, leading to his deportation to Mandalay."
+    },
+    {
+      "id": "kesari-newspaper-q14",
+      "difficulty": "medium",
+      "q": "Following his 1908 conviction over Kesari articles, Tilak was imprisoned in which prison in Burma?",
+      "options": [
+        "Mandalay",
+        "Cellular Jail",
+        "Yerwada",
+        "Naini"
+      ],
+      "answer": 0,
+      "explanation": "Tilak was sentenced to six years and deported to Mandalay jail in Burma after the 1908 trial."
+    },
+    {
+      "id": "kesari-newspaper-q15",
+      "difficulty": "medium",
+      "q": "Which English-language nationalist newspaper was associated with Aurobindo Ghosh and Bipin Chandra Pal during the Swadeshi era?",
+      "options": [
+        "Kesari",
+        "Bande Mataram",
+        "Harijan",
+        "Young India"
+      ],
+      "answer": 1,
+      "explanation": "The English daily Bande Mataram, linked to Aurobindo Ghosh and Bipin Chandra Pal, was a leading Swadeshi-era paper."
+    },
+    {
+      "id": "kesari-newspaper-q16",
+      "difficulty": "medium",
+      "q": "The Vernacular Press Act of 1878 was aimed at controlling newspapers published in which languages?",
+      "options": [
+        "Only English",
+        "Only Persian",
+        "Indian languages other than English",
+        "Only Sanskrit"
+      ],
+      "answer": 2,
+      "explanation": "The Vernacular Press Act of 1878 targeted the Indian-language press, exempting English papers."
+    },
+    {
+      "id": "kesari-newspaper-q17",
+      "difficulty": "medium",
+      "q": "Which viceroy enacted the Vernacular Press Act of 1878 to muzzle the Indian-language press?",
+      "options": [
+        "Lord Lytton",
+        "Lord Curzon",
+        "Lord Mountbatten",
+        "Lord Ripon"
+      ],
+      "answer": 0,
+      "explanation": "Lord Lytton enacted the Vernacular Press Act in 1878; it was later repealed under Lord Ripon."
+    },
+    {
+      "id": "kesari-newspaper-q18",
+      "difficulty": "medium",
+      "q": "Gandhi began editing Young India after taking over from which earlier owners?",
+      "options": [
+        "The British Indian government",
+        "A group of Home Rule activists in Bombay",
+        "The Muslim League",
+        "The Servants of India Society"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi took over Young India around 1919 from Home Rule activists and made it a vehicle for his ideas."
+    },
+    {
+      "id": "kesari-newspaper-q19",
+      "difficulty": "medium",
+      "q": "Which Gujarati-language weekly did Gandhi edit alongside his English papers?",
+      "options": [
+        "Kesari",
+        "Kranti",
+        "Navajivan",
+        "Sandesh"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi edited the Gujarati weekly Navajivan in parallel with Young India and Harijan."
+    },
+    {
+      "id": "kesari-newspaper-q20",
+      "difficulty": "medium",
+      "q": "Tilak used Kesari to popularize which public festival as a means of building national feeling?",
+      "options": [
+        "Holi",
+        "Diwali",
+        "Raksha Bandhan",
+        "Ganesh Chaturthi"
+      ],
+      "answer": 3,
+      "explanation": "Tilak promoted public Ganesh (and Shivaji) festivals through Kesari to foster a collective national spirit."
+    },
+    {
+      "id": "kesari-newspaper-q21",
+      "difficulty": "medium",
+      "q": "The newspaper Amrita Bazar Patrika, a strong nationalist voice, was based primarily in which city?",
+      "options": [
+        "Bombay",
+        "Calcutta",
+        "Madras",
+        "Lahore"
+      ],
+      "answer": 1,
+      "explanation": "Amrita Bazar Patrika was a prominent nationalist newspaper based in Calcutta."
+    },
+    {
+      "id": "kesari-newspaper-q22",
+      "difficulty": "medium",
+      "q": "During Tilak's imprisonment in Mandalay, what major work did he write?",
+      "options": [
+        "Hind Swaraj",
+        "Discovery of India",
+        "Gita Rahasya",
+        "The Indian Struggle"
+      ],
+      "answer": 2,
+      "explanation": "Tilak wrote the Gita Rahasya, his commentary on the Bhagavad Gita, during his Mandalay imprisonment."
+    },
+    {
+      "id": "kesari-newspaper-q23",
+      "difficulty": "hard",
+      "q": "Who was the editor prosecuted in the first sedition case under Section 124A, the 1891 Bangobasi newspaper trial?",
+      "options": [
+        "Bal Gangadhar Tilak",
+        "Surendranath Banerjee",
+        "Aurobindo Ghosh",
+        "Jogendra Chandra Bose"
+      ],
+      "answer": 3,
+      "explanation": "Jogendra Chandra Bose of the Bangobasi was prosecuted in the first sedition case under Section 124A in 1891; the trial ended in a hung jury and was dropped after an apology, before Tilak's later convictions."
+    },
+    {
+      "id": "kesari-newspaper-q24",
+      "difficulty": "hard",
+      "q": "In Tilak's 1897 sedition trial over Kesari, the disputed article concerned a lecture on which historical figure?",
+      "options": [
+        "Shivaji",
+        "Akbar",
+        "Ashoka",
+        "Rana Pratap"
+      ],
+      "answer": 0,
+      "explanation": "The 1897 prosecution centred on a Kesari report of a Shivaji-festival speech the British read as inciting violence."
+    },
+    {
+      "id": "kesari-newspaper-q25",
+      "difficulty": "hard",
+      "q": "The Newspaper (Incitement to Offences) Act of 1908 was passed largely in response to the writings of which kind of press?",
+      "options": [
+        "Moderate constitutional press",
+        "British-owned commercial press",
+        "Revolutionary and extremist nationalist press",
+        "Religious missionary press"
+      ],
+      "answer": 2,
+      "explanation": "The 1908 Act targeted the extremist and revolutionary press, including papers sympathetic to Bengal militants."
+    },
+    {
+      "id": "kesari-newspaper-q26",
+      "difficulty": "hard",
+      "q": "Surendranath Banerjee, jailed in 1883 for contempt over press criticism, was associated with which newspaper?",
+      "options": [
+        "Kesari",
+        "Maratha",
+        "Navajivan",
+        "The Bengalee"
+      ],
+      "answer": 3,
+      "explanation": "Surendranath Banerjee edited The Bengalee and was imprisoned in 1883 for contempt of court over an article."
+    },
+    {
+      "id": "kesari-newspaper-q27",
+      "difficulty": "hard",
+      "q": "The Indian Press Act of 1910, which forced newspapers to deposit security, was passed during the tenure of which viceroy?",
+      "options": [
+        "Lord Minto",
+        "Lord Curzon",
+        "Lord Lytton",
+        "Lord Wavell"
+      ],
+      "answer": 0,
+      "explanation": "The Indian Press Act of 1910 was enacted under Lord Minto, requiring printers to deposit forfeitable security."
+    },
+    {
+      "id": "kesari-newspaper-q28",
+      "difficulty": "hard",
+      "q": "Which barrister, later a major political leader, defended Tilak in his 1916 sedition case over his speeches and writings?",
+      "options": [
+        "Winston Churchill",
+        "Muhammad Ali Jinnah",
+        "Lord Curzon",
+        "Rudyard Kipling"
+      ],
+      "answer": 1,
+      "explanation": "Muhammad Ali Jinnah, then a Bombay barrister, defended Tilak in the 1916 sedition case and helped secure his acquittal; he was not Tilak's counsel in the 1908 trial."
+    },
+    {
+      "id": "kesari-newspaper-q29",
+      "difficulty": "hard",
+      "q": "The Kesari and Maratha papers were originally launched by Tilak together with which co-founder of the Deccan Education Society?",
+      "options": [
+        "Gopal Krishna Gokhale",
+        "Mahadev Govind Ranade",
+        "Vishnu Shastri Chiplunkar",
+        "Gopal Ganesh Agarkar"
+      ],
+      "answer": 3,
+      "explanation": "Gopal Ganesh Agarkar was the first editor of Kesari and a co-founder with Tilak before they parted over ideology."
+    },
+    {
+      "id": "kesari-newspaper-q30",
+      "difficulty": "hard",
+      "q": "After Tilak's death in 1920, who took editorial responsibility associated with the Kesari group of papers?",
+      "options": [
+        "N. C. Kelkar",
+        "Jawaharlal Nehru",
+        "C. Rajagopalachari",
+        "B. C. Pal"
+      ],
+      "answer": 0,
+      "explanation": "N. C. Kelkar, a close associate of Tilak, was a leading figure in carrying on the Kesari-Maratha papers after Tilak's death."
+    }
+  ]
+}

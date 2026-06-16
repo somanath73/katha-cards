@@ -1,0 +1,395 @@
+{
+  "cardId": "muslim-league",
+  "questions": [
+    {
+      "id": "muslim-league-q01",
+      "difficulty": "easy",
+      "q": "In which year was the All-India Muslim League founded?",
+      "options": [
+        "1906",
+        "1885",
+        "1916",
+        "1947"
+      ],
+      "answer": 0,
+      "explanation": "The All-India Muslim League was founded in 1906."
+    },
+    {
+      "id": "muslim-league-q02",
+      "difficulty": "easy",
+      "q": "In which city was the All-India Muslim League founded?",
+      "options": [
+        "Lahore",
+        "Delhi",
+        "Dhaka",
+        "Karachi"
+      ],
+      "answer": 2,
+      "explanation": "The Muslim League was founded in 1906 at Dhaka."
+    },
+    {
+      "id": "muslim-league-q03",
+      "difficulty": "easy",
+      "q": "The All-India Muslim League came to represent the political interests of which community?",
+      "options": [
+        "Indian Christians",
+        "Indian Muslims",
+        "Anglo-Indians",
+        "Sikhs"
+      ],
+      "answer": 1,
+      "explanation": "The League came to represent the political interests of Indian Muslims."
+    },
+    {
+      "id": "muslim-league-q04",
+      "difficulty": "easy",
+      "q": "Which 1940 resolution of the Muslim League called for separate states for Muslims?",
+      "options": [
+        "The Nehru Report",
+        "The Poona Pact",
+        "The Karachi Resolution",
+        "The Lahore Resolution"
+      ],
+      "answer": 3,
+      "explanation": "In 1940 the League adopted the Lahore Resolution calling for separate states."
+    },
+    {
+      "id": "muslim-league-q05",
+      "difficulty": "easy",
+      "q": "The demand pursued by the Muslim League ultimately led to the creation of which country?",
+      "options": [
+        "Bangladesh",
+        "Burma",
+        "Pakistan",
+        "Sri Lanka"
+      ],
+      "answer": 2,
+      "explanation": "The League's demand for separate states led toward the creation of Pakistan."
+    },
+    {
+      "id": "muslim-league-q06",
+      "difficulty": "easy",
+      "q": "Which leader is most associated with leading the Muslim League toward the demand for Pakistan?",
+      "options": [
+        "Muhammad Ali Jinnah",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Maulana Azad"
+      ],
+      "answer": 0,
+      "explanation": "Muhammad Ali Jinnah led the Muslim League in its demand for Pakistan."
+    },
+    {
+      "id": "muslim-league-q07",
+      "difficulty": "easy",
+      "q": "The 1940 resolution that set the League on the path to Pakistan is named after which city where it was adopted?",
+      "options": [
+        "Lucknow",
+        "Dhaka",
+        "Madras",
+        "Lahore"
+      ],
+      "answer": 3,
+      "explanation": "The resolution is named the Lahore Resolution after the city where the League met in 1940."
+    },
+    {
+      "id": "muslim-league-q08",
+      "difficulty": "easy",
+      "q": "Which symbol was emblematic of the Muslim League?",
+      "options": [
+        "The spinning wheel",
+        "The crescent moon and star",
+        "The lotus",
+        "The rising sun"
+      ],
+      "answer": 1,
+      "explanation": "The League is associated with the crescent moon and star emblem."
+    },
+    {
+      "id": "muslim-league-q09",
+      "difficulty": "easy",
+      "q": "The Muslim League was a rival political organisation to which body during the freedom struggle?",
+      "options": [
+        "The Indian National Congress",
+        "The Arya Samaj",
+        "The Servants of India Society",
+        "The Forward Bloc"
+      ],
+      "answer": 0,
+      "explanation": "The Muslim League was the principal rival to the Indian National Congress in the later freedom struggle."
+    },
+    {
+      "id": "muslim-league-q10",
+      "difficulty": "easy",
+      "q": "The Lahore Resolution of the Muslim League is best described as a demand for what?",
+      "options": [
+        "A single secular republic",
+        "Restoration of the Mughal empire",
+        "Separate Muslim states",
+        "Continued British rule"
+      ],
+      "answer": 2,
+      "explanation": "The Lahore Resolution demanded separate states for Muslims in British India."
+    },
+    {
+      "id": "muslim-league-q11",
+      "difficulty": "medium",
+      "q": "In what year did the Muslim League adopt the Lahore Resolution?",
+      "options": [
+        "1930",
+        "1916",
+        "1947",
+        "1940"
+      ],
+      "answer": 3,
+      "explanation": "The Lahore Resolution was adopted in 1940."
+    },
+    {
+      "id": "muslim-league-q12",
+      "difficulty": "medium",
+      "q": "The 1916 pact between the Congress and the Muslim League, agreeing on joint demands and separate electorates, is known as the what?",
+      "options": [
+        "Poona Pact",
+        "Lucknow Pact",
+        "Gandhi-Irwin Pact",
+        "Delhi Pact"
+      ],
+      "answer": 1,
+      "explanation": "The Lucknow Pact of 1916 brought the Congress and League together on common constitutional demands."
+    },
+    {
+      "id": "muslim-league-q13",
+      "difficulty": "medium",
+      "q": "Who served as the first president of the All-India Muslim League at its founding?",
+      "options": [
+        "Muhammad Ali Jinnah",
+        "Liaquat Ali Khan",
+        "Aga Khan III",
+        "Nawab Salimullah"
+      ],
+      "answer": 2,
+      "explanation": "Aga Khan III (the Aga Khan) was the first president of the All-India Muslim League."
+    },
+    {
+      "id": "muslim-league-q14",
+      "difficulty": "medium",
+      "q": "The Muslim League called for 'Direct Action Day' in 1946. In which city did it lead to large-scale communal violence?",
+      "options": [
+        "Calcutta",
+        "Lahore",
+        "Bombay",
+        "Dhaka"
+      ],
+      "answer": 0,
+      "explanation": "Direct Action Day on 16 August 1946 triggered massive violence in Calcutta."
+    },
+    {
+      "id": "muslim-league-q15",
+      "difficulty": "medium",
+      "q": "The two-nation theory advanced by the Muslim League held that Hindus and Muslims were what?",
+      "options": [
+        "A single united nation",
+        "Two distinct nations",
+        "Two religious sects of one community",
+        "Two classes of the same nation"
+      ],
+      "answer": 1,
+      "explanation": "The two-nation theory held that Hindus and Muslims constituted two separate nations."
+    },
+    {
+      "id": "muslim-league-q16",
+      "difficulty": "medium",
+      "q": "Which leader's poetic and philosophical vision of a separate Muslim homeland, expressed in his 1930 Allahabad address, influenced the League?",
+      "options": [
+        "Maulana Azad",
+        "Sir Syed Ahmad Khan",
+        "Rahmat Ali",
+        "Muhammad Iqbal"
+      ],
+      "answer": 3,
+      "explanation": "The poet-philosopher Muhammad Iqbal, in his 1930 Allahabad address, articulated the idea of a consolidated Muslim state in the north-west."
+    },
+    {
+      "id": "muslim-league-q17",
+      "difficulty": "medium",
+      "q": "The name 'Pakistan', a coinage later embraced in the League's cause, is generally credited to which figure?",
+      "options": [
+        "Choudhry Rahmat Ali",
+        "Muhammad Ali Jinnah",
+        "Liaquat Ali Khan",
+        "Allama Iqbal"
+      ],
+      "answer": 0,
+      "explanation": "The term 'Pakistan' is generally credited to Choudhry Rahmat Ali, a Cambridge student, in the early 1930s."
+    },
+    {
+      "id": "muslim-league-q18",
+      "difficulty": "medium",
+      "q": "In the 1937 provincial elections, the Muslim League's performance was best described as what?",
+      "options": [
+        "An overwhelming sweep of all seats",
+        "A complete boycott",
+        "Disappointing, winning few Muslim seats",
+        "A landslide in Hindu-majority areas"
+      ],
+      "answer": 2,
+      "explanation": "The League fared poorly in the 1937 elections, winning only a minority of Muslim-reserved seats."
+    },
+    {
+      "id": "muslim-league-q19",
+      "difficulty": "medium",
+      "q": "The Muslim League observed a 'Day of Deliverance' in 1939 to mark the resignation of which body?",
+      "options": [
+        "The Viceroy's council",
+        "The Congress provincial ministries",
+        "The British Cabinet",
+        "The princely chambers"
+      ],
+      "answer": 1,
+      "explanation": "The League marked a 'Day of Deliverance' when the Congress provincial ministries resigned in 1939."
+    },
+    {
+      "id": "muslim-league-q20",
+      "difficulty": "medium",
+      "q": "Who moved the historic Lahore Resolution at the League's 1940 session?",
+      "options": [
+        "Muhammad Ali Jinnah",
+        "Liaquat Ali Khan",
+        "Khaliquzzaman",
+        "A. K. Fazlul Huq"
+      ],
+      "answer": 3,
+      "explanation": "The Lahore Resolution was formally moved by A. K. Fazlul Huq, the premier of Bengal."
+    },
+    {
+      "id": "muslim-league-q21",
+      "difficulty": "medium",
+      "q": "Which reform-minded organisation, founded by Sir Syed Ahmad Khan, helped lay intellectual groundwork that the League's founders later built upon?",
+      "options": [
+        "The Brahmo Samaj",
+        "The Arya Samaj",
+        "The Aligarh movement",
+        "The Theosophical Society"
+      ],
+      "answer": 2,
+      "explanation": "The Aligarh movement of Sir Syed Ahmad Khan shaped much of the educated Muslim leadership that founded and led the League."
+    },
+    {
+      "id": "muslim-league-q22",
+      "difficulty": "medium",
+      "q": "Who became the first Prime Minister of Pakistan, having been a key League leader and Jinnah's chief lieutenant?",
+      "options": [
+        "Muhammad Iqbal",
+        "Liaquat Ali Khan",
+        "Fazlul Huq",
+        "Aga Khan III"
+      ],
+      "answer": 1,
+      "explanation": "Liaquat Ali Khan, a leading League figure, became Pakistan's first Prime Minister in 1947."
+    },
+    {
+      "id": "muslim-league-q23",
+      "difficulty": "hard",
+      "q": "On exactly what date in 1946 did the Muslim League observe Direct Action Day?",
+      "options": [
+        "16 August 1946",
+        "14 August 1946",
+        "23 March 1946",
+        "3 June 1946"
+      ],
+      "answer": 0,
+      "explanation": "Direct Action Day was observed on 16 August 1946."
+    },
+    {
+      "id": "muslim-league-q24",
+      "difficulty": "hard",
+      "q": "At its 1906 founding in Dhaka, the League grew out of a deputation that had earlier met the Viceroy. Who was that Viceroy?",
+      "options": [
+        "Lord Curzon",
+        "Lord Hardinge",
+        "Lord Chelmsford",
+        "Lord Minto"
+      ],
+      "answer": 3,
+      "explanation": "The Simla Deputation of 1906 met Viceroy Lord Minto, shortly before the League was founded at Dhaka."
+    },
+    {
+      "id": "muslim-league-q25",
+      "difficulty": "hard",
+      "q": "Which prominent leader closely associated with the League's founding was the Nawab of Dhaka who hosted its inaugural meeting?",
+      "options": [
+        "Nawab Mohsin-ul-Mulk",
+        "Nawab Salimullah",
+        "Nawab Viqar-ul-Mulk",
+        "Nawab Hamidullah"
+      ],
+      "answer": 1,
+      "explanation": "Nawab Salimullah of Dhaka hosted and was central to the League's 1906 founding session."
+    },
+    {
+      "id": "muslim-league-q26",
+      "difficulty": "hard",
+      "q": "The Muslim League initially welcomed the 1905 partition of Bengal because it created a Muslim-majority province. What was that province called?",
+      "options": [
+        "Eastern Bengal and Assam",
+        "Bihar and Orissa",
+        "United Provinces",
+        "Sind and Baluchistan"
+      ],
+      "answer": 0,
+      "explanation": "The 1905 partition created the Muslim-majority province of Eastern Bengal and Assam, which the League's early supporters favoured."
+    },
+    {
+      "id": "muslim-league-q27",
+      "difficulty": "hard",
+      "q": "In the 1945-46 elections, the Muslim League captured the overwhelming majority of which category of seats, strengthening its claim to speak for Muslims?",
+      "options": [
+        "General Hindu seats",
+        "Labour seats",
+        "Reserved Muslim seats",
+        "European seats"
+      ],
+      "answer": 2,
+      "explanation": "In 1945-46 the League swept the great majority of the reserved Muslim seats, unlike its weak showing in 1937."
+    },
+    {
+      "id": "muslim-league-q28",
+      "difficulty": "hard",
+      "q": "The Cabinet Mission Plan of 1946, which the League first accepted and then rejected, proposed what structure for India?",
+      "options": [
+        "Immediate full partition",
+        "A unitary centralised state",
+        "Continued Company rule",
+        "A loose federation with grouped provinces"
+      ],
+      "answer": 3,
+      "explanation": "The Cabinet Mission proposed a loose federation with provinces organised into groups, which the League initially accepted before withdrawing support."
+    },
+    {
+      "id": "muslim-league-q29",
+      "difficulty": "hard",
+      "q": "Before championing Pakistan, the League was for years dominated by landed and princely interests. Jinnah's revitalisation of it as a mass party gathered pace especially after which year?",
+      "options": [
+        "1937",
+        "1916",
+        "1906",
+        "1947"
+      ],
+      "answer": 0,
+      "explanation": "After the League's poor 1937 election showing, Jinnah rebuilt it into a mass organisation in the years that followed."
+    },
+    {
+      "id": "muslim-league-q30",
+      "difficulty": "hard",
+      "q": "The original 1940 Lahore Resolution spoke of 'independent states' in the plural; a 1946 League convention later amended the demand to a single state. In which city was that 1946 convention held?",
+      "options": [
+        "Lahore",
+        "Karachi",
+        "Delhi",
+        "Dhaka"
+      ],
+      "answer": 2,
+      "explanation": "At the 1946 Delhi convention of League legislators, the demand was clarified into a single sovereign state of Pakistan."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "rajguru",
+  "questions": [
+    {
+      "id": "rajguru-q01",
+      "difficulty": "easy",
+      "q": "On what date was Shivaram Rajguru executed?",
+      "options": [
+        "23 March 1931",
+        "8 April 1929",
+        "13 April 1919",
+        "30 October 1928"
+      ],
+      "answer": 0,
+      "explanation": "Rajguru was hanged on 23 March 1931 in Lahore."
+    },
+    {
+      "id": "rajguru-q02",
+      "difficulty": "easy",
+      "q": "Rajguru was executed alongside which two other revolutionaries?",
+      "options": [
+        "Azad and Bismil",
+        "Bhagat Singh and Sukhdev",
+        "Ashfaqulla and Roshan Singh",
+        "Surya Sen and Dutt"
+      ],
+      "answer": 1,
+      "explanation": "Rajguru was hanged with Bhagat Singh and Sukhdev on 23 March 1931."
+    },
+    {
+      "id": "rajguru-q03",
+      "difficulty": "easy",
+      "q": "Rajguru was a member of which revolutionary organization?",
+      "options": [
+        "Indian National Congress",
+        "Ghadar Party",
+        "HSRA",
+        "Anushilan Samiti"
+      ],
+      "answer": 2,
+      "explanation": "Rajguru belonged to the Hindustan Socialist Republican Association (HSRA)."
+    },
+    {
+      "id": "rajguru-q04",
+      "difficulty": "easy",
+      "q": "In which city was Rajguru executed?",
+      "options": [
+        "Pune",
+        "Delhi",
+        "Allahabad",
+        "Lahore"
+      ],
+      "answer": 3,
+      "explanation": "Rajguru was executed in Lahore Central Jail in 1931."
+    },
+    {
+      "id": "rajguru-q05",
+      "difficulty": "easy",
+      "q": "From which present-day Indian state did Rajguru come?",
+      "options": [
+        "Maharashtra",
+        "Punjab",
+        "Bengal",
+        "Bihar"
+      ],
+      "answer": 0,
+      "explanation": "Rajguru was born in the village of Khed in Maharashtra, later renamed Rajgurunagar."
+    },
+    {
+      "id": "rajguru-q06",
+      "difficulty": "easy",
+      "q": "For what skill was Rajguru especially known within the revolutionary group?",
+      "options": [
+        "His skill as a writer",
+        "His marksmanship as a shooter",
+        "His ability as an orator",
+        "His knowledge of chemistry"
+      ],
+      "answer": 1,
+      "explanation": "Rajguru was reputed as an excellent marksman, earning his place as a shooter in HSRA actions."
+    },
+    {
+      "id": "rajguru-q07",
+      "difficulty": "easy",
+      "q": "In which 1928 Lahore action did Rajguru take part with his comrades?",
+      "options": [
+        "The Kakori train robbery",
+        "The Chittagong Armoury Raid",
+        "The killing of police officer John Saunders",
+        "The Dandi salt raid"
+      ],
+      "answer": 2,
+      "explanation": "Rajguru took part in the shooting of Assistant Superintendent John Saunders in Lahore in December 1928."
+    },
+    {
+      "id": "rajguru-q08",
+      "difficulty": "easy",
+      "q": "The Saunders killing was carried out to avenge the death of which leader?",
+      "options": [
+        "Motilal Nehru",
+        "Bal Gangadhar Tilak",
+        "Gopal Krishna Gokhale",
+        "Lala Lajpat Rai"
+      ],
+      "answer": 3,
+      "explanation": "The HSRA killed Saunders to avenge Lala Lajpat Rai, fatally injured in a Simon Commission protest."
+    },
+    {
+      "id": "rajguru-q09",
+      "difficulty": "easy",
+      "q": "Which fellow HSRA leader was closely linked to Rajguru in the Saunders action?",
+      "options": [
+        "Bhagat Singh",
+        "Subhas Chandra Bose",
+        "Ram Prasad Bismil",
+        "Surya Sen"
+      ],
+      "answer": 0,
+      "explanation": "Rajguru acted alongside Bhagat Singh in the shooting of Saunders in Lahore."
+    },
+    {
+      "id": "rajguru-q10",
+      "difficulty": "easy",
+      "q": "In which year did the Saunders killing take place?",
+      "options": [
+        "1925",
+        "1928",
+        "1931",
+        "1919"
+      ],
+      "answer": 1,
+      "explanation": "The Saunders killing was carried out on 17 December 1928 in Lahore."
+    },
+    {
+      "id": "rajguru-q11",
+      "difficulty": "medium",
+      "q": "After his name, the town of his birth in Maharashtra was renamed what?",
+      "options": [
+        "Rajguru Vihar",
+        "Shivaram Pur",
+        "Rajgurunagar",
+        "Rajgad"
+      ],
+      "answer": 2,
+      "explanation": "Rajguru's birthplace Khed was renamed Rajgurunagar in his honour."
+    },
+    {
+      "id": "rajguru-q12",
+      "difficulty": "medium",
+      "q": "What was Rajguru's full name?",
+      "options": [
+        "Sukhdev Hari Rajguru",
+        "Shivaram Bhagat Rajguru",
+        "Hari Shivaram Thapar",
+        "Shivaram Hari Rajguru"
+      ],
+      "answer": 3,
+      "explanation": "His full name was Shivaram Hari Rajguru."
+    },
+    {
+      "id": "rajguru-q13",
+      "difficulty": "medium",
+      "q": "In which conspiracy case was Rajguru tried and sentenced to death along with Bhagat Singh?",
+      "options": [
+        "Lahore Conspiracy Case",
+        "Kakori Conspiracy Case",
+        "Meerut Conspiracy Case",
+        "Alipore Bomb Case"
+      ],
+      "answer": 0,
+      "explanation": "Rajguru was tried and condemned in the Lahore Conspiracy Case for the Saunders killing."
+    },
+    {
+      "id": "rajguru-q14",
+      "difficulty": "medium",
+      "q": "Which British officer was the actual target the revolutionaries intended to kill in Lahore in 1928?",
+      "options": [
+        "John Saunders",
+        "James Scott",
+        "Reginald Dyer",
+        "Cyril Radcliffe"
+      ],
+      "answer": 1,
+      "explanation": "The intended target was Superintendent James Scott, who had ordered the lathi charge on Lajpat Rai; Saunders was killed in a case of mistaken identity."
+    },
+    {
+      "id": "rajguru-q15",
+      "difficulty": "medium",
+      "q": "Rajguru was arrested in 1929 in which city while travelling?",
+      "options": [
+        "Lahore",
+        "Calcutta",
+        "Pune (then Poona)",
+        "Delhi"
+      ],
+      "answer": 2,
+      "explanation": "Rajguru was arrested at Pune (Poona) in 1929 and later handed over for the Lahore Conspiracy Case."
+    },
+    {
+      "id": "rajguru-q16",
+      "difficulty": "medium",
+      "q": "Roughly how old was Rajguru at the time of his execution in 1931?",
+      "options": [
+        "About 35",
+        "About 45",
+        "About 50",
+        "About 22"
+      ],
+      "answer": 3,
+      "explanation": "Rajguru, born in 1908, was about 22 years old when he was hanged in 1931."
+    },
+    {
+      "id": "rajguru-q17",
+      "difficulty": "medium",
+      "q": "In which year was Rajguru born?",
+      "options": [
+        "1908",
+        "1897",
+        "1915",
+        "1900"
+      ],
+      "answer": 0,
+      "explanation": "Rajguru was born on 24 August 1908."
+    },
+    {
+      "id": "rajguru-q18",
+      "difficulty": "medium",
+      "q": "Rajguru reportedly studied scriptures and Sanskrit in which holy city in his youth?",
+      "options": [
+        "Haridwar",
+        "Varanasi (Banaras)",
+        "Ujjain",
+        "Nashik"
+      ],
+      "answer": 1,
+      "explanation": "Rajguru went to Varanasi (Banaras) as a youth, where he studied and came into contact with revolutionary circles."
+    },
+    {
+      "id": "rajguru-q19",
+      "difficulty": "medium",
+      "q": "Which slogan, shared by his organization, did Rajguru and his comrades raise in defiance of British rule?",
+      "options": [
+        "Quit India",
+        "Jai Hind",
+        "Inquilab Zindabad",
+        "Vande Mataram"
+      ],
+      "answer": 2,
+      "explanation": "Rajguru and his HSRA comrades raised the slogan 'Inquilab Zindabad', meaning 'Long Live the Revolution'."
+    },
+    {
+      "id": "rajguru-q20",
+      "difficulty": "medium",
+      "q": "The 1928 lathi charge that the Saunders killing avenged was during a protest against which commission?",
+      "options": [
+        "The Cabinet Mission",
+        "The Cripps Mission",
+        "The Hunter Commission",
+        "The Simon Commission"
+      ],
+      "answer": 3,
+      "explanation": "Lala Lajpat Rai was injured protesting the Simon Commission; his death was avenged by the Saunders killing."
+    },
+    {
+      "id": "rajguru-q21",
+      "difficulty": "medium",
+      "q": "What was the name of the larger revolutionary network whose Punjab actions Rajguru joined?",
+      "options": [
+        "Hindustan Socialist Republican Association",
+        "Naujawan Bharat Sabha",
+        "Khudai Khidmatgar",
+        "Servants of India Society"
+      ],
+      "answer": 0,
+      "explanation": "Rajguru was part of the Hindustan Socialist Republican Association, which carried out the Lahore actions."
+    },
+    {
+      "id": "rajguru-q22",
+      "difficulty": "medium",
+      "q": "Through which contact did Rajguru first become associated with revolutionary activity in Banaras?",
+      "options": [
+        "Members of the Indian National Congress",
+        "Revolutionaries linked to the HSRA network",
+        "Officers of the Indian National Army",
+        "Leaders of the Khilafat movement"
+      ],
+      "answer": 1,
+      "explanation": "In Banaras, Rajguru came into contact with revolutionaries connected to the HSRA network and was drawn into the movement."
+    },
+    {
+      "id": "rajguru-q23",
+      "difficulty": "hard",
+      "q": "In the Saunders shooting, what role is Rajguru generally credited with?",
+      "options": [
+        "Driving the getaway vehicle",
+        "Standing guard at the gate",
+        "Firing the first shots at Saunders",
+        "Forging the escape documents"
+      ],
+      "answer": 2,
+      "explanation": "Rajguru, an able marksman, is generally credited with firing the initial shots at Saunders, with Bhagat Singh firing further rounds."
+    },
+    {
+      "id": "rajguru-q24",
+      "difficulty": "hard",
+      "q": "After the Saunders killing, Rajguru fled Lahore and was eventually traced to which region?",
+      "options": [
+        "Bengal",
+        "Sind",
+        "Burma",
+        "Maharashtra (the Pune area)"
+      ],
+      "answer": 3,
+      "explanation": "Rajguru returned toward Maharashtra and was arrested in the Pune area before being taken for trial in Lahore."
+    },
+    {
+      "id": "rajguru-q25",
+      "difficulty": "hard",
+      "q": "The three Lahore martyrs were cremated secretly by British authorities near the bank of which river?",
+      "options": [
+        "The Sutlej",
+        "The Ravi",
+        "The Beas",
+        "The Jhelum"
+      ],
+      "answer": 0,
+      "explanation": "The bodies of Rajguru, Bhagat Singh and Sukhdev were taken to the banks of the Sutlej near Hussainiwala for secret cremation."
+    },
+    {
+      "id": "rajguru-q26",
+      "difficulty": "hard",
+      "q": "At which site near Ferozepur is a memorial to Rajguru and his comrades located?",
+      "options": [
+        "Wagah",
+        "Hussainiwala",
+        "Jallianwala Bagh",
+        "Khatkar Kalan"
+      ],
+      "answer": 1,
+      "explanation": "The National Martyrs Memorial at Hussainiwala near Ferozepur honours Rajguru, Bhagat Singh and Sukhdev."
+    },
+    {
+      "id": "rajguru-q27",
+      "difficulty": "hard",
+      "q": "Rajguru's family belonged to which traditional priestly community, reflected in the surname 'Rajguru'?",
+      "options": [
+        "A Sikh Jat family",
+        "A Kayastha family of scribes",
+        "A Brahmin family of royal priests",
+        "A Rajput warrior family"
+      ],
+      "answer": 2,
+      "explanation": "The surname Rajguru reflects his Brahmin family's traditional role as priests to a princely or royal house."
+    },
+    {
+      "id": "rajguru-q28",
+      "difficulty": "hard",
+      "q": "In which year was Rajguru arrested before facing trial in the Lahore Conspiracy Case?",
+      "options": [
+        "1927",
+        "1931",
+        "1925",
+        "1929"
+      ],
+      "answer": 3,
+      "explanation": "Rajguru was arrested in 1929, the same year the wider Lahore Conspiracy Case unfolded."
+    },
+    {
+      "id": "rajguru-q29",
+      "difficulty": "hard",
+      "q": "On what date in December 1928 did Rajguru take part in the Saunders shooting?",
+      "options": [
+        "17 December",
+        "8 April",
+        "30 October",
+        "23 March"
+      ],
+      "answer": 0,
+      "explanation": "The Saunders shooting took place on 17 December 1928 in Lahore."
+    },
+    {
+      "id": "rajguru-q30",
+      "difficulty": "hard",
+      "q": "Rajguru's execution alongside Bhagat Singh and Sukhdev triggered protests during which ongoing Gandhian campaign?",
+      "options": [
+        "The Quit India Movement",
+        "The Civil Disobedience Movement",
+        "The Non-Cooperation Movement",
+        "The Khilafat Movement"
+      ],
+      "answer": 1,
+      "explanation": "The 1931 executions occurred during the Civil Disobedience era and stirred widespread anger across the country."
+    }
+  ]
+}

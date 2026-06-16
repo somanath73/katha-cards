@@ -8,8 +8,9 @@ import { fileURLToPath } from 'node:url'
 import sharp from 'sharp'
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..')
-const manifest = JSON.parse(readFileSync(join(root, '.art/manifest.json'), 'utf8'))
-const outDir = join(root, 'public/data/mahabharat/art')
+const category = process.argv[2] || 'mahabharat'
+const manifest = JSON.parse(readFileSync(join(root, `.art/${category}.manifest.json`), 'utf8'))
+const outDir = join(root, `public/data/${category}/art`)
 mkdirSync(outDir, { recursive: true })
 
 const WIDTH = 600 // cards display ~190px; 600 is crisp on retina, ~50-90KB as webp

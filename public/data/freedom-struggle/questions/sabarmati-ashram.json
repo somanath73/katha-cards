@@ -1,0 +1,395 @@
+{
+  "cardId": "sabarmati-ashram",
+  "questions": [
+    {
+      "id": "sabarmati-ashram-q01",
+      "difficulty": "easy",
+      "q": "Sabarmati Ashram is located on the bank of which river?",
+      "options": [
+        "Sabarmati",
+        "Ganga",
+        "Yamuna",
+        "Narmada"
+      ],
+      "answer": 0,
+      "explanation": "The ashram takes its name from the Sabarmati river, on whose bank it was established."
+    },
+    {
+      "id": "sabarmati-ashram-q02",
+      "difficulty": "easy",
+      "q": "Sabarmati Ashram is situated near which Gujarati city?",
+      "options": [
+        "Surat",
+        "Ahmedabad",
+        "Vadodara",
+        "Rajkot"
+      ],
+      "answer": 1,
+      "explanation": "Sabarmati Ashram lies on the outskirts of Ahmedabad in Gujarat."
+    },
+    {
+      "id": "sabarmati-ashram-q03",
+      "difficulty": "easy",
+      "q": "Who established the Sabarmati Ashram?",
+      "options": [
+        "Sardar Patel",
+        "Vinoba Bhave",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru"
+      ],
+      "answer": 2,
+      "explanation": "Mahatma Gandhi established the ashram on the bank of the Sabarmati river."
+    },
+    {
+      "id": "sabarmati-ashram-q04",
+      "difficulty": "easy",
+      "q": "Which famous march set out from Sabarmati Ashram in 1930?",
+      "options": [
+        "The Long March",
+        "The Khilafat March",
+        "The Frontier March",
+        "The Dandi Salt March"
+      ],
+      "answer": 3,
+      "explanation": "The historic Dandi Salt March began at Sabarmati Ashram in 1930."
+    },
+    {
+      "id": "sabarmati-ashram-q05",
+      "difficulty": "easy",
+      "q": "In which Indian state is Sabarmati Ashram located?",
+      "options": [
+        "Maharashtra",
+        "Gujarat",
+        "Bihar",
+        "Punjab"
+      ],
+      "answer": 1,
+      "explanation": "Sabarmati Ashram is in Gujarat, near the city of Ahmedabad."
+    },
+    {
+      "id": "sabarmati-ashram-q06",
+      "difficulty": "easy",
+      "q": "Sabarmati Ashram served as a centre for which kinds of activity under Gandhi?",
+      "options": [
+        "Military training",
+        "Foreign trade",
+        "Constructive and political work",
+        "Court administration"
+      ],
+      "answer": 2,
+      "explanation": "The ashram became a centre of Gandhi's constructive social work and his political campaigns."
+    },
+    {
+      "id": "sabarmati-ashram-q07",
+      "difficulty": "easy",
+      "q": "Sabarmati Ashram is closely associated with which subtitle reflecting its purpose?",
+      "options": [
+        "The Fortress of War",
+        "The House of Trade",
+        "The Palace of Kings",
+        "The Abode of Service"
+      ],
+      "answer": 3,
+      "explanation": "The ashram is known as 'The Abode of Service', reflecting its dedication to service and constructive work."
+    },
+    {
+      "id": "sabarmati-ashram-q08",
+      "difficulty": "easy",
+      "q": "Which destination did the Dandi March that left Sabarmati Ashram aim to reach?",
+      "options": [
+        "The coastal village of Dandi",
+        "The city of Delhi",
+        "The port of Calcutta",
+        "The hills of Shimla"
+      ],
+      "answer": 0,
+      "explanation": "The marchers set out from Sabarmati Ashram for the coastal village of Dandi, where Gandhi broke the salt law."
+    },
+    {
+      "id": "sabarmati-ashram-q09",
+      "difficulty": "easy",
+      "q": "Activities at Sabarmati Ashram included the promotion of which hand-based craft?",
+      "options": [
+        "Stone carving",
+        "Metal forging",
+        "Spinning and weaving khadi",
+        "Glass blowing"
+      ],
+      "answer": 2,
+      "explanation": "Spinning and weaving of khadi were central to the self-reliant life Gandhi promoted at the ashram."
+    },
+    {
+      "id": "sabarmati-ashram-q10",
+      "difficulty": "easy",
+      "q": "Sabarmati Ashram is preserved today mainly as what?",
+      "options": [
+        "A military base",
+        "A railway station",
+        "A trading port",
+        "A memorial and museum"
+      ],
+      "answer": 3,
+      "explanation": "The site is preserved as a memorial and museum dedicated to Gandhi and his work."
+    },
+    {
+      "id": "sabarmati-ashram-q11",
+      "difficulty": "medium",
+      "q": "In which year did Gandhi establish the ashram on the bank of the Sabarmati river?",
+      "options": [
+        "1917",
+        "1909",
+        "1925",
+        "1930"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi established the Sabarmati Ashram on the river bank in 1917."
+    },
+    {
+      "id": "sabarmati-ashram-q12",
+      "difficulty": "medium",
+      "q": "Before moving to the Sabarmati site, Gandhi had first set up his ashram in 1915 at which location near Ahmedabad?",
+      "options": [
+        "Wardha",
+        "Kochrab",
+        "Sevagram",
+        "Phoenix"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi first founded an ashram at Kochrab in 1915 before relocating it to the Sabarmati river bank in 1917."
+    },
+    {
+      "id": "sabarmati-ashram-q13",
+      "difficulty": "medium",
+      "q": "On which date did the Dandi March set out from Sabarmati Ashram?",
+      "options": [
+        "26 January 1930",
+        "8 August 1942",
+        "13 April 1919",
+        "12 March 1930"
+      ],
+      "answer": 3,
+      "explanation": "Gandhi and his followers began the Dandi March from the ashram on 12 March 1930."
+    },
+    {
+      "id": "sabarmati-ashram-q14",
+      "difficulty": "medium",
+      "q": "Sabarmati Ashram is also commonly known by which other name?",
+      "options": [
+        "Gandhi Ashram or Harijan Ashram",
+        "Belur Math",
+        "Santiniketan",
+        "Anand Bhavan"
+      ],
+      "answer": 0,
+      "explanation": "The ashram is also called the Gandhi Ashram and was known as the Harijan Ashram."
+    },
+    {
+      "id": "sabarmati-ashram-q15",
+      "difficulty": "medium",
+      "q": "Gandhi's own cottage at Sabarmati Ashram is preserved under which name?",
+      "options": [
+        "Anand Bhavan",
+        "Hriday Kunj",
+        "Swaraj Bhavan",
+        "Birla House"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi's residence at the ashram is known as Hriday Kunj and is preserved as a memorial."
+    },
+    {
+      "id": "sabarmati-ashram-q16",
+      "difficulty": "medium",
+      "q": "Gandhi is said to have vowed not to return to the Sabarmati Ashram until India achieved what?",
+      "options": [
+        "A new constitution",
+        "Religious unity",
+        "Independence",
+        "Universal literacy"
+      ],
+      "answer": 2,
+      "explanation": "Setting out on the Salt March, Gandhi pledged not to return to the ashram until India had won its freedom."
+    },
+    {
+      "id": "sabarmati-ashram-q17",
+      "difficulty": "medium",
+      "q": "Roughly how long was the route of the Dandi March that began at Sabarmati Ashram?",
+      "options": [
+        "About 240 miles",
+        "About 50 miles",
+        "About 600 miles",
+        "About 1,000 miles"
+      ],
+      "answer": 0,
+      "explanation": "The march from the ashram to Dandi covered roughly 240 miles, about 385 kilometres."
+    },
+    {
+      "id": "sabarmati-ashram-q18",
+      "difficulty": "medium",
+      "q": "Life at Sabarmati Ashram was governed by a set of vows that residents were expected to follow, including which of these?",
+      "options": [
+        "Accumulation of wealth",
+        "Allegiance to the Crown",
+        "Truth and non-violence",
+        "Pursuit of military rank"
+      ],
+      "answer": 2,
+      "explanation": "Ashram residents pledged to observe vows such as truth, non-violence, and simple living."
+    },
+    {
+      "id": "sabarmati-ashram-q19",
+      "difficulty": "medium",
+      "q": "The ashram became an important base during which broader campaign that the Salt March launched?",
+      "options": [
+        "The Khilafat movement",
+        "The Civil Disobedience Movement",
+        "The Swadeshi movement of 1905",
+        "The Home Rule movement"
+      ],
+      "answer": 1,
+      "explanation": "The Salt March from the ashram opened the Civil Disobedience Movement of 1930."
+    },
+    {
+      "id": "sabarmati-ashram-q20",
+      "difficulty": "medium",
+      "q": "Which social cause was strongly promoted from Sabarmati Ashram, in keeping with Gandhi's calling its residents 'Harijans'?",
+      "options": [
+        "The restoration of princely rule",
+        "The expansion of foreign trade",
+        "The promotion of caste hierarchy",
+        "The removal of untouchability"
+      ],
+      "answer": 3,
+      "explanation": "Gandhi used the ashram to advance his campaign against untouchability, terming the depressed classes 'Harijans'."
+    },
+    {
+      "id": "sabarmati-ashram-q21",
+      "difficulty": "medium",
+      "q": "Gandhi located the ashram on the Sabarmati bank partly because he wished it to be situated where, in his view?",
+      "options": [
+        "Inside a busy commercial district",
+        "Within a princely palace complex",
+        "Between a jail and a cremation ground, fit for seekers of truth",
+        "Near a British military cantonment"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi remarked that the site between a jail and a crematorium suited a seeker of truth ready for either fate."
+    },
+    {
+      "id": "sabarmati-ashram-q22",
+      "difficulty": "medium",
+      "q": "Which everyday tool symbolizing self-reliance was a constant feature of daily routine at Sabarmati Ashram?",
+      "options": [
+        "The charkha, or spinning wheel",
+        "The printing press",
+        "The telegraph machine",
+        "The plough"
+      ],
+      "answer": 0,
+      "explanation": "The charkha was central to the ashram's daily routine, embodying Gandhi's ideal of self-reliance."
+    },
+    {
+      "id": "sabarmati-ashram-q23",
+      "difficulty": "hard",
+      "q": "How many companions accompanied Gandhi when he first set out from Sabarmati Ashram on the Dandi March?",
+      "options": [
+        "Exactly 12 disciples",
+        "Over 500 soldiers",
+        "A single secretary",
+        "About 78 chosen volunteers"
+      ],
+      "answer": 3,
+      "explanation": "Gandhi began the march with a group of roughly 78 selected ashram volunteers, with thousands joining along the way."
+    },
+    {
+      "id": "sabarmati-ashram-q24",
+      "difficulty": "hard",
+      "q": "The Sabarmati Ashram of 1917 was relocated from Kochrab in part because of an outbreak of which disease at the earlier site?",
+      "options": [
+        "Cholera",
+        "Plague",
+        "Smallpox",
+        "Malaria"
+      ],
+      "answer": 1,
+      "explanation": "An outbreak of plague near the Kochrab site contributed to the decision to move the ashram to the Sabarmati river bank."
+    },
+    {
+      "id": "sabarmati-ashram-q25",
+      "difficulty": "hard",
+      "q": "Sabarmati Ashram is preserved today as a memorial commonly referred to by which institutional name?",
+      "options": [
+        "Archaeological Survey monument",
+        "Gandhi Smriti, Delhi",
+        "Aga Khan Palace Trust",
+        "Sabarmati Ashram Preservation and Memorial Trust"
+      ],
+      "answer": 3,
+      "explanation": "The site is maintained by the Sabarmati Ashram Preservation and Memorial Trust as a museum and memorial."
+    },
+    {
+      "id": "sabarmati-ashram-q26",
+      "difficulty": "hard",
+      "q": "After Gandhi left it during the 1930s civil disobedience period, the ashram's land was for a time intended to serve what purpose?",
+      "options": [
+        "A British garrison",
+        "Work for the welfare of Harijans",
+        "A textile mill",
+        "A railway depot"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi suggested the ashram land be used for Harijan welfare work after he vowed not to return until freedom was won."
+    },
+    {
+      "id": "sabarmati-ashram-q27",
+      "difficulty": "hard",
+      "q": "Which museum building, designed by architect Charles Correa, was added at the Sabarmati Ashram complex?",
+      "options": [
+        "The Gandhi Smarak Sangrahalaya",
+        "The Prince of Wales Museum",
+        "The Salar Jung Museum",
+        "The Indian Museum"
+      ],
+      "answer": 0,
+      "explanation": "The Gandhi Smarak Sangrahalaya at the ashram, housing Gandhi memorabilia, was designed by Charles Correa."
+    },
+    {
+      "id": "sabarmati-ashram-q28",
+      "difficulty": "hard",
+      "q": "Gandhi described the ideal of the ashram community in terms of which combination of pursuits?",
+      "options": [
+        "Profit, leisure, and luxury",
+        "Conquest, command, and power",
+        "Self-discipline, manual labour, and service",
+        "Ritual, hierarchy, and wealth"
+      ],
+      "answer": 2,
+      "explanation": "The ashram emphasized self-discipline, manual labour such as spinning and cleaning, and selfless service."
+    },
+    {
+      "id": "sabarmati-ashram-q29",
+      "difficulty": "hard",
+      "q": "Among the constructive activities pursued at the ashram was the production and promotion of which item to support village economies?",
+      "options": [
+        "Imported British textiles",
+        "Hand-spun khadi cloth",
+        "Refined sugar for export",
+        "Manufactured firearms"
+      ],
+      "answer": 1,
+      "explanation": "The ashram promoted hand-spun khadi as a means of supporting village self-reliance and resisting imported cloth."
+    },
+    {
+      "id": "sabarmati-ashram-q30",
+      "difficulty": "hard",
+      "q": "The Sabarmati Ashram is considered significant in the freedom struggle chiefly because it served as which of the following?",
+      "options": [
+        "A short-lived camp used only once",
+        "A foreign consulate",
+        "A princely court",
+        "The nerve centre of Gandhi's movements for many years"
+      ],
+      "answer": 3,
+      "explanation": "For over a decade the Sabarmati Ashram acted as the nerve centre from which Gandhi directed his major campaigns."
+    }
+  ]
+}

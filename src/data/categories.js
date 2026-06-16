@@ -32,7 +32,7 @@ export const CATEGORIES = [
     tagline: 'The long road to 1947',
     emblem: 'fire',
     palette: 'flame',
-    live: false,
+    live: true,
   },
   {
     id: 'indian-politics',

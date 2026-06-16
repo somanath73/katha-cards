@@ -1,0 +1,395 @@
+{
+  "cardId": "mahatma-gandhi",
+  "questions": [
+    {
+      "id": "mahatma-gandhi-q01",
+      "difficulty": "easy",
+      "q": "What was Mahatma Gandhi's full original name?",
+      "options": [
+        "Mohandas Karamchand Gandhi",
+        "Mohan Lal Gandhi",
+        "Manilal Karamchand Gandhi",
+        "Madan Mohan Gandhi"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi's full name was Mohandas Karamchand Gandhi."
+    },
+    {
+      "id": "mahatma-gandhi-q02",
+      "difficulty": "easy",
+      "q": "Gandhi is honoured in India by which title meaning 'Father of the Nation'?",
+      "options": [
+        "Netaji",
+        "Rashtrapita",
+        "Sardar",
+        "Lokmanya"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi is revered as Rashtrapita, the Father of the Nation."
+    },
+    {
+      "id": "mahatma-gandhi-q03",
+      "difficulty": "easy",
+      "q": "Gandhi's philosophy of nonviolence is captured by which term?",
+      "options": [
+        "Swaraj",
+        "Ahimsa",
+        "Purna Swaraj",
+        "Satyagraha"
+      ],
+      "answer": 1,
+      "explanation": "Ahimsa, meaning non-violence, was the moral foundation of Gandhi's political philosophy."
+    },
+    {
+      "id": "mahatma-gandhi-q04",
+      "difficulty": "easy",
+      "q": "Gandhi's method of nonviolent resistance was called what?",
+      "options": [
+        "Satyagraha",
+        "Guerrilla war",
+        "Sepoy revolt",
+        "Civil litigation"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi developed satyagraha, the technique of nonviolent resistance based on truth and moral force."
+    },
+    {
+      "id": "mahatma-gandhi-q05",
+      "difficulty": "easy",
+      "q": "In which year was Mahatma Gandhi assassinated?",
+      "options": [
+        "1945",
+        "1947",
+        "1948",
+        "1950"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi was assassinated on 30 January 1948."
+    },
+    {
+      "id": "mahatma-gandhi-q06",
+      "difficulty": "easy",
+      "q": "Gandhi was born in which present-day Indian state?",
+      "options": [
+        "Maharashtra",
+        "Rajasthan",
+        "Gujarat",
+        "Punjab"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi was born at Porbandar in present-day Gujarat."
+    },
+    {
+      "id": "mahatma-gandhi-q07",
+      "difficulty": "easy",
+      "q": "The handspun cloth Gandhi promoted as a symbol of self-reliance is called what?",
+      "options": [
+        "Silk",
+        "Velvet",
+        "Khadi",
+        "Denim"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi championed khadi, handspun and handwoven cloth, as an emblem of self-reliance."
+    },
+    {
+      "id": "mahatma-gandhi-q08",
+      "difficulty": "easy",
+      "q": "In 1930 Gandhi led a famous march to the sea to protest the tax on which commodity?",
+      "options": [
+        "Sugar",
+        "Tea",
+        "Salt",
+        "Cloth"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi led the Dandi Salt March in 1930 to defy the British monopoly and tax on salt."
+    },
+    {
+      "id": "mahatma-gandhi-q09",
+      "difficulty": "easy",
+      "q": "Gandhi's wife and lifelong companion was named what?",
+      "options": [
+        "Kamala",
+        "Kasturba",
+        "Sarojini",
+        "Vijaya"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi's wife was Kasturba Gandhi, affectionately called Ba."
+    },
+    {
+      "id": "mahatma-gandhi-q10",
+      "difficulty": "easy",
+      "q": "Gandhi launched the Quit India Movement in 1942 with which famous call?",
+      "options": [
+        "Do or Die",
+        "Simon Go Back",
+        "Inquilab Zindabad",
+        "Vande Mataram"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi gave the call 'Do or Die' at the launch of the Quit India Movement in August 1942."
+    },
+    {
+      "id": "mahatma-gandhi-q11",
+      "difficulty": "medium",
+      "q": "On what date was Gandhi born?",
+      "options": [
+        "2 October 1869",
+        "15 August 1872",
+        "23 March 1869",
+        "26 January 1869"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi was born on 2 October 1869, a date now observed as Gandhi Jayanti."
+    },
+    {
+      "id": "mahatma-gandhi-q12",
+      "difficulty": "medium",
+      "q": "Gandhi went to which country in 1893, where he first developed satyagraha against racial discrimination?",
+      "options": [
+        "England",
+        "Kenya",
+        "South Africa",
+        "Fiji"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi spent over two decades in South Africa, where he first evolved satyagraha against racial injustice."
+    },
+    {
+      "id": "mahatma-gandhi-q13",
+      "difficulty": "medium",
+      "q": "Gandhi studied law in which city in England?",
+      "options": [
+        "Oxford",
+        "Cambridge",
+        "London",
+        "Edinburgh"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi trained as a barrister in London, qualifying at the Inner Temple."
+    },
+    {
+      "id": "mahatma-gandhi-q14",
+      "difficulty": "medium",
+      "q": "Gandhi regarded which moderate leader as his political guru?",
+      "options": [
+        "Gopal Krishna Gokhale",
+        "Bal Gangadhar Tilak",
+        "Dadabhai Naoroji",
+        "Lala Lajpat Rai"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi considered Gopal Krishna Gokhale his political mentor and teacher."
+    },
+    {
+      "id": "mahatma-gandhi-q15",
+      "difficulty": "medium",
+      "q": "Gandhi called off the Non-Cooperation Movement in 1922 after violence at which place?",
+      "options": [
+        "Jallianwala Bagh",
+        "Chauri Chaura",
+        "Dandi",
+        "Champaran"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi suspended the Non-Cooperation Movement after a mob killed policemen at Chauri Chaura in February 1922."
+    },
+    {
+      "id": "mahatma-gandhi-q16",
+      "difficulty": "medium",
+      "q": "Which two newspapers were closely associated with Gandhi's editorship in India?",
+      "options": [
+        "Young India and Harijan",
+        "Kesari and Maratha",
+        "The Hindu and Swadesamitran",
+        "Amrita Bazar Patrika and Bande Mataram"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi edited the journals Young India and later Harijan to spread his ideas."
+    },
+    {
+      "id": "mahatma-gandhi-q17",
+      "difficulty": "medium",
+      "q": "Gandhi's first major satyagraha in India, in 1917, took place at which location?",
+      "options": [
+        "Bardoli",
+        "Kheda",
+        "Dandi",
+        "Champaran"
+      ],
+      "answer": 3,
+      "explanation": "Gandhi's first major Indian satyagraha was the Champaran campaign in Bihar in 1917."
+    },
+    {
+      "id": "mahatma-gandhi-q18",
+      "difficulty": "medium",
+      "q": "In which South African incident was Gandhi thrown off a train, a turning point in his life?",
+      "options": [
+        "At Durban harbour",
+        "At Pietermaritzburg",
+        "At Johannesburg market",
+        "At Cape Town"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi was ejected from a first-class railway carriage at Pietermaritzburg station, an episode that shaped his resolve to fight injustice."
+    },
+    {
+      "id": "mahatma-gandhi-q19",
+      "difficulty": "medium",
+      "q": "Gandhi signed a pact in 1931 with which Viceroy, suspending civil disobedience?",
+      "options": [
+        "Lord Irwin",
+        "Lord Curzon",
+        "Lord Mountbatten",
+        "Lord Wavell"
+      ],
+      "answer": 0,
+      "explanation": "The Gandhi-Irwin Pact of March 1931 was concluded with Viceroy Lord Irwin."
+    },
+    {
+      "id": "mahatma-gandhi-q20",
+      "difficulty": "medium",
+      "q": "Gandhi attended which Round Table Conference in London as the sole Congress representative?",
+      "options": [
+        "The second",
+        "The first",
+        "The third",
+        "All three"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi attended the Second Round Table Conference in 1931 as the sole representative of the Congress."
+    },
+    {
+      "id": "mahatma-gandhi-q21",
+      "difficulty": "medium",
+      "q": "The ashram Gandhi established near Ahmedabad in 1917, the starting point of the Salt March, was named after which river?",
+      "options": [
+        "Yamuna",
+        "Narmada",
+        "Ganga",
+        "Sabarmati"
+      ],
+      "answer": 3,
+      "explanation": "Gandhi founded the Sabarmati Ashram on the bank of the Sabarmati river near Ahmedabad."
+    },
+    {
+      "id": "mahatma-gandhi-q22",
+      "difficulty": "medium",
+      "q": "Gandhi undertook a 'fast unto death' in 1932 in opposition to which colonial proposal affecting depressed classes?",
+      "options": [
+        "The Rowlatt Act",
+        "The salt tax",
+        "The Simon Commission",
+        "The Communal Award and separate electorates"
+      ],
+      "answer": 3,
+      "explanation": "Gandhi fasted against the separate electorates for depressed classes in the Communal Award, leading to the Poona Pact."
+    },
+    {
+      "id": "mahatma-gandhi-q23",
+      "difficulty": "hard",
+      "q": "Who assassinated Mahatma Gandhi?",
+      "options": [
+        "Madanlal Dhingra",
+        "Udham Singh",
+        "Nathuram Godse",
+        "Vinayak Savarkar"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi was shot dead by Nathuram Godse on 30 January 1948 in New Delhi."
+    },
+    {
+      "id": "mahatma-gandhi-q24",
+      "difficulty": "hard",
+      "q": "Gandhi's first book, written in 1909, presenting his critique of modern civilization was titled what?",
+      "options": [
+        "My Experiments with Truth",
+        "Satyagraha in South Africa",
+        "Anasakti Yoga",
+        "Hind Swaraj"
+      ],
+      "answer": 3,
+      "explanation": "Gandhi wrote 'Hind Swaraj' (Indian Home Rule) in 1909, outlining his vision of self-rule and critique of Western civilization."
+    },
+    {
+      "id": "mahatma-gandhi-q25",
+      "difficulty": "hard",
+      "q": "In which year did Gandhi return permanently to India from South Africa?",
+      "options": [
+        "1909",
+        "1919",
+        "1920",
+        "1915"
+      ],
+      "answer": 3,
+      "explanation": "Gandhi returned to India for good in January 1915 after his long stay in South Africa."
+    },
+    {
+      "id": "mahatma-gandhi-q26",
+      "difficulty": "hard",
+      "q": "Gandhi's autobiography, written in Gujarati, carries which English title?",
+      "options": [
+        "An Indian Pilgrim",
+        "Discovery of India",
+        "Toward Freedom",
+        "The Story of My Experiments with Truth"
+      ],
+      "answer": 3,
+      "explanation": "Gandhi's autobiography is titled 'The Story of My Experiments with Truth'."
+    },
+    {
+      "id": "mahatma-gandhi-q27",
+      "difficulty": "hard",
+      "q": "During the Quit India period Gandhi and Kasturba were imprisoned at which palace, where Kasturba died?",
+      "options": [
+        "Yerwada Jail only",
+        "Aga Khan Palace",
+        "Red Fort",
+        "Cellular Jail"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi was detained at the Aga Khan Palace in Pune during Quit India, where Kasturba died in 1944."
+    },
+    {
+      "id": "mahatma-gandhi-q28",
+      "difficulty": "hard",
+      "q": "Which influential Russian writer corresponded with Gandhi and influenced his ideas on nonviolence?",
+      "options": [
+        "Fyodor Dostoevsky",
+        "Leo Tolstoy",
+        "Maxim Gorky",
+        "Anton Chekhov"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi corresponded with Leo Tolstoy, whose writings on nonviolence deeply influenced him; he named a settlement Tolstoy Farm."
+    },
+    {
+      "id": "mahatma-gandhi-q29",
+      "difficulty": "hard",
+      "q": "In the aftermath of independence and partition, Gandhi was in which city undertaking fasts to quell communal violence in early 1948?",
+      "options": [
+        "Calcutta",
+        "Lahore",
+        "Noakhali",
+        "Delhi"
+      ],
+      "answer": 3,
+      "explanation": "Gandhi was in Delhi in January 1948, having fasted to promote communal peace, when he was assassinated."
+    },
+    {
+      "id": "mahatma-gandhi-q30",
+      "difficulty": "hard",
+      "q": "Gandhi described a hierarchy of his constructive programme; which of these was a key plank he tirelessly promoted?",
+      "options": [
+        "Industrial mass production",
+        "Removal of untouchability",
+        "Expansion of the army",
+        "Promotion of foreign trade"
+      ],
+      "answer": 1,
+      "explanation": "The removal of untouchability was a central plank of Gandhi's constructive programme, alongside khadi and communal harmony."
+    }
+  ]
+}

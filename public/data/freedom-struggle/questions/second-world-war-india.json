@@ -1,0 +1,395 @@
+{
+  "cardId": "second-world-war-india",
+  "questions": [
+    {
+      "id": "second-world-war-india-q01",
+      "difficulty": "easy",
+      "q": "In what year did the British declare India a participant in the Second World War?",
+      "options": [
+        "1939",
+        "1937",
+        "1941",
+        "1943"
+      ],
+      "answer": 0,
+      "explanation": "Britain declared war on Germany in September 1939 and immediately committed India to the conflict."
+    },
+    {
+      "id": "second-world-war-india-q02",
+      "difficulty": "easy",
+      "q": "What did the British fail to do before committing India to the Second World War?",
+      "options": [
+        "Inform the United States",
+        "Consult Indian political leaders",
+        "Hold a referendum in Britain",
+        "Notify the League of Nations"
+      ],
+      "answer": 1,
+      "explanation": "India was declared a belligerent without any consultation of Indian leaders or elected representatives."
+    },
+    {
+      "id": "second-world-war-india-q03",
+      "difficulty": "easy",
+      "q": "Which Indian political organization's provincial ministries resigned in protest at India's entry into the war?",
+      "options": [
+        "The Muslim League",
+        "The Hindu Mahasabha",
+        "The Indian National Congress",
+        "The Unionist Party"
+      ],
+      "answer": 2,
+      "explanation": "Congress ministries that had been elected in 1937 resigned in late 1939 to protest the manner of India's involvement."
+    },
+    {
+      "id": "second-world-war-india-q04",
+      "difficulty": "easy",
+      "q": "Who was the Viceroy of India who declared India's participation in the war in 1939?",
+      "options": [
+        "Lord Irwin",
+        "Lord Wavell",
+        "Lord Mountbatten",
+        "Lord Linlithgow"
+      ],
+      "answer": 3,
+      "explanation": "Lord Linlithgow announced India as a belligerent in September 1939 without consulting Indian leaders."
+    },
+    {
+      "id": "second-world-war-india-q05",
+      "difficulty": "easy",
+      "q": "Against which side did Britain, and therefore India, go to war in 1939?",
+      "options": [
+        "Nazi Germany",
+        "The Soviet Union",
+        "Fascist Italy alone",
+        "Imperial Japan alone"
+      ],
+      "answer": 0,
+      "explanation": "Britain declared war on Nazi Germany in September 1939 following the invasion of Poland."
+    },
+    {
+      "id": "second-world-war-india-q06",
+      "difficulty": "easy",
+      "q": "How did the wartime crisis affect Indian demands for self-rule?",
+      "options": [
+        "It ended all nationalist activity",
+        "It sharpened demands for immediate independence",
+        "It made Indians support British rule",
+        "It had no political effect"
+      ],
+      "answer": 1,
+      "explanation": "The war heightened nationalist frustration and sharpened the demand for immediate independence."
+    },
+    {
+      "id": "second-world-war-india-q07",
+      "difficulty": "easy",
+      "q": "In which year did Congress provincial ministries resign over the war issue?",
+      "options": [
+        "1945",
+        "1942",
+        "1939",
+        "1937"
+      ],
+      "answer": 2,
+      "explanation": "The ministries resigned in late 1939, shortly after the war declaration."
+    },
+    {
+      "id": "second-world-war-india-q08",
+      "difficulty": "easy",
+      "q": "Under which 1935 reform had Congress formed the provincial ministries that resigned in 1939?",
+      "options": [
+        "The Morley-Minto Reforms",
+        "The Indian Councils Act",
+        "The Rowlatt Act",
+        "The Government of India Act 1935"
+      ],
+      "answer": 3,
+      "explanation": "The 1937 provincial elections under the Government of India Act 1935 had brought Congress ministries to power."
+    },
+    {
+      "id": "second-world-war-india-q09",
+      "difficulty": "easy",
+      "q": "What broad global conflict drew India in during 1939?",
+      "options": [
+        "The Second World War",
+        "The First World War",
+        "The Boer War",
+        "The Crimean War"
+      ],
+      "answer": 0,
+      "explanation": "India was drawn into the Second World War by Britain's 1939 declaration."
+    },
+    {
+      "id": "second-world-war-india-q10",
+      "difficulty": "easy",
+      "q": "Indian soldiers during the Second World War served as part of which force?",
+      "options": [
+        "The French Foreign Legion",
+        "The British Indian Army",
+        "The American Expeditionary Force",
+        "The Soviet Red Army"
+      ],
+      "answer": 1,
+      "explanation": "Over two million Indians served in the British Indian Army during the war."
+    },
+    {
+      "id": "second-world-war-india-q11",
+      "difficulty": "medium",
+      "q": "Roughly how many Indians served in the armed forces during the Second World War, making it the largest volunteer army of the era?",
+      "options": [
+        "About 100,000",
+        "About 500,000",
+        "Over 2 million",
+        "Over 10 million"
+      ],
+      "answer": 2,
+      "explanation": "More than two and a half million Indians served, forming the largest volunteer army of the war."
+    },
+    {
+      "id": "second-world-war-india-q12",
+      "difficulty": "medium",
+      "q": "What did the Congress demand as a condition for cooperating with the British war effort?",
+      "options": [
+        "A reduction in taxation alone",
+        "Immediate elections in Britain",
+        "Removal of the Viceroy only",
+        "A clear declaration of war aims and independence after the war"
+      ],
+      "answer": 3,
+      "explanation": "Congress sought an assurance of independence and a statement of war aims, which the British refused."
+    },
+    {
+      "id": "second-world-war-india-q13",
+      "difficulty": "medium",
+      "q": "What was the British offer of August 1940 that Congress rejected, prompting it to later launch the Individual Satyagraha?",
+      "options": [
+        "The August Offer",
+        "The Cripps proposals",
+        "The Cabinet Mission Plan",
+        "The Wavell Plan"
+      ],
+      "answer": 0,
+      "explanation": "Linlithgow's August Offer of 8 August 1940 was rejected; Congress then launched Individual Satyagraha in October 1940."
+    },
+    {
+      "id": "second-world-war-india-q14",
+      "difficulty": "medium",
+      "q": "Who was chosen by Gandhi as the first person to offer Individual Satyagraha in 1940?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Vinoba Bhave",
+        "Sardar Patel",
+        "Maulana Azad"
+      ],
+      "answer": 1,
+      "explanation": "Vinoba Bhave was selected as the first Satyagrahi, followed by Jawaharlal Nehru."
+    },
+    {
+      "id": "second-world-war-india-q15",
+      "difficulty": "medium",
+      "q": "Which famine, partly linked to wartime policies and disruptions, struck India during the Second World War?",
+      "options": [
+        "The Orissa Famine of 1866",
+        "The Madras Famine of 1877",
+        "The Bengal Famine of 1943",
+        "The Deccan Famine of 1791"
+      ],
+      "answer": 2,
+      "explanation": "The Bengal Famine of 1943, worsened by wartime priorities, killed an estimated two to three million people."
+    },
+    {
+      "id": "second-world-war-india-q16",
+      "difficulty": "medium",
+      "q": "Which neighbouring power's advance during the war brought the fighting close to India's eastern frontier?",
+      "options": [
+        "The Soviet Union, in Central Asia",
+        "Germany, after the fall of France",
+        "Italy, in North Africa",
+        "Japan, after the fall of Burma"
+      ],
+      "answer": 3,
+      "explanation": "Japan's conquest of Burma in 1942 brought the war to India's eastern doorstep."
+    },
+    {
+      "id": "second-world-war-india-q17",
+      "difficulty": "medium",
+      "q": "How did the All-India Muslim League's stance differ from Congress on cooperation with the war?",
+      "options": [
+        "The League broadly offered conditional support to the British",
+        "The League launched mass civil disobedience",
+        "The League demanded immediate British withdrawal",
+        "The League resigned all its ministries"
+      ],
+      "answer": 0,
+      "explanation": "The Muslim League adopted a more cooperative posture toward the British war effort than Congress."
+    },
+    {
+      "id": "second-world-war-india-q18",
+      "difficulty": "medium",
+      "q": "Resignation of the Congress ministries left provincial administration in many provinces under what arrangement?",
+      "options": [
+        "An elected interim cabinet",
+        "Direct rule by the Governors",
+        "Control by the Muslim League everywhere",
+        "A national unity government"
+      ],
+      "answer": 1,
+      "explanation": "Governors took over administration directly in provinces where Congress ministries had resigned."
+    },
+    {
+      "id": "second-world-war-india-q19",
+      "difficulty": "medium",
+      "q": "Which later 1942 wartime mission was Britain's attempt to secure Indian cooperation after Japan's advance?",
+      "options": [
+        "The Cabinet Mission",
+        "The Simon Commission",
+        "The Cripps Mission",
+        "The Round Table Conference"
+      ],
+      "answer": 2,
+      "explanation": "The Cripps Mission of 1942 sought Indian support as Japanese forces neared India's borders."
+    },
+    {
+      "id": "second-world-war-india-q20",
+      "difficulty": "medium",
+      "q": "What was the immediate Indian political consequence when negotiations during the war repeatedly failed?",
+      "options": [
+        "The Swadeshi Movement",
+        "The founding of the Congress",
+        "The Partition of Bengal",
+        "The Quit India Movement of 1942"
+      ],
+      "answer": 3,
+      "explanation": "The failure of wartime negotiations culminated in Gandhi's launch of the Quit India Movement in August 1942."
+    },
+    {
+      "id": "second-world-war-india-q21",
+      "difficulty": "medium",
+      "q": "The Muslim League's 1940 resolution demanding separate states was passed during the early years of which war?",
+      "options": [
+        "The Second World War",
+        "The First World War",
+        "The Anglo-Afghan War",
+        "The Korean War"
+      ],
+      "answer": 0,
+      "explanation": "The Lahore Resolution of March 1940 was adopted during the Second World War."
+    },
+    {
+      "id": "second-world-war-india-q22",
+      "difficulty": "medium",
+      "q": "Why did some Indian revolutionaries, including Subhas Chandra Bose, see the war as an opportunity?",
+      "options": [
+        "They expected Britain to win quickly and reward India",
+        "Britain's preoccupation with the war could be exploited for independence",
+        "They wished to strengthen the British Empire",
+        "They sought to join the colonial administration"
+      ],
+      "answer": 1,
+      "explanation": "Bose argued that Britain's wartime difficulty was India's opportunity to press for freedom."
+    },
+    {
+      "id": "second-world-war-india-q23",
+      "difficulty": "hard",
+      "q": "On what date did Viceroy Linlithgow proclaim India a belligerent in the Second World War?",
+      "options": [
+        "15 August 1939",
+        "1 September 1939",
+        "3 September 1939",
+        "26 January 1939"
+      ],
+      "answer": 2,
+      "explanation": "Linlithgow declared India at war on 3 September 1939, the same day Britain declared war on Germany."
+    },
+    {
+      "id": "second-world-war-india-q24",
+      "difficulty": "hard",
+      "q": "What name did Congress give to the day it observed in late 1939 to mark its opposition to the war declaration?",
+      "options": [
+        "Empire Day",
+        "Direct Action Day",
+        "Black Hole Day",
+        "Anti-war or protest resolution at Wardha"
+      ],
+      "answer": 3,
+      "explanation": "The Congress Working Committee met at Wardha and passed resolutions condemning the unconsulted war declaration."
+    },
+    {
+      "id": "second-world-war-india-q25",
+      "difficulty": "hard",
+      "q": "Who became Viceroy in 1943, replacing Linlithgow during the later war years?",
+      "options": [
+        "Lord Wavell",
+        "Lord Mountbatten",
+        "Lord Willingdon",
+        "Lord Reading"
+      ],
+      "answer": 0,
+      "explanation": "Field Marshal Lord Wavell succeeded Linlithgow as Viceroy in October 1943."
+    },
+    {
+      "id": "second-world-war-india-q26",
+      "difficulty": "hard",
+      "q": "The Individual Satyagraha of 1940-41 was designed primarily to achieve what?",
+      "options": [
+        "Seize government buildings",
+        "Assert the right to oppose the war without provoking mass disorder",
+        "Trigger an armed uprising",
+        "Boycott the upcoming elections"
+      ],
+      "answer": 1,
+      "explanation": "Individual Satyagraha was a limited, symbolic protest asserting free speech against the war while avoiding mass agitation."
+    },
+    {
+      "id": "second-world-war-india-q27",
+      "difficulty": "hard",
+      "q": "Which battles on India's eastern frontier in 1944 marked the turning point against the Japanese advance?",
+      "options": [
+        "Panipat and Haldighati",
+        "Plassey and Buxar",
+        "Imphal and Kohima",
+        "Saragarhi and Chillianwala"
+      ],
+      "answer": 2,
+      "explanation": "The 1944 battles of Imphal and Kohima halted the Japanese-INA advance into India."
+    },
+    {
+      "id": "second-world-war-india-q28",
+      "difficulty": "hard",
+      "q": "What was the approximate scholarly estimate of deaths in the 1943 Bengal Famine that occurred amid the war?",
+      "options": [
+        "Around fifty million",
+        "About fifty thousand",
+        "About ten thousand",
+        "Two to three million"
+      ],
+      "answer": 3,
+      "explanation": "Most estimates place Bengal Famine deaths at roughly two to three million, though figures remain debated."
+    },
+    {
+      "id": "second-world-war-india-q29",
+      "difficulty": "hard",
+      "q": "Which Allied leaders' wartime promises of self-determination, such as the Atlantic Charter, were cited by Indian nationalists?",
+      "options": [
+        "Churchill and Roosevelt",
+        "Stalin and Mao",
+        "Hitler and Mussolini",
+        "Tojo and Hirohito"
+      ],
+      "answer": 0,
+      "explanation": "Nationalists invoked the Atlantic Charter signed by Churchill and Roosevelt, which Churchill argued did not apply to India."
+    },
+    {
+      "id": "second-world-war-india-q30",
+      "difficulty": "hard",
+      "q": "What broader long-term effect did Britain's wartime exhaustion have on its hold over India?",
+      "options": [
+        "It strengthened Britain's economic grip",
+        "It weakened Britain financially and hastened decolonization",
+        "It expanded the British Empire",
+        "It had no effect on imperial policy"
+      ],
+      "answer": 1,
+      "explanation": "The war left Britain economically drained and politically less able to sustain colonial rule, hastening independence."
+    }
+  ]
+}

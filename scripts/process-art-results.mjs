@@ -6,8 +6,9 @@ import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..')
-const ids = JSON.parse(readFileSync(join(root, '.art/prompts.json'), 'utf8')).map((p) => p.id)
-const manifestPath = join(root, '.art/manifest.json')
+const category = process.argv[2] || 'mahabharat'
+const ids = JSON.parse(readFileSync(join(root, `.art/${category}.prompts.json`), 'utf8')).map((p) => p.id)
+const manifestPath = join(root, `.art/${category}.manifest.json`)
 
 // Start from any existing manifest so reruns accumulate.
 const byId = new Map()
@@ -15,7 +16,7 @@ if (existsSync(manifestPath)) {
   for (const r of JSON.parse(readFileSync(manifestPath, 'utf8'))) if (r.url) byId.set(r.id, r.url)
 }
 
-for (const file of process.argv.slice(2)) {
+for (const file of process.argv.slice(3)) {
   const raw = JSON.parse(readFileSync(file, 'utf8'))
   const results = raw.result?.results || raw.results || raw // tolerate shapes
   for (const r of results) {

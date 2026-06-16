@@ -1,0 +1,395 @@
+{
+  "cardId": "non-cooperation-movement",
+  "questions": [
+    {
+      "id": "non-cooperation-movement-q01",
+      "difficulty": "easy",
+      "q": "Who launched the Non-Cooperation Movement in 1920?",
+      "options": [
+        "Subhas Chandra Bose",
+        "Bhagat Singh",
+        "Mahatma Gandhi",
+        "Bal Gangadhar Tilak"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi launched the Non-Cooperation Movement in 1920."
+    },
+    {
+      "id": "non-cooperation-movement-q02",
+      "difficulty": "easy",
+      "q": "In which year did the Non-Cooperation Movement begin?",
+      "options": [
+        "1905",
+        "1930",
+        "1942",
+        "1920"
+      ],
+      "answer": 3,
+      "explanation": "The movement was launched in 1920."
+    },
+    {
+      "id": "non-cooperation-movement-q03",
+      "difficulty": "easy",
+      "q": "The Non-Cooperation Movement asked Indians to boycott British what?",
+      "options": [
+        "Festivals",
+        "Institutions and goods",
+        "Languages",
+        "Crops"
+      ],
+      "answer": 1,
+      "explanation": "It called for the boycott of British schools, courts, titles, and goods."
+    },
+    {
+      "id": "non-cooperation-movement-q04",
+      "difficulty": "easy",
+      "q": "The Non-Cooperation Movement transformed the freedom struggle into what kind of movement?",
+      "options": [
+        "A military campaign",
+        "A trade agreement",
+        "A mass movement",
+        "A religious revival"
+      ],
+      "answer": 2,
+      "explanation": "It turned the struggle into a mass movement involving millions of Indians."
+    },
+    {
+      "id": "non-cooperation-movement-q05",
+      "difficulty": "easy",
+      "q": "Which of these were Indians urged to surrender during the Non-Cooperation Movement?",
+      "options": [
+        "Their farmland",
+        "Their houses",
+        "Their religion",
+        "British-conferred titles and honours"
+      ],
+      "answer": 3,
+      "explanation": "Indians were urged to renounce titles and honours conferred by the British."
+    },
+    {
+      "id": "non-cooperation-movement-q06",
+      "difficulty": "easy",
+      "q": "The Non-Cooperation Movement was based on which Gandhian principle?",
+      "options": [
+        "Non-violence",
+        "Armed revolt",
+        "Sabotage",
+        "Foreign alliance"
+      ],
+      "answer": 0,
+      "explanation": "The movement rested on Gandhi's principle of non-violent resistance."
+    },
+    {
+      "id": "non-cooperation-movement-q07",
+      "difficulty": "easy",
+      "q": "Which handspun cloth was promoted as part of the Non-Cooperation Movement?",
+      "options": [
+        "Silk",
+        "Denim",
+        "Khadi",
+        "Wool"
+      ],
+      "answer": 2,
+      "explanation": "The movement promoted khadi, the handspun cloth, as a symbol of self-reliance."
+    },
+    {
+      "id": "non-cooperation-movement-q08",
+      "difficulty": "easy",
+      "q": "Students were encouraged to leave what during the Non-Cooperation Movement?",
+      "options": [
+        "Their villages",
+        "Their families",
+        "The country",
+        "Government schools and colleges"
+      ],
+      "answer": 3,
+      "explanation": "Students were urged to boycott government-run schools and colleges."
+    },
+    {
+      "id": "non-cooperation-movement-q09",
+      "difficulty": "easy",
+      "q": "What was meant to be burned in public bonfires during the Non-Cooperation Movement?",
+      "options": [
+        "Foreign (British) cloth",
+        "Indian newspapers",
+        "Religious books",
+        "Currency notes"
+      ],
+      "answer": 0,
+      "explanation": "Foreign cloth was burned in public bonfires as part of the boycott."
+    },
+    {
+      "id": "non-cooperation-movement-q10",
+      "difficulty": "easy",
+      "q": "The Non-Cooperation Movement was an effort to withdraw Indian what from British rule?",
+      "options": [
+        "Taxes only",
+        "Cooperation and consent",
+        "Soldiers only",
+        "Goods only"
+      ],
+      "answer": 1,
+      "explanation": "Its core idea was to withdraw Indian cooperation and consent from the colonial government."
+    },
+    {
+      "id": "non-cooperation-movement-q11",
+      "difficulty": "medium",
+      "q": "At which 1920 Congress session was the Non-Cooperation programme adopted?",
+      "options": [
+        "Surat session",
+        "Lahore session",
+        "Karachi session",
+        "Nagpur session"
+      ],
+      "answer": 3,
+      "explanation": "The Nagpur Congress session of December 1920 formally adopted Non-Cooperation."
+    },
+    {
+      "id": "non-cooperation-movement-q12",
+      "difficulty": "medium",
+      "q": "The Non-Cooperation Movement combined with which Muslim-led agitation?",
+      "options": [
+        "The Khilafat movement",
+        "The Wahabi movement",
+        "The Aligarh movement",
+        "The Faraizi movement"
+      ],
+      "answer": 0,
+      "explanation": "It was launched in alliance with the Khilafat movement."
+    },
+    {
+      "id": "non-cooperation-movement-q13",
+      "difficulty": "medium",
+      "q": "Which two 'wrongs' did Gandhi cite as reasons for launching Non-Cooperation?",
+      "options": [
+        "The salt and land tax wrongs",
+        "The Khilafat and Punjab (Jallianwala Bagh) wrongs",
+        "The Bengal and Bombay wrongs",
+        "The press and education wrongs"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi cited the Khilafat issue and the Punjab wrong of Jallianwala Bagh."
+    },
+    {
+      "id": "non-cooperation-movement-q14",
+      "difficulty": "medium",
+      "q": "The visit of which royal commission or person was boycotted during the Non-Cooperation Movement in 1921?",
+      "options": [
+        "The Simon Commission",
+        "Lord Mountbatten",
+        "The Prince of Wales",
+        "The Cabinet Mission"
+      ],
+      "answer": 2,
+      "explanation": "The Prince of Wales's 1921 visit was met with boycotts and a hartal."
+    },
+    {
+      "id": "non-cooperation-movement-q15",
+      "difficulty": "medium",
+      "q": "Which honorific title did Gandhi himself renounce as part of the Non-Cooperation Movement?",
+      "options": [
+        "The Kaiser-i-Hind medal",
+        "Knighthood",
+        "The Bharat Ratna",
+        "A seat in the Assembly"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi returned the Kaiser-i-Hind medal he had received for his South Africa service."
+    },
+    {
+      "id": "non-cooperation-movement-q16",
+      "difficulty": "medium",
+      "q": "Which 1922 incident led Gandhi to call off the Non-Cooperation Movement?",
+      "options": [
+        "The Kakori conspiracy",
+        "The Jallianwala Bagh massacre",
+        "The Chauri Chaura incident",
+        "The Surat split"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi suspended the movement after the violence at Chauri Chaura in February 1922."
+    },
+    {
+      "id": "non-cooperation-movement-q17",
+      "difficulty": "medium",
+      "q": "At Chauri Chaura, which building did the mob set ablaze, prompting the movement's withdrawal?",
+      "options": [
+        "A court house",
+        "A police station",
+        "A railway station",
+        "A school"
+      ],
+      "answer": 1,
+      "explanation": "An angry crowd set fire to a police station at Chauri Chaura, killing policemen inside."
+    },
+    {
+      "id": "non-cooperation-movement-q18",
+      "difficulty": "medium",
+      "q": "Many lawyers, including Motilal Nehru and C. R. Das, did what during the Non-Cooperation Movement?",
+      "options": [
+        "Left for England",
+        "Joined the British army",
+        "Founded a bank",
+        "Gave up their legal practice"
+      ],
+      "answer": 3,
+      "explanation": "Prominent lawyers gave up lucrative practices to support the boycott of courts."
+    },
+    {
+      "id": "non-cooperation-movement-q19",
+      "difficulty": "medium",
+      "q": "Which national educational institution was founded in 1920 amid the Non-Cooperation Movement?",
+      "options": [
+        "Banaras Hindu University",
+        "Aligarh Muslim University",
+        "Jamia Millia Islamia",
+        "Calcutta University"
+      ],
+      "answer": 2,
+      "explanation": "Jamia Millia Islamia was founded in 1920 as a national institution during the movement."
+    },
+    {
+      "id": "non-cooperation-movement-q20",
+      "difficulty": "medium",
+      "q": "Gandhi promised that Swaraj could be attained within what timeframe if the movement succeeded?",
+      "options": [
+        "One year",
+        "Five years",
+        "Ten years",
+        "Twenty years"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi famously promised Swaraj within one year if Non-Cooperation was fully carried out."
+    },
+    {
+      "id": "non-cooperation-movement-q21",
+      "difficulty": "medium",
+      "q": "Which Congress leader, later a Forward Bloc founder, resigned a top civil-service path to join such struggles?",
+      "options": [
+        "Rajendra Prasad",
+        "Sardar Patel",
+        "Maulana Azad",
+        "Subhas Chandra Bose"
+      ],
+      "answer": 3,
+      "explanation": "Subhas Chandra Bose resigned from the Indian Civil Service to join the national movement."
+    },
+    {
+      "id": "non-cooperation-movement-q22",
+      "difficulty": "medium",
+      "q": "The Non-Cooperation Movement saw a major boycott of which 1920 colonial reform institution?",
+      "options": [
+        "The princely durbars",
+        "The reformed legislative councils",
+        "The Indian railways",
+        "The postal service"
+      ],
+      "answer": 1,
+      "explanation": "Indians were urged to boycott the councils set up under the 1919 reforms."
+    },
+    {
+      "id": "non-cooperation-movement-q23",
+      "difficulty": "hard",
+      "q": "In which present-day district is Chauri Chaura, where the movement was halted, located?",
+      "options": [
+        "Allahabad",
+        "Gorakhpur",
+        "Meerut",
+        "Kanpur"
+      ],
+      "answer": 1,
+      "explanation": "Chauri Chaura lies in the Gorakhpur district of Uttar Pradesh."
+    },
+    {
+      "id": "non-cooperation-movement-q24",
+      "difficulty": "hard",
+      "q": "On what date in 1922 did the Chauri Chaura incident occur, leading to the movement's suspension?",
+      "options": [
+        "13 April 1922",
+        "10 May 1922",
+        "8 August 1922",
+        "4 February 1922"
+      ],
+      "answer": 3,
+      "explanation": "The Chauri Chaura incident took place on 4 February 1922."
+    },
+    {
+      "id": "non-cooperation-movement-q25",
+      "difficulty": "hard",
+      "q": "After calling off Non-Cooperation, Gandhi was arrested and tried in 1922 in which case?",
+      "options": [
+        "The Great Trial at Ahmedabad for sedition",
+        "The Kakori case",
+        "The Meerut Conspiracy case",
+        "The Lahore Conspiracy case"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi was tried for sedition in the 1922 'Great Trial' at Ahmedabad and sentenced to six years."
+    },
+    {
+      "id": "non-cooperation-movement-q26",
+      "difficulty": "hard",
+      "q": "Which Congress committee earlier drafted the Non-Cooperation resolution at the 1920 Calcutta special session?",
+      "options": [
+        "The Working Committee under Patel",
+        "The session under Annie Besant",
+        "The special session presided over by Lala Lajpat Rai",
+        "The session under Tilak"
+      ],
+      "answer": 2,
+      "explanation": "The Calcutta special session of September 1920, presided over by Lala Lajpat Rai, first approved Non-Cooperation."
+    },
+    {
+      "id": "non-cooperation-movement-q27",
+      "difficulty": "hard",
+      "q": "The Non-Cooperation Movement encouraged the spread of which arbitration bodies to replace British courts?",
+      "options": [
+        "Zamindari courts",
+        "Military tribunals",
+        "Company councils",
+        "Panchayats and national tribunals"
+      ],
+      "answer": 3,
+      "explanation": "People were urged to settle disputes through panchayats and national tribunals instead of British courts."
+    },
+    {
+      "id": "non-cooperation-movement-q28",
+      "difficulty": "hard",
+      "q": "Which Assam tea-garden episode of 1921 became a notable event linked to the Non-Cooperation period?",
+      "options": [
+        "The Moplah uprising",
+        "The Chandpur exodus of plantation labourers",
+        "The Mappila riots",
+        "The Tebhaga agitation"
+      ],
+      "answer": 1,
+      "explanation": "The 1921 exodus of Assam tea-garden workers and the Chandpur firing became flashpoints during the movement."
+    },
+    {
+      "id": "non-cooperation-movement-q29",
+      "difficulty": "hard",
+      "q": "Which Akali agitation in Punjab ran parallel to the Non-Cooperation Movement in the early 1920s?",
+      "options": [
+        "The Gurdwara Reform (Akali) movement",
+        "The Singh Sabha founding",
+        "The Kuka movement",
+        "The Nirankari movement"
+      ],
+      "answer": 0,
+      "explanation": "The Akali movement for gurdwara reform in Punjab overlapped with Non-Cooperation in the early 1920s."
+    },
+    {
+      "id": "non-cooperation-movement-q30",
+      "difficulty": "hard",
+      "q": "Disillusioned Congressmen who wanted to enter councils after the movement's end formed which party?",
+      "options": [
+        "The Forward Bloc",
+        "The Swaraj Party",
+        "The Congress Socialist Party",
+        "The Justice Party"
+      ],
+      "answer": 1,
+      "explanation": "Motilal Nehru and C. R. Das founded the Swaraj Party in 1923 to contest council elections after Non-Cooperation ended."
+    }
+  ]
+}

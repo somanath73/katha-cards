@@ -1,0 +1,395 @@
+{
+  "cardId": "khadi",
+  "questions": [
+    {
+      "id": "khadi-q01",
+      "difficulty": "easy",
+      "q": "Which Indian leader most famously promoted khadi?",
+      "options": [
+        "Subhas Chandra Bose",
+        "Bhagat Singh",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi"
+      ],
+      "answer": 3,
+      "explanation": "Gandhi promoted khadi as a symbol of self-reliance and resistance to colonial textiles."
+    },
+    {
+      "id": "khadi-q02",
+      "difficulty": "easy",
+      "q": "Khadi is best described as a fabric that is how made?",
+      "options": [
+        "Machine-printed",
+        "Handspun and handwoven",
+        "Factory dyed only",
+        "Imported ready-made"
+      ],
+      "answer": 1,
+      "explanation": "Khadi is cloth that is both handspun and handwoven by hand."
+    },
+    {
+      "id": "khadi-q03",
+      "difficulty": "easy",
+      "q": "Khadi became a symbol of resistance against the import of which British product?",
+      "options": [
+        "Tea",
+        "Steel",
+        "Textiles and cloth",
+        "Coal"
+      ],
+      "answer": 2,
+      "explanation": "Khadi resisted British textile imports that had undermined Indian handlooms."
+    },
+    {
+      "id": "khadi-q04",
+      "difficulty": "easy",
+      "q": "Wearing khadi during the freedom struggle was seen as a badge of what?",
+      "options": [
+        "Foreign loyalty",
+        "Royal status",
+        "Religious office",
+        "National identity"
+      ],
+      "answer": 3,
+      "explanation": "Wearing khadi marked a person as part of the national movement."
+    },
+    {
+      "id": "khadi-q05",
+      "difficulty": "easy",
+      "q": "Which simple device is used to make the yarn for khadi?",
+      "options": [
+        "The charkha (spinning wheel)",
+        "The power loom",
+        "The sewing machine",
+        "The cotton gin engine"
+      ],
+      "answer": 0,
+      "explanation": "Yarn for khadi is spun on the charkha, the hand-operated spinning wheel."
+    },
+    {
+      "id": "khadi-q06",
+      "difficulty": "easy",
+      "q": "Khadi was promoted as a means of economic what?",
+      "options": [
+        "Foreign dependence",
+        "Industrial monopoly",
+        "Self-reliance",
+        "Tax evasion"
+      ],
+      "answer": 2,
+      "explanation": "Khadi embodied economic self-reliance, or swadeshi."
+    },
+    {
+      "id": "khadi-q07",
+      "difficulty": "easy",
+      "q": "Khadi production was meant especially to help which section of India?",
+      "options": [
+        "British merchants",
+        "Urban factory owners",
+        "Princely rulers",
+        "The rural poor"
+      ],
+      "answer": 3,
+      "explanation": "Khadi gave supplementary income and dignity to India's rural poor."
+    },
+    {
+      "id": "khadi-q08",
+      "difficulty": "easy",
+      "q": "Which natural fibre is most commonly used to make khadi?",
+      "options": [
+        "Cotton",
+        "Nylon",
+        "Polyester",
+        "Acrylic"
+      ],
+      "answer": 0,
+      "explanation": "Khadi is most commonly made from handspun cotton, though silk and wool khadi also exist."
+    },
+    {
+      "id": "khadi-q09",
+      "difficulty": "easy",
+      "q": "Promoting khadi was closely tied to boycotting which kind of cloth?",
+      "options": [
+        "Handwoven Indian cloth",
+        "Foreign mill-made cloth",
+        "Temple cloth",
+        "Khadi itself"
+      ],
+      "answer": 1,
+      "explanation": "The khadi campaign went hand in hand with boycotting foreign mill-made cloth."
+    },
+    {
+      "id": "khadi-q10",
+      "difficulty": "easy",
+      "q": "Khadi is most strongly associated with which broader campaign for Indian-made goods?",
+      "options": [
+        "The Round Table Conferences",
+        "The Cabinet Mission",
+        "The Cripps Mission",
+        "The Swadeshi movement"
+      ],
+      "answer": 3,
+      "explanation": "Khadi was central to the Swadeshi ideal of using Indian-made goods."
+    },
+    {
+      "id": "khadi-q11",
+      "difficulty": "medium",
+      "q": "Which organization did Gandhi help establish in 1925 to promote khadi production?",
+      "options": [
+        "The All India Spinners' Association",
+        "The Indian National Trade Union Congress",
+        "The Servants of India Society",
+        "The Forward Bloc"
+      ],
+      "answer": 0,
+      "explanation": "The All India Spinners' Association (Akhil Bharat Charkha Sangh) was founded in 1925 to promote khadi."
+    },
+    {
+      "id": "khadi-q12",
+      "difficulty": "medium",
+      "q": "During which 1920s movement did the burning of foreign cloth and adoption of khadi become widespread?",
+      "options": [
+        "The Quit India Movement",
+        "The Non-Cooperation Movement",
+        "The Home Rule Movement",
+        "The Champaran Satyagraha"
+      ],
+      "answer": 1,
+      "explanation": "Khadi adoption surged during the Non-Cooperation Movement of 1920-22, with bonfires of foreign cloth."
+    },
+    {
+      "id": "khadi-q13",
+      "difficulty": "medium",
+      "q": "Khadi was promoted as a revival of which earlier movement's call for indigenous goods?",
+      "options": [
+        "The 1857 revolt",
+        "The Khilafat movement",
+        "The 1905 Swadeshi movement",
+        "The Home Rule League"
+      ],
+      "answer": 2,
+      "explanation": "Khadi drew on the Swadeshi spirit first roused by the 1905 partition of Bengal."
+    },
+    {
+      "id": "khadi-q14",
+      "difficulty": "medium",
+      "q": "Gandhi often described the act of spinning khadi yarn as a form of what?",
+      "options": [
+        "A daily discipline and constructive work",
+        "Military training",
+        "Political voting",
+        "Tax payment"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi saw spinning as constructive work and a daily discipline of self-reliance."
+    },
+    {
+      "id": "khadi-q15",
+      "difficulty": "medium",
+      "q": "For many Congress workers, regular spinning of khadi yarn became a what?",
+      "options": [
+        "A paid government job",
+        "A criminal offence",
+        "A required form of party membership contribution",
+        "A religious sacrament only"
+      ],
+      "answer": 2,
+      "explanation": "Congress at times required members to spin and contribute yarn as a sign of commitment."
+    },
+    {
+      "id": "khadi-q16",
+      "difficulty": "medium",
+      "q": "Khadi clothing became a visible uniform of which political organization?",
+      "options": [
+        "The Muslim League",
+        "The Indian National Congress",
+        "The British Indian Army",
+        "The Justice Party"
+      ],
+      "answer": 1,
+      "explanation": "White khadi became the recognizable dress of Congress workers and leaders."
+    },
+    {
+      "id": "khadi-q17",
+      "difficulty": "medium",
+      "q": "Khadi was intended to address rural unemployment by providing what?",
+      "options": [
+        "Free land grants",
+        "Factory jobs in cities",
+        "Overseas migration",
+        "Supplementary income from spinning and weaving"
+      ],
+      "answer": 3,
+      "explanation": "Khadi gave villagers extra income through spinning and weaving in their spare time."
+    },
+    {
+      "id": "khadi-q18",
+      "difficulty": "medium",
+      "q": "Which colour of khadi became iconic as the attire of nationalist leaders?",
+      "options": [
+        "Bright red",
+        "Royal blue",
+        "White (undyed)",
+        "Jet black"
+      ],
+      "answer": 2,
+      "explanation": "Plain white khadi became the iconic dress of the freedom movement's leaders."
+    },
+    {
+      "id": "khadi-q19",
+      "difficulty": "medium",
+      "q": "Khadi was promoted as part of Gandhi's wider programme known as what?",
+      "options": [
+        "The Constructive Programme",
+        "The Forward Policy",
+        "The Drain Theory",
+        "The Doctrine of Lapse"
+      ],
+      "answer": 0,
+      "explanation": "Khadi was a key element of Gandhi's Constructive Programme for nation-building."
+    },
+    {
+      "id": "khadi-q20",
+      "difficulty": "medium",
+      "q": "Khadi resistance struck at the profits of textile mills based mainly in which country?",
+      "options": [
+        "France",
+        "Germany",
+        "Japan",
+        "Britain"
+      ],
+      "answer": 3,
+      "explanation": "Khadi was a direct economic blow to British textile mills, especially in Lancashire."
+    },
+    {
+      "id": "khadi-q21",
+      "difficulty": "medium",
+      "q": "Which English county's textile industry was notably hurt by India's khadi boycott of foreign cloth?",
+      "options": [
+        "Yorkshire",
+        "Lancashire",
+        "Cornwall",
+        "Kent"
+      ],
+      "answer": 1,
+      "explanation": "The Lancashire cotton industry was significantly affected by the Indian boycott of foreign cloth."
+    },
+    {
+      "id": "khadi-q22",
+      "difficulty": "medium",
+      "q": "Khadi and the spinning programme aimed to make villages more economically what?",
+      "options": [
+        "Export-driven",
+        "Self-sufficient",
+        "Dependent on imports",
+        "Urbanized"
+      ],
+      "answer": 1,
+      "explanation": "Khadi aimed at making Indian villages economically self-sufficient."
+    },
+    {
+      "id": "khadi-q23",
+      "difficulty": "hard",
+      "q": "Which body succeeded earlier organizations to oversee khadi after independence?",
+      "options": [
+        "The Planning Commission",
+        "The Reserve Bank of India",
+        "The University Grants Commission",
+        "The Khadi and Village Industries Commission"
+      ],
+      "answer": 3,
+      "explanation": "The Khadi and Village Industries Commission (KVIC) was set up in 1956 to promote khadi and village industries."
+    },
+    {
+      "id": "khadi-q24",
+      "difficulty": "hard",
+      "q": "In which year was the All India Spinners' Association founded to coordinate khadi work?",
+      "options": [
+        "1925",
+        "1915",
+        "1935",
+        "1947"
+      ],
+      "answer": 0,
+      "explanation": "The All India Spinners' Association was founded in 1925."
+    },
+    {
+      "id": "khadi-q25",
+      "difficulty": "hard",
+      "q": "Gandhi argued that khadi linked the educated classes with which group through shared labour?",
+      "options": [
+        "The princely rulers",
+        "British administrators",
+        "The masses of the poor",
+        "Foreign investors"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi saw khadi as a bond uniting the educated with the poorest masses through manual work."
+    },
+    {
+      "id": "khadi-q26",
+      "difficulty": "hard",
+      "q": "Modern rules generally reserve the term 'khadi' for cloth where both spinning and weaving are done how?",
+      "options": [
+        "By steam power",
+        "By electric looms",
+        "By imported machinery",
+        "By hand"
+      ],
+      "answer": 3,
+      "explanation": "Genuine khadi requires both hand-spinning and hand-weaving, distinguishing it from mill cloth."
+    },
+    {
+      "id": "khadi-q27",
+      "difficulty": "hard",
+      "q": "Khadi differs from ordinary handloom cloth chiefly because its yarn must also be what?",
+      "options": [
+        "Machine-spun",
+        "Hand-spun",
+        "Imported",
+        "Synthetic"
+      ],
+      "answer": 1,
+      "explanation": "Unlike general handloom, khadi requires the yarn itself to be hand-spun, not just hand-woven."
+    },
+    {
+      "id": "khadi-q28",
+      "difficulty": "hard",
+      "q": "Gandhi viewed the promotion of khadi partly as a remedy for the decline of which traditional industry under colonialism?",
+      "options": [
+        "India's handloom and cottage textile industry",
+        "India's shipbuilding industry",
+        "India's mining industry",
+        "India's tea industry"
+      ],
+      "answer": 0,
+      "explanation": "Khadi sought to revive India's handloom and cottage textile industry ruined under colonial policy."
+    },
+    {
+      "id": "khadi-q29",
+      "difficulty": "hard",
+      "q": "Which early national flag design carried a symbol directly tied to the khadi and spinning ideal?",
+      "options": [
+        "A flag with a lion",
+        "The flag bearing the charkha (spinning wheel)",
+        "A flag with a crescent only",
+        "A flag with crossed swords"
+      ],
+      "answer": 1,
+      "explanation": "The pre-1947 Congress flag featured the charkha, the spinning wheel behind khadi."
+    },
+    {
+      "id": "khadi-q30",
+      "difficulty": "hard",
+      "q": "Khadi's emphasis on decentralized production reflected Gandhi's preference for what kind of economy?",
+      "options": [
+        "A centrally planned heavy-industry economy",
+        "A free-trade export economy",
+        "A village-based, decentralized economy",
+        "A colonial plantation economy"
+      ],
+      "answer": 2,
+      "explanation": "Khadi expressed Gandhi's vision of a decentralized, village-centred economy over large industry."
+    }
+  ]
+}

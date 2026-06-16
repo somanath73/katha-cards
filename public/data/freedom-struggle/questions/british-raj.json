@@ -1,0 +1,395 @@
+{
+  "cardId": "british-raj",
+  "questions": [
+    {
+      "id": "british-raj-q01",
+      "difficulty": "easy",
+      "q": "The British Raj began after which major Indian uprising?",
+      "options": [
+        "The Swadeshi Movement",
+        "The Quit India Movement",
+        "The Revolt of 1857",
+        "The Battle of Plassey"
+      ],
+      "answer": 2,
+      "explanation": "Direct Crown rule, the British Raj, began in the aftermath of the Revolt of 1857."
+    },
+    {
+      "id": "british-raj-q02",
+      "difficulty": "easy",
+      "q": "Which Act of 1858 transferred control of India to the British Crown?",
+      "options": [
+        "Regulating Act 1773",
+        "Indian Councils Act 1861",
+        "Pitt's India Act 1784",
+        "Government of India Act 1858"
+      ],
+      "answer": 3,
+      "explanation": "The Government of India Act 1858 ended Company rule and began direct Crown rule."
+    },
+    {
+      "id": "british-raj-q03",
+      "difficulty": "easy",
+      "q": "Before the Raj, India had been governed by which body?",
+      "options": [
+        "The British East India Company",
+        "The Mughal Empire",
+        "The Maratha Confederacy",
+        "The French East India Company"
+      ],
+      "answer": 0,
+      "explanation": "The British East India Company administered much of India before the Crown took over in 1858."
+    },
+    {
+      "id": "british-raj-q04",
+      "difficulty": "easy",
+      "q": "Which British monarch was proclaimed Empress of India in 1877?",
+      "options": [
+        "Queen Elizabeth I",
+        "Queen Victoria",
+        "Queen Anne",
+        "Queen Mary"
+      ],
+      "answer": 1,
+      "explanation": "Queen Victoria was proclaimed Empress of India in 1877."
+    },
+    {
+      "id": "british-raj-q05",
+      "difficulty": "easy",
+      "q": "The senior British official who governed India on behalf of the Crown was called the what?",
+      "options": [
+        "Prime Minister",
+        "Chancellor",
+        "Viceroy",
+        "Resident"
+      ],
+      "answer": 2,
+      "explanation": "The Crown's chief representative in India was titled the Viceroy and Governor-General."
+    },
+    {
+      "id": "british-raj-q06",
+      "difficulty": "easy",
+      "q": "The British Raj formally ended in which year?",
+      "options": [
+        "1857",
+        "1919",
+        "1950",
+        "1947"
+      ],
+      "answer": 3,
+      "explanation": "The British Raj ended with Indian independence in 1947."
+    },
+    {
+      "id": "british-raj-q07",
+      "difficulty": "easy",
+      "q": "The word 'Raj' in 'British Raj' means what?",
+      "options": [
+        "Rule or reign",
+        "Tax",
+        "Army",
+        "Council"
+      ],
+      "answer": 0,
+      "explanation": "'Raj' is a Hindi word meaning rule or reign."
+    },
+    {
+      "id": "british-raj-q08",
+      "difficulty": "easy",
+      "q": "The grand ceremonial assemblies held to display imperial authority during the Raj were called what?",
+      "options": [
+        "Satyagrahas",
+        "Durbars",
+        "Sabhas",
+        "Panchayats"
+      ],
+      "answer": 1,
+      "explanation": "Imperial Durbars were grand ceremonies, the most famous being the Delhi Durbars."
+    },
+    {
+      "id": "british-raj-q09",
+      "difficulty": "easy",
+      "q": "Under the British Raj, the capital of British India was moved in 1911 from Calcutta to which city?",
+      "options": [
+        "Bombay",
+        "Madras",
+        "Delhi",
+        "Lahore"
+      ],
+      "answer": 2,
+      "explanation": "The capital was shifted from Calcutta to Delhi in 1911."
+    },
+    {
+      "id": "british-raj-q10",
+      "difficulty": "easy",
+      "q": "The 1858 transfer of power to the Crown was accompanied by a famous proclamation issued in the name of which monarch?",
+      "options": [
+        "King George V",
+        "King Edward VII",
+        "King William IV",
+        "Queen Victoria"
+      ],
+      "answer": 3,
+      "explanation": "Queen Victoria's Proclamation of 1858 announced the principles of the new Crown government."
+    },
+    {
+      "id": "british-raj-q11",
+      "difficulty": "medium",
+      "q": "Who was the first Viceroy of India under the British Raj?",
+      "options": [
+        "Lord Canning",
+        "Lord Curzon",
+        "Lord Dalhousie",
+        "Lord Ripon"
+      ],
+      "answer": 0,
+      "explanation": "Lord Canning became the first Viceroy of India in 1858."
+    },
+    {
+      "id": "british-raj-q12",
+      "difficulty": "medium",
+      "q": "The London-based minister responsible for Indian affairs during the Raj was titled what?",
+      "options": [
+        "Lord Chancellor",
+        "Secretary of State for India",
+        "Home Secretary",
+        "Foreign Secretary"
+      ],
+      "answer": 1,
+      "explanation": "The Secretary of State for India in London oversaw Indian administration after 1858."
+    },
+    {
+      "id": "british-raj-q13",
+      "difficulty": "medium",
+      "q": "Which 1877 ceremony in Delhi proclaimed Queen Victoria Empress of India?",
+      "options": [
+        "The Coronation Durbar of 1911",
+        "The Lucknow Pact",
+        "The Imperial Assemblage",
+        "The Simla Conference"
+      ],
+      "answer": 2,
+      "explanation": "The Imperial Assemblage of 1877, organized by Lord Lytton, proclaimed Victoria's new title."
+    },
+    {
+      "id": "british-raj-q14",
+      "difficulty": "medium",
+      "q": "The Royal Titles Act of 1876 conferred the title 'Empress of India' on Queen Victoria under which British Prime Minister?",
+      "options": [
+        "William Gladstone",
+        "Robert Peel",
+        "Lord Palmerston",
+        "Benjamin Disraeli"
+      ],
+      "answer": 3,
+      "explanation": "Benjamin Disraeli's government passed the Royal Titles Act of 1876 making Victoria Empress of India."
+    },
+    {
+      "id": "british-raj-q15",
+      "difficulty": "medium",
+      "q": "During the Raj, the provincial elite Indian civil servants belonged to which prestigious service?",
+      "options": [
+        "Indian Civil Service",
+        "Indian Police Service",
+        "Royal Indian Army",
+        "Indian Foreign Service"
+      ],
+      "answer": 0,
+      "explanation": "The Indian Civil Service (ICS) was the elite administrative corps of the Raj."
+    },
+    {
+      "id": "british-raj-q16",
+      "difficulty": "medium",
+      "q": "The 1858 Act abolished which Company body that had shared control of Indian affairs?",
+      "options": [
+        "The Privy Council",
+        "The Board of Control and Court of Directors",
+        "The House of Lords",
+        "The Star Chamber"
+      ],
+      "answer": 1,
+      "explanation": "The Act dissolved the Company's Court of Directors and the Board of Control in favour of the new India Office."
+    },
+    {
+      "id": "british-raj-q17",
+      "difficulty": "medium",
+      "q": "Which 1911 event marked the visit of King George V to India during the Raj?",
+      "options": [
+        "The Imperial Assemblage",
+        "The Lucknow Pact",
+        "The Delhi Durbar",
+        "The Round Table Conference"
+      ],
+      "answer": 2,
+      "explanation": "The Delhi Durbar of 1911 honoured the visiting King-Emperor George V, who also announced the capital's shift to Delhi."
+    },
+    {
+      "id": "british-raj-q18",
+      "difficulty": "medium",
+      "q": "Under the Raj, princely states ruled by Indian princes were bound to the Crown through what relationship?",
+      "options": [
+        "Federation",
+        "Annexation",
+        "Dominion",
+        "Paramountcy"
+      ],
+      "answer": 3,
+      "explanation": "The doctrine of paramountcy made the Crown the supreme authority over the princely states."
+    },
+    {
+      "id": "british-raj-q19",
+      "difficulty": "medium",
+      "q": "Which 1935 Act was one of the last major constitutional reforms enacted during the Raj?",
+      "options": [
+        "Government of India Act 1935",
+        "Indian Councils Act 1861",
+        "Rowlatt Act 1919",
+        "Charter Act 1833"
+      ],
+      "answer": 0,
+      "explanation": "The Government of India Act 1935 introduced provincial autonomy and was a key late reform of the Raj."
+    },
+    {
+      "id": "british-raj-q20",
+      "difficulty": "medium",
+      "q": "The British Raj ruled directly over roughly what proportion of the subcontinent's territory, with the rest under princely states?",
+      "options": [
+        "All of it",
+        "About three-fifths",
+        "About one-tenth",
+        "About one-third"
+      ],
+      "answer": 1,
+      "explanation": "British India directly governed roughly three-fifths of the subcontinent; the rest was princely states under paramountcy."
+    },
+    {
+      "id": "british-raj-q21",
+      "difficulty": "medium",
+      "q": "The summer capital of the British Raj, where the government moved during hot months, was which hill station?",
+      "options": [
+        "Darjeeling",
+        "Ooty",
+        "Simla",
+        "Nainital"
+      ],
+      "answer": 2,
+      "explanation": "Simla (Shimla) served as the summer capital of the British Raj."
+    },
+    {
+      "id": "british-raj-q22",
+      "difficulty": "medium",
+      "q": "Which London-based department administered Indian affairs after the 1858 transfer?",
+      "options": [
+        "The Colonial Office",
+        "The Foreign Office",
+        "The War Office",
+        "The India Office"
+      ],
+      "answer": 3,
+      "explanation": "The India Office in London was created to manage Indian administration under the Secretary of State for India."
+    },
+    {
+      "id": "british-raj-q23",
+      "difficulty": "hard",
+      "q": "Queen Victoria's Proclamation transferring power to the Crown was read out in India in which month and year?",
+      "options": [
+        "November 1858",
+        "May 1857",
+        "January 1858",
+        "August 1859"
+      ],
+      "answer": 0,
+      "explanation": "Victoria's Proclamation was publicly read in India in November 1858, notably at Allahabad."
+    },
+    {
+      "id": "british-raj-q24",
+      "difficulty": "hard",
+      "q": "The Government of India Act 1858 created a new advisory body in London called what?",
+      "options": [
+        "The Board of Trade",
+        "The Council of India",
+        "The Privy Council of India",
+        "The Imperial Legislative Council"
+      ],
+      "answer": 1,
+      "explanation": "The Act established the Council of India to advise the Secretary of State for India in London."
+    },
+    {
+      "id": "british-raj-q25",
+      "difficulty": "hard",
+      "q": "Which Viceroy presided over the 1877 proclamation of Victoria as Empress of India?",
+      "options": [
+        "Lord Canning",
+        "Lord Mayo",
+        "Lord Lytton",
+        "Lord Northbrook"
+      ],
+      "answer": 2,
+      "explanation": "Lord Lytton was Viceroy when the Imperial Assemblage of 1877 proclaimed Victoria Empress."
+    },
+    {
+      "id": "british-raj-q26",
+      "difficulty": "hard",
+      "q": "The Indian Councils Act of which year first introduced a limited Indian advisory presence in the legislative process under the Raj?",
+      "options": [
+        "1858",
+        "1892",
+        "1909",
+        "1861"
+      ],
+      "answer": 3,
+      "explanation": "The Indian Councils Act 1861 allowed Indians to be nominated to legislative councils, a first step under the Raj."
+    },
+    {
+      "id": "british-raj-q27",
+      "difficulty": "hard",
+      "q": "The Morley-Minto Reforms, which expanded Indian participation under the Raj, were enacted in which year?",
+      "options": [
+        "1909",
+        "1892",
+        "1919",
+        "1935"
+      ],
+      "answer": 0,
+      "explanation": "The Indian Councils Act of 1909, the Morley-Minto Reforms, expanded the legislative councils and introduced separate electorates."
+    },
+    {
+      "id": "british-raj-q28",
+      "difficulty": "hard",
+      "q": "Which 1919 Act, the Montagu-Chelmsford Reforms, introduced 'dyarchy' in the provinces of British India?",
+      "options": [
+        "Rowlatt Act 1919",
+        "Government of India Act 1919",
+        "Government of India Act 1935",
+        "Indian Councils Act 1909"
+      ],
+      "answer": 1,
+      "explanation": "The Government of India Act 1919 (Montagu-Chelmsford Reforms) introduced dyarchy in the provinces."
+    },
+    {
+      "id": "british-raj-q29",
+      "difficulty": "hard",
+      "q": "Lord Mountbatten, the last person to hold supreme authority for the Crown in India, served as Viceroy and then briefly in what role after August 1947?",
+      "options": [
+        "President of India",
+        "Prime Minister of India",
+        "Governor-General of independent India",
+        "Viceroy of Pakistan"
+      ],
+      "answer": 2,
+      "explanation": "Lord Mountbatten became the first Governor-General of independent India after the Raj ended in 1947."
+    },
+    {
+      "id": "british-raj-q30",
+      "difficulty": "hard",
+      "q": "The Indian Independence Act that wound up the British Raj was passed by the British Parliament in which year?",
+      "options": [
+        "1935",
+        "1945",
+        "1950",
+        "1947"
+      ],
+      "answer": 3,
+      "explanation": "The Indian Independence Act 1947 provided for the end of the Raj and the creation of India and Pakistan."
+    }
+  ]
+}

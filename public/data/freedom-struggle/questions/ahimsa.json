@@ -1,0 +1,395 @@
+{
+  "cardId": "ahimsa",
+  "questions": [
+    {
+      "id": "ahimsa-q01",
+      "difficulty": "easy",
+      "q": "What does the term 'ahimsa' mean?",
+      "options": [
+        "Non-violence",
+        "Self-rule",
+        "Civil disobedience",
+        "Boycott of goods"
+      ],
+      "answer": 0,
+      "explanation": "Ahimsa is a Sanskrit term meaning non-violence or non-injury to all living beings."
+    },
+    {
+      "id": "ahimsa-q02",
+      "difficulty": "easy",
+      "q": "Which leader made ahimsa the moral foundation of India's mass freedom movement?",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Bhagat Singh",
+        "Bal Gangadhar Tilak"
+      ],
+      "answer": 1,
+      "explanation": "Mahatma Gandhi placed ahimsa at the centre of his political philosophy and the campaigns he led."
+    },
+    {
+      "id": "ahimsa-q03",
+      "difficulty": "easy",
+      "q": "Ahimsa is most closely paired with which other Gandhian principle?",
+      "options": [
+        "Swadeshi",
+        "Khilafat",
+        "Satyagraha",
+        "Dominion status"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi's method of satyagraha, or truth-force, was inseparable from the practice of ahimsa."
+    },
+    {
+      "id": "ahimsa-q04",
+      "difficulty": "easy",
+      "q": "From which ancient Indian traditions does the concept of ahimsa originate?",
+      "options": [
+        "Modern European philosophy",
+        "British common law",
+        "Marxist theory",
+        "Indian religious and ethical traditions"
+      ],
+      "answer": 3,
+      "explanation": "Ahimsa is a long-standing ethical principle rooted in Indian religious traditions such as Jainism, Buddhism, and Hinduism."
+    },
+    {
+      "id": "ahimsa-q05",
+      "difficulty": "easy",
+      "q": "According to the Gandhian creed of ahimsa, the means of struggle must be as pure as which of the following?",
+      "options": [
+        "The leader directing it",
+        "The goal of freedom",
+        "The crowd supporting it",
+        "The wealth of the nation"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi insisted that the means must be as pure as the goal, so a just end could not be won through violent means."
+    },
+    {
+      "id": "ahimsa-q06",
+      "difficulty": "easy",
+      "q": "Ahimsa rejects which approach to political struggle?",
+      "options": [
+        "Peaceful protest",
+        "Mass mobilization",
+        "Violent armed force",
+        "Civil disobedience"
+      ],
+      "answer": 2,
+      "explanation": "Ahimsa rejects the use of physical violence and armed force as a means of achieving political ends."
+    },
+    {
+      "id": "ahimsa-q07",
+      "difficulty": "easy",
+      "q": "In Gandhi's thought, ahimsa was understood to require which inner quality from its practitioners?",
+      "options": [
+        "Cowardice",
+        "Indifference",
+        "Greed",
+        "Courage"
+      ],
+      "answer": 3,
+      "explanation": "Gandhi held that true ahimsa demanded great courage, not cowardice, since it meant facing repression without retaliating."
+    },
+    {
+      "id": "ahimsa-q08",
+      "difficulty": "easy",
+      "q": "Ahimsa formed the moral basis of which kind of campaigns led by Gandhi?",
+      "options": [
+        "Mass non-violent campaigns",
+        "Armed guerrilla wars",
+        "Secret bombings",
+        "Naval mutinies"
+      ],
+      "answer": 0,
+      "explanation": "Ahimsa was the foundation of the mass non-violent campaigns that Gandhi led during the freedom struggle."
+    },
+    {
+      "id": "ahimsa-q09",
+      "difficulty": "easy",
+      "q": "In which language did the word 'ahimsa' originate?",
+      "options": [
+        "Persian",
+        "Latin",
+        "Sanskrit",
+        "Arabic"
+      ],
+      "answer": 2,
+      "explanation": "Ahimsa is a Sanskrit word, formed from the negative prefix 'a' and 'himsa', meaning harm or violence."
+    },
+    {
+      "id": "ahimsa-q10",
+      "difficulty": "easy",
+      "q": "Ahimsa, as Gandhi practised it, applied non-violence toward whom?",
+      "options": [
+        "Only fellow Indians",
+        "Only the unarmed",
+        "Only close allies",
+        "Even one's opponents"
+      ],
+      "answer": 3,
+      "explanation": "Gandhian ahimsa extended non-violence even toward one's adversaries, seeking to win them over rather than defeat them."
+    },
+    {
+      "id": "ahimsa-q11",
+      "difficulty": "medium",
+      "q": "The literal construction of the Sanskrit word 'ahimsa' is the negation of which term?",
+      "options": [
+        "Himsa, meaning violence",
+        "Dharma, meaning duty",
+        "Karma, meaning action",
+        "Moksha, meaning liberation"
+      ],
+      "answer": 0,
+      "explanation": "Ahimsa is the negation of 'himsa', which means violence or harm, so the word literally means non-harm."
+    },
+    {
+      "id": "ahimsa-q12",
+      "difficulty": "medium",
+      "q": "Which Indian religious tradition is especially renowned for its rigorous emphasis on ahimsa?",
+      "options": [
+        "Sikhism",
+        "Jainism",
+        "Zoroastrianism",
+        "Christianity"
+      ],
+      "answer": 1,
+      "explanation": "Jainism is particularly noted for its strict and far-reaching commitment to ahimsa toward all living beings."
+    },
+    {
+      "id": "ahimsa-q13",
+      "difficulty": "medium",
+      "q": "Gandhi linked the practice of ahimsa most directly with the pursuit of which value?",
+      "options": [
+        "Wealth",
+        "Power",
+        "Fame",
+        "Truth"
+      ],
+      "answer": 3,
+      "explanation": "For Gandhi, ahimsa and truth were intertwined; he saw non-violence as the means of seeking and upholding truth."
+    },
+    {
+      "id": "ahimsa-q14",
+      "difficulty": "medium",
+      "q": "When a crowd at Chauri Chaura turned violent in 1922, how did Gandhi respond out of his commitment to ahimsa?",
+      "options": [
+        "He called off the Non-Cooperation Movement",
+        "He intensified the protests",
+        "He ordered armed resistance",
+        "He resigned from public life permanently"
+      ],
+      "answer": 0,
+      "explanation": "Distressed by the violence at Chauri Chaura, Gandhi suspended the Non-Cooperation Movement to uphold the principle of ahimsa."
+    },
+    {
+      "id": "ahimsa-q15",
+      "difficulty": "medium",
+      "q": "Which method did Gandhi often use as a personal, non-violent means of moral pressure consistent with ahimsa?",
+      "options": [
+        "Sabotage",
+        "Fasting",
+        "Bombing",
+        "Assassination"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi frequently undertook fasts as a non-violent form of self-suffering and moral appeal in keeping with ahimsa."
+    },
+    {
+      "id": "ahimsa-q16",
+      "difficulty": "medium",
+      "q": "Gandhi's idea of ahimsa is often described as deriving its strength from which of the following?",
+      "options": [
+        "Numerical superiority of protesters",
+        "Secret coordination of attacks",
+        "Self-suffering rather than inflicting suffering",
+        "Foreign military support"
+      ],
+      "answer": 2,
+      "explanation": "Gandhian ahimsa relied on willingly accepting suffering oneself rather than inflicting it on the opponent."
+    },
+    {
+      "id": "ahimsa-q17",
+      "difficulty": "medium",
+      "q": "The Pashtun leader Khan Abdul Ghaffar Khan built which non-violent movement reflecting the creed of ahimsa?",
+      "options": [
+        "The Khudai Khidmatgar movement",
+        "The Ghadar Party",
+        "The Forward Bloc",
+        "The Anushilan Samiti"
+      ],
+      "answer": 0,
+      "explanation": "Khan Abdul Ghaffar Khan, the Frontier Gandhi, led the non-violent Khudai Khidmatgar movement rooted in ahimsa."
+    },
+    {
+      "id": "ahimsa-q18",
+      "difficulty": "medium",
+      "q": "In Gandhi's view, ahimsa was incompatible with which of these attitudes?",
+      "options": [
+        "Compassion for the opponent",
+        "Patience under suffering",
+        "Hatred toward the opponent",
+        "Discipline among protesters"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi held that ahimsa required love rather than hatred toward the opponent, aiming to convert rather than crush them."
+    },
+    {
+      "id": "ahimsa-q19",
+      "difficulty": "medium",
+      "q": "Ahimsa as a freedom-struggle principle was meant to apply not only in deed but also in which other dimensions?",
+      "options": [
+        "Trade and commerce",
+        "Thought and speech",
+        "Law and taxation",
+        "Diplomacy and treaties"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi understood ahimsa to encompass non-violence in thought and speech, not merely in physical action."
+    },
+    {
+      "id": "ahimsa-q20",
+      "difficulty": "medium",
+      "q": "Which body of personal writing did Gandhi title in a way that reflects his lifelong quest connected to ahimsa and truth?",
+      "options": [
+        "Discovery of India",
+        "Gita Rahasya",
+        "Hind Swaraj's sequel",
+        "The Story of My Experiments with Truth"
+      ],
+      "answer": 3,
+      "explanation": "Gandhi's autobiography, 'The Story of My Experiments with Truth', records his pursuit of truth and non-violence."
+    },
+    {
+      "id": "ahimsa-q21",
+      "difficulty": "medium",
+      "q": "Ahimsa as practised in the freedom struggle is best described as which of the following?",
+      "options": [
+        "A purely passive surrender",
+        "A military strategy",
+        "An active force, not mere passivity",
+        "An economic policy"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi insisted ahimsa was an active and positive force of resistance, not passive submission or weakness."
+    },
+    {
+      "id": "ahimsa-q22",
+      "difficulty": "medium",
+      "q": "Which thinker outside India is often cited as influencing Gandhi's ideas on non-violent resistance?",
+      "options": [
+        "Leo Tolstoy",
+        "Karl Marx",
+        "Adam Smith",
+        "Niccolo Machiavelli"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi acknowledged the influence of Leo Tolstoy, whose writings on non-resistance shaped his thinking on ahimsa."
+    },
+    {
+      "id": "ahimsa-q23",
+      "difficulty": "hard",
+      "q": "Gandhi famously argued that of cowardice and violence, if a choice had to be made, he would prefer which?",
+      "options": [
+        "Cowardice over violence",
+        "Neither under any circumstance",
+        "Both equally",
+        "Violence over cowardice"
+      ],
+      "answer": 3,
+      "explanation": "Gandhi stated that where the only choice was between cowardice and violence he would advise violence, but he placed true ahimsa above both."
+    },
+    {
+      "id": "ahimsa-q24",
+      "difficulty": "hard",
+      "q": "Which South Asian religion's reverence for ahimsa is reflected in the phrase 'Ahimsa Paramo Dharma', non-violence is the highest duty?",
+      "options": [
+        "Sikhism",
+        "Jainism",
+        "Islam",
+        "Judaism"
+      ],
+      "answer": 1,
+      "explanation": "The maxim 'Ahimsa Paramo Dharma' is strongly associated with Jain ethics, which exalt non-violence as the supreme duty."
+    },
+    {
+      "id": "ahimsa-q25",
+      "difficulty": "hard",
+      "q": "During the early phase of his political life, in which country did Gandhi first develop his methods of non-violent resistance grounded in ahimsa?",
+      "options": [
+        "England",
+        "Burma",
+        "Sri Lanka",
+        "South Africa"
+      ],
+      "answer": 3,
+      "explanation": "Gandhi first forged his non-violent technique during his struggles against discrimination in South Africa before returning to India."
+    },
+    {
+      "id": "ahimsa-q26",
+      "difficulty": "hard",
+      "q": "Gandhi regarded ahimsa and truth as related in which way?",
+      "options": [
+        "Mutually exclusive ideals",
+        "Two sides of the same coin",
+        "Truth subordinate to power",
+        "Ahimsa a substitute for truth"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi described ahimsa and truth as so intertwined that they were like two sides of the same coin."
+    },
+    {
+      "id": "ahimsa-q27",
+      "difficulty": "hard",
+      "q": "Which revolutionary current of the freedom movement stood in deliberate contrast to Gandhi's doctrine of ahimsa?",
+      "options": [
+        "The armed revolutionaries of the HSRA",
+        "The Servants of India Society",
+        "The Khudai Khidmatgars",
+        "The Constituent Assembly"
+      ],
+      "answer": 0,
+      "explanation": "Armed revolutionaries such as those of the Hindustan Socialist Republican Association rejected ahimsa in favour of revolutionary violence."
+    },
+    {
+      "id": "ahimsa-q28",
+      "difficulty": "hard",
+      "q": "Gandhi's concept of the ideal non-violent resister is sometimes captured by which term he used for a votary of truth and ahimsa?",
+      "options": [
+        "Sannyasi",
+        "Sepoy",
+        "Satyagrahi",
+        "Sardar"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi called a practitioner of his truth-and-non-violence method a satyagrahi, one committed to ahimsa in struggle."
+    },
+    {
+      "id": "ahimsa-q29",
+      "difficulty": "hard",
+      "q": "In Gandhi's philosophy, ahimsa was ultimately seen not just as a political tactic but as which of the following?",
+      "options": [
+        "A temporary expedient",
+        "A complete way of life",
+        "A legal doctrine",
+        "A trade strategy"
+      ],
+      "answer": 1,
+      "explanation": "For Gandhi, ahimsa was not merely a strategy but an all-embracing way of life governing personal conduct and politics alike."
+    },
+    {
+      "id": "ahimsa-q30",
+      "difficulty": "hard",
+      "q": "Which 20th-century international leader is widely noted for adapting Gandhi's principle of ahimsa to his own non-violent struggle?",
+      "options": [
+        "Winston Churchill",
+        "Joseph Stalin",
+        "Charles de Gaulle",
+        "Martin Luther King Jr."
+      ],
+      "answer": 3,
+      "explanation": "American civil-rights leader Martin Luther King Jr. drew on Gandhi's ahimsa in shaping his own non-violent movement."
+    }
+  ]
+}

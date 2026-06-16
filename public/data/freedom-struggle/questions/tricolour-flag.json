@@ -1,0 +1,395 @@
+{
+  "cardId": "tricolour-flag",
+  "questions": [
+    {
+      "id": "tricolour-flag-q01",
+      "difficulty": "easy",
+      "q": "What are the three colours of the Indian national flag, from top to bottom?",
+      "options": [
+        "Saffron, white, green",
+        "Green, white, saffron",
+        "White, saffron, green",
+        "Saffron, green, white"
+      ],
+      "answer": 0,
+      "explanation": "The Indian tricolour has saffron at the top, white in the middle, and green at the bottom."
+    },
+    {
+      "id": "tricolour-flag-q02",
+      "difficulty": "easy",
+      "q": "What is the symbol at the centre of the Indian national flag?",
+      "options": [
+        "A spinning wheel",
+        "A 24-spoked wheel",
+        "A lotus",
+        "A rising sun"
+      ],
+      "answer": 1,
+      "explanation": "The flag bears the Ashoka Chakra, a navy-blue wheel with 24 spokes, at its centre."
+    },
+    {
+      "id": "tricolour-flag-q03",
+      "difficulty": "easy",
+      "q": "In which year was the present design of the Indian tricolour adopted?",
+      "options": [
+        "1931",
+        "1942",
+        "1947",
+        "1950"
+      ],
+      "answer": 2,
+      "explanation": "The national flag in its present form was adopted in 1947, shortly before independence."
+    },
+    {
+      "id": "tricolour-flag-q04",
+      "difficulty": "easy",
+      "q": "What colour is the central wheel on the Indian flag?",
+      "options": [
+        "Black",
+        "Red",
+        "Gold",
+        "Navy blue"
+      ],
+      "answer": 3,
+      "explanation": "The Ashoka Chakra in the centre of the flag is navy blue."
+    },
+    {
+      "id": "tricolour-flag-q05",
+      "difficulty": "easy",
+      "q": "The central wheel of the Indian flag is derived from which ancient source?",
+      "options": [
+        "The Sun Temple at Konark",
+        "The Lion Capital of Ashoka at Sarnath",
+        "The Qutub Minar",
+        "The Taj Mahal"
+      ],
+      "answer": 1,
+      "explanation": "The Ashoka Chakra is taken from the wheel on the Lion Capital of Ashoka at Sarnath."
+    },
+    {
+      "id": "tricolour-flag-q06",
+      "difficulty": "easy",
+      "q": "Which band of the flag occupies its middle stripe?",
+      "options": [
+        "The saffron band",
+        "The green band",
+        "The white band",
+        "The blue band"
+      ],
+      "answer": 2,
+      "explanation": "The white band lies in the middle of the tricolour, between saffron and green."
+    },
+    {
+      "id": "tricolour-flag-q07",
+      "difficulty": "easy",
+      "q": "How many spokes does the wheel at the centre of the Indian flag have?",
+      "options": [
+        "12",
+        "16",
+        "32",
+        "24"
+      ],
+      "answer": 3,
+      "explanation": "The Ashoka Chakra has 24 spokes."
+    },
+    {
+      "id": "tricolour-flag-q08",
+      "difficulty": "easy",
+      "q": "The Indian national flag is commonly known by which Hindi name?",
+      "options": [
+        "Tiranga",
+        "Charkha",
+        "Chakra",
+        "Swaraj"
+      ],
+      "answer": 0,
+      "explanation": "The flag is popularly called the Tiranga, meaning tricolour."
+    },
+    {
+      "id": "tricolour-flag-q09",
+      "difficulty": "easy",
+      "q": "Which earlier symbol appeared at the centre of the Congress flag before the present wheel?",
+      "options": [
+        "A trident",
+        "A sword",
+        "The spinning wheel (charkha)",
+        "A peacock"
+      ],
+      "answer": 2,
+      "explanation": "Earlier nationalist flags carried Gandhi's spinning wheel, the charkha, at the centre."
+    },
+    {
+      "id": "tricolour-flag-q10",
+      "difficulty": "easy",
+      "q": "On which occasion is the national flag hoisted by the Prime Minister from the Red Fort each year?",
+      "options": [
+        "Republic Day",
+        "Gandhi Jayanti",
+        "Children's Day",
+        "Independence Day"
+      ],
+      "answer": 3,
+      "explanation": "The Prime Minister hoists the flag from the Red Fort each Independence Day, 15 August."
+    },
+    {
+      "id": "tricolour-flag-q11",
+      "difficulty": "medium",
+      "q": "On what date in 1947 did the Constituent Assembly adopt the national flag?",
+      "options": [
+        "22 July 1947",
+        "26 January 1947",
+        "15 August 1947",
+        "26 November 1947"
+      ],
+      "answer": 0,
+      "explanation": "The Constituent Assembly adopted the national flag on 22 July 1947."
+    },
+    {
+      "id": "tricolour-flag-q12",
+      "difficulty": "medium",
+      "q": "Who is generally credited with designing the basic flag from which the national tricolour evolved?",
+      "options": [
+        "Bankim Chandra Chattopadhyay",
+        "Pingali Venkayya",
+        "Rabindranath Tagore",
+        "Surendranath Banerjee"
+      ],
+      "answer": 1,
+      "explanation": "Pingali Venkayya is widely credited with designing the flag that formed the basis of the national tricolour."
+    },
+    {
+      "id": "tricolour-flag-q13",
+      "difficulty": "medium",
+      "q": "What replaced the spinning wheel at the centre when the national flag was finalised in 1947?",
+      "options": [
+        "A lotus",
+        "A trident",
+        "A star",
+        "The Ashoka Chakra"
+      ],
+      "answer": 3,
+      "explanation": "When the flag was adopted in 1947, the charkha was replaced by the Ashoka Chakra at the centre."
+    },
+    {
+      "id": "tricolour-flag-q14",
+      "difficulty": "medium",
+      "q": "An early flag associated with the Swadeshi era, the Calcutta flag of 1906, had how many horizontal bands?",
+      "options": [
+        "Three",
+        "Two",
+        "Four",
+        "Five"
+      ],
+      "answer": 0,
+      "explanation": "The Calcutta flag of 1906 had three horizontal bands of orange, yellow and green."
+    },
+    {
+      "id": "tricolour-flag-q15",
+      "difficulty": "medium",
+      "q": "Madame Bhikaji Cama unfurled an early Indian flag abroad in 1907 at a congress held in which city?",
+      "options": [
+        "London",
+        "Stuttgart",
+        "Paris",
+        "Berlin"
+      ],
+      "answer": 1,
+      "explanation": "Bhikaji Cama unfurled an early version of an Indian flag at the International Socialist Congress in Stuttgart in 1907."
+    },
+    {
+      "id": "tricolour-flag-q16",
+      "difficulty": "medium",
+      "q": "Which body adopted a flag bearing the charkha as an official Congress flag in 1931?",
+      "options": [
+        "The Muslim League",
+        "The Home Rule League",
+        "The Indian National Congress",
+        "The Ghadar Party"
+      ],
+      "answer": 2,
+      "explanation": "The Indian National Congress formally adopted a tricolour with the charkha as its flag in 1931."
+    },
+    {
+      "id": "tricolour-flag-q17",
+      "difficulty": "medium",
+      "q": "In the official interpretation, what does the saffron band of the flag broadly signify?",
+      "options": [
+        "Courage and sacrifice",
+        "Peace and truth",
+        "Faith and prosperity",
+        "Water and rivers"
+      ],
+      "answer": 0,
+      "explanation": "Saffron is commonly taken to signify strength, courage and sacrifice."
+    },
+    {
+      "id": "tricolour-flag-q18",
+      "difficulty": "medium",
+      "q": "In the official interpretation, the green band of the flag is broadly associated with what?",
+      "options": [
+        "Sacrifice",
+        "Peace",
+        "Fertility, growth and the land",
+        "Royalty"
+      ],
+      "answer": 2,
+      "explanation": "Green is associated with fertility, growth and the auspiciousness of the land."
+    },
+    {
+      "id": "tricolour-flag-q19",
+      "difficulty": "medium",
+      "q": "Pingali Venkayya's flag concept was discussed with which leader before being refined for national use?",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Muhammad Ali Jinnah",
+        "V. D. Savarkar"
+      ],
+      "answer": 1,
+      "explanation": "Pingali Venkayya developed his flag ideas in consultation with Mahatma Gandhi during the 1920s."
+    },
+    {
+      "id": "tricolour-flag-q20",
+      "difficulty": "medium",
+      "q": "The committee set up in 1947 to recommend a national flag was chaired by which leader?",
+      "options": [
+        "Jawaharlal Nehru",
+        "B. R. Ambedkar",
+        "Sardar Patel",
+        "Rajendra Prasad"
+      ],
+      "answer": 3,
+      "explanation": "An ad hoc flag committee headed by Rajendra Prasad recommended the national flag in 1947."
+    },
+    {
+      "id": "tricolour-flag-q21",
+      "difficulty": "medium",
+      "q": "What is the prescribed ratio of the length to the height of the Indian national flag?",
+      "options": [
+        "2:1",
+        "5:3",
+        "3:2",
+        "4:3"
+      ],
+      "answer": 2,
+      "explanation": "The national flag has a length-to-height ratio of 3:2."
+    },
+    {
+      "id": "tricolour-flag-q22",
+      "difficulty": "medium",
+      "q": "In the white band, what does the wheel symbolise in the words of those who explained the design?",
+      "options": [
+        "Continuous motion and progress",
+        "Stagnation",
+        "Military power",
+        "Religious authority"
+      ],
+      "answer": 0,
+      "explanation": "The wheel was explained as a symbol of motion, signifying that there is life in movement and death in stagnation."
+    },
+    {
+      "id": "tricolour-flag-q23",
+      "difficulty": "hard",
+      "q": "What material was traditionally specified for the manufacture of the official Indian national flag?",
+      "options": [
+        "Silk",
+        "Polyester",
+        "Nylon",
+        "Khadi cloth"
+      ],
+      "answer": 3,
+      "explanation": "The flag code traditionally required the national flag to be made of khadi, the handspun handwoven cloth."
+    },
+    {
+      "id": "tricolour-flag-q24",
+      "difficulty": "hard",
+      "q": "A 'Swaraj flag' designed in 1921 carried which arrangement before being modified?",
+      "options": [
+        "Saffron and blue bands with a star",
+        "Red and green bands with a charkha",
+        "Black and white bands with a wheel",
+        "Yellow and purple bands with a lotus"
+      ],
+      "answer": 1,
+      "explanation": "The 1921 design first had red and green bands with a charkha; a white band was later added on Gandhi's suggestion."
+    },
+    {
+      "id": "tricolour-flag-q25",
+      "difficulty": "hard",
+      "q": "Why was a white band added to the earlier two-colour Swaraj flag?",
+      "options": [
+        "To honour the British",
+        "To represent other communities and as a background for the wheel",
+        "To depict the Himalayas",
+        "To mark the salt of the sea"
+      ],
+      "answer": 1,
+      "explanation": "The white band was added to represent communities beyond the two colours and to provide a background for the charkha."
+    },
+    {
+      "id": "tricolour-flag-q26",
+      "difficulty": "hard",
+      "q": "The Ashoka Chakra adopted in 1947 is also referred to by which name linked to Buddhist tradition?",
+      "options": [
+        "The Kala Chakra",
+        "The Sudarshana Chakra",
+        "The Raja Chakra",
+        "The Dharma Chakra"
+      ],
+      "answer": 3,
+      "explanation": "The 24-spoke wheel is identified with the Dharma Chakra, the wheel of law, from the Sarnath pillar."
+    },
+    {
+      "id": "tricolour-flag-q27",
+      "difficulty": "hard",
+      "q": "Which national institution holds the rights for the standardised manufacture of the official flag in Karnataka?",
+      "options": [
+        "The Khadi Development and Village Industries body at Hubli",
+        "The Reserve Bank at Mumbai",
+        "The Survey of India at Dehradun",
+        "The Mint at Kolkata"
+      ],
+      "answer": 0,
+      "explanation": "A khadi institution at Hubli (Garag) in Karnataka has been the recognised manufacturer of the standardised national flag."
+    },
+    {
+      "id": "tricolour-flag-q28",
+      "difficulty": "hard",
+      "q": "When Pingali Venkayya first presented flag ideas, in which decade did this early work begin?",
+      "options": [
+        "The 1900s",
+        "The 1930s",
+        "The 1910s-1920s",
+        "The 1940s"
+      ],
+      "answer": 2,
+      "explanation": "Pingali Venkayya researched and proposed flag designs from the 1910s into the early 1920s."
+    },
+    {
+      "id": "tricolour-flag-q29",
+      "difficulty": "hard",
+      "q": "In 2021-2022 a campaign encouraging citizens to fly the flag at home was promoted under which name?",
+      "options": [
+        "Vande Mataram Yatra",
+        "Tiranga Express",
+        "Jai Hind Abhiyan",
+        "Har Ghar Tiranga"
+      ],
+      "answer": 3,
+      "explanation": "The 'Har Ghar Tiranga' campaign encouraged people to hoist the national flag at their homes."
+    },
+    {
+      "id": "tricolour-flag-q30",
+      "difficulty": "hard",
+      "q": "The flag finally adopted in 1947 kept the same three colours as the Congress flag but changed mainly which feature?",
+      "options": [
+        "The number of bands",
+        "The central emblem from charkha to chakra",
+        "The shape from rectangular to square",
+        "The colours from saffron-white-green to red-white-blue"
+      ],
+      "answer": 1,
+      "explanation": "The principal change in 1947 was replacing the central charkha with the Ashoka Chakra, while the three colours remained."
+    }
+  ]
+}

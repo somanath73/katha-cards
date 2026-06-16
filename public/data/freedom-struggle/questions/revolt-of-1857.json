@@ -1,0 +1,395 @@
+{
+  "cardId": "revolt-of-1857",
+  "questions": [
+    {
+      "id": "revolt-of-1857-q01",
+      "difficulty": "easy",
+      "q": "The Revolt of 1857 began with the mutiny of sepoys in which town on 10 May 1857?",
+      "options": [
+        "Meerut",
+        "Delhi",
+        "Kanpur",
+        "Lucknow"
+      ],
+      "answer": 0,
+      "explanation": "The uprising broke out at Meerut on 10 May 1857."
+    },
+    {
+      "id": "revolt-of-1857-q02",
+      "difficulty": "easy",
+      "q": "Against whose rule was the Revolt of 1857 primarily directed?",
+      "options": [
+        "The Mughal Empire",
+        "The British East India Company",
+        "The Maratha Confederacy",
+        "The Sikh Empire"
+      ],
+      "answer": 1,
+      "explanation": "The revolt was directed against the rule of the British East India Company."
+    },
+    {
+      "id": "revolt-of-1857-q03",
+      "difficulty": "easy",
+      "q": "By which year was the Revolt of 1857 largely suppressed?",
+      "options": [
+        "1860",
+        "1862",
+        "1858",
+        "1857"
+      ],
+      "answer": 2,
+      "explanation": "The uprising was largely crushed by 1858."
+    },
+    {
+      "id": "revolt-of-1857-q04",
+      "difficulty": "easy",
+      "q": "The Revolt of 1857 is often described by Indian nationalists by which name?",
+      "options": [
+        "The Sepoy Picnic",
+        "The Great Game",
+        "The Bengal Famine",
+        "The First War of Independence"
+      ],
+      "answer": 3,
+      "explanation": "It is often called the First War of Independence in Indian nationalist historiography."
+    },
+    {
+      "id": "revolt-of-1857-q05",
+      "difficulty": "easy",
+      "q": "An immediate cause of the revolt was the introduction of which firearm's controversial cartridges?",
+      "options": [
+        "The Maxim gun",
+        "The Enfield rifle",
+        "The Sten gun",
+        "The musket"
+      ],
+      "answer": 1,
+      "explanation": "The greased cartridges of the new Enfield rifle were a major immediate trigger of the revolt."
+    },
+    {
+      "id": "revolt-of-1857-q06",
+      "difficulty": "easy",
+      "q": "Which Mughal emperor was proclaimed the symbolic leader of the 1857 rebels at Delhi?",
+      "options": [
+        "Akbar II",
+        "Shah Alam II",
+        "Bahadur Shah Zafar",
+        "Aurangzeb"
+      ],
+      "answer": 2,
+      "explanation": "The rebels rallied around Bahadur Shah Zafar, the last Mughal emperor, in Delhi."
+    },
+    {
+      "id": "revolt-of-1857-q07",
+      "difficulty": "easy",
+      "q": "What major political change followed the suppression of the 1857 revolt?",
+      "options": [
+        "The independence of India",
+        "The founding of the Indian National Congress",
+        "The partition of Bengal",
+        "The end of Company rule and transfer of power to the British Crown"
+      ],
+      "answer": 3,
+      "explanation": "The revolt led to the end of East India Company rule and the transfer of power to the British Crown."
+    },
+    {
+      "id": "revolt-of-1857-q08",
+      "difficulty": "easy",
+      "q": "The 1857 revolt was concentrated mainly in which regions of India?",
+      "options": [
+        "Northern and central India",
+        "The far south",
+        "The north-east frontier",
+        "Coastal Kerala"
+      ],
+      "answer": 0,
+      "explanation": "The uprising spread chiefly across northern and central India."
+    },
+    {
+      "id": "revolt-of-1857-q09",
+      "difficulty": "easy",
+      "q": "Which queen became a celebrated leader of the resistance during the 1857 revolt?",
+      "options": [
+        "Razia Sultana",
+        "Ahilyabai Holkar",
+        "Rani Lakshmibai of Jhansi",
+        "Rani Durgavati"
+      ],
+      "answer": 2,
+      "explanation": "Rani Lakshmibai, the Queen of Jhansi, was a leading figure of the 1857 resistance."
+    },
+    {
+      "id": "revolt-of-1857-q10",
+      "difficulty": "easy",
+      "q": "The participants in the 1857 mutiny were primarily soldiers known by what name?",
+      "options": [
+        "Sowars only",
+        "Lancers",
+        "Marines",
+        "Sepoys"
+      ],
+      "answer": 3,
+      "explanation": "The Indian soldiers of the Company army who rebelled were called sepoys."
+    },
+    {
+      "id": "revolt-of-1857-q11",
+      "difficulty": "medium",
+      "q": "Which British annexation policy, which absorbed states lacking a natural male heir, was a key cause of the 1857 revolt?",
+      "options": [
+        "The Doctrine of Lapse",
+        "The Permanent Settlement",
+        "The Subsidiary Alliance",
+        "The Ryotwari System"
+      ],
+      "answer": 0,
+      "explanation": "Lord Dalhousie's Doctrine of Lapse, used to annex states without a direct male heir, was a major grievance."
+    },
+    {
+      "id": "revolt-of-1857-q12",
+      "difficulty": "medium",
+      "q": "The annexation of which kingdom in 1856 deeply angered its population and contributed to the revolt?",
+      "options": [
+        "Hyderabad",
+        "Awadh (Oudh)",
+        "Mysore",
+        "Travancore"
+      ],
+      "answer": 1,
+      "explanation": "The annexation of Awadh (Oudh) in 1856 on grounds of misgovernment caused widespread resentment."
+    },
+    {
+      "id": "revolt-of-1857-q13",
+      "difficulty": "medium",
+      "q": "Who led the rebellion at Kanpur during the Revolt of 1857?",
+      "options": [
+        "Tatya Tope alone",
+        "Kunwar Singh",
+        "Bakht Khan",
+        "Nana Saheb"
+      ],
+      "answer": 3,
+      "explanation": "Nana Saheb led the uprising at Kanpur, supported by associates such as Tatya Tope."
+    },
+    {
+      "id": "revolt-of-1857-q14",
+      "difficulty": "medium",
+      "q": "Who was the Governor-General of India when the 1857 revolt broke out?",
+      "options": [
+        "Lord Canning",
+        "Lord Dalhousie",
+        "Lord Curzon",
+        "Lord Ripon"
+      ],
+      "answer": 0,
+      "explanation": "Lord Canning was Governor-General during the revolt and oversaw the transition to Crown rule."
+    },
+    {
+      "id": "revolt-of-1857-q15",
+      "difficulty": "medium",
+      "q": "Which leader of the revolt in Bihar, an aged zamindar, is celebrated for his resistance at Jagdishpur?",
+      "options": [
+        "Maulvi Ahmadullah Shah",
+        "Kunwar Singh",
+        "Khan Bahadur Khan",
+        "Devi Singh"
+      ],
+      "answer": 1,
+      "explanation": "Veer Kunwar Singh of Jagdishpur in Bihar was a prominent leader of the revolt in his region."
+    },
+    {
+      "id": "revolt-of-1857-q16",
+      "difficulty": "medium",
+      "q": "In Awadh, who organised resistance at Lucknow on behalf of her young son during the revolt?",
+      "options": [
+        "Rani Lakshmibai",
+        "Zeenat Mahal",
+        "Begum Hazrat Mahal",
+        "Begum Samru"
+      ],
+      "answer": 2,
+      "explanation": "Begum Hazrat Mahal led the rebel cause at Lucknow on behalf of her son Birjis Qadr."
+    },
+    {
+      "id": "revolt-of-1857-q17",
+      "difficulty": "medium",
+      "q": "Which 1858 legislation formally transferred the government of India from the Company to the Crown?",
+      "options": [
+        "The Government of India Act 1858",
+        "The Regulating Act",
+        "The Indian Councils Act",
+        "The Pitt's India Act"
+      ],
+      "answer": 0,
+      "explanation": "The Government of India Act 1858 ended Company rule and placed India under the British Crown."
+    },
+    {
+      "id": "revolt-of-1857-q18",
+      "difficulty": "medium",
+      "q": "Which city saw a prolonged and famous siege of the British Residency during the 1857 revolt?",
+      "options": [
+        "Delhi",
+        "Agra",
+        "Lucknow",
+        "Patna"
+      ],
+      "answer": 2,
+      "explanation": "The Siege of the Lucknow Residency was one of the most prolonged engagements of the revolt."
+    },
+    {
+      "id": "revolt-of-1857-q19",
+      "difficulty": "medium",
+      "q": "After the revolt, in 1858 Queen Victoria issued a Proclamation that promised what to the people of India?",
+      "options": [
+        "Immediate self-government",
+        "Religious non-interference and equal treatment",
+        "Free trade with Britain",
+        "Abolition of all taxes"
+      ],
+      "answer": 1,
+      "explanation": "The 1858 Proclamation promised non-interference in religion and equal protection under the law, among other assurances."
+    },
+    {
+      "id": "revolt-of-1857-q20",
+      "difficulty": "medium",
+      "q": "Which experienced rebel general commanded the sepoy forces in Delhi during the revolt?",
+      "options": [
+        "Hugh Rose",
+        "John Nicholson",
+        "Colin Campbell",
+        "Bakht Khan"
+      ],
+      "answer": 3,
+      "explanation": "Bakht Khan emerged as a leading military commander of the rebel forces in Delhi."
+    },
+    {
+      "id": "revolt-of-1857-q21",
+      "difficulty": "medium",
+      "q": "What happened to the British administrative structure when the Crown took over, replacing the Company's Board?",
+      "options": [
+        "The post of Viceroy was abolished",
+        "India became a republic",
+        "A Secretary of State for India was created",
+        "The Mughal court was restored"
+      ],
+      "answer": 2,
+      "explanation": "The 1858 Act created the office of Secretary of State for India and converted the Governor-General into the Viceroy."
+    },
+    {
+      "id": "revolt-of-1857-q22",
+      "difficulty": "medium",
+      "q": "Tatya Tope, a key military leader of the revolt, was a close associate of which Kanpur leader?",
+      "options": [
+        "Nana Saheb",
+        "Bahadur Shah Zafar",
+        "Kunwar Singh",
+        "Maulvi Ahmadullah"
+      ],
+      "answer": 0,
+      "explanation": "Tatya Tope was a close associate and commander under Nana Saheb."
+    },
+    {
+      "id": "revolt-of-1857-q23",
+      "difficulty": "hard",
+      "q": "The Revolt of 1857 is sometimes said to have a symbolic earlier spark at Barrackpore on 29 March 1857. What event was that?",
+      "options": [
+        "The fall of Delhi",
+        "The siege of Cawnpore",
+        "The mutiny at Meerut",
+        "Mangal Pandey's attack on his officers"
+      ],
+      "answer": 3,
+      "explanation": "Mangal Pandey's revolt at Barrackpore on 29 March 1857 preceded and foreshadowed the wider uprising."
+    },
+    {
+      "id": "revolt-of-1857-q24",
+      "difficulty": "hard",
+      "q": "Who was the rebel religious leader, known as the 'Maulvi of Faizabad', prominent in the revolt in Awadh?",
+      "options": [
+        "Maulana Azad",
+        "Maulvi Ahmadullah Shah",
+        "Syed Ahmad Khan",
+        "Maulvi Liaquat Ali"
+      ],
+      "answer": 1,
+      "explanation": "Maulvi Ahmadullah Shah of Faizabad was a notable rebel leader in the Awadh region."
+    },
+    {
+      "id": "revolt-of-1857-q25",
+      "difficulty": "hard",
+      "q": "Which British general led the decisive assault that recaptured Delhi from the rebels in September 1857?",
+      "options": [
+        "Henry Havelock alone",
+        "Operations associated with John Nicholson and Archdale Wilson",
+        "James Outram alone",
+        "Hugh Wheeler"
+      ],
+      "answer": 1,
+      "explanation": "The recapture of Delhi was associated with John Nicholson (who was killed in the assault) and the force under Archdale Wilson."
+    },
+    {
+      "id": "revolt-of-1857-q26",
+      "difficulty": "hard",
+      "q": "Which British general led the campaign in central India that defeated the rebels at Jhansi and Gwalior in 1858?",
+      "options": [
+        "Sir Colin Campbell",
+        "Sir Henry Lawrence",
+        "Sir James Outram",
+        "Sir Hugh Rose"
+      ],
+      "answer": 3,
+      "explanation": "Sir Hugh Rose commanded the Central India Field Force that captured Jhansi and later Gwalior in 1858."
+    },
+    {
+      "id": "revolt-of-1857-q27",
+      "difficulty": "hard",
+      "q": "V. D. Savarkar's influential 1909 book that interpreted the revolt as a national war carried which title?",
+      "options": [
+        "The Indian War of Independence, 1857",
+        "The Discovery of India",
+        "Hind Swaraj",
+        "An Autobiography"
+      ],
+      "answer": 0,
+      "explanation": "Savarkar's 'The Indian War of Independence, 1857' framed the revolt as India's first national war of independence."
+    },
+    {
+      "id": "revolt-of-1857-q28",
+      "difficulty": "hard",
+      "q": "Following the revolt, the British announced a policy regarding the princely states that did what?",
+      "options": [
+        "Annexed all remaining states",
+        "Abolished all royal titles",
+        "Abandoned the Doctrine of Lapse and recognised adoption",
+        "Merged states into British provinces"
+      ],
+      "answer": 2,
+      "explanation": "The Crown abandoned the Doctrine of Lapse and recognised the rulers' right of adoption, seeking the loyalty of the princes."
+    },
+    {
+      "id": "revolt-of-1857-q29",
+      "difficulty": "hard",
+      "q": "After the revolt, how did the British change the composition of the Indian army to guard against future mutiny?",
+      "options": [
+        "They abolished the Indian army entirely",
+        "They armed only Bengali sepoys",
+        "They removed all British officers",
+        "They raised the proportion of European to Indian soldiers and recruited along 'martial race' lines"
+      ],
+      "answer": 3,
+      "explanation": "The army was reorganised with a higher ratio of British troops and recruitment increasingly favoured groups deemed 'martial races'."
+    },
+    {
+      "id": "revolt-of-1857-q30",
+      "difficulty": "hard",
+      "q": "Which last Mughal emperor was tried by the British after the revolt and exiled, ending the dynasty?",
+      "options": [
+        "Akbar Shah II",
+        "Bahadur Shah Zafar",
+        "Shah Alam II",
+        "Farrukhsiyar"
+      ],
+      "answer": 1,
+      "explanation": "Bahadur Shah Zafar was tried, exiled to Rangoon, and the Mughal dynasty came to an end."
+    }
+  ]
+}

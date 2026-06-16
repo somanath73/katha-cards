@@ -1,0 +1,395 @@
+{
+  "cardId": "satyagraha",
+  "questions": [
+    {
+      "id": "satyagraha-q01",
+      "difficulty": "easy",
+      "q": "Who developed the method of satyagraha?",
+      "options": [
+        "Bal Gangadhar Tilak",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Jawaharlal Nehru"
+      ],
+      "answer": 1,
+      "explanation": "Satyagraha was developed by Mahatma Gandhi as a method of nonviolent resistance."
+    },
+    {
+      "id": "satyagraha-q02",
+      "difficulty": "easy",
+      "q": "The word 'satyagraha' is built around which core concept?",
+      "options": [
+        "Wealth",
+        "Truth",
+        "War",
+        "Power"
+      ],
+      "answer": 1,
+      "explanation": "Satyagraha derives from 'satya' (truth) and means holding firmly to truth."
+    },
+    {
+      "id": "satyagraha-q03",
+      "difficulty": "easy",
+      "q": "Satyagraha relies on which kind of force rather than physical violence?",
+      "options": [
+        "Military force",
+        "Moral force",
+        "Economic bribery",
+        "Royal authority"
+      ],
+      "answer": 1,
+      "explanation": "Satyagraha is based on moral and spiritual force rather than physical violence."
+    },
+    {
+      "id": "satyagraha-q04",
+      "difficulty": "easy",
+      "q": "Satyagraha is closely linked to which other Gandhian principle?",
+      "options": [
+        "Imperialism",
+        "Casteism",
+        "Mercantilism",
+        "Ahimsa (non-violence)"
+      ],
+      "answer": 3,
+      "explanation": "Satyagraha is inseparable from ahimsa, the principle of non-violence."
+    },
+    {
+      "id": "satyagraha-q05",
+      "difficulty": "easy",
+      "q": "Satyagraha became the guiding strategy of the Indian freedom movement under whose leadership?",
+      "options": [
+        "Nehru",
+        "Bose",
+        "Patel",
+        "Gandhi"
+      ],
+      "answer": 3,
+      "explanation": "Under Gandhi's leadership satyagraha became the central strategy of the Indian freedom struggle."
+    },
+    {
+      "id": "satyagraha-q06",
+      "difficulty": "easy",
+      "q": "A person who practises satyagraha is known as what?",
+      "options": [
+        "Sepoy",
+        "Satyagrahi",
+        "Zamindar",
+        "Sannyasi"
+      ],
+      "answer": 1,
+      "explanation": "One who engages in satyagraha is called a satyagrahi."
+    },
+    {
+      "id": "satyagraha-q07",
+      "difficulty": "easy",
+      "q": "Gandhi first developed satyagraha in which country before bringing it to India?",
+      "options": [
+        "South Africa",
+        "England",
+        "Burma",
+        "Sri Lanka"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi first evolved satyagraha during his struggles against racial injustice in South Africa."
+    },
+    {
+      "id": "satyagraha-q08",
+      "difficulty": "easy",
+      "q": "Gandhi's first major satyagraha on Indian soil in 1917 was at which place?",
+      "options": [
+        "Dandi",
+        "Bardoli",
+        "Amritsar",
+        "Champaran"
+      ],
+      "answer": 3,
+      "explanation": "The Champaran Satyagraha of 1917 was Gandhi's first major application of satyagraha in India."
+    },
+    {
+      "id": "satyagraha-q09",
+      "difficulty": "easy",
+      "q": "A central feature of satyagraha is the willingness of the satyagrahi to do what?",
+      "options": [
+        "Use weapons freely",
+        "Bribe officials",
+        "Suffer voluntarily without retaliating",
+        "Flee from confrontation"
+      ],
+      "answer": 2,
+      "explanation": "Satyagraha requires the practitioner to accept suffering voluntarily without inflicting violence on the opponent."
+    },
+    {
+      "id": "satyagraha-q10",
+      "difficulty": "easy",
+      "q": "The 1930 Salt March was an example of which method in action?",
+      "options": [
+        "Armed insurrection",
+        "Diplomatic petition",
+        "Satyagraha",
+        "Trade boycott by merchants only"
+      ],
+      "answer": 2,
+      "explanation": "The Salt March of 1930 was a celebrated act of satyagraha, defying the salt law nonviolently."
+    },
+    {
+      "id": "satyagraha-q11",
+      "difficulty": "medium",
+      "q": "Gandhi coined the term 'satyagraha' during his struggle in which country, replacing the English phrase 'passive resistance'?",
+      "options": [
+        "India",
+        "England",
+        "Kenya",
+        "South Africa"
+      ],
+      "answer": 3,
+      "explanation": "Gandhi coined 'satyagraha' in South Africa to distinguish his active, principled method from mere passive resistance."
+    },
+    {
+      "id": "satyagraha-q12",
+      "difficulty": "medium",
+      "q": "The 1919 nationwide satyagraha launched by Gandhi was directed against which law?",
+      "options": [
+        "The Government of India Act 1858",
+        "The Rowlatt Act",
+        "The Vernacular Press Act",
+        "The Doctrine of Lapse"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi called the Rowlatt Satyagraha in 1919 against the repressive Rowlatt Act, his first all-India agitation."
+    },
+    {
+      "id": "satyagraha-q13",
+      "difficulty": "medium",
+      "q": "In Gandhi's thought, the means of satyagraha and the end of freedom must have what relationship?",
+      "options": [
+        "The end justifies any means",
+        "The means are irrelevant",
+        "The means must be as pure as the end",
+        "Violence is permitted if quick"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi insisted that the means must be as pure as the goal, so freedom had to be won nonviolently."
+    },
+    {
+      "id": "satyagraha-q14",
+      "difficulty": "medium",
+      "q": "The Kheda Satyagraha of 1918 was a campaign by satyagrahi peasants demanding what?",
+      "options": [
+        "Higher wages in mills",
+        "Separate electorates",
+        "Remission of land revenue after crop failure",
+        "Abolition of the army"
+      ],
+      "answer": 2,
+      "explanation": "In the Kheda Satyagraha, peasants of Gujarat sought suspension of land revenue following a poor harvest."
+    },
+    {
+      "id": "satyagraha-q15",
+      "difficulty": "medium",
+      "q": "Satyagraha as a form of resistance typically includes which of the following methods?",
+      "options": [
+        "Bombing of public buildings",
+        "Civil disobedience and non-cooperation",
+        "Assassination of officials",
+        "Armed rebellion"
+      ],
+      "answer": 1,
+      "explanation": "Satyagraha employs nonviolent methods such as civil disobedience, non-cooperation, fasting and peaceful protest."
+    },
+    {
+      "id": "satyagraha-q16",
+      "difficulty": "medium",
+      "q": "The 1928 Bardoli Satyagraha, a tax-refusal campaign, was led on the ground by which leader who earned the title Sardar?",
+      "options": [
+        "Jawaharlal Nehru",
+        "C. Rajagopalachari",
+        "Vallabhbhai Patel",
+        "Rajendra Prasad"
+      ],
+      "answer": 2,
+      "explanation": "Vallabhbhai Patel led the Bardoli Satyagraha of 1928 and earned the title Sardar for his leadership."
+    },
+    {
+      "id": "satyagraha-q17",
+      "difficulty": "medium",
+      "q": "Gandhi described satyagraha as a 'weapon' of which kind of people?",
+      "options": [
+        "The strong, not the weak",
+        "The wealthy only",
+        "Trained soldiers",
+        "Foreign rulers"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi held that satyagraha was a weapon of the strong, requiring courage and discipline, not weakness."
+    },
+    {
+      "id": "satyagraha-q18",
+      "difficulty": "medium",
+      "q": "Satyagraha aims ultimately not to defeat the opponent but to do what?",
+      "options": [
+        "Humiliate the opponent",
+        "Imprison the opponent",
+        "Bankrupt the opponent",
+        "Convert and win over the opponent"
+      ],
+      "answer": 3,
+      "explanation": "Gandhi's satyagraha sought to convert the opponent through self-suffering and appeal to conscience, not to crush them."
+    },
+    {
+      "id": "satyagraha-q19",
+      "difficulty": "medium",
+      "q": "The Civil Disobedience Movement that began in 1930 was a large-scale expression of satyagraha centred on breaking which law first?",
+      "options": [
+        "The press law",
+        "The arms law",
+        "The sedition law",
+        "The salt law"
+      ],
+      "answer": 3,
+      "explanation": "The Civil Disobedience Movement opened with the deliberate breaking of the salt law during the Dandi March."
+    },
+    {
+      "id": "satyagraha-q20",
+      "difficulty": "medium",
+      "q": "Fasting as a tool of satyagraha was used by Gandhi mainly for what purpose?",
+      "options": [
+        "To weaken the enemy by force",
+        "To gain personal wealth",
+        "Self-purification and moral appeal",
+        "To avoid imprisonment"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi used fasting as a means of self-purification and to appeal to the conscience of opponents and followers."
+    },
+    {
+      "id": "satyagraha-q21",
+      "difficulty": "medium",
+      "q": "Satyagraha demands that a satyagrahi maintain what attitude toward the opponent even while resisting?",
+      "options": [
+        "Absence of hatred and ill-will",
+        "Burning hatred",
+        "Indifference to outcome",
+        "Desire for revenge"
+      ],
+      "answer": 0,
+      "explanation": "A satyagrahi must hold no hatred toward the opponent, opposing the wrong while respecting the wrongdoer."
+    },
+    {
+      "id": "satyagraha-q22",
+      "difficulty": "medium",
+      "q": "Gandhi outlined many of his ideas on satyagraha and self-rule in which 1909 work?",
+      "options": [
+        "Discovery of India",
+        "The Republic",
+        "Hind Swaraj",
+        "Gitanjali"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi expounded his philosophy, including the basis of satyagraha, in 'Hind Swaraj' written in 1909."
+    },
+    {
+      "id": "satyagraha-q23",
+      "difficulty": "hard",
+      "q": "Gandhi reportedly arrived at the term 'satyagraha' through a contest in his South African journal, refining a suggested word. The journal was called what?",
+      "options": [
+        "Indian Opinion",
+        "Young India",
+        "Harijan",
+        "Navajivan"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi sought a name through his journal Indian Opinion in South Africa, ultimately coining 'satyagraha'."
+    },
+    {
+      "id": "satyagraha-q24",
+      "difficulty": "hard",
+      "q": "The word 'satyagraha' combines 'satya' (truth) with which Sanskrit-derived word meaning firmness or holding fast?",
+      "options": [
+        "Ahimsa",
+        "Aastha",
+        "Atman",
+        "Agraha"
+      ],
+      "answer": 3,
+      "explanation": "Satyagraha joins 'satya' (truth) and 'agraha' (firmness or insistence), meaning firmly holding to truth."
+    },
+    {
+      "id": "satyagraha-q25",
+      "difficulty": "hard",
+      "q": "Gandhi's first organized satyagraha in South Africa, around 1906, opposed a law requiring Indians to do what?",
+      "options": [
+        "Register and carry passes",
+        "Pay an income tax",
+        "Convert their religion",
+        "Leave the country"
+      ],
+      "answer": 0,
+      "explanation": "The 1906 satyagraha in the Transvaal opposed an ordinance requiring Indians to register and carry passes."
+    },
+    {
+      "id": "satyagraha-q26",
+      "difficulty": "hard",
+      "q": "Gandhi later wrote a detailed account of the South African struggle titled what?",
+      "options": [
+        "My Experiments with Truth",
+        "Satyagraha in South Africa",
+        "Key to Health",
+        "Constructive Programme"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi chronicled the early movement in his book 'Satyagraha in South Africa'."
+    },
+    {
+      "id": "satyagraha-q27",
+      "difficulty": "hard",
+      "q": "Gandhi distinguished individual satyagraha, used in 1940-41, by selecting representative resisters one at a time. Who was chosen as the first individual satyagrahi?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Vinoba Bhave",
+        "Sardar Patel",
+        "Maulana Azad"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi chose Vinoba Bhave as the first individual satyagrahi in the limited campaign of 1940."
+    },
+    {
+      "id": "satyagraha-q28",
+      "difficulty": "hard",
+      "q": "Gandhi held that a satyagrahi should obey just laws but openly break unjust ones while accepting what?",
+      "options": [
+        "The legal penalty for breaking them",
+        "A secret pardon",
+        "Police protection",
+        "Financial reward"
+      ],
+      "answer": 0,
+      "explanation": "A satyagrahi was expected to break unjust laws openly and willingly accept the legal punishment that followed."
+    },
+    {
+      "id": "satyagraha-q29",
+      "difficulty": "hard",
+      "q": "Among the influences Gandhi cited for satyagraha was an American thinker's essay on civil disobedience. Who was the author?",
+      "options": [
+        "Henry David Thoreau",
+        "Ralph Waldo Emerson",
+        "Walt Whitman",
+        "Thomas Paine"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi acknowledged the influence of Henry David Thoreau's essay 'Civil Disobedience' on his thinking."
+    },
+    {
+      "id": "satyagraha-q30",
+      "difficulty": "hard",
+      "q": "Gandhi insisted a true satyagraha campaign should be preceded by what, to ensure resisters were disciplined?",
+      "options": [
+        "Training, self-discipline and exhausting other remedies",
+        "A declaration of war",
+        "Stockpiling of arms",
+        "Foreign funding"
+      ],
+      "answer": 0,
+      "explanation": "Gandhi required that satyagraha be a last resort after other remedies failed, undertaken by trained, self-disciplined resisters."
+    }
+  ]
+}

@@ -4,7 +4,8 @@ import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..')
-const dataDir = join(root, 'public', 'data', 'mahabharat')
+const category = process.argv[2] || 'mahabharat'
+const dataDir = join(root, 'public', 'data', category)
 const EMBLEMS = new Set(['chakra','bow','arrow','conch','mace','sword','trident','spear','shield','chariot','crown','throne','palace','dice','scroll','flute','lotus','tree','fire','river','mountain','sun','moon','star','serpent','garuda','elephant','horse','eye','vessel'])
 const PALETTES = new Set(['royal','flame','forest','ocean','dusk','dawn'])
 const TYPES = new Set(['character','event','place','artifact','concept'])

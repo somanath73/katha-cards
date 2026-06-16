@@ -1,0 +1,395 @@
+{
+  "cardId": "dandi-salt-march",
+  "questions": [
+    {
+      "id": "dandi-salt-march-q01",
+      "difficulty": "easy",
+      "q": "Who led the Dandi Salt March in 1930?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Patel",
+        "Subhas Chandra Bose"
+      ],
+      "answer": 0,
+      "explanation": "Mahatma Gandhi led the Dandi Salt March in 1930."
+    },
+    {
+      "id": "dandi-salt-march-q02",
+      "difficulty": "easy",
+      "q": "From which ashram did the Salt March begin?",
+      "options": [
+        "Sevagram Ashram",
+        "Sabarmati Ashram",
+        "Phoenix Settlement",
+        "Tolstoy Farm"
+      ],
+      "answer": 1,
+      "explanation": "The march began from Sabarmati Ashram near Ahmedabad."
+    },
+    {
+      "id": "dandi-salt-march-q03",
+      "difficulty": "easy",
+      "q": "What law did Gandhi break at the end of the march?",
+      "options": [
+        "The Rowlatt Act",
+        "The Vernacular Press Act",
+        "The salt law",
+        "The land revenue law"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi broke the salt law by making salt from seawater at Dandi."
+    },
+    {
+      "id": "dandi-salt-march-q04",
+      "difficulty": "easy",
+      "q": "To which coastal village did Gandhi march to make salt?",
+      "options": [
+        "Diu",
+        "Daman",
+        "Dwarka",
+        "Dandi"
+      ],
+      "answer": 3,
+      "explanation": "Gandhi marched to the coastal village of Dandi in Gujarat."
+    },
+    {
+      "id": "dandi-salt-march-q05",
+      "difficulty": "easy",
+      "q": "Approximately how long was the route of the Dandi March?",
+      "options": [
+        "About 240 miles",
+        "About 50 miles",
+        "About 600 miles",
+        "About 1000 miles"
+      ],
+      "answer": 0,
+      "explanation": "The march covered roughly 240 miles (about 385 km) from Sabarmati to Dandi."
+    },
+    {
+      "id": "dandi-salt-march-q06",
+      "difficulty": "easy",
+      "q": "The Salt March launched which larger nationwide campaign?",
+      "options": [
+        "Non-Cooperation Movement",
+        "Civil Disobedience Movement",
+        "Quit India Movement",
+        "Swadeshi Movement"
+      ],
+      "answer": 1,
+      "explanation": "The Salt March launched the Civil Disobedience Movement."
+    },
+    {
+      "id": "dandi-salt-march-q07",
+      "difficulty": "easy",
+      "q": "In which year did the Dandi Salt March take place?",
+      "options": [
+        "1920",
+        "1942",
+        "1930",
+        "1919"
+      ],
+      "answer": 2,
+      "explanation": "The Salt March took place in March and April 1930."
+    },
+    {
+      "id": "dandi-salt-march-q08",
+      "difficulty": "easy",
+      "q": "What everyday item was at the centre of the Salt March protest?",
+      "options": [
+        "Cloth",
+        "Tea",
+        "Indigo",
+        "Salt"
+      ],
+      "answer": 3,
+      "explanation": "The march protested the British monopoly and tax on salt, a daily necessity."
+    },
+    {
+      "id": "dandi-salt-march-q09",
+      "difficulty": "easy",
+      "q": "The Dandi March is also commonly known by what other name?",
+      "options": [
+        "Salt Satyagraha",
+        "Khilafat March",
+        "Long March",
+        "Bardoli March"
+      ],
+      "answer": 0,
+      "explanation": "The march is also called the Salt Satyagraha."
+    },
+    {
+      "id": "dandi-salt-march-q10",
+      "difficulty": "easy",
+      "q": "Dandi is located in which present-day Indian state?",
+      "options": [
+        "Maharashtra",
+        "Gujarat",
+        "Bihar",
+        "Kerala"
+      ],
+      "answer": 1,
+      "explanation": "Dandi is a coastal village in the state of Gujarat."
+    },
+    {
+      "id": "dandi-salt-march-q11",
+      "difficulty": "medium",
+      "q": "On which date did Gandhi begin the Salt March from Sabarmati?",
+      "options": [
+        "6 April 1930",
+        "26 January 1930",
+        "12 March 1930",
+        "8 August 1942"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi set out from Sabarmati on 12 March 1930."
+    },
+    {
+      "id": "dandi-salt-march-q12",
+      "difficulty": "medium",
+      "q": "On which date did Gandhi reach Dandi and break the salt law?",
+      "options": [
+        "12 March 1930",
+        "13 April 1930",
+        "31 December 1929",
+        "6 April 1930"
+      ],
+      "answer": 3,
+      "explanation": "Gandhi reached Dandi and ceremonially made salt on 6 April 1930."
+    },
+    {
+      "id": "dandi-salt-march-q13",
+      "difficulty": "medium",
+      "q": "Roughly how many days did the Salt March from Sabarmati to Dandi take?",
+      "options": [
+        "About 24 days",
+        "About 7 days",
+        "About 60 days",
+        "About 90 days"
+      ],
+      "answer": 0,
+      "explanation": "The march lasted about 24 days, from 12 March to 6 April 1930."
+    },
+    {
+      "id": "dandi-salt-march-q14",
+      "difficulty": "medium",
+      "q": "How many volunteers initially set out with Gandhi from Sabarmati Ashram?",
+      "options": [
+        "Around 10",
+        "Around 78",
+        "Around 500",
+        "Around 2000"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi began the march with around 78 chosen ashram volunteers, with thousands joining along the way."
+    },
+    {
+      "id": "dandi-salt-march-q15",
+      "difficulty": "medium",
+      "q": "Before starting, Gandhi sent a letter announcing his intentions to which official?",
+      "options": [
+        "Viceroy Lord Curzon",
+        "Prime Minister Churchill",
+        "Viceroy Lord Irwin",
+        "King George V"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi wrote to Viceroy Lord Irwin announcing his plan to break the salt law."
+    },
+    {
+      "id": "dandi-salt-march-q16",
+      "difficulty": "medium",
+      "q": "The Salt March drew worldwide attention partly because of coverage by what?",
+      "options": [
+        "Government radio only",
+        "Private telegrams alone",
+        "Court records",
+        "The international press"
+      ],
+      "answer": 3,
+      "explanation": "International journalists followed the march, giving it global publicity."
+    },
+    {
+      "id": "dandi-salt-march-q17",
+      "difficulty": "medium",
+      "q": "Which famous woman poet-leader later led the Dharasana salt raid that followed the Dandi March?",
+      "options": [
+        "Sarojini Naidu",
+        "Aruna Asaf Ali",
+        "Annie Besant",
+        "Kasturba Gandhi"
+      ],
+      "answer": 0,
+      "explanation": "Sarojini Naidu led the nonviolent raid on the Dharasana Salt Works after the Dandi March."
+    },
+    {
+      "id": "dandi-salt-march-q18",
+      "difficulty": "medium",
+      "q": "What did Gandhi do at Dandi to symbolically break the law?",
+      "options": [
+        "Burned foreign cloth",
+        "Picked up natural salt from the shore",
+        "Hoisted the tricolour",
+        "Refused to pay land tax"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi picked up a lump of natural salt left by the sea, breaking the salt monopoly."
+    },
+    {
+      "id": "dandi-salt-march-q19",
+      "difficulty": "medium",
+      "q": "The salt tax was seen as especially unjust because it burdened whom most?",
+      "options": [
+        "British officials",
+        "Wealthy landlords",
+        "The poorest Indians",
+        "Foreign traders"
+      ],
+      "answer": 2,
+      "explanation": "Salt was a daily necessity, so the tax fell hardest on the poorest sections of society."
+    },
+    {
+      "id": "dandi-salt-march-q20",
+      "difficulty": "medium",
+      "q": "The Salt March received the sanction of which Congress declaration made shortly before it?",
+      "options": [
+        "The Lucknow Pact of 1916",
+        "The Poona Pact of 1932",
+        "The Lahore Resolution of 1940",
+        "The Purna Swaraj resolution of 1929"
+      ],
+      "answer": 3,
+      "explanation": "The 1929 Lahore session's Purna Swaraj resolution authorised civil disobedience, which began with the Salt March."
+    },
+    {
+      "id": "dandi-salt-march-q21",
+      "difficulty": "medium",
+      "q": "In southern India, a parallel salt march was led at Vedaranyam by which leader?",
+      "options": [
+        "C. Rajagopalachari",
+        "Subramania Bharati",
+        "Annie Besant",
+        "Alluri Sitarama Raju"
+      ],
+      "answer": 0,
+      "explanation": "C. Rajagopalachari led a salt satyagraha march to Vedaranyam in the south, paralleling Gandhi's march."
+    },
+    {
+      "id": "dandi-salt-march-q22",
+      "difficulty": "hard",
+      "q": "Through how many villages did the Dandi March pass on its way to the coast?",
+      "options": [
+        "Just two villages",
+        "Around four dozen villages",
+        "Over five hundred villages",
+        "No villages at all"
+      ],
+      "answer": 1,
+      "explanation": "The march passed through dozens of villages, where Gandhi addressed crowds and recruited support along the route."
+    },
+    {
+      "id": "dandi-salt-march-q23",
+      "difficulty": "hard",
+      "q": "The Dandi March began from Sabarmati Ashram, which Gandhi had founded near Ahmedabad in which year?",
+      "options": [
+        "1930",
+        "1909",
+        "1917",
+        "1925"
+      ],
+      "answer": 2,
+      "explanation": "Sabarmati Ashram was established by Gandhi in 1917, and the 1930 march set out from there."
+    },
+    {
+      "id": "dandi-salt-march-q24",
+      "difficulty": "hard",
+      "q": "After Gandhi reached Dandi, he was arrested by the British in early May 1930 while planning a raid on which salt works?",
+      "options": [
+        "Sambhar Salt Lake",
+        "Khewra Salt Mines",
+        "Kutch Salt Pans",
+        "Dharasana Salt Works"
+      ],
+      "answer": 3,
+      "explanation": "Gandhi was arrested before his planned raid on the Dharasana Salt Works; the raid then went ahead under other leaders."
+    },
+    {
+      "id": "dandi-salt-march-q25",
+      "difficulty": "hard",
+      "q": "The Dandi March route ran roughly through which district region of Gujarat toward the coast?",
+      "options": [
+        "Kheda and Surat regions",
+        "Kutch and Saurashtra",
+        "Banaskantha and Patan",
+        "Dang and Valsad highlands"
+      ],
+      "answer": 0,
+      "explanation": "The march wound through the Kheda and Surat regions of Gujarat to reach the coast at Dandi."
+    },
+    {
+      "id": "dandi-salt-march-q26",
+      "difficulty": "hard",
+      "q": "Gandhi vowed before the march that he would not return to Sabarmati Ashram until what was achieved?",
+      "options": [
+        "The salt tax was halved",
+        "India won swaraj",
+        "He was elected to the legislature",
+        "He met the King"
+      ],
+      "answer": 1,
+      "explanation": "Gandhi pledged not to return to Sabarmati Ashram until India had won swaraj, and he never did."
+    },
+    {
+      "id": "dandi-salt-march-q27",
+      "difficulty": "hard",
+      "q": "Which British-era law established the salt monopoly that the march defied, dating back largely to which period?",
+      "options": [
+        "The Mughal era",
+        "The 1947 Independence Act",
+        "Nineteenth-century salt acts under colonial rule",
+        "The 1950 Constitution"
+      ],
+      "answer": 2,
+      "explanation": "British salt laws and the salt monopoly dated from nineteenth-century colonial legislation, which the march challenged."
+    },
+    {
+      "id": "dandi-salt-march-q28",
+      "difficulty": "hard",
+      "q": "The Dharasana Salt Works raid that followed was vividly reported by which American journalist?",
+      "options": [
+        "Louis Fischer",
+        "William Shirer",
+        "Edgar Snow",
+        "Webb Miller"
+      ],
+      "answer": 3,
+      "explanation": "Webb Miller's eyewitness report of the brutal Dharasana raid spread news of the satyagraha worldwide."
+    },
+    {
+      "id": "dandi-salt-march-q29",
+      "difficulty": "hard",
+      "q": "The Civil Disobedience Movement that the Salt March launched was eventually suspended by which 1931 agreement?",
+      "options": [
+        "The Gandhi-Irwin Pact",
+        "The Lucknow Pact",
+        "The Poona Pact",
+        "The Cripps proposals"
+      ],
+      "answer": 0,
+      "explanation": "The Gandhi-Irwin Pact of March 1931 suspended the Civil Disobedience Movement and made concessions on salt."
+    },
+    {
+      "id": "dandi-salt-march-q30",
+      "difficulty": "medium",
+      "q": "To commemorate the march, a national memorial was opened at Dandi in which decade?",
+      "options": [
+        "The 1950s",
+        "The 2010s-2019",
+        "The 1970s",
+        "The 1990s"
+      ],
+      "answer": 1,
+      "explanation": "The National Salt Satyagraha Memorial at Dandi was inaugurated in 2019, commemorating the march."
+    }
+  ]
+}
