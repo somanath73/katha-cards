@@ -65,10 +65,18 @@ const MAP = {
   // legally restricted (Prohibition of Improper Use Act); it stays an illustration.
 }
 
-// Override the auto-picked infobox image for cards where it lacks parseable license
-// metadata but a specific known freely-licensed file exists.
+// Override the auto-picked infobox image for cards where the infobox photo isn't
+// clearly free (or is the wrong subject), but a specific known freely-licensed file
+// exists. Pinning the file keeps real people/places on real photos instead of art.
 const FILE_OVERRIDE = {
   'jawaharlal-nehru': 'File:Jawaharlal Nehru 1949.jpg',
+  // Infobox photo is GFDL-1.2 (not in our accepted set); use a GODL-India PMO portrait.
+  'deve-gowda': 'File:The former Prime Minister, Shri H.D. Deve Gowda calling on the Prime Minister, Shri Narendra Modi, in New Delhi on June 03, 2015 (cropped).jpg',
+  // Auto-picker grabs the restricted court emblem; pin a CC BY-SA building photo instead.
+  'supreme-court': 'File:Supreme Court of India front view 02.jpg',
+  // 'sukumar-sen' has no free photograph; the only free file is the 2020 India Post
+  // stamp, whose crop lands on the Election Commission logo (not his face), so he
+  // stays an illustration.
 }
 
 // Accept only genuinely free licenses.
