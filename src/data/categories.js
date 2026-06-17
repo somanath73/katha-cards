@@ -40,7 +40,7 @@ export const CATEGORIES = [
     tagline: 'The republic and its makers',
     emblem: 'scroll',
     palette: 'ocean',
-    live: false,
+    live: true,
   },
   {
     id: 'indian-cinema',

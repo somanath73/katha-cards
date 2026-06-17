@@ -1,0 +1,395 @@
+{
+  "cardId": "rashtrapati-bhavan",
+  "questions": [
+    {
+      "id": "rashtrapati-bhavan-q01",
+      "difficulty": "easy",
+      "q": "Rashtrapati Bhavan is the official residence of which office-holder?",
+      "options": [
+        "The President of India",
+        "The Prime Minister of India",
+        "The Vice-President of India",
+        "The Chief Justice of India"
+      ],
+      "answer": 0,
+      "explanation": "Rashtrapati Bhavan is the official residence of the President of India."
+    },
+    {
+      "id": "rashtrapati-bhavan-q02",
+      "difficulty": "easy",
+      "q": "In which city is Rashtrapati Bhavan located?",
+      "options": [
+        "Mumbai",
+        "New Delhi",
+        "Hyderabad",
+        "Bengaluru"
+      ],
+      "answer": 1,
+      "explanation": "Rashtrapati Bhavan is located in New Delhi."
+    },
+    {
+      "id": "rashtrapati-bhavan-q03",
+      "difficulty": "easy",
+      "q": "Which architect is credited with designing Rashtrapati Bhavan?",
+      "options": [
+        "Herbert Baker",
+        "Le Corbusier",
+        "Edwin Lutyens",
+        "Charles Correa"
+      ],
+      "answer": 2,
+      "explanation": "Rashtrapati Bhavan was designed by Edwin Lutyens."
+    },
+    {
+      "id": "rashtrapati-bhavan-q04",
+      "difficulty": "easy",
+      "q": "In which year was Rashtrapati Bhavan completed?",
+      "options": [
+        "1911",
+        "1921",
+        "1947",
+        "1929"
+      ],
+      "answer": 3,
+      "explanation": "Rashtrapati Bhavan was completed in 1929."
+    },
+    {
+      "id": "rashtrapati-bhavan-q05",
+      "difficulty": "easy",
+      "q": "Before independence, Rashtrapati Bhavan was originally built as the residence of whom?",
+      "options": [
+        "The British Viceroy",
+        "The Mughal Emperor",
+        "The Prime Minister",
+        "The Chief Justice"
+      ],
+      "answer": 0,
+      "explanation": "It was originally built as the residence of the British Viceroy."
+    },
+    {
+      "id": "rashtrapati-bhavan-q06",
+      "difficulty": "easy",
+      "q": "What does the name 'Rashtrapati Bhavan' broadly mean?",
+      "options": [
+        "House of the People",
+        "House of the President",
+        "Hall of Justice",
+        "Palace of the King"
+      ],
+      "answer": 1,
+      "explanation": "Rashtrapati Bhavan translates roughly to the House of the President."
+    },
+    {
+      "id": "rashtrapati-bhavan-q07",
+      "difficulty": "easy",
+      "q": "Rashtrapati Bhavan stands atop which hill in New Delhi?",
+      "options": [
+        "Charminar Hill",
+        "Malabar Hill",
+        "Raisina Hill",
+        "Vidhana Hill"
+      ],
+      "answer": 2,
+      "explanation": "Rashtrapati Bhavan stands atop Raisina Hill in New Delhi."
+    },
+    {
+      "id": "rashtrapati-bhavan-q08",
+      "difficulty": "easy",
+      "q": "The famous gardens at Rashtrapati Bhavan were historically known by which name?",
+      "options": [
+        "Botanical Gardens",
+        "Hanging Gardens",
+        "Lodhi Gardens",
+        "Mughal Gardens"
+      ],
+      "answer": 3,
+      "explanation": "The gardens were long known as the Mughal Gardens at Rashtrapati Bhavan."
+    },
+    {
+      "id": "rashtrapati-bhavan-q09",
+      "difficulty": "easy",
+      "q": "Rashtrapati Bhavan was built during which broad period of Indian history?",
+      "options": [
+        "The British colonial period",
+        "The Maurya period",
+        "The Gupta period",
+        "The Vijayanagara period"
+      ],
+      "answer": 0,
+      "explanation": "Rashtrapati Bhavan was built during the British colonial period and completed in 1929."
+    },
+    {
+      "id": "rashtrapati-bhavan-q10",
+      "difficulty": "easy",
+      "q": "Rashtrapati Bhavan is located close to which other major government building complex?",
+      "options": [
+        "The Reserve Bank headquarters",
+        "The Secretariat Buildings",
+        "The Supreme Court",
+        "The Red Fort"
+      ],
+      "answer": 1,
+      "explanation": "Rashtrapati Bhavan sits adjacent to the Secretariat Buildings on Raisina Hill."
+    },
+    {
+      "id": "rashtrapati-bhavan-q11",
+      "difficulty": "medium",
+      "q": "Before being renamed Rashtrapati Bhavan, what was the building called during British rule?",
+      "options": [
+        "Parliament House",
+        "Council House",
+        "Government House (Viceroy's House)",
+        "Hyderabad House"
+      ],
+      "answer": 2,
+      "explanation": "It was known as the Viceroy's House or Government House before being renamed Rashtrapati Bhavan."
+    },
+    {
+      "id": "rashtrapati-bhavan-q12",
+      "difficulty": "medium",
+      "q": "Who was the first President of India to occupy Rashtrapati Bhavan as an official residence?",
+      "options": [
+        "V.V. Giri",
+        "S. Radhakrishnan",
+        "Zakir Husain",
+        "Rajendra Prasad"
+      ],
+      "answer": 3,
+      "explanation": "Dr. Rajendra Prasad, the first President of India, was the first to occupy Rashtrapati Bhavan."
+    },
+    {
+      "id": "rashtrapati-bhavan-q13",
+      "difficulty": "medium",
+      "q": "The construction of the Viceroy's House, later Rashtrapati Bhavan, took roughly how long?",
+      "options": [
+        "About 17 years",
+        "About 2 years",
+        "About 30 years",
+        "About 40 years"
+      ],
+      "answer": 0,
+      "explanation": "Construction took roughly 17 years, with the building completed in 1929."
+    },
+    {
+      "id": "rashtrapati-bhavan-q14",
+      "difficulty": "medium",
+      "q": "Rashtrapati Bhavan is renowned for its very large number of rooms, numbering approximately how many?",
+      "options": [
+        "About 50",
+        "About 340",
+        "About 100",
+        "About 1000"
+      ],
+      "answer": 1,
+      "explanation": "Rashtrapati Bhavan has approximately 340 rooms."
+    },
+    {
+      "id": "rashtrapati-bhavan-q15",
+      "difficulty": "medium",
+      "q": "Which prominent dome is a central architectural feature of Rashtrapati Bhavan, inspired in part by Indian forms?",
+      "options": [
+        "A pyramid roof",
+        "A Gothic spire",
+        "A large central dome over the building",
+        "A glass pyramid"
+      ],
+      "answer": 2,
+      "explanation": "A large central dome, drawing on Indian and classical influences, crowns Rashtrapati Bhavan."
+    },
+    {
+      "id": "rashtrapati-bhavan-q16",
+      "difficulty": "medium",
+      "q": "The Durbar Hall inside Rashtrapati Bhavan is used for which kind of occasions?",
+      "options": [
+        "Stock exchange trading",
+        "Daily cabinet meetings",
+        "Criminal trials",
+        "Important ceremonial functions such as swearing-in and award presentations"
+      ],
+      "answer": 3,
+      "explanation": "The Durbar Hall is used for important ceremonial functions like investitures and award ceremonies."
+    },
+    {
+      "id": "rashtrapati-bhavan-q17",
+      "difficulty": "medium",
+      "q": "Edwin Lutyens, the architect of Rashtrapati Bhavan, also contributed to the design of which nearby legislative building?",
+      "options": [
+        "Parliament House",
+        "The Supreme Court building",
+        "Hyderabad House",
+        "Jaipur House"
+      ],
+      "answer": 0,
+      "explanation": "Lutyens, with Herbert Baker, was also associated with the design of Parliament House."
+    },
+    {
+      "id": "rashtrapati-bhavan-q18",
+      "difficulty": "medium",
+      "q": "The Mughal Gardens at Rashtrapati Bhavan were officially renamed in 2023 to what?",
+      "options": [
+        "Shanti Bagh",
+        "Amrit Udyan",
+        "Rajpath Garden",
+        "Lutyens Garden"
+      ],
+      "answer": 1,
+      "explanation": "In 2023 the Mughal Gardens were renamed Amrit Udyan."
+    },
+    {
+      "id": "rashtrapati-bhavan-q19",
+      "difficulty": "medium",
+      "q": "Rashtrapati Bhavan lies at one end of the ceremonial boulevard now known as what?",
+      "options": [
+        "Brigade Road",
+        "Marine Drive",
+        "Kartavya Path (formerly Rajpath)",
+        "Mall Road"
+      ],
+      "answer": 2,
+      "explanation": "Rashtrapati Bhavan stands at one end of the ceremonial avenue now called Kartavya Path, formerly Rajpath."
+    },
+    {
+      "id": "rashtrapati-bhavan-q20",
+      "difficulty": "medium",
+      "q": "The forecourt of Rashtrapati Bhavan features a tall freestanding column known as what?",
+      "options": [
+        "The Victory Tower",
+        "The Ashoka Pillar",
+        "The Qutub Minar",
+        "The Jaipur Column"
+      ],
+      "answer": 3,
+      "explanation": "The forecourt of Rashtrapati Bhavan contains the Jaipur Column."
+    },
+    {
+      "id": "rashtrapati-bhavan-q21",
+      "difficulty": "medium",
+      "q": "Rashtrapati Bhavan was constructed mainly using which materials, in keeping with Lutyens's Delhi?",
+      "options": [
+        "Red and cream sandstone",
+        "White marble only",
+        "Black granite",
+        "Steel and glass"
+      ],
+      "answer": 0,
+      "explanation": "Rashtrapati Bhavan was built largely of red and cream sandstone, like much of Lutyens's Delhi."
+    },
+    {
+      "id": "rashtrapati-bhavan-q22",
+      "difficulty": "medium",
+      "q": "Rashtrapati Bhavan also has official retreats associated with the President in which hill stations?",
+      "options": [
+        "Darjeeling and Ooty",
+        "Shimla and Hyderabad (the Retreat Building and Rashtrapati Nilayam)",
+        "Manali and Mussoorie",
+        "Nainital and Shillong"
+      ],
+      "answer": 1,
+      "explanation": "Presidential retreats include the Retreat Building near Shimla and Rashtrapati Nilayam in Hyderabad."
+    },
+    {
+      "id": "rashtrapati-bhavan-q23",
+      "difficulty": "hard",
+      "q": "The Viceroy's House was first occupied in 1931 around the time of the formal inauguration of which capital?",
+      "options": [
+        "Simla as the capital",
+        "Calcutta as the capital",
+        "New Delhi as the capital",
+        "Bombay as the capital"
+      ],
+      "answer": 2,
+      "explanation": "The building was occupied around 1931, coinciding with the formal inauguration of New Delhi as the capital."
+    },
+    {
+      "id": "rashtrapati-bhavan-q24",
+      "difficulty": "hard",
+      "q": "Approximately how large is the built-up footprint of Rashtrapati Bhavan, making it one of the largest residences of a head of state?",
+      "options": [
+        "A few hundred square metres",
+        "Around 50 square metres",
+        "Around 5,000 square feet",
+        "Around 200,000 square feet of floor area"
+      ],
+      "answer": 3,
+      "explanation": "Rashtrapati Bhavan has an enormous floor area on the order of 200,000 square feet, among the largest residences of any head of state."
+    },
+    {
+      "id": "rashtrapati-bhavan-q25",
+      "difficulty": "hard",
+      "q": "The central dome of Rashtrapati Bhavan is widely noted to draw inspiration from which ancient Indian structure?",
+      "options": [
+        "The Great Stupa at Sanchi",
+        "The Qutub Minar",
+        "The Taj Mahal",
+        "The Konark Sun Temple"
+      ],
+      "answer": 0,
+      "explanation": "The dome's form is often compared to the Great Stupa at Sanchi."
+    },
+    {
+      "id": "rashtrapati-bhavan-q26",
+      "difficulty": "hard",
+      "q": "Rashtrapati Bhavan houses a museum complex opened to give the public access to its heritage; it is broadly known as what?",
+      "options": [
+        "The National Museum",
+        "The Rashtrapati Bhavan Museum Complex",
+        "The Indian Museum",
+        "The Salar Jung Museum"
+      ],
+      "answer": 1,
+      "explanation": "A Rashtrapati Bhavan Museum Complex was developed to open parts of the estate's heritage to visitors."
+    },
+    {
+      "id": "rashtrapati-bhavan-q27",
+      "difficulty": "hard",
+      "q": "Herbert Baker, who worked alongside Lutyens on Raisina Hill, was chiefly responsible for which adjacent buildings?",
+      "options": [
+        "The Jaipur Column",
+        "The Rashtrapati Bhavan dome",
+        "The North and South Block Secretariat Buildings",
+        "The India Gate arch"
+      ],
+      "answer": 2,
+      "explanation": "Herbert Baker designed the North and South Block Secretariat Buildings flanking Rashtrapati Bhavan."
+    },
+    {
+      "id": "rashtrapati-bhavan-q28",
+      "difficulty": "hard",
+      "q": "The estate of Rashtrapati Bhavan includes a self-contained township area historically referred to as what?",
+      "options": [
+        "Chanakyapuri",
+        "Lutyens Bungalow Zone alone",
+        "Civil Lines",
+        "The President's Estate"
+      ],
+      "answer": 3,
+      "explanation": "The grounds form the President's Estate, a township with residences, offices and amenities for staff."
+    },
+    {
+      "id": "rashtrapati-bhavan-q29",
+      "difficulty": "hard",
+      "q": "The change of guard and ceremonial guard duties at Rashtrapati Bhavan are performed by which body associated with the President?",
+      "options": [
+        "The President's Bodyguard",
+        "The Border Security Force",
+        "The Central Reserve Police Force",
+        "The National Security Guard"
+      ],
+      "answer": 0,
+      "explanation": "The President's Bodyguard, the senior-most regiment of the Indian Army, performs ceremonial duties at Rashtrapati Bhavan."
+    },
+    {
+      "id": "rashtrapati-bhavan-q30",
+      "difficulty": "hard",
+      "q": "Rashtrapati Bhavan's main building, the Mughal Gardens area, and the residence are arranged along a strong axis aligned with which monument down the avenue?",
+      "options": [
+        "The Red Fort",
+        "India Gate",
+        "Humayun's Tomb",
+        "Jantar Mantar"
+      ],
+      "answer": 1,
+      "explanation": "Rashtrapati Bhavan is aligned along the ceremonial axis that runs down the avenue toward India Gate."
+    }
+  ]
+}

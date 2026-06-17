@@ -1,0 +1,245 @@
+{
+  "cardId": "panchayati-raj",
+  "questions": [
+    {
+      "id": "panchayati-raj-q01",
+      "difficulty": "easy",
+      "q": "Which Constitutional Amendment gave constitutional status to Panchayati Raj?",
+      "options": ["The 72nd Amendment", "The 73rd Amendment", "The 74th Amendment", "The 42nd Amendment"],
+      "answer": 1,
+      "explanation": "The 73rd Constitutional Amendment of 1992 gave constitutional status to rural local self-government."
+    },
+    {
+      "id": "panchayati-raj-q02",
+      "difficulty": "easy",
+      "q": "In which year was the 73rd Amendment passed?",
+      "options": ["1985", "1990", "1992", "1996"],
+      "answer": 2,
+      "explanation": "The 73rd Constitutional Amendment was passed in 1992 and came into force in 1993."
+    },
+    {
+      "id": "panchayati-raj-q03",
+      "difficulty": "easy",
+      "q": "Panchayati Raj is a system of self-government primarily for which areas?",
+      "options": ["Cities", "Rural areas", "Industrial zones", "Coastal areas"],
+      "answer": 1,
+      "explanation": "Panchayati Raj provides for self-government in rural areas of India."
+    },
+    {
+      "id": "panchayati-raj-q04",
+      "difficulty": "easy",
+      "q": "How many tiers does the Panchayati Raj system have under the 73rd Amendment?",
+      "options": ["One tier", "Two tiers", "Three tiers", "Four tiers"],
+      "answer": 2,
+      "explanation": "The 73rd Amendment established a three-tier panchayat system at village, intermediate and district levels."
+    },
+    {
+      "id": "panchayati-raj-q05",
+      "difficulty": "easy",
+      "q": "The lowest tier of the Panchayati Raj system operates at which level?",
+      "options": ["District level", "State level", "Village level", "National level"],
+      "answer": 2,
+      "explanation": "The Gram Panchayat operates at the village level, the lowest tier of the system."
+    },
+    {
+      "id": "panchayati-raj-q06",
+      "difficulty": "easy",
+      "q": "The 73rd Amendment mandated reservation of seats in panchayats for which group, among others?",
+      "options": ["Women", "Industrialists", "Civil servants", "Foreign residents"],
+      "answer": 0,
+      "explanation": "The 73rd Amendment mandated reservation of seats for women and for weaker sections in panchayats."
+    },
+    {
+      "id": "panchayati-raj-q07",
+      "difficulty": "easy",
+      "q": "What is the village-level body of all registered voters in a panchayat area called?",
+      "options": ["Lok Sabha", "Rajya Sabha", "Zila Sabha", "Gram Sabha"],
+      "answer": 3,
+      "explanation": "The Gram Sabha is the assembly of all registered voters in a village within the panchayat area."
+    },
+    {
+      "id": "panchayati-raj-q08",
+      "difficulty": "easy",
+      "q": "The 73rd Amendment requires panchayat elections to be held:",
+      "options": ["Only when the state wishes", "Once in a decade", "Only during general elections", "Regularly, every five years"],
+      "answer": 3,
+      "explanation": "The 73rd Amendment mandates regular panchayat elections every five years."
+    },
+    {
+      "id": "panchayati-raj-q09",
+      "difficulty": "easy",
+      "q": "Panchayati Raj is associated with the idea of democracy at which level?",
+      "options": ["The grassroots", "The international level", "The corporate level", "The judicial level"],
+      "answer": 0,
+      "explanation": "Panchayati Raj is often described as democracy at the grassroots level."
+    },
+    {
+      "id": "panchayati-raj-q10",
+      "difficulty": "easy",
+      "q": "The head of a Gram Panchayat is commonly known as the:",
+      "options": ["Mayor", "Collector", "Governor", "Sarpanch"],
+      "answer": 3,
+      "explanation": "The elected head of a Gram Panchayat is commonly called the Sarpanch or Pradhan."
+    },
+    {
+      "id": "panchayati-raj-q11",
+      "difficulty": "medium",
+      "q": "The provisions relating to panchayats were added to the Constitution as which new Part?",
+      "options": ["Part VIII", "Part X", "Part IX-A", "Part IX"],
+      "answer": 3,
+      "explanation": "The 73rd Amendment added Part IX, titled 'The Panchayats', to the Constitution."
+    },
+    {
+      "id": "panchayati-raj-q12",
+      "difficulty": "medium",
+      "q": "Which Schedule was added to the Constitution by the 73rd Amendment listing subjects for panchayats?",
+      "options": ["Tenth Schedule", "Eleventh Schedule", "Twelfth Schedule", "Ninth Schedule"],
+      "answer": 1,
+      "explanation": "The Eleventh Schedule, listing 29 subjects for panchayats, was added by the 73rd Amendment."
+    },
+    {
+      "id": "panchayati-raj-q13",
+      "difficulty": "medium",
+      "q": "How many subjects are listed in the Eleventh Schedule for the panchayats?",
+      "options": ["18 subjects", "52 subjects", "29 subjects", "11 subjects"],
+      "answer": 2,
+      "explanation": "The Eleventh Schedule contains 29 subjects that may be devolved to panchayats."
+    },
+    {
+      "id": "panchayati-raj-q14",
+      "difficulty": "medium",
+      "q": "The intermediate tier of the Panchayati Raj system operates at which level?",
+      "options": ["Block level", "Ward level", "State level", "Hamlet level"],
+      "answer": 0,
+      "explanation": "The intermediate tier, often called the Panchayat Samiti or Mandal Parishad, operates at the block level."
+    },
+    {
+      "id": "panchayati-raj-q15",
+      "difficulty": "medium",
+      "q": "The top tier of the Panchayati Raj system operates at which level?",
+      "options": ["Village level", "Block level", "District level", "State level"],
+      "answer": 2,
+      "explanation": "The top tier, the Zila Parishad, operates at the district level."
+    },
+    {
+      "id": "panchayati-raj-q16",
+      "difficulty": "medium",
+      "q": "The 73rd Amendment provided that the intermediate tier may be omitted in states with a population below approximately:",
+      "options": ["Five lakh", "Twenty lakh", "Fifty lakh", "One crore"],
+      "answer": 1,
+      "explanation": "States with a population not exceeding twenty lakh may choose not to constitute the intermediate-level panchayat."
+    },
+    {
+      "id": "panchayati-raj-q17",
+      "difficulty": "medium",
+      "q": "Which body recommended a three-tier Panchayati Raj system in 1957, influencing later reforms?",
+      "options": ["Sarkaria Commission", "Punchhi Commission", "Ashok Mehta Committee", "Balwant Rai Mehta Committee"],
+      "answer": 3,
+      "explanation": "The Balwant Rai Mehta Committee of 1957 recommended a three-tier Panchayati Raj structure."
+    },
+    {
+      "id": "panchayati-raj-q18",
+      "difficulty": "medium",
+      "q": "Which state is widely recognised as the first to inaugurate the Panchayati Raj system, in 1959?",
+      "options": ["Rajasthan", "Maharashtra", "Gujarat", "Karnataka"],
+      "answer": 0,
+      "explanation": "Rajasthan was the first state to inaugurate Panchayati Raj, at Nagaur in 1959."
+    },
+    {
+      "id": "panchayati-raj-q19",
+      "difficulty": "medium",
+      "q": "Under the 73rd Amendment, who conducts elections to the panchayats?",
+      "options": ["The Election Commission of India", "The State Election Commission", "The District Collector", "The Governor"],
+      "answer": 1,
+      "explanation": "The 73rd Amendment provides for a State Election Commission to conduct panchayat elections."
+    },
+    {
+      "id": "panchayati-raj-q20",
+      "difficulty": "medium",
+      "q": "The body that recommends the distribution of financial resources to panchayats within a state is the:",
+      "options": ["State Finance Commission", "Union Finance Commission", "Planning Commission", "NITI Aayog"],
+      "answer": 0,
+      "explanation": "The 73rd Amendment provides for a State Finance Commission to review the finances of panchayats every five years."
+    },
+    {
+      "id": "panchayati-raj-q21",
+      "difficulty": "medium",
+      "q": "What minimum proportion of seats in panchayats is reserved for women under the 73rd Amendment?",
+      "options": ["One-fourth", "One-third", "One-half", "One-fifth"],
+      "answer": 1,
+      "explanation": "Not less than one-third of seats in panchayats are reserved for women under the 73rd Amendment."
+    },
+    {
+      "id": "panchayati-raj-q22",
+      "difficulty": "medium",
+      "q": "The Panchayati Raj idea draws on the constitutional Directive Principle in Article 40, which directs the State to organise:",
+      "options": ["Free legal aid", "Cottage industries", "Uniform civil code", "Village panchayats"],
+      "answer": 3,
+      "explanation": "Article 40, a Directive Principle, directs the State to organise village panchayats as units of self-government."
+    },
+    {
+      "id": "panchayati-raj-q23",
+      "difficulty": "hard",
+      "q": "Which committee, reporting in 1986, recommended giving constitutional status to Panchayati Raj institutions?",
+      "options": ["L.M. Singhvi Committee", "Ashok Mehta Committee", "G.V.K. Rao Committee", "Sarkaria Commission"],
+      "answer": 0,
+      "explanation": "The L.M. Singhvi Committee in 1986 recommended constitutional recognition for Panchayati Raj institutions."
+    },
+    {
+      "id": "panchayati-raj-q24",
+      "difficulty": "hard",
+      "q": "Under Article 243-E, what is the maximum term of a panchayat?",
+      "options": ["Three years", "Four years", "Five years", "Six years"],
+      "answer": 2,
+      "explanation": "Article 243-E fixes the term of every panchayat at five years from the date of its first meeting."
+    },
+    {
+      "id": "panchayati-raj-q25",
+      "difficulty": "hard",
+      "q": "Which Act of 1996 extended the provisions of Part IX to the Scheduled Areas?",
+      "options": ["PESA", "MGNREGA", "FRA", "RTI"],
+      "answer": 0,
+      "explanation": "The Panchayats (Extension to Scheduled Areas) Act, or PESA, of 1996 extended Part IX provisions to Scheduled Areas with modifications."
+    },
+    {
+      "id": "panchayati-raj-q26",
+      "difficulty": "hard",
+      "q": "Under Article 243-C, what is the minimum age to be eligible to be a member of a panchayat?",
+      "options": ["18 years", "25 years", "21 years", "30 years"],
+      "answer": 2,
+      "explanation": "A person must have attained the age of 21 years to be a member of a panchayat under Article 243-C."
+    },
+    {
+      "id": "panchayati-raj-q27",
+      "difficulty": "hard",
+      "q": "If a panchayat is dissolved before its term, an election to constitute a new one must be completed within what period?",
+      "options": ["Three months", "Six months", "One year", "Two years"],
+      "answer": 1,
+      "explanation": "Article 243-E requires that elections to a dissolved panchayat be completed within six months of dissolution."
+    },
+    {
+      "id": "panchayati-raj-q28",
+      "difficulty": "hard",
+      "q": "Which range of Articles in the Constitution deals with the Panchayats under Part IX?",
+      "options": ["Articles 244 to 244-A", "Articles 280 to 281", "Articles 324 to 329", "Articles 243 to 243-O"],
+      "answer": 3,
+      "explanation": "Part IX of the Constitution covers panchayats through Articles 243 to 243-O."
+    },
+    {
+      "id": "panchayati-raj-q29",
+      "difficulty": "hard",
+      "q": "Reservation of seats for Scheduled Castes and Scheduled Tribes in panchayats is to be in proportion to their:",
+      "options": ["Population in the panchayat area", "Number of registered voters only", "Land holdings", "Tax contribution"],
+      "answer": 0,
+      "explanation": "Article 243-D provides that seats reserved for SCs and STs are in proportion to their population in the panchayat area."
+    },
+    {
+      "id": "panchayati-raj-q30",
+      "difficulty": "hard",
+      "q": "The 73rd Amendment bars courts from interfering in panchayat electoral matters except through a petition filed:",
+      "options": ["Only in the Supreme Court", "Only after national elections", "Never under any circumstances", "As provided by state law"],
+      "answer": 3,
+      "explanation": "Article 243-O bars court interference in delimitation and election matters except by election petition as provided by state law."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "state-legislative-assemblies",
+  "questions": [
+    {
+      "id": "state-legislative-assemblies-q01",
+      "difficulty": "easy",
+      "q": "What is the Hindi name for the Legislative Assembly of a state?",
+      "options": [
+        "Vidhan Sabha",
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Vidhan Parishad"
+      ],
+      "answer": 0,
+      "explanation": "The Legislative Assembly of a state is known as the Vidhan Sabha."
+    },
+    {
+      "id": "state-legislative-assemblies-q02",
+      "difficulty": "easy",
+      "q": "How are the members of a Legislative Assembly chosen?",
+      "options": [
+        "Nominated by the Governor",
+        "Directly elected by the people of the state",
+        "Appointed by the President",
+        "Elected by other legislators"
+      ],
+      "answer": 1,
+      "explanation": "Members of the Legislative Assembly are directly elected by the people of the state."
+    },
+    {
+      "id": "state-legislative-assemblies-q03",
+      "difficulty": "easy",
+      "q": "The upper house found in some states is called the what?",
+      "options": [
+        "Rajya Sabha",
+        "Lok Sabha",
+        "Legislative Council (Vidhan Parishad)",
+        "Gram Sabha"
+      ],
+      "answer": 2,
+      "explanation": "Some states also have a Legislative Council, or Vidhan Parishad, as an upper house."
+    },
+    {
+      "id": "state-legislative-assemblies-q04",
+      "difficulty": "easy",
+      "q": "A member of a state Legislative Assembly is commonly abbreviated as what?",
+      "options": [
+        "MP",
+        "MNA",
+        "MLC",
+        "MLA"
+      ],
+      "answer": 3,
+      "explanation": "A member of a Legislative Assembly is called an MLA."
+    },
+    {
+      "id": "state-legislative-assemblies-q05",
+      "difficulty": "easy",
+      "q": "The main function of a Legislative Assembly is to do what for the state?",
+      "options": [
+        "Make laws",
+        "Conduct trials",
+        "Audit accounts",
+        "Command the army"
+      ],
+      "answer": 0,
+      "explanation": "The Legislative Assembly is the lawmaking body of the state."
+    },
+    {
+      "id": "state-legislative-assemblies-q06",
+      "difficulty": "easy",
+      "q": "Who presides over the sittings of a Legislative Assembly?",
+      "options": [
+        "The Governor",
+        "The Speaker of the Assembly",
+        "The Chief Minister",
+        "The Chief Justice"
+      ],
+      "answer": 1,
+      "explanation": "The Speaker of the Legislative Assembly presides over its sittings."
+    },
+    {
+      "id": "state-legislative-assemblies-q07",
+      "difficulty": "easy",
+      "q": "What is the normal term of a Legislative Assembly?",
+      "options": [
+        "Four years",
+        "Six years",
+        "Five years",
+        "Three years"
+      ],
+      "answer": 2,
+      "explanation": "The normal term of a Legislative Assembly is five years."
+    },
+    {
+      "id": "state-legislative-assemblies-q08",
+      "difficulty": "easy",
+      "q": "The Chief Minister of a state is usually the leader of the majority in which body?",
+      "options": [
+        "The Legislative Council",
+        "The panchayat",
+        "The Rajya Sabha",
+        "The Legislative Assembly"
+      ],
+      "answer": 3,
+      "explanation": "The Chief Minister is usually the leader of the majority party in the Legislative Assembly."
+    },
+    {
+      "id": "state-legislative-assemblies-q09",
+      "difficulty": "easy",
+      "q": "A state legislature that has only the Legislative Assembly and no second chamber is called what?",
+      "options": [
+        "Unicameral",
+        "Bicameral",
+        "Tricameral",
+        "Federal"
+      ],
+      "answer": 0,
+      "explanation": "A state legislature with only one house, the Assembly, is described as unicameral."
+    },
+    {
+      "id": "state-legislative-assemblies-q10",
+      "difficulty": "easy",
+      "q": "The state Council of Ministers is collectively responsible to which body?",
+      "options": [
+        "The Governor",
+        "The Legislative Assembly",
+        "The Rajya Sabha",
+        "The Supreme Court"
+      ],
+      "answer": 1,
+      "explanation": "The state Council of Ministers is collectively responsible to the Legislative Assembly."
+    },
+    {
+      "id": "state-legislative-assemblies-q11",
+      "difficulty": "medium",
+      "q": "According to the Constitution, what is the usual maximum strength of a state Legislative Assembly?",
+      "options": [
+        "250 members",
+        "545 members",
+        "500 members",
+        "552 members"
+      ],
+      "answer": 2,
+      "explanation": "The Constitution generally fixes the maximum strength of a Legislative Assembly at 500 members (with some special exceptions)."
+    },
+    {
+      "id": "state-legislative-assemblies-q12",
+      "difficulty": "medium",
+      "q": "According to the Constitution, what is the usual minimum strength of a state Legislative Assembly?",
+      "options": [
+        "40 members",
+        "30 members",
+        "100 members",
+        "60 members"
+      ],
+      "answer": 3,
+      "explanation": "The Constitution generally sets the minimum strength of a Legislative Assembly at 60 members, with some states having a lower number by special provision."
+    },
+    {
+      "id": "state-legislative-assemblies-q13",
+      "difficulty": "medium",
+      "q": "A Money Bill in a state with a Legislative Council can be introduced only in which house?",
+      "options": [
+        "The Legislative Assembly",
+        "The Legislative Council",
+        "Either house",
+        "A joint sitting"
+      ],
+      "answer": 0,
+      "explanation": "A Money Bill can be introduced only in the Legislative Assembly, not the Legislative Council."
+    },
+    {
+      "id": "state-legislative-assemblies-q14",
+      "difficulty": "medium",
+      "q": "The Legislative Assembly may make laws on subjects in which lists of the Seventh Schedule?",
+      "options": [
+        "Only the Union List",
+        "The State List and the Concurrent List",
+        "Only the Concurrent List",
+        "Only the Union and Concurrent Lists"
+      ],
+      "answer": 1,
+      "explanation": "State legislatures can make laws on subjects in the State List and the Concurrent List."
+    },
+    {
+      "id": "state-legislative-assemblies-q15",
+      "difficulty": "medium",
+      "q": "Who has the power to dissolve a Legislative Assembly?",
+      "options": [
+        "The Speaker",
+        "The Chief Minister",
+        "The Governor",
+        "The President directly in all cases"
+      ],
+      "answer": 2,
+      "explanation": "The Governor has the power to dissolve the Legislative Assembly, normally on the advice of the Council of Ministers."
+    },
+    {
+      "id": "state-legislative-assemblies-q16",
+      "difficulty": "medium",
+      "q": "The minimum age to be eligible for membership of a Legislative Assembly is what?",
+      "options": [
+        "18 years",
+        "21 years",
+        "30 years",
+        "25 years"
+      ],
+      "answer": 3,
+      "explanation": "A person must be at least 25 years of age to become a member of a Legislative Assembly."
+    },
+    {
+      "id": "state-legislative-assemblies-q17",
+      "difficulty": "medium",
+      "q": "Provisions for state legislatures are mainly contained in which Part of the Constitution?",
+      "options": [
+        "Part VI",
+        "Part V",
+        "Part IX",
+        "Part XI"
+      ],
+      "answer": 0,
+      "explanation": "Part VI of the Constitution deals with the states, including their legislatures."
+    },
+    {
+      "id": "state-legislative-assemblies-q18",
+      "difficulty": "medium",
+      "q": "A Legislative Council, where it exists, is a permanent body whose members typically retire in what manner?",
+      "options": [
+        "All at once every five years",
+        "One-third retiring every two years",
+        "Half every three years",
+        "Never, they serve for life"
+      ],
+      "answer": 1,
+      "explanation": "Like the Rajya Sabha, the Legislative Council is a permanent body with about one-third of its members retiring every two years."
+    },
+    {
+      "id": "state-legislative-assemblies-q19",
+      "difficulty": "medium",
+      "q": "A state can create or abolish its Legislative Council through a resolution of the Assembly followed by action of whom?",
+      "options": [
+        "The Governor alone",
+        "The Supreme Court",
+        "Parliament, by law",
+        "The Election Commission"
+      ],
+      "answer": 2,
+      "explanation": "A Legislative Council may be created or abolished by Parliament by law on the basis of a resolution passed by the state Assembly."
+    },
+    {
+      "id": "state-legislative-assemblies-q20",
+      "difficulty": "medium",
+      "q": "Who presides over the Legislative Council, where one exists?",
+      "options": [
+        "The Speaker",
+        "The Chief Minister",
+        "The Governor",
+        "The Chairman of the Council"
+      ],
+      "answer": 3,
+      "explanation": "The Legislative Council is presided over by its Chairman."
+    },
+    {
+      "id": "state-legislative-assemblies-q21",
+      "difficulty": "medium",
+      "q": "A state legislature that has both the Assembly and the Council is described as what?",
+      "options": [
+        "Bicameral",
+        "Unicameral",
+        "Multicameral",
+        "Provisional"
+      ],
+      "answer": 0,
+      "explanation": "A state legislature with two houses, the Assembly and the Council, is described as bicameral."
+    },
+    {
+      "id": "state-legislative-assemblies-q22",
+      "difficulty": "medium",
+      "q": "The State Legislature, as a whole, consists of the Governor together with which house or houses?",
+      "options": [
+        "Only the Legislative Assembly always",
+        "The Legislative Assembly, and the Council where it exists",
+        "Only the Legislative Council",
+        "The Parliament"
+      ],
+      "answer": 1,
+      "explanation": "The State Legislature comprises the Governor and the Legislative Assembly, plus the Legislative Council in states that have one."
+    },
+    {
+      "id": "state-legislative-assemblies-q23",
+      "difficulty": "hard",
+      "q": "Which Articles of the Constitution provide for the constitution of state legislatures?",
+      "options": [
+        "Articles 52 to 78",
+        "Articles 79 to 122",
+        "Articles 168 to 212",
+        "Articles 124 to 147"
+      ],
+      "answer": 2,
+      "explanation": "Articles 168 to 212 of the Constitution deal with the state legislatures."
+    },
+    {
+      "id": "state-legislative-assemblies-q24",
+      "difficulty": "hard",
+      "q": "The strength of a Legislative Council cannot exceed what fraction of the membership of the Legislative Assembly of that state?",
+      "options": [
+        "One-half",
+        "One-fourth",
+        "Two-thirds",
+        "One-third"
+      ],
+      "answer": 3,
+      "explanation": "The total number of members in a Legislative Council must not exceed one-third of the membership of the Assembly."
+    },
+    {
+      "id": "state-legislative-assemblies-q25",
+      "difficulty": "hard",
+      "q": "The minimum strength of a Legislative Council, where one exists, is fixed by the Constitution at what number?",
+      "options": [
+        "40 members",
+        "20 members",
+        "60 members",
+        "30 members"
+      ],
+      "answer": 0,
+      "explanation": "The Constitution provides that a Legislative Council shall not have fewer than 40 members."
+    },
+    {
+      "id": "state-legislative-assemblies-q26",
+      "difficulty": "hard",
+      "q": "The Governor may nominate a member of the Legislative Assembly from which community, by a provision that has been the subject of constitutional amendment over time?",
+      "options": [
+        "The Parsi community",
+        "The Anglo-Indian community (a provision since lapsed)",
+        "The Sikh community",
+        "The Jain community"
+      ],
+      "answer": 1,
+      "explanation": "Earlier, the Governor could nominate an Anglo-Indian member to the Assembly; this provision lapsed after the 104th Amendment."
+    },
+    {
+      "id": "state-legislative-assemblies-q27",
+      "difficulty": "hard",
+      "q": "Members of a Legislative Council are chosen partly by election by local bodies, graduates, teachers, the Assembly, and partly by what method?",
+      "options": [
+        "Direct popular election",
+        "Selection by the Chief Minister",
+        "Nomination by the Governor",
+        "Appointment by the President"
+      ],
+      "answer": 2,
+      "explanation": "A portion of Legislative Council members is nominated by the Governor, with others elected by various electorates."
+    },
+    {
+      "id": "state-legislative-assemblies-q28",
+      "difficulty": "hard",
+      "q": "When the Council disagrees with a non-money bill passed by the Assembly, the Council's power is essentially limited to causing what?",
+      "options": [
+        "A permanent veto",
+        "Dissolution of the Assembly",
+        "A referendum",
+        "Only a delay, after which the Assembly's will prevails"
+      ],
+      "answer": 3,
+      "explanation": "The Legislative Council can only delay an ordinary bill for a limited period; the Assembly's view ultimately prevails."
+    },
+    {
+      "id": "state-legislative-assemblies-q29",
+      "difficulty": "hard",
+      "q": "The territorial division from which a single member of a Legislative Assembly is elected is called a what?",
+      "options": [
+        "Assembly constituency",
+        "Ward",
+        "Tehsil",
+        "Block"
+      ],
+      "answer": 0,
+      "explanation": "Each MLA is elected from a defined territorial unit known as an Assembly constituency."
+    },
+    {
+      "id": "state-legislative-assemblies-q30",
+      "difficulty": "hard",
+      "q": "The term of a Legislative Assembly may be extended beyond five years only during which situation, and by law?",
+      "options": [
+        "A change of Chief Minister",
+        "A Proclamation of Emergency",
+        "A by-election",
+        "A budget session"
+      ],
+      "answer": 1,
+      "explanation": "While a Proclamation of Emergency is in operation, Parliament may by law extend the term of a Legislative Assembly."
+    }
+  ]
+}

@@ -1095,6 +1095,70 @@ button {
   text-shadow: 0 1px 8px rgba(0, 0, 0, 0.95);
 }
 
+/* ---------------- image credits ---------------- */
+
+.credits-chip {
+  border-color: rgba(111, 214, 255, 0.4);
+  color: #9fe0ff;
+}
+
+.credits-box {
+  text-align: left;
+}
+
+.credits-title {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  margin: 0 0 10px;
+}
+
+.credits-intro {
+  color: var(--ink-dim);
+  font-size: 0.9rem;
+  line-height: 1.55;
+  margin: 0 0 18px;
+}
+
+.credits-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.credits-list li {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding-bottom: 9px;
+  border-bottom: 1px solid var(--line);
+}
+
+.credits-list a {
+  color: var(--gold);
+  text-decoration: none;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.credits-list a:hover {
+  text-decoration: underline;
+}
+
+.credits-meta {
+  color: var(--ink-dim);
+  font-size: 0.8rem;
+}
+
+.credits-meta a {
+  color: #9fe0ff;
+  text-transform: none;
+  font-weight: 500;
+  font-size: 0.8rem;
+}
+
 /* ---------------- responsive ---------------- */
 
 @media (max-width: 640px) {

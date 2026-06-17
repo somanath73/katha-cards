@@ -1,0 +1,395 @@
+{
+  "cardId": "supreme-court",
+  "questions": [
+    {
+      "id": "supreme-court-q01",
+      "difficulty": "easy",
+      "q": "The Supreme Court of India is described as the highest body of which branch of government?",
+      "options": [
+        "The legislature",
+        "The judiciary",
+        "The executive",
+        "The Election Commission"
+      ],
+      "answer": 1,
+      "explanation": "The Supreme Court is the highest judicial body and the final court of appeal in India."
+    },
+    {
+      "id": "supreme-court-q02",
+      "difficulty": "easy",
+      "q": "On what date was the Supreme Court of India established?",
+      "options": [
+        "26 January 1950",
+        "15 August 1947",
+        "28 January 1950",
+        "26 November 1949"
+      ],
+      "answer": 2,
+      "explanation": "The Supreme Court of India was established on 28 January 1950."
+    },
+    {
+      "id": "supreme-court-q03",
+      "difficulty": "easy",
+      "q": "Who heads the Supreme Court of India?",
+      "options": [
+        "The Chief Justice of India",
+        "The President",
+        "The Attorney General",
+        "The Law Minister"
+      ],
+      "answer": 0,
+      "explanation": "The Chief Justice of India is the head of the Supreme Court."
+    },
+    {
+      "id": "supreme-court-q04",
+      "difficulty": "easy",
+      "q": "In which city is the Supreme Court of India located?",
+      "options": [
+        "Mumbai",
+        "New Delhi",
+        "Allahabad",
+        "Kolkata"
+      ],
+      "answer": 1,
+      "explanation": "The Supreme Court of India is located in New Delhi."
+    },
+    {
+      "id": "supreme-court-q05",
+      "difficulty": "easy",
+      "q": "The Supreme Court is often described as the guardian of which document?",
+      "options": [
+        "The Constitution",
+        "The national flag",
+        "The annual budget",
+        "The electoral rolls"
+      ],
+      "answer": 0,
+      "explanation": "The Supreme Court is the guardian and final interpreter of the Constitution."
+    },
+    {
+      "id": "supreme-court-q06",
+      "difficulty": "easy",
+      "q": "Who appoints the judges of the Supreme Court of India?",
+      "options": [
+        "The Prime Minister",
+        "The Chief Election Commissioner",
+        "The Parliament",
+        "The President"
+      ],
+      "answer": 3,
+      "explanation": "Judges of the Supreme Court are appointed by the President of India."
+    },
+    {
+      "id": "supreme-court-q07",
+      "difficulty": "easy",
+      "q": "Up to what age may a judge of the Supreme Court hold office?",
+      "options": [
+        "65 years",
+        "62 years",
+        "70 years",
+        "60 years"
+      ],
+      "answer": 0,
+      "explanation": "A Supreme Court judge holds office until the age of 65 years."
+    },
+    {
+      "id": "supreme-court-q08",
+      "difficulty": "easy",
+      "q": "Which of these is one of the three jurisdictions exercised by the Supreme Court?",
+      "options": [
+        "Appellate jurisdiction",
+        "Legislative jurisdiction",
+        "Electoral jurisdiction",
+        "Financial jurisdiction"
+      ],
+      "answer": 0,
+      "explanation": "The Supreme Court exercises original, appellate and advisory jurisdiction."
+    },
+    {
+      "id": "supreme-court-q09",
+      "difficulty": "easy",
+      "q": "Who was the first Chief Justice of India?",
+      "options": [
+        "M. Patanjali Sastri",
+        "B.K. Mukherjea",
+        "S.R. Das",
+        "H.J. Kania"
+      ],
+      "answer": 3,
+      "explanation": "H.J. Kania was the first Chief Justice of India."
+    },
+    {
+      "id": "supreme-court-q10",
+      "difficulty": "easy",
+      "q": "A decision of the Supreme Court is binding on which other courts in India?",
+      "options": [
+        "Only the High Courts",
+        "All courts within India",
+        "Only district courts",
+        "No other courts"
+      ],
+      "answer": 1,
+      "explanation": "The law declared by the Supreme Court is binding on all courts within the territory of India."
+    },
+    {
+      "id": "supreme-court-q11",
+      "difficulty": "medium",
+      "q": "The Supreme Court is established under which Part of the Constitution?",
+      "options": [
+        "Part III",
+        "Part V",
+        "Part IX",
+        "Part XI"
+      ],
+      "answer": 1,
+      "explanation": "The Union judiciary, including the Supreme Court, is dealt with in Part V of the Constitution."
+    },
+    {
+      "id": "supreme-court-q12",
+      "difficulty": "medium",
+      "q": "Which article of the Constitution provides for the establishment of the Supreme Court of India?",
+      "options": [
+        "Article 214",
+        "Article 124",
+        "Article 280",
+        "Article 324"
+      ],
+      "answer": 1,
+      "explanation": "Article 124 provides for the establishment and constitution of the Supreme Court."
+    },
+    {
+      "id": "supreme-court-q13",
+      "difficulty": "medium",
+      "q": "Under which article does the Supreme Court issue writs for the enforcement of Fundamental Rights?",
+      "options": [
+        "Article 136",
+        "Article 226",
+        "Article 32",
+        "Article 143"
+      ],
+      "answer": 2,
+      "explanation": "Article 32 empowers the Supreme Court to issue writs for the enforcement of Fundamental Rights."
+    },
+    {
+      "id": "supreme-court-q14",
+      "difficulty": "medium",
+      "q": "The original jurisdiction of the Supreme Court covers disputes between which parties?",
+      "options": [
+        "Two private citizens",
+        "The Union and States, or between States",
+        "Two companies",
+        "Members of Parliament"
+      ],
+      "answer": 1,
+      "explanation": "Under Article 131, the Supreme Court has original jurisdiction in disputes between the Union and States or among States."
+    },
+    {
+      "id": "supreme-court-q15",
+      "difficulty": "medium",
+      "q": "The advisory jurisdiction, under which the President may seek the Supreme Court's opinion on a question of law, is provided by which article?",
+      "options": [
+        "Article 143",
+        "Article 32",
+        "Article 124",
+        "Article 137"
+      ],
+      "answer": 0,
+      "explanation": "Article 143 allows the President to refer questions of law or fact to the Supreme Court for its advisory opinion."
+    },
+    {
+      "id": "supreme-court-q16",
+      "difficulty": "medium",
+      "q": "The Special Leave Petition, allowing the Supreme Court to grant leave to appeal from any court or tribunal, arises under which article?",
+      "options": [
+        "Article 136",
+        "Article 32",
+        "Article 131",
+        "Article 143"
+      ],
+      "answer": 0,
+      "explanation": "Article 136 grants the Supreme Court discretion to allow special leave to appeal from any court or tribunal."
+    },
+    {
+      "id": "supreme-court-q17",
+      "difficulty": "medium",
+      "q": "Who was the first woman judge appointed to the Supreme Court of India?",
+      "options": [
+        "Leila Seth",
+        "Sujata Manohar",
+        "Ruma Pal",
+        "Fathima Beevi"
+      ],
+      "answer": 3,
+      "explanation": "Justice M. Fathima Beevi became the first woman judge of the Supreme Court of India in 1989."
+    },
+    {
+      "id": "supreme-court-q18",
+      "difficulty": "medium",
+      "q": "A judge of the Supreme Court can be removed from office only through which process?",
+      "options": [
+        "Impeachment-style removal by Parliament",
+        "A simple executive order",
+        "A no-confidence motion",
+        "A decision of the Bar Council"
+      ],
+      "answer": 0,
+      "explanation": "A Supreme Court judge can be removed only by an order of the President after a special-majority address by both Houses of Parliament on grounds of proved misbehaviour or incapacity."
+    },
+    {
+      "id": "supreme-court-q19",
+      "difficulty": "medium",
+      "q": "Before retirement, the language of the Constitution requires that a person be a judge of a High Court for how many years to qualify as a Supreme Court judge by that route?",
+      "options": [
+        "Three years",
+        "Ten years",
+        "Fifteen years",
+        "Five years"
+      ],
+      "answer": 3,
+      "explanation": "One qualifying route is having been a judge of a High Court for at least five years."
+    },
+    {
+      "id": "supreme-court-q20",
+      "difficulty": "medium",
+      "q": "The power of the Supreme Court to review laws for constitutional validity is known as what?",
+      "options": [
+        "Collective responsibility",
+        "Judicial review",
+        "Delimitation",
+        "Federalism"
+      ],
+      "answer": 1,
+      "explanation": "Judicial review allows the Supreme Court to examine and strike down laws that violate the Constitution."
+    },
+    {
+      "id": "supreme-court-q21",
+      "difficulty": "medium",
+      "q": "The original sanctioned strength of the Supreme Court at its inception was one Chief Justice and how many other judges?",
+      "options": [
+        "Thirty-three",
+        "Thirteen",
+        "Twenty-five",
+        "Seven"
+      ],
+      "answer": 3,
+      "explanation": "At its inception in 1950, the Supreme Court had a Chief Justice and seven other judges."
+    },
+    {
+      "id": "supreme-court-q22",
+      "difficulty": "medium",
+      "q": "A retired Supreme Court judge is, by convention and rule, barred from doing what?",
+      "options": [
+        "Voting in elections",
+        "Pleading or acting before any court within India",
+        "Writing books",
+        "Receiving a pension"
+      ],
+      "answer": 1,
+      "explanation": "A retired Supreme Court judge is prohibited from practising or pleading before any court or authority within the territory of India."
+    },
+    {
+      "id": "supreme-court-q23",
+      "difficulty": "hard",
+      "q": "In the 1973 Kesavananda Bharati case, the Supreme Court enunciated which doctrine limiting Parliament's amending power?",
+      "options": [
+        "The doctrine of pleasure",
+        "The doctrine of eclipse",
+        "The basic structure doctrine",
+        "The colourable legislation doctrine"
+      ],
+      "answer": 2,
+      "explanation": "In Kesavananda Bharati (1973), the Supreme Court held that Parliament cannot alter the basic structure of the Constitution."
+    },
+    {
+      "id": "supreme-court-q24",
+      "difficulty": "hard",
+      "q": "The current sanctioned strength of the Supreme Court is one Chief Justice and how many other judges, as fixed in 2019?",
+      "options": [
+        "Twenty-five",
+        "Thirty",
+        "Thirty-three",
+        "Thirty-five"
+      ],
+      "answer": 2,
+      "explanation": "Since 2019, the sanctioned strength is the Chief Justice plus 33 other judges, a total of 34."
+    },
+    {
+      "id": "supreme-court-q25",
+      "difficulty": "hard",
+      "q": "Article 137 confers on the Supreme Court the power to do what regarding its own judgments?",
+      "options": [
+        "Amend the Constitution",
+        "Dissolve Parliament",
+        "Review its own judgments and orders",
+        "Appoint High Court judges"
+      ],
+      "answer": 2,
+      "explanation": "Article 137 empowers the Supreme Court to review any judgment pronounced or order made by it."
+    },
+    {
+      "id": "supreme-court-q26",
+      "difficulty": "hard",
+      "q": "Who was the longest-serving Chief Justice of India, holding that office from 1978 to 1985?",
+      "options": [
+        "H.J. Kania",
+        "M. Hidayatullah",
+        "Y.V. Chandrachud",
+        "P.B. Gajendragadkar"
+      ],
+      "answer": 2,
+      "explanation": "Y.V. Chandrachud served as Chief Justice of India from 1978 to 1985, the longest tenure in that office."
+    },
+    {
+      "id": "supreme-court-q27",
+      "difficulty": "hard",
+      "q": "The collegium system, by which judges of the higher judiciary are recommended for appointment, evolved through the Supreme Court's judgments commonly called the what?",
+      "options": [
+        "Bank Nationalisation Cases",
+        "Election Cases",
+        "Privy Purse Cases",
+        "Judges' Cases"
+      ],
+      "answer": 3,
+      "explanation": "The collegium system evolved through the series of Supreme Court rulings known as the Judges' Cases."
+    },
+    {
+      "id": "supreme-court-q28",
+      "difficulty": "hard",
+      "q": "The seat of the Supreme Court is at Delhi, but the Constitution allows the Court to sit elsewhere with the approval of whom?",
+      "options": [
+        "The Prime Minister",
+        "The President",
+        "Parliament",
+        "The Chief Justice, with the President's approval"
+      ],
+      "answer": 3,
+      "explanation": "Under Article 130, the Supreme Court may sit at places other than Delhi as the Chief Justice may decide with the approval of the President."
+    },
+    {
+      "id": "supreme-court-q29",
+      "difficulty": "hard",
+      "q": "The Supreme Court replaced which earlier body as the apex appellate authority after the Constitution came into force?",
+      "options": [
+        "The Federal Court of India and appeals to the Privy Council",
+        "The Calcutta High Court",
+        "The Constituent Assembly",
+        "The Central Legislative Assembly"
+      ],
+      "answer": 0,
+      "explanation": "The Supreme Court succeeded the Federal Court of India and ended appeals to the Judicial Committee of the Privy Council in London."
+    },
+    {
+      "id": "supreme-court-q30",
+      "difficulty": "hard",
+      "q": "Under Article 141, the law declared by the Supreme Court has what character?",
+      "options": [
+        "Merely advisory",
+        "Binding only on the parties",
+        "Binding on all courts within India",
+        "Subject to ratification by states"
+      ],
+      "answer": 2,
+      "explanation": "Article 141 provides that the law declared by the Supreme Court is binding on all courts within the territory of India."
+    }
+  ]
+}

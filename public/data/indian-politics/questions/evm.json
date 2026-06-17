@@ -1,0 +1,395 @@
+{
+  "cardId": "evm",
+  "questions": [
+    {
+      "id": "evm-q01",
+      "difficulty": "easy",
+      "q": "What does the abbreviation EVM stand for in Indian elections?",
+      "options": [
+        "Electronic Voting Machine",
+        "Elective Voting Module",
+        "Electoral Verification Method",
+        "Electronic Vote Monitor"
+      ],
+      "answer": 0,
+      "explanation": "EVM stands for Electronic Voting Machine, the device used to record votes in Indian elections."
+    },
+    {
+      "id": "evm-q02",
+      "difficulty": "easy",
+      "q": "What did EVMs replace in the conduct of Indian elections?",
+      "options": [
+        "Paper ballots",
+        "Postal cards",
+        "Show of hands",
+        "Voice voting"
+      ],
+      "answer": 0,
+      "explanation": "EVMs replaced the earlier system of paper ballots used to record votes."
+    },
+    {
+      "id": "evm-q03",
+      "difficulty": "easy",
+      "q": "In which year was an EVM first used in an Indian election?",
+      "options": [
+        "1982",
+        "1990",
+        "1971",
+        "2009"
+      ],
+      "answer": 0,
+      "explanation": "An EVM was first used in a 1982 by-election in Kerala."
+    },
+    {
+      "id": "evm-q04",
+      "difficulty": "easy",
+      "q": "In which state was the EVM first used in 1982?",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Maharashtra",
+        "Punjab"
+      ],
+      "answer": 0,
+      "explanation": "The EVM was first used in a 1982 by-election in the Paravur assembly constituency in Kerala."
+    },
+    {
+      "id": "evm-q05",
+      "difficulty": "easy",
+      "q": "By which general election were EVMs adopted nationwide across all constituencies?",
+      "options": [
+        "2004",
+        "1999",
+        "2014",
+        "1989"
+      ],
+      "answer": 0,
+      "explanation": "EVMs were adopted nationwide for the general elections of 2004."
+    },
+    {
+      "id": "evm-q06",
+      "difficulty": "easy",
+      "q": "EVMs are paired with which printed-record unit in Indian elections?",
+      "options": [
+        "VVPAT",
+        "RFID tag",
+        "QR receipt",
+        "Smart card"
+      ],
+      "answer": 0,
+      "explanation": "EVMs are paired with VVPAT units that produce a paper record of each vote."
+    },
+    {
+      "id": "evm-q07",
+      "difficulty": "easy",
+      "q": "Which body administers the use of EVMs in Indian elections?",
+      "options": [
+        "Election Commission of India",
+        "Reserve Bank of India",
+        "Supreme Court of India",
+        "Union Public Service Commission"
+      ],
+      "answer": 0,
+      "explanation": "The Election Commission of India administers elections and the use of EVMs."
+    },
+    {
+      "id": "evm-q08",
+      "difficulty": "easy",
+      "q": "What does the abbreviation VVPAT stand for?",
+      "options": [
+        "Voter Verifiable Paper Audit Trail",
+        "Verified Vote Polling Audit Test",
+        "Voter Validation Paper Access Token",
+        "Voting Verification Public Audit Trail"
+      ],
+      "answer": 0,
+      "explanation": "VVPAT stands for Voter Verifiable Paper Audit Trail."
+    },
+    {
+      "id": "evm-q09",
+      "difficulty": "easy",
+      "q": "An EVM in India typically consists of two connected units. What are they?",
+      "options": [
+        "Display Unit and Memory Unit",
+        "Control Unit and Balloting Unit",
+        "Scanner Unit and Printer Unit",
+        "Power Unit and Counting Unit"
+      ],
+      "answer": 1,
+      "explanation": "An EVM consists of a Control Unit operated by polling staff and a Balloting Unit used by voters."
+    },
+    {
+      "id": "evm-q10",
+      "difficulty": "easy",
+      "q": "Which unit of the EVM does the voter use to cast a vote?",
+      "options": [
+        "The Control Unit",
+        "The Balloting Unit",
+        "The Counting Unit",
+        "The Printer Unit"
+      ],
+      "answer": 1,
+      "explanation": "The voter presses a button on the Balloting Unit to cast a vote."
+    },
+    {
+      "id": "evm-q11",
+      "difficulty": "medium",
+      "q": "Which two public-sector undertakings manufacture EVMs used in Indian elections?",
+      "options": [
+        "Hindustan Aeronautics Limited and Steel Authority of India",
+        "Bharat Electronics Limited and Electronics Corporation of India Limited",
+        "Bharat Heavy Electricals and Gail India",
+        "Indian Telephone Industries and Coal India"
+      ],
+      "answer": 1,
+      "explanation": "EVMs are manufactured by Bharat Electronics Limited (BEL) and Electronics Corporation of India Limited (ECIL)."
+    },
+    {
+      "id": "evm-q12",
+      "difficulty": "medium",
+      "q": "The unit of the EVM operated by polling officials to release each ballot is the:",
+      "options": [
+        "Balloting Unit",
+        "Control Unit",
+        "VVPAT Unit",
+        "Counting Unit"
+      ],
+      "answer": 1,
+      "explanation": "The Control Unit is operated by polling officials, who release a ballot for each voter."
+    },
+    {
+      "id": "evm-q13",
+      "difficulty": "medium",
+      "q": "What does the VVPAT unit produce when a voter casts a vote?",
+      "options": [
+        "A digital receipt sent to the voter's phone",
+        "A printed paper slip showing the chosen candidate",
+        "A photograph of the voter",
+        "A barcode wristband"
+      ],
+      "answer": 1,
+      "explanation": "The VVPAT prints a paper slip showing the chosen candidate and symbol, briefly visible to the voter."
+    },
+    {
+      "id": "evm-q14",
+      "difficulty": "medium",
+      "q": "The NOTA option, allowing a voter to reject all candidates, was introduced on EVMs following a 2013 ruling by which court?",
+      "options": [
+        "Delhi High Court",
+        "Supreme Court of India",
+        "Election Tribunal",
+        "Central Information Commission"
+      ],
+      "answer": 1,
+      "explanation": "Following a 2013 Supreme Court ruling, the None of the Above (NOTA) option was added to EVMs."
+    },
+    {
+      "id": "evm-q15",
+      "difficulty": "medium",
+      "q": "What does the NOTA button on an EVM allow a voter to do?",
+      "options": [
+        "Vote for two candidates",
+        "Reject all listed candidates",
+        "Cancel and revote",
+        "Register a complaint"
+      ],
+      "answer": 1,
+      "explanation": "NOTA, None of the Above, lets a voter formally choose not to support any of the listed candidates."
+    },
+    {
+      "id": "evm-q16",
+      "difficulty": "medium",
+      "q": "Indian EVMs are designed as standalone devices, meaning they are:",
+      "options": [
+        "Linked to a central online server",
+        "Not connected to any network or the internet",
+        "Connected to mobile networks",
+        "Operated through Wi-Fi"
+      ],
+      "answer": 1,
+      "explanation": "Indian EVMs are standalone machines not connected to any network or the internet."
+    },
+    {
+      "id": "evm-q17",
+      "difficulty": "medium",
+      "q": "Indian EVMs are powered primarily by which source, allowing use without continuous mains electricity?",
+      "options": [
+        "A solar panel only",
+        "A hand crank",
+        "An internal battery",
+        "A diesel generator"
+      ],
+      "answer": 2,
+      "explanation": "EVMs run on an internal battery, enabling their use even where mains power is unavailable."
+    },
+    {
+      "id": "evm-q18",
+      "difficulty": "medium",
+      "q": "Compared with paper ballots, one practical advantage cited for EVMs is faster:",
+      "options": [
+        "Printing of ballots",
+        "Distribution of voter cards",
+        "Counting of votes",
+        "Drawing of constituencies"
+      ],
+      "answer": 2,
+      "explanation": "EVMs allow much faster counting of votes than manual counting of paper ballots."
+    },
+    {
+      "id": "evm-q19",
+      "difficulty": "medium",
+      "q": "In the conduct of polls, EVMs are kept secure between polling and counting in:",
+      "options": [
+        "Open polling booths",
+        "Voter homes",
+        "Sealed strong rooms",
+        "Bank lockers of candidates"
+      ],
+      "answer": 2,
+      "explanation": "After polling, EVMs are sealed and stored in guarded strong rooms until counting day."
+    },
+    {
+      "id": "evm-q20",
+      "difficulty": "medium",
+      "q": "The maximum number of candidates a single Balloting Unit can accommodate is generally limited; additional units are linked when there are more candidates than:",
+      "options": [
+        "Ten total candidates",
+        "Two total candidates",
+        "The capacity of one unit",
+        "One hundred total candidates"
+      ],
+      "answer": 2,
+      "explanation": "When candidates exceed a single Balloting Unit's capacity, additional units are connected to the Control Unit."
+    },
+    {
+      "id": "evm-q21",
+      "difficulty": "medium",
+      "q": "Each EVM Balloting Unit lists candidates along with their names and which other identifier?",
+      "options": [
+        "Aadhaar number",
+        "Bank account",
+        "Election symbol",
+        "Passport number"
+      ],
+      "answer": 2,
+      "explanation": "The Balloting Unit displays each candidate's name and allotted election symbol."
+    },
+    {
+      "id": "evm-q22",
+      "difficulty": "medium",
+      "q": "EVMs were used in Indian elections for the first time in 1982 under powers exercised by which authority, before later statutory backing?",
+      "options": [
+        "The Lok Sabha Secretariat",
+        "The Comptroller and Auditor General",
+        "The Election Commission of India",
+        "The Reserve Bank of India"
+      ],
+      "answer": 2,
+      "explanation": "The Election Commission introduced EVMs in 1982 in a by-election before later legislative backing for their use."
+    },
+    {
+      "id": "evm-q23",
+      "difficulty": "hard",
+      "q": "The 1982 by-election where EVMs were first used was in which assembly constituency of Kerala?",
+      "options": [
+        "Ernakulam",
+        "Thrissur",
+        "Paravur",
+        "Kollam"
+      ],
+      "answer": 2,
+      "explanation": "The EVM was first used in the Paravur (Parur) assembly constituency by-election in Kerala in 1982."
+    },
+    {
+      "id": "evm-q24",
+      "difficulty": "hard",
+      "q": "Use of EVMs was given clearer legal footing by an amendment to which law in 1989?",
+      "options": [
+        "The Indian Penal Code, 1860",
+        "The Citizenship Act, 1955",
+        "The Companies Act, 1956",
+        "The Representation of the People Act, 1951"
+      ],
+      "answer": 3,
+      "explanation": "A 1989 amendment to the Representation of the People Act, 1951 provided legal backing for the use of voting machines."
+    },
+    {
+      "id": "evm-q25",
+      "difficulty": "hard",
+      "q": "In which year did the Supreme Court direct that VVPAT be introduced alongside EVMs?",
+      "options": [
+        "2004",
+        "1998",
+        "2019",
+        "2013"
+      ],
+      "answer": 3,
+      "explanation": "In 2013 the Supreme Court directed the introduction of VVPAT to enhance transparency in EVM-based voting."
+    },
+    {
+      "id": "evm-q26",
+      "difficulty": "hard",
+      "q": "EVMs were first used on a limited basis in a general (Lok Sabha) election in which year, before full nationwide adoption?",
+      "options": [
+        "1991",
+        "2004",
+        "2009",
+        "1999"
+      ],
+      "answer": 3,
+      "explanation": "EVMs were used in selected constituencies in the 1999 general election before nationwide use in 2004."
+    },
+    {
+      "id": "evm-q27",
+      "difficulty": "hard",
+      "q": "The general election of 2004 was significant for EVMs because it was the first Lok Sabha election in which they were used:",
+      "options": [
+        "Only in metropolitan cities",
+        "Alongside compulsory paper re-counts everywhere",
+        "For the first time ever",
+        "In every constituency across the country"
+      ],
+      "answer": 3,
+      "explanation": "The 2004 general election was the first in which EVMs were used in every parliamentary constituency."
+    },
+    {
+      "id": "evm-q28",
+      "difficulty": "hard",
+      "q": "VVPAT slips are stored in a sealed compartment so that they can be used for:",
+      "options": [
+        "Distribution to voters as receipts",
+        "Display on public notice boards",
+        "Mailing to candidates",
+        "Verification and counting if required"
+      ],
+      "answer": 3,
+      "explanation": "VVPAT slips drop into a sealed box and can be counted to verify EVM results when required."
+    },
+    {
+      "id": "evm-q29",
+      "difficulty": "hard",
+      "q": "Which feature of the Indian EVM design is intended to prevent rapid repeated voting by limiting the rate of recorded votes?",
+      "options": [
+        "A facial recognition camera",
+        "A fingerprint scanner on every unit",
+        "A mandatory two-minute lockout for all voters",
+        "A built-in restriction on votes per unit time"
+      ],
+      "answer": 3,
+      "explanation": "Indian EVMs are designed to record only a limited number of votes per minute, limiting the rate of voting."
+    },
+    {
+      "id": "evm-q30",
+      "difficulty": "hard",
+      "q": "Once a vote is recorded on an EVM, the machine is designed so that the Control Unit:",
+      "options": [
+        "Allows the voter to vote again",
+        "Displays the running tally to the public",
+        "Transmits the vote to a server",
+        "Locks until the next ballot is released"
+      ],
+      "answer": 3,
+      "explanation": "After a vote is cast, the EVM locks so no further vote can be entered until officials release the next ballot."
+    }
+  ]
+}

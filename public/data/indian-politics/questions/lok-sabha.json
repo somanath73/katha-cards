@@ -1,0 +1,395 @@
+{
+  "cardId": "lok-sabha",
+  "questions": [
+    {
+      "id": "lok-sabha-q01",
+      "difficulty": "easy",
+      "q": "The Lok Sabha is also known by which name?",
+      "options": [
+        "House of the People",
+        "Council of States",
+        "Upper House",
+        "Council of Elders"
+      ],
+      "answer": 0,
+      "explanation": "The Lok Sabha is the House of the People, the lower house of Parliament."
+    },
+    {
+      "id": "lok-sabha-q02",
+      "difficulty": "easy",
+      "q": "How are members of the Lok Sabha chosen?",
+      "options": [
+        "Nominated by the President",
+        "Directly elected by the people",
+        "Elected by state legislatures",
+        "Appointed by the Prime Minister"
+      ],
+      "answer": 1,
+      "explanation": "Lok Sabha members are directly elected by the people through general elections."
+    },
+    {
+      "id": "lok-sabha-q03",
+      "difficulty": "easy",
+      "q": "What is the normal term of the Lok Sabha?",
+      "options": [
+        "Four years",
+        "Six years",
+        "Five years",
+        "Permanent"
+      ],
+      "answer": 2,
+      "explanation": "The Lok Sabha has a normal term of five years from the date of its first sitting."
+    },
+    {
+      "id": "lok-sabha-q04",
+      "difficulty": "easy",
+      "q": "Within Parliament, the Lok Sabha is referred to as the:",
+      "options": [
+        "Upper House",
+        "Permanent House",
+        "Advisory House",
+        "Lower House"
+      ],
+      "answer": 3,
+      "explanation": "The Lok Sabha is the lower house of the bicameral Parliament of India."
+    },
+    {
+      "id": "lok-sabha-q05",
+      "difficulty": "easy",
+      "q": "Who presides over the sittings of the Lok Sabha?",
+      "options": [
+        "The Speaker",
+        "The President",
+        "The Vice-President",
+        "The Prime Minister"
+      ],
+      "answer": 0,
+      "explanation": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "id": "lok-sabha-q06",
+      "difficulty": "easy",
+      "q": "Who was the first Speaker of independent India's Lok Sabha?",
+      "options": [
+        "M. Ananthasayanam Ayyangar",
+        "G.V. Mavalankar",
+        "Hukam Singh",
+        "N. Sanjiva Reddy"
+      ],
+      "answer": 1,
+      "explanation": "G.V. Mavalankar served as the first Speaker of the Lok Sabha, from 1952."
+    },
+    {
+      "id": "lok-sabha-q07",
+      "difficulty": "easy",
+      "q": "The maximum strength of the Lok Sabha mentioned in the Constitution is:",
+      "options": [
+        "500 members",
+        "545 members",
+        "552 members",
+        "600 members"
+      ],
+      "answer": 2,
+      "explanation": "The Constitution provides a maximum strength of 552 members for the Lok Sabha."
+    },
+    {
+      "id": "lok-sabha-q08",
+      "difficulty": "easy",
+      "q": "The Council of Ministers is collectively responsible to which House?",
+      "options": [
+        "The Rajya Sabha",
+        "Both Houses equally",
+        "The state assemblies",
+        "The Lok Sabha"
+      ],
+      "answer": 3,
+      "explanation": "Under the Constitution, the Council of Ministers is collectively responsible to the Lok Sabha."
+    },
+    {
+      "id": "lok-sabha-q09",
+      "difficulty": "easy",
+      "q": "A motion expressing loss of majority support for the government is moved in the Lok Sabha as a:",
+      "options": [
+        "No-confidence motion",
+        "Money motion",
+        "Privilege motion",
+        "Adjournment motion"
+      ],
+      "answer": 0,
+      "explanation": "A no-confidence motion tests whether the Council of Ministers retains the confidence of the Lok Sabha."
+    },
+    {
+      "id": "lok-sabha-q10",
+      "difficulty": "easy",
+      "q": "An electoral division that elects one Lok Sabha member is called a:",
+      "options": [
+        "Ward",
+        "Constituency",
+        "Tehsil",
+        "Division"
+      ],
+      "answer": 1,
+      "explanation": "Each Lok Sabha member is elected from a territorial constituency."
+    },
+    {
+      "id": "lok-sabha-q11",
+      "difficulty": "medium",
+      "q": "What is the minimum age to be eligible for election to the Lok Sabha?",
+      "options": [
+        "21 years",
+        "30 years",
+        "25 years",
+        "35 years"
+      ],
+      "answer": 2,
+      "explanation": "A person must be at least 25 years of age to be eligible for membership of the Lok Sabha."
+    },
+    {
+      "id": "lok-sabha-q12",
+      "difficulty": "medium",
+      "q": "The Speaker of the Lok Sabha is elected by:",
+      "options": [
+        "The President",
+        "The Prime Minister",
+        "Both Houses jointly",
+        "The members of the Lok Sabha"
+      ],
+      "answer": 3,
+      "explanation": "The Speaker is chosen by the members of the Lok Sabha from among themselves."
+    },
+    {
+      "id": "lok-sabha-q13",
+      "difficulty": "medium",
+      "q": "Who decides whether a bill is a money bill?",
+      "options": [
+        "The Speaker of the Lok Sabha",
+        "The President",
+        "The Finance Minister",
+        "The Chairman of the Rajya Sabha"
+      ],
+      "answer": 0,
+      "explanation": "Under Article 110, the Speaker's decision on whether a bill is a money bill is final."
+    },
+    {
+      "id": "lok-sabha-q14",
+      "difficulty": "medium",
+      "q": "The composition of the Lok Sabha and the allocation of seats to states is dealt with in which Article?",
+      "options": [
+        "Article 79",
+        "Article 81",
+        "Article 110",
+        "Article 124"
+      ],
+      "answer": 1,
+      "explanation": "Article 81 deals with the composition of the Lok Sabha and the allocation of seats; the normal five-year term is set out separately in Article 83."
+    },
+    {
+      "id": "lok-sabha-q15",
+      "difficulty": "medium",
+      "q": "During a national Emergency, the term of the Lok Sabha may be extended by Parliament by a period not exceeding:",
+      "options": [
+        "Six months at a time",
+        "Two years at a time",
+        "One year at a time",
+        "Five years at a time"
+      ],
+      "answer": 2,
+      "explanation": "While a Proclamation of Emergency is in operation, the Lok Sabha's life may be extended by up to one year at a time."
+    },
+    {
+      "id": "lok-sabha-q16",
+      "difficulty": "medium",
+      "q": "Who can dissolve the Lok Sabha?",
+      "options": [
+        "The Speaker",
+        "The Prime Minister directly",
+        "The Vice-President",
+        "The President"
+      ],
+      "answer": 3,
+      "explanation": "Under Article 85, the President may dissolve the Lok Sabha."
+    },
+    {
+      "id": "lok-sabha-q17",
+      "difficulty": "medium",
+      "q": "When the Speaker's office is vacant or the Speaker is absent, who presides over the Lok Sabha?",
+      "options": [
+        "The Deputy Speaker",
+        "The Prime Minister",
+        "The leader of the largest party",
+        "The Secretary-General"
+      ],
+      "answer": 0,
+      "explanation": "The Deputy Speaker presides in the absence of the Speaker."
+    },
+    {
+      "id": "lok-sabha-q18",
+      "difficulty": "medium",
+      "q": "In a general election, voters of the Lok Sabha cast their vote based on which principle?",
+      "options": [
+        "Indirect election",
+        "Universal adult franchise",
+        "Proportional representation by single transferable vote",
+        "Nomination"
+      ],
+      "answer": 1,
+      "explanation": "Lok Sabha members are elected by direct election on the basis of universal adult franchise."
+    },
+    {
+      "id": "lok-sabha-q19",
+      "difficulty": "medium",
+      "q": "Certain seats in the Lok Sabha are reserved for which groups?",
+      "options": [
+        "Religious minorities",
+        "Women only",
+        "Scheduled Castes and Scheduled Tribes",
+        "Retired civil servants"
+      ],
+      "answer": 2,
+      "explanation": "The Constitution provides for reservation of seats for Scheduled Castes and Scheduled Tribes in the Lok Sabha."
+    },
+    {
+      "id": "lok-sabha-q20",
+      "difficulty": "medium",
+      "q": "The maximum strength of 552 for the Lok Sabha includes members from the states and:",
+      "options": [
+        "Foreign delegates",
+        "Retired judges",
+        "State governors",
+        "The union territories"
+      ],
+      "answer": 3,
+      "explanation": "The maximum strength comprises members representing the states and the union territories."
+    },
+    {
+      "id": "lok-sabha-q21",
+      "difficulty": "medium",
+      "q": "To whom does the Speaker of the Lok Sabha tender a resignation?",
+      "options": [
+        "The Deputy Speaker",
+        "The President",
+        "The Prime Minister",
+        "The Vice-President"
+      ],
+      "answer": 0,
+      "explanation": "The Speaker resigns by writing addressed to the Deputy Speaker of the Lok Sabha."
+    },
+    {
+      "id": "lok-sabha-q22",
+      "difficulty": "hard",
+      "q": "The total elected strength of the Lok Sabha for general elections, excluding nominated members, is generally:",
+      "options": [
+        "530 members",
+        "543 members",
+        "545 members",
+        "552 members"
+      ],
+      "answer": 1,
+      "explanation": "The Lok Sabha currently has 543 elected seats filled through direct election from constituencies."
+    },
+    {
+      "id": "lok-sabha-q23",
+      "difficulty": "hard",
+      "q": "The provision allowing reservation of seats in the Lok Sabha for Scheduled Castes and Scheduled Tribes has been periodically extended through which mechanism?",
+      "options": [
+        "A presidential order",
+        "A Supreme Court ruling",
+        "Constitutional amendments",
+        "An Election Commission notification"
+      ],
+      "answer": 2,
+      "explanation": "Reservation of seats for these communities has been extended over time through constitutional amendments."
+    },
+    {
+      "id": "lok-sabha-q24",
+      "difficulty": "hard",
+      "q": "A Speaker of the Lok Sabha may be removed from office by a resolution passed by:",
+      "options": [
+        "A two-thirds majority",
+        "The President",
+        "The Rajya Sabha",
+        "A simple majority of all then members"
+      ],
+      "answer": 3,
+      "explanation": "The Speaker may be removed by a resolution passed by a majority of all the then members of the Lok Sabha, after 14 days notice."
+    },
+    {
+      "id": "lok-sabha-q25",
+      "difficulty": "hard",
+      "q": "Once a money bill is passed by the Lok Sabha and sent to the Rajya Sabha, the Rajya Sabha must return it within:",
+      "options": [
+        "Fourteen days",
+        "Seven days",
+        "Twenty-one days",
+        "Thirty days"
+      ],
+      "answer": 0,
+      "explanation": "The Rajya Sabha must return a money bill within fourteen days; otherwise it is deemed passed."
+    },
+    {
+      "id": "lok-sabha-q26",
+      "difficulty": "hard",
+      "q": "The provision that allowed nomination of members of the Anglo-Indian community to the Lok Sabha lapsed after which amendment?",
+      "options": [
+        "The 91st Amendment",
+        "The 104th Amendment",
+        "The 95th Amendment",
+        "The 101st Amendment"
+      ],
+      "answer": 1,
+      "explanation": "The 104th Amendment, effective in 2020, ended the provision for nominated Anglo-Indian members."
+    },
+    {
+      "id": "lok-sabha-q27",
+      "difficulty": "hard",
+      "q": "The allocation of Lok Sabha seats among states is based on which constitutional principle?",
+      "options": [
+        "Equal seats per state",
+        "Geographic area",
+        "Population, as far as practicable uniform across states",
+        "Revenue contribution"
+      ],
+      "answer": 2,
+      "explanation": "Seats are allotted so that the ratio of seats to population is, as far as practicable, the same for all states."
+    },
+    {
+      "id": "lok-sabha-q28",
+      "difficulty": "hard",
+      "q": "The Speaker of the Lok Sabha exercises a casting vote in the case of:",
+      "options": [
+        "Every division",
+        "Money bills only",
+        "Constitutional amendments only",
+        "An equality of votes"
+      ],
+      "answer": 3,
+      "explanation": "The Speaker does not vote in the first instance but exercises a casting vote in the case of a tie."
+    },
+    {
+      "id": "lok-sabha-q29",
+      "difficulty": "hard",
+      "q": "A Lok Sabha member may resign their seat by writing addressed to the:",
+      "options": [
+        "Speaker",
+        "President",
+        "Prime Minister",
+        "Election Commission"
+      ],
+      "answer": 0,
+      "explanation": "A member resigns by writing addressed to the Speaker of the Lok Sabha."
+    },
+    {
+      "id": "lok-sabha-q30",
+      "difficulty": "medium",
+      "q": "The Speaker of the outgoing Lok Sabha vacates office when?",
+      "options": [
+        "Immediately on dissolution",
+        "Just before the first meeting of the new Lok Sabha",
+        "Six months after dissolution",
+        "On the new Speaker being sworn in by the President"
+      ],
+      "answer": 1,
+      "explanation": "The Speaker does not vacate office on dissolution but continues until immediately before the first meeting of the newly constituted Lok Sabha."
+    }
+  ]
+}

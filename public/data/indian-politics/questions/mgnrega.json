@@ -1,0 +1,395 @@
+{
+  "cardId": "mgnrega",
+  "questions": [
+    {
+      "id": "mgnrega-q01",
+      "difficulty": "easy",
+      "q": "In which year was the legislation now known as MGNREGA enacted?",
+      "options": [
+        "2005",
+        "2000",
+        "2009",
+        "2013"
+      ],
+      "answer": 0,
+      "explanation": "The National Rural Employment Guarantee Act was enacted in 2005."
+    },
+    {
+      "id": "mgnrega-q02",
+      "difficulty": "easy",
+      "q": "MGNREGA guarantees how many days of wage employment in a year to a rural household?",
+      "options": [
+        "50 days",
+        "100 days",
+        "75 days",
+        "200 days"
+      ],
+      "answer": 1,
+      "explanation": "The Act guarantees up to 100 days of wage employment per year to a rural household."
+    },
+    {
+      "id": "mgnrega-q03",
+      "difficulty": "easy",
+      "q": "MGNREGA is named after which national figure?",
+      "options": [
+        "Jawaharlal Nehru",
+        "B.R. Ambedkar",
+        "Mahatma Gandhi",
+        "Sardar Patel"
+      ],
+      "answer": 2,
+      "explanation": "The Act is named the Mahatma Gandhi National Rural Employment Guarantee Act."
+    },
+    {
+      "id": "mgnrega-q04",
+      "difficulty": "easy",
+      "q": "MGNREGA primarily provides employment to which category of households?",
+      "options": [
+        "Urban households",
+        "Industrial workers",
+        "Government employees",
+        "Rural households"
+      ],
+      "answer": 3,
+      "explanation": "The Act guarantees wage employment to rural households whose adult members volunteer to do unskilled manual work."
+    },
+    {
+      "id": "mgnrega-q05",
+      "difficulty": "easy",
+      "q": "MGNREGA is best described as which type of guarantee?",
+      "options": [
+        "A right to work",
+        "A right to education",
+        "A right to property",
+        "A right to vote"
+      ],
+      "answer": 0,
+      "explanation": "MGNREGA is often described as embodying a legal right to work for rural households."
+    },
+    {
+      "id": "mgnrega-q06",
+      "difficulty": "easy",
+      "q": "The kind of work primarily offered under MGNREGA is:",
+      "options": [
+        "Software development",
+        "Unskilled manual work",
+        "Banking services",
+        "Teaching"
+      ],
+      "answer": 1,
+      "explanation": "MGNREGA provides unskilled manual work, typically on public works such as water conservation and rural roads."
+    },
+    {
+      "id": "mgnrega-q07",
+      "difficulty": "easy",
+      "q": "Which local self-government body plays a central role in planning and implementing MGNREGA works?",
+      "options": [
+        "Rajya Sabha",
+        "Supreme Court",
+        "Gram Panchayat",
+        "Election Commission"
+      ],
+      "answer": 2,
+      "explanation": "Gram Panchayats have a central role in planning and implementing works under MGNREGA."
+    },
+    {
+      "id": "mgnrega-q08",
+      "difficulty": "easy",
+      "q": "MGNREGA is one of the world's largest programmes of what kind?",
+      "options": [
+        "Space research",
+        "Defence procurement",
+        "Banking regulation",
+        "Public employment"
+      ],
+      "answer": 3,
+      "explanation": "MGNREGA is regarded as one of the largest public employment programmes in the world."
+    },
+    {
+      "id": "mgnrega-q09",
+      "difficulty": "easy",
+      "q": "A document recording the entitlement of a registered MGNREGA household is the:",
+      "options": [
+        "Job card",
+        "Ration card",
+        "Voter card",
+        "Aadhaar card"
+      ],
+      "answer": 0,
+      "explanation": "Registered households are issued a job card recording their entitlement under MGNREGA."
+    },
+    {
+      "id": "mgnrega-q10",
+      "difficulty": "easy",
+      "q": "MGNREGA falls primarily under the administrative responsibility of which Union ministry?",
+      "options": [
+        "Ministry of Finance",
+        "Ministry of Rural Development",
+        "Ministry of Defence",
+        "Ministry of External Affairs"
+      ],
+      "answer": 1,
+      "explanation": "MGNREGA is administered by the Union Ministry of Rural Development."
+    },
+    {
+      "id": "mgnrega-q11",
+      "difficulty": "medium",
+      "q": "Under what name was the Act originally enacted before being renamed after Mahatma Gandhi in 2009?",
+      "options": [
+        "Rural Wage Programme Act",
+        "Employment Assurance Act",
+        "National Rural Employment Guarantee Act",
+        "National Food for Work Act"
+      ],
+      "answer": 2,
+      "explanation": "It was originally the National Rural Employment Guarantee Act (NREGA), renamed MGNREGA in 2009."
+    },
+    {
+      "id": "mgnrega-q12",
+      "difficulty": "medium",
+      "q": "Under MGNREGA, if employment is not provided within a stipulated period of demand, the applicant is entitled to:",
+      "options": [
+        "Free housing",
+        "A government job",
+        "A bank loan",
+        "An unemployment allowance"
+      ],
+      "answer": 3,
+      "explanation": "If work is not provided within the stipulated time, the applicant is entitled to an unemployment allowance."
+    },
+    {
+      "id": "mgnrega-q13",
+      "difficulty": "medium",
+      "q": "Within how many days of applying must employment ordinarily be provided under MGNREGA?",
+      "options": [
+        "15 days",
+        "7 days",
+        "30 days",
+        "60 days"
+      ],
+      "answer": 0,
+      "explanation": "Employment is to be provided within 15 days of application, failing which an unemployment allowance is payable."
+    },
+    {
+      "id": "mgnrega-q14",
+      "difficulty": "medium",
+      "q": "MGNREGA requires that a minimum share of beneficiaries be women; that share is at least:",
+      "options": [
+        "One-tenth",
+        "One-third",
+        "One-fifth",
+        "One-half"
+      ],
+      "answer": 1,
+      "explanation": "The Act provides that at least one-third of the beneficiaries should be women."
+    },
+    {
+      "id": "mgnrega-q15",
+      "difficulty": "medium",
+      "q": "A key social accountability mechanism mandated under MGNREGA to review works at the village level is the:",
+      "options": [
+        "Cabinet meeting",
+        "Floor test",
+        "Social audit",
+        "Money bill"
+      ],
+      "answer": 2,
+      "explanation": "MGNREGA mandates regular social audits of works, conducted with community participation."
+    },
+    {
+      "id": "mgnrega-q16",
+      "difficulty": "medium",
+      "q": "Under MGNREGA, if a worksite is located beyond a certain distance from the worker's residence, the worker is entitled to:",
+      "options": [
+        "A free bicycle",
+        "Double the wages permanently",
+        "A government pension",
+        "An additional travel and subsistence allowance"
+      ],
+      "answer": 3,
+      "explanation": "If the worksite is beyond the prescribed distance, an extra allowance toward travel and subsistence is payable."
+    },
+    {
+      "id": "mgnrega-q17",
+      "difficulty": "medium",
+      "q": "A large share of works under MGNREGA has traditionally focused on which area?",
+      "options": [
+        "Water conservation and land development",
+        "Stock market regulation",
+        "Air traffic control",
+        "Currency printing"
+      ],
+      "answer": 0,
+      "explanation": "Permissible works include water conservation, drought proofing, land development and rural connectivity."
+    },
+    {
+      "id": "mgnrega-q18",
+      "difficulty": "medium",
+      "q": "MGNREGA wage payments are now largely routed through which mechanism to improve transparency?",
+      "options": [
+        "Cash handed out at the worksite",
+        "Direct credit to bank or post office accounts",
+        "Cheques mailed annually",
+        "Vouchers exchanged at shops"
+      ],
+      "answer": 1,
+      "explanation": "Wages are generally paid by direct transfer to workers' bank or post office accounts."
+    },
+    {
+      "id": "mgnrega-q19",
+      "difficulty": "medium",
+      "q": "Demand for work under MGNREGA is described as:",
+      "options": [
+        "Allotted only once a year by officials",
+        "Available only to landowners",
+        "Demand-driven, initiated by the worker",
+        "Restricted to festival seasons"
+      ],
+      "answer": 2,
+      "explanation": "MGNREGA is a demand-driven programme in which eligible workers apply for employment when they need it."
+    },
+    {
+      "id": "mgnrega-q20",
+      "difficulty": "medium",
+      "q": "MGNREGA seeks to limit the use of which input on its worksites to maximise labour employment?",
+      "options": [
+        "Hand tools",
+        "Local materials",
+        "Village labour",
+        "Heavy machinery and contractors"
+      ],
+      "answer": 3,
+      "explanation": "The Act discourages the use of contractors and labour-displacing machinery to maximise employment generation."
+    },
+    {
+      "id": "mgnrega-q21",
+      "difficulty": "medium",
+      "q": "The body the Act provides for to advise the central government on MGNREGA is the:",
+      "options": [
+        "Central Employment Guarantee Council",
+        "Central Information Commission",
+        "Finance Commission",
+        "Planning Commission"
+      ],
+      "answer": 0,
+      "explanation": "The Act establishes a Central Employment Guarantee Council to advise on implementation and monitoring."
+    },
+    {
+      "id": "mgnrega-q22",
+      "difficulty": "medium",
+      "q": "MGNREGA's employment guarantee is provided at the level of the:",
+      "options": [
+        "Individual only",
+        "Household",
+        "Village as a whole",
+        "District"
+      ],
+      "answer": 1,
+      "explanation": "The 100-day guarantee applies to each rural household rather than to each individual."
+    },
+    {
+      "id": "mgnrega-q23",
+      "difficulty": "hard",
+      "q": "MGNREGA was initially rolled out in February 2006 covering how many districts in its first phase?",
+      "options": [
+        "100 districts",
+        "330 districts",
+        "200 districts",
+        "All districts"
+      ],
+      "answer": 2,
+      "explanation": "The programme was launched in February 2006 in 200 districts in its first phase, before being extended nationwide."
+    },
+    {
+      "id": "mgnrega-q24",
+      "difficulty": "hard",
+      "q": "By which financial year had MGNREGA been extended to cover essentially all rural districts of the country?",
+      "options": [
+        "2006-07",
+        "2011-12",
+        "2014-15",
+        "2008-09"
+      ],
+      "answer": 3,
+      "explanation": "MGNREGA was extended to cover all rural districts of the country by 2008-09."
+    },
+    {
+      "id": "mgnrega-q25",
+      "difficulty": "hard",
+      "q": "Under MGNREGA, the power to notify the applicable wage rate for the scheme rests with the:",
+      "options": [
+        "Central Government",
+        "Reserve Bank of India",
+        "Supreme Court",
+        "Lok Sabha Speaker"
+      ],
+      "answer": 0,
+      "explanation": "The central government notifies the MGNREGA wage rates, which it revises from time to time."
+    },
+    {
+      "id": "mgnrega-q26",
+      "difficulty": "hard",
+      "q": "The assembly of village residents that approves the shelf of works and conducts social audits under MGNREGA is the:",
+      "options": [
+        "Lok Sabha",
+        "Gram Sabha",
+        "Rajya Sabha",
+        "Vidhan Sabha"
+      ],
+      "answer": 1,
+      "explanation": "The Gram Sabha recommends works and is central to the social audit process under MGNREGA."
+    },
+    {
+      "id": "mgnrega-q27",
+      "difficulty": "hard",
+      "q": "MGNREGA provides that wages be paid within a stipulated period of work completion, failing which the worker may be entitled to:",
+      "options": [
+        "A criminal complaint against the village",
+        "Permanent government employment",
+        "Compensation for delayed payment",
+        "A doubling of the work guarantee"
+      ],
+      "answer": 2,
+      "explanation": "The Act and its rules provide for compensation to workers for delays in the payment of wages."
+    },
+    {
+      "id": "mgnrega-q28",
+      "difficulty": "hard",
+      "q": "An official designated to receive and redress grievances under MGNREGA at the district or block level is commonly known as the:",
+      "options": [
+        "Returning Officer",
+        "Public Prosecutor",
+        "Cabinet Secretary",
+        "Ombudsman"
+      ],
+      "answer": 3,
+      "explanation": "MGNREGA guidelines provide for an Ombudsman to receive and dispose of grievances related to the scheme."
+    },
+    {
+      "id": "mgnrega-q29",
+      "difficulty": "hard",
+      "q": "Funding for the wage component of MGNREGA is borne primarily by which level of government?",
+      "options": [
+        "The central government",
+        "State governments alone",
+        "Gram Panchayats alone",
+        "Private donors"
+      ],
+      "answer": 0,
+      "explanation": "The central government bears the full cost of the unskilled wage component, with costs shared on other items."
+    },
+    {
+      "id": "mgnrega-q30",
+      "difficulty": "hard",
+      "q": "The original NREGA legislation that became MGNREGA received the assent of the President in which year?",
+      "options": [
+        "2004",
+        "2005",
+        "2006",
+        "2009"
+      ],
+      "answer": 1,
+      "explanation": "The National Rural Employment Guarantee Act received presidential assent in September 2005."
+    }
+  ]
+}

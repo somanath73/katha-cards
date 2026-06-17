@@ -1,0 +1,395 @@
+{
+  "cardId": "fundamental-duties",
+  "questions": [
+    {
+      "id": "fundamental-duties-q01",
+      "difficulty": "easy",
+      "q": "In which Part of the Constitution are the Fundamental Duties contained?",
+      "options": [
+        "Part IV-A",
+        "Part III",
+        "Part IV",
+        "Part II"
+      ],
+      "answer": 0,
+      "explanation": "The Fundamental Duties were added as Part IV-A of the Constitution."
+    },
+    {
+      "id": "fundamental-duties-q02",
+      "difficulty": "easy",
+      "q": "The Fundamental Duties were added to the Constitution by which amendment?",
+      "options": [
+        "The 44th Amendment of 1978",
+        "The 42nd Amendment of 1976",
+        "The 1st Amendment of 1951",
+        "The 73rd Amendment of 1992"
+      ],
+      "answer": 1,
+      "explanation": "Fundamental Duties were inserted by the 42nd Constitutional Amendment in 1976."
+    },
+    {
+      "id": "fundamental-duties-q03",
+      "difficulty": "easy",
+      "q": "Which single article of the Constitution lists the Fundamental Duties?",
+      "options": [
+        "Article 21",
+        "Article 32",
+        "Article 51A",
+        "Article 368"
+      ],
+      "answer": 2,
+      "explanation": "All Fundamental Duties are enumerated in Article 51A."
+    },
+    {
+      "id": "fundamental-duties-q04",
+      "difficulty": "easy",
+      "q": "How many Fundamental Duties does the list currently contain?",
+      "options": [
+        "Ten",
+        "Twelve",
+        "Nine",
+        "Eleven"
+      ],
+      "answer": 3,
+      "explanation": "The list of Fundamental Duties now contains eleven duties."
+    },
+    {
+      "id": "fundamental-duties-q05",
+      "difficulty": "easy",
+      "q": "The Fundamental Duties are obligations addressed primarily to whom?",
+      "options": [
+        "Foreign visitors",
+        "Citizens of India",
+        "State governments only",
+        "The judiciary"
+      ],
+      "answer": 1,
+      "explanation": "The Fundamental Duties are obligations laid down for the citizens of India."
+    },
+    {
+      "id": "fundamental-duties-q06",
+      "difficulty": "easy",
+      "q": "One Fundamental Duty requires citizens to respect the national flag and which other national symbol?",
+      "options": [
+        "The national highway",
+        "The national bank",
+        "The national anthem",
+        "The national park"
+      ],
+      "answer": 2,
+      "explanation": "Citizens are duty-bound to respect the Constitution, the national flag and the national anthem."
+    },
+    {
+      "id": "fundamental-duties-q07",
+      "difficulty": "easy",
+      "q": "Which of the following is listed among the Fundamental Duties?",
+      "options": [
+        "To pay a wealth tax",
+        "To serve in the armed forces",
+        "To vote in every election",
+        "To protect and improve the natural environment"
+      ],
+      "answer": 3,
+      "explanation": "Protecting and improving the natural environment, including forests and wildlife, is a Fundamental Duty."
+    },
+    {
+      "id": "fundamental-duties-q08",
+      "difficulty": "easy",
+      "q": "Are the Fundamental Duties enforceable by the courts in the same way as Fundamental Rights?",
+      "options": [
+        "No, they are not directly enforceable",
+        "Yes, they are fully enforceable",
+        "Only in the Supreme Court",
+        "Only during elections"
+      ],
+      "answer": 0,
+      "explanation": "The Fundamental Duties are not directly enforceable by the courts."
+    },
+    {
+      "id": "fundamental-duties-q09",
+      "difficulty": "easy",
+      "q": "The Fundamental Duties were inspired in part by the constitution of which country?",
+      "options": [
+        "France",
+        "Japan",
+        "The former USSR",
+        "Brazil"
+      ],
+      "answer": 2,
+      "explanation": "The idea of Fundamental Duties was drawn largely from the constitution of the former USSR."
+    },
+    {
+      "id": "fundamental-duties-q10",
+      "difficulty": "easy",
+      "q": "One Fundamental Duty calls upon citizens to cherish and follow the noble ideals that inspired which national movement?",
+      "options": [
+        "The industrial revolution",
+        "The space programme",
+        "The green revolution",
+        "The freedom struggle"
+      ],
+      "answer": 3,
+      "explanation": "Citizens are to cherish and follow the noble ideals that inspired the national struggle for freedom."
+    },
+    {
+      "id": "fundamental-duties-q11",
+      "difficulty": "medium",
+      "q": "The Fundamental Duties were added on the recommendation of which committee?",
+      "options": [
+        "The Swaran Singh Committee",
+        "The Sarkaria Commission",
+        "The Mandal Commission",
+        "The Kothari Committee"
+      ],
+      "answer": 0,
+      "explanation": "The Fundamental Duties were introduced on the recommendation of the Swaran Singh Committee in 1976."
+    },
+    {
+      "id": "fundamental-duties-q12",
+      "difficulty": "medium",
+      "q": "When the Fundamental Duties were first added in 1976, how many duties did the list originally contain?",
+      "options": [
+        "Eleven",
+        "Ten",
+        "Twelve",
+        "Eight"
+      ],
+      "answer": 1,
+      "explanation": "The list originally contained ten Fundamental Duties when introduced in 1976."
+    },
+    {
+      "id": "fundamental-duties-q13",
+      "difficulty": "medium",
+      "q": "The eleventh Fundamental Duty, added later, relates to a parent or guardian providing opportunities for education to a child between which ages?",
+      "options": [
+        "Three and six years",
+        "Fourteen and eighteen years",
+        "Five and ten years",
+        "Six and fourteen years"
+      ],
+      "answer": 3,
+      "explanation": "The eleventh duty requires providing education opportunities to a child between the ages of six and fourteen years."
+    },
+    {
+      "id": "fundamental-duties-q14",
+      "difficulty": "medium",
+      "q": "The eleventh Fundamental Duty was added by which constitutional amendment?",
+      "options": [
+        "The 86th Amendment of 2002",
+        "The 42nd Amendment of 1976",
+        "The 61st Amendment of 1988",
+        "The 44th Amendment of 1978"
+      ],
+      "answer": 0,
+      "explanation": "The eleventh duty regarding education of children was added by the 86th Amendment in 2002."
+    },
+    {
+      "id": "fundamental-duties-q15",
+      "difficulty": "medium",
+      "q": "Which of the following is included among the Fundamental Duties under Article 51A?",
+      "options": [
+        "To maintain a personal firearm",
+        "To uphold and protect the sovereignty, unity and integrity of India",
+        "To attend Parliament sessions",
+        "To register a political party"
+      ],
+      "answer": 1,
+      "explanation": "Upholding and protecting the sovereignty, unity and integrity of India is a Fundamental Duty."
+    },
+    {
+      "id": "fundamental-duties-q16",
+      "difficulty": "medium",
+      "q": "One Fundamental Duty asks citizens to value and preserve the rich heritage of the country's what?",
+      "options": [
+        "Mineral wealth",
+        "Foreign reserves",
+        "Composite culture",
+        "Defence equipment"
+      ],
+      "answer": 2,
+      "explanation": "Citizens have a duty to value and preserve the rich heritage of the nation's composite culture."
+    },
+    {
+      "id": "fundamental-duties-q17",
+      "difficulty": "medium",
+      "q": "Which Fundamental Duty relates to the development of a scientific temper, humanism and the spirit of inquiry and reform?",
+      "options": [
+        "A duty under Article 51A",
+        "A right under Article 19",
+        "A directive under Article 39",
+        "A power under Article 356"
+      ],
+      "answer": 0,
+      "explanation": "Developing scientific temper, humanism and the spirit of inquiry and reform is one of the Fundamental Duties in Article 51A."
+    },
+    {
+      "id": "fundamental-duties-q18",
+      "difficulty": "medium",
+      "q": "One Fundamental Duty requires citizens to safeguard public property and to abjure what?",
+      "options": [
+        "Foreign travel",
+        "Violence",
+        "Public meetings",
+        "Private trade"
+      ],
+      "answer": 1,
+      "explanation": "Citizens have a duty to safeguard public property and to abjure violence."
+    },
+    {
+      "id": "fundamental-duties-q19",
+      "difficulty": "medium",
+      "q": "A Fundamental Duty calls on citizens to promote harmony and the spirit of common brotherhood transcending diversities of religion, language, region and what else?",
+      "options": [
+        "Foreign nationality",
+        "Professional rank",
+        "Sections among the people",
+        "Voting preference"
+      ],
+      "answer": 2,
+      "explanation": "The duty calls for harmony transcending religious, linguistic, regional and sectional diversities."
+    },
+    {
+      "id": "fundamental-duties-q20",
+      "difficulty": "medium",
+      "q": "Which Fundamental Duty relates to the natural environment, specifically including forests, lakes, rivers and wildlife?",
+      "options": [
+        "The duty to defend the country",
+        "The duty to pay taxes",
+        "The duty to attend school",
+        "The duty to protect and improve the natural environment"
+      ],
+      "answer": 3,
+      "explanation": "The duty to protect and improve the natural environment expressly includes forests, lakes, rivers and wildlife."
+    },
+    {
+      "id": "fundamental-duties-q21",
+      "difficulty": "medium",
+      "q": "One Fundamental Duty requires every citizen to strive towards excellence in all spheres of which activity?",
+      "options": [
+        "Military activity only",
+        "Individual and collective activity",
+        "Religious activity only",
+        "Commercial activity only"
+      ],
+      "answer": 1,
+      "explanation": "Citizens are to strive towards excellence in all spheres of individual and collective activity."
+    },
+    {
+      "id": "fundamental-duties-q22",
+      "difficulty": "medium",
+      "q": "Which Fundamental Duty relates to the defence of the country and rendering national service when called upon?",
+      "options": [
+        "A power under Article 352",
+        "A right under Article 21",
+        "A duty under Article 51A",
+        "A directive under Article 44"
+      ],
+      "answer": 2,
+      "explanation": "Defending the country and rendering national service when called upon is one of the Fundamental Duties."
+    },
+    {
+      "id": "fundamental-duties-q23",
+      "difficulty": "hard",
+      "q": "The Fundamental Duty to have compassion for living creatures is connected in the list with respect for which of the following?",
+      "options": [
+        "Public monuments only",
+        "Private businesses",
+        "Foreign treaties",
+        "Living creatures and the natural environment"
+      ],
+      "answer": 3,
+      "explanation": "One Fundamental Duty requires citizens to have compassion for living creatures, linked to environmental protection."
+    },
+    {
+      "id": "fundamental-duties-q24",
+      "difficulty": "hard",
+      "q": "The Fundamental Duties drew partly on the report of a committee whose recommendations led to the 42nd Amendment; that committee was chaired by whom?",
+      "options": [
+        "Sardar Swaran Singh",
+        "B.R. Ambedkar",
+        "K.M. Munshi",
+        "H.N. Kunzru"
+      ],
+      "answer": 0,
+      "explanation": "The committee that recommended Fundamental Duties was chaired by Sardar Swaran Singh."
+    },
+    {
+      "id": "fundamental-duties-q25",
+      "difficulty": "hard",
+      "q": "Which Fundamental Duty requires citizens to abide by the Constitution and respect its ideals and institutions?",
+      "options": [
+        "A directive in Part IV",
+        "A right in Part III",
+        "The first duty in Article 51A",
+        "A schedule in the Constitution"
+      ],
+      "answer": 2,
+      "explanation": "The first listed Fundamental Duty is to abide by the Constitution and respect its ideals and institutions."
+    },
+    {
+      "id": "fundamental-duties-q26",
+      "difficulty": "hard",
+      "q": "The Fundamental Duties resemble Directive Principles in that both are which of the following?",
+      "options": [
+        "Enforceable through writs",
+        "Confined to states only",
+        "Limited to one year",
+        "Non-justiciable in nature"
+      ],
+      "answer": 3,
+      "explanation": "Like the Directive Principles, the Fundamental Duties are non-justiciable and not enforceable by courts."
+    },
+    {
+      "id": "fundamental-duties-q27",
+      "difficulty": "hard",
+      "q": "Which Fundamental Duty requires citizens to renounce practices derogatory to the dignity of which group?",
+      "options": [
+        "Women",
+        "Foreign nationals",
+        "Civil servants",
+        "Members of Parliament"
+      ],
+      "answer": 0,
+      "explanation": "One Fundamental Duty calls upon citizens to renounce practices derogatory to the dignity of women."
+    },
+    {
+      "id": "fundamental-duties-q28",
+      "difficulty": "hard",
+      "q": "Fundamental Duties were introduced during the period in which a national Emergency was in force; in which year were they added?",
+      "options": [
+        "1971",
+        "1976",
+        "1980",
+        "1984"
+      ],
+      "answer": 1,
+      "explanation": "The Fundamental Duties were added in 1976 through the 42nd Amendment."
+    },
+    {
+      "id": "fundamental-duties-q29",
+      "difficulty": "hard",
+      "q": "The Fundamental Duties are sometimes contrasted with Fundamental Rights because, unlike rights, the duties carry no direct what?",
+      "options": [
+        "Connection to the Preamble",
+        "Reference to citizens",
+        "Place in the Constitution",
+        "Legal sanction for breach"
+      ],
+      "answer": 3,
+      "explanation": "Unlike Fundamental Rights, the duties carry no direct legal sanction for their violation."
+    },
+    {
+      "id": "fundamental-duties-q30",
+      "difficulty": "hard",
+      "q": "Which of the following Fundamental Duties was NOT part of the original 1976 list but was added subsequently?",
+      "options": [
+        "Providing education opportunities to a child aged six to fourteen",
+        "Cherishing the ideals of the freedom struggle",
+        "Defending the country",
+        "Safeguarding public property"
+      ],
+      "answer": 0,
+      "explanation": "The duty regarding education of children aged six to fourteen was added in 2002, after the original 1976 list."
+    }
+  ]
+}

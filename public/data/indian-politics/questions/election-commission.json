@@ -1,0 +1,395 @@
+{
+  "cardId": "election-commission",
+  "questions": [
+    {
+      "id": "election-commission-q01",
+      "difficulty": "easy",
+      "q": "On what date was the Election Commission of India established?",
+      "options": [
+        "26 January 1950",
+        "25 January 1950",
+        "28 January 1950",
+        "15 August 1947"
+      ],
+      "answer": 1,
+      "explanation": "The Election Commission of India was established on 25 January 1950."
+    },
+    {
+      "id": "election-commission-q02",
+      "difficulty": "easy",
+      "q": "Who heads the Election Commission of India?",
+      "options": [
+        "The Chief Justice of India",
+        "The Attorney General",
+        "The President",
+        "The Chief Election Commissioner"
+      ],
+      "answer": 3,
+      "explanation": "The Election Commission is headed by the Chief Election Commissioner."
+    },
+    {
+      "id": "election-commission-q03",
+      "difficulty": "easy",
+      "q": "The Election Commission of India is best described as which type of body?",
+      "options": [
+        "A private organisation",
+        "An autonomous constitutional body",
+        "A committee of Parliament",
+        "A wing of the judiciary"
+      ],
+      "answer": 1,
+      "explanation": "The Election Commission is an autonomous constitutional body."
+    },
+    {
+      "id": "election-commission-q04",
+      "difficulty": "easy",
+      "q": "Who appoints the Chief Election Commissioner and other Election Commissioners?",
+      "options": [
+        "The Prime Minister",
+        "The President",
+        "The Chief Justice",
+        "The Lok Sabha"
+      ],
+      "answer": 1,
+      "explanation": "The Chief Election Commissioner and Election Commissioners are appointed by the President."
+    },
+    {
+      "id": "election-commission-q05",
+      "difficulty": "easy",
+      "q": "Elections to which offices, besides Parliament and state legislatures, are conducted by the Election Commission?",
+      "options": [
+        "Judges of the Supreme Court",
+        "Mayors only",
+        "President and Vice-President",
+        "The Cabinet Secretary"
+      ],
+      "answer": 2,
+      "explanation": "The Election Commission administers elections to the offices of President and Vice-President as well as Parliament and state legislatures."
+    },
+    {
+      "id": "election-commission-q06",
+      "difficulty": "easy",
+      "q": "Who was the first Chief Election Commissioner of India?",
+      "options": [
+        "T.N. Seshan",
+        "K.V.K. Sundaram",
+        "Sukumar Sen",
+        "S.P. Sen Verma"
+      ],
+      "answer": 2,
+      "explanation": "Sukumar Sen was the first Chief Election Commissioner, who organised the first two general elections."
+    },
+    {
+      "id": "election-commission-q07",
+      "difficulty": "easy",
+      "q": "The model code of conduct enforced by the Election Commission applies during which period?",
+      "options": [
+        "Republic Day celebrations",
+        "The monsoon season",
+        "Budget sessions only",
+        "The election period"
+      ],
+      "answer": 3,
+      "explanation": "The model code of conduct comes into force during the election period to ensure free and fair elections."
+    },
+    {
+      "id": "election-commission-q08",
+      "difficulty": "easy",
+      "q": "The Election Commission is responsible for preparing and revising which key document?",
+      "options": [
+        "The annual budget",
+        "The Constitution",
+        "The electoral rolls",
+        "The census report"
+      ],
+      "answer": 2,
+      "explanation": "The Election Commission superintends the preparation and revision of electoral rolls."
+    },
+    {
+      "id": "election-commission-q09",
+      "difficulty": "easy",
+      "q": "Which Chief Election Commissioner is widely associated with vigorously enforcing the model code of conduct in the 1990s?",
+      "options": [
+        "Sukumar Sen",
+        "M.S. Gill",
+        "T.N. Seshan",
+        "J.M. Lyngdoh"
+      ],
+      "answer": 2,
+      "explanation": "T.N. Seshan, who served from 1990 to 1996, is known for rigorously enforcing the model code of conduct."
+    },
+    {
+      "id": "election-commission-q10",
+      "difficulty": "easy",
+      "q": "In which city is the headquarters of the Election Commission of India located?",
+      "options": [
+        "New Delhi",
+        "Kolkata",
+        "Chennai",
+        "Mumbai"
+      ],
+      "answer": 0,
+      "explanation": "The Election Commission of India is headquartered in New Delhi."
+    },
+    {
+      "id": "election-commission-q11",
+      "difficulty": "medium",
+      "q": "Which article of the Constitution provides for the Election Commission and vests in it the superintendence of elections?",
+      "options": [
+        "Article 124",
+        "Article 280",
+        "Article 324",
+        "Article 315"
+      ],
+      "answer": 2,
+      "explanation": "Article 324 establishes the Election Commission and vests in it the superintendence, direction and control of elections."
+    },
+    {
+      "id": "election-commission-q12",
+      "difficulty": "medium",
+      "q": "Provisions relating to elections, including the Election Commission, fall under which Part of the Constitution?",
+      "options": [
+        "Part XI",
+        "Part III",
+        "Part IX",
+        "Part XV"
+      ],
+      "answer": 3,
+      "explanation": "Part XV of the Constitution deals with elections, including Article 324 on the Election Commission."
+    },
+    {
+      "id": "election-commission-q13",
+      "difficulty": "medium",
+      "q": "For most of the period between 1950 and 1989, the Election Commission functioned as a body with how many members?",
+      "options": [
+        "Two members",
+        "A single member",
+        "Three members",
+        "Five members"
+      ],
+      "answer": 1,
+      "explanation": "From 1950 until 1989 the Election Commission was largely a single-member body headed by the Chief Election Commissioner."
+    },
+    {
+      "id": "election-commission-q14",
+      "difficulty": "medium",
+      "q": "Since 1993, the Election Commission has generally functioned as a multi-member body with how many members?",
+      "options": [
+        "Three",
+        "Two",
+        "Four",
+        "Five"
+      ],
+      "answer": 0,
+      "explanation": "Since 1993, the Election Commission has been a three-member body comprising the Chief Election Commissioner and two Election Commissioners."
+    },
+    {
+      "id": "election-commission-q15",
+      "difficulty": "medium",
+      "q": "The Chief Election Commissioner holds office for a term of six years or until reaching which age, whichever is earlier?",
+      "options": [
+        "62 years",
+        "65 years",
+        "60 years",
+        "70 years"
+      ],
+      "answer": 1,
+      "explanation": "The Chief Election Commissioner serves a term of six years or until the age of 65, whichever is earlier."
+    },
+    {
+      "id": "election-commission-q16",
+      "difficulty": "medium",
+      "q": "The Chief Election Commissioner can be removed from office in the same manner as which other office-holder?",
+      "options": [
+        "A Cabinet Minister",
+        "A Governor",
+        "A judge of the Supreme Court",
+        "The Attorney General"
+      ],
+      "answer": 2,
+      "explanation": "The Chief Election Commissioner can be removed only in the same manner and on the same grounds as a judge of the Supreme Court."
+    },
+    {
+      "id": "election-commission-q17",
+      "difficulty": "medium",
+      "q": "The Election Commission grants recognition to political parties and allots which to them?",
+      "options": [
+        "Parliamentary seats",
+        "Government grants",
+        "Cabinet posts",
+        "Election symbols"
+      ],
+      "answer": 3,
+      "explanation": "The Election Commission recognises political parties and allots election symbols to them."
+    },
+    {
+      "id": "election-commission-q18",
+      "difficulty": "medium",
+      "q": "Sukumar Sen, as first Chief Election Commissioner, organised India's first general election held over which period?",
+      "options": [
+        "October 1951 to February 1952",
+        "1947 to 1948",
+        "1956 to 1957",
+        "1960 to 1961"
+      ],
+      "answer": 0,
+      "explanation": "The first general election, organised under Sukumar Sen, was held from October 1951 to February 1952."
+    },
+    {
+      "id": "election-commission-q19",
+      "difficulty": "medium",
+      "q": "Disqualifications of legislators on grounds of holding an office of profit or related matters are referred to the President, who acts on the opinion of which body?",
+      "options": [
+        "The Election Commission",
+        "The Finance Commission",
+        "The Supreme Court",
+        "The Cabinet"
+      ],
+      "answer": 0,
+      "explanation": "Under Articles 103 and 192, the President or Governor acts on the opinion of the Election Commission in such disqualification matters."
+    },
+    {
+      "id": "election-commission-q20",
+      "difficulty": "medium",
+      "q": "When the Election Commission is a multi-member body, business is transacted on what basis in case of difference of opinion?",
+      "options": [
+        "By drawing lots",
+        "By the President's casting vote",
+        "By the Prime Minister",
+        "By majority"
+      ],
+      "answer": 3,
+      "explanation": "In a multi-member Election Commission, matters are decided by majority among the members."
+    },
+    {
+      "id": "election-commission-q21",
+      "difficulty": "medium",
+      "q": "The conduct of actual elections is governed by laws made by Parliament, principally the Representation of the People Acts of which years?",
+      "options": [
+        "1976 and 1977",
+        "1947 and 1948",
+        "1955 and 1956",
+        "1950 and 1951"
+      ],
+      "answer": 3,
+      "explanation": "The Representation of the People Acts of 1950 and 1951 provide the detailed legal framework for elections."
+    },
+    {
+      "id": "election-commission-q22",
+      "difficulty": "medium",
+      "q": "Voter education and the issuance of voter identity cards (EPIC) are functions associated with which body?",
+      "options": [
+        "The Election Commission",
+        "The Reserve Bank",
+        "The Finance Commission",
+        "The Planning Commission"
+      ],
+      "answer": 0,
+      "explanation": "The Election Commission oversees voter education and the issuance of Elector Photo Identity Cards (EPIC)."
+    },
+    {
+      "id": "election-commission-q23",
+      "difficulty": "hard",
+      "q": "The Election Commission first became a multi-member body briefly in which year before reverting, then becoming permanently multi-member in 1993?",
+      "options": [
+        "1989",
+        "1985",
+        "1975",
+        "1967"
+      ],
+      "answer": 0,
+      "explanation": "In 1989 two additional Election Commissioners were appointed for the first time, a change later made permanent in 1993."
+    },
+    {
+      "id": "election-commission-q24",
+      "difficulty": "hard",
+      "q": "The conditions of service of the Chief Election Commissioner cannot be varied to their disadvantage after appointment, a safeguard similar to that for which office?",
+      "options": [
+        "A Member of Parliament",
+        "A judge of the Supreme Court",
+        "A Governor",
+        "A District Magistrate"
+      ],
+      "answer": 1,
+      "explanation": "Like a Supreme Court judge, the Chief Election Commissioner's service conditions cannot be altered to their disadvantage after appointment."
+    },
+    {
+      "id": "election-commission-q25",
+      "difficulty": "hard",
+      "q": "An Election Commissioner (other than the Chief) can be removed only on the recommendation of which authority?",
+      "options": [
+        "The Speaker",
+        "The Prime Minister",
+        "The Chief Election Commissioner",
+        "The Attorney General"
+      ],
+      "answer": 2,
+      "explanation": "An Election Commissioner can be removed only on the recommendation of the Chief Election Commissioner, giving them a measure of protection."
+    },
+    {
+      "id": "election-commission-q26",
+      "difficulty": "hard",
+      "q": "The Election Commission's power under Article 324 has been described by the Supreme Court as plenary in matters where the law is what?",
+      "options": [
+        "Detailed",
+        "Silent",
+        "Repealed",
+        "Suspended"
+      ],
+      "answer": 1,
+      "explanation": "The Supreme Court has held that the Election Commission has plenary powers under Article 324 where existing law is silent."
+    },
+    {
+      "id": "election-commission-q27",
+      "difficulty": "hard",
+      "q": "T.N. Seshan, noted for strengthening the Commission's authority, served as Chief Election Commissioner during which period?",
+      "options": [
+        "1990 to 1996",
+        "1985 to 1990",
+        "1996 to 2001",
+        "1980 to 1985"
+      ],
+      "answer": 0,
+      "explanation": "T.N. Seshan served as Chief Election Commissioner from 1990 to 1996."
+    },
+    {
+      "id": "election-commission-q28",
+      "difficulty": "hard",
+      "q": "Separate State Election Commissions, distinct from the Election Commission of India, conduct elections to which bodies?",
+      "options": [
+        "Panchayats and municipalities",
+        "The Lok Sabha",
+        "The Rajya Sabha",
+        "The office of President"
+      ],
+      "answer": 0,
+      "explanation": "State Election Commissions, created by the 73rd and 74th Amendments, conduct elections to panchayats and municipalities, separate from the Election Commission of India."
+    },
+    {
+      "id": "election-commission-q29",
+      "difficulty": "hard",
+      "q": "The salaries and expenses of the Election Commission, like those of certain other constitutional offices, are intended to be insulated from annual parliamentary vote by being charged on which fund?",
+      "options": [
+        "The Contingency Fund",
+        "The Consolidated Fund of India",
+        "The Public Account",
+        "A state fund"
+      ],
+      "answer": 1,
+      "explanation": "Expenditure on key constitutional offices is charged on the Consolidated Fund of India to protect their independence."
+    },
+    {
+      "id": "election-commission-q30",
+      "difficulty": "hard",
+      "q": "The Election Commission organised the first general election for an electorate of over how many eligible voters, most voting for the first time?",
+      "options": [
+        "250 million",
+        "50 million",
+        "90 million",
+        "170 million"
+      ],
+      "answer": 3,
+      "explanation": "Over 170 million voters were eligible in the first general election of 1951-52, most voting for the first time."
+    }
+  ]
+}

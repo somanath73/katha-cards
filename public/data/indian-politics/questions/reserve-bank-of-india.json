@@ -1,0 +1,395 @@
+{
+  "cardId": "reserve-bank-of-india",
+  "questions": [
+    {
+      "id": "reserve-bank-of-india-q01",
+      "difficulty": "easy",
+      "q": "The Reserve Bank of India serves as the country's:",
+      "options": [
+        "Central bank",
+        "Largest private bank",
+        "Stock exchange",
+        "Tax department"
+      ],
+      "answer": 0,
+      "explanation": "The Reserve Bank of India (RBI) is the central bank of India."
+    },
+    {
+      "id": "reserve-bank-of-india-q02",
+      "difficulty": "easy",
+      "q": "In which year was the Reserve Bank of India established?",
+      "options": [
+        "1935",
+        "1947",
+        "1950",
+        "1969"
+      ],
+      "answer": 0,
+      "explanation": "The Reserve Bank of India was established in 1935."
+    },
+    {
+      "id": "reserve-bank-of-india-q03",
+      "difficulty": "easy",
+      "q": "In which year was the Reserve Bank of India nationalised?",
+      "options": [
+        "1949",
+        "1935",
+        "1969",
+        "1991"
+      ],
+      "answer": 0,
+      "explanation": "The RBI was nationalised in 1949, coming fully under government ownership."
+    },
+    {
+      "id": "reserve-bank-of-india-q04",
+      "difficulty": "easy",
+      "q": "Which currency does the Reserve Bank of India issue?",
+      "options": [
+        "The Indian rupee",
+        "The US dollar",
+        "The pound sterling",
+        "The euro"
+      ],
+      "answer": 0,
+      "explanation": "The RBI issues the Indian rupee, the national currency."
+    },
+    {
+      "id": "reserve-bank-of-india-q05",
+      "difficulty": "easy",
+      "q": "One of the key responsibilities of the RBI is to formulate the country's:",
+      "options": [
+        "Monetary policy",
+        "Foreign policy",
+        "Education policy",
+        "Defence policy"
+      ],
+      "answer": 0,
+      "explanation": "The RBI is responsible for formulating and implementing India's monetary policy."
+    },
+    {
+      "id": "reserve-bank-of-india-q06",
+      "difficulty": "easy",
+      "q": "The RBI regulates which system of the country?",
+      "options": [
+        "The banking and financial system",
+        "The road transport system",
+        "The postal system",
+        "The railway system"
+      ],
+      "answer": 0,
+      "explanation": "The RBI regulates the banking and financial system of India."
+    },
+    {
+      "id": "reserve-bank-of-india-q07",
+      "difficulty": "easy",
+      "q": "The RBI is often called the guardian of the:",
+      "options": [
+        "Rupee",
+        "Constitution",
+        "Ballot",
+        "Border"
+      ],
+      "answer": 0,
+      "explanation": "As issuer of currency and manager of monetary policy, the RBI is described as the guardian of the rupee."
+    },
+    {
+      "id": "reserve-bank-of-india-q08",
+      "difficulty": "easy",
+      "q": "The head of the Reserve Bank of India is designated as the:",
+      "options": [
+        "Governor",
+        "Chairman",
+        "President",
+        "Director General"
+      ],
+      "answer": 0,
+      "explanation": "The Reserve Bank of India is headed by a Governor."
+    },
+    {
+      "id": "reserve-bank-of-india-q09",
+      "difficulty": "easy",
+      "q": "The RBI acts as banker to which entity?",
+      "options": [
+        "Private households",
+        "The Government",
+        "Foreign embassies",
+        "Stock traders"
+      ],
+      "answer": 1,
+      "explanation": "The RBI acts as banker to the central and state governments."
+    },
+    {
+      "id": "reserve-bank-of-india-q10",
+      "difficulty": "easy",
+      "q": "Where are the central offices of the Reserve Bank of India located?",
+      "options": [
+        "New Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": 1,
+      "explanation": "The central office of the RBI is located in Mumbai."
+    },
+    {
+      "id": "reserve-bank-of-india-q11",
+      "difficulty": "medium",
+      "q": "The Reserve Bank of India was established under which Act?",
+      "options": [
+        "The Banking Regulation Act, 1949",
+        "The Reserve Bank of India Act, 1934",
+        "The Companies Act, 1956",
+        "The Indian Coinage Act, 1906"
+      ],
+      "answer": 1,
+      "explanation": "The RBI was established under the Reserve Bank of India Act, 1934, beginning operations in 1935."
+    },
+    {
+      "id": "reserve-bank-of-india-q12",
+      "difficulty": "medium",
+      "q": "Who appoints the Governor of the Reserve Bank of India?",
+      "options": [
+        "The President alone in personal discretion",
+        "The Government of India",
+        "The Supreme Court",
+        "The Lok Sabha by vote"
+      ],
+      "answer": 1,
+      "explanation": "The Governor of the RBI is appointed by the Government of India (the central government)."
+    },
+    {
+      "id": "reserve-bank-of-india-q13",
+      "difficulty": "medium",
+      "q": "Who was the first Indian Governor of the Reserve Bank of India?",
+      "options": [
+        "Osborne Smith",
+        "C.D. Deshmukh",
+        "James Taylor",
+        "Benegal Rama Rau"
+      ],
+      "answer": 1,
+      "explanation": "C.D. Deshmukh was the first Indian to serve as Governor of the Reserve Bank of India."
+    },
+    {
+      "id": "reserve-bank-of-india-q14",
+      "difficulty": "medium",
+      "q": "The RBI manages the country's reserves of:",
+      "options": [
+        "Crude oil",
+        "Foreign exchange",
+        "Food grain",
+        "Coal"
+      ],
+      "answer": 1,
+      "explanation": "The RBI is the custodian and manager of India's foreign exchange reserves."
+    },
+    {
+      "id": "reserve-bank-of-india-q15",
+      "difficulty": "medium",
+      "q": "The RBI acts as the lender of last resort to which institutions?",
+      "options": [
+        "State governments only",
+        "Commercial banks",
+        "Foreign central banks",
+        "Insurance regulators"
+      ],
+      "answer": 1,
+      "explanation": "The RBI serves as the lender of last resort to commercial banks during liquidity shortages."
+    },
+    {
+      "id": "reserve-bank-of-india-q16",
+      "difficulty": "medium",
+      "q": "Currency notes in India, except the one-rupee note, are issued by the:",
+      "options": [
+        "Ministry of Defence",
+        "Reserve Bank of India",
+        "State Bank of India",
+        "Securities and Exchange Board"
+      ],
+      "answer": 1,
+      "explanation": "All currency notes except the one-rupee note are issued by the RBI; the one-rupee note is issued by the Finance Ministry."
+    },
+    {
+      "id": "reserve-bank-of-india-q17",
+      "difficulty": "medium",
+      "q": "The Governor of the RBI is assisted by a number of officials designated as:",
+      "options": [
+        "Joint Secretaries",
+        "Solicitors",
+        "Deputy Governors",
+        "Comptrollers"
+      ],
+      "answer": 2,
+      "explanation": "The Governor is assisted by Deputy Governors in running the Reserve Bank of India."
+    },
+    {
+      "id": "reserve-bank-of-india-q18",
+      "difficulty": "medium",
+      "q": "The RBI's affairs are governed by a board of directors known as the:",
+      "options": [
+        "Monetary Senate",
+        "Banking Council",
+        "Central Board of Directors",
+        "Currency Commission"
+      ],
+      "answer": 2,
+      "explanation": "The RBI is governed by a Central Board of Directors appointed by the Government of India."
+    },
+    {
+      "id": "reserve-bank-of-india-q19",
+      "difficulty": "medium",
+      "q": "The emblem of the Reserve Bank of India features a palm tree and which animal?",
+      "options": [
+        "A lion",
+        "An elephant",
+        "A tiger",
+        "A peacock"
+      ],
+      "answer": 2,
+      "explanation": "The RBI's emblem depicts a palm tree and a tiger."
+    },
+    {
+      "id": "reserve-bank-of-india-q20",
+      "difficulty": "medium",
+      "q": "The RBI uses tools such as the repo rate primarily to manage:",
+      "options": [
+        "Foreign policy",
+        "Tax rates",
+        "Money supply and inflation",
+        "Election dates"
+      ],
+      "answer": 2,
+      "explanation": "The RBI uses instruments like the repo rate to regulate money supply and influence inflation."
+    },
+    {
+      "id": "reserve-bank-of-india-q21",
+      "difficulty": "medium",
+      "q": "The RBI began functioning on 1 April of which year?",
+      "options": [
+        "1934",
+        "1949",
+        "1935",
+        "1947"
+      ],
+      "answer": 2,
+      "explanation": "Established under the 1934 Act, the RBI commenced operations on 1 April 1935."
+    },
+    {
+      "id": "reserve-bank-of-india-q22",
+      "difficulty": "medium",
+      "q": "The RBI sells and manages government securities as part of its role in:",
+      "options": [
+        "Election funding",
+        "Defence procurement",
+        "Public debt management",
+        "Disaster relief"
+      ],
+      "answer": 2,
+      "explanation": "The RBI manages the public debt of the government, including issuing and servicing government securities."
+    },
+    {
+      "id": "reserve-bank-of-india-q23",
+      "difficulty": "hard",
+      "q": "Who was the first Governor of the Reserve Bank of India when it began operations in 1935?",
+      "options": [
+        "C.D. Deshmukh",
+        "Benegal Rama Rau",
+        "Osborne Smith",
+        "James Braid Taylor"
+      ],
+      "answer": 2,
+      "explanation": "Sir Osborne Smith was the first Governor of the RBI when it commenced operations in 1935."
+    },
+    {
+      "id": "reserve-bank-of-india-q24",
+      "difficulty": "hard",
+      "q": "The committee that sets the policy (repo) rate in India is the:",
+      "options": [
+        "Central Audit Committee",
+        "Public Accounts Committee",
+        "Finance Commission",
+        "Monetary Policy Committee"
+      ],
+      "answer": 3,
+      "explanation": "The Monetary Policy Committee (MPC) is responsible for setting the policy repo rate."
+    },
+    {
+      "id": "reserve-bank-of-india-q25",
+      "difficulty": "hard",
+      "q": "The Reserve Bank of India was set up partly on the recommendations of which earlier commission?",
+      "options": [
+        "The Mandal Commission",
+        "The Sarkaria Commission",
+        "The States Reorganisation Commission",
+        "The Hilton Young Commission"
+      ],
+      "answer": 3,
+      "explanation": "The RBI was established on the recommendations of the Royal Commission on Indian Currency and Finance, the Hilton Young Commission."
+    },
+    {
+      "id": "reserve-bank-of-india-q26",
+      "difficulty": "hard",
+      "q": "The RBI's original head office, before it shifted to Mumbai, was located in which city?",
+      "options": [
+        "Chennai",
+        "Bengaluru",
+        "Hyderabad",
+        "Kolkata"
+      ],
+      "answer": 3,
+      "explanation": "The RBI's central office was originally in Calcutta (Kolkata) and was later moved to Bombay (Mumbai)."
+    },
+    {
+      "id": "reserve-bank-of-india-q27",
+      "difficulty": "hard",
+      "q": "The system under which the RBI issues currency notes against assets is known as the:",
+      "options": [
+        "Proportional Cover System only",
+        "Gold Standard System",
+        "Open Mint System",
+        "Minimum Reserve System"
+      ],
+      "answer": 3,
+      "explanation": "Since 1957 the RBI has followed the Minimum Reserve System for issuing currency notes."
+    },
+    {
+      "id": "reserve-bank-of-india-q28",
+      "difficulty": "hard",
+      "q": "Banks are required to keep a portion of their deposits with the RBI under the:",
+      "options": [
+        "Fiscal Responsibility Rule",
+        "Capital Gains Rule",
+        "Public Debt Ceiling",
+        "Cash Reserve Ratio"
+      ],
+      "answer": 3,
+      "explanation": "Under the Cash Reserve Ratio (CRR), banks must hold a specified share of deposits with the RBI."
+    },
+    {
+      "id": "reserve-bank-of-india-q29",
+      "difficulty": "hard",
+      "q": "The RBI was nationalised through the Reserve Bank (Transfer to Public Ownership) Act passed in which year?",
+      "options": [
+        "1935",
+        "1956",
+        "1969",
+        "1948"
+      ],
+      "answer": 3,
+      "explanation": "The Reserve Bank (Transfer to Public Ownership) Act was passed in 1948, bringing the RBI under public ownership from 1949."
+    },
+    {
+      "id": "reserve-bank-of-india-q30",
+      "difficulty": "hard",
+      "q": "In addition to monetary policy, the RBI promotes the development of the financial system by regulating instruments such as:",
+      "options": [
+        "Income tax slabs",
+        "Customs tariffs",
+        "Stamp duties",
+        "Payment and settlement systems"
+      ],
+      "answer": 3,
+      "explanation": "The RBI regulates and develops payment and settlement systems as part of its central banking functions."
+    }
+  ]
+}

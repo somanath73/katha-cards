@@ -1,0 +1,395 @@
+{
+  "cardId": "apj-abdul-kalam",
+  "questions": [
+    {
+      "id": "apj-abdul-kalam-q01",
+      "difficulty": "easy",
+      "q": "Which numbered President of India was A.P.J. Abdul Kalam?",
+      "options": [
+        "Eleventh",
+        "Tenth",
+        "Twelfth",
+        "Thirteenth"
+      ],
+      "answer": 0,
+      "explanation": "Dr. A.P.J. Abdul Kalam was the eleventh President of India."
+    },
+    {
+      "id": "apj-abdul-kalam-q02",
+      "difficulty": "easy",
+      "q": "In which year did A.P.J. Abdul Kalam begin his term as President of India?",
+      "options": [
+        "1997",
+        "2002",
+        "2000",
+        "2004"
+      ],
+      "answer": 1,
+      "explanation": "He assumed office as President in 2002."
+    },
+    {
+      "id": "apj-abdul-kalam-q03",
+      "difficulty": "easy",
+      "q": "In which year did A.P.J. Abdul Kalam complete his term as President of India?",
+      "options": [
+        "2005",
+        "2006",
+        "2007",
+        "2009"
+      ],
+      "answer": 2,
+      "explanation": "His presidential term concluded in 2007."
+    },
+    {
+      "id": "apj-abdul-kalam-q04",
+      "difficulty": "easy",
+      "q": "Before becoming President, A.P.J. Abdul Kalam was renowned in which profession?",
+      "options": [
+        "Film director",
+        "Banker",
+        "Surgeon",
+        "Aerospace scientist"
+      ],
+      "answer": 3,
+      "explanation": "He was a renowned aerospace scientist before becoming President."
+    },
+    {
+      "id": "apj-abdul-kalam-q05",
+      "difficulty": "easy",
+      "q": "A.P.J. Abdul Kalam is widely remembered for his work in India's programmes related to which fields?",
+      "options": [
+        "Space and missiles",
+        "Banking and trade",
+        "Cinema and the arts",
+        "Railways and roads"
+      ],
+      "answer": 0,
+      "explanation": "He is remembered for his work in India's space and missile programmes."
+    },
+    {
+      "id": "apj-abdul-kalam-q06",
+      "difficulty": "easy",
+      "q": "By what popular description is A.P.J. Abdul Kalam often remembered, as reflected on his card?",
+      "options": [
+        "The Iron Man",
+        "The People's President",
+        "The Father of the Lok Sabha",
+        "The Architect of Reform"
+      ],
+      "answer": 1,
+      "explanation": "His card subtitle describes him as 'The People's President.'"
+    },
+    {
+      "id": "apj-abdul-kalam-q07",
+      "difficulty": "easy",
+      "q": "The President's office held by Kalam is the constitutional head of what?",
+      "options": [
+        "Government",
+        "A single state",
+        "State",
+        "The judiciary"
+      ],
+      "answer": 2,
+      "explanation": "The President of India is the constitutional head of state."
+    },
+    {
+      "id": "apj-abdul-kalam-q08",
+      "difficulty": "easy",
+      "q": "Roughly how many years did A.P.J. Abdul Kalam serve as President?",
+      "options": [
+        "About two years",
+        "About ten years",
+        "About one year",
+        "About five years"
+      ],
+      "answer": 3,
+      "explanation": "He served from 2002 to 2007, a term of about five years."
+    },
+    {
+      "id": "apj-abdul-kalam-q09",
+      "difficulty": "easy",
+      "q": "What does the academic title 'Dr.' before Kalam's name commonly reflect?",
+      "options": [
+        "Recognition of his scholarly and scientific standing",
+        "A medical degree he practised",
+        "A judicial appointment",
+        "A military rank"
+      ],
+      "answer": 0,
+      "explanation": "The honorific reflects his scholarly and scientific standing as a distinguished scientist."
+    },
+    {
+      "id": "apj-abdul-kalam-q10",
+      "difficulty": "easy",
+      "q": "Kalam's term as President fell within which decade?",
+      "options": [
+        "The 1990s",
+        "The 2000s",
+        "The 1980s",
+        "The 1970s"
+      ],
+      "answer": 1,
+      "explanation": "His 2002 to 2007 term fell within the 2000s."
+    },
+    {
+      "id": "apj-abdul-kalam-q11",
+      "difficulty": "medium",
+      "q": "The President, the office Kalam held, is elected by an electoral college of which members?",
+      "options": [
+        "Only governors",
+        "All adult citizens directly",
+        "Elected MPs and members of state legislative assemblies",
+        "Only the Council of Ministers"
+      ],
+      "answer": 2,
+      "explanation": "The President is elected by an electoral college of elected MPs and members of state legislative assemblies."
+    },
+    {
+      "id": "apj-abdul-kalam-q12",
+      "difficulty": "medium",
+      "q": "As President, A.P.J. Abdul Kalam was the supreme commander of which body?",
+      "options": [
+        "The Election Commission",
+        "The judiciary",
+        "The civil services",
+        "The armed forces"
+      ],
+      "answer": 3,
+      "explanation": "The President of India is the supreme commander of the armed forces."
+    },
+    {
+      "id": "apj-abdul-kalam-q13",
+      "difficulty": "medium",
+      "q": "Kalam's presidency immediately followed that of which President?",
+      "options": [
+        "K.R. Narayanan",
+        "R. Venkataraman",
+        "Pratibha Patil",
+        "Shankar Dayal Sharma"
+      ],
+      "answer": 0,
+      "explanation": "He succeeded K.R. Narayanan, the tenth President."
+    },
+    {
+      "id": "apj-abdul-kalam-q14",
+      "difficulty": "medium",
+      "q": "Kalam's presidency was immediately followed by that of which President?",
+      "options": [
+        "Pranab Mukherjee",
+        "Pratibha Patil",
+        "K.R. Narayanan",
+        "Droupadi Murmu"
+      ],
+      "answer": 1,
+      "explanation": "Pratibha Patil, the twelfth President, succeeded Kalam."
+    },
+    {
+      "id": "apj-abdul-kalam-q15",
+      "difficulty": "medium",
+      "q": "The normal term of office of the President, which Kalam held, is how many years?",
+      "options": [
+        "Four years",
+        "Six years",
+        "Five years",
+        "Three years"
+      ],
+      "answer": 2,
+      "explanation": "The President is elected for a term of five years."
+    },
+    {
+      "id": "apj-abdul-kalam-q16",
+      "difficulty": "medium",
+      "q": "The President whom Kalam became is a constituent part of which legislative body?",
+      "options": [
+        "A state legislature",
+        "The Supreme Court",
+        "A municipal council",
+        "Parliament of India"
+      ],
+      "answer": 3,
+      "explanation": "Parliament consists of the President and the two Houses."
+    },
+    {
+      "id": "apj-abdul-kalam-q17",
+      "difficulty": "medium",
+      "q": "Kalam's career path to the presidency is notable because he came chiefly from which background?",
+      "options": [
+        "A scientific career rather than electoral politics",
+        "A judicial career",
+        "A military command career",
+        "A career in journalism"
+      ],
+      "answer": 0,
+      "explanation": "He reached the presidency primarily from a scientific career rather than electoral politics."
+    },
+    {
+      "id": "apj-abdul-kalam-q18",
+      "difficulty": "medium",
+      "q": "The space and missile programmes associated with Kalam fall under which broad national endeavour?",
+      "options": [
+        "Monetary policy",
+        "Science and technology development",
+        "Election administration",
+        "Local self-government"
+      ],
+      "answer": 1,
+      "explanation": "His work belonged to India's science and technology development."
+    },
+    {
+      "id": "apj-abdul-kalam-q19",
+      "difficulty": "medium",
+      "q": "Kalam's term as President fell across which span of years?",
+      "options": [
+        "The early 1990s",
+        "The late 1980s",
+        "The early-to-mid 2000s",
+        "The 1970s"
+      ],
+      "answer": 2,
+      "explanation": "His 2002 to 2007 term spanned the early-to-mid 2000s."
+    },
+    {
+      "id": "apj-abdul-kalam-q20",
+      "difficulty": "medium",
+      "q": "As President, Kalam exercised the function of giving assent to which kind of measure passed by Parliament?",
+      "options": [
+        "Court judgments",
+        "Election results",
+        "Monetary interest rates",
+        "Bills, to make them law"
+      ],
+      "answer": 3,
+      "explanation": "The President gives assent to bills passed by Parliament so that they become law."
+    },
+    {
+      "id": "apj-abdul-kalam-q21",
+      "difficulty": "medium",
+      "q": "Which sequence correctly reflects Kalam's path as shown on his card?",
+      "options": [
+        "Aerospace scientist, then President",
+        "President, then scientist",
+        "Speaker, then President",
+        "Prime Minister, then President"
+      ],
+      "answer": 0,
+      "explanation": "He was an aerospace scientist before becoming President."
+    },
+    {
+      "id": "apj-abdul-kalam-q22",
+      "difficulty": "medium",
+      "q": "The President's office held by Kalam is also described as belonging to which 'citizen' of India?",
+      "options": [
+        "The last citizen",
+        "The first citizen",
+        "A foreign citizen",
+        "An honorary citizen"
+      ],
+      "answer": 1,
+      "explanation": "The President of India is described as the first citizen of the country."
+    },
+    {
+      "id": "apj-abdul-kalam-q23",
+      "difficulty": "hard",
+      "q": "The executive power of the Union, exercisable through the President whom Kalam became, is vested by which Article?",
+      "options": [
+        "Article 61",
+        "Article 74",
+        "Article 53",
+        "Article 85"
+      ],
+      "answer": 2,
+      "explanation": "Article 53 vests the executive power of the Union in the President."
+    },
+    {
+      "id": "apj-abdul-kalam-q24",
+      "difficulty": "hard",
+      "q": "The President's power to grant pardons and commute sentences, available to Kalam in office, is contained in which Article?",
+      "options": [
+        "Article 53",
+        "Article 123",
+        "Article 111",
+        "Article 72"
+      ],
+      "answer": 3,
+      "explanation": "Article 72 gives the President the power to grant pardons, reprieves, respites and remissions."
+    },
+    {
+      "id": "apj-abdul-kalam-q25",
+      "difficulty": "hard",
+      "q": "The office of President that Kalam held is itself established by which Article of the Constitution?",
+      "options": [
+        "Article 52",
+        "Article 63",
+        "Article 74",
+        "Article 79"
+      ],
+      "answer": 0,
+      "explanation": "Article 52 states that there shall be a President of India."
+    },
+    {
+      "id": "apj-abdul-kalam-q26",
+      "difficulty": "hard",
+      "q": "The President, the office Kalam held, acts on the aid and advice of the Council of Ministers under which Article?",
+      "options": [
+        "Article 53",
+        "Article 74",
+        "Article 80",
+        "Article 124"
+      ],
+      "answer": 1,
+      "explanation": "Article 74 provides for a Council of Ministers to aid and advise the President."
+    },
+    {
+      "id": "apj-abdul-kalam-q27",
+      "difficulty": "hard",
+      "q": "When Parliament is not in session, the President, as Kalam was, may promulgate ordinances under which Article?",
+      "options": [
+        "Article 53",
+        "Article 72",
+        "Article 123",
+        "Article 111"
+      ],
+      "answer": 2,
+      "explanation": "Article 123 empowers the President to promulgate ordinances when Parliament is not in session."
+    },
+    {
+      "id": "apj-abdul-kalam-q28",
+      "difficulty": "hard",
+      "q": "Kalam was succeeded by Pratibha Patil, who is notable as which kind of President?",
+      "options": [
+        "The first scientist President",
+        "The first Dalit President",
+        "The first Sikh President",
+        "The first woman President of India"
+      ],
+      "answer": 3,
+      "explanation": "Pratibha Patil, who succeeded Kalam, was the first woman President of India."
+    },
+    {
+      "id": "apj-abdul-kalam-q29",
+      "difficulty": "hard",
+      "q": "Which statement about Kalam's route to the presidency is accurate?",
+      "options": [
+        "He had not previously held the office of Vice-President",
+        "He served as Vice-President before becoming President",
+        "He was Speaker before becoming President",
+        "He was Prime Minister before becoming President"
+      ],
+      "answer": 0,
+      "explanation": "Unlike several predecessors, Kalam came to the presidency from a scientific career and had not been Vice-President."
+    },
+    {
+      "id": "apj-abdul-kalam-q30",
+      "difficulty": "hard",
+      "q": "The President's term of office, as held by Kalam, runs for five years from which point under the Constitution?",
+      "options": [
+        "The date of nomination",
+        "The date the President enters upon the office",
+        "1 January of the election year",
+        "The date Parliament convenes"
+      ],
+      "answer": 1,
+      "explanation": "The five-year term is counted from the date the President enters upon the office."
+    }
+  ]
+}

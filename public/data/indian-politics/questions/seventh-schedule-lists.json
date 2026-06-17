@@ -1,0 +1,395 @@
+{
+  "cardId": "seventh-schedule-lists",
+  "questions": [
+    {
+      "id": "seventh-schedule-lists-q01",
+      "difficulty": "easy",
+      "q": "The Union, State and Concurrent Lists are contained in which Schedule of the Constitution?",
+      "options": [
+        "The Seventh Schedule",
+        "The First Schedule",
+        "The Tenth Schedule",
+        "The Ninth Schedule"
+      ],
+      "answer": 0,
+      "explanation": "The Seventh Schedule sets out the three lists that distribute legislative powers."
+    },
+    {
+      "id": "seventh-schedule-lists-q02",
+      "difficulty": "easy",
+      "q": "How many lists divide legislative subjects under the Seventh Schedule?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": 1,
+      "explanation": "The Seventh Schedule contains three lists: the Union List, the State List and the Concurrent List."
+    },
+    {
+      "id": "seventh-schedule-lists-q03",
+      "difficulty": "easy",
+      "q": "Subjects of national importance, such as defence and foreign affairs, fall under which list?",
+      "options": [
+        "The State List",
+        "The Concurrent List",
+        "The Union List",
+        "The Residuary List"
+      ],
+      "answer": 2,
+      "explanation": "The Union List covers matters of national importance on which only Parliament can legislate."
+    },
+    {
+      "id": "seventh-schedule-lists-q04",
+      "difficulty": "easy",
+      "q": "On which list can both Parliament and the State Legislatures make laws?",
+      "options": [
+        "The Union List",
+        "The State List",
+        "The First List",
+        "The Concurrent List"
+      ],
+      "answer": 3,
+      "explanation": "The Concurrent List contains subjects on which both the Union and the States may legislate."
+    },
+    {
+      "id": "seventh-schedule-lists-q05",
+      "difficulty": "easy",
+      "q": "Subjects of local or regional importance generally appear in which list?",
+      "options": [
+        "The State List",
+        "The Union List",
+        "The Concurrent List",
+        "The Schedule List"
+      ],
+      "answer": 0,
+      "explanation": "The State List covers matters of local or state importance on which state legislatures may legislate."
+    },
+    {
+      "id": "seventh-schedule-lists-q06",
+      "difficulty": "easy",
+      "q": "Which article of the Constitution gives effect to the distribution of subjects in the three lists?",
+      "options": [
+        "Article 368",
+        "Article 246",
+        "Article 324",
+        "Article 280"
+      ],
+      "answer": 1,
+      "explanation": "Article 246 read with the Seventh Schedule distributes legislative powers among the three lists."
+    },
+    {
+      "id": "seventh-schedule-lists-q07",
+      "difficulty": "easy",
+      "q": "Defence of India is a subject under which list?",
+      "options": [
+        "The State List",
+        "The Concurrent List",
+        "The Union List",
+        "The Local List"
+      ],
+      "answer": 2,
+      "explanation": "Defence is a Union List subject, as it concerns the whole nation."
+    },
+    {
+      "id": "seventh-schedule-lists-q08",
+      "difficulty": "easy",
+      "q": "Police and public order are subjects under which list?",
+      "options": [
+        "The Union List",
+        "The Concurrent List",
+        "The Residuary List",
+        "The State List"
+      ],
+      "answer": 3,
+      "explanation": "Police and public order are State List subjects, handled primarily by the states."
+    },
+    {
+      "id": "seventh-schedule-lists-q09",
+      "difficulty": "easy",
+      "q": "The three lists distribute powers between which two levels of government?",
+      "options": [
+        "The Union and the States",
+        "The Cabinet and Parliament",
+        "The President and the Governor",
+        "The Centre and the panchayats"
+      ],
+      "answer": 0,
+      "explanation": "The lists divide legislative powers between the Union and the States."
+    },
+    {
+      "id": "seventh-schedule-lists-q10",
+      "difficulty": "easy",
+      "q": "Foreign affairs and diplomacy are placed under which list?",
+      "options": [
+        "The State List",
+        "The Union List",
+        "The Concurrent List",
+        "The External List"
+      ],
+      "answer": 1,
+      "explanation": "Foreign affairs is a Union List subject, reserved for Parliament."
+    },
+    {
+      "id": "seventh-schedule-lists-q11",
+      "difficulty": "medium",
+      "q": "In the original Constitution, the Union List contained approximately how many entries?",
+      "options": [
+        "47 entries",
+        "66 entries",
+        "97 entries",
+        "120 entries"
+      ],
+      "answer": 2,
+      "explanation": "The Union List originally contained 97 entries, since modified by various amendments."
+    },
+    {
+      "id": "seventh-schedule-lists-q12",
+      "difficulty": "medium",
+      "q": "In the original Constitution, the State List contained approximately how many entries?",
+      "options": [
+        "97 entries",
+        "47 entries",
+        "100 entries",
+        "66 entries"
+      ],
+      "answer": 3,
+      "explanation": "The State List originally contained 66 entries dealing with state and local subjects."
+    },
+    {
+      "id": "seventh-schedule-lists-q13",
+      "difficulty": "medium",
+      "q": "In the original Constitution, the Concurrent List contained approximately how many entries?",
+      "options": [
+        "47 entries",
+        "97 entries",
+        "66 entries",
+        "30 entries"
+      ],
+      "answer": 0,
+      "explanation": "The Concurrent List originally contained 47 entries on which both levels could legislate."
+    },
+    {
+      "id": "seventh-schedule-lists-q14",
+      "difficulty": "medium",
+      "q": "When a Union law and a State law conflict on a Concurrent List subject, which generally prevails?",
+      "options": [
+        "The State law",
+        "The Union law",
+        "The earlier-enacted law",
+        "Neither law"
+      ],
+      "answer": 1,
+      "explanation": "Under Article 254, Union law generally prevails over State law in case of repugnancy on a Concurrent subject."
+    },
+    {
+      "id": "seventh-schedule-lists-q15",
+      "difficulty": "medium",
+      "q": "Education, originally a State subject, was moved to which list by the 42nd Amendment?",
+      "options": [
+        "The Union List",
+        "The Residuary List",
+        "The Concurrent List",
+        "The First Schedule"
+      ],
+      "answer": 2,
+      "explanation": "The 42nd Amendment of 1976 shifted Education from the State List to the Concurrent List."
+    },
+    {
+      "id": "seventh-schedule-lists-q16",
+      "difficulty": "medium",
+      "q": "Which of the following was transferred from the State List to the Concurrent List by the 42nd Amendment?",
+      "options": [
+        "Police",
+        "Public health",
+        "Agriculture",
+        "Forests"
+      ],
+      "answer": 3,
+      "explanation": "The 42nd Amendment moved Forests, along with Education and a few others, to the Concurrent List."
+    },
+    {
+      "id": "seventh-schedule-lists-q17",
+      "difficulty": "medium",
+      "q": "Atomic energy is a subject under which list?",
+      "options": [
+        "The Union List",
+        "The State List",
+        "The Concurrent List",
+        "The Energy List"
+      ],
+      "answer": 0,
+      "explanation": "Atomic energy is a Union List subject, reserved for the central government."
+    },
+    {
+      "id": "seventh-schedule-lists-q18",
+      "difficulty": "medium",
+      "q": "Criminal law and criminal procedure broadly fall under which list?",
+      "options": [
+        "The Union List",
+        "The Concurrent List",
+        "The State List",
+        "The Residuary List"
+      ],
+      "answer": 1,
+      "explanation": "Criminal law and criminal procedure are Concurrent List subjects, allowing both levels to legislate."
+    },
+    {
+      "id": "seventh-schedule-lists-q19",
+      "difficulty": "medium",
+      "q": "Agriculture is primarily placed under which list?",
+      "options": [
+        "The Union List",
+        "The Concurrent List",
+        "The State List",
+        "The Rural List"
+      ],
+      "answer": 2,
+      "explanation": "Agriculture is a State List subject under the Seventh Schedule."
+    },
+    {
+      "id": "seventh-schedule-lists-q20",
+      "difficulty": "medium",
+      "q": "Railways are placed under which list of the Seventh Schedule?",
+      "options": [
+        "The State List",
+        "The Concurrent List",
+        "The Transport List",
+        "The Union List"
+      ],
+      "answer": 3,
+      "explanation": "Railways is a Union List subject, administered by the central government."
+    },
+    {
+      "id": "seventh-schedule-lists-q21",
+      "difficulty": "medium",
+      "q": "Which list contains subjects on which only Parliament has exclusive power to legislate?",
+      "options": [
+        "The Union List",
+        "The State List",
+        "The Concurrent List",
+        "The Common List"
+      ],
+      "answer": 0,
+      "explanation": "The Union List comprises subjects on which only Parliament can make laws."
+    },
+    {
+      "id": "seventh-schedule-lists-q22",
+      "difficulty": "medium",
+      "q": "Banking and insurance are placed under which list?",
+      "options": [
+        "The State List",
+        "The Union List",
+        "The Concurrent List",
+        "The Finance List"
+      ],
+      "answer": 1,
+      "explanation": "Banking and insurance are Union List subjects under the Seventh Schedule."
+    },
+    {
+      "id": "seventh-schedule-lists-q23",
+      "difficulty": "hard",
+      "q": "Subjects not enumerated in any of the three lists, the residuary subjects, are assigned to whom?",
+      "options": [
+        "The State Legislatures, under Article 246",
+        "The Governor, by proclamation",
+        "Parliament, under Article 248",
+        "The Supreme Court, by interpretation"
+      ],
+      "answer": 2,
+      "explanation": "Article 248 vests residuary powers of legislation, including taxes, in Parliament."
+    },
+    {
+      "id": "seventh-schedule-lists-q24",
+      "difficulty": "hard",
+      "q": "Which entry of the Union List acts as the basis for residuary legislative power?",
+      "options": [
+        "Entry 1 of the State List",
+        "Entry 47 of the Concurrent List",
+        "Entry 5 of the Union List",
+        "Entry 97 of the Union List"
+      ],
+      "answer": 3,
+      "explanation": "Entry 97 of the Union List covers any matter not enumerated elsewhere, giving Parliament residuary powers."
+    },
+    {
+      "id": "seventh-schedule-lists-q25",
+      "difficulty": "hard",
+      "q": "The principle used to interpret entries broadly and harmoniously when lists appear to overlap is known as:",
+      "options": [
+        "The doctrine of pith and substance",
+        "The doctrine of eclipse",
+        "The doctrine of severability",
+        "The doctrine of laches"
+      ],
+      "answer": 0,
+      "explanation": "The doctrine of pith and substance is used to determine the true nature of a law when entries overlap."
+    },
+    {
+      "id": "seventh-schedule-lists-q26",
+      "difficulty": "hard",
+      "q": "When a law incidentally encroaches on another list while being in pith and substance within its own list, the doctrine applied is:",
+      "options": [
+        "Severability, striking the whole law",
+        "Incidental encroachment, upholding the law",
+        "Repugnancy, voiding the State law",
+        "Colourable legislation, voiding the Union law"
+      ],
+      "answer": 1,
+      "explanation": "Courts uphold a law that is in pith and substance within the legislature's competence despite incidental encroachment."
+    },
+    {
+      "id": "seventh-schedule-lists-q27",
+      "difficulty": "hard",
+      "q": "Weights and measures standards are placed under which list?",
+      "options": [
+        "The State List",
+        "The Concurrent List",
+        "The Union List",
+        "The Trade List"
+      ],
+      "answer": 2,
+      "explanation": "Establishment of standards of weights and measures is a Union List subject."
+    },
+    {
+      "id": "seventh-schedule-lists-q28",
+      "difficulty": "hard",
+      "q": "Trade and commerce within a state, and markets and fairs, are placed under which list?",
+      "options": [
+        "The Union List",
+        "The Concurrent List",
+        "The Commerce List",
+        "The State List"
+      ],
+      "answer": 3,
+      "explanation": "Intra-state trade and commerce, markets and fairs are State List subjects."
+    },
+    {
+      "id": "seventh-schedule-lists-q29",
+      "difficulty": "hard",
+      "q": "A state law on a Concurrent subject that conflicts with a Union law may still prevail in that state if:",
+      "options": [
+        "It has received the President's assent under Article 254(2)",
+        "The Governor approves it by order",
+        "The state legislature passes it twice",
+        "It is published in the Gazette"
+      ],
+      "answer": 0,
+      "explanation": "Under Article 254(2), a repugnant State law reserved for and assented to by the President prevails in that state."
+    },
+    {
+      "id": "seventh-schedule-lists-q30",
+      "difficulty": "hard",
+      "q": "The structure of the three lists in the Seventh Schedule was largely adapted from which earlier statute?",
+      "options": [
+        "The Indian Independence Act, 1947",
+        "The Government of India Act, 1935",
+        "The Charter Act of 1853",
+        "The Morley-Minto reforms of 1909"
+      ],
+      "answer": 1,
+      "explanation": "The three-list scheme was adapted from the distribution of powers under the Government of India Act, 1935."
+    }
+  ]
+}

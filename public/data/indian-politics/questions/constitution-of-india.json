@@ -1,0 +1,395 @@
+{
+  "cardId": "constitution-of-india",
+  "questions": [
+    {
+      "id": "constitution-of-india-q01",
+      "difficulty": "easy",
+      "q": "On what date did the Constitution of India come into force?",
+      "options": [
+        "26 January 1950",
+        "15 August 1947",
+        "26 November 1949",
+        "26 January 1930"
+      ],
+      "answer": 0,
+      "explanation": "The Constitution came into force on 26 January 1950, a date now celebrated as Republic Day."
+    },
+    {
+      "id": "constitution-of-india-q02",
+      "difficulty": "easy",
+      "q": "On what date was the Constitution of India adopted by the Constituent Assembly?",
+      "options": [
+        "26 January 1950",
+        "15 August 1947",
+        "26 November 1949",
+        "9 December 1946"
+      ],
+      "answer": 2,
+      "explanation": "The Constituent Assembly adopted the Constitution on 26 November 1949, now observed as Constitution Day."
+    },
+    {
+      "id": "constitution-of-india-q03",
+      "difficulty": "easy",
+      "q": "The Constitution of India is best described as which type of document?",
+      "options": [
+        "An unwritten constitution",
+        "The longest written constitution of any sovereign nation",
+        "A purely customary code",
+        "A royal charter"
+      ],
+      "answer": 1,
+      "explanation": "The Constitution of India is the longest written constitution of any sovereign country in the world."
+    },
+    {
+      "id": "constitution-of-india-q04",
+      "difficulty": "easy",
+      "q": "The Constitution declares India to be which kind of state?",
+      "options": [
+        "A monarchy",
+        "A confederation of kingdoms",
+        "A theocratic state",
+        "A sovereign, socialist, secular, democratic republic"
+      ],
+      "answer": 3,
+      "explanation": "The Constitution establishes India as a sovereign, socialist, secular, democratic republic."
+    },
+    {
+      "id": "constitution-of-india-q05",
+      "difficulty": "easy",
+      "q": "What is the status of the Constitution within India's legal system?",
+      "options": [
+        "The supreme law of the land",
+        "Subordinate to ordinary statutes",
+        "A non-binding set of guidelines",
+        "Equal in force to executive orders"
+      ],
+      "answer": 0,
+      "explanation": "The Constitution is the supreme law of India, and all other laws must conform to it."
+    },
+    {
+      "id": "constitution-of-india-q06",
+      "difficulty": "easy",
+      "q": "Which body drafted and adopted the Constitution of India?",
+      "options": [
+        "The British Parliament",
+        "The Supreme Court",
+        "The Constituent Assembly",
+        "The Council of Ministers"
+      ],
+      "answer": 2,
+      "explanation": "The Constituent Assembly drafted and adopted the Constitution of India."
+    },
+    {
+      "id": "constitution-of-india-q07",
+      "difficulty": "easy",
+      "q": "The introductory statement of the Constitution that sets out its guiding objectives is called the:",
+      "options": [
+        "Schedule",
+        "Preamble",
+        "Appendix",
+        "Charter"
+      ],
+      "answer": 1,
+      "explanation": "The Preamble is the introductory statement that sets out the Constitution's objectives."
+    },
+    {
+      "id": "constitution-of-india-q08",
+      "difficulty": "easy",
+      "q": "How many years are celebrated between the Constitution's adoption in 1949 and its coming into force in 1950?",
+      "options": [
+        "About five years",
+        "About ten years",
+        "About one decade",
+        "About two months"
+      ],
+      "answer": 3,
+      "explanation": "The Constitution was adopted on 26 November 1949 and came into force about two months later on 26 January 1950."
+    },
+    {
+      "id": "constitution-of-india-q09",
+      "difficulty": "easy",
+      "q": "Which annual national observance marks the day the Constitution came into force?",
+      "options": [
+        "Republic Day",
+        "Independence Day",
+        "Gandhi Jayanti",
+        "Constitution Eve"
+      ],
+      "answer": 0,
+      "explanation": "Republic Day on 26 January marks the day the Constitution came into force."
+    },
+    {
+      "id": "constitution-of-india-q10",
+      "difficulty": "easy",
+      "q": "The Constitution divides governmental powers chiefly between which two levels?",
+      "options": [
+        "The army and the navy",
+        "The cities and the villages",
+        "The Union and the States",
+        "The courts and the police"
+      ],
+      "answer": 2,
+      "explanation": "The Constitution establishes a division of powers between the Union and the States."
+    },
+    {
+      "id": "constitution-of-india-q11",
+      "difficulty": "medium",
+      "q": "In which year was Constitution Day (Samvidhan Divas) first officially observed on 26 November?",
+      "options": [
+        "1950",
+        "2015",
+        "1976",
+        "2000"
+      ],
+      "answer": 1,
+      "explanation": "Constitution Day was first officially observed on 26 November 2015, the date of the Constitution's adoption."
+    },
+    {
+      "id": "constitution-of-india-q12",
+      "difficulty": "medium",
+      "q": "Which Part of the Constitution contains the Fundamental Rights?",
+      "options": [
+        "Part II",
+        "Part IV",
+        "Part V",
+        "Part III"
+      ],
+      "answer": 3,
+      "explanation": "Fundamental Rights are enshrined in Part III of the Constitution."
+    },
+    {
+      "id": "constitution-of-india-q13",
+      "difficulty": "medium",
+      "q": "Which Part of the Constitution contains the Directive Principles of State Policy?",
+      "options": [
+        "Part IV",
+        "Part III",
+        "Part VI",
+        "Part IX"
+      ],
+      "answer": 0,
+      "explanation": "The Directive Principles of State Policy are contained in Part IV of the Constitution."
+    },
+    {
+      "id": "constitution-of-india-q14",
+      "difficulty": "medium",
+      "q": "How does the Constitution describe India in its territorial definition?",
+      "options": [
+        "A federation of provinces",
+        "A league of republics",
+        "A Union of States",
+        "A commonwealth of regions"
+      ],
+      "answer": 2,
+      "explanation": "Article 1 of the Constitution describes India, that is Bharat, as a Union of States."
+    },
+    {
+      "id": "constitution-of-india-q15",
+      "difficulty": "medium",
+      "q": "Which article lays down the procedure for amending the Constitution?",
+      "options": [
+        "Article 32",
+        "Article 368",
+        "Article 14",
+        "Article 280"
+      ],
+      "answer": 1,
+      "explanation": "Article 368 sets out the procedure for amending the Constitution."
+    },
+    {
+      "id": "constitution-of-india-q16",
+      "difficulty": "medium",
+      "q": "Which two words were added to the description of India in the Preamble by the 42nd Amendment of 1976?",
+      "options": [
+        "Democratic and republic",
+        "Sovereign and secular",
+        "Federal and unitary",
+        "Socialist and secular"
+      ],
+      "answer": 3,
+      "explanation": "The 42nd Amendment of 1976 inserted the words 'socialist' and 'secular' into the Preamble."
+    },
+    {
+      "id": "constitution-of-india-q17",
+      "difficulty": "medium",
+      "q": "The Constitution provides for which kind of citizenship for the whole of India?",
+      "options": [
+        "Single, unified citizenship",
+        "Dual citizenship",
+        "State-based citizenship",
+        "Provincial citizenship"
+      ],
+      "answer": 0,
+      "explanation": "The Constitution provides for a single, unified citizenship for the entire country."
+    },
+    {
+      "id": "constitution-of-india-q18",
+      "difficulty": "medium",
+      "q": "Many provisions of the Constitution drew on which earlier colonial-era statute as a structural template?",
+      "options": [
+        "The Indian Councils Act of 1909",
+        "The Regulating Act of 1773",
+        "The Government of India Act of 1935",
+        "The Charter Act of 1833"
+      ],
+      "answer": 2,
+      "explanation": "A large part of the Constitution's administrative structure was drawn from the Government of India Act of 1935."
+    },
+    {
+      "id": "constitution-of-india-q19",
+      "difficulty": "medium",
+      "q": "The original Constitution as enacted in 1950 contained how many schedules?",
+      "options": [
+        "Ten",
+        "Eight",
+        "Twelve",
+        "Fourteen"
+      ],
+      "answer": 1,
+      "explanation": "The original Constitution of 1950 contained eight schedules; the number was later increased to twelve."
+    },
+    {
+      "id": "constitution-of-india-q20",
+      "difficulty": "medium",
+      "q": "Which Part of the Constitution deals with citizenship?",
+      "options": [
+        "Part I",
+        "Part III",
+        "Part IV",
+        "Part II"
+      ],
+      "answer": 3,
+      "explanation": "Part II of the Constitution deals with citizenship."
+    },
+    {
+      "id": "constitution-of-india-q21",
+      "difficulty": "medium",
+      "q": "Which language version of the original Constitution was signed by members of the Constituent Assembly?",
+      "options": [
+        "Both Hindi and English versions",
+        "Only the Hindi version",
+        "Only the Sanskrit version",
+        "Only the Urdu version"
+      ],
+      "answer": 0,
+      "explanation": "Members signed both the Hindi and English versions of the original Constitution."
+    },
+    {
+      "id": "constitution-of-india-q22",
+      "difficulty": "medium",
+      "q": "The Constitution describes the right to constitutional remedies, which protects all other Fundamental Rights, under which article?",
+      "options": [
+        "Article 19",
+        "Article 21",
+        "Article 32",
+        "Article 51"
+      ],
+      "answer": 2,
+      "explanation": "Article 32 guarantees the right to constitutional remedies for enforcing Fundamental Rights."
+    },
+    {
+      "id": "constitution-of-india-q23",
+      "difficulty": "hard",
+      "q": "Approximately how many articles were contained in the original Constitution as adopted in 1949?",
+      "options": [
+        "About 250 articles",
+        "About 395 articles",
+        "About 500 articles",
+        "About 150 articles"
+      ],
+      "answer": 1,
+      "explanation": "The original Constitution contained about 395 articles arranged in parts and schedules."
+    },
+    {
+      "id": "constitution-of-india-q24",
+      "difficulty": "hard",
+      "q": "Some provisions of the Constitution, such as those dealing with citizenship and elections, came into effect before 26 January 1950 on which date?",
+      "options": [
+        "15 August 1947",
+        "9 December 1946",
+        "30 January 1948",
+        "26 November 1949"
+      ],
+      "answer": 3,
+      "explanation": "Certain provisions came into force on 26 November 1949, the date the Constitution was adopted, while the rest commenced on 26 January 1950."
+    },
+    {
+      "id": "constitution-of-india-q25",
+      "difficulty": "hard",
+      "q": "The illustrations and decorative artwork in the original handwritten Constitution were prepared under the guidance of which artist?",
+      "options": [
+        "Nandalal Bose",
+        "Raja Ravi Varma",
+        "Jamini Roy",
+        "Abanindranath Tagore"
+      ],
+      "answer": 0,
+      "explanation": "The artwork in the original manuscript Constitution was created under the guidance of artist Nandalal Bose."
+    },
+    {
+      "id": "constitution-of-india-q26",
+      "difficulty": "hard",
+      "q": "The calligraphy of the original handwritten English-language Constitution was done by which individual?",
+      "options": [
+        "B.N. Rau",
+        "Nandalal Bose",
+        "Prem Behari Narain Raizada",
+        "B.R. Ambedkar"
+      ],
+      "answer": 2,
+      "explanation": "The original English manuscript of the Constitution was handwritten in calligraphy by Prem Behari Narain Raizada."
+    },
+    {
+      "id": "constitution-of-india-q27",
+      "difficulty": "hard",
+      "q": "Which doctrine, holding that certain core features of the Constitution cannot be amended, was established by the Supreme Court?",
+      "options": [
+        "The doctrine of pith and substance",
+        "The basic structure doctrine",
+        "The doctrine of eclipse",
+        "The doctrine of severability"
+      ],
+      "answer": 1,
+      "explanation": "The basic structure doctrine holds that Parliament cannot amend the essential features of the Constitution."
+    },
+    {
+      "id": "constitution-of-india-q28",
+      "difficulty": "hard",
+      "q": "The Constitution borrowed the concept of a written list of Fundamental Rights chiefly from which country's constitutional tradition?",
+      "options": [
+        "The United Kingdom",
+        "Australia",
+        "Canada",
+        "The United States"
+      ],
+      "answer": 3,
+      "explanation": "The idea of justiciable Fundamental Rights was drawn largely from the Bill of Rights tradition of the United States."
+    },
+    {
+      "id": "constitution-of-india-q29",
+      "difficulty": "hard",
+      "q": "The Directive Principles of State Policy in the Constitution were inspired chiefly by the constitutional tradition of which country?",
+      "options": [
+        "Ireland",
+        "France",
+        "Japan",
+        "Germany"
+      ],
+      "answer": 0,
+      "explanation": "The Directive Principles of State Policy were drawn from the Constitution of Ireland."
+    },
+    {
+      "id": "constitution-of-india-q30",
+      "difficulty": "hard",
+      "q": "Roughly how many parts did the original Constitution of India contain?",
+      "options": [
+        "About 12 parts",
+        "About 22 parts",
+        "About 30 parts",
+        "About 8 parts"
+      ],
+      "answer": 1,
+      "explanation": "The original Constitution was divided into about 22 parts, each grouping related articles."
+    }
+  ]
+}

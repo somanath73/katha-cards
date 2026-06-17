@@ -1,0 +1,395 @@
+{
+  "cardId": "parliament-house",
+  "questions": [
+    {
+      "id": "parliament-house-q01",
+      "difficulty": "easy",
+      "q": "In which city is the Parliament House of India located?",
+      "options": [
+        "New Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": 0,
+      "explanation": "The Parliament House of India is located in New Delhi."
+    },
+    {
+      "id": "parliament-house-q02",
+      "difficulty": "easy",
+      "q": "In which year was the original Parliament House inaugurated?",
+      "options": [
+        "1911",
+        "1927",
+        "1921",
+        "1947"
+      ],
+      "answer": 1,
+      "explanation": "The original Parliament House was inaugurated in 1927."
+    },
+    {
+      "id": "parliament-house-q03",
+      "difficulty": "easy",
+      "q": "Which two architects are credited with designing the original Parliament House?",
+      "options": [
+        "Charles Correa and B.V. Doshi",
+        "Le Corbusier and Pierre Jeanneret",
+        "Edwin Lutyens and Herbert Baker",
+        "Robert Tor Russell and Walter George"
+      ],
+      "answer": 2,
+      "explanation": "The original Parliament House was designed by Edwin Lutyens and Herbert Baker."
+    },
+    {
+      "id": "parliament-house-q04",
+      "difficulty": "easy",
+      "q": "Parliament House serves as the seat of which institution?",
+      "options": [
+        "The judiciary",
+        "The Election Commission",
+        "The Reserve Bank",
+        "The legislature"
+      ],
+      "answer": 3,
+      "explanation": "Parliament House is the seat of India's legislature."
+    },
+    {
+      "id": "parliament-house-q05",
+      "difficulty": "easy",
+      "q": "A new Parliament building was inaugurated in which year?",
+      "options": [
+        "2023",
+        "2021",
+        "2019",
+        "2024"
+      ],
+      "answer": 0,
+      "explanation": "A new Parliament building was inaugurated in 2023."
+    },
+    {
+      "id": "parliament-house-q06",
+      "difficulty": "easy",
+      "q": "Which two Houses of Parliament meet in the Parliament complex?",
+      "options": [
+        "The High Court and the Supreme Court",
+        "The Lok Sabha and the Rajya Sabha",
+        "The Vidhan Sabha and the Vidhan Parishad",
+        "The Cabinet and the Council"
+      ],
+      "answer": 1,
+      "explanation": "The Lok Sabha and the Rajya Sabha are the two Houses that meet in the Parliament complex."
+    },
+    {
+      "id": "parliament-house-q07",
+      "difficulty": "easy",
+      "q": "The original Parliament House is well known for what distinctive shape?",
+      "options": [
+        "A square plan",
+        "A triangular plan",
+        "A circular plan",
+        "A star-shaped plan"
+      ],
+      "answer": 2,
+      "explanation": "The original Parliament House is famous for its circular shape."
+    },
+    {
+      "id": "parliament-house-q08",
+      "difficulty": "easy",
+      "q": "Parliament House in New Delhi was built during which period of Indian history?",
+      "options": [
+        "The Mughal period",
+        "The post-independence period",
+        "The Maurya period",
+        "The British colonial period"
+      ],
+      "answer": 3,
+      "explanation": "The original Parliament House was built during the British colonial period and completed in 1927."
+    },
+    {
+      "id": "parliament-house-q09",
+      "difficulty": "easy",
+      "q": "Parliament House is part of the central administrative area of New Delhi often associated with which architect's planning?",
+      "options": [
+        "Edwin Lutyens",
+        "Akbar",
+        "Shah Jahan",
+        "Ashoka"
+      ],
+      "answer": 0,
+      "explanation": "Parliament House lies in the Lutyens-planned central area of New Delhi."
+    },
+    {
+      "id": "parliament-house-q10",
+      "difficulty": "easy",
+      "q": "What is one main activity conducted inside Parliament House?",
+      "options": [
+        "Hearing criminal appeals",
+        "Making laws for the country",
+        "Printing currency notes",
+        "Conducting national examinations"
+      ],
+      "answer": 1,
+      "explanation": "Parliament House is where laws are debated and made for the country."
+    },
+    {
+      "id": "parliament-house-q11",
+      "difficulty": "medium",
+      "q": "The original Parliament House was first known by which name when it opened?",
+      "options": [
+        "Secretariat Building",
+        "Viceroy's House",
+        "Council House",
+        "Assembly Hall"
+      ],
+      "answer": 2,
+      "explanation": "When it opened in 1927, the building was known as the Council House."
+    },
+    {
+      "id": "parliament-house-q12",
+      "difficulty": "medium",
+      "q": "Who laid the foundation stone of the original Parliament House in 1921?",
+      "options": [
+        "Mahatma Gandhi",
+        "King George V",
+        "Lord Mountbatten",
+        "The Duke of Connaught"
+      ],
+      "answer": 3,
+      "explanation": "The foundation stone of the original Parliament House was laid in February 1921 by HRH the Duke of Connaught."
+    },
+    {
+      "id": "parliament-house-q13",
+      "difficulty": "medium",
+      "q": "The famous Central Hall of the old Parliament House is historically significant as the venue where what occurred?",
+      "options": [
+        "The Constitution of India was framed and adopted",
+        "The first Olympic Games of India were held",
+        "The Reserve Bank was founded",
+        "The first films of India were screened"
+      ],
+      "answer": 0,
+      "explanation": "The Central Hall hosted the Constituent Assembly, where the Constitution of India was framed and adopted."
+    },
+    {
+      "id": "parliament-house-q14",
+      "difficulty": "medium",
+      "q": "The construction of the original Parliament House took approximately how long, being completed in 1927?",
+      "options": [
+        "About one year",
+        "About six years",
+        "About fifteen years",
+        "About twenty-five years"
+      ],
+      "answer": 1,
+      "explanation": "Construction began in 1921 and was completed in 1927, taking about six years."
+    },
+    {
+      "id": "parliament-house-q15",
+      "difficulty": "medium",
+      "q": "Within the old Parliament House, the two main legislative chambers were arranged around which feature?",
+      "options": [
+        "A central dome",
+        "An underground vault",
+        "A central circular hall and garden courts",
+        "A single straight corridor"
+      ],
+      "answer": 2,
+      "explanation": "The circular building arranged its chambers around the Central Hall and garden courts."
+    },
+    {
+      "id": "parliament-house-q16",
+      "difficulty": "medium",
+      "q": "Edwin Lutyens, co-designer of Parliament House, is also strongly associated with designing which other landmark in New Delhi?",
+      "options": [
+        "Charminar",
+        "The Gateway of India",
+        "Victoria Memorial",
+        "Rashtrapati Bhavan"
+      ],
+      "answer": 3,
+      "explanation": "Edwin Lutyens is also associated with the design of Rashtrapati Bhavan in New Delhi."
+    },
+    {
+      "id": "parliament-house-q17",
+      "difficulty": "medium",
+      "q": "The old Parliament House is widely recognised for the ring of tall columns around its exterior, numbering how many?",
+      "options": [
+        "Around 144 columns",
+        "Around 100 columns",
+        "Around 200 columns",
+        "Around 50 columns"
+      ],
+      "answer": 0,
+      "explanation": "The circular colonnade of the old Parliament House features around 144 columns."
+    },
+    {
+      "id": "parliament-house-q18",
+      "difficulty": "medium",
+      "q": "The new Parliament building inaugurated in 2023 was constructed as part of which redevelopment initiative?",
+      "options": [
+        "The Smart Cities Mission",
+        "The Central Vista redevelopment",
+        "The Bharatmala project",
+        "The Sagarmala project"
+      ],
+      "answer": 1,
+      "explanation": "The new Parliament building was constructed as part of the Central Vista redevelopment project."
+    },
+    {
+      "id": "parliament-house-q19",
+      "difficulty": "medium",
+      "q": "What is the broad shape of the new Parliament building inaugurated in 2023?",
+      "options": [
+        "Circular",
+        "Square",
+        "Triangular",
+        "Hexagonal"
+      ],
+      "answer": 2,
+      "explanation": "The new Parliament building has a triangular shape, contrasting with the circular old building."
+    },
+    {
+      "id": "parliament-house-q20",
+      "difficulty": "medium",
+      "q": "During the colonial era, the legislative body that met in the Council House included which chamber?",
+      "options": [
+        "The Viceroy's stables",
+        "The Supreme Court",
+        "The Privy Council",
+        "The Central Legislative Assembly"
+      ],
+      "answer": 3,
+      "explanation": "The colonial-era Central Legislative Assembly met in the Council House before independence."
+    },
+    {
+      "id": "parliament-house-q21",
+      "difficulty": "medium",
+      "q": "The historic 'Tryst with Destiny' address on the eve of independence was delivered in which hall of Parliament House?",
+      "options": [
+        "The Central Hall",
+        "The Lok Sabha Chamber",
+        "The Library Hall",
+        "The Rajya Sabha Chamber"
+      ],
+      "answer": 0,
+      "explanation": "The 'Tryst with Destiny' speech was delivered in the Central Hall of Parliament House."
+    },
+    {
+      "id": "parliament-house-q22",
+      "difficulty": "medium",
+      "q": "Herbert Baker, who co-designed Parliament House, also worked with Lutyens on the broader design of which complex?",
+      "options": [
+        "The Red Fort",
+        "The Secretariat Buildings on Raisina Hill",
+        "The Qutub Minar",
+        "The India Gate hexagon alone"
+      ],
+      "answer": 1,
+      "explanation": "Herbert Baker designed the Secretariat Buildings on Raisina Hill alongside Lutyens's wider New Delhi plan."
+    },
+    {
+      "id": "parliament-house-q23",
+      "difficulty": "hard",
+      "q": "The old Parliament House complex includes a domed Central Hall whose diameter is approximately what?",
+      "options": [
+        "About 9 metres",
+        "About 100 metres",
+        "About 30 metres",
+        "About 5 metres"
+      ],
+      "answer": 2,
+      "explanation": "The Central Hall is a large circular chamber roughly 30 metres in diameter under its dome."
+    },
+    {
+      "id": "parliament-house-q24",
+      "difficulty": "hard",
+      "q": "Before being called Parliament House after independence, the building primarily housed which colonial legislative chambers?",
+      "options": [
+        "The Army Headquarters and the Mint",
+        "The Privy Council and the High Court",
+        "The Board of Revenue and the Treasury",
+        "The Central Legislative Assembly, the Council of State, and the Chamber of Princes"
+      ],
+      "answer": 3,
+      "explanation": "The Council House held the Central Legislative Assembly, the Council of State, and the Chamber of Princes."
+    },
+    {
+      "id": "parliament-house-q25",
+      "difficulty": "hard",
+      "q": "In what architectural style is the old Parliament House broadly described, blending classical forms with Indian motifs?",
+      "options": [
+        "Indo-Saracenic and classical influences",
+        "Pure Gothic",
+        "Art Deco only",
+        "Brutalist"
+      ],
+      "answer": 0,
+      "explanation": "The old Parliament House blends classical European forms with Indian decorative motifs."
+    },
+    {
+      "id": "parliament-house-q26",
+      "difficulty": "hard",
+      "q": "The new Parliament building has a notably larger seating capacity in the Lok Sabha Chamber, designed to accommodate roughly how many members?",
+      "options": [
+        "About 250",
+        "About 888",
+        "About 550",
+        "About 2000"
+      ],
+      "answer": 1,
+      "explanation": "The new Parliament building's Lok Sabha Chamber is designed to seat around 888 members."
+    },
+    {
+      "id": "parliament-house-q27",
+      "difficulty": "hard",
+      "q": "In the new Parliament building, a historic sceptre known by which name was installed near the Speaker's chair?",
+      "options": [
+        "The Ashoka Stambh",
+        "The Dharma Chakra",
+        "The Sengol",
+        "The Rajdand staff of Delhi"
+      ],
+      "answer": 2,
+      "explanation": "A historic sceptre called the Sengol was installed near the Speaker's chair in the new Parliament building."
+    },
+    {
+      "id": "parliament-house-q28",
+      "difficulty": "hard",
+      "q": "The old Parliament House is located close to which other circular feature of central New Delhi's road plan?",
+      "options": [
+        "India Gate hexagon",
+        "Purana Qila",
+        "Lodhi Gardens",
+        "Connaught Place"
+      ],
+      "answer": 3,
+      "explanation": "The old Parliament House lies near Connaught Place, another circular feature of Lutyens's Delhi."
+    },
+    {
+      "id": "parliament-house-q29",
+      "difficulty": "hard",
+      "q": "What material predominantly gives the old Parliament House its characteristic colour, like much of Lutyens's Delhi?",
+      "options": [
+        "Red and cream sandstone",
+        "White marble",
+        "Black granite",
+        "Grey concrete"
+      ],
+      "answer": 0,
+      "explanation": "Red and cream sandstone gives the old Parliament House and much of central New Delhi their characteristic look."
+    },
+    {
+      "id": "parliament-house-q30",
+      "difficulty": "hard",
+      "q": "After the new Parliament building opened, the old Parliament House was envisaged to be preserved and repurposed for what kind of use?",
+      "options": [
+        "Demolition for a car park",
+        "Heritage and museum-related use",
+        "Conversion into a hotel",
+        "A private residence"
+      ],
+      "answer": 1,
+      "explanation": "Following the opening of the new building, the old Parliament House was envisaged for heritage and museum-related use."
+    }
+  ]
+}

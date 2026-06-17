@@ -1,0 +1,395 @@
+{
+  "cardId": "first-general-election",
+  "questions": [
+    {
+      "id": "first-general-election-q01",
+      "difficulty": "easy",
+      "q": "India's first general election was conducted over which span of months?",
+      "options": [
+        "October 1951 to February 1952",
+        "January to March 1950",
+        "April to August 1947",
+        "June to December 1952"
+      ],
+      "answer": 0,
+      "explanation": "India's first general election was held from October 1951 to February 1952."
+    },
+    {
+      "id": "first-general-election-q02",
+      "difficulty": "easy",
+      "q": "Approximately how many voters were eligible in India's first general election?",
+      "options": [
+        "Over 50 million",
+        "Over 170 million",
+        "Over 100 million",
+        "Over 300 million"
+      ],
+      "answer": 1,
+      "explanation": "Over 170 million voters were eligible in the first general election."
+    },
+    {
+      "id": "first-general-election-q03",
+      "difficulty": "easy",
+      "q": "At the time it was held, India's first general election was notable for being the:",
+      "options": [
+        "First election ever held in Asia",
+        "Smallest election by population",
+        "Largest democratic exercise in the world",
+        "First election held only in cities"
+      ],
+      "answer": 2,
+      "explanation": "It was the largest democratic exercise in the world at that time."
+    },
+    {
+      "id": "first-general-election-q04",
+      "difficulty": "easy",
+      "q": "For most voters in India's first general election, the act of voting was:",
+      "options": [
+        "A regular routine they had done before",
+        "Restricted to landowners only",
+        "Limited to men only",
+        "Something they were doing for the first time"
+      ],
+      "answer": 3,
+      "explanation": "Most of the over 170 million eligible voters were voting for the first time."
+    },
+    {
+      "id": "first-general-election-q05",
+      "difficulty": "easy",
+      "q": "India's first general election elected members to which house of Parliament?",
+      "options": [
+        "The Lok Sabha",
+        "The Rajya Sabha",
+        "The Supreme Court",
+        "The Constituent Assembly"
+      ],
+      "answer": 0,
+      "explanation": "The first general election filled the directly elected Lok Sabha, the House of the People."
+    },
+    {
+      "id": "first-general-election-q06",
+      "difficulty": "easy",
+      "q": "The first general election was made possible by which voting principle granted by the Constitution?",
+      "options": [
+        "Property-based franchise",
+        "Universal adult franchise",
+        "Education-based franchise",
+        "Hereditary franchise"
+      ],
+      "answer": 1,
+      "explanation": "Universal adult franchise gave every adult citizen the right to vote, enabling mass participation."
+    },
+    {
+      "id": "first-general-election-q07",
+      "difficulty": "easy",
+      "q": "In which season of the year did the first general election begin in 1951?",
+      "options": [
+        "Spring",
+        "Monsoon",
+        "Autumn",
+        "Peak summer"
+      ],
+      "answer": 2,
+      "explanation": "Polling began in October 1951, during the autumn season."
+    },
+    {
+      "id": "first-general-election-q08",
+      "difficulty": "easy",
+      "q": "The first general election is often described as which kind of milestone for the new Republic?",
+      "options": [
+        "A purely ceremonial event",
+        "A local council vote",
+        "A military exercise",
+        "A great democratic experiment"
+      ],
+      "answer": 3,
+      "explanation": "It is remembered as a great democratic experiment for the newly independent Republic."
+    },
+    {
+      "id": "first-general-election-q09",
+      "difficulty": "easy",
+      "q": "The first general election was held after India became a republic in which year?",
+      "options": [
+        "1950",
+        "1947",
+        "1948",
+        "1949"
+      ],
+      "answer": 0,
+      "explanation": "India became a republic in 1950, and the first general election followed in 1951-52."
+    },
+    {
+      "id": "first-general-election-q10",
+      "difficulty": "easy",
+      "q": "Which body was responsible for administering India's first general election?",
+      "options": [
+        "The Supreme Court",
+        "The Election Commission of India",
+        "The Planning Commission",
+        "The Reserve Bank of India"
+      ],
+      "answer": 1,
+      "explanation": "The Election Commission of India administered elections to Parliament, including the first general election."
+    },
+    {
+      "id": "first-general-election-q11",
+      "difficulty": "medium",
+      "q": "Who served as the first Chief Election Commissioner who organised India's first general election?",
+      "options": [
+        "T.N. Seshan",
+        "Sardar Patel",
+        "Sukumar Sen",
+        "B.N. Rau"
+      ],
+      "answer": 2,
+      "explanation": "Sukumar Sen, the first Chief Election Commissioner, organised the first general election of 1951-52."
+    },
+    {
+      "id": "first-general-election-q12",
+      "difficulty": "medium",
+      "q": "The first general election determined the membership of the first Lok Sabha, which then met for the first time in which year?",
+      "options": [
+        "1950",
+        "1955",
+        "1957",
+        "1952"
+      ],
+      "answer": 3,
+      "explanation": "The first Lok Sabha, elected in 1951-52, was constituted in 1952."
+    },
+    {
+      "id": "first-general-election-q13",
+      "difficulty": "medium",
+      "q": "Who became Prime Minister of India following the first general election?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Lal Bahadur Shastri",
+        "Rajendra Prasad",
+        "Sardar Patel"
+      ],
+      "answer": 0,
+      "explanation": "Jawaharlal Nehru continued as Prime Minister after the first general election of 1951-52."
+    },
+    {
+      "id": "first-general-election-q14",
+      "difficulty": "medium",
+      "q": "The first general election extended over several months largely because of which practical factor?",
+      "options": [
+        "A shortage of candidates",
+        "The vast size and logistics of the country",
+        "Repeated court orders",
+        "A lack of any voters"
+      ],
+      "answer": 1,
+      "explanation": "The enormous size of the country and the logistics of reaching all voters required polling over many months."
+    },
+    {
+      "id": "first-general-election-q15",
+      "difficulty": "medium",
+      "q": "The first general election demonstrated which feature of India's electorate compared with the world at the time?",
+      "options": [
+        "Its restriction to one region",
+        "Its limitation to a single party",
+        "Its exceptionally large size",
+        "Its exclusion of rural areas"
+      ],
+      "answer": 2,
+      "explanation": "With over 170 million eligible voters, it was the largest electorate exercised anywhere in the world then."
+    },
+    {
+      "id": "first-general-election-q16",
+      "difficulty": "medium",
+      "q": "Voting in the first general election was open to adult citizens regardless of caste, religion, gender, wealth or education because of which principle?",
+      "options": [
+        "Separate electorates",
+        "Limited franchise",
+        "Indirect election",
+        "Universal adult franchise"
+      ],
+      "answer": 3,
+      "explanation": "Universal adult franchise extended the vote to all adult citizens irrespective of such distinctions."
+    },
+    {
+      "id": "first-general-election-q17",
+      "difficulty": "medium",
+      "q": "The institution that conducted the first general election was established in which month and year?",
+      "options": [
+        "January 1950",
+        "November 1949",
+        "August 1947",
+        "January 1952"
+      ],
+      "answer": 0,
+      "explanation": "The Election Commission of India was established on 25 January 1950, before the first general election."
+    },
+    {
+      "id": "first-general-election-q18",
+      "difficulty": "medium",
+      "q": "Because so many first-time voters were unable to read, the first general election made notable use of which aid on the ballot system?",
+      "options": [
+        "Photographs of foreign leaders",
+        "Party symbols",
+        "Audio recordings",
+        "Coloured currency notes"
+      ],
+      "answer": 1,
+      "explanation": "Party symbols were used so that voters, many of whom could not read, could identify their choices."
+    },
+    {
+      "id": "first-general-election-q19",
+      "difficulty": "medium",
+      "q": "The first general election filled seats in the Lok Sabha, whose members are chosen by which method?",
+      "options": [
+        "Nomination by the President",
+        "Indirect election by states only",
+        "Direct election by the people",
+        "Appointment by the judiciary"
+      ],
+      "answer": 2,
+      "explanation": "Lok Sabha members are directly elected by the people, as in the first general election."
+    },
+    {
+      "id": "first-general-election-q20",
+      "difficulty": "medium",
+      "q": "The first general election was conducted under the framework of the Constitution that had come into force in which year?",
+      "options": [
+        "1947",
+        "1949",
+        "1956",
+        "1950"
+      ],
+      "answer": 3,
+      "explanation": "The Constitution came into force on 26 January 1950, providing the framework for the first general election."
+    },
+    {
+      "id": "first-general-election-q21",
+      "difficulty": "medium",
+      "q": "The same Chief Election Commissioner who ran the first general election also oversaw which subsequent national poll?",
+      "options": [
+        "The 1957 general election",
+        "The 1967 general election",
+        "The 1977 general election",
+        "The 1984 general election"
+      ],
+      "answer": 0,
+      "explanation": "Sukumar Sen organised both the first general election of 1951-52 and the second in 1957."
+    },
+    {
+      "id": "first-general-election-q22",
+      "difficulty": "medium",
+      "q": "In which Himalayan region was polling for the first general election held earliest, before the main 1952 phase, owing to winter snowfall?",
+      "options": [
+        "Coastal Kerala",
+        "Parts of present-day Himachal Pradesh",
+        "The Sundarbans",
+        "Coastal Gujarat"
+      ],
+      "answer": 1,
+      "explanation": "Voting in some high Himalayan areas, in what is now Himachal Pradesh, was held in late 1951 ahead of heavy winter snow."
+    },
+    {
+      "id": "first-general-election-q23",
+      "difficulty": "hard",
+      "q": "The first general election was the first poll held simultaneously to constitute both the Lok Sabha and which other set of bodies?",
+      "options": [
+        "The Rajya Sabha by direct vote",
+        "The Supreme Court benches",
+        "The State Legislative Assemblies",
+        "The Finance Commission"
+      ],
+      "answer": 2,
+      "explanation": "The 1951-52 exercise elected both the Lok Sabha and the State Legislative Assemblies."
+    },
+    {
+      "id": "first-general-election-q24",
+      "difficulty": "hard",
+      "q": "Roughly what share of the over 170 million eligible electors in the first general election were estimated to be unable to read or write?",
+      "options": [
+        "A small minority",
+        "Exactly half",
+        "None",
+        "A large majority"
+      ],
+      "answer": 3,
+      "explanation": "A large majority of the electorate was unable to read or write, which is why party symbols were essential."
+    },
+    {
+      "id": "first-general-election-q25",
+      "difficulty": "hard",
+      "q": "The method of voting used in the first general election relied on which physical instrument, later replaced by Electronic Voting Machines?",
+      "options": [
+        "Paper ballots and ballot boxes",
+        "Punch cards",
+        "Telegraph signals",
+        "Show of hands"
+      ],
+      "answer": 0,
+      "explanation": "Voters used paper ballots and ballot boxes, a system later replaced by Electronic Voting Machines."
+    },
+    {
+      "id": "first-general-election-q26",
+      "difficulty": "hard",
+      "q": "The first general election established a precedent that India would choose its national legislature through which constitutional mechanism going forward?",
+      "options": [
+        "Nomination by the head of state",
+        "Periodic direct elections under universal adult franchise",
+        "Selection by princely rulers",
+        "Inheritance of seats"
+      ],
+      "answer": 1,
+      "explanation": "It set the precedent of choosing the Lok Sabha through periodic direct elections under universal adult franchise."
+    },
+    {
+      "id": "first-general-election-q27",
+      "difficulty": "hard",
+      "q": "To manage the scale of the first general election, authorities prepared electoral rolls covering an electorate of what approximate magnitude?",
+      "options": [
+        "Tens of thousands",
+        "A few million",
+        "Over a hundred and seventy million",
+        "Over a billion"
+      ],
+      "answer": 2,
+      "explanation": "Electoral rolls were prepared for an eligible electorate of over 170 million people."
+    },
+    {
+      "id": "first-general-election-q28",
+      "difficulty": "hard",
+      "q": "The first general election was conducted while which interim arrangement of governance had just been replaced by the new constitutional order?",
+      "options": [
+        "Direct British rule",
+        "Princely state councils",
+        "Military administration",
+        "The Constituent Assembly acting as a provisional legislature"
+      ],
+      "answer": 3,
+      "explanation": "Before the first elected Lok Sabha, the Constituent Assembly had served as a provisional legislature until the 1951-52 polls."
+    },
+    {
+      "id": "first-general-election-q29",
+      "difficulty": "hard",
+      "q": "The first general election is regarded as a landmark because it tested universal adult franchise at a scale unprecedented for a country with which characteristic at the time?",
+      "options": [
+        "Widespread poverty and low literacy",
+        "A tiny population",
+        "Universal high literacy",
+        "No rural population"
+      ],
+      "answer": 0,
+      "explanation": "Holding a free vote on such a scale amid widespread poverty and low literacy made it a remarkable democratic experiment."
+    },
+    {
+      "id": "first-general-election-q30",
+      "difficulty": "hard",
+      "q": "The body that ran the first general election derives its authority to conduct elections to Parliament from which part of the Constitution?",
+      "options": [
+        "The provisions on the judiciary",
+        "The provisions on the Election Commission and elections",
+        "The provisions on the armed forces",
+        "The provisions on taxation"
+      ],
+      "answer": 1,
+      "explanation": "The Election Commission's authority to superintend elections to Parliament comes from the Constitution's provisions on elections."
+    }
+  ]
+}

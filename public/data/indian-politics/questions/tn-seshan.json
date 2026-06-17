@@ -1,0 +1,395 @@
+{
+  "cardId": "tn-seshan",
+  "questions": [
+    {
+      "id": "tn-seshan-q01",
+      "difficulty": "easy",
+      "q": "Which constitutional office did T.N. Seshan hold from 1990 to 1996?",
+      "options": [
+        "Chief Election Commissioner",
+        "Speaker of the Lok Sabha",
+        "Attorney General",
+        "Comptroller and Auditor General"
+      ],
+      "answer": 0,
+      "explanation": "T.N. Seshan served as Chief Election Commissioner from 1990 to 1996."
+    },
+    {
+      "id": "tn-seshan-q02",
+      "difficulty": "easy",
+      "q": "T.N. Seshan is especially associated with the enforcement of which set of election guidelines?",
+      "options": [
+        "The income tax code",
+        "The model code of conduct",
+        "The penal code",
+        "The traffic code"
+      ],
+      "answer": 1,
+      "explanation": "He is known for vigorously enforcing the model code of conduct during elections."
+    },
+    {
+      "id": "tn-seshan-q03",
+      "difficulty": "easy",
+      "q": "The institution whose authority Seshan's tenure strengthened was the:",
+      "options": [
+        "Reserve Bank of India",
+        "Supreme Court",
+        "Election Commission of India",
+        "Planning Commission"
+      ],
+      "answer": 2,
+      "explanation": "His tenure strengthened the autonomy and authority of the Election Commission."
+    },
+    {
+      "id": "tn-seshan-q04",
+      "difficulty": "easy",
+      "q": "In which year did T.N. Seshan become Chief Election Commissioner?",
+      "options": [
+        "1985",
+        "1992",
+        "1996",
+        "1990"
+      ],
+      "answer": 3,
+      "explanation": "Seshan became Chief Election Commissioner in 1990."
+    },
+    {
+      "id": "tn-seshan-q05",
+      "difficulty": "easy",
+      "q": "In which year did T.N. Seshan's tenure as Chief Election Commissioner end?",
+      "options": [
+        "1996",
+        "1994",
+        "1995",
+        "1998"
+      ],
+      "answer": 0,
+      "explanation": "His tenure as Chief Election Commissioner ended in 1996."
+    },
+    {
+      "id": "tn-seshan-q06",
+      "difficulty": "easy",
+      "q": "The 'T.N.' in T.N. Seshan's name reflects roots in which southern Indian state?",
+      "options": [
+        "Telangana",
+        "Tamil Nadu",
+        "Kerala",
+        "Karnataka"
+      ],
+      "answer": 1,
+      "explanation": "Tirunellai Narayana Iyer Seshan hailed from Tamil Nadu."
+    },
+    {
+      "id": "tn-seshan-q07",
+      "difficulty": "easy",
+      "q": "To which service did T.N. Seshan belong before heading the Election Commission?",
+      "options": [
+        "The armed forces",
+        "The judiciary",
+        "The Indian Administrative Service",
+        "The Foreign Service only"
+      ],
+      "answer": 2,
+      "explanation": "Seshan was a member of the Indian Administrative Service before becoming Chief Election Commissioner."
+    },
+    {
+      "id": "tn-seshan-q08",
+      "difficulty": "easy",
+      "q": "The office Seshan held is headed by the official titled the:",
+      "options": [
+        "Returning Officer",
+        "Speaker",
+        "Chief Justice",
+        "Chief Election Commissioner"
+      ],
+      "answer": 3,
+      "explanation": "The Election Commission is headed by the Chief Election Commissioner."
+    },
+    {
+      "id": "tn-seshan-q09",
+      "difficulty": "easy",
+      "q": "The model code of conduct Seshan enforced applies primarily during which period?",
+      "options": [
+        "The election campaign and polling period",
+        "The monsoon season",
+        "The financial year-end",
+        "Parliament's budget session"
+      ],
+      "answer": 0,
+      "explanation": "The model code of conduct applies during the election period to ensure free and fair polls."
+    },
+    {
+      "id": "tn-seshan-q10",
+      "difficulty": "easy",
+      "q": "Seshan's reputation rests on enhancing which quality of the Election Commission?",
+      "options": [
+        "Its tax revenue",
+        "Its independence and authority",
+        "Its judicial powers",
+        "Its military command"
+      ],
+      "answer": 1,
+      "explanation": "His tenure is associated with strengthening the autonomy and authority of the Election Commission."
+    },
+    {
+      "id": "tn-seshan-q11",
+      "difficulty": "medium",
+      "q": "Under which article of the Constitution does the Election Commission that Seshan headed derive its powers of superintendence over elections?",
+      "options": [
+        "Article 280",
+        "Article 368",
+        "Article 324",
+        "Article 32"
+      ],
+      "answer": 2,
+      "explanation": "Article 324 vests the superintendence, direction and control of elections in the Election Commission."
+    },
+    {
+      "id": "tn-seshan-q12",
+      "difficulty": "medium",
+      "q": "Which senior post in the Government of India did Seshan hold shortly before becoming Chief Election Commissioner?",
+      "options": [
+        "Chief Justice of India",
+        "Solicitor General",
+        "Governor of a state",
+        "Cabinet Secretary"
+      ],
+      "answer": 3,
+      "explanation": "Seshan served as Cabinet Secretary before his appointment as Chief Election Commissioner."
+    },
+    {
+      "id": "tn-seshan-q13",
+      "difficulty": "medium",
+      "q": "Who appoints the Chief Election Commissioner, the post Seshan held?",
+      "options": [
+        "The President of India",
+        "The Speaker",
+        "The Chief Justice",
+        "Parliament by referendum"
+      ],
+      "answer": 0,
+      "explanation": "The Chief Election Commissioner is appointed by the President of India."
+    },
+    {
+      "id": "tn-seshan-q14",
+      "difficulty": "medium",
+      "q": "During Seshan's tenure, in 1993, the Election Commission was expanded into which structure?",
+      "options": [
+        "A single judge tribunal",
+        "A multi-member body with Election Commissioners",
+        "A two-house council",
+        "A department under a ministry"
+      ],
+      "answer": 1,
+      "explanation": "In 1993 the Commission became a multi-member body with additional Election Commissioners alongside the CEC."
+    },
+    {
+      "id": "tn-seshan-q15",
+      "difficulty": "medium",
+      "q": "Seshan promoted the use of which document to help verify voter identity at polling stations?",
+      "options": [
+        "A passport only",
+        "A ration card only",
+        "The voter identity card (EPIC)",
+        "A driving licence only"
+      ],
+      "answer": 2,
+      "explanation": "Seshan pushed for the introduction of the elector's photo identity card (EPIC) to verify voter identity."
+    },
+    {
+      "id": "tn-seshan-q16",
+      "difficulty": "medium",
+      "q": "The Election Commission Seshan headed is best described as which type of body?",
+      "options": [
+        "A registered company",
+        "An advisory committee of the Cabinet",
+        "A wing of the judiciary",
+        "An autonomous constitutional body"
+      ],
+      "answer": 3,
+      "explanation": "The Election Commission is an autonomous constitutional body."
+    },
+    {
+      "id": "tn-seshan-q17",
+      "difficulty": "medium",
+      "q": "In 1996, Seshan was a recipient of which international award for public service?",
+      "options": [
+        "The Ramon Magsaysay Award",
+        "The Nobel Peace Prize",
+        "The Booker Prize",
+        "The Pulitzer Prize"
+      ],
+      "answer": 0,
+      "explanation": "Seshan received the Ramon Magsaysay Award for Government Service in 1996."
+    },
+    {
+      "id": "tn-seshan-q18",
+      "difficulty": "medium",
+      "q": "The Election Commission Seshan led administers elections to all of the following EXCEPT:",
+      "options": [
+        "Parliament",
+        "Village cooperative banks",
+        "State legislatures",
+        "The offices of President and Vice-President"
+      ],
+      "answer": 1,
+      "explanation": "The Election Commission conducts elections to Parliament, state legislatures, and the offices of President and Vice-President, but not cooperative banks."
+    },
+    {
+      "id": "tn-seshan-q19",
+      "difficulty": "medium",
+      "q": "Seshan's enforcement work aimed mainly to ensure elections that were:",
+      "options": [
+        "Held only in cities",
+        "Restricted to literate voters",
+        "Free and fair",
+        "Decided by Parliament"
+      ],
+      "answer": 2,
+      "explanation": "His enforcement of the code of conduct aimed to ensure free and fair elections."
+    },
+    {
+      "id": "tn-seshan-q20",
+      "difficulty": "medium",
+      "q": "The general election of 1996, conducted during Seshan's tenure, returned which type of legislature?",
+      "options": [
+        "The first Lok Sabha",
+        "The Rajya Sabha alone",
+        "A Constituent Assembly",
+        "The eleventh Lok Sabha"
+      ],
+      "answer": 3,
+      "explanation": "The 1996 general election, held during his tenure, constituted the eleventh Lok Sabha."
+    },
+    {
+      "id": "tn-seshan-q21",
+      "difficulty": "medium",
+      "q": "After leaving the Election Commission, Seshan contested an election for which high office in 1997?",
+      "options": [
+        "President of India",
+        "Speaker of the Lok Sabha",
+        "Chief Justice of India",
+        "Governor of Tamil Nadu"
+      ],
+      "answer": 0,
+      "explanation": "In 1997 Seshan contested the presidential election but was not elected."
+    },
+    {
+      "id": "tn-seshan-q22",
+      "difficulty": "medium",
+      "q": "The removal procedure protecting the Chief Election Commissioner, the office Seshan held, is similar to that of:",
+      "options": [
+        "A district collector",
+        "A judge of the Supreme Court",
+        "A Cabinet minister",
+        "A municipal commissioner"
+      ],
+      "answer": 1,
+      "explanation": "The Chief Election Commissioner can be removed only by a procedure similar to that for a Supreme Court judge."
+    },
+    {
+      "id": "tn-seshan-q23",
+      "difficulty": "hard",
+      "q": "Which amendment created the post of additional Election Commissioners, leading to the multi-member Commission during Seshan's term?",
+      "options": [
+        "The 42nd Amendment",
+        "The 73rd Amendment",
+        "A 1993 legislative change to the Election Commission's composition",
+        "The 101st Amendment"
+      ],
+      "answer": 2,
+      "explanation": "A 1993 change to the law on the Commission's composition added Election Commissioners, making it a multi-member body."
+    },
+    {
+      "id": "tn-seshan-q24",
+      "difficulty": "hard",
+      "q": "Seshan was the Chief Election Commissioner numbered in what position in the line of holders of that office?",
+      "options": [
+        "The first Chief Election Commissioner",
+        "The second Chief Election Commissioner",
+        "The twentieth Chief Election Commissioner",
+        "The tenth Chief Election Commissioner"
+      ],
+      "answer": 3,
+      "explanation": "Seshan was the tenth Chief Election Commissioner of India."
+    },
+    {
+      "id": "tn-seshan-q25",
+      "difficulty": "hard",
+      "q": "The dispute over the powers of the CEC versus the new Election Commissioners during Seshan's tenure was settled by which body?",
+      "options": [
+        "The Supreme Court of India",
+        "The Lok Sabha alone",
+        "The Reserve Bank of India",
+        "The Planning Commission"
+      ],
+      "answer": 0,
+      "explanation": "The Supreme Court adjudicated the dispute over the relative powers of the CEC and the Election Commissioners."
+    },
+    {
+      "id": "tn-seshan-q26",
+      "difficulty": "hard",
+      "q": "The model code of conduct that Seshan enforced is best described as what kind of instrument?",
+      "options": [
+        "A constitutional amendment",
+        "A set of guidelines agreed upon and enforced by the Commission",
+        "A criminal statute passed by Parliament",
+        "A treaty with other nations"
+      ],
+      "answer": 1,
+      "explanation": "The model code of conduct is a set of guidelines evolved and enforced by the Election Commission rather than a statute."
+    },
+    {
+      "id": "tn-seshan-q27",
+      "difficulty": "hard",
+      "q": "Seshan's term as Chief Election Commissioner ended in 1996 chiefly because of which factor?",
+      "options": [
+        "A vote of no confidence",
+        "Impeachment by Parliament",
+        "Completion of his fixed tenure",
+        "A judicial conviction"
+      ],
+      "answer": 2,
+      "explanation": "His tenure ended in 1996 on completion of the term fixed for the office."
+    },
+    {
+      "id": "tn-seshan-q28",
+      "difficulty": "hard",
+      "q": "Which earlier central ministry portfolio did Seshan administer as a senior civil servant before heading the Commission?",
+      "options": [
+        "Defence Production only",
+        "External Affairs",
+        "Railways",
+        "Environment and Forests"
+      ],
+      "answer": 3,
+      "explanation": "Seshan held senior posts including Secretary of the Ministry of Environment and Forests during his administrative career."
+    },
+    {
+      "id": "tn-seshan-q29",
+      "difficulty": "hard",
+      "q": "The strengthening of the Election Commission under Seshan is often cited as an example of which constitutional value being asserted?",
+      "options": [
+        "The independence of an autonomous institution",
+        "The supremacy of the executive over courts",
+        "The merger of legislature and judiciary",
+        "The abolition of federalism"
+      ],
+      "answer": 0,
+      "explanation": "His tenure is cited as an assertion of the independence of an autonomous constitutional institution."
+    },
+    {
+      "id": "tn-seshan-q30",
+      "difficulty": "hard",
+      "q": "During Seshan's tenure, the introduction of the elector's photo identity card was aimed primarily at preventing what?",
+      "options": [
+        "Delays in counting",
+        "Impersonation and bogus voting",
+        "Excess campaign spending",
+        "Late nomination filings"
+      ],
+      "answer": 1,
+      "explanation": "The photo identity card was introduced to curb impersonation and bogus voting at the polls."
+    }
+  ]
+}

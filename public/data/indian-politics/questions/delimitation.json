@@ -1,0 +1,395 @@
+{
+  "cardId": "delimitation",
+  "questions": [
+    {
+      "id": "delimitation-q01",
+      "difficulty": "easy",
+      "q": "What is delimitation?",
+      "options": [
+        "The process of redrawing the boundaries of electoral constituencies",
+        "The process of counting votes after an election",
+        "The process of registering political parties",
+        "The process of appointing the Prime Minister"
+      ],
+      "answer": 0,
+      "explanation": "Delimitation is the act of redrawing the boundaries of electoral constituencies to reflect changes in population."
+    },
+    {
+      "id": "delimitation-q02",
+      "difficulty": "easy",
+      "q": "Delimitation in India is mainly carried out to account for changes in what?",
+      "options": [
+        "Tax revenue",
+        "Population",
+        "Rainfall",
+        "Stock prices"
+      ],
+      "answer": 1,
+      "explanation": "Delimitation redraws constituency boundaries to reflect changes in population."
+    },
+    {
+      "id": "delimitation-q03",
+      "difficulty": "easy",
+      "q": "Which body carries out delimitation of constituencies in India?",
+      "options": [
+        "The Reserve Bank of India",
+        "The Finance Commission",
+        "The Delimitation Commission",
+        "The Planning Commission"
+      ],
+      "answer": 2,
+      "explanation": "An independent Delimitation Commission is established to carry out the delimitation exercise."
+    },
+    {
+      "id": "delimitation-q04",
+      "difficulty": "easy",
+      "q": "How is the Delimitation Commission set up?",
+      "options": [
+        "By a royal decree",
+        "By a decision of a single state",
+        "By a public referendum",
+        "By an Act of Parliament"
+      ],
+      "answer": 3,
+      "explanation": "The Delimitation Commission is established by an Act of Parliament."
+    },
+    {
+      "id": "delimitation-q05",
+      "difficulty": "easy",
+      "q": "Delimitation determines the boundaries of constituencies for which kinds of bodies?",
+      "options": [
+        "Legislative bodies such as the Lok Sabha and state assemblies",
+        "Banks and corporations",
+        "Universities and schools",
+        "Trade unions"
+      ],
+      "answer": 0,
+      "explanation": "Delimitation fixes the boundaries of parliamentary and assembly constituencies."
+    },
+    {
+      "id": "delimitation-q06",
+      "difficulty": "easy",
+      "q": "The data on population used for delimitation is primarily drawn from which exercise?",
+      "options": [
+        "The general election",
+        "The Census",
+        "The annual budget",
+        "The economic survey"
+      ],
+      "answer": 1,
+      "explanation": "Delimitation uses Census figures to reflect population changes across constituencies."
+    },
+    {
+      "id": "delimitation-q07",
+      "difficulty": "easy",
+      "q": "A key aim of delimitation is to ensure that constituencies are roughly equal in what respect?",
+      "options": [
+        "Geographical area",
+        "Number of political parties",
+        "Number of voters or population",
+        "Length of roads"
+      ],
+      "answer": 2,
+      "explanation": "Delimitation seeks to make constituencies comparable in population so that votes carry similar weight."
+    },
+    {
+      "id": "delimitation-q08",
+      "difficulty": "easy",
+      "q": "Delimitation also involves reserving certain constituencies for which groups?",
+      "options": [
+        "Retired judges",
+        "Business owners",
+        "Foreign residents",
+        "Scheduled Castes and Scheduled Tribes"
+      ],
+      "answer": 3,
+      "explanation": "The delimitation process identifies constituencies reserved for Scheduled Castes and Scheduled Tribes."
+    },
+    {
+      "id": "delimitation-q09",
+      "difficulty": "easy",
+      "q": "Orders issued by the Delimitation Commission generally have what status before the law?",
+      "options": [
+        "They have the force of law and cannot be questioned in any court",
+        "They are advisory only",
+        "They must be approved by every state assembly first",
+        "They lapse after one year"
+      ],
+      "answer": 0,
+      "explanation": "Under the law governing delimitation, the Commission's orders have the force of law and are not open to challenge in court."
+    },
+    {
+      "id": "delimitation-q10",
+      "difficulty": "easy",
+      "q": "Delimitation is most directly connected to which broader democratic activity?",
+      "options": [
+        "Collecting taxes",
+        "Conducting elections",
+        "Issuing passports",
+        "Setting interest rates"
+      ],
+      "answer": 1,
+      "explanation": "Delimitation defines the constituencies in which elections are held."
+    },
+    {
+      "id": "delimitation-q11",
+      "difficulty": "medium",
+      "q": "Which Articles of the Constitution deal with the readjustment of seats and division of states into constituencies after each census?",
+      "options": [
+        "Articles 14 and 21",
+        "Articles 352 and 356",
+        "Articles 82 and 170",
+        "Articles 124 and 217"
+      ],
+      "answer": 2,
+      "explanation": "Article 82 provides for readjustment of Lok Sabha seats and Article 170 for state legislative assembly constituencies after each census."
+    },
+    {
+      "id": "delimitation-q12",
+      "difficulty": "medium",
+      "q": "How many Delimitation Commissions have been constituted in India under dedicated delimitation Acts?",
+      "options": [
+        "Two",
+        "Seven",
+        "Ten",
+        "Four"
+      ],
+      "answer": 3,
+      "explanation": "Delimitation Commissions were set up in 1952, 1962, 1972 and 2002, making four in total."
+    },
+    {
+      "id": "delimitation-q13",
+      "difficulty": "medium",
+      "q": "Who typically heads a Delimitation Commission in India?",
+      "options": [
+        "A serving or retired judge of the Supreme Court",
+        "The Prime Minister",
+        "The Speaker of the Lok Sabha",
+        "A serving Cabinet Minister"
+      ],
+      "answer": 0,
+      "explanation": "A Delimitation Commission is usually chaired by a serving or retired Supreme Court judge."
+    },
+    {
+      "id": "delimitation-q14",
+      "difficulty": "medium",
+      "q": "The Chief Election Commissioner serves on the Delimitation Commission in what capacity?",
+      "options": [
+        "As the chairperson",
+        "As an ex-officio member",
+        "As a non-voting observer only",
+        "He has no role at all"
+      ],
+      "answer": 1,
+      "explanation": "The Chief Election Commissioner is an ex-officio member of the Delimitation Commission."
+    },
+    {
+      "id": "delimitation-q15",
+      "difficulty": "medium",
+      "q": "The most recent Delimitation Commission set up under a delimitation Act was constituted in which year?",
+      "options": [
+        "1992",
+        "2012",
+        "2002",
+        "2020"
+      ],
+      "answer": 2,
+      "explanation": "The Delimitation Commission constituted under the Delimitation Act of 2002 was the most recent such commission."
+    },
+    {
+      "id": "delimitation-q16",
+      "difficulty": "medium",
+      "q": "By which constitutional amendment was the total number of Lok Sabha seats among the states frozen, based on the 1971 census, until the first census after 2000?",
+      "options": [
+        "The 44th Amendment",
+        "The 52nd Amendment",
+        "The 61st Amendment",
+        "The 42nd Amendment"
+      ],
+      "answer": 3,
+      "explanation": "The 42nd Amendment of 1976 froze the allocation of Lok Sabha seats to states on the basis of the 1971 census."
+    },
+    {
+      "id": "delimitation-q17",
+      "difficulty": "medium",
+      "q": "By which amendment was the freeze on the number of seats among the states further extended until the first census taken after 2026?",
+      "options": [
+        "The 84th Amendment",
+        "The 73rd Amendment",
+        "The 91st Amendment",
+        "The 101st Amendment"
+      ],
+      "answer": 0,
+      "explanation": "The 84th Amendment of 2001 extended the freeze on inter-state seat allocation until the first census after 2026."
+    },
+    {
+      "id": "delimitation-q18",
+      "difficulty": "medium",
+      "q": "Besides Articles 82 and 170, which Articles empower Parliament to make laws determining the constitution of, and readjustments to, the Houses?",
+      "options": [
+        "Articles 256 and 257",
+        "Articles 81 and 170",
+        "Articles 32 and 226",
+        "Articles 368 and 370"
+      ],
+      "answer": 1,
+      "explanation": "Article 81 deals with the composition of the Lok Sabha and works alongside Articles 82 and 170 in the delimitation framework."
+    },
+    {
+      "id": "delimitation-q19",
+      "difficulty": "medium",
+      "q": "Under the 84th Amendment, what was permitted to be readjusted within states even while the total number of seats remained frozen?",
+      "options": [
+        "The voting age of citizens",
+        "The salary of legislators",
+        "The boundaries of constituencies based on the 2001 census",
+        "The duration of the Lok Sabha term"
+      ],
+      "answer": 2,
+      "explanation": "The 84th Amendment allowed intra-state readjustment of constituency boundaries on the basis of the 2001 census without changing each state's total seats."
+    },
+    {
+      "id": "delimitation-q20",
+      "difficulty": "medium",
+      "q": "Decisions of a Delimitation Commission are made how when members differ?",
+      "options": [
+        "By the chairperson alone",
+        "Only by unanimous agreement",
+        "By referring the matter to Parliament",
+        "By a majority of the members"
+      ],
+      "answer": 3,
+      "explanation": "Where members of the Delimitation Commission differ, decisions are taken by majority."
+    },
+    {
+      "id": "delimitation-q21",
+      "difficulty": "medium",
+      "q": "Associate members on a Delimitation Commission, drawn from Parliament and state legislatures, have what kind of role?",
+      "options": [
+        "They participate but have no right to vote",
+        "They chair the proceedings",
+        "They have a casting vote",
+        "They appoint the chairperson"
+      ],
+      "answer": 0,
+      "explanation": "Associate members assist the Commission but do not have a vote in its decisions."
+    },
+    {
+      "id": "delimitation-q22",
+      "difficulty": "medium",
+      "q": "The first delimitation exercise in independent India was associated with which Commission, set up in the early 1950s?",
+      "options": [
+        "The States Reorganisation Commission",
+        "The Delimitation Commission of 1952",
+        "The Mandal Commission",
+        "The Finance Commission"
+      ],
+      "answer": 1,
+      "explanation": "The first Delimitation Commission was constituted in 1952 to draw constituencies for early general elections."
+    },
+    {
+      "id": "delimitation-q23",
+      "difficulty": "hard",
+      "q": "The Delimitation Commission Act under which the most recent commission worked was passed in which year?",
+      "options": [
+        "1972",
+        "1988",
+        "2002",
+        "2008"
+      ],
+      "answer": 2,
+      "explanation": "The Delimitation Act, 2002, governed the work of the most recent Delimitation Commission."
+    },
+    {
+      "id": "delimitation-q24",
+      "difficulty": "hard",
+      "q": "The delimitation exercise carried out under the 2002 Act was based primarily on the census of which year?",
+      "options": [
+        "1991",
+        "2011",
+        "1981",
+        "2001"
+      ],
+      "answer": 3,
+      "explanation": "That delimitation exercise used the 2001 census figures for redrawing constituencies within states."
+    },
+    {
+      "id": "delimitation-q25",
+      "difficulty": "hard",
+      "q": "Who chaired the Delimitation Commission constituted under the Delimitation Act of 2002?",
+      "options": [
+        "Justice Kuldip Singh",
+        "Justice H.R. Khanna",
+        "Justice M.N. Venkatachaliah",
+        "Justice P.N. Bhagwati"
+      ],
+      "answer": 0,
+      "explanation": "The Delimitation Commission set up under the 2002 Act was headed by Justice Kuldip Singh, a former Supreme Court judge."
+    },
+    {
+      "id": "delimitation-q26",
+      "difficulty": "hard",
+      "q": "Due to security concerns, the delimitation exercise of the 2000s was deferred in which states at that time?",
+      "options": [
+        "Kerala and Tamil Nadu",
+        "Assam, Arunachal Pradesh, Manipur and Nagaland",
+        "Punjab and Haryana",
+        "Goa and Sikkim"
+      ],
+      "answer": 1,
+      "explanation": "Delimitation was deferred in Assam, Arunachal Pradesh, Manipur and Nagaland due to circumstances prevailing in those states."
+    },
+    {
+      "id": "delimitation-q27",
+      "difficulty": "hard",
+      "q": "The 84th Amendment, which extended the seat freeze, was enacted in which year?",
+      "options": [
+        "1995",
+        "2009",
+        "2001",
+        "1989"
+      ],
+      "answer": 2,
+      "explanation": "The 84th Constitutional Amendment was enacted in 2001."
+    },
+    {
+      "id": "delimitation-q28",
+      "difficulty": "hard",
+      "q": "Following the reorganisation that created Telangana, a separate delimitation of constituencies for that state and Andhra Pradesh was addressed primarily through which mechanism?",
+      "options": [
+        "A nationwide Delimitation Commission",
+        "A constitutional amendment",
+        "A Supreme Court order",
+        "The Andhra Pradesh Reorganisation Act provisions"
+      ],
+      "answer": 3,
+      "explanation": "Matters of constituency arrangement following Telangana's creation were dealt with under the Andhra Pradesh Reorganisation Act framework."
+    },
+    {
+      "id": "delimitation-q29",
+      "difficulty": "hard",
+      "q": "A delimitation exercise for which Union Territory was conducted by a dedicated Delimitation Commission constituted in 2020?",
+      "options": [
+        "Jammu and Kashmir",
+        "Puducherry",
+        "Lakshadweep",
+        "Chandigarh"
+      ],
+      "answer": 0,
+      "explanation": "A Delimitation Commission was constituted in 2020 to delimit constituencies in the Union Territory of Jammu and Kashmir."
+    },
+    {
+      "id": "delimitation-q30",
+      "difficulty": "hard",
+      "q": "Under the constitutional scheme, until the readjustment takes effect, the existing division of constituencies continues so as not to affect what?",
+      "options": [
+        "The salaries of officials",
+        "The representation in the House until its dissolution",
+        "The validity of past laws",
+        "The functioning of the judiciary"
+      ],
+      "answer": 1,
+      "explanation": "The Constitution provides that readjustment does not disturb existing representation in a House until it is dissolved."
+    }
+  ]
+}

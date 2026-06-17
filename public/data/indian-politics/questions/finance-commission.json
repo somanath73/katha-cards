@@ -1,0 +1,245 @@
+{
+  "cardId": "finance-commission",
+  "questions": [
+    {
+      "id": "finance-commission-q01",
+      "difficulty": "easy",
+      "q": "Under which Article of the Constitution is the Finance Commission constituted?",
+      "options": ["Article 324", "Article 368", "Article 370", "Article 280"],
+      "answer": 3,
+      "explanation": "The Finance Commission is constituted under Article 280 of the Constitution of India."
+    },
+    {
+      "id": "finance-commission-q02",
+      "difficulty": "easy",
+      "q": "How often is the Finance Commission normally constituted?",
+      "options": ["Every year", "Every five years", "Every ten years", "Every fifteen years"],
+      "answer": 1,
+      "explanation": "The Finance Commission is normally constituted every five years, or earlier if necessary."
+    },
+    {
+      "id": "finance-commission-q03",
+      "difficulty": "easy",
+      "q": "What is the main task of the Finance Commission?",
+      "options": ["Conducting elections", "Sharing tax revenues between the Union and states", "Auditing accounts", "Issuing currency"],
+      "answer": 1,
+      "explanation": "The Finance Commission recommends how tax revenues are to be distributed between the Union and the states."
+    },
+    {
+      "id": "finance-commission-q04",
+      "difficulty": "easy",
+      "q": "In which year was the first Finance Commission constituted?",
+      "options": ["1947", "1950", "1951", "1956"],
+      "answer": 2,
+      "explanation": "The first Finance Commission was constituted in 1951."
+    },
+    {
+      "id": "finance-commission-q05",
+      "difficulty": "easy",
+      "q": "Who appoints the Finance Commission?",
+      "options": ["The Prime Minister", "The President of India", "The Chief Justice", "The Lok Sabha Speaker"],
+      "answer": 1,
+      "explanation": "The Finance Commission is constituted by the President of India under Article 280."
+    },
+    {
+      "id": "finance-commission-q06",
+      "difficulty": "easy",
+      "q": "The Finance Commission is best described as which type of body?",
+      "options": ["A statutory body", "A constitutional body", "An executive body", "A judicial body"],
+      "answer": 1,
+      "explanation": "The Finance Commission is a constitutional body established under Article 280 of the Constitution."
+    },
+    {
+      "id": "finance-commission-q07",
+      "difficulty": "easy",
+      "q": "How many members, including the Chairman, does the Finance Commission consist of?",
+      "options": ["A Chairman and two members", "A Chairman and four members", "A Chairman and six members", "A Chairman and ten members"],
+      "answer": 1,
+      "explanation": "The Finance Commission consists of a Chairman and four other members appointed by the President."
+    },
+    {
+      "id": "finance-commission-q08",
+      "difficulty": "easy",
+      "q": "The division of tax proceeds between the Union and the states is broadly referred to as:",
+      "options": ["Tax devolution", "Tax evasion", "Tax holiday", "Tax amnesty"],
+      "answer": 0,
+      "explanation": "The Finance Commission recommends the devolution of central taxes to the states."
+    },
+    {
+      "id": "finance-commission-q09",
+      "difficulty": "easy",
+      "q": "The Finance Commission's recommendations are addressed primarily to which two levels of government?",
+      "options": ["States and districts", "Centre and panchayats", "Districts and municipalities", "Centre and states"],
+      "answer": 3,
+      "explanation": "The Finance Commission's core mandate is the financial relationship between the Centre and the states."
+    },
+    {
+      "id": "finance-commission-q10",
+      "difficulty": "easy",
+      "q": "Grants given by the Centre to states based on Finance Commission recommendations under Article 275 are called:",
+      "options": ["Grants-in-aid", "Subsidies", "Loans", "Bonds"],
+      "answer": 0,
+      "explanation": "The Finance Commission recommends grants-in-aid to states under Article 275 of the Constitution."
+    },
+    {
+      "id": "finance-commission-q11",
+      "difficulty": "medium",
+      "q": "Who served as the Chairman of the first Finance Commission?",
+      "options": ["A.K. Chanda", "K. Santhanam", "Mahavir Tyagi", "K.C. Neogy"],
+      "answer": 3,
+      "explanation": "K.C. Neogy was the Chairman of the first Finance Commission constituted in 1951."
+    },
+    {
+      "id": "finance-commission-q12",
+      "difficulty": "medium",
+      "q": "Article 280 specifies that the Finance Commission shall recommend the distribution of the net proceeds of which taxes?",
+      "options": ["Only customs duties", "Only state sales taxes", "Taxes to be divided between the Union and the states", "Only municipal taxes"],
+      "answer": 2,
+      "explanation": "Article 280 mandates the Commission to recommend the distribution of divisible taxes between the Union and the states."
+    },
+    {
+      "id": "finance-commission-q13",
+      "difficulty": "medium",
+      "q": "Are the recommendations of the Finance Commission binding on the government?",
+      "options": ["They are legally binding", "They require court approval", "They require a referendum", "They are advisory in nature"],
+      "answer": 3,
+      "explanation": "The recommendations of the Finance Commission are advisory and not binding on the government."
+    },
+    {
+      "id": "finance-commission-q14",
+      "difficulty": "medium",
+      "q": "The qualifications of the members of the Finance Commission are determined by:",
+      "options": ["A Supreme Court ruling", "Parliament by law", "The state legislatures", "The Reserve Bank"],
+      "answer": 1,
+      "explanation": "Article 280 empowers Parliament to determine by law the qualifications and manner of selection of Commission members."
+    },
+    {
+      "id": "finance-commission-q15",
+      "difficulty": "medium",
+      "q": "Which Finance Commission's recommendations covered the period beginning 2021-22?",
+      "options": ["Thirteenth", "Fourteenth", "Fifteenth", "Sixteenth"],
+      "answer": 2,
+      "explanation": "The Fifteenth Finance Commission's recommendations applied to the period from 2021-22."
+    },
+    {
+      "id": "finance-commission-q16",
+      "difficulty": "medium",
+      "q": "Apart from the Chairman, members of the Finance Commission are generally chosen for their expertise in which field?",
+      "options": ["Finance and administration", "Military strategy", "Agriculture only", "Sports administration"],
+      "answer": 0,
+      "explanation": "Members are typically experts in finance, economics, public administration and related fields."
+    },
+    {
+      "id": "finance-commission-q17",
+      "difficulty": "medium",
+      "q": "The Finance Commission also recommends measures to augment the resources of which local-level bodies?",
+      "options": ["Foreign missions", "Public sector banks", "Universities", "Panchayats and municipalities"],
+      "answer": 3,
+      "explanation": "Since the 73rd and 74th Amendments, the Commission recommends measures to augment the consolidated funds of states to support panchayats and municipalities."
+    },
+    {
+      "id": "finance-commission-q18",
+      "difficulty": "medium",
+      "q": "The proportion of central taxes devolved to states recommended by the Fourteenth Finance Commission was increased to:",
+      "options": ["32 percent", "42 percent", "50 percent", "25 percent"],
+      "answer": 1,
+      "explanation": "The Fourteenth Finance Commission raised the states' share of the divisible pool of central taxes to 42 percent."
+    },
+    {
+      "id": "finance-commission-q19",
+      "difficulty": "medium",
+      "q": "Who chaired the Fifteenth Finance Commission?",
+      "options": ["N.K. Singh", "Y.V. Reddy", "Vijay Kelkar", "C. Rangarajan"],
+      "answer": 0,
+      "explanation": "N.K. Singh chaired the Fifteenth Finance Commission."
+    },
+    {
+      "id": "finance-commission-q20",
+      "difficulty": "medium",
+      "q": "The Finance Commission submits its report to whom?",
+      "options": ["The Prime Minister", "The President", "The Supreme Court", "The Lok Sabha directly"],
+      "answer": 1,
+      "explanation": "The Finance Commission submits its report to the President, who lays it before Parliament."
+    },
+    {
+      "id": "finance-commission-q21",
+      "difficulty": "medium",
+      "q": "The body of finances dealt with by the Finance Commission falls under which broad aspect of governance?",
+      "options": ["Judicial review", "Electoral reform", "Foreign policy", "Fiscal federalism"],
+      "answer": 3,
+      "explanation": "The Finance Commission is central to India's fiscal federalism, balancing Centre-state financial relations."
+    },
+    {
+      "id": "finance-commission-q22",
+      "difficulty": "medium",
+      "q": "The report of the Finance Commission, when laid before Parliament, is accompanied by an explanatory memorandum on the:",
+      "options": ["Census results", "Election schedule", "Defence budget", "Action taken on its recommendations"],
+      "answer": 3,
+      "explanation": "The report is laid before Parliament along with an explanatory memorandum on the action taken on its recommendations."
+    },
+    {
+      "id": "finance-commission-q23",
+      "difficulty": "hard",
+      "q": "Who chaired the Fourteenth Finance Commission?",
+      "options": ["Y.V. Reddy", "Vijay Kelkar", "C. Rangarajan", "A.M. Khusro"],
+      "answer": 0,
+      "explanation": "Former RBI Governor Y.V. Reddy chaired the Fourteenth Finance Commission."
+    },
+    {
+      "id": "finance-commission-q24",
+      "difficulty": "hard",
+      "q": "The vertical devolution recommended by a Finance Commission refers to the sharing of taxes between:",
+      "options": ["One state and another state", "Districts within a state", "The Union and the states collectively", "Two ministries"],
+      "answer": 2,
+      "explanation": "Vertical devolution refers to the division of the divisible pool between the Union and the states as a whole."
+    },
+    {
+      "id": "finance-commission-q25",
+      "difficulty": "hard",
+      "q": "The horizontal devolution formula used by the Finance Commission distributes funds:",
+      "options": ["Among the various states", "Between the Centre and states", "Among ministries", "Between two financial years"],
+      "answer": 0,
+      "explanation": "Horizontal devolution refers to the distribution of the states' share among the individual states using a formula."
+    },
+    {
+      "id": "finance-commission-q26",
+      "difficulty": "hard",
+      "q": "Which Finance Commission was given the additional task of considering the impact of the Goods and Services Tax on the finances of governments?",
+      "options": ["Thirteenth", "Fourteenth", "Fifteenth", "Twelfth"],
+      "answer": 2,
+      "explanation": "The Fifteenth Finance Commission examined the implications of GST, which had been introduced in 2017."
+    },
+    {
+      "id": "finance-commission-q27",
+      "difficulty": "hard",
+      "q": "Which census year's population data was the Fifteenth Finance Commission directed to use as the primary basis in its formula?",
+      "options": ["1971 census", "2001 census", "2011 census", "1991 census"],
+      "answer": 2,
+      "explanation": "The Fifteenth Finance Commission was directed to use the 2011 census population data in its formula."
+    },
+    {
+      "id": "finance-commission-q28",
+      "difficulty": "hard",
+      "q": "The Sixteenth Finance Commission, constituted in late 2023, was chaired by which economist?",
+      "options": ["N.K. Singh", "Bibek Debroy", "Montek Singh Ahluwalia", "Arvind Panagariya"],
+      "answer": 3,
+      "explanation": "Arvind Panagariya was appointed Chairman of the Sixteenth Finance Commission, constituted in 2023."
+    },
+    {
+      "id": "finance-commission-q29",
+      "difficulty": "hard",
+      "q": "Before the introduction of GST, a major divisible tax shared on the recommendation of early Finance Commissions was the:",
+      "options": ["Property tax", "Toll tax", "Income tax", "Octroi"],
+      "answer": 2,
+      "explanation": "Income tax and union excise duties were among the principal divisible taxes handled by the early Finance Commissions."
+    },
+    {
+      "id": "finance-commission-q30",
+      "difficulty": "hard",
+      "q": "The Eightieth Amendment to the Constitution gave effect to recommendations of which Finance Commission regarding an 'alternative scheme' of devolution?",
+      "options": ["Tenth Finance Commission", "Eleventh Finance Commission", "Twelfth Finance Commission", "Ninth Finance Commission"],
+      "answer": 0,
+      "explanation": "The 80th Amendment of 2000 implemented the alternative scheme of devolution recommended by the Tenth Finance Commission."
+    }
+  ]
+}

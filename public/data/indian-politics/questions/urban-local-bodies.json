@@ -1,0 +1,245 @@
+{
+  "cardId": "urban-local-bodies",
+  "questions": [
+    {
+      "id": "urban-local-bodies-q01",
+      "difficulty": "easy",
+      "q": "Which Constitutional Amendment gave constitutional status to urban local bodies?",
+      "options": ["The 73rd Amendment", "The 74th Amendment", "The 75th Amendment", "The 42nd Amendment"],
+      "answer": 1,
+      "explanation": "The 74th Constitutional Amendment of 1992 gave constitutional status to urban local bodies."
+    },
+    {
+      "id": "urban-local-bodies-q02",
+      "difficulty": "easy",
+      "q": "In which year was the 74th Amendment passed?",
+      "options": ["1985", "1990", "1992", "1996"],
+      "answer": 2,
+      "explanation": "The 74th Constitutional Amendment was passed in 1992 and came into force in 1993."
+    },
+    {
+      "id": "urban-local-bodies-q03",
+      "difficulty": "easy",
+      "q": "Urban local bodies provide self-government primarily for which areas?",
+      "options": ["Villages", "Towns and cities", "Forests", "Coastal fishing zones"],
+      "answer": 1,
+      "explanation": "Urban local bodies provide self-government in towns and cities."
+    },
+    {
+      "id": "urban-local-bodies-q04",
+      "difficulty": "easy",
+      "q": "Which of the following is a type of urban local body?",
+      "options": ["Gram Panchayat", "Municipal Corporation", "Zila Parishad", "Panchayat Samiti"],
+      "answer": 1,
+      "explanation": "A Municipal Corporation is a type of urban local body, used for larger cities."
+    },
+    {
+      "id": "urban-local-bodies-q05",
+      "difficulty": "easy",
+      "q": "The 74th Amendment is closely linked, as a companion measure, to which other amendment of the same year?",
+      "options": ["The 73rd Amendment", "The 52nd Amendment", "The 61st Amendment", "The 44th Amendment"],
+      "answer": 0,
+      "explanation": "The 73rd (rural) and 74th (urban) Amendments were companion measures, both passed in 1992."
+    },
+    {
+      "id": "urban-local-bodies-q06",
+      "difficulty": "easy",
+      "q": "The 74th Amendment mandated reservation of seats in urban local bodies for which group, among others?",
+      "options": ["Women", "Industrialists", "Foreign residents", "Retired judges"],
+      "answer": 0,
+      "explanation": "The 74th Amendment mandated reservation of seats for women and for weaker sections in urban local bodies."
+    },
+    {
+      "id": "urban-local-bodies-q07",
+      "difficulty": "easy",
+      "q": "An urban local body for a smaller town is typically called a:",
+      "options": ["Gram Sabha", "Vidhan Sabha", "Zila Parishad", "Municipality"],
+      "answer": 3,
+      "explanation": "A Municipality (Nagar Palika) typically governs a smaller urban area or town."
+    },
+    {
+      "id": "urban-local-bodies-q08",
+      "difficulty": "easy",
+      "q": "The 74th Amendment requires elections to urban local bodies to be held:",
+      "options": ["Only when the state decides", "Once in ten years", "Regularly, every five years", "Only with general elections"],
+      "answer": 2,
+      "explanation": "The 74th Amendment mandates regular elections to urban local bodies every five years."
+    },
+    {
+      "id": "urban-local-bodies-q09",
+      "difficulty": "easy",
+      "q": "The elected head of a Municipal Corporation is generally called the:",
+      "options": ["Sarpanch", "Collector", "Governor", "Mayor"],
+      "answer": 3,
+      "explanation": "The elected head of a Municipal Corporation is generally called the Mayor."
+    },
+    {
+      "id": "urban-local-bodies-q10",
+      "difficulty": "easy",
+      "q": "An urban local body meant for a transitional area, such as one moving from rural to urban, is the:",
+      "options": ["Nagar Panchayat", "Gram Panchayat", "Zila Parishad", "Block Samiti"],
+      "answer": 0,
+      "explanation": "A Nagar Panchayat is constituted for an area in transition from a rural to an urban area."
+    },
+    {
+      "id": "urban-local-bodies-q11",
+      "difficulty": "medium",
+      "q": "The provisions relating to municipalities were added to the Constitution as which new Part?",
+      "options": ["Part IX", "Part X", "Part VIII", "Part IX-A"],
+      "answer": 3,
+      "explanation": "The 74th Amendment added Part IX-A, titled 'The Municipalities', to the Constitution."
+    },
+    {
+      "id": "urban-local-bodies-q12",
+      "difficulty": "medium",
+      "q": "Which Schedule was added to the Constitution by the 74th Amendment listing subjects for municipalities?",
+      "options": ["Eleventh Schedule", "Twelfth Schedule", "Tenth Schedule", "Ninth Schedule"],
+      "answer": 1,
+      "explanation": "The Twelfth Schedule, listing subjects for municipalities, was added by the 74th Amendment."
+    },
+    {
+      "id": "urban-local-bodies-q13",
+      "difficulty": "medium",
+      "q": "How many subjects are listed in the Twelfth Schedule for the municipalities?",
+      "options": ["11 subjects", "29 subjects", "18 subjects", "52 subjects"],
+      "answer": 2,
+      "explanation": "The Twelfth Schedule contains 18 subjects that may be devolved to municipalities."
+    },
+    {
+      "id": "urban-local-bodies-q14",
+      "difficulty": "medium",
+      "q": "The 74th Amendment provides for three types of municipalities. Which one is for a larger urban area?",
+      "options": ["Nagar Panchayat", "Municipal Council", "Municipal Corporation", "Town Area Committee"],
+      "answer": 2,
+      "explanation": "The Municipal Corporation is provided for a larger urban area under the 74th Amendment."
+    },
+    {
+      "id": "urban-local-bodies-q15",
+      "difficulty": "medium",
+      "q": "Who conducts elections to urban local bodies under the 74th Amendment?",
+      "options": ["The Election Commission of India", "The State Election Commission", "The Municipal Commissioner", "The Governor"],
+      "answer": 1,
+      "explanation": "The State Election Commission conducts elections to urban local bodies under the 74th Amendment."
+    },
+    {
+      "id": "urban-local-bodies-q16",
+      "difficulty": "medium",
+      "q": "The 74th Amendment provides for the constitution of committees at the ward level called:",
+      "options": ["Standing Committees", "District Committees", "Zonal Boards", "Ward Committees"],
+      "answer": 3,
+      "explanation": "Article 243-S provides for the constitution of Ward Committees in municipalities with population of three lakh or more."
+    },
+    {
+      "id": "urban-local-bodies-q17",
+      "difficulty": "medium",
+      "q": "The body that recommends the distribution of financial resources to municipalities within a state is the:",
+      "options": ["State Finance Commission", "Union Finance Commission", "NITI Aayog", "Planning Commission"],
+      "answer": 0,
+      "explanation": "The State Finance Commission, set up under the 73rd Amendment, also reviews the finances of municipalities."
+    },
+    {
+      "id": "urban-local-bodies-q18",
+      "difficulty": "medium",
+      "q": "What minimum proportion of seats in urban local bodies is reserved for women under the 74th Amendment?",
+      "options": ["One-fourth", "One-third", "One-half", "One-fifth"],
+      "answer": 1,
+      "explanation": "Not less than one-third of seats in municipalities are reserved for women under the 74th Amendment."
+    },
+    {
+      "id": "urban-local-bodies-q19",
+      "difficulty": "medium",
+      "q": "Under the 74th Amendment, the maximum term of a municipality is fixed at:",
+      "options": ["Three years", "Four years", "Five years", "Six years"],
+      "answer": 2,
+      "explanation": "The term of a municipality is five years from the date of its first meeting under Article 243-U."
+    },
+    {
+      "id": "urban-local-bodies-q20",
+      "difficulty": "medium",
+      "q": "The 74th Amendment provides for a body to prepare development plans for the metropolitan area, called the:",
+      "options": ["District Planning Committee", "Urban Development Board", "Zonal Planning Council", "Metropolitan Planning Committee"],
+      "answer": 3,
+      "explanation": "Article 243-ZE provides for a Metropolitan Planning Committee to prepare draft development plans for metropolitan areas."
+    },
+    {
+      "id": "urban-local-bodies-q21",
+      "difficulty": "medium",
+      "q": "Which planning committee, under the 74th Amendment, integrates the plans of panchayats and municipalities in a district?",
+      "options": ["District Planning Committee", "State Planning Board", "National Planning Council", "Block Planning Unit"],
+      "answer": 0,
+      "explanation": "Article 243-ZD provides for a District Planning Committee to consolidate the plans of panchayats and municipalities."
+    },
+    {
+      "id": "urban-local-bodies-q22",
+      "difficulty": "medium",
+      "q": "An appointed administrative head of a Municipal Corporation, distinct from the elected Mayor, is the:",
+      "options": ["Municipal Commissioner", "District Collector", "Chief Secretary", "Town Planner"],
+      "answer": 0,
+      "explanation": "The Municipal Commissioner is the appointed executive head responsible for administration of a Municipal Corporation."
+    },
+    {
+      "id": "urban-local-bodies-q23",
+      "difficulty": "hard",
+      "q": "Which range of Articles in the Constitution deals with the Municipalities under Part IX-A?",
+      "options": ["Articles 243 to 243-O", "Articles 280 to 281", "Articles 324 to 329", "Articles 243-P to 243-ZG"],
+      "answer": 3,
+      "explanation": "Part IX-A covers municipalities through Articles 243-P to 243-ZG."
+    },
+    {
+      "id": "urban-local-bodies-q24",
+      "difficulty": "hard",
+      "q": "Under Article 243-V, what is the minimum age to be a member of a municipality?",
+      "options": ["18 years", "21 years", "25 years", "30 years"],
+      "answer": 1,
+      "explanation": "A person must have attained 21 years of age to be a member of a municipality under Article 243-V."
+    },
+    {
+      "id": "urban-local-bodies-q25",
+      "difficulty": "hard",
+      "q": "If a municipality is dissolved before its term, an election to constitute a new one must be completed within:",
+      "options": ["Three months", "One year", "Six months", "Two years"],
+      "answer": 2,
+      "explanation": "Article 243-U requires elections to a dissolved municipality to be completed within six months of dissolution."
+    },
+    {
+      "id": "urban-local-bodies-q26",
+      "difficulty": "hard",
+      "q": "Under the 74th Amendment, the Metropolitan Planning Committee is constituted for an area with a population of at least:",
+      "options": ["Three lakh", "Five lakh", "Ten lakh", "Twenty lakh"],
+      "answer": 2,
+      "explanation": "A metropolitan area under Article 243-P is one with a population of ten lakh or more."
+    },
+    {
+      "id": "urban-local-bodies-q27",
+      "difficulty": "hard",
+      "q": "The classification of an area as a transitional, smaller urban, or larger urban area is determined by the Governor having regard to factors including population, density, and:",
+      "options": ["Revenue generated for local administration", "Distance from the state capital", "Number of schools", "Length of roads"],
+      "answer": 0,
+      "explanation": "Article 243-Q allows the Governor to classify urban areas based on population, density, revenue for local administration and other factors."
+    },
+    {
+      "id": "urban-local-bodies-q28",
+      "difficulty": "hard",
+      "q": "Article 243-ZA of the 74th Amendment vests the superintendence and control of municipal elections in the:",
+      "options": ["Election Commission of India", "State Government", "High Court", "State Election Commission"],
+      "answer": 3,
+      "explanation": "Article 243-ZA vests the superintendence, direction and control of municipal elections in the State Election Commission."
+    },
+    {
+      "id": "urban-local-bodies-q29",
+      "difficulty": "hard",
+      "q": "The 74th Amendment bars courts from interfering in municipal electoral matters except through a petition filed:",
+      "options": ["As provided by state law", "Only in the Supreme Court", "Only after a general election", "Never under any circumstances"],
+      "answer": 0,
+      "explanation": "Article 243-ZG bars court interference in delimitation and election matters except by election petition as provided by state law."
+    },
+    {
+      "id": "urban-local-bodies-q30",
+      "difficulty": "hard",
+      "q": "Reservation of seats for Scheduled Castes and Scheduled Tribes in municipalities is to be in proportion to their:",
+      "options": ["Number of voters only", "Property holdings", "Tax payments", "Population in the municipal area"],
+      "answer": 3,
+      "explanation": "Article 243-T provides that seats reserved for SCs and STs in municipalities are in proportion to their population in the municipal area."
+    }
+  ]
+}

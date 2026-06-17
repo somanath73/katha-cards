@@ -1,0 +1,395 @@
+{
+  "cardId": "rajya-sabha",
+  "questions": [
+    {
+      "id": "rajya-sabha-q01",
+      "difficulty": "easy",
+      "q": "The Rajya Sabha is also known by which name?",
+      "options": [
+        "Council of States",
+        "House of the People",
+        "Lower House",
+        "House of Commons"
+      ],
+      "answer": 0,
+      "explanation": "The Rajya Sabha is the Council of States, the upper house of Parliament."
+    },
+    {
+      "id": "rajya-sabha-q02",
+      "difficulty": "easy",
+      "q": "Within Parliament, the Rajya Sabha is referred to as the:",
+      "options": [
+        "Lower House",
+        "Upper House",
+        "Joint House",
+        "Advisory Council"
+      ],
+      "answer": 1,
+      "explanation": "The Rajya Sabha is the upper house of the bicameral Parliament of India."
+    },
+    {
+      "id": "rajya-sabha-q03",
+      "difficulty": "easy",
+      "q": "Which feature distinguishes the Rajya Sabha from the Lok Sabha?",
+      "options": [
+        "It is directly elected",
+        "It can be dissolved by the President",
+        "It is a permanent body not subject to dissolution",
+        "Its members serve four-year terms"
+      ],
+      "answer": 2,
+      "explanation": "The Rajya Sabha is a permanent body and is not subject to dissolution."
+    },
+    {
+      "id": "rajya-sabha-q04",
+      "difficulty": "easy",
+      "q": "What fraction of Rajya Sabha members retire every two years?",
+      "options": [
+        "One-half",
+        "One-fourth",
+        "One-fifth",
+        "One-third"
+      ],
+      "answer": 3,
+      "explanation": "One-third of the members of the Rajya Sabha retire every two years."
+    },
+    {
+      "id": "rajya-sabha-q05",
+      "difficulty": "easy",
+      "q": "The Rajya Sabha primarily represents the:",
+      "options": [
+        "States and union territories",
+        "District councils",
+        "Municipal bodies",
+        "Trade unions"
+      ],
+      "answer": 0,
+      "explanation": "As the Council of States, the Rajya Sabha represents the states and union territories."
+    },
+    {
+      "id": "rajya-sabha-q06",
+      "difficulty": "easy",
+      "q": "Who is the ex-officio Chairman of the Rajya Sabha?",
+      "options": [
+        "The President",
+        "The Vice-President",
+        "The Prime Minister",
+        "The Speaker"
+      ],
+      "answer": 1,
+      "explanation": "The Vice-President of India is the ex-officio Chairman of the Rajya Sabha."
+    },
+    {
+      "id": "rajya-sabha-q07",
+      "difficulty": "easy",
+      "q": "What is the term of office for a member of the Rajya Sabha?",
+      "options": [
+        "Four years",
+        "Five years",
+        "Six years",
+        "Life"
+      ],
+      "answer": 2,
+      "explanation": "A member of the Rajya Sabha is elected for a term of six years."
+    },
+    {
+      "id": "rajya-sabha-q08",
+      "difficulty": "easy",
+      "q": "Members of the Rajya Sabha from the states are elected by:",
+      "options": [
+        "The people directly",
+        "State governors",
+        "Municipal councils",
+        "Elected members of state legislative assemblies"
+      ],
+      "answer": 3,
+      "explanation": "State representatives in the Rajya Sabha are elected by the elected members of the state legislative assemblies."
+    },
+    {
+      "id": "rajya-sabha-q09",
+      "difficulty": "easy",
+      "q": "Some members of the Rajya Sabha are nominated by the President for their distinction in fields such as:",
+      "options": [
+        "Literature, science, art and social service",
+        "Sports and trade",
+        "Banking and law enforcement",
+        "Agriculture and mining"
+      ],
+      "answer": 0,
+      "explanation": "The President nominates members having special knowledge or practical experience in literature, science, art, and social service."
+    },
+    {
+      "id": "rajya-sabha-q10",
+      "difficulty": "easy",
+      "q": "Who presides over the Rajya Sabha in the absence of the Chairman?",
+      "options": [
+        "The Prime Minister",
+        "The Deputy Chairman",
+        "The Speaker",
+        "The Leader of the House"
+      ],
+      "answer": 1,
+      "explanation": "The Deputy Chairman presides over the Rajya Sabha in the absence of the Chairman."
+    },
+    {
+      "id": "rajya-sabha-q11",
+      "difficulty": "medium",
+      "q": "What is the minimum age to be eligible for membership of the Rajya Sabha?",
+      "options": [
+        "25 years",
+        "35 years",
+        "30 years",
+        "40 years"
+      ],
+      "answer": 2,
+      "explanation": "A person must be at least 30 years of age to be eligible for the Rajya Sabha."
+    },
+    {
+      "id": "rajya-sabha-q12",
+      "difficulty": "medium",
+      "q": "The maximum strength of the Rajya Sabha provided in the Constitution is:",
+      "options": [
+        "238 members",
+        "245 members",
+        "260 members",
+        "250 members"
+      ],
+      "answer": 3,
+      "explanation": "The Constitution fixes the maximum strength of the Rajya Sabha at 250 members."
+    },
+    {
+      "id": "rajya-sabha-q13",
+      "difficulty": "medium",
+      "q": "Of the 250 maximum members, how many are nominated by the President?",
+      "options": [
+        "Twelve",
+        "Two",
+        "Twenty",
+        "Twenty-five"
+      ],
+      "answer": 0,
+      "explanation": "Up to twelve members are nominated by the President for their special knowledge or experience."
+    },
+    {
+      "id": "rajya-sabha-q14",
+      "difficulty": "medium",
+      "q": "State representatives are elected to the Rajya Sabha through which method?",
+      "options": [
+        "First-past-the-post",
+        "Proportional representation by single transferable vote",
+        "Approval voting",
+        "Direct popular vote"
+      ],
+      "answer": 1,
+      "explanation": "Members are elected by proportional representation through the single transferable vote system."
+    },
+    {
+      "id": "rajya-sabha-q15",
+      "difficulty": "medium",
+      "q": "The composition of the Rajya Sabha is governed mainly by which Article of the Constitution?",
+      "options": [
+        "Article 81",
+        "Article 85",
+        "Article 80",
+        "Article 110"
+      ],
+      "answer": 2,
+      "explanation": "Article 80 deals with the composition of the Council of States, the Rajya Sabha."
+    },
+    {
+      "id": "rajya-sabha-q16",
+      "difficulty": "medium",
+      "q": "The allocation of Rajya Sabha seats to the states is set out in which Schedule of the Constitution?",
+      "options": [
+        "Second Schedule",
+        "Sixth Schedule",
+        "Seventh Schedule",
+        "Fourth Schedule"
+      ],
+      "answer": 3,
+      "explanation": "The Fourth Schedule allocates seats in the Rajya Sabha to the states and union territories."
+    },
+    {
+      "id": "rajya-sabha-q17",
+      "difficulty": "medium",
+      "q": "Which power is exclusive to the Rajya Sabha and not shared with the Lok Sabha?",
+      "options": [
+        "Empowering Parliament to legislate on a State List subject",
+        "Introducing money bills",
+        "Passing the Union budget first",
+        "Electing the Speaker"
+      ],
+      "answer": 0,
+      "explanation": "Under Article 249, only the Rajya Sabha can pass a resolution enabling Parliament to legislate on a State List subject in the national interest."
+    },
+    {
+      "id": "rajya-sabha-q18",
+      "difficulty": "medium",
+      "q": "The first sitting of the Rajya Sabha was held in which year?",
+      "options": [
+        "1947",
+        "1952",
+        "1950",
+        "1956"
+      ],
+      "answer": 1,
+      "explanation": "The Rajya Sabha was constituted in 1952, holding its first sitting that year."
+    },
+    {
+      "id": "rajya-sabha-q19",
+      "difficulty": "medium",
+      "q": "A member nominated to the Rajya Sabha by the President is not entitled to vote in the election of which office?",
+      "options": [
+        "The Vice-President",
+        "The Speaker",
+        "The President",
+        "The Deputy Chairman"
+      ],
+      "answer": 2,
+      "explanation": "Nominated members of the Rajya Sabha do not take part in the election of the President but do participate in the election of the Vice-President."
+    },
+    {
+      "id": "rajya-sabha-q20",
+      "difficulty": "medium",
+      "q": "Because one-third of members retire every two years, the Rajya Sabha as a body is described as:",
+      "options": [
+        "Temporary",
+        "Dissolvable",
+        "Provisional",
+        "Continuing"
+      ],
+      "answer": 3,
+      "explanation": "Continuous partial renewal makes the Rajya Sabha a continuing or permanent House that is never wholly dissolved."
+    },
+    {
+      "id": "rajya-sabha-q21",
+      "difficulty": "medium",
+      "q": "Who can remove the Deputy Chairman of the Rajya Sabha?",
+      "options": [
+        "A resolution of the Rajya Sabha by majority of all then members",
+        "The President alone",
+        "The Vice-President",
+        "The Prime Minister"
+      ],
+      "answer": 0,
+      "explanation": "The Deputy Chairman may be removed by a resolution passed by a majority of all the then members of the Rajya Sabha."
+    },
+    {
+      "id": "rajya-sabha-q22",
+      "difficulty": "hard",
+      "q": "The Rajya Sabha can authorise Parliament to create new All India Services under which Article?",
+      "options": [
+        "Article 249",
+        "Article 312",
+        "Article 110",
+        "Article 368"
+      ],
+      "answer": 1,
+      "explanation": "Under Article 312, the Rajya Sabha may pass a resolution enabling Parliament to create new All India Services."
+    },
+    {
+      "id": "rajya-sabha-q23",
+      "difficulty": "hard",
+      "q": "A resolution under Article 249 enabling Parliament to legislate on a State List subject must be passed by what majority in the Rajya Sabha?",
+      "options": [
+        "A simple majority",
+        "Three-fourths of total membership",
+        "Two-thirds of members present and voting",
+        "An absolute majority of total membership"
+      ],
+      "answer": 2,
+      "explanation": "Such a resolution requires support of not less than two-thirds of the members present and voting."
+    },
+    {
+      "id": "rajya-sabha-q24",
+      "difficulty": "hard",
+      "q": "A resolution passed under Article 249 remains in force for a period not exceeding:",
+      "options": [
+        "Six months",
+        "Two years",
+        "Five years",
+        "One year"
+      ],
+      "answer": 3,
+      "explanation": "A resolution under Article 249 stays in force for up to one year and may be renewed."
+    },
+    {
+      "id": "rajya-sabha-q25",
+      "difficulty": "hard",
+      "q": "In a joint sitting of both Houses, the Rajya Sabha's relative influence is limited because:",
+      "options": [
+        "The Lok Sabha is the larger House",
+        "It cannot vote in joint sittings",
+        "The Chairman cannot attend",
+        "Its members are nominated"
+      ],
+      "answer": 0,
+      "explanation": "Because the Lok Sabha is numerically larger, its members predominate when a joint sitting votes on a disputed bill."
+    },
+    {
+      "id": "rajya-sabha-q26",
+      "difficulty": "hard",
+      "q": "With respect to a money bill, the Rajya Sabha may:",
+      "options": [
+        "Reject it outright",
+        "Only make recommendations within fourteen days",
+        "Amend it freely",
+        "Delay it for one year"
+      ],
+      "answer": 1,
+      "explanation": "The Rajya Sabha can only recommend changes to a money bill and must return it within fourteen days; the Lok Sabha may accept or reject the recommendations."
+    },
+    {
+      "id": "rajya-sabha-q27",
+      "difficulty": "hard",
+      "q": "A requirement that a Rajya Sabha candidate be ordinarily resident in the state they seek to represent was removed by an amendment to which law in 2003?",
+      "options": [
+        "The Constitution itself",
+        "The Government of India Act",
+        "The Representation of the People Act",
+        "The Citizenship Act"
+      ],
+      "answer": 2,
+      "explanation": "The domicile or residency requirement was removed through a 2003 amendment to the Representation of the People Act."
+    },
+    {
+      "id": "rajya-sabha-q28",
+      "difficulty": "hard",
+      "q": "The Chairman of the Rajya Sabha may be removed only when a resolution to remove the Vice-President is:",
+      "options": [
+        "Initiated in the Lok Sabha",
+        "Passed by both Houses jointly",
+        "Approved by the President",
+        "Initiated in the Rajya Sabha and agreed to by the Lok Sabha"
+      ],
+      "answer": 3,
+      "explanation": "The Vice-President, who is ex-officio Chairman, can be removed by a Rajya Sabha resolution agreed to by the Lok Sabha."
+    },
+    {
+      "id": "rajya-sabha-q29",
+      "difficulty": "hard",
+      "q": "When a motion for the removal of the Chairman is under consideration, the sitting is presided over by:",
+      "options": [
+        "The Deputy Chairman or another member, not the Chairman",
+        "The Chairman",
+        "The Speaker",
+        "The President"
+      ],
+      "answer": 0,
+      "explanation": "The Chairman does not preside while a resolution for their own removal is being considered."
+    },
+    {
+      "id": "rajya-sabha-q30",
+      "difficulty": "medium",
+      "q": "Seats in the Rajya Sabha are allocated to states broadly in proportion to their:",
+      "options": [
+        "Geographic area",
+        "Population",
+        "Revenue",
+        "Number of districts"
+      ],
+      "answer": 1,
+      "explanation": "Seat allocation in the Fourth Schedule is based broadly on the population of each state, with smaller states given proportionally more weight."
+    }
+  ]
+}

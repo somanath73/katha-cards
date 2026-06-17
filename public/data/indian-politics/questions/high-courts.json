@@ -1,0 +1,395 @@
+{
+  "cardId": "high-courts",
+  "questions": [
+    {
+      "id": "high-courts-q01",
+      "difficulty": "easy",
+      "q": "A High Court is the highest court of justice at which level?",
+      "options": [
+        "The state level",
+        "The village level",
+        "The district level",
+        "The international level"
+      ],
+      "answer": 0,
+      "explanation": "A High Court is the highest court within a state or group of states."
+    },
+    {
+      "id": "high-courts-q02",
+      "difficulty": "easy",
+      "q": "Which is the oldest High Court in India?",
+      "options": [
+        "Bombay High Court",
+        "Madras High Court",
+        "Calcutta High Court",
+        "Allahabad High Court"
+      ],
+      "answer": 2,
+      "explanation": "The Calcutta High Court, established in 1862, is the oldest High Court in India."
+    },
+    {
+      "id": "high-courts-q03",
+      "difficulty": "easy",
+      "q": "In which year was the Calcutta High Court established?",
+      "options": [
+        "1862",
+        "1950",
+        "1937",
+        "1911"
+      ],
+      "answer": 0,
+      "explanation": "The Calcutta High Court was established in 1862, making it the oldest in India."
+    },
+    {
+      "id": "high-courts-q04",
+      "difficulty": "easy",
+      "q": "Who is the head of a High Court?",
+      "options": [
+        "The Governor",
+        "The Advocate General",
+        "The Chief Justice of the High Court",
+        "The District Judge"
+      ],
+      "answer": 2,
+      "explanation": "Each High Court is headed by its Chief Justice."
+    },
+    {
+      "id": "high-courts-q05",
+      "difficulty": "easy",
+      "q": "Who appoints the judges of a High Court?",
+      "options": [
+        "The Governor",
+        "The President",
+        "The Chief Minister",
+        "The Speaker"
+      ],
+      "answer": 1,
+      "explanation": "Judges of a High Court are appointed by the President of India."
+    },
+    {
+      "id": "high-courts-q06",
+      "difficulty": "easy",
+      "q": "High Courts exercise supervisory jurisdiction over which courts?",
+      "options": [
+        "The Supreme Court",
+        "Parliament",
+        "Courts in other countries",
+        "Subordinate courts within their jurisdiction"
+      ],
+      "answer": 3,
+      "explanation": "High Courts exercise jurisdiction and superintendence over subordinate courts within their territory."
+    },
+    {
+      "id": "high-courts-q07",
+      "difficulty": "easy",
+      "q": "Up to what age may a judge of a High Court hold office?",
+      "options": [
+        "62 years",
+        "60 years",
+        "65 years",
+        "70 years"
+      ],
+      "answer": 0,
+      "explanation": "A High Court judge holds office until the age of 62 years."
+    },
+    {
+      "id": "high-courts-q08",
+      "difficulty": "easy",
+      "q": "A single High Court can have jurisdiction over how many states or union territories?",
+      "options": [
+        "Only one always",
+        "Exactly two",
+        "One or more states and union territories",
+        "All states together"
+      ],
+      "answer": 2,
+      "explanation": "A common High Court may exercise jurisdiction over more than one state or union territory."
+    },
+    {
+      "id": "high-courts-q09",
+      "difficulty": "easy",
+      "q": "Which level of judiciary lies directly above the High Courts?",
+      "options": [
+        "The district courts",
+        "The tribunals",
+        "The Supreme Court",
+        "The Lok Adalats"
+      ],
+      "answer": 2,
+      "explanation": "Appeals from the High Courts lie to the Supreme Court, which is above them."
+    },
+    {
+      "id": "high-courts-q10",
+      "difficulty": "easy",
+      "q": "Along with the Calcutta High Court, two other High Courts were established in 1862 at which cities?",
+      "options": [
+        "Lahore and Karachi",
+        "Delhi and Patna",
+        "Allahabad and Nagpur",
+        "Bombay and Madras"
+      ],
+      "answer": 3,
+      "explanation": "The Bombay and Madras High Courts were also established in 1862, alongside Calcutta."
+    },
+    {
+      "id": "high-courts-q11",
+      "difficulty": "medium",
+      "q": "High Courts are dealt with under which Part of the Constitution?",
+      "options": [
+        "Part V",
+        "Part VI",
+        "Part III",
+        "Part IX"
+      ],
+      "answer": 1,
+      "explanation": "The High Courts for States are dealt with under Part VI of the Constitution."
+    },
+    {
+      "id": "high-courts-q12",
+      "difficulty": "medium",
+      "q": "Which article provides for a High Court for each State?",
+      "options": [
+        "Article 124",
+        "Article 214",
+        "Article 324",
+        "Article 280"
+      ],
+      "answer": 1,
+      "explanation": "Article 214 provides that there shall be a High Court for each State."
+    },
+    {
+      "id": "high-courts-q13",
+      "difficulty": "medium",
+      "q": "Under which article can a High Court issue writs, including for purposes other than enforcement of Fundamental Rights?",
+      "options": [
+        "Article 32",
+        "Article 143",
+        "Article 136",
+        "Article 226"
+      ],
+      "answer": 3,
+      "explanation": "Article 226 empowers High Courts to issue writs for enforcement of Fundamental Rights and for any other purpose."
+    },
+    {
+      "id": "high-courts-q14",
+      "difficulty": "medium",
+      "q": "The writ jurisdiction of a High Court under Article 226 is considered wider than that of the Supreme Court under Article 32 in which respect?",
+      "options": [
+        "It overrules the Supreme Court",
+        "It binds foreign courts",
+        "It can amend the Constitution",
+        "It can be used for any legal right, not only Fundamental Rights"
+      ],
+      "answer": 3,
+      "explanation": "Article 226 allows writs for any legal right, while Article 32 is confined to Fundamental Rights, making the High Court's writ power broader in scope."
+    },
+    {
+      "id": "high-courts-q15",
+      "difficulty": "medium",
+      "q": "The power of superintendence of a High Court over all courts and tribunals in its territory is provided by which article?",
+      "options": [
+        "Article 227",
+        "Article 32",
+        "Article 124",
+        "Article 280"
+      ],
+      "answer": 0,
+      "explanation": "Article 227 gives every High Court power of superintendence over all courts and tribunals within its jurisdiction."
+    },
+    {
+      "id": "high-courts-q16",
+      "difficulty": "medium",
+      "q": "A judge of a High Court can be removed from office through which process?",
+      "options": [
+        "By the Governor's order",
+        "By the Bar Council",
+        "By the Chief Minister",
+        "By the same special-majority parliamentary process as a Supreme Court judge"
+      ],
+      "answer": 3,
+      "explanation": "A High Court judge is removed by the President after a special-majority address by both Houses of Parliament, like a Supreme Court judge."
+    },
+    {
+      "id": "high-courts-q17",
+      "difficulty": "medium",
+      "q": "The President can transfer a judge from one High Court to another after consultation with which authority?",
+      "options": [
+        "The Prime Minister",
+        "The Chief Justice of India",
+        "The Governor",
+        "The Speaker"
+      ],
+      "answer": 1,
+      "explanation": "Under Article 222, the President may transfer a judge after consultation with the Chief Justice of India."
+    },
+    {
+      "id": "high-courts-q18",
+      "difficulty": "medium",
+      "q": "Who administers the oath of office to a judge of a High Court?",
+      "options": [
+        "The Chief Justice of India",
+        "The Speaker",
+        "The President",
+        "The Governor of the State or someone appointed by them"
+      ],
+      "answer": 3,
+      "explanation": "A High Court judge takes the oath before the Governor of the State or a person appointed by the Governor."
+    },
+    {
+      "id": "high-courts-q19",
+      "difficulty": "medium",
+      "q": "To qualify for appointment as a High Court judge, a person must, among other routes, have held judicial office or practised as an advocate for at least how many years?",
+      "options": [
+        "Ten years",
+        "Five years",
+        "Fifteen years",
+        "Three years"
+      ],
+      "answer": 0,
+      "explanation": "A qualifying requirement is at least ten years of judicial office or practice as an advocate of a High Court."
+    },
+    {
+      "id": "high-courts-q20",
+      "difficulty": "medium",
+      "q": "The Constitution permits Parliament to establish a common High Court for which combination?",
+      "options": [
+        "Two countries",
+        "Two or more States or union territories",
+        "A State and a foreign court",
+        "Two villages"
+      ],
+      "answer": 1,
+      "explanation": "Article 231 allows Parliament to establish a common High Court for two or more States or for States and union territories."
+    },
+    {
+      "id": "high-courts-q21",
+      "difficulty": "medium",
+      "q": "Which High Court, established in 1866, has its principal seat at Prayagraj and is among the oldest in India?",
+      "options": [
+        "Patna High Court",
+        "Delhi High Court",
+        "Allahabad High Court",
+        "Karnataka High Court"
+      ],
+      "answer": 2,
+      "explanation": "The Allahabad High Court, established in 1866, has its principal seat at Prayagraj (Allahabad)."
+    },
+    {
+      "id": "high-courts-q22",
+      "difficulty": "medium",
+      "q": "A retired High Court judge is generally permitted to plead before which courts?",
+      "options": [
+        "No court at all",
+        "The Supreme Court and other High Courts, but not the High Court where they served",
+        "Only foreign courts",
+        "Only the High Court where they served"
+      ],
+      "answer": 1,
+      "explanation": "A retired High Court judge may practise in the Supreme Court and other High Courts but not in the High Court where they served."
+    },
+    {
+      "id": "high-courts-q23",
+      "difficulty": "hard",
+      "q": "Who was the first woman judge of a High Court in India, appointed to the Kerala High Court?",
+      "options": [
+        "Leila Seth",
+        "Ruma Pal",
+        "Fathima Beevi",
+        "Anna Chandy"
+      ],
+      "answer": 3,
+      "explanation": "Anna Chandy became the first woman High Court judge in India when appointed to the Kerala High Court in 1959."
+    },
+    {
+      "id": "high-courts-q24",
+      "difficulty": "hard",
+      "q": "Who was the first woman to become Chief Justice of a High Court in India?",
+      "options": [
+        "Fathima Beevi",
+        "Leila Seth",
+        "Anna Chandy",
+        "Sujata Manohar"
+      ],
+      "answer": 1,
+      "explanation": "Leila Seth became the first woman Chief Justice of a High Court when she headed the Himachal Pradesh High Court in 1991."
+    },
+    {
+      "id": "high-courts-q25",
+      "difficulty": "hard",
+      "q": "Where a vacancy occurs in the office of Chief Justice of a High Court, who appoints an acting Chief Justice?",
+      "options": [
+        "The Governor",
+        "The Chief Justice of India",
+        "The President",
+        "The State Legislature"
+      ],
+      "answer": 2,
+      "explanation": "Under Article 223, the President appoints an acting Chief Justice of a High Court when the office is vacant."
+    },
+    {
+      "id": "high-courts-q26",
+      "difficulty": "hard",
+      "q": "Additional and acting judges of a High Court may be appointed under which article?",
+      "options": [
+        "Article 224",
+        "Article 124",
+        "Article 280",
+        "Article 324"
+      ],
+      "answer": 0,
+      "explanation": "Article 224 provides for the appointment of additional and acting judges of a High Court."
+    },
+    {
+      "id": "high-courts-q27",
+      "difficulty": "hard",
+      "q": "The salaries and allowances of High Court judges are charged on which fund?",
+      "options": [
+        "The Consolidated Fund of the State",
+        "The Consolidated Fund of India",
+        "The Contingency Fund",
+        "The Public Account"
+      ],
+      "answer": 0,
+      "explanation": "The salaries of High Court judges are charged on the Consolidated Fund of the State, while their pensions are charged on the Consolidated Fund of India."
+    },
+    {
+      "id": "high-courts-q28",
+      "difficulty": "hard",
+      "q": "Several northeastern states share a common High Court that has its principal seat at which city?",
+      "options": [
+        "Guwahati",
+        "Shillong",
+        "Itanagar",
+        "Imphal"
+      ],
+      "answer": 0,
+      "explanation": "The Gauhati High Court, with its principal seat at Guwahati, has historically served several northeastern states."
+    },
+    {
+      "id": "high-courts-q29",
+      "difficulty": "hard",
+      "q": "The collegium that recommends High Court appointments to the President is headed by which authority at the national stage of consultation?",
+      "options": [
+        "The Governor",
+        "The Law Minister",
+        "The Chief Justice of India",
+        "The Chief Minister"
+      ],
+      "answer": 2,
+      "explanation": "High Court appointments involve a collegium process in which the Chief Justice of India plays the leading role in consultation."
+    },
+    {
+      "id": "high-courts-q30",
+      "difficulty": "hard",
+      "q": "A High Court is a court of record under which article, giving it power to punish for its own contempt?",
+      "options": [
+        "Article 226",
+        "Article 215",
+        "Article 227",
+        "Article 214"
+      ],
+      "answer": 1,
+      "explanation": "Article 215 declares every High Court to be a court of record with power to punish for contempt of itself."
+    }
+  ]
+}

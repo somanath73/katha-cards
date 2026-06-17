@@ -1,0 +1,245 @@
+{
+  "cardId": "planning-commission",
+  "questions": [
+    {
+      "id": "planning-commission-q01",
+      "difficulty": "easy",
+      "q": "In which year was the Planning Commission of India set up?",
+      "options": ["1947", "1950", "1956", "1962"],
+      "answer": 1,
+      "explanation": "The Planning Commission was established in March 1950 by a resolution of the Government of India."
+    },
+    {
+      "id": "planning-commission-q02",
+      "difficulty": "easy",
+      "q": "What were the planning documents formulated by the Planning Commission popularly called?",
+      "options": ["Annual Budgets", "Vision Statements", "Outcome Reports", "Five-Year Plans"],
+      "answer": 3,
+      "explanation": "The Planning Commission was best known for formulating India's Five-Year Plans for economic and social development."
+    },
+    {
+      "id": "planning-commission-q03",
+      "difficulty": "easy",
+      "q": "In which year was the Planning Commission replaced by a new body?",
+      "options": ["2010", "2012", "2014", "2016"],
+      "answer": 2,
+      "explanation": "The Planning Commission was wound up in 2014; its successor, NITI Aayog, was formally established on 1 January 2015."
+    },
+    {
+      "id": "planning-commission-q04",
+      "difficulty": "easy",
+      "q": "Which body replaced the Planning Commission?",
+      "options": ["Finance Commission", "Reserve Bank of India", "Election Commission", "NITI Aayog"],
+      "answer": 3,
+      "explanation": "NITI Aayog was established in 2015 as the successor institution to the Planning Commission."
+    },
+    {
+      "id": "planning-commission-q05",
+      "difficulty": "easy",
+      "q": "Who served as the ex-officio Chairman of the Planning Commission?",
+      "options": ["The President of India", "The Prime Minister", "The Finance Minister", "The Chief Justice"],
+      "answer": 1,
+      "explanation": "The Prime Minister of India served as the ex-officio Chairman of the Planning Commission."
+    },
+    {
+      "id": "planning-commission-q06",
+      "difficulty": "easy",
+      "q": "What was the primary focus of the Planning Commission's work?",
+      "options": ["Conducting elections", "Auditing government accounts", "Issuing currency", "Economic and social development planning"],
+      "answer": 3,
+      "explanation": "The Planning Commission guided India's economic and social development through its plans."
+    },
+    {
+      "id": "planning-commission-q07",
+      "difficulty": "easy",
+      "q": "How many years did each standard Five-Year Plan cover?",
+      "options": ["Three years", "Four years", "Five years", "Ten years"],
+      "answer": 2,
+      "explanation": "As the name indicates, each Five-Year Plan covered a period of five years."
+    },
+    {
+      "id": "planning-commission-q08",
+      "difficulty": "easy",
+      "q": "The Planning Commission was created by which type of instrument?",
+      "options": ["A constitutional article", "A Supreme Court order", "A treaty", "A government executive resolution"],
+      "answer": 3,
+      "explanation": "The Planning Commission was set up by an executive resolution of the Government of India, not by the Constitution or a statute."
+    },
+    {
+      "id": "planning-commission-q09",
+      "difficulty": "easy",
+      "q": "In which city was the Planning Commission headquartered?",
+      "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"],
+      "answer": 0,
+      "explanation": "The Planning Commission was headquartered at Yojana Bhavan in New Delhi."
+    },
+    {
+      "id": "planning-commission-q10",
+      "difficulty": "easy",
+      "q": "Who was the first Prime Minister of India during whose tenure the Planning Commission was created?",
+      "options": ["Lal Bahadur Shastri", "Indira Gandhi", "Morarji Desai", "Jawaharlal Nehru"],
+      "answer": 3,
+      "explanation": "The Planning Commission was set up in 1950 during the tenure of Prime Minister Jawaharlal Nehru, who chaired it."
+    },
+    {
+      "id": "planning-commission-q11",
+      "difficulty": "medium",
+      "q": "The First Five-Year Plan, launched by the Planning Commission, began in which year?",
+      "options": ["1950", "1951", "1953", "1955"],
+      "answer": 1,
+      "explanation": "The First Five-Year Plan covered the period 1951 to 1956."
+    },
+    {
+      "id": "planning-commission-q12",
+      "difficulty": "medium",
+      "q": "The First Five-Year Plan placed primary emphasis on which sector?",
+      "options": ["Heavy industry", "Agriculture and irrigation", "Information technology", "Defence manufacturing"],
+      "answer": 1,
+      "explanation": "The First Five-Year Plan (1951-56) focused mainly on agriculture, irrigation and rehabilitation."
+    },
+    {
+      "id": "planning-commission-q13",
+      "difficulty": "medium",
+      "q": "The Second Five-Year Plan is associated with a development model named after which statistician?",
+      "options": ["C.D. Deshmukh", "Amartya Sen", "V.K.R.V. Rao", "P.C. Mahalanobis"],
+      "answer": 3,
+      "explanation": "The Second Five-Year Plan (1956-61) was based on the Mahalanobis model, emphasising heavy industry."
+    },
+    {
+      "id": "planning-commission-q14",
+      "difficulty": "medium",
+      "q": "What was the official designation of the deputy head who handled the day-to-day functioning of the Planning Commission?",
+      "options": ["Vice-Chairman", "Secretary-General", "Director-General", "Chief Coordinator"],
+      "answer": 0,
+      "explanation": "The Deputy Chairman, often called the Vice-Chairman, held cabinet rank and managed the Commission's working."
+    },
+    {
+      "id": "planning-commission-q15",
+      "difficulty": "medium",
+      "q": "During a period in the 1960s, planning was briefly interrupted and replaced by Annual Plans. These were known as the:",
+      "options": ["Plan recess", "Plan holiday", "Plan pause", "Plan break"],
+      "answer": 1,
+      "explanation": "Between 1966 and 1969 there was a 'Plan holiday' during which three Annual Plans replaced a Five-Year Plan."
+    },
+    {
+      "id": "planning-commission-q16",
+      "difficulty": "medium",
+      "q": "Which body, presided over by the Prime Minister, was responsible for approving the Five-Year Plans prepared by the Planning Commission?",
+      "options": ["The Union Cabinet", "The National Development Council", "The Finance Commission", "The Rajya Sabha"],
+      "answer": 1,
+      "explanation": "The National Development Council, with the Prime Minister and Chief Ministers, gave final approval to the plans."
+    },
+    {
+      "id": "planning-commission-q17",
+      "difficulty": "medium",
+      "q": "The Planning Commission was an example of which kind of body in Indian governance?",
+      "options": ["A constitutional body", "A statutory body", "A non-constitutional, non-statutory body", "A judicial body"],
+      "answer": 2,
+      "explanation": "The Planning Commission was neither constitutional nor statutory; it was created by an executive resolution."
+    },
+    {
+      "id": "planning-commission-q18",
+      "difficulty": "medium",
+      "q": "Which Five-Year Plan was the last to be formulated by the Planning Commission before its replacement?",
+      "options": ["The Tenth Plan", "The Eleventh Plan", "The Twelfth Plan", "The Thirteenth Plan"],
+      "answer": 2,
+      "explanation": "The Twelfth Five-Year Plan (2012-17) was the last formulated under the Planning Commission."
+    },
+    {
+      "id": "planning-commission-q19",
+      "difficulty": "medium",
+      "q": "The model of planning followed in India under the Planning Commission was broadly described as which type?",
+      "options": ["Purely free-market planning", "Centralised command planning", "Mixed-economy planning", "Purely regional planning"],
+      "answer": 2,
+      "explanation": "India followed a mixed-economy approach, combining state planning with a private sector."
+    },
+    {
+      "id": "planning-commission-q20",
+      "difficulty": "medium",
+      "q": "The idea of a planning body in India was influenced by an earlier committee set up by the Indian National Congress in 1938 called the:",
+      "options": ["Economic Reform Council", "Development Board", "Industrial Policy Group", "National Planning Committee"],
+      "answer": 3,
+      "explanation": "The National Planning Committee of 1938, chaired by Jawaharlal Nehru, was a precursor to the idea of central planning."
+    },
+    {
+      "id": "planning-commission-q21",
+      "difficulty": "medium",
+      "q": "One key function of the Planning Commission was the allocation of central plan assistance to which entities?",
+      "options": ["Foreign governments", "States and union territories", "Private banks", "International agencies"],
+      "answer": 1,
+      "explanation": "The Planning Commission played a major role in allocating plan funds to the states and union territories."
+    },
+    {
+      "id": "planning-commission-q22",
+      "difficulty": "medium",
+      "q": "Which monthly journal was associated with the Planning Commission for disseminating plan information?",
+      "options": ["Yojana", "Kurukshetra", "Economic Survey", "Bharat Nirman"],
+      "answer": 0,
+      "explanation": "The journal Yojana, named after the Hindi word for plan, was associated with development planning."
+    },
+    {
+      "id": "planning-commission-q23",
+      "difficulty": "hard",
+      "q": "Who was the first Deputy Chairman of the Planning Commission?",
+      "options": ["V.T. Krishnamachari", "C.M. Trivedi", "Gulzarilal Nanda", "K.C. Neogy"],
+      "answer": 2,
+      "explanation": "Gulzarilal Nanda served as the first Deputy Chairman of the Planning Commission."
+    },
+    {
+      "id": "planning-commission-q24",
+      "difficulty": "hard",
+      "q": "The Third Five-Year Plan (1961-66) was significantly affected by which external events?",
+      "options": ["Two wars and droughts", "A global oil shock", "A banking crisis", "A currency union"],
+      "answer": 0,
+      "explanation": "The Third Plan was disrupted by the 1962 and 1965 wars and by severe droughts."
+    },
+    {
+      "id": "planning-commission-q25",
+      "difficulty": "hard",
+      "q": "Which Five-Year Plan introduced the influential 'Garibi Hatao' (Remove Poverty) emphasis?",
+      "options": ["Third Plan", "Fourth Plan", "Fifth Plan", "Sixth Plan"],
+      "answer": 2,
+      "explanation": "The Fifth Five-Year Plan (1974-79) emphasised poverty removal and self-reliance."
+    },
+    {
+      "id": "planning-commission-q26",
+      "difficulty": "hard",
+      "q": "The Planning Commission introduced a measure to identify the poor known as the:",
+      "options": ["Human Development Index", "Poverty Line", "Gini Coefficient", "Wage Index"],
+      "answer": 1,
+      "explanation": "The Planning Commission was responsible for estimating the official Poverty Line and poverty ratios in India."
+    },
+    {
+      "id": "planning-commission-q27",
+      "difficulty": "hard",
+      "q": "The concept of 'rolling plans' as an alternative to fixed Five-Year Plans was advocated by which economist associated with India?",
+      "options": ["Gunnar Myrdal", "John Maynard Keynes", "Milton Friedman", "Paul Samuelson"],
+      "answer": 0,
+      "explanation": "Gunnar Myrdal advocated the concept of rolling plans, which India briefly adopted in the late 1970s."
+    },
+    {
+      "id": "planning-commission-q28",
+      "difficulty": "hard",
+      "q": "Approximately how many Five-Year Plans were formulated in total during the existence of the Planning Commission?",
+      "options": ["Ten", "Eleven", "Twelve", "Fourteen"],
+      "answer": 2,
+      "explanation": "Twelve Five-Year Plans were formulated, from the First (1951-56) to the Twelfth (2012-17)."
+    },
+    {
+      "id": "planning-commission-q29",
+      "difficulty": "hard",
+      "q": "The Planning Commission's allocations were guided by an internal body of experts known as the:",
+      "options": ["Programme Evaluation Organisation", "Central Statistical Office", "National Sample Survey", "Reserve Bank Board"],
+      "answer": 0,
+      "explanation": "The Programme Evaluation Organisation within the Planning Commission assessed the implementation of development programmes."
+    },
+    {
+      "id": "planning-commission-q30",
+      "difficulty": "hard",
+      "q": "On which date in 1950 was the resolution establishing the Planning Commission adopted?",
+      "options": ["15 March 1950", "26 January 1950", "1 April 1950", "15 August 1950"],
+      "answer": 0,
+      "explanation": "The Government of India resolution establishing the Planning Commission was adopted on 15 March 1950."
+    }
+  ]
+}

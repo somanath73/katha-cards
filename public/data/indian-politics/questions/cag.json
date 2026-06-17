@@ -1,0 +1,395 @@
+{
+  "cardId": "cag",
+  "questions": [
+    {
+      "id": "cag-q01",
+      "difficulty": "easy",
+      "q": "What does the abbreviation CAG stand for?",
+      "options": [
+        "Comptroller and Auditor General",
+        "Central Accounts General",
+        "Constitutional Audit Group",
+        "Council of Audit and Governance"
+      ],
+      "answer": 0,
+      "explanation": "CAG stands for the Comptroller and Auditor General of India."
+    },
+    {
+      "id": "cag-q02",
+      "difficulty": "easy",
+      "q": "What is the primary function of the CAG of India?",
+      "options": [
+        "To audit government accounts",
+        "To collect taxes",
+        "To frame the budget",
+        "To conduct elections"
+      ],
+      "answer": 0,
+      "explanation": "The CAG audits the accounts of the Union and state governments."
+    },
+    {
+      "id": "cag-q03",
+      "difficulty": "easy",
+      "q": "The CAG of India is best described as a:",
+      "options": [
+        "Constitutional authority",
+        "Private firm",
+        "Political party office",
+        "Temporary commission"
+      ],
+      "answer": 0,
+      "explanation": "The CAG is a constitutional authority provided for in the Constitution of India."
+    },
+    {
+      "id": "cag-q04",
+      "difficulty": "easy",
+      "q": "Who appoints the CAG of India?",
+      "options": [
+        "The President of India",
+        "The Prime Minister",
+        "The Chief Justice",
+        "Parliament by election"
+      ],
+      "answer": 0,
+      "explanation": "The CAG is appointed by the President of India."
+    },
+    {
+      "id": "cag-q05",
+      "difficulty": "easy",
+      "q": "The CAG audits the accounts of which governments?",
+      "options": [
+        "The Union and the state governments",
+        "Only the Union government",
+        "Only municipal bodies",
+        "Only foreign aid agencies"
+      ],
+      "answer": 0,
+      "explanation": "The CAG audits the accounts of both the Union and the state governments."
+    },
+    {
+      "id": "cag-q06",
+      "difficulty": "easy",
+      "q": "Which framer of the Constitution described the CAG as one of the most important offices under the Constitution?",
+      "options": [
+        "Dr. B.R. Ambedkar",
+        "Sardar Patel",
+        "Maulana Azad",
+        "Rajendra Prasad"
+      ],
+      "answer": 0,
+      "explanation": "Dr. B.R. Ambedkar described the CAG as one of the most important officers under the Constitution."
+    },
+    {
+      "id": "cag-q07",
+      "difficulty": "easy",
+      "q": "Reports of the CAG are examined by which committee of Parliament?",
+      "options": [
+        "The Public Accounts Committee",
+        "The Business Advisory Committee",
+        "The Rules Committee",
+        "The Privileges Committee"
+      ],
+      "answer": 0,
+      "explanation": "CAG reports are examined chiefly by the Public Accounts Committee of Parliament."
+    },
+    {
+      "id": "cag-q08",
+      "difficulty": "easy",
+      "q": "The CAG is sometimes called the guardian of the:",
+      "options": [
+        "Public purse",
+        "National flag",
+        "State borders",
+        "Postal system"
+      ],
+      "answer": 0,
+      "explanation": "The CAG is often described as the guardian of the public purse for auditing public spending."
+    },
+    {
+      "id": "cag-q09",
+      "difficulty": "easy",
+      "q": "CAG reports relating to the Union are submitted to the President, who causes them to be laid before:",
+      "options": [
+        "The Supreme Court",
+        "Parliament",
+        "The Reserve Bank",
+        "The Cabinet only"
+      ],
+      "answer": 1,
+      "explanation": "The President causes CAG reports on Union accounts to be laid before Parliament."
+    },
+    {
+      "id": "cag-q10",
+      "difficulty": "easy",
+      "q": "The CAG heads which audit department of India?",
+      "options": [
+        "The Income Tax Department",
+        "The Indian Audit and Accounts Department",
+        "The Central Bureau of Investigation",
+        "The Reserve Bank of India"
+      ],
+      "answer": 1,
+      "explanation": "The CAG heads the Indian Audit and Accounts Department."
+    },
+    {
+      "id": "cag-q11",
+      "difficulty": "medium",
+      "q": "Which Articles of the Constitution deal with the office of the CAG?",
+      "options": [
+        "Articles 52 to 55",
+        "Articles 148 to 151",
+        "Articles 124 to 127",
+        "Articles 315 to 318"
+      ],
+      "answer": 1,
+      "explanation": "Articles 148 to 151 of the Constitution deal with the office, duties and reports of the CAG."
+    },
+    {
+      "id": "cag-q12",
+      "difficulty": "medium",
+      "q": "The office of the CAG is established under which Article of the Constitution?",
+      "options": [
+        "Article 280",
+        "Article 148",
+        "Article 324",
+        "Article 368"
+      ],
+      "answer": 1,
+      "explanation": "Article 148 of the Constitution provides for the office of the Comptroller and Auditor General of India."
+    },
+    {
+      "id": "cag-q13",
+      "difficulty": "medium",
+      "q": "What is the term of office of the CAG?",
+      "options": [
+        "Five years fixed",
+        "Six years or until the age of 65, whichever is earlier",
+        "Until the age of 70",
+        "Three years renewable"
+      ],
+      "answer": 1,
+      "explanation": "The CAG holds office for six years or until reaching 65 years of age, whichever is earlier."
+    },
+    {
+      "id": "cag-q14",
+      "difficulty": "medium",
+      "q": "The CAG can be removed from office in the same manner as a:",
+      "options": [
+        "Member of the Lok Sabha",
+        "Judge of the Supreme Court",
+        "Cabinet Minister",
+        "State Governor"
+      ],
+      "answer": 1,
+      "explanation": "The CAG can be removed only in the manner and on grounds applicable to a Supreme Court judge."
+    },
+    {
+      "id": "cag-q15",
+      "difficulty": "medium",
+      "q": "To safeguard independence, the salary and conditions of service of the CAG are charged on which fund?",
+      "options": [
+        "The Contingency Fund of India",
+        "The Consolidated Fund of India",
+        "The Public Account of India",
+        "A special audit fund"
+      ],
+      "answer": 1,
+      "explanation": "The CAG's salary and administrative expenses are charged on the Consolidated Fund of India, beyond parliamentary vote."
+    },
+    {
+      "id": "cag-q16",
+      "difficulty": "medium",
+      "q": "After demitting office, the CAG is barred from holding any further office under which authorities?",
+      "options": [
+        "Only private companies",
+        "The Government of India or any state government",
+        "Only international bodies",
+        "Only judicial bodies"
+      ],
+      "answer": 1,
+      "explanation": "After demitting office, the CAG is ineligible for any further office under the Government of India or any state government."
+    },
+    {
+      "id": "cag-q17",
+      "difficulty": "medium",
+      "q": "Which Act of Parliament prescribes the duties and powers of the CAG?",
+      "options": [
+        "The Audit Act, 1950",
+        "The Public Accounts Act, 1956",
+        "The CAG (Duties, Powers and Conditions of Service) Act, 1971",
+        "The Government Accounts Act, 1949"
+      ],
+      "answer": 2,
+      "explanation": "The CAG's (Duties, Powers and Conditions of Service) Act, 1971 lays down the detailed duties and powers of the office."
+    },
+    {
+      "id": "cag-q18",
+      "difficulty": "medium",
+      "q": "Before formally entering office, the CAG makes an oath or affirmation before the:",
+      "options": [
+        "Chief Justice of India",
+        "Speaker of the Lok Sabha",
+        "President of India",
+        "Vice-President of India"
+      ],
+      "answer": 2,
+      "explanation": "The CAG makes an oath or affirmation before the President of India before entering office."
+    },
+    {
+      "id": "cag-q19",
+      "difficulty": "medium",
+      "q": "CAG reports relating to a state's accounts are submitted to the Governor, who lays them before the:",
+      "options": [
+        "State High Court",
+        "Union Cabinet",
+        "State Legislature",
+        "Finance Commission"
+      ],
+      "answer": 2,
+      "explanation": "Reports on state accounts are submitted to the Governor and laid before the state legislature."
+    },
+    {
+      "id": "cag-q20",
+      "difficulty": "medium",
+      "q": "Audits conducted by the CAG broadly include financial audit, compliance audit, and:",
+      "options": [
+        "Tax assessment",
+        "Election audit",
+        "Performance audit",
+        "Census audit"
+      ],
+      "answer": 2,
+      "explanation": "The CAG conducts financial, compliance and performance (efficiency-cum-effectiveness) audits."
+    },
+    {
+      "id": "cag-q21",
+      "difficulty": "medium",
+      "q": "Which constitutional principle does the independence of the CAG help uphold?",
+      "options": [
+        "Separation of religion and state",
+        "Reservation of seats",
+        "Accountability of the executive to the legislature",
+        "Federal sharing of taxes"
+      ],
+      "answer": 2,
+      "explanation": "By auditing public spending, the CAG strengthens the executive's financial accountability to the legislature."
+    },
+    {
+      "id": "cag-q22",
+      "difficulty": "medium",
+      "q": "The salary of the CAG is, by statute and convention, equivalent to that of a:",
+      "options": [
+        "Member of Parliament",
+        "Joint Secretary",
+        "Judge of the Supreme Court",
+        "Chief Minister"
+      ],
+      "answer": 2,
+      "explanation": "The CAG's salary is set on par with that of a judge of the Supreme Court."
+    },
+    {
+      "id": "cag-q23",
+      "difficulty": "hard",
+      "q": "Who served as the first Comptroller and Auditor General of independent India?",
+      "options": [
+        "M.C. Setalvad",
+        "Sukumar Sen",
+        "V. Narahari Rao",
+        "C.D. Deshmukh"
+      ],
+      "answer": 2,
+      "explanation": "V. Narahari Rao was the first Comptroller and Auditor General of independent India."
+    },
+    {
+      "id": "cag-q24",
+      "difficulty": "hard",
+      "q": "Article 149 of the Constitution deals primarily with the CAG's:",
+      "options": [
+        "Salary alone",
+        "Method of election",
+        "Term length",
+        "Duties and powers"
+      ],
+      "answer": 3,
+      "explanation": "Article 149 provides that the CAG performs such duties and exercises such powers as prescribed by law."
+    },
+    {
+      "id": "cag-q25",
+      "difficulty": "hard",
+      "q": "Article 151 of the Constitution specifically concerns the CAG's:",
+      "options": [
+        "Appointment",
+        "Oath",
+        "Resignation",
+        "Reports"
+      ],
+      "answer": 3,
+      "explanation": "Article 151 deals with the submission of CAG reports to the President or Governors and their laying before legislatures."
+    },
+    {
+      "id": "cag-q26",
+      "difficulty": "hard",
+      "q": "In present-day practice, while the title includes 'Comptroller', the office mainly exercises functions of an:",
+      "options": [
+        "Election supervisor",
+        "Tax collector",
+        "Currency issuer",
+        "Auditor rather than a comptroller of issues from the fund"
+      ],
+      "answer": 3,
+      "explanation": "In practice the office functions chiefly as an auditor, with limited comptroller-style control over issues from the Consolidated Fund."
+    },
+    {
+      "id": "cag-q27",
+      "difficulty": "hard",
+      "q": "The CAG's audit reports on the Union government broadly fall under categories that include reports on the appropriation accounts and the:",
+      "options": [
+        "Census records",
+        "Election rolls",
+        "Land records",
+        "Finance accounts"
+      ],
+      "answer": 3,
+      "explanation": "CAG reporting on the Union includes audit of the appropriation accounts and the finance accounts of the government."
+    },
+    {
+      "id": "cag-q28",
+      "difficulty": "hard",
+      "q": "Provisions ensuring that the CAG's expenses are not subject to a vote in Parliament are intended chiefly to protect the office's:",
+      "options": [
+        "Profitability",
+        "Political affiliation",
+        "Temporary status",
+        "Independence"
+      ],
+      "answer": 3,
+      "explanation": "Charging the CAG's expenses on the Consolidated Fund shields the office from executive or legislative pressure, securing its independence."
+    },
+    {
+      "id": "cag-q29",
+      "difficulty": "hard",
+      "q": "The CAG submits audit reports relating to the accounts of the Union to the President under the procedure set out in which Article?",
+      "options": [
+        "Article 148",
+        "Article 149",
+        "Article 150",
+        "Article 151"
+      ],
+      "answer": 3,
+      "explanation": "Under Article 151, the CAG submits Union audit reports to the President, who lays them before Parliament."
+    },
+    {
+      "id": "cag-q30",
+      "difficulty": "hard",
+      "q": "Article 150 of the Constitution relates to the form of accounts of the Union and states, to be prescribed on the advice of the:",
+      "options": [
+        "Finance Commission",
+        "Attorney General",
+        "Planning Commission",
+        "CAG"
+      ],
+      "answer": 3,
+      "explanation": "Under Article 150, the form of Union and state accounts is prescribed by the President on the advice of the CAG."
+    }
+  ]
+}

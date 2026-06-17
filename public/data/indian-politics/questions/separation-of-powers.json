@@ -1,0 +1,395 @@
+{
+  "cardId": "separation-of-powers",
+  "questions": [
+    {
+      "id": "separation-of-powers-q01",
+      "difficulty": "easy",
+      "q": "Separation of powers divides government functions among how many main branches?",
+      "options": [
+        "Three",
+        "Two",
+        "Four",
+        "Five"
+      ],
+      "answer": 0,
+      "explanation": "The doctrine divides government among three branches: the legislature, the executive and the judiciary."
+    },
+    {
+      "id": "separation-of-powers-q02",
+      "difficulty": "easy",
+      "q": "Which branch is primarily responsible for making laws?",
+      "options": [
+        "The executive",
+        "The legislature",
+        "The judiciary",
+        "The bureaucracy"
+      ],
+      "answer": 1,
+      "explanation": "The legislature is the law-making branch of government."
+    },
+    {
+      "id": "separation-of-powers-q03",
+      "difficulty": "easy",
+      "q": "Which branch is primarily responsible for implementing and enforcing laws?",
+      "options": [
+        "The legislature",
+        "The judiciary",
+        "The executive",
+        "The press"
+      ],
+      "answer": 2,
+      "explanation": "The executive branch implements and enforces the laws."
+    },
+    {
+      "id": "separation-of-powers-q04",
+      "difficulty": "easy",
+      "q": "Which branch is primarily responsible for interpreting laws and settling disputes?",
+      "options": [
+        "The legislature",
+        "The executive",
+        "The civil service",
+        "The judiciary"
+      ],
+      "answer": 3,
+      "explanation": "The judiciary interprets laws and adjudicates disputes."
+    },
+    {
+      "id": "separation-of-powers-q05",
+      "difficulty": "easy",
+      "q": "Separation of powers is regarded as part of which feature of the Indian Constitution?",
+      "options": [
+        "The basic structure",
+        "The Emergency provisions",
+        "The Ninth Schedule",
+        "The Directive Principles only"
+      ],
+      "answer": 0,
+      "explanation": "Separation of powers is regarded as part of the basic structure of the Constitution."
+    },
+    {
+      "id": "separation-of-powers-q06",
+      "difficulty": "easy",
+      "q": "The system by which each branch can limit the others is commonly called what?",
+      "options": [
+        "Open ballot",
+        "Checks and balances",
+        "Vote of thanks",
+        "Quorum"
+      ],
+      "answer": 1,
+      "explanation": "Checks and balances allow each branch to limit the powers of the others."
+    },
+    {
+      "id": "separation-of-powers-q07",
+      "difficulty": "easy",
+      "q": "In India, the Parliament of India belongs to which branch of government?",
+      "options": [
+        "The executive",
+        "The judiciary",
+        "The legislature",
+        "The Election Commission"
+      ],
+      "answer": 2,
+      "explanation": "The Parliament of India is the legislative branch at the Union level."
+    },
+    {
+      "id": "separation-of-powers-q08",
+      "difficulty": "easy",
+      "q": "The Supreme Court of India belongs to which branch of government?",
+      "options": [
+        "The legislature",
+        "The executive",
+        "The Council of Ministers",
+        "The judiciary"
+      ],
+      "answer": 3,
+      "explanation": "The Supreme Court is the apex body of the judicial branch."
+    },
+    {
+      "id": "separation-of-powers-q09",
+      "difficulty": "easy",
+      "q": "The Council of Ministers headed by the Prime Minister forms part of which branch?",
+      "options": [
+        "The executive",
+        "The judiciary",
+        "The legislature only",
+        "The Election Commission"
+      ],
+      "answer": 0,
+      "explanation": "The Council of Ministers is part of the executive branch."
+    },
+    {
+      "id": "separation-of-powers-q10",
+      "difficulty": "easy",
+      "q": "The power of courts to examine the validity of laws and executive actions is known as what?",
+      "options": [
+        "Question hour",
+        "Judicial review",
+        "Money bill",
+        "Ordinance power"
+      ],
+      "answer": 1,
+      "explanation": "Judicial review allows courts to test the constitutional validity of laws and executive actions, a key check among the branches."
+    },
+    {
+      "id": "separation-of-powers-q11",
+      "difficulty": "medium",
+      "q": "Which Article of the Constitution provides that the executive power of the Union is vested in the President?",
+      "options": [
+        "Article 74",
+        "Article 124",
+        "Article 53",
+        "Article 79"
+      ],
+      "answer": 2,
+      "explanation": "Article 53 vests the executive power of the Union in the President."
+    },
+    {
+      "id": "separation-of-powers-q12",
+      "difficulty": "medium",
+      "q": "Which Article provides for a Council of Ministers to aid and advise the President?",
+      "options": [
+        "Article 61",
+        "Article 110",
+        "Article 143",
+        "Article 74"
+      ],
+      "answer": 3,
+      "explanation": "Article 74 provides for a Council of Ministers to aid and advise the President in exercising functions."
+    },
+    {
+      "id": "separation-of-powers-q13",
+      "difficulty": "medium",
+      "q": "Which Article seeks to separate the judiciary from the executive in the public services of the State?",
+      "options": [
+        "Article 50",
+        "Article 21",
+        "Article 32",
+        "Article 368"
+      ],
+      "answer": 0,
+      "explanation": "Article 50, a Directive Principle, directs the State to separate the judiciary from the executive."
+    },
+    {
+      "id": "separation-of-powers-q14",
+      "difficulty": "medium",
+      "q": "Which Article establishes Parliament, consisting of the President and the two Houses?",
+      "options": [
+        "Article 53",
+        "Article 79",
+        "Article 124",
+        "Article 280"
+      ],
+      "answer": 1,
+      "explanation": "Article 79 constitutes Parliament, comprising the President and the two Houses."
+    },
+    {
+      "id": "separation-of-powers-q15",
+      "difficulty": "medium",
+      "q": "Articles 121 and 211 place restrictions on legislatures discussing the conduct of whom in the discharge of their duties?",
+      "options": [
+        "Members of the public",
+        "State Governors only",
+        "Judges of the higher judiciary",
+        "Civil servants only"
+      ],
+      "answer": 2,
+      "explanation": "Articles 121 and 211 restrict discussion in legislatures on the conduct of judges, protecting judicial independence."
+    },
+    {
+      "id": "separation-of-powers-q16",
+      "difficulty": "medium",
+      "q": "In the 1973 Kesavananda Bharati case, separation of powers was recognised as part of what?",
+      "options": [
+        "The Directive Principles",
+        "The Tenth Schedule",
+        "The Emergency provisions",
+        "The basic structure of the Constitution"
+      ],
+      "answer": 3,
+      "explanation": "The Kesavananda Bharati case (1973) recognised separation of powers as part of the Constitution's basic structure."
+    },
+    {
+      "id": "separation-of-powers-q17",
+      "difficulty": "medium",
+      "q": "The Council of Ministers is collectively responsible to which House, illustrating the link between executive and legislature?",
+      "options": [
+        "The Lok Sabha",
+        "The Rajya Sabha",
+        "The Supreme Court",
+        "The Election Commission"
+      ],
+      "answer": 0,
+      "explanation": "Under Article 75, the Council of Ministers is collectively responsible to the Lok Sabha."
+    },
+    {
+      "id": "separation-of-powers-q18",
+      "difficulty": "medium",
+      "q": "India follows which model with respect to a strict separation of powers?",
+      "options": [
+        "An absolute and rigid separation",
+        "A flexible separation with overlapping functions, not a rigid one",
+        "No separation at all",
+        "Separation only at the state level"
+      ],
+      "answer": 1,
+      "explanation": "India does not follow a rigid separation; the branches overlap with checks and balances under a parliamentary system."
+    },
+    {
+      "id": "separation-of-powers-q19",
+      "difficulty": "medium",
+      "q": "The power of the President to promulgate ordinances under Article 123 is an example of the executive exercising what kind of function?",
+      "options": [
+        "A judicial function",
+        "An auditing function",
+        "A legislative function when Parliament is not in session",
+        "An electoral function"
+      ],
+      "answer": 2,
+      "explanation": "Ordinance-making under Article 123 lets the executive perform a legislative function when Parliament is not in session, an overlap of powers."
+    },
+    {
+      "id": "separation-of-powers-q20",
+      "difficulty": "medium",
+      "q": "Parliament's power to remove a judge of the Supreme Court through an address is an example of which branch checking another?",
+      "options": [
+        "The judiciary checking the executive",
+        "The executive checking the legislature",
+        "The judiciary checking itself",
+        "The legislature checking the judiciary"
+      ],
+      "answer": 3,
+      "explanation": "The removal of a judge through a parliamentary address is a legislative check on the judiciary."
+    },
+    {
+      "id": "separation-of-powers-q21",
+      "difficulty": "medium",
+      "q": "When a legislature itself acts as a court in adjudicating a breach of its privileges, this reflects which overlap?",
+      "options": [
+        "The legislature exercising a quasi-judicial function",
+        "The judiciary exercising a legislative function",
+        "The executive exercising a judicial function",
+        "No overlap at all"
+      ],
+      "answer": 0,
+      "explanation": "Adjudicating breaches of privilege shows the legislature performing a quasi-judicial function, an overlap of roles."
+    },
+    {
+      "id": "separation-of-powers-q22",
+      "difficulty": "medium",
+      "q": "The classical theory of separation of powers is most associated with which 18th-century thinker?",
+      "options": [
+        "Karl Marx",
+        "Montesquieu",
+        "Adam Smith",
+        "John Maynard Keynes"
+      ],
+      "answer": 1,
+      "explanation": "The doctrine of separation of powers is classically associated with the French thinker Montesquieu."
+    },
+    {
+      "id": "separation-of-powers-q23",
+      "difficulty": "hard",
+      "q": "In which 1967 case did the Supreme Court hold that Parliament could not amend fundamental rights, before the basic structure doctrine was settled?",
+      "options": [
+        "A.K. Gopalan v. State of Madras",
+        "S.R. Bommai v. Union of India",
+        "Golak Nath v. State of Punjab",
+        "Indra Sawhney v. Union of India"
+      ],
+      "answer": 2,
+      "explanation": "In Golak Nath (1967) the Court limited Parliament's amending power, part of the evolution toward the basic structure doctrine."
+    },
+    {
+      "id": "separation-of-powers-q24",
+      "difficulty": "hard",
+      "q": "In the 1975 Indira Nehru Gandhi election case, the Supreme Court struck down a provision partly because it violated which principle?",
+      "options": [
+        "The right to property",
+        "Freedom of trade",
+        "The anti-defection rule",
+        "Separation of powers and judicial review"
+      ],
+      "answer": 3,
+      "explanation": "The 1975 election case reinforced separation of powers and judicial review as part of the basic structure."
+    },
+    {
+      "id": "separation-of-powers-q25",
+      "difficulty": "hard",
+      "q": "Which Article enables the President to seek the advisory opinion of the Supreme Court, an interaction between the executive and judiciary?",
+      "options": [
+        "Article 143",
+        "Article 72",
+        "Article 123",
+        "Article 356"
+      ],
+      "answer": 0,
+      "explanation": "Article 143 allows the President to refer questions to the Supreme Court for its advisory opinion."
+    },
+    {
+      "id": "separation-of-powers-q26",
+      "difficulty": "hard",
+      "q": "The Constitution vests the legislative, executive and judicial powers of the State in distinct organs, but the executive's general power is co-extensive with whose legislative power?",
+      "options": [
+        "The judiciary's",
+        "The legislature's, in respect of subjects it can legislate on",
+        "The Election Commission's",
+        "The Comptroller and Auditor General's"
+      ],
+      "answer": 1,
+      "explanation": "The executive power of the Union or a State is generally co-extensive with the legislative power of Parliament or the state legislature."
+    },
+    {
+      "id": "separation-of-powers-q27",
+      "difficulty": "hard",
+      "q": "The pardoning power of the President under Article 72 is an example of the executive exercising a power that overlaps with which branch's domain?",
+      "options": [
+        "The legislature's",
+        "The Election Commission's",
+        "The judiciary's",
+        "The auditor's"
+      ],
+      "answer": 2,
+      "explanation": "The pardoning power lets the executive modify the effect of a judicial sentence, an overlap with the judicial domain."
+    },
+    {
+      "id": "separation-of-powers-q28",
+      "difficulty": "hard",
+      "q": "Which provision protects members of Parliament from court proceedings for anything said or any vote given in Parliament, safeguarding legislative independence?",
+      "options": [
+        "Article 19",
+        "Article 226",
+        "Article 311",
+        "Article 105"
+      ],
+      "answer": 3,
+      "explanation": "Article 105 grants members of Parliament immunity from court proceedings for speech and votes in the House."
+    },
+    {
+      "id": "separation-of-powers-q29",
+      "difficulty": "hard",
+      "q": "Which Article makes laws declared by the Supreme Court binding on all courts within India, reflecting the judiciary's authority within the constitutional scheme?",
+      "options": [
+        "Article 141",
+        "Article 53",
+        "Article 110",
+        "Article 280"
+      ],
+      "answer": 0,
+      "explanation": "Article 141 provides that the law declared by the Supreme Court is binding on all courts in India."
+    },
+    {
+      "id": "separation-of-powers-q30",
+      "difficulty": "hard",
+      "q": "Article 122 limits the power of courts to inquire into proceedings of Parliament on the ground of what?",
+      "options": [
+        "Lack of public interest",
+        "Alleged irregularity of procedure",
+        "Excessive cost",
+        "Disagreement of a Governor"
+      ],
+      "answer": 1,
+      "explanation": "Article 122 bars courts from inquiring into parliamentary proceedings on grounds of procedural irregularity, protecting legislative autonomy."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "state-governors",
+  "questions": [
+    {
+      "id": "state-governors-q01",
+      "difficulty": "easy",
+      "q": "The Governor is the constitutional head of which level of government?",
+      "options": [
+        "A state",
+        "The Union",
+        "A municipality",
+        "A panchayat"
+      ],
+      "answer": 0,
+      "explanation": "The Governor is the constitutional head of a state."
+    },
+    {
+      "id": "state-governors-q02",
+      "difficulty": "easy",
+      "q": "Who appoints the Governor of a state?",
+      "options": [
+        "The Prime Minister",
+        "The President of India",
+        "The Chief Minister",
+        "The Chief Justice of India"
+      ],
+      "answer": 1,
+      "explanation": "The Governor of a state is appointed by the President of India."
+    },
+    {
+      "id": "state-governors-q03",
+      "difficulty": "easy",
+      "q": "On whose advice does the Governor normally act in most matters?",
+      "options": [
+        "The Supreme Court",
+        "The Union Cabinet",
+        "The state Council of Ministers",
+        "The Election Commission"
+      ],
+      "answer": 2,
+      "explanation": "The Governor normally acts on the advice of the state Council of Ministers."
+    },
+    {
+      "id": "state-governors-q04",
+      "difficulty": "easy",
+      "q": "At the state level, the Governor performs a role analogous to which office at the Union level?",
+      "options": [
+        "The Prime Minister",
+        "The Speaker",
+        "The Vice-President",
+        "The President"
+      ],
+      "answer": 3,
+      "explanation": "The Governor at the state level performs a role analogous to that of the President at the Union level."
+    },
+    {
+      "id": "state-governors-q05",
+      "difficulty": "easy",
+      "q": "Who appoints the Chief Minister of a state?",
+      "options": [
+        "The Governor",
+        "The President",
+        "The Prime Minister",
+        "The Legislative Assembly Speaker"
+      ],
+      "answer": 0,
+      "explanation": "The Governor appoints the Chief Minister of the state."
+    },
+    {
+      "id": "state-governors-q06",
+      "difficulty": "easy",
+      "q": "The Governor holds office during the pleasure of whom?",
+      "options": [
+        "The Chief Minister",
+        "The President",
+        "The Prime Minister",
+        "The state legislature"
+      ],
+      "answer": 1,
+      "explanation": "The Governor holds office during the pleasure of the President."
+    },
+    {
+      "id": "state-governors-q07",
+      "difficulty": "easy",
+      "q": "A bill passed by a state legislature generally becomes law after assent is given by whom?",
+      "options": [
+        "The Chief Minister",
+        "The Speaker",
+        "The Governor",
+        "The Prime Minister"
+      ],
+      "answer": 2,
+      "explanation": "A bill passed by the state legislature requires the Governor's assent to become law."
+    },
+    {
+      "id": "state-governors-q08",
+      "difficulty": "easy",
+      "q": "The Governor is the head of which arm of a state's government?",
+      "options": [
+        "The judiciary",
+        "The audit body",
+        "The press",
+        "The executive"
+      ],
+      "answer": 3,
+      "explanation": "The Governor is the constitutional head of the state's executive."
+    },
+    {
+      "id": "state-governors-q09",
+      "difficulty": "easy",
+      "q": "What is the normal term of office of a Governor?",
+      "options": [
+        "Five years",
+        "Three years",
+        "Six years",
+        "Four years"
+      ],
+      "answer": 0,
+      "explanation": "A Governor normally holds office for a term of five years, subject to the pleasure of the President."
+    },
+    {
+      "id": "state-governors-q10",
+      "difficulty": "easy",
+      "q": "The Governor addresses the state legislature and gives assent to bills as part of which kind of functions?",
+      "options": [
+        "Only military functions",
+        "Executive and legislative functions",
+        "Only judicial functions",
+        "Only diplomatic functions"
+      ],
+      "answer": 1,
+      "explanation": "The Governor performs executive and legislative functions, including addressing the legislature and assenting to bills."
+    },
+    {
+      "id": "state-governors-q11",
+      "difficulty": "medium",
+      "q": "Which Article of the Constitution provides that there shall be a Governor for each state?",
+      "options": [
+        "Article 124",
+        "Article 74",
+        "Article 153",
+        "Article 280"
+      ],
+      "answer": 2,
+      "explanation": "Article 153 provides that there shall be a Governor for each state."
+    },
+    {
+      "id": "state-governors-q12",
+      "difficulty": "medium",
+      "q": "What is the minimum age requirement to be appointed Governor of a state?",
+      "options": [
+        "25 years",
+        "30 years",
+        "40 years",
+        "35 years"
+      ],
+      "answer": 3,
+      "explanation": "A person must have completed the age of 35 years to be eligible for appointment as Governor."
+    },
+    {
+      "id": "state-governors-q13",
+      "difficulty": "medium",
+      "q": "Under the Constitution, the executive power of a state is vested in whom?",
+      "options": [
+        "The Governor",
+        "The Chief Minister",
+        "The Legislative Assembly",
+        "The Advocate General"
+      ],
+      "answer": 0,
+      "explanation": "The executive power of a state is vested in the Governor and exercised by the Governor directly or through subordinate officers."
+    },
+    {
+      "id": "state-governors-q14",
+      "difficulty": "medium",
+      "q": "To whom does the Governor address a letter of resignation?",
+      "options": [
+        "The Chief Minister",
+        "The President",
+        "The Prime Minister",
+        "The Speaker of the Assembly"
+      ],
+      "answer": 1,
+      "explanation": "The Governor may resign by writing addressed to the President of India."
+    },
+    {
+      "id": "state-governors-q15",
+      "difficulty": "medium",
+      "q": "When a Governor reserves a bill for the consideration of the President, that action falls under which kind of power?",
+      "options": [
+        "A judicial power",
+        "A taxing power",
+        "A legislative-related discretionary power",
+        "A defence power"
+      ],
+      "answer": 2,
+      "explanation": "The Governor may reserve certain bills for the President's consideration, a power exercised in the legislative process at times in discretion."
+    },
+    {
+      "id": "state-governors-q16",
+      "difficulty": "medium",
+      "q": "Can the same person be appointed Governor of more than one state at the same time?",
+      "options": [
+        "No, this is prohibited",
+        "Only during an Emergency",
+        "Only with Supreme Court approval",
+        "Yes, the Constitution permits it"
+      ],
+      "answer": 3,
+      "explanation": "The Constitution permits the same person to be appointed Governor of two or more states."
+    },
+    {
+      "id": "state-governors-q17",
+      "difficulty": "medium",
+      "q": "Which Article empowers the Governor to grant pardons, reprieves and remissions for offences against state laws?",
+      "options": [
+        "Article 161",
+        "Article 72",
+        "Article 356",
+        "Article 200"
+      ],
+      "answer": 0,
+      "explanation": "Article 161 gives the Governor the power to grant pardons, reprieves and remissions for offences against laws relating to state matters."
+    },
+    {
+      "id": "state-governors-q18",
+      "difficulty": "medium",
+      "q": "Who administers the oath of office to the Governor of a state?",
+      "options": [
+        "The President",
+        "The Chief Justice of the High Court having jurisdiction over that state",
+        "The Chief Minister",
+        "The Speaker of the Assembly"
+      ],
+      "answer": 1,
+      "explanation": "The Governor's oath of office is administered by the Chief Justice of the High Court having jurisdiction over the state."
+    },
+    {
+      "id": "state-governors-q19",
+      "difficulty": "medium",
+      "q": "The salary and allowances of the Governor are charged on which fund?",
+      "options": [
+        "The Contingency Fund of India",
+        "The Consolidated Fund of India",
+        "The Consolidated Fund of the State",
+        "The Public Account of India"
+      ],
+      "answer": 2,
+      "explanation": "The salary and allowances of the Governor are charged on the Consolidated Fund of the State."
+    },
+    {
+      "id": "state-governors-q20",
+      "difficulty": "medium",
+      "q": "Must a person be a resident of the state to be appointed its Governor?",
+      "options": [
+        "Yes, residence in the state is mandatory",
+        "Only for union territories",
+        "Only for border states",
+        "No, residence in the state is not a requirement"
+      ],
+      "answer": 3,
+      "explanation": "There is no constitutional requirement that the Governor be a resident of the state to which appointed."
+    },
+    {
+      "id": "state-governors-q21",
+      "difficulty": "medium",
+      "q": "Provisions relating to the Governor of a state are found mainly in which Part of the Constitution?",
+      "options": [
+        "Part VI",
+        "Part V",
+        "Part III",
+        "Part IV"
+      ],
+      "answer": 0,
+      "explanation": "Part VI of the Constitution deals with the states, including the office of Governor."
+    },
+    {
+      "id": "state-governors-q22",
+      "difficulty": "medium",
+      "q": "When the office of Governor falls vacant, who customarily discharges its functions until a new Governor is appointed?",
+      "options": [
+        "The Chief Minister",
+        "The Chief Justice of the relevant High Court, as appointed by the President",
+        "The Speaker",
+        "The Advocate General"
+      ],
+      "answer": 1,
+      "explanation": "The President may appoint the Chief Justice of the relevant High Court to discharge the Governor's functions during a vacancy."
+    },
+    {
+      "id": "state-governors-q23",
+      "difficulty": "hard",
+      "q": "A bill assented to by the Governor may, in certain cases, instead be reserved for the assent of whom?",
+      "options": [
+        "The Prime Minister",
+        "The Chief Justice of India",
+        "The President",
+        "The Speaker of the Lok Sabha"
+      ],
+      "answer": 2,
+      "explanation": "Under Article 200, the Governor may reserve a bill for the assent of the President in certain situations."
+    },
+    {
+      "id": "state-governors-q24",
+      "difficulty": "hard",
+      "q": "The qualifications, oath and conditions of the Governor's office are largely modelled on which other constitutional office?",
+      "options": [
+        "The Comptroller and Auditor General",
+        "The Speaker of the Lok Sabha",
+        "The Attorney General",
+        "The President of India"
+      ],
+      "answer": 3,
+      "explanation": "Many provisions on the Governor's qualifications and office parallel those of the President of India."
+    },
+    {
+      "id": "state-governors-q25",
+      "difficulty": "hard",
+      "q": "A Governor whose term has expired continues to hold office until when?",
+      "options": [
+        "Until a successor enters upon the office",
+        "Immediately upon expiry",
+        "For exactly six more months",
+        "Until the next state election"
+      ],
+      "answer": 0,
+      "explanation": "A Governor continues to hold office, notwithstanding the expiry of the term, until a successor enters upon the office."
+    },
+    {
+      "id": "state-governors-q26",
+      "difficulty": "hard",
+      "q": "Under Article 213, the Governor has the power to promulgate which kind of instrument when the state legislature is not in session?",
+      "options": [
+        "A constitutional amendment",
+        "An ordinance",
+        "A money bill",
+        "A writ"
+      ],
+      "answer": 1,
+      "explanation": "Article 213 empowers the Governor to promulgate ordinances when the state legislature is not in session."
+    },
+    {
+      "id": "state-governors-q27",
+      "difficulty": "hard",
+      "q": "The Governor appoints which state law officer who advises the state government?",
+      "options": [
+        "The Attorney General",
+        "The Solicitor General",
+        "The Advocate General",
+        "The Public Prosecutor of India"
+      ],
+      "answer": 2,
+      "explanation": "The Governor appoints the Advocate General of the state, the chief law officer of the state government."
+    },
+    {
+      "id": "state-governors-q28",
+      "difficulty": "hard",
+      "q": "Is a Governor entitled to the immunity from court proceedings for acts done in the exercise of official powers, similar to the President?",
+      "options": [
+        "No immunity at all",
+        "Immunity only in criminal cases",
+        "Immunity only after retirement",
+        "Yes, similar immunity is provided under Article 361"
+      ],
+      "answer": 3,
+      "explanation": "Article 361 extends to the Governor an immunity similar to that of the President for official acts and personal proceedings during the term."
+    },
+    {
+      "id": "state-governors-q29",
+      "difficulty": "hard",
+      "q": "In a state that has a Legislative Council, members of the Council partly include those nominated by whom?",
+      "options": [
+        "The Governor",
+        "The Chief Minister",
+        "The President",
+        "The Speaker"
+      ],
+      "answer": 0,
+      "explanation": "In states with a Legislative Council, the Governor nominates a portion of the members, for example those with special knowledge or experience."
+    },
+    {
+      "id": "state-governors-q30",
+      "difficulty": "hard",
+      "q": "The Lieutenant Governor heads which kind of territory, as distinct from a state's Governor?",
+      "options": [
+        "A district",
+        "Certain union territories",
+        "A municipal corporation",
+        "A tribal area"
+      ],
+      "answer": 1,
+      "explanation": "Certain union territories are headed by a Lieutenant Governor or Administrator rather than by a state Governor."
+    }
+  ]
+}

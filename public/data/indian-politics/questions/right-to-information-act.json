@@ -1,0 +1,395 @@
+{
+  "cardId": "right-to-information-act",
+  "questions": [
+    {
+      "id": "right-to-information-act-q01",
+      "difficulty": "easy",
+      "q": "In which year was the Right to Information Act enacted?",
+      "options": [
+        "2005",
+        "2002",
+        "2008",
+        "2010"
+      ],
+      "answer": 0,
+      "explanation": "The Right to Information Act was enacted by Parliament in 2005."
+    },
+    {
+      "id": "right-to-information-act-q02",
+      "difficulty": "easy",
+      "q": "What is the primary purpose of the Right to Information Act?",
+      "options": [
+        "To raise new taxes",
+        "To enable citizens to seek information from public authorities",
+        "To redraw state boundaries",
+        "To conduct general elections"
+      ],
+      "answer": 1,
+      "explanation": "The Act empowers citizens to seek information from public authorities to promote transparency and accountability."
+    },
+    {
+      "id": "right-to-information-act-q03",
+      "difficulty": "easy",
+      "q": "The Right to Information Act is commonly referred to by which abbreviation?",
+      "options": [
+        "RTE",
+        "RBI",
+        "RTI",
+        "RTA"
+      ],
+      "answer": 2,
+      "explanation": "The Right to Information Act is widely abbreviated as the RTI Act."
+    },
+    {
+      "id": "right-to-information-act-q04",
+      "difficulty": "easy",
+      "q": "Who can file a request for information under the RTI Act?",
+      "options": [
+        "Only government officials",
+        "Only members of Parliament",
+        "Only registered organisations",
+        "Any citizen of India"
+      ],
+      "answer": 3,
+      "explanation": "Any citizen of India may file a request for information under the RTI Act."
+    },
+    {
+      "id": "right-to-information-act-q05",
+      "difficulty": "easy",
+      "q": "Which two ideals does the RTI Act primarily aim to promote in government?",
+      "options": [
+        "Transparency and accountability",
+        "Secrecy and discretion",
+        "Profit and revenue",
+        "Hierarchy and seniority"
+      ],
+      "answer": 0,
+      "explanation": "The Act aims to promote transparency and accountability in the working of the government."
+    },
+    {
+      "id": "right-to-information-act-q06",
+      "difficulty": "easy",
+      "q": "An official designated to receive and process RTI requests within a public authority is called a:",
+      "options": [
+        "Returning Officer",
+        "Public Information Officer",
+        "Presiding Officer",
+        "Liaison Officer"
+      ],
+      "answer": 1,
+      "explanation": "Each public authority designates Public Information Officers to handle RTI requests."
+    },
+    {
+      "id": "right-to-information-act-q07",
+      "difficulty": "easy",
+      "q": "The apex body set up under the RTI Act at the national level is the:",
+      "options": [
+        "Central Vigilance Commission",
+        "Central Bureau of Investigation",
+        "Central Information Commission",
+        "Central Election Commission"
+      ],
+      "answer": 2,
+      "explanation": "The Act provides for a Central Information Commission to hear appeals at the national level."
+    },
+    {
+      "id": "right-to-information-act-q08",
+      "difficulty": "easy",
+      "q": "Under the RTI Act, public authorities are required to make certain disclosures:",
+      "options": [
+        "Only when sued in court",
+        "Only to other governments",
+        "Only once every ten years",
+        "Proactively, on their own"
+      ],
+      "answer": 3,
+      "explanation": "The Act requires public authorities to make certain information available proactively (suo motu)."
+    },
+    {
+      "id": "right-to-information-act-q09",
+      "difficulty": "easy",
+      "q": "The RTI Act applies to public authorities of which levels of government?",
+      "options": [
+        "Both the Union and state governments",
+        "Only the Union government",
+        "Only state governments",
+        "Only municipal bodies"
+      ],
+      "answer": 0,
+      "explanation": "The Act covers public authorities under both the Union and the state governments."
+    },
+    {
+      "id": "right-to-information-act-q10",
+      "difficulty": "easy",
+      "q": "At the state level, appeals under the RTI Act are heard by a:",
+      "options": [
+        "State Finance Commission",
+        "State Information Commission",
+        "State Election Commission",
+        "State Planning Board"
+      ],
+      "answer": 1,
+      "explanation": "Each state establishes a State Information Commission to hear second appeals at the state level."
+    },
+    {
+      "id": "right-to-information-act-q11",
+      "difficulty": "medium",
+      "q": "Within how many days is a Public Information Officer ordinarily required to provide information under the RTI Act?",
+      "options": [
+        "7 days",
+        "15 days",
+        "30 days",
+        "90 days"
+      ],
+      "answer": 2,
+      "explanation": "Information must ordinarily be provided within 30 days of receiving a valid request."
+    },
+    {
+      "id": "right-to-information-act-q12",
+      "difficulty": "medium",
+      "q": "When the information sought concerns the life or liberty of a person, within how many hours must it be provided?",
+      "options": [
+        "12 hours",
+        "24 hours",
+        "72 hours",
+        "48 hours"
+      ],
+      "answer": 3,
+      "explanation": "Where the information concerns the life or liberty of a person, it must be provided within 48 hours."
+    },
+    {
+      "id": "right-to-information-act-q13",
+      "difficulty": "medium",
+      "q": "The Central Information Commission is headed by the:",
+      "options": [
+        "Chief Information Commissioner",
+        "Chief Election Commissioner",
+        "Chief Justice of India",
+        "Cabinet Secretary"
+      ],
+      "answer": 0,
+      "explanation": "The Central Information Commission is headed by the Chief Information Commissioner."
+    },
+    {
+      "id": "right-to-information-act-q14",
+      "difficulty": "medium",
+      "q": "If a citizen is dissatisfied with the Public Information Officer's response, the next step is to file a:",
+      "options": [
+        "Writ petition",
+        "First appeal",
+        "No-confidence motion",
+        "Public interest litigation"
+      ],
+      "answer": 1,
+      "explanation": "A dissatisfied applicant may file a first appeal to a senior officer designated as the First Appellate Authority."
+    },
+    {
+      "id": "right-to-information-act-q15",
+      "difficulty": "medium",
+      "q": "The RTI Act provides for the appointment of officers to assist applicants who cannot make a written request; these are known as:",
+      "options": [
+        "Returning Officers",
+        "Information Commissioners",
+        "Assistant Public Information Officers",
+        "Vigilance Officers"
+      ],
+      "answer": 2,
+      "explanation": "Assistant Public Information Officers receive requests and forward them to the appropriate Public Information Officer."
+    },
+    {
+      "id": "right-to-information-act-q16",
+      "difficulty": "medium",
+      "q": "Which schedule of the RTI Act lists certain intelligence and security organisations generally exempted from the Act?",
+      "options": [
+        "First Schedule",
+        "Seventh Schedule",
+        "Tenth Schedule",
+        "Second Schedule"
+      ],
+      "answer": 3,
+      "explanation": "The Second Schedule to the RTI Act lists intelligence and security organisations that are generally exempted, subject to provisos."
+    },
+    {
+      "id": "right-to-information-act-q17",
+      "difficulty": "medium",
+      "q": "Under the RTI Act, the Central Information Commission's appellate decisions are best described as:",
+      "options": [
+        "Binding on the public authority concerned",
+        "Merely advisory and non-binding",
+        "Subject to approval by Parliament",
+        "Valid only with the President's assent"
+      ],
+      "answer": 0,
+      "explanation": "Decisions of the Information Commission are binding on the public authority concerned."
+    },
+    {
+      "id": "right-to-information-act-q18",
+      "difficulty": "medium",
+      "q": "The RTI Act is generally regarded as giving statutory effect to which broader right read into Article 19(1)(a)?",
+      "options": [
+        "The right to property",
+        "The right to freedom of speech and expression",
+        "The right to free legal aid",
+        "The right against self-incrimination"
+      ],
+      "answer": 1,
+      "explanation": "The right to information has been read by courts as flowing from the freedom of speech and expression under Article 19(1)(a)."
+    },
+    {
+      "id": "right-to-information-act-q19",
+      "difficulty": "medium",
+      "q": "An applicant filing an RTI request is generally required to:",
+      "options": [
+        "State detailed reasons for seeking the information",
+        "Obtain prior court permission",
+        "Pay a prescribed application fee",
+        "Be a government employee"
+      ],
+      "answer": 2,
+      "explanation": "Applicants generally pay a prescribed fee, and the Act provides that reasons for seeking the information need not be given."
+    },
+    {
+      "id": "right-to-information-act-q20",
+      "difficulty": "medium",
+      "q": "Under the RTI Act, a citizen is generally NOT required to do which of the following when seeking information?",
+      "options": [
+        "Submit an application",
+        "Identify the public authority",
+        "Pay the prescribed fee",
+        "Give reasons for the request"
+      ],
+      "answer": 3,
+      "explanation": "The Act provides that an applicant is not required to give any reason for requesting information."
+    },
+    {
+      "id": "right-to-information-act-q21",
+      "difficulty": "medium",
+      "q": "The Section of the RTI Act listing categories of information exempt from disclosure is:",
+      "options": [
+        "Section 8",
+        "Section 4",
+        "Section 6",
+        "Section 12"
+      ],
+      "answer": 0,
+      "explanation": "Section 8 of the RTI Act sets out the categories of information exempt from disclosure."
+    },
+    {
+      "id": "right-to-information-act-q22",
+      "difficulty": "medium",
+      "q": "Which of the following is among the grounds on which information may be exempt under the RTI Act?",
+      "options": [
+        "The age of the applicant",
+        "Sovereignty and integrity of India",
+        "The applicant's place of residence",
+        "The day of the week of the request"
+      ],
+      "answer": 1,
+      "explanation": "Information whose disclosure would prejudicially affect the sovereignty and integrity of India is exempt under Section 8."
+    },
+    {
+      "id": "right-to-information-act-q23",
+      "difficulty": "hard",
+      "q": "Which Section of the RTI Act requires every public authority to proactively publish particulars of its organisation, functions and duties?",
+      "options": [
+        "Section 2",
+        "Section 8",
+        "Section 4",
+        "Section 20"
+      ],
+      "answer": 2,
+      "explanation": "Section 4 obliges public authorities to maintain and proactively publish a wide range of information about themselves."
+    },
+    {
+      "id": "right-to-information-act-q24",
+      "difficulty": "hard",
+      "q": "How many Information Commissioners may the Central Information Commission have, in addition to the Chief Information Commissioner, as originally provided?",
+      "options": [
+        "Up to five",
+        "Up to seven",
+        "Up to fifteen",
+        "Up to ten"
+      ],
+      "answer": 3,
+      "explanation": "The Act originally provided for a Chief Information Commissioner and up to ten Information Commissioners at the centre."
+    },
+    {
+      "id": "right-to-information-act-q25",
+      "difficulty": "hard",
+      "q": "The provision allowing disclosure of otherwise exempt information where the public interest outweighs the harm is known as the:",
+      "options": [
+        "Public interest override",
+        "Severability clause",
+        "Sunset clause",
+        "Doctrine of pleasure"
+      ],
+      "answer": 0,
+      "explanation": "Section 8(2) contains a public interest override permitting disclosure where the public interest outweighs the protected interest."
+    },
+    {
+      "id": "right-to-information-act-q26",
+      "difficulty": "hard",
+      "q": "Under the RTI Act, the maximum penalty that may be imposed on a Public Information Officer for unjustified refusal or delay is:",
+      "options": [
+        "Rupees 1,000 per day, with no cap",
+        "Rupees 250 per day, up to Rupees 25,000",
+        "Rupees 5,000 in total",
+        "Imprisonment up to one year"
+      ],
+      "answer": 1,
+      "explanation": "Section 20 allows a penalty of Rupees 250 per day of delay, subject to a maximum of Rupees 25,000."
+    },
+    {
+      "id": "right-to-information-act-q27",
+      "difficulty": "hard",
+      "q": "The 2019 amendment to the RTI Act primarily changed provisions relating to the:",
+      "options": [
+        "Definition of citizen",
+        "List of exempt organisations",
+        "Tenure and terms of service of Information Commissioners",
+        "Application fee for requests"
+      ],
+      "answer": 2,
+      "explanation": "The Right to Information (Amendment) Act, 2019 altered provisions on the term and conditions of service of Information Commissioners."
+    },
+    {
+      "id": "right-to-information-act-q28",
+      "difficulty": "hard",
+      "q": "An earlier enactment that the RTI Act of 2005 repealed and replaced at the central level was the:",
+      "options": [
+        "Official Secrets Act, 1923",
+        "Indian Evidence Act, 1872",
+        "Public Records Act, 1993",
+        "Freedom of Information Act, 2002"
+      ],
+      "answer": 3,
+      "explanation": "The RTI Act of 2005 repealed the earlier Freedom of Information Act, 2002, which had not been brought fully into force."
+    },
+    {
+      "id": "right-to-information-act-q29",
+      "difficulty": "hard",
+      "q": "Several Indian states had enacted their own right to information laws before the central Act of 2005; which state is often cited as an early mover?",
+      "options": [
+        "Tamil Nadu",
+        "Sikkim",
+        "Manipur",
+        "Nagaland"
+      ],
+      "answer": 0,
+      "explanation": "Tamil Nadu was among the early states to enact a right to information law before the central legislation of 2005."
+    },
+    {
+      "id": "right-to-information-act-q30",
+      "difficulty": "hard",
+      "q": "Under the RTI Act, the Chief Information Commissioner and Information Commissioners at the centre are appointed by the President on the recommendation of a committee headed by the:",
+      "options": [
+        "Chief Justice of India",
+        "Prime Minister",
+        "Speaker of the Lok Sabha",
+        "Attorney General"
+      ],
+      "answer": 1,
+      "explanation": "Appointments are made by the President on the recommendation of a committee chaired by the Prime Minister."
+    }
+  ]
+}

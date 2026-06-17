@@ -1,0 +1,395 @@
+{
+  "cardId": "judicial-review",
+  "questions": [
+    {
+      "id": "judicial-review-q01",
+      "difficulty": "easy",
+      "q": "Judicial review is the power of the courts to examine the validity of laws against which standard?",
+      "options": [
+        "The Constitution",
+        "Public opinion",
+        "Executive policy",
+        "Party manifestos"
+      ],
+      "answer": 0,
+      "explanation": "Judicial review tests the constitutional validity of laws and executive actions."
+    },
+    {
+      "id": "judicial-review-q02",
+      "difficulty": "easy",
+      "q": "Which courts in India can exercise the power of judicial review?",
+      "options": [
+        "Only the Supreme Court",
+        "The Supreme Court and the High Courts",
+        "Only the High Courts",
+        "Only district courts"
+      ],
+      "answer": 1,
+      "explanation": "Both the Supreme Court and the High Courts exercise the power of judicial review."
+    },
+    {
+      "id": "judicial-review-q03",
+      "difficulty": "easy",
+      "q": "If a law is found to violate the Constitution, the courts may:",
+      "options": [
+        "Refer it back to the public",
+        "Postpone it indefinitely",
+        "Strike it down as void",
+        "Amend it themselves"
+      ],
+      "answer": 2,
+      "explanation": "Courts can declare a law unconstitutional and strike it down to the extent of the violation."
+    },
+    {
+      "id": "judicial-review-q04",
+      "difficulty": "easy",
+      "q": "Judicial review primarily protects which part of the Constitution from infringement by laws?",
+      "options": [
+        "The Preamble's wording",
+        "The Schedules of seats",
+        "The official languages list",
+        "Fundamental Rights"
+      ],
+      "answer": 3,
+      "explanation": "A key purpose of judicial review is to protect Fundamental Rights from legislative or executive violation."
+    },
+    {
+      "id": "judicial-review-q05",
+      "difficulty": "easy",
+      "q": "The Supreme Court is often described as the guardian of the:",
+      "options": [
+        "Constitution",
+        "Treasury",
+        "Armed forces",
+        "Civil services"
+      ],
+      "answer": 0,
+      "explanation": "The Supreme Court is regarded as the guardian and final interpreter of the Constitution."
+    },
+    {
+      "id": "judicial-review-q06",
+      "difficulty": "easy",
+      "q": "Article 13 declares that laws inconsistent with Fundamental Rights shall be:",
+      "options": [
+        "Valid until repealed",
+        "Void to the extent of inconsistency",
+        "Suspended for one year",
+        "Referred to the President"
+      ],
+      "answer": 1,
+      "explanation": "Article 13 provides that laws inconsistent with Fundamental Rights are void to the extent of the inconsistency."
+    },
+    {
+      "id": "judicial-review-q07",
+      "difficulty": "easy",
+      "q": "Judicial review applies to which of the following?",
+      "options": [
+        "Only legislative actions",
+        "Only executive actions",
+        "Both legislative and executive actions",
+        "Only private contracts"
+      ],
+      "answer": 2,
+      "explanation": "Judicial review extends to both legislation and executive or administrative actions."
+    },
+    {
+      "id": "judicial-review-q08",
+      "difficulty": "easy",
+      "q": "The writs that High Courts and the Supreme Court issue to enforce rights are a tool of:",
+      "options": [
+        "Tax administration",
+        "Parliamentary procedure",
+        "Cabinet decision-making",
+        "Judicial review"
+      ],
+      "answer": 3,
+      "explanation": "Writ jurisdiction enables courts to review and remedy violations through judicial review."
+    },
+    {
+      "id": "judicial-review-q09",
+      "difficulty": "easy",
+      "q": "Which article gives the Supreme Court power to issue writs for enforcement of Fundamental Rights?",
+      "options": [
+        "Article 32",
+        "Article 19",
+        "Article 21",
+        "Article 14"
+      ],
+      "answer": 0,
+      "explanation": "Article 32 empowers the Supreme Court to issue writs for the enforcement of Fundamental Rights."
+    },
+    {
+      "id": "judicial-review-q10",
+      "difficulty": "easy",
+      "q": "Which article empowers the High Courts to issue writs?",
+      "options": [
+        "Article 32",
+        "Article 226",
+        "Article 136",
+        "Article 142"
+      ],
+      "answer": 1,
+      "explanation": "Article 226 confers writ jurisdiction on the High Courts, with a wider scope than Article 32."
+    },
+    {
+      "id": "judicial-review-q11",
+      "difficulty": "medium",
+      "q": "The 1973 case that established the basic structure doctrine, limiting amendments through judicial review, was:",
+      "options": [
+        "A.K. Gopalan v. State of Madras",
+        "Maneka Gandhi v. Union of India",
+        "Kesavananda Bharati v. State of Kerala",
+        "Indra Sawhney v. Union of India"
+      ],
+      "answer": 2,
+      "explanation": "Kesavananda Bharati (1973) held that Parliament cannot amend the basic structure of the Constitution."
+    },
+    {
+      "id": "judicial-review-q12",
+      "difficulty": "medium",
+      "q": "The 1967 case that initially held Fundamental Rights could not be amended by Parliament was:",
+      "options": [
+        "Shankari Prasad v. Union of India",
+        "Sajjan Singh v. State of Rajasthan",
+        "Minerva Mills v. Union of India",
+        "Golak Nath v. State of Punjab"
+      ],
+      "answer": 3,
+      "explanation": "In Golak Nath (1967), the Supreme Court ruled that Parliament could not curtail Fundamental Rights through amendment."
+    },
+    {
+      "id": "judicial-review-q13",
+      "difficulty": "medium",
+      "q": "Which 1980 case struck down parts of the 42nd Amendment and reaffirmed judicial review as part of the basic structure?",
+      "options": [
+        "Minerva Mills v. Union of India",
+        "Kesavananda Bharati v. State of Kerala",
+        "Golak Nath v. State of Punjab",
+        "S.R. Bommai v. Union of India"
+      ],
+      "answer": 0,
+      "explanation": "Minerva Mills (1980) held that judicial review and limited amending power are part of the basic structure."
+    },
+    {
+      "id": "judicial-review-q14",
+      "difficulty": "medium",
+      "q": "The concept of judicial review in modern constitutions is often traced to which landmark foreign judgment?",
+      "options": [
+        "Donoghue v. Stevenson (United Kingdom)",
+        "Marbury v. Madison (United States)",
+        "Roe v. Wade (United States)",
+        "Entick v. Carrington (United Kingdom)"
+      ],
+      "answer": 1,
+      "explanation": "Marbury v. Madison (1803) of the United States is regarded as the origin of modern judicial review."
+    },
+    {
+      "id": "judicial-review-q15",
+      "difficulty": "medium",
+      "q": "Public Interest Litigation, which expanded access to judicial review, developed prominently in India from which decade?",
+      "options": [
+        "The 1950s",
+        "The 1960s",
+        "The late 1970s and 1980s",
+        "The 2010s"
+      ],
+      "answer": 2,
+      "explanation": "Public Interest Litigation expanded the reach of judicial review beginning in the late 1970s and 1980s."
+    },
+    {
+      "id": "judicial-review-q16",
+      "difficulty": "medium",
+      "q": "Which writ is used to challenge the legality of a person's detention?",
+      "options": [
+        "Mandamus",
+        "Quo warranto",
+        "Certiorari",
+        "Habeas corpus"
+      ],
+      "answer": 3,
+      "explanation": "The writ of habeas corpus is issued to test the legality of a person's detention."
+    },
+    {
+      "id": "judicial-review-q17",
+      "difficulty": "medium",
+      "q": "Which writ commands a public authority to perform a duty it has failed to perform?",
+      "options": [
+        "Mandamus",
+        "Habeas corpus",
+        "Certiorari",
+        "Prohibition"
+      ],
+      "answer": 0,
+      "explanation": "The writ of mandamus directs a public authority to perform a legal duty it has refused to perform."
+    },
+    {
+      "id": "judicial-review-q18",
+      "difficulty": "medium",
+      "q": "Which writ quashes an order already passed by a lower court or tribunal?",
+      "options": [
+        "Mandamus",
+        "Certiorari",
+        "Quo warranto",
+        "Habeas corpus"
+      ],
+      "answer": 1,
+      "explanation": "The writ of certiorari quashes an order passed by a lower court or tribunal acting beyond its jurisdiction."
+    },
+    {
+      "id": "judicial-review-q19",
+      "difficulty": "medium",
+      "q": "Which writ questions the legal authority of a person to hold a public office?",
+      "options": [
+        "Mandamus",
+        "Certiorari",
+        "Quo warranto",
+        "Prohibition"
+      ],
+      "answer": 2,
+      "explanation": "The writ of quo warranto challenges a person's legal authority to hold a public office."
+    },
+    {
+      "id": "judicial-review-q20",
+      "difficulty": "medium",
+      "q": "The Supreme Court's power to grant special leave to appeal from any court or tribunal flows from which article?",
+      "options": [
+        "Article 32",
+        "Article 226",
+        "Article 143",
+        "Article 136"
+      ],
+      "answer": 3,
+      "explanation": "Article 136 grants the Supreme Court discretionary power to grant special leave to appeal."
+    },
+    {
+      "id": "judicial-review-q21",
+      "difficulty": "medium",
+      "q": "Judicial review of constitutional amendments is most directly grounded in the doctrine established in which case?",
+      "options": [
+        "Kesavananda Bharati v. State of Kerala",
+        "A.K. Gopalan v. State of Madras",
+        "Berubari Union case",
+        "Champakam Dorairajan case"
+      ],
+      "answer": 0,
+      "explanation": "Kesavananda Bharati established that even amendments are subject to judicial review against the basic structure."
+    },
+    {
+      "id": "judicial-review-q22",
+      "difficulty": "medium",
+      "q": "The provision empowering the President to seek the Supreme Court's advisory opinion is which article?",
+      "options": [
+        "Article 32",
+        "Article 143",
+        "Article 136",
+        "Article 226"
+      ],
+      "answer": 1,
+      "explanation": "Article 143 allows the President to refer questions of law to the Supreme Court for an advisory opinion."
+    },
+    {
+      "id": "judicial-review-q23",
+      "difficulty": "hard",
+      "q": "In Minerva Mills, the Court struck down a clause that had tried to bar judicial review of amendments. That clause was inserted by which amendment?",
+      "options": [
+        "The 24th Amendment",
+        "The 1st Amendment",
+        "The 42nd Amendment",
+        "The 44th Amendment"
+      ],
+      "answer": 2,
+      "explanation": "The 42nd Amendment's clauses limiting judicial review of amendments were struck down in Minerva Mills (1980)."
+    },
+    {
+      "id": "judicial-review-q24",
+      "difficulty": "hard",
+      "q": "The 2015 judgment striking down the National Judicial Appointments Commission as violative of the basic structure was in which case?",
+      "options": [
+        "Indra Sawhney v. Union of India",
+        "Vishaka v. State of Rajasthan",
+        "I.R. Coelho v. State of Tamil Nadu",
+        "Supreme Court Advocates-on-Record Association v. Union of India"
+      ],
+      "answer": 3,
+      "explanation": "In the 2015 NJAC case, the Supreme Court struck down the 99th Amendment and the NJAC Act."
+    },
+    {
+      "id": "judicial-review-q25",
+      "difficulty": "hard",
+      "q": "The 2007 case holding that laws placed in the Ninth Schedule after 1973 are open to judicial review was:",
+      "options": [
+        "I.R. Coelho v. State of Tamil Nadu",
+        "Golak Nath v. State of Punjab",
+        "Waman Rao v. Union of India",
+        "Maneka Gandhi v. Union of India"
+      ],
+      "answer": 0,
+      "explanation": "I.R. Coelho (2007) held that Ninth Schedule laws added after 24 April 1973 are subject to judicial review."
+    },
+    {
+      "id": "judicial-review-q26",
+      "difficulty": "hard",
+      "q": "The 24th Amendment, which sought to affirm Parliament's power to amend any part of the Constitution, was examined and limited in which case?",
+      "options": [
+        "Shankari Prasad v. Union of India",
+        "Kesavananda Bharati v. State of Kerala",
+        "A.K. Gopalan v. State of Madras",
+        "Berubari Union case"
+      ],
+      "answer": 1,
+      "explanation": "Kesavananda Bharati upheld the 24th Amendment but subjected the amending power to the basic structure limit."
+    },
+    {
+      "id": "judicial-review-q27",
+      "difficulty": "hard",
+      "q": "The 1950 case that first interpreted the scope of 'procedure established by law' under Article 21 was:",
+      "options": [
+        "Maneka Gandhi v. Union of India",
+        "Kharak Singh v. State of U.P.",
+        "A.K. Gopalan v. State of Madras",
+        "Kesavananda Bharati v. State of Kerala"
+      ],
+      "answer": 2,
+      "explanation": "A.K. Gopalan (1950) was among the earliest cases interpreting personal liberty under Article 21."
+    },
+    {
+      "id": "judicial-review-q28",
+      "difficulty": "hard",
+      "q": "The 1978 judgment that broadened Article 21 to require a 'just, fair and reasonable' procedure was:",
+      "options": [
+        "A.K. Gopalan v. State of Madras",
+        "Golak Nath v. State of Punjab",
+        "Indra Sawhney v. Union of India",
+        "Maneka Gandhi v. Union of India"
+      ],
+      "answer": 3,
+      "explanation": "Maneka Gandhi (1978) expanded the interpretation of Article 21 through judicial review."
+    },
+    {
+      "id": "judicial-review-q29",
+      "difficulty": "hard",
+      "q": "The doctrine that an unconstitutional law is only void to the extent of its inconsistency, leaving the rest valid, is called:",
+      "options": [
+        "The doctrine of severability",
+        "The doctrine of pith and substance",
+        "The doctrine of colourable legislation",
+        "The doctrine of repugnancy"
+      ],
+      "answer": 0,
+      "explanation": "The doctrine of severability allows courts to strike only the invalid portion of a law where separable."
+    },
+    {
+      "id": "judicial-review-q30",
+      "difficulty": "hard",
+      "q": "The principle that a law valid at enactment but later inconsistent with rights becomes dormant rather than dead is the doctrine of:",
+      "options": [
+        "Severability",
+        "Eclipse",
+        "Laches",
+        "Estoppel"
+      ],
+      "answer": 1,
+      "explanation": "The doctrine of eclipse holds that a pre-constitutional law inconsistent with rights becomes dormant but revivable."
+    }
+  ]
+}

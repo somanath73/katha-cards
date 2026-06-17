@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import TarotCard from './TarotCard'
 import QuizModal from './QuizModal'
+import Credits from './Credits'
 
 const TYPES = ['all', 'character', 'event', 'place', 'artifact', 'concept']
 
@@ -10,6 +11,21 @@ export default function Deck({ category, progress, onBack }) {
   const [filter, setFilter] = useState('all')
   const [query, setQuery] = useState('')
   const [active, setActive] = useState(null)
+  const [credits, setCredits] = useState(null)
+  const [showCredits, setShowCredits] = useState(false)
+
+  useEffect(() => {
+    let dead = false
+    fetch(`${import.meta.env.BASE_URL}data/${category.id}/credits.json`)
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => {
+        if (!dead && Array.isArray(d) && d.length) setCredits(d)
+      })
+      .catch(() => {})
+    return () => {
+      dead = true
+    }
+  }, [category.id])
 
   useEffect(() => {
     let timer
@@ -75,6 +91,11 @@ export default function Deck({ category, progress, onBack }) {
             {t === 'all' ? 'All' : `${t}s`}
           </button>
         ))}
+        {credits && (
+          <button className="chip credits-chip" onClick={() => setShowCredits(true)} title="Photo attributions">
+            ⓘ Image credits
+          </button>
+        )}
       </div>
 
       {!deck ? (
@@ -110,6 +131,8 @@ export default function Deck({ category, progress, onBack }) {
           onClose={() => setActive(null)}
         />
       )}
+
+      {showCredits && credits && <Credits credits={credits} onClose={() => setShowCredits(false)} />}
     </div>
   )
 }

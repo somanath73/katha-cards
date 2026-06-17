@@ -1,0 +1,395 @@
+{
+  "cardId": "parliament-of-india",
+  "questions": [
+    {
+      "id": "parliament-of-india-q01",
+      "difficulty": "easy",
+      "q": "Of how many Houses does the Parliament of India consist?",
+      "options": [
+        "Two",
+        "One",
+        "Three",
+        "Four"
+      ],
+      "answer": 0,
+      "explanation": "Parliament is bicameral, consisting of the Lok Sabha and the Rajya Sabha."
+    },
+    {
+      "id": "parliament-of-india-q02",
+      "difficulty": "easy",
+      "q": "Which two Houses make up the Parliament of India?",
+      "options": [
+        "Lok Sabha and Vidhan Sabha",
+        "Lok Sabha and Rajya Sabha",
+        "Rajya Sabha and Vidhan Parishad",
+        "Vidhan Sabha and Vidhan Parishad"
+      ],
+      "answer": 1,
+      "explanation": "Parliament comprises the Lok Sabha (House of the People) and the Rajya Sabha (Council of States)."
+    },
+    {
+      "id": "parliament-of-india-q03",
+      "difficulty": "easy",
+      "q": "Besides the two Houses, who else is a component of the Parliament of India?",
+      "options": [
+        "The Prime Minister",
+        "The Chief Justice",
+        "The President",
+        "The Vice-President"
+      ],
+      "answer": 2,
+      "explanation": "Under the Constitution, Parliament consists of the President and the two Houses."
+    },
+    {
+      "id": "parliament-of-india-q04",
+      "difficulty": "easy",
+      "q": "What is the primary function of the Parliament of India?",
+      "options": [
+        "To try criminal cases",
+        "To conduct elections",
+        "To audit accounts",
+        "To make laws"
+      ],
+      "answer": 3,
+      "explanation": "Parliament is the supreme legislative body that makes laws for the country."
+    },
+    {
+      "id": "parliament-of-india-q05",
+      "difficulty": "easy",
+      "q": "The Lok Sabha is also known as the:",
+      "options": [
+        "House of the People",
+        "Council of States",
+        "Upper House",
+        "Council of Elders"
+      ],
+      "answer": 0,
+      "explanation": "The Lok Sabha is the lower house, called the House of the People."
+    },
+    {
+      "id": "parliament-of-india-q06",
+      "difficulty": "easy",
+      "q": "The Rajya Sabha is also known as the:",
+      "options": [
+        "House of the People",
+        "Council of States",
+        "Lower House",
+        "House of Commons"
+      ],
+      "answer": 1,
+      "explanation": "The Rajya Sabha is the upper house, called the Council of States."
+    },
+    {
+      "id": "parliament-of-india-q07",
+      "difficulty": "easy",
+      "q": "A proposed law placed before Parliament is called a:",
+      "options": [
+        "Writ",
+        "Decree",
+        "Bill",
+        "Ordinance"
+      ],
+      "answer": 2,
+      "explanation": "A bill is a draft legislative proposal that becomes an Act when passed and assented to."
+    },
+    {
+      "id": "parliament-of-india-q08",
+      "difficulty": "easy",
+      "q": "After both Houses pass a bill, whose assent is required for it to become law?",
+      "options": [
+        "The Prime Minister",
+        "The Speaker",
+        "The Chief Justice",
+        "The President"
+      ],
+      "answer": 3,
+      "explanation": "A bill becomes an Act only after it receives the assent of the President."
+    },
+    {
+      "id": "parliament-of-india-q09",
+      "difficulty": "easy",
+      "q": "In which city is the Parliament of India located?",
+      "options": [
+        "New Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": 0,
+      "explanation": "The Parliament of India is situated in New Delhi, the national capital."
+    },
+    {
+      "id": "parliament-of-india-q10",
+      "difficulty": "easy",
+      "q": "Apart from making laws, Parliament also exercises oversight over which branch?",
+      "options": [
+        "The judiciary",
+        "The executive",
+        "The press",
+        "The military police"
+      ],
+      "answer": 1,
+      "explanation": "Parliament oversees the executive, to which the Council of Ministers is responsible."
+    },
+    {
+      "id": "parliament-of-india-q11",
+      "difficulty": "medium",
+      "q": "The provisions relating to the Parliament of India are found mainly in which Part of the Constitution?",
+      "options": [
+        "Part IV",
+        "Part III",
+        "Part V",
+        "Part VI"
+      ],
+      "answer": 2,
+      "explanation": "Part V of the Constitution deals with the Union, including Parliament, in Articles 79 to 122."
+    },
+    {
+      "id": "parliament-of-india-q12",
+      "difficulty": "medium",
+      "q": "Which Article of the Constitution provides that there shall be a Parliament for the Union?",
+      "options": [
+        "Article 74",
+        "Article 85",
+        "Article 100",
+        "Article 79"
+      ],
+      "answer": 3,
+      "explanation": "Article 79 states that there shall be a Parliament consisting of the President and the two Houses."
+    },
+    {
+      "id": "parliament-of-india-q13",
+      "difficulty": "medium",
+      "q": "A bill dealing solely with taxation and government spending is classified as a:",
+      "options": [
+        "Money bill",
+        "Ordinary bill",
+        "Constitution amendment bill",
+        "Private member bill"
+      ],
+      "answer": 0,
+      "explanation": "A money bill concerns matters such as taxation, borrowing, and expenditure from the Consolidated Fund."
+    },
+    {
+      "id": "parliament-of-india-q14",
+      "difficulty": "medium",
+      "q": "A money bill can be introduced only in which House?",
+      "options": [
+        "The Rajya Sabha",
+        "The Lok Sabha",
+        "Either House",
+        "A joint sitting"
+      ],
+      "answer": 1,
+      "explanation": "Under Article 110, a money bill can be introduced only in the Lok Sabha."
+    },
+    {
+      "id": "parliament-of-india-q15",
+      "difficulty": "medium",
+      "q": "Who has the power to summon and prorogue the Houses of Parliament?",
+      "options": [
+        "The Prime Minister",
+        "The Speaker",
+        "The President",
+        "The Vice-President"
+      ],
+      "answer": 2,
+      "explanation": "Under Article 85, the President summons, prorogues, and may dissolve the House of the People."
+    },
+    {
+      "id": "parliament-of-india-q16",
+      "difficulty": "medium",
+      "q": "The maximum gap permitted between two sessions of Parliament is:",
+      "options": [
+        "Three months",
+        "Nine months",
+        "Twelve months",
+        "Six months"
+      ],
+      "answer": 3,
+      "explanation": "Article 85 requires that no more than six months elapse between the last sitting of one session and the first of the next."
+    },
+    {
+      "id": "parliament-of-india-q17",
+      "difficulty": "medium",
+      "q": "Who presides over a joint sitting of the two Houses of Parliament?",
+      "options": [
+        "The Speaker of the Lok Sabha",
+        "The President",
+        "The Vice-President",
+        "The Prime Minister"
+      ],
+      "answer": 0,
+      "explanation": "Under Article 118, the Speaker of the Lok Sabha presides over a joint sitting of both Houses."
+    },
+    {
+      "id": "parliament-of-india-q18",
+      "difficulty": "medium",
+      "q": "A joint sitting of both Houses may be summoned to resolve a deadlock on which type of bill?",
+      "options": [
+        "A money bill",
+        "An ordinary bill",
+        "A constitution amendment bill",
+        "A finance bill"
+      ],
+      "answer": 1,
+      "explanation": "Article 108 allows a joint sitting to break a deadlock on an ordinary bill; it does not apply to money or constitution amendment bills."
+    },
+    {
+      "id": "parliament-of-india-q19",
+      "difficulty": "medium",
+      "q": "The presiding officer who provides for joint sittings is dealt with under which provision?",
+      "options": [
+        "Article 110",
+        "Article 123",
+        "Article 108",
+        "Article 356"
+      ],
+      "answer": 2,
+      "explanation": "Article 108 provides for joint sittings of both Houses in cases of disagreement over a bill."
+    },
+    {
+      "id": "parliament-of-india-q20",
+      "difficulty": "medium",
+      "q": "The first sitting of independent India's Parliament after the first general election took place in:",
+      "options": [
+        "1947",
+        "1950",
+        "1957",
+        "1952"
+      ],
+      "answer": 3,
+      "explanation": "The first Lok Sabha was constituted after the 1951-52 general election, with its first session in 1952."
+    },
+    {
+      "id": "parliament-of-india-q21",
+      "difficulty": "medium",
+      "q": "Which official maintains a record of the proceedings and is the administrative head of a House's secretariat?",
+      "options": [
+        "The Secretary-General",
+        "The Attorney General",
+        "The Cabinet Secretary",
+        "The Comptroller and Auditor General"
+      ],
+      "answer": 0,
+      "explanation": "Each House has a Secretary-General who heads its secretariat and oversees its records and administration."
+    },
+    {
+      "id": "parliament-of-india-q22",
+      "difficulty": "hard",
+      "q": "The power of the President to promulgate ordinances when Parliament is not in session is granted by which Article?",
+      "options": [
+        "Article 110",
+        "Article 123",
+        "Article 213",
+        "Article 352"
+      ],
+      "answer": 1,
+      "explanation": "Article 123 empowers the President to promulgate ordinances when both Houses are not in session."
+    },
+    {
+      "id": "parliament-of-india-q23",
+      "difficulty": "hard",
+      "q": "An ordinance promulgated by the President must be laid before Parliament and ceases to operate unless approved within:",
+      "options": [
+        "Four weeks of reassembly",
+        "Three months of reassembly",
+        "Six weeks of reassembly",
+        "Six months of reassembly"
+      ],
+      "answer": 2,
+      "explanation": "Under Article 123, an ordinance ceases to operate six weeks after Parliament reassembles unless approved earlier."
+    },
+    {
+      "id": "parliament-of-india-q24",
+      "difficulty": "hard",
+      "q": "The privileges of the Houses of Parliament and their members are dealt with under which Article?",
+      "options": [
+        "Article 100",
+        "Article 112",
+        "Article 117",
+        "Article 105"
+      ],
+      "answer": 3,
+      "explanation": "Article 105 deals with the powers, privileges, and immunities of the Houses of Parliament and their members."
+    },
+    {
+      "id": "parliament-of-india-q25",
+      "difficulty": "hard",
+      "q": "The quorum required to constitute a sitting of either House is:",
+      "options": [
+        "One-tenth of the total members",
+        "One-fifth of the total members",
+        "One-fourth of the total members",
+        "One-half of the total members"
+      ],
+      "answer": 0,
+      "explanation": "Article 100 fixes the quorum at one-tenth of the total number of members of the House."
+    },
+    {
+      "id": "parliament-of-india-q26",
+      "difficulty": "hard",
+      "q": "The annual financial statement, or budget, is laid before Parliament under which Article?",
+      "options": [
+        "Article 110",
+        "Article 112",
+        "Article 114",
+        "Article 117"
+      ],
+      "answer": 1,
+      "explanation": "Article 112 requires the annual financial statement of the Union to be laid before both Houses."
+    },
+    {
+      "id": "parliament-of-india-q27",
+      "difficulty": "hard",
+      "q": "If a member of either House is absent without permission for how long may the seat be declared vacant?",
+      "options": [
+        "Thirty days",
+        "Ninety days",
+        "Sixty days",
+        "One hundred and twenty days"
+      ],
+      "answer": 2,
+      "explanation": "Article 101 allows a seat to be declared vacant if a member is absent for sixty days without permission of the House."
+    },
+    {
+      "id": "parliament-of-india-q28",
+      "difficulty": "hard",
+      "q": "A new Parliament building in New Delhi was inaugurated in which year?",
+      "options": [
+        "2019",
+        "2021",
+        "2024",
+        "2023"
+      ],
+      "answer": 3,
+      "explanation": "A new Parliament building was inaugurated in 2023, replacing the earlier Lutyens-Baker structure for legislative functions."
+    },
+    {
+      "id": "parliament-of-india-q29",
+      "difficulty": "hard",
+      "q": "The rules regulating the procedure and conduct of business in each House are framed under which Article?",
+      "options": [
+        "Article 118",
+        "Article 105",
+        "Article 122",
+        "Article 100"
+      ],
+      "answer": 0,
+      "explanation": "Article 118 empowers each House to make rules for regulating its procedure and conduct of business."
+    },
+    {
+      "id": "parliament-of-india-q30",
+      "difficulty": "medium",
+      "q": "Article 122 bars courts from inquiring into proceedings of Parliament on the ground of:",
+      "options": [
+        "Lack of quorum",
+        "Alleged irregularity of procedure",
+        "Absence of members",
+        "Delay in assent"
+      ],
+      "answer": 1,
+      "explanation": "Article 122 provides that the validity of parliamentary proceedings shall not be questioned on the ground of any alleged irregularity of procedure."
+    }
+  ]
+}

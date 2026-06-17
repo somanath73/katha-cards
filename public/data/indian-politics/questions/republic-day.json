@@ -1,0 +1,395 @@
+{
+  "cardId": "republic-day",
+  "questions": [
+    {
+      "id": "republic-day-q01",
+      "difficulty": "easy",
+      "q": "On which date is Republic Day celebrated in India?",
+      "options": [
+        "26 January",
+        "15 August",
+        "2 October",
+        "26 November"
+      ],
+      "answer": 0,
+      "explanation": "Republic Day is celebrated annually on 26 January."
+    },
+    {
+      "id": "republic-day-q02",
+      "difficulty": "easy",
+      "q": "Republic Day marks the day on which which document came into force?",
+      "options": [
+        "The Indian Independence Act",
+        "The Constitution of India",
+        "The Government of India Act 1935",
+        "The Treaty of Versailles"
+      ],
+      "answer": 1,
+      "explanation": "Republic Day commemorates the coming into force of the Constitution of India."
+    },
+    {
+      "id": "republic-day-q03",
+      "difficulty": "easy",
+      "q": "In which year did the first Republic Day take place?",
+      "options": [
+        "1947",
+        "1949",
+        "1950",
+        "1952"
+      ],
+      "answer": 2,
+      "explanation": "The Constitution came into force on 26 January 1950, marking the first Republic Day."
+    },
+    {
+      "id": "republic-day-q04",
+      "difficulty": "easy",
+      "q": "The Republic Day ceremonial parade is held in which city?",
+      "options": [
+        "Mumbai",
+        "Kolkata",
+        "Chennai",
+        "New Delhi"
+      ],
+      "answer": 3,
+      "explanation": "The main Republic Day parade is held in New Delhi."
+    },
+    {
+      "id": "republic-day-q05",
+      "difficulty": "easy",
+      "q": "Becoming a republic in 1950 meant India would have an elected what?",
+      "options": [
+        "Prime Minister only",
+        "Head of state",
+        "Chief Justice",
+        "Army chief"
+      ],
+      "answer": 1,
+      "explanation": "Becoming a republic meant India had an elected head of state, the President, in place of a monarch."
+    },
+    {
+      "id": "republic-day-q06",
+      "difficulty": "easy",
+      "q": "The date of 26 January was chosen to honour a declaration made in 1930. What was that declaration?",
+      "options": [
+        "The Quit India resolution",
+        "The Lahore Treaty",
+        "The Purna Swaraj declaration",
+        "The Partition plan"
+      ],
+      "answer": 2,
+      "explanation": "26 January was chosen to honour the 1930 Purna Swaraj (complete independence) declaration."
+    },
+    {
+      "id": "republic-day-q07",
+      "difficulty": "easy",
+      "q": "Republic Day is one of India's three national holidays, the others being Independence Day and which day?",
+      "options": [
+        "Diwali",
+        "New Year's Day",
+        "Labour Day",
+        "Gandhi Jayanti"
+      ],
+      "answer": 3,
+      "explanation": "India's three national holidays are Republic Day, Independence Day and Gandhi Jayanti."
+    },
+    {
+      "id": "republic-day-q08",
+      "difficulty": "easy",
+      "q": "Who takes the salute at the main Republic Day parade in New Delhi?",
+      "options": [
+        "The President of India",
+        "The Chief Justice of India",
+        "The Speaker of the Lok Sabha",
+        "The Vice-President of India"
+      ],
+      "answer": 0,
+      "explanation": "The President of India, as the head of state, takes the salute at the Republic Day parade."
+    },
+    {
+      "id": "republic-day-q09",
+      "difficulty": "easy",
+      "q": "Republic Day celebrations in New Delhi traditionally feature a parade along which route?",
+      "options": [
+        "The Marine Drive",
+        "The Ring Road",
+        "The Kartavya Path (formerly Rajpath)",
+        "The Yamuna Expressway"
+      ],
+      "answer": 2,
+      "explanation": "The Republic Day parade proceeds along the Kartavya Path, formerly known as Rajpath."
+    },
+    {
+      "id": "republic-day-q10",
+      "difficulty": "easy",
+      "q": "On the first Republic Day, who was sworn in as the first President of India?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Dr. S. Radhakrishnan",
+        "Dr. B.R. Ambedkar",
+        "Dr. Rajendra Prasad"
+      ],
+      "answer": 3,
+      "explanation": "Dr. Rajendra Prasad took office as the first President of India on 26 January 1950."
+    },
+    {
+      "id": "republic-day-q11",
+      "difficulty": "medium",
+      "q": "The 1930 declaration that inspired the choice of 26 January was adopted at a session of the Indian National Congress in which city?",
+      "options": [
+        "Lahore",
+        "Karachi",
+        "Nagpur",
+        "Tripuri"
+      ],
+      "answer": 0,
+      "explanation": "The Purna Swaraj resolution was adopted at the 1929 Lahore session, and the pledge was observed on 26 January 1930."
+    },
+    {
+      "id": "republic-day-q12",
+      "difficulty": "medium",
+      "q": "Before 26 January 1950, what was India's constitutional status under the existing arrangement?",
+      "options": [
+        "A republic",
+        "A dominion",
+        "A union territory",
+        "A protectorate"
+      ],
+      "answer": 1,
+      "explanation": "From 1947 until 1950, India was a dominion before becoming a republic."
+    },
+    {
+      "id": "republic-day-q13",
+      "difficulty": "medium",
+      "q": "The Republic Day celebrations in New Delhi traditionally conclude a few days later with which ceremony?",
+      "options": [
+        "The Independence Day flag hoisting",
+        "The state of the union address",
+        "The opening of Parliament",
+        "The Beating Retreat ceremony"
+      ],
+      "answer": 3,
+      "explanation": "The Republic Day festivities formally conclude with the Beating Retreat ceremony, traditionally on 29 January."
+    },
+    {
+      "id": "republic-day-q14",
+      "difficulty": "medium",
+      "q": "It is customary for a foreign head of state or government to be invited to the Republic Day parade in what capacity?",
+      "options": [
+        "Chief Guest",
+        "Parade commander",
+        "Honorary president",
+        "Master of ceremonies"
+      ],
+      "answer": 0,
+      "explanation": "A foreign dignitary is traditionally invited as the Chief Guest at the Republic Day parade."
+    },
+    {
+      "id": "republic-day-q15",
+      "difficulty": "medium",
+      "q": "On the first Republic Day in 1950, the first President took the oath at which building in New Delhi?",
+      "options": [
+        "Red Fort",
+        "Government House (now Rashtrapati Bhavan)",
+        "Parliament House",
+        "India Gate"
+      ],
+      "answer": 1,
+      "explanation": "Dr. Rajendra Prasad took the oath at the Durbar Hall of Government House, later renamed Rashtrapati Bhavan."
+    },
+    {
+      "id": "republic-day-q16",
+      "difficulty": "medium",
+      "q": "The Constitution that came into force on Republic Day had been adopted by the Constituent Assembly on which earlier date?",
+      "options": [
+        "15 August 1947",
+        "9 December 1946",
+        "26 November 1949",
+        "30 January 1948"
+      ],
+      "answer": 2,
+      "explanation": "The Constituent Assembly adopted the Constitution on 26 November 1949, before it came into force on 26 January 1950."
+    },
+    {
+      "id": "republic-day-q17",
+      "difficulty": "medium",
+      "q": "Gallantry and civilian honours announced around Republic Day include which of the following series of awards?",
+      "options": [
+        "The Padma awards",
+        "The Nobel awards",
+        "The Magsaysay awards",
+        "The Bharat Scouts awards"
+      ],
+      "answer": 0,
+      "explanation": "The Padma awards are conventionally announced on the eve of Republic Day each year."
+    },
+    {
+      "id": "republic-day-q18",
+      "difficulty": "medium",
+      "q": "With the transition to a republic in 1950, the British monarch ceased to be the constitutional head of the Indian state, replaced by which office?",
+      "options": [
+        "The Governor-General",
+        "The President of India",
+        "The Prime Minister",
+        "The Chief Justice"
+      ],
+      "answer": 1,
+      "explanation": "On becoming a republic, the office of President of India replaced the Crown as head of state."
+    },
+    {
+      "id": "republic-day-q19",
+      "difficulty": "medium",
+      "q": "The Republic Day parade typically features tableaux representing which of the following?",
+      "options": [
+        "Foreign embassies",
+        "Private corporations",
+        "States, union territories and government departments",
+        "Sports clubs"
+      ],
+      "answer": 2,
+      "explanation": "The parade includes colourful tableaux from states, union territories and various government ministries and departments."
+    },
+    {
+      "id": "republic-day-q20",
+      "difficulty": "medium",
+      "q": "Which national symbol is ceremonially honoured during the Republic Day parade?",
+      "options": [
+        "The national bird",
+        "The national river",
+        "The national tree",
+        "The national flag"
+      ],
+      "answer": 3,
+      "explanation": "The national flag is hoisted and honoured during the Republic Day ceremonies."
+    },
+    {
+      "id": "republic-day-q21",
+      "difficulty": "medium",
+      "q": "The last Governor-General of India, who held office until the republic was established, was which of the following?",
+      "options": [
+        "Lord Mountbatten",
+        "C. Rajagopalachari",
+        "Jawaharlal Nehru",
+        "Sardar Patel"
+      ],
+      "answer": 1,
+      "explanation": "C. Rajagopalachari was the last Governor-General of India before the office was abolished on 26 January 1950."
+    },
+    {
+      "id": "republic-day-q22",
+      "difficulty": "medium",
+      "q": "The first Republic Day parade in 1950 was held at which venue, before the parade settled at its present route?",
+      "options": [
+        "Red Fort grounds",
+        "Ramlila Maidan",
+        "Irwin Stadium (now National Stadium)",
+        "Jantar Mantar"
+      ],
+      "answer": 2,
+      "explanation": "The first Republic Day parade in 1950 was held at the Irwin Stadium, later known as the National Stadium."
+    },
+    {
+      "id": "republic-day-q23",
+      "difficulty": "hard",
+      "q": "Who was the Chief Guest at India's first Republic Day celebrations in 1950?",
+      "options": [
+        "Queen Elizabeth II",
+        "President Eisenhower of the United States",
+        "Premier Zhou Enlai of China",
+        "President Sukarno of Indonesia"
+      ],
+      "answer": 3,
+      "explanation": "President Sukarno of Indonesia was the Chief Guest at the first Republic Day in 1950."
+    },
+    {
+      "id": "republic-day-q24",
+      "difficulty": "hard",
+      "q": "The national anthem played at Republic Day, 'Jana Gana Mana', was adopted as the national anthem by the Constituent Assembly on which date?",
+      "options": [
+        "24 January 1950",
+        "26 January 1950",
+        "15 August 1947",
+        "26 November 1949"
+      ],
+      "answer": 0,
+      "explanation": "The Constituent Assembly adopted 'Jana Gana Mana' as the national anthem on 24 January 1950."
+    },
+    {
+      "id": "republic-day-q25",
+      "difficulty": "hard",
+      "q": "A few articles of the Constitution actually came into operation before 26 January 1950, on which date in 1949?",
+      "options": [
+        "15 August 1949",
+        "31 December 1949",
+        "26 November 1949",
+        "1 October 1949"
+      ],
+      "answer": 2,
+      "explanation": "Certain provisions of the Constitution came into force on 26 November 1949, the date of adoption, while the rest commenced on 26 January 1950."
+    },
+    {
+      "id": "republic-day-q26",
+      "difficulty": "hard",
+      "q": "The date 26 January 1950 was deliberately selected to coincide with the anniversary of which observance first held in 1930?",
+      "options": [
+        "Empire Day",
+        "Commonwealth Day",
+        "Dominion Day",
+        "Independence Day, as declared under Purna Swaraj"
+      ],
+      "answer": 3,
+      "explanation": "26 January had been observed as Independence Day since 1930 following the Purna Swaraj declaration, so it was chosen for the republic."
+    },
+    {
+      "id": "republic-day-q27",
+      "difficulty": "hard",
+      "q": "On its first Republic Day, India became a sovereign republic while choosing to remain a member of which international association?",
+      "options": [
+        "The Commonwealth of Nations",
+        "The League of Nations",
+        "The Warsaw Pact",
+        "The European Union"
+      ],
+      "answer": 0,
+      "explanation": "India became a republic in 1950 while remaining a member of the Commonwealth of Nations."
+    },
+    {
+      "id": "republic-day-q28",
+      "difficulty": "hard",
+      "q": "The Beating Retreat ceremony that concludes Republic Day celebrations is traditionally held at which location in New Delhi?",
+      "options": [
+        "Connaught Place",
+        "Vijay Chowk",
+        "Chandni Chowk",
+        "Lodhi Gardens"
+      ],
+      "answer": 1,
+      "explanation": "The Beating Retreat ceremony is traditionally held at Vijay Chowk in New Delhi."
+    },
+    {
+      "id": "republic-day-q29",
+      "difficulty": "hard",
+      "q": "On the first Republic Day, the new head of state delivered an address; in what language tradition is the President's address customarily issued to the nation?",
+      "options": [
+        "Sanskrit only",
+        "Urdu only",
+        "Bengali only",
+        "Both Hindi and English"
+      ],
+      "answer": 3,
+      "explanation": "The President's address to the nation is customarily issued in both Hindi and English."
+    },
+    {
+      "id": "republic-day-q30",
+      "difficulty": "hard",
+      "q": "The transition on Republic Day 1950 also led to the renaming of which residence as the home of the new head of state?",
+      "options": [
+        "Viceroy's House became Rashtrapati Bhavan",
+        "Red Fort became Rashtrapati Bhavan",
+        "Hyderabad House became Rashtrapati Bhavan",
+        "Teen Murti House became Rashtrapati Bhavan"
+      ],
+      "answer": 0,
+      "explanation": "The former Viceroy's House (Government House) became Rashtrapati Bhavan, the residence of the President."
+    }
+  ]
+}

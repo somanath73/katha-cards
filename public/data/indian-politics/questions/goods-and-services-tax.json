@@ -1,0 +1,395 @@
+{
+  "cardId": "goods-and-services-tax",
+  "questions": [
+    {
+      "id": "goods-and-services-tax-q01",
+      "difficulty": "easy",
+      "q": "On which date did the Goods and Services Tax come into effect in India?",
+      "options": [
+        "1 July 2017",
+        "1 January 2017",
+        "1 April 2017",
+        "1 October 2017"
+      ],
+      "answer": 0,
+      "explanation": "The Goods and Services Tax was rolled out across India on 1 July 2017."
+    },
+    {
+      "id": "goods-and-services-tax-q02",
+      "difficulty": "easy",
+      "q": "GST is a tax levied on which of the following?",
+      "options": [
+        "Personal income only",
+        "The supply of goods and services",
+        "Imported gold only",
+        "Agricultural land only"
+      ],
+      "answer": 1,
+      "explanation": "GST is a comprehensive indirect tax levied on the supply of goods and services."
+    },
+    {
+      "id": "goods-and-services-tax-q03",
+      "difficulty": "easy",
+      "q": "GST is best described as which type of tax?",
+      "options": [
+        "A direct tax",
+        "A wealth tax",
+        "An indirect tax",
+        "An estate duty"
+      ],
+      "answer": 2,
+      "explanation": "GST is an indirect tax that replaced many earlier indirect taxes."
+    },
+    {
+      "id": "goods-and-services-tax-q04",
+      "difficulty": "easy",
+      "q": "Which slogan is commonly associated with the introduction of GST in India?",
+      "options": [
+        "Jai Jawan Jai Kisan",
+        "Garibi Hatao",
+        "Quit India",
+        "One Nation, One Tax"
+      ],
+      "answer": 3,
+      "explanation": "GST was promoted under the slogan 'One Nation, One Tax', reflecting its unifying aim."
+    },
+    {
+      "id": "goods-and-services-tax-q05",
+      "difficulty": "easy",
+      "q": "The body that recommends rates, exemptions and rules for GST is the:",
+      "options": [
+        "GST Council",
+        "Finance Commission",
+        "Planning Commission",
+        "Election Commission"
+      ],
+      "answer": 0,
+      "explanation": "The GST Council makes recommendations on rates, exemptions and procedures relating to GST."
+    },
+    {
+      "id": "goods-and-services-tax-q06",
+      "difficulty": "easy",
+      "q": "GST replaced many earlier taxes into a single system; this process is best described as:",
+      "options": [
+        "Abolishing all taxation",
+        "Unifying multiple indirect taxes",
+        "Creating a new income tax",
+        "Introducing a property tax"
+      ],
+      "answer": 1,
+      "explanation": "GST unified a number of central and state indirect taxes into one system."
+    },
+    {
+      "id": "goods-and-services-tax-q07",
+      "difficulty": "easy",
+      "q": "GST is administered with the help of a council that brings together the Union and the:",
+      "options": [
+        "Courts",
+        "Banks",
+        "States",
+        "Universities"
+      ],
+      "answer": 2,
+      "explanation": "The GST Council is a joint forum of the Union and the states for matters relating to GST."
+    },
+    {
+      "id": "goods-and-services-tax-q08",
+      "difficulty": "easy",
+      "q": "The portion of GST collected by the central government on an intra-state supply is called:",
+      "options": [
+        "SGST",
+        "IGST",
+        "UTGST",
+        "CGST"
+      ],
+      "answer": 3,
+      "explanation": "On an intra-state supply, the central component is the Central Goods and Services Tax (CGST)."
+    },
+    {
+      "id": "goods-and-services-tax-q09",
+      "difficulty": "easy",
+      "q": "The portion of GST collected by a state government on an intra-state supply is called:",
+      "options": [
+        "SGST",
+        "CGST",
+        "IGST",
+        "Cess"
+      ],
+      "answer": 0,
+      "explanation": "On an intra-state supply, the state component is the State Goods and Services Tax (SGST)."
+    },
+    {
+      "id": "goods-and-services-tax-q10",
+      "difficulty": "easy",
+      "q": "The tax levied on the inter-state supply of goods and services under the GST system is the:",
+      "options": [
+        "CGST",
+        "IGST",
+        "SGST",
+        "UTGST"
+      ],
+      "answer": 1,
+      "explanation": "Inter-state supplies are taxed under the Integrated Goods and Services Tax (IGST)."
+    },
+    {
+      "id": "goods-and-services-tax-q11",
+      "difficulty": "medium",
+      "q": "GST was introduced through which Constitutional Amendment Act?",
+      "options": [
+        "The 99th Amendment",
+        "The 100th Amendment",
+        "The 101st Amendment",
+        "The 103rd Amendment"
+      ],
+      "answer": 2,
+      "explanation": "GST was enabled by the Constitution (One Hundred and First Amendment) Act, 2016."
+    },
+    {
+      "id": "goods-and-services-tax-q12",
+      "difficulty": "medium",
+      "q": "Which Article of the Constitution, inserted by the GST amendment, provides for the GST Council?",
+      "options": [
+        "Article 246A",
+        "Article 280",
+        "Article 370",
+        "Article 279A"
+      ],
+      "answer": 3,
+      "explanation": "Article 279A provides for the constitution of the GST Council."
+    },
+    {
+      "id": "goods-and-services-tax-q13",
+      "difficulty": "medium",
+      "q": "Who is the ex-officio Chairperson of the GST Council?",
+      "options": [
+        "The Union Finance Minister",
+        "The Prime Minister",
+        "The President",
+        "The RBI Governor"
+      ],
+      "answer": 0,
+      "explanation": "The Union Finance Minister is the Chairperson of the GST Council."
+    },
+    {
+      "id": "goods-and-services-tax-q14",
+      "difficulty": "medium",
+      "q": "Which new Article inserted by the GST amendment grants concurrent power to the Union and states to levy GST?",
+      "options": [
+        "Article 248",
+        "Article 246A",
+        "Article 265",
+        "Article 286"
+      ],
+      "answer": 1,
+      "explanation": "Article 246A confers concurrent power on the Union and the states to make laws on GST."
+    },
+    {
+      "id": "goods-and-services-tax-q15",
+      "difficulty": "medium",
+      "q": "GST in India is structured as which type of tax model?",
+      "options": [
+        "A single central tax only",
+        "A single state tax only",
+        "A dual GST shared by Centre and states",
+        "A municipal tax only"
+      ],
+      "answer": 2,
+      "explanation": "India adopted a dual GST model in which both the Centre and the states levy tax on the same supply."
+    },
+    {
+      "id": "goods-and-services-tax-q16",
+      "difficulty": "medium",
+      "q": "The mechanism under GST that allows businesses to set off tax paid on inputs against tax on output is called:",
+      "options": [
+        "Standard deduction",
+        "Capital allowance",
+        "Tax holiday",
+        "Input tax credit"
+      ],
+      "answer": 3,
+      "explanation": "Input tax credit lets registered businesses offset tax paid on inputs against their output tax liability."
+    },
+    {
+      "id": "goods-and-services-tax-q17",
+      "difficulty": "medium",
+      "q": "Which earlier central levy was subsumed into GST?",
+      "options": [
+        "Central Excise Duty",
+        "Income Tax",
+        "Corporation Tax",
+        "Customs Duty on imports"
+      ],
+      "answer": 0,
+      "explanation": "Central Excise Duty was among the central indirect taxes subsumed into GST."
+    },
+    {
+      "id": "goods-and-services-tax-q18",
+      "difficulty": "medium",
+      "q": "Which earlier state-level tax was subsumed into GST?",
+      "options": [
+        "Stamp duty on property",
+        "Value Added Tax",
+        "Land revenue",
+        "Agricultural income tax"
+      ],
+      "answer": 1,
+      "explanation": "State Value Added Tax (VAT) was among the state taxes subsumed into GST."
+    },
+    {
+      "id": "goods-and-services-tax-q19",
+      "difficulty": "medium",
+      "q": "In the GST Council, decisions are taken by which kind of majority of weighted votes?",
+      "options": [
+        "A simple majority of members",
+        "Unanimous consent only",
+        "Three-fourths of weighted votes present and voting",
+        "A two-thirds majority of all states"
+      ],
+      "answer": 2,
+      "explanation": "Decisions of the GST Council require at least three-fourths of the weighted votes of members present and voting."
+    },
+    {
+      "id": "goods-and-services-tax-q20",
+      "difficulty": "medium",
+      "q": "In the GST Council's voting structure, the votes of all the state governments together carry what share of the total weight?",
+      "options": [
+        "One-third",
+        "One-half",
+        "Three-fourths",
+        "Two-thirds"
+      ],
+      "answer": 3,
+      "explanation": "The states' votes together carry two-thirds of the weight, while the Centre's vote carries one-third."
+    },
+    {
+      "id": "goods-and-services-tax-q21",
+      "difficulty": "medium",
+      "q": "Which goods were kept outside the purview of GST at its introduction, remaining under earlier taxes?",
+      "options": [
+        "Petroleum products and alcohol for human consumption",
+        "All food grains",
+        "All textiles",
+        "All medicines"
+      ],
+      "answer": 0,
+      "explanation": "Petroleum products and alcoholic liquor for human consumption were kept outside GST at its launch."
+    },
+    {
+      "id": "goods-and-services-tax-q22",
+      "difficulty": "medium",
+      "q": "The online platform that handles GST registration, returns and payments is the:",
+      "options": [
+        "National Stock Exchange",
+        "GST Network (GSTN)",
+        "Reserve Bank portal",
+        "Public Distribution System"
+      ],
+      "answer": 1,
+      "explanation": "The Goods and Services Tax Network (GSTN) provides the IT backbone for GST processes."
+    },
+    {
+      "id": "goods-and-services-tax-q23",
+      "difficulty": "hard",
+      "q": "The GST amendment inserted a definition of 'goods and services tax' into the Constitution through clause (12A) of which Article?",
+      "options": [
+        "Article 268",
+        "Article 269A",
+        "Article 286",
+        "Article 366"
+      ],
+      "answer": 3,
+      "explanation": "Article 366(12A), inserted by the 101st Amendment, defines 'goods and services tax' as a tax on the supply of goods or services or both, except taxes on the supply of alcoholic liquor for human consumption."
+    },
+    {
+      "id": "goods-and-services-tax-q24",
+      "difficulty": "hard",
+      "q": "Which Article inserted by the GST amendment provides for compensation to states for revenue loss in the initial years?",
+      "options": [
+        "Article 246A",
+        "Article 279A",
+        "Article 280",
+        "Section 18 of the amendment providing compensation"
+      ],
+      "answer": 3,
+      "explanation": "Section 18 of the 101st Amendment Act provided for compensating states for revenue loss for a transition period, given effect by a separate compensation law."
+    },
+    {
+      "id": "goods-and-services-tax-q25",
+      "difficulty": "hard",
+      "q": "Under GST, the tax levied on supplies within a union territory without a legislature is the:",
+      "options": [
+        "UTGST",
+        "SGST",
+        "CGST",
+        "Cess"
+      ],
+      "answer": 0,
+      "explanation": "Union Territory GST (UTGST) applies to supplies within union territories without their own legislature."
+    },
+    {
+      "id": "goods-and-services-tax-q26",
+      "difficulty": "hard",
+      "q": "The Article inserted by the GST amendment that deals with the levy and apportionment of GST on inter-state trade is:",
+      "options": [
+        "Article 246A",
+        "Article 269A",
+        "Article 279A",
+        "Article 270"
+      ],
+      "answer": 1,
+      "explanation": "Article 269A deals with the levy and apportionment of GST on inter-state supplies between the Union and the states."
+    },
+    {
+      "id": "goods-and-services-tax-q27",
+      "difficulty": "hard",
+      "q": "GST was launched at a special midnight session held in which venue on 30 June-1 July 2017?",
+      "options": [
+        "Rashtrapati Bhavan",
+        "The Supreme Court",
+        "The Central Hall of Parliament",
+        "Red Fort"
+      ],
+      "answer": 2,
+      "explanation": "GST was formally launched at a midnight session in the Central Hall of Parliament."
+    },
+    {
+      "id": "goods-and-services-tax-q28",
+      "difficulty": "hard",
+      "q": "GST first applied to the state of Jammu and Kashmir slightly after the rest of the country because it required:",
+      "options": [
+        "Approval of the Supreme Court",
+        "A national referendum",
+        "A presidential ordinance only",
+        "A separate enactment by its own legislature"
+      ],
+      "answer": 3,
+      "explanation": "Owing to its special constitutional position at the time, GST was extended to Jammu and Kashmir through a separate enactment shortly after 1 July 2017."
+    },
+    {
+      "id": "goods-and-services-tax-q29",
+      "difficulty": "hard",
+      "q": "The committee of officials that supports the GST Council by examining issues before they are placed before it is known as the:",
+      "options": [
+        "Fitment Committee and Law Committee",
+        "Public Accounts Committee",
+        "Estimates Committee",
+        "Drafting Committee"
+      ],
+      "answer": 0,
+      "explanation": "Officer committees such as the Fitment Committee and Law Committee examine rate and legal issues before the GST Council."
+    },
+    {
+      "id": "goods-and-services-tax-q30",
+      "difficulty": "hard",
+      "q": "The Constitution (One Hundred and First Amendment) Act enabling GST received the President's assent in which year?",
+      "options": [
+        "2014",
+        "2016",
+        "2015",
+        "2017"
+      ],
+      "answer": 1,
+      "explanation": "The 101st Amendment Act received presidential assent in 2016, with GST rolled out on 1 July 2017."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "council-of-ministers",
+  "questions": [
+    {
+      "id": "council-of-ministers-q01",
+      "difficulty": "easy",
+      "q": "Who heads the Council of Ministers of the Union?",
+      "options": [
+        "The President",
+        "The Speaker",
+        "The Prime Minister",
+        "The Vice-President"
+      ],
+      "answer": 2,
+      "explanation": "The Council of Ministers is headed by the Prime Minister."
+    },
+    {
+      "id": "council-of-ministers-q02",
+      "difficulty": "easy",
+      "q": "The Council of Ministers aids and advises which constitutional authority in the exercise of executive functions?",
+      "options": [
+        "The Comptroller and Auditor General",
+        "The Chief Justice",
+        "The Election Commission",
+        "The President"
+      ],
+      "answer": 3,
+      "explanation": "The Council of Ministers aids and advises the President in the exercise of executive functions."
+    },
+    {
+      "id": "council-of-ministers-q03",
+      "difficulty": "easy",
+      "q": "The Council of Ministers is collectively responsible to which House of Parliament?",
+      "options": [
+        "The Rajya Sabha",
+        "The Supreme Court",
+        "The Legislative Assembly",
+        "The Lok Sabha"
+      ],
+      "answer": 3,
+      "explanation": "The Council of Ministers is collectively responsible to the Lok Sabha."
+    },
+    {
+      "id": "council-of-ministers-q04",
+      "difficulty": "easy",
+      "q": "Who formally appoints the ministers of the Union Council of Ministers?",
+      "options": [
+        "The Speaker",
+        "The Chief Justice",
+        "The Vice-President",
+        "The President"
+      ],
+      "answer": 3,
+      "explanation": "Ministers are appointed by the President on the advice of the Prime Minister."
+    },
+    {
+      "id": "council-of-ministers-q05",
+      "difficulty": "easy",
+      "q": "The most senior tier within the Council of Ministers, often called the Union Cabinet, consists of which type of ministers?",
+      "options": [
+        "Cabinet Ministers",
+        "Deputy Ministers",
+        "Parliamentary Secretaries",
+        "Ministers of State (Independent Charge)"
+      ],
+      "answer": 0,
+      "explanation": "The Cabinet comprises the senior-most Cabinet Ministers who head important ministries."
+    },
+    {
+      "id": "council-of-ministers-q06",
+      "difficulty": "easy",
+      "q": "A minister who is not a member of either House of Parliament must become a member within how long?",
+      "options": [
+        "Six months",
+        "One year",
+        "Two years",
+        "Three months"
+      ],
+      "answer": 0,
+      "explanation": "Any minister who is not a member of Parliament must secure membership within six months."
+    },
+    {
+      "id": "council-of-ministers-q07",
+      "difficulty": "easy",
+      "q": "Which of the following is one of the three categories of ministers in the Union Council of Ministers?",
+      "options": [
+        "Governor",
+        "Minister of State",
+        "Attorney General",
+        "Chief Justice"
+      ],
+      "answer": 1,
+      "explanation": "The Council of Ministers includes Cabinet Ministers, Ministers of State, and Deputy Ministers."
+    },
+    {
+      "id": "council-of-ministers-q08",
+      "difficulty": "easy",
+      "q": "Collective responsibility means that if the Lok Sabha passes a no-confidence motion, what must the entire Council of Ministers do?",
+      "options": [
+        "Continue in office",
+        "Approach the Supreme Court",
+        "Dissolve the Rajya Sabha",
+        "Resign"
+      ],
+      "answer": 3,
+      "explanation": "If a no-confidence motion is passed, the whole Council of Ministers must resign."
+    },
+    {
+      "id": "council-of-ministers-q09",
+      "difficulty": "easy",
+      "q": "Who administers the oath of office and secrecy to a Union minister?",
+      "options": [
+        "The Prime Minister",
+        "The Speaker",
+        "The President",
+        "The Chief Justice"
+      ],
+      "answer": 2,
+      "explanation": "The President administers the oath of office and secrecy to ministers."
+    },
+    {
+      "id": "council-of-ministers-q10",
+      "difficulty": "easy",
+      "q": "The Cabinet meetings are presided over by whom?",
+      "options": [
+        "The President",
+        "The Vice-President",
+        "The Speaker",
+        "The Prime Minister"
+      ],
+      "answer": 3,
+      "explanation": "Cabinet meetings are chaired by the Prime Minister, who leads the Council of Ministers."
+    },
+    {
+      "id": "council-of-ministers-q11",
+      "difficulty": "medium",
+      "q": "Which article of the Constitution provides for a Council of Ministers to aid and advise the President?",
+      "options": [
+        "Article 72",
+        "Article 74",
+        "Article 76",
+        "Article 79"
+      ],
+      "answer": 1,
+      "explanation": "Article 74 provides for a Council of Ministers, headed by the Prime Minister, to aid and advise the President."
+    },
+    {
+      "id": "council-of-ministers-q12",
+      "difficulty": "medium",
+      "q": "Which article states the principle of collective responsibility of the Council of Ministers to the Lok Sabha?",
+      "options": [
+        "Article 75",
+        "Article 77",
+        "Article 78",
+        "Article 80"
+      ],
+      "answer": 0,
+      "explanation": "Article 75 provides that the Council of Ministers is collectively responsible to the Lok Sabha."
+    },
+    {
+      "id": "council-of-ministers-q13",
+      "difficulty": "medium",
+      "q": "The 91st Amendment of 2003 limits the size of the Council of Ministers to a maximum of what proportion of the total strength of the Lok Sabha?",
+      "options": [
+        "Ten per cent",
+        "Twenty-five per cent",
+        "Twenty per cent",
+        "Fifteen per cent"
+      ],
+      "answer": 3,
+      "explanation": "The 91st Amendment caps the Council of Ministers at fifteen per cent of the total strength of the Lok Sabha."
+    },
+    {
+      "id": "council-of-ministers-q14",
+      "difficulty": "medium",
+      "q": "A Minister of State holding 'independent charge' differs from an ordinary Minister of State in that the former does what?",
+      "options": [
+        "Reports to a Cabinet Minister",
+        "Heads a ministry or department directly",
+        "Sits only in the Rajya Sabha",
+        "Cannot vote in Parliament"
+      ],
+      "answer": 1,
+      "explanation": "A Minister of State with independent charge heads a ministry or department directly rather than under a Cabinet Minister."
+    },
+    {
+      "id": "council-of-ministers-q15",
+      "difficulty": "medium",
+      "q": "Under Article 77, the business of the Government of India is conducted in the name of whom?",
+      "options": [
+        "The Prime Minister",
+        "The President",
+        "The Cabinet Secretary",
+        "The Parliament"
+      ],
+      "answer": 1,
+      "explanation": "Article 77 provides that all executive action of the Government of India is taken in the name of the President."
+    },
+    {
+      "id": "council-of-ministers-q16",
+      "difficulty": "medium",
+      "q": "The salaries and allowances of ministers are determined by whom?",
+      "options": [
+        "The President by order",
+        "The Supreme Court",
+        "Parliament by law",
+        "The Finance Commission"
+      ],
+      "answer": 2,
+      "explanation": "The salaries and allowances of ministers are determined by Parliament by law."
+    },
+    {
+      "id": "council-of-ministers-q17",
+      "difficulty": "medium",
+      "q": "Who served as independent India's first Home Minister and Deputy Prime Minister within the early Council of Ministers?",
+      "options": [
+        "Maulana Abul Kalam Azad",
+        "B.R. Ambedkar",
+        "Jagjivan Ram",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": 3,
+      "explanation": "Sardar Vallabhbhai Patel was independent India's first Deputy Prime Minister and Home Minister."
+    },
+    {
+      "id": "council-of-ministers-q18",
+      "difficulty": "medium",
+      "q": "The 91st Amendment also disqualifies a member disqualified under the anti-defection law from being appointed as what?",
+      "options": [
+        "A voter",
+        "A minister",
+        "A judge",
+        "A returning officer"
+      ],
+      "answer": 1,
+      "explanation": "The 91st Amendment bars a member disqualified on grounds of defection from being appointed a minister during that term."
+    },
+    {
+      "id": "council-of-ministers-q19",
+      "difficulty": "medium",
+      "q": "Which minister served as independent India's first Minister of Education within the Council of Ministers?",
+      "options": [
+        "V.K. Krishna Menon",
+        "C.D. Deshmukh",
+        "Maulana Abul Kalam Azad",
+        "Jagjivan Ram"
+      ],
+      "answer": 2,
+      "explanation": "Maulana Abul Kalam Azad served as independent India's first Minister of Education from 1947."
+    },
+    {
+      "id": "council-of-ministers-q20",
+      "difficulty": "medium",
+      "q": "The principle that ministers swim and sink together, supporting Cabinet decisions publicly, is known as what?",
+      "options": [
+        "Collective responsibility",
+        "Individual responsibility",
+        "Judicial review",
+        "Separation of powers"
+      ],
+      "answer": 0,
+      "explanation": "Collective responsibility binds all ministers to support Cabinet decisions or resign."
+    },
+    {
+      "id": "council-of-ministers-q21",
+      "difficulty": "medium",
+      "q": "Who was the longest-serving member of the Union Cabinet, holding several portfolios over decades?",
+      "options": [
+        "Jagjivan Ram",
+        "C.D. Deshmukh",
+        "V.K. Krishna Menon",
+        "Morarji Desai"
+      ],
+      "answer": 0,
+      "explanation": "Jagjivan Ram was the longest-serving member of the Indian Cabinet, holding several portfolios over decades."
+    },
+    {
+      "id": "council-of-ministers-q22",
+      "difficulty": "medium",
+      "q": "Which constitutional functionary is the administrative head of the Cabinet Secretariat assisting the Council of Ministers?",
+      "options": [
+        "The Comptroller and Auditor General",
+        "The Attorney General",
+        "The Cabinet Secretary",
+        "The Solicitor General"
+      ],
+      "answer": 2,
+      "explanation": "The Cabinet Secretary is the senior-most civil servant and administrative head of the Cabinet Secretariat."
+    },
+    {
+      "id": "council-of-ministers-q23",
+      "difficulty": "hard",
+      "q": "Article 74(2) provides that the advice tendered by ministers to the President shall not be inquired into by which body?",
+      "options": [
+        "Parliament",
+        "Any court",
+        "The Election Commission",
+        "The Finance Commission"
+      ],
+      "answer": 1,
+      "explanation": "Article 74(2) bars courts from inquiring into the advice tendered by ministers to the President."
+    },
+    {
+      "id": "council-of-ministers-q24",
+      "difficulty": "hard",
+      "q": "The 91st Amendment, which capped the Council of Ministers and tightened anti-defection rules, was enacted in which year?",
+      "options": [
+        "1985",
+        "2009",
+        "2003",
+        "1976"
+      ],
+      "answer": 2,
+      "explanation": "The 91st Constitutional Amendment was enacted in 2003."
+    },
+    {
+      "id": "council-of-ministers-q25",
+      "difficulty": "hard",
+      "q": "If the President returns advice for reconsideration under Article 74(1), and the Council of Ministers reiterates it, the President must do what?",
+      "options": [
+        "Reject the advice",
+        "Act in accordance with the reiterated advice",
+        "Refer it to the Supreme Court",
+        "Dissolve the Lok Sabha"
+      ],
+      "answer": 1,
+      "explanation": "The President may seek reconsideration once but must act in accordance with the advice if it is reiterated."
+    },
+    {
+      "id": "council-of-ministers-q26",
+      "difficulty": "hard",
+      "q": "The minimum size of the Council of Ministers in a state was not originally fixed; the 91st Amendment set a floor of how many ministers for states?",
+      "options": [
+        "Twelve",
+        "Ten",
+        "Five",
+        "Fifteen"
+      ],
+      "answer": 0,
+      "explanation": "The 91st Amendment fixed a minimum of twelve ministers for a state Council of Ministers."
+    },
+    {
+      "id": "council-of-ministers-q27",
+      "difficulty": "hard",
+      "q": "Under the Constitution, ministers hold office during the pleasure of which authority?",
+      "options": [
+        "The President",
+        "The Prime Minister",
+        "The Lok Sabha",
+        "The Supreme Court"
+      ],
+      "answer": 0,
+      "explanation": "Ministers hold office during the pleasure of the President, though in practice this follows the Prime Minister's advice."
+    },
+    {
+      "id": "council-of-ministers-q28",
+      "difficulty": "hard",
+      "q": "The word 'Cabinet' was inserted into the text of the Constitution (in Article 352) by which amendment?",
+      "options": [
+        "The 42nd Amendment",
+        "The 44th Amendment",
+        "The 52nd Amendment",
+        "The 91st Amendment"
+      ],
+      "answer": 1,
+      "explanation": "The 44th Amendment of 1978 inserted a reference to the Cabinet into Article 352 of the Constitution."
+    },
+    {
+      "id": "council-of-ministers-q29",
+      "difficulty": "hard",
+      "q": "A Deputy Minister within the Council of Ministers typically performs which role?",
+      "options": [
+        "Assists a Cabinet Minister or Minister of State",
+        "Heads a ministry independently",
+        "Presides over the Rajya Sabha",
+        "Audits government accounts"
+      ],
+      "answer": 0,
+      "explanation": "A Deputy Minister is the most junior rank and assists a Cabinet Minister or Minister of State, without independent charge."
+    },
+    {
+      "id": "council-of-ministers-q30",
+      "difficulty": "hard",
+      "q": "Which provision empowers the Prime Minister to advise the President to reallocate portfolios among ministers?",
+      "options": [
+        "Article 315",
+        "Article 280",
+        "The Government of India Allocation of Business Rules under Article 77",
+        "Article 324"
+      ],
+      "answer": 2,
+      "explanation": "Allocation and transfer of business among ministers is governed by rules made under Article 77, on the Prime Minister's advice."
+    }
+  ]
+}

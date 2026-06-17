@@ -1,0 +1,395 @@
+{
+  "cardId": "vice-president-of-india",
+  "questions": [
+    {
+      "id": "vice-president-of-india-q01",
+      "difficulty": "easy",
+      "q": "The Vice-President of India serves as the ex-officio Chairman of which body?",
+      "options": [
+        "The Rajya Sabha",
+        "The Lok Sabha",
+        "The Supreme Court",
+        "The Council of Ministers"
+      ],
+      "answer": 0,
+      "explanation": "The Vice-President is the ex-officio Chairman of the Rajya Sabha."
+    },
+    {
+      "id": "vice-president-of-india-q02",
+      "difficulty": "easy",
+      "q": "The Vice-President holds which rank among constitutional offices in India?",
+      "options": [
+        "The highest",
+        "The second-highest",
+        "The third-highest",
+        "The fourth-highest"
+      ],
+      "answer": 1,
+      "explanation": "The Vice-President holds the second-highest constitutional office in India."
+    },
+    {
+      "id": "vice-president-of-india-q03",
+      "difficulty": "easy",
+      "q": "During a vacancy in the office of President, the Vice-President:",
+      "options": [
+        "Becomes Prime Minister",
+        "Dissolves Parliament",
+        "Acts as President",
+        "Has no role"
+      ],
+      "answer": 2,
+      "explanation": "The Vice-President acts as President during a vacancy in that office."
+    },
+    {
+      "id": "vice-president-of-india-q04",
+      "difficulty": "easy",
+      "q": "What is the term of office of the Vice-President of India?",
+      "options": [
+        "Four years",
+        "Six years",
+        "Seven years",
+        "Five years"
+      ],
+      "answer": 3,
+      "explanation": "The Vice-President holds office for a term of five years."
+    },
+    {
+      "id": "vice-president-of-india-q05",
+      "difficulty": "easy",
+      "q": "Who was the first Vice-President of India?",
+      "options": [
+        "S. Radhakrishnan",
+        "Zakir Husain",
+        "V.V. Giri",
+        "G.S. Pathak"
+      ],
+      "answer": 0,
+      "explanation": "Dr. S. Radhakrishnan was the first Vice-President of India, serving from 1952 to 1962."
+    },
+    {
+      "id": "vice-president-of-india-q06",
+      "difficulty": "easy",
+      "q": "In his capacity as Chairman of the Rajya Sabha, the Vice-President presides over the:",
+      "options": [
+        "Lower House",
+        "Upper House",
+        "Joint sittings only",
+        "State assemblies"
+      ],
+      "answer": 1,
+      "explanation": "The Vice-President presides over the Rajya Sabha, the upper house of Parliament."
+    },
+    {
+      "id": "vice-president-of-india-q07",
+      "difficulty": "easy",
+      "q": "Dr. S. Radhakrishnan, the first Vice-President, later went on to become:",
+      "options": [
+        "The Prime Minister",
+        "The Chief Justice",
+        "The second President",
+        "The Speaker"
+      ],
+      "answer": 2,
+      "explanation": "S. Radhakrishnan served as the first Vice-President and later as the second President of India."
+    },
+    {
+      "id": "vice-president-of-india-q08",
+      "difficulty": "easy",
+      "q": "The Vice-President is a part of which branch in his role as Chairman of the Rajya Sabha?",
+      "options": [
+        "The judiciary",
+        "The civil services",
+        "The press",
+        "The legislature"
+      ],
+      "answer": 3,
+      "explanation": "As presiding officer of the Rajya Sabha, the Vice-President is associated with the legislature."
+    },
+    {
+      "id": "vice-president-of-india-q09",
+      "difficulty": "easy",
+      "q": "Who administers the oath of office to the Vice-President of India?",
+      "options": [
+        "The President",
+        "The Prime Minister",
+        "The Chief Justice",
+        "The Speaker"
+      ],
+      "answer": 0,
+      "explanation": "The President administers the oath of office to the Vice-President."
+    },
+    {
+      "id": "vice-president-of-india-q10",
+      "difficulty": "easy",
+      "q": "Several Vice-Presidents have later been elected to which higher office?",
+      "options": [
+        "Prime Minister",
+        "President",
+        "Chief Justice",
+        "Speaker"
+      ],
+      "answer": 1,
+      "explanation": "Several Vice-Presidents, including Radhakrishnan and Zakir Husain, went on to become President."
+    },
+    {
+      "id": "vice-president-of-india-q11",
+      "difficulty": "medium",
+      "q": "The Vice-President is elected by an electoral college consisting of:",
+      "options": [
+        "Only the Rajya Sabha",
+        "Members of state assemblies",
+        "Members of both Houses of Parliament",
+        "The Council of Ministers"
+      ],
+      "answer": 2,
+      "explanation": "The Vice-President is elected by the members of both Houses of Parliament assembled at a joint meeting."
+    },
+    {
+      "id": "vice-president-of-india-q12",
+      "difficulty": "medium",
+      "q": "Which Article of the Constitution provides for a Vice-President of India?",
+      "options": [
+        "Article 52",
+        "Article 74",
+        "Article 80",
+        "Article 63"
+      ],
+      "answer": 3,
+      "explanation": "Article 63 provides that there shall be a Vice-President of India."
+    },
+    {
+      "id": "vice-president-of-india-q13",
+      "difficulty": "medium",
+      "q": "What is the minimum age to be eligible for election as Vice-President?",
+      "options": [
+        "35 years",
+        "30 years",
+        "40 years",
+        "45 years"
+      ],
+      "answer": 0,
+      "explanation": "A candidate for Vice-President must have completed 35 years of age."
+    },
+    {
+      "id": "vice-president-of-india-q14",
+      "difficulty": "medium",
+      "q": "The Vice-President is elected by which method of voting?",
+      "options": [
+        "Open ballot show of hands",
+        "Proportional representation by single transferable vote",
+        "First-past-the-post",
+        "Voice vote"
+      ],
+      "answer": 1,
+      "explanation": "The Vice-President is elected by proportional representation through the single transferable vote by secret ballot."
+    },
+    {
+      "id": "vice-president-of-india-q15",
+      "difficulty": "medium",
+      "q": "Unlike the President's electoral college, the Vice-President's electoral college does not include:",
+      "options": [
+        "Nominated members of Parliament",
+        "Elected members of the Lok Sabha",
+        "Members of state legislative assemblies",
+        "Elected members of the Rajya Sabha"
+      ],
+      "answer": 2,
+      "explanation": "The Vice-President's electoral college is confined to Parliament and does not include state legislators."
+    },
+    {
+      "id": "vice-president-of-india-q16",
+      "difficulty": "medium",
+      "q": "To be qualified for election as Vice-President, a person must be qualified for election as a member of which House?",
+      "options": [
+        "The Lok Sabha",
+        "A state assembly",
+        "A municipal council",
+        "The Rajya Sabha"
+      ],
+      "answer": 3,
+      "explanation": "A candidate must be qualified for election as a member of the Rajya Sabha."
+    },
+    {
+      "id": "vice-president-of-india-q17",
+      "difficulty": "medium",
+      "q": "When the Vice-President acts as President, who performs the duties of Chairman of the Rajya Sabha?",
+      "options": [
+        "The Deputy Chairman of the Rajya Sabha",
+        "The Speaker",
+        "The Prime Minister",
+        "The senior-most minister"
+      ],
+      "answer": 0,
+      "explanation": "While the Vice-President acts as President, the Deputy Chairman performs the duties of Chairman of the Rajya Sabha."
+    },
+    {
+      "id": "vice-president-of-india-q18",
+      "difficulty": "medium",
+      "q": "A person elected as Vice-President must not hold any other:",
+      "options": [
+        "Property",
+        "Office of profit",
+        "Bank account",
+        "Foreign passport"
+      ],
+      "answer": 1,
+      "explanation": "The Vice-President must not hold any office of profit under the Union, state, or any local authority."
+    },
+    {
+      "id": "vice-president-of-india-q19",
+      "difficulty": "medium",
+      "q": "The provisions relating to the election of the Vice-President are found mainly in which Article?",
+      "options": [
+        "Article 64",
+        "Article 68",
+        "Article 66",
+        "Article 71"
+      ],
+      "answer": 2,
+      "explanation": "Article 66 deals with the election of the Vice-President of India."
+    },
+    {
+      "id": "vice-president-of-india-q20",
+      "difficulty": "medium",
+      "q": "Disputes relating to the election of the Vice-President are decided by:",
+      "options": [
+        "Parliament",
+        "The Election Commission",
+        "The President",
+        "The Supreme Court"
+      ],
+      "answer": 3,
+      "explanation": "The Supreme Court inquires into and decides doubts and disputes arising out of the election of the Vice-President."
+    },
+    {
+      "id": "vice-president-of-india-q21",
+      "difficulty": "medium",
+      "q": "The Vice-President may resign by writing addressed to the:",
+      "options": [
+        "President",
+        "Prime Minister",
+        "Speaker",
+        "Chief Justice"
+      ],
+      "answer": 0,
+      "explanation": "The Vice-President resigns by writing under his hand addressed to the President."
+    },
+    {
+      "id": "vice-president-of-india-q22",
+      "difficulty": "hard",
+      "q": "A resolution to remove the Vice-President can be initiated only in which House?",
+      "options": [
+        "The Lok Sabha",
+        "The Rajya Sabha",
+        "Either House",
+        "A joint sitting"
+      ],
+      "answer": 1,
+      "explanation": "Under Article 67, a resolution to remove the Vice-President can be moved only in the Rajya Sabha."
+    },
+    {
+      "id": "vice-president-of-india-q23",
+      "difficulty": "hard",
+      "q": "A resolution to remove the Vice-President, after being passed by the Rajya Sabha, must be agreed to by the:",
+      "options": [
+        "President",
+        "Supreme Court",
+        "Lok Sabha",
+        "Council of Ministers"
+      ],
+      "answer": 2,
+      "explanation": "Such a resolution, passed by the Rajya Sabha, must also be agreed to by the Lok Sabha."
+    },
+    {
+      "id": "vice-president-of-india-q24",
+      "difficulty": "hard",
+      "q": "The removal resolution against the Vice-President requires how much notice before it can be moved?",
+      "options": [
+        "Seven days",
+        "Twenty-one days",
+        "One month",
+        "Fourteen days"
+      ],
+      "answer": 3,
+      "explanation": "At least fourteen days notice is required before a resolution to remove the Vice-President can be moved."
+    },
+    {
+      "id": "vice-president-of-india-q25",
+      "difficulty": "hard",
+      "q": "The Vice-President may act as President for a maximum period of how long before a new President must be elected?",
+      "options": [
+        "Six months",
+        "Three months",
+        "Nine months",
+        "One year"
+      ],
+      "answer": 0,
+      "explanation": "When acting as President due to a vacancy, the Vice-President may do so for a maximum of six months, within which a new President must be elected."
+    },
+    {
+      "id": "vice-president-of-india-q26",
+      "difficulty": "hard",
+      "q": "While acting as President, the Vice-President is entitled to the emoluments of which office?",
+      "options": [
+        "The Vice-President",
+        "The President",
+        "Both offices combined",
+        "Neither office"
+      ],
+      "answer": 1,
+      "explanation": "While discharging the functions of President, the Vice-President receives the emoluments and privileges of the President, not those of Chairman of the Rajya Sabha."
+    },
+    {
+      "id": "vice-president-of-india-q27",
+      "difficulty": "hard",
+      "q": "The resolution for the removal of the Vice-President in the Rajya Sabha requires what level of support?",
+      "options": [
+        "A simple majority of those present and voting",
+        "A two-thirds majority of total membership",
+        "A majority of all the then members of the Rajya Sabha",
+        "A three-fourths majority"
+      ],
+      "answer": 2,
+      "explanation": "The resolution must be passed by a majority of all the then members of the Rajya Sabha."
+    },
+    {
+      "id": "vice-president-of-india-q28",
+      "difficulty": "hard",
+      "q": "The form of oath taken by the Vice-President requires an affirmation to bear true faith and allegiance to the:",
+      "options": [
+        "Prime Minister",
+        "President",
+        "Parliament",
+        "Constitution of India"
+      ],
+      "answer": 3,
+      "explanation": "The Vice-President swears to bear true faith and allegiance to the Constitution of India."
+    },
+    {
+      "id": "vice-president-of-india-q29",
+      "difficulty": "hard",
+      "q": "If the offices of both President and Vice-President fall vacant, who discharges the functions of President?",
+      "options": [
+        "The Chief Justice of India",
+        "The Prime Minister",
+        "The Speaker of the Lok Sabha",
+        "The senior-most Governor"
+      ],
+      "answer": 0,
+      "explanation": "By law, the Chief Justice of India, or in their absence the senior-most Supreme Court judge, discharges the President's functions in such a situation."
+    },
+    {
+      "id": "vice-president-of-india-q30",
+      "difficulty": "medium",
+      "q": "The salary that the Vice-President draws is in his capacity as:",
+      "options": [
+        "President of the Republic",
+        "Chairman of the Rajya Sabha",
+        "Leader of the House",
+        "Member of Parliament"
+      ],
+      "answer": 1,
+      "explanation": "The Vice-President draws a salary in his capacity as ex-officio Chairman of the Rajya Sabha, as the office of Vice-President itself carries no separate salary."
+    }
+  ]
+}

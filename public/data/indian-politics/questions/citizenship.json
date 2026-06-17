@@ -1,0 +1,395 @@
+{
+  "cardId": "citizenship",
+  "questions": [
+    {
+      "id": "citizenship-q01",
+      "difficulty": "easy",
+      "q": "Citizenship is dealt with in which Part of the Constitution of India?",
+      "options": [
+        "Part II",
+        "Part III",
+        "Part IV",
+        "Part I"
+      ],
+      "answer": 0,
+      "explanation": "Part II of the Constitution, covering Articles 5 to 11, deals with citizenship."
+    },
+    {
+      "id": "citizenship-q02",
+      "difficulty": "easy",
+      "q": "Which Act of Parliament chiefly governs the acquisition and loss of Indian citizenship?",
+      "options": [
+        "The Representation of the People Act, 1951",
+        "The Citizenship Act, 1955",
+        "The Passport Act, 1967",
+        "The Foreigners Act, 1946"
+      ],
+      "answer": 1,
+      "explanation": "The Citizenship Act of 1955 lays down the detailed law on Indian citizenship."
+    },
+    {
+      "id": "citizenship-q03",
+      "difficulty": "easy",
+      "q": "India provides for what kind of citizenship for the whole country?",
+      "options": [
+        "Dual state and national citizenship",
+        "Separate citizenship for each state",
+        "A single, unified citizenship",
+        "Provincial citizenship only"
+      ],
+      "answer": 2,
+      "explanation": "Unlike some federations, India has a single citizenship for the entire country."
+    },
+    {
+      "id": "citizenship-q04",
+      "difficulty": "medium",
+      "q": "Article 5 of the Constitution determined citizenship as on which date?",
+      "options": [
+        "15 August 1947",
+        "26 November 1949",
+        "1 July 1955",
+        "The commencement of the Constitution, 26 January 1950"
+      ],
+      "answer": 3,
+      "explanation": "Article 5 fixed citizenship at the commencement of the Constitution on 26 January 1950."
+    },
+    {
+      "id": "citizenship-q05",
+      "difficulty": "easy",
+      "q": "Which Ministry of the Government of India principally administers citizenship matters?",
+      "options": [
+        "The Ministry of Home Affairs",
+        "The Ministry of External Affairs",
+        "The Ministry of Law and Justice",
+        "The Ministry of Education"
+      ],
+      "answer": 0,
+      "explanation": "The Ministry of Home Affairs administers matters relating to Indian citizenship."
+    },
+    {
+      "id": "citizenship-q06",
+      "difficulty": "medium",
+      "q": "Under the Citizenship Act, which of the following is a recognised mode of acquiring citizenship?",
+      "options": [
+        "By appointment",
+        "By naturalisation",
+        "By election",
+        "By coronation"
+      ],
+      "answer": 1,
+      "explanation": "The Citizenship Act provides for acquisition by birth, descent, registration, naturalisation and incorporation of territory."
+    },
+    {
+      "id": "citizenship-q07",
+      "difficulty": "easy",
+      "q": "A person who acquires citizenship of another country generally faces what consequence under Indian law?",
+      "options": [
+        "Automatic dual citizenship",
+        "Suspension of voting only",
+        "Loss of Indian citizenship",
+        "No effect at all"
+      ],
+      "answer": 2,
+      "explanation": "India does not allow full dual citizenship; acquiring another nationality leads to loss of Indian citizenship."
+    },
+    {
+      "id": "citizenship-q08",
+      "difficulty": "medium",
+      "q": "Which authority has the power to make laws regarding citizenship under Article 11?",
+      "options": [
+        "The state legislatures",
+        "The Supreme Court",
+        "The Election Commission",
+        "Parliament"
+      ],
+      "answer": 3,
+      "explanation": "Article 11 empowers Parliament to regulate the right of citizenship by law."
+    },
+    {
+      "id": "citizenship-q09",
+      "difficulty": "medium",
+      "q": "Which provision describes the partial substitute for dual citizenship introduced for persons of Indian origin abroad?",
+      "options": [
+        "Overseas Citizenship of India (OCI)",
+        "Non-Resident Indian (NRI) status",
+        "Permanent Residency Card",
+        "Foreign National Identity"
+      ],
+      "answer": 0,
+      "explanation": "The Overseas Citizenship of India scheme offers certain rights to persons of Indian origin without full citizenship."
+    },
+    {
+      "id": "citizenship-q10",
+      "difficulty": "easy",
+      "q": "Citizenship by descent applies to a person born outside India whose parent is:",
+      "options": [
+        "A former Indian citizen only",
+        "An Indian citizen at the time of birth",
+        "A naturalised foreigner",
+        "An overseas resident of any country"
+      ],
+      "answer": 1,
+      "explanation": "Citizenship by descent applies where a parent is an Indian citizen at the time of the person's birth, subject to conditions."
+    },
+    {
+      "id": "citizenship-q11",
+      "difficulty": "medium",
+      "q": "The modes of losing Indian citizenship under the Citizenship Act include renunciation, termination and:",
+      "options": [
+        "Demotion",
+        "Suspension",
+        "Deprivation",
+        "Disqualification"
+      ],
+      "answer": 2,
+      "explanation": "Citizenship may be lost by renunciation, termination, or deprivation by the government in specified cases."
+    },
+    {
+      "id": "citizenship-q12",
+      "difficulty": "hard",
+      "q": "Which articles of the Constitution made provisions for migrants to and from Pakistan at the time of Partition?",
+      "options": [
+        "Articles 14 and 15",
+        "Articles 19 and 21",
+        "Articles 24 and 25",
+        "Articles 6 and 7"
+      ],
+      "answer": 3,
+      "explanation": "Articles 6 and 7 dealt with citizenship rights of persons who migrated from and to Pakistan around Partition."
+    },
+    {
+      "id": "citizenship-q13",
+      "difficulty": "hard",
+      "q": "The Citizenship (Amendment) Act that came into effect in 1987 changed citizenship by birth so that, from 1 July 1987, at least one parent must be:",
+      "options": [
+        "An Indian citizen",
+        "A registered voter",
+        "A resident for ten years",
+        "A government employee"
+      ],
+      "answer": 0,
+      "explanation": "From 1 July 1987, citizenship by birth required at least one parent to be an Indian citizen."
+    },
+    {
+      "id": "citizenship-q14",
+      "difficulty": "hard",
+      "q": "Persons born in India on or after 26 January 1950 but before 1 July 1987 acquired citizenship by birth on what basis?",
+      "options": [
+        "Only if both parents were citizens",
+        "By birth in India, irrespective of parents' nationality",
+        "Only by registration",
+        "Only by naturalisation"
+      ],
+      "answer": 1,
+      "explanation": "Those born in India in that period were citizens by birth regardless of their parents' nationality."
+    },
+    {
+      "id": "citizenship-q15",
+      "difficulty": "medium",
+      "q": "An applicant for citizenship by naturalisation must, among other conditions, ordinarily satisfy a requirement of:",
+      "options": [
+        "Holding elected office",
+        "Owning agricultural land",
+        "Residence in India for a prescribed period",
+        "Passing a public examination"
+      ],
+      "answer": 2,
+      "explanation": "Naturalisation requires a qualifying period of residence in India along with other prescribed conditions."
+    },
+    {
+      "id": "citizenship-q16",
+      "difficulty": "easy",
+      "q": "Which of the following is a right generally reserved for Indian citizens and not foreigners?",
+      "options": [
+        "The right to a fair trial",
+        "Protection from arbitrary arrest",
+        "Equality before the law",
+        "The right to vote in general elections"
+      ],
+      "answer": 3,
+      "explanation": "Certain rights, such as voting and contesting elections, are reserved for citizens, while others extend to all persons."
+    },
+    {
+      "id": "citizenship-q17",
+      "difficulty": "medium",
+      "q": "Which Fundamental Right is available only to citizens and not to foreigners?",
+      "options": [
+        "The right to freedom of speech under Article 19",
+        "Equality before law under Article 14",
+        "Protection of life under Article 21",
+        "Freedom of religion under Article 25"
+      ],
+      "answer": 0,
+      "explanation": "Article 19 freedoms are available only to citizens, while Articles 14 and 21 extend to all persons."
+    },
+    {
+      "id": "citizenship-q18",
+      "difficulty": "easy",
+      "q": "Eligibility to be elected President of India requires the candidate to be:",
+      "options": [
+        "A permanent resident",
+        "A citizen of India",
+        "A former civil servant",
+        "An overseas citizen"
+      ],
+      "answer": 1,
+      "explanation": "Only a citizen of India who meets other qualifications can be elected President."
+    },
+    {
+      "id": "citizenship-q19",
+      "difficulty": "medium",
+      "q": "Citizenship by registration is generally available to which category of persons?",
+      "options": [
+        "Any foreigner on arrival",
+        "Only diplomats",
+        "Persons of Indian origin meeting prescribed conditions",
+        "Only sportspersons"
+      ],
+      "answer": 2,
+      "explanation": "Registration is open to certain categories, such as persons of Indian origin, who fulfil statutory conditions."
+    },
+    {
+      "id": "citizenship-q20",
+      "difficulty": "hard",
+      "q": "The Citizenship (Amendment) Act of 2003 introduced the concept of which register related to citizens?",
+      "options": [
+        "The Electoral Photo Identity Register",
+        "The Aadhaar Register",
+        "The Permanent Account Register",
+        "The National Register of Indian Citizens"
+      ],
+      "answer": 3,
+      "explanation": "The 2003 amendment provided for compulsory registration of citizens and a National Register of Indian Citizens."
+    },
+    {
+      "id": "citizenship-q21",
+      "difficulty": "easy",
+      "q": "How many citizenships can a person ordinarily hold under Indian law?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Any number"
+      ],
+      "answer": 0,
+      "explanation": "India follows single citizenship and does not generally permit holding full citizenship of two countries."
+    },
+    {
+      "id": "citizenship-q22",
+      "difficulty": "medium",
+      "q": "Which document is commonly issued to evidence Indian citizenship for international travel?",
+      "options": [
+        "A ration card",
+        "A passport",
+        "A driving licence",
+        "A voter slip"
+      ],
+      "answer": 1,
+      "explanation": "A passport, issued under the Passport Act, is a common document evidencing Indian citizenship for travel."
+    },
+    {
+      "id": "citizenship-q23",
+      "difficulty": "hard",
+      "q": "Acquisition of citizenship by 'incorporation of territory' refers to which situation?",
+      "options": [
+        "When a citizen is born abroad",
+        "When a foreigner marries a citizen",
+        "When a new territory becomes part of India",
+        "When a person renounces foreign citizenship"
+      ],
+      "answer": 2,
+      "explanation": "If a territory becomes part of India, the government may specify the persons of that territory who become citizens."
+    },
+    {
+      "id": "citizenship-q24",
+      "difficulty": "medium",
+      "q": "Indian citizenship law is administered under powers traceable to which legislative competence?",
+      "options": [
+        "The State List",
+        "The Concurrent List",
+        "The Residuary List of states",
+        "The Union List"
+      ],
+      "answer": 3,
+      "explanation": "Citizenship and naturalisation are Union List subjects on which only Parliament can legislate."
+    },
+    {
+      "id": "citizenship-q25",
+      "difficulty": "hard",
+      "q": "An Overseas Citizen of India cardholder is notably NOT entitled to which of the following?",
+      "options": [
+        "The right to vote in Indian elections",
+        "Multiple-entry travel to India",
+        "Exemption from registering with police for long stays",
+        "Parity with non-resident Indians in some matters"
+      ],
+      "answer": 0,
+      "explanation": "OCI cardholders enjoy several privileges but are not granted voting rights or eligibility for public office."
+    },
+    {
+      "id": "citizenship-q26",
+      "difficulty": "easy",
+      "q": "Which of these is a duty associated with citizenship as set out in the Constitution?",
+      "options": [
+        "To hold public office",
+        "To respect the national flag and anthem",
+        "To own property",
+        "To serve in the diplomatic corps"
+      ],
+      "answer": 1,
+      "explanation": "The Fundamental Duties in Part IV-A include respecting the Constitution, the national flag and the anthem."
+    },
+    {
+      "id": "citizenship-q27",
+      "difficulty": "medium",
+      "q": "Termination of citizenship occurs automatically when a citizen voluntarily acquires the citizenship of:",
+      "options": [
+        "A neighbouring state",
+        "An international organisation",
+        "Another country",
+        "A union territory"
+      ],
+      "answer": 2,
+      "explanation": "Under the Citizenship Act, voluntarily acquiring another country's citizenship terminates Indian citizenship."
+    },
+    {
+      "id": "citizenship-q28",
+      "difficulty": "hard",
+      "q": "The earliest Constitution provisions on citizenship, Articles 5 to 11, were intended mainly to:",
+      "options": [
+        "Provide a permanent code of citizenship law",
+        "Grant dual citizenship to migrants",
+        "Reserve citizenship for one community",
+        "Identify citizens at the commencement of the Constitution"
+      ],
+      "answer": 3,
+      "explanation": "Articles 5 to 11 were transitional provisions identifying citizens as on 26 January 1950, leaving the rest to Parliament."
+    },
+    {
+      "id": "citizenship-q29",
+      "difficulty": "medium",
+      "q": "A person who renounces Indian citizenship makes a declaration that takes effect upon being:",
+      "options": [
+        "Registered by the competent authority",
+        "Announced in Parliament",
+        "Approved by the Supreme Court",
+        "Notified to the United Nations"
+      ],
+      "answer": 0,
+      "explanation": "A declaration of renunciation takes effect when it is registered by the prescribed authority."
+    },
+    {
+      "id": "citizenship-q30",
+      "difficulty": "hard",
+      "q": "Citizenship by descent for a person born outside India after a certain date generally requires the birth to be:",
+      "options": [
+        "Approved by the state government",
+        "Registered at an Indian consulate within the prescribed period",
+        "Confirmed by a local panchayat",
+        "Endorsed by two citizens"
+      ],
+      "answer": 1,
+      "explanation": "For citizenship by descent in recent periods, the birth must be registered at an Indian consulate within the prescribed time."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "rule-of-law",
+  "questions": [
+    {
+      "id": "rule-of-law-q01",
+      "difficulty": "easy",
+      "q": "The rule of law holds that all persons and authorities are subject to what?",
+      "options": [
+        "The law",
+        "The Prime Minister",
+        "The military",
+        "A single ruler"
+      ],
+      "answer": 0,
+      "explanation": "The rule of law means everyone, including authorities, is subject to and accountable under the law."
+    },
+    {
+      "id": "rule-of-law-q02",
+      "difficulty": "easy",
+      "q": "A central idea of the rule of law is that the law is applied how?",
+      "options": [
+        "Only to ordinary citizens",
+        "Equally to all",
+        "Only to officials",
+        "Differently for the wealthy"
+      ],
+      "answer": 1,
+      "explanation": "The rule of law requires that the law be applied equally to all persons."
+    },
+    {
+      "id": "rule-of-law-q03",
+      "difficulty": "easy",
+      "q": "The rule of law is regarded as part of which feature of the Indian Constitution?",
+      "options": [
+        "The Emergency provisions",
+        "The Ninth Schedule",
+        "The basic structure",
+        "The Directive Principles only"
+      ],
+      "answer": 2,
+      "explanation": "The rule of law is regarded as part of the basic structure of the Indian Constitution."
+    },
+    {
+      "id": "rule-of-law-q04",
+      "difficulty": "easy",
+      "q": "Which Article guarantees equality before the law and equal protection of the laws?",
+      "options": [
+        "Article 19",
+        "Article 21",
+        "Article 32",
+        "Article 14"
+      ],
+      "answer": 3,
+      "explanation": "Article 14 guarantees equality before the law and equal protection of the laws, embodying the rule of law."
+    },
+    {
+      "id": "rule-of-law-q05",
+      "difficulty": "easy",
+      "q": "Under the rule of law, can the government act against a citizen without legal authority?",
+      "options": [
+        "No, government action must have legal authority",
+        "Yes, at any time",
+        "Only during elections",
+        "Only with media approval"
+      ],
+      "answer": 0,
+      "explanation": "The rule of law requires that government action be backed by legal authority, not arbitrary will."
+    },
+    {
+      "id": "rule-of-law-q06",
+      "difficulty": "easy",
+      "q": "The opposite of the rule of law is best described as what?",
+      "options": [
+        "Judicial review",
+        "Arbitrary or absolute power",
+        "Free elections",
+        "A written constitution"
+      ],
+      "answer": 1,
+      "explanation": "The rule of law stands in contrast to arbitrary or absolute power exercised without legal limits."
+    },
+    {
+      "id": "rule-of-law-q07",
+      "difficulty": "easy",
+      "q": "Which Article protects life and personal liberty, stating no person shall be deprived of them except according to procedure established by law?",
+      "options": [
+        "Article 14",
+        "Article 25",
+        "Article 21",
+        "Article 300A"
+      ],
+      "answer": 2,
+      "explanation": "Article 21 protects life and personal liberty, requiring deprivation only by lawful procedure, central to the rule of law."
+    },
+    {
+      "id": "rule-of-law-q08",
+      "difficulty": "easy",
+      "q": "Under the rule of law, who guards against unlawful government action by interpreting and applying the law?",
+      "options": [
+        "The army",
+        "The press alone",
+        "Foreign courts",
+        "The judiciary"
+      ],
+      "answer": 3,
+      "explanation": "An independent judiciary upholds the rule of law by checking unlawful government action."
+    },
+    {
+      "id": "rule-of-law-q09",
+      "difficulty": "easy",
+      "q": "The supremacy of the Constitution over all organs of government is an aspect of which principle?",
+      "options": [
+        "The rule of law",
+        "Federalism",
+        "Coalition politics",
+        "Universal franchise"
+      ],
+      "answer": 0,
+      "explanation": "Constitutional supremacy, under which all organs act within constitutional limits, is an aspect of the rule of law."
+    },
+    {
+      "id": "rule-of-law-q10",
+      "difficulty": "easy",
+      "q": "The right to move the Supreme Court to enforce fundamental rights, supporting the rule of law, is guaranteed by which Article?",
+      "options": [
+        "Article 51",
+        "Article 32",
+        "Article 80",
+        "Article 280"
+      ],
+      "answer": 1,
+      "explanation": "Article 32 guarantees the right to constitutional remedies, enabling citizens to enforce the rule of law in the Supreme Court."
+    },
+    {
+      "id": "rule-of-law-q11",
+      "difficulty": "medium",
+      "q": "The classic exposition of the rule of law in modern legal thought is associated with which jurist?",
+      "options": [
+        "Montesquieu",
+        "John Locke",
+        "A.V. Dicey",
+        "Jean-Jacques Rousseau"
+      ],
+      "answer": 2,
+      "explanation": "The modern formulation of the rule of law is associated with the British jurist A.V. Dicey."
+    },
+    {
+      "id": "rule-of-law-q12",
+      "difficulty": "medium",
+      "q": "Dicey's conception of the rule of law included the supremacy of law, equality before the law, and what third element?",
+      "options": [
+        "The supremacy of the army",
+        "The rule of a single monarch",
+        "The abolition of all courts",
+        "The predominance of the legal spirit through court decisions"
+      ],
+      "answer": 3,
+      "explanation": "Dicey's third element was that constitutional principles result from court decisions defining the rights of individuals."
+    },
+    {
+      "id": "rule-of-law-q13",
+      "difficulty": "medium",
+      "q": "Article 14's guarantee against arbitrary State action was notably expanded in which 1978 case?",
+      "options": [
+        "Maneka Gandhi v. Union of India",
+        "A.K. Gopalan v. State of Madras",
+        "Golak Nath v. State of Punjab",
+        "Champakam Dorairajan case"
+      ],
+      "answer": 0,
+      "explanation": "In Maneka Gandhi v. Union of India (1978), the Court held that Article 14 strikes at arbitrariness, deepening the rule of law."
+    },
+    {
+      "id": "rule-of-law-q14",
+      "difficulty": "medium",
+      "q": "In which 1980 case did the Supreme Court describe the rule of law as a basic feature of the Constitution?",
+      "options": [
+        "Kesavananda Bharati case",
+        "Minerva Mills v. Union of India",
+        "S.R. Bommai case",
+        "Indra Sawhney case"
+      ],
+      "answer": 1,
+      "explanation": "In Minerva Mills v. Union of India (1980), the Court reaffirmed the rule of law as part of the basic structure."
+    },
+    {
+      "id": "rule-of-law-q15",
+      "difficulty": "medium",
+      "q": "Equality before the law in Article 14 is said to be borrowed from which legal tradition?",
+      "options": [
+        "Roman law",
+        "Customary tribal law",
+        "The British common law tradition",
+        "Maritime law"
+      ],
+      "answer": 2,
+      "explanation": "The phrase 'equality before the law' reflects the British common law tradition associated with Dicey."
+    },
+    {
+      "id": "rule-of-law-q16",
+      "difficulty": "medium",
+      "q": "Article 13 declares that laws inconsistent with which Part of the Constitution are void, reinforcing the rule of law?",
+      "options": [
+        "Part IV, the Directive Principles",
+        "Part IX, the Panchayats",
+        "Part XI, Centre-State relations",
+        "Part III, the Fundamental Rights"
+      ],
+      "answer": 3,
+      "explanation": "Article 13 makes laws inconsistent with the Fundamental Rights in Part III void, upholding legal supremacy."
+    },
+    {
+      "id": "rule-of-law-q17",
+      "difficulty": "medium",
+      "q": "Which Article provides protection against ex-post-facto laws, double jeopardy and self-incrimination, supporting fair legal process?",
+      "options": [
+        "Article 20",
+        "Article 25",
+        "Article 31",
+        "Article 44"
+      ],
+      "answer": 0,
+      "explanation": "Article 20 guarantees protection in respect of conviction for offences, a safeguard tied to the rule of law."
+    },
+    {
+      "id": "rule-of-law-q18",
+      "difficulty": "medium",
+      "q": "Which Article guarantees protection against arbitrary arrest and detention, including the right to be informed of grounds of arrest?",
+      "options": [
+        "Article 19",
+        "Article 22",
+        "Article 29",
+        "Article 39"
+      ],
+      "answer": 1,
+      "explanation": "Article 22 provides safeguards against arbitrary arrest and detention, reinforcing the rule of law."
+    },
+    {
+      "id": "rule-of-law-q19",
+      "difficulty": "medium",
+      "q": "An independent judiciary, essential to the rule of law, is protected partly by security of tenure for judges under which scheme?",
+      "options": [
+        "Annual reappointment by the executive",
+        "Election by the public every year",
+        "Fixed grounds and procedure for removal in the Constitution",
+        "Approval by the Council of Ministers monthly"
+      ],
+      "answer": 2,
+      "explanation": "Judges enjoy security of tenure, removable only on specified grounds and procedure, safeguarding judicial independence."
+    },
+    {
+      "id": "rule-of-law-q20",
+      "difficulty": "medium",
+      "q": "High Courts can issue writs to enforce the rule of law under which Article?",
+      "options": [
+        "Article 245",
+        "Article 280",
+        "Article 356",
+        "Article 226"
+      ],
+      "answer": 3,
+      "explanation": "Article 226 empowers High Courts to issue writs, an important tool for enforcing the rule of law."
+    },
+    {
+      "id": "rule-of-law-q21",
+      "difficulty": "medium",
+      "q": "The principle that even the highest authorities are accountable under the law means that the State can be sued for unlawful acts, a doctrine related to what?",
+      "options": [
+        "State liability and accountability",
+        "Sovereign immunity in all cases",
+        "Diplomatic privilege",
+        "Parliamentary sovereignty without limits"
+      ],
+      "answer": 0,
+      "explanation": "The rule of law supports State accountability, allowing legal remedies against unlawful State action."
+    },
+    {
+      "id": "rule-of-law-q22",
+      "difficulty": "medium",
+      "q": "The phrase 'equal protection of the laws' in Article 14 is associated with which constitutional tradition?",
+      "options": [
+        "The French constitutional tradition",
+        "The American constitutional tradition",
+        "The Soviet legal tradition",
+        "The Ottoman legal tradition"
+      ],
+      "answer": 1,
+      "explanation": "The phrase 'equal protection of the laws' is drawn from the American constitutional tradition."
+    },
+    {
+      "id": "rule-of-law-q23",
+      "difficulty": "hard",
+      "q": "In which 1973 case did the Supreme Court lay down the basic structure doctrine, of which the rule of law is considered a part?",
+      "options": [
+        "A.K. Gopalan v. State of Madras",
+        "Maneka Gandhi v. Union of India",
+        "Kesavananda Bharati v. State of Kerala",
+        "Indra Sawhney v. Union of India"
+      ],
+      "answer": 2,
+      "explanation": "The basic structure doctrine, which includes the rule of law, was laid down in Kesavananda Bharati (1973)."
+    },
+    {
+      "id": "rule-of-law-q24",
+      "difficulty": "hard",
+      "q": "In the Indira Nehru Gandhi election case of 1975, the rule of law was upheld as a basic feature when the Court struck down a clause excluding what from judicial scrutiny?",
+      "options": [
+        "All money bills",
+        "Every constitutional amendment",
+        "The salaries of judges",
+        "The dispute over a specific election"
+      ],
+      "answer": 3,
+      "explanation": "In the 1975 election case, the Court held that placing an election dispute beyond judicial scrutiny violated the rule of law."
+    },
+    {
+      "id": "rule-of-law-q25",
+      "difficulty": "hard",
+      "q": "The expression 'rule of law' is sometimes traced in legal history to which medieval English document limiting the power of the Crown?",
+      "options": [
+        "The Magna Carta",
+        "The Code of Hammurabi",
+        "The Twelve Tables",
+        "The Edicts of Ashoka"
+      ],
+      "answer": 0,
+      "explanation": "The Magna Carta of 1215 is often cited as an early milestone limiting arbitrary power, an antecedent of the rule of law."
+    },
+    {
+      "id": "rule-of-law-q26",
+      "difficulty": "hard",
+      "q": "In Indian constitutional doctrine, the rule of law is closely linked to the prohibition of arbitrariness, a link emphasised in interpreting which Article?",
+      "options": [
+        "Article 300A",
+        "Article 14",
+        "Article 246",
+        "Article 368"
+      ],
+      "answer": 1,
+      "explanation": "The Supreme Court linked the rule of law to non-arbitrariness in its interpretation of Article 14."
+    },
+    {
+      "id": "rule-of-law-q27",
+      "difficulty": "hard",
+      "q": "The administrative law principle that powers must be exercised for proper purposes and within legal limits flows from which broader doctrine?",
+      "options": [
+        "The doctrine of pleasure",
+        "The doctrine of escheat",
+        "The rule of law",
+        "The harmonious construction rule"
+      ],
+      "answer": 2,
+      "explanation": "Limits on administrative discretion to prevent abuse of power derive from the rule of law."
+    },
+    {
+      "id": "rule-of-law-q28",
+      "difficulty": "hard",
+      "q": "The maxim that 'no person is above the law' captures which aspect of the rule of law as Dicey explained it?",
+      "options": [
+        "The supremacy of customary practice",
+        "The immunity of the executive",
+        "The primacy of religious law",
+        "Equality before the law for officials and citizens alike"
+      ],
+      "answer": 3,
+      "explanation": "Dicey's equality element means officials and ordinary citizens are equally subject to the ordinary law and courts."
+    },
+    {
+      "id": "rule-of-law-q29",
+      "difficulty": "hard",
+      "q": "The remedy of habeas corpus, by which courts examine the legality of a person's detention, directly upholds the rule of law and is available under which Articles?",
+      "options": [
+        "Articles 32 and 226",
+        "Articles 14 and 15",
+        "Articles 245 and 246",
+        "Articles 352 and 356"
+      ],
+      "answer": 0,
+      "explanation": "Habeas corpus can be sought under Articles 32 and 226, enabling courts to test the legality of any detention."
+    },
+    {
+      "id": "rule-of-law-q30",
+      "difficulty": "hard",
+      "q": "The doctrine that a law must be clear, certain and prospective so that people can know and follow it is an element of which principle?",
+      "options": [
+        "The doctrine of severability",
+        "The rule of law",
+        "The pith and substance rule",
+        "The doctrine of eclipse"
+      ],
+      "answer": 1,
+      "explanation": "Clarity, certainty and prospective operation of laws are considered essential elements of the rule of law."
+    }
+  ]
+}

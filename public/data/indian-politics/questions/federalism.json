@@ -1,0 +1,395 @@
+{
+  "cardId": "federalism",
+  "questions": [
+    {
+      "id": "federalism-q01",
+      "difficulty": "easy",
+      "q": "In Article 1, the Constitution describes India as which of the following?",
+      "options": [
+        "A Union of States",
+        "A Federation of Provinces",
+        "A Confederation of Regions",
+        "A League of Nations"
+      ],
+      "answer": 0,
+      "explanation": "Article 1(1) declares that 'India, that is Bharat, shall be a Union of States.'"
+    },
+    {
+      "id": "federalism-q02",
+      "difficulty": "easy",
+      "q": "Indian federalism divides powers primarily between which two levels of government?",
+      "options": [
+        "The Centre and the Districts",
+        "The Union and the States",
+        "The President and the Parliament",
+        "The Cabinet and the Judiciary"
+      ],
+      "answer": 1,
+      "explanation": "The federal scheme distributes legislative and administrative powers between the Union and the States."
+    },
+    {
+      "id": "federalism-q03",
+      "difficulty": "easy",
+      "q": "The division of legislative powers in Indian federalism is set out in which Schedule of the Constitution?",
+      "options": [
+        "The First Schedule",
+        "The Fourth Schedule",
+        "The Seventh Schedule",
+        "The Tenth Schedule"
+      ],
+      "answer": 2,
+      "explanation": "The Seventh Schedule contains the Union, State and Concurrent Lists that distribute legislative subjects."
+    },
+    {
+      "id": "federalism-q04",
+      "difficulty": "easy",
+      "q": "Indian federalism is often described as having which additional character?",
+      "options": [
+        "A purely confederal basis",
+        "No central authority",
+        "A monarchical structure",
+        "Strong unitary features"
+      ],
+      "answer": 3,
+      "explanation": "India follows a federal structure while retaining strong unitary features, especially in emergencies."
+    },
+    {
+      "id": "federalism-q05",
+      "difficulty": "easy",
+      "q": "Which part of the Constitution chiefly deals with relations between the Union and the States?",
+      "options": [
+        "Part XI",
+        "Part II",
+        "Part V",
+        "Part IX"
+      ],
+      "answer": 0,
+      "explanation": "Part XI of the Constitution governs legislative and administrative relations between the Union and the States."
+    },
+    {
+      "id": "federalism-q06",
+      "difficulty": "easy",
+      "q": "Which of the following is a feature commonly associated with a federal system?",
+      "options": [
+        "A single elected village council",
+        "A written constitution dividing powers",
+        "An unwritten code of customs only",
+        "A directly elected head of state"
+      ],
+      "answer": 1,
+      "explanation": "Federal systems typically have a written constitution that divides powers between two levels of government."
+    },
+    {
+      "id": "federalism-q07",
+      "difficulty": "easy",
+      "q": "Under the Constitution, the boundaries and names of states are listed in which Schedule?",
+      "options": [
+        "The Second Schedule",
+        "The Fifth Schedule",
+        "The First Schedule",
+        "The Seventh Schedule"
+      ],
+      "answer": 2,
+      "explanation": "The First Schedule lists the States and Union Territories of India and their territories."
+    },
+    {
+      "id": "federalism-q08",
+      "difficulty": "easy",
+      "q": "In Indian federalism, residuary powers of legislation are vested in which level?",
+      "options": [
+        "The State Legislatures",
+        "The local panchayats",
+        "The municipal bodies",
+        "The Union Parliament"
+      ],
+      "answer": 3,
+      "explanation": "Article 248 vests residuary powers, those not in any list, in the Union Parliament."
+    },
+    {
+      "id": "federalism-q09",
+      "difficulty": "easy",
+      "q": "Which body recommends the sharing of tax revenues between the Union and the States?",
+      "options": [
+        "The Finance Commission",
+        "The Election Commission",
+        "The Public Accounts Committee",
+        "The Law Commission"
+      ],
+      "answer": 0,
+      "explanation": "The Finance Commission, under Article 280, recommends the distribution of tax revenues between the Union and the States."
+    },
+    {
+      "id": "federalism-q10",
+      "difficulty": "easy",
+      "q": "Each state in the Indian federal structure has a constitutional head known as the:",
+      "options": [
+        "Mayor",
+        "Governor",
+        "Sarpanch",
+        "Collector"
+      ],
+      "answer": 1,
+      "explanation": "The Governor is the constitutional head of a state, appointed by the President."
+    },
+    {
+      "id": "federalism-q11",
+      "difficulty": "medium",
+      "q": "Which constitutional body was established by the 73rd Amendment to strengthen the local tier of governance?",
+      "options": [
+        "The Rajya Sabha",
+        "The Inter-State Council",
+        "Panchayati Raj institutions",
+        "The Zonal Councils"
+      ],
+      "answer": 2,
+      "explanation": "The 73rd Amendment of 1992 gave constitutional status to rural Panchayati Raj institutions."
+    },
+    {
+      "id": "federalism-q12",
+      "difficulty": "medium",
+      "q": "The Inter-State Council, a body to promote Centre-State coordination, is provided for under which Article?",
+      "options": [
+        "Article 280",
+        "Article 324",
+        "Article 356",
+        "Article 263"
+      ],
+      "answer": 3,
+      "explanation": "Article 263 empowers the President to establish an Inter-State Council for coordination between governments."
+    },
+    {
+      "id": "federalism-q13",
+      "difficulty": "medium",
+      "q": "Which Article allows Parliament to legislate on a State List subject in the national interest if the Rajya Sabha so resolves?",
+      "options": [
+        "Article 249",
+        "Article 240",
+        "Article 370",
+        "Article 312"
+      ],
+      "answer": 0,
+      "explanation": "Article 249 lets Parliament legislate on a State List matter if the Rajya Sabha passes a resolution by two-thirds majority."
+    },
+    {
+      "id": "federalism-q14",
+      "difficulty": "medium",
+      "q": "When a Proclamation of Emergency is in operation, Parliament may legislate on which subjects?",
+      "options": [
+        "Only the Union List",
+        "Subjects in the State List as well",
+        "Only the Concurrent List",
+        "Only the residuary subjects"
+      ],
+      "answer": 1,
+      "explanation": "Under Article 250, during a National Emergency Parliament can make laws even on State List subjects."
+    },
+    {
+      "id": "federalism-q15",
+      "difficulty": "medium",
+      "q": "The Commission whose recommendations led to states being reorganised largely on linguistic lines in 1956 was the:",
+      "options": [
+        "Sarkaria Commission",
+        "Mandal Commission",
+        "States Reorganisation Commission",
+        "Punchhi Commission"
+      ],
+      "answer": 2,
+      "explanation": "The States Reorganisation Commission's report led to the States Reorganisation Act of 1956."
+    },
+    {
+      "id": "federalism-q16",
+      "difficulty": "medium",
+      "q": "The 1980s commission that examined Centre-State relations in detail was the:",
+      "options": [
+        "Rajamannar Committee",
+        "Kothari Commission",
+        "Shah Commission",
+        "Sarkaria Commission"
+      ],
+      "answer": 3,
+      "explanation": "The Sarkaria Commission, set up in 1983, reviewed and recommended reforms in Centre-State relations."
+    },
+    {
+      "id": "federalism-q17",
+      "difficulty": "medium",
+      "q": "Which institution, established in 2015, describes 'cooperative federalism' as one of its guiding aims?",
+      "options": [
+        "NITI Aayog",
+        "The Planning Commission",
+        "The National Development Council",
+        "The Zonal Councils"
+      ],
+      "answer": 0,
+      "explanation": "NITI Aayog, the successor to the Planning Commission, was set up in 2015 to foster cooperative federalism."
+    },
+    {
+      "id": "federalism-q18",
+      "difficulty": "medium",
+      "q": "Zonal Councils, created to promote inter-state cooperation, were established under which legislation?",
+      "options": [
+        "The Government of India Act, 1935",
+        "The States Reorganisation Act, 1956",
+        "The Representation of the People Act, 1951",
+        "The Citizenship Act, 1955"
+      ],
+      "answer": 1,
+      "explanation": "The States Reorganisation Act of 1956 provided for the creation of Zonal Councils as advisory bodies."
+    },
+    {
+      "id": "federalism-q19",
+      "difficulty": "medium",
+      "q": "In matters administered jointly, which list contains subjects on which both the Union and States may legislate?",
+      "options": [
+        "The Union List",
+        "The State List",
+        "The Concurrent List",
+        "The Residuary List"
+      ],
+      "answer": 2,
+      "explanation": "The Concurrent List contains subjects on which both Parliament and State Legislatures may make laws."
+    },
+    {
+      "id": "federalism-q20",
+      "difficulty": "medium",
+      "q": "The GST Council, a federal body for indirect tax decisions, was created by which Constitutional Amendment?",
+      "options": [
+        "The 73rd Amendment",
+        "The 42nd Amendment",
+        "The 52nd Amendment",
+        "The 101st Amendment"
+      ],
+      "answer": 3,
+      "explanation": "The 101st Amendment of 2016 introduced the Goods and Services Tax and created the GST Council under Article 279A."
+    },
+    {
+      "id": "federalism-q21",
+      "difficulty": "medium",
+      "q": "Which Article provides for the President's rule in a state when its constitutional machinery fails?",
+      "options": [
+        "Article 356",
+        "Article 352",
+        "Article 360",
+        "Article 368"
+      ],
+      "answer": 0,
+      "explanation": "Article 356 allows the imposition of President's rule in a state on the failure of constitutional machinery."
+    },
+    {
+      "id": "federalism-q22",
+      "difficulty": "medium",
+      "q": "All-India Services common to the Union and the States are provided for under which Article?",
+      "options": [
+        "Article 315",
+        "Article 312",
+        "Article 324",
+        "Article 280"
+      ],
+      "answer": 1,
+      "explanation": "Article 312 provides for the creation of All-India Services common to the Union and the States."
+    },
+    {
+      "id": "federalism-q23",
+      "difficulty": "hard",
+      "q": "The 1994 Supreme Court judgment that laid down guidelines on the use of Article 356 and called federalism part of the basic structure was:",
+      "options": [
+        "Kesavananda Bharati v. State of Kerala",
+        "Minerva Mills v. Union of India",
+        "S.R. Bommai v. Union of India",
+        "Golak Nath v. State of Punjab"
+      ],
+      "answer": 2,
+      "explanation": "In S.R. Bommai (1994), the Supreme Court held federalism to be part of the basic structure and restrained misuse of Article 356."
+    },
+    {
+      "id": "federalism-q24",
+      "difficulty": "hard",
+      "q": "The second commission on Centre-State relations, which submitted its report in 2010, was chaired by:",
+      "options": [
+        "Justice R.S. Sarkaria",
+        "Justice B.P. Jeevan Reddy",
+        "Justice J.S. Verma",
+        "Justice M.M. Punchhi"
+      ],
+      "answer": 3,
+      "explanation": "The Punchhi Commission, headed by Justice M.M. Punchhi, submitted its report on Centre-State relations in 2010."
+    },
+    {
+      "id": "federalism-q25",
+      "difficulty": "hard",
+      "q": "Under Article 254, in case of repugnancy on a Concurrent List subject, which law generally prevails?",
+      "options": [
+        "The Union law",
+        "The State law",
+        "The older of the two laws",
+        "Neither law applies"
+      ],
+      "answer": 0,
+      "explanation": "Article 254 provides that, in case of conflict on a Concurrent subject, Union law generally prevails over State law."
+    },
+    {
+      "id": "federalism-q26",
+      "difficulty": "hard",
+      "q": "The administrative framework of Indian federalism drew heavily from which earlier statute?",
+      "options": [
+        "The Indian Councils Act, 1909",
+        "The Government of India Act, 1935",
+        "The Charter Act of 1833",
+        "The Regulating Act of 1773"
+      ],
+      "answer": 1,
+      "explanation": "The federal scheme, including the division of powers, was largely modelled on the Government of India Act, 1935."
+    },
+    {
+      "id": "federalism-q27",
+      "difficulty": "hard",
+      "q": "Which feature is often cited as evidence that Indian federalism leans toward a strong Centre?",
+      "options": [
+        "Separate constitutions for each state",
+        "Equal representation of all states in the Rajya Sabha",
+        "A single, unified citizenship for the whole country",
+        "An absolute right of states to secede"
+      ],
+      "answer": 2,
+      "explanation": "India provides a single citizenship for the whole country, a unitary feature within its federal structure."
+    },
+    {
+      "id": "federalism-q28",
+      "difficulty": "hard",
+      "q": "Asymmetric federal arrangements, where some units have special provisions, are illustrated in India by:",
+      "options": [
+        "Identical powers granted to every state",
+        "A uniform tax rate fixed for all states",
+        "A single legislature for all states",
+        "Special provisions for certain states under Articles 371 to 371-J"
+      ],
+      "answer": 3,
+      "explanation": "Articles 371 to 371-J contain special provisions for certain states, reflecting asymmetric federalism."
+    },
+    {
+      "id": "federalism-q29",
+      "difficulty": "hard",
+      "q": "The power to alter the boundaries, area or name of an existing state rests with which body?",
+      "options": [
+        "Parliament, by ordinary law under Article 3",
+        "The state legislature alone",
+        "The Supreme Court by decree",
+        "The Governor by proclamation"
+      ],
+      "answer": 0,
+      "explanation": "Article 3 empowers Parliament to form new states or alter areas, boundaries or names of existing states."
+    },
+    {
+      "id": "federalism-q30",
+      "difficulty": "hard",
+      "q": "During a Financial Emergency under Article 360, the Union may give directions to the states regarding:",
+      "options": [
+        "Choice of the state Chief Minister",
+        "Canons of financial propriety",
+        "Conduct of state assembly elections",
+        "Appointment of High Court judges"
+      ],
+      "answer": 1,
+      "explanation": "Under Article 360, the Union may direct states to observe specified canons of financial propriety during a Financial Emergency."
+    }
+  ]
+}

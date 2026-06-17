@@ -1,0 +1,395 @@
+{
+  "cardId": "national-emblem",
+  "questions": [
+    {
+      "id": "national-emblem-q01",
+      "difficulty": "easy",
+      "q": "The State Emblem of India is adapted from which ancient sculpture?",
+      "options": [
+        "The Lion Capital of Ashoka",
+        "The Iron Pillar of Delhi",
+        "The Konark Sun Temple wheel",
+        "The Sanchi Stupa gateway"
+      ],
+      "answer": 0,
+      "explanation": "The National Emblem is adapted from the Lion Capital of Ashoka."
+    },
+    {
+      "id": "national-emblem-q02",
+      "difficulty": "easy",
+      "q": "At which site was the original Lion Capital of Ashoka erected?",
+      "options": [
+        "Bodh Gaya",
+        "Sarnath",
+        "Lumbini",
+        "Kushinagar"
+      ],
+      "answer": 1,
+      "explanation": "The Lion Capital was originally erected at Sarnath, near Varanasi."
+    },
+    {
+      "id": "national-emblem-q03",
+      "difficulty": "easy",
+      "q": "What is the motto inscribed below the National Emblem?",
+      "options": [
+        "Vande Mataram",
+        "Jana Gana Mana",
+        "Satyameva Jayate",
+        "Jai Hind"
+      ],
+      "answer": 2,
+      "explanation": "The motto inscribed below the emblem is 'Satyameva Jayate'."
+    },
+    {
+      "id": "national-emblem-q04",
+      "difficulty": "easy",
+      "q": "What does the motto 'Satyameva Jayate' mean in English?",
+      "options": [
+        "Unity in Diversity",
+        "Peace and Prosperity",
+        "Duty Before Self",
+        "Truth Alone Triumphs"
+      ],
+      "answer": 3,
+      "explanation": "'Satyameva Jayate' means 'Truth Alone Triumphs'."
+    },
+    {
+      "id": "national-emblem-q05",
+      "difficulty": "easy",
+      "q": "On which date was the State Emblem of India adopted?",
+      "options": [
+        "15 August 1947",
+        "26 January 1950",
+        "26 November 1949",
+        "2 October 1950"
+      ],
+      "answer": 1,
+      "explanation": "The State Emblem of India was adopted on 26 January 1950."
+    },
+    {
+      "id": "national-emblem-q06",
+      "difficulty": "easy",
+      "q": "In which script is the motto 'Satyameva Jayate' written on the emblem?",
+      "options": [
+        "Roman",
+        "Gurmukhi",
+        "Devanagari",
+        "Bengali"
+      ],
+      "answer": 2,
+      "explanation": "The motto is inscribed in Devanagari script."
+    },
+    {
+      "id": "national-emblem-q07",
+      "difficulty": "easy",
+      "q": "How many lions are visible in the National Emblem as commonly depicted?",
+      "options": [
+        "Two",
+        "Four",
+        "Five",
+        "Three"
+      ],
+      "answer": 3,
+      "explanation": "Three lions are visible in the emblem, the fourth being hidden from view."
+    },
+    {
+      "id": "national-emblem-q08",
+      "difficulty": "easy",
+      "q": "The ruler associated with the original Lion Capital was which Mauryan emperor?",
+      "options": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Samudragupta"
+      ],
+      "answer": 0,
+      "explanation": "The Lion Capital was set up by the Mauryan emperor Ashoka."
+    },
+    {
+      "id": "national-emblem-q09",
+      "difficulty": "easy",
+      "q": "A wheel appears in the abacus of the National Emblem. What is this wheel called?",
+      "options": [
+        "The Sudarshana Chakra",
+        "The spinning wheel",
+        "The Ashoka Chakra (Dharma Chakra)",
+        "The zodiac wheel"
+      ],
+      "answer": 2,
+      "explanation": "The wheel in the emblem is the Ashoka Chakra, also called the Dharma Chakra (wheel of law)."
+    },
+    {
+      "id": "national-emblem-q10",
+      "difficulty": "easy",
+      "q": "The National Emblem is used by which entity?",
+      "options": [
+        "Private companies",
+        "Sports federations",
+        "Religious trusts",
+        "The Government of India"
+      ],
+      "answer": 3,
+      "explanation": "The State Emblem is the official emblem of the Government of India."
+    },
+    {
+      "id": "national-emblem-q11",
+      "difficulty": "medium",
+      "q": "The original Lion Capital of Ashoka is preserved in which museum?",
+      "options": [
+        "The Sarnath Museum",
+        "The National Museum, New Delhi",
+        "The Indian Museum, Kolkata",
+        "The Salar Jung Museum"
+      ],
+      "answer": 0,
+      "explanation": "The original Lion Capital is preserved in the Sarnath Museum."
+    },
+    {
+      "id": "national-emblem-q12",
+      "difficulty": "medium",
+      "q": "How many lions does the original Lion Capital of Ashoka actually have, standing back to back?",
+      "options": [
+        "Three",
+        "Four",
+        "Two",
+        "Six"
+      ],
+      "answer": 1,
+      "explanation": "The original Lion Capital has four lions standing back to back, only three of which are visible in the emblem's frontal view."
+    },
+    {
+      "id": "national-emblem-q13",
+      "difficulty": "medium",
+      "q": "The animals depicted on the abacus of the emblem, between the wheels, include the bull, the horse, the elephant and which other animal?",
+      "options": [
+        "The deer",
+        "The peacock",
+        "The camel",
+        "The lion"
+      ],
+      "answer": 3,
+      "explanation": "The abacus carries sculptures of a lion, an elephant, a horse and a bull, separated by wheels."
+    },
+    {
+      "id": "national-emblem-q14",
+      "difficulty": "medium",
+      "q": "The motto 'Satyameva Jayate' is derived from which ancient Indian text?",
+      "options": [
+        "The Mundaka Upanishad",
+        "The Rigveda",
+        "The Bhagavad Gita",
+        "The Arthashastra"
+      ],
+      "answer": 0,
+      "explanation": "'Satyameva Jayate' is taken from the Mundaka Upanishad."
+    },
+    {
+      "id": "national-emblem-q15",
+      "difficulty": "medium",
+      "q": "In the emblem, the lions and the abacus rest upon which feature?",
+      "options": [
+        "A square pedestal",
+        "A bell-shaped lotus",
+        "A coiled serpent",
+        "A stone arch"
+      ],
+      "answer": 1,
+      "explanation": "In the original capital, the abacus rests on a bell-shaped lotus, though this is omitted in the official emblem."
+    },
+    {
+      "id": "national-emblem-q16",
+      "difficulty": "medium",
+      "q": "The Ashoka Chakra from the emblem's abacus also appears at the centre of which national symbol?",
+      "options": [
+        "The national anthem",
+        "The national bird",
+        "The national flag",
+        "The national calendar"
+      ],
+      "answer": 2,
+      "explanation": "The Ashoka Chakra appears in navy blue at the centre of the national flag of India."
+    },
+    {
+      "id": "national-emblem-q17",
+      "difficulty": "medium",
+      "q": "The use of the State Emblem is regulated by a law enacted in which year?",
+      "options": [
+        "2005",
+        "1950",
+        "1971",
+        "1992"
+      ],
+      "answer": 0,
+      "explanation": "The State Emblem of India (Prohibition of Improper Use) Act was enacted in 2005."
+    },
+    {
+      "id": "national-emblem-q18",
+      "difficulty": "medium",
+      "q": "In the official two-dimensional representation of the emblem, how many lions are shown facing the viewer?",
+      "options": [
+        "Four",
+        "Three",
+        "Two",
+        "One"
+      ],
+      "answer": 1,
+      "explanation": "Three lions are shown in the frontal representation, with the fourth hidden behind."
+    },
+    {
+      "id": "national-emblem-q19",
+      "difficulty": "medium",
+      "q": "The National Emblem appears on which of the following official items?",
+      "options": [
+        "Cricket jerseys",
+        "Commercial advertisements",
+        "Indian currency notes and passports",
+        "Private vehicle plates"
+      ],
+      "answer": 2,
+      "explanation": "The State Emblem appears on official items such as currency notes, passports and government documents."
+    },
+    {
+      "id": "national-emblem-q20",
+      "difficulty": "medium",
+      "q": "The wheels (chakras) on the abacus between the animals number how many in the original capital?",
+      "options": [
+        "Three",
+        "Two",
+        "Eight",
+        "Four"
+      ],
+      "answer": 3,
+      "explanation": "The abacus of the original capital has four wheels alternating with the four animals."
+    },
+    {
+      "id": "national-emblem-q21",
+      "difficulty": "medium",
+      "q": "The motto 'Satyameva Jayate' is rendered in which language?",
+      "options": [
+        "Hindi",
+        "Sanskrit",
+        "Pali",
+        "Prakrit"
+      ],
+      "answer": 1,
+      "explanation": "The motto 'Satyameva Jayate' is in Sanskrit, written in the Devanagari script."
+    },
+    {
+      "id": "national-emblem-q22",
+      "difficulty": "medium",
+      "q": "The Lion Capital of Ashoka was originally surmounted by which feature that is not part of the official State Emblem?",
+      "options": [
+        "A statue of a king",
+        "A flag",
+        "A large wheel (Dharma Chakra) above the lions",
+        "A crescent moon"
+      ],
+      "answer": 2,
+      "explanation": "The original capital was crowned by a large Dharma Chakra above the lions, which has since been lost and is not in the emblem."
+    },
+    {
+      "id": "national-emblem-q23",
+      "difficulty": "hard",
+      "q": "The original Lion Capital was carved during which historical period?",
+      "options": [
+        "The Gupta period",
+        "The Mughal period",
+        "The Chola period",
+        "The Mauryan period, around the 3rd century BCE"
+      ],
+      "answer": 3,
+      "explanation": "The Lion Capital dates to the Mauryan period, around the 3rd century BCE, under Ashoka."
+    },
+    {
+      "id": "national-emblem-q24",
+      "difficulty": "hard",
+      "q": "In the official emblem, the words 'Satyameva Jayate' are placed where in relation to the abacus?",
+      "options": [
+        "Below the abacus, on the supporting platform",
+        "Above the lions",
+        "On the lions' manes",
+        "Around the wheel"
+      ],
+      "answer": 0,
+      "explanation": "The motto is inscribed below the abacus on the platform supporting the emblem."
+    },
+    {
+      "id": "national-emblem-q25",
+      "difficulty": "hard",
+      "q": "The Lion Capital was erected by Ashoka to commemorate which event associated with Sarnath?",
+      "options": [
+        "A military victory",
+        "A royal coronation",
+        "The Buddha's first sermon",
+        "The founding of a city"
+      ],
+      "answer": 2,
+      "explanation": "Sarnath is where the Buddha delivered his first sermon, and the pillar marked this sacred site."
+    },
+    {
+      "id": "national-emblem-q26",
+      "difficulty": "hard",
+      "q": "The original Lion Capital is made primarily of which material?",
+      "options": [
+        "Bronze",
+        "Marble",
+        "Granite",
+        "Polished sandstone"
+      ],
+      "answer": 3,
+      "explanation": "The Lion Capital is carved from a single block of polished Chunar sandstone."
+    },
+    {
+      "id": "national-emblem-q27",
+      "difficulty": "hard",
+      "q": "Which body formally approved the design of the State Emblem before its adoption in 1950?",
+      "options": [
+        "The Government of India under the new Constitution",
+        "The United Nations",
+        "The British Crown",
+        "The Indian Olympic Association"
+      ],
+      "answer": 0,
+      "explanation": "The emblem was adopted by the Government of India as the official state emblem on 26 January 1950."
+    },
+    {
+      "id": "national-emblem-q28",
+      "difficulty": "hard",
+      "q": "The four animals on the abacus are often interpreted as guardians of the four directions; which of these is NOT among them?",
+      "options": [
+        "The lion",
+        "The peacock",
+        "The elephant",
+        "The horse"
+      ],
+      "answer": 1,
+      "explanation": "The four animals are the lion, elephant, horse and bull; the peacock is not among them."
+    },
+    {
+      "id": "national-emblem-q29",
+      "difficulty": "hard",
+      "q": "The Dharma Chakra depicted on the abacus is shown with how many spokes, matching the wheel on the national flag?",
+      "options": [
+        "Sixteen",
+        "Thirty-two",
+        "Twelve",
+        "Twenty-four"
+      ],
+      "answer": 3,
+      "explanation": "The Ashoka Chakra has twenty-four spokes, the same number as on the national flag."
+    },
+    {
+      "id": "national-emblem-q30",
+      "difficulty": "hard",
+      "q": "Improper or unauthorised use of the State Emblem is prohibited chiefly to protect which characteristic of the emblem?",
+      "options": [
+        "Its status as an official symbol of authority",
+        "Its commercial trademark value",
+        "Its religious sanctity",
+        "Its artistic copyright"
+      ],
+      "answer": 0,
+      "explanation": "The 2005 Act restricts use of the emblem to preserve its dignity as an official symbol of state authority."
+    }
+  ]
+}

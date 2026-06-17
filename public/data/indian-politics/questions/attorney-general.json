@@ -1,0 +1,395 @@
+{
+  "cardId": "attorney-general",
+  "questions": [
+    {
+      "id": "attorney-general-q01",
+      "difficulty": "easy",
+      "q": "The Attorney General of India is the highest what of the Union?",
+      "options": [
+        "Law officer",
+        "Tax officer",
+        "Audit officer",
+        "Election officer"
+      ],
+      "answer": 0,
+      "explanation": "The Attorney General is the highest law officer of the Union government."
+    },
+    {
+      "id": "attorney-general-q02",
+      "difficulty": "easy",
+      "q": "Who appoints the Attorney General of India?",
+      "options": [
+        "The President of India",
+        "The Chief Justice of India",
+        "Parliament by vote",
+        "The Bar Council"
+      ],
+      "answer": 0,
+      "explanation": "The Attorney General is appointed by the President of India."
+    },
+    {
+      "id": "attorney-general-q03",
+      "difficulty": "easy",
+      "q": "The Attorney General serves as the chief legal adviser to the:",
+      "options": [
+        "Government of India",
+        "Supreme Court",
+        "Reserve Bank",
+        "Election Commission"
+      ],
+      "answer": 0,
+      "explanation": "The Attorney General is the chief legal adviser to the Government of India."
+    },
+    {
+      "id": "attorney-general-q04",
+      "difficulty": "easy",
+      "q": "Who was the first Attorney General of independent India?",
+      "options": [
+        "M.C. Setalvad",
+        "C.K. Daphtary",
+        "Niren De",
+        "Soli Sorabjee"
+      ],
+      "answer": 0,
+      "explanation": "M.C. Setalvad served as the first Attorney General of independent India."
+    },
+    {
+      "id": "attorney-general-q05",
+      "difficulty": "easy",
+      "q": "The Attorney General is part of which branch of the constitutional framework?",
+      "options": [
+        "The executive",
+        "The legislature",
+        "The judiciary",
+        "The press"
+      ],
+      "answer": 0,
+      "explanation": "The Attorney General is a law officer of the executive, advising and representing the government."
+    },
+    {
+      "id": "attorney-general-q06",
+      "difficulty": "easy",
+      "q": "The Attorney General represents the Union government primarily before which court?",
+      "options": [
+        "The Supreme Court of India",
+        "The International Court of Justice",
+        "A local civil court",
+        "A consumer forum"
+      ],
+      "answer": 0,
+      "explanation": "The Attorney General appears on behalf of the government, chiefly before the Supreme Court of India."
+    },
+    {
+      "id": "attorney-general-q07",
+      "difficulty": "easy",
+      "q": "The Attorney General holds office during the:",
+      "options": [
+        "Pleasure of the President",
+        "Fixed term of five years",
+        "Tenure of a single Parliament",
+        "Lifetime of the holder"
+      ],
+      "answer": 0,
+      "explanation": "The Attorney General holds office during the pleasure of the President."
+    },
+    {
+      "id": "attorney-general-q08",
+      "difficulty": "easy",
+      "q": "The Attorney General must be a person qualified to be appointed as a judge of the:",
+      "options": [
+        "Supreme Court",
+        "Lok Sabha",
+        "Rajya Sabha",
+        "State Assembly"
+      ],
+      "answer": 0,
+      "explanation": "The Attorney General must be qualified to be appointed a judge of the Supreme Court."
+    },
+    {
+      "id": "attorney-general-q09",
+      "difficulty": "easy",
+      "q": "The Attorney General is sometimes referred to as the First Law Officer of the:",
+      "options": [
+        "State",
+        "Union",
+        "Municipality",
+        "Judiciary"
+      ],
+      "answer": 1,
+      "explanation": "The Attorney General is the First Law Officer of the Union government."
+    },
+    {
+      "id": "attorney-general-q10",
+      "difficulty": "easy",
+      "q": "The office of the Attorney General is created by the:",
+      "options": [
+        "Companies Act",
+        "Constitution of India",
+        "Income Tax Act",
+        "Representation of the People Act"
+      ],
+      "answer": 1,
+      "explanation": "The office of the Attorney General is a constitutional office created by the Constitution of India."
+    },
+    {
+      "id": "attorney-general-q11",
+      "difficulty": "medium",
+      "q": "Under which Article of the Constitution is the office of the Attorney General provided for?",
+      "options": [
+        "Article 148",
+        "Article 76",
+        "Article 280",
+        "Article 324"
+      ],
+      "answer": 1,
+      "explanation": "Article 76 of the Constitution provides for the office of the Attorney General of India."
+    },
+    {
+      "id": "attorney-general-q12",
+      "difficulty": "medium",
+      "q": "The Attorney General has the right to speak and take part in the proceedings of which body, without a right to vote?",
+      "options": [
+        "The Supreme Court bench",
+        "Both Houses of Parliament",
+        "The Cabinet",
+        "The Election Commission"
+      ],
+      "answer": 1,
+      "explanation": "The Attorney General may speak and participate in proceedings of both Houses of Parliament but cannot vote."
+    },
+    {
+      "id": "attorney-general-q13",
+      "difficulty": "medium",
+      "q": "The qualification required for the Attorney General is the same as that for a judge of the Supreme Court, which is set out in which Article?",
+      "options": [
+        "Article 76",
+        "Article 124",
+        "Article 148",
+        "Article 217"
+      ],
+      "answer": 1,
+      "explanation": "Eligibility to be a Supreme Court judge is set out in Article 124, and the same qualification applies to the Attorney General."
+    },
+    {
+      "id": "attorney-general-q14",
+      "difficulty": "medium",
+      "q": "The remuneration of the Attorney General is determined by whom?",
+      "options": [
+        "Parliament by statute",
+        "The President",
+        "The Chief Justice",
+        "The Bar Council"
+      ],
+      "answer": 1,
+      "explanation": "The Attorney General receives such remuneration as the President may determine."
+    },
+    {
+      "id": "attorney-general-q15",
+      "difficulty": "medium",
+      "q": "In the performance of duties, the Attorney General has the right of audience in:",
+      "options": [
+        "Only the Supreme Court",
+        "All courts in India",
+        "Only High Courts",
+        "Only tribunals"
+      ],
+      "answer": 1,
+      "explanation": "The Attorney General has the right of audience in all courts in the territory of India."
+    },
+    {
+      "id": "attorney-general-q16",
+      "difficulty": "medium",
+      "q": "The Attorney General gives advice to the Government of India on legal matters referred by the:",
+      "options": [
+        "Chief Justice",
+        "President",
+        "Comptroller and Auditor General",
+        "Speaker"
+      ],
+      "answer": 1,
+      "explanation": "The Attorney General advises the government on legal matters referred to the office by the President."
+    },
+    {
+      "id": "attorney-general-q17",
+      "difficulty": "medium",
+      "q": "The Attorney General is assisted by other law officers of the Union, including the:",
+      "options": [
+        "Cabinet Secretary",
+        "Chief Election Commissioner",
+        "Solicitor General",
+        "Governor of the RBI"
+      ],
+      "answer": 2,
+      "explanation": "The Solicitor General and Additional Solicitors General assist the Attorney General as law officers of the Union."
+    },
+    {
+      "id": "attorney-general-q18",
+      "difficulty": "medium",
+      "q": "Unlike a permanent civil servant, the Attorney General is allowed to:",
+      "options": [
+        "Hold a Lok Sabha seat",
+        "Issue currency",
+        "Carry on private legal practice within limits",
+        "Audit accounts"
+      ],
+      "answer": 2,
+      "explanation": "The Attorney General is not a full-time government servant and may carry on private legal practice, subject to restrictions."
+    },
+    {
+      "id": "attorney-general-q19",
+      "difficulty": "medium",
+      "q": "The Constitution does not fix a specific term for the Attorney General; the office instead continues at the:",
+      "options": [
+        "Will of Parliament",
+        "Order of the Supreme Court",
+        "Pleasure of the President",
+        "Choice of the Bar"
+      ],
+      "answer": 2,
+      "explanation": "No fixed term is prescribed; the Attorney General holds office during the pleasure of the President."
+    },
+    {
+      "id": "attorney-general-q20",
+      "difficulty": "medium",
+      "q": "The Attorney General enjoys the privileges of a Member of Parliament in relation to:",
+      "options": [
+        "Voting on bills",
+        "Drawing an MP's salary",
+        "Participation in House proceedings",
+        "Membership of committees as a voting member"
+      ],
+      "answer": 2,
+      "explanation": "The Attorney General enjoys parliamentary privileges relating to participation but not the right to vote."
+    },
+    {
+      "id": "attorney-general-q21",
+      "difficulty": "medium",
+      "q": "The role of the Attorney General is to defend and represent the legal interests of the:",
+      "options": [
+        "Opposition parties",
+        "Individual states only",
+        "Union government",
+        "Private corporations"
+      ],
+      "answer": 2,
+      "explanation": "The Attorney General defends and represents the legal interests of the Union government."
+    },
+    {
+      "id": "attorney-general-q22",
+      "difficulty": "medium",
+      "q": "The Attorney General appears in cases where the Government of India is a party in which type of proceeding before the Supreme Court?",
+      "options": [
+        "Private divorce cases",
+        "Company shareholder disputes",
+        "Constitutional and other government cases",
+        "Local municipal disputes"
+      ],
+      "answer": 2,
+      "explanation": "The Attorney General represents the government in constitutional and other cases where it is a party."
+    },
+    {
+      "id": "attorney-general-q23",
+      "difficulty": "hard",
+      "q": "The first Attorney General, M.C. Setalvad, held the office for an unusually long unbroken period of about how many years?",
+      "options": [
+        "Five years",
+        "Two years",
+        "Thirteen years",
+        "Twenty-five years"
+      ],
+      "answer": 2,
+      "explanation": "M.C. Setalvad served as the first Attorney General for about thirteen years, the longest tenure in the office."
+    },
+    {
+      "id": "attorney-general-q24",
+      "difficulty": "hard",
+      "q": "The Attorney General can accept a brief against the Government of India in which situation?",
+      "options": [
+        "Always, without restriction",
+        "Only in criminal cases",
+        "Only with judicial permission",
+        "Generally not, as it would conflict with the office's duties"
+      ],
+      "answer": 3,
+      "explanation": "By the conditions and conventions of the office, the Attorney General does not advise or hold a brief against the Government of India."
+    },
+    {
+      "id": "attorney-general-q25",
+      "difficulty": "hard",
+      "q": "The Attorney General is barred from defending an accused person in criminal proceedings without the permission of the:",
+      "options": [
+        "Chief Justice",
+        "Speaker",
+        "Bar Council",
+        "Government of India"
+      ],
+      "answer": 3,
+      "explanation": "The Attorney General must obtain the government's permission before defending an accused in criminal proceedings."
+    },
+    {
+      "id": "attorney-general-q26",
+      "difficulty": "hard",
+      "q": "The duties of the Attorney General are partly defined in the Constitution and partly assigned by which authority?",
+      "options": [
+        "The Lok Sabha",
+        "The Supreme Court",
+        "The Cabinet Secretariat",
+        "The President"
+      ],
+      "answer": 3,
+      "explanation": "The Attorney General performs duties of a legal character assigned by the President, in addition to those under the Constitution."
+    },
+    {
+      "id": "attorney-general-q27",
+      "difficulty": "hard",
+      "q": "The Attorney General is not a member of the Cabinet, marking the office as distinct from that of a:",
+      "options": [
+        "Supreme Court judge",
+        "State Governor",
+        "Member of Parliament",
+        "Government Minister"
+      ],
+      "answer": 3,
+      "explanation": "Unlike many other countries, the Attorney General of India is not a member of the Cabinet."
+    },
+    {
+      "id": "attorney-general-q28",
+      "difficulty": "hard",
+      "q": "Article 88 of the Constitution gives the Attorney General the right to take part in proceedings of Parliament and its:",
+      "options": [
+        "Secret ballots",
+        "Voting divisions",
+        "Disciplinary tribunals",
+        "Committees"
+      ],
+      "answer": 3,
+      "explanation": "Article 88 grants the Attorney General the right to speak in and take part in the proceedings of either House and its committees, without voting."
+    },
+    {
+      "id": "attorney-general-q29",
+      "difficulty": "hard",
+      "q": "The state-level counterpart to the Attorney General, who advises a state government, is the:",
+      "options": [
+        "Solicitor General",
+        "Public Prosecutor General",
+        "Chief Legal Secretary",
+        "Advocate General"
+      ],
+      "answer": 3,
+      "explanation": "The Advocate General of a state, under Article 165, is the state-level counterpart to the Attorney General."
+    },
+    {
+      "id": "attorney-general-q30",
+      "difficulty": "hard",
+      "q": "The Attorney General is to discharge the functions conferred by the Constitution or by law and is therefore best described as a:",
+      "options": [
+        "Elected representative",
+        "Career civil servant",
+        "Judicial officer",
+        "Constitutional functionary"
+      ],
+      "answer": 3,
+      "explanation": "Holding a constitutional office under Article 76, the Attorney General is a constitutional functionary rather than an elected or career official."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "speaker-lok-sabha",
+  "questions": [
+    {
+      "id": "speaker-lok-sabha-q01",
+      "difficulty": "easy",
+      "q": "The Speaker is the presiding officer of which House of the Indian Parliament?",
+      "options": [
+        "The Lok Sabha",
+        "The Rajya Sabha",
+        "The Vidhan Parishad",
+        "The Vidhan Sabha"
+      ],
+      "answer": 0,
+      "explanation": "The Speaker is the presiding officer of the Lok Sabha, the lower house of Parliament."
+    },
+    {
+      "id": "speaker-lok-sabha-q02",
+      "difficulty": "easy",
+      "q": "Who was the first Speaker of independent India's Lok Sabha?",
+      "options": [
+        "M. Ananthasayanam Ayyangar",
+        "G.V. Mavalankar",
+        "Hukam Singh",
+        "Sardar Hukam Singh"
+      ],
+      "answer": 1,
+      "explanation": "Ganesh Vasudev Mavalankar was the first Speaker of the Lok Sabha."
+    },
+    {
+      "id": "speaker-lok-sabha-q03",
+      "difficulty": "easy",
+      "q": "How is the Speaker of the Lok Sabha chosen?",
+      "options": [
+        "Appointed by the President",
+        "Nominated by the Prime Minister",
+        "Elected by members of the Lok Sabha",
+        "Selected by the Supreme Court"
+      ],
+      "answer": 2,
+      "explanation": "The Speaker is elected by the members of the Lok Sabha from among themselves."
+    },
+    {
+      "id": "speaker-lok-sabha-q04",
+      "difficulty": "easy",
+      "q": "One main duty of the Speaker is to maintain what during sittings of the House?",
+      "options": [
+        "Military command",
+        "The national budget",
+        "Foreign relations",
+        "Order and discipline"
+      ],
+      "answer": 3,
+      "explanation": "The Speaker conducts the business of the House and maintains order and discipline."
+    },
+    {
+      "id": "speaker-lok-sabha-q05",
+      "difficulty": "easy",
+      "q": "The Speaker must be a member of which body?",
+      "options": [
+        "The Lok Sabha",
+        "The Rajya Sabha",
+        "The Council of Ministers",
+        "The Election Commission"
+      ],
+      "answer": 0,
+      "explanation": "The Speaker is elected from among the members of the Lok Sabha and is therefore one of its members."
+    },
+    {
+      "id": "speaker-lok-sabha-q06",
+      "difficulty": "easy",
+      "q": "Who presides over the Lok Sabha in the absence of the Speaker?",
+      "options": [
+        "The Prime Minister",
+        "The Deputy Speaker",
+        "The Vice-President",
+        "The Leader of the Opposition"
+      ],
+      "answer": 1,
+      "explanation": "In the Speaker's absence, the Deputy Speaker presides over the Lok Sabha."
+    },
+    {
+      "id": "speaker-lok-sabha-q07",
+      "difficulty": "easy",
+      "q": "The Speaker certifies whether a bill is a Money Bill, a power exercised under which type of provision?",
+      "options": [
+        "An executive order",
+        "A party rule",
+        "A constitutional provision",
+        "A judicial guideline"
+      ],
+      "answer": 2,
+      "explanation": "The Constitution gives the Speaker the power to certify whether a bill is a Money Bill."
+    },
+    {
+      "id": "speaker-lok-sabha-q08",
+      "difficulty": "easy",
+      "q": "In which year did G.V. Mavalankar become the first Speaker of the Lok Sabha?",
+      "options": [
+        "1947",
+        "1950",
+        "1956",
+        "1952"
+      ],
+      "answer": 3,
+      "explanation": "G.V. Mavalankar became the first Speaker of the Lok Sabha in 1952."
+    },
+    {
+      "id": "speaker-lok-sabha-q09",
+      "difficulty": "easy",
+      "q": "The ceremonial mace of the House is placed near whose chair when the Lok Sabha is in session?",
+      "options": [
+        "The Speaker's",
+        "The Prime Minister's",
+        "The President's",
+        "The Leader of the House's"
+      ],
+      "answer": 0,
+      "explanation": "The ceremonial mace is placed near the Speaker's chair to symbolise the authority of the presiding officer."
+    },
+    {
+      "id": "speaker-lok-sabha-q10",
+      "difficulty": "easy",
+      "q": "The Speaker of the Lok Sabha is often described as which of the following?",
+      "options": [
+        "Head of state",
+        "Presiding officer of the House",
+        "Head of government",
+        "Chief justice"
+      ],
+      "answer": 1,
+      "explanation": "The Speaker is the presiding officer responsible for conducting the business of the Lok Sabha."
+    },
+    {
+      "id": "speaker-lok-sabha-q11",
+      "difficulty": "medium",
+      "q": "Articles 93 and 94 of the Constitution deal primarily with which office?",
+      "options": [
+        "The President",
+        "The Attorney General",
+        "The Speaker and Deputy Speaker of the Lok Sabha",
+        "The Comptroller and Auditor General"
+      ],
+      "answer": 2,
+      "explanation": "Articles 93 and 94 provide for the offices of the Speaker and Deputy Speaker of the Lok Sabha and their term."
+    },
+    {
+      "id": "speaker-lok-sabha-q12",
+      "difficulty": "medium",
+      "q": "When does the Speaker of the Lok Sabha normally cast a vote?",
+      "options": [
+        "On every motion",
+        "Only on Money Bills",
+        "Never under any circumstance",
+        "Only in the case of a tie (a casting vote)"
+      ],
+      "answer": 3,
+      "explanation": "The Speaker does not vote in the first instance but exercises a casting vote in the case of an equality of votes."
+    },
+    {
+      "id": "speaker-lok-sabha-q13",
+      "difficulty": "medium",
+      "q": "Under the Tenth Schedule, who decides on the disqualification of a Lok Sabha member on grounds of defection?",
+      "options": [
+        "The Speaker",
+        "The President",
+        "The Election Commission",
+        "The Supreme Court directly"
+      ],
+      "answer": 0,
+      "explanation": "The Speaker is the deciding authority on questions of disqualification under the anti-defection provisions of the Tenth Schedule."
+    },
+    {
+      "id": "speaker-lok-sabha-q14",
+      "difficulty": "medium",
+      "q": "To whom does the Speaker of the Lok Sabha submit a resignation letter?",
+      "options": [
+        "To the President",
+        "To the Deputy Speaker",
+        "To the Prime Minister",
+        "To the Vice-President"
+      ],
+      "answer": 1,
+      "explanation": "The Speaker may resign by writing addressed to the Deputy Speaker."
+    },
+    {
+      "id": "speaker-lok-sabha-q15",
+      "difficulty": "medium",
+      "q": "When the Lok Sabha is dissolved, the Speaker continues in office until when?",
+      "options": [
+        "Immediately steps down",
+        "For six more months",
+        "Until just before the first meeting of the newly elected Lok Sabha",
+        "Until the President so directs"
+      ],
+      "answer": 2,
+      "explanation": "The Speaker does not vacate office on dissolution and continues until immediately before the first meeting of the next Lok Sabha."
+    },
+    {
+      "id": "speaker-lok-sabha-q16",
+      "difficulty": "medium",
+      "q": "A resolution to remove the Speaker from office requires what kind of notice?",
+      "options": [
+        "No notice at all",
+        "Approval of the President first",
+        "Three months notice",
+        "At least 14 days notice of intention to move the resolution"
+      ],
+      "answer": 3,
+      "explanation": "A resolution to remove the Speaker can be moved only after at least 14 days notice of the intention to move it."
+    },
+    {
+      "id": "speaker-lok-sabha-q17",
+      "difficulty": "medium",
+      "q": "Who presided over the Lok Sabha as the first Speaker of independent India before the first general elections, in the provisional Parliament?",
+      "options": [
+        "G.V. Mavalankar",
+        "Jawaharlal Nehru",
+        "Rajendra Prasad",
+        "Vallabhbhai Patel"
+      ],
+      "answer": 0,
+      "explanation": "G.V. Mavalankar served as Speaker of the provisional Parliament and then continued as the first Speaker of the Lok Sabha."
+    },
+    {
+      "id": "speaker-lok-sabha-q18",
+      "difficulty": "medium",
+      "q": "Which committee of the Lok Sabha is chaired ex-officio by the Speaker?",
+      "options": [
+        "The Public Accounts Committee",
+        "The Business Advisory Committee",
+        "The Estimates Committee",
+        "The Committee on Public Undertakings"
+      ],
+      "answer": 1,
+      "explanation": "The Speaker is the ex-officio chairperson of the Business Advisory Committee of the Lok Sabha."
+    },
+    {
+      "id": "speaker-lok-sabha-q19",
+      "difficulty": "medium",
+      "q": "G.V. Mavalankar is often given which honorary title for shaping the early procedures of the House?",
+      "options": [
+        "First Citizen of India",
+        "Architect of the Constitution",
+        "Father of the Lok Sabha",
+        "Iron Man of India"
+      ],
+      "answer": 2,
+      "explanation": "G.V. Mavalankar is often called the Father of the Lok Sabha for shaping its early procedures."
+    },
+    {
+      "id": "speaker-lok-sabha-q20",
+      "difficulty": "medium",
+      "q": "The salaries and allowances of the Speaker are charged on which fund, making them non-votable?",
+      "options": [
+        "The Public Account of India",
+        "The National Investment Fund",
+        "The Contingency Fund of India",
+        "The Consolidated Fund of India"
+      ],
+      "answer": 3,
+      "explanation": "The Speaker's salary and allowances are charged on the Consolidated Fund of India and are not subject to the vote of Parliament."
+    },
+    {
+      "id": "speaker-lok-sabha-q21",
+      "difficulty": "medium",
+      "q": "Who acted as the protem (temporary) presiding officer customarily appointed before a new Speaker is elected?",
+      "options": [
+        "The senior-most member, as the pro tem Speaker",
+        "The Prime Minister",
+        "The Vice-President",
+        "The Chief Justice of India"
+      ],
+      "answer": 0,
+      "explanation": "A pro tem Speaker, customarily a senior member, presides over the initial sittings until a new Speaker is elected."
+    },
+    {
+      "id": "speaker-lok-sabha-q22",
+      "difficulty": "medium",
+      "q": "The Speaker presides over a joint sitting of both Houses of Parliament under which scenario?",
+      "options": [
+        "Whenever the Rajya Sabha requests it",
+        "When a joint sitting is summoned to resolve a deadlock on a bill",
+        "Every budget session",
+        "Only to elect the President"
+      ],
+      "answer": 1,
+      "explanation": "The Speaker of the Lok Sabha presides over a joint sitting of both Houses convened to resolve a deadlock over a bill."
+    },
+    {
+      "id": "speaker-lok-sabha-q23",
+      "difficulty": "hard",
+      "q": "G.V. Mavalankar, the first Speaker of the Lok Sabha, served in that office until which year?",
+      "options": [
+        "1952",
+        "1954",
+        "1956",
+        "1962"
+      ],
+      "answer": 2,
+      "explanation": "G.V. Mavalankar served as Speaker of the Lok Sabha from 1952 until his death in 1956."
+    },
+    {
+      "id": "speaker-lok-sabha-q24",
+      "difficulty": "hard",
+      "q": "Who succeeded G.V. Mavalankar to become the second Speaker of the Lok Sabha?",
+      "options": [
+        "Neelam Sanjiva Reddy",
+        "Hukam Singh",
+        "G.S. Dhillon",
+        "M. Ananthasayanam Ayyangar"
+      ],
+      "answer": 3,
+      "explanation": "M. Ananthasayanam Ayyangar became the second Speaker of the Lok Sabha after G.V. Mavalankar."
+    },
+    {
+      "id": "speaker-lok-sabha-q25",
+      "difficulty": "hard",
+      "q": "Which former Speaker of the Lok Sabha later went on to become President of India?",
+      "options": [
+        "Neelam Sanjiva Reddy",
+        "Hukam Singh",
+        "Balram Jakhar",
+        "G.M.C. Balayogi"
+      ],
+      "answer": 0,
+      "explanation": "Neelam Sanjiva Reddy served as Speaker of the Lok Sabha and later became President of India."
+    },
+    {
+      "id": "speaker-lok-sabha-q26",
+      "difficulty": "hard",
+      "q": "Sumitra Mahajan, who served as Speaker from 2014 to 2019, was the second woman to hold the office after which Speaker?",
+      "options": [
+        "Najma Heptulla",
+        "Meira Kumar",
+        "Sucheta Kripalani",
+        "Margaret Alva"
+      ],
+      "answer": 1,
+      "explanation": "Meira Kumar was the first woman Speaker of the Lok Sabha, and Sumitra Mahajan was the second."
+    },
+    {
+      "id": "speaker-lok-sabha-q27",
+      "difficulty": "hard",
+      "q": "Who was the first woman to be elected Speaker of the Lok Sabha?",
+      "options": [
+        "Sumitra Mahajan",
+        "Sushma Swaraj",
+        "Meira Kumar",
+        "Najma Heptulla"
+      ],
+      "answer": 2,
+      "explanation": "Meira Kumar, elected in 2009, was the first woman Speaker of the Lok Sabha."
+    },
+    {
+      "id": "speaker-lok-sabha-q28",
+      "difficulty": "hard",
+      "q": "A decision of the Speaker certifying a bill as a Money Bill is, by the text of the Constitution, declared to be what?",
+      "options": [
+        "Subject to Presidential review",
+        "Reviewable by the Cabinet",
+        "Open to a Rajya Sabha veto",
+        "Final"
+      ],
+      "answer": 3,
+      "explanation": "The Constitution states that the Speaker's certificate that a bill is a Money Bill is final."
+    },
+    {
+      "id": "speaker-lok-sabha-q29",
+      "difficulty": "hard",
+      "q": "The office of Deputy Speaker, who assists the Speaker, is provided for under which Article of the Constitution?",
+      "options": [
+        "Article 93",
+        "Article 76",
+        "Article 94",
+        "Article 95"
+      ],
+      "answer": 0,
+      "explanation": "Article 93 provides for the election of both the Speaker and the Deputy Speaker of the Lok Sabha."
+    },
+    {
+      "id": "speaker-lok-sabha-q30",
+      "difficulty": "hard",
+      "q": "While a resolution for the Speaker's removal is under consideration, the Speaker may speak in and take part in the proceedings but cannot do what?",
+      "options": [
+        "Attend the House",
+        "Cast a normal vote, though may vote in the first instance only on that resolution",
+        "Address the members",
+        "Leave the chamber"
+      ],
+      "answer": 1,
+      "explanation": "While a removal resolution is under consideration, the Speaker may take part but votes only in the first instance and not in the case of a tie on that resolution."
+    }
+  ]
+}

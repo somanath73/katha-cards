@@ -1,0 +1,395 @@
+{
+  "cardId": "amendment-process",
+  "questions": [
+    {
+      "id": "amendment-process-q01",
+      "difficulty": "easy",
+      "q": "Which article lays down the procedure for amending the Constitution of India?",
+      "options": [
+        "Article 368",
+        "Article 356",
+        "Article 280",
+        "Article 324"
+      ],
+      "answer": 0,
+      "explanation": "Article 368 in Part XX prescribes the procedure for amending the Constitution."
+    },
+    {
+      "id": "amendment-process-q02",
+      "difficulty": "easy",
+      "q": "An amendment to the Constitution must generally be passed by which body?",
+      "options": [
+        "The Supreme Court",
+        "Parliament",
+        "The state legislatures alone",
+        "The Election Commission"
+      ],
+      "answer": 1,
+      "explanation": "Constitutional amendments are initiated and passed by Parliament under Article 368."
+    },
+    {
+      "id": "amendment-process-q03",
+      "difficulty": "easy",
+      "q": "Most amendments under Article 368 require what kind of majority in each House?",
+      "options": [
+        "A simple majority only",
+        "A unanimous vote",
+        "A special majority",
+        "A two-thirds majority of the whole country"
+      ],
+      "answer": 2,
+      "explanation": "Article 368 requires a special majority in each House to pass most amendments."
+    },
+    {
+      "id": "amendment-process-q04",
+      "difficulty": "easy",
+      "q": "An amendment Bill can be introduced in which House or Houses of Parliament?",
+      "options": [
+        "Only the Lok Sabha",
+        "Only the Rajya Sabha",
+        "Only a joint sitting",
+        "Either House"
+      ],
+      "answer": 3,
+      "explanation": "An amendment Bill may be introduced in either House of Parliament."
+    },
+    {
+      "id": "amendment-process-q05",
+      "difficulty": "easy",
+      "q": "After both Houses pass an amendment, whose assent is required for it to become law?",
+      "options": [
+        "The President",
+        "The Chief Justice",
+        "The Vice-President",
+        "The Attorney General"
+      ],
+      "answer": 0,
+      "explanation": "An amendment Bill requires the assent of the President to come into force."
+    },
+    {
+      "id": "amendment-process-q06",
+      "difficulty": "easy",
+      "q": "Roughly how many times has the Constitution been amended since 1950?",
+      "options": [
+        "About ten times",
+        "Over a hundred times",
+        "About fifty times",
+        "About three hundred times"
+      ],
+      "answer": 1,
+      "explanation": "The Constitution has been amended over a hundred times since it came into force in 1950."
+    },
+    {
+      "id": "amendment-process-q07",
+      "difficulty": "easy",
+      "q": "Certain amendments, in addition to Parliament, also require ratification by what fraction of the states?",
+      "options": [
+        "All of the states",
+        "One-third of the states",
+        "At least half of the states",
+        "Three-fourths of the states"
+      ],
+      "answer": 2,
+      "explanation": "Amendments affecting federal provisions need ratification by at least half of the state legislatures."
+    },
+    {
+      "id": "amendment-process-q08",
+      "difficulty": "easy",
+      "q": "Article 368 is found in which Part of the Constitution?",
+      "options": [
+        "Part III",
+        "Part IV",
+        "Part XI",
+        "Part XX"
+      ],
+      "answer": 3,
+      "explanation": "Article 368 is contained in Part XX of the Constitution, which deals with amendments."
+    },
+    {
+      "id": "amendment-process-q09",
+      "difficulty": "easy",
+      "q": "The very first amendment to the Constitution was enacted in which year?",
+      "options": [
+        "1951",
+        "1950",
+        "1956",
+        "1976"
+      ],
+      "answer": 0,
+      "explanation": "The First Amendment to the Constitution was passed in 1951."
+    },
+    {
+      "id": "amendment-process-q10",
+      "difficulty": "easy",
+      "q": "For an amendment Bill, is there any provision for a joint sitting to resolve a deadlock between the Houses?",
+      "options": [
+        "Yes, a joint sitting is always held",
+        "No, both Houses must separately pass it",
+        "Yes, but only for money provisions",
+        "Yes, at the President's discretion"
+      ],
+      "answer": 1,
+      "explanation": "There is no provision for a joint sitting for amendment Bills; both Houses must pass them separately."
+    },
+    {
+      "id": "amendment-process-q11",
+      "difficulty": "medium",
+      "q": "A special majority under Article 368 means a majority of the total membership of the House and how many of those present and voting?",
+      "options": [
+        "Three-fourths",
+        "One-half",
+        "Two-thirds",
+        "Three-fifths"
+      ],
+      "answer": 2,
+      "explanation": "A special majority requires more than half the total membership and at least two-thirds of members present and voting."
+    },
+    {
+      "id": "amendment-process-q12",
+      "difficulty": "medium",
+      "q": "Amendments changing the election of the President or the distribution of powers between Union and States require ratification by:",
+      "options": [
+        "Two-thirds of the state legislatures",
+        "All state legislatures",
+        "The President alone",
+        "Half of the state legislatures"
+      ],
+      "answer": 3,
+      "explanation": "Such federal amendments need ratification by at least half of the state legislatures in addition to Parliament."
+    },
+    {
+      "id": "amendment-process-q13",
+      "difficulty": "medium",
+      "q": "Which amendment added the words 'socialist' and 'secular' to the Preamble and is called the 'Mini-Constitution'?",
+      "options": [
+        "The 42nd Amendment",
+        "The 44th Amendment",
+        "The 1st Amendment",
+        "The 73rd Amendment"
+      ],
+      "answer": 0,
+      "explanation": "The 42nd Amendment of 1976 made wide-ranging changes and is known as the Mini-Constitution."
+    },
+    {
+      "id": "amendment-process-q14",
+      "difficulty": "medium",
+      "q": "Which amendment lowered the voting age from 21 to 18 years?",
+      "options": [
+        "The 42nd Amendment",
+        "The 61st Amendment",
+        "The 52nd Amendment",
+        "The 73rd Amendment"
+      ],
+      "answer": 1,
+      "explanation": "The 61st Amendment of 1988 lowered the voting age from 21 to 18 years."
+    },
+    {
+      "id": "amendment-process-q15",
+      "difficulty": "medium",
+      "q": "Which amendment introduced the Anti-Defection Law through the Tenth Schedule?",
+      "options": [
+        "The 42nd Amendment",
+        "The 61st Amendment",
+        "The 52nd Amendment",
+        "The 73rd Amendment"
+      ],
+      "answer": 2,
+      "explanation": "The 52nd Amendment of 1985 added the Tenth Schedule containing the Anti-Defection Law."
+    },
+    {
+      "id": "amendment-process-q16",
+      "difficulty": "medium",
+      "q": "Which amendments gave constitutional status to Panchayati Raj and urban local bodies in 1992?",
+      "options": [
+        "The 42nd and 44th Amendments",
+        "The 52nd and 61st Amendments",
+        "The 86th and 91st Amendments",
+        "The 73rd and 74th Amendments"
+      ],
+      "answer": 3,
+      "explanation": "The 73rd and 74th Amendments of 1992 gave constitutional status to rural and urban local bodies."
+    },
+    {
+      "id": "amendment-process-q17",
+      "difficulty": "medium",
+      "q": "Which amendment introduced the Goods and Services Tax in 2016?",
+      "options": [
+        "The 101st Amendment",
+        "The 42nd Amendment",
+        "The 86th Amendment",
+        "The 73rd Amendment"
+      ],
+      "answer": 0,
+      "explanation": "The 101st Amendment of 2016 introduced the Goods and Services Tax."
+    },
+    {
+      "id": "amendment-process-q18",
+      "difficulty": "medium",
+      "q": "Which amendment made elementary education a Fundamental Right by inserting Article 21A?",
+      "options": [
+        "The 42nd Amendment",
+        "The 86th Amendment",
+        "The 61st Amendment",
+        "The 52nd Amendment"
+      ],
+      "answer": 1,
+      "explanation": "The 86th Amendment of 2002 inserted Article 21A, making free and compulsory education a Fundamental Right."
+    },
+    {
+      "id": "amendment-process-q19",
+      "difficulty": "medium",
+      "q": "Three categories of amendment procedure exist; which type can be done by a simple majority of Parliament?",
+      "options": [
+        "Amendments to Fundamental Rights",
+        "Amendments to the federal structure",
+        "Amendments outside the scope of Article 368",
+        "Amendments to the basic structure"
+      ],
+      "answer": 2,
+      "explanation": "Some provisions can be changed by simple majority, a process not treated as an amendment under Article 368."
+    },
+    {
+      "id": "amendment-process-q20",
+      "difficulty": "medium",
+      "q": "Which amendment is often noted for reducing some emergency provisions and restoring certain safeguards after 1977?",
+      "options": [
+        "The 42nd Amendment",
+        "The 52nd Amendment",
+        "The 61st Amendment",
+        "The 44th Amendment"
+      ],
+      "answer": 3,
+      "explanation": "The 44th Amendment of 1978 revised several provisions, including replacing 'internal disturbance' with 'armed rebellion' for emergencies."
+    },
+    {
+      "id": "amendment-process-q21",
+      "difficulty": "medium",
+      "q": "Which amendment provided for the National Capital Territory of Delhi's special administrative arrangement in 1991?",
+      "options": [
+        "The 69th Amendment",
+        "The 42nd Amendment",
+        "The 73rd Amendment",
+        "The 86th Amendment"
+      ],
+      "answer": 0,
+      "explanation": "The 69th Amendment of 1991 gave the National Capital Territory of Delhi a Legislative Assembly."
+    },
+    {
+      "id": "amendment-process-q22",
+      "difficulty": "medium",
+      "q": "An amendment Bill, once passed and assented to, is numbered and titled as a:",
+      "options": [
+        "Finance Act",
+        "Constitution (Amendment) Act",
+        "Ordinary Act of Parliament",
+        "Presidential Order"
+      ],
+      "answer": 1,
+      "explanation": "A successful amendment becomes a Constitution (Amendment) Act bearing a sequential number."
+    },
+    {
+      "id": "amendment-process-q23",
+      "difficulty": "hard",
+      "q": "The 1973 case that held Parliament cannot amend the basic structure of the Constitution was:",
+      "options": [
+        "Golak Nath v. State of Punjab",
+        "Shankari Prasad v. Union of India",
+        "Kesavananda Bharati v. State of Kerala",
+        "Minerva Mills v. Union of India"
+      ],
+      "answer": 2,
+      "explanation": "Kesavananda Bharati (1973) established that the amending power cannot alter the basic structure."
+    },
+    {
+      "id": "amendment-process-q24",
+      "difficulty": "hard",
+      "q": "The 24th Amendment of 1971 was enacted largely to clarify Parliament's power to do what?",
+      "options": [
+        "Dissolve state legislatures",
+        "Appoint the Chief Justice",
+        "Levy the Goods and Services Tax",
+        "Amend any provision, including Fundamental Rights"
+      ],
+      "answer": 3,
+      "explanation": "The 24th Amendment affirmed Parliament's power under Article 368 to amend any provision, including Fundamental Rights."
+    },
+    {
+      "id": "amendment-process-q25",
+      "difficulty": "hard",
+      "q": "Which clause inserted by the 42nd Amendment, purporting to bar judicial review of amendments, was struck down in Minerva Mills?",
+      "options": [
+        "Clauses (4) and (5) of Article 368",
+        "Article 31C in full",
+        "Article 21A",
+        "The Ninth Schedule entries"
+      ],
+      "answer": 0,
+      "explanation": "Minerva Mills (1980) struck down clauses (4) and (5) of Article 368 that sought to exclude judicial review."
+    },
+    {
+      "id": "amendment-process-q26",
+      "difficulty": "hard",
+      "q": "Before Kesavananda Bharati, the 1951 case that upheld the First Amendment and the power to amend rights was:",
+      "options": [
+        "Golak Nath v. State of Punjab",
+        "Shankari Prasad v. Union of India",
+        "A.K. Gopalan v. State of Madras",
+        "Berubari Union case"
+      ],
+      "answer": 1,
+      "explanation": "Shankari Prasad (1951) upheld Parliament's power to amend Fundamental Rights under Article 368."
+    },
+    {
+      "id": "amendment-process-q27",
+      "difficulty": "hard",
+      "q": "Which amendment added the Fundamental Duties as Part IV-A of the Constitution?",
+      "options": [
+        "The 44th Amendment",
+        "The 86th Amendment",
+        "The 42nd Amendment",
+        "The 52nd Amendment"
+      ],
+      "answer": 2,
+      "explanation": "The 42nd Amendment of 1976 added Part IV-A containing the Fundamental Duties."
+    },
+    {
+      "id": "amendment-process-q28",
+      "difficulty": "hard",
+      "q": "The First Amendment of 1951 introduced which new Schedule to protect certain laws from challenge?",
+      "options": [
+        "The Tenth Schedule",
+        "The Eleventh Schedule",
+        "The Twelfth Schedule",
+        "The Ninth Schedule"
+      ],
+      "answer": 3,
+      "explanation": "The First Amendment added the Ninth Schedule to shield certain laws, mainly land reforms, from challenge."
+    },
+    {
+      "id": "amendment-process-q29",
+      "difficulty": "hard",
+      "q": "Which amendment in 2019 provided a 10 percent reservation for economically weaker sections?",
+      "options": [
+        "The 103rd Amendment",
+        "The 101st Amendment",
+        "The 86th Amendment",
+        "The 73rd Amendment"
+      ],
+      "answer": 0,
+      "explanation": "The 103rd Amendment of 2019 introduced reservation for economically weaker sections in education and public employment."
+    },
+    {
+      "id": "amendment-process-q30",
+      "difficulty": "hard",
+      "q": "Which amendment added the Eleventh and Twelfth Schedules to the Constitution?",
+      "options": [
+        "The 42nd and 44th Amendments",
+        "The 73rd and 74th Amendments",
+        "The 52nd and 61st Amendments",
+        "The 1st and 24th Amendments"
+      ],
+      "answer": 1,
+      "explanation": "The 73rd Amendment added the Eleventh Schedule and the 74th added the Twelfth Schedule for local bodies."
+    }
+  ]
+}

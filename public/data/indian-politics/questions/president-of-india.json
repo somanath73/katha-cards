@@ -1,0 +1,395 @@
+{
+  "cardId": "president-of-india",
+  "questions": [
+    {
+      "id": "president-of-india-q01",
+      "difficulty": "easy",
+      "q": "The President of India is the constitutional:",
+      "options": [
+        "Head of state",
+        "Head of government",
+        "Chief Justice",
+        "Leader of the Opposition"
+      ],
+      "answer": 0,
+      "explanation": "The President is the constitutional head of state and the first citizen of India."
+    },
+    {
+      "id": "president-of-india-q02",
+      "difficulty": "easy",
+      "q": "The President of India is described as the country's:",
+      "options": [
+        "Chief minister",
+        "First citizen",
+        "Speaker",
+        "Auditor"
+      ],
+      "answer": 1,
+      "explanation": "The President is regarded as the first citizen of India."
+    },
+    {
+      "id": "president-of-india-q03",
+      "difficulty": "easy",
+      "q": "The President serves as the supreme commander of which institution?",
+      "options": [
+        "The judiciary",
+        "The civil services",
+        "The armed forces",
+        "The Election Commission"
+      ],
+      "answer": 2,
+      "explanation": "The President is the supreme commander of the defence forces of India."
+    },
+    {
+      "id": "president-of-india-q04",
+      "difficulty": "easy",
+      "q": "What is the term of office of the President of India?",
+      "options": [
+        "Four years",
+        "Six years",
+        "Seven years",
+        "Five years"
+      ],
+      "answer": 3,
+      "explanation": "The President holds office for a term of five years."
+    },
+    {
+      "id": "president-of-india-q05",
+      "difficulty": "easy",
+      "q": "Who was the first President of India?",
+      "options": [
+        "Rajendra Prasad",
+        "S. Radhakrishnan",
+        "Zakir Husain",
+        "V.V. Giri"
+      ],
+      "answer": 0,
+      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962."
+    },
+    {
+      "id": "president-of-india-q06",
+      "difficulty": "easy",
+      "q": "Who was the first woman President of India?",
+      "options": [
+        "Droupadi Murmu",
+        "Pratibha Patil",
+        "Sucheta Kripalani",
+        "Indira Gandhi"
+      ],
+      "answer": 1,
+      "explanation": "Pratibha Patil was the first woman President of India, serving from 2007 to 2012."
+    },
+    {
+      "id": "president-of-india-q07",
+      "difficulty": "easy",
+      "q": "The official residence of the President of India is:",
+      "options": [
+        "Parliament House",
+        "South Block",
+        "Rashtrapati Bhavan",
+        "Vigyan Bhavan"
+      ],
+      "answer": 2,
+      "explanation": "Rashtrapati Bhavan in New Delhi is the official residence of the President."
+    },
+    {
+      "id": "president-of-india-q08",
+      "difficulty": "easy",
+      "q": "A bill passed by both Houses of Parliament becomes law after receiving whose assent?",
+      "options": [
+        "The Prime Minister",
+        "The Vice-President",
+        "The Speaker",
+        "The President"
+      ],
+      "answer": 3,
+      "explanation": "A bill becomes an Act after it receives the assent of the President."
+    },
+    {
+      "id": "president-of-india-q09",
+      "difficulty": "easy",
+      "q": "Who appoints the Prime Minister of India?",
+      "options": [
+        "The President",
+        "The Speaker",
+        "The Chief Justice",
+        "The Vice-President"
+      ],
+      "answer": 0,
+      "explanation": "The President appoints the Prime Minister, who is usually the leader of the majority in the Lok Sabha."
+    },
+    {
+      "id": "president-of-india-q10",
+      "difficulty": "easy",
+      "q": "Droupadi Murmu, who assumed office in 2022, is the President with which distinction?",
+      "options": [
+        "First woman President",
+        "First President from a tribal community",
+        "Longest-serving President",
+        "First scientist President"
+      ],
+      "answer": 1,
+      "explanation": "Droupadi Murmu is the first person from a tribal community and the second woman to become President."
+    },
+    {
+      "id": "president-of-india-q11",
+      "difficulty": "medium",
+      "q": "The President is elected by an electoral college consisting of elected members of Parliament and:",
+      "options": [
+        "State governors",
+        "District collectors",
+        "Elected members of state legislative assemblies",
+        "High Court judges"
+      ],
+      "answer": 2,
+      "explanation": "The electoral college comprises elected members of both Houses of Parliament and of the state legislative assemblies."
+    },
+    {
+      "id": "president-of-india-q12",
+      "difficulty": "medium",
+      "q": "The executive power of the Union is vested in the President under which Article?",
+      "options": [
+        "Article 52",
+        "Article 74",
+        "Article 61",
+        "Article 53"
+      ],
+      "answer": 3,
+      "explanation": "Article 53 vests the executive power of the Union in the President."
+    },
+    {
+      "id": "president-of-india-q13",
+      "difficulty": "medium",
+      "q": "What is the minimum age to be eligible for election as President of India?",
+      "options": [
+        "35 years",
+        "30 years",
+        "40 years",
+        "45 years"
+      ],
+      "answer": 0,
+      "explanation": "A candidate for President must have completed 35 years of age."
+    },
+    {
+      "id": "president-of-india-q14",
+      "difficulty": "medium",
+      "q": "The President is elected by which method of voting?",
+      "options": [
+        "First-past-the-post",
+        "Proportional representation by single transferable vote",
+        "Open ballot",
+        "Simple majority of Parliament"
+      ],
+      "answer": 1,
+      "explanation": "The President is elected by proportional representation through the single transferable vote by secret ballot."
+    },
+    {
+      "id": "president-of-india-q15",
+      "difficulty": "medium",
+      "q": "Which Article states that there shall be a President of India?",
+      "options": [
+        "Article 53",
+        "Article 61",
+        "Article 52",
+        "Article 74"
+      ],
+      "answer": 2,
+      "explanation": "Article 52 provides that there shall be a President of India."
+    },
+    {
+      "id": "president-of-india-q16",
+      "difficulty": "medium",
+      "q": "The President exercises functions on the aid and advice of which body?",
+      "options": [
+        "The Supreme Court",
+        "The Election Commission",
+        "The Rajya Sabha",
+        "The Council of Ministers"
+      ],
+      "answer": 3,
+      "explanation": "Under Article 74, the President acts on the aid and advice of the Council of Ministers headed by the Prime Minister."
+    },
+    {
+      "id": "president-of-india-q17",
+      "difficulty": "medium",
+      "q": "The power to grant pardons, reprieves, and remissions of punishment is given to the President under which Article?",
+      "options": [
+        "Article 72",
+        "Article 76",
+        "Article 123",
+        "Article 356"
+      ],
+      "answer": 0,
+      "explanation": "Article 72 grants the President the power to pardon, reprieve, respite, or remit punishment."
+    },
+    {
+      "id": "president-of-india-q18",
+      "difficulty": "medium",
+      "q": "Who administers the oath of office to the President of India?",
+      "options": [
+        "The Prime Minister",
+        "The Chief Justice of India",
+        "The Vice-President",
+        "The Speaker"
+      ],
+      "answer": 1,
+      "explanation": "The Chief Justice of India, or in their absence the senior-most judge of the Supreme Court, administers the oath to the President."
+    },
+    {
+      "id": "president-of-india-q19",
+      "difficulty": "medium",
+      "q": "In the event of a vacancy, who acts as President of India?",
+      "options": [
+        "The Prime Minister",
+        "The Speaker",
+        "The Vice-President",
+        "The Chief Justice"
+      ],
+      "answer": 2,
+      "explanation": "The Vice-President discharges the functions of President during a vacancy in that office."
+    },
+    {
+      "id": "president-of-india-q20",
+      "difficulty": "medium",
+      "q": "Dr. A.P.J. Abdul Kalam, who served as President from 2002 to 2007, was renowned in which field?",
+      "options": [
+        "Law",
+        "Medicine",
+        "Economics",
+        "Aerospace science"
+      ],
+      "answer": 3,
+      "explanation": "A.P.J. Abdul Kalam was a renowned aerospace scientist before becoming the eleventh President."
+    },
+    {
+      "id": "president-of-india-q21",
+      "difficulty": "medium",
+      "q": "The President can be removed from office by a process of:",
+      "options": [
+        "Impeachment for violation of the Constitution",
+        "A no-confidence motion",
+        "A presidential reference",
+        "A referendum"
+      ],
+      "answer": 0,
+      "explanation": "The President can be removed only through impeachment for violation of the Constitution."
+    },
+    {
+      "id": "president-of-india-q22",
+      "difficulty": "hard",
+      "q": "The procedure for impeachment of the President is laid down in which Article?",
+      "options": [
+        "Article 56",
+        "Article 61",
+        "Article 72",
+        "Article 123"
+      ],
+      "answer": 1,
+      "explanation": "Article 61 lays down the procedure for the impeachment of the President."
+    },
+    {
+      "id": "president-of-india-q23",
+      "difficulty": "hard",
+      "q": "An impeachment resolution against the President must be passed by each House by a majority of:",
+      "options": [
+        "A simple majority of those present",
+        "Three-fourths of those present and voting",
+        "Two-thirds of the total membership of that House",
+        "An absolute majority of Parliament jointly"
+      ],
+      "answer": 2,
+      "explanation": "Under Article 61, each House must pass the resolution by a majority of not less than two-thirds of the total membership of that House."
+    },
+    {
+      "id": "president-of-india-q24",
+      "difficulty": "hard",
+      "q": "The President's power to promulgate ordinances is contained in which Article?",
+      "options": [
+        "Article 72",
+        "Article 200",
+        "Article 352",
+        "Article 123"
+      ],
+      "answer": 3,
+      "explanation": "Article 123 empowers the President to promulgate ordinances when Parliament is not in session."
+    },
+    {
+      "id": "president-of-india-q25",
+      "difficulty": "hard",
+      "q": "The President may proclaim a national Emergency on grounds of war, external aggression, or armed rebellion under which Article?",
+      "options": [
+        "Article 352",
+        "Article 356",
+        "Article 360",
+        "Article 365"
+      ],
+      "answer": 0,
+      "explanation": "Article 352 empowers the President to proclaim a national Emergency on these grounds."
+    },
+    {
+      "id": "president-of-india-q26",
+      "difficulty": "hard",
+      "q": "If a presidential election dispute arises, it is decided by:",
+      "options": [
+        "Parliament",
+        "The Supreme Court",
+        "The Election Commission",
+        "The Vice-President"
+      ],
+      "answer": 1,
+      "explanation": "Disputes relating to the election of the President are inquired into and decided by the Supreme Court."
+    },
+    {
+      "id": "president-of-india-q27",
+      "difficulty": "hard",
+      "q": "When a bill is presented to the President, the President may return it for reconsideration, except in the case of a:",
+      "options": [
+        "Private member bill",
+        "Finance bill",
+        "Money bill",
+        "Constitution amendment bill"
+      ],
+      "answer": 2,
+      "explanation": "Under Article 111, the President may return a bill for reconsideration but cannot do so with a money bill."
+    },
+    {
+      "id": "president-of-india-q28",
+      "difficulty": "hard",
+      "q": "The President may seek the advisory opinion of the Supreme Court on a question of law under which Article?",
+      "options": [
+        "Article 72",
+        "Article 124",
+        "Article 32",
+        "Article 143"
+      ],
+      "answer": 3,
+      "explanation": "Article 143 allows the President to refer a question of law or fact to the Supreme Court for its advisory opinion."
+    },
+    {
+      "id": "president-of-india-q29",
+      "difficulty": "hard",
+      "q": "Dr. Rajendra Prasad, the first President, holds the distinction of:",
+      "options": [
+        "Having the longest tenure in the office",
+        "Being the only President elected unopposed",
+        "Being the first scientist President",
+        "Being a former Chief Justice"
+      ],
+      "answer": 0,
+      "explanation": "Rajendra Prasad served from 1950 to 1962, the longest tenure of any President of India."
+    },
+    {
+      "id": "president-of-india-q30",
+      "difficulty": "medium",
+      "q": "A Proclamation of national Emergency under Article 352 must be approved by Parliament within:",
+      "options": [
+        "Fourteen days",
+        "One month",
+        "Two months",
+        "Six months"
+      ],
+      "answer": 1,
+      "explanation": "A Proclamation of Emergency under Article 352 must be approved by both Houses within one month to remain in force."
+    }
+  ]
+}

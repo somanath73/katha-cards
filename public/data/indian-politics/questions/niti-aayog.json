@@ -1,0 +1,245 @@
+{
+  "cardId": "niti-aayog",
+  "questions": [
+    {
+      "id": "niti-aayog-q01",
+      "difficulty": "easy",
+      "q": "In which year was NITI Aayog established?",
+      "options": ["2012", "2014", "2015", "2017"],
+      "answer": 2,
+      "explanation": "NITI Aayog was established on 1 January 2015 as the successor to the Planning Commission."
+    },
+    {
+      "id": "niti-aayog-q02",
+      "difficulty": "easy",
+      "q": "What does the acronym NITI in NITI Aayog stand for?",
+      "options": ["National Industrial Trade Initiative", "New Indian Technology Institute", "National Investment and Trade Index", "National Institution for Transforming India"],
+      "answer": 3,
+      "explanation": "NITI stands for the National Institution for Transforming India."
+    },
+    {
+      "id": "niti-aayog-q03",
+      "difficulty": "easy",
+      "q": "Which body did NITI Aayog replace?",
+      "options": ["Finance Commission", "Planning Commission", "Election Commission", "Reserve Bank of India"],
+      "answer": 1,
+      "explanation": "NITI Aayog replaced the Planning Commission, which had functioned since 1950."
+    },
+    {
+      "id": "niti-aayog-q04",
+      "difficulty": "easy",
+      "q": "Who serves as the ex-officio Chairperson of NITI Aayog?",
+      "options": ["The President", "The Finance Minister", "The Prime Minister", "The Vice-President"],
+      "answer": 2,
+      "explanation": "The Prime Minister of India is the ex-officio Chairperson of NITI Aayog."
+    },
+    {
+      "id": "niti-aayog-q05",
+      "difficulty": "easy",
+      "q": "NITI Aayog is best described as the government's premier:",
+      "options": ["Auditing body", "Policy think tank", "Election body", "Judicial body"],
+      "answer": 1,
+      "explanation": "NITI Aayog serves as the government's premier policy think tank."
+    },
+    {
+      "id": "niti-aayog-q06",
+      "difficulty": "easy",
+      "q": "One of the guiding principles of NITI Aayog is to foster which kind of relationship between the Centre and states?",
+      "options": ["Competitive federalism only", "Fiscal centralisation", "Cooperative federalism", "Judicial federalism"],
+      "answer": 2,
+      "explanation": "NITI Aayog was created to foster cooperative federalism among the Centre and the states."
+    },
+    {
+      "id": "niti-aayog-q07",
+      "difficulty": "easy",
+      "q": "In which city is NITI Aayog headquartered?",
+      "options": ["Mumbai", "New Delhi", "Bengaluru", "Hyderabad"],
+      "answer": 1,
+      "explanation": "NITI Aayog is headquartered in New Delhi."
+    },
+    {
+      "id": "niti-aayog-q08",
+      "difficulty": "easy",
+      "q": "NITI Aayog was created through which kind of instrument?",
+      "options": ["A constitutional amendment", "An Act of Parliament", "A Union Cabinet resolution", "A Supreme Court ruling"],
+      "answer": 2,
+      "explanation": "NITI Aayog was set up by a Union Cabinet resolution, making it a non-constitutional, non-statutory body."
+    },
+    {
+      "id": "niti-aayog-q09",
+      "difficulty": "easy",
+      "q": "Unlike its predecessor, NITI Aayog does not have the direct power to allocate funds to states; this distinguishes it from the:",
+      "options": ["Planning Commission", "Finance Ministry", "Reserve Bank", "Election Commission"],
+      "answer": 0,
+      "explanation": "Unlike the Planning Commission, NITI Aayog does not allocate plan funds; it functions primarily as an advisory think tank."
+    },
+    {
+      "id": "niti-aayog-q10",
+      "difficulty": "easy",
+      "q": "The full strength of the NITI Aayog's apex council includes the Prime Minister and the heads of which governments?",
+      "options": ["Foreign governments", "Municipal governments only", "District panchayats", "State and union territory governments"],
+      "answer": 3,
+      "explanation": "The Governing Council of NITI Aayog includes the Chief Ministers of states and Lieutenant Governors of union territories."
+    },
+    {
+      "id": "niti-aayog-q11",
+      "difficulty": "medium",
+      "q": "The day-to-day functioning of NITI Aayog is overseen by which official?",
+      "options": ["The Cabinet Secretary", "The Comptroller and Auditor General", "The Chief Justice", "The Chief Executive Officer"],
+      "answer": 3,
+      "explanation": "A Chief Executive Officer, appointed by the Prime Minister, manages the day-to-day functioning of NITI Aayog."
+    },
+    {
+      "id": "niti-aayog-q12",
+      "difficulty": "medium",
+      "q": "The body within NITI Aayog comprising the Prime Minister and all Chief Ministers is called the:",
+      "options": ["Governing Council", "National Development Council", "Inter-State Council", "Finance Council"],
+      "answer": 0,
+      "explanation": "The Governing Council of NITI Aayog comprises the Prime Minister, Chief Ministers and Lieutenant Governors."
+    },
+    {
+      "id": "niti-aayog-q13",
+      "difficulty": "medium",
+      "q": "Who was the first Vice-Chairperson of NITI Aayog?",
+      "options": ["Rajiv Kumar", "Amitabh Kant", "Suman Bery", "Arvind Panagariya"],
+      "answer": 3,
+      "explanation": "Economist Arvind Panagariya served as the first Vice-Chairperson of NITI Aayog."
+    },
+    {
+      "id": "niti-aayog-q14",
+      "difficulty": "medium",
+      "q": "NITI Aayog publishes an index ranking states on which broad area of human well-being?",
+      "options": ["Defence preparedness", "Stock market performance", "Health and education", "Foreign exchange reserves"],
+      "answer": 2,
+      "explanation": "NITI Aayog publishes indices tracking states on areas such as health, education and water management."
+    },
+    {
+      "id": "niti-aayog-q15",
+      "difficulty": "medium",
+      "q": "The NITI Aayog initiative aimed at rapidly improving the most underdeveloped districts is called the:",
+      "options": ["Smart Cities Mission", "Aspirational Districts Programme", "Make in India", "Digital India"],
+      "answer": 1,
+      "explanation": "The Aspirational Districts Programme, launched in 2018, is a NITI Aayog initiative to develop India's most backward districts."
+    },
+    {
+      "id": "niti-aayog-q16",
+      "difficulty": "medium",
+      "q": "The flagship programme run by NITI Aayog to promote innovation and entrepreneurship is called the:",
+      "options": ["Atal Innovation Mission", "Startup Bharat", "Digital Skill Mission", "Innovate India Fund"],
+      "answer": 0,
+      "explanation": "The Atal Innovation Mission, including Atal Tinkering Labs, is run under NITI Aayog to foster innovation."
+    },
+    {
+      "id": "niti-aayog-q17",
+      "difficulty": "medium",
+      "q": "NITI Aayog is structured around which two main hubs reflecting its dual focus?",
+      "options": ["Finance and Audit Hub", "Defence and Trade Hub", "Election and Census Hub", "Team India and Knowledge and Innovation Hub"],
+      "answer": 3,
+      "explanation": "NITI Aayog is organised around the Team India Hub and the Knowledge and Innovation Hub."
+    },
+    {
+      "id": "niti-aayog-q18",
+      "difficulty": "medium",
+      "q": "Members of NITI Aayog who are nominated experts but do not hold full-time positions are called:",
+      "options": ["Special Invitees", "Part-time Members", "Ex-officio Members", "Honorary Fellows"],
+      "answer": 1,
+      "explanation": "NITI Aayog includes part-time members drawn from leading universities, research organisations and relevant fields."
+    },
+    {
+      "id": "niti-aayog-q19",
+      "difficulty": "medium",
+      "q": "What rank is generally held by the Vice-Chairperson of NITI Aayog?",
+      "options": ["Cabinet Minister rank", "Minister of State rank", "Secretary rank", "Joint Secretary rank"],
+      "answer": 0,
+      "explanation": "The Vice-Chairperson of NITI Aayog is accorded the rank of a Cabinet Minister."
+    },
+    {
+      "id": "niti-aayog-q20",
+      "difficulty": "medium",
+      "q": "Instead of fixed Five-Year Plans, NITI Aayog has worked on longer documents such as a vision document spanning how many years?",
+      "options": ["Five years", "Ten years", "Fifteen years", "Twenty-five years"],
+      "answer": 2,
+      "explanation": "NITI Aayog developed a long-term framework including a fifteen-year vision document, replacing the Five-Year Plan model."
+    },
+    {
+      "id": "niti-aayog-q21",
+      "difficulty": "medium",
+      "q": "NITI Aayog serves primarily in which role with respect to the government?",
+      "options": ["Regulatory", "Advisory", "Judicial", "Executive enforcement"],
+      "answer": 1,
+      "explanation": "NITI Aayog functions in an advisory capacity, providing policy inputs to the Centre and the states."
+    },
+    {
+      "id": "niti-aayog-q22",
+      "difficulty": "medium",
+      "q": "Which secretariat-level coordinating mechanism between Centre and states does NITI Aayog use, that the Planning Commission lacked emphasis on?",
+      "options": ["Bottom-up planning approach", "Top-down command approach", "Foreign-funded approach", "Court-supervised approach"],
+      "answer": 0,
+      "explanation": "NITI Aayog emphasises a bottom-up approach, involving states in policymaking, unlike the earlier top-down model."
+    },
+    {
+      "id": "niti-aayog-q23",
+      "difficulty": "hard",
+      "q": "On which exact date did NITI Aayog formally come into existence?",
+      "options": ["1 January 2015", "15 August 2015", "26 January 2015", "1 April 2015"],
+      "answer": 0,
+      "explanation": "NITI Aayog came into existence on 1 January 2015 through a Union Cabinet resolution."
+    },
+    {
+      "id": "niti-aayog-q24",
+      "difficulty": "hard",
+      "q": "Who succeeded Arvind Panagariya as the Vice-Chairperson of NITI Aayog?",
+      "options": ["Bibek Debroy", "Amitabh Kant", "V.K. Saraswat", "Rajiv Kumar"],
+      "answer": 3,
+      "explanation": "Economist Rajiv Kumar succeeded Arvind Panagariya as Vice-Chairperson of NITI Aayog in 2017."
+    },
+    {
+      "id": "niti-aayog-q25",
+      "difficulty": "hard",
+      "q": "Who served as the first Chief Executive Officer of NITI Aayog?",
+      "options": ["Sindhushree Khullar", "Amitabh Kant", "Parameswaran Iyer", "B.V.R. Subrahmanyam"],
+      "answer": 0,
+      "explanation": "Sindhushree Khullar was the first Chief Executive Officer of NITI Aayog."
+    },
+    {
+      "id": "niti-aayog-q26",
+      "difficulty": "hard",
+      "q": "NITI Aayog's index measuring states' progress on global development goals tracks which framework?",
+      "options": ["Millennium Development Goals", "World Trade targets", "Bretton Woods targets", "Sustainable Development Goals"],
+      "answer": 3,
+      "explanation": "NITI Aayog produces the SDG India Index tracking states' progress on the Sustainable Development Goals."
+    },
+    {
+      "id": "niti-aayog-q27",
+      "difficulty": "hard",
+      "q": "Apart from the Governing Council, NITI Aayog can constitute which type of bodies to address specific issues across states?",
+      "options": ["Tribunals", "Regional Councils", "Commissions of Inquiry", "Constitutional Benches"],
+      "answer": 1,
+      "explanation": "NITI Aayog can form Regional Councils to address specific issues affecting more than one state or region."
+    },
+    {
+      "id": "niti-aayog-q28",
+      "difficulty": "hard",
+      "q": "The first Health Index released by NITI Aayog ranked states using data primarily on which kind of indicators?",
+      "options": ["Tax collection", "Industrial output", "Health outcomes and processes", "Literacy alone"],
+      "answer": 2,
+      "explanation": "The NITI Aayog Health Index ranked states on a composite of health outcomes, governance and process indicators."
+    },
+    {
+      "id": "niti-aayog-q29",
+      "difficulty": "hard",
+      "q": "Which annual ranking by NITI Aayog assesses the ecosystem for new businesses across states?",
+      "options": ["Export Preparedness Index", "India Innovation Index", "Fiscal Health Index", "Digital Readiness Index"],
+      "answer": 1,
+      "explanation": "The India Innovation Index, published by NITI Aayog, ranks states on their innovation ecosystems."
+    },
+    {
+      "id": "niti-aayog-q30",
+      "difficulty": "hard",
+      "q": "NITI Aayog's mandate explicitly excludes which function that the Planning Commission performed?",
+      "options": ["Designing strategic policy", "Monitoring programmes", "Advising the government", "Allocating financial resources to states"],
+      "answer": 3,
+      "explanation": "NITI Aayog does not allocate financial resources to states, a function the Planning Commission had performed."
+    }
+  ]
+}

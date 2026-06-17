@@ -62,6 +62,23 @@ const RECIPES = {
       }
     },
   },
+  'indian-politics': {
+    style:
+      'Modern flat editorial illustration, clean bold vector style, vibrant limited colour palette, ' +
+      'geometric shapes, smooth gradients, contemporary magazine and op-ed illustration aesthetic, ' +
+      'crisp, stylish and dignified, civic and neutral. No text, no lettering, no words, no party symbols, ' +
+      'no flags of any political party. Vertical portrait orientation.',
+    lead: (c) => {
+      switch (c.type) {
+        case 'character': return `A bold flat editorial illustration portrait of ${c.title}, ${c.subtitle}.`
+        case 'event': return `A bold flat editorial illustration depicting ${c.title} (${c.subtitle}).`
+        case 'place': return `A bold flat editorial illustration of ${c.title}, ${c.subtitle}.`
+        case 'artifact': return `A bold flat editorial illustration of ${c.title}, ${c.subtitle}, as the central subject.`
+        case 'concept': return `A bold flat editorial conceptual illustration representing ${c.title}, ${c.subtitle}.`
+        default: return `${c.title}, ${c.subtitle}.`
+      }
+    },
+  },
 }
 
 const recipe = RECIPES[category]
