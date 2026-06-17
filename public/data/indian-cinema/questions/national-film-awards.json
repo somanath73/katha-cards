@@ -1,0 +1,395 @@
+{
+  "cardId": "national-film-awards",
+  "questions": [
+    {
+      "id": "national-film-awards-q01",
+      "difficulty": "easy",
+      "q": "In which year were the National Film Awards of India first instituted?",
+      "options": [
+        "1947",
+        "1969",
+        "1980",
+        "1954"
+      ],
+      "answer": 3,
+      "explanation": "The National Film Awards were instituted in 1954, with the first ceremony held in 1954 honouring films of 1953."
+    },
+    {
+      "id": "national-film-awards-q02",
+      "difficulty": "easy",
+      "q": "The National Film Award for Best Feature Film carries which golden medallion?",
+      "options": [
+        "Swarna Kamal (Golden Lotus)",
+        "Golden Peacock",
+        "Golden Globe",
+        "Golden Bear"
+      ],
+      "answer": 0,
+      "explanation": "The Best Feature Film at the National Film Awards is honoured with the Swarna Kamal, or Golden Lotus."
+    },
+    {
+      "id": "national-film-awards-q03",
+      "difficulty": "easy",
+      "q": "Who presents the National Film Awards of India?",
+      "options": [
+        "A private film foundation",
+        "The Government of India",
+        "The Film Federation of India",
+        "An international film body"
+      ],
+      "answer": 1,
+      "explanation": "The National Film Awards are presented by the Government of India, making them state honours."
+    },
+    {
+      "id": "national-film-awards-q04",
+      "difficulty": "easy",
+      "q": "Across which films are the National Film Awards of India judged?",
+      "options": [
+        "Only Hindi-language films",
+        "Only films from southern India",
+        "Films in all Indian languages",
+        "Only films released abroad"
+      ],
+      "answer": 2,
+      "explanation": "The National Film Awards consider films across all Indian languages, making them a pan-India honour."
+    },
+    {
+      "id": "national-film-awards-q05",
+      "difficulty": "easy",
+      "q": "Many National Film Award categories, such as Best Non-Feature Film, carry which silver lotus medallion?",
+      "options": [
+        "Swarna Kamal",
+        "Neela Kamal",
+        "Hara Kamal",
+        "Rajat Kamal"
+      ],
+      "answer": 3,
+      "explanation": "Many National Film Award categories carry the Rajat Kamal, or Silver Lotus, while the top honour is the Swarna Kamal."
+    },
+    {
+      "id": "national-film-awards-q06",
+      "difficulty": "easy",
+      "q": "Satyajit Ray's debut Bengali film, which won the President's Gold Medal for Best Feature Film at the 3rd National Film Awards, was which title?",
+      "options": [
+        "Pather Panchali",
+        "Charulata",
+        "Do Bigha Zamin",
+        "Devdas"
+      ],
+      "answer": 0,
+      "explanation": "Satyajit Ray's Pather Panchali won the President's Gold Medal for the All India Best Feature Film at the 3rd National Film Awards."
+    },
+    {
+      "id": "national-film-awards-q07",
+      "difficulty": "easy",
+      "q": "The National Film Awards aim to reward cinematic merit free of which kind of bias?",
+      "options": [
+        "Regional bias",
+        "Commercial bias",
+        "Language bias",
+        "Age bias"
+      ],
+      "answer": 1,
+      "explanation": "The National Film Awards aim to reward cinematic merit free of commercial bias, unlike popularity-based awards."
+    },
+    {
+      "id": "national-film-awards-q08",
+      "difficulty": "easy",
+      "q": "How often are the National Film Awards of India presented?",
+      "options": [
+        "Once every five years",
+        "Twice a year",
+        "Annually",
+        "Once a decade"
+      ],
+      "answer": 2,
+      "explanation": "The National Film Awards are presented annually, honouring films released in the preceding year."
+    },
+    {
+      "id": "national-film-awards-q09",
+      "difficulty": "easy",
+      "q": "Which government body historically organised the National Film Awards for decades before its functions were merged into the NFDC?",
+      "options": [
+        "Central Board of Film Certification",
+        "National Film Archive of India",
+        "Films Division alone",
+        "Directorate of Film Festivals"
+      ],
+      "answer": 3,
+      "explanation": "The Directorate of Film Festivals, under the Ministry of Information and Broadcasting, organised the National Film Awards for decades."
+    },
+    {
+      "id": "national-film-awards-q10",
+      "difficulty": "easy",
+      "q": "The National Film Awards are widely regarded as which type of honour in Indian cinema?",
+      "options": [
+        "The most prominent film awards in India",
+        "A purely commercial box-office prize",
+        "A regional award limited to one state",
+        "An award only for documentaries"
+      ],
+      "answer": 0,
+      "explanation": "The National Film Awards are considered the most prominent and prestigious film awards in India."
+    },
+    {
+      "id": "national-film-awards-q11",
+      "difficulty": "medium",
+      "q": "Which Bengali actor won the very first National Film Award for Best Actor in 1968, for his roles in Antony Firingee and Chiriyakhana?",
+      "options": [
+        "Dilip Kumar",
+        "Uttam Kumar",
+        "Sivaji Ganesan",
+        "Ashok Kumar"
+      ],
+      "answer": 1,
+      "explanation": "Uttam Kumar received the first National Film Award for Best Actor in 1968 for Antony Firingee and Chiriyakhana."
+    },
+    {
+      "id": "national-film-awards-q12",
+      "difficulty": "medium",
+      "q": "The National Film Award for the Best Feature Film on National Integration is named after which film personality?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Nargis Dutt",
+        "Sardar Patel"
+      ],
+      "answer": 2,
+      "explanation": "The Nargis Dutt Award is given for the Best Feature Film on National Integration at the National Film Awards."
+    },
+    {
+      "id": "national-film-awards-q13",
+      "difficulty": "medium",
+      "q": "Which award, presented alongside the National Film Awards, is India's highest honour for lifetime contribution to cinema?",
+      "options": [
+        "Padma Shri",
+        "Filmfare Lifetime Award",
+        "Sangeet Natak Akademi Award",
+        "Dadasaheb Phalke Award"
+      ],
+      "answer": 3,
+      "explanation": "The Dadasaheb Phalke Award, for lifetime contribution to Indian cinema, is announced and presented within the National Film Awards framework."
+    },
+    {
+      "id": "national-film-awards-q14",
+      "difficulty": "medium",
+      "q": "At the National Film Awards, who has traditionally presented the awards to the winners at the ceremony?",
+      "options": [
+        "The President of India",
+        "The Prime Minister of India",
+        "The Chief Justice of India",
+        "The Vice President of India"
+      ],
+      "answer": 0,
+      "explanation": "The President of India has traditionally presented the National Film Awards to the winners."
+    },
+    {
+      "id": "national-film-awards-q15",
+      "difficulty": "medium",
+      "q": "At the National Film Awards, the award for Best Female Playback Singer was first introduced in which year, the same year individual acting honours began?",
+      "options": [
+        "1954",
+        "1968",
+        "1962",
+        "1975"
+      ],
+      "answer": 1,
+      "explanation": "The National Film Award for Best Female Playback Singer was instituted in 1968, alongside other individual achievement categories."
+    },
+    {
+      "id": "national-film-awards-q16",
+      "difficulty": "medium",
+      "q": "The National Film Award for Best Popular Film Providing Wholesome Entertainment carries which lotus medallion?",
+      "options": [
+        "Rajat Kamal",
+        "Golden Peacock",
+        "Swarna Kamal",
+        "Golden Lotus only"
+      ],
+      "answer": 2,
+      "explanation": "The Best Popular Film Providing Wholesome Entertainment is honoured with the Swarna Kamal (Golden Lotus) at the National Film Awards."
+    },
+    {
+      "id": "national-film-awards-q17",
+      "difficulty": "medium",
+      "q": "Which Mehboob Khan film of 1957, an early Indian feature nominated for the Academy Award for Best Foreign Language Film, is a landmark of that era?",
+      "options": [
+        "Andaz",
+        "Aan",
+        "Amar",
+        "Mother India"
+      ],
+      "answer": 3,
+      "explanation": "Mother India (1957) was a landmark film and earned an Academy Award nomination for Best Foreign Language Film."
+    },
+    {
+      "id": "national-film-awards-q18",
+      "difficulty": "medium",
+      "q": "Within the National Film Awards, the Indira Gandhi Award is given for which achievement?",
+      "options": [
+        "Best Debut Film of a Director",
+        "Best Music Direction",
+        "Best Cinematography",
+        "Best Editing"
+      ],
+      "answer": 0,
+      "explanation": "The Indira Gandhi Award honours the Best Debut Film of a Director at the National Film Awards."
+    },
+    {
+      "id": "national-film-awards-q19",
+      "difficulty": "medium",
+      "q": "The National Film Awards include a dedicated set of categories to honour excellence in which non-fiction form?",
+      "options": [
+        "Television serials",
+        "Non-Feature (documentary and short) films",
+        "Stage plays",
+        "Radio dramas"
+      ],
+      "answer": 1,
+      "explanation": "The National Film Awards have a full set of categories for Non-Feature Films, covering documentaries and shorts."
+    },
+    {
+      "id": "national-film-awards-q20",
+      "difficulty": "medium",
+      "q": "Director Satyajit Ray, a frequent National Film Award winner, is most associated with the cinema tradition of which city?",
+      "options": [
+        "Chennai",
+        "Hyderabad",
+        "Kolkata (Bengali cinema)",
+        "Mumbai"
+      ],
+      "answer": 2,
+      "explanation": "Satyajit Ray, repeatedly honoured at the National Film Awards, was a towering figure of Bengali cinema based in Kolkata."
+    },
+    {
+      "id": "national-film-awards-q21",
+      "difficulty": "medium",
+      "q": "Which Malayalam director, a multiple National Film Award winner for Best Direction, made his feature debut with Swayamvaram?",
+      "options": [
+        "Shaji N. Karun",
+        "G. Aravindan",
+        "K. G. George",
+        "Adoor Gopalakrishnan"
+      ],
+      "answer": 3,
+      "explanation": "Adoor Gopalakrishnan, who debuted with Swayamvaram, won multiple National Film Awards for Best Direction."
+    },
+    {
+      "id": "national-film-awards-q22",
+      "difficulty": "medium",
+      "q": "The National Film Award category for Best Popular Film Providing Wholesome Entertainment was created to recognise which kind of cinema alongside artistic films?",
+      "options": [
+        "Popular mainstream films",
+        "Foreign-language imports",
+        "Silent-era films only",
+        "Advertising films"
+      ],
+      "answer": 0,
+      "explanation": "The Best Popular Film Providing Wholesome Entertainment category acknowledges popular mainstream cinema within the National Film Awards."
+    },
+    {
+      "id": "national-film-awards-q23",
+      "difficulty": "hard",
+      "q": "At the first National Film Awards in 1954, which Marathi film won the President's Gold Medal for the All India Best Feature Film?",
+      "options": [
+        "Sant Tukaram",
+        "Shyamchi Aai",
+        "Do Bigha Zamin",
+        "Jhansi Ki Rani"
+      ],
+      "answer": 1,
+      "explanation": "Shyamchi Aai won the President's Gold Medal at the inaugural 1954 National Film Awards."
+    },
+    {
+      "id": "national-film-awards-q24",
+      "difficulty": "hard",
+      "q": "Which actress holds the record for the most National Film Awards for Best Actress, having won the honour five times?",
+      "options": [
+        "Nutan",
+        "Sharada",
+        "Shabana Azmi",
+        "Meena Kumari"
+      ],
+      "answer": 2,
+      "explanation": "Shabana Azmi won the National Film Award for Best Actress five times, a record tally."
+    },
+    {
+      "id": "national-film-awards-q25",
+      "difficulty": "hard",
+      "q": "In which year were separate National Film Awards for individual achievements such as Best Actor, Best Actress and Best Direction first introduced?",
+      "options": [
+        "1954",
+        "1960",
+        "1973",
+        "1968"
+      ],
+      "answer": 3,
+      "explanation": "Individual award categories like Best Actor, Best Actress and Best Direction were introduced at the 1968 (15th) National Film Awards."
+    },
+    {
+      "id": "national-film-awards-q26",
+      "difficulty": "hard",
+      "q": "The National Film Award for the Best Film on Environment Conservation or Preservation honours films focused on which theme?",
+      "options": [
+        "Ecology and nature",
+        "Sports and fitness",
+        "Military valour",
+        "Religious devotion"
+      ],
+      "answer": 0,
+      "explanation": "This National Film Award category specifically recognises films promoting environment conservation and ecological awareness."
+    },
+    {
+      "id": "national-film-awards-q27",
+      "difficulty": "hard",
+      "q": "Which composer, a leading figure of South Indian film music, has won the most National Film Awards for Best Music Direction?",
+      "options": [
+        "A. R. Rahman",
+        "Ilaiyaraaja",
+        "Naushad",
+        "S. D. Burman"
+      ],
+      "answer": 1,
+      "explanation": "Ilaiyaraaja has won the National Film Award for Best Music Direction multiple times, the most of any composer."
+    },
+    {
+      "id": "national-film-awards-q28",
+      "difficulty": "hard",
+      "q": "The National Film Awards select their winners through which mechanism rather than public voting?",
+      "options": [
+        "Online audience polls",
+        "Box-office collections",
+        "An appointed jury of experts",
+        "Critics' magazine rankings"
+      ],
+      "answer": 2,
+      "explanation": "Winners of the National Film Awards are chosen by an appointed jury of cinema experts, not by public vote or box office."
+    },
+    {
+      "id": "national-film-awards-q29",
+      "difficulty": "hard",
+      "q": "Which K. Viswanath-directed Telugu film, celebrating Carnatic classical music, won the National Film Award for Best Telugu Feature Film at the awards held in 1980?",
+      "options": [
+        "Sagara Sangamam",
+        "Swathi Muthyam",
+        "Sirivennela",
+        "Sankarabharanam"
+      ],
+      "answer": 3,
+      "explanation": "K. Viswanath's Sankarabharanam won National Film Award honours at the 27th National Film Awards for its celebration of Carnatic classical music."
+    },
+    {
+      "id": "national-film-awards-q30",
+      "difficulty": "hard",
+      "q": "The Marathi film Shwaas, which won the National Film Award for Best Feature Film, was India's official entry to the Oscars in which year's race?",
+      "options": [
+        "2004",
+        "1999",
+        "2001",
+        "2009"
+      ],
+      "answer": 0,
+      "explanation": "Shwaas won the Swarna Kamal for Best Feature Film and was India's official Academy Award entry in the 2004 race."
+    }
+  ]
+}

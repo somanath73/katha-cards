@@ -1,0 +1,395 @@
+{
+  "cardId": "kisan-kanya",
+  "questions": [
+    {
+      "id": "kisan-kanya-q01",
+      "difficulty": "easy",
+      "q": "Kisan Kanya is remembered in Indian cinema history for being the first Indian-made film of what kind?",
+      "options": [
+        "The first Indian sound film",
+        "The first Indian colour feature film",
+        "The first Indian silent film",
+        "The first Indian 3D film"
+      ],
+      "answer": 1,
+      "explanation": "Kisan Kanya (1937) was the first Indian-made colour feature film."
+    },
+    {
+      "id": "kisan-kanya-q02",
+      "difficulty": "easy",
+      "q": "In which year was the film Kisan Kanya released?",
+      "options": [
+        "1931",
+        "1947",
+        "1937",
+        "1913"
+      ],
+      "answer": 2,
+      "explanation": "Kisan Kanya was released in 1937."
+    },
+    {
+      "id": "kisan-kanya-q03",
+      "difficulty": "easy",
+      "q": "Which film company produced Kisan Kanya?",
+      "options": [
+        "Bombay Talkies",
+        "Prabhat Film Company",
+        "New Theatres",
+        "Imperial Film Company"
+      ],
+      "answer": 3,
+      "explanation": "Kisan Kanya was produced by Ardeshir Irani's Imperial Film Company."
+    },
+    {
+      "id": "kisan-kanya-q04",
+      "difficulty": "easy",
+      "q": "Which pioneering producer was behind the making of Kisan Kanya?",
+      "options": [
+        "Ardeshir Irani",
+        "Dadasaheb Phalke",
+        "V. Shantaram",
+        "Himanshu Rai"
+      ],
+      "answer": 0,
+      "explanation": "Kisan Kanya was produced by Ardeshir Irani, founder of the Imperial Film Company."
+    },
+    {
+      "id": "kisan-kanya-q05",
+      "difficulty": "easy",
+      "q": "Who directed the film Kisan Kanya?",
+      "options": [
+        "Mehboob Khan",
+        "Moti B. Gidvani",
+        "Bimal Roy",
+        "Ardeshir Irani"
+      ],
+      "answer": 1,
+      "explanation": "Kisan Kanya was directed by Moti B. Gidvani."
+    },
+    {
+      "id": "kisan-kanya-q06",
+      "difficulty": "easy",
+      "q": "Kisan Kanya was made in which primary language?",
+      "options": [
+        "Tamil",
+        "Bengali",
+        "Hindi-Urdu (Hindustani)",
+        "Marathi"
+      ],
+      "answer": 2,
+      "explanation": "Kisan Kanya was made in Hindi-Urdu (Hindustani)."
+    },
+    {
+      "id": "kisan-kanya-q07",
+      "difficulty": "easy",
+      "q": "The title 'Kisan Kanya' translates roughly to which of the following in English?",
+      "options": [
+        "The King's Palace",
+        "The City of Lights",
+        "The Sailor's Song",
+        "The Farmer's Daughter"
+      ],
+      "answer": 3,
+      "explanation": "'Kisan Kanya' means 'The Farmer's Daughter' (or 'Peasant Girl')."
+    },
+    {
+      "id": "kisan-kanya-q08",
+      "difficulty": "easy",
+      "q": "Ardeshir Irani, the producer of Kisan Kanya, was earlier famous for producing which landmark Indian film of 1931?",
+      "options": [
+        "Alam Ara",
+        "Raja Harishchandra",
+        "Devdas",
+        "Achhut Kanya"
+      ],
+      "answer": 0,
+      "explanation": "Ardeshir Irani had earlier produced Alam Ara (1931), India's first sound film."
+    },
+    {
+      "id": "kisan-kanya-q09",
+      "difficulty": "easy",
+      "q": "In which city was the Imperial Film Company, the producer of Kisan Kanya, based?",
+      "options": [
+        "Calcutta",
+        "Bombay",
+        "Madras",
+        "Lahore"
+      ],
+      "answer": 1,
+      "explanation": "The Imperial Film Company was based in Bombay (now Mumbai)."
+    },
+    {
+      "id": "kisan-kanya-q10",
+      "difficulty": "easy",
+      "q": "Kisan Kanya was a feature film that broadly dealt with the hardships of which section of Indian society?",
+      "options": [
+        "Royalty and aristocrats",
+        "Factory industrialists",
+        "Farmers and peasants",
+        "Sea traders"
+      ],
+      "answer": 2,
+      "explanation": "Kisan Kanya focused on the lives and hardships of farmers and peasants."
+    },
+    {
+      "id": "kisan-kanya-q11",
+      "difficulty": "medium",
+      "q": "Which colour processing system was used to make Kisan Kanya, India's first colour feature?",
+      "options": [
+        "Technicolor",
+        "Eastmancolor",
+        "Gevacolor",
+        "Cinecolor"
+      ],
+      "answer": 3,
+      "explanation": "Kisan Kanya was processed using the Cinecolor system."
+    },
+    {
+      "id": "kisan-kanya-q12",
+      "difficulty": "medium",
+      "q": "How many years after India's first sound film Alam Ara (1931) was Kisan Kanya released?",
+      "options": [
+        "Six years",
+        "Two years",
+        "Ten years",
+        "Fifteen years"
+      ],
+      "answer": 0,
+      "explanation": "Kisan Kanya (1937) was released six years after Alam Ara (1931)."
+    },
+    {
+      "id": "kisan-kanya-q13",
+      "difficulty": "medium",
+      "q": "The Cinecolor process used to make Kisan Kanya was a colour technology that originated in which country?",
+      "options": [
+        "Germany",
+        "The United States",
+        "France",
+        "Japan"
+      ],
+      "answer": 1,
+      "explanation": "Cinecolor was an American colour process; Ardeshir Irani brought the technology to India for Kisan Kanya."
+    },
+    {
+      "id": "kisan-kanya-q14",
+      "difficulty": "medium",
+      "q": "Which of these statements about Kisan Kanya is correct?",
+      "options": [
+        "It was India's first silent feature",
+        "It was the first Indian film shot abroad",
+        "It was the first Indian-made colour feature film",
+        "It was the first Indian animated film"
+      ],
+      "answer": 2,
+      "explanation": "Kisan Kanya holds the distinction of being the first Indian-made colour feature film."
+    },
+    {
+      "id": "kisan-kanya-q15",
+      "difficulty": "medium",
+      "q": "The earlier 1931 film by Kisan Kanya's producer, Alam Ara, is significant in Indian cinema for being the first to feature what?",
+      "options": [
+        "Colour cinematography",
+        "An all-female cast",
+        "Outdoor location shooting",
+        "Synchronised sound and dialogue"
+      ],
+      "answer": 3,
+      "explanation": "Alam Ara (1931) was India's first sound film, featuring synchronised dialogue and songs."
+    },
+    {
+      "id": "kisan-kanya-q16",
+      "difficulty": "medium",
+      "q": "In the decade Kisan Kanya was released, the dominant film format in India was overwhelmingly which of these?",
+      "options": [
+        "Black-and-white films",
+        "Colour films",
+        "Widescreen films",
+        "Silent films"
+      ],
+      "answer": 0,
+      "explanation": "Most Indian films of the 1930s were black-and-white, making Kisan Kanya's colour a rarity."
+    },
+    {
+      "id": "kisan-kanya-q17",
+      "difficulty": "medium",
+      "q": "Kisan Kanya is best described as belonging to which category of film artifact in Indian cinema history?",
+      "options": [
+        "A foreign import dubbed into Hindi",
+        "A pioneering technical 'first'",
+        "A documentary newsreel",
+        "A stage play recording"
+      ],
+      "answer": 1,
+      "explanation": "Kisan Kanya is celebrated as a pioneering technical 'first' as India's debut colour feature."
+    },
+    {
+      "id": "kisan-kanya-q18",
+      "difficulty": "medium",
+      "q": "Which of the following correctly pairs a film with its 'first' in Indian cinema?",
+      "options": [
+        "Kisan Kanya — first sound film; Alam Ara — first colour film",
+        "Kisan Kanya — first silent film; Alam Ara — first colour film",
+        "Kisan Kanya — first colour feature; Alam Ara — first sound film",
+        "Kisan Kanya — first 3D film; Alam Ara — first silent film"
+      ],
+      "answer": 2,
+      "explanation": "Kisan Kanya was the first colour feature and Alam Ara was the first sound film, both produced by Ardeshir Irani."
+    },
+    {
+      "id": "kisan-kanya-q19",
+      "difficulty": "medium",
+      "q": "Moti B. Gidvani, the director of Kisan Kanya, primarily worked in which industry of his era?",
+      "options": [
+        "Hollywood",
+        "British theatre",
+        "French cinema",
+        "Indian (Bombay) cinema"
+      ],
+      "answer": 3,
+      "explanation": "Moti B. Gidvani was an Indian film director active in Bombay's film industry."
+    },
+    {
+      "id": "kisan-kanya-q20",
+      "difficulty": "medium",
+      "q": "Roughly which decade saw the release of Kisan Kanya, India's first colour feature?",
+      "options": [
+        "The 1930s",
+        "The 1910s",
+        "The 1920s",
+        "The 1950s"
+      ],
+      "answer": 0,
+      "explanation": "Kisan Kanya was released in 1937, in the 1930s."
+    },
+    {
+      "id": "kisan-kanya-q21",
+      "difficulty": "medium",
+      "q": "Kisan Kanya followed which earlier milestone by the same producer in terms of technical innovation?",
+      "options": [
+        "India's first 70mm film",
+        "India's first sound film",
+        "India's first IMAX film",
+        "India's first stereo film"
+      ],
+      "answer": 1,
+      "explanation": "Kisan Kanya followed Ardeshir Irani's earlier landmark Alam Ara, India's first sound film."
+    },
+    {
+      "id": "kisan-kanya-q22",
+      "difficulty": "hard",
+      "q": "The Cinecolor process used for Kisan Kanya was fundamentally a colour system that reproduced images using how many primary colour components?",
+      "options": [
+        "A single tone",
+        "Four colours",
+        "Two colours (bipack)",
+        "Seven colours"
+      ],
+      "answer": 2,
+      "explanation": "Cinecolor was a two-colour (bipack) subtractive process used to process Kisan Kanya."
+    },
+    {
+      "id": "kisan-kanya-q23",
+      "difficulty": "medium",
+      "q": "Ardeshir Irani's company that produced Kisan Kanya, the Imperial Film Company, was founded in which approximate period?",
+      "options": [
+        "The early 1900s",
+        "The late 1940s",
+        "The 1960s",
+        "The mid-1920s"
+      ],
+      "answer": 3,
+      "explanation": "Ardeshir Irani founded the Imperial Film Company in the mid-1920s (1926)."
+    },
+    {
+      "id": "kisan-kanya-q24",
+      "difficulty": "hard",
+      "q": "Despite being India's first colour feature, Kisan Kanya is generally regarded by historians as having achieved what at the box office?",
+      "options": [
+        "Limited commercial success",
+        "A record-breaking blockbuster",
+        "An international award sweep",
+        "The highest grosser of the decade"
+      ],
+      "answer": 0,
+      "explanation": "Kisan Kanya is remembered chiefly as a technical milestone rather than a major commercial success."
+    },
+    {
+      "id": "kisan-kanya-q25",
+      "difficulty": "hard",
+      "q": "What was the chief reason Kisan Kanya is principally remembered in Indian film history, rather than for its story or stars?",
+      "options": [
+        "It was the first Indian film with sound",
+        "It introduced colour to Indian feature filmmaking",
+        "It was India's first international co-production",
+        "It was the first film banned by Indian censors"
+      ],
+      "answer": 1,
+      "explanation": "Kisan Kanya is remembered primarily as a technical landmark for introducing colour to Indian feature filmmaking, rather than for its narrative or cast."
+    },
+    {
+      "id": "kisan-kanya-q26",
+      "difficulty": "hard",
+      "q": "Within Ardeshir Irani's two famous 'firsts', where does Kisan Kanya fall chronologically relative to Alam Ara?",
+      "options": [
+        "It was made before Alam Ara",
+        "It was made the same year as Alam Ara",
+        "It was made several years after Alam Ara",
+        "It was made after Indian independence"
+      ],
+      "answer": 2,
+      "explanation": "Alam Ara appeared in 1931 and Kisan Kanya in 1937, so Kisan Kanya came several years after Alam Ara, and both predate independence (1947)."
+    },
+    {
+      "id": "kisan-kanya-q27",
+      "difficulty": "hard",
+      "q": "Which statement about the colour technology of Kisan Kanya is most accurate?",
+      "options": [
+        "It used the same three-strip Technicolor as Hollywood epics",
+        "It was hand-painted frame by frame",
+        "It used early digital colourisation",
+        "It used the imported two-colour Cinecolor process"
+      ],
+      "answer": 3,
+      "explanation": "Kisan Kanya used the imported two-colour Cinecolor process, not Hollywood's three-strip Technicolor."
+    },
+    {
+      "id": "kisan-kanya-q28",
+      "difficulty": "hard",
+      "q": "Ardeshir Irani's pioneering work on both Alam Ara and Kisan Kanya places him most prominently as a pioneer of which aspect of Indian cinema?",
+      "options": [
+        "Technical innovation (sound and colour)",
+        "Film criticism",
+        "Documentary filmmaking",
+        "Film music composition"
+      ],
+      "answer": 0,
+      "explanation": "Irani is celebrated as a pioneer of technical innovation, introducing both sound (Alam Ara) and colour (Kisan Kanya) to Indian cinema."
+    },
+    {
+      "id": "kisan-kanya-q29",
+      "difficulty": "hard",
+      "q": "After Kisan Kanya's 1937 debut, full colour filmmaking only became common in mainstream Indian cinema in which later decade?",
+      "options": [
+        "Immediately in the late 1930s",
+        "The 1950s and especially the 1960s",
+        "The 1920s",
+        "The 1990s"
+      ],
+      "answer": 1,
+      "explanation": "Despite Kisan Kanya's 1937 first, colour filmmaking became widespread in Indian cinema only from the 1950s and 1960s."
+    },
+    {
+      "id": "kisan-kanya-q30",
+      "difficulty": "hard",
+      "q": "Which pair of Indian cinema 'firsts' is correctly attributed to producer Ardeshir Irani?",
+      "options": [
+        "First silent film and first 3D film",
+        "First documentary and first cartoon",
+        "First talkie and first colour feature",
+        "First English film and first regional film"
+      ],
+      "answer": 2,
+      "explanation": "Ardeshir Irani produced India's first talkie (Alam Ara, 1931) and first colour feature (Kisan Kanya, 1937)."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "pyaasa",
+  "questions": [
+    {
+      "id": "pyaasa-q01",
+      "difficulty": "easy",
+      "q": "In which year was the Hindi film Pyaasa released?",
+      "options": [
+        "1951",
+        "1962",
+        "1949",
+        "1957"
+      ],
+      "answer": 3,
+      "explanation": "Pyaasa was released in 1957."
+    },
+    {
+      "id": "pyaasa-q02",
+      "difficulty": "easy",
+      "q": "Who directed the 1957 film Pyaasa?",
+      "options": [
+        "Guru Dutt",
+        "Bimal Roy",
+        "Raj Kapoor",
+        "Mehboob Khan"
+      ],
+      "answer": 0,
+      "explanation": "Pyaasa was directed by Guru Dutt, who also played the lead role."
+    },
+    {
+      "id": "pyaasa-q03",
+      "difficulty": "easy",
+      "q": "Who played the lead role of the struggling poet Vijay in the 1957 film Pyaasa?",
+      "options": [
+        "Dilip Kumar",
+        "Guru Dutt",
+        "Dev Anand",
+        "Raj Kapoor"
+      ],
+      "answer": 1,
+      "explanation": "Guru Dutt himself played the disillusioned poet Vijay in Pyaasa."
+    },
+    {
+      "id": "pyaasa-q04",
+      "difficulty": "easy",
+      "q": "What is the profession of the central character Vijay in the 1957 film Pyaasa?",
+      "options": [
+        "Painter",
+        "Doctor",
+        "Poet",
+        "Lawyer"
+      ],
+      "answer": 2,
+      "explanation": "Vijay is a struggling, neglected poet whose work is ignored until he is presumed dead."
+    },
+    {
+      "id": "pyaasa-q05",
+      "difficulty": "medium",
+      "q": "Which lyricist wrote the songs for the 1957 film Pyaasa?",
+      "options": [
+        "Shailendra",
+        "Majrooh Sultanpuri",
+        "Hasrat Jaipuri",
+        "Sahir Ludhianvi"
+      ],
+      "answer": 3,
+      "explanation": "Sahir Ludhianvi penned the lyrics for Pyaasa, including its socially critical songs."
+    },
+    {
+      "id": "pyaasa-q06",
+      "difficulty": "medium",
+      "q": "Who composed the music for the 1957 film Pyaasa?",
+      "options": [
+        "S. D. Burman",
+        "Naushad",
+        "Shankar-Jaikishan",
+        "C. Ramchandra"
+      ],
+      "answer": 0,
+      "explanation": "S. D. Burman composed the score and songs for Pyaasa."
+    },
+    {
+      "id": "pyaasa-q07",
+      "difficulty": "easy",
+      "q": "Which actress played the kind-hearted prostitute Gulabo in the 1957 film Pyaasa?",
+      "options": [
+        "Nargis",
+        "Waheeda Rehman",
+        "Madhubala",
+        "Meena Kumari"
+      ],
+      "answer": 1,
+      "explanation": "Waheeda Rehman played Gulabo, the prostitute who believes in Vijay's poetry."
+    },
+    {
+      "id": "pyaasa-q08",
+      "difficulty": "medium",
+      "q": "Which actress played Meena, Vijay's former love who marries a publisher, in the 1957 film Pyaasa?",
+      "options": [
+        "Nutan",
+        "Vyjayanthimala",
+        "Mala Sinha",
+        "Geeta Bali"
+      ],
+      "answer": 2,
+      "explanation": "Mala Sinha played Meena, the woman who left Vijay to marry the wealthy publisher Mr. Ghosh."
+    },
+    {
+      "id": "pyaasa-q09",
+      "difficulty": "medium",
+      "q": "Which comic actor played Abdul Sattar, the masseur, in the 1957 film Pyaasa?",
+      "options": [
+        "Mehmood",
+        "Om Prakash",
+        "Agha",
+        "Johnny Walker"
+      ],
+      "answer": 3,
+      "explanation": "Johnny Walker played the masseur Abdul Sattar and performed the song 'Sar Jo Tera Chakraye'."
+    },
+    {
+      "id": "pyaasa-q10",
+      "difficulty": "hard",
+      "q": "Which song from the 1957 film Pyaasa is a biting critique of post-Independence Indian society and its treatment of the poor?",
+      "options": [
+        "Jinhe Naaz Hai Hind Par",
+        "Hum Aapki Aankhon Mein",
+        "Jaane Woh Kaise Log The",
+        "Sar Jo Tera Chakraye"
+      ],
+      "answer": 0,
+      "explanation": "'Jinhe Naaz Hai Hind Par' is the song in which Vijay condemns the exploitation in newly independent India."
+    },
+    {
+      "id": "pyaasa-q11",
+      "difficulty": "medium",
+      "q": "Which playback singer voiced most of Vijay's songs, including 'Yeh Duniya Agar Mil Bhi Jaye', in the 1957 film Pyaasa?",
+      "options": [
+        "Manna Dey",
+        "Mohammed Rafi",
+        "Talat Mahmood",
+        "Mukesh"
+      ],
+      "answer": 1,
+      "explanation": "Mohammed Rafi sang the key songs of Vijay, the poet played by Guru Dutt."
+    },
+    {
+      "id": "pyaasa-q12",
+      "difficulty": "hard",
+      "q": "Which haunting song does Vijay sing as he denounces the so-called civilized world at the climax of the 1957 film Pyaasa?",
+      "options": [
+        "Hum Aapki Aankhon Mein",
+        "Aaj Sajan Mohe Ang Laga Lo",
+        "Yeh Duniya Agar Mil Bhi Jaye To Kya Hai",
+        "Jane Kya Tune Kahi"
+      ],
+      "answer": 2,
+      "explanation": "'Yeh Duniya Agar Mil Bhi Jaye To Kya Hai' is the song in which Vijay rejects a hypocritical world."
+    },
+    {
+      "id": "pyaasa-q13",
+      "difficulty": "easy",
+      "q": "In the 1957 film Pyaasa, society begins to value the poet Vijay only after which event?",
+      "options": [
+        "He wins a literary prize",
+        "He becomes wealthy",
+        "He emigrates abroad",
+        "He is presumed dead"
+      ],
+      "answer": 3,
+      "explanation": "Vijay's poetry is celebrated only when he is mistakenly believed to be dead."
+    },
+    {
+      "id": "pyaasa-q14",
+      "difficulty": "medium",
+      "q": "In which language was Guru Dutt's 1957 film Pyaasa made?",
+      "options": [
+        "Hindi-Urdu",
+        "Bengali",
+        "Tamil",
+        "Marathi"
+      ],
+      "answer": 0,
+      "explanation": "Pyaasa was made in Hindi-Urdu (Hindustani), the standard language of mainstream Bombay cinema."
+    },
+    {
+      "id": "pyaasa-q15",
+      "difficulty": "hard",
+      "q": "Who was the cinematographer responsible for the celebrated black-and-white visuals of the 1957 film Pyaasa?",
+      "options": [
+        "Jal Mistry",
+        "V. K. Murthy",
+        "Faredoon Irani",
+        "Radhu Karmakar"
+      ],
+      "answer": 1,
+      "explanation": "V. K. Murthy was the cinematographer whose lighting defined the look of Pyaasa."
+    },
+    {
+      "id": "pyaasa-q16",
+      "difficulty": "easy",
+      "q": "What is the meaning of the title of Guru Dutt's 1957 film Pyaasa?",
+      "options": [
+        "The Lost One",
+        "The Wanderer",
+        "The Thirsty One",
+        "The Dreamer"
+      ],
+      "answer": 2,
+      "explanation": "'Pyaasa' translates to 'thirsty' or 'the thirsty one', reflecting the poet's longing."
+    },
+    {
+      "id": "pyaasa-q17",
+      "difficulty": "medium",
+      "q": "Under which banner did Guru Dutt produce the 1957 film Pyaasa?",
+      "options": [
+        "Bombay Talkies",
+        "Navketan Films",
+        "Filmistan",
+        "Guru Dutt Films"
+      ],
+      "answer": 3,
+      "explanation": "Pyaasa was produced under Guru Dutt's own banner, Guru Dutt Films."
+    },
+    {
+      "id": "pyaasa-q18",
+      "difficulty": "hard",
+      "q": "On which prestigious international list, recognizing the all-time greatest films, did Pyaasa later appear?",
+      "options": [
+        "Time magazine's All-Time 100 Movies",
+        "The Cannes Palme d'Or winners list",
+        "The Academy Award Best Picture list",
+        "The Berlin Golden Bear winners list"
+      ],
+      "answer": 0,
+      "explanation": "Pyaasa was included in Time magazine's All-Time 100 Movies list."
+    },
+    {
+      "id": "pyaasa-q19",
+      "difficulty": "medium",
+      "q": "In the 1957 film Pyaasa, who profits from publishing Vijay's poetry after he is believed dead?",
+      "options": [
+        "His college professor",
+        "A publisher and Vijay's own brothers",
+        "A rival poet",
+        "A film studio"
+      ],
+      "answer": 1,
+      "explanation": "The publisher Mr. Ghosh and Vijay's brothers cash in on his poems once he is presumed dead."
+    },
+    {
+      "id": "pyaasa-q20",
+      "difficulty": "easy",
+      "q": "Guru Dutt's 1957 film Pyaasa is best described as belonging to which genre?",
+      "options": [
+        "Mythological epic",
+        "Slapstick comedy",
+        "Social drama",
+        "Historical war film"
+      ],
+      "answer": 2,
+      "explanation": "Pyaasa is a social drama critiquing materialism and the neglect of artists."
+    },
+    {
+      "id": "pyaasa-q21",
+      "difficulty": "hard",
+      "q": "Which romantic duet, picturized on Guru Dutt and Mala Sinha, features in the dream and flashback scenes of the 1957 film Pyaasa?",
+      "options": [
+        "Jinhe Naaz Hai Hind Par",
+        "Aaj Sajan Mohe Ang Laga Lo",
+        "Rut Phire Par Din Hamare",
+        "Hum Aapki Aankhon Mein Is Dil Ko Basa Le To"
+      ],
+      "answer": 3,
+      "explanation": "'Hum Aapki Aankhon Mein' is the dream-duet recalling Vijay's college romance with Meena."
+    },
+    {
+      "id": "pyaasa-q22",
+      "difficulty": "medium",
+      "q": "The character Gulabo in the 1957 film Pyaasa cherishes Vijay's discarded poems because she believes in his what?",
+      "options": [
+        "Talent and worth",
+        "Wealth",
+        "Political power",
+        "Family name"
+      ],
+      "answer": 0,
+      "explanation": "Gulabo treasures Vijay's poetry, recognizing his talent when the world ignores him."
+    },
+    {
+      "id": "pyaasa-q23",
+      "difficulty": "hard",
+      "q": "The famous final image of Vijay framed in a doorway with arms outstretched in the 1957 film Pyaasa is often compared to which religious imagery?",
+      "options": [
+        "A dancing Shiva",
+        "A Christ-like crucifixion pose",
+        "A meditating Buddha",
+        "A seated Krishna"
+      ],
+      "answer": 1,
+      "explanation": "The backlit silhouette of Vijay in the doorway evokes a Christ-like crucifixion pose."
+    },
+    {
+      "id": "pyaasa-q24",
+      "difficulty": "medium",
+      "q": "Which playback singer voiced the song 'Aaj Sajan Mohe Ang Laga Lo' in the 1957 film Pyaasa?",
+      "options": [
+        "Lata Mangeshkar",
+        "Asha Bhosle",
+        "Geeta Dutt",
+        "Shamshad Begum"
+      ],
+      "answer": 2,
+      "explanation": "Geeta Dutt sang 'Aaj Sajan Mohe Ang Laga Lo' for Pyaasa."
+    },
+    {
+      "id": "pyaasa-q25",
+      "difficulty": "easy",
+      "q": "In which decade was Guru Dutt's acclaimed film Pyaasa released?",
+      "options": [
+        "1940s",
+        "1960s",
+        "1930s",
+        "1950s"
+      ],
+      "answer": 3,
+      "explanation": "Pyaasa was released in 1957, during the 1950s."
+    },
+    {
+      "id": "pyaasa-q26",
+      "difficulty": "medium",
+      "q": "The 1957 film Pyaasa is frequently cited alongside which other Guru Dutt film as part of his celebrated body of work?",
+      "options": [
+        "Kaagaz Ke Phool",
+        "Mughal-e-Azam",
+        "Awaara",
+        "Do Bigha Zamin"
+      ],
+      "answer": 0,
+      "explanation": "Kaagaz Ke Phool (1959) is another landmark Guru Dutt film often paired with Pyaasa."
+    },
+    {
+      "id": "pyaasa-q27",
+      "difficulty": "hard",
+      "q": "Which playback singer voiced the reflective song 'Jaane Woh Kaise Log The Jinke Pyaar Ko Pyaar Mila' in the 1957 film Pyaasa?",
+      "options": [
+        "Mohammed Rafi",
+        "Hemant Kumar",
+        "Manna Dey",
+        "Talat Mahmood"
+      ],
+      "answer": 1,
+      "explanation": "Hemant Kumar sang 'Jaane Woh Kaise Log The' in Pyaasa, even though most of Vijay's other songs were sung by Mohammed Rafi."
+    },
+    {
+      "id": "pyaasa-q28",
+      "difficulty": "easy",
+      "q": "What kind of poetry does Vijay write in the 1957 film Pyaasa?",
+      "options": [
+        "Patriotic war ballads",
+        "Religious devotional hymns only",
+        "Sensitive verse on love and social injustice",
+        "Comic limericks"
+      ],
+      "answer": 2,
+      "explanation": "Vijay writes sensitive Urdu-Hindi verse dealing with love, loss and social injustice."
+    },
+    {
+      "id": "pyaasa-q29",
+      "difficulty": "medium",
+      "q": "What does Vijay ultimately reject at the end of the 1957 film Pyaasa once he is acclaimed as a great poet?",
+      "options": [
+        "His own poetry",
+        "Gulabo's friendship",
+        "Music altogether",
+        "The fame and the corrupt society that ignored him in life"
+      ],
+      "answer": 3,
+      "explanation": "Vijay disowns the hollow fame and the hypocritical society that valued him only when presumed dead."
+    },
+    {
+      "id": "pyaasa-q30",
+      "difficulty": "hard",
+      "q": "Pyaasa is widely regarded as a landmark of which strand of 1950s Hindi cinema that blended commercial form with serious social themes?",
+      "options": [
+        "The socially conscious melodrama of Hindi cinema's golden age",
+        "The mythological genre",
+        "The stunt-film tradition",
+        "The avant-garde silent cinema"
+      ],
+      "answer": 0,
+      "explanation": "Pyaasa is a key work of the socially conscious melodrama that defined Hindi cinema's golden age of the 1950s."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "manthan",
+  "questions": [
+    {
+      "id": "manthan-q01",
+      "difficulty": "easy",
+      "q": "In which year was the Hindi film Manthan released?",
+      "options": [
+        "1972",
+        "1974",
+        "1980",
+        "1976"
+      ],
+      "answer": 3,
+      "explanation": "Manthan was released in 1976."
+    },
+    {
+      "id": "manthan-q02",
+      "difficulty": "easy",
+      "q": "Who directed the 1976 film Manthan?",
+      "options": [
+        "Shyam Benegal",
+        "Satyajit Ray",
+        "Mrinal Sen",
+        "Govind Nihalani"
+      ],
+      "answer": 0,
+      "explanation": "Manthan was directed by Shyam Benegal."
+    },
+    {
+      "id": "manthan-q03",
+      "difficulty": "easy",
+      "q": "How was the 1976 film Manthan unusually financed?",
+      "options": [
+        "By a single Bollywood studio",
+        "By two-rupee contributions from roughly 500,000 Gujarat farmers",
+        "By a foreign film fund",
+        "Entirely by the Indian government's film board"
+      ],
+      "answer": 1,
+      "explanation": "Manthan was financed by two-rupee contributions from roughly 500,000 Gujarat dairy farmers, making it an early crowd-funded Indian feature."
+    },
+    {
+      "id": "manthan-q04",
+      "difficulty": "easy",
+      "q": "The 1976 film Manthan is set against which cooperative movement in India?",
+      "options": [
+        "The sugar cooperative movement",
+        "The textile mill movement",
+        "The dairy cooperative movement",
+        "The fishing cooperative movement"
+      ],
+      "answer": 2,
+      "explanation": "Manthan dramatizes the dairy cooperative movement in rural Gujarat."
+    },
+    {
+      "id": "manthan-q05",
+      "difficulty": "medium",
+      "q": "The 1976 film Manthan was inspired by the work and ideas of which pioneer of India's dairy revolution?",
+      "options": [
+        "M. S. Swaminathan",
+        "Tribhuvandas Patel",
+        "Norman Borlaug",
+        "Verghese Kurien"
+      ],
+      "answer": 3,
+      "explanation": "Manthan was inspired by Verghese Kurien, the architect of Operation Flood and India's White Revolution."
+    },
+    {
+      "id": "manthan-q06",
+      "difficulty": "medium",
+      "q": "Which large-scale dairy development programme is reflected in the story of the 1976 film Manthan?",
+      "options": [
+        "Operation Flood",
+        "The Green Revolution",
+        "The Blue Revolution",
+        "The Bhoodan movement"
+      ],
+      "answer": 0,
+      "explanation": "Manthan reflects Operation Flood, the dairy cooperative programme that powered India's White Revolution."
+    },
+    {
+      "id": "manthan-q07",
+      "difficulty": "medium",
+      "q": "Which actor played the idealistic veterinary doctor Dr. Rao who sets up the milk cooperative in the 1976 film Manthan?",
+      "options": [
+        "Naseeruddin Shah",
+        "Girish Karnad",
+        "Amrish Puri",
+        "Anant Nag"
+      ],
+      "answer": 1,
+      "explanation": "Girish Karnad played Dr. Rao, the veterinary officer who organizes the village dairy cooperative in Manthan."
+    },
+    {
+      "id": "manthan-q08",
+      "difficulty": "medium",
+      "q": "Which actress played the spirited lower-caste village woman Bindu in the 1976 film Manthan?",
+      "options": [
+        "Shabana Azmi",
+        "Jaya Bhaduri",
+        "Smita Patil",
+        "Deepti Naval"
+      ],
+      "answer": 2,
+      "explanation": "Smita Patil played Bindu in Manthan, one of her early roles in parallel cinema."
+    },
+    {
+      "id": "manthan-q09",
+      "difficulty": "easy",
+      "q": "Which acclaimed actor played the powerful village sarpanch who opposes the milk cooperative in the 1976 film Manthan?",
+      "options": [
+        "Om Puri",
+        "Pankaj Kapur",
+        "Kulbhushan Kharbanda",
+        "Amrish Puri"
+      ],
+      "answer": 3,
+      "explanation": "Amrish Puri played the manipulative village sarpanch who works against the new cooperative in Manthan."
+    },
+    {
+      "id": "manthan-q10",
+      "difficulty": "medium",
+      "q": "Which actor portrayed the village dalit Bhola in the 1976 film Manthan?",
+      "options": [
+        "Naseeruddin Shah",
+        "Anant Nag",
+        "Mohan Agashe",
+        "Sadhu Meher"
+      ],
+      "answer": 0,
+      "explanation": "Naseeruddin Shah played the dalit youth Bhola in Manthan."
+    },
+    {
+      "id": "manthan-q11",
+      "difficulty": "medium",
+      "q": "Which noted playwright wrote the screenplay of the 1976 film Manthan?",
+      "options": [
+        "Salim-Javed",
+        "Vijay Tendulkar",
+        "Gulzar",
+        "Khwaja Ahmad Abbas"
+      ],
+      "answer": 1,
+      "explanation": "The screenplay of Manthan was written by the Marathi playwright Vijay Tendulkar, a frequent Shyam Benegal collaborator."
+    },
+    {
+      "id": "manthan-q12",
+      "difficulty": "hard",
+      "q": "Who composed the music for the 1976 film Manthan?",
+      "options": [
+        "R. D. Burman",
+        "Salil Chowdhury",
+        "Vanraj Bhatia",
+        "Naushad"
+      ],
+      "answer": 2,
+      "explanation": "Vanraj Bhatia composed the music for Manthan, as he did for several of Shyam Benegal's films."
+    },
+    {
+      "id": "manthan-q13",
+      "difficulty": "hard",
+      "q": "Preeti Sagar's well-known folk-style song from the 1976 film Manthan begins with which words?",
+      "options": [
+        "Tu chhupi hai kahan",
+        "Piya tose naina lage re",
+        "Aaj phir jeene ki tamanna hai",
+        "Mero gaam katha parey"
+      ],
+      "answer": 3,
+      "explanation": "The popular Gujarati-flavoured song from Manthan, sung by Preeti Sagar, is 'Mero gaam katha parey'."
+    },
+    {
+      "id": "manthan-q14",
+      "difficulty": "easy",
+      "q": "In which Indian state is the 1976 film Manthan primarily set?",
+      "options": [
+        "Gujarat",
+        "Maharashtra",
+        "Punjab",
+        "Rajasthan"
+      ],
+      "answer": 0,
+      "explanation": "Manthan is set in rural Gujarat, the heartland of India's dairy cooperative movement."
+    },
+    {
+      "id": "manthan-q15",
+      "difficulty": "medium",
+      "q": "The 1976 film Manthan won the National Film Award for Best Feature Film in which language?",
+      "options": [
+        "Best Feature Film in Gujarati",
+        "Best Feature Film in Hindi",
+        "Best Feature Film in Marathi",
+        "Best Feature Film in Bengali"
+      ],
+      "answer": 1,
+      "explanation": "Manthan won the National Film Award for Best Feature Film in Hindi."
+    },
+    {
+      "id": "manthan-q16",
+      "difficulty": "medium",
+      "q": "Apart from Best Feature Film in Hindi, the 1976 film Manthan also won a National Film Award in which category?",
+      "options": [
+        "Best Cinematography",
+        "Best Music Direction",
+        "Best Screenplay",
+        "Best Editing"
+      ],
+      "answer": 2,
+      "explanation": "Manthan also won the National Film Award for Best Screenplay."
+    },
+    {
+      "id": "manthan-q17",
+      "difficulty": "hard",
+      "q": "The dairy cooperative depicted in the 1976 film Manthan is closely modelled on which real-life Gujarat cooperative?",
+      "options": [
+        "Mother Dairy",
+        "Nandini",
+        "Aavin",
+        "Amul (Kaira District Cooperative)"
+      ],
+      "answer": 3,
+      "explanation": "Manthan is modelled on the Amul / Kaira District Cooperative Milk Producers' Union in Gujarat."
+    },
+    {
+      "id": "manthan-q18",
+      "difficulty": "hard",
+      "q": "Roughly how much did each contributing farmer give to fund the 1976 film Manthan?",
+      "options": [
+        "Two rupees",
+        "Ten rupees",
+        "Fifty paise",
+        "Twenty rupees"
+      ],
+      "answer": 0,
+      "explanation": "Each of the roughly 500,000 farmers contributed two rupees to finance Manthan."
+    },
+    {
+      "id": "manthan-q19",
+      "difficulty": "medium",
+      "q": "Which organisation, the body behind the Amul brand, helped fund the 1976 film Manthan through its member farmers?",
+      "options": [
+        "Navketan Films",
+        "The Gujarat Cooperative Milk Marketing Federation",
+        "Rajshri Productions",
+        "Bombay Talkies"
+      ],
+      "answer": 1,
+      "explanation": "Manthan was funded by farmers of the Gujarat dairy cooperatives, the network marketed under the Amul brand by the Gujarat Cooperative Milk Marketing Federation."
+    },
+    {
+      "id": "manthan-q20",
+      "difficulty": "easy",
+      "q": "The title 'Manthan' of the 1976 Shyam Benegal film translates to which English word?",
+      "options": [
+        "The Harvest",
+        "The Awakening",
+        "The Churning",
+        "The Storm"
+      ],
+      "answer": 2,
+      "explanation": "'Manthan' means 'The Churning', evoking both the churning of milk and of society."
+    },
+    {
+      "id": "manthan-q21",
+      "difficulty": "hard",
+      "q": "Who served as the cinematographer for Shyam Benegal's 1976 film Manthan?",
+      "options": [
+        "Subrata Mitra",
+        "V. K. Murthy",
+        "Ashok Mehta",
+        "Govind Nihalani"
+      ],
+      "answer": 3,
+      "explanation": "Govind Nihalani was the cinematographer on Manthan, a frequent collaborator of Shyam Benegal."
+    },
+    {
+      "id": "manthan-q22",
+      "difficulty": "easy",
+      "q": "The 1976 film Manthan is often grouped with which movement in Indian cinema?",
+      "options": [
+        "Parallel cinema (Indian New Wave)",
+        "The masala film era",
+        "The silent film era",
+        "The musical melodrama movement"
+      ],
+      "answer": 0,
+      "explanation": "Manthan is a landmark of parallel cinema, the realist Indian New Wave of the 1970s."
+    },
+    {
+      "id": "manthan-q23",
+      "difficulty": "hard",
+      "q": "Verghese Kurien, whose dairy work inspired the 1976 film Manthan, is popularly remembered by which nickname?",
+      "options": [
+        "The Father of the Green Revolution",
+        "The Milkman of India",
+        "The Steel Man of India",
+        "The Missile Man of India"
+      ],
+      "answer": 1,
+      "explanation": "Verghese Kurien, architect of Operation Flood and the inspiration for Manthan, is known as the 'Milkman of India'."
+    },
+    {
+      "id": "manthan-q24",
+      "difficulty": "medium",
+      "q": "Which of these films, like the 1976 Manthan, was an early-1970s feature directed by Shyam Benegal?",
+      "options": [
+        "Sholay",
+        "Pakeezah",
+        "Ankur",
+        "Bobby"
+      ],
+      "answer": 2,
+      "explanation": "Ankur (1974) was Shyam Benegal's debut feature, made shortly before Manthan."
+    },
+    {
+      "id": "manthan-q25",
+      "difficulty": "hard",
+      "q": "Decades later, in which year was a restored version of the 1976 film Manthan screened at the Cannes Film Festival's Classics section?",
+      "options": [
+        "2018",
+        "2021",
+        "2016",
+        "2024"
+      ],
+      "answer": 3,
+      "explanation": "A restored print of Manthan was screened in the Cannes Classics section in 2024."
+    },
+    {
+      "id": "manthan-q26",
+      "difficulty": "medium",
+      "q": "The central conflict in the 1976 film Manthan pits the new milk cooperative against which entrenched interests?",
+      "options": [
+        "Private milk contractors and the village's upper-caste establishment",
+        "Foreign dairy importers",
+        "A rival neighbouring village",
+        "The state agriculture department"
+      ],
+      "answer": 0,
+      "explanation": "In Manthan the cooperative struggles against private milk contractors and the entrenched caste and power structure of the village."
+    },
+    {
+      "id": "manthan-q27",
+      "difficulty": "easy",
+      "q": "The 1976 film Manthan is best described as belonging to which type of cinema?",
+      "options": [
+        "A big-budget action blockbuster",
+        "A socially realistic art film",
+        "A mythological epic",
+        "A romantic musical comedy"
+      ],
+      "answer": 1,
+      "explanation": "Manthan is a socially realistic art film rooted in rural Indian life."
+    },
+    {
+      "id": "manthan-q28",
+      "difficulty": "easy",
+      "q": "Which veteran character actor, later famous as 'Mogambo' in Mr. India, played the antagonist in the 1976 film Manthan?",
+      "options": [
+        "Pran",
+        "Prem Chopra",
+        "Amrish Puri",
+        "Ajit"
+      ],
+      "answer": 2,
+      "explanation": "Amrish Puri, later iconic as Mogambo in Mr. India, played the antagonist opposing the cooperative in Manthan."
+    },
+    {
+      "id": "manthan-q29",
+      "difficulty": "hard",
+      "q": "Because of how it was financed, the 1976 film Manthan is frequently cited as an early example of what in Indian cinema?",
+      "options": [
+        "Product placement",
+        "Government censorship",
+        "Colour cinematography",
+        "Crowd-funding"
+      ],
+      "answer": 3,
+      "explanation": "Funded by half a million farmers' small contributions, Manthan is cited as an early example of crowd-funded filmmaking in India."
+    },
+    {
+      "id": "manthan-q30",
+      "difficulty": "medium",
+      "q": "When the cooperative's farmers financed the 1976 film Manthan, those roughly 500,000 contributors effectively became the film's what?",
+      "options": [
+        "Producers",
+        "Directors",
+        "Distributors",
+        "Censors"
+      ],
+      "answer": 0,
+      "explanation": "By each paying two rupees, the roughly 500,000 Gujarat farmers effectively became the producers of Manthan."
+    }
+  ]
+}

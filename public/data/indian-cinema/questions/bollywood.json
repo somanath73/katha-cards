@@ -1,0 +1,395 @@
+{
+  "cardId": "bollywood",
+  "questions": [
+    {
+      "id": "bollywood-q01",
+      "difficulty": "easy",
+      "q": "The term 'Bollywood' is a portmanteau combining 'Hollywood' with which Indian city's former name?",
+      "options": [
+        "Bombay",
+        "Calcutta",
+        "Madras",
+        "Bangalore"
+      ],
+      "answer": 0,
+      "explanation": "'Bollywood' blends 'Bombay' (the former name of Mumbai) with 'Hollywood'."
+    },
+    {
+      "id": "bollywood-q02",
+      "difficulty": "easy",
+      "q": "In which Indian city is the film industry known as 'Bollywood' primarily based?",
+      "options": [
+        "Chennai",
+        "Mumbai",
+        "Hyderabad",
+        "Kolkata"
+      ],
+      "answer": 1,
+      "explanation": "Bollywood refers to the Hindi-language film industry centred in Mumbai (formerly Bombay)."
+    },
+    {
+      "id": "bollywood-q03",
+      "difficulty": "easy",
+      "q": "Which language are the films of 'Bollywood' primarily made in?",
+      "options": [
+        "Tamil",
+        "Bengali",
+        "Hindi",
+        "Telugu"
+      ],
+      "answer": 2,
+      "explanation": "'Bollywood' denotes the Hindi-language film industry of Mumbai."
+    },
+    {
+      "id": "bollywood-q04",
+      "difficulty": "easy",
+      "q": "The term 'Bollywood' came into common use from roughly which decade onwards?",
+      "options": [
+        "The 1930s",
+        "The 1950s",
+        "The 1990s",
+        "The 1970s"
+      ],
+      "answer": 3,
+      "explanation": "The label 'Bollywood' came into common use from around the 1970s onward."
+    },
+    {
+      "id": "bollywood-q05",
+      "difficulty": "easy",
+      "q": "The first syllable 'B' in the word 'Bollywood' is taken from which of these?",
+      "options": [
+        "Bombay",
+        "Bengal",
+        "Bangalore",
+        "Bharat"
+      ],
+      "answer": 0,
+      "explanation": "'Bollywood' blends 'Bombay' and 'Hollywood'; the 'B' comes from Bombay, not Bengal, Bangalore or Bharat."
+    },
+    {
+      "id": "bollywood-q06",
+      "difficulty": "easy",
+      "q": "The Bollywood-style nickname 'Tollywood' is most commonly applied to film industries in which language(s)?",
+      "options": [
+        "Punjabi only",
+        "Telugu and Bengali",
+        "Marathi only",
+        "Gujarati and Assamese"
+      ],
+      "answer": 1,
+      "explanation": "'Tollywood' is used for the Telugu industry (Hyderabad) and the Bengali industry (named after Kolkata's Tollygunge)."
+    },
+    {
+      "id": "bollywood-q07",
+      "difficulty": "easy",
+      "q": "Which Bollywood-style nickname refers to the Tamil-language film industry?",
+      "options": [
+        "Mollywood",
+        "Sandalwood",
+        "Kollywood",
+        "Pollywood"
+      ],
+      "answer": 2,
+      "explanation": "'Kollywood' denotes the Tamil film industry, named after the Kodambakkam neighbourhood of Chennai."
+    },
+    {
+      "id": "bollywood-q08",
+      "difficulty": "easy",
+      "q": "'Bollywood' is best described as a nickname for which kind of entity?",
+      "options": [
+        "A single film studio",
+        "A government film body",
+        "A film award ceremony",
+        "A film industry"
+      ],
+      "answer": 3,
+      "explanation": "'Bollywood' is an informal nickname for the Hindi-language film industry, not a studio, award, or government body."
+    },
+    {
+      "id": "bollywood-q09",
+      "difficulty": "easy",
+      "q": "Songs and elaborate song-and-dance sequences are a hallmark especially associated with which Indian film tradition popularly called by a Hollywood-derived nickname?",
+      "options": [
+        "Bollywood",
+        "Nollywood",
+        "Dollywood",
+        "Chinawood"
+      ],
+      "answer": 0,
+      "explanation": "Bollywood (Hindi cinema) is internationally known for its elaborate musical song-and-dance sequences."
+    },
+    {
+      "id": "bollywood-q10",
+      "difficulty": "easy",
+      "q": "Many practitioners criticise the term 'Bollywood' primarily because they regard it as what?",
+      "options": [
+        "Too modern a coinage",
+        "Derivative of Hollywood",
+        "A legal trademark",
+        "An official government label"
+      ],
+      "answer": 1,
+      "explanation": "Many film practitioners dislike 'Bollywood' because they see it as derivative of and subordinate to Hollywood."
+    },
+    {
+      "id": "bollywood-q11",
+      "difficulty": "medium",
+      "q": "Mumbai, the home of Bollywood, was officially known by which name until it was renamed in 1995?",
+      "options": [
+        "Bandra",
+        "Poona",
+        "Bombay",
+        "Salsette"
+      ],
+      "answer": 2,
+      "explanation": "The city was officially called Bombay until it was renamed Mumbai in 1995, though 'Bollywood' retained the older 'Bom-' root."
+    },
+    {
+      "id": "bollywood-q12",
+      "difficulty": "medium",
+      "q": "Which of these is the popular nickname for the Malayalam-language film industry, formed in imitation of 'Bollywood'?",
+      "options": [
+        "Kollywood",
+        "Sandalwood",
+        "Tollywood",
+        "Mollywood"
+      ],
+      "answer": 3,
+      "explanation": "'Mollywood' is the nickname for the Malayalam film industry, after the 'M' of Malayalam."
+    },
+    {
+      "id": "bollywood-q13",
+      "difficulty": "medium",
+      "q": "The Kannada-language film industry, another industry given a Hollywood-style nickname, is popularly called what?",
+      "options": [
+        "Sandalwood",
+        "Kollywood",
+        "Mollywood",
+        "Tollywood"
+      ],
+      "answer": 0,
+      "explanation": "The Kannada film industry is nicknamed 'Sandalwood', referencing Karnataka's association with sandalwood."
+    },
+    {
+      "id": "bollywood-q14",
+      "difficulty": "medium",
+      "q": "The 'Tolly-' in 'Tollywood', as applied to the Bengali film industry, is derived from which Kolkata locality?",
+      "options": [
+        "Howrah",
+        "Tollygunge",
+        "Salt Lake",
+        "Ballygunge"
+      ],
+      "answer": 1,
+      "explanation": "'Tollywood' for Bengali cinema comes from Tollygunge, the Kolkata neighbourhood that was an early hub of Bengali film studios."
+    },
+    {
+      "id": "bollywood-q15",
+      "difficulty": "medium",
+      "q": "Which Bollywood film, released in 1975, is frequently cited as one of the most iconic Hindi 'masala' blockbusters of all time?",
+      "options": [
+        "Mother India",
+        "Mughal-e-Azam",
+        "Sholay",
+        "Devdas"
+      ],
+      "answer": 2,
+      "explanation": "Sholay (1975), directed by Ramesh Sippy, is one of the most celebrated and enduring blockbusters of Hindi cinema."
+    },
+    {
+      "id": "bollywood-q16",
+      "difficulty": "medium",
+      "q": "The Bollywood actor often referred to as the 'Shahenshah' and a dominant 'angry young man' star of 1970s Hindi cinema is:",
+      "options": [
+        "Dharmendra",
+        "Rajesh Khanna",
+        "Dev Anand",
+        "Amitabh Bachchan"
+      ],
+      "answer": 3,
+      "explanation": "Amitabh Bachchan rose to fame as the 'angry young man' of 1970s Bollywood and is nicknamed 'Shahenshah'."
+    },
+    {
+      "id": "bollywood-q17",
+      "difficulty": "medium",
+      "q": "Which 1995 Bollywood romance, directed by Aditya Chopra, became famous for an exceptionally long continuous theatrical run in Mumbai?",
+      "options": [
+        "Dilwale Dulhania Le Jayenge",
+        "Hum Aapke Hain Koun..!",
+        "Dil To Pagal Hai",
+        "Kuch Kuch Hota Hai"
+      ],
+      "answer": 0,
+      "explanation": "Dilwale Dulhania Le Jayenge (1995) ran for decades at Mumbai's Maratha Mandir cinema, a record for Indian cinema."
+    },
+    {
+      "id": "bollywood-q18",
+      "difficulty": "medium",
+      "q": "In Bollywood film production, the singers who record songs that on-screen actors lip-sync to are known as what?",
+      "options": [
+        "Dubbing artists",
+        "Playback singers",
+        "Foley artists",
+        "Session vocalists"
+      ],
+      "answer": 1,
+      "explanation": "Bollywood relies heavily on 'playback singers', whose recorded songs are lip-synced by actors on screen."
+    },
+    {
+      "id": "bollywood-q19",
+      "difficulty": "medium",
+      "q": "Which Bollywood music director and composer scored films such as Roja and later won two Academy Awards for the non-Hindi film Slumdog Millionaire?",
+      "options": [
+        "R. D. Burman",
+        "Shankar Mahadevan",
+        "A. R. Rahman",
+        "Pritam"
+      ],
+      "answer": 2,
+      "explanation": "A. R. Rahman, prominent in Bollywood and Tamil cinema, won two Oscars for Slumdog Millionaire (2008)."
+    },
+    {
+      "id": "bollywood-q20",
+      "difficulty": "medium",
+      "q": "Hindi cinema, popularly called Bollywood, is sometimes traced to its first sound film of 1931. Which film was that?",
+      "options": [
+        "Raja Harishchandra",
+        "Kisan Kanya",
+        "Achhut Kanya",
+        "Alam Ara"
+      ],
+      "answer": 3,
+      "explanation": "Alam Ara (1931) was India's first sound feature, a milestone for what later became known as Bollywood."
+    },
+    {
+      "id": "bollywood-q21",
+      "difficulty": "medium",
+      "q": "Which family-run banner, founded by Yash Chopra, is one of the most prominent production houses associated with Bollywood romance films?",
+      "options": [
+        "Yash Raj Films",
+        "Rajshri Productions",
+        "Dharma Productions",
+        "Mukta Arts"
+      ],
+      "answer": 0,
+      "explanation": "Yash Raj Films, founded by Yash Chopra in 1970, is a leading Bollywood production and distribution house."
+    },
+    {
+      "id": "bollywood-q22",
+      "difficulty": "medium",
+      "q": "The three actors Shah Rukh Khan, Salman Khan and Aamir Khan are collectively known in Bollywood by what informal nickname?",
+      "options": [
+        "The Bombay Trio",
+        "The Three Khans",
+        "The Mughals",
+        "The Big B's"
+      ],
+      "answer": 1,
+      "explanation": "Shah Rukh, Salman and Aamir Khan are popularly dubbed the 'Three Khans' of Bollywood."
+    },
+    {
+      "id": "bollywood-q23",
+      "difficulty": "hard",
+      "q": "The coinage of 'Bollywood' in the 1970s is often credited to writers in which field?",
+      "options": [
+        "Government censorship boards",
+        "Academic film theory",
+        "Film journalism and the press",
+        "Advertising agencies"
+      ],
+      "answer": 2,
+      "explanation": "The term is generally credited to film journalists and the popular press of the 1970s rather than the industry itself."
+    },
+    {
+      "id": "bollywood-q24",
+      "difficulty": "hard",
+      "q": "Before 'Bollywood' became standard, the older Hollywood-style nickname 'Tollywood' was first applied in the 1930s to which industry?",
+      "options": [
+        "The Hindi industry of Bombay",
+        "The Telugu industry of Hyderabad",
+        "The Tamil industry of Madras",
+        "The Bengali industry of Tollygunge, Calcutta"
+      ],
+      "answer": 3,
+      "explanation": "'Tollywood' was coined in the 1930s for the Bengali film industry centred in Tollygunge, predating 'Bollywood'."
+    },
+    {
+      "id": "bollywood-q25",
+      "difficulty": "hard",
+      "q": "Strictly speaking, 'Bollywood' refers only to Hindi cinema and is NOT a synonym for which broader concept?",
+      "options": [
+        "The entirety of Indian cinema",
+        "Mumbai's Hindi film industry",
+        "Hindi-language commercial films",
+        "Mainstream Hindi movies"
+      ],
+      "answer": 0,
+      "explanation": "Bollywood is only the Hindi-language industry; Indian cinema as a whole also includes Tamil, Telugu, Bengali, Malayalam and other industries."
+    },
+    {
+      "id": "bollywood-q26",
+      "difficulty": "hard",
+      "q": "The Bollywood masala film, a genre mixing multiple modes, characteristically blends action, romance, comedy and which other key element?",
+      "options": [
+        "Documentary footage",
+        "Song-and-dance musical numbers",
+        "Silent-film intertitles",
+        "Live theatre interludes"
+      ],
+      "answer": 1,
+      "explanation": "The 'masala' formula mixes action, romance and comedy with song-and-dance musical sequences in a single film."
+    },
+    {
+      "id": "bollywood-q27",
+      "difficulty": "hard",
+      "q": "Which classic Bollywood epic, released in 1960 and directed by K. Asif, was a landmark big-budget historical romance famous for the song 'Pyar Kiya To Darna Kya'?",
+      "options": [
+        "Mother India",
+        "Pakeezah",
+        "Mughal-e-Azam",
+        "Anarkali"
+      ],
+      "answer": 2,
+      "explanation": "Mughal-e-Azam (1960), directed by K. Asif, is a landmark Bollywood historical epic featuring 'Pyar Kiya To Darna Kya'."
+    },
+    {
+      "id": "bollywood-q28",
+      "difficulty": "hard",
+      "q": "The 1957 Bollywood film Mother India, a major early international success for Hindi cinema, was directed by whom?",
+      "options": [
+        "Bimal Roy",
+        "Guru Dutt",
+        "Raj Kapoor",
+        "Mehboob Khan"
+      ],
+      "answer": 3,
+      "explanation": "Mother India (1957) was directed by Mehboob Khan and was nominated for the Academy Award for Best Foreign Language Film."
+    },
+    {
+      "id": "bollywood-q29",
+      "difficulty": "hard",
+      "q": "Which Bollywood actor of the 1950s and 1960s, known for the screen persona of a Chaplinesque 'tramp', directed and starred in films like Awaara and Shree 420?",
+      "options": [
+        "Raj Kapoor",
+        "Dilip Kumar",
+        "Dev Anand",
+        "Guru Dutt"
+      ],
+      "answer": 0,
+      "explanation": "Raj Kapoor played a Chaplin-inspired tramp and directed and starred in Awaara (1951) and Shree 420 (1955)."
+    },
+    {
+      "id": "bollywood-q30",
+      "difficulty": "hard",
+      "q": "In terms of the sheer number of feature films produced annually, the Indian film industries (including Bollywood) collectively are generally described as which?",
+      "options": [
+        "The smallest film output in Asia",
+        "Among the largest in the world by output",
+        "Limited to fewer than fifty films a year",
+        "Producing only non-commercial art films"
+      ],
+      "answer": 1,
+      "explanation": "India, including Bollywood and the regional industries, is among the world's largest film producers by number of films released each year."
+    }
+  ]
+}

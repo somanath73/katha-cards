@@ -1,0 +1,395 @@
+{
+  "cardId": "sholay",
+  "questions": [
+    {
+      "id": "sholay-q01",
+      "difficulty": "easy",
+      "q": "In which year was the Hindi film Sholay released?",
+      "options": [
+        "1971",
+        "1973",
+        "1975",
+        "1977"
+      ],
+      "answer": 2,
+      "explanation": "Sholay was released on 15 August 1975."
+    },
+    {
+      "id": "sholay-q02",
+      "difficulty": "easy",
+      "q": "Who directed the 1975 film Sholay?",
+      "options": [
+        "Yash Chopra",
+        "Manmohan Desai",
+        "Prakash Mehra",
+        "Ramesh Sippy"
+      ],
+      "answer": 3,
+      "explanation": "Sholay was directed by Ramesh Sippy."
+    },
+    {
+      "id": "sholay-q03",
+      "difficulty": "easy",
+      "q": "Which actor played the menacing bandit Gabbar Singh in Sholay?",
+      "options": [
+        "Amjad Khan",
+        "Pran",
+        "Danny Denzongpa",
+        "Ranjeet"
+      ],
+      "answer": 0,
+      "explanation": "Amjad Khan played Gabbar Singh, one of Hindi cinema's most famous villains."
+    },
+    {
+      "id": "sholay-q04",
+      "difficulty": "easy",
+      "q": "In Sholay, the character Jai was played by which actor?",
+      "options": [
+        "Dharmendra",
+        "Amitabh Bachchan",
+        "Shatrughan Sinha",
+        "Vinod Khanna"
+      ],
+      "answer": 1,
+      "explanation": "Amitabh Bachchan played Jai (Jaidev) in Sholay."
+    },
+    {
+      "id": "sholay-q05",
+      "difficulty": "easy",
+      "q": "Which actor played Veeru, the other hired outlaw, in Sholay?",
+      "options": [
+        "Amitabh Bachchan",
+        "Sanjeev Kumar",
+        "Dharmendra",
+        "Jeetendra"
+      ],
+      "answer": 2,
+      "explanation": "Dharmendra played Veeru in Sholay."
+    },
+    {
+      "id": "sholay-q06",
+      "difficulty": "easy",
+      "q": "The famous screenwriting duo who wrote Sholay is popularly known by which name?",
+      "options": [
+        "Laxmikant-Pyarelal",
+        "Abbas-Mustan",
+        "Shankar-Jaikishan",
+        "Salim-Javed"
+      ],
+      "answer": 3,
+      "explanation": "Sholay was written by the duo Salim-Javed (Salim Khan and Javed Akhtar)."
+    },
+    {
+      "id": "sholay-q07",
+      "difficulty": "easy",
+      "q": "What is the name of the village terrorized by Gabbar Singh in Sholay?",
+      "options": [
+        "Ramgarh",
+        "Rampur",
+        "Shivgarh",
+        "Rampally"
+      ],
+      "answer": 0,
+      "explanation": "The bandit Gabbar Singh terrorizes the village of Ramgarh in Sholay."
+    },
+    {
+      "id": "sholay-q08",
+      "difficulty": "easy",
+      "q": "In Sholay, the former police officer who hires Jai and Veeru is named what?",
+      "options": [
+        "Inspector Khan",
+        "Thakur Baldev Singh",
+        "Raja Sahib",
+        "Seth Dharamdas"
+      ],
+      "answer": 1,
+      "explanation": "Thakur Baldev Singh, played by Sanjeev Kumar, hires the two outlaws."
+    },
+    {
+      "id": "sholay-q09",
+      "difficulty": "easy",
+      "q": "Which actress played the talkative tonga driver Basanti in Sholay?",
+      "options": [
+        "Jaya Bhaduri",
+        "Rekha",
+        "Hema Malini",
+        "Mumtaz"
+      ],
+      "answer": 2,
+      "explanation": "Hema Malini played the spirited tonga driver Basanti in Sholay."
+    },
+    {
+      "id": "sholay-q10",
+      "difficulty": "easy",
+      "q": "Sholay is widely described as belonging to which hybrid genre nickname?",
+      "options": [
+        "Masala melodrama",
+        "Mumbai noir",
+        "Desi musical",
+        "Curry Western"
+      ],
+      "answer": 3,
+      "explanation": "Sholay is often called a 'Curry Western', an Indian take on the Spaghetti Western style."
+    },
+    {
+      "id": "sholay-q11",
+      "difficulty": "medium",
+      "q": "Who composed the music for the 1975 film Sholay?",
+      "options": [
+        "R. D. Burman",
+        "Laxmikant-Pyarelal",
+        "Kalyanji-Anandji",
+        "Rajesh Roshan"
+      ],
+      "answer": 0,
+      "explanation": "R. D. Burman composed the music for Sholay."
+    },
+    {
+      "id": "sholay-q12",
+      "difficulty": "medium",
+      "q": "Which song from Sholay celebrates the friendship between Jai and Veeru?",
+      "options": [
+        "Mehbooba Mehbooba",
+        "Yeh Dosti",
+        "Holi Ke Din",
+        "Koi Haseena"
+      ],
+      "answer": 1,
+      "explanation": "'Yeh Dosti Hum Nahin Todenge' is the iconic friendship song from Sholay."
+    },
+    {
+      "id": "sholay-q13",
+      "difficulty": "medium",
+      "q": "The song 'Mehbooba Mehbooba' in Sholay was sung primarily by which artist?",
+      "options": [
+        "Kishore Kumar",
+        "Mohammed Rafi",
+        "R. D. Burman",
+        "Manna Dey"
+      ],
+      "answer": 2,
+      "explanation": "Music director R. D. Burman himself sang 'Mehbooba Mehbooba', picturised on Jalal Agha with Helen dancing at Gabbar's hideout."
+    },
+    {
+      "id": "sholay-q14",
+      "difficulty": "medium",
+      "q": "Which actor played the comic jailer in Sholay, delivering the line 'Hum angrezon ke zamane ke jailer hain'?",
+      "options": [
+        "Jagdeep",
+        "Keshto Mukherjee",
+        "Mukri",
+        "Asrani"
+      ],
+      "answer": 3,
+      "explanation": "Asrani played the comic jailer in Sholay."
+    },
+    {
+      "id": "sholay-q15",
+      "difficulty": "medium",
+      "q": "Which character in Sholay is associated with the catchphrase 'Arre O Samba'?",
+      "options": [
+        "Gabbar Singh",
+        "Thakur",
+        "Jai",
+        "Soorma Bhopali"
+      ],
+      "answer": 0,
+      "explanation": "Gabbar Singh calls out to his lieutenant Samba with the famous 'Arre O Samba'."
+    },
+    {
+      "id": "sholay-q16",
+      "difficulty": "medium",
+      "q": "Which actor played the comic character Soorma Bhopali in Sholay?",
+      "options": [
+        "Asrani",
+        "Jagdeep",
+        "Deven Verma",
+        "Paintal"
+      ],
+      "answer": 1,
+      "explanation": "Jagdeep played the comic character Soorma Bhopali in Sholay."
+    },
+    {
+      "id": "sholay-q17",
+      "difficulty": "medium",
+      "q": "Which actress played Radha, the Thakur's widowed daughter-in-law, in Sholay?",
+      "options": [
+        "Hema Malini",
+        "Nutan",
+        "Jaya Bhaduri",
+        "Waheeda Rehman"
+      ],
+      "answer": 2,
+      "explanation": "Jaya Bhaduri played the quiet widow Radha in Sholay."
+    },
+    {
+      "id": "sholay-q18",
+      "difficulty": "medium",
+      "q": "In which rocky South Indian region was much of Sholay filmed?",
+      "options": [
+        "Ooty hills",
+        "Coorg plantations",
+        "Araku Valley",
+        "Ramanagara near Bangalore"
+      ],
+      "answer": 3,
+      "explanation": "Sholay was largely shot among the rocky terrain of Ramanagara (then in Karnataka) near Bangalore."
+    },
+    {
+      "id": "sholay-q19",
+      "difficulty": "medium",
+      "q": "Who wrote the lyrics for the songs of Sholay, including 'Yeh Dosti' and 'Mehbooba Mehbooba'?",
+      "options": [
+        "Anand Bakshi",
+        "Gulzar",
+        "Majrooh Sultanpuri",
+        "Sahir Ludhianvi"
+      ],
+      "answer": 0,
+      "explanation": "Anand Bakshi wrote the lyrics for the songs of Sholay, set to R. D. Burman's music."
+    },
+    {
+      "id": "sholay-q20",
+      "difficulty": "medium",
+      "q": "How are the characters Jai and Veeru introduced at the start of Sholay?",
+      "options": [
+        "As army deserters",
+        "As petty criminals and small-time crooks",
+        "As wealthy landlords",
+        "As police officers"
+      ],
+      "answer": 1,
+      "explanation": "Jai and Veeru are small-time crooks whom the Thakur recruits to capture Gabbar Singh."
+    },
+    {
+      "id": "sholay-q21",
+      "difficulty": "medium",
+      "q": "Which production banner produced the 1975 film Sholay?",
+      "options": [
+        "Yash Raj Films",
+        "Navketan Films",
+        "Sippy Films",
+        "Mehboob Productions"
+      ],
+      "answer": 2,
+      "explanation": "Sholay was produced under the Sippy Films banner, with G. P. Sippy as producer."
+    },
+    {
+      "id": "sholay-q22",
+      "difficulty": "medium",
+      "q": "What punishment does Gabbar Singh inflict on the Thakur that drives the Thakur's quest for revenge in Sholay?",
+      "options": [
+        "Burns down his house",
+        "Blinds him",
+        "Kidnaps his wife",
+        "Cuts off both his arms"
+      ],
+      "answer": 3,
+      "explanation": "Gabbar Singh cuts off both of the Thakur's arms, which is why he hides them under a shawl."
+    },
+    {
+      "id": "sholay-q23",
+      "difficulty": "hard",
+      "q": "Initially the censors required Sholay's original ending to be changed; what was the altered outcome for Gabbar Singh?",
+      "options": [
+        "Gabbar is handed over to the police alive instead of being killed by the Thakur",
+        "Gabbar escapes",
+        "Gabbar reforms",
+        "Gabbar kills the Thakur"
+      ],
+      "answer": 0,
+      "explanation": "The censors objected to the Thakur killing Gabbar, so the released ending has the police arrive and take Gabbar away."
+    },
+    {
+      "id": "sholay-q24",
+      "difficulty": "hard",
+      "q": "Sholay famously had a long unbroken theatrical run at which Mumbai cinema?",
+      "options": [
+        "Maratha Mandir",
+        "Minerva",
+        "Eros",
+        "Regal"
+      ],
+      "answer": 1,
+      "explanation": "Sholay ran continuously for over five years at the Minerva theatre in Mumbai."
+    },
+    {
+      "id": "sholay-q25",
+      "difficulty": "hard",
+      "q": "Which actor was originally considered for the role of Gabbar Singh before Amjad Khan was cast in Sholay?",
+      "options": [
+        "Pran",
+        "Prem Chopra",
+        "Danny Denzongpa",
+        "Madan Puri"
+      ],
+      "answer": 2,
+      "explanation": "Danny Denzongpa was first considered for Gabbar but could not do it due to a scheduling conflict, and Amjad Khan was cast."
+    },
+    {
+      "id": "sholay-q26",
+      "difficulty": "hard",
+      "q": "Who served as the cinematographer for Sholay, helping achieve its expansive widescreen look?",
+      "options": [
+        "V. K. Murthy",
+        "Subrata Mitra",
+        "Jal Mistry",
+        "Dwarka Divecha"
+      ],
+      "answer": 3,
+      "explanation": "Dwarka Divecha was the cinematographer of Sholay."
+    },
+    {
+      "id": "sholay-q27",
+      "difficulty": "hard",
+      "q": "The character Samba, Gabbar's lieutenant in Sholay, was played by which actor?",
+      "options": [
+        "Mac Mohan",
+        "Viju Khote",
+        "Sachin",
+        "Iftekhar"
+      ],
+      "answer": 0,
+      "explanation": "Mac Mohan played the largely silent dacoit Samba in Sholay."
+    },
+    {
+      "id": "sholay-q28",
+      "difficulty": "hard",
+      "q": "Which actor played Kaalia, the dacoit famously taunted by Gabbar in the 'Kitne aadmi the' scene in Sholay?",
+      "options": [
+        "Mac Mohan",
+        "Viju Khote",
+        "Jagdeep",
+        "Asrani"
+      ],
+      "answer": 1,
+      "explanation": "Viju Khote played Kaalia, the dacoit Gabbar interrogates in the iconic 'Kitne aadmi the' scene."
+    },
+    {
+      "id": "sholay-q29",
+      "difficulty": "hard",
+      "q": "A re-released 3D version of Sholay was brought to cinemas in which year?",
+      "options": [
+        "2007",
+        "2010",
+        "2014",
+        "2018"
+      ],
+      "answer": 2,
+      "explanation": "A converted 3D version of Sholay was released in cinemas in 2014."
+    },
+    {
+      "id": "sholay-q30",
+      "difficulty": "hard",
+      "q": "Although hugely successful overall, how did Sholay perform with critics and at the box office during its very first weeks of release?",
+      "options": [
+        "It was an instant unanimous hit from day one",
+        "It was banned for several weeks",
+        "It was pulled after one week",
+        "It opened slowly and received lukewarm early reviews before becoming a massive long-run success"
+      ],
+      "answer": 3,
+      "explanation": "Sholay had a slow start with cool early reviews but went on to become one of Indian cinema's biggest long-running successes."
+    }
+  ]
+}

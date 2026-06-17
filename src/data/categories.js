@@ -48,6 +48,6 @@ export const CATEGORIES = [
     tagline: 'A century of the silver screen',
     emblem: 'star',
     palette: 'forest',
-    live: false,
+    live: true,
   },
 ]

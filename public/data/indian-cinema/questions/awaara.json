@@ -1,0 +1,395 @@
+{
+  "cardId": "awaara",
+  "questions": [
+    {
+      "id": "awaara-q01",
+      "difficulty": "easy",
+      "q": "In which year was the Hindi film Awaara released?",
+      "options": [
+        "1949",
+        "1951",
+        "1955",
+        "1957"
+      ],
+      "answer": 1,
+      "explanation": "Awaara was released in 1951."
+    },
+    {
+      "id": "awaara-q02",
+      "difficulty": "easy",
+      "q": "Who directed the 1951 film Awaara?",
+      "options": [
+        "Mehboob Khan",
+        "Bimal Roy",
+        "Raj Kapoor",
+        "Guru Dutt"
+      ],
+      "answer": 2,
+      "explanation": "Awaara was directed by Raj Kapoor under his R.K. Films banner."
+    },
+    {
+      "id": "awaara-q03",
+      "difficulty": "easy",
+      "q": "Who played the male lead, the tramp Raj, in the 1951 film Awaara?",
+      "options": [
+        "Dilip Kumar",
+        "Dev Anand",
+        "Ashok Kumar",
+        "Raj Kapoor"
+      ],
+      "answer": 3,
+      "explanation": "Raj Kapoor both directed Awaara and starred as the tramp-like protagonist Raj."
+    },
+    {
+      "id": "awaara-q04",
+      "difficulty": "easy",
+      "q": "Which actress played the female lead Rita opposite Raj Kapoor in the 1951 film Awaara?",
+      "options": [
+        "Nargis",
+        "Madhubala",
+        "Meena Kumari",
+        "Vyjayanthimala"
+      ],
+      "answer": 0,
+      "explanation": "Nargis played Rita, continuing her celebrated on-screen pairing with Raj Kapoor."
+    },
+    {
+      "id": "awaara-q05",
+      "difficulty": "easy",
+      "q": "What is the famous title song of the 1951 film Awaara?",
+      "options": [
+        "Mera Joota Hai Japani",
+        "Awaara Hoon",
+        "Pyar Hua Ikraar Hua",
+        "Ramaiya Vastavaiya"
+      ],
+      "answer": 1,
+      "explanation": "The film's signature song is 'Awaara Hoon', sung by Mukesh."
+    },
+    {
+      "id": "awaara-q06",
+      "difficulty": "easy",
+      "q": "Which playback singer gave voice to Raj Kapoor for the title song 'Awaara Hoon' in the 1951 film Awaara?",
+      "options": [
+        "Mohammed Rafi",
+        "Manna Dey",
+        "Mukesh",
+        "Kishore Kumar"
+      ],
+      "answer": 2,
+      "explanation": "Mukesh, long regarded as Raj Kapoor's musical 'voice', sang 'Awaara Hoon'."
+    },
+    {
+      "id": "awaara-q07",
+      "difficulty": "easy",
+      "q": "Under which film banner was the 1951 film Awaara produced?",
+      "options": [
+        "Bombay Talkies",
+        "Mehboob Productions",
+        "Navketan Films",
+        "R.K. Films"
+      ],
+      "answer": 3,
+      "explanation": "Awaara was produced under Raj Kapoor's own studio, R.K. Films."
+    },
+    {
+      "id": "awaara-q08",
+      "difficulty": "easy",
+      "q": "The central theme of the 1951 film Awaara is best described as a debate between which two forces?",
+      "options": [
+        "Nature versus nurture",
+        "Love versus duty",
+        "Tradition versus modernity",
+        "Wealth versus poverty alone"
+      ],
+      "answer": 0,
+      "explanation": "Awaara dramatises the nature-versus-nurture question, asking whether heredity or environment shapes a man's character."
+    },
+    {
+      "id": "awaara-q09",
+      "difficulty": "easy",
+      "q": "In the 1951 film Awaara, the protagonist Raj is the son of a man holding which profession?",
+      "options": [
+        "A police officer",
+        "A judge",
+        "A doctor",
+        "A landlord"
+      ],
+      "answer": 1,
+      "explanation": "Raj is the son of a respected judge, yet grows up among thieves on the streets."
+    },
+    {
+      "id": "awaara-q10",
+      "difficulty": "easy",
+      "q": "In which language was the 1951 film Awaara primarily made?",
+      "options": [
+        "Bengali",
+        "Tamil",
+        "Hindi",
+        "Marathi"
+      ],
+      "answer": 2,
+      "explanation": "Awaara was made in Hindi-Urdu, the standard language of mainstream Bombay cinema."
+    },
+    {
+      "id": "awaara-q11",
+      "difficulty": "medium",
+      "q": "Which music director duo composed the songs for the 1951 film Awaara?",
+      "options": [
+        "Naushad",
+        "S.D. Burman",
+        "Laxmikant-Pyarelal",
+        "Shankar-Jaikishan"
+      ],
+      "answer": 3,
+      "explanation": "The score and songs of Awaara were composed by the duo Shankar-Jaikishan."
+    },
+    {
+      "id": "awaara-q12",
+      "difficulty": "medium",
+      "q": "What is the name of the elaborate dream sequence song in the 1951 film Awaara?",
+      "options": [
+        "Ghar Aaya Mera Pardesi",
+        "Awaara Hoon",
+        "Dam Bhar Jo Udhar",
+        "Ek Do Teen"
+      ],
+      "answer": 0,
+      "explanation": "The film's celebrated fantasy dream sequence is set to 'Ghar Aaya Mera Pardesi'."
+    },
+    {
+      "id": "awaara-q13",
+      "difficulty": "medium",
+      "q": "Which veteran actor, Raj Kapoor's real-life father, played the judge Raghunath in the 1951 film Awaara?",
+      "options": [
+        "Motilal",
+        "Prithviraj Kapoor",
+        "Pran",
+        "K.N. Singh"
+      ],
+      "answer": 1,
+      "explanation": "Prithviraj Kapoor, Raj Kapoor's father, played the stern judge Raghunath, mirroring the on-screen father-son relationship."
+    },
+    {
+      "id": "awaara-q14",
+      "difficulty": "medium",
+      "q": "Who played the menacing bandit Jagga, who corrupts the young Raj in the 1951 film Awaara?",
+      "options": [
+        "Pran",
+        "Premnath",
+        "K.N. Singh",
+        "Jeevan"
+      ],
+      "answer": 2,
+      "explanation": "K.N. Singh portrayed the vengeful bandit Jagga who deliberately drags Raj into a life of crime."
+    },
+    {
+      "id": "awaara-q15",
+      "difficulty": "medium",
+      "q": "The 1951 film Awaara became an exceptional commercial and cultural success in which country, where its title song was widely sung?",
+      "options": [
+        "Japan",
+        "France",
+        "Brazil",
+        "The Soviet Union"
+      ],
+      "answer": 3,
+      "explanation": "Awaara was a massive hit in the Soviet Union, where 'Awaara Hoon' became enormously popular."
+    },
+    {
+      "id": "awaara-q16",
+      "difficulty": "medium",
+      "q": "Who wrote the screenplay and story for the 1951 film Awaara, also a frequent collaborator of Raj Kapoor?",
+      "options": [
+        "Khwaja Ahmad Abbas",
+        "Abrar Alvi",
+        "Wajahat Mirza",
+        "Inder Raj Anand"
+      ],
+      "answer": 0,
+      "explanation": "Khwaja Ahmad Abbas wrote Awaara, beginning his long association with Raj Kapoor's socially themed films."
+    },
+    {
+      "id": "awaara-q17",
+      "difficulty": "medium",
+      "q": "The on-screen persona Raj Kapoor cultivated in Awaara is widely compared to which Hollywood comedian's famous character?",
+      "options": [
+        "Buster Keaton's stoneface",
+        "Charlie Chaplin's Tramp",
+        "Harold Lloyd's glasses character",
+        "Laurel and Hardy"
+      ],
+      "answer": 1,
+      "explanation": "Raj Kapoor's lovable vagabond image in Awaara was modelled on Charlie Chaplin's Tramp."
+    },
+    {
+      "id": "awaara-q18",
+      "difficulty": "medium",
+      "q": "Besides Awaara, which other Raj Kapoor and Nargis film helped cement them as one of Hindi cinema's most iconic pairs?",
+      "options": [
+        "Mughal-e-Azam",
+        "Pyaasa",
+        "Shree 420",
+        "Madhumati"
+      ],
+      "answer": 2,
+      "explanation": "Shree 420 (1955) was another landmark Raj Kapoor-Nargis collaboration alongside Awaara."
+    },
+    {
+      "id": "awaara-q19",
+      "difficulty": "medium",
+      "q": "In the 1951 film Awaara, the character Rita, played by Nargis, works in which profession?",
+      "options": [
+        "She is a schoolteacher",
+        "She is a doctor",
+        "She is a journalist",
+        "She is a lawyer"
+      ],
+      "answer": 3,
+      "explanation": "Rita is a lawyer who ends up defending Raj in court during the film's climax."
+    },
+    {
+      "id": "awaara-q20",
+      "difficulty": "medium",
+      "q": "The climax of the 1951 film Awaara is built around a dramatic sequence set in which location?",
+      "options": [
+        "A courtroom",
+        "A hospital",
+        "A railway station",
+        "A temple"
+      ],
+      "answer": 0,
+      "explanation": "The film culminates in a courtroom trial where Raj is defended by Rita and confronted by his estranged father."
+    },
+    {
+      "id": "awaara-q21",
+      "difficulty": "medium",
+      "q": "The 1951 film Awaara was nominated for the Grand Prize at which major international film festival in 1953?",
+      "options": [
+        "Venice Film Festival",
+        "Cannes Film Festival",
+        "Berlin Film Festival",
+        "Locarno Film Festival"
+      ],
+      "answer": 1,
+      "explanation": "Awaara competed for the Grand Prize at the 1953 Cannes Film Festival."
+    },
+    {
+      "id": "awaara-q22",
+      "difficulty": "hard",
+      "q": "Who served as the cinematographer for the 1951 film Awaara, noted for its striking dream-sequence visuals?",
+      "options": [
+        "V.K. Murthy",
+        "Faredoon Irani",
+        "Radhu Karmakar",
+        "Jal Mistry"
+      ],
+      "answer": 2,
+      "explanation": "Radhu Karmakar was the cinematographer of Awaara and a longtime collaborator of Raj Kapoor at R.K. Films."
+    },
+    {
+      "id": "awaara-q23",
+      "difficulty": "hard",
+      "q": "Which two lyricists wrote the songs for the 1951 film Awaara, working with Shankar-Jaikishan?",
+      "options": [
+        "Sahir Ludhianvi and Majrooh Sultanpuri",
+        "Kaifi Azmi and Shakeel Badayuni",
+        "Rajinder Krishan and Anand Bakshi",
+        "Shailendra and Hasrat Jaipuri"
+      ],
+      "answer": 3,
+      "explanation": "Shailendra and Hasrat Jaipuri, the regular R.K. Films lyricist team, penned the songs of Awaara."
+    },
+    {
+      "id": "awaara-q24",
+      "difficulty": "hard",
+      "q": "In the backstory of the 1951 film Awaara, why does the judge Raghunath cast out his pregnant wife Leela?",
+      "options": [
+        "Because he wrongly suspects the unborn child is not his after she was abducted by Jagga",
+        "Because she had committed a crime",
+        "Because she refused to leave the city",
+        "Because of a property dispute"
+      ],
+      "answer": 0,
+      "explanation": "After Leela is briefly abducted by the bandit Jagga, Raghunath suspects the child's paternity and throws her out, setting the tragedy in motion."
+    },
+    {
+      "id": "awaara-q25",
+      "difficulty": "hard",
+      "q": "Which actor, later a famous leading man and Raj Kapoor's younger brother, played the young Raj in the childhood portions of the 1951 film Awaara?",
+      "options": [
+        "Shammi Kapoor",
+        "Shashi Kapoor",
+        "Premnath",
+        "Rajendra Kumar"
+      ],
+      "answer": 1,
+      "explanation": "Shashi Kapoor, credited as 'Shashiraj', played the young Raj in Awaara, portraying the childhood of his elder brother Raj Kapoor's character."
+    },
+    {
+      "id": "awaara-q26",
+      "difficulty": "medium",
+      "q": "The celebrated dream sequence in the 1951 film Awaara is built around a fantastical depiction of which contrast?",
+      "options": [
+        "Land and sea",
+        "City and village",
+        "Heaven and hell",
+        "War and peace"
+      ],
+      "answer": 2,
+      "explanation": "The lavish 'Ghar Aaya Mera Pardesi' dream sequence visualises heaven and hell, dramatising Raj's torn inner state and considered one of Indian cinema's most ambitious sequences of its era."
+    },
+    {
+      "id": "awaara-q27",
+      "difficulty": "hard",
+      "q": "Which playback singer sang the female portions of the 1951 film Awaara's songs, including 'Ghar Aaya Mera Pardesi'?",
+      "options": [
+        "Shamshad Begum",
+        "Geeta Dutt",
+        "Asha Bhosle",
+        "Lata Mangeshkar"
+      ],
+      "answer": 3,
+      "explanation": "Lata Mangeshkar provided the female vocals, including the dream-sequence song 'Ghar Aaya Mera Pardesi'."
+    },
+    {
+      "id": "awaara-q28",
+      "difficulty": "hard",
+      "q": "The runaway popularity of the 1951 film Awaara in the Soviet Union made Raj Kapoor a household name there under which affectionate title derived from the film?",
+      "options": [
+        "Bradyaga (the Vagabond)",
+        "Tovarisch",
+        "Druzhok",
+        "Geroy"
+      ],
+      "answer": 0,
+      "explanation": "The Russian-dubbed title 'Bродяга' (Bradyaga, meaning 'the vagabond/tramp') became Raj Kapoor's beloved identity in the USSR."
+    },
+    {
+      "id": "awaara-q29",
+      "difficulty": "hard",
+      "q": "Beyond the Soviet Union, in which other large country was the 1951 film Awaara also famously a huge popular success?",
+      "options": [
+        "Argentina",
+        "China",
+        "Australia",
+        "South Africa"
+      ],
+      "answer": 1,
+      "explanation": "Awaara was an enormous hit in China as well as the USSR and the Middle East, with its title song widely known there."
+    },
+    {
+      "id": "awaara-q30",
+      "difficulty": "hard",
+      "q": "Which actress played Leela, the wronged mother of the protagonist Raj, in the 1951 film Awaara?",
+      "options": [
+        "Lalita Pawar",
+        "Durga Khote",
+        "Leela Chitnis",
+        "Nadira"
+      ],
+      "answer": 2,
+      "explanation": "Leela Chitnis played Leela, the suffering mother cast out by the judge and forced to raise Raj in poverty."
+    }
+  ]
+}

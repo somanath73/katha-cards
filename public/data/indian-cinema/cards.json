@@ -1,0 +1,1007 @@
+{
+  "category": "indian-cinema",
+  "name": "Indian Cinema",
+  "questionsPerCard": 30,
+  "cards": [
+    {
+      "id": "dadasaheb-phalke",
+      "order": 1,
+      "title": "Dadasaheb Phalke",
+      "subtitle": "Father Of Indian Cinema",
+      "type": "character",
+      "emblem": "eye",
+      "palette": "dawn",
+      "description": "Dhundiraj Govind Phalke (1870-1944) wrote, produced and directed Raja Harishchandra (1913), India's first full-length feature film. He made around 95 films over roughly two decades, and India's highest cinema honour, the Dadasaheb Phalke Award instituted in 1969, is named after him."
+    },
+    {
+      "id": "raja-harishchandra",
+      "order": 2,
+      "title": "Raja Harishchandra",
+      "subtitle": "India's First Feature Film",
+      "type": "artifact",
+      "emblem": "scroll",
+      "palette": "flame",
+      "description": "Directed by Dadasaheb Phalke and released in 1913, this silent mythological based on the legend of the truthful king Harishchandra is regarded as India's first full-length feature film. All roles, including female ones, were played by men, with Anna Salunke in the lead."
+    },
+    {
+      "id": "the-lumiere-bombay-screening",
+      "order": 3,
+      "title": "The Lumière Bombay Screening",
+      "subtitle": "Cinema Arrives In India",
+      "type": "event",
+      "emblem": "sun",
+      "palette": "dusk",
+      "description": "On 7 July 1896, agents of the Lumière brothers held the first public film screening in India at Watson's Hotel in Bombay, showing shorts such as 'Arrival of a Train'. The event introduced the cinematograph to Indian audiences, roughly six months after the Lumières' first Paris screening."
+    },
+    {
+      "id": "alam-ara",
+      "order": 4,
+      "title": "Alam Ara",
+      "subtitle": "India's First Talkie",
+      "type": "artifact",
+      "emblem": "flute",
+      "palette": "royal",
+      "description": "Directed by Ardeshir Irani and released in 1931 by Imperial Film Company, Alam Ara was India's first sound film. Its song 'De De Khuda Ke Naam Pe' is regarded as Indian cinema's first film song, and no print of the film is known to survive."
+    },
+    {
+      "id": "dadasaheb-torne",
+      "order": 5,
+      "title": "Dadasaheb Torne",
+      "subtitle": "Recorder Of Shree Pundalik",
+      "type": "event",
+      "emblem": "river",
+      "palette": "dawn",
+      "description": "Ramchandra Gopal 'Dadasaheb' Torne (1890-1960) produced 'Shree Pundalik', screened in Bombay on 18 May 1912, roughly a year before Phalke's Raja Harishchandra (1913). Debate persists over whether it qualifies as the first Indian film, since it was a recorded stage play shot by a British cameraman."
+    },
+    {
+      "id": "devika-rani",
+      "order": 6,
+      "title": "Devika Rani",
+      "subtitle": "First Lady Of Indian Cinema",
+      "type": "character",
+      "emblem": "lotus",
+      "palette": "dusk",
+      "description": "Devika Rani (1908-1994) was a leading actress of early sound cinema who, with husband Himanshu Rai, co-founded Bombay Talkies in 1934. She starred in Karma (1933) and Achhut Kanya (1936), and in 1969 became the first recipient of the Dadasaheb Phalke Award."
+    },
+    {
+      "id": "bombay-talkies",
+      "order": 7,
+      "title": "Bombay Talkies",
+      "subtitle": "Studio Of The Talkie Era",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "royal",
+      "description": "Founded in 1934 in Malad, Bombay by Himanshu Rai and Devika Rani, Bombay Talkies ran on a professional salaried-staff model with German technical expertise. It produced landmark socials such as Achhut Kanya (1936) and launched stars including Ashok Kumar, Dilip Kumar and Madhubala."
+    },
+    {
+      "id": "new-theatres",
+      "order": 8,
+      "title": "New Theatres",
+      "subtitle": "Calcutta's House Of Prestige",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "forest",
+      "description": "Calcutta studio founded by B. N. Sircar in 1931, known for literary adaptations and bilingual Bengali-Hindi production. Its roster included director P. C. Barua, singer-actor K. L. Saigal and composer R. C. Boral, and it made the influential Devdas (1935)."
+    },
+    {
+      "id": "prabhat-film-company",
+      "order": 9,
+      "title": "Prabhat Film Company",
+      "subtitle": "Pune's Reformist Studio",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "dawn",
+      "description": "Studio founded in 1929 by V. Shantaram and partners, relocating to Pune in 1933 and known for socially reformist and devotional films. It produced Sant Tukaram (1936), honoured at the 1937 Venice Film Festival, and its Pune campus later became the FTII grounds."
+    },
+    {
+      "id": "k-l-saigal",
+      "order": 10,
+      "title": "K. L. Saigal",
+      "subtitle": "The First Singing Star",
+      "type": "character",
+      "emblem": "flute",
+      "palette": "dusk",
+      "description": "Singer-actor (1904-1947) who rose to fame at New Theatres, defining the singing-star ideal of 1930s Hindi-Bengali cinema. He sang his own songs on screen before the playback system took hold, and his performance in Devdas (1935) made him the era's most influential vocalist."
+    },
+    {
+      "id": "v-shantaram",
+      "order": 11,
+      "title": "V. Shantaram",
+      "subtitle": "Pioneer Of Reformist Cinema",
+      "type": "character",
+      "emblem": "eye",
+      "palette": "forest",
+      "description": "Shantaram Rajaram Vankudre (1901-1990) was a director, producer and actor who co-founded Prabhat Film Company (1929) and later Rajkamal Kalamandir (1942). He directed reformist social films including 'Duniya Na Mane' (1937) and 'Do Aankhen Barah Haath' (1957), and received the Dadasaheb Phalke Award in 1985."
+    },
+    {
+      "id": "mehboob-khan",
+      "order": 12,
+      "title": "Mehboob Khan",
+      "subtitle": "Maker Of Mother India",
+      "type": "character",
+      "emblem": "star",
+      "palette": "flame",
+      "description": "Director-producer (1907-1964) who founded Mehboob Productions and built large-scale social dramas. He directed Andaz (1949), Aan (1952) and Mother India (1957), the last earning India's first Academy Award nomination for Best Foreign Language Film."
+    },
+    {
+      "id": "mother-india",
+      "order": 13,
+      "title": "Mother India",
+      "subtitle": "The Nation As Mother",
+      "type": "artifact",
+      "emblem": "river",
+      "palette": "flame",
+      "description": "Mehboob Khan's 1957 epic starring Nargis as Radha, a peasant woman who endures flood, debt and loss before killing her own outlaw son to uphold communal honour. It was the first Indian film nominated for the Academy Award for Best Foreign Language Film, losing by a single vote."
+    },
+    {
+      "id": "nargis",
+      "order": 14,
+      "title": "Nargis",
+      "subtitle": "The Face Of Mother India",
+      "type": "character",
+      "emblem": "lotus",
+      "palette": "royal",
+      "description": "Nargis Dutt (1929-1981) was a leading Hindi actress of the 1940s-50s, celebrated for her partnership with Raj Kapoor in Awaara (1951) and Shree 420 (1955). Her title role in Mother India (1957) is iconic; she was the first actress awarded the Padma Shri and later served as a Rajya Sabha member."
+    },
+    {
+      "id": "mughal-e-azam",
+      "order": 15,
+      "title": "Mughal-e-Azam",
+      "subtitle": "K. Asif's Imperial Epic",
+      "type": "artifact",
+      "emblem": "crown",
+      "palette": "royal",
+      "description": "K. Asif's 1960 historical epic about Prince Salim's love for the courtesan Anarkali, starring Prithviraj Kapoor, Dilip Kumar and Madhubala. Famous for its lavish sets, Naushad's music and 'Pyar Kiya To Darna Kya', it was among the costliest Indian films of its era and was digitally colourised in 2004."
+    },
+    {
+      "id": "dilip-kumar",
+      "order": 16,
+      "title": "Dilip Kumar",
+      "subtitle": "The Tragedy King",
+      "type": "character",
+      "emblem": "crown",
+      "palette": "dusk",
+      "description": "Actor (1922-2021), born Yusuf Khan, who introduced a naturalistic, internalised acting style to Hindi cinema. Renowned for intense roles in Andaz (1949), Devdas (1955) and Mughal-e-Azam (1960), he earned the epithet 'Tragedy King' and shaped generations of stars."
+    },
+    {
+      "id": "madhubala",
+      "order": 17,
+      "title": "Madhubala",
+      "subtitle": "Anarkali's Radiance",
+      "type": "character",
+      "emblem": "moon",
+      "palette": "dusk",
+      "description": "Madhubala (1933-1969) was a Hindi actress whose career peaked in the 1950s with Mahal (1949) and Mr. & Mrs. '55 (1955). Her performance as Anarkali in Mughal-e-Azam (1960) is among Indian cinema's most enduring images; she died at 36 from a congenital heart condition."
+    },
+    {
+      "id": "guru-dutt",
+      "order": 18,
+      "title": "Guru Dutt",
+      "subtitle": "Poet Of Pyaasa",
+      "type": "character",
+      "emblem": "eye",
+      "palette": "dusk",
+      "description": "Director-actor-producer (1925-1964) known for visually expressive, melancholic films exploring the artist and society. He made Pyaasa (1957) and Kaagaz Ke Phool (1959), India's first CinemaScope feature, working with cinematographer V. K. Murthy and composer S. D. Burman."
+    },
+    {
+      "id": "pyaasa",
+      "order": 19,
+      "title": "Pyaasa",
+      "subtitle": "The Disillusioned Poet",
+      "type": "artifact",
+      "emblem": "scroll",
+      "palette": "dusk",
+      "description": "Guru Dutt's 1957 film about a neglected poet, Vijay, who finds society values him only once presumed dead. With Sahir Ludhianvi's lyrics and S. D. Burman's score, songs like 'Jinhe Naaz Hai Hind Par' delivered a sharp critique of post-Independence society; it features on Time's all-time greatest films list."
+    },
+    {
+      "id": "raj-kapoor",
+      "order": 20,
+      "title": "Raj Kapoor",
+      "subtitle": "The Showman Of R.K. Films",
+      "type": "character",
+      "emblem": "star",
+      "palette": "flame",
+      "description": "Actor-director-producer (1924-1988) who founded R.K. Films in 1948 and crafted a Chaplinesque 'common man' persona. His Awaara (1951) and Shree 420 (1955), scored by Shankar-Jaikishan, became hugely popular across the Soviet Union and the Middle East."
+    },
+    {
+      "id": "awaara",
+      "order": 21,
+      "title": "Awaara",
+      "subtitle": "The Tramp Across Continents",
+      "type": "artifact",
+      "emblem": "star",
+      "palette": "dusk",
+      "description": "Raj Kapoor's 1951 film, pairing him with Nargis, dramatising nature-versus-nurture through the son of a judge raised among thieves. Featuring the 'Ghar Aaya Mera Pardesi' dream sequence and the title song 'Awaara Hoon', it became a massive hit across the USSR, China and the Middle East."
+    },
+    {
+      "id": "bimal-roy",
+      "order": 22,
+      "title": "Bimal Roy",
+      "subtitle": "Master Of Social Realism",
+      "type": "character",
+      "emblem": "tree",
+      "palette": "forest",
+      "description": "Director (1909-1966) trained at New Theatres who brought restrained social realism to Hindi cinema. He made Do Bigha Zamin (1953), honoured at Cannes, along with Devdas (1955), Sujata (1959) and Madhumati (1958)."
+    },
+    {
+      "id": "do-bigha-zamin",
+      "order": 23,
+      "title": "Do Bigha Zamin",
+      "subtitle": "Two Acres Of Land",
+      "type": "artifact",
+      "emblem": "tree",
+      "palette": "forest",
+      "description": "Bimal Roy's 1953 film starring Balraj Sahni as a farmer who migrates to Calcutta as a rickshaw-puller to save his land from a landlord. Influenced by Italian neorealism, it won the International Prize at the 1954 Cannes Film Festival and became a template for the parallel film movement."
+    },
+    {
+      "id": "meena-kumari",
+      "order": 24,
+      "title": "Meena Kumari",
+      "subtitle": "The Tragedy Queen",
+      "type": "character",
+      "emblem": "river",
+      "palette": "dusk",
+      "description": "Meena Kumari (1933-1972) was a Hindi actress and poet renowned for tragic roles in Sahib Bibi Aur Ghulam (1962) and Pakeezah (1972), released shortly before her death. She won the Filmfare Best Actress award three times and was famously nominated in all three Best Actress slots in 1963."
+    },
+    {
+      "id": "waheeda-rehman",
+      "order": 25,
+      "title": "Waheeda Rehman",
+      "subtitle": "Grace Of The Guru Dutt Era",
+      "type": "character",
+      "emblem": "lotus",
+      "palette": "ocean",
+      "description": "Waheeda Rehman (born 1938) is a Hindi actress who rose through Guru Dutt films including Pyaasa (1957) and Kaagaz Ke Phool (1959), and later Sahib Bibi Aur Ghulam (1962) and Guide (1965). A trained dancer who began in Telugu and Tamil cinema, she received the Dadasaheb Phalke Award in 2021."
+    },
+    {
+      "id": "satyajit-ray",
+      "order": 26,
+      "title": "Satyajit Ray",
+      "subtitle": "Master Of Bengali Cinema",
+      "type": "character",
+      "emblem": "eye",
+      "palette": "dusk",
+      "description": "Filmmaker, writer, illustrator and composer (1921-1992) who debuted with Pather Panchali (1955) and directed roughly 36 films across four decades. He received an honorary Academy Award in 1992, the first Indian filmmaker so honoured, and won numerous prizes at Cannes, Venice and Berlin."
+    },
+    {
+      "id": "pather-panchali",
+      "order": 27,
+      "title": "Pather Panchali",
+      "subtitle": "Song Of The Little Road",
+      "type": "artifact",
+      "emblem": "river",
+      "palette": "forest",
+      "description": "Satyajit Ray's 1955 Bengali debut, the first film of the Apu Trilogy, adapted from Bibhutibhushan Bandopadhyay's novel and scored by Ravi Shankar. Shot on a tight budget partly funded by the West Bengal government, it won the Best Human Document award at Cannes in 1956."
+    },
+    {
+      "id": "charulata",
+      "order": 28,
+      "title": "Charulata",
+      "subtitle": "The Lonely Wife",
+      "type": "artifact",
+      "emblem": "lotus",
+      "palette": "dusk",
+      "description": "Satyajit Ray's 1964 film adapted from Rabindranath Tagore's novella 'Nastanirh', starring Madhabi Mukherjee as a neglected 19th-century wife. Ray won the Silver Bear for Best Director at the 1965 Berlin Film Festival and frequently cited it as the film closest to flawless among his works."
+    },
+    {
+      "id": "ritwik-ghatak",
+      "order": 29,
+      "title": "Ritwik Ghatak",
+      "subtitle": "Chronicler Of Partition",
+      "type": "character",
+      "emblem": "river",
+      "palette": "flame",
+      "description": "Bengali director (1925-1976) whose films, notably the Partition-haunted Meghe Dhaka Tara (1960), Komal Gandhar (1961) and Subarnarekha (1965), explored the trauma of Bengal's 1947 division. Largely under-recognised in his lifetime, his mythically charged style gained major critical reappraisal after his death."
+    },
+    {
+      "id": "mrinal-sen",
+      "order": 30,
+      "title": "Mrinal Sen",
+      "subtitle": "Voice Of Political Cinema",
+      "type": "character",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "Director (1923-2018) whose Hindi film Bhuvan Shome (1969) is widely credited with helping launch the Indian New Wave. His Calcutta trilogy of the early 1970s and films like Akaler Sandhane (1980) made him India's leading politically engaged auteur, earning honours at Cannes, Berlin and Venice."
+    },
+    {
+      "id": "uttam-kumar",
+      "order": 31,
+      "title": "Uttam Kumar",
+      "subtitle": "The Mahanayak Of Tollywood",
+      "type": "character",
+      "emblem": "crown",
+      "palette": "royal",
+      "description": "Bengali matinee idol (1926-1980), born Arun Kumar Chatterjee, whose pairing with Suchitra Sen across films like Agni Pariksha (1954) and Saptapadi (1961) defined commercial Bengali romance. He starred in Ray's Nayak (1966) and is popularly titled 'Mahanayak' (Great Hero)."
+    },
+    {
+      "id": "suchitra-sen",
+      "order": 32,
+      "title": "Suchitra Sen",
+      "subtitle": "First Lady Of Tollywood",
+      "type": "character",
+      "emblem": "star",
+      "palette": "royal",
+      "description": "Bengali actress (1931-2014), born Roma Dasgupta, celebrated for romantic pairings with Uttam Kumar and for the Hindi films Devdas (1955) and Aandhi (1975). She won Best Actress at the 1963 Moscow Film Festival for Saat Paake Bandha, becoming the first Indian actress to win an international acting award."
+    },
+    {
+      "id": "m-g-ramachandran",
+      "order": 33,
+      "title": "M. G. Ramachandran",
+      "subtitle": "Idol Turned Chief Minister",
+      "type": "character",
+      "emblem": "crown",
+      "palette": "flame",
+      "description": "M. G. Ramachandran (1917-1987), known as MGR, was a leading Tamil star of the 1950s-60s whose heroic, socially-themed roles built an immense fan following. He founded the AIADMK in 1972, served as Chief Minister of Tamil Nadu from 1977 until his death, and was posthumously awarded the Bharat Ratna."
+    },
+    {
+      "id": "sivaji-ganesan",
+      "order": 34,
+      "title": "Sivaji Ganesan",
+      "subtitle": "The Master Thespian",
+      "type": "character",
+      "emblem": "star",
+      "palette": "royal",
+      "description": "Sivaji Ganesan (1928-2001) debuted in Parasakthi (1952) and became Tamil cinema's most acclaimed dramatic actor across roughly 300 films. He was the first Indian actor to win Best Actor at an international film festival (Afro-Asian, 1960) and received the Dadasaheb Phalke Award in 1996."
+    },
+    {
+      "id": "kamal-haasan",
+      "order": 35,
+      "title": "Kamal Haasan",
+      "subtitle": "The Versatile Auteur",
+      "type": "character",
+      "emblem": "eye",
+      "palette": "dusk",
+      "description": "Kamal Haasan (born 1954) began as a child actor and became one of Indian cinema's most versatile performers, writers and producers across Tamil, Telugu, Hindi and other languages. His films include Nayakan (1987), Indian (1996) and Avvai Shanmughi, and he has won multiple National Film Awards."
+    },
+    {
+      "id": "rajinikanth",
+      "order": 36,
+      "title": "Rajinikanth",
+      "subtitle": "The Superstar",
+      "type": "character",
+      "emblem": "crown",
+      "palette": "flame",
+      "description": "Rajinikanth (born 1950) rose from a bus conductor to Tamil cinema's biggest mass icon after his debut in K. Balachander's Apoorva Raagangal (1975). Known for stylised mannerisms and films such as Baashha (1995), Muthu (1995) and Enthiran (2010), he commands one of the largest fan followings in world cinema."
+    },
+    {
+      "id": "mani-ratnam",
+      "order": 37,
+      "title": "Mani Ratnam",
+      "subtitle": "Architect Of New Tamil Cinema",
+      "type": "character",
+      "emblem": "eye",
+      "palette": "ocean",
+      "description": "Mani Ratnam (born 1956) is a writer-director who pairs political and personal themes with refined visual craft. His work includes Nayakan (1987) and the 'terrorism trilogy' of Roja (1992), Bombay (1995) and Dil Se (1998); Roja marked the feature debut of composer A. R. Rahman."
+    },
+    {
+      "id": "nayakan",
+      "order": 38,
+      "title": "Nayakan",
+      "subtitle": "Tamil Cinema's Crime Saga",
+      "type": "artifact",
+      "emblem": "sword",
+      "palette": "dusk",
+      "description": "Mani Ratnam's 1987 Tamil crime drama starring Kamal Haasan as a Bombay don, loosely inspired by Varadarajan Mudaliar and echoing The Godfather. Lensed by P. C. Sreeram with music by Ilaiyaraaja, it won three National Film Awards and was included in Time magazine's 2005 list of the 100 best films."
+    },
+    {
+      "id": "roja",
+      "order": 39,
+      "title": "Roja",
+      "subtitle": "The Rose",
+      "type": "artifact",
+      "emblem": "lotus",
+      "palette": "flame",
+      "description": "Mani Ratnam's 1992 Tamil film about a village woman whose cryptographer husband is abducted by militants in Kashmir. It marked the feature debut of composer A. R. Rahman, whose soundtrack became a national phenomenon and won him the National Film Award."
+    },
+    {
+      "id": "ilaiyaraaja",
+      "order": 40,
+      "title": "Ilaiyaraaja",
+      "subtitle": "The Isaignani",
+      "type": "character",
+      "emblem": "flute",
+      "palette": "forest",
+      "description": "Composer (born 1943) who scored over a thousand films from the late 1970s, beginning with Annakili (1976), fusing Tamil folk and Carnatic idioms with Western classical orchestration. Among the first Indian composers to use full symphonic arrangement, he received the Padma Vibhushan and multiple National Film Awards."
+    },
+    {
+      "id": "avm-productions",
+      "order": 41,
+      "title": "AVM Productions",
+      "subtitle": "India's Oldest Surviving Studio",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "ocean",
+      "description": "Established as AVM Productions in 1947 in Chennai by A. V. Meiyappan, it is the oldest surviving studio in India. It produced films across Tamil, Telugu, Kannada, Hindi and other languages, including numerous classics over many decades."
+    },
+    {
+      "id": "n-t-rama-rao",
+      "order": 42,
+      "title": "N. T. Rama Rao",
+      "subtitle": "The Mythological Idol",
+      "type": "character",
+      "emblem": "crown",
+      "palette": "flame",
+      "description": "Telugu actor (1923-1996) who became a defining star through mythological roles such as Krishna and Rama, rising with Pathala Bhairavi (1951) and Mayabazar (1957). He founded the Telugu Desam Party in 1982 and served three terms as Chief Minister of Andhra Pradesh."
+    },
+    {
+      "id": "savitri",
+      "order": 43,
+      "title": "Savitri",
+      "subtitle": "Mahanati Of The South",
+      "type": "character",
+      "emblem": "lotus",
+      "palette": "forest",
+      "description": "Savitri (1936-1981) was a Telugu and Tamil actress and director, regarded as one of South Indian cinema's greatest performers. She starred in classics including Devadasu (1953), Missamma (1955) and Mayabazar (1957), and her life was dramatised in the acclaimed biopic Mahanati (2018)."
+    },
+    {
+      "id": "mayabazar",
+      "order": 44,
+      "title": "Mayabazar",
+      "subtitle": "The Beloved Mythological",
+      "type": "artifact",
+      "emblem": "palace",
+      "palette": "royal",
+      "description": "A 1957 Telugu and Tamil fantasy directed by K. V. Reddy, drawn from a Mahabharata sub-tale, with N. T. Rama Rao as Krishna and S. V. Ranga Rao as Ghatotkacha. Celebrated for its trick photography, the song 'Vivaha Bhojanambu' and Ghantasala's music, it is frequently cited among the greatest Indian films."
+    },
+    {
+      "id": "k-viswanath",
+      "order": 45,
+      "title": "K. Viswanath",
+      "subtitle": "Poet Of Classical Arts",
+      "type": "character",
+      "emblem": "flute",
+      "palette": "dawn",
+      "description": "Telugu director (1930-2023) celebrated for films rooted in classical Indian music and dance, most notably Sankarabharanam (1980). He directed acclaimed works including Sagara Sangamam (1983) and Swathi Muthyam (1986), and received the Dadasaheb Phalke Award in 2016."
+    },
+    {
+      "id": "sankarabharanam",
+      "order": 46,
+      "title": "Sankarabharanam",
+      "subtitle": "The Carnatic Revival Film",
+      "type": "artifact",
+      "emblem": "flute",
+      "palette": "dawn",
+      "description": "A 1980 Telugu film written and directed by K. Viswanath, centred on an ageing Carnatic vocalist and built around a celebrated score by K. V. Mahadevan. It won National Film Awards, achieved unexpected commercial success, and is credited with reviving popular interest in Indian classical music."
+    },
+    {
+      "id": "chiranjeevi",
+      "order": 47,
+      "title": "Chiranjeevi",
+      "subtitle": "Megastar Of Telugu Cinema",
+      "type": "character",
+      "emblem": "star",
+      "palette": "flame",
+      "description": "Telugu actor born in 1955 who dominated the industry through the 1980s and 1990s with action and dance-driven hits, earning the title Megastar. He received the Padma Bhushan in 2006 and the Dadasaheb Phalke Award in 2024, and briefly entered politics founding the Praja Rajyam Party in 2008."
+    },
+    {
+      "id": "s-s-rajamouli",
+      "order": 48,
+      "title": "S. S. Rajamouli",
+      "subtitle": "Architect Of The Pan-India Epic",
+      "type": "character",
+      "emblem": "chariot",
+      "palette": "flame",
+      "description": "Telugu director born in 1973, known for large-scale spectacle including Magadheera (2009), Eega (2012), the Baahubali duology (2015-2017) and RRR (2022). His work transformed Telugu cinema's national and international reach and set new commercial benchmarks for Indian filmmaking."
+    },
+    {
+      "id": "baahubali",
+      "order": 49,
+      "title": "Baahubali",
+      "subtitle": "Why Kattappa Killed Baahubali",
+      "type": "artifact",
+      "emblem": "sword",
+      "palette": "royal",
+      "description": "S. S. Rajamouli's two-part Telugu epic, The Beginning (2015) and The Conclusion (2017), starring Prabhas, Rana Daggubati and Anushka Shetty. The films broke box-office records across India, and the cliffhanger 'Why did Kattappa kill Baahubali?' became a cultural phenomenon defining the pan-India blockbuster."
+    },
+    {
+      "id": "rrr",
+      "order": 50,
+      "title": "RRR",
+      "subtitle": "Oscar-Winning Spectacle",
+      "type": "artifact",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "A 2022 Telugu period action film directed by S. S. Rajamouli, starring N. T. Rama Rao Jr. and Ram Charan as fictionalised revolutionaries Komaram Bheem and Alluri Sitarama Raju. Its song 'Naatu Naatu', composed by M. M. Keeravani, won the 2023 Academy Award for Best Original Song, a first for an Indian film."
+    },
+    {
+      "id": "ramoji-film-city",
+      "order": 51,
+      "title": "Ramoji Film City",
+      "subtitle": "World's Largest Film Studio",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "dusk",
+      "description": "A vast integrated film studio complex near Hyderabad, opened in 1996 by media entrepreneur Ramoji Rao. Spanning over 1,600 acres with permanent sets and shooting locales, it is recognised by Guinness World Records as the largest film studio complex in the world and has hosted productions including Baahubali."
+    },
+    {
+      "id": "adoor-gopalakrishnan",
+      "order": 52,
+      "title": "Adoor Gopalakrishnan",
+      "subtitle": "Father Of Malayalam New Wave",
+      "type": "character",
+      "emblem": "eye",
+      "palette": "forest",
+      "description": "Filmmaker (born 1941) whose debut Swayamvaram (1972) is regarded as the founding work of the Malayalam new wave. A co-founder of the Chitralekha Film Cooperative, he has won the National Film Award for Best Director multiple times and the Dadasaheb Phalke Award in 2004."
+    },
+    {
+      "id": "swayamvaram",
+      "order": 53,
+      "title": "Swayamvaram",
+      "subtitle": "One's Own Choice",
+      "type": "artifact",
+      "emblem": "scroll",
+      "palette": "dusk",
+      "description": "Adoor Gopalakrishnan's 1972 debut feature, widely cited as the film that launched the Malayalam new wave. Starring Madhu and Sharada, it won four National Film Awards including Best Feature Film, marking a decisive break toward realist, art-house cinema in Malayalam."
+    },
+    {
+      "id": "mammootty",
+      "order": 54,
+      "title": "Mammootty",
+      "subtitle": "The Megastar",
+      "type": "character",
+      "emblem": "crown",
+      "palette": "royal",
+      "description": "Actor (born 1951) who became one of the two dominant stars of Malayalam cinema from the 1980s. He has won the National Film Award for Best Actor three times, for Oru Vadakkan Veeragatha (1989), Mathilukal (1990) and Vidheyan (1993)."
+    },
+    {
+      "id": "mohanlal",
+      "order": 55,
+      "title": "Mohanlal",
+      "subtitle": "The Complete Actor",
+      "type": "character",
+      "emblem": "star",
+      "palette": "flame",
+      "description": "Actor (born 1960) regarded as one of the most versatile performers in Indian cinema and a co-defining star of Malayalam cinema's golden era. He has won the National Film Award for Best Actor for Bharatham (1991) and a special jury mention for Vanaprastham (1999), among numerous honours."
+    },
+    {
+      "id": "malayalam-new-wave",
+      "order": 56,
+      "title": "Malayalam New Wave",
+      "subtitle": "Cinema Of Realism",
+      "type": "concept",
+      "emblem": "sun",
+      "palette": "ocean",
+      "description": "A movement of realist, socially conscious art cinema that emerged in Kerala from the early 1970s, catalysed by Swayamvaram (1972) and figures such as Adoor Gopalakrishnan, G. Aravindan and John Abraham. Supported by cooperatives and film societies, it brought Malayalam cinema sustained international recognition."
+    },
+    {
+      "id": "dr-rajkumar",
+      "order": 57,
+      "title": "Dr. Rajkumar",
+      "subtitle": "Colossus Of Kannada Cinema",
+      "type": "character",
+      "emblem": "crown",
+      "palette": "royal",
+      "description": "Singanalluru Puttaswamayya Muthuraju (1929-2006), known as Dr. Rajkumar, debuted as a lead in 'Bedara Kannappa' (1954) and acted in around 200 Kannada films across five decades. A trained Carnatic singer, he won a National Award for playback singing in 1992 and the Dadasaheb Phalke Award in 1995."
+    },
+    {
+      "id": "girish-karnad",
+      "order": 58,
+      "title": "Girish Karnad",
+      "subtitle": "Playwright And Filmmaker",
+      "type": "character",
+      "emblem": "scroll",
+      "palette": "dusk",
+      "description": "Playwright, actor and director (1938-2019) who co-directed the Kannada film 'Samskara' (1970), which won a National Award and helped launch the Kannada New Wave. A Jnanpith Award laureate (1998) for his drama, he also acted widely across Kannada and Hindi cinema."
+    },
+    {
+      "id": "court",
+      "order": 59,
+      "title": "Court",
+      "subtitle": "A Forensic Look At Justice",
+      "type": "artifact",
+      "emblem": "shield",
+      "palette": "dusk",
+      "description": "A 2014 multilingual film, primarily Marathi, written and directed by Chaitanya Tamhane, following the trial of an ageing folk singer accused of abetting a suicide. It won the National Film Award for Best Feature Film and the Orizzonti prize at Venice, and was India's official entry for the 2016 Academy Awards."
+    },
+    {
+      "id": "sairat",
+      "order": 60,
+      "title": "Sairat",
+      "subtitle": "Marathi Box-Office Breakthrough",
+      "type": "artifact",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "A 2016 Marathi film directed by Nagraj Manjule depicting an inter-caste romance and its tragic consequences. It became the highest-grossing Marathi film at the time, crossing 100 crore, and its Ajay-Atul soundtrack gained nationwide popularity; it was remade in Hindi as 'Dhadak' (2018)."
+    },
+    {
+      "id": "shyam-benegal",
+      "order": 61,
+      "title": "Shyam Benegal",
+      "subtitle": "Architect Of Parallel Cinema",
+      "type": "character",
+      "emblem": "eye",
+      "palette": "forest",
+      "description": "Born in 1934, Shyam Benegal directed Ankur (1974), Nishant (1975), Manthan (1976) and Bhumika (1977), a sequence that defined the realist Parallel cinema of the 1970s. He won the National Film Award for Best Feature Film multiple times and received the Dadasaheb Phalke Award in 2005."
+    },
+    {
+      "id": "ankur",
+      "order": 62,
+      "title": "Ankur",
+      "subtitle": "The Seedling Of A Movement",
+      "type": "artifact",
+      "emblem": "tree",
+      "palette": "forest",
+      "description": "Shyam Benegal's 1974 debut feature, set in rural Andhra Pradesh, dramatises caste and feudal exploitation through a landlord's relationship with a labourer. It launched the screen careers of Shabana Azmi and Anant Nag and won three National Film Awards, opening 1970s Parallel cinema."
+    },
+    {
+      "id": "manthan",
+      "order": 63,
+      "title": "Manthan",
+      "subtitle": "Funded By Half A Million Farmers",
+      "type": "artifact",
+      "emblem": "river",
+      "palette": "dawn",
+      "description": "Shyam Benegal's 1976 film about the dairy cooperative movement was financed by two-rupee contributions from roughly 500,000 Gujarat farmers, making it an early crowd-funded Indian feature. Inspired by Verghese Kurien's Operation Flood, it won National Film Awards for Best Feature Film in Hindi and Best Screenplay."
+    },
+    {
+      "id": "garm-hava",
+      "order": 64,
+      "title": "Garm Hava",
+      "subtitle": "Partition On The Margins",
+      "type": "artifact",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "Directed by M. S. Sathyu and released in 1974, this Hindi film follows a Muslim family in Agra deciding whether to remain in India after Partition. Based on an Ismat Chughtai story and scripted with Kaifi Azmi and Shama Zaidi, it was initially withheld by censors and later won a National Award for National Integration."
+    },
+    {
+      "id": "smita-patil",
+      "order": 65,
+      "title": "Smita Patil",
+      "subtitle": "Conscience Of Parallel Cinema",
+      "type": "character",
+      "emblem": "fire",
+      "palette": "dusk",
+      "description": "Smita Patil (1955-1986) was a defining face of Parallel cinema, known for Manthan (1976), Bhumika (1977) and Mirch Masala (1987). She won two National Film Awards for Best Actress before her death at 31, and was posthumously awarded the Padma Shri."
+    },
+    {
+      "id": "shabana-azmi",
+      "order": 66,
+      "title": "Shabana Azmi",
+      "subtitle": "Realism's Enduring Star",
+      "type": "character",
+      "emblem": "star",
+      "palette": "royal",
+      "description": "Born in 1950 and an FTII graduate, Shabana Azmi debuted in Benegal's Ankur (1974) and won five National Film Awards for Best Actress, including for Ankur, Arth (1982) and Khandhar (1984). Daughter of poet Kaifi Azmi, she is the most decorated performer associated with Parallel cinema."
+    },
+    {
+      "id": "naseeruddin-shah",
+      "order": 67,
+      "title": "Naseeruddin Shah",
+      "subtitle": "The Actor's Actor",
+      "type": "character",
+      "emblem": "eye",
+      "palette": "dusk",
+      "description": "Actor (born 1949) and FTII graduate who became a leading face of Parallel cinema in films such as Nishant (1975), Aakrosh (1980), Sparsh (1980) and Mandi (1983). A three-time National Film Award winner, he bridged art and mainstream cinema across a long career and co-founded the theatre group Motley."
+    },
+    {
+      "id": "film-finance-corporation",
+      "order": 68,
+      "title": "Film Finance Corporation",
+      "subtitle": "The State Patron",
+      "type": "concept",
+      "emblem": "vessel",
+      "palette": "ocean",
+      "description": "Established by the Government of India in 1960, the Film Finance Corporation provided low-interest loans that funded experimental, non-commercial films including Bhuvan Shome (1969) and Sara Akash (1969). In 1980 it merged with another body to form the National Film Development Corporation (NFDC)."
+    },
+    {
+      "id": "parallel-cinema",
+      "order": 69,
+      "title": "Parallel Cinema",
+      "subtitle": "India's Art-Film Movement",
+      "type": "concept",
+      "emblem": "arrow",
+      "palette": "forest",
+      "description": "A movement of realist, socially engaged art cinema that emerged across India from the late 1960s as an alternative to commercial filmmaking, often state-funded through the Film Finance Corporation. It spanned languages and figures from Ray and Sen to Benegal, Adoor and Kasaravalli, earning sustained festival recognition."
+    },
+    {
+      "id": "ftii-pune",
+      "order": 70,
+      "title": "FTII Pune",
+      "subtitle": "Cradle Of The Auteurs",
+      "type": "place",
+      "emblem": "scroll",
+      "palette": "forest",
+      "description": "The Film and Television Institute of India, founded in 1960 on the former Prabhat Studios campus in Pune, is India's premier government film school. Its alumni include Adoor Gopalakrishnan, Mani Kaul, Kumar Shahani, Girish Kasaravalli, Jaya Bachchan, Shabana Azmi, Naseeruddin Shah and Om Puri."
+    },
+    {
+      "id": "lata-mangeshkar",
+      "order": 71,
+      "title": "Lata Mangeshkar",
+      "subtitle": "The Nightingale Of India",
+      "type": "character",
+      "emblem": "flute",
+      "palette": "dawn",
+      "description": "Playback singer (1929-2022) whose career spanned the 1940s into the 2000s, recording in over thirty languages across Hindi and regional cinema. She received the Bharat Ratna in 2001 and the Dadasaheb Phalke Award in 1989, and is among the most recorded vocalists in film history."
+    },
+    {
+      "id": "asha-bhosle",
+      "order": 72,
+      "title": "Asha Bhosle",
+      "subtitle": "Mistress Of Versatility",
+      "type": "character",
+      "emblem": "flute",
+      "palette": "dusk",
+      "description": "Playback singer (born 1933) whose career began in the 1940s and who recorded across genres from cabaret and ghazal to classical, often with composer R. D. Burman, whom she later married. She received the Dadasaheb Phalke Award in 2000 and is noted for her enormous, stylistically varied output."
+    },
+    {
+      "id": "mohammed-rafi",
+      "order": 73,
+      "title": "Mohammed Rafi",
+      "subtitle": "Voice Of A Thousand Heroes",
+      "type": "character",
+      "emblem": "flute",
+      "palette": "royal",
+      "description": "Playback singer (1924-1980) active from the mid-1940s until his death, known for remarkable versatility across romantic, devotional, qawwali and classical songs. He won the National Film Award and multiple Filmfare Awards, frequently collaborating with composers Naushad, S. D. Burman and Shankar-Jaikishan."
+    },
+    {
+      "id": "kishore-kumar",
+      "order": 74,
+      "title": "Kishore Kumar",
+      "subtitle": "The Untrained Genius",
+      "type": "character",
+      "emblem": "flute",
+      "palette": "flame",
+      "description": "Singer, actor and composer (1929-1987) who, without formal classical training, became the dominant male playback voice of the 1970s, especially with R. D. Burman and for actors such as Rajesh Khanna and Amitabh Bachchan. He won eight Filmfare Awards for Best Male Playback Singer."
+    },
+    {
+      "id": "s-p-balasubrahmanyam",
+      "order": 75,
+      "title": "S. P. Balasubrahmanyam",
+      "subtitle": "Voice Of The South",
+      "type": "character",
+      "emblem": "flute",
+      "palette": "forest",
+      "description": "Playback singer, composer and actor (1946-2020) who recorded in many languages including Telugu, Tamil, Kannada, Hindi and Malayalam. He won six National Film Awards and the Padma Bhushan, and is widely cited among the most prolific singers in cinema for his vast number of recordings."
+    },
+    {
+      "id": "naushad",
+      "order": 76,
+      "title": "Naushad",
+      "subtitle": "Composer Of The Golden Age",
+      "type": "character",
+      "emblem": "flute",
+      "palette": "royal",
+      "description": "Music director (1919-2006) who integrated Hindustani classical ragas and folk idioms into film scores from the 1940s, with landmark work in Baiju Bawra (1952) and Mughal-e-Azam (1960). He received the Dadasaheb Phalke Award in 1981 and shaped many of Mohammed Rafi's defining songs."
+    },
+    {
+      "id": "s-d-burman",
+      "order": 77,
+      "title": "S. D. Burman",
+      "subtitle": "The Folk-Rooted Maestro",
+      "type": "character",
+      "emblem": "river",
+      "palette": "forest",
+      "description": "Music director (1906-1975) who fused Bengali folk and Hindustani classical traditions into Hindi film music from the 1940s through the 1970s, scoring films such as Pyaasa (1957), Guide (1965) and Aradhana (1969). He was the father and frequent collaborator of composer R. D. Burman."
+    },
+    {
+      "id": "r-d-burman",
+      "order": 78,
+      "title": "R. D. Burman",
+      "subtitle": "Pancham, The Innovator",
+      "type": "character",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "Music director (1939-1994), nicknamed Pancham, who modernised Hindi film music in the 1970s by blending rock, funk, Latin and electronic elements with Indian melody, often with Kishore Kumar and Asha Bhosle. His scores include Sholay (1975), Hare Rama Hare Krishna (1971) and 1942: A Love Story (1994)."
+    },
+    {
+      "id": "a-r-rahman",
+      "order": 79,
+      "title": "A. R. Rahman",
+      "subtitle": "The Mozart Of Madras",
+      "type": "character",
+      "emblem": "star",
+      "palette": "ocean",
+      "description": "Composer (born 1967) who debuted with Roja (1992) and reshaped film music through electronic production and orchestral fusion across Tamil, Hindi and global projects. He won two Academy Awards for Slumdog Millionaire (2008) along with two Grammy Awards and multiple National Film Awards."
+    },
+    {
+      "id": "playback-singing",
+      "order": 80,
+      "title": "Playback Singing",
+      "subtitle": "The Voice Behind The Face",
+      "type": "concept",
+      "emblem": "flute",
+      "palette": "dusk",
+      "description": "The technique by which songs are pre-recorded by professional singers and lip-synced by actors on screen, introduced in Indian cinema in the 1935 film Dhoop Chhaon (Bhagya Chakra). It separated the singing voice from the acting role and gave rise to the dedicated profession of the playback singer."
+    },
+    {
+      "id": "amitabh-bachchan",
+      "order": 81,
+      "title": "Amitabh Bachchan",
+      "subtitle": "The Angry Young Man",
+      "type": "character",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "Born 1942, Bachchan became Hindi cinema's defining star of the 1970s-80s through the brooding 'angry young man' persona crafted by writers Salim-Javed. Breakthrough roles in Zanjeer (1973) and Deewaar (1975) established a screen archetype of the wronged outsider that dominated the masala era."
+    },
+    {
+      "id": "salim-javed",
+      "order": 82,
+      "title": "Salim-Javed",
+      "subtitle": "Architects Of The Angry Young Man",
+      "type": "character",
+      "emblem": "scroll",
+      "palette": "flame",
+      "description": "The screenwriting partnership of Salim Khan and Javed Akhtar, active from 1971 to 1982, wrote Zanjeer (1973), Deewaar (1975), Sholay (1975) and Don (1978). They pioneered the 'angry young man' template and were among the first Indian screenwriters to receive star billing."
+    },
+    {
+      "id": "sholay",
+      "order": 83,
+      "title": "Sholay",
+      "subtitle": "The Curry Western Landmark",
+      "type": "artifact",
+      "emblem": "sword",
+      "palette": "dusk",
+      "description": "Ramesh Sippy's 1975 action-adventure written by Salim-Javed, in which two outlaws (Amitabh Bachchan and Dharmendra) are hired to capture the bandit Gabbar Singh (Amjad Khan). Shot in 70mm with stereophonic sound, it ran for years and is among the most quoted and influential Hindi films ever made."
+    },
+    {
+      "id": "yash-chopra",
+      "order": 84,
+      "title": "Yash Chopra",
+      "subtitle": "King Of Romance",
+      "type": "character",
+      "emblem": "lotus",
+      "palette": "dawn",
+      "description": "Director (1932-2012) who moved from multistarrer dramas like Deewaar (1975) to lush romances such as Silsila (1981), Chandni (1989) and Dilwale Dulhania Le Jayenge's production. He founded Yash Raj Films in 1970, which became one of Hindi cinema's most powerful production houses."
+    },
+    {
+      "id": "sridevi",
+      "order": 85,
+      "title": "Sridevi",
+      "subtitle": "The First Female Superstar",
+      "type": "character",
+      "emblem": "moon",
+      "palette": "dusk",
+      "description": "Actress (1963-2018) who worked across Tamil, Telugu and Hindi cinema and became Hindi cinema's leading female draw of the 1980s. Hits including Himmatwala (1983), Nagina (1986), Mr. India (1987) and Chandni (1989) established her as the era's foremost female star."
+    },
+    {
+      "id": "madhuri-dixit",
+      "order": 86,
+      "title": "Madhuri Dixit",
+      "subtitle": "Dhak-Dhak Of The 90s",
+      "type": "character",
+      "emblem": "lotus",
+      "palette": "royal",
+      "description": "Actress (born 1967) who became the dominant female star of late-1980s and 1990s Hindi cinema. Tezaab (1988), with its hit song 'Ek Do Teen', and Hum Aapke Hain Koun..! (1994) cemented her stardom, and her dancing made her a defining performer of the era."
+    },
+    {
+      "id": "dilwale-dulhania-le-jayenge",
+      "order": 87,
+      "title": "Dilwale Dulhania Le Jayenge",
+      "subtitle": "Bollywood's Eternal Romance",
+      "type": "artifact",
+      "emblem": "river",
+      "palette": "dusk",
+      "description": "1995 Hindi romance directed by Aditya Chopra in his debut, starring Shah Rukh Khan and Kajol, produced by Yash Raj Films. It defined the NRI romance template, cemented Shah Rukh Khan's stardom, and has run continuously at Mumbai's Maratha Mandir since 1995, the longest theatrical run in Indian cinema history."
+    },
+    {
+      "id": "shah-rukh-khan",
+      "order": 88,
+      "title": "Shah Rukh Khan",
+      "subtitle": "King Of Bollywood",
+      "type": "character",
+      "emblem": "crown",
+      "palette": "royal",
+      "description": "Actor (born 1965) who rose from television to film stardom in the mid-1990s with Baazigar (1993), Dilwale Dulhania Le Jayenge (1995) and Dil Se (1998). Co-founder of Red Chillies Entertainment, he became the global face of Hindi cinema and returned to box-office dominance with Pathaan and Jawan in 2023."
+    },
+    {
+      "id": "aamir-khan",
+      "order": 89,
+      "title": "Aamir Khan",
+      "subtitle": "The Perfectionist",
+      "type": "character",
+      "emblem": "eye",
+      "palette": "forest",
+      "description": "Actor and producer (born 1965) known for a selective, content-driven output including Lagaan (2001), Rang De Basanti (2006), Taare Zameen Par (2007) and 3 Idiots (2009). His Ghajini (2008) was the first Hindi film to cross 100 crore domestically, and Dangal (2016) became one of India's highest-grossing films worldwide."
+    },
+    {
+      "id": "lagaan",
+      "order": 90,
+      "title": "Lagaan",
+      "subtitle": "Cricket Against The Raj",
+      "type": "artifact",
+      "emblem": "shield",
+      "palette": "dawn",
+      "description": "Ashutosh Gowariker's 2001 period drama, produced by and starring Aamir Khan, set in 1893 colonial India around a cricket match between villagers and British officers. It was the third Indian film nominated for the Academy Award for Best Foreign Language Film, after Mother India (1957) and Salaam Bombay! (1988)."
+    },
+    {
+      "id": "anurag-kashyap",
+      "order": 91,
+      "title": "Anurag Kashyap",
+      "subtitle": "Architect Of The Indie Wave",
+      "type": "character",
+      "emblem": "fire",
+      "palette": "dusk",
+      "description": "Filmmaker (born 1972) central to India's independent and new-wave cinema, known for Black Friday (2004), Dev.D (2009) and the two-part Gangs of Wasseypur (2012). Co-founder of Phantom Films, he mentored a generation of directors and actors and brought gritty, realist Hindi storytelling to international festivals."
+    },
+    {
+      "id": "gangs-of-wasseypur",
+      "order": 92,
+      "title": "Gangs Of Wasseypur",
+      "subtitle": "Coal, Blood And Vengeance",
+      "type": "artifact",
+      "emblem": "sword",
+      "palette": "flame",
+      "description": "Anurag Kashyap's 2012 two-part crime epic tracing decades of feuds tied to the coal mafia of Dhanbad, with Manoj Bajpayee, Nawazuddin Siddiqui and Richa Chadha. Premiered at the 2012 Cannes Directors' Fortnight, it became a defining work of the gritty Hindi independent movement and a launchpad for its actors."
+    },
+    {
+      "id": "the-100-crore-club",
+      "order": 93,
+      "title": "The 100 Crore Club",
+      "subtitle": "Box Office Comes Of Age",
+      "type": "event",
+      "emblem": "vessel",
+      "palette": "ocean",
+      "description": "Industry milestone marking Hindi films that gross 100 crore or more at the domestic box office, popularised after Aamir Khan's Ghajini crossed the mark in 2008. It signalled the rise of wide multiplex-and-single-screen releases and reshaped how commercial success was measured in the 2010s."
+    },
+    {
+      "id": "central-board-of-film-certification",
+      "order": 94,
+      "title": "Central Board Of Film Certification",
+      "subtitle": "India's Censor Board",
+      "type": "concept",
+      "emblem": "shield",
+      "palette": "ocean",
+      "description": "The statutory body that certifies films for public exhibition in India under the Cinematograph Act, 1952, originally the Central Board of Film Censors and renamed the Central Board of Film Certification in 1983. It issues categories such as U, U/A, A and S."
+    },
+    {
+      "id": "national-film-awards",
+      "order": 95,
+      "title": "National Film Awards",
+      "subtitle": "India's Highest State Honours",
+      "type": "concept",
+      "emblem": "star",
+      "palette": "royal",
+      "description": "Instituted in 1954, these are the most prominent film awards in India, presented annually by the government across all Indian languages. The Best Feature Film receives the Swarna Kamal (Golden Lotus), making them the premier pan-India recognition of cinematic merit free of commercial bias."
+    },
+    {
+      "id": "dadasaheb-phalke-award",
+      "order": 96,
+      "title": "Dadasaheb Phalke Award",
+      "subtitle": "India's Highest Film Honour",
+      "type": "concept",
+      "emblem": "lotus",
+      "palette": "flame",
+      "description": "Introduced in 1969, it is India's highest award for lifetime contribution to cinema, named after Dhundiraj Govind Phalke, maker of Raja Harishchandra (1913). Devika Rani was its first recipient, and laureates span every major Indian film industry."
+    },
+    {
+      "id": "international-film-festival-of-india",
+      "order": 97,
+      "title": "International Film Festival Of India",
+      "subtitle": "India's State Film Festival",
+      "type": "event",
+      "emblem": "sun",
+      "palette": "ocean",
+      "description": "Inaugurated in 1952, IFFI is one of Asia's oldest film festivals, organised by the government and, since 2004, held annually in Goa. Its top prize is the Golden Peacock (Swarna Mayur) for Best Film, making it India's flagship window onto world cinema."
+    },
+    {
+      "id": "bollywood",
+      "order": 98,
+      "title": "\"Bollywood\"",
+      "subtitle": "Naming The Hindi Industry",
+      "type": "concept",
+      "emblem": "moon",
+      "palette": "dusk",
+      "description": "A portmanteau of Bombay and Hollywood, the term came into common use from the 1970s to denote the Hindi-language film industry centred in Mumbai. It spawned analogues such as Tollywood and Kollywood, though many practitioners regard the labels as derivative."
+    },
+    {
+      "id": "kisan-kanya",
+      "order": 99,
+      "title": "Kisan Kanya",
+      "subtitle": "India's First Colour Feature",
+      "type": "artifact",
+      "emblem": "sun",
+      "palette": "dawn",
+      "description": "Released in 1937 and produced by Ardeshir Irani's Imperial Film Company, Kisan Kanya was the first Indian-made colour feature, processed using the Cinecolor system. Directed by Moti B. Gidvani, it followed Irani's earlier landmark Alam Ara (1931), India's first sound film."
+    },
+    {
+      "id": "the-masala-film",
+      "order": 100,
+      "title": "The Masala Film",
+      "subtitle": "India's All-In-One Genre",
+      "type": "concept",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "A characteristically Indian genre blending action, romance, comedy, melodrama and song-and-dance into a single feature, named for the mix of spices. Perfected in 1970s-80s Hindi cinema by directors like Manmohan Desai and the Salim-Javed scripts, it became the dominant commercial template across Indian languages."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "baahubali",
+  "questions": [
+    {
+      "id": "baahubali-q01",
+      "difficulty": "easy",
+      "q": "Who directed the two-part Telugu epic film series 'Baahubali'?",
+      "options": [
+        "Rajinikanth",
+        "Mani Ratnam",
+        "S. S. Rajamouli",
+        "Sukumar"
+      ],
+      "answer": 2,
+      "explanation": "Both 'Baahubali' films were directed by S. S. Rajamouli."
+    },
+    {
+      "id": "baahubali-q02",
+      "difficulty": "easy",
+      "q": "In which year was the first film, 'Baahubali: The Beginning', released?",
+      "options": [
+        "2013",
+        "2014",
+        "2017",
+        "2015"
+      ],
+      "answer": 3,
+      "explanation": "'Baahubali: The Beginning' was released in 2015."
+    },
+    {
+      "id": "baahubali-q03",
+      "difficulty": "easy",
+      "q": "In which year was the second film, 'Baahubali: The Conclusion', released?",
+      "options": [
+        "2017",
+        "2016",
+        "2018",
+        "2019"
+      ],
+      "answer": 0,
+      "explanation": "'Baahubali: The Conclusion' was released in 2017."
+    },
+    {
+      "id": "baahubali-q04",
+      "difficulty": "easy",
+      "q": "Which actor played the dual lead roles of Amarendra Baahubali and Mahendra Baahubali in the 'Baahubali' films?",
+      "options": [
+        "Rana Daggubati",
+        "Prabhas",
+        "Allu Arjun",
+        "Nani"
+      ],
+      "answer": 1,
+      "explanation": "Prabhas played both Amarendra Baahubali and his son Mahendra Baahubali."
+    },
+    {
+      "id": "baahubali-q05",
+      "difficulty": "easy",
+      "q": "In which original language were the 'Baahubali' films primarily made?",
+      "options": [
+        "Tamil",
+        "Hindi",
+        "Telugu",
+        "Kannada"
+      ],
+      "answer": 2,
+      "explanation": "The 'Baahubali' films were primarily made in Telugu (shot simultaneously in Telugu and Tamil) and dubbed into several other languages."
+    },
+    {
+      "id": "baahubali-q06",
+      "difficulty": "easy",
+      "q": "Which famous cliffhanger question at the end of 'Baahubali: The Beginning' became a cultural phenomenon?",
+      "options": [
+        "Where is the kingdom of Mahishmati?",
+        "Who is the real heir to the throne?",
+        "What happened to Queen Sivagami?",
+        "Why did Kattappa kill Baahubali?"
+      ],
+      "answer": 3,
+      "explanation": "The question 'Why did Kattappa kill Baahubali?' became a nationwide talking point after the first film."
+    },
+    {
+      "id": "baahubali-q07",
+      "difficulty": "easy",
+      "q": "Which actor played the loyal slave-warrior Kattappa in the 'Baahubali' films?",
+      "options": [
+        "Sathyaraj",
+        "Nassar",
+        "Prakash Raj",
+        "Mohan Babu"
+      ],
+      "answer": 0,
+      "explanation": "Veteran actor Sathyaraj played Kattappa in the 'Baahubali' films."
+    },
+    {
+      "id": "baahubali-q08",
+      "difficulty": "easy",
+      "q": "Which actress played the warrior princess Devasena in the 'Baahubali' films?",
+      "options": [
+        "Tamannaah Bhatia",
+        "Anushka Shetty",
+        "Ramya Krishnan",
+        "Nayanthara"
+      ],
+      "answer": 1,
+      "explanation": "Anushka Shetty played Devasena, the princess of Kuntala kingdom."
+    },
+    {
+      "id": "baahubali-q09",
+      "difficulty": "easy",
+      "q": "Which actor played the antagonist Bhallaladeva in the 'Baahubali' films?",
+      "options": [
+        "Prabhas",
+        "Sudeep",
+        "Rana Daggubati",
+        "Vijay Sethupathi"
+      ],
+      "answer": 2,
+      "explanation": "Rana Daggubati played the villainous cousin Bhallaladeva."
+    },
+    {
+      "id": "baahubali-q10",
+      "difficulty": "easy",
+      "q": "What is the name of the fictional kingdom at the centre of the 'Baahubali' story?",
+      "options": [
+        "Kuntala",
+        "Hampi",
+        "Vijayanagara",
+        "Mahishmati"
+      ],
+      "answer": 3,
+      "explanation": "The 'Baahubali' saga is set in the fictional kingdom of Mahishmati."
+    },
+    {
+      "id": "baahubali-q11",
+      "difficulty": "medium",
+      "q": "Who composed the music and background score for the 'Baahubali' films?",
+      "options": [
+        "M. M. Keeravani",
+        "A. R. Rahman",
+        "Ilaiyaraaja",
+        "Devi Sri Prasad"
+      ],
+      "answer": 0,
+      "explanation": "M. M. Keeravani composed the music and background score for both 'Baahubali' films."
+    },
+    {
+      "id": "baahubali-q12",
+      "difficulty": "medium",
+      "q": "Which actress played the powerful queen mother Sivagami in the 'Baahubali' films?",
+      "options": [
+        "Anushka Shetty",
+        "Ramya Krishnan",
+        "Tamannaah Bhatia",
+        "Sridevi"
+      ],
+      "answer": 1,
+      "explanation": "Ramya Krishnan played the regal queen mother Rajamata Sivagami."
+    },
+    {
+      "id": "baahubali-q13",
+      "difficulty": "medium",
+      "q": "Which actress played Avantika, the rebel warrior, in 'Baahubali: The Beginning'?",
+      "options": [
+        "Anushka Shetty",
+        "Ramya Krishnan",
+        "Tamannaah Bhatia",
+        "Kajal Aggarwal"
+      ],
+      "answer": 2,
+      "explanation": "Tamannaah Bhatia played Avantika, the love interest of Mahendra Baahubali in the first film."
+    },
+    {
+      "id": "baahubali-q14",
+      "difficulty": "medium",
+      "q": "Under which production banner were the 'Baahubali' films produced?",
+      "options": [
+        "Mythri Movie Makers",
+        "Geetha Arts",
+        "Suresh Productions",
+        "Arka Media Works"
+      ],
+      "answer": 3,
+      "explanation": "The 'Baahubali' films were produced by Shobu Yarlagadda and Prasad Devineni under Arka Media Works."
+    },
+    {
+      "id": "baahubali-q15",
+      "difficulty": "medium",
+      "q": "Who wrote the original story of the 'Baahubali' films, on which the screenplay was based?",
+      "options": [
+        "K. V. Vijayendra Prasad",
+        "Sukumar",
+        "Trivikram Srinivas",
+        "Sai Madhav Burra"
+      ],
+      "answer": 0,
+      "explanation": "The story was written by K. V. Vijayendra Prasad, the father of director S. S. Rajamouli."
+    },
+    {
+      "id": "baahubali-q16",
+      "difficulty": "medium",
+      "q": "At the time of its release, 'Baahubali: The Conclusion' became the highest-grossing what?",
+      "options": [
+        "Tamil film of all time",
+        "Indian film of all time",
+        "Hollywood remake in India",
+        "Animated Indian film"
+      ],
+      "answer": 1,
+      "explanation": "'Baahubali: The Conclusion' became the highest-grossing Indian film at the time of its 2017 release."
+    },
+    {
+      "id": "baahubali-q17",
+      "difficulty": "medium",
+      "q": "Which national honour did 'Baahubali: The Beginning' win at the 63rd National Film Awards?",
+      "options": [
+        "Best Direction",
+        "Best Feature Film in Telugu",
+        "Best Feature Film",
+        "Best Actor"
+      ],
+      "answer": 2,
+      "explanation": "'Baahubali: The Beginning' won the National Film Award for Best Feature Film at the 63rd National Film Awards, the first Telugu film to win that top honour."
+    },
+    {
+      "id": "baahubali-q18",
+      "difficulty": "medium",
+      "q": "Which of these is a celebrated song featured in the 'Baahubali' films, used to glorify the hero?",
+      "options": [
+        "Vaathi Coming",
+        "Why This Kolaveri Di",
+        "Naatu Naatu",
+        "Saahore Baahubali"
+      ],
+      "answer": 3,
+      "explanation": "'Saahore Baahubali' is a celebrated song from 'Baahubali: The Conclusion' used to glorify the hero."
+    },
+    {
+      "id": "baahubali-q19",
+      "difficulty": "medium",
+      "q": "In the 'Baahubali' story, what relationship is Bhallaladeva to Amarendra Baahubali?",
+      "options": [
+        "His cousin",
+        "His younger brother",
+        "His uncle",
+        "His son"
+      ],
+      "answer": 0,
+      "explanation": "Bhallaladeva is the cousin of Amarendra Baahubali; both were raised together by Sivagami in Mahishmati."
+    },
+    {
+      "id": "baahubali-q20",
+      "difficulty": "medium",
+      "q": "Which city's film studios served as a major production base for the large-scale sets of the 'Baahubali' films?",
+      "options": [
+        "Mumbai",
+        "Hyderabad (Ramoji Film City)",
+        "Chennai",
+        "Bengaluru"
+      ],
+      "answer": 1,
+      "explanation": "Much of 'Baahubali' was shot at Ramoji Film City in Hyderabad, where elaborate Mahishmati sets were built."
+    },
+    {
+      "id": "baahubali-q21",
+      "difficulty": "medium",
+      "q": "Who served as the cinematographer for the 'Baahubali' films?",
+      "options": [
+        "Santosh Sivan",
+        "Ravi Varman",
+        "K. K. Senthil Kumar",
+        "P. C. Sreeram"
+      ],
+      "answer": 2,
+      "explanation": "K. K. Senthil Kumar was the cinematographer for both 'Baahubali' films."
+    },
+    {
+      "id": "baahubali-q22",
+      "difficulty": "medium",
+      "q": "Which novelist adapted the 'Baahubali' universe into a popular prequel book series including 'The Rise of Sivagami'?",
+      "options": [
+        "Amish Tripathi",
+        "Chetan Bhagat",
+        "Devdutt Pattanaik",
+        "Anand Neelakantan"
+      ],
+      "answer": 3,
+      "explanation": "Anand Neelakantan wrote 'The Rise of Sivagami' and other novels expanding the Baahubali world."
+    },
+    {
+      "id": "baahubali-q23",
+      "difficulty": "hard",
+      "q": "On which streaming platform did the animated prequel series 'Baahubali: The Lost Legends' premiere in 2017?",
+      "options": [
+        "Amazon Prime Video",
+        "Netflix",
+        "Disney+ Hotstar",
+        "ZEE5"
+      ],
+      "answer": 0,
+      "explanation": "'Baahubali: The Lost Legends', an animated series set before the events of the films, premiered on Amazon Prime Video in 2017."
+    },
+    {
+      "id": "baahubali-q24",
+      "difficulty": "hard",
+      "q": "Which kingdom does Devasena belong to before marrying Amarendra Baahubali?",
+      "options": [
+        "Mahishmati",
+        "Kuntala",
+        "Singhapuram",
+        "Magadha"
+      ],
+      "answer": 1,
+      "explanation": "Devasena is the princess of the Kuntala kingdom."
+    },
+    {
+      "id": "baahubali-q25",
+      "difficulty": "hard",
+      "q": "What is the name of the barbarian invading tribe that the Mahishmati army battles in the climax of 'Baahubali: The Beginning'?",
+      "options": [
+        "The Pindaris",
+        "The Huns",
+        "The Kalakeya",
+        "The Mlecchas"
+      ],
+      "answer": 2,
+      "explanation": "The Kalakeya are the fearsome invading tribe fought in the climactic battle of 'Baahubali: The Beginning', their leader speaking a constructed language created for the films."
+    },
+    {
+      "id": "baahubali-q26",
+      "difficulty": "hard",
+      "q": "Who created the fictional Kilikili language spoken by the Kalakeya tribe in the 'Baahubali' films?",
+      "options": [
+        "M. M. Keeravani",
+        "K. V. Vijayendra Prasad",
+        "Sirivennela Seetharama Sastry",
+        "Madhan Karky"
+      ],
+      "answer": 3,
+      "explanation": "Tamil lyricist and linguist Madhan Karky developed the constructed Kilikili language for the Kalakeya."
+    },
+    {
+      "id": "baahubali-q27",
+      "difficulty": "hard",
+      "q": "Which weapon does Amarendra Baahubali famously improvise during the climactic battle against the Kalakeya in 'Baahubali: The Beginning'?",
+      "options": [
+        "Two swords joined into one curved double blade",
+        "A trident",
+        "A flaming chariot wheel",
+        "A giant catapult"
+      ],
+      "answer": 0,
+      "explanation": "Baahubali joins two swords into a single curved double-bladed weapon during the Kalakeya battle."
+    },
+    {
+      "id": "baahubali-q28",
+      "difficulty": "hard",
+      "q": "Approximately how much was 'Baahubali: The Conclusion' reported to have grossed worldwide, making it a landmark for Indian cinema?",
+      "options": [
+        "Around Rs 250 crore",
+        "Over Rs 1,700 crore",
+        "Around Rs 500 crore",
+        "Around Rs 800 crore"
+      ],
+      "answer": 1,
+      "explanation": "'Baahubali: The Conclusion' grossed over Rs 1,700 crore worldwide, a record for Indian cinema at the time."
+    },
+    {
+      "id": "baahubali-q29",
+      "difficulty": "hard",
+      "q": "In the storyline, why does Kattappa ultimately kill Amarendra Baahubali?",
+      "options": [
+        "Out of personal jealousy over the throne",
+        "To avenge the death of Sivagami",
+        "He is bound by an oath of loyalty to the throne and is deceived into following Bhallaladeva's order",
+        "Because Baahubali betrayed Kuntala"
+      ],
+      "answer": 2,
+      "explanation": "Kattappa, bound by his oath of servitude to the throne, is manipulated by Bhallaladeva into stabbing Baahubali in the back."
+    },
+    {
+      "id": "baahubali-q30",
+      "difficulty": "hard",
+      "q": "The 'Baahubali' films are widely credited with popularising which industry-wide concept in Indian cinema?",
+      "options": [
+        "The single-screen comeback",
+        "The art-house revival",
+        "The musical anthology format",
+        "The pan-India blockbuster"
+      ],
+      "answer": 3,
+      "explanation": "'Baahubali' is credited with defining the modern 'pan-India' blockbuster, succeeding across multiple language markets simultaneously."
+    }
+  ]
+}

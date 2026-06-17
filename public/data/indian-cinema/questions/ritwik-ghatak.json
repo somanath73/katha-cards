@@ -1,0 +1,395 @@
+{
+  "cardId": "ritwik-ghatak",
+  "questions": [
+    {
+      "id": "ritwik-ghatak-q01",
+      "difficulty": "easy",
+      "q": "In which language did the filmmaker Ritwik Ghatak primarily make his films?",
+      "options": [
+        "Hindi",
+        "Bengali",
+        "Tamil",
+        "Marathi"
+      ],
+      "answer": 1,
+      "explanation": "Ritwik Ghatak was a Bengali filmmaker who made most of his films in the Bengali language."
+    },
+    {
+      "id": "ritwik-ghatak-q02",
+      "difficulty": "easy",
+      "q": "The recurring theme running through many of Ritwik Ghatak's films is the trauma of which historical event?",
+      "options": [
+        "The Sepoy Mutiny of 1857",
+        "The Quit India Movement of 1942",
+        "The Partition of Bengal in 1947",
+        "The Bengal Renaissance"
+      ],
+      "answer": 2,
+      "explanation": "Ghatak's films were deeply marked by the trauma of the 1947 Partition that divided Bengal."
+    },
+    {
+      "id": "ritwik-ghatak-q03",
+      "difficulty": "easy",
+      "q": "In which year was the celebrated Ritwik Ghatak film Meghe Dhaka Tara released?",
+      "options": [
+        "1955",
+        "1965",
+        "1970",
+        "1960"
+      ],
+      "answer": 3,
+      "explanation": "Ghatak's acclaimed film Meghe Dhaka Tara was released in 1960."
+    },
+    {
+      "id": "ritwik-ghatak-q04",
+      "difficulty": "easy",
+      "q": "What does the title of Ritwik Ghatak's 1960 film Meghe Dhaka Tara translate to in English?",
+      "options": [
+        "The Cloud-Capped Star",
+        "The Golden Thread",
+        "The Lonely Wife",
+        "The Distant Thunder"
+      ],
+      "answer": 0,
+      "explanation": "Meghe Dhaka Tara translates to 'The Cloud-Capped Star' in English."
+    },
+    {
+      "id": "ritwik-ghatak-q05",
+      "difficulty": "easy",
+      "q": "In which year was the filmmaker Ritwik Ghatak born?",
+      "options": [
+        "1915",
+        "1925",
+        "1921",
+        "1931"
+      ],
+      "answer": 1,
+      "explanation": "Ritwik Ghatak was born in 1925."
+    },
+    {
+      "id": "ritwik-ghatak-q06",
+      "difficulty": "easy",
+      "q": "In which year did the filmmaker Ritwik Ghatak die?",
+      "options": [
+        "1971",
+        "1982",
+        "1976",
+        "1988"
+      ],
+      "answer": 2,
+      "explanation": "Ritwik Ghatak died in 1976."
+    },
+    {
+      "id": "ritwik-ghatak-q07",
+      "difficulty": "easy",
+      "q": "Ritwik Ghatak is widely regarded as a contemporary and counterpart of which other towering Bengali filmmaker?",
+      "options": [
+        "Raj Kapoor",
+        "Bimal Roy",
+        "Mehboob Khan",
+        "Satyajit Ray"
+      ],
+      "answer": 3,
+      "explanation": "Ghatak is often discussed alongside Satyajit Ray as one of the great masters of Bengali cinema."
+    },
+    {
+      "id": "ritwik-ghatak-q08",
+      "difficulty": "easy",
+      "q": "In which year was Ritwik Ghatak's film Subarnarekha released?",
+      "options": [
+        "1965",
+        "1958",
+        "1962",
+        "1971"
+      ],
+      "answer": 0,
+      "explanation": "Subarnarekha was completed in 1962 but released only in 1965."
+    },
+    {
+      "id": "ritwik-ghatak-q09",
+      "difficulty": "easy",
+      "q": "Critical reappraisal of Ritwik Ghatak's work and his major recognition came largely at what point relative to his life?",
+      "options": [
+        "Early in his career, in the 1950s",
+        "After his death",
+        "When he won an Oscar",
+        "During his student years"
+      ],
+      "answer": 1,
+      "explanation": "Largely under-recognised in his lifetime, Ghatak received major critical reappraisal after his death in 1976."
+    },
+    {
+      "id": "ritwik-ghatak-q10",
+      "difficulty": "easy",
+      "q": "Ritwik Ghatak's film Subarnarekha takes its title from what kind of geographical feature?",
+      "options": [
+        "A mountain",
+        "A desert",
+        "A river",
+        "A city"
+      ],
+      "answer": 2,
+      "explanation": "Subarnarekha is named after the Subarnarekha river, a recurring symbolic presence in the film."
+    },
+    {
+      "id": "ritwik-ghatak-q11",
+      "difficulty": "medium",
+      "q": "Which three films are commonly grouped together as Ritwik Ghatak's 'Partition trilogy'?",
+      "options": [
+        "Nagarik, Bari Theke Paliye and Ajantrik",
+        "Titash Ekti Nadir Naam, Jukti Takko Aar Gappo and Ajantrik",
+        "Pather Panchali, Aparajito and Apur Sansar",
+        "Meghe Dhaka Tara, Komal Gandhar and Subarnarekha"
+      ],
+      "answer": 3,
+      "explanation": "Meghe Dhaka Tara (1960), Komal Gandhar (1961) and Subarnarekha (1965) form Ghatak's Partition trilogy."
+    },
+    {
+      "id": "ritwik-ghatak-q12",
+      "difficulty": "medium",
+      "q": "What was the title of Ritwik Ghatak's first completed feature film, made around 1952 but released only decades later?",
+      "options": [
+        "Nagarik",
+        "Ajantrik",
+        "Bari Theke Paliye",
+        "Komal Gandhar"
+      ],
+      "answer": 0,
+      "explanation": "Nagarik (The Citizen), made around 1952, was Ghatak's first completed feature but was released only after his death."
+    },
+    {
+      "id": "ritwik-ghatak-q13",
+      "difficulty": "medium",
+      "q": "Ritwik Ghatak's 1958 film Ajantrik is notable for centring on a man's relationship with what?",
+      "options": [
+        "A horse",
+        "An old motor car",
+        "A river boat",
+        "A railway engine"
+      ],
+      "answer": 1,
+      "explanation": "Ajantrik depicts a driver's deep, almost human bond with his dilapidated old motor car, which he calls Jagaddal."
+    },
+    {
+      "id": "ritwik-ghatak-q14",
+      "difficulty": "medium",
+      "q": "Which actress played the self-sacrificing heroine Nita in Ritwik Ghatak's Meghe Dhaka Tara (1960)?",
+      "options": [
+        "Madhabi Mukherjee",
+        "Sharmila Tagore",
+        "Supriya Choudhury",
+        "Suchitra Sen"
+      ],
+      "answer": 2,
+      "explanation": "Supriya Choudhury (Supriya Devi) played the long-suffering heroine Nita in Meghe Dhaka Tara."
+    },
+    {
+      "id": "ritwik-ghatak-q15",
+      "difficulty": "medium",
+      "q": "In which present-day country was Ritwik Ghatak born, in the city of Dhaka?",
+      "options": [
+        "India",
+        "Pakistan",
+        "Myanmar",
+        "Bangladesh"
+      ],
+      "answer": 3,
+      "explanation": "Ghatak was born in Dhaka, in present-day Bangladesh, then part of undivided Bengal in British India."
+    },
+    {
+      "id": "ritwik-ghatak-q16",
+      "difficulty": "medium",
+      "q": "Ritwik Ghatak's only feature film shot in present-day Bangladesh, Titash Ekti Nadir Naam, was released in which year?",
+      "options": [
+        "1973",
+        "1968",
+        "1976",
+        "1980"
+      ],
+      "answer": 0,
+      "explanation": "Titash Ekti Nadir Naam (A River Called Titash) was released in 1973."
+    },
+    {
+      "id": "ritwik-ghatak-q17",
+      "difficulty": "medium",
+      "q": "Before turning fully to cinema, Ritwik Ghatak was an active member of which leftist cultural movement?",
+      "options": [
+        "The Progressive Writers' Association",
+        "The Indian People's Theatre Association (IPTA)",
+        "The Bengal School of Art",
+        "The Tagore Society"
+      ],
+      "answer": 1,
+      "explanation": "Ghatak was an active member of the Indian People's Theatre Association (IPTA) as a playwright and actor."
+    },
+    {
+      "id": "ritwik-ghatak-q18",
+      "difficulty": "medium",
+      "q": "Ritwik Ghatak co-wrote the screenplay for which acclaimed 1958 Bimal Roy Hindi film, a reincarnation drama?",
+      "options": [
+        "Devdas",
+        "Sujata",
+        "Madhumati",
+        "Bandini"
+      ],
+      "answer": 2,
+      "explanation": "Ghatak co-wrote the screenplay of Bimal Roy's hit reincarnation drama Madhumati (1958)."
+    },
+    {
+      "id": "ritwik-ghatak-q19",
+      "difficulty": "medium",
+      "q": "Ritwik Ghatak served as a teacher and later vice-principal at which premier Indian film school?",
+      "options": [
+        "Satyajit Ray Film and Television Institute, Kolkata",
+        "National School of Drama, Delhi",
+        "Whistling Woods International, Mumbai",
+        "Film and Television Institute of India (FTII), Pune"
+      ],
+      "answer": 3,
+      "explanation": "Ghatak taught at the Film and Television Institute of India (FTII) in Pune and served as its vice-principal."
+    },
+    {
+      "id": "ritwik-ghatak-q20",
+      "difficulty": "medium",
+      "q": "What is the English title of Ritwik Ghatak's 1961 film Komal Gandhar?",
+      "options": [
+        "E-Flat",
+        "The Cloud-Capped Star",
+        "The Golden Line",
+        "Reason, Debate and a Story"
+      ],
+      "answer": 0,
+      "explanation": "Komal Gandhar is known in English as 'E-Flat', referencing a musical note."
+    },
+    {
+      "id": "ritwik-ghatak-q21",
+      "difficulty": "medium",
+      "q": "Ritwik Ghatak frequently drew on which body of imagery, including the Great Mother goddess figure, to give his films a mythic dimension?",
+      "options": [
+        "Greek mythology",
+        "Hindu mythology and archetypes",
+        "Norse mythology",
+        "Egyptian mythology"
+      ],
+      "answer": 1,
+      "explanation": "Ghatak infused his films with Hindu mythology and Jungian archetypes, notably the Great Mother goddess figure."
+    },
+    {
+      "id": "ritwik-ghatak-q22",
+      "difficulty": "medium",
+      "q": "What was the title of Ritwik Ghatak's last completed feature film, made in 1974?",
+      "options": [
+        "Bari Theke Paliye",
+        "Subarnarekha",
+        "Jukti Takko Aar Gappo",
+        "Nagarik"
+      ],
+      "answer": 2,
+      "explanation": "Jukti Takko Aar Gappo (Reason, Debate and a Story), made in 1974, was Ghatak's last completed feature."
+    },
+    {
+      "id": "ritwik-ghatak-q23",
+      "difficulty": "hard",
+      "q": "In Ritwik Ghatak's final film Jukti Takko Aar Gappo (1974), who played the central character, the dishevelled intellectual Nilkantha?",
+      "options": [
+        "Soumitra Chatterjee",
+        "Anil Chatterjee",
+        "Bijon Bhattacharya",
+        "Ritwik Ghatak himself"
+      ],
+      "answer": 3,
+      "explanation": "Ghatak himself played the autobiographical, self-destructive intellectual Nilkantha in Jukti Takko Aar Gappo."
+    },
+    {
+      "id": "ritwik-ghatak-q24",
+      "difficulty": "hard",
+      "q": "Which novel by Advaita Mallabarman did Ritwik Ghatak adapt for his 1973 film Titash Ekti Nadir Naam?",
+      "options": [
+        "Titash Ekti Nadir Naam",
+        "Pather Panchali",
+        "Nastanirh",
+        "Aranyer Adhikar"
+      ],
+      "answer": 0,
+      "explanation": "The film was based on Advaita Mallabarman's novel of the same name, Titash Ekti Nadir Naam."
+    },
+    {
+      "id": "ritwik-ghatak-q25",
+      "difficulty": "hard",
+      "q": "The acclaimed line 'Dada, ami banchte chai' ('Brother, I want to live') is a famous cry from the heroine in which Ritwik Ghatak film?",
+      "options": [
+        "Subarnarekha",
+        "Meghe Dhaka Tara",
+        "Komal Gandhar",
+        "Ajantrik"
+      ],
+      "answer": 1,
+      "explanation": "The anguished cry 'Dada, ami banchte chai' is uttered by Nita in the climax of Meghe Dhaka Tara."
+    },
+    {
+      "id": "ritwik-ghatak-q26",
+      "difficulty": "hard",
+      "q": "Ritwik Ghatak wrote the 1957 Hindi film Musafir, which marked the directorial debut of which filmmaker?",
+      "options": [
+        "Bimal Roy",
+        "Guru Dutt",
+        "Hrishikesh Mukherjee",
+        "Mehboob Khan"
+      ],
+      "answer": 2,
+      "explanation": "Ghatak co-wrote Musafir (1957), which was Hrishikesh Mukherjee's debut as a director; Ghatak wrote it but did not direct it."
+    },
+    {
+      "id": "ritwik-ghatak-q27",
+      "difficulty": "hard",
+      "q": "Ritwik Ghatak's 1958 children's film Bari Theke Paliye centres on what kind of protagonist?",
+      "options": [
+        "A widowed mother",
+        "An ageing zamindar",
+        "A refugee musician",
+        "A runaway boy exploring the city of Calcutta"
+      ],
+      "answer": 3,
+      "explanation": "Bari Theke Paliye (The Runaway) follows a young boy who flees home to explore the wider world of Calcutta."
+    },
+    {
+      "id": "ritwik-ghatak-q28",
+      "difficulty": "hard",
+      "q": "Who is credited as the music composer of Ritwik Ghatak's 1960 film Meghe Dhaka Tara?",
+      "options": [
+        "Jyotirindra Moitra",
+        "Salil Chowdhury",
+        "Ravi Shankar",
+        "Ali Akbar Khan"
+      ],
+      "answer": 0,
+      "explanation": "Jyotirindra Moitra is credited as the music director and composer of Meghe Dhaka Tara (1960)."
+    },
+    {
+      "id": "ritwik-ghatak-q29",
+      "difficulty": "hard",
+      "q": "Ritwik Ghatak was honoured by the Government of India with which civilian award in 1970, during his lifetime?",
+      "options": [
+        "Bharat Ratna",
+        "Padma Shri",
+        "Padma Bhushan",
+        "Padma Vibhushan"
+      ],
+      "answer": 1,
+      "explanation": "Ghatak was awarded the Padma Shri in 1970 for his contribution to cinema."
+    },
+    {
+      "id": "ritwik-ghatak-q30",
+      "difficulty": "hard",
+      "q": "Ritwik Ghatak's only feature shot in then East Pakistan-turned-Bangladesh, Titash Ekti Nadir Naam, portrays the dying way of life of which community?",
+      "options": [
+        "Tea plantation workers",
+        "Urban factory labourers",
+        "A fishing community along a river",
+        "Forest tribal hunters"
+      ],
+      "answer": 2,
+      "explanation": "Titash Ekti Nadir Naam depicts a Malo fishing community whose life withers as the river Titash dries up."
+    }
+  ]
+}

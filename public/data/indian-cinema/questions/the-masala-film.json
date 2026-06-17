@@ -1,0 +1,395 @@
+{
+  "cardId": "the-masala-film",
+  "questions": [
+    {
+      "id": "the-masala-film-q01",
+      "difficulty": "easy",
+      "q": "The Indian film genre known as the 'masala film' takes its name from what?",
+      "options": [
+        "A famous film studio",
+        "A region of South India",
+        "A type of film stock",
+        "A mix of spices used in Indian cooking"
+      ],
+      "answer": 3,
+      "explanation": "The masala film is named after the Indian mixture of spices, reflecting its blend of multiple genres."
+    },
+    {
+      "id": "the-masala-film-q02",
+      "difficulty": "easy",
+      "q": "Which combination of elements best characterises the Indian masala film?",
+      "options": [
+        "Action, romance, comedy, melodrama and song-and-dance",
+        "Only romance and comedy",
+        "Documentary realism and news footage",
+        "Silent slapstick and title cards"
+      ],
+      "answer": 0,
+      "explanation": "The masala film blends action, romance, comedy, melodrama and song-and-dance into a single feature."
+    },
+    {
+      "id": "the-masala-film-q03",
+      "difficulty": "easy",
+      "q": "In which decade did the masala film become firmly established as the dominant commercial template of Hindi cinema?",
+      "options": [
+        "The 1930s",
+        "The 1970s",
+        "The 1950s",
+        "The 2000s"
+      ],
+      "answer": 1,
+      "explanation": "The masala film was perfected and became dominant in 1970s Hindi cinema."
+    },
+    {
+      "id": "the-masala-film-q04",
+      "difficulty": "easy",
+      "q": "Which director is most associated with perfecting the masala film formula in 1970s Hindi cinema?",
+      "options": [
+        "Satyajit Ray",
+        "Mrinal Sen",
+        "Manmohan Desai",
+        "Shyam Benegal"
+      ],
+      "answer": 2,
+      "explanation": "Manmohan Desai is widely regarded as a master of the 1970s-80s masala film."
+    },
+    {
+      "id": "the-masala-film-q05",
+      "difficulty": "easy",
+      "q": "The famous screenwriting duo Salim-Javed, central to the masala film era, was made up of Javed Akhtar and which other writer?",
+      "options": [
+        "Salim Durrani",
+        "Salman Rushdie",
+        "Salim Merchant",
+        "Salim Khan"
+      ],
+      "answer": 3,
+      "explanation": "Salim-Javed comprised Salim Khan and Javed Akhtar, the era's most influential writing team."
+    },
+    {
+      "id": "the-masala-film-q06",
+      "difficulty": "easy",
+      "q": "Which actor became the leading on-screen star of the masala film era as the 'angry young man'?",
+      "options": [
+        "Amitabh Bachchan",
+        "Rajesh Khanna",
+        "Dev Anand",
+        "Shashi Kapoor"
+      ],
+      "answer": 0,
+      "explanation": "Amitabh Bachchan, as the 'angry young man', became the defining star of 1970s masala cinema."
+    },
+    {
+      "id": "the-masala-film-q07",
+      "difficulty": "easy",
+      "q": "The 1977 Manmohan Desai film about three brothers separated in childhood and raised in different faiths, a classic masala film, is titled what?",
+      "options": [
+        "Naseeb",
+        "Amar Akbar Anthony",
+        "Coolie",
+        "Suhaag"
+      ],
+      "answer": 1,
+      "explanation": "Amar Akbar Anthony (1977) is a definitive Manmohan Desai masala film about three separated brothers."
+    },
+    {
+      "id": "the-masala-film-q08",
+      "difficulty": "easy",
+      "q": "Song-and-dance numbers are a core ingredient of the masala film. In Indian cinema, the songs heard in these sequences are typically performed by which kind of artist rather than sung live by the actors?",
+      "options": [
+        "The film's own director",
+        "A live orchestra appearing on screen",
+        "Playback singers whose voices the actors lip-sync to",
+        "The cinema's projectionist"
+      ],
+      "answer": 2,
+      "explanation": "Masala-film song sequences use the playback system: professional playback singers pre-record the songs and on-screen actors lip-sync to them."
+    },
+    {
+      "id": "the-masala-film-q09",
+      "difficulty": "easy",
+      "q": "The masala film template spread well beyond Hindi cinema. In which other Indian film industries did it also become a dominant commercial form?",
+      "options": [
+        "Only French and Italian cinema",
+        "Only silent-era cinema",
+        "Hollywood studios",
+        "Tamil, Telugu and other Indian-language industries"
+      ],
+      "answer": 3,
+      "explanation": "The masala template became dominant across Tamil, Telugu and other Indian-language film industries."
+    },
+    {
+      "id": "the-masala-film-q10",
+      "difficulty": "easy",
+      "q": "Roughly how long is a typical masala film, often including an interval?",
+      "options": [
+        "Around two-and-a-half to three hours",
+        "Around 45 minutes",
+        "Around 90 minutes with no interval",
+        "Around six hours"
+      ],
+      "answer": 0,
+      "explanation": "Masala films are typically long, often running two-and-a-half to three hours with an interval."
+    },
+    {
+      "id": "the-masala-film-q11",
+      "difficulty": "medium",
+      "q": "The 1975 Salim-Javed-scripted film often called the archetypal masala blockbuster, directed by Ramesh Sippy, is which classic?",
+      "options": [
+        "Deewaar",
+        "Sholay",
+        "Zanjeer",
+        "Don"
+      ],
+      "answer": 1,
+      "explanation": "Sholay (1975), written by Salim-Javed and directed by Ramesh Sippy, is a landmark masala blockbuster."
+    },
+    {
+      "id": "the-masala-film-q12",
+      "difficulty": "medium",
+      "q": "The 1973 film Zanjeer, which launched Amitabh Bachchan's 'angry young man' image, was scripted by which writing duo?",
+      "options": [
+        "Abbas-Mustan",
+        "Vijay-Anand",
+        "Salim-Javed",
+        "Laxmikant-Pyarelal"
+      ],
+      "answer": 2,
+      "explanation": "Zanjeer (1973) was written by Salim-Javed and directed by Prakash Mehra."
+    },
+    {
+      "id": "the-masala-film-q13",
+      "difficulty": "medium",
+      "q": "Which 1975 Yash Chopra film, written by Salim-Javed, features the famous masala-era line 'Mere paas maa hai'?",
+      "options": [
+        "Trishul",
+        "Kaala Patthar",
+        "Kabhi Kabhie",
+        "Deewaar"
+      ],
+      "answer": 3,
+      "explanation": "Deewaar (1975), directed by Yash Chopra and written by Salim-Javed, contains the iconic line 'Mere paas maa hai'."
+    },
+    {
+      "id": "the-masala-film-q14",
+      "difficulty": "medium",
+      "q": "The 'lost and found' plot device, in which family members are separated and reunited, is a recurring feature of which Indian film genre?",
+      "options": [
+        "The masala film",
+        "The art-house parallel film",
+        "The mythological film",
+        "The silent slapstick comedy"
+      ],
+      "answer": 0,
+      "explanation": "The 'lost and found' separated-family device is a signature trope of the masala film."
+    },
+    {
+      "id": "the-masala-film-q15",
+      "difficulty": "medium",
+      "q": "Manmohan Desai frequently cast which actor as the lead across many of his blockbuster masala films of the 1970s and 80s?",
+      "options": [
+        "Vinod Khanna",
+        "Amitabh Bachchan",
+        "Jeetendra",
+        "Sanjeev Kumar"
+      ],
+      "answer": 1,
+      "explanation": "Manmohan Desai repeatedly cast Amitabh Bachchan in hits such as Amar Akbar Anthony, Naseeb and Coolie."
+    },
+    {
+      "id": "the-masala-film-q16",
+      "difficulty": "medium",
+      "q": "The masala film is generally contrasted with which alternative movement in Indian cinema of the same era?",
+      "options": [
+        "The French New Wave",
+        "German Expressionism",
+        "Parallel cinema (the Indian New Wave)",
+        "Italian Neorealism's Indian remakes"
+      ],
+      "answer": 2,
+      "explanation": "Commercial masala films are typically contrasted with the realist parallel cinema or Indian New Wave."
+    },
+    {
+      "id": "the-masala-film-q17",
+      "difficulty": "medium",
+      "q": "Which actor's South Indian films, full of fights, comedy, romance and dance, made him an enduring icon of Tamil masala cinema?",
+      "options": [
+        "Adoor Gopalakrishnan",
+        "G. Aravindan",
+        "Buddhadeb Dasgupta",
+        "Rajinikanth"
+      ],
+      "answer": 3,
+      "explanation": "Rajinikanth became an enduring icon of Tamil masala cinema through his action-comedy entertainers."
+    },
+    {
+      "id": "the-masala-film-q18",
+      "difficulty": "medium",
+      "q": "Which composer duo was heavily associated with scoring the hit songs of many 1970s Hindi masala films?",
+      "options": [
+        "Laxmikant-Pyarelal",
+        "Vanraj Bhatia and Bhaskar Chandavarkar",
+        "Salil Chowdhury and Hemant Kumar",
+        "Naushad and Madan Mohan"
+      ],
+      "answer": 0,
+      "explanation": "Laxmikant-Pyarelal, alongside R.D. Burman, composed the music for many 1970s masala hits."
+    },
+    {
+      "id": "the-masala-film-q19",
+      "difficulty": "medium",
+      "q": "The masala film's structure typically builds toward what kind of resolution?",
+      "options": [
+        "An ambiguous, open ending",
+        "A clear triumph of good over evil and emotional reunion",
+        "A documentary epilogue",
+        "A tragic death of all main characters"
+      ],
+      "answer": 1,
+      "explanation": "Masala films usually resolve with good triumphing over evil and emotionally satisfying reunions."
+    },
+    {
+      "id": "the-masala-film-q20",
+      "difficulty": "medium",
+      "q": "Which 1971 film starring Rajesh Khanna and Amitabh Bachchan, blending melodrama, friendship and music, is often cited among the emotional templates feeding into masala storytelling?",
+      "options": [
+        "Sholay",
+        "Mother India",
+        "Anand",
+        "Pyaasa"
+      ],
+      "answer": 2,
+      "explanation": "Anand (1971), starring Rajesh Khanna and Amitabh Bachchan, exemplified the emotional melodrama feeding into masala storytelling."
+    },
+    {
+      "id": "the-masala-film-q21",
+      "difficulty": "medium",
+      "q": "Which term is commonly used in Indian cinema for a film that is a major commercial success across the country, the goal of most masala films?",
+      "options": [
+        "Flop",
+        "Festival darling",
+        "Direct-to-video release",
+        "Blockbuster or all-India hit"
+      ],
+      "answer": 3,
+      "explanation": "A successful masala film aims to be a blockbuster or 'all-India hit' across regions and languages."
+    },
+    {
+      "id": "the-masala-film-q22",
+      "difficulty": "medium",
+      "q": "Director Manmohan Desai openly stated that his masala films were chiefly made to appeal to which audience?",
+      "options": [
+        "The common, mass audience seeking pure entertainment",
+        "Film festival juries",
+        "Foreign critics only",
+        "Academic scholars"
+      ],
+      "answer": 0,
+      "explanation": "Desai openly made his masala films for the mass audience seeking entertainment and escapism."
+    },
+    {
+      "id": "the-masala-film-q23",
+      "difficulty": "hard",
+      "q": "The 1983 masala film Coolie, starring Amitabh Bachchan and directed by Manmohan Desai, became notable partly because of what real-life event during its shooting?",
+      "options": [
+        "A studio fire",
+        "Amitabh Bachchan's near-fatal on-set injury",
+        "A nationwide cinema strike",
+        "The lead actress quitting"
+      ],
+      "answer": 1,
+      "explanation": "During Coolie's filming, Amitabh Bachchan suffered a near-fatal injury that drew enormous public attention."
+    },
+    {
+      "id": "the-masala-film-q24",
+      "difficulty": "hard",
+      "q": "Before becoming a celebrated lyricist and screenwriter independently, Javed Akhtar's masala-era partnership with Salim Khan broke up in approximately which year?",
+      "options": [
+        "1962",
+        "1971",
+        "1982",
+        "1995"
+      ],
+      "answer": 2,
+      "explanation": "The Salim-Javed partnership dissolved around 1982 after a decade of landmark masala scripts."
+    },
+    {
+      "id": "the-masala-film-q25",
+      "difficulty": "hard",
+      "q": "Which 1967 Vijay Anand thriller-musical, blending suspense, romance and song, is cited among the slick templates that fed into the multi-genre masala style?",
+      "options": [
+        "Bhuvan Shome",
+        "Garm Hava",
+        "Manthan",
+        "Jewel Thief"
+      ],
+      "answer": 3,
+      "explanation": "Vijay Anand's Jewel Thief (1967) blended suspense, romance and song in a style that fed into the masala approach."
+    },
+    {
+      "id": "the-masala-film-q26",
+      "difficulty": "hard",
+      "q": "In Tamil cinema, which composer's work became inseparable from masala entertainers from the late 1970s onward, scoring hundreds of such films?",
+      "options": [
+        "Ilaiyaraaja",
+        "Salil Chowdhury",
+        "Naushad",
+        "Madan Mohan"
+      ],
+      "answer": 0,
+      "explanation": "Ilaiyaraaja scored a vast number of Tamil masala entertainers from the late 1970s onward."
+    },
+    {
+      "id": "the-masala-film-q27",
+      "difficulty": "hard",
+      "q": "Which 1979 Manmohan Desai masala film stars Amitabh Bachchan and Shashi Kapoor as brothers separated in childhood and later reunited?",
+      "options": [
+        "Dharam Veer",
+        "Suhaag",
+        "Parvarish",
+        "Mard"
+      ],
+      "answer": 1,
+      "explanation": "Suhaag (1979), directed by Manmohan Desai, features Amitabh Bachchan and Shashi Kapoor as separated, reunited brothers."
+    },
+    {
+      "id": "the-masala-film-q28",
+      "difficulty": "hard",
+      "q": "The masala film's appeal to a broad, multilingual audience is often explained by its reliance on which storytelling quality?",
+      "options": [
+        "Dense literary dialogue requiring fluency",
+        "Strict regional dialect humour",
+        "Universal emotions and spectacle that transcend language",
+        "Minimalist silent acting"
+      ],
+      "answer": 2,
+      "explanation": "Masala films rely on broadly legible emotions, action and spectacle that work across language barriers."
+    },
+    {
+      "id": "the-masala-film-q29",
+      "difficulty": "hard",
+      "q": "Filmmaker S.S. Rajamouli's 2010s blockbusters like Baahubali are often described as a modern revival of which Indian film tradition?",
+      "options": [
+        "The neorealist parallel film",
+        "The silent comedy",
+        "The documentary newsreel",
+        "The grand masala spectacle"
+      ],
+      "answer": 3,
+      "explanation": "Rajamouli's epics are widely viewed as a contemporary, large-scale revival of the masala spectacle tradition."
+    },
+    {
+      "id": "the-masala-film-q30",
+      "difficulty": "hard",
+      "q": "Why is the masala film considered a distinctly Indian contribution to world cinema rather than a borrowed Hollywood form?",
+      "options": [
+        "It deliberately fuses many genres and song-and-dance into one continuous feature",
+        "It avoids music entirely",
+        "It uses only black-and-white film",
+        "It is always under one hour long"
+      ],
+      "answer": 0,
+      "explanation": "Its deliberate all-in-one fusion of multiple genres with integrated song-and-dance marks the masala film as a distinctly Indian form."
+    }
+  ]
+}
