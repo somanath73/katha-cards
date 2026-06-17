@@ -11,7 +11,8 @@
       "type": "concept",
       "emblem": "lotus",
       "palette": "dusk",
-      "description": "A theological concept elaborated in the Puranas in which the supreme reality expresses itself through three cosmic functions: Brahma as creator (srishti), Vishnu as preserver (sthiti), and Shiva as destroyer and transformer (samhara). The three are often depicted as a unity, sometimes in the single trifaced form of Dattatreya, expressing one Brahman behind the threefold activity of the cosmos."
+      "description": "A theological concept elaborated in the Puranas in which the supreme reality expresses itself through three cosmic functions: Brahma as creator (srishti), Vishnu as preserver (sthiti), and Shiva as destroyer and transformer (samhara). The three are often depicted as a unity, sometimes in the single trifaced form of Dattatreya, expressing one Brahman behind the threefold activity of the cosmos.",
+      "image": "art/the-trimurti.webp"
     },
     {
       "id": "brahma",
@@ -21,7 +22,8 @@
       "type": "character",
       "emblem": "lotus",
       "palette": "dawn",
-      "description": "The creator deity of the Trimurti, described in the Puranas as four-faced and four-armed, holding the Vedas, a water pot, a rosary, and a ladle, and seated upon a lotus rising from Vishnu's navel. His consort is Saraswati, goddess of knowledge, and his vahana is the hamsa; through him the worlds and the four Vedas are brought forth at the dawn of each cosmic cycle. The famed temple at Pushkar is among his rare shrines."
+      "description": "The creator deity of the Trimurti, described in the Puranas as four-faced and four-armed, holding the Vedas, a water pot, a rosary, and a ladle, and seated upon a lotus rising from Vishnu's navel. His consort is Saraswati, goddess of knowledge, and his vahana is the hamsa; through him the worlds and the four Vedas are brought forth at the dawn of each cosmic cycle. The famed temple at Pushkar is among his rare shrines.",
+      "image": "art/brahma.webp"
     },
     {
       "id": "vishnu",
@@ -31,7 +33,8 @@
       "type": "character",
       "emblem": "chakra",
       "palette": "ocean",
-      "description": "The preserver of the Trimurti, Vishnu sustains cosmic order (dharma) and descends as the avatars whenever it declines. He is depicted four-armed and dark-hued, bearing the Sudarshana chakra, the conch Panchajanya, the mace Kaumodaki, and a lotus; his consort is Lakshmi, his vahana the eagle Garuda, and he reclines on the serpent Shesha upon the cosmic ocean of milk."
+      "description": "The preserver of the Trimurti, Vishnu sustains cosmic order (dharma) and descends as the avatars whenever it declines. He is depicted four-armed and dark-hued, bearing the Sudarshana chakra, the conch Panchajanya, the mace Kaumodaki, and a lotus; his consort is Lakshmi, his vahana the eagle Garuda, and he reclines on the serpent Shesha upon the cosmic ocean of milk.",
+      "image": "art/vishnu.webp"
     },
     {
       "id": "shiva",
@@ -41,7 +44,8 @@
       "type": "character",
       "emblem": "trident",
       "palette": "dusk",
-      "description": "The destroyer and transformer of the Trimurti, Shiva is the great ascetic of Mount Kailash whose dissolution makes renewal possible. The Puranas describe him with matted locks bearing the Ganga and crescent moon, a third eye of fire, the trishula and damaru, and the serpent Vasuki at his throat; his consort is Parvati, his vahana the bull Nandi, and he is also worshipped aniconically as the lingam."
+      "description": "The destroyer and transformer of the Trimurti, Shiva is the great ascetic of Mount Kailash whose dissolution makes renewal possible. The Puranas describe him with matted locks bearing the Ganga and crescent moon, a third eye of fire, the trishula and damaru, and the serpent Vasuki at his throat; his consort is Parvati, his vahana the bull Nandi, and he is also worshipped aniconically as the lingam.",
+      "image": "art/shiva.webp"
     },
     {
       "id": "vishnu-reclining-on-shesha",
@@ -51,7 +55,8 @@
       "type": "event",
       "emblem": "serpent",
       "palette": "ocean",
-      "description": "A central Puranic image in which Vishnu, as Narayana, reclines in cosmic slumber (yoga nidra) upon the coils of the thousand-headed serpent Shesha floating on the ocean of milk between cycles of creation. From a lotus rising out of his navel, Brahma is born to begin a new creation, while Lakshmi attends at his feet, depicting the rhythm of dissolution and renewal."
+      "description": "A central Puranic image in which Vishnu, as Narayana, reclines in cosmic slumber (yoga nidra) upon the coils of the thousand-headed serpent Shesha floating on the ocean of milk between cycles of creation. From a lotus rising out of his navel, Brahma is born to begin a new creation, while Lakshmi attends at his feet, depicting the rhythm of dissolution and renewal.",
+      "image": "art/vishnu-reclining-on-shesha.webp"
     },
     {
       "id": "pralaya",
@@ -61,7 +66,8 @@
       "type": "concept",
       "emblem": "fire",
       "palette": "flame",
-      "description": "Pralaya is the periodic dissolution of the cosmos described in the Puranas, when the created worlds are reabsorbed at the close of a cosmic age. Traditions distinguish lesser and greater dissolutions, culminating in the maha-pralaya at the end of Brahma's life, after which all returns to the unmanifest until a new cycle of creation begins."
+      "description": "Pralaya is the periodic dissolution of the cosmos described in the Puranas, when the created worlds are reabsorbed at the close of a cosmic age. Traditions distinguish lesser and greater dissolutions, culminating in the maha-pralaya at the end of Brahma's life, after which all returns to the unmanifest until a new cycle of creation begins.",
+      "image": "art/pralaya.webp"
     },
     {
       "id": "ananta-shesha",
@@ -71,7 +77,8 @@
       "type": "character",
       "emblem": "serpent",
       "palette": "ocean",
-      "description": "The thousand-hooded cosmic serpent on whose coils Vishnu reclines upon the milk-ocean between the cycles of creation. Called Ananta ('the endless') and Shesha ('the remainder'), the Puranas say he upholds the worlds on his hoods, and Balarama and Lakshmana are counted among his earthly incarnations."
+      "description": "The thousand-hooded cosmic serpent on whose coils Vishnu reclines upon the milk-ocean between the cycles of creation. Called Ananta ('the endless') and Shesha ('the remainder'), the Puranas say he upholds the worlds on his hoods, and Balarama and Lakshmana are counted among his earthly incarnations.",
+      "image": "art/ananta-shesha.webp"
     },
     {
       "id": "matsya",
@@ -81,7 +88,8 @@
       "type": "character",
       "emblem": "vessel",
       "palette": "ocean",
-      "description": "The first of the Dashavatara, the great fish who warned King Manu of a world-ending deluge and towed his boat, bearing the seeds of life and the seven sages, to safety. As told in the Matsya and Bhagavata Puranas, Matsya also recovers the stolen Vedas from the demon Hayagriva, restoring sacred knowledge after the flood."
+      "description": "The first of the Dashavatara, the great fish who warned King Manu of a world-ending deluge and towed his boat, bearing the seeds of life and the seven sages, to safety. As told in the Matsya and Bhagavata Puranas, Matsya also recovers the stolen Vedas from the demon Hayagriva, restoring sacred knowledge after the flood.",
+      "image": "art/matsya.webp"
     },
     {
       "id": "kurma",
@@ -91,7 +99,8 @@
       "type": "character",
       "emblem": "mountain",
       "palette": "forest",
-      "description": "The second avatar, the cosmic tortoise who supported Mount Mandara on his back during the churning of the ocean of milk. As described in the Bhagavata and Vishnu Puranas, by bearing the churning-mountain as it threatened to sink, Kurma enabled the devas and asuras to draw forth the amrita, the nectar of immortality."
+      "description": "The second avatar, the cosmic tortoise who supported Mount Mandara on his back during the churning of the ocean of milk. As described in the Bhagavata and Vishnu Puranas, by bearing the churning-mountain as it threatened to sink, Kurma enabled the devas and asuras to draw forth the amrita, the nectar of immortality.",
+      "image": "art/kurma.webp"
     },
     {
       "id": "varaha",
@@ -101,7 +110,8 @@
       "type": "character",
       "emblem": "mountain",
       "palette": "forest",
-      "description": "The third avatar, the mighty boar who dived into the cosmic waters to rescue the earth-goddess Bhudevi, dragged to the depths by the demon Hiranyaksha. As the Bhagavata Purana relates, after a long underwater duel Varaha slew the asura and raised the earth upon his tusks back to its place."
+      "description": "The third avatar, the mighty boar who dived into the cosmic waters to rescue the earth-goddess Bhudevi, dragged to the depths by the demon Hiranyaksha. As the Bhagavata Purana relates, after a long underwater duel Varaha slew the asura and raised the earth upon his tusks back to its place.",
+      "image": "art/varaha.webp"
     },
     {
       "id": "narasimha",
@@ -111,7 +121,8 @@
       "type": "character",
       "emblem": "fire",
       "palette": "flame",
-      "description": "The fierce fourth avatar, half-man and half-lion, who burst from a pillar to protect the devotee Prahlada and destroy his tyrant father Hiranyakashipu. Bound by a boon making the demon nigh-invincible, Narasimha slew him at dusk on a threshold, neither man nor beast, neither day nor night, with claws rather than weapon, satisfying every clause of the boon."
+      "description": "The fierce fourth avatar, half-man and half-lion, who burst from a pillar to protect the devotee Prahlada and destroy his tyrant father Hiranyakashipu. Bound by a boon making the demon nigh-invincible, Narasimha slew him at dusk on a threshold, neither man nor beast, neither day nor night, with claws rather than weapon, satisfying every clause of the boon.",
+      "image": "art/narasimha.webp"
     },
     {
       "id": "vamana",
@@ -121,7 +132,8 @@
       "type": "character",
       "emblem": "lotus",
       "palette": "dawn",
-      "description": "The fifth avatar, the dwarf brahmin who approached the generous asura king Bali and asked only for the land he could cover in three steps. Growing into the cosmic Trivikrama, Vamana measured earth and sky in two strides and, for the third, placed his foot on Bali's head, sending him to rule the netherworld of Patala."
+      "description": "The fifth avatar, the dwarf brahmin who approached the generous asura king Bali and asked only for the land he could cover in three steps. Growing into the cosmic Trivikrama, Vamana measured earth and sky in two strides and, for the third, placed his foot on Bali's head, sending him to rule the netherworld of Patala.",
+      "image": "art/vamana.webp"
     },
     {
       "id": "parashurama",
@@ -131,7 +143,8 @@
       "type": "character",
       "emblem": "sword",
       "palette": "forest",
-      "description": "The sixth avatar, the brahmin-warrior son of sage Jamadagni and Renuka, who bore the axe (parashu) gifted by Shiva. According to the Puranas he avenged his father's death and rid the earth of corrupt kshatriya tyrants; counted among the chiranjivi, he is said to remain immortal."
+      "description": "The sixth avatar, the brahmin-warrior son of sage Jamadagni and Renuka, who bore the axe (parashu) gifted by Shiva. According to the Puranas he avenged his father's death and rid the earth of corrupt kshatriya tyrants; counted among the chiranjivi, he is said to remain immortal.",
+      "image": "art/parashurama.webp"
     },
     {
       "id": "rama",
@@ -141,7 +154,8 @@
       "type": "character",
       "emblem": "bow",
       "palette": "royal",
-      "description": "The seventh avatar and hero of Valmiki's Ramayana, prince of Ayodhya exiled to the forest, whose wife Sita was abducted by the demon-king Ravana of Lanka. Wielding the bow Kodanda and aided by Hanuman and the vanara army, Rama is revered as Maryada Purushottama, the perfect embodiment of dharma."
+      "description": "The seventh avatar and hero of Valmiki's Ramayana, prince of Ayodhya exiled to the forest, whose wife Sita was abducted by the demon-king Ravana of Lanka. Wielding the bow Kodanda and aided by Hanuman and the vanara army, Rama is revered as Maryada Purushottama, the perfect embodiment of dharma.",
+      "image": "art/rama.webp"
     },
     {
       "id": "krishna",
@@ -151,7 +165,8 @@
       "type": "character",
       "emblem": "flute",
       "palette": "dusk",
-      "description": "The eighth avatar, born in Mathura to Devaki and Vasudeva and raised among cowherds in Gokula and Vrindavan, where his childhood lila and flute enchanted the gopis. The Bhagavata Purana recounts his slaying of the tyrant Kamsa and his lifting of Mount Govardhan to shelter the people from Indra's storm."
+      "description": "The eighth avatar, born in Mathura to Devaki and Vasudeva and raised among cowherds in Gokula and Vrindavan, where his childhood lila and flute enchanted the gopis. The Bhagavata Purana recounts his slaying of the tyrant Kamsa and his lifting of Mount Govardhan to shelter the people from Indra's storm.",
+      "image": "art/krishna.webp"
     },
     {
       "id": "balarama",
@@ -161,7 +176,8 @@
       "type": "character",
       "emblem": "mace",
       "palette": "forest",
-      "description": "The elder brother of Krishna and, in many lists, the eighth avatar of Vishnu, regarded as an incarnation of the serpent Shesha. The Bhagavata Purana describes him as a mighty figure of fair complexion bearing the plough (hala) and mace (gada), strong in righteousness and devoted protector of the cowherd community of Vrindavan."
+      "description": "The elder brother of Krishna and, in many lists, the eighth avatar of Vishnu, regarded as an incarnation of the serpent Shesha. The Bhagavata Purana describes him as a mighty figure of fair complexion bearing the plough (hala) and mace (gada), strong in righteousness and devoted protector of the cowherd community of Vrindavan.",
+      "image": "art/balarama.webp"
     },
     {
       "id": "kalki",
@@ -171,7 +187,8 @@
       "type": "character",
       "emblem": "horse",
       "palette": "flame",
-      "description": "The tenth and future avatar, prophesied in the Puranas to appear at the end of Kali Yuga riding a white horse and wielding a blazing sword. He is said to come to destroy the wicked, end the present age of darkness, and usher in the renewal of dharma and a new Satya Yuga."
+      "description": "The tenth and future avatar, prophesied in the Puranas to appear at the end of Kali Yuga riding a white horse and wielding a blazing sword. He is said to come to destroy the wicked, end the present age of darkness, and usher in the renewal of dharma and a new Satya Yuga.",
+      "image": "art/kalki.webp"
     },
     {
       "id": "the-dashavatara",
@@ -181,7 +198,8 @@
       "type": "concept",
       "emblem": "chakra",
       "palette": "ocean",
-      "description": "The Dashavatara are the ten principal incarnations through which Vishnu descends to restore dharma when cosmic order falters, as enumerated in the Puranas. The classical sequence runs from Matsya, Kurma, Varaha, and Narasimha through Vamana, Parashurama, Rama, and Krishna to Buddha and the future Kalki, tracing a cosmic progression from the waters to the perfected human."
+      "description": "The Dashavatara are the ten principal incarnations through which Vishnu descends to restore dharma when cosmic order falters, as enumerated in the Puranas. The classical sequence runs from Matsya, Kurma, Varaha, and Narasimha through Vamana, Parashurama, Rama, and Krishna to Buddha and the future Kalki, tracing a cosmic progression from the waters to the perfected human.",
+      "image": "art/the-dashavatara.webp"
     },
     {
       "id": "vaikuntha",
@@ -191,7 +209,8 @@
       "type": "place",
       "emblem": "lotus",
       "palette": "ocean",
-      "description": "The supreme celestial abode of Vishnu described in the Puranas as a realm of eternal bliss beyond the material worlds, untouched by sorrow or decay. There Vishnu reclines on Ananta Shesha upon the cosmic ocean of milk, attended by Lakshmi and the gatekeepers Jaya and Vijaya, and liberated souls are said to dwell eternally in his grace."
+      "description": "The supreme celestial abode of Vishnu described in the Puranas as a realm of eternal bliss beyond the material worlds, untouched by sorrow or decay. There Vishnu reclines on Ananta Shesha upon the cosmic ocean of milk, attended by Lakshmi and the gatekeepers Jaya and Vijaya, and liberated souls are said to dwell eternally in his grace.",
+      "image": "art/vaikuntha.webp"
     },
     {
       "id": "parvati",
@@ -201,7 +220,8 @@
       "type": "character",
       "emblem": "mountain",
       "palette": "dawn",
-      "description": "The consort of Shiva and a form of the Great Goddess, Parvati is the daughter of Himavan, lord of the Himalayas, and the reborn soul of Sati. The Puranas relate how she won Shiva through years of severe tapas; as the gentle Gauri she is mother of Ganesha and Kartikeya, uniting the ascetic and householder ideals, and her fierce forms include Durga and Kali."
+      "description": "The consort of Shiva and a form of the Great Goddess, Parvati is the daughter of Himavan, lord of the Himalayas, and the reborn soul of Sati. The Puranas relate how she won Shiva through years of severe tapas; as the gentle Gauri she is mother of Ganesha and Kartikeya, uniting the ascetic and householder ideals, and her fierce forms include Durga and Kali.",
+      "image": "art/parvati.webp"
     },
     {
       "id": "ganesha",
@@ -211,7 +231,8 @@
       "type": "character",
       "emblem": "elephant",
       "palette": "dawn",
-      "description": "The elephant-headed son of Shiva and Parvati, Ganesha is the lord of beginnings and remover of obstacles (Vighnaharta), invoked before all undertakings. The Puranas relate that Shiva beheaded the boy guarding Parvati's door and restored him with an elephant's head; he rides a mouse, holds a broken tusk and noose, and is the patron of letters who scribed the Mahabharata."
+      "description": "The elephant-headed son of Shiva and Parvati, Ganesha is the lord of beginnings and remover of obstacles (Vighnaharta), invoked before all undertakings. The Puranas relate that Shiva beheaded the boy guarding Parvati's door and restored him with an elephant's head; he rides a mouse, holds a broken tusk and noose, and is the patron of letters who scribed the Mahabharata.",
+      "image": "art/ganesha.webp"
     },
     {
       "id": "kartikeya",
@@ -221,7 +242,8 @@
       "type": "character",
       "emblem": "spear",
       "palette": "flame",
-      "description": "Also called Skanda, Murugan, and Subrahmanya, the six-faced son of Shiva is the war-god and commander of the deva armies. Born of Shiva's fire and nurtured by the six Krittika nymphs, he was raised to slay the asura Tarakasura; he wields the spear Vel and rides the peacock Paravani, and is especially revered in South India."
+      "description": "Also called Skanda, Murugan, and Subrahmanya, the six-faced son of Shiva is the war-god and commander of the deva armies. Born of Shiva's fire and nurtured by the six Krittika nymphs, he was raised to slay the asura Tarakasura; he wields the spear Vel and rides the peacock Paravani, and is especially revered in South India.",
+      "image": "art/kartikeya.webp"
     },
     {
       "id": "nataraja",
@@ -231,7 +253,8 @@
       "type": "concept",
       "emblem": "fire",
       "palette": "flame",
-      "description": "Nataraja is the iconic form of Shiva as the cosmic dancer who, through the Ananda Tandava, sets in motion the creation, preservation, and dissolution of the universe. Surrounded by a ring of flames, he holds the damaru and fire, treads the dwarf of ignorance Apasmara underfoot, and raises a hand in the gesture of fearlessness; the form is celebrated at Chidambaram."
+      "description": "Nataraja is the iconic form of Shiva as the cosmic dancer who, through the Ananda Tandava, sets in motion the creation, preservation, and dissolution of the universe. Surrounded by a ring of flames, he holds the damaru and fire, treads the dwarf of ignorance Apasmara underfoot, and raises a hand in the gesture of fearlessness; the form is celebrated at Chidambaram.",
+      "image": "art/nataraja.webp"
     },
     {
       "id": "ardhanarishvara",
@@ -241,7 +264,8 @@
       "type": "concept",
       "emblem": "trident",
       "palette": "dusk",
-      "description": "Ardhanarishvara is the composite form of Shiva and Parvati fused into a single body split down the centre, male on the right and female on the left. Described in the Puranas and Shaiva texts, it expresses the inseparability of Purusha and Prakriti, the union of consciousness and energy from which all creation proceeds."
+      "description": "Ardhanarishvara is the composite form of Shiva and Parvati fused into a single body split down the centre, male on the right and female on the left. Described in the Puranas and Shaiva texts, it expresses the inseparability of Purusha and Prakriti, the union of consciousness and energy from which all creation proceeds.",
+      "image": "art/ardhanarishvara.webp"
     },
     {
       "id": "the-shiva-lingam",
@@ -251,7 +275,8 @@
       "type": "artifact",
       "emblem": "fire",
       "palette": "dusk",
-      "description": "The Lingam, set within the yoni-base, is the principal aniconic symbol of Shiva, representing the formless absolute and the union of the cosmic masculine and feminine principles. The Lingodbhava myth tells how Shiva appeared as an infinite pillar of light whose ends neither Brahma nor Vishnu could find; the twelve Jyotirlingas are its most sacred shrines."
+      "description": "The Lingam, set within the yoni-base, is the principal aniconic symbol of Shiva, representing the formless absolute and the union of the cosmic masculine and feminine principles. The Lingodbhava myth tells how Shiva appeared as an infinite pillar of light whose ends neither Brahma nor Vishnu could find; the twelve Jyotirlingas are its most sacred shrines.",
+      "image": "art/the-shiva-lingam.webp"
     },
     {
       "id": "mount-kailash",
@@ -261,7 +286,8 @@
       "type": "place",
       "emblem": "mountain",
       "palette": "dusk",
-      "description": "Mount Kailash in the Himalayas is the eternal dwelling of Shiva and Parvati, revered across the Puranas as the still axis of the cosmos where the great ascetic sits in meditation amid snow and ash. Closely associated with nearby Lake Manasarovar, it is held holy not only in Hindu tradition but also by Jains, Buddhists, and Bon practitioners."
+      "description": "Mount Kailash in the Himalayas is the eternal dwelling of Shiva and Parvati, revered across the Puranas as the still axis of the cosmos where the great ascetic sits in meditation amid snow and ash. Closely associated with nearby Lake Manasarovar, it is held holy not only in Hindu tradition but also by Jains, Buddhists, and Bon practitioners.",
+      "image": "art/mount-kailash.webp"
     },
     {
       "id": "tripurantaka",
@@ -271,7 +297,8 @@
       "type": "event",
       "emblem": "bow",
       "palette": "flame",
-      "description": "Tripurantaka is the form Shiva took to destroy Tripura, the three flying cities of the asuras built of gold, silver, and iron by the architect Maya. As recounted in the Puranas, riding a chariot of the earth with Mount Meru as his bow, Shiva loosed a single arrow to burn all three cities the instant they aligned."
+      "description": "Tripurantaka is the form Shiva took to destroy Tripura, the three flying cities of the asuras built of gold, silver, and iron by the architect Maya. As recounted in the Puranas, riding a chariot of the earth with Mount Meru as his bow, Shiva loosed a single arrow to burn all three cities the instant they aligned.",
+      "image": "art/tripurantaka.webp"
     },
     {
       "id": "the-burning-of-kamadeva",
@@ -281,7 +308,8 @@
       "type": "event",
       "emblem": "fire",
       "palette": "flame",
-      "description": "According to the Puranas, the gods sent Kamadeva, the deity of love, to rouse the meditating Shiva toward Parvati so a son could be born to defeat the demon Taraka. When Kama loosed his flower-arrow, Shiva opened his third eye and burned him to ashes; at the plea of Kama's wife Rati, Shiva later revived him as Ananga, the bodiless one."
+      "description": "According to the Puranas, the gods sent Kamadeva, the deity of love, to rouse the meditating Shiva toward Parvati so a son could be born to defeat the demon Taraka. When Kama loosed his flower-arrow, Shiva opened his third eye and burned him to ashes; at the plea of Kama's wife Rati, Shiva later revived him as Ananga, the bodiless one.",
+      "image": "art/the-burning-of-kamadeva.webp"
     },
     {
       "id": "shakti",
@@ -291,7 +319,8 @@
       "type": "concept",
       "emblem": "trident",
       "palette": "flame",
-      "description": "Shakti is the dynamic feminine energy through which the universe is created, sustained, and dissolved, conceived as inseparable from the static masculine Shiva. The Shaktism tradition, drawing on texts such as the Devi Mahatmya and the Devi Bhagavata Purana, venerates her as the supreme reality, the Adi Parashakti from whom all goddesses emanate."
+      "description": "Shakti is the dynamic feminine energy through which the universe is created, sustained, and dissolved, conceived as inseparable from the static masculine Shiva. The Shaktism tradition, drawing on texts such as the Devi Mahatmya and the Devi Bhagavata Purana, venerates her as the supreme reality, the Adi Parashakti from whom all goddesses emanate.",
+      "image": "art/shakti.webp"
     },
     {
       "id": "durga",
@@ -301,7 +330,8 @@
       "type": "character",
       "emblem": "trident",
       "palette": "flame",
-      "description": "Durga is the fierce protective form of the Great Goddess, born from the combined radiance of the devas to vanquish demons the gods themselves could not defeat. Iconography from the Devi Mahatmya depicts her with many arms bearing weapons gifted by the gods, riding a lion or tiger, serene yet unconquerable in battle."
+      "description": "Durga is the fierce protective form of the Great Goddess, born from the combined radiance of the devas to vanquish demons the gods themselves could not defeat. Iconography from the Devi Mahatmya depicts her with many arms bearing weapons gifted by the gods, riding a lion or tiger, serene yet unconquerable in battle.",
+      "image": "art/durga.webp"
     },
     {
       "id": "durga-slays-mahishasura",
@@ -311,7 +341,8 @@
       "type": "event",
       "emblem": "trident",
       "palette": "flame",
-      "description": "The Devi Mahatmya recounts how the buffalo-demon Mahishasura, granted near-invincibility against all male foes, terrorized the three worlds until the gods' combined energies coalesced into the warrior goddess Durga. Riding her lion and bearing weapons from every deity, she battled the shape-shifting demon and pierced him with her trident, earning the name Mahishasuramardini, celebrated during Navaratri."
+      "description": "The Devi Mahatmya recounts how the buffalo-demon Mahishasura, granted near-invincibility against all male foes, terrorized the three worlds until the gods' combined energies coalesced into the warrior goddess Durga. Riding her lion and bearing weapons from every deity, she battled the shape-shifting demon and pierced him with her trident, earning the name Mahishasuramardini, celebrated during Navaratri.",
+      "image": "art/durga-slays-mahishasura.webp"
     },
     {
       "id": "kali",
@@ -321,7 +352,8 @@
       "type": "character",
       "emblem": "sword",
       "palette": "dusk",
-      "description": "Kali is the fierce goddess of time, destruction, and liberation, who emerged from Durga's brow in the battle against the demons Chanda and Munda. Depicted dark-complexioned with a garland of severed heads and a girdle of arms, tongue outstretched, she is shown standing upon the prostrate Shiva, embodying the dissolution that precedes renewal."
+      "description": "Kali is the fierce goddess of time, destruction, and liberation, who emerged from Durga's brow in the battle against the demons Chanda and Munda. Depicted dark-complexioned with a garland of severed heads and a girdle of arms, tongue outstretched, she is shown standing upon the prostrate Shiva, embodying the dissolution that precedes renewal.",
+      "image": "art/kali.webp"
     },
     {
       "id": "sati",
@@ -331,7 +363,8 @@
       "type": "character",
       "emblem": "fire",
       "palette": "flame",
-      "description": "Sati, daughter of Daksha, married Shiva against her father's wishes and cast herself into the sacrificial fire when Daksha insulted her husband. Grief-stricken Shiva carried her body across the cosmos, and where her scattered limbs fell, the Shakti Pithas arose as sacred sites of pilgrimage, according to the Puranas; she was later reborn as Parvati."
+      "description": "Sati, daughter of Daksha, married Shiva against her father's wishes and cast herself into the sacrificial fire when Daksha insulted her husband. Grief-stricken Shiva carried her body across the cosmos, and where her scattered limbs fell, the Shakti Pithas arose as sacred sites of pilgrimage, according to the Puranas; she was later reborn as Parvati.",
+      "image": "art/sati.webp"
     },
     {
       "id": "lakshmi",
@@ -341,7 +374,8 @@
       "type": "character",
       "emblem": "lotus",
       "palette": "dawn",
-      "description": "Lakshmi is the goddess of wealth, prosperity, and auspiciousness, consort of Vishnu and emergent from the churning of the cosmic ocean. Seated upon a lotus, flanked by elephants and showering gold coins, she accompanies Vishnu in his avatars as Sita and Rukmini and is honored above all during Diwali."
+      "description": "Lakshmi is the goddess of wealth, prosperity, and auspiciousness, consort of Vishnu and emergent from the churning of the cosmic ocean. Seated upon a lotus, flanked by elephants and showering gold coins, she accompanies Vishnu in his avatars as Sita and Rukmini and is honored above all during Diwali.",
+      "image": "art/lakshmi.webp"
     },
     {
       "id": "saraswati",
@@ -351,7 +385,8 @@
       "type": "character",
       "emblem": "flute",
       "palette": "dawn",
-      "description": "Saraswati is the goddess of knowledge, music, speech, and the arts, praised in the Rigveda as a sacred river and later as the consort of Brahma. White-robed and seated on a lotus or swan, she holds the veena, a manuscript, and a rosary, embodying the harmony of learning and creative wisdom."
+      "description": "Saraswati is the goddess of knowledge, music, speech, and the arts, praised in the Rigveda as a sacred river and later as the consort of Brahma. White-robed and seated on a lotus or swan, she holds the veena, a manuscript, and a rosary, embodying the harmony of learning and creative wisdom.",
+      "image": "art/saraswati.webp"
     },
     {
       "id": "sita",
@@ -361,7 +396,8 @@
       "type": "character",
       "emblem": "lotus",
       "palette": "dawn",
-      "description": "Born from a furrow of the earth and raised by King Janaka of Mithila, Sita is honored as an incarnation of Lakshmi and the embodiment of devotion and constancy. Won by Rama when he lifted and strung Shiva's mighty bow, she follows him into exile, is abducted by Ravana, and in the Ramayana finally returns to the goddess Earth who is her mother."
+      "description": "Born from a furrow of the earth and raised by King Janaka of Mithila, Sita is honored as an incarnation of Lakshmi and the embodiment of devotion and constancy. Won by Rama when he lifted and strung Shiva's mighty bow, she follows him into exile, is abducted by Ravana, and in the Ramayana finally returns to the goddess Earth who is her mother.",
+      "image": "art/sita.webp"
     },
     {
       "id": "hanuman",
@@ -371,7 +407,8 @@
       "type": "character",
       "emblem": "mace",
       "palette": "flame",
-      "description": "Son of the wind-god Vayu and a vanara of immense strength, Hanuman is the supreme devotee of Rama and the central figure of the Ramayana's Sundara Kanda. He leaps across the ocean to Lanka to find Sita, bears the Sanjivani mountain of healing herbs to revive Lakshmana, and is venerated as a chiranjivi and the giver of strength and courage."
+      "description": "Son of the wind-god Vayu and a vanara of immense strength, Hanuman is the supreme devotee of Rama and the central figure of the Ramayana's Sundara Kanda. He leaps across the ocean to Lanka to find Sita, bears the Sanjivani mountain of healing herbs to revive Lakshmana, and is venerated as a chiranjivi and the giver of strength and courage.",
+      "image": "art/hanuman.webp"
     },
     {
       "id": "ravana",
@@ -381,7 +418,8 @@
       "type": "character",
       "emblem": "crown",
       "palette": "dusk",
-      "description": "The ten-headed rakshasa king of Lanka, son of the sage Vishrava and grandson of Brahma, Ravana was a mighty scholar and devotee of Shiva who won near-invincibility through severe austerities. In the Ramayana his abduction of Sita brings about his fall, for the boon he sought left him vulnerable to a man, and he is slain by Rama."
+      "description": "The ten-headed rakshasa king of Lanka, son of the sage Vishrava and grandson of Brahma, Ravana was a mighty scholar and devotee of Shiva who won near-invincibility through severe austerities. In the Ramayana his abduction of Sita brings about his fall, for the boon he sought left him vulnerable to a man, and he is slain by Rama.",
+      "image": "art/ravana.webp"
     },
     {
       "id": "lakshmana",
@@ -391,7 +429,8 @@
       "type": "character",
       "emblem": "bow",
       "palette": "forest",
-      "description": "Son of Dasharatha and Queen Sumitra and twin of Shatrughna, Lakshmana is Rama's inseparable companion who renounces home to share the forest exile and serve his brother and Sita. He is held to be a portion of Shesha, the cosmic serpent; in the Ramayana he is felled by Indrajit's weapon and revived by the Sanjivani herb Hanuman brings."
+      "description": "Son of Dasharatha and Queen Sumitra and twin of Shatrughna, Lakshmana is Rama's inseparable companion who renounces home to share the forest exile and serve his brother and Sita. He is held to be a portion of Shesha, the cosmic serpent; in the Ramayana he is felled by Indrajit's weapon and revived by the Sanjivani herb Hanuman brings.",
+      "image": "art/lakshmana.webp"
     },
     {
       "id": "jatayu",
@@ -401,7 +440,8 @@
       "type": "character",
       "emblem": "garuda",
       "palette": "dusk",
-      "description": "The noble vulture king, a friend of King Dasharatha, who confronts Ravana as he carries off the abducted Sita through the sky. Mortally wounded when Ravana severs his wings, Jatayu survives long enough to tell Rama the direction of Sita's captivity, and in the Ramayana Rama performs his funeral rites with the love owed to a father."
+      "description": "The noble vulture king, a friend of King Dasharatha, who confronts Ravana as he carries off the abducted Sita through the sky. Mortally wounded when Ravana severs his wings, Jatayu survives long enough to tell Rama the direction of Sita's captivity, and in the Ramayana Rama performs his funeral rites with the love owed to a father.",
+      "image": "art/jatayu.webp"
     },
     {
       "id": "rama-setu",
@@ -411,7 +451,8 @@
       "type": "event",
       "emblem": "river",
       "palette": "ocean",
-      "description": "In the Yuddha Kanda of the Ramayana, the vanara army builds a great causeway across the sea to Lanka so Rama's forces can cross to rescue Sita. The architect Nala directs the work, and floating stones inscribed with Rama's name form the bridge known as Rama Setu, after the ocean-god Varuna grants safe passage."
+      "description": "In the Yuddha Kanda of the Ramayana, the vanara army builds a great causeway across the sea to Lanka so Rama's forces can cross to rescue Sita. The architect Nala directs the work, and floating stones inscribed with Rama's name form the bridge known as Rama Setu, after the ocean-god Varuna grants safe passage.",
+      "image": "art/rama-setu.webp"
     },
     {
       "id": "valmiki",
@@ -421,7 +462,8 @@
       "type": "character",
       "emblem": "scroll",
       "palette": "forest",
-      "description": "Revered as the adi-kavi, the first poet, the sage Valmiki composed the Ramayana, whose verse form is said to have arisen as a curse-born lament when a hunter slew a mating crane. In the Uttara Kanda he shelters the exiled Sita in his hermitage and teaches the epic to her twin sons, Lava and Kusha."
+      "description": "Revered as the adi-kavi, the first poet, the sage Valmiki composed the Ramayana, whose verse form is said to have arisen as a curse-born lament when a hunter slew a mating crane. In the Uttara Kanda he shelters the exiled Sita in his hermitage and teaches the epic to her twin sons, Lava and Kusha.",
+      "image": "art/valmiki.webp"
     },
     {
       "id": "vibhishana",
@@ -431,7 +473,8 @@
       "type": "character",
       "emblem": "crown",
       "palette": "ocean",
-      "description": "The virtuous younger brother of Ravana who counsels him to return Sita and uphold dharma; spurned and banished, he crosses over to Rama's side. In the Ramayana, after Ravana's death Rama consecrates Vibhishana as the new king of Lanka, and he is counted among the chiranjivis, the long-lived ones."
+      "description": "The virtuous younger brother of Ravana who counsels him to return Sita and uphold dharma; spurned and banished, he crosses over to Rama's side. In the Ramayana, after Ravana's death Rama consecrates Vibhishana as the new king of Lanka, and he is counted among the chiranjivis, the long-lived ones.",
+      "image": "art/vibhishana.webp"
     },
     {
       "id": "kumbhakarna",
@@ -441,7 +484,8 @@
       "type": "character",
       "emblem": "mace",
       "palette": "dusk",
-      "description": "The colossal rakshasa brother of Ravana whose request to Brahma was garbled by Saraswati, so that he was condemned to sleep for six months at a stretch. Roused to fight in the war of the Ramayana, he devours warriors on the battlefield before being slain by Rama, dying loyal to his brother despite having warned him against the abduction."
+      "description": "The colossal rakshasa brother of Ravana whose request to Brahma was garbled by Saraswati, so that he was condemned to sleep for six months at a stretch. Roused to fight in the war of the Ramayana, he devours warriors on the battlefield before being slain by Rama, dying loyal to his brother despite having warned him against the abduction.",
+      "image": "art/kumbhakarna.webp"
     },
     {
       "id": "indra",
@@ -451,7 +495,8 @@
       "type": "character",
       "emblem": "trident",
       "palette": "royal",
-      "description": "The foremost deity of the Rigveda and ruler of Svarga, Indra wields the thunderbolt Vajra forged from the bones of the sage Dadhichi and rides the white elephant Airavata. His central myth is the slaying of the drought-serpent Vritra to release the imprisoned waters; in the Puranas his pride is humbled by Krishna at Govardhan."
+      "description": "The foremost deity of the Rigveda and ruler of Svarga, Indra wields the thunderbolt Vajra forged from the bones of the sage Dadhichi and rides the white elephant Airavata. His central myth is the slaying of the drought-serpent Vritra to release the imprisoned waters; in the Puranas his pride is humbled by Krishna at Govardhan.",
+      "image": "art/indra.webp"
     },
     {
       "id": "agni",
@@ -461,7 +506,8 @@
       "type": "character",
       "emblem": "fire",
       "palette": "flame",
-      "description": "Among the most invoked deities of the Rigveda, Agni is the fire of the yajna who carries oblations to the gods, making him the priest and messenger between mortals and the heavens. Depicted with two faces, seven tongues of flame, and riding a ram, he is born anew from the kindling sticks and is named the mouth of the gods."
+      "description": "Among the most invoked deities of the Rigveda, Agni is the fire of the yajna who carries oblations to the gods, making him the priest and messenger between mortals and the heavens. Depicted with two faces, seven tongues of flame, and riding a ram, he is born anew from the kindling sticks and is named the mouth of the gods.",
+      "image": "art/agni.webp"
     },
     {
       "id": "varuna",
@@ -471,7 +517,8 @@
       "type": "character",
       "emblem": "vessel",
       "palette": "ocean",
-      "description": "An exalted Vedic Aditya who upholds Rita, the cosmic and moral order, Varuna binds wrongdoers with his noose and watches all deeds with a thousand eyes. In later texts he becomes the lord of the waters and oceans, presiding over the western direction and riding the sea-creature Makara."
+      "description": "An exalted Vedic Aditya who upholds Rita, the cosmic and moral order, Varuna binds wrongdoers with his noose and watches all deeds with a thousand eyes. In later texts he becomes the lord of the waters and oceans, presiding over the western direction and riding the sea-creature Makara.",
+      "image": "art/varuna.webp"
     },
     {
       "id": "surya",
@@ -481,7 +528,8 @@
       "type": "character",
       "emblem": "sun",
       "palette": "dawn",
-      "description": "The visible solar deity of the Vedas, Surya crosses the sky in a chariot drawn by seven horses driven by the dawn-charioteer Aruna. Father of Yama, Yami, and the Ashvins, he is honored in the Gayatri mantra addressed to Savitr, and his radiance was famously pared down by Vishvakarma to fashion divine weapons."
+      "description": "The visible solar deity of the Vedas, Surya crosses the sky in a chariot drawn by seven horses driven by the dawn-charioteer Aruna. Father of Yama, Yami, and the Ashvins, he is honored in the Gayatri mantra addressed to Savitr, and his radiance was famously pared down by Vishvakarma to fashion divine weapons.",
+      "image": "art/surya.webp"
     },
     {
       "id": "yama",
@@ -491,7 +539,8 @@
       "type": "character",
       "emblem": "mace",
       "palette": "dusk",
-      "description": "Son of Surya and the first mortal to die, Yama became the king of the dead and the impartial judge of departed souls, recording deeds with his scribe Chitragupta. Wielding a noose and mace, mounted on a buffalo, he is also Dharmaraja, lord of righteousness, and presides over the southern direction."
+      "description": "Son of Surya and the first mortal to die, Yama became the king of the dead and the impartial judge of departed souls, recording deeds with his scribe Chitragupta. Wielding a noose and mace, mounted on a buffalo, he is also Dharmaraja, lord of righteousness, and presides over the southern direction.",
+      "image": "art/yama.webp"
     },
     {
       "id": "kubera",
@@ -501,7 +550,8 @@
       "type": "character",
       "emblem": "vessel",
       "palette": "royal",
-      "description": "Lord of riches and treasurer of the gods, Kubera rules the yakshas and guards the wealth of the earth from his city Alaka in the Himalayas near Mount Kailasa. Often shown plump and seated with a money-pot, he is a half-brother of Ravana and the original owner of the flying chariot Pushpaka, and he guards the northern direction."
+      "description": "Lord of riches and treasurer of the gods, Kubera rules the yakshas and guards the wealth of the earth from his city Alaka in the Himalayas near Mount Kailasa. Often shown plump and seated with a money-pot, he is a half-brother of Ravana and the original owner of the flying chariot Pushpaka, and he guards the northern direction.",
+      "image": "art/kubera.webp"
     },
     {
       "id": "chandra",
@@ -511,7 +561,8 @@
       "type": "character",
       "emblem": "moon",
       "palette": "dusk",
-      "description": "The moon god, identified with Soma the sacred draught of immortality, Chandra rides a chariot drawn by antelopes across the night sky. The Puranas tell that he wed the twenty-seven daughters of Daksha, the lunar mansions, and was cursed to wane for neglecting all but Rohini, explaining the moon's monthly cycle of waxing and waning."
+      "description": "The moon god, identified with Soma the sacred draught of immortality, Chandra rides a chariot drawn by antelopes across the night sky. The Puranas tell that he wed the twenty-seven daughters of Daksha, the lunar mansions, and was cursed to wane for neglecting all but Rohini, explaining the moon's monthly cycle of waxing and waning.",
+      "image": "art/chandra.webp"
     },
     {
       "id": "the-navagraha",
@@ -521,7 +572,8 @@
       "type": "concept",
       "emblem": "star",
       "palette": "dusk",
-      "description": "The nine planetary deities of Hindu cosmology and astrology comprise Surya, Chandra, Mangala, Budha, Brihaspati, Shukra, Shani, and the shadow-grahas Rahu and Ketu. Each governs days, destinies, and karmic fortune, and they are propitiated together in temples to ward off misfortune."
+      "description": "The nine planetary deities of Hindu cosmology and astrology comprise Surya, Chandra, Mangala, Budha, Brihaspati, Shukra, Shani, and the shadow-grahas Rahu and Ketu. Each governs days, destinies, and karmic fortune, and they are propitiated together in temples to ward off misfortune.",
+      "image": "art/the-navagraha.webp"
     },
     {
       "id": "hiranyakashipu",
@@ -531,7 +583,8 @@
       "type": "character",
       "emblem": "throne",
       "palette": "flame",
-      "description": "According to the Bhagavata Purana, this Daitya king won from Brahma a boon that he could not be slain by man or beast, indoors or out, by day or night, on earth or in sky. Enraged that his son Prahlada worshipped Vishnu, he was destroyed by the Narasimha avatar, who circumvented every clause of the boon."
+      "description": "According to the Bhagavata Purana, this Daitya king won from Brahma a boon that he could not be slain by man or beast, indoors or out, by day or night, on earth or in sky. Enraged that his son Prahlada worshipped Vishnu, he was destroyed by the Narasimha avatar, who circumvented every clause of the boon.",
+      "image": "art/hiranyakashipu.webp"
     },
     {
       "id": "hiranyaksha",
@@ -541,7 +594,8 @@
       "type": "character",
       "emblem": "serpent",
       "palette": "dusk",
-      "description": "Elder brother of Hiranyakashipu and a mighty Daitya, the Bhagavata Purana tells that he dragged the earth-goddess Bhumi down into the cosmic ocean. Vishnu descended as the boar Varaha to lift the earth on his tusks and slew Hiranyaksha after a thousand-year duel beneath the waters."
+      "description": "Elder brother of Hiranyakashipu and a mighty Daitya, the Bhagavata Purana tells that he dragged the earth-goddess Bhumi down into the cosmic ocean. Vishnu descended as the boar Varaha to lift the earth on his tusks and slew Hiranyaksha after a thousand-year duel beneath the waters.",
+      "image": "art/hiranyaksha.webp"
     },
     {
       "id": "mahishasura",
@@ -551,7 +605,8 @@
       "type": "character",
       "emblem": "trident",
       "palette": "flame",
-      "description": "A shape-shifting buffalo-headed asura who, per the Devi Mahatmya, gained a boon that no man or god could kill him and conquered the heavens. The goddess Durga, formed from the combined energies of the devas, battled him for nine days and pierced him with her trident, earning the name Mahishasuramardini."
+      "description": "A shape-shifting buffalo-headed asura who, per the Devi Mahatmya, gained a boon that no man or god could kill him and conquered the heavens. The goddess Durga, formed from the combined energies of the devas, battled him for nine days and pierced him with her trident, earning the name Mahishasuramardini.",
+      "image": "art/mahishasura.webp"
     },
     {
       "id": "bali",
@@ -561,7 +616,8 @@
       "type": "character",
       "emblem": "crown",
       "palette": "dawn",
-      "description": "A righteous and generous Daitya king, grandson of Prahlada, who conquered the three worlds through devotion and sacrifice. In the Bhagavata Purana, Vishnu came as the dwarf Vamana and begged three paces of land; covering all creation in two steps, he pressed Bali to the netherworld Patala, granting him lordship there for his unbroken honesty."
+      "description": "A righteous and generous Daitya king, grandson of Prahlada, who conquered the three worlds through devotion and sacrifice. In the Bhagavata Purana, Vishnu came as the dwarf Vamana and begged three paces of land; covering all creation in two steps, he pressed Bali to the netherworld Patala, granting him lordship there for his unbroken honesty.",
+      "image": "art/bali.webp"
     },
     {
       "id": "raktabija",
@@ -571,7 +627,8 @@
       "type": "character",
       "emblem": "sword",
       "palette": "flame",
-      "description": "A general of Mahishasura's host whose boon, in the Devi Mahatmya, caused a new clone to spring up wherever a drop of his blood touched the ground. To defeat him the fierce goddess Kali extended her tongue to drink every drop before it fell, draining him until he could no longer regenerate."
+      "description": "A general of Mahishasura's host whose boon, in the Devi Mahatmya, caused a new clone to spring up wherever a drop of his blood touched the ground. To defeat him the fierce goddess Kali extended her tongue to drink every drop before it fell, draining him until he could no longer regenerate.",
+      "image": "art/raktabija.webp"
     },
     {
       "id": "prahlada",
@@ -581,7 +638,8 @@
       "type": "character",
       "emblem": "lotus",
       "palette": "dawn",
-      "description": "Son of the asura king Hiranyakashipu, he became, per the Bhagavata Purana, an unwavering devotee of Vishnu despite his father's persecution by fire, poison, and serpents. His faith summoned the Narasimha avatar to slay his father; spared and blessed, Prahlada ruled justly and is upheld as the supreme exemplar of bhakti."
+      "description": "Son of the asura king Hiranyakashipu, he became, per the Bhagavata Purana, an unwavering devotee of Vishnu despite his father's persecution by fire, poison, and serpents. His faith summoned the Narasimha avatar to slay his father; spared and blessed, Prahlada ruled justly and is upheld as the supreme exemplar of bhakti.",
+      "image": "art/prahlada.webp"
     },
     {
       "id": "the-saptarishi",
@@ -591,7 +649,8 @@
       "type": "concept",
       "emblem": "star",
       "palette": "dusk",
-      "description": "The seven great rishis, mind-born sons of Brahma who anchor the cosmic order across each manvantara, are most commonly listed as Vasishtha, Atri, Vishvamitra, Gautama, Jamadagni, Bharadvaja, and Kashyapa. According to the Puranas they are identified with the seven stars of Ursa Major, revered as the receivers and transmitters of the Vedas."
+      "description": "The seven great rishis, mind-born sons of Brahma who anchor the cosmic order across each manvantara, are most commonly listed as Vasishtha, Atri, Vishvamitra, Gautama, Jamadagni, Bharadvaja, and Kashyapa. According to the Puranas they are identified with the seven stars of Ursa Major, revered as the receivers and transmitters of the Vedas.",
+      "image": "art/the-saptarishi.webp"
     },
     {
       "id": "narada",
@@ -601,7 +660,8 @@
       "type": "character",
       "emblem": "scroll",
       "palette": "dusk",
-      "description": "A mind-born son of Brahma and supreme devotee of Vishnu, this celestial rishi wanders the three worlds carrying his veena and singing the name of Narayana. The Puranas portray him as a messenger and catalyst whose seemingly mischievous interventions set great events in motion, and he is honored as the author of the Narada Bhakti Sutras."
+      "description": "A mind-born son of Brahma and supreme devotee of Vishnu, this celestial rishi wanders the three worlds carrying his veena and singing the name of Narayana. The Puranas portray him as a messenger and catalyst whose seemingly mischievous interventions set great events in motion, and he is honored as the author of the Narada Bhakti Sutras.",
+      "image": "art/narada.webp"
     },
     {
       "id": "vishwamitra",
@@ -611,7 +671,8 @@
       "type": "character",
       "emblem": "fire",
       "palette": "flame",
-      "description": "Once the warrior-king Kaushika, his clash with the sage Vasishtha over the wish-granting cow Nandini drove him to abandon kingship for severe penance, ultimately attaining the rank of Brahmarshi. According to the Ramayana he is the seer of the Gayatri mantra and the guru who led the young Rama and Lakshmana to slay the demoness Tataka."
+      "description": "Once the warrior-king Kaushika, his clash with the sage Vasishtha over the wish-granting cow Nandini drove him to abandon kingship for severe penance, ultimately attaining the rank of Brahmarshi. According to the Ramayana he is the seer of the Gayatri mantra and the guru who led the young Rama and Lakshmana to slay the demoness Tataka.",
+      "image": "art/vishwamitra.webp"
     },
     {
       "id": "vasishtha",
@@ -621,7 +682,8 @@
       "type": "character",
       "emblem": "fire",
       "palette": "royal",
-      "description": "A chief among the Saptarishi and preceptor of the Ikshvaku dynasty, he served as the royal guru of Rama and his forefathers and is consort of the chaste Arundhati. Keeper of the divine wish-fulfilling cow Kamadhenu, his long rivalry with Vishwamitra is a defining narrative of the Puranas, and the Yoga Vasistha records his spiritual counsel to Rama."
+      "description": "A chief among the Saptarishi and preceptor of the Ikshvaku dynasty, he served as the royal guru of Rama and his forefathers and is consort of the chaste Arundhati. Keeper of the divine wish-fulfilling cow Kamadhenu, his long rivalry with Vishwamitra is a defining narrative of the Puranas, and the Yoga Vasistha records his spiritual counsel to Rama.",
+      "image": "art/vasishtha.webp"
     },
     {
       "id": "agastya",
@@ -631,7 +693,8 @@
       "type": "character",
       "emblem": "vessel",
       "palette": "ocean",
-      "description": "A revered Vedic rishi born of a pot, he is celebrated in the Puranas for drinking the entire ocean in his palm to expose the hiding asuras, and for commanding the Vindhya mountains to bow and remain lowered. Honored as the sage who carried Vedic culture to the south, he blessed Rama in the forest and gifted him celestial weapons in the Ramayana."
+      "description": "A revered Vedic rishi born of a pot, he is celebrated in the Puranas for drinking the entire ocean in his palm to expose the hiding asuras, and for commanding the Vindhya mountains to bow and remain lowered. Honored as the sage who carried Vedic culture to the south, he blessed Rama in the forest and gifted him celestial weapons in the Ramayana.",
+      "image": "art/agastya.webp"
     },
     {
       "id": "dhruva",
@@ -641,7 +704,8 @@
       "type": "character",
       "emblem": "star",
       "palette": "dusk",
-      "description": "A young prince slighted by his stepmother, he undertook intense penance in the forest to seek Vishnu, who appeared and granted him an exalted, unshakable state. According to the Bhagavata Purana he was fixed in the heavens as Dhruva, the immovable Pole Star around which all other stars revolve, an emblem of steadfast devotion."
+      "description": "A young prince slighted by his stepmother, he undertook intense penance in the forest to seek Vishnu, who appeared and granted him an exalted, unshakable state. According to the Bhagavata Purana he was fixed in the heavens as Dhruva, the immovable Pole Star around which all other stars revolve, an emblem of steadfast devotion.",
+      "image": "art/dhruva.webp"
     },
     {
       "id": "markandeya",
@@ -651,7 +715,8 @@
       "type": "character",
       "emblem": "trident",
       "palette": "dusk",
-      "description": "Destined to die at sixteen, this devotee of Shiva clung to the linga as Yama cast his noose, whereupon Shiva burst forth and conquered Death to grant him eternal youth as a chiranjivi. The Markandeya Purana, which contains the Devi Mahatmya, is framed as his discourse, and he is famed for beholding the infant Krishna upon a banyan leaf during the cosmic dissolution."
+      "description": "Destined to die at sixteen, this devotee of Shiva clung to the linga as Yama cast his noose, whereupon Shiva burst forth and conquered Death to grant him eternal youth as a chiranjivi. The Markandeya Purana, which contains the Devi Mahatmya, is framed as his discourse, and he is famed for beholding the infant Krishna upon a banyan leaf during the cosmic dissolution.",
+      "image": "art/markandeya.webp"
     },
     {
       "id": "bhagiratha",
@@ -661,7 +726,8 @@
       "type": "character",
       "emblem": "river",
       "palette": "ocean",
-      "description": "An Ikshvaku king who performed vast austerities to bring the celestial river Ganga down to liberate the ashes of his sixty thousand ancestors, the sons of Sagara. According to the Ramayana, Shiva caught the river's mighty descent in his matted locks to spare the earth, and the descent of the Ganga remains his enduring legacy."
+      "description": "An Ikshvaku king who performed vast austerities to bring the celestial river Ganga down to liberate the ashes of his sixty thousand ancestors, the sons of Sagara. According to the Ramayana, Shiva caught the river's mighty descent in his matted locks to spare the earth, and the descent of the Ganga remains his enduring legacy.",
+      "image": "art/bhagiratha.webp"
     },
     {
       "id": "dharma",
@@ -671,7 +737,8 @@
       "type": "concept",
       "emblem": "scroll",
       "palette": "dawn",
-      "description": "From the root dhr (to hold or sustain), dharma is the cosmic order and the duty proper to each being that keeps creation from collapse, expounded across the Vedas, Dharmashastras such as the Manusmriti, and the epics. The Puranas teach that Dharma stands on four legs in the Satya Yuga and loses one leg in each successive age, and it is often personified, with the bull as its enduring symbol."
+      "description": "From the root dhr (to hold or sustain), dharma is the cosmic order and the duty proper to each being that keeps creation from collapse, expounded across the Vedas, Dharmashastras such as the Manusmriti, and the epics. The Puranas teach that Dharma stands on four legs in the Satya Yuga and loses one leg in each successive age, and it is often personified, with the bull as its enduring symbol.",
+      "image": "art/dharma.webp"
     },
     {
       "id": "karma",
@@ -681,7 +748,8 @@
       "type": "concept",
       "emblem": "chakra",
       "palette": "dusk",
-      "description": "Karma is the principle that every action bears a corresponding fruit, binding the soul to consequences across lifetimes; the Upanishads declare that as one acts, so one becomes. Classical thought distinguishes sanchita, prarabdha, and agami karma, and the Bhagavad Gita teaches nishkama karma, action performed without attachment to its results as a path of liberation."
+      "description": "Karma is the principle that every action bears a corresponding fruit, binding the soul to consequences across lifetimes; the Upanishads declare that as one acts, so one becomes. Classical thought distinguishes sanchita, prarabdha, and agami karma, and the Bhagavad Gita teaches nishkama karma, action performed without attachment to its results as a path of liberation.",
+      "image": "art/karma.webp"
     },
     {
       "id": "moksha",
@@ -691,7 +759,8 @@
       "type": "concept",
       "emblem": "lotus",
       "palette": "dawn",
-      "description": "Moksha is the final liberation of the soul from samsara and the highest of the four purusharthas, alongside dharma, artha, and kama. The Upanishads and later schools describe it variously as the realization of the atman's identity with Brahman or as eternal union with God. It is approached through paths of knowledge, devotion, and action."
+      "description": "Moksha is the final liberation of the soul from samsara and the highest of the four purusharthas, alongside dharma, artha, and kama. The Upanishads and later schools describe it variously as the realization of the atman's identity with Brahman or as eternal union with God. It is approached through paths of knowledge, devotion, and action.",
+      "image": "art/moksha.webp"
     },
     {
       "id": "the-four-yugas",
@@ -701,7 +770,8 @@
       "type": "concept",
       "emblem": "chakra",
       "palette": "flame",
-      "description": "Puranic cosmology divides each great cycle into four declining ages: Satya, Treta, Dvapara, and Kali, in which dharma steadily diminishes from four legs to one. Together they form a chaturyuga, after which the cosmos is renewed. The present Kali Yuga is the darkest age, said in the Puranas to have begun at the close of Krishna's earthly life."
+      "description": "Puranic cosmology divides each great cycle into four declining ages: Satya, Treta, Dvapara, and Kali, in which dharma steadily diminishes from four legs to one. Together they form a chaturyuga, after which the cosmos is renewed. The present Kali Yuga is the darkest age, said in the Puranas to have begun at the close of Krishna's earthly life.",
+      "image": "art/the-four-yugas.webp"
     },
     {
       "id": "mount-meru",
@@ -711,7 +781,8 @@
       "type": "place",
       "emblem": "mountain",
       "palette": "royal",
-      "description": "Meru (Sumeru) is the golden cosmic mountain that the Puranas place at the center of Jambudvipa as the axis of the universe, around which the sun, moon, and stars revolve. Its slopes hold the cities of the gods, with Brahma's abode at its summit and the guardian deities of the directions arrayed around it. It serves as the churning-rod in the churning of the ocean of milk."
+      "description": "Meru (Sumeru) is the golden cosmic mountain that the Puranas place at the center of Jambudvipa as the axis of the universe, around which the sun, moon, and stars revolve. Its slopes hold the cities of the gods, with Brahma's abode at its summit and the guardian deities of the directions arrayed around it. It serves as the churning-rod in the churning of the ocean of milk.",
+      "image": "art/mount-meru.webp"
     },
     {
       "id": "kshira-sagara",
@@ -721,7 +792,8 @@
       "type": "place",
       "emblem": "river",
       "palette": "ocean",
-      "description": "The Kshira Sagara is the primordial ocean of milk on which Vishnu reclines upon the serpent Shesha in his yoga nidra, attended by Lakshmi, as described in the Vishnu and Bhagavata Puranas. It is the very ocean churned by the devas and asuras for the nectar of immortality, and from its waters arose Lakshmi, the physician Dhanvantari, and the amrita itself."
+      "description": "The Kshira Sagara is the primordial ocean of milk on which Vishnu reclines upon the serpent Shesha in his yoga nidra, attended by Lakshmi, as described in the Vishnu and Bhagavata Puranas. It is the very ocean churned by the devas and asuras for the nectar of immortality, and from its waters arose Lakshmi, the physician Dhanvantari, and the amrita itself.",
+      "image": "art/kshira-sagara.webp"
     },
     {
       "id": "the-vedas",
@@ -731,7 +803,8 @@
       "type": "concept",
       "emblem": "fire",
       "palette": "flame",
-      "description": "The oldest layer of Hindu scripture, comprising the Rigveda, Yajurveda, Samaveda, and Atharvaveda, traditionally regarded as apaurusheya (authorless) and shruti, eternally heard by the rishis. Each Veda contains Samhitas, Brahmanas, Aranyakas, and Upanishads, preserved across millennia through exacting oral recitation centered on Agni, Indra, Soma, and the yajna sacrifice."
+      "description": "The oldest layer of Hindu scripture, comprising the Rigveda, Yajurveda, Samaveda, and Atharvaveda, traditionally regarded as apaurusheya (authorless) and shruti, eternally heard by the rishis. Each Veda contains Samhitas, Brahmanas, Aranyakas, and Upanishads, preserved across millennia through exacting oral recitation centered on Agni, Indra, Soma, and the yajna sacrifice.",
+      "image": "art/the-vedas.webp"
     },
     {
       "id": "the-puranas",
@@ -741,7 +814,8 @@
       "type": "concept",
       "emblem": "scroll",
       "palette": "dawn",
-      "description": "A vast genre of smriti texts narrating cosmology, genealogies of gods and kings, and the deeds of deities and avatars, traditionally counted as eighteen Mahapuranas. Classically defined by five marks (pancha-lakshana), they include the Vishnu, Shiva, Bhagavata, and Markandeya Puranas and are the primary source of popular Hindu mythology."
+      "description": "A vast genre of smriti texts narrating cosmology, genealogies of gods and kings, and the deeds of deities and avatars, traditionally counted as eighteen Mahapuranas. Classically defined by five marks (pancha-lakshana), they include the Vishnu, Shiva, Bhagavata, and Markandeya Puranas and are the primary source of popular Hindu mythology.",
+      "image": "art/the-puranas.webp"
     },
     {
       "id": "the-ramayana",
@@ -751,7 +825,8 @@
       "type": "concept",
       "emblem": "bow",
       "palette": "forest",
-      "description": "The adi-kavya, or first poem, traditionally composed by the sage Valmiki in some 24,000 Sanskrit verses across seven kandas. It narrates the life of Rama, avatar of Vishnu, his exile, Sita's abduction by Ravana, and her rescue with Hanuman and the vanara army, and is revered as smriti and a model of dharma."
+      "description": "The adi-kavya, or first poem, traditionally composed by the sage Valmiki in some 24,000 Sanskrit verses across seven kandas. It narrates the life of Rama, avatar of Vishnu, his exile, Sita's abduction by Ravana, and her rescue with Hanuman and the vanara army, and is revered as smriti and a model of dharma.",
+      "image": "art/the-ramayana.webp"
     },
     {
       "id": "samudra-manthan",
@@ -761,7 +836,8 @@
       "type": "event",
       "emblem": "serpent",
       "palette": "ocean",
-      "description": "Recounted in the Bhagavata and Vishnu Puranas, the devas and asuras together churned the cosmic ocean of milk using Mount Mandara as the churning rod and the serpent Vasuki as the rope, with Vishnu as the tortoise Kurma supporting the mountain. The churning yielded fourteen treasures, including the goddess Lakshmi, the celestial cow Kamadhenu, and the physician Dhanvantari bearing the pot of amrita."
+      "description": "Recounted in the Bhagavata and Vishnu Puranas, the devas and asuras together churned the cosmic ocean of milk using Mount Mandara as the churning rod and the serpent Vasuki as the rope, with Vishnu as the tortoise Kurma supporting the mountain. The churning yielded fourteen treasures, including the goddess Lakshmi, the celestial cow Kamadhenu, and the physician Dhanvantari bearing the pot of amrita.",
+      "image": "art/samudra-manthan.webp"
     },
     {
       "id": "halahala",
@@ -771,7 +847,8 @@
       "type": "event",
       "emblem": "trident",
       "palette": "dusk",
-      "description": "As the gods and demons churned the ocean, the deadly poison Halahala rose first, threatening to consume all creation. According to the Puranas, Shiva swallowed the poison to save the worlds, and his consort Parvati halted it at his throat, which turned blue; for this he is honored as Nilakantha, the blue-throated one."
+      "description": "As the gods and demons churned the ocean, the deadly poison Halahala rose first, threatening to consume all creation. According to the Puranas, Shiva swallowed the poison to save the worlds, and his consort Parvati halted it at his throat, which turned blue; for this he is honored as Nilakantha, the blue-throated one.",
+      "image": "art/halahala.webp"
     },
     {
       "id": "mohini",
@@ -781,7 +858,8 @@
       "type": "event",
       "emblem": "vessel",
       "palette": "dawn",
-      "description": "When the asuras seized the pot of amrita after the churning, Vishnu took the form of Mohini, an entrancing female avatar, to recover it. As told in the Bhagavata Purana, she beguiled the demons and served the nectar only to the devas; the demon Rahu disguised himself to drink it, and Vishnu severed his head, creating the eclipse-causing Rahu and Ketu."
+      "description": "When the asuras seized the pot of amrita after the churning, Vishnu took the form of Mohini, an entrancing female avatar, to recover it. As told in the Bhagavata Purana, she beguiled the demons and served the nectar only to the devas; the demon Rahu disguised himself to drink it, and Vishnu severed his head, creating the eclipse-causing Rahu and Ketu.",
+      "image": "art/mohini.webp"
     },
     {
       "id": "lifting-of-govardhan",
@@ -791,7 +869,8 @@
       "type": "event",
       "emblem": "mountain",
       "palette": "forest",
-      "description": "In the Bhagavata Purana, young Krishna persuaded the cowherds of Vrindavan to worship Govardhan hill rather than Indra, prompting the angry rain-god to unleash a devastating storm. Krishna lifted the entire hill on his little finger, sheltering the people and cattle for seven days until Indra relented and acknowledged his divinity."
+      "description": "In the Bhagavata Purana, young Krishna persuaded the cowherds of Vrindavan to worship Govardhan hill rather than Indra, prompting the angry rain-god to unleash a devastating storm. Krishna lifted the entire hill on his little finger, sheltering the people and cattle for seven days until Indra relented and acknowledged his divinity.",
+      "image": "art/lifting-of-govardhan.webp"
     },
     {
       "id": "descent-of-the-ganga",
@@ -801,7 +880,8 @@
       "type": "event",
       "emblem": "river",
       "palette": "ocean",
-      "description": "The Ramayana and Puranas relate how the sage Bhagiratha performed severe austerities to bring the celestial river Ganga down to earth, to liberate the ashes of his ancestors, the sixty thousand sons of King Sagara. To break her mighty fall, Shiva caught the descending river in his matted locks and released her gently, an act that gives him the name Gangadhara."
+      "description": "The Ramayana and Puranas relate how the sage Bhagiratha performed severe austerities to bring the celestial river Ganga down to earth, to liberate the ashes of his ancestors, the sixty thousand sons of King Sagara. To break her mighty fall, Shiva caught the descending river in his matted locks and released her gently, an act that gives him the name Gangadhara.",
+      "image": "art/descent-of-the-ganga.webp"
     },
     {
       "id": "sudarshana-chakra",
@@ -811,7 +891,8 @@
       "type": "artifact",
       "emblem": "chakra",
       "palette": "ocean",
-      "description": "The spinning, razor-edged discus of Vishnu, described in the Puranas as a wheel of a thousand spokes blazing like the sun, fashioned in one account by the architect Vishvakarma from the surplus brilliance of Surya. Returning to the hand after each strike, it is wielded by Vishnu and his avatar Krishna to behead demons and uphold dharma, and is the foremost of Vishnu's divine attributes."
+      "description": "The spinning, razor-edged discus of Vishnu, described in the Puranas as a wheel of a thousand spokes blazing like the sun, fashioned in one account by the architect Vishvakarma from the surplus brilliance of Surya. Returning to the hand after each strike, it is wielded by Vishnu and his avatar Krishna to behead demons and uphold dharma, and is the foremost of Vishnu's divine attributes.",
+      "image": "art/sudarshana-chakra.webp"
     },
     {
       "id": "trishula",
@@ -821,7 +902,8 @@
       "type": "artifact",
       "emblem": "trident",
       "palette": "dusk",
-      "description": "The three-pronged spear borne by Shiva, his signature weapon and emblem of supreme power. The texts variously read its three points as the three gunas, the three states of time, or creation, preservation, and destruction, and with it Goddess Durga, who receives the Trishula from Shiva, slays the buffalo-demon Mahishasura."
+      "description": "The three-pronged spear borne by Shiva, his signature weapon and emblem of supreme power. The texts variously read its three points as the three gunas, the three states of time, or creation, preservation, and destruction, and with it Goddess Durga, who receives the Trishula from Shiva, slays the buffalo-demon Mahishasura.",
+      "image": "art/trishula.webp"
     },
     {
       "id": "vajra",
@@ -831,7 +913,8 @@
       "type": "artifact",
       "emblem": "spear",
       "palette": "flame",
-      "description": "The indestructible thunderbolt of Indra, king of the devas, which the Rigveda celebrates as the weapon that slew the serpent Vritra to release the imprisoned waters. According to the Puranas it was forged from the spine of the self-sacrificing sage Dadhichi, and its name signifies both 'diamond' (unbreakable) and 'thunderbolt' (irresistible)."
+      "description": "The indestructible thunderbolt of Indra, king of the devas, which the Rigveda celebrates as the weapon that slew the serpent Vritra to release the imprisoned waters. According to the Puranas it was forged from the spine of the self-sacrificing sage Dadhichi, and its name signifies both 'diamond' (unbreakable) and 'thunderbolt' (irresistible).",
+      "image": "art/vajra.webp"
     },
     {
       "id": "amrita",
@@ -841,7 +924,8 @@
       "type": "artifact",
       "emblem": "vessel",
       "palette": "dawn",
-      "description": "The divine nectar that confers deathlessness, the supreme treasure churned from the cosmic ocean during the Samudra Manthana by the devas and asuras using Mount Mandara and the serpent Vasuki. The physician-god Dhanvantari rose from the waters bearing the pot of Amrita, which Vishnu, as the enchantress Mohini, secured for the devas alone."
+      "description": "The divine nectar that confers deathlessness, the supreme treasure churned from the cosmic ocean during the Samudra Manthana by the devas and asuras using Mount Mandara and the serpent Vasuki. The physician-god Dhanvantari rose from the waters bearing the pot of Amrita, which Vishnu, as the enchantress Mohini, secured for the devas alone.",
+      "image": "art/amrita.webp"
     },
     {
       "id": "kaustubha",
@@ -851,7 +935,8 @@
       "type": "artifact",
       "emblem": "star",
       "palette": "ocean",
-      "description": "The most radiant of jewels, one of the precious treasures that emerged from the churning of the ocean of milk. The Puranas relate that Vishnu took the Kaustubha to adorn his chest, where it shines alongside the Srivatsa mark, and it stands as a recognized emblem of the Preserver in iconography."
+      "description": "The most radiant of jewels, one of the precious treasures that emerged from the churning of the ocean of milk. The Puranas relate that Vishnu took the Kaustubha to adorn his chest, where it shines alongside the Srivatsa mark, and it stands as a recognized emblem of the Preserver in iconography.",
+      "image": "art/kaustubha.webp"
     },
     {
       "id": "parijata",
@@ -861,7 +946,8 @@
       "type": "artifact",
       "emblem": "tree",
       "palette": "forest",
-      "description": "The wish-bestowing flowering tree that arose from the churning of the ocean and was planted in Indra's heaven, its blossoms never fading and perfuming the worlds. The Harivamsha and Bhagavata Purana recount how Krishna brought the Parijata from Indra's garden to Dvaraka to please his queen Satyabhama, sparking a celebrated contest with Indra."
+      "description": "The wish-bestowing flowering tree that arose from the churning of the ocean and was planted in Indra's heaven, its blossoms never fading and perfuming the worlds. The Harivamsha and Bhagavata Purana recount how Krishna brought the Parijata from Indra's garden to Dvaraka to please his queen Satyabhama, sparking a celebrated contest with Indra.",
+      "image": "art/parijata.webp"
     },
     {
       "id": "kamadhenu",
@@ -871,7 +957,8 @@
       "type": "character",
       "emblem": "vessel",
       "palette": "dawn",
-      "description": "The sacred wish-granting cow, mother of all cattle, who emerged from the churning of the ocean and is venerated as the source of abundance. Dwelling in the hermitage of the sage Vasishtha, she provides whatever is desired; the Ramayana and Mahabharata tell how King Vishvamitra's attempt to seize her revealed the unmatched power of Brahminical austerity."
+      "description": "The sacred wish-granting cow, mother of all cattle, who emerged from the churning of the ocean and is venerated as the source of abundance. Dwelling in the hermitage of the sage Vasishtha, she provides whatever is desired; the Ramayana and Mahabharata tell how King Vishvamitra's attempt to seize her revealed the unmatched power of Brahminical austerity.",
+      "image": "art/kamadhenu.webp"
     },
     {
       "id": "pushpaka-vimana",
@@ -881,7 +968,8 @@
       "type": "artifact",
       "emblem": "chariot",
       "palette": "dusk",
-      "description": "The flying palace-chariot that moves at the will of its rider, described in the Ramayana as created by Vishvakarma for Kubera, the god of wealth. Seized by the demon-king Ravana and kept at Lanka, it was reclaimed after Ravana's fall and bore Rama, Sita, and Lakshmana back to Ayodhya, returning afterward to Kubera."
+      "description": "The flying palace-chariot that moves at the will of its rider, described in the Ramayana as created by Vishvakarma for Kubera, the god of wealth. Seized by the demon-king Ravana and kept at Lanka, it was reclaimed after Ravana's fall and bore Rama, Sita, and Lakshmana back to Ayodhya, returning afterward to Kubera.",
+      "image": "art/pushpaka-vimana.webp"
     },
     {
       "id": "pashupatastra",
@@ -891,7 +979,8 @@
       "type": "artifact",
       "emblem": "trident",
       "palette": "flame",
-      "description": "The most fearsome of celestial weapons, the personal astra of Shiva as Pashupati, capable of destroying creation and never to be used against a lesser foe. In the Mahabharata's Kiratarjuniya episode, Shiva, having tested Arjuna in the guise of a hunter, grants him this weapon as a supreme boon."
+      "description": "The most fearsome of celestial weapons, the personal astra of Shiva as Pashupati, capable of destroying creation and never to be used against a lesser foe. In the Mahabharata's Kiratarjuniya episode, Shiva, having tested Arjuna in the guise of a hunter, grants him this weapon as a supreme boon.",
+      "image": "art/pashupatastra.webp"
     },
     {
       "id": "brahmastra",
@@ -901,7 +990,8 @@
       "type": "artifact",
       "emblem": "arrow",
       "palette": "flame",
-      "description": "The supremely destructive divine missile presided over by Brahma, invoked by sacred mantra and said to never miss its mark. Across the Ramayana and the Puranas it is wielded only by the greatest warriors and sages; its terrible power could lay waste to whole regions, and its release demanded the highest discipline and restraint."
+      "description": "The supremely destructive divine missile presided over by Brahma, invoked by sacred mantra and said to never miss its mark. Across the Ramayana and the Puranas it is wielded only by the greatest warriors and sages; its terrible power could lay waste to whole regions, and its release demanded the highest discipline and restraint.",
+      "image": "art/brahmastra.webp"
     },
     {
       "id": "garuda",
@@ -911,7 +1001,8 @@
       "type": "character",
       "emblem": "garuda",
       "palette": "flame",
-      "description": "The mighty eagle-king, son of the sage Kashyapa and Vinata, who serves as the vahana of Vishnu and bears him across the cosmos. According to the Puranas he won the nectar of immortality to free his enslaved mother from the Nagas, earning his eternal enmity with serpents, and is hailed as king of birds and devourer of snakes."
+      "description": "The mighty eagle-king, son of the sage Kashyapa and Vinata, who serves as the vahana of Vishnu and bears him across the cosmos. According to the Puranas he won the nectar of immortality to free his enslaved mother from the Nagas, earning his eternal enmity with serpents, and is hailed as king of birds and devourer of snakes.",
+      "image": "art/garuda.webp"
     },
     {
       "id": "nandi",
@@ -921,7 +1012,8 @@
       "type": "character",
       "emblem": "trident",
       "palette": "dawn",
-      "description": "Nandi is the white bull mount (vahana) and foremost devotee and gatekeeper of Shiva, the chief of his ganas. In Shaiva temples a seated Nandi sculpture faces the sanctum, eternally gazing upon the Lord, and devotees traditionally whisper their prayers into his ear to carry to Shiva."
+      "description": "Nandi is the white bull mount (vahana) and foremost devotee and gatekeeper of Shiva, the chief of his ganas. In Shaiva temples a seated Nandi sculpture faces the sanctum, eternally gazing upon the Lord, and devotees traditionally whisper their prayers into his ear to carry to Shiva.",
+      "image": "art/nandi.webp"
     },
     {
       "id": "vasuki",
@@ -931,7 +1023,8 @@
       "type": "character",
       "emblem": "serpent",
       "palette": "forest",
-      "description": "The great Naga king who coils around Shiva's neck as an ornament and serves as the rope in the churning of the ocean of milk. In the Samudra Manthana the devas and asuras wound Vasuki about Mount Mandara to churn it, and he disgorged the deadly halahala poison that Shiva drank to save creation."
+      "description": "The great Naga king who coils around Shiva's neck as an ornament and serves as the rope in the churning of the ocean of milk. In the Samudra Manthana the devas and asuras wound Vasuki about Mount Mandara to churn it, and he disgorged the deadly halahala poison that Shiva drank to save creation.",
+      "image": "art/vasuki.webp"
     },
     {
       "id": "airavata",
@@ -941,7 +1034,8 @@
       "type": "character",
       "emblem": "elephant",
       "palette": "royal",
-      "description": "The magnificent white elephant who is the vahana of Indra, king of the devas, and the foremost of elephants. According to the Puranas he arose from the churning of the ocean of milk and is described with multiple tusks, holding water in the sky as the guardian-elephant of the eastern quarter."
+      "description": "The magnificent white elephant who is the vahana of Indra, king of the devas, and the foremost of elephants. According to the Puranas he arose from the churning of the ocean of milk and is described with multiple tusks, holding water in the sky as the guardian-elephant of the eastern quarter.",
+      "image": "art/airavata.webp"
     },
     {
       "id": "kashi",
@@ -951,7 +1045,8 @@
       "type": "place",
       "emblem": "trident",
       "palette": "flame",
-      "description": "Kashi (Varanasi), on the banks of the Ganga, is hailed in the Puranas as Shiva's own earthly city, never abandoned even during cosmic dissolution. Its presiding form is Vishwanath, Lord of the Universe, and it is said that those who die within its bounds receive Shiva's liberating mantra and are freed from rebirth. It is counted among the holiest of India's sacred cities."
+      "description": "Kashi (Varanasi), on the banks of the Ganga, is hailed in the Puranas as Shiva's own earthly city, never abandoned even during cosmic dissolution. Its presiding form is Vishwanath, Lord of the Universe, and it is said that those who die within its bounds receive Shiva's liberating mantra and are freed from rebirth. It is counted among the holiest of India's sacred cities.",
+      "image": "art/kashi.webp"
     },
     {
       "id": "the-river-ganga",
@@ -961,7 +1056,8 @@
       "type": "place",
       "emblem": "river",
       "palette": "ocean",
-      "description": "Both goddess and sacred river, Ganga flows from the toe of Vishnu and through the heavens before descending to earth, caught in Shiva's matted locks to break her fall, as recounted in the Ramayana and Puranas. Her descent was won by the penance of King Bhagiratha to liberate the ashes of his ancestors, and her waters are held to purify sins and grant a sanctified passage at death."
+      "description": "Both goddess and sacred river, Ganga flows from the toe of Vishnu and through the heavens before descending to earth, caught in Shiva's matted locks to break her fall, as recounted in the Ramayana and Puranas. Her descent was won by the penance of King Bhagiratha to liberate the ashes of his ancestors, and her waters are held to purify sins and grant a sanctified passage at death.",
+      "image": "art/the-river-ganga.webp"
     },
     {
       "id": "amaravati",
@@ -971,7 +1067,8 @@
       "type": "place",
       "emblem": "elephant",
       "palette": "royal",
-      "description": "Amaravati is the resplendent capital of Svarga, the heaven ruled by Indra, king of the devas, as described in the Puranas. Within it stands Indra's court, the pleasure garden Nandana, the wish-granting tree Parijata, and the celestial dancers; Indra presides mounted on the white elephant Airavata. It is the paradise where virtuous souls enjoy the fruits of merit before returning to the cycle of rebirth."
+      "description": "Amaravati is the resplendent capital of Svarga, the heaven ruled by Indra, king of the devas, as described in the Puranas. Within it stands Indra's court, the pleasure garden Nandana, the wish-granting tree Parijata, and the celestial dancers; Indra presides mounted on the white elephant Airavata. It is the paradise where virtuous souls enjoy the fruits of merit before returning to the cycle of rebirth.",
+      "image": "art/amaravati.webp"
     },
     {
       "id": "patala",
@@ -981,7 +1078,8 @@
       "type": "place",
       "emblem": "serpent",
       "palette": "dusk",
-      "description": "Patala is the lowest of the seven subterranean realms in Puranic cosmology, a jeweled and luminous world rather than a place of torment. It is the domain of the Nagas and their king Vasuki, of certain asuras and Daityas, and is described as more splendid than the heaven of Indra. The sage Narada is said to have praised it as a realm of pleasure surpassing the worlds above."
+      "description": "Patala is the lowest of the seven subterranean realms in Puranic cosmology, a jeweled and luminous world rather than a place of torment. It is the domain of the Nagas and their king Vasuki, of certain asuras and Daityas, and is described as more splendid than the heaven of Indra. The sage Narada is said to have praised it as a realm of pleasure surpassing the worlds above.",
+      "image": "art/patala.webp"
     },
     {
       "id": "naraka",
@@ -991,7 +1089,8 @@
       "type": "place",
       "emblem": "fire",
       "palette": "flame",
-      "description": "Naraka is the abode where, according to the Puranas, souls undergo measured suffering to expiate their misdeeds before rebirth, rather than eternal damnation. It lies under the rule of Yama, lord of the dead, whose scribe Chitragupta records each being's deeds, and texts such as the Bhagavata and Vishnu Puranas enumerate its many distinct hells, each soul's sojourn proportionate to its karma."
+      "description": "Naraka is the abode where, according to the Puranas, souls undergo measured suffering to expiate their misdeeds before rebirth, rather than eternal damnation. It lies under the rule of Yama, lord of the dead, whose scribe Chitragupta records each being's deeds, and texts such as the Bhagavata and Vishnu Puranas enumerate its many distinct hells, each soul's sojourn proportionate to its karma.",
+      "image": "art/naraka.webp"
     },
     {
       "id": "ayodhya",
@@ -1001,7 +1100,8 @@
       "type": "place",
       "emblem": "throne",
       "palette": "dawn",
-      "description": "The ancient capital of the Kosala kingdom on the river Sarayu, ruled by the Ikshvaku dynasty and birthplace of Rama, the seventh avatar of Vishnu. The Ramayana describes it as a resplendent and well-governed city; Rama's exile and his eventual return to be crowned there make it a paragon of the ideal realm, Rama Rajya, and a foremost site of pilgrimage."
+      "description": "The ancient capital of the Kosala kingdom on the river Sarayu, ruled by the Ikshvaku dynasty and birthplace of Rama, the seventh avatar of Vishnu. The Ramayana describes it as a resplendent and well-governed city; Rama's exile and his eventual return to be crowned there make it a paragon of the ideal realm, Rama Rajya, and a foremost site of pilgrimage.",
+      "image": "art/ayodhya.webp"
     }
   ]
 }

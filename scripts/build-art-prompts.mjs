@@ -96,6 +96,24 @@ const RECIPES = {
       }
     },
   },
+  'mythology': {
+    style:
+      'Traditional Indian devotional painting in the luminous style of Raja Ravi Varma and classical temple ' +
+      'calendar art, rich glowing jewel colours, divine golden aura and radiant halo light, ornate gold ' +
+      'jewellery and silks, serene reverent idealised faces, lotus and celestial motifs, masterful soft ' +
+      'realistic brushwork, sacred and majestic. No text, no lettering, no words, no captions, no watermark, ' +
+      'no signature. Vertical portrait orientation.',
+    lead: (c) => {
+      switch (c.type) {
+        case 'character': return `A reverent devotional painting portrait of ${c.title}, ${c.subtitle}.`
+        case 'event': return `A dramatic devotional painting depicting the sacred episode of ${c.title} (${c.subtitle}).`
+        case 'place': return `A majestic devotional painting of the sacred realm of ${c.title}, ${c.subtitle}, no central figure.`
+        case 'artifact': return `A luminous devotional painting of the divine ${c.title}, ${c.subtitle}, as the radiant glowing centerpiece.`
+        case 'concept': return `A symbolic, allegorical devotional painting representing ${c.title}, ${c.subtitle}.`
+        default: return `${c.title}, ${c.subtitle}.`
+      }
+    },
+  },
   'indian-cinema': {
     style:
       'Vintage hand-painted Indian movie-poster art, classic Bollywood cinema-hoarding style, lush saturated ' +
