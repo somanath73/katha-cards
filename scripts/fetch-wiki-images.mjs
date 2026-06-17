@@ -59,9 +59,16 @@ const MAP = {
   'sucheta-kripalani': 'Sucheta Kripalani',
   'parliament-house': 'Parliament House (India)',
   'rashtrapati-bhavan': 'Rashtrapati Bhavan',
-  'national-emblem': 'State Emblem of India',
   'supreme-court': 'Supreme Court of India',
   'reserve-bank-of-india': 'Reserve Bank of India',
+  // note: 'national-emblem' deliberately omitted — the State Emblem of India is
+  // legally restricted (Prohibition of Improper Use Act); it stays an illustration.
+}
+
+// Override the auto-picked infobox image for cards where it lacks parseable license
+// metadata but a specific known freely-licensed file exists.
+const FILE_OVERRIDE = {
+  'jawaharlal-nehru': 'File:Jawaharlal Nehru 1949.jpg',
 }
 
 // Accept only genuinely free licenses.
@@ -72,13 +79,13 @@ const strip = (s) => (s ? s.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim() 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms))
 const UA = 'KathaCards/1.0 (educational trivia app; contact via github.com/somanath73/katha-cards)'
 
-// Retry on 429 / 5xx with exponential backoff.
+// Retry on 429 / 5xx with long exponential backoff (rides out IP throttles).
 async function fetchRetry(url) {
-  for (let attempt = 0; attempt < 5; attempt++) {
+  for (let attempt = 0; attempt < 6; attempt++) {
     const r = await fetch(url, { headers: { 'User-Agent': UA } })
     if (r.ok) return r
     if (r.status === 429 || r.status >= 500) {
-      await sleep(3000 * Math.pow(2, attempt)) // 3s, 6s, 12s, 24s, 48s
+      await sleep(8000 * Math.pow(2, attempt)) // 8s,16s,32s,64s,128s,256s
       continue
     }
     throw new Error(`HTTP ${r.status}`)
@@ -86,11 +93,31 @@ async function fetchRetry(url) {
   throw new Error('HTTP 429 (exhausted retries)')
 }
 
+// Use the action API pageimages = the canonical infobox photo (usually well-licensed).
 async function summaryImage(title) {
-  const enc = encodeURIComponent(title.replace(/ /g, '_'))
-  const r = await fetchRetry(`https://en.wikipedia.org/api/rest_v1/page/summary/${enc}`)
+  const api = `https://en.wikipedia.org/w/api.php?action=query&format=json&redirects=1&prop=pageimages&piprop=original|thumbnail&pithumbsize=900&titles=${encodeURIComponent(title)}`
+  const r = await fetchRetry(api)
   const j = await r.json()
-  return j.originalimage?.source || j.thumbnail?.source || null
+  const page = Object.values(j.query?.pages || {})[0]
+  return page?.original?.source || page?.thumbnail?.source || null
+}
+
+// Resolve a specific Commons File: title directly to its url + license.
+async function commonsFileInfo(fileTitle) {
+  const api = `https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url|extmetadata&titles=${encodeURIComponent(fileTitle)}`
+  const r = await fetchRetry(api)
+  const j = await r.json()
+  const page = Object.values(j.query?.pages || {})[0]
+  const ii = page?.imageinfo?.[0]
+  if (!ii) return null
+  const m = ii.extmetadata || {}
+  return {
+    imgUrl: ii.url,
+    license: strip(m.LicenseShortName?.value) || strip(m.License?.value) || strip(m.UsageTerms?.value),
+    artist: strip(m.Artist?.value) || strip(m.Credit?.value) || 'Unknown',
+    licenseUrl: strip(m.LicenseUrl?.value),
+    file: fileTitle.replace(/^File:/, ''),
+  }
 }
 
 async function commonsLicense(imgUrl) {
@@ -108,9 +135,16 @@ async function commonsLicense(imgUrl) {
 
 async function one(id, title) {
   try {
-    const imgUrl = await summaryImage(title)
-    if (!imgUrl) return { id, ok: false, reason: 'no image' }
-    const { license, artist, licenseUrl, file } = await commonsLicense(imgUrl)
+    let imgUrl, license, artist, licenseUrl, file
+    if (FILE_OVERRIDE[id]) {
+      const info = await commonsFileInfo(FILE_OVERRIDE[id])
+      if (!info || !info.imgUrl) return { id, ok: false, reason: 'override: no info' }
+      ;({ imgUrl, license, artist, licenseUrl, file } = info)
+    } else {
+      imgUrl = await summaryImage(title)
+      if (!imgUrl) return { id, ok: false, reason: 'no image' }
+      ;({ license, artist, licenseUrl, file } = await commonsLicense(imgUrl))
+    }
     const free = FREE.test(license) && !NONFREE.test(license)
     if (!license) return { id, ok: false, reason: 'license unknown' }
     if (!free) return { id, ok: false, reason: `non-free: ${license}` }
@@ -140,7 +174,7 @@ for (const [id, title] of todo) {
   const r = await one(id, title)
   if (r.ok) done.set(id, { id: r.id, artist: r.artist, license: r.license, licenseUrl: r.licenseUrl, source: r.source, file: r.file })
   else failed.push(r)
-  await sleep(3500) // slow pace to avoid Wikimedia rate limits
+  await sleep(5000) // slow pace to avoid Wikimedia rate limits
 }
 
 const attribution = [...done.values()]
