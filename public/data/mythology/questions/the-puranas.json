@@ -1,0 +1,395 @@
+{
+  "cardId": "the-puranas",
+  "questions": [
+    {
+      "id": "the-puranas-q01",
+      "difficulty": "easy",
+      "q": "What does the Sanskrit word 'Purana' traditionally mean?",
+      "options": [
+        "Sacred fire",
+        "Hidden teaching",
+        "Ancient or old",
+        "Royal decree"
+      ],
+      "answer": 2,
+      "explanation": "The word 'Purana' means 'ancient' or 'that which is old', reflecting the texts' focus on tales of ancient times."
+    },
+    {
+      "id": "the-puranas-q02",
+      "difficulty": "easy",
+      "q": "How many Mahapuranas (great Puranas) are traditionally counted in Hindu tradition?",
+      "options": [
+        "Four",
+        "Twelve",
+        "Twenty-four",
+        "Eighteen"
+      ],
+      "answer": 3,
+      "explanation": "Hindu tradition traditionally counts eighteen Mahapuranas, the major works of the Puranic genre."
+    },
+    {
+      "id": "the-puranas-q03",
+      "difficulty": "easy",
+      "q": "To which broad category of Hindu scripture do the Puranas belong?",
+      "options": [
+        "Smriti (that which is remembered)",
+        "Shruti (that which is heard)",
+        "Sutra (aphorism)",
+        "Tantra"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas are classed as smriti, the remembered tradition, distinct from the shruti of the Vedas."
+    },
+    {
+      "id": "the-puranas-q04",
+      "difficulty": "easy",
+      "q": "Which celebrated devotional Purana centres on the life and deeds of Krishna?",
+      "options": [
+        "Markandeya Purana",
+        "Bhagavata Purana",
+        "Agni Purana",
+        "Vayu Purana"
+      ],
+      "answer": 1,
+      "explanation": "The Bhagavata Purana is especially beloved for its account of Krishna's life and is a central text of Vaishnava devotion."
+    },
+    {
+      "id": "the-puranas-q05",
+      "difficulty": "easy",
+      "q": "The Puranas are regarded as the primary source of what aspect of Hindu tradition?",
+      "options": [
+        "Legal codes",
+        "Grammar rules",
+        "Popular mythology",
+        "Astronomical tables"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas are the primary source of popular Hindu mythology, narrating the deeds of deities and avatars."
+    },
+    {
+      "id": "the-puranas-q06",
+      "difficulty": "easy",
+      "q": "Which Purana is named for and largely devoted to the deity Vishnu?",
+      "options": [
+        "Shiva Purana",
+        "Brahma Purana",
+        "Garuda Purana",
+        "Vishnu Purana"
+      ],
+      "answer": 3,
+      "explanation": "The Vishnu Purana is one of the major Mahapuranas, centred on Vishnu and his avatars."
+    },
+    {
+      "id": "the-puranas-q07",
+      "difficulty": "easy",
+      "q": "The Puranas narrate the deeds of the avatars of which preserver deity in particular?",
+      "options": [
+        "Vishnu",
+        "Indra",
+        "Agni",
+        "Yama"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas extensively narrate the avatars of Vishnu, such as Rama, Krishna, Narasimha, and Vamana."
+    },
+    {
+      "id": "the-puranas-q08",
+      "difficulty": "easy",
+      "q": "Which Purana shares its name with the destroyer deity of the Trimurti?",
+      "options": [
+        "Vamana Purana",
+        "Shiva Purana",
+        "Kurma Purana",
+        "Bhavishya Purana"
+      ],
+      "answer": 1,
+      "explanation": "The Shiva Purana is a major Mahapurana devoted to the deity Shiva and his lore."
+    },
+    {
+      "id": "the-puranas-q09",
+      "difficulty": "easy",
+      "q": "In what language were the classical Mahapuranas composed?",
+      "options": [
+        "Pali",
+        "Tamil",
+        "Sanskrit",
+        "Prakrit"
+      ],
+      "answer": 2,
+      "explanation": "The classical Mahapuranas were composed in Sanskrit, the sacred language of much of Hindu scripture."
+    },
+    {
+      "id": "the-puranas-q10",
+      "difficulty": "easy",
+      "q": "The Puranas frequently recount which famous churning of the cosmic ocean?",
+      "options": [
+        "The burning of Tripura",
+        "The descent of the Ganga",
+        "The dice game of the Pandavas",
+        "The Samudra Manthan"
+      ],
+      "answer": 3,
+      "explanation": "The Samudra Manthan, the churning of the ocean of milk for amrita, is a celebrated episode recounted in the Puranas."
+    },
+    {
+      "id": "the-puranas-q11",
+      "difficulty": "medium",
+      "q": "The classical Puranas are traditionally defined by how many characteristic marks, the pancha-lakshana?",
+      "options": [
+        "Five",
+        "Three",
+        "Seven",
+        "Ten"
+      ],
+      "answer": 0,
+      "explanation": "The pancha-lakshana, or five marks, traditionally define what a Purana should contain."
+    },
+    {
+      "id": "the-puranas-q12",
+      "difficulty": "medium",
+      "q": "Which of these is one of the five traditional marks (pancha-lakshana) of a Purana?",
+      "options": [
+        "Rules of temple architecture",
+        "Genealogies of gods and kings",
+        "Codes of taxation",
+        "Methods of meditation only"
+      ],
+      "answer": 1,
+      "explanation": "The genealogies of gods and kings (vamsha) are among the five traditional marks of a Purana."
+    },
+    {
+      "id": "the-puranas-q13",
+      "difficulty": "medium",
+      "q": "Which Purana is the source of the renowned Devi Mahatmya, glorifying the Goddess?",
+      "options": [
+        "Agni Purana",
+        "Linga Purana",
+        "Markandeya Purana",
+        "Naradiya Purana"
+      ],
+      "answer": 2,
+      "explanation": "The Devi Mahatmya, celebrating the Goddess Durga's victory over Mahishasura, is embedded in the Markandeya Purana."
+    },
+    {
+      "id": "the-puranas-q14",
+      "difficulty": "medium",
+      "q": "The Puranas describe the creation and dissolution of the cosmos through which vast time cycles?",
+      "options": [
+        "Solar eclipses",
+        "Lunar months only",
+        "Royal regnal years",
+        "Yugas and kalpas"
+      ],
+      "answer": 3,
+      "explanation": "Puranic cosmology unfolds through immense cycles of yugas and kalpas, marking creation and dissolution."
+    },
+    {
+      "id": "the-puranas-q15",
+      "difficulty": "medium",
+      "q": "According to the Puranas, how many ages or yugas make up one complete cycle, the Mahayuga?",
+      "options": [
+        "Four",
+        "Two",
+        "Three",
+        "Six"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas describe four yugas, Satya, Treta, Dvapara, and Kali, that together form one Mahayuga."
+    },
+    {
+      "id": "the-puranas-q16",
+      "difficulty": "medium",
+      "q": "Which sage is traditionally credited with compiling and arranging the Puranas?",
+      "options": [
+        "Valmiki",
+        "Vyasa",
+        "Vishvamitra",
+        "Vasishtha"
+      ],
+      "answer": 1,
+      "explanation": "The sage Vyasa, also credited with arranging the Vedas, is traditionally said to have compiled the Puranas."
+    },
+    {
+      "id": "the-puranas-q17",
+      "difficulty": "medium",
+      "q": "Which Purana is traditionally associated with rites concerning death and the afterlife?",
+      "options": [
+        "Skanda Purana",
+        "Vamana Purana",
+        "Garuda Purana",
+        "Kurma Purana"
+      ],
+      "answer": 2,
+      "explanation": "The Garuda Purana is well known for its sections on death, funeral rites, and the journey of the soul."
+    },
+    {
+      "id": "the-puranas-q18",
+      "difficulty": "medium",
+      "q": "The Bhagavata Purana describes how many principal avatars of Vishnu in its famous listing?",
+      "options": [
+        "Five",
+        "Seven",
+        "Eighteen",
+        "Ten (the Dashavatara)"
+      ],
+      "answer": 3,
+      "explanation": "The Puranic tradition, including the Bhagavata, popularly enumerates the Dashavatara, the ten principal avatars of Vishnu."
+    },
+    {
+      "id": "the-puranas-q19",
+      "difficulty": "medium",
+      "q": "Which Mahapurana is the longest, traditionally regarded as the most voluminous of the eighteen?",
+      "options": [
+        "Skanda Purana",
+        "Brahmanda Purana",
+        "Padma Purana",
+        "Matsya Purana"
+      ],
+      "answer": 0,
+      "explanation": "The Skanda Purana is traditionally counted as the largest of the eighteen Mahapuranas."
+    },
+    {
+      "id": "the-puranas-q20",
+      "difficulty": "medium",
+      "q": "Besides the eighteen Mahapuranas, what is the name given to the secondary or minor Puranas?",
+      "options": [
+        "Aranyakas",
+        "Upapuranas",
+        "Brahmanas",
+        "Vedangas"
+      ],
+      "answer": 1,
+      "explanation": "Alongside the eighteen Mahapuranas, tradition recognises a further set of minor texts called the Upapuranas."
+    },
+    {
+      "id": "the-puranas-q21",
+      "difficulty": "medium",
+      "q": "The Puranas commonly describe the deity Vishnu reclining upon which cosmic serpent between creations?",
+      "options": [
+        "Vasuki",
+        "Takshaka",
+        "Ananta-Shesha",
+        "Kaliya"
+      ],
+      "answer": 2,
+      "explanation": "Puranic accounts depict Vishnu reclining on the great serpent Ananta-Shesha upon the cosmic ocean."
+    },
+    {
+      "id": "the-puranas-q22",
+      "difficulty": "medium",
+      "q": "Which avatar story, in which Vishnu measures the cosmos in three strides, is recounted in the Puranas?",
+      "options": [
+        "Parashurama",
+        "Matsya",
+        "Kalki",
+        "Vamana"
+      ],
+      "answer": 3,
+      "explanation": "The Puranas narrate Vamana, the dwarf avatar of Vishnu, who covers the worlds in three strides to subdue Bali."
+    },
+    {
+      "id": "the-puranas-q23",
+      "difficulty": "hard",
+      "q": "In the Puranas, the Mahapuranas are traditionally classified into three groups associated with which scheme?",
+      "options": [
+        "The three gunas (sattva, rajas, tamas)",
+        "The three seasons",
+        "The three Vedas",
+        "The three rivers"
+      ],
+      "answer": 0,
+      "explanation": "Tradition groups the eighteen Mahapuranas into three sets of six, associated with the gunas sattva, rajas, and tamas."
+    },
+    {
+      "id": "the-puranas-q24",
+      "difficulty": "hard",
+      "q": "Which Purana opens with the Matsya (fish) avatar rescuing Manu from the great flood, and is named for that avatar?",
+      "options": [
+        "Kurma Purana",
+        "Matsya Purana",
+        "Varaha Purana",
+        "Vayu Purana"
+      ],
+      "answer": 1,
+      "explanation": "The Matsya Purana takes its name from the fish avatar of Vishnu, who saves Manu and the seeds of creation from the deluge."
+    },
+    {
+      "id": "the-puranas-q25",
+      "difficulty": "hard",
+      "q": "Which Purana is named after the tortoise avatar that supported Mount Mandara during the churning of the ocean?",
+      "options": [
+        "Garuda Purana",
+        "Naradiya Purana",
+        "Kurma Purana",
+        "Bhavishya Purana"
+      ],
+      "answer": 2,
+      "explanation": "The Kurma Purana is named for the tortoise avatar of Vishnu, who bore Mount Mandara during the Samudra Manthan."
+    },
+    {
+      "id": "the-puranas-q26",
+      "difficulty": "hard",
+      "q": "Within the Puranic framework, which Manu is said to preside over the present age of humanity?",
+      "options": [
+        "Svayambhuva Manu",
+        "Chakshusha Manu",
+        "Raivata Manu",
+        "Vaivasvata Manu"
+      ],
+      "answer": 3,
+      "explanation": "The Puranas hold that the present manvantara is presided over by Vaivasvata Manu, the seventh Manu."
+    },
+    {
+      "id": "the-puranas-q27",
+      "difficulty": "hard",
+      "q": "Which Purana, named for a son of Shiva, is celebrated for its many regional and sthala (place) legends?",
+      "options": [
+        "Skanda Purana",
+        "Linga Purana",
+        "Brahma Purana",
+        "Padma Purana"
+      ],
+      "answer": 0,
+      "explanation": "The Skanda Purana, named for Skanda (Kartikeya), is renowned for its abundant sthala-mahatmyas, legends of sacred sites."
+    },
+    {
+      "id": "the-puranas-q28",
+      "difficulty": "hard",
+      "q": "The Puranas teach that at the close of a kalpa the cosmos undergoes which periodic dissolution?",
+      "options": [
+        "Pradakshina",
+        "Pralaya",
+        "Prana",
+        "Prasada"
+      ],
+      "answer": 1,
+      "explanation": "Puranic cosmology describes pralaya, the periodic dissolution of the cosmos at the end of a kalpa, before re-creation."
+    },
+    {
+      "id": "the-puranas-q29",
+      "difficulty": "hard",
+      "q": "Which Purana shares its name with Vishnu's eagle mount and is framed as his dialogue with that bird?",
+      "options": [
+        "Vayu Purana",
+        "Agni Purana",
+        "Garuda Purana",
+        "Linga Purana"
+      ],
+      "answer": 2,
+      "explanation": "The Garuda Purana is framed as a discourse from Vishnu to his eagle mount Garuda, after whom it is named."
+    },
+    {
+      "id": "the-puranas-q30",
+      "difficulty": "hard",
+      "q": "Which Purana takes the form of a dialogue revealed by the god Agni and serves as an encyclopaedic compendium?",
+      "options": [
+        "Markandeya Purana",
+        "Vamana Purana",
+        "Brahmanda Purana",
+        "Agni Purana"
+      ],
+      "answer": 3,
+      "explanation": "The Agni Purana, traditionally revealed by Agni, is encyclopaedic in scope, covering ritual, cosmology, and many arts and sciences."
+    }
+  ]
+}

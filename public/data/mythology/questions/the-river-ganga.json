@@ -1,0 +1,395 @@
+{
+  "cardId": "the-river-ganga",
+  "questions": [
+    {
+      "id": "the-river-ganga-q01",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, the Ganga is revered as both a sacred river and what else?",
+      "options": [
+        "A goddess",
+        "A demon",
+        "A celestial weapon",
+        "A mountain"
+      ],
+      "answer": 0,
+      "explanation": "Ganga is venerated as both a holy river and a goddess in Hindu tradition."
+    },
+    {
+      "id": "the-river-ganga-q02",
+      "difficulty": "easy",
+      "q": "According to the Puranas, in whose matted locks did the Ganga land to break her fall as she descended to earth?",
+      "options": [
+        "Brahma's",
+        "Shiva's",
+        "Indra's",
+        "Agni's"
+      ],
+      "answer": 1,
+      "explanation": "Shiva caught the descending Ganga in his matted locks to soften her fall to the earth."
+    },
+    {
+      "id": "the-river-ganga-q03",
+      "difficulty": "easy",
+      "q": "Which king's intense penance is said to have won the Ganga's descent to earth?",
+      "options": [
+        "King Dasharatha",
+        "King Janaka",
+        "King Bhagiratha",
+        "King Harishchandra"
+      ],
+      "answer": 2,
+      "explanation": "King Bhagiratha's penance is credited with bringing the Ganga down from heaven to earth."
+    },
+    {
+      "id": "the-river-ganga-q04",
+      "difficulty": "easy",
+      "q": "Bhagiratha sought the Ganga's descent in order to liberate the souls of whom?",
+      "options": [
+        "His enemies in battle",
+        "The devas in heaven",
+        "His own children",
+        "The ashes of his ancestors"
+      ],
+      "answer": 3,
+      "explanation": "Bhagiratha brought the Ganga to earth so her waters could liberate the ashes of his ancestors, the sons of Sagara."
+    },
+    {
+      "id": "the-river-ganga-q05",
+      "difficulty": "easy",
+      "q": "From which deity's toe is the Ganga said to flow before her descent?",
+      "options": [
+        "Vishnu",
+        "Yama",
+        "Varuna",
+        "Kubera"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas describe the celestial Ganga as flowing from the toe of Vishnu."
+    },
+    {
+      "id": "the-river-ganga-q06",
+      "difficulty": "easy",
+      "q": "In which major epic is the famous account of the Ganga's descent recounted?",
+      "options": [
+        "The Natyashastra",
+        "The Ramayana",
+        "The Meghaduta",
+        "The Arthashastra"
+      ],
+      "answer": 1,
+      "explanation": "The Ramayana recounts the descent of the Ganga as part of the story of Bhagiratha."
+    },
+    {
+      "id": "the-river-ganga-q07",
+      "difficulty": "easy",
+      "q": "What is the Ganga held to do for those who bathe in her waters?",
+      "options": [
+        "Grant invisibility",
+        "Bestow great wealth",
+        "Purify sins",
+        "Confer immortality of the body"
+      ],
+      "answer": 2,
+      "explanation": "The Ganga's waters are held to purify the sins of those who bathe in them."
+    },
+    {
+      "id": "the-river-ganga-q08",
+      "difficulty": "easy",
+      "q": "Before descending to earth, through which realm did the Ganga flow according to the Puranas?",
+      "options": [
+        "The underworld",
+        "The ocean depths",
+        "The desert wastes",
+        "The heavens"
+      ],
+      "answer": 3,
+      "explanation": "The Ganga is described as flowing through the heavens before her descent to the earthly realm."
+    },
+    {
+      "id": "the-river-ganga-q09",
+      "difficulty": "easy",
+      "q": "An epithet often used for the Ganga celebrates her as the celestial river upon what?",
+      "options": [
+        "Earth",
+        "The moon",
+        "The sun",
+        "A distant star"
+      ],
+      "answer": 0,
+      "explanation": "The Ganga is celebrated as the celestial river that came down to flow upon the earth."
+    },
+    {
+      "id": "the-river-ganga-q10",
+      "difficulty": "easy",
+      "q": "The waters of the Ganga are especially associated with granting a sanctified passage at what moment of life?",
+      "options": [
+        "Birth",
+        "Death",
+        "Marriage",
+        "Coronation"
+      ],
+      "answer": 1,
+      "explanation": "Ganga's waters are held to grant a sanctified passage at the time of death."
+    },
+    {
+      "id": "the-river-ganga-q11",
+      "difficulty": "medium",
+      "q": "In the Ramayana, Bhagiratha sought to liberate the ashes of the sixty thousand sons of which king?",
+      "options": [
+        "King Raghu",
+        "King Aja",
+        "King Sagara",
+        "King Kakutstha"
+      ],
+      "answer": 2,
+      "explanation": "The sixty thousand sons of King Sagara were burned to ashes, and their liberation prompted Bhagiratha's quest."
+    },
+    {
+      "id": "the-river-ganga-q12",
+      "difficulty": "medium",
+      "q": "In the Ramayana, which sage reduced King Sagara's sons to ashes when they wrongly accused him of stealing their sacrificial horse?",
+      "options": [
+        "The sage Vishwamitra",
+        "The sage Durvasa",
+        "The sage Bhrigu",
+        "The sage Kapila"
+      ],
+      "answer": 3,
+      "explanation": "When Sagara's sons wrongly accused the sage Kapila of stealing their sacrificial horse, his glance reduced them to ashes."
+    },
+    {
+      "id": "the-river-ganga-q13",
+      "difficulty": "medium",
+      "q": "Because Shiva bears the Ganga in his hair, he is honored by which of these names?",
+      "options": [
+        "Gangadhara",
+        "Gajanana",
+        "Gadadhara",
+        "Garudadhvaja"
+      ],
+      "answer": 0,
+      "explanation": "Shiva is called Gangadhara, meaning the bearer of the Ganga."
+    },
+    {
+      "id": "the-river-ganga-q14",
+      "difficulty": "medium",
+      "q": "Bhagiratha first performed austerities to obtain the Ganga's release, but a second penance was needed to persuade which deity to receive her fall?",
+      "options": [
+        "Yama",
+        "Shiva",
+        "Surya",
+        "Vayu"
+      ],
+      "answer": 1,
+      "explanation": "Bhagiratha had to perform further penance to persuade Shiva to catch the Ganga's overwhelming descent."
+    },
+    {
+      "id": "the-river-ganga-q15",
+      "difficulty": "medium",
+      "q": "The Ganga is often depicted in iconography riding upon which animal as her mount?",
+      "options": [
+        "A swan",
+        "A bull",
+        "A makara (crocodile-like creature)",
+        "A peacock"
+      ],
+      "answer": 2,
+      "explanation": "The goddess Ganga is traditionally depicted riding a makara, a crocodile-like aquatic creature."
+    },
+    {
+      "id": "the-river-ganga-q16",
+      "difficulty": "medium",
+      "q": "Which holy city, sacred to Shiva, sits on the banks of the Ganga and is famed as a place of liberation?",
+      "options": [
+        "Dwaraka",
+        "Madurai",
+        "Ujjain",
+        "Kashi (Varanasi)"
+      ],
+      "answer": 3,
+      "explanation": "Kashi (Varanasi), sacred to Shiva, stands on the banks of the Ganga and is famed as a city of liberation."
+    },
+    {
+      "id": "the-river-ganga-q17",
+      "difficulty": "medium",
+      "q": "In the Mahabharata, the Ganga is described as the mother of which great warrior, born of King Shantanu?",
+      "options": [
+        "Bhishma",
+        "Drona",
+        "Karna",
+        "Arjuna"
+      ],
+      "answer": 0,
+      "explanation": "In the Mahabharata, Ganga is the mother of Bhishma, whom she bore to King Shantanu."
+    },
+    {
+      "id": "the-river-ganga-q18",
+      "difficulty": "medium",
+      "q": "Because she descended through Bhagiratha's effort, the Ganga is also known by which name in his honor?",
+      "options": [
+        "Bhairavi",
+        "Bhagirathi",
+        "Bhuvaneshwari",
+        "Bhargavi"
+      ],
+      "answer": 1,
+      "explanation": "The Ganga is also called Bhagirathi, named for King Bhagiratha who brought her down."
+    },
+    {
+      "id": "the-river-ganga-q19",
+      "difficulty": "medium",
+      "q": "In Puranic tradition, the descent of the Ganga to earth is reckoned as one of the world's great what?",
+      "options": [
+        "Yajnas of fire",
+        "Battles of the devas",
+        "Tirthas (sacred crossings)",
+        "Curses of the sages"
+      ],
+      "answer": 2,
+      "explanation": "The Ganga is honored as the foremost of tirthas, the sacred crossing-places of pilgrimage."
+    },
+    {
+      "id": "the-river-ganga-q20",
+      "difficulty": "medium",
+      "q": "The Ganga is frequently grouped with which other great river as the most sacred of India's rivers?",
+      "options": [
+        "The Indus",
+        "The Brahmaputra",
+        "The Kaveri",
+        "The Yamuna"
+      ],
+      "answer": 3,
+      "explanation": "The Ganga and the Yamuna are revered together among the holiest of India's sacred rivers."
+    },
+    {
+      "id": "the-river-ganga-q21",
+      "difficulty": "medium",
+      "q": "In her iconography, the Ganga is often shown holding which object that signifies her flowing, life-giving waters?",
+      "options": [
+        "A water-pot (kalasha)",
+        "A flaming trident",
+        "A war discus",
+        "A thunderbolt"
+      ],
+      "answer": 0,
+      "explanation": "Ganga is commonly depicted holding a water-pot, the kalasha, symbolizing her abundant, purifying waters."
+    },
+    {
+      "id": "the-river-ganga-q22",
+      "difficulty": "medium",
+      "q": "According to the Ramayana, why was Shiva needed to receive the Ganga rather than letting her fall directly upon the earth?",
+      "options": [
+        "She refused to descend at all",
+        "The force of her fall would have shattered the earth",
+        "The earth would have evaporated her waters",
+        "Indra forbade her descent"
+      ],
+      "answer": 1,
+      "explanation": "The Ramayana relates that the tremendous force of Ganga's fall would have split the earth, so Shiva broke it in his locks."
+    },
+    {
+      "id": "the-river-ganga-q23",
+      "difficulty": "hard",
+      "q": "In the Mahabharata, the Ganga drowned seven of her sons in her own waters; who was the eighth son she spared, raised to become Bhishma?",
+      "options": [
+        "An incarnation of Agni",
+        "A son of Yama",
+        "The incarnation of the Vasu Dyaus",
+        "An incarnation of Vayu"
+      ],
+      "answer": 2,
+      "explanation": "Bhishma was the eighth son, the partial incarnation of the Vasu Dyaus, spared by Ganga to live among mortals."
+    },
+    {
+      "id": "the-river-ganga-q24",
+      "difficulty": "hard",
+      "q": "Which name of the Ganga refers to her three-fold path, flowing through heaven, earth, and the netherworld?",
+      "options": [
+        "Trilochana",
+        "Tripurasundari",
+        "Trivikrama",
+        "Tripathaga"
+      ],
+      "answer": 3,
+      "explanation": "Ganga is called Tripathaga, she who travels three paths: the heavens, the earth, and the netherworld."
+    },
+    {
+      "id": "the-river-ganga-q25",
+      "difficulty": "hard",
+      "q": "After her descent, the Ganga's waters flooded the sacrificial ground of which sage, who in anger drank her up before relenting?",
+      "options": [
+        "The sage Jahnu",
+        "The sage Atri",
+        "The sage Gautama",
+        "The sage Agastya"
+      ],
+      "answer": 0,
+      "explanation": "The sage Jahnu drank the Ganga when she flooded his sacrifice, then released her, giving her the name Jahnavi."
+    },
+    {
+      "id": "the-river-ganga-q26",
+      "difficulty": "hard",
+      "q": "Owing to the episode in which a sage absorbed and released her, the Ganga bears which patronymic name?",
+      "options": [
+        "Janaki",
+        "Jahnavi",
+        "Jambavati",
+        "Jayanti"
+      ],
+      "answer": 1,
+      "explanation": "Because the sage Jahnu released her, the Ganga is known as Jahnavi, the daughter of Jahnu."
+    },
+    {
+      "id": "the-river-ganga-q27",
+      "difficulty": "hard",
+      "q": "In the Puranas, the Ganga is often counted as a daughter of which mountain king, making her a sister of Parvati?",
+      "options": [
+        "Vindhya",
+        "Meru",
+        "Himavan (Himalaya)",
+        "Mainaka"
+      ],
+      "answer": 2,
+      "explanation": "The Ganga is reckoned a daughter of Himavan, the mountain king, and thus a sister of Parvati."
+    },
+    {
+      "id": "the-river-ganga-q28",
+      "difficulty": "hard",
+      "q": "The Bhagavata Purana traces the celestial Ganga's origin to the foot of Vishnu in which of his incarnations, when he measured the cosmos?",
+      "options": [
+        "Narasimha (the man-lion)",
+        "Kurma (the tortoise)",
+        "Matsya (the fish)",
+        "Vamana (the dwarf, in his Trivikrama form)"
+      ],
+      "answer": 3,
+      "explanation": "The Bhagavata Purana relates that the Ganga sprang from Vishnu's foot as Vamana strode across the cosmos in his Trivikrama form."
+    },
+    {
+      "id": "the-river-ganga-q29",
+      "difficulty": "hard",
+      "q": "The sacred confluence at Prayaga, hallowed by the Ganga, is the meeting of the Ganga, the Yamuna, and which mythical third river?",
+      "options": [
+        "The Sarasvati",
+        "The Godavari",
+        "The Narmada",
+        "The Tungabhadra"
+      ],
+      "answer": 0,
+      "explanation": "At Prayaga the Ganga and Yamuna are said to meet the unseen, mythical Sarasvati in the sacred Triveni Sangam."
+    },
+    {
+      "id": "the-river-ganga-q30",
+      "difficulty": "hard",
+      "q": "In the Ramayana, after his second penance, Bhagiratha led the Ganga across the earth to the ashes of Sagara's sons in which region?",
+      "options": [
+        "The peaks of the Himalayas",
+        "The netherworld (Patala), where the ashes lay",
+        "The island of Lanka",
+        "The deserts of the west"
+      ],
+      "answer": 1,
+      "explanation": "Bhagiratha led the Ganga down into the netherworld where the ashes of Sagara's sons lay, granting them release."
+    }
+  ]
+}

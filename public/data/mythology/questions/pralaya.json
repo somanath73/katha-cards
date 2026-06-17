@@ -1,0 +1,395 @@
+{
+  "cardId": "pralaya",
+  "questions": [
+    {
+      "id": "pralaya-q01",
+      "difficulty": "easy",
+      "q": "In the Puranas, what does the term 'pralaya' refer to?",
+      "options": [
+        "The dissolution of the cosmos",
+        "The birth of the first sage",
+        "A royal coronation",
+        "A pilgrimage festival"
+      ],
+      "answer": 0,
+      "explanation": "Pralaya is the periodic dissolution of the created worlds described in the Puranas."
+    },
+    {
+      "id": "pralaya-q02",
+      "difficulty": "easy",
+      "q": "According to Puranic cosmology, the worlds undergo pralaya at the close of which span?",
+      "options": [
+        "A single day",
+        "A cosmic age or cycle",
+        "A human lifetime",
+        "A single season"
+      ],
+      "answer": 1,
+      "explanation": "Pralaya occurs at the close of a cosmic age, when the created worlds are reabsorbed."
+    },
+    {
+      "id": "pralaya-q03",
+      "difficulty": "easy",
+      "q": "In Hindu cosmology, pralaya (dissolution) is paired with which complementary cosmic process?",
+      "options": [
+        "Dana (charity)",
+        "Yajna (sacrifice)",
+        "Srishti (creation)",
+        "Tapas (austerity)"
+      ],
+      "answer": 2,
+      "explanation": "Pralaya, the dissolution, alternates with srishti, the creation of the worlds."
+    },
+    {
+      "id": "pralaya-q04",
+      "difficulty": "easy",
+      "q": "The Puranas describe the greatest dissolution at the end of the life of which creator deity?",
+      "options": [
+        "Indra",
+        "Yama",
+        "Kubera",
+        "Brahma"
+      ],
+      "answer": 3,
+      "explanation": "The maha-pralaya occurs at the end of Brahma's life, after which all returns to the unmanifest."
+    },
+    {
+      "id": "pralaya-q05",
+      "difficulty": "easy",
+      "q": "After a pralaya, according to the Puranas, the cosmos returns to what state until a new cycle begins?",
+      "options": [
+        "The unmanifest",
+        "A fully formed kingdom",
+        "A garden of sages",
+        "A field of stars"
+      ],
+      "answer": 0,
+      "explanation": "After dissolution all returns to the unmanifest until a new cycle of creation begins."
+    },
+    {
+      "id": "pralaya-q06",
+      "difficulty": "easy",
+      "q": "Which element is most often associated with the imagery of the final dissolution in Puranic accounts of pralaya?",
+      "options": [
+        "Iron",
+        "Fire",
+        "Salt",
+        "Clay"
+      ],
+      "answer": 1,
+      "explanation": "Puranic accounts vividly depict a cosmic fire that consumes the worlds during dissolution."
+    },
+    {
+      "id": "pralaya-q07",
+      "difficulty": "easy",
+      "q": "In Puranic teaching, the cycle of creation and dissolution is described as which kind of process?",
+      "options": [
+        "A single one-time event",
+        "An accidental occurrence",
+        "A recurring, cyclical rhythm",
+        "A purely human invention"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas present creation and dissolution as a recurring, cyclical rhythm of the cosmos."
+    },
+    {
+      "id": "pralaya-q08",
+      "difficulty": "easy",
+      "q": "The doctrine of pralaya, the dissolution of the worlds, is chiefly elaborated in which body of texts?",
+      "options": [
+        "The court chronicles",
+        "The grammar treatises",
+        "The medical compendia",
+        "The Puranas"
+      ],
+      "answer": 3,
+      "explanation": "The concept of pralaya is chiefly elaborated in the Puranas."
+    },
+    {
+      "id": "pralaya-q09",
+      "difficulty": "easy",
+      "q": "In the famous Puranic image linked to dissolution, which deity reclines in cosmic slumber on the serpent Shesha between cycles?",
+      "options": [
+        "Vishnu",
+        "Agni",
+        "Vayu",
+        "Surya"
+      ],
+      "answer": 0,
+      "explanation": "Vishnu as Narayana reclines in yoga nidra upon Shesha between the cycles of creation."
+    },
+    {
+      "id": "pralaya-q10",
+      "difficulty": "easy",
+      "q": "Traditions describe both lesser and greater dissolutions; the very greatest is given which name?",
+      "options": [
+        "Maha-yajna",
+        "Maha-pralaya",
+        "Maha-dana",
+        "Maha-vrata"
+      ],
+      "answer": 1,
+      "explanation": "The greatest dissolution, at the end of Brahma's life, is called the maha-pralaya."
+    },
+    {
+      "id": "pralaya-q11",
+      "difficulty": "medium",
+      "q": "In Puranic cosmology, the dissolution that occurs at the end of one of Brahma's days is commonly called which type of pralaya?",
+      "options": [
+        "Atyantika pralaya",
+        "Prakritika pralaya",
+        "Naimittika (occasional) pralaya",
+        "A festival pralaya"
+      ],
+      "answer": 2,
+      "explanation": "The dissolution at the close of a day of Brahma is traditionally termed the naimittika or occasional pralaya."
+    },
+    {
+      "id": "pralaya-q12",
+      "difficulty": "medium",
+      "q": "The Puranas measure a vast cosmic age as a 'kalpa,' which is described as equivalent to what in Brahma's reckoning?",
+      "options": [
+        "One breath of Brahma",
+        "One year of Indra",
+        "One blink of Vishnu",
+        "One day of Brahma"
+      ],
+      "answer": 3,
+      "explanation": "A kalpa is described in the Puranas as a single day of Brahma, ending in dissolution."
+    },
+    {
+      "id": "pralaya-q13",
+      "difficulty": "medium",
+      "q": "According to the Puranas, a complete cosmic cycle is divided into four ages (yugas); the last and most diminished is named what?",
+      "options": [
+        "Kali Yuga",
+        "Krita Yuga",
+        "Treta Yuga",
+        "Dvapara Yuga"
+      ],
+      "answer": 0,
+      "explanation": "The Kali Yuga is the last of the four yugas, after which the cycle eventually turns toward dissolution and renewal."
+    },
+    {
+      "id": "pralaya-q14",
+      "difficulty": "medium",
+      "q": "In Puranic accounts of the dissolution, which avatar of Vishnu is said to preserve the seeds of life through a great deluge?",
+      "options": [
+        "Narasimha",
+        "Matsya (the fish)",
+        "Vamana",
+        "Parashurama"
+      ],
+      "answer": 1,
+      "explanation": "In the Matsya story, Vishnu as the fish guides Manu's boat and preserves life through the cosmic flood."
+    },
+    {
+      "id": "pralaya-q15",
+      "difficulty": "medium",
+      "q": "In the Puranic story of the great flood, the sage-king whom Matsya guides to safety is traditionally named whom?",
+      "options": [
+        "Bhagiratha",
+        "Janaka",
+        "Manu",
+        "Harishchandra"
+      ],
+      "answer": 2,
+      "explanation": "Matsya guides Manu's boat through the deluge, preserving the seeds of creation for the next age."
+    },
+    {
+      "id": "pralaya-q16",
+      "difficulty": "medium",
+      "q": "When the worlds are dissolved at pralaya, from whose navel-lotus is the new creation said to begin in Puranic imagery?",
+      "options": [
+        "Shiva's",
+        "Yama's",
+        "Varuna's",
+        "Vishnu's"
+      ],
+      "answer": 3,
+      "explanation": "From the lotus rising out of Vishnu's navel, Brahma is born to begin a new creation."
+    },
+    {
+      "id": "pralaya-q17",
+      "difficulty": "medium",
+      "q": "In Puranic accounts, the dissolution that ends Brahma's entire lifespan, returning even the elements to their source, is which type?",
+      "options": [
+        "Prakritika (elemental) pralaya",
+        "Naimittika pralaya",
+        "A daily pralaya",
+        "Nitya pralaya of an individual"
+      ],
+      "answer": 0,
+      "explanation": "The prakritika pralaya, at the end of Brahma's life, dissolves the very elements back into primal nature."
+    },
+    {
+      "id": "pralaya-q18",
+      "difficulty": "medium",
+      "q": "In the Bhagavad Gita, Krishna teaches Arjuna that at the close of a cosmic age all beings return into which divine source?",
+      "options": [
+        "The river Ganga",
+        "Krishna's own nature (prakriti)",
+        "Mount Meru",
+        "The city of Ayodhya"
+      ],
+      "answer": 1,
+      "explanation": "In the Gita, Krishna says that at the end of an age all beings merge into his prakriti and are sent forth again at the new creation."
+    },
+    {
+      "id": "pralaya-q19",
+      "difficulty": "medium",
+      "q": "The Puranas describe Vishnu's restful state upon the cosmic waters between dissolution and creation by which term?",
+      "options": [
+        "Tandava (cosmic dance)",
+        "Digvijaya (conquest)",
+        "Yoga nidra (cosmic slumber)",
+        "Vanaprastha (forest retreat)"
+      ],
+      "answer": 2,
+      "explanation": "Vishnu reclines in yoga nidra, cosmic slumber, upon the serpent between the cycles of creation."
+    },
+    {
+      "id": "pralaya-q20",
+      "difficulty": "medium",
+      "q": "On which serpent is Vishnu depicted reclining upon the cosmic ocean during the interval following dissolution?",
+      "options": [
+        "Vasuki",
+        "Takshaka",
+        "Kaliya",
+        "Shesha (Ananta)"
+      ],
+      "answer": 3,
+      "explanation": "Vishnu reclines upon the thousand-headed serpent Shesha, also called Ananta, on the cosmic waters."
+    },
+    {
+      "id": "pralaya-q21",
+      "difficulty": "medium",
+      "q": "Which goddess is described as attending at Vishnu's feet as he reclines between the cosmic cycles of dissolution and creation?",
+      "options": [
+        "Lakshmi",
+        "Saraswati",
+        "Ganga",
+        "Ushas"
+      ],
+      "answer": 0,
+      "explanation": "Lakshmi attends at Vishnu's feet as he reclines on the serpent between the cycles."
+    },
+    {
+      "id": "pralaya-q22",
+      "difficulty": "medium",
+      "q": "In Puranic reckoning, the recurring framework of creation and dissolution is governed by the lifespan of which deity in particular?",
+      "options": [
+        "Hanuman",
+        "Brahma",
+        "Ganesha",
+        "Kartikeya"
+      ],
+      "answer": 1,
+      "explanation": "The Puranas tie the rhythm of creation and dissolution to the days, nights, and lifespan of Brahma."
+    },
+    {
+      "id": "pralaya-q23",
+      "difficulty": "hard",
+      "q": "Puranic tradition counts four kinds of dissolution; which term names the 'absolute' dissolution understood as the liberation of an individual soul?",
+      "options": [
+        "Naimittika pralaya",
+        "Prakritika pralaya",
+        "Atyantika pralaya",
+        "Nitya pralaya"
+      ],
+      "answer": 2,
+      "explanation": "Atyantika pralaya refers to the absolute dissolution, the final liberation (moksha) of the individual soul."
+    },
+    {
+      "id": "pralaya-q24",
+      "difficulty": "hard",
+      "q": "Among the four kinds of dissolution in Puranic thought, 'nitya pralaya' refers to which constant phenomenon?",
+      "options": [
+        "The flooding of the seven oceans",
+        "The burning of Mount Meru",
+        "The churning of the ocean",
+        "The continual perishing of beings each moment"
+      ],
+      "answer": 3,
+      "explanation": "Nitya pralaya is the constant, perpetual dissolution seen in the moment-to-moment perishing of living beings."
+    },
+    {
+      "id": "pralaya-q25",
+      "difficulty": "hard",
+      "q": "In Puranic descriptions of the great dissolution, a fearsome cosmic fire is often said to issue from which serpent-associated source?",
+      "options": [
+        "Samvartaka fire linked to Shesha",
+        "The smoke of household lamps",
+        "The breath of Garuda",
+        "The waters of the Yamuna"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas describe the Samvartaka, a cosmic conflagration associated with the serpent, that scorches the worlds at dissolution."
+    },
+    {
+      "id": "pralaya-q26",
+      "difficulty": "hard",
+      "q": "The naimittika (occasional) pralaya at the end of a day of Brahma is followed by which corresponding period of rest?",
+      "options": [
+        "A year of Surya",
+        "A night of Brahma",
+        "A day of Indra",
+        "An age of the sages"
+      ],
+      "answer": 1,
+      "explanation": "The occasional dissolution at the end of a day of Brahma is followed by an equally long night of Brahma before re-creation."
+    },
+    {
+      "id": "pralaya-q27",
+      "difficulty": "hard",
+      "q": "According to the Puranas, during the prakritika dissolution the manifest universe is reabsorbed ultimately into which primordial principle?",
+      "options": [
+        "A mortal king's treasury",
+        "The constellation of the sages",
+        "Prakriti (primal nature)",
+        "A single sacred river"
+      ],
+      "answer": 2,
+      "explanation": "In the prakritika pralaya the cosmos is reabsorbed into prakriti, the unmanifest primal nature, until the next creation."
+    },
+    {
+      "id": "pralaya-q28",
+      "difficulty": "hard",
+      "q": "In the Bhagavad Gita's teaching on cosmic time, the recurring 'day' at whose dawning all beings emerge and at whose close they dissolve belongs to whom?",
+      "options": [
+        "Arjuna",
+        "Drona",
+        "Bhishma",
+        "Brahma"
+      ],
+      "answer": 3,
+      "explanation": "The Gita speaks of the day and night of Brahma, at whose dawn beings emerge and at whose dusk they dissolve."
+    },
+    {
+      "id": "pralaya-q29",
+      "difficulty": "hard",
+      "q": "Puranic cosmology often groups one thousand cycles of the four yugas into a single unit that equals one day of Brahma; this unit is called what?",
+      "options": [
+        "A kalpa",
+        "A muhurta",
+        "A paksha",
+        "A ghatika"
+      ],
+      "answer": 0,
+      "explanation": "A kalpa, comprising a thousand cycles of the four yugas, equals one day of Brahma and ends in dissolution."
+    },
+    {
+      "id": "pralaya-q30",
+      "difficulty": "hard",
+      "q": "In the Matsya account of the deluge that precedes a new age, the sage Manu is instructed to gather and preserve which things upon the boat?",
+      "options": [
+        "The crowns of all kings",
+        "The seeds of all creatures and the sacred knowledge",
+        "The gold of the heavens",
+        "The weapons of the gods"
+      ],
+      "answer": 1,
+      "explanation": "Matsya bids Manu carry the seeds of all living beings and the sacred Vedic knowledge through the flood to seed the next creation."
+    }
+  ]
+}

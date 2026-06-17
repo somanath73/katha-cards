@@ -1,0 +1,395 @@
+{
+  "cardId": "krishna",
+  "questions": [
+    {
+      "id": "krishna-q01",
+      "difficulty": "easy",
+      "q": "Of which deity is Krishna traditionally regarded as the eighth avatar?",
+      "options": [
+        "Shiva",
+        "Brahma",
+        "Vishnu",
+        "Indra"
+      ],
+      "answer": 2,
+      "explanation": "Krishna is honoured in the Puranas as the eighth avatar of Vishnu, the preserver."
+    },
+    {
+      "id": "krishna-q02",
+      "difficulty": "easy",
+      "q": "In which city was Krishna born, according to the Bhagavata Purana?",
+      "options": [
+        "Dwaraka",
+        "Ayodhya",
+        "Hastinapura",
+        "Mathura"
+      ],
+      "answer": 3,
+      "explanation": "The Bhagavata Purana recounts that Krishna was born in Mathura, in the prison of King Kamsa."
+    },
+    {
+      "id": "krishna-q03",
+      "difficulty": "easy",
+      "q": "Who is the birth-mother of Krishna in the texts?",
+      "options": [
+        "Devaki",
+        "Yashoda",
+        "Kunti",
+        "Rohini"
+      ],
+      "answer": 0,
+      "explanation": "Krishna's birth-mother is Devaki, wife of Vasudeva, though he was raised by the cowherd Yashoda."
+    },
+    {
+      "id": "krishna-q04",
+      "difficulty": "easy",
+      "q": "Which musical instrument is most closely associated with Krishna in his pastoral lila?",
+      "options": [
+        "The veena",
+        "The flute",
+        "The drum",
+        "The conch"
+      ],
+      "answer": 1,
+      "explanation": "Krishna is famed for enchanting the gopis and cattle with the music of his flute (bansuri)."
+    },
+    {
+      "id": "krishna-q05",
+      "difficulty": "easy",
+      "q": "In which forest region did Krishna spend his celebrated childhood among the cowherds?",
+      "options": [
+        "Naimisha",
+        "Khandava",
+        "Vrindavan",
+        "Dandaka"
+      ],
+      "answer": 2,
+      "explanation": "Krishna's childhood lila unfolded in Gokula and Vrindavan, by the banks of the Yamuna."
+    },
+    {
+      "id": "krishna-q06",
+      "difficulty": "easy",
+      "q": "Which tyrannical king, Krishna's uncle, did Krishna slay according to the Bhagavata Purana?",
+      "options": [
+        "Jarasandha",
+        "Shishupala",
+        "Ravana",
+        "Kamsa"
+      ],
+      "answer": 3,
+      "explanation": "The Bhagavata Purana describes Krishna slaying the tyrant Kamsa, the cruel king of Mathura."
+    },
+    {
+      "id": "krishna-q07",
+      "difficulty": "easy",
+      "q": "Which mountain did Krishna lift to shelter the people from a great storm?",
+      "options": [
+        "Mount Govardhan",
+        "Mount Meru",
+        "Mount Kailash",
+        "Mount Mandara"
+      ],
+      "answer": 0,
+      "explanation": "Krishna lifted Mount Govardhan on his finger to shelter Vrindavan from Indra's downpour."
+    },
+    {
+      "id": "krishna-q08",
+      "difficulty": "easy",
+      "q": "Who was the foster-mother who lovingly raised Krishna in Gokula?",
+      "options": [
+        "Devaki",
+        "Yashoda",
+        "Radha",
+        "Subhadra"
+      ],
+      "answer": 1,
+      "explanation": "Krishna was raised among cowherds by his foster-mother Yashoda and her husband Nanda."
+    },
+    {
+      "id": "krishna-q09",
+      "difficulty": "easy",
+      "q": "The young women of Vrindavan devoted to Krishna are known by which name?",
+      "options": [
+        "The apsaras",
+        "The rishis",
+        "The gopis",
+        "The yakshis"
+      ],
+      "answer": 2,
+      "explanation": "The gopis, the cowherd maidens of Vrindavan, were devoted companions in Krishna's lila."
+    },
+    {
+      "id": "krishna-q10",
+      "difficulty": "easy",
+      "q": "Krishna is often depicted with skin of which colour?",
+      "options": [
+        "Golden",
+        "White",
+        "Green",
+        "Dark blue"
+      ],
+      "answer": 3,
+      "explanation": "Krishna is traditionally portrayed with dark blue or blue-black skin, a hallmark of his iconography."
+    },
+    {
+      "id": "krishna-q11",
+      "difficulty": "medium",
+      "q": "Who was the father of Krishna, imprisoned by Kamsa along with Devaki?",
+      "options": [
+        "Vasudeva",
+        "Nanda",
+        "Akrura",
+        "Ugrasena"
+      ],
+      "answer": 0,
+      "explanation": "Vasudeva, husband of Devaki, was Krishna's father and carried the infant to safety in Gokula."
+    },
+    {
+      "id": "krishna-q12",
+      "difficulty": "medium",
+      "q": "Which elder brother of Krishna is associated with the plough and is counted among Vishnu's incarnations?",
+      "options": [
+        "Pradyumna",
+        "Balarama",
+        "Uddhava",
+        "Satyaki"
+      ],
+      "answer": 1,
+      "explanation": "Balarama, Krishna's elder brother who bears the plough, is regarded as an incarnation of the serpent Shesha."
+    },
+    {
+      "id": "krishna-q13",
+      "difficulty": "medium",
+      "q": "Which multi-hooded serpent did the young Krishna subdue in the river Yamuna?",
+      "options": [
+        "Vasuki",
+        "Takshaka",
+        "Kaliya",
+        "Shesha"
+      ],
+      "answer": 2,
+      "explanation": "Krishna danced upon and subdued the venomous serpent Kaliya, cleansing the waters of the Yamuna."
+    },
+    {
+      "id": "krishna-q14",
+      "difficulty": "medium",
+      "q": "On which sacred scripture is Krishna's discourse to Arjuna recorded?",
+      "options": [
+        "The Manusmriti",
+        "The Yoga Sutras",
+        "The Brahma Sutras",
+        "The Bhagavad Gita"
+      ],
+      "answer": 3,
+      "explanation": "Krishna's teaching to Arjuna on the battlefield is preserved as the Bhagavad Gita within the Mahabharata."
+    },
+    {
+      "id": "krishna-q15",
+      "difficulty": "medium",
+      "q": "In the Mahabharata, for which warrior did Krishna serve as charioteer at Kurukshetra?",
+      "options": [
+        "Arjuna",
+        "Bhima",
+        "Yudhishthira",
+        "Karna"
+      ],
+      "answer": 0,
+      "explanation": "Krishna served as the charioteer and counsellor of Arjuna during the great war at Kurukshetra."
+    },
+    {
+      "id": "krishna-q16",
+      "difficulty": "medium",
+      "q": "What is the name of the discus weapon wielded by Krishna?",
+      "options": [
+        "The Pinaka",
+        "The Sudarshana chakra",
+        "The Vajra",
+        "The Brahmastra"
+      ],
+      "answer": 1,
+      "explanation": "Krishna wields the Sudarshana chakra, the spinning discus of Vishnu, as his foremost weapon."
+    },
+    {
+      "id": "krishna-q17",
+      "difficulty": "medium",
+      "q": "What is the name of Krishna's conch, sounded at the start of the Kurukshetra war?",
+      "options": [
+        "Devadatta",
+        "Anantavijaya",
+        "Panchajanya",
+        "Paundra"
+      ],
+      "answer": 2,
+      "explanation": "Krishna's conch is named Panchajanya, sounded upon the field of Kurukshetra in the Mahabharata."
+    },
+    {
+      "id": "krishna-q18",
+      "difficulty": "medium",
+      "q": "To which coastal city did Krishna lead his people, establishing his kingdom in later life?",
+      "options": [
+        "Mathura",
+        "Indraprastha",
+        "Kanchi",
+        "Dwaraka"
+      ],
+      "answer": 3,
+      "explanation": "Krishna founded the kingdom of Dwaraka on the western coast after departing Mathura."
+    },
+    {
+      "id": "krishna-q19",
+      "difficulty": "medium",
+      "q": "Which deity's worship did Krishna challenge when he urged the people to honour Mount Govardhan instead?",
+      "options": [
+        "Indra",
+        "Agni",
+        "Varuna",
+        "Surya"
+      ],
+      "answer": 0,
+      "explanation": "Krishna redirected the people's worship from Indra to Mount Govardhan, prompting Indra's storm."
+    },
+    {
+      "id": "krishna-q20",
+      "difficulty": "medium",
+      "q": "Which queen is named in the Bhagavata Purana as the principal consort of Krishna at Dwaraka?",
+      "options": [
+        "Draupadi",
+        "Rukmini",
+        "Sita",
+        "Damayanti"
+      ],
+      "answer": 1,
+      "explanation": "Rukmini is celebrated in the Bhagavata Purana as the chief queen and consort of Krishna at Dwaraka."
+    },
+    {
+      "id": "krishna-q21",
+      "difficulty": "medium",
+      "q": "Which gopi of Vrindavan is most cherished in devotional tradition as Krishna's beloved?",
+      "options": [
+        "Mira",
+        "Yashoda",
+        "Radha",
+        "Yamuna"
+      ],
+      "answer": 2,
+      "explanation": "Radha is revered in devotional tradition as the foremost beloved gopi of Krishna in Vrindavan."
+    },
+    {
+      "id": "krishna-q22",
+      "difficulty": "medium",
+      "q": "Which Purana is the principal source for the life and lila of Krishna?",
+      "options": [
+        "The Shiva Purana",
+        "The Markandeya Purana",
+        "The Agni Purana",
+        "The Bhagavata Purana"
+      ],
+      "answer": 3,
+      "explanation": "The Bhagavata Purana is the principal text recounting Krishna's birth, childhood lila, and deeds."
+    },
+    {
+      "id": "krishna-q23",
+      "difficulty": "hard",
+      "q": "What is the name of the demoness who tried to kill the infant Krishna with poisoned milk?",
+      "options": [
+        "Putana",
+        "Surpanakha",
+        "Tataka",
+        "Holika"
+      ],
+      "answer": 0,
+      "explanation": "The Bhagavata Purana relates that the demoness Putana sought to kill the infant Krishna with her poisoned breast."
+    },
+    {
+      "id": "krishna-q24",
+      "difficulty": "hard",
+      "q": "In the Bhagavata Purana, which musical assembly describes Krishna's nocturnal dance with the gopis?",
+      "options": [
+        "The Govardhana lila",
+        "The Rasa lila",
+        "The Kaliya damana",
+        "The Vastra harana"
+      ],
+      "answer": 1,
+      "explanation": "The Rasa lila is the celebrated circular dance of Krishna with the gopis described in the Bhagavata Purana."
+    },
+    {
+      "id": "krishna-q25",
+      "difficulty": "hard",
+      "q": "Which powerful king of Magadha, father-in-law of Kamsa, repeatedly besieged Krishna's Mathura?",
+      "options": [
+        "Dhritarashtra",
+        "Virata",
+        "Jarasandha",
+        "Drupada"
+      ],
+      "answer": 2,
+      "explanation": "Jarasandha, king of Magadha and father-in-law of Kamsa, repeatedly attacked Mathura to avenge Kamsa."
+    },
+    {
+      "id": "krishna-q26",
+      "difficulty": "hard",
+      "q": "What is the name of Krishna's poor childhood friend whose offering of beaten rice he honoured?",
+      "options": [
+        "Akrura",
+        "Uddhava",
+        "Satyaki",
+        "Sudama"
+      ],
+      "answer": 3,
+      "explanation": "The Bhagavata Purana tells how Krishna lovingly received the humble gift of beaten rice from his friend Sudama."
+    },
+    {
+      "id": "krishna-q27",
+      "difficulty": "hard",
+      "q": "Which sister of Krishna became the wife of the Pandava hero Arjuna?",
+      "options": [
+        "Subhadra",
+        "Kunti",
+        "Ekalavya",
+        "Satyabhama"
+      ],
+      "answer": 0,
+      "explanation": "Subhadra, the sister of Krishna and Balarama, married Arjuna and was the mother of Abhimanyu."
+    },
+    {
+      "id": "krishna-q28",
+      "difficulty": "hard",
+      "q": "At the court of the Kauravas, whose garment did Krishna miraculously extend to preserve her honour?",
+      "options": [
+        "Kunti",
+        "Draupadi",
+        "Gandhari",
+        "Hidimba"
+      ],
+      "answer": 1,
+      "explanation": "The Mahabharata recounts that Krishna miraculously extended Draupadi's garment to protect her in the Kaurava court."
+    },
+    {
+      "id": "krishna-q29",
+      "difficulty": "hard",
+      "q": "Which vain king of Chedi did Krishna slay with the Sudarshana chakra at Yudhishthira's sacrifice?",
+      "options": [
+        "Banasura",
+        "Narakasura",
+        "Shishupala",
+        "Kamsa"
+      ],
+      "answer": 2,
+      "explanation": "Krishna slew Shishupala, king of Chedi, with the Sudarshana chakra after his hundred offences at the Rajasuya sacrifice."
+    },
+    {
+      "id": "krishna-q30",
+      "difficulty": "hard",
+      "q": "In the Bhagavata Purana, by what means does Krishna's earthly life come to its close?",
+      "options": [
+        "A serpent's bite",
+        "A fall in battle",
+        "Drowning in the sea",
+        "A hunter's arrow striking his foot"
+      ],
+      "answer": 3,
+      "explanation": "The Bhagavata Purana relates that a hunter named Jara, mistaking Krishna's foot for a deer, struck it with an arrow, ending his earthly sojourn."
+    }
+  ]
+}

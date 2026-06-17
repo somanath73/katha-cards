@@ -1,0 +1,395 @@
+{
+  "cardId": "the-vedas",
+  "questions": [
+    {
+      "id": "the-vedas-q01",
+      "difficulty": "easy",
+      "q": "How many Vedas are traditionally counted in Hindu scripture?",
+      "options": [
+        "Four",
+        "Two",
+        "Three",
+        "Six"
+      ],
+      "answer": 0,
+      "explanation": "The four Vedas are the Rigveda, Yajurveda, Samaveda, and Atharvaveda."
+    },
+    {
+      "id": "the-vedas-q02",
+      "difficulty": "easy",
+      "q": "Which of the four Vedas is regarded as the oldest and is composed chiefly of hymns of praise?",
+      "options": [
+        "The Yajurveda",
+        "The Rigveda",
+        "The Samaveda",
+        "The Atharvaveda"
+      ],
+      "answer": 1,
+      "explanation": "The Rigveda is the oldest Veda, consisting mainly of suktas (hymns) addressed to the deities."
+    },
+    {
+      "id": "the-vedas-q03",
+      "difficulty": "easy",
+      "q": "The Vedas belong to which category of Hindu scripture, traditionally regarded as 'that which is heard'?",
+      "options": [
+        "Smriti",
+        "Itihasa",
+        "Shruti",
+        "Purana"
+      ],
+      "answer": 2,
+      "explanation": "The Vedas are classified as shruti, meaning 'that which is heard' by the rishis."
+    },
+    {
+      "id": "the-vedas-q04",
+      "difficulty": "easy",
+      "q": "Which Veda is especially associated with melody and the chanting of hymns set to music?",
+      "options": [
+        "The Atharvaveda",
+        "The Yajurveda",
+        "The Rigveda",
+        "The Samaveda"
+      ],
+      "answer": 3,
+      "explanation": "The Samaveda is the Veda of melodies (saman), arranging Rigvedic verses for musical chanting."
+    },
+    {
+      "id": "the-vedas-q05",
+      "difficulty": "easy",
+      "q": "Which Veda primarily contains the prose formulas and procedures used by priests in performing the sacrifice?",
+      "options": [
+        "The Yajurveda",
+        "The Samaveda",
+        "The Rigveda",
+        "The Atharvaveda"
+      ],
+      "answer": 0,
+      "explanation": "The Yajurveda supplies the yajus, the ritual formulas and instructions for conducting the yajna."
+    },
+    {
+      "id": "the-vedas-q06",
+      "difficulty": "easy",
+      "q": "In the Vedic worldview, what is the central ritual around which much of the Vedas is organized?",
+      "options": [
+        "Pilgrimage to rivers",
+        "Yajna (the fire sacrifice)",
+        "Temple worship of images",
+        "Silent meditation alone"
+      ],
+      "answer": 1,
+      "explanation": "The yajna, the fire sacrifice, is the central ritual that much of the Vedic literature serves."
+    },
+    {
+      "id": "the-vedas-q07",
+      "difficulty": "easy",
+      "q": "Which fire-god is invoked in the very first hymn of the Rigveda as the divine priest of the sacrifice?",
+      "options": [
+        "Varuna",
+        "Yama",
+        "Agni",
+        "Surya"
+      ],
+      "answer": 2,
+      "explanation": "The Rigveda opens with a hymn to Agni, the god of fire who carries offerings to the gods."
+    },
+    {
+      "id": "the-vedas-q08",
+      "difficulty": "easy",
+      "q": "The Vedas are traditionally described as apaurusheya, which means they are believed to be what?",
+      "options": [
+        "Written in Tamil",
+        "Composed by a single king",
+        "Forbidden to recite aloud",
+        "Authorless and not of human composition"
+      ],
+      "answer": 3,
+      "explanation": "Apaurusheya means 'not of human origin'; the Vedas are traditionally held to be authorless and eternal."
+    },
+    {
+      "id": "the-vedas-q09",
+      "difficulty": "easy",
+      "q": "By what method were the Vedas chiefly preserved and transmitted across many generations?",
+      "options": [
+        "Exacting oral recitation",
+        "Carved on stone pillars",
+        "Painted on cave walls",
+        "Stored in royal libraries"
+      ],
+      "answer": 0,
+      "explanation": "The Vedas were preserved through precise oral recitation passed from teacher to student over millennia."
+    },
+    {
+      "id": "the-vedas-q10",
+      "difficulty": "easy",
+      "q": "Which warrior-king and slayer of Vritra is the deity most frequently addressed in the hymns of the Rigveda?",
+      "options": [
+        "Kubera",
+        "Indra",
+        "Vayu",
+        "Pushan"
+      ],
+      "answer": 1,
+      "explanation": "Indra, the storm-king who slays the serpent Vritra, receives the greatest number of Rigvedic hymns."
+    },
+    {
+      "id": "the-vedas-q11",
+      "difficulty": "medium",
+      "q": "The Vedas are divided into four textual layers. Which of these is one of those four divisions?",
+      "options": [
+        "Tantras",
+        "Agamas",
+        "Brahmanas",
+        "Dharmashastras"
+      ],
+      "answer": 2,
+      "explanation": "Each Veda is divided into Samhitas, Brahmanas, Aranyakas, and Upanishads."
+    },
+    {
+      "id": "the-vedas-q12",
+      "difficulty": "medium",
+      "q": "Which layer of Vedic literature forms the philosophical conclusion of the Vedas and is also called Vedanta?",
+      "options": [
+        "The Samhitas",
+        "The Brahmanas",
+        "The Aranyakas",
+        "The Upanishads"
+      ],
+      "answer": 3,
+      "explanation": "The Upanishads, the final layer, are called Vedanta, meaning 'the end of the Veda'."
+    },
+    {
+      "id": "the-vedas-q13",
+      "difficulty": "medium",
+      "q": "The sacred ritual drink frequently praised in the Rigveda, and also personified as a deity, is known by what name?",
+      "options": [
+        "Soma",
+        "Amrita",
+        "Madhu",
+        "Sura"
+      ],
+      "answer": 0,
+      "explanation": "Soma is both the ritual drink central to Vedic sacrifice and a deity to whom an entire mandala is devoted."
+    },
+    {
+      "id": "the-vedas-q14",
+      "difficulty": "medium",
+      "q": "Which Veda is distinct from the others in containing hymns, spells, and charms for healing and everyday life?",
+      "options": [
+        "The Samaveda",
+        "The Atharvaveda",
+        "The Rigveda",
+        "The Yajurveda"
+      ],
+      "answer": 1,
+      "explanation": "The Atharvaveda includes hymns and incantations for healing, protection, and household concerns."
+    },
+    {
+      "id": "the-vedas-q15",
+      "difficulty": "medium",
+      "q": "The revered Gayatri Mantra, addressed to the solar deity Savitr, is drawn from which Veda?",
+      "options": [
+        "The Atharvaveda",
+        "The Yajurveda",
+        "The Rigveda",
+        "The Samaveda"
+      ],
+      "answer": 2,
+      "explanation": "The Gayatri Mantra is a verse from the Rigveda (Mandala 3) addressed to Savitr, the sun."
+    },
+    {
+      "id": "the-vedas-q16",
+      "difficulty": "medium",
+      "q": "According to tradition, which sage is credited with compiling and dividing the Vedas into four collections?",
+      "options": [
+        "Valmiki",
+        "Vishvamitra",
+        "Yajnavalkya",
+        "Veda Vyasa"
+      ],
+      "answer": 3,
+      "explanation": "The sage Veda Vyasa is traditionally credited with arranging the eternal Vedas into the four known collections."
+    },
+    {
+      "id": "the-vedas-q17",
+      "difficulty": "medium",
+      "q": "In the Rigveda, which deity is the guardian of cosmic and moral order (rita) and the lord of the waters?",
+      "options": [
+        "Varuna",
+        "Mitra",
+        "Tvashtr",
+        "Bhaga"
+      ],
+      "answer": 0,
+      "explanation": "Varuna is the Vedic god who upholds rita, the cosmic order, and is associated with the waters and the heavens."
+    },
+    {
+      "id": "the-vedas-q18",
+      "difficulty": "medium",
+      "q": "The famous Purusha Sukta, describing the cosmic being from whose sacrifice the world is formed, appears in which Veda?",
+      "options": [
+        "The Samaveda",
+        "The Rigveda",
+        "The Atharvaveda",
+        "The Yajurveda"
+      ],
+      "answer": 1,
+      "explanation": "The Purusha Sukta is found in Mandala 10 of the Rigveda, describing creation from the cosmic Purusha."
+    },
+    {
+      "id": "the-vedas-q19",
+      "difficulty": "medium",
+      "q": "Which portion of Vedic literature mainly explains the rituals and gives prose commentary on the proper conduct of sacrifices?",
+      "options": [
+        "The Upanishads",
+        "The Aranyakas",
+        "The Brahmanas",
+        "The Samhitas"
+      ],
+      "answer": 2,
+      "explanation": "The Brahmanas are prose texts that explain and interpret the rituals and sacrifices of the Samhitas."
+    },
+    {
+      "id": "the-vedas-q20",
+      "difficulty": "medium",
+      "q": "The 'forest treatises' of the Vedas, meant for hermits and forest-dwellers, are known by which name?",
+      "options": [
+        "Sutras",
+        "Nigamas",
+        "Smritis",
+        "Aranyakas"
+      ],
+      "answer": 3,
+      "explanation": "The Aranyakas, or 'forest texts', form the layer between the ritual Brahmanas and the philosophical Upanishads."
+    },
+    {
+      "id": "the-vedas-q21",
+      "difficulty": "medium",
+      "q": "In the Ramayana, the princes of Ayodhya including Rama are described as being instructed in which body of knowledge?",
+      "options": [
+        "The Vedas and the use of arms",
+        "The Greek sciences",
+        "The Buddhist sutras",
+        "The Jain agamas"
+      ],
+      "answer": 0,
+      "explanation": "In the Ramayana, Rama and his brothers are educated in the Vedas alongside the martial arts."
+    },
+    {
+      "id": "the-vedas-q22",
+      "difficulty": "medium",
+      "q": "The core hymn collections of each Veda, the foundational verses themselves, are called by which term?",
+      "options": [
+        "Bhashyas",
+        "Samhitas",
+        "Puranas",
+        "Vedangas"
+      ],
+      "answer": 1,
+      "explanation": "The Samhita is the collection of mantras and hymns that forms the core of each Veda."
+    },
+    {
+      "id": "the-vedas-q23",
+      "difficulty": "hard",
+      "q": "The Rigveda Samhita is traditionally organized into how many books, or mandalas?",
+      "options": [
+        "Seven",
+        "Eighteen",
+        "Ten",
+        "Four"
+      ],
+      "answer": 2,
+      "explanation": "The Rigveda Samhita is arranged into ten mandalas (books) containing over a thousand hymns."
+    },
+    {
+      "id": "the-vedas-q24",
+      "difficulty": "hard",
+      "q": "The 'family books', mandalas attributed to specific rishi lineages, form the oldest core of which Veda?",
+      "options": [
+        "The Atharvaveda",
+        "The Samaveda",
+        "The Yajurveda",
+        "The Rigveda"
+      ],
+      "answer": 3,
+      "explanation": "Mandalas 2 through 7 of the Rigveda are the 'family books', its oldest layer composed by specific rishi families."
+    },
+    {
+      "id": "the-vedas-q25",
+      "difficulty": "hard",
+      "q": "The Yajurveda is traditionally preserved in two main recensions known by which pair of names?",
+      "options": [
+        "Shukla and Krishna",
+        "Saman and Yajus",
+        "Purva and Uttara",
+        "Rik and Sama"
+      ],
+      "answer": 0,
+      "explanation": "The Yajurveda survives in the Shukla (White) and Krishna (Black) recensions."
+    },
+    {
+      "id": "the-vedas-q26",
+      "difficulty": "hard",
+      "q": "The Nasadiya Sukta, the celebrated 'Hymn of Creation' pondering the origin of existence, is found in which Veda?",
+      "options": [
+        "The Yajurveda",
+        "The Rigveda",
+        "The Atharvaveda",
+        "The Samaveda"
+      ],
+      "answer": 1,
+      "explanation": "The Nasadiya Sukta, contemplating creation before being and non-being, appears in Mandala 10 of the Rigveda."
+    },
+    {
+      "id": "the-vedas-q27",
+      "difficulty": "hard",
+      "q": "The six auxiliary disciplines that support the proper study and recitation of the Vedas are collectively called what?",
+      "options": [
+        "The Puranas",
+        "The Upavedas",
+        "The Vedangas",
+        "The Darshanas"
+      ],
+      "answer": 2,
+      "explanation": "The six Vedangas (such as phonetics, grammar, and metre) are the limbs of the Veda aiding its correct study."
+    },
+    {
+      "id": "the-vedas-q28",
+      "difficulty": "hard",
+      "q": "Which Vedanga is the discipline of phonetics and pronunciation, essential for reciting the Vedas accurately?",
+      "options": [
+        "Chandas",
+        "Vyakarana",
+        "Jyotisha",
+        "Shiksha"
+      ],
+      "answer": 3,
+      "explanation": "Shiksha is the Vedanga of phonetics and pronunciation, ensuring the sacred sounds are uttered correctly."
+    },
+    {
+      "id": "the-vedas-q29",
+      "difficulty": "hard",
+      "q": "The Samaveda is largely drawn from the verses of which other Veda, set to melody?",
+      "options": [
+        "The Rigveda",
+        "The Atharvaveda",
+        "The Yajurveda",
+        "The Brahmanas"
+      ],
+      "answer": 0,
+      "explanation": "Most verses of the Samaveda are taken from the Rigveda and arranged for melodic chanting."
+    },
+    {
+      "id": "the-vedas-q30",
+      "difficulty": "hard",
+      "q": "In the Puranas, the Vedas are sometimes said to have been rescued by Vishnu in which of his avatar forms?",
+      "options": [
+        "The Narasimha (man-lion) avatar",
+        "The Matsya (fish) avatar",
+        "The Vamana (dwarf) avatar",
+        "The Parashurama avatar"
+      ],
+      "answer": 1,
+      "explanation": "In the Puranas, Vishnu as Matsya, the fish, recovers the Vedas stolen by a demon and restores them."
+    }
+  ]
+}

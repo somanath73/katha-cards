@@ -1,0 +1,395 @@
+{
+  "cardId": "shakti",
+  "questions": [
+    {
+      "id": "shakti-q01",
+      "difficulty": "easy",
+      "q": "In Hindu thought, the term 'Shakti' primarily refers to which of the following?",
+      "options": [
+        "A sacred mountain in the Himalayas",
+        "The divine feminine cosmic energy or power",
+        "A celestial weapon of Indra",
+        "A river that flows from heaven"
+      ],
+      "answer": 1,
+      "explanation": "Shakti denotes the dynamic feminine energy or power through which the universe is created, sustained, and dissolved."
+    },
+    {
+      "id": "shakti-q02",
+      "difficulty": "easy",
+      "q": "In the Shaktism tradition, Shakti is conceived as inseparable from which great male deity?",
+      "options": [
+        "Vishnu",
+        "Brahma",
+        "Shiva",
+        "Indra"
+      ],
+      "answer": 2,
+      "explanation": "Shaktism conceives the dynamic feminine Shakti as inseparable from the static masculine principle, identified with Shiva."
+    },
+    {
+      "id": "shakti-q03",
+      "difficulty": "easy",
+      "q": "The devotional tradition that venerates Shakti as the supreme reality is known by which name?",
+      "options": [
+        "Vaishnavism",
+        "Shaivism",
+        "Smartism",
+        "Shaktism"
+      ],
+      "answer": 3,
+      "explanation": "Shaktism is the tradition that worships the Goddess as Shakti, the supreme reality from whom all goddesses emanate."
+    },
+    {
+      "id": "shakti-q04",
+      "difficulty": "easy",
+      "q": "Which celebrated text narrates the Goddess slaying the buffalo demon and is a central scripture of Shakti worship?",
+      "options": [
+        "The Devi Mahatmya",
+        "The Yoga Sutras",
+        "The Manusmriti",
+        "The Artha Shastra"
+      ],
+      "answer": 0,
+      "explanation": "The Devi Mahatmya, part of the Markandeya Purana, is a foundational text of Shaktism celebrating the Goddess's victories."
+    },
+    {
+      "id": "shakti-q05",
+      "difficulty": "easy",
+      "q": "In Shaktism, Shakti is exalted as the primordial supreme power known by which title?",
+      "options": [
+        "Ardhanarishvara",
+        "Adi Parashakti",
+        "Hiranyagarbha",
+        "Vaishvanara"
+      ],
+      "answer": 1,
+      "explanation": "Shaktism venerates Shakti as Adi Parashakti, the primordial supreme power from whom all goddesses emanate."
+    },
+    {
+      "id": "shakti-q06",
+      "difficulty": "easy",
+      "q": "Shakti is most often described in Hindu tradition as embodying which aspect of divinity?",
+      "options": [
+        "The masculine ascetic principle",
+        "The neutral void of non-being",
+        "The feminine creative energy",
+        "The realm of the ancestors"
+      ],
+      "answer": 2,
+      "explanation": "Shakti embodies the feminine creative energy through which the cosmos comes into being and operates."
+    },
+    {
+      "id": "shakti-q07",
+      "difficulty": "easy",
+      "q": "According to Shaktism, the many goddesses of the Hindu pantheon are understood to be what in relation to Shakti?",
+      "options": [
+        "Rivals competing for supremacy",
+        "Mortal queens raised to heaven",
+        "Servants entirely separate from her",
+        "Emanations or forms of the one Shakti"
+      ],
+      "answer": 3,
+      "explanation": "In Shaktism all goddesses are regarded as emanations or forms of the one supreme Shakti, the Adi Parashakti."
+    },
+    {
+      "id": "shakti-q08",
+      "difficulty": "easy",
+      "q": "In Hindu cosmology, Shakti is said to be the power behind which three great cosmic functions?",
+      "options": [
+        "Creation, sustenance, and dissolution of the universe",
+        "Birth, marriage, and death of mortals",
+        "Sunrise, noon, and sunset",
+        "War, trade, and harvest"
+      ],
+      "answer": 0,
+      "explanation": "Shakti is the dynamic energy through which the universe is created, sustained, and ultimately dissolved."
+    },
+    {
+      "id": "shakti-q09",
+      "difficulty": "easy",
+      "q": "The fierce warrior goddess born to slay demons the gods could not defeat, regarded as a form of Shakti, is known as whom?",
+      "options": [
+        "Saraswati",
+        "Durga",
+        "Lakshmi",
+        "Ganga"
+      ],
+      "answer": 1,
+      "explanation": "Durga, the invincible warrior goddess of the Devi Mahatmya, is a celebrated form of the supreme Shakti."
+    },
+    {
+      "id": "shakti-q10",
+      "difficulty": "easy",
+      "q": "Which Purana, devoted to the Goddess, is a principal scripture of the Shakta tradition alongside the Devi Mahatmya?",
+      "options": [
+        "The Garuda Purana",
+        "The Vayu Purana",
+        "The Devi Bhagavata Purana",
+        "The Linga Purana"
+      ],
+      "answer": 2,
+      "explanation": "The Devi Bhagavata Purana is a major Shakta scripture that, with the Devi Mahatmya, exalts the Goddess as supreme."
+    },
+    {
+      "id": "shakti-q11",
+      "difficulty": "medium",
+      "q": "The Devi Mahatmya, the core text glorifying Shakti, is traditionally regarded as a section of which larger Purana?",
+      "options": [
+        "The Bhagavata Purana",
+        "The Skanda Purana",
+        "The Agni Purana",
+        "The Markandeya Purana"
+      ],
+      "answer": 3,
+      "explanation": "The Devi Mahatmya is embedded within the Markandeya Purana, where it celebrates the Goddess's exploits."
+    },
+    {
+      "id": "shakti-q12",
+      "difficulty": "medium",
+      "q": "In the Devi Mahatmya, the Goddess as Durga is most famous for slaying which buffalo-shaped demon?",
+      "options": [
+        "Mahishasura",
+        "Hiranyakashipu",
+        "Ravana",
+        "Vritra"
+      ],
+      "answer": 0,
+      "explanation": "The Devi Mahatmya recounts the Goddess slaying Mahishasura, the buffalo demon, earning her the name Mahishasuramardini."
+    },
+    {
+      "id": "shakti-q13",
+      "difficulty": "medium",
+      "q": "The androgynous form uniting Shiva and his Shakti in a single body is known in the Puranas by which name?",
+      "options": [
+        "Harihara",
+        "Ardhanarishvara",
+        "Dattatreya",
+        "Panchanana"
+      ],
+      "answer": 1,
+      "explanation": "Ardhanarishvara, the half-male, half-female form, expresses the inseparable union of Shiva and his Shakti."
+    },
+    {
+      "id": "shakti-q14",
+      "difficulty": "medium",
+      "q": "In the Devi Mahatmya, the goddess Kali is said to emerge from the brow of which form of the Great Goddess?",
+      "options": [
+        "Lakshmi",
+        "Saraswati",
+        "Ambika or Durga",
+        "Gauri"
+      ],
+      "answer": 2,
+      "explanation": "The Devi Mahatmya describes Kali springing forth from the wrathful brow of Ambika (Durga) to destroy the demons."
+    },
+    {
+      "id": "shakti-q15",
+      "difficulty": "medium",
+      "q": "According to the Devi Mahatmya, the demons Shumbha and Nishumbha were ultimately slain by which goddess, a form of Shakti?",
+      "options": [
+        "Aditi",
+        "Usha",
+        "Sarama",
+        "The Great Goddess (Devi)"
+      ],
+      "answer": 3,
+      "explanation": "The Devi Mahatmya narrates the Great Goddess defeating the demon brothers Shumbha and Nishumbha and their hordes."
+    },
+    {
+      "id": "shakti-q16",
+      "difficulty": "medium",
+      "q": "In the Devi Mahatmya, the demons Madhu and Kaitabha are destroyed through the power of the Goddess in which aspect that overcame Vishnu's sleep?",
+      "options": [
+        "Yoga Nidra (Yoganidra)",
+        "Indra's thunderbolt",
+        "Agni's flame",
+        "Vayu's storm"
+      ],
+      "answer": 0,
+      "explanation": "The Goddess as Yoganidra, the cosmic sleep upon Vishnu, withdraws so he can wake and slay Madhu and Kaitabha."
+    },
+    {
+      "id": "shakti-q17",
+      "difficulty": "medium",
+      "q": "In Shakta theology, Shiva without his Shakti is famously described in what way to stress her vital power?",
+      "options": [
+        "As the brightest of all suns",
+        "As inert or lifeless (like a corpse)",
+        "As the swiftest of the gods",
+        "As the wealthiest of beings"
+      ],
+      "answer": 1,
+      "explanation": "Shakta teaching holds that Shiva without Shakti is inert as a corpse, emphasizing her as the active animating power."
+    },
+    {
+      "id": "shakti-q18",
+      "difficulty": "medium",
+      "q": "The autumn festival of nine nights dedicated to the worship of the Goddess as Shakti is known by which name?",
+      "options": [
+        "Holi",
+        "Raksha Bandhan",
+        "Navaratri",
+        "Makar Sankranti"
+      ],
+      "answer": 2,
+      "explanation": "Navaratri, the nine-night festival, is devoted to the worship of the Goddess in her many forms as Shakti."
+    },
+    {
+      "id": "shakti-q19",
+      "difficulty": "medium",
+      "q": "In the Devi Mahatmya, the combined radiance of the assembled gods gives rise to which mighty form of Shakti?",
+      "options": [
+        "Saraswati, goddess of speech",
+        "Lakshmi, goddess of fortune",
+        "Ganga, goddess of the river",
+        "Durga, the warrior goddess"
+      ],
+      "answer": 3,
+      "explanation": "The Devi Mahatmya describes the gods' combined energies coalescing into Durga to defeat Mahishasura."
+    },
+    {
+      "id": "shakti-q20",
+      "difficulty": "medium",
+      "q": "In the Shaktism tradition, which famous text describing the Goddess's thousand names is widely recited in her honor?",
+      "options": [
+        "The Lalita Sahasranama",
+        "The Vishnu Sahasranama",
+        "The Gayatri Mantra",
+        "The Purusha Sukta"
+      ],
+      "answer": 0,
+      "explanation": "The Lalita Sahasranama enumerates a thousand names of the Goddess and is a beloved Shakta devotional text."
+    },
+    {
+      "id": "shakti-q21",
+      "difficulty": "medium",
+      "q": "In Tantric and Shakta tradition, Shakti is often visualized as a coiled energy resting at the base of the spine, known as what?",
+      "options": [
+        "Prana",
+        "Kundalini",
+        "Ojas",
+        "Tejas"
+      ],
+      "answer": 1,
+      "explanation": "Kundalini is the coiled Shakti said to rest at the base of the spine, rising through the body's centers in yogic practice."
+    },
+    {
+      "id": "shakti-q22",
+      "difficulty": "medium",
+      "q": "The sites where parts of the goddess Sati's body are said to have fallen, sacred to Shakti worship, are called by which name?",
+      "options": [
+        "Jyotirlingas",
+        "Char Dhams",
+        "Shakti Pithas",
+        "Kumbha Melas"
+      ],
+      "answer": 2,
+      "explanation": "The Shakti Pithas are pilgrimage shrines marking where parts of Sati's body fell, each venerated as a seat of the Goddess."
+    },
+    {
+      "id": "shakti-q23",
+      "difficulty": "hard",
+      "q": "The Devi Mahatmya is structured around the praise of the Goddess in which three principal forms, recited across its chapters?",
+      "options": [
+        "Ganga, Yamuna, and Saraswati",
+        "Usha, Ratri, and Aditi",
+        "Sita, Radha, and Rukmini",
+        "Mahakali, Mahalakshmi, and Mahasaraswati"
+      ],
+      "answer": 3,
+      "explanation": "The Devi Mahatmya glorifies the Goddess as Mahakali, Mahalakshmi, and Mahasaraswati across its three great episodes."
+    },
+    {
+      "id": "shakti-q24",
+      "difficulty": "hard",
+      "q": "In the Devi Mahatmya, the demon Raktabija posed a unique threat because of which power, requiring Kali's intervention?",
+      "options": [
+        "Every drop of his blood that fell became a new demon",
+        "He could become invisible at will",
+        "He could not be harmed by any weapon",
+        "He could fly faster than thought"
+      ],
+      "answer": 0,
+      "explanation": "Raktabija multiplied from every drop of his spilled blood, so Kali drank his blood before it touched the ground."
+    },
+    {
+      "id": "shakti-q25",
+      "difficulty": "hard",
+      "q": "In Shakta and Tantric tradition, the group of fierce mother-goddesses who are emanations of the Great Goddess's power is collectively known as what?",
+      "options": [
+        "The Adityas",
+        "The Matrikas (Saptamatrikas)",
+        "The Vasus",
+        "The Apsaras"
+      ],
+      "answer": 1,
+      "explanation": "The Matrikas, or Saptamatrikas, are the mother-goddesses who issue as energies of the gods and of the Great Goddess in battle."
+    },
+    {
+      "id": "shakti-q26",
+      "difficulty": "hard",
+      "q": "The sacred geometric diagram central to the worship of Shakti as Lalita Tripurasundari is known by which name?",
+      "options": [
+        "The Swastika",
+        "The Dharma Chakra",
+        "The Sri Yantra (Sri Chakra)",
+        "The Kalachakra"
+      ],
+      "answer": 2,
+      "explanation": "The Sri Yantra, or Sri Chakra, is the geometric form through which the Goddess Lalita Tripurasundari is worshipped."
+    },
+    {
+      "id": "shakti-q27",
+      "difficulty": "hard",
+      "q": "In Shakta Tantra, the ten great goddesses representing aspects of the supreme Shakti are collectively called by which name?",
+      "options": [
+        "The Dashavatara",
+        "The Navagrahas",
+        "The Ashta Lakshmi",
+        "The Mahavidyas"
+      ],
+      "answer": 3,
+      "explanation": "The Mahavidyas, the ten great wisdom-goddesses including Kali and Tara, embody facets of the supreme Shakti in Shakta Tantra."
+    },
+    {
+      "id": "shakti-q28",
+      "difficulty": "hard",
+      "q": "In the philosophy of Kashmir Shaivism and Shakta thought, the term used for the Goddess's power that manifests the cosmos through creative play is best described as what?",
+      "options": [
+        "Maya as her creative power (Shakti's manifestation)",
+        "Karma as fixed fate",
+        "Moksha as final release",
+        "Yajna as ritual sacrifice"
+      ],
+      "answer": 0,
+      "explanation": "Shakti is understood as the creative power, often termed Maya, by which the supreme reality projects and unfolds the cosmos."
+    },
+    {
+      "id": "shakti-q29",
+      "difficulty": "hard",
+      "q": "The Devi Mahatmya is also widely known and recited under which alternative title?",
+      "options": [
+        "The Bhagavad Gita",
+        "The Durga Saptashati (Chandi Path)",
+        "The Hanuman Chalisa",
+        "The Vishnu Purana"
+      ],
+      "answer": 1,
+      "explanation": "The Devi Mahatmya is also called the Durga Saptashati or Chandi, named for its roughly seven hundred verses to the Goddess."
+    },
+    {
+      "id": "shakti-q30",
+      "difficulty": "hard",
+      "q": "In Shakta theology, the Goddess is identified with the syllable and concept central to the Devi Mahatmya's teaching that she is identical with the supreme reality, namely what?",
+      "options": [
+        "Loka, the visible world",
+        "Naraka, the underworld",
+        "Brahman, the absolute reality",
+        "Svarga, the heaven of Indra"
+      ],
+      "answer": 2,
+      "explanation": "Shakta theology identifies the Goddess with Brahman, the absolute reality, affirming Shakti as the supreme ground of all existence."
+    }
+  ]
+}

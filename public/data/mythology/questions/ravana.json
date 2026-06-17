@@ -1,0 +1,395 @@
+{
+  "cardId": "ravana",
+  "questions": [
+    {
+      "id": "ravana-q01",
+      "difficulty": "easy",
+      "q": "Of which island kingdom is Ravana the king in the Ramayana?",
+      "options": [
+        "Ayodhya",
+        "Lanka",
+        "Mithila",
+        "Kishkindha"
+      ],
+      "answer": 1,
+      "explanation": "Ravana rules over the golden island kingdom of Lanka in the Ramayana."
+    },
+    {
+      "id": "ravana-q02",
+      "difficulty": "easy",
+      "q": "For how many heads is Ravana most famously depicted in tradition?",
+      "options": [
+        "Five",
+        "Seven",
+        "Ten",
+        "Twelve"
+      ],
+      "answer": 2,
+      "explanation": "Ravana is renowned as the ten-headed king, often called Dashagriva or Dashanana."
+    },
+    {
+      "id": "ravana-q03",
+      "difficulty": "easy",
+      "q": "To which class of beings does Ravana belong in the Ramayana?",
+      "options": [
+        "Devas",
+        "Gandharvas",
+        "Nagas",
+        "Rakshasas"
+      ],
+      "answer": 3,
+      "explanation": "Ravana is the mighty king of the rakshasas, a race of powerful demonic beings."
+    },
+    {
+      "id": "ravana-q04",
+      "difficulty": "easy",
+      "q": "Which queen does Ravana abduct, setting the central conflict of the Ramayana in motion?",
+      "options": [
+        "Sita",
+        "Mandodari",
+        "Tara",
+        "Kaikeyi"
+      ],
+      "answer": 0,
+      "explanation": "Ravana abducts Sita, the wife of Rama, which brings about the great war and his eventual fall."
+    },
+    {
+      "id": "ravana-q05",
+      "difficulty": "easy",
+      "q": "Which deity does Ravana revere as his supreme lord and devotedly worship?",
+      "options": [
+        "Indra",
+        "Shiva",
+        "Agni",
+        "Varuna"
+      ],
+      "answer": 1,
+      "explanation": "Ravana is celebrated in the texts as a great devotee of Shiva."
+    },
+    {
+      "id": "ravana-q06",
+      "difficulty": "easy",
+      "q": "At whose hands does Ravana ultimately meet his death in the Ramayana?",
+      "options": [
+        "Lakshmana",
+        "Hanuman",
+        "Rama",
+        "Sugriva"
+      ],
+      "answer": 2,
+      "explanation": "Ravana is slain by Rama on the battlefield of Lanka, fulfilling the purpose of Vishnu's avatar."
+    },
+    {
+      "id": "ravana-q07",
+      "difficulty": "easy",
+      "q": "In which epic is Ravana the principal antagonist?",
+      "options": [
+        "The Mahabharata",
+        "The Bhagavata Purana",
+        "The Shiva Purana",
+        "The Ramayana"
+      ],
+      "answer": 3,
+      "explanation": "Ravana is the chief adversary of the Ramayana, the epic composed by the sage Valmiki."
+    },
+    {
+      "id": "ravana-q08",
+      "difficulty": "easy",
+      "q": "Who is the chief queen and consort of Ravana in the Ramayana?",
+      "options": [
+        "Mandodari",
+        "Surpanakha",
+        "Trijata",
+        "Sulochana"
+      ],
+      "answer": 0,
+      "explanation": "Mandodari is the principal queen of Ravana, remembered for her wisdom and virtue."
+    },
+    {
+      "id": "ravana-q09",
+      "difficulty": "easy",
+      "q": "Which valiant younger brother of Ravana, famed for his immense size and prolonged sleep, fights alongside him as a great rakshasa warrior?",
+      "options": [
+        "Vibhishana",
+        "Kumbhakarna",
+        "Sugriva",
+        "Jatayu"
+      ],
+      "answer": 1,
+      "explanation": "Kumbhakarna, famed for his immense size and prolonged sleep, fights for his brother Ravana."
+    },
+    {
+      "id": "ravana-q10",
+      "difficulty": "easy",
+      "q": "Which righteous brother of Ravana abandons Lanka to side with Rama?",
+      "options": [
+        "Kumbhakarna",
+        "Indrajit",
+        "Vibhishana",
+        "Khara"
+      ],
+      "answer": 2,
+      "explanation": "Vibhishana, Ravana's virtuous brother, joins Rama and is later crowned king of Lanka."
+    },
+    {
+      "id": "ravana-q11",
+      "difficulty": "medium",
+      "q": "Who is the father of Ravana in the lineage given in the Ramayana?",
+      "options": [
+        "The sage Vishvamitra",
+        "The sage Atri",
+        "The sage Bhrigu",
+        "The sage Vishrava"
+      ],
+      "answer": 3,
+      "explanation": "Ravana is the son of the sage Vishrava and the rakshasa princess Kaikasi."
+    },
+    {
+      "id": "ravana-q12",
+      "difficulty": "medium",
+      "q": "Which mind-born sage of Brahma is the paternal grandfather of Ravana in the Ramayana?",
+      "options": [
+        "Pulastya",
+        "Marichi",
+        "Daksha",
+        "Kashyapa"
+      ],
+      "answer": 0,
+      "explanation": "Ravana's father Vishrava was the son of the sage Pulastya, one of Brahma's mind-born sons, giving Ravana a brahmin descent."
+    },
+    {
+      "id": "ravana-q13",
+      "difficulty": "medium",
+      "q": "What is the original name by which Ravana was known before Shiva renamed him?",
+      "options": [
+        "Meghanada",
+        "Dashagriva",
+        "Maricha",
+        "Dushana"
+      ],
+      "answer": 1,
+      "explanation": "He was first called Dashagriva, the ten-necked one, before gaining the name Ravana."
+    },
+    {
+      "id": "ravana-q14",
+      "difficulty": "medium",
+      "q": "From which deity does Ravana win his great boon of near-invincibility through severe austerities?",
+      "options": [
+        "Vishnu",
+        "Indra",
+        "Brahma",
+        "Yama"
+      ],
+      "answer": 2,
+      "explanation": "Pleased by Ravana's harsh penance, Brahma grants him a boon of protection against gods and demons."
+    },
+    {
+      "id": "ravana-q15",
+      "difficulty": "medium",
+      "q": "Which class of beings did Ravana neglect to name in his boon, leaving him vulnerable to Rama?",
+      "options": [
+        "Gods",
+        "Demons",
+        "Serpents",
+        "Humans"
+      ],
+      "answer": 3,
+      "explanation": "Scorning humans as too weak to harm him, Ravana omitted men from his boon, which allowed Rama the man to slay him."
+    },
+    {
+      "id": "ravana-q16",
+      "difficulty": "medium",
+      "q": "Who is Ravana's sister, whose disfigurement by Lakshmana inflames the conflict in the Ramayana?",
+      "options": [
+        "Surpanakha",
+        "Ayomukhi",
+        "Trijata",
+        "Simhika"
+      ],
+      "answer": 0,
+      "explanation": "Surpanakha, Ravana's sister, is insulted in the forest, and her complaint leads Ravana to abduct Sita."
+    },
+    {
+      "id": "ravana-q17",
+      "difficulty": "medium",
+      "q": "Which rakshasa takes the form of a golden deer to lure Rama away before Sita's abduction?",
+      "options": [
+        "Khara",
+        "Maricha",
+        "Dushana",
+        "Akampana"
+      ],
+      "answer": 1,
+      "explanation": "At Ravana's command, the rakshasa Maricha becomes a golden deer to draw Rama from Sita's side."
+    },
+    {
+      "id": "ravana-q18",
+      "difficulty": "medium",
+      "q": "Which noble vulture is mortally wounded while trying to stop Ravana from carrying off Sita?",
+      "options": [
+        "Sampati",
+        "Garuda",
+        "Jatayu",
+        "Kakabhushundi"
+      ],
+      "answer": 2,
+      "explanation": "The aged vulture king Jatayu battles Ravana to rescue Sita and is fatally struck in the attempt."
+    },
+    {
+      "id": "ravana-q19",
+      "difficulty": "medium",
+      "q": "Within which grove in Lanka does Ravana hold Sita captive in the Ramayana?",
+      "options": [
+        "The Naimisha forest",
+        "The Dandaka forest",
+        "The Panchavati grove",
+        "The Ashoka Vatika"
+      ],
+      "answer": 3,
+      "explanation": "Ravana confines Sita in the Ashoka Vatika, a grove of ashoka trees within his city."
+    },
+    {
+      "id": "ravana-q20",
+      "difficulty": "medium",
+      "q": "Which musical instrument is Ravana traditionally said to have played as a master devotee of Shiva?",
+      "options": [
+        "The veena",
+        "The mridanga",
+        "The flute",
+        "The conch"
+      ],
+      "answer": 0,
+      "explanation": "Ravana is celebrated as an accomplished veena player and is associated with the hymn of praise to Shiva."
+    },
+    {
+      "id": "ravana-q21",
+      "difficulty": "medium",
+      "q": "Which celestial flying chariot did Ravana seize and use, according to the Ramayana?",
+      "options": [
+        "The Garuda mount",
+        "The Pushpaka Vimana",
+        "The Akshauhini",
+        "The Vajra"
+      ],
+      "answer": 1,
+      "explanation": "Ravana took the flying chariot Pushpaka from his half-brother Kubera, the lord of wealth."
+    },
+    {
+      "id": "ravana-q22",
+      "difficulty": "medium",
+      "q": "From which half-brother did Ravana wrest the kingdom and city of Lanka?",
+      "options": [
+        "Vibhishana",
+        "Kumbhakarna",
+        "Kubera",
+        "Khara"
+      ],
+      "answer": 2,
+      "explanation": "Ravana drove out his half-brother Kubera, the god of wealth, and took Lanka and the Pushpaka chariot for himself."
+    },
+    {
+      "id": "ravana-q23",
+      "difficulty": "hard",
+      "q": "What is the name of Ravana's mighty son who defeats and binds Rama and Lakshmana with the serpent-arrows?",
+      "options": [
+        "Atikaya",
+        "Narantaka",
+        "Prahasta",
+        "Indrajit"
+      ],
+      "answer": 3,
+      "explanation": "Indrajit, also called Meghanada, is Ravana's powerful son who twice nearly overcomes Rama and Lakshmana in battle."
+    },
+    {
+      "id": "ravana-q24",
+      "difficulty": "hard",
+      "q": "Why is Ravana's son Meghanada honored with the title Indrajit?",
+      "options": [
+        "He conquered Indra in battle",
+        "He outshone the sun",
+        "He stole the Vedas",
+        "He drank the ocean"
+      ],
+      "answer": 0,
+      "explanation": "Meghanada earned the name Indrajit, conqueror of Indra, after defeating and capturing the king of the gods."
+    },
+    {
+      "id": "ravana-q25",
+      "difficulty": "hard",
+      "q": "When Ravana once lifted Mount Kailash, who pressed it down with a toe to humble him?",
+      "options": [
+        "Vishnu",
+        "Shiva",
+        "Brahma",
+        "Kubera"
+      ],
+      "answer": 1,
+      "explanation": "When Ravana tried to uproot Kailash, Shiva pinned the mountain with his toe, trapping Ravana until he sang Shiva's praises."
+    },
+    {
+      "id": "ravana-q26",
+      "difficulty": "hard",
+      "q": "Which hymn of praise to Shiva is traditionally attributed to Ravana?",
+      "options": [
+        "The Vishnu Sahasranama",
+        "The Lalita Sahasranama",
+        "The Shiva Tandava Stotra",
+        "The Hanuman Chalisa"
+      ],
+      "answer": 2,
+      "explanation": "The Shiva Tandava Stotra, an ecstatic hymn extolling Shiva's cosmic dance, is ascribed to Ravana."
+    },
+    {
+      "id": "ravana-q27",
+      "difficulty": "hard",
+      "q": "Who was the rakshasa mother of Ravana in the Ramayana lineage?",
+      "options": [
+        "Tataka",
+        "Surasa",
+        "Diti",
+        "Kaikasi"
+      ],
+      "answer": 3,
+      "explanation": "Ravana was born to the sage Vishrava and the rakshasa princess Kaikasi, daughter of Sumali."
+    },
+    {
+      "id": "ravana-q28",
+      "difficulty": "hard",
+      "q": "According to a tradition in the Bhagavata Purana, Ravana was a rebirth of which gatekeeper of Vishnu's abode?",
+      "options": [
+        "One of Jaya and Vijaya",
+        "Garuda",
+        "Sudarshana",
+        "Vishvaksena"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas relate that Ravana was one of Vishnu's doorkeepers, Jaya and Vijaya, cursed to be born as a demon."
+    },
+    {
+      "id": "ravana-q29",
+      "difficulty": "hard",
+      "q": "In a popular retelling of the Ramayana, where in Ravana's body does Vibhishana reveal that a reserve of life-nectar lies, which Rama must strike?",
+      "options": [
+        "In his heart",
+        "In his navel",
+        "In his crown",
+        "In his right hand"
+      ],
+      "answer": 1,
+      "explanation": "In a widely told tradition, Vibhishana discloses that a store of amrita lay in Ravana's navel, which Rama dries up with his arrow to bring about his fall."
+    },
+    {
+      "id": "ravana-q30",
+      "difficulty": "hard",
+      "q": "Which divine weapon does Rama finally use to kill Ravana in the Ramayana?",
+      "options": [
+        "The Pashupatastra",
+        "The Sudarshana Chakra",
+        "The Brahmastra",
+        "The Trishula"
+      ],
+      "answer": 2,
+      "explanation": "Rama looses the Brahmastra, the weapon of Brahma given to him by the sage Agastya, to bring down Ravana."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "agni",
+  "questions": [
+    {
+      "id": "agni-q01",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, which natural element is the deity Agni the god of?",
+      "options": [
+        "Water",
+        "Fire",
+        "Wind",
+        "Earth"
+      ],
+      "answer": 1,
+      "explanation": "Agni is the Vedic god of fire, especially the sacred fire of the sacrifice (yajna)."
+    },
+    {
+      "id": "agni-q02",
+      "difficulty": "easy",
+      "q": "In which body of scripture is Agni one of the most frequently invoked deities?",
+      "options": [
+        "The Bhagavad Gita",
+        "The Manusmriti",
+        "The Rigveda",
+        "The Yoga Sutras"
+      ],
+      "answer": 2,
+      "explanation": "Agni is among the most invoked deities of the Rigveda, second only to Indra in the number of hymns addressed to him."
+    },
+    {
+      "id": "agni-q03",
+      "difficulty": "easy",
+      "q": "In the Vedic ritual, what does the fire-god Agni carry from mortals up to the gods?",
+      "options": [
+        "Rainfall",
+        "The souls of the dead",
+        "Sunlight",
+        "Oblations and offerings"
+      ],
+      "answer": 3,
+      "explanation": "Agni is the fire of the yajna who carries the oblations offered into the flames up to the gods."
+    },
+    {
+      "id": "agni-q04",
+      "difficulty": "easy",
+      "q": "Because he conveys offerings between humans and the gods, what role is the fire-god Agni often described as filling?",
+      "options": [
+        "A messenger between mortals and the heavens",
+        "A warrior",
+        "A judge of the dead",
+        "A king of demons"
+      ],
+      "answer": 0,
+      "explanation": "As the fire that bears oblations skyward, Agni serves as the priest and messenger between mortals and the heavens."
+    },
+    {
+      "id": "agni-q05",
+      "difficulty": "easy",
+      "q": "Which animal is traditionally depicted as the vahana (mount) of the fire-god Agni?",
+      "options": [
+        "A peacock",
+        "A ram",
+        "A bull",
+        "A swan"
+      ],
+      "answer": 1,
+      "explanation": "Agni is depicted riding a ram (mesha) as his vahana."
+    },
+    {
+      "id": "agni-q06",
+      "difficulty": "easy",
+      "q": "The fire-god Agni is famously called the mouth of whom?",
+      "options": [
+        "The earth",
+        "The ocean",
+        "The gods",
+        "The underworld"
+      ],
+      "answer": 2,
+      "explanation": "Because offerings placed in the sacred fire reach the deities, Agni is named the mouth of the gods."
+    },
+    {
+      "id": "agni-q07",
+      "difficulty": "easy",
+      "q": "In Vedic iconography, the flames of the fire-god Agni are often counted as how many tongues?",
+      "options": [
+        "Three",
+        "Five",
+        "Ten",
+        "Seven"
+      ],
+      "answer": 3,
+      "explanation": "Agni is traditionally depicted with seven tongues of flame."
+    },
+    {
+      "id": "agni-q08",
+      "difficulty": "easy",
+      "q": "How is the fire-god Agni said to be born anew at each kindling?",
+      "options": [
+        "From the kindling sticks (arani)",
+        "From the ocean's foam",
+        "From a lotus",
+        "From the sun's rays alone"
+      ],
+      "answer": 0,
+      "explanation": "Agni is said to be born anew from the kindling sticks (arani) whenever the ritual fire is freshly lit."
+    },
+    {
+      "id": "agni-q09",
+      "difficulty": "easy",
+      "q": "The central sacred rite over which the fire-god Agni presides is known by which name?",
+      "options": [
+        "Puja",
+        "Yajna",
+        "Aarti",
+        "Tarpana"
+      ],
+      "answer": 1,
+      "explanation": "Agni is the fire of the yajna, the Vedic sacrificial offering."
+    },
+    {
+      "id": "agni-q10",
+      "difficulty": "easy",
+      "q": "In classical iconography, the fire-god Agni is often shown with how many faces?",
+      "options": [
+        "One",
+        "Four",
+        "Two",
+        "Six"
+      ],
+      "answer": 2,
+      "explanation": "Agni is commonly depicted with two faces."
+    },
+    {
+      "id": "agni-q11",
+      "difficulty": "medium",
+      "q": "The fire-god Agni presides over which of the cardinal or intermediate directions as a dikpala (guardian of the directions)?",
+      "options": [
+        "The north",
+        "The west",
+        "The north-east",
+        "The south-east"
+      ],
+      "answer": 3,
+      "explanation": "Among the dikpalas, Agni is the guardian of the south-east direction (agneya)."
+    },
+    {
+      "id": "agni-q12",
+      "difficulty": "medium",
+      "q": "In Vedic hymns, the fire-god Agni is said to dwell in three forms across which three realms?",
+      "options": [
+        "Earth, atmosphere, and heaven",
+        "Ocean, mountain, and forest",
+        "Past, present, and future",
+        "Body, mind, and soul"
+      ],
+      "answer": 0,
+      "explanation": "Agni is described as threefold, present as fire on earth, as lightning in the atmosphere, and as the sun in heaven."
+    },
+    {
+      "id": "agni-q13",
+      "difficulty": "medium",
+      "q": "In the Mahabharata, the fire-god Agni sought to consume which great forest with the aid of Krishna and Arjuna?",
+      "options": [
+        "The Dandaka forest",
+        "The Khandava forest",
+        "The Naimisha forest",
+        "The Panchavati forest"
+      ],
+      "answer": 1,
+      "explanation": "In the Mahabharata, Agni consumes the Khandava forest with the help of Krishna and Arjuna, who hold back the gods seeking to extinguish him."
+    },
+    {
+      "id": "agni-q14",
+      "difficulty": "medium",
+      "q": "During the burning of the Khandava forest in the Mahabharata, what did the fire-god Agni gift to Arjuna?",
+      "options": [
+        "The discus Sudarshana",
+        "The conch Panchajanya",
+        "The bow Gandiva",
+        "The mace Kaumodaki"
+      ],
+      "answer": 2,
+      "explanation": "In gratitude for help in consuming the Khandava forest, Agni gave Arjuna the celestial bow Gandiva."
+    },
+    {
+      "id": "agni-q15",
+      "difficulty": "medium",
+      "q": "In the Ramayana, which heroine entered the sacred fire of Agni to demonstrate her purity in the agni pariksha?",
+      "options": [
+        "Kaikeyi",
+        "Mandodari",
+        "Tara",
+        "Sita"
+      ],
+      "answer": 3,
+      "explanation": "In the Ramayana, Sita undergoes the agni pariksha, entering Agni's fire, from which she emerges unharmed."
+    },
+    {
+      "id": "agni-q16",
+      "difficulty": "medium",
+      "q": "In Hindu wedding tradition, the fire-god Agni serves as the divine witness to which central rite?",
+      "options": [
+        "The circumambulation of the sacred fire (saptapadi/pheras)",
+        "The breaking of a coconut",
+        "The tying of a thread on the wrist",
+        "The exchange of garlands alone"
+      ],
+      "answer": 0,
+      "explanation": "Agni is the witness of the marriage, as the couple circumambulate the sacred fire in the saptapadi or seven steps."
+    },
+    {
+      "id": "agni-q17",
+      "difficulty": "medium",
+      "q": "The fire-god Agni is closely paired with which other prominent Vedic deity, the two being among the most invoked gods of the Rigveda?",
+      "options": [
+        "Vishnu",
+        "Indra",
+        "Shiva",
+        "Yama"
+      ],
+      "answer": 1,
+      "explanation": "Agni and Indra are the two most frequently invoked deities of the Rigveda and are often praised together."
+    },
+    {
+      "id": "agni-q18",
+      "difficulty": "medium",
+      "q": "Within the framework of the Vedic sacrifice, the fire-god Agni is regarded as the divine version of which class of ritual specialist?",
+      "options": [
+        "The king (rajan)",
+        "The merchant (vaishya)",
+        "The priest (purohita/hotr)",
+        "The charioteer (suta)"
+      ],
+      "answer": 2,
+      "explanation": "Agni is hailed as the divine priest, the hotr who summons the gods and presents the offerings."
+    },
+    {
+      "id": "agni-q19",
+      "difficulty": "medium",
+      "q": "In Vedic identification, the fire-god Agni is said to manifest in the sky as which celestial form?",
+      "options": [
+        "The moon",
+        "The pole star",
+        "A comet",
+        "The sun"
+      ],
+      "answer": 3,
+      "explanation": "In his threefold nature, Agni is identified with the sun as his heavenly form."
+    },
+    {
+      "id": "agni-q20",
+      "difficulty": "medium",
+      "q": "Which sacred draught or fluid, poured into the fire, is among the offerings the fire-god Agni receives in the yajna?",
+      "options": [
+        "Ghee (clarified butter)",
+        "Seawater",
+        "Honey wine of the asuras",
+        "Molten gold"
+      ],
+      "answer": 0,
+      "explanation": "Ghee, the clarified butter poured as oblation, is a principal offering received by Agni in the sacrifice."
+    },
+    {
+      "id": "agni-q21",
+      "difficulty": "medium",
+      "q": "In Puranic accounts, the war-god Kartikeya (Skanda) is said to have been nurtured by the seed or fire connected with which deity, an aspect linked to Agni?",
+      "options": [
+        "Vishnu",
+        "Shiva",
+        "Brahma",
+        "Varuna"
+      ],
+      "answer": 1,
+      "explanation": "Kartikeya was born of Shiva's fiery seed, which Agni and the Krittikas helped to bear and nurture in the Puranic accounts."
+    },
+    {
+      "id": "agni-q22",
+      "difficulty": "medium",
+      "q": "What is the name of the offering, cast into Agni's fire and accompanied by the call svaha, in the Vedic ritual?",
+      "options": [
+        "Prasada",
+        "Naivedya",
+        "Ahuti (the oblation)",
+        "Bhiksha"
+      ],
+      "answer": 2,
+      "explanation": "The ahuti is the oblation poured into the fire with the exclamation svaha, which Agni carries to the gods."
+    },
+    {
+      "id": "agni-q23",
+      "difficulty": "hard",
+      "q": "In several Vedic and Puranic genealogies, the wife of the fire-god Agni is named as which goddess?",
+      "options": [
+        "Sarama",
+        "Saranyu",
+        "Sinivali",
+        "Svaha"
+      ],
+      "answer": 3,
+      "explanation": "Svaha, the personification of the ritual exclamation, is named as the consort of Agni in Vedic and Puranic tradition."
+    },
+    {
+      "id": "agni-q24",
+      "difficulty": "hard",
+      "q": "The fire-god Agni is counted among which group of Vedic deities associated with light and the divine?",
+      "options": [
+        "The Vasus",
+        "The Maruts",
+        "The Rudras",
+        "The Ribhus"
+      ],
+      "answer": 0,
+      "explanation": "Agni is reckoned among the eight Vasus, the Vedic deities of natural phenomena and elemental abodes."
+    },
+    {
+      "id": "agni-q25",
+      "difficulty": "hard",
+      "q": "The opening hymn of the Rigveda, its very first verse, is addressed to which deity?",
+      "options": [
+        "Indra",
+        "Agni",
+        "Varuna",
+        "Soma"
+      ],
+      "answer": 1,
+      "explanation": "The first hymn of the Rigveda begins agnim ile, an invocation of Agni, the fire-god."
+    },
+    {
+      "id": "agni-q26",
+      "difficulty": "hard",
+      "q": "According to a well-known Vedic and Puranic account, the fire-god Agni once hid from the gods within which element to escape his duties?",
+      "options": [
+        "Inside the mountains",
+        "Beneath the earth's crust",
+        "Within the waters",
+        "Among the clouds"
+      ],
+      "answer": 2,
+      "explanation": "In the tradition, Agni concealed himself within the waters and plants, and the gods sought him out to restore him to the sacrifice."
+    },
+    {
+      "id": "agni-q27",
+      "difficulty": "hard",
+      "q": "In the Mahabharata episode of the Khandava forest, whose prolonged sacrifice is said to have left the fire-god Agni ailing, so that consuming the forest became his remedy?",
+      "options": [
+        "The sage Durvasa",
+        "The rishi Bhrigu",
+        "The sage Chyavana",
+        "The king Shvetaki"
+      ],
+      "answer": 3,
+      "explanation": "In the Mahabharata, Agni's prolonged sacrifice for King Shvetaki left him sated and ailing, and consuming the Khandava forest was his cure."
+    },
+    {
+      "id": "agni-q28",
+      "difficulty": "hard",
+      "q": "An epithet of the fire-god Agni, Jatavedas, is traditionally understood to mean which of the following?",
+      "options": [
+        "He who knows all beings or all that is born",
+        "He who slays the serpent",
+        "He who rides the storm",
+        "He who guards the treasure"
+      ],
+      "answer": 0,
+      "explanation": "The epithet Jatavedas is understood to mean the one who knows all created beings, or who possesses knowledge of all that is born."
+    },
+    {
+      "id": "agni-q29",
+      "difficulty": "hard",
+      "q": "In the Kena Upanishad, the fire-god Agni is humbled when he cannot perform which simple feat before the mysterious presence of Brahman?",
+      "options": [
+        "Lighting the sun",
+        "Burning a single blade of grass",
+        "Boiling the cosmic ocean",
+        "Melting Mount Meru"
+      ],
+      "answer": 1,
+      "explanation": "In the Kena Upanishad, Agni boasts he can burn anything, yet cannot consume a single blade of grass, learning his power derives from Brahman."
+    },
+    {
+      "id": "agni-q30",
+      "difficulty": "hard",
+      "q": "The cremation rite, in which the fire-god Agni receives the body of the deceased, is referred to by which term as the final sacrifice?",
+      "options": [
+        "Upanayana",
+        "Annaprashana",
+        "Antyeshti",
+        "Vivaha"
+      ],
+      "answer": 2,
+      "explanation": "The antyeshti, or final sacrifice, is the cremation rite in which the body is offered to Agni's fire."
+    }
+  ]
+}

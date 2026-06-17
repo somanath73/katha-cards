@@ -16,7 +16,7 @@ export const CATEGORIES = [
     tagline: 'Gods, demons and the stories between',
     emblem: 'trident',
     palette: 'dusk',
-    live: false,
+    live: true,
   },
   {
     id: 'kings-kingdoms',

@@ -1,0 +1,395 @@
+{
+  "cardId": "naraka",
+  "questions": [
+    {
+      "id": "naraka-q01",
+      "difficulty": "easy",
+      "q": "In the Puranas, what is Naraka?",
+      "options": [
+        "The heavenly city of the gods atop Mount Meru",
+        "An ocean of milk churned by gods and demons",
+        "A celestial chariot of the sun",
+        "A realm where souls undergo measured suffering to expiate their misdeeds"
+      ],
+      "answer": 3,
+      "explanation": "According to the Puranas, Naraka is the abode where souls undergo measured suffering to expiate their misdeeds before rebirth."
+    },
+    {
+      "id": "naraka-q02",
+      "difficulty": "easy",
+      "q": "Which deity rules over Naraka as the lord of the dead in Hindu tradition?",
+      "options": [
+        "Yama",
+        "Indra",
+        "Varuna",
+        "Kubera"
+      ],
+      "answer": 0,
+      "explanation": "Naraka lies under the rule of Yama, the lord of the dead, who oversees the judgment of departed souls."
+    },
+    {
+      "id": "naraka-q03",
+      "difficulty": "easy",
+      "q": "Who is the divine scribe that records the deeds of every being for judgment in Yama's realm?",
+      "options": [
+        "Narada",
+        "Chitragupta",
+        "Brihaspati",
+        "Vishvakarma"
+      ],
+      "answer": 1,
+      "explanation": "Chitragupta is the scribe of Yama who records each being's deeds, as described in the Puranas."
+    },
+    {
+      "id": "naraka-q04",
+      "difficulty": "easy",
+      "q": "According to the Puranas, the length of a soul's sojourn in Naraka is proportionate to what?",
+      "options": [
+        "Its wealth in life",
+        "Its caste",
+        "Its karma",
+        "The number of its descendants"
+      ],
+      "answer": 2,
+      "explanation": "In the Puranas, each soul's stay in Naraka is proportionate to its karma, the accumulated fruit of its deeds."
+    },
+    {
+      "id": "naraka-q05",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, what happens to a soul after its measured suffering in Naraka is complete?",
+      "options": [
+        "It is annihilated forever",
+        "It becomes a god permanently",
+        "It remains in Naraka eternally",
+        "It is reborn into a new life"
+      ],
+      "answer": 3,
+      "explanation": "Unlike eternal damnation, the Puranas describe Naraka as a temporary expiation after which the soul proceeds to rebirth."
+    },
+    {
+      "id": "naraka-q06",
+      "difficulty": "easy",
+      "q": "Which two Puranas are noted for enumerating the many distinct hells of Naraka?",
+      "options": [
+        "The Bhagavata and Vishnu Puranas",
+        "The Skanda and Brahma Puranas",
+        "The Agni and Vayu Puranas",
+        "The Kurma and Matsya Puranas"
+      ],
+      "answer": 0,
+      "explanation": "Texts such as the Bhagavata Purana and Vishnu Purana enumerate Naraka's many distinct hells."
+    },
+    {
+      "id": "naraka-q07",
+      "difficulty": "easy",
+      "q": "Yama, the ruler of Naraka, is most commonly titled the lord of what?",
+      "options": [
+        "The oceans",
+        "The dead",
+        "The harvest",
+        "The dawn"
+      ],
+      "answer": 1,
+      "explanation": "Yama is venerated as the lord of the dead, presiding over the judgment of souls in the texts."
+    },
+    {
+      "id": "naraka-q08",
+      "difficulty": "easy",
+      "q": "In the Puranas, Naraka is described as a place of suffering that is best characterized as which of the following?",
+      "options": [
+        "Eternal and unending damnation",
+        "A reward for the virtuous",
+        "Measured and proportionate expiation",
+        "A festival of the gods"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas frame Naraka as measured suffering proportionate to karma, not eternal damnation."
+    },
+    {
+      "id": "naraka-q09",
+      "difficulty": "easy",
+      "q": "In Hindu cosmology, which direction is traditionally associated with Yama, lord of Naraka and the dead?",
+      "options": [
+        "North",
+        "East",
+        "West",
+        "South"
+      ],
+      "answer": 3,
+      "explanation": "Yama is the guardian of the south among the directional deities, the dishapalas, in Hindu tradition."
+    },
+    {
+      "id": "naraka-q10",
+      "difficulty": "easy",
+      "q": "Naraka is classified as which kind of subject in Hindu sacred geography?",
+      "options": [
+        "A realm or place",
+        "A weapon",
+        "A river",
+        "A sage"
+      ],
+      "answer": 0,
+      "explanation": "Naraka is a place, the netherworld realm of reckoning ruled by Yama, as the Puranas describe it."
+    },
+    {
+      "id": "naraka-q11",
+      "difficulty": "medium",
+      "q": "In the Bhagavata Purana, who recounts the description of the hells of Naraka to King Parikshit?",
+      "options": [
+        "Sage Vyasa",
+        "Sage Shuka",
+        "Sage Vishvamitra",
+        "Sage Vasishtha"
+      ],
+      "answer": 1,
+      "explanation": "In the Bhagavata Purana, the sage Shuka (Shukadeva) narrates the cosmology, including the hells, to King Parikshit."
+    },
+    {
+      "id": "naraka-q12",
+      "difficulty": "medium",
+      "q": "According to the Puranas, the messengers who escort or seize departed souls for Yama are commonly known as what?",
+      "options": [
+        "Apsaras",
+        "Gandharvas",
+        "Yamadutas",
+        "Vidyadharas"
+      ],
+      "answer": 2,
+      "explanation": "The Yamadutas are the agents of Yama who bring souls to his realm for judgment, as told in the Puranas."
+    },
+    {
+      "id": "naraka-q13",
+      "difficulty": "medium",
+      "q": "In the Bhagavata Purana, which hell is named as the destination for those who steal others' wealth or possessions?",
+      "options": [
+        "Vaitarani",
+        "Kumbhipaka",
+        "Maharaurava",
+        "Tamisra"
+      ],
+      "answer": 3,
+      "explanation": "The Bhagavata Purana names Tamisra as a hell appointed for those who wrongfully seize another's wealth, wife, or children."
+    },
+    {
+      "id": "naraka-q14",
+      "difficulty": "medium",
+      "q": "In the Puranas, the dreadful river that the sinful must cross on the way to Yama's realm is named what?",
+      "options": [
+        "Vaitarani",
+        "Sarasvati",
+        "Yamuna",
+        "Mandakini"
+      ],
+      "answer": 0,
+      "explanation": "The Vaitarani is the fearsome river associated with Naraka that the sinful are said to cross before judgment."
+    },
+    {
+      "id": "naraka-q15",
+      "difficulty": "medium",
+      "q": "In the Bhagavata Purana, the hell named Kumbhipaka is described as a place where the condemned are subjected to what?",
+      "options": [
+        "Being frozen in ice",
+        "Being boiled in oil",
+        "Being buried in sand",
+        "Being struck by lightning"
+      ],
+      "answer": 1,
+      "explanation": "Kumbhipaka is described in the Bhagavata Purana as a hell where offenders are cooked in boiling oil for cruelty to living beings."
+    },
+    {
+      "id": "naraka-q16",
+      "difficulty": "medium",
+      "q": "Yama, the lord who presides over Naraka, is traditionally said to ride which animal as his vahana (mount)?",
+      "options": [
+        "An elephant",
+        "A peacock",
+        "A buffalo",
+        "A swan"
+      ],
+      "answer": 2,
+      "explanation": "Yama is iconographically depicted riding a buffalo, his traditional vahana in Hindu texts and art."
+    },
+    {
+      "id": "naraka-q17",
+      "difficulty": "medium",
+      "q": "Which weapon or implement is most characteristically associated with Yama, the lord of Naraka?",
+      "options": [
+        "A conch (shankha)",
+        "A bow (dhanush)",
+        "A lotus (padma)",
+        "A noose (pasha)"
+      ],
+      "answer": 3,
+      "explanation": "Yama is iconographically shown bearing the noose, the pasha, with which he is said to draw out the life of the dying."
+    },
+    {
+      "id": "naraka-q18",
+      "difficulty": "medium",
+      "q": "In Hindu tradition, the record-keeper Chitragupta is regarded as the assistant or scribe of which deity?",
+      "options": [
+        "Yama",
+        "Brahma",
+        "Vishnu",
+        "Shiva"
+      ],
+      "answer": 0,
+      "explanation": "Chitragupta serves as the meticulous scribe of Yama, tallying the good and evil deeds of every being."
+    },
+    {
+      "id": "naraka-q19",
+      "difficulty": "medium",
+      "q": "In the Katha Upanishad, the boy Nachiketa receives teaching on death and the soul directly from which figure?",
+      "options": [
+        "Indra",
+        "Yama",
+        "Agni",
+        "Surya"
+      ],
+      "answer": 1,
+      "explanation": "In the Katha Upanishad, Yama, the lord of death, instructs the boy Nachiketa on the nature of the soul and immortality."
+    },
+    {
+      "id": "naraka-q20",
+      "difficulty": "medium",
+      "q": "According to the Puranas, what is the broad purpose of a soul's suffering in Naraka?",
+      "options": [
+        "To entertain the gods",
+        "To increase the population of Naraka",
+        "To expiate misdeeds before rebirth",
+        "To reward charitable acts"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas teach that suffering in Naraka serves to expiate a soul's misdeeds before it returns to the cycle of rebirth."
+    },
+    {
+      "id": "naraka-q21",
+      "difficulty": "medium",
+      "q": "In Hindu cosmology, Naraka is generally located in which broad division of the universe?",
+      "options": [
+        "The heavenly upper worlds (svarga)",
+        "The surface of the earth alone",
+        "The sun's celestial orbit",
+        "The lower or nether regions"
+      ],
+      "answer": 3,
+      "explanation": "Puranic cosmology places the Narakas in the lower regions, beneath the earthly plane, within Yama's domain."
+    },
+    {
+      "id": "naraka-q22",
+      "difficulty": "medium",
+      "q": "In the Bhagavata Purana, the hell named Asipatravana is characterized by which feature?",
+      "options": [
+        "A forest whose leaves are sharp as swords",
+        "A lake of frozen blood",
+        "A mountain of burning coal",
+        "A pit of venomous serpents"
+      ],
+      "answer": 0,
+      "explanation": "Asipatravana is described in the Bhagavata Purana as a forest of trees with sword-sharp leaves that wound the condemned."
+    },
+    {
+      "id": "naraka-q23",
+      "difficulty": "hard",
+      "q": "According to the Bhagavata Purana, how many principal hells of Naraka are enumerated in its account?",
+      "options": [
+        "Seven",
+        "Twenty-eight",
+        "Twenty-one",
+        "Fifty-six"
+      ],
+      "answer": 1,
+      "explanation": "The Bhagavata Purana enumerates twenty-eight principal hells in its description of Naraka, each for particular transgressions."
+    },
+    {
+      "id": "naraka-q24",
+      "difficulty": "hard",
+      "q": "In the Bhagavata Purana, which deity is named as the ultimate overseer under whose authority Yama carries out the judgment of souls?",
+      "options": [
+        "Indra",
+        "Kubera",
+        "The Supreme Lord (Vishnu)",
+        "Vayu"
+      ],
+      "answer": 2,
+      "explanation": "The Bhagavata Purana presents Yama as acting under the authority of the Supreme Lord, who ordains the order of judgment."
+    },
+    {
+      "id": "naraka-q25",
+      "difficulty": "hard",
+      "q": "In the Bhagavata Purana, the hell Raurava is said to derive its name and torment from which fearsome creatures?",
+      "options": [
+        "Vultures called gridhra",
+        "Wolves called vrika",
+        "Scorpions called vrishchika",
+        "Fearsome animals called ruru"
+      ],
+      "answer": 3,
+      "explanation": "Raurava is named for the ruru, fearsome animals (said to be more spiteful than a snake) embodying the beings the condemned once harmed, who torment him in the Bhagavata Purana."
+    },
+    {
+      "id": "naraka-q26",
+      "difficulty": "hard",
+      "q": "In Hindu tradition, Yama, lord of Naraka, is described in the Rigveda as the first being to do what?",
+      "options": [
+        "To die and find the path to the afterlife",
+        "To kindle the sacrificial fire",
+        "To churn the cosmic ocean",
+        "To recite the Vedas"
+      ],
+      "answer": 0,
+      "explanation": "The Rigveda describes Yama as the first mortal to die, who thereby discovered the path to the realm of the departed."
+    },
+    {
+      "id": "naraka-q27",
+      "difficulty": "hard",
+      "q": "In the Vedas and Puranas, who is named as the father of Yama, the lord of Naraka?",
+      "options": [
+        "Brahma, the creator",
+        "Vivasvan (Surya), the sun",
+        "Kashyapa, the sage",
+        "Daksha, the patriarch"
+      ],
+      "answer": 1,
+      "explanation": "Yama is the son of Vivasvan, the sun god (Surya), and is thus often called Vaivasvata in the texts."
+    },
+    {
+      "id": "naraka-q28",
+      "difficulty": "hard",
+      "q": "In Hindu tradition, the goddess Yami or Yamuna, associated with the sacred river, is described as whose twin sister?",
+      "options": [
+        "Indra's",
+        "Agni's",
+        "Yama's",
+        "Varuna's"
+      ],
+      "answer": 2,
+      "explanation": "Yami, identified with the river Yamuna, is described in the texts as the twin sister of Yama, both children of Vivasvan."
+    },
+    {
+      "id": "naraka-q29",
+      "difficulty": "hard",
+      "q": "In the Bhagavata Purana, the hell Maharaurava is appointed especially for those who commit which kind of offense?",
+      "options": [
+        "Failing to perform daily prayers",
+        "Neglecting their gardens",
+        "Traveling without permission",
+        "Sustaining themselves by harming other living beings"
+      ],
+      "answer": 3,
+      "explanation": "Maharaurava is described in the Bhagavata Purana as the hell for those who nourish their own bodies at the expense of other creatures' lives."
+    },
+    {
+      "id": "naraka-q30",
+      "difficulty": "hard",
+      "q": "In the Puranas, by what title is Yama, the impartial judge presiding over Naraka, often honored to reflect his role as lord of righteous law?",
+      "options": [
+        "Dharmaraja",
+        "Devendra",
+        "Lokapala alone",
+        "Prajapati"
+      ],
+      "answer": 0,
+      "explanation": "Yama is honored as Dharmaraja, the king of dharma, reflecting his role as the just judge who weighs each soul's deeds."
+    }
+  ]
+}

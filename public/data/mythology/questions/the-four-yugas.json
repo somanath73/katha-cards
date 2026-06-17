@@ -1,0 +1,395 @@
+{
+  "cardId": "the-four-yugas",
+  "questions": [
+    {
+      "id": "the-four-yugas-q01",
+      "difficulty": "easy",
+      "q": "In Puranic cosmology, how many yugas (world-ages) make up one complete cycle?",
+      "options": [
+        "Four",
+        "Two",
+        "Three",
+        "Seven"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas describe four yugas: Satya, Treta, Dvapara, and Kali, which together form one great cycle."
+    },
+    {
+      "id": "the-four-yugas-q02",
+      "difficulty": "easy",
+      "q": "Which is the first and most virtuous of the four yugas in Hindu cosmology?",
+      "options": [
+        "Kali Yuga",
+        "Satya Yuga",
+        "Dvapara Yuga",
+        "Treta Yuga"
+      ],
+      "answer": 1,
+      "explanation": "Satya Yuga, also called Krita Yuga, is the first age, when dharma is said to stand complete on all four legs."
+    },
+    {
+      "id": "the-four-yugas-q03",
+      "difficulty": "easy",
+      "q": "Which yuga is described in the Puranas as the present, darkest age?",
+      "options": [
+        "Satya Yuga",
+        "Treta Yuga",
+        "Kali Yuga",
+        "Dvapara Yuga"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas hold that the present age is Kali Yuga, the last and most spiritually diminished of the four ages."
+    },
+    {
+      "id": "the-four-yugas-q04",
+      "difficulty": "easy",
+      "q": "What is the Sanskrit term for the full set of four yugas taken together as one cycle?",
+      "options": [
+        "Kalpa",
+        "Manvantara",
+        "Samsara",
+        "Chaturyuga (Mahayuga)"
+      ],
+      "answer": 3,
+      "explanation": "The four yugas together form a chaturyuga, also known as a mahayuga, after which the cycle renews."
+    },
+    {
+      "id": "the-four-yugas-q05",
+      "difficulty": "easy",
+      "q": "In the imagery of the yugas, dharma is often pictured as a bull standing on a number of legs. How many legs does dharma stand on during Satya Yuga?",
+      "options": [
+        "Four",
+        "One",
+        "Two",
+        "Three"
+      ],
+      "answer": 0,
+      "explanation": "In Satya Yuga dharma is said to stand firmly on all four legs, then lose one leg in each succeeding age."
+    },
+    {
+      "id": "the-four-yugas-q06",
+      "difficulty": "easy",
+      "q": "According to the Puranas, how many legs does dharma stand upon during the present Kali Yuga?",
+      "options": [
+        "Two",
+        "One",
+        "Three",
+        "Four"
+      ],
+      "answer": 1,
+      "explanation": "By Kali Yuga, dharma is said to stand on only one leg, reflecting the steep decline of righteousness."
+    },
+    {
+      "id": "the-four-yugas-q07",
+      "difficulty": "easy",
+      "q": "What is the correct order of the four yugas from first to last?",
+      "options": [
+        "Kali, Dvapara, Treta, Satya",
+        "Treta, Satya, Kali, Dvapara",
+        "Satya, Treta, Dvapara, Kali",
+        "Dvapara, Treta, Kali, Satya"
+      ],
+      "answer": 2,
+      "explanation": "The yugas proceed in declining order: Satya, then Treta, then Dvapara, and finally Kali."
+    },
+    {
+      "id": "the-four-yugas-q08",
+      "difficulty": "easy",
+      "q": "By what other name is the first age, Satya Yuga, commonly known?",
+      "options": [
+        "Manvantara",
+        "Kali Yuga",
+        "Pralaya",
+        "Krita Yuga"
+      ],
+      "answer": 3,
+      "explanation": "Satya Yuga is also called Krita Yuga, meaning the age that is 'accomplished' or whole in virtue."
+    },
+    {
+      "id": "the-four-yugas-q09",
+      "difficulty": "easy",
+      "q": "Across the succession of yugas, what general trend does dharma (righteousness) follow according to the Puranas?",
+      "options": [
+        "It steadily diminishes",
+        "It steadily increases",
+        "It stays unchanged",
+        "It vanishes entirely in the first age"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas teach that dharma steadily diminishes from age to age, from four legs in Satya Yuga to one in Kali Yuga."
+    },
+    {
+      "id": "the-four-yugas-q10",
+      "difficulty": "easy",
+      "q": "After the four yugas complete their cycle, what does Puranic tradition say happens to the cosmos?",
+      "options": [
+        "It is destroyed forever",
+        "It is renewed and the cycle begins again",
+        "It freezes in Kali Yuga permanently",
+        "It splits into separate worlds"
+      ],
+      "answer": 1,
+      "explanation": "After a chaturyuga, the cosmos is renewed and the cycle of ages begins anew, reflecting cyclic Hindu time."
+    },
+    {
+      "id": "the-four-yugas-q11",
+      "difficulty": "medium",
+      "q": "The Puranas state that the present Kali Yuga began at the close of which figure's earthly life?",
+      "options": [
+        "Rama",
+        "Hanuman",
+        "Krishna",
+        "Bhishma"
+      ],
+      "answer": 2,
+      "explanation": "Puranic tradition holds that Kali Yuga began at the close of Krishna's earthly life, after the Mahabharata war."
+    },
+    {
+      "id": "the-four-yugas-q12",
+      "difficulty": "medium",
+      "q": "The events of the Ramayana, in which Rama appears, are traditionally placed in which yuga?",
+      "options": [
+        "Satya Yuga",
+        "Dvapara Yuga",
+        "Kali Yuga",
+        "Treta Yuga"
+      ],
+      "answer": 3,
+      "explanation": "Tradition places Rama and the events of the Ramayana in Treta Yuga, the second of the four ages."
+    },
+    {
+      "id": "the-four-yugas-q13",
+      "difficulty": "medium",
+      "q": "The events of the Mahabharata, in which Krishna appears, are traditionally placed in which yuga?",
+      "options": [
+        "Dvapara Yuga",
+        "Satya Yuga",
+        "Treta Yuga",
+        "Kali Yuga"
+      ],
+      "answer": 0,
+      "explanation": "Tradition places Krishna and the Mahabharata in Dvapara Yuga, the third of the four ages."
+    },
+    {
+      "id": "the-four-yugas-q14",
+      "difficulty": "medium",
+      "q": "Which yuga's very name is connected with the number 'four' (krita/catur), reflecting dharma standing on four legs?",
+      "options": [
+        "Treta Yuga",
+        "Satya (Krita) Yuga",
+        "Dvapara Yuga",
+        "Kali Yuga"
+      ],
+      "answer": 1,
+      "explanation": "Satya Yuga, the age of complete dharma, is also called Krita Yuga and is associated with dharma's four legs."
+    },
+    {
+      "id": "the-four-yugas-q15",
+      "difficulty": "medium",
+      "q": "In the names Treta and Dvapara, the syllables 'tri' and 'dva' point to which idea about dharma in those ages?",
+      "options": [
+        "Dharma is fully restored",
+        "Dharma multiplies",
+        "Dharma stands on three then two legs",
+        "Dharma is absent"
+      ],
+      "answer": 2,
+      "explanation": "The names reflect dharma standing on three legs in Treta Yuga and two legs in Dvapara Yuga."
+    },
+    {
+      "id": "the-four-yugas-q16",
+      "difficulty": "medium",
+      "q": "According to the Puranas, the four yugas are described as having which relative durations?",
+      "options": [
+        "All exactly equal in length",
+        "Each progressively longer, Kali the longest",
+        "Random and unordered",
+        "Each progressively shorter, Satya the longest"
+      ],
+      "answer": 3,
+      "explanation": "The Puranas describe each successive yuga as shorter than the last, with Satya Yuga the longest and Kali the shortest."
+    },
+    {
+      "id": "the-four-yugas-q17",
+      "difficulty": "medium",
+      "q": "In Puranic reckoning, the four yugas stand in a proportional ratio. Which ratio is traditionally given for Satya : Treta : Dvapara : Kali?",
+      "options": [
+        "4 : 3 : 2 : 1",
+        "1 : 1 : 1 : 1",
+        "1 : 2 : 3 : 4",
+        "2 : 2 : 1 : 1"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas give the durations of the yugas in the ratio 4 : 3 : 2 : 1, Satya being longest and Kali shortest."
+    },
+    {
+      "id": "the-four-yugas-q18",
+      "difficulty": "medium",
+      "q": "In the Bhagavata and other Puranas, the avatara expected to appear at the end of Kali Yuga to restore dharma is named what?",
+      "options": [
+        "Parashurama",
+        "Kalki",
+        "Vamana",
+        "Narasimha"
+      ],
+      "answer": 1,
+      "explanation": "The Puranas name Kalki as the avatara who appears at the close of Kali Yuga to renew dharma and begin a new cycle."
+    },
+    {
+      "id": "the-four-yugas-q19",
+      "difficulty": "medium",
+      "q": "A thousand chaturyugas (cycles of four ages) are said in the Puranas to make up one of which vast cosmic period?",
+      "options": [
+        "A manvantara",
+        "A muhurta",
+        "A kalpa (a day of Brahma)",
+        "A samvatsara"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas describe a kalpa, a day of Brahma, as comprising a thousand chaturyugas."
+    },
+    {
+      "id": "the-four-yugas-q20",
+      "difficulty": "medium",
+      "q": "Which quality is most associated with Satya Yuga in the Puranas?",
+      "options": [
+        "Constant warfare",
+        "Loss of all righteousness",
+        "Absence of any deities",
+        "Universal truthfulness and virtue"
+      ],
+      "answer": 3,
+      "explanation": "Satya Yuga, whose name means 'truth', is described as an age of complete virtue and truthfulness."
+    },
+    {
+      "id": "the-four-yugas-q21",
+      "difficulty": "medium",
+      "q": "In Puranic teaching, the recommended spiritual practice especially suited to the present Kali Yuga is which of the following?",
+      "options": [
+        "Devotion and chanting of the divine name (nama-japa)",
+        "Elaborate fire sacrifices alone",
+        "Silent withdrawal from all worship",
+        "Severe austerities only for sages"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas commend devotion and chanting of the divine name as the path best suited to Kali Yuga."
+    },
+    {
+      "id": "the-four-yugas-q22",
+      "difficulty": "medium",
+      "q": "The cyclic rise and fall of the yugas reflects which broader Hindu understanding of time?",
+      "options": [
+        "Time is strictly linear with no repetition",
+        "Time moves in repeating cycles of creation and renewal",
+        "Time does not exist",
+        "Time runs backward"
+      ],
+      "answer": 1,
+      "explanation": "The yugas express the Hindu vision of time as cyclic, with ages recurring through creation, decline, and renewal."
+    },
+    {
+      "id": "the-four-yugas-q23",
+      "difficulty": "hard",
+      "q": "In the standard Puranic figures, Kali Yuga is said to last how many years?",
+      "options": [
+        "864,000 years",
+        "1,296,000 years",
+        "432,000 years",
+        "1,728,000 years"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas give Kali Yuga a span of 432,000 years, the shortest of the four ages."
+    },
+    {
+      "id": "the-four-yugas-q24",
+      "difficulty": "hard",
+      "q": "Using the traditional Puranic figures, what is the total length of one complete chaturyuga (mahayuga)?",
+      "options": [
+        "432,000 years",
+        "1,728,000 years",
+        "8,640,000 years",
+        "4,320,000 years"
+      ],
+      "answer": 3,
+      "explanation": "Summing the four ages (1,728,000 + 1,296,000 + 864,000 + 432,000) gives 4,320,000 years for one chaturyuga."
+    },
+    {
+      "id": "the-four-yugas-q25",
+      "difficulty": "hard",
+      "q": "In Puranic cosmology, a period ruled by one Manu, comprising many chaturyugas, is given which name?",
+      "options": [
+        "Manvantara",
+        "Pralaya",
+        "Yugadi",
+        "Sandhya"
+      ],
+      "answer": 0,
+      "explanation": "A manvantara is the reign of a single Manu, made up of many chaturyugas within a kalpa."
+    },
+    {
+      "id": "the-four-yugas-q26",
+      "difficulty": "hard",
+      "q": "The dharma-bull whose legs diminish across the yugas is, in the Bhagavata Purana, associated chiefly with which deity?",
+      "options": [
+        "Indra",
+        "Dharma personified",
+        "Varuna",
+        "Surya"
+      ],
+      "answer": 1,
+      "explanation": "The Bhagavata Purana presents the bull as Dharma personified, losing a leg in each succeeding age."
+    },
+    {
+      "id": "the-four-yugas-q27",
+      "difficulty": "hard",
+      "q": "According to the Puranas, each yuga is preceded and followed by twilight transitional periods. What are these intervals called?",
+      "options": [
+        "Muhurta and ghati",
+        "Kalpa and pralaya",
+        "Sandhya and sandhyamsha",
+        "Tithi and paksha"
+      ],
+      "answer": 2,
+      "explanation": "Each yuga has twilight intervals called sandhya (dawn) and sandhyamsha (dusk) bracketing the age proper."
+    },
+    {
+      "id": "the-four-yugas-q28",
+      "difficulty": "hard",
+      "q": "In the traditional Puranic figures, which yuga is given a duration of 1,296,000 years?",
+      "options": [
+        "Satya Yuga",
+        "Dvapara Yuga",
+        "Kali Yuga",
+        "Treta Yuga"
+      ],
+      "answer": 3,
+      "explanation": "Treta Yuga is given a span of 1,296,000 years, three times the length of Kali Yuga."
+    },
+    {
+      "id": "the-four-yugas-q29",
+      "difficulty": "hard",
+      "q": "In the Bhagavata Purana, which four virtues are said to be present in full during Satya Yuga and to decline thereafter?",
+      "options": [
+        "Austerity, purity, compassion, and truthfulness",
+        "Wealth, fame, power, and pleasure",
+        "Earth, water, fire, and air",
+        "Knowledge, action, devotion, and yoga"
+      ],
+      "answer": 0,
+      "explanation": "The Bhagavata Purana names austerity, purity, compassion, and truthfulness as the four legs of dharma, whole in Satya Yuga."
+    },
+    {
+      "id": "the-four-yugas-q30",
+      "difficulty": "hard",
+      "q": "In the cycle of yugas, the Kalki avatara's appearance at the end of Kali Yuga most directly leads to which outcome?",
+      "options": [
+        "The permanent end of all ages",
+        "The restoration of dharma and the dawn of a new Satya Yuga",
+        "The merging of all four yugas into one",
+        "The disappearance of time"
+      ],
+      "answer": 1,
+      "explanation": "The Puranas teach that Kalki restores dharma at the close of Kali Yuga, ushering in a renewed Satya Yuga and a fresh cycle."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "narasimha",
+  "questions": [
+    {
+      "id": "narasimha-q01",
+      "difficulty": "easy",
+      "q": "In the Puranas, of which deity is Narasimha an avatar?",
+      "options": [
+        "Vishnu",
+        "Shiva",
+        "Brahma",
+        "Indra"
+      ],
+      "answer": 0,
+      "explanation": "Narasimha is the fierce fourth avatar of Vishnu, who preserves dharma by descending to destroy tyranny."
+    },
+    {
+      "id": "narasimha-q02",
+      "difficulty": "easy",
+      "q": "What form does Narasimha take in the Puranic accounts?",
+      "options": [
+        "Half-man and half-fish",
+        "Half-man and half-lion",
+        "Half-man and half-horse",
+        "Half-man and half-eagle"
+      ],
+      "answer": 1,
+      "explanation": "Narasimha appears as a being who is half-man and half-lion, neither wholly human nor wholly beast."
+    },
+    {
+      "id": "narasimha-q03",
+      "difficulty": "easy",
+      "q": "From what object does Narasimha burst forth in the Bhagavata Purana?",
+      "options": [
+        "A lotus",
+        "The ocean",
+        "A pillar",
+        "A flame"
+      ],
+      "answer": 2,
+      "explanation": "Narasimha emerges from a pillar in the demon's hall, answering Prahlada's faith that Vishnu is present everywhere."
+    },
+    {
+      "id": "narasimha-q04",
+      "difficulty": "easy",
+      "q": "Which tyrant king does Narasimha destroy?",
+      "options": [
+        "Ravana",
+        "Mahishasura",
+        "Kamsa",
+        "Hiranyakashipu"
+      ],
+      "answer": 3,
+      "explanation": "Narasimha slays the Daitya king Hiranyakashipu, who had persecuted his own son for worshipping Vishnu."
+    },
+    {
+      "id": "narasimha-q05",
+      "difficulty": "easy",
+      "q": "Which devoted son does Narasimha appear to protect?",
+      "options": [
+        "Prahlada",
+        "Dhruva",
+        "Bali",
+        "Markandeya"
+      ],
+      "answer": 0,
+      "explanation": "Narasimha manifests to safeguard Prahlada, the steadfast child-devotee of Vishnu born to the demon king."
+    },
+    {
+      "id": "narasimha-q06",
+      "difficulty": "easy",
+      "q": "Which deity granted Hiranyakashipu the boon that made him nearly invincible?",
+      "options": [
+        "Vishnu",
+        "Brahma",
+        "Shiva",
+        "Indra"
+      ],
+      "answer": 1,
+      "explanation": "Hiranyakashipu won his boon of near-invincibility from Brahma through severe austerities, as told in the Bhagavata Purana."
+    },
+    {
+      "id": "narasimha-q07",
+      "difficulty": "easy",
+      "q": "In the count of Vishnu's Dashavatara, which avatar is Narasimha?",
+      "options": [
+        "The second",
+        "The third",
+        "The fourth",
+        "The fifth"
+      ],
+      "answer": 2,
+      "explanation": "Narasimha is the fourth of the ten principal avatars, following Matsya, Kurma, and Varaha."
+    },
+    {
+      "id": "narasimha-q08",
+      "difficulty": "easy",
+      "q": "With what did Narasimha slay Hiranyakashipu, rather than with a weapon?",
+      "options": [
+        "A sword",
+        "A discus",
+        "A mace",
+        "His claws"
+      ],
+      "answer": 3,
+      "explanation": "Narasimha used his claws to slay the demon, since the boon protected Hiranyakashipu from death by any conventional weapon."
+    },
+    {
+      "id": "narasimha-q09",
+      "difficulty": "easy",
+      "q": "At what time of day did Narasimha slay Hiranyakashipu, neither day nor night?",
+      "options": [
+        "Twilight (dusk)",
+        "Midnight",
+        "Dawn",
+        "Noon"
+      ],
+      "answer": 0,
+      "explanation": "Narasimha struck at twilight, the threshold hour that is neither day nor night, to circumvent the boon."
+    },
+    {
+      "id": "narasimha-q10",
+      "difficulty": "easy",
+      "q": "What was the relationship between the devotee Prahlada and the tyrant Hiranyakashipu in the Narasimha story?",
+      "options": [
+        "Brothers",
+        "Father and son",
+        "Master and servant",
+        "Uncle and nephew"
+      ],
+      "answer": 1,
+      "explanation": "Prahlada was the son of Hiranyakashipu, yet remained devoted to Vishnu despite his father's persecution."
+    },
+    {
+      "id": "narasimha-q11",
+      "difficulty": "medium",
+      "q": "Hiranyakashipu's boon stated he could not be killed by which of these?",
+      "options": [
+        "Fire or water",
+        "Gods or sages",
+        "Man or beast",
+        "Day or month"
+      ],
+      "answer": 2,
+      "explanation": "The boon decreed he could not be slain by man or beast, so Narasimha came as a being that was neither."
+    },
+    {
+      "id": "narasimha-q12",
+      "difficulty": "medium",
+      "q": "In which Purana is the principal account of Narasimha and Hiranyakashipu related?",
+      "options": [
+        "Markandeya Purana",
+        "Shiva Purana",
+        "Devi Bhagavata Purana",
+        "Bhagavata Purana"
+      ],
+      "answer": 3,
+      "explanation": "The Bhagavata Purana gives the central narrative of Prahlada, Hiranyakashipu, and the Narasimha avatar."
+    },
+    {
+      "id": "narasimha-q13",
+      "difficulty": "medium",
+      "q": "Hiranyakashipu's boon specified he could not be killed in which locations?",
+      "options": [
+        "Indoors or outdoors",
+        "Land or sea",
+        "Forest or city",
+        "Mountain or valley"
+      ],
+      "answer": 0,
+      "explanation": "The boon protected him neither indoors nor outdoors, so Narasimha slew him on a threshold (the doorway)."
+    },
+    {
+      "id": "narasimha-q14",
+      "difficulty": "medium",
+      "q": "On what part of his own body did Narasimha place Hiranyakashipu to slay him, evading the clause about earth and sky?",
+      "options": [
+        "His shoulders",
+        "His lap (thighs)",
+        "His back",
+        "His head"
+      ],
+      "answer": 1,
+      "explanation": "Narasimha set the demon upon his lap, which is neither on the earth nor in the sky, satisfying that clause of the boon."
+    },
+    {
+      "id": "narasimha-q15",
+      "difficulty": "medium",
+      "q": "Which Daitya, slain by Vishnu as the boar Varaha, was the elder brother of Hiranyakashipu?",
+      "options": [
+        "Bali",
+        "Mahishasura",
+        "Hiranyaksha",
+        "Raktabija"
+      ],
+      "answer": 2,
+      "explanation": "Hiranyaksha, who dragged the earth into the ocean and was slain by Varaha, was the elder brother of Hiranyakashipu."
+    },
+    {
+      "id": "narasimha-q16",
+      "difficulty": "medium",
+      "q": "According to the Puranas, what did the young Prahlada steadfastly do that enraged his father Hiranyakashipu?",
+      "options": [
+        "Refuse to eat",
+        "Leave the kingdom",
+        "Befriend the devas",
+        "Worship Vishnu"
+      ],
+      "answer": 3,
+      "explanation": "Prahlada's unwavering worship of Vishnu, the very enemy of his father, provoked Hiranyakashipu's fury."
+    },
+    {
+      "id": "narasimha-q17",
+      "difficulty": "medium",
+      "q": "In the Bhagavata Purana, which of these was an attempt made to kill the child Prahlada that he survived?",
+      "options": [
+        "Being given poison",
+        "Being struck by lightning",
+        "Being turned to stone",
+        "Being changed into an animal"
+      ],
+      "answer": 0,
+      "explanation": "Prahlada survived poison, fire, and serpents, his life preserved by his devotion to Vishnu."
+    },
+    {
+      "id": "narasimha-q18",
+      "difficulty": "medium",
+      "q": "Which avatar immediately precedes Narasimha in the classical Dashavatara sequence?",
+      "options": [
+        "Vamana",
+        "Varaha",
+        "Kurma",
+        "Matsya"
+      ],
+      "answer": 1,
+      "explanation": "Varaha the boar is the third avatar, immediately preceding Narasimha, the fourth."
+    },
+    {
+      "id": "narasimha-q19",
+      "difficulty": "medium",
+      "q": "Which avatar of Vishnu immediately follows Narasimha in the classical Dashavatara sequence?",
+      "options": [
+        "Parashurama",
+        "Rama",
+        "Vamana",
+        "Krishna"
+      ],
+      "answer": 2,
+      "explanation": "Vamana the dwarf is the fifth avatar, following Narasimha the man-lion."
+    },
+    {
+      "id": "narasimha-q20",
+      "difficulty": "medium",
+      "q": "To which class of beings does Hiranyakashipu, the demon slain by Narasimha, belong in the Puranas?",
+      "options": [
+        "Yakshas",
+        "Nagas",
+        "Gandharvas",
+        "Daityas (asuras)"
+      ],
+      "answer": 3,
+      "explanation": "Hiranyakashipu is described as a Daitya king, one of the asura clans descended from Diti."
+    },
+    {
+      "id": "narasimha-q21",
+      "difficulty": "medium",
+      "q": "The emblem most associated with Narasimha in this deck reflects which palette and theme of his appearance?",
+      "options": [
+        "Fire and flame",
+        "Water and ocean",
+        "Earth and forest",
+        "Air and dawn"
+      ],
+      "answer": 0,
+      "explanation": "Narasimha is associated with fire and a flame palette, evoking the blazing fury of his twilight manifestation."
+    },
+    {
+      "id": "narasimha-q22",
+      "difficulty": "medium",
+      "q": "How did Narasimha resolve the clause that Hiranyakashipu could not be killed by any created living being, man or beast?",
+      "options": [
+        "By using a divine weapon",
+        "By appearing as a being that was neither man nor beast",
+        "By summoning the devas",
+        "By making the demon mortal again"
+      ],
+      "answer": 1,
+      "explanation": "As a being half-man and half-lion, Narasimha was neither wholly man nor wholly beast, evading that clause."
+    },
+    {
+      "id": "narasimha-q23",
+      "difficulty": "hard",
+      "q": "Whose unwavering faith that Vishnu pervades all things is vindicated when Narasimha bursts from the pillar?",
+      "options": [
+        "Bali's",
+        "Dhruva's",
+        "Prahlada's",
+        "Markandeya's"
+      ],
+      "answer": 2,
+      "explanation": "Prahlada had declared Vishnu present everywhere, even in a pillar, and Narasimha emerged to prove it true."
+    },
+    {
+      "id": "narasimha-q24",
+      "difficulty": "hard",
+      "q": "In the Bhagavata Purana, which grandson of Prahlada later became the generous asura king humbled by the Vamana avatar?",
+      "options": [
+        "Banasura",
+        "Virochana",
+        "Andhaka",
+        "Bali"
+      ],
+      "answer": 3,
+      "explanation": "Bali, the righteous and generous asura king subdued by Vamana, is described as the grandson of Prahlada."
+    },
+    {
+      "id": "narasimha-q25",
+      "difficulty": "hard",
+      "q": "Narasimha is honored as the 'Man-Lion of Twilight' because his slaying of Hiranyakashipu occurred at which liminal moment?",
+      "options": [
+        "The boundary between day and night",
+        "The new moon",
+        "The turning of a season",
+        "The first light of dawn"
+      ],
+      "answer": 0,
+      "explanation": "He struck at twilight, the boundary hour belonging to neither day nor night, fulfilling the boon's terms."
+    },
+    {
+      "id": "narasimha-q26",
+      "difficulty": "hard",
+      "q": "Which two demon brothers, slain respectively by the Varaha and Narasimha avatars, are described in the Bhagavata Purana as sons of the sage Kashyapa and Diti?",
+      "options": [
+        "Madhu and Kaitabha",
+        "Hiranyaksha and Hiranyakashipu",
+        "Sunda and Upasunda",
+        "Shumbha and Nishumbha"
+      ],
+      "answer": 1,
+      "explanation": "Hiranyaksha and Hiranyakashipu were brothers; Varaha slew the former and Narasimha the latter."
+    },
+    {
+      "id": "narasimha-q27",
+      "difficulty": "hard",
+      "q": "Which name, meaning 'man-lion,' is the Sanskrit title of Vishnu's fierce fourth avatar?",
+      "options": [
+        "Nara-vyaghra",
+        "Nara-gaja",
+        "Narasimha",
+        "Nara-rishabha"
+      ],
+      "answer": 2,
+      "explanation": "The name Narasimha combines 'nara' (man) and 'simha' (lion), denoting the man-lion form of Vishnu."
+    },
+    {
+      "id": "narasimha-q28",
+      "difficulty": "hard",
+      "q": "After surviving his father's torments, what became of the devotee Prahlada according to the Puranas?",
+      "options": [
+        "He was slain in battle",
+        "He renounced the world and vanished",
+        "He ascended to become a star",
+        "He was spared, blessed, and ruled justly"
+      ],
+      "answer": 3,
+      "explanation": "Prahlada was spared and blessed by Narasimha, and he went on to rule righteously as an exemplar of bhakti."
+    },
+    {
+      "id": "narasimha-q29",
+      "difficulty": "hard",
+      "q": "The three avatars preceding Narasimha (Matsya, Kurma, and Varaha) all perform their central deeds within which element?",
+      "options": [
+        "The cosmic waters",
+        "The mountains",
+        "The heavens",
+        "The desert"
+      ],
+      "answer": 0,
+      "explanation": "Matsya saves Manu's boat in the deluge, Kurma supports Mandara amid the churned ocean, and Varaha lifts the earth from the cosmic waters; all three act within the waters before Narasimha."
+    },
+    {
+      "id": "narasimha-q30",
+      "difficulty": "hard",
+      "q": "Which theme does the Narasimha episode most centrally illustrate within Vaishnava tradition?",
+      "options": [
+        "The futility of austerity",
+        "The triumph of devotion and the protection of the devotee",
+        "The supremacy of ritual sacrifice",
+        "The inevitability of cosmic dissolution"
+      ],
+      "answer": 1,
+      "explanation": "The Narasimha story is upheld as a supreme illustration of bhakti, showing Vishnu's protection of his devotee Prahlada."
+    }
+  ]
+}

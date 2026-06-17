@@ -1,0 +1,395 @@
+{
+  "cardId": "mohini",
+  "questions": [
+    {
+      "id": "mohini-q01",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, Mohini is the enchanting female form taken by which deity?",
+      "options": [
+        "Shiva",
+        "Vishnu",
+        "Brahma",
+        "Indra"
+      ],
+      "answer": 1,
+      "explanation": "Mohini is the bewitching female avatar assumed by Lord Vishnu."
+    },
+    {
+      "id": "mohini-q02",
+      "difficulty": "easy",
+      "q": "Vishnu took the form of Mohini to recover which precious substance after the churning of the ocean?",
+      "options": [
+        "Soma juice",
+        "Gold (hiranya)",
+        "Amrita, the nectar of immortality",
+        "Sacred ghee"
+      ],
+      "answer": 2,
+      "explanation": "Vishnu became Mohini specifically to reclaim the amrita, the nectar of immortality."
+    },
+    {
+      "id": "mohini-q03",
+      "difficulty": "easy",
+      "q": "The Mohini episode arises directly from which great cosmic event?",
+      "options": [
+        "The burning of the Khandava forest",
+        "The descent of the Ganga",
+        "The destruction of the three cities",
+        "The churning of the ocean of milk"
+      ],
+      "answer": 3,
+      "explanation": "Mohini appears during the Samudra Manthana, the churning of the ocean of milk."
+    },
+    {
+      "id": "mohini-q04",
+      "difficulty": "easy",
+      "q": "After the amrita appeared, who seized the pot, prompting Vishnu to take the Mohini form?",
+      "options": [
+        "The asuras (demons)",
+        "The devas (gods)",
+        "The sages",
+        "The serpents"
+      ],
+      "answer": 0,
+      "explanation": "The asuras snatched the pot of nectar, so Vishnu became Mohini to recover it."
+    },
+    {
+      "id": "mohini-q05",
+      "difficulty": "easy",
+      "q": "As Mohini, to whom did Vishnu serve the nectar of immortality?",
+      "options": [
+        "Only the asuras (demons)",
+        "Only the devas (gods)",
+        "Both equally",
+        "The sages alone"
+      ],
+      "answer": 1,
+      "explanation": "Mohini beguiled the demons and served the amrita only to the devas."
+    },
+    {
+      "id": "mohini-q06",
+      "difficulty": "easy",
+      "q": "The name 'Mohini' is derived from a Sanskrit root meaning what?",
+      "options": [
+        "To protect",
+        "To create",
+        "To enchant or delude (moha)",
+        "To destroy"
+      ],
+      "answer": 2,
+      "explanation": "The name Mohini comes from 'moha', meaning enchantment, delusion, or bewilderment."
+    },
+    {
+      "id": "mohini-q07",
+      "difficulty": "easy",
+      "q": "Which Purana most famously narrates the story of Mohini distributing the nectar?",
+      "options": [
+        "The Skanda Purana only",
+        "The Markandeya Purana",
+        "The Garuda Purana",
+        "The Bhagavata Purana"
+      ],
+      "answer": 3,
+      "explanation": "The Bhagavata Purana is the principal text recounting the Mohini episode."
+    },
+    {
+      "id": "mohini-q08",
+      "difficulty": "easy",
+      "q": "Which demon disguised himself among the gods to secretly drink the nectar served by Mohini?",
+      "options": [
+        "Rahu (Svarbhanu)",
+        "Ravana",
+        "Mahishasura",
+        "Hiranyakashipu"
+      ],
+      "answer": 0,
+      "explanation": "The demon Rahu, also called Svarbhanu, disguised himself to drink the amrita."
+    },
+    {
+      "id": "mohini-q09",
+      "difficulty": "easy",
+      "q": "Mohini is generally described in the texts as a being of what striking quality?",
+      "options": [
+        "Terrifying and fierce",
+        "Irresistibly beautiful and enchanting",
+        "Ascetic and plain",
+        "Aged and wise"
+      ],
+      "answer": 1,
+      "explanation": "Mohini is portrayed as a woman of irresistible, bewitching beauty."
+    },
+    {
+      "id": "mohini-q10",
+      "difficulty": "easy",
+      "q": "In assuming the Mohini form, Vishnu adopted which gender to accomplish his aim?",
+      "options": [
+        "A male warrior form",
+        "An animal form",
+        "A female form",
+        "A child form"
+      ],
+      "answer": 2,
+      "explanation": "Vishnu took on an entrancing female form as Mohini, his only female avatar."
+    },
+    {
+      "id": "mohini-q11",
+      "difficulty": "medium",
+      "q": "When Vishnu severed Rahu's head as Mohini served the nectar, what celestial bodies resulted from the two halves?",
+      "options": [
+        "The Sun and the Moon",
+        "Venus and Mars",
+        "Saturn and Jupiter",
+        "Rahu and Ketu"
+      ],
+      "answer": 3,
+      "explanation": "Vishnu's discus split Rahu into the two shadow-planets Rahu (head) and Ketu (body)."
+    },
+    {
+      "id": "mohini-q12",
+      "difficulty": "medium",
+      "q": "Which two luminaries exposed Rahu's deception by alerting Vishnu as Mohini poured the nectar?",
+      "options": [
+        "The Sun (Surya) and the Moon (Chandra)",
+        "Agni and Vayu",
+        "Indra and Varuna",
+        "Brihaspati and Shukra"
+      ],
+      "answer": 0,
+      "explanation": "Surya and Chandra spotted the disguised Rahu and warned Vishnu, who then beheaded him."
+    },
+    {
+      "id": "mohini-q13",
+      "difficulty": "medium",
+      "q": "Because Surya and Chandra exposed him, Rahu is said in the Puranas to do what to them periodically?",
+      "options": [
+        "Bless them with light",
+        "Swallow them, causing eclipses",
+        "Grant them new orbits",
+        "Share the nectar with them"
+      ],
+      "answer": 1,
+      "explanation": "In revenge, Rahu and Ketu are said to swallow the Sun and Moon, causing eclipses."
+    },
+    {
+      "id": "mohini-q14",
+      "difficulty": "medium",
+      "q": "Which weapon of Vishnu is described as severing the head of the disguised demon Rahu?",
+      "options": [
+        "The Sharanga bow",
+        "The Kaumodaki mace",
+        "The Sudarshana Chakra (discus)",
+        "The Nandaka sword"
+      ],
+      "answer": 2,
+      "explanation": "Vishnu used his Sudarshana Chakra to behead Rahu during the Mohini episode."
+    },
+    {
+      "id": "mohini-q15",
+      "difficulty": "medium",
+      "q": "Mohini is celebrated as which of Vishnu's avatars in terms of gender among his many incarnations?",
+      "options": [
+        "One of several female avatars",
+        "A male avatar in disguise",
+        "An androgynous avatar like Ardhanarishvara",
+        "His only female avatar"
+      ],
+      "answer": 3,
+      "explanation": "Mohini is traditionally regarded as the only female avatar of Vishnu."
+    },
+    {
+      "id": "mohini-q16",
+      "difficulty": "medium",
+      "q": "According to several Puranas, Mohini's enchanting form so captivated which great god that he too was drawn to her?",
+      "options": [
+        "Shiva",
+        "Brahma",
+        "Yama",
+        "Kubera"
+      ],
+      "answer": 0,
+      "explanation": "Puranic accounts relate that even Shiva was enchanted upon beholding Mohini."
+    },
+    {
+      "id": "mohini-q17",
+      "difficulty": "medium",
+      "q": "In southern traditions, the union of Shiva and Vishnu-as-Mohini is said to produce which deity?",
+      "options": [
+        "Ganesha",
+        "Ayyappa (Hariharaputra)",
+        "Kartikeya",
+        "Hanuman"
+      ],
+      "answer": 1,
+      "explanation": "Many southern texts hold that Ayyappa, also called Hariharaputra, was born of Shiva and Mohini."
+    },
+    {
+      "id": "mohini-q18",
+      "difficulty": "medium",
+      "q": "The deity Ayyappa, linked to Mohini, is also known by which epithet meaning 'son of Hari and Hara'?",
+      "options": [
+        "Gangaputra",
+        "Devasenapati",
+        "Hariharaputra",
+        "Lakshminarayana"
+      ],
+      "answer": 2,
+      "explanation": "Ayyappa is called Hariharaputra, the son of Hari (Vishnu) and Hara (Shiva)."
+    },
+    {
+      "id": "mohini-q19",
+      "difficulty": "medium",
+      "q": "During the churning of the ocean, which mountain was used as the churning rod before Mohini's appearance?",
+      "options": [
+        "Mount Kailasa",
+        "Mount Meru",
+        "Mount Govardhan",
+        "Mount Mandara"
+      ],
+      "answer": 3,
+      "explanation": "Mount Mandara served as the churning rod during the Samudra Manthana."
+    },
+    {
+      "id": "mohini-q20",
+      "difficulty": "medium",
+      "q": "Which serpent-king served as the rope coiled around the mountain during the churning that led to Mohini's tale?",
+      "options": [
+        "Vasuki",
+        "Takshaka",
+        "Kaliya",
+        "Ananta-Shesha"
+      ],
+      "answer": 0,
+      "explanation": "The serpent Vasuki was used as the churning rope around Mount Mandara."
+    },
+    {
+      "id": "mohini-q21",
+      "difficulty": "medium",
+      "q": "Which tortoise avatar of Vishnu supported the sinking mountain during the same churning that preceded Mohini?",
+      "options": [
+        "Matsya",
+        "Kurma",
+        "Varaha",
+        "Narasimha"
+      ],
+      "answer": 1,
+      "explanation": "Vishnu took the Kurma (tortoise) avatar to support Mount Mandara on his back."
+    },
+    {
+      "id": "mohini-q22",
+      "difficulty": "medium",
+      "q": "Mohini's central role in the nectar episode is essentially that of what?",
+      "options": [
+        "A warrior who slays the demons",
+        "A judge who divides the nectar fairly",
+        "A deceiver who restores the nectar to the gods through enchantment",
+        "A sage who blesses both sides"
+      ],
+      "answer": 2,
+      "explanation": "Mohini uses enchantment and guile to recover the nectar for the devas alone."
+    },
+    {
+      "id": "mohini-q23",
+      "difficulty": "hard",
+      "q": "Besides the Bhagavata Purana, the encounter between Shiva and Mohini is also notably recounted in which text?",
+      "options": [
+        "The Bhavishya Purana",
+        "The Vamana Purana",
+        "The Linga Purana",
+        "The Shiva Purana"
+      ],
+      "answer": 3,
+      "explanation": "The Shiva Purana also narrates Shiva's encounter with Vishnu in the Mohini form."
+    },
+    {
+      "id": "mohini-q24",
+      "difficulty": "hard",
+      "q": "The classical Indian dance form said to embody the grace of Mohini's enchanting movements is called what?",
+      "options": [
+        "Mohiniyattam",
+        "Bharatanatyam",
+        "Kathakali",
+        "Odissi"
+      ],
+      "answer": 0,
+      "explanation": "Mohiniyattam, the 'dance of the enchantress,' is named for and inspired by Mohini."
+    },
+    {
+      "id": "mohini-q25",
+      "difficulty": "hard",
+      "q": "In which great epic does an account of Vishnu assuming an enchanting female form to recover the nectar also appear?",
+      "options": [
+        "The Raghuvamsha",
+        "The Mahabharata",
+        "The Kumarasambhava",
+        "The Meghaduta"
+      ],
+      "answer": 1,
+      "explanation": "The Mahabharata's account of the churning describes Vishnu taking a bewitching female form."
+    },
+    {
+      "id": "mohini-q26",
+      "difficulty": "hard",
+      "q": "In one Puranic tale, Mohini is invoked to outwit the demon Bhasmasura, who had a boon to incinerate whomever he did what to?",
+      "options": [
+        "Looked upon",
+        "Spoke a name to",
+        "Touched on the head",
+        "Offered water to"
+      ],
+      "answer": 2,
+      "explanation": "Bhasmasura could reduce to ash anyone whose head he touched; Mohini tricked him into touching his own."
+    },
+    {
+      "id": "mohini-q27",
+      "difficulty": "hard",
+      "q": "In the Bhasmasura tale, Mohini destroys the demon by luring him to do what?",
+      "options": [
+        "Drink poisoned nectar",
+        "Cross a sacred river",
+        "Recite a forbidden mantra",
+        "Imitate her dance and touch his own head"
+      ],
+      "answer": 3,
+      "explanation": "Mohini enchants Bhasmasura into copying her dance, leading him to touch his own head and burn to ash."
+    },
+    {
+      "id": "mohini-q28",
+      "difficulty": "hard",
+      "q": "The shadow-entities Rahu and Ketu, born from the Mohini episode, are counted among which group in Hindu astrology?",
+      "options": [
+        "The Navagraha (nine planets)",
+        "The Saptarishi (seven sages)",
+        "The Ashta Vasus",
+        "The Dikpalas (guardians of directions)"
+      ],
+      "answer": 0,
+      "explanation": "Rahu and Ketu are reckoned among the Navagraha, the nine celestial influences."
+    },
+    {
+      "id": "mohini-q29",
+      "difficulty": "hard",
+      "q": "In the deeper philosophical reading found in the Puranas, Mohini personifies which concept that deludes the senses?",
+      "options": [
+        "Dharma (cosmic order)",
+        "Maya (illusion)",
+        "Karma (action)",
+        "Moksha (liberation)"
+      ],
+      "answer": 1,
+      "explanation": "Mohini is often interpreted as an embodiment of Maya, the bewitching power of illusion."
+    },
+    {
+      "id": "mohini-q30",
+      "difficulty": "hard",
+      "q": "Within Vishnu's traditional list of ten principal avatars (the Dashavatara), where does Mohini typically stand?",
+      "options": [
+        "She is counted as the fifth avatar",
+        "She replaces Kalki as the tenth",
+        "She is not numbered among the ten principal Dashavatara",
+        "She is the first of the ten"
+      ],
+      "answer": 2,
+      "explanation": "Mohini is a celebrated form of Vishnu but is not enumerated among the ten principal Dashavatara."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "vamana",
+  "questions": [
+    {
+      "id": "vamana-q01",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, Vamana is an avatar of which deity?",
+      "options": [
+        "Shiva",
+        "Brahma",
+        "Vishnu",
+        "Indra"
+      ],
+      "answer": 2,
+      "explanation": "Vamana is counted among the Dashavatara, the ten principal incarnations of Vishnu."
+    },
+    {
+      "id": "vamana-q02",
+      "difficulty": "easy",
+      "q": "In what physical form does Vishnu appear as the avatar Vamana?",
+      "options": [
+        "A giant warrior",
+        "A man-lion",
+        "A great fish",
+        "A dwarf brahmin"
+      ],
+      "answer": 3,
+      "explanation": "Vamana appears as a small dwarf brahmin, his name itself meaning 'dwarf'."
+    },
+    {
+      "id": "vamana-q03",
+      "difficulty": "easy",
+      "q": "How many steps of land does Vamana request from King Bali?",
+      "options": [
+        "Three steps",
+        "One step",
+        "Two steps",
+        "Seven steps"
+      ],
+      "answer": 0,
+      "explanation": "Vamana asks only for the land he can cover in three steps."
+    },
+    {
+      "id": "vamana-q04",
+      "difficulty": "easy",
+      "q": "From which generous king does Vamana beg for land?",
+      "options": [
+        "Hiranyakashipu",
+        "Bali",
+        "Ravana",
+        "Janaka"
+      ],
+      "answer": 1,
+      "explanation": "Vamana approaches the generous asura king Bali to request three paces of land."
+    },
+    {
+      "id": "vamana-q05",
+      "difficulty": "easy",
+      "q": "What is the subtitle traditionally given to Vamana, the fifth avatar of Vishnu?",
+      "options": [
+        "The Boar Who Lifted The Earth",
+        "The Man-Lion Of Twilight",
+        "The Dwarf Of Three Strides",
+        "The Fish Who Saved Creation"
+      ],
+      "answer": 2,
+      "explanation": "Vamana is known as 'The Dwarf Of Three Strides' for his three world-measuring steps."
+    },
+    {
+      "id": "vamana-q06",
+      "difficulty": "easy",
+      "q": "Into what towering cosmic form does Vamana grow to measure the worlds?",
+      "options": [
+        "Narasimha",
+        "Hayagriva",
+        "Vishvarupa",
+        "Trivikrama"
+      ],
+      "answer": 3,
+      "explanation": "Vamana grows into the cosmic Trivikrama, 'he of the three strides', to span the universe."
+    },
+    {
+      "id": "vamana-q07",
+      "difficulty": "easy",
+      "q": "To which realm is King Bali sent to rule after Vamana's third step?",
+      "options": [
+        "Patala",
+        "Vaikuntha",
+        "Svarga",
+        "Naraka"
+      ],
+      "answer": 0,
+      "explanation": "Vamana sends the honest Bali to rule the netherworld of Patala."
+    },
+    {
+      "id": "vamana-q08",
+      "difficulty": "easy",
+      "q": "In the classical list of Vishnu's ten avatars, Vamana is which number?",
+      "options": [
+        "The third",
+        "The fifth",
+        "The seventh",
+        "The ninth"
+      ],
+      "answer": 1,
+      "explanation": "Vamana is the fifth of the Dashavatara, following Matsya, Kurma, Varaha, and Narasimha."
+    },
+    {
+      "id": "vamana-q09",
+      "difficulty": "easy",
+      "q": "Which two realms does Vamana cover with his first two strides as Trivikrama?",
+      "options": [
+        "The ocean and the sun",
+        "Patala and Naraka",
+        "The earth and the sky",
+        "The past and the future"
+      ],
+      "answer": 2,
+      "explanation": "As Trivikrama, Vamana measures the earth with his first stride and the sky with his second."
+    },
+    {
+      "id": "vamana-q10",
+      "difficulty": "easy",
+      "q": "What does Vamana place his foot upon for his third and final stride?",
+      "options": [
+        "The ocean of milk",
+        "Mount Meru",
+        "The sun's chariot",
+        "Bali's head"
+      ],
+      "answer": 3,
+      "explanation": "For the third stride, Vamana places his foot on Bali's head, pressing him to Patala."
+    },
+    {
+      "id": "vamana-q11",
+      "difficulty": "medium",
+      "q": "King Bali, whom Vamana humbles, was the grandson of which famous devotee of Vishnu?",
+      "options": [
+        "Prahlada",
+        "Dhruva",
+        "Markandeya",
+        "Narada"
+      ],
+      "answer": 0,
+      "explanation": "Bali was the grandson of Prahlada, the devoted son of the asura king Hiranyakashipu."
+    },
+    {
+      "id": "vamana-q12",
+      "difficulty": "medium",
+      "q": "Which Purana is the principal source for the detailed narrative of Vamana and King Bali?",
+      "options": [
+        "Markandeya Purana",
+        "Bhagavata Purana",
+        "Devi Bhagavata Purana",
+        "Skanda Purana"
+      ],
+      "answer": 1,
+      "explanation": "The Bhagavata Purana relates the full account of Vamana's request and Bali's generosity."
+    },
+    {
+      "id": "vamana-q13",
+      "difficulty": "medium",
+      "q": "What had King Bali achieved before Vamana approached him for land?",
+      "options": [
+        "He had drunk the ocean dry",
+        "He had churned the nectar of immortality",
+        "He had conquered the three worlds",
+        "He had brought the Ganga to earth"
+      ],
+      "answer": 2,
+      "explanation": "Bali had conquered the three worlds through his devotion and sacrifices before Vamana came."
+    },
+    {
+      "id": "vamana-q14",
+      "difficulty": "medium",
+      "q": "In which class of beings is the generous King Bali, humbled by Vamana, counted?",
+      "options": [
+        "Devas",
+        "Yakshas",
+        "Gandharvas",
+        "Asuras"
+      ],
+      "answer": 3,
+      "explanation": "Bali is an asura (Daitya) king, yet renowned for his righteousness and generosity."
+    },
+    {
+      "id": "vamana-q15",
+      "difficulty": "medium",
+      "q": "The Trivikrama form of Vamana is most directly associated with which earlier Vedic deity?",
+      "options": [
+        "The Vishnu of the Rigveda's three strides",
+        "The Agni of the sacred fire",
+        "The Varuna of cosmic order",
+        "The Soma of the moon"
+      ],
+      "answer": 0,
+      "explanation": "The three world-measuring strides echo the Rigvedic Vishnu, praised for traversing the cosmos in three steps."
+    },
+    {
+      "id": "vamana-q16",
+      "difficulty": "medium",
+      "q": "What object does Vamana, as a brahmin, characteristically carry in his iconography?",
+      "options": [
+        "A discus",
+        "A parasol or umbrella",
+        "A trident",
+        "A bow"
+      ],
+      "answer": 1,
+      "explanation": "Vamana is typically depicted as a young brahmin carrying a parasol, staff, and water pot."
+    },
+    {
+      "id": "vamana-q17",
+      "difficulty": "medium",
+      "q": "Who tried to warn King Bali against granting Vamana's request for three paces of land?",
+      "options": [
+        "His grandfather Prahlada",
+        "The sage Narada",
+        "His guru Shukracharya",
+        "His wife Vindhyavali"
+      ],
+      "answer": 2,
+      "explanation": "Bali's preceptor Shukracharya recognized Vamana as Vishnu and warned the king against the gift."
+    },
+    {
+      "id": "vamana-q18",
+      "difficulty": "medium",
+      "q": "On account of whose dominion over the three worlds does Vishnu descend as Vamana?",
+      "options": [
+        "Ravana's",
+        "Mahishasura's",
+        "Hiranyaksha's",
+        "Bali's"
+      ],
+      "answer": 3,
+      "explanation": "Vishnu descends as Vamana because Bali's rule had displaced Indra and the devas from the heavens."
+    },
+    {
+      "id": "vamana-q19",
+      "difficulty": "medium",
+      "q": "How is the gift of land formally sealed when Bali agrees to Vamana's request?",
+      "options": [
+        "By pouring water from a vessel",
+        "By lighting a sacred fire",
+        "By exchanging garlands",
+        "By a written decree"
+      ],
+      "answer": 0,
+      "explanation": "Bali confirms the gift by the customary pouring of water, despite Shukracharya's attempt to block the spout."
+    },
+    {
+      "id": "vamana-q20",
+      "difficulty": "medium",
+      "q": "Which king of the devas is restored to his heavenly throne through Vamana's intervention?",
+      "options": [
+        "Yama",
+        "Indra",
+        "Kubera",
+        "Varuna"
+      ],
+      "answer": 1,
+      "explanation": "By reclaiming the three worlds from Bali, Vamana restores Indra to his rule over the heavens."
+    },
+    {
+      "id": "vamana-q21",
+      "difficulty": "medium",
+      "q": "Why does Vamana grant King Bali lordship of the netherworld rather than destroying him?",
+      "options": [
+        "Because Bali defeated him in combat",
+        "Because Brahma's boon protected Bali",
+        "Because of Bali's unbroken honesty and devotion",
+        "Because Bali fled before the third step"
+      ],
+      "answer": 2,
+      "explanation": "Bali's unwavering honesty in honoring his promise earns him lordship of Patala rather than destruction."
+    },
+    {
+      "id": "vamana-q22",
+      "difficulty": "medium",
+      "q": "Vamana is described as descending as the son of which sage and his wife in the Puranas?",
+      "options": [
+        "Sage Jamadagni and Renuka",
+        "Sage Vishrava and Kaikasi",
+        "Sage Atri and Anasuya",
+        "Sage Kashyapa and Aditi"
+      ],
+      "answer": 3,
+      "explanation": "The Puranas relate that Vamana was born to the sage Kashyapa and Aditi, mother of the gods."
+    },
+    {
+      "id": "vamana-q23",
+      "difficulty": "hard",
+      "q": "Because he is born to Aditi, Vamana is counted among which group of Vedic deities?",
+      "options": [
+        "The Adityas",
+        "The Maruts",
+        "The Vasus",
+        "The Rudras"
+      ],
+      "answer": 0,
+      "explanation": "As a son of Aditi, Vamana is reckoned among the Adityas, the children of Aditi."
+    },
+    {
+      "id": "vamana-q24",
+      "difficulty": "hard",
+      "q": "In the South Indian festival of Onam, the people commemorate the annual return of which figure linked to the Vamana story?",
+      "options": [
+        "Vamana himself",
+        "King Bali (Mahabali)",
+        "The sage Shukracharya",
+        "Indra"
+      ],
+      "answer": 1,
+      "explanation": "Onam celebrates the yearly homecoming of the beloved King Mahabali, whom Vamana sent to Patala."
+    },
+    {
+      "id": "vamana-q25",
+      "difficulty": "hard",
+      "q": "According to the tradition, where did the water washing Trivikrama's foot, raised to the sky, become a sacred river?",
+      "options": [
+        "It became the Yamuna",
+        "It became the Saraswati",
+        "It became the heavenly Ganga",
+        "It became the Godavari"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas relate that water from Brahma washing Trivikrama's uplifted foot became the celestial Ganga."
+    },
+    {
+      "id": "vamana-q26",
+      "difficulty": "hard",
+      "q": "Which avatar immediately precedes Vamana in the classical Dashavatara sequence?",
+      "options": [
+        "Varaha",
+        "Parashurama",
+        "Kurma",
+        "Narasimha"
+      ],
+      "answer": 3,
+      "explanation": "Narasimha, the fourth avatar, immediately precedes Vamana, the fifth, in the classical sequence."
+    },
+    {
+      "id": "vamana-q27",
+      "difficulty": "hard",
+      "q": "What boon does the humbled King Bali receive concerning a future cosmic age, according to the tradition?",
+      "options": [
+        "He will become Indra in a future manvantara",
+        "He will be reborn as a Dashavatara",
+        "He will ascend to Vaikuntha at once",
+        "He will gain immortality on earth"
+      ],
+      "answer": 0,
+      "explanation": "The tradition holds that Bali is destined to become the Indra of a future manvantara as a reward for his virtue."
+    },
+    {
+      "id": "vamana-q28",
+      "difficulty": "hard",
+      "q": "When Shukracharya tried to block the water-spout to stop Bali's gift to Vamana, what is said to have happened to him?",
+      "options": [
+        "He was turned to stone",
+        "He lost an eye when the spout was pierced",
+        "He was struck mute",
+        "He was banished to Patala"
+      ],
+      "answer": 1,
+      "explanation": "Vamana pierced the blocked spout with a blade of grass, costing Shukracharya one of his eyes."
+    },
+    {
+      "id": "vamana-q29",
+      "difficulty": "hard",
+      "q": "In the chronology of the four ages, Vamana's descent is traditionally placed in which yuga?",
+      "options": [
+        "Treta Yuga",
+        "Dvapara Yuga",
+        "Satya Yuga",
+        "Kali Yuga"
+      ],
+      "answer": 2,
+      "explanation": "Vamana's avatar is traditionally placed in the Satya Yuga, among the earliest of Vishnu's descents."
+    },
+    {
+      "id": "vamana-q30",
+      "difficulty": "hard",
+      "q": "Which central virtue does the Vamana episode most enduringly celebrate through the figure of King Bali?",
+      "options": [
+        "Mastery of warfare",
+        "Renunciation of all wealth",
+        "Skill in sacrificial ritual",
+        "Steadfast keeping of one's given word"
+      ],
+      "answer": 3,
+      "explanation": "Bali's refusal to break his promise even when he recognizes Vishnu exalts the keeping of one's given word."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "rama",
+  "questions": [
+    {
+      "id": "rama-q01",
+      "difficulty": "easy",
+      "q": "Of which kingdom is Rama, hero of the Ramayana, the prince?",
+      "options": [
+        "Ayodhya",
+        "Mathura",
+        "Lanka",
+        "Hastinapura"
+      ],
+      "answer": 0,
+      "explanation": "Rama is the prince of Ayodhya, the capital of the Kosala kingdom ruled by the Ikshvaku dynasty."
+    },
+    {
+      "id": "rama-q02",
+      "difficulty": "easy",
+      "q": "Rama is traditionally counted as which numbered avatar of Vishnu?",
+      "options": [
+        "The fifth avatar",
+        "The seventh avatar",
+        "The eighth avatar",
+        "The tenth avatar"
+      ],
+      "answer": 1,
+      "explanation": "Rama is revered as the seventh of Vishnu's ten principal avatars, the Dashavatara."
+    },
+    {
+      "id": "rama-q03",
+      "difficulty": "easy",
+      "q": "Who is the wife of Rama in the Ramayana?",
+      "options": [
+        "Radha",
+        "Rukmini",
+        "Sita",
+        "Draupadi"
+      ],
+      "answer": 2,
+      "explanation": "Sita, daughter of King Janaka and an incarnation of Lakshmi, is the wife of Rama."
+    },
+    {
+      "id": "rama-q04",
+      "difficulty": "easy",
+      "q": "Which demon-king of Lanka abducts Sita, the wife of Rama?",
+      "options": [
+        "Kumbhakarna",
+        "Hiranyakashipu",
+        "Mahishasura",
+        "Ravana"
+      ],
+      "answer": 3,
+      "explanation": "Ravana, the ten-headed rakshasa king of Lanka, abducts Sita, setting the central conflict of the Ramayana in motion."
+    },
+    {
+      "id": "rama-q05",
+      "difficulty": "easy",
+      "q": "Which devoted vanara is Rama's greatest helper in the search for Sita?",
+      "options": [
+        "Hanuman",
+        "Sugriva",
+        "Jatayu",
+        "Vibhishana"
+      ],
+      "answer": 0,
+      "explanation": "Hanuman, son of the wind-god Vayu, is the supreme devotee of Rama and his greatest ally in finding and rescuing Sita."
+    },
+    {
+      "id": "rama-q06",
+      "difficulty": "easy",
+      "q": "Which sage is traditionally credited with composing the Ramayana, the epic of Rama?",
+      "options": [
+        "Vyasa",
+        "Valmiki",
+        "Vishwamitra",
+        "Vasishtha"
+      ],
+      "answer": 1,
+      "explanation": "The sage Valmiki, honored as the adi-kavi or first poet, is traditionally credited with composing the Ramayana."
+    },
+    {
+      "id": "rama-q07",
+      "difficulty": "easy",
+      "q": "What is the chief weapon associated with Rama in the Ramayana?",
+      "options": [
+        "A discus",
+        "A trident",
+        "A bow",
+        "A mace"
+      ],
+      "answer": 2,
+      "explanation": "Rama is renowned as a great archer, and the bow is his emblem and chief weapon."
+    },
+    {
+      "id": "rama-q08",
+      "difficulty": "easy",
+      "q": "Honored as Maryada Purushottama, Rama is celebrated as the perfect embodiment of what principle?",
+      "options": [
+        "Wealth (artha)",
+        "Desire (kama)",
+        "Illusion (maya)",
+        "Righteousness (dharma)"
+      ],
+      "answer": 3,
+      "explanation": "Rama is revered as Maryada Purushottama, the ideal man and perfect embodiment of dharma, or righteousness."
+    },
+    {
+      "id": "rama-q09",
+      "difficulty": "easy",
+      "q": "To what setting is Rama sent for many years before the events of his return as king?",
+      "options": [
+        "The forest in exile",
+        "The netherworld Patala",
+        "The heaven of Indra",
+        "The city of Lanka"
+      ],
+      "answer": 0,
+      "explanation": "Rama is exiled to live in the forest, a key episode that shapes the narrative of the Ramayana."
+    },
+    {
+      "id": "rama-q10",
+      "difficulty": "easy",
+      "q": "Which brother of Rama accompanies him faithfully into forest exile in the Ramayana?",
+      "options": [
+        "Bharata",
+        "Lakshmana",
+        "Shatrughna",
+        "Vibhishana"
+      ],
+      "answer": 1,
+      "explanation": "Lakshmana, Rama's devoted brother, renounces home to share the forest exile and serve Rama and Sita."
+    },
+    {
+      "id": "rama-q11",
+      "difficulty": "medium",
+      "q": "What is the name of the great bow wielded by Rama in the Ramayana?",
+      "options": [
+        "Gandiva",
+        "Pinaka",
+        "Kodanda",
+        "Sharanga"
+      ],
+      "answer": 2,
+      "explanation": "Rama's bow is named Kodanda, and he is sometimes called Kodandarama for wielding it."
+    },
+    {
+      "id": "rama-q12",
+      "difficulty": "medium",
+      "q": "Who is the father of Rama, the king of Ayodhya in the Ramayana?",
+      "options": [
+        "Janaka",
+        "Vishrava",
+        "Sumitra",
+        "Dasharatha"
+      ],
+      "answer": 3,
+      "explanation": "Rama is the son of King Dasharatha, the Ikshvaku ruler of Ayodhya."
+    },
+    {
+      "id": "rama-q13",
+      "difficulty": "medium",
+      "q": "Whose insistence on a boon from Dasharatha brings about Rama's exile to the forest?",
+      "options": [
+        "Queen Kaikeyi",
+        "Queen Kausalya",
+        "Queen Sumitra",
+        "The sage Vasishtha"
+      ],
+      "answer": 0,
+      "explanation": "Queen Kaikeyi demands the boons that send Rama into fourteen years of forest exile and place her son Bharata on the throne."
+    },
+    {
+      "id": "rama-q14",
+      "difficulty": "medium",
+      "q": "How does Rama win the hand of Sita at the swayamvara in Mithila?",
+      "options": [
+        "By defeating a thousand kings in single combat",
+        "By lifting and stringing Shiva's mighty bow",
+        "By answering the riddles of King Janaka",
+        "By retrieving a celestial flower from heaven"
+      ],
+      "answer": 1,
+      "explanation": "Rama wins Sita by lifting and stringing the mighty bow of Shiva, which no other suitor could even move."
+    },
+    {
+      "id": "rama-q15",
+      "difficulty": "medium",
+      "q": "Which queen is the mother of Rama in the Ramayana?",
+      "options": [
+        "Kaikeyi",
+        "Sumitra",
+        "Kausalya",
+        "Mandodari"
+      ],
+      "answer": 2,
+      "explanation": "Kausalya, the chief queen of Dasharatha, is the mother of Rama."
+    },
+    {
+      "id": "rama-q16",
+      "difficulty": "medium",
+      "q": "Which sage takes the young Rama and Lakshmana to protect his sacrifice and slay the demoness Tataka?",
+      "options": [
+        "Agastya",
+        "Bharadvaja",
+        "Valmiki",
+        "Vishwamitra"
+      ],
+      "answer": 3,
+      "explanation": "The sage Vishwamitra leads the young Rama and Lakshmana to guard his sacrifice and slay the demoness Tataka."
+    },
+    {
+      "id": "rama-q17",
+      "difficulty": "medium",
+      "q": "Which vanara king becomes Rama's ally after Rama helps him regain his kingdom of Kishkindha?",
+      "options": [
+        "Sugriva",
+        "Vali",
+        "Angada",
+        "Jambavan"
+      ],
+      "answer": 0,
+      "explanation": "Rama allies with the vanara Sugriva, helping him reclaim Kishkindha, and Sugriva's army then aids in the search for Sita."
+    },
+    {
+      "id": "rama-q18",
+      "difficulty": "medium",
+      "q": "What great structure does Rama's army build to cross the sea to Lanka?",
+      "options": [
+        "A tunnel beneath the ocean",
+        "A bridge or causeway across the sea",
+        "A fleet of thousand ships",
+        "A chain of floating palaces"
+      ],
+      "answer": 1,
+      "explanation": "In the Yuddha Kanda, the vanara army builds the causeway known as Rama Setu across the sea to Lanka."
+    },
+    {
+      "id": "rama-q19",
+      "difficulty": "medium",
+      "q": "After Ravana's defeat, whom does Rama consecrate as the new king of Lanka?",
+      "options": [
+        "Sugriva",
+        "Hanuman",
+        "Vibhishana",
+        "Angada"
+      ],
+      "answer": 2,
+      "explanation": "Rama crowns Vibhishana, Ravana's righteous younger brother who had joined his cause, as the new king of Lanka."
+    },
+    {
+      "id": "rama-q20",
+      "difficulty": "medium",
+      "q": "The noble vulture Jatayu, mortally wounded by Ravana, performs what service for Rama?",
+      "options": [
+        "He builds the bridge to Lanka",
+        "He carries Rama across the ocean",
+        "He restores Lakshmana to life",
+        "He reveals the direction of Sita's captivity"
+      ],
+      "answer": 3,
+      "explanation": "Jatayu, dying after trying to stop Ravana, lives long enough to tell Rama the direction in which Sita was carried away."
+    },
+    {
+      "id": "rama-q21",
+      "difficulty": "medium",
+      "q": "On what flying chariot do Rama, Sita, and Lakshmana return to Ayodhya after the war?",
+      "options": [
+        "The Pushpaka Vimana",
+        "The chariot of Surya",
+        "Garuda the eagle",
+        "The Vajra of Indra"
+      ],
+      "answer": 0,
+      "explanation": "Rama and his companions return to Ayodhya aboard the Pushpaka Vimana, the flying chariot reclaimed after Ravana's fall."
+    },
+    {
+      "id": "rama-q22",
+      "difficulty": "medium",
+      "q": "Into how many books, or kandas, is Valmiki's Ramayana traditionally divided?",
+      "options": [
+        "Four",
+        "Seven",
+        "Ten",
+        "Eighteen"
+      ],
+      "answer": 1,
+      "explanation": "Valmiki's Ramayana is traditionally arranged in seven kandas, or books."
+    },
+    {
+      "id": "rama-q23",
+      "difficulty": "hard",
+      "q": "Which dynasty, descended from the line of the sun, does Rama belong to in the Ramayana?",
+      "options": [
+        "The Chandravamsha (lunar dynasty)",
+        "The Yadava dynasty",
+        "The Ikshvaku dynasty (solar line)",
+        "The Kuru dynasty"
+      ],
+      "answer": 2,
+      "explanation": "Rama belongs to the Ikshvaku dynasty of the solar line (Suryavamsha), descended from Surya through Ikshvaku."
+    },
+    {
+      "id": "rama-q24",
+      "difficulty": "hard",
+      "q": "Which brother rules Ayodhya in Rama's absence, placing Rama's sandals on the throne as a token of his authority?",
+      "options": [
+        "Lakshmana",
+        "Shatrughna",
+        "Sugriva",
+        "Bharata"
+      ],
+      "answer": 3,
+      "explanation": "Bharata refuses the throne for himself and rules as regent in Rama's name, enshrining Rama's sandals (paduka) upon it."
+    },
+    {
+      "id": "rama-q25",
+      "difficulty": "hard",
+      "q": "In the Ramayana, what are the names of the twin sons born to Rama and Sita?",
+      "options": [
+        "Lava and Kusha",
+        "Nakula and Sahadeva",
+        "Luv and Bharata",
+        "Kartikeya and Ganesha"
+      ],
+      "answer": 0,
+      "explanation": "Lava and Kusha are the twin sons of Rama and Sita, raised in Valmiki's hermitage in the Uttara Kanda."
+    },
+    {
+      "id": "rama-q26",
+      "difficulty": "hard",
+      "q": "Which rakshasi's disfigurement by Lakshmana ignites the conflict that leads to Sita's abduction?",
+      "options": [
+        "Mandodari",
+        "Shurpanakha",
+        "Tataka",
+        "Trijata"
+      ],
+      "answer": 1,
+      "explanation": "Shurpanakha, Ravana's sister, is disfigured after pursuing Rama and Lakshmana, and her complaint prompts Ravana to abduct Sita."
+    },
+    {
+      "id": "rama-q27",
+      "difficulty": "hard",
+      "q": "What golden form does the demon Maricha take to lure Rama away from Sita's side?",
+      "options": [
+        "A golden swan",
+        "A golden chariot",
+        "A golden deer",
+        "A golden serpent"
+      ],
+      "answer": 2,
+      "explanation": "At Ravana's bidding, Maricha takes the form of a golden deer to draw Rama away so that Sita can be abducted."
+    },
+    {
+      "id": "rama-q28",
+      "difficulty": "hard",
+      "q": "Which sage of the south blesses Rama in the forest and gifts him celestial weapons in the Ramayana?",
+      "options": [
+        "Bharadvaja",
+        "Atri",
+        "Gautama",
+        "Agastya"
+      ],
+      "answer": 3,
+      "explanation": "The sage Agastya, who carried Vedic culture to the south, blesses Rama and bestows celestial weapons upon him in the forest."
+    },
+    {
+      "id": "rama-q29",
+      "difficulty": "hard",
+      "q": "Whom does Rama free from a curse, restoring her from stone to her form, on the way to Mithila?",
+      "options": [
+        "Ahalya",
+        "Anasuya",
+        "Arundhati",
+        "Mandodari"
+      ],
+      "answer": 0,
+      "explanation": "Rama redeems Ahalya, the wife of sage Gautama, releasing her from the curse that had turned her to stone."
+    },
+    {
+      "id": "rama-q30",
+      "difficulty": "hard",
+      "q": "What is the name of the elder vanara king whom Rama slays to restore the throne of Kishkindha to Sugriva?",
+      "options": [
+        "Jambavan",
+        "Vali",
+        "Nala",
+        "Nila"
+      ],
+      "answer": 1,
+      "explanation": "Rama slays Vali, the powerful vanara king, so that his brother Sugriva can regain the kingdom of Kishkindha."
+    }
+  ]
+}

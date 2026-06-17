@@ -1,0 +1,395 @@
+{
+  "cardId": "sati",
+  "questions": [
+    {
+      "id": "sati-q01",
+      "difficulty": "easy",
+      "q": "According to the Puranas, the goddess Sati was the first wife of which great deity?",
+      "options": [
+        "Shiva",
+        "Brahma",
+        "Vishnu",
+        "Indra"
+      ],
+      "answer": 0,
+      "explanation": "Sati is revered in the Puranas as the first consort of Shiva, the great ascetic of Mount Kailash."
+    },
+    {
+      "id": "sati-q02",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, the goddess Sati was the daughter of which Prajapati?",
+      "options": [
+        "Kashyapa",
+        "Daksha",
+        "Bhrigu",
+        "Pulastya"
+      ],
+      "answer": 1,
+      "explanation": "Sati was the daughter of Daksha Prajapati, whose hostility toward Shiva drives her tragic story."
+    },
+    {
+      "id": "sati-q03",
+      "difficulty": "easy",
+      "q": "According to the Puranas, how did the goddess Sati give up her body during her father's sacrifice?",
+      "options": [
+        "By drowning in a river",
+        "By taking poison",
+        "By casting herself into the sacrificial fire",
+        "By turning to stone"
+      ],
+      "answer": 2,
+      "explanation": "Unable to bear her father's insult to Shiva, Sati cast herself into the sacrificial fire, as related in the Puranas."
+    },
+    {
+      "id": "sati-q04",
+      "difficulty": "easy",
+      "q": "In the Puranic account, the goddess Sati married Shiva against the wishes of whom?",
+      "options": [
+        "Her mother Prasuti",
+        "The sage Narada",
+        "The god Brahma",
+        "Her father Daksha"
+      ],
+      "answer": 3,
+      "explanation": "Sati married Shiva against the wishes of her father Daksha, who disapproved of the ascetic god."
+    },
+    {
+      "id": "sati-q05",
+      "difficulty": "easy",
+      "q": "According to the Puranas, the goddess Sati was later reborn as which goddess?",
+      "options": [
+        "Parvati",
+        "Lakshmi",
+        "Saraswati",
+        "Ganga"
+      ],
+      "answer": 0,
+      "explanation": "After giving up her body, Sati was reborn as Parvati, daughter of the mountain king Himavan, to be reunited with Shiva."
+    },
+    {
+      "id": "sati-q06",
+      "difficulty": "easy",
+      "q": "In the Puranas, the sacred pilgrimage sites that arose where the goddess Sati's limbs fell are known as what?",
+      "options": [
+        "Jyotirlingas",
+        "Shakti Pithas",
+        "Char Dhams",
+        "Sapta Puris"
+      ],
+      "answer": 1,
+      "explanation": "Where Sati's scattered limbs fell, the Shakti Pithas arose as sacred sites of pilgrimage, according to the Puranas."
+    },
+    {
+      "id": "sati-q07",
+      "difficulty": "easy",
+      "q": "According to the Puranas, which grief-stricken god carried the body of the goddess Sati across the cosmos?",
+      "options": [
+        "Vishnu",
+        "Agni",
+        "Shiva",
+        "Yama"
+      ],
+      "answer": 2,
+      "explanation": "Grief-stricken Shiva carried Sati's lifeless body across the cosmos in his sorrow, as told in the Puranas."
+    },
+    {
+      "id": "sati-q08",
+      "difficulty": "easy",
+      "q": "In the major texts of Hindu mythology, the goddess Sati is honoured as a form of which Great Goddess?",
+      "options": [
+        "Usha",
+        "Aditi",
+        "Ratri",
+        "Shakti"
+      ],
+      "answer": 3,
+      "explanation": "Sati is regarded in the Puranas as an embodiment of Shakti, the Great Goddess and divine feminine power."
+    },
+    {
+      "id": "sati-q09",
+      "difficulty": "easy",
+      "q": "According to the Puranas, the goddess Sati gave up her body at a grand ritual hosted by her father. What kind of ritual was it?",
+      "options": [
+        "A great sacrifice (yajna)",
+        "A wedding feast",
+        "A coronation",
+        "A harvest festival"
+      ],
+      "answer": 0,
+      "explanation": "Sati gave up her body at Daksha's great sacrifice (yajna), to which her husband Shiva had pointedly not been invited."
+    },
+    {
+      "id": "sati-q10",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, the goddess Sati is most associated with which element, reflected in the manner of her end?",
+      "options": [
+        "Water",
+        "Fire",
+        "Earth",
+        "Air"
+      ],
+      "answer": 1,
+      "explanation": "Sati is closely associated with fire, the element into which she cast herself at Daksha's sacrifice."
+    },
+    {
+      "id": "sati-q11",
+      "difficulty": "medium",
+      "q": "According to the Puranas, why was Shiva deliberately not invited to the great sacrifice of Daksha, father of the goddess Sati?",
+      "options": [
+        "Shiva was away in meditation",
+        "Shiva had insulted the other gods",
+        "Daksha bore a grudge and scorned Shiva as an ascetic",
+        "The invitation was lost"
+      ],
+      "answer": 2,
+      "explanation": "Daksha harboured a grudge and scorned Shiva's ascetic ways, deliberately omitting him from the sacrifice."
+    },
+    {
+      "id": "sati-q12",
+      "difficulty": "medium",
+      "q": "In the Puranic account, what did the goddess Sati do when she heard her father was holding a great sacrifice without inviting Shiva?",
+      "options": [
+        "She refused to attend",
+        "She fled to the forest",
+        "She asked Vishnu to mediate",
+        "She went to the sacrifice despite Shiva's reluctance"
+      ],
+      "answer": 3,
+      "explanation": "Sati insisted on attending the sacrifice despite Shiva's reluctance, wishing to confront her father's slight."
+    },
+    {
+      "id": "sati-q13",
+      "difficulty": "medium",
+      "q": "According to the Puranas, the goddess Sati's mother, the wife of Daksha, was named what?",
+      "options": [
+        "Prasuti",
+        "Menavati",
+        "Sunita",
+        "Diti"
+      ],
+      "answer": 0,
+      "explanation": "Sati was born to Daksha and his wife Prasuti, according to the Puranic genealogies."
+    },
+    {
+      "id": "sati-q14",
+      "difficulty": "medium",
+      "q": "In the Puranas, the divine power that destroyed Daksha's sacrifice in vengeance for the goddess Sati was the fierce being Virabhadra, created by whom?",
+      "options": [
+        "Vishnu",
+        "Shiva",
+        "Brahma",
+        "Indra"
+      ],
+      "answer": 1,
+      "explanation": "Enraged by Sati's death, Shiva created the fierce Virabhadra, who destroyed Daksha's sacrifice."
+    },
+    {
+      "id": "sati-q15",
+      "difficulty": "medium",
+      "q": "According to the Puranas, what punishment did Daksha receive after his sacrifice was destroyed over the death of the goddess Sati?",
+      "options": [
+        "He was turned to stone",
+        "He was banished to the underworld",
+        "He was beheaded and later given a goat's head",
+        "He was struck blind"
+      ],
+      "answer": 2,
+      "explanation": "Daksha was beheaded by Virabhadra and, when restored, was given the head of a goat, as related in the Puranas."
+    },
+    {
+      "id": "sati-q16",
+      "difficulty": "medium",
+      "q": "In the Puranas, which disc-wielding god is said to have cut the body of the goddess Sati into pieces as Shiva wandered in grief, so that the world might be saved from his sorrow?",
+      "options": [
+        "Brahma",
+        "Agni",
+        "Yama",
+        "Vishnu"
+      ],
+      "answer": 3,
+      "explanation": "Vishnu used his discus to dismember Sati's body, ending Shiva's destructive grief, and the pieces became the Shakti Pithas."
+    },
+    {
+      "id": "sati-q17",
+      "difficulty": "medium",
+      "q": "According to the Puranas, the goddess Sati is counted among the daughters of Daksha. How many daughters is Daksha traditionally said to have had?",
+      "options": [
+        "Many (often numbered in the dozens)",
+        "Seven",
+        "Three",
+        "One"
+      ],
+      "answer": 0,
+      "explanation": "Daksha is traditionally said to have had many daughters, often numbered in the dozens, of whom Sati was the most devoted to Shiva."
+    },
+    {
+      "id": "sati-q18",
+      "difficulty": "medium",
+      "q": "In the Puranic narrative, the goddess Sati's self-sacrifice is most directly an act of devotion to and defence of whom?",
+      "options": [
+        "Her father Daksha",
+        "Her husband Shiva",
+        "The god Brahma",
+        "Her own honour alone"
+      ],
+      "answer": 1,
+      "explanation": "Sati's act was above all a defence of her husband Shiva, whose honour her father had insulted."
+    },
+    {
+      "id": "sati-q19",
+      "difficulty": "medium",
+      "q": "According to the Puranas, in what state of mind did Shiva carry the body of the goddess Sati across the worlds?",
+      "options": [
+        "Calm acceptance",
+        "Righteous anger toward Vishnu",
+        "Inconsolable grief and frenzy",
+        "Quiet meditation"
+      ],
+      "answer": 2,
+      "explanation": "Shiva wandered in inconsolable grief and a wild frenzy while bearing Sati's body, threatening the balance of the cosmos."
+    },
+    {
+      "id": "sati-q20",
+      "difficulty": "medium",
+      "q": "In Hindu tradition, the goddess Sati's story is part of the larger cycle concerning Shiva's marriages. Which later wife of Shiva continues her devotion in a new birth?",
+      "options": [
+        "Ganga",
+        "Rohini",
+        "Radha",
+        "Parvati"
+      ],
+      "answer": 3,
+      "explanation": "Sati's devotion continues through Parvati, her rebirth, who again wins Shiva as her husband in the Puranas."
+    },
+    {
+      "id": "sati-q21",
+      "difficulty": "medium",
+      "q": "According to the Puranas, the network of sacred sites linked to the goddess Sati's body are revered especially by worshippers of which tradition?",
+      "options": [
+        "Shaktism",
+        "Vaishnavism",
+        "Saurism",
+        "Ganapatya tradition"
+      ],
+      "answer": 0,
+      "explanation": "The Shakti Pithas, formed from Sati's body, are especially revered in Shaktism, the worship of the Great Goddess."
+    },
+    {
+      "id": "sati-q22",
+      "difficulty": "medium",
+      "q": "In the Puranas, the goddess Sati is described as performing austerities in an earlier age in order to obtain which boon?",
+      "options": [
+        "Immortality",
+        "Shiva as her husband",
+        "Rulership of the heavens",
+        "Endless wealth"
+      ],
+      "answer": 1,
+      "explanation": "The Puranas relate that Sati undertook devout austerities so that she might obtain Shiva as her husband."
+    },
+    {
+      "id": "sati-q23",
+      "difficulty": "hard",
+      "q": "According to the Puranic tradition, the goddess Sati's father Daksha was himself born as a son of which creator deity?",
+      "options": [
+        "Vishnu",
+        "Shiva",
+        "Brahma",
+        "Indra"
+      ],
+      "answer": 2,
+      "explanation": "In the Puranas Daksha is counted among the Prajapatis and mind-born sons of Brahma, the creator."
+    },
+    {
+      "id": "sati-q24",
+      "difficulty": "hard",
+      "q": "In several Puranic and Tantric traditions, the Shakti Pithas formed from the goddess Sati's body are most commonly numbered as how many principal seats?",
+      "options": [
+        "Four",
+        "Twelve",
+        "One hundred and eight",
+        "Fifty-one"
+      ],
+      "answer": 3,
+      "explanation": "Although counts vary, fifty-one Shakti Pithas are most commonly enumerated, one for each part of Sati's body and her ornaments."
+    },
+    {
+      "id": "sati-q25",
+      "difficulty": "hard",
+      "q": "According to widely told tradition, the famous temple at Kamakhya in Assam marks the spot where which part of the goddess Sati's body is said to have fallen?",
+      "options": [
+        "Her womb and yoni",
+        "Her tongue",
+        "Her eyes",
+        "Her hands"
+      ],
+      "answer": 0,
+      "explanation": "The Kamakhya Pitha is traditionally venerated as the place where Sati's womb and yoni fell, a foremost Shakti Pitha."
+    },
+    {
+      "id": "sati-q26",
+      "difficulty": "hard",
+      "q": "In the Mahabhagavata and related Puranas, the goddess Sati is said to have revealed to Shiva her terrifying cosmic forms. These ten goddesses are collectively known as what?",
+      "options": [
+        "The Sapta Matrikas",
+        "The Dasha Mahavidyas",
+        "The Nava Durgas",
+        "The Ashta Lakshmis"
+      ],
+      "answer": 1,
+      "explanation": "Sati is said to have manifested the Dasha Mahavidyas, the ten wisdom goddesses, to bar Shiva's path when he forbade her to attend Daksha's sacrifice."
+    },
+    {
+      "id": "sati-q27",
+      "difficulty": "hard",
+      "q": "According to the Puranas, after Sati's death and the ruin of his sacrifice, Daksha was eventually restored and offered praise to which deity whom he had wronged?",
+      "options": [
+        "Vishnu",
+        "Brahma",
+        "Shiva",
+        "Surya"
+      ],
+      "answer": 2,
+      "explanation": "Once restored, Daksha repented and offered praise to Shiva, the very deity he had insulted, according to the Puranas."
+    },
+    {
+      "id": "sati-q28",
+      "difficulty": "hard",
+      "q": "In the Puranic account, the goddess Sati is said to have consumed herself by a fire generated from within through which yogic means?",
+      "options": [
+        "A lightning bolt of Indra",
+        "The flame of Agni's torch",
+        "The heat of the desert sun",
+        "The fire of her own yogic power (yogagni)"
+      ],
+      "answer": 3,
+      "explanation": "Several Puranas describe Sati consuming her own body by the inner fire of yoga (yogagni), kindled by her wrath and devotion."
+    },
+    {
+      "id": "sati-q29",
+      "difficulty": "hard",
+      "q": "According to the Puranas, the rebirth of the goddess Sati as Parvati served the larger cosmic purpose of bringing about the birth of which war-god son of Shiva?",
+      "options": [
+        "Kartikeya (Skanda)",
+        "Ganesha",
+        "Ayyappa",
+        "Andhaka"
+      ],
+      "answer": 0,
+      "explanation": "Sati's rebirth as Parvati enabled the union of Shiva and the goddess that produced Kartikeya (Skanda), born to vanquish the demon Taraka."
+    },
+    {
+      "id": "sati-q30",
+      "difficulty": "hard",
+      "q": "In the textual tradition, the detailed narrative of the goddess Sati, Daksha's sacrifice, and the origin of the Shakti Pithas is most fully preserved in which body of scripture?",
+      "options": [
+        "The Vedas",
+        "The Puranas",
+        "The Dharmashastras",
+        "The Upanishads"
+      ],
+      "answer": 1,
+      "explanation": "The full story of Sati, Daksha's sacrifice, and the Shakti Pithas is preserved chiefly in the Puranas rather than the earlier Vedic texts."
+    }
+  ]
+}

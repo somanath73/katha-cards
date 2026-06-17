@@ -1,0 +1,395 @@
+{
+  "cardId": "kurma",
+  "questions": [
+    {
+      "id": "kurma-q01",
+      "difficulty": "easy",
+      "q": "In what animal form does Vishnu appear as the avatar Kurma?",
+      "options": [
+        "A fish",
+        "A boar",
+        "A tortoise",
+        "A lion"
+      ],
+      "answer": 2,
+      "explanation": "Kurma is the cosmic tortoise form of Vishnu, his second avatar."
+    },
+    {
+      "id": "kurma-q02",
+      "difficulty": "easy",
+      "q": "Of which deity is Kurma an avatar (incarnation)?",
+      "options": [
+        "Brahma",
+        "Shiva",
+        "Indra",
+        "Vishnu"
+      ],
+      "answer": 3,
+      "explanation": "Kurma is the second of the Dashavatara, the ten descents of Vishnu."
+    },
+    {
+      "id": "kurma-q03",
+      "difficulty": "easy",
+      "q": "During which great cosmic event did Kurma support a mountain on his back?",
+      "options": [
+        "The churning of the ocean of milk",
+        "The burning of Tripura",
+        "The descent of the Ganga",
+        "The lifting of Govardhan"
+      ],
+      "answer": 0,
+      "explanation": "Kurma bore Mount Mandara during the churning of the ocean of milk (Samudra Manthana)."
+    },
+    {
+      "id": "kurma-q04",
+      "difficulty": "easy",
+      "q": "Which mountain did Kurma support on his back during the churning of the ocean?",
+      "options": [
+        "Mount Kailash",
+        "Mount Mandara",
+        "Mount Meru",
+        "Mount Govardhan"
+      ],
+      "answer": 1,
+      "explanation": "Kurma supported Mount Mandara, which served as the churning rod."
+    },
+    {
+      "id": "kurma-q05",
+      "difficulty": "easy",
+      "q": "What was the primary purpose of the churning of the ocean that Kurma made possible?",
+      "options": [
+        "To create the first humans",
+        "To bring the Ganga to earth",
+        "To obtain the amrita, the nectar of immortality",
+        "To recover the stolen Vedas"
+      ],
+      "answer": 2,
+      "explanation": "The churning was undertaken to draw forth the amrita, the nectar of immortality."
+    },
+    {
+      "id": "kurma-q06",
+      "difficulty": "easy",
+      "q": "Which two groups churned the ocean of milk together while Kurma supported the mountain?",
+      "options": [
+        "The Saptarishi and the Gandharvas",
+        "The Vanaras and the Rakshasas",
+        "The Nagas and the Yakshas",
+        "The devas and the asuras"
+      ],
+      "answer": 3,
+      "explanation": "The devas and asuras churned the ocean cooperatively, with Kurma bearing the mountain beneath."
+    },
+    {
+      "id": "kurma-q07",
+      "difficulty": "easy",
+      "q": "What problem did Kurma solve by positioning himself beneath Mount Mandara?",
+      "options": [
+        "The mountain was sinking into the ocean",
+        "The mountain was too small to churn",
+        "The mountain caught fire",
+        "The mountain refused to turn"
+      ],
+      "answer": 0,
+      "explanation": "As the churning-mountain threatened to sink, Kurma bore it on his back to steady it."
+    },
+    {
+      "id": "kurma-q08",
+      "difficulty": "easy",
+      "q": "In the standard sequence of the Dashavatara, which avatar of Vishnu is Kurma?",
+      "options": [
+        "The first",
+        "The second",
+        "The fourth",
+        "The seventh"
+      ],
+      "answer": 1,
+      "explanation": "Kurma is the second avatar, following Matsya the fish."
+    },
+    {
+      "id": "kurma-q09",
+      "difficulty": "easy",
+      "q": "Which avatar of Vishnu immediately precedes Kurma in the classical Dashavatara list?",
+      "options": [
+        "Narasimha the man-lion",
+        "Varaha the boar",
+        "Matsya the fish",
+        "Vamana the dwarf"
+      ],
+      "answer": 2,
+      "explanation": "Matsya the fish is the first avatar, and Kurma the tortoise is the second."
+    },
+    {
+      "id": "kurma-q10",
+      "difficulty": "easy",
+      "q": "The cosmic ocean that Kurma helped churn is best described as an ocean of what?",
+      "options": [
+        "Fire",
+        "Blood",
+        "Sand",
+        "Milk"
+      ],
+      "answer": 3,
+      "explanation": "The Kshira Sagara, the ocean churned with Kurma's aid, is the cosmic ocean of milk."
+    },
+    {
+      "id": "kurma-q11",
+      "difficulty": "medium",
+      "q": "Which serpent served as the churning rope wound around Mount Mandara while Kurma supported it?",
+      "options": [
+        "Vasuki",
+        "Shesha",
+        "Kaliya",
+        "Takshaka"
+      ],
+      "answer": 0,
+      "explanation": "The serpent-king Vasuki was used as the rope around Mount Mandara during the churning."
+    },
+    {
+      "id": "kurma-q12",
+      "difficulty": "medium",
+      "q": "In which Puranas is the account of Kurma supporting Mount Mandara prominently described?",
+      "options": [
+        "The Markandeya Purana alone",
+        "The Bhagavata and Vishnu Puranas",
+        "The Linga and Skanda Puranas only",
+        "It appears only in the Rigveda"
+      ],
+      "answer": 1,
+      "explanation": "The Bhagavata and Vishnu Puranas describe Kurma bearing the churning-mountain."
+    },
+    {
+      "id": "kurma-q13",
+      "difficulty": "medium",
+      "q": "The goddess Lakshmi is said to have emerged from the very ocean that Kurma helped churn. Whose consort is Lakshmi?",
+      "options": [
+        "Shiva",
+        "Brahma",
+        "Vishnu",
+        "Indra"
+      ],
+      "answer": 2,
+      "explanation": "Lakshmi, who arose from the churned ocean, is the consort of Vishnu, whose avatar is Kurma."
+    },
+    {
+      "id": "kurma-q14",
+      "difficulty": "medium",
+      "q": "Which divine physician rose from the ocean bearing the pot of amrita, the goal of the churning Kurma enabled?",
+      "options": [
+        "Brihaspati",
+        "Chyavana",
+        "Ashvini",
+        "Dhanvantari"
+      ],
+      "answer": 3,
+      "explanation": "Dhanvantari, the physician of the gods, emerged carrying the pot of amrita."
+    },
+    {
+      "id": "kurma-q15",
+      "difficulty": "medium",
+      "q": "A deadly poison rose first from the churning before the nectar. Which deity is said to have drunk it to save creation?",
+      "options": [
+        "Shiva",
+        "Vishnu",
+        "Indra",
+        "Agni"
+      ],
+      "answer": 0,
+      "explanation": "Shiva drank the halahala poison that rose during the churning, becoming Nilakantha."
+    },
+    {
+      "id": "kurma-q16",
+      "difficulty": "medium",
+      "q": "What does the name 'Kurma' mean in Sanskrit?",
+      "options": [
+        "Fish",
+        "Tortoise",
+        "Mountain",
+        "Serpent"
+      ],
+      "answer": 1,
+      "explanation": "The Sanskrit word 'kurma' means tortoise, the form Vishnu took for this avatar."
+    },
+    {
+      "id": "kurma-q17",
+      "difficulty": "medium",
+      "q": "The avatar that comes immediately after Kurma in the Dashavatara is which form of Vishnu?",
+      "options": [
+        "Matsya the fish",
+        "Rama",
+        "Varaha the boar",
+        "Krishna"
+      ],
+      "answer": 2,
+      "explanation": "Varaha the boar is the third avatar, following Kurma the tortoise."
+    },
+    {
+      "id": "kurma-q18",
+      "difficulty": "medium",
+      "q": "When the asuras seized the pot of amrita after the churning, what form did Vishnu take to recover it?",
+      "options": [
+        "Narasimha, the man-lion",
+        "Vamana, the dwarf",
+        "Hayagriva, the horse-headed one",
+        "Mohini, the enchantress"
+      ],
+      "answer": 3,
+      "explanation": "Vishnu took the enchanting female form of Mohini to recover the amrita for the devas."
+    },
+    {
+      "id": "kurma-q19",
+      "difficulty": "medium",
+      "q": "The wish-fulfilling cow Kamadhenu is counted among the treasures that arose from the ocean Kurma helped churn. What is Kamadhenu?",
+      "options": [
+        "A sacred wish-granting cow",
+        "A celestial horse",
+        "A jeweled serpent",
+        "A golden deer"
+      ],
+      "answer": 0,
+      "explanation": "Kamadhenu, the wish-fulfilling cow, was among the treasures yielded by the churning."
+    },
+    {
+      "id": "kurma-q20",
+      "difficulty": "medium",
+      "q": "In the context of the Samudra Manthana, what role did Mount Mandara play that required Kurma's support?",
+      "options": [
+        "The rope",
+        "The churning rod",
+        "The vessel for the nectar",
+        "A dam against the ocean"
+      ],
+      "answer": 1,
+      "explanation": "Mount Mandara was the churning rod, and Kurma supported it from below as a pivot."
+    },
+    {
+      "id": "kurma-q21",
+      "difficulty": "medium",
+      "q": "Which of these is a well-known epithet of Vishnu, whose tortoise descent is Kurma?",
+      "options": [
+        "The Destroyer of the cosmos",
+        "The Creator of the four Vedas",
+        "The Preserver of the cosmos",
+        "The King of the devas"
+      ],
+      "answer": 2,
+      "explanation": "Vishnu is the Preserver of the Trimurti, and Kurma is one of his preserving descents."
+    },
+    {
+      "id": "kurma-q22",
+      "difficulty": "medium",
+      "q": "In traditional readings, what does the churning of the ocean, made possible by Kurma, most often symbolize?",
+      "options": [
+        "The final dissolution of the cosmos",
+        "The creation of the first man and woman",
+        "The defeat of the goddess by the demons",
+        "The joint effort needed to obtain a precious goal"
+      ],
+      "answer": 3,
+      "explanation": "The churning is often read as the cooperative striving by which the nectar of immortality was won."
+    },
+    {
+      "id": "kurma-q23",
+      "difficulty": "hard",
+      "q": "There is a Purana named directly after Vishnu's tortoise avatar. What is it called?",
+      "options": [
+        "The Kurma Purana",
+        "The Matsya Purana",
+        "The Varaha Purana",
+        "The Vamana Purana"
+      ],
+      "answer": 0,
+      "explanation": "The Kurma Purana is one of the eighteen Mahapuranas, named after the tortoise avatar."
+    },
+    {
+      "id": "kurma-q24",
+      "difficulty": "hard",
+      "q": "On which part of his body does Kurma bear Mount Mandara during the churning of the ocean?",
+      "options": [
+        "His head",
+        "His back, or shell",
+        "His tail",
+        "His outstretched front legs"
+      ],
+      "answer": 1,
+      "explanation": "Kurma supports Mount Mandara upon his back, using his sturdy shell as the pivot."
+    },
+    {
+      "id": "kurma-q25",
+      "difficulty": "hard",
+      "q": "The celestial tree Parijata is named among the treasures of the churning Kurma enabled. What kind of treasure is the Parijata?",
+      "options": [
+        "A radiant gemstone",
+        "A flying chariot",
+        "A wish-bestowing flowering tree",
+        "A blazing celestial weapon"
+      ],
+      "answer": 2,
+      "explanation": "The Parijata, a wish-bestowing flowering tree, was among the treasures of the churning."
+    },
+    {
+      "id": "kurma-q26",
+      "difficulty": "hard",
+      "q": "The radiant gem Kaustubha arose from the churned ocean Kurma supported. Where is the Kaustubha said to reside?",
+      "options": [
+        "In Indra's crown",
+        "On Shiva's trident",
+        "Within the moon",
+        "Upon Vishnu's chest"
+      ],
+      "answer": 3,
+      "explanation": "Vishnu took the Kaustubha gem to adorn his chest, where it shines beside the Srivatsa mark."
+    },
+    {
+      "id": "kurma-q27",
+      "difficulty": "hard",
+      "q": "Which white elephant, later the mount of Indra, is said to have emerged from the churning of the ocean that Kurma supported?",
+      "options": [
+        "Airavata",
+        "Pushpaka",
+        "Uchchaihshravas",
+        "Paravani"
+      ],
+      "answer": 0,
+      "explanation": "Airavata, the white elephant who became Indra's vahana, arose from the churning."
+    },
+    {
+      "id": "kurma-q28",
+      "difficulty": "hard",
+      "q": "Which avatar of Vishnu, generally listed first, comes before the tortoise Kurma and is associated with surviving a great deluge?",
+      "options": [
+        "Varaha",
+        "Matsya",
+        "Narasimha",
+        "Kalki"
+      ],
+      "answer": 1,
+      "explanation": "Matsya the fish, the first avatar, saved Manu from the deluge and precedes Kurma."
+    },
+    {
+      "id": "kurma-q29",
+      "difficulty": "hard",
+      "q": "The ocean of milk that Kurma helped churn bears which traditional Sanskrit name?",
+      "options": [
+        "Garbhodaka",
+        "Lavana Samudra",
+        "Kshira Sagara",
+        "Pushkara"
+      ],
+      "answer": 2,
+      "explanation": "The cosmic ocean of milk churned with Kurma's aid is called the Kshira Sagara."
+    },
+    {
+      "id": "kurma-q30",
+      "difficulty": "hard",
+      "q": "Within the cosmic progression of the Dashavatara from the waters toward the perfected human, the tortoise Kurma is often interpreted as representing which stage?",
+      "options": [
+        "The final perfected human form",
+        "A purely celestial, formless stage",
+        "The destroyer of the present age",
+        "An amphibious stage bridging water and land"
+      ],
+      "answer": 3,
+      "explanation": "As an amphibian following the wholly aquatic Matsya, Kurma is often read as a transitional stage between water and land."
+    }
+  ]
+}

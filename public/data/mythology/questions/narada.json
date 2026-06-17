@@ -1,0 +1,395 @@
+{
+  "cardId": "narada",
+  "questions": [
+    {
+      "id": "narada-q01",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, the sage Narada is most renowned as a supreme devotee of which deity?",
+      "options": [
+        "Indra",
+        "Yama",
+        "Vishnu",
+        "Agni"
+      ],
+      "answer": 2,
+      "explanation": "Narada is celebrated throughout the Puranas as a foremost devotee of Vishnu, ceaselessly singing the name of Narayana."
+    },
+    {
+      "id": "narada-q02",
+      "difficulty": "easy",
+      "q": "The sage Narada is traditionally described as a mind-born son of which creator deity?",
+      "options": [
+        "Shiva",
+        "Varuna",
+        "Surya",
+        "Brahma"
+      ],
+      "answer": 3,
+      "explanation": "The Puranas describe Narada as a manasaputra, or mind-born son, of Brahma the creator."
+    },
+    {
+      "id": "narada-q03",
+      "difficulty": "easy",
+      "q": "Which stringed musical instrument is the sage Narada most often depicted carrying?",
+      "options": [
+        "Veena",
+        "Mridanga",
+        "Flute",
+        "Conch"
+      ],
+      "answer": 0,
+      "explanation": "Narada is iconically shown carrying his veena, with which he sings the praises of Narayana across the worlds."
+    },
+    {
+      "id": "narada-q04",
+      "difficulty": "easy",
+      "q": "The sage Narada is famous in the texts for wandering freely through how many worlds?",
+      "options": [
+        "Two worlds",
+        "Three worlds",
+        "Five worlds",
+        "Seven worlds"
+      ],
+      "answer": 1,
+      "explanation": "Narada is portrayed as a celestial wanderer who travels freely through the three worlds, the trilokas."
+    },
+    {
+      "id": "narada-q05",
+      "difficulty": "easy",
+      "q": "The divine name that the sage Narada is traditionally said to chant constantly is which of these?",
+      "options": [
+        "Mahadeva",
+        "Ganapati",
+        "Narayana",
+        "Hanuman"
+      ],
+      "answer": 2,
+      "explanation": "Narada is depicted endlessly chanting and singing 'Narayana,' a name of Vishnu, as he wanders."
+    },
+    {
+      "id": "narada-q06",
+      "difficulty": "easy",
+      "q": "Which class of celestial being is the sage Narada counted among in Hindu tradition?",
+      "options": [
+        "An asura",
+        "A yaksha",
+        "A naga",
+        "A rishi"
+      ],
+      "answer": 3,
+      "explanation": "Narada is honored as a celestial rishi, a divine sage who moves among gods, sages, and mortals alike."
+    },
+    {
+      "id": "narada-q07",
+      "difficulty": "easy",
+      "q": "The devotional treatise traditionally attributed to the sage Narada is known as which work?",
+      "options": [
+        "The Narada Bhakti Sutras",
+        "The Yoga Sutras",
+        "The Brahma Sutras",
+        "The Shiva Sutras"
+      ],
+      "answer": 0,
+      "explanation": "Narada is honored as the author of the Narada Bhakti Sutras, aphorisms expounding the path of loving devotion."
+    },
+    {
+      "id": "narada-q08",
+      "difficulty": "easy",
+      "q": "In the Puranas, the sage Narada is best known for spreading what across the three worlds?",
+      "options": [
+        "Warfare",
+        "Devotion and divine messages",
+        "Wealth and trade",
+        "Rainfall"
+      ],
+      "answer": 1,
+      "explanation": "Narada is portrayed as a divine messenger and catalyst who spreads devotion and carries word among gods, sages, and mortals."
+    },
+    {
+      "id": "narada-q09",
+      "difficulty": "easy",
+      "q": "The path of loving devotion that the sage Narada is most associated with is known in Hindu tradition as what?",
+      "options": [
+        "Artha",
+        "Danda",
+        "Bhakti",
+        "Maya"
+      ],
+      "answer": 2,
+      "explanation": "Narada is revered as a teacher of bhakti, the path of loving devotion to the divine."
+    },
+    {
+      "id": "narada-q10",
+      "difficulty": "easy",
+      "q": "According to tradition, the sage Narada belongs to which broad category of mythological figure?",
+      "options": [
+        "A river goddess",
+        "A demon king",
+        "A mountain spirit",
+        "A divine sage"
+      ],
+      "answer": 3,
+      "explanation": "Narada is classed as a divine sage, a celestial rishi who appears throughout the epics and Puranas."
+    },
+    {
+      "id": "narada-q11",
+      "difficulty": "medium",
+      "q": "In several Puranic stories, the seemingly mischievous interventions of the sage Narada usually serve what larger purpose?",
+      "options": [
+        "To set great divine events in motion",
+        "To gather treasure for himself",
+        "To start wars between mortals for sport",
+        "To hide knowledge from the gods"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas frame Narada's apparent mischief as the work of a catalyst whose interventions set great divine events in motion."
+    },
+    {
+      "id": "narada-q12",
+      "difficulty": "medium",
+      "q": "In the Bhagavata Purana, which boy-devotee of Vishnu does the sage Narada famously instruct in devotion while he is still in his mother's womb?",
+      "options": [
+        "Dhruva",
+        "Prahlada",
+        "Markandeya",
+        "Nachiketa"
+      ],
+      "answer": 1,
+      "explanation": "The Bhagavata Purana relates that Narada instructed the unborn Prahlada in devotion to Vishnu while he rested in his mother's womb."
+    },
+    {
+      "id": "narada-q13",
+      "difficulty": "medium",
+      "q": "In the Bhagavata Purana, the young prince Dhruva receives a sacred mantra and guidance toward Vishnu from which wandering sage?",
+      "options": [
+        "Vasishtha",
+        "Durvasa",
+        "Narada",
+        "Agastya"
+      ],
+      "answer": 2,
+      "explanation": "In the Bhagavata Purana, Narada meets the young Dhruva in the forest and imparts the mantra and guidance that lead him to Vishnu."
+    },
+    {
+      "id": "narada-q14",
+      "difficulty": "medium",
+      "q": "According to tradition, the sage Narada inspired which poet to compose the Ramayana?",
+      "options": [
+        "Vyasa",
+        "Kalidasa",
+        "Tulsidas",
+        "Valmiki"
+      ],
+      "answer": 3,
+      "explanation": "Tradition holds that Narada recounted the story of Rama to the sage Valmiki, inspiring him to compose the Ramayana."
+    },
+    {
+      "id": "narada-q15",
+      "difficulty": "medium",
+      "q": "In Puranic accounts, the sage Narada is most often depicted moving between which groups, carrying news and counsel?",
+      "options": [
+        "Gods, sages, and mortals",
+        "Only between rival kings",
+        "Only among ocean creatures",
+        "Only among the planets"
+      ],
+      "answer": 0,
+      "explanation": "Narada is portrayed as a messenger who moves freely among gods, sages, and mortals, carrying news and counsel."
+    },
+    {
+      "id": "narada-q16",
+      "difficulty": "medium",
+      "q": "The sage Narada's role as a roaming bearer of news and catalyst of events is most fully developed in which body of texts?",
+      "options": [
+        "The Arthashastra",
+        "The Puranas",
+        "The Sangam poems",
+        "The Natya Shastra"
+      ],
+      "answer": 1,
+      "explanation": "It is chiefly in the Puranas that Narada appears as a roaming divine messenger and catalyst of great events."
+    },
+    {
+      "id": "narada-q17",
+      "difficulty": "medium",
+      "q": "Which trait is most characteristic of the sage Narada as portrayed across the Puranas?",
+      "options": [
+        "Permanent seclusion in one hermitage",
+        "Renunciation of all speech",
+        "Constant wandering and devotional song",
+        "A vow never to leave Brahma's abode"
+      ],
+      "answer": 2,
+      "explanation": "Narada is defined by his constant wandering through the worlds while singing devotional songs to Narayana."
+    },
+    {
+      "id": "narada-q18",
+      "difficulty": "medium",
+      "q": "In Hindu tradition, the sage Narada is widely regarded as a master of which devotional art?",
+      "options": [
+        "Archery",
+        "Shipbuilding",
+        "Astronomy alone",
+        "Sacred music and song"
+      ],
+      "answer": 3,
+      "explanation": "Narada is revered as a master of sacred music, accompanying his praise of Narayana on the veena."
+    },
+    {
+      "id": "narada-q19",
+      "difficulty": "medium",
+      "q": "Within the Puranic genealogy, the sage Narada is counted among the family of which figure?",
+      "options": [
+        "The sons of Brahma",
+        "The sons of the ocean",
+        "The kings of Ayodhya",
+        "The guardians of the underworld"
+      ],
+      "answer": 0,
+      "explanation": "Narada is reckoned among the mind-born sons of Brahma, sharing kinship with other great primordial sages."
+    },
+    {
+      "id": "narada-q20",
+      "difficulty": "medium",
+      "q": "The Narada Bhakti Sutras attributed to the sage Narada are chiefly concerned with which subject?",
+      "options": [
+        "Rules of statecraft and taxation",
+        "The nature and supremacy of loving devotion",
+        "Techniques of warfare",
+        "The measurement of land"
+      ],
+      "answer": 1,
+      "explanation": "The Narada Bhakti Sutras expound the nature of bhakti, presenting loving devotion as the highest spiritual path."
+    },
+    {
+      "id": "narada-q21",
+      "difficulty": "medium",
+      "q": "In the Puranas, the sage Narada often appears suddenly to convey a divine message or warning to a king or god in which manner?",
+      "options": [
+        "Settling permanently to rule a kingdom",
+        "Refusing ever to speak to royalty",
+        "Arriving as a wandering visitor and then departing",
+        "Remaining invisible and silent throughout"
+      ],
+      "answer": 2,
+      "explanation": "Narada characteristically arrives as a wandering visitor, delivers his message or warning, and then continues his travels."
+    },
+    {
+      "id": "narada-q22",
+      "difficulty": "medium",
+      "q": "The emblem most fittingly associated with the sage Narada, the recorder and reciter of divine lore, is which of these?",
+      "options": [
+        "The trident",
+        "The plough",
+        "The anchor",
+        "The scroll"
+      ],
+      "answer": 3,
+      "explanation": "As a reciter and transmitter of divine lore, Narada is fittingly emblemized by the scroll."
+    },
+    {
+      "id": "narada-q23",
+      "difficulty": "hard",
+      "q": "In a well-known Puranic episode, the sage Narada's pride is humbled when Vishnu causes him to experience what illusion?",
+      "options": [
+        "The illusion (maya) of an entire mortal lifetime as a married householder",
+        "The illusion of becoming a mountain",
+        "The illusion of losing his veena forever",
+        "The illusion of ruling the heavens"
+      ],
+      "answer": 0,
+      "explanation": "In the Puranas, Vishnu's maya causes Narada to live out a whole mortal life as a householder, teaching him the power of illusion."
+    },
+    {
+      "id": "narada-q24",
+      "difficulty": "hard",
+      "q": "In a Vaishnava tale, the sage Narada once asked Vishnu to show him the workings of maya and was sent to fetch what before forgetting himself in mortal life?",
+      "options": [
+        "A diamond from the sea",
+        "Water from a nearby village",
+        "Fire from the sun",
+        "A feather from Garuda"
+      ],
+      "answer": 1,
+      "explanation": "In the tale, Narada goes to fetch water from a village and, drawn into a whole mortal lifetime, experiences the depth of Vishnu's maya."
+    },
+    {
+      "id": "narada-q25",
+      "difficulty": "hard",
+      "q": "In the Devi Bhagavata and related Puranic lore, the sage Narada is counted among the children of which creator, sharing the lineage of the great mind-born seers?",
+      "options": [
+        "Kashyapa",
+        "Daksha",
+        "Brahma",
+        "Manu"
+      ],
+      "answer": 2,
+      "explanation": "Narada is consistently counted among the mind-born sons of Brahma, alongside the other great primordial seers."
+    },
+    {
+      "id": "narada-q26",
+      "difficulty": "hard",
+      "q": "In the Mahabharata, the sage Narada appears in the assembly hall of the Pandavas and instructs Yudhishthira chiefly on which subject?",
+      "options": [
+        "The art of dice-playing",
+        "The forging of weapons",
+        "The breeding of horses",
+        "The duties and conduct of a righteous king"
+      ],
+      "answer": 3,
+      "explanation": "In the Mahabharata's Sabha Parva, Narada visits Yudhishthira's court and questions him on the duties and right conduct of a king."
+    },
+    {
+      "id": "narada-q27",
+      "difficulty": "hard",
+      "q": "In the Bhagavata Purana, the sage Narada recounts that in a previous birth he was the son of a maidservant and awakened devotion by serving whom?",
+      "options": [
+        "Wandering devotees and sages",
+        "A king's army",
+        "A guild of merchants",
+        "A council of astrologers"
+      ],
+      "answer": 0,
+      "explanation": "In the Bhagavata Purana, Narada tells how, as a servant boy, his association with wandering devotees awakened his devotion to Vishnu."
+    },
+    {
+      "id": "narada-q28",
+      "difficulty": "hard",
+      "q": "In the tradition of classical Indian music, the sage Narada is honored as a celestial figure associated with what?",
+      "options": [
+        "The invention of the calendar",
+        "The origin and mastery of music",
+        "The founding of cities",
+        "The charting of sea routes"
+      ],
+      "answer": 1,
+      "explanation": "Narada is venerated in the musical tradition as a celestial master of music, ever singing the glories of the divine on his veena."
+    },
+    {
+      "id": "narada-q29",
+      "difficulty": "hard",
+      "q": "Across the Puranas, the apparent quarrels or rivalries that the sage Narada sparks are ultimately understood to serve which end?",
+      "options": [
+        "His own personal gain",
+        "The weakening of devotion in the world",
+        "The unfolding of the divine cosmic plan",
+        "The concealment of Vishnu's deeds"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas present Narada's stirrings as instruments of the divine plan, advancing the larger purposes of Vishnu."
+    },
+    {
+      "id": "narada-q30",
+      "difficulty": "hard",
+      "q": "The Narada Bhakti Sutras attributed to the sage Narada teach that loving devotion is best characterized as what?",
+      "options": [
+        "A means to gain earthly riches",
+        "A ritual to control the weather",
+        "A method of accumulating power over others",
+        "Supreme love directed toward the divine"
+      ],
+      "answer": 3,
+      "explanation": "The Narada Bhakti Sutras define bhakti as the supreme love (parama-prema) directed toward the divine, sufficient in itself."
+    }
+  ]
+}

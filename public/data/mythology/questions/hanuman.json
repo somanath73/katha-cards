@@ -1,0 +1,395 @@
+{
+  "cardId": "hanuman",
+  "questions": [
+    {
+      "id": "hanuman-q01",
+      "difficulty": "easy",
+      "q": "Who is the divine father of Hanuman in the Ramayana?",
+      "options": [
+        "Agni, the fire-god",
+        "Indra, the king of the gods",
+        "Vayu, the wind-god",
+        "Surya, the sun-god"
+      ],
+      "answer": 2,
+      "explanation": "Hanuman is celebrated as the son of Vayu, the wind-god, and is often called Pavanaputra or Vayuputra."
+    },
+    {
+      "id": "hanuman-q02",
+      "difficulty": "easy",
+      "q": "To which race of forest-dwelling beings does Hanuman belong in the Ramayana?",
+      "options": [
+        "The rakshasas",
+        "The nagas",
+        "The gandharvas",
+        "The vanaras"
+      ],
+      "answer": 3,
+      "explanation": "Hanuman is a vanara, one of the monkey-like beings who aid Rama in the Ramayana."
+    },
+    {
+      "id": "hanuman-q03",
+      "difficulty": "easy",
+      "q": "Hanuman is renowned as the supreme devotee of which prince of Ayodhya?",
+      "options": [
+        "Rama",
+        "Bharata",
+        "Lakshmana",
+        "Shatrughna"
+      ],
+      "answer": 0,
+      "explanation": "Hanuman is the foremost devotee of Rama, embodying selfless service and devotion throughout the Ramayana."
+    },
+    {
+      "id": "hanuman-q04",
+      "difficulty": "easy",
+      "q": "In the Ramayana, across what great obstacle does Hanuman leap to reach Lanka?",
+      "options": [
+        "A river of fire",
+        "The ocean",
+        "A range of mountains",
+        "A vast desert"
+      ],
+      "answer": 1,
+      "explanation": "Hanuman makes a mighty leap across the ocean to reach the island of Lanka in search of Sita."
+    },
+    {
+      "id": "hanuman-q05",
+      "difficulty": "easy",
+      "q": "Whom does Hanuman search for and find when he reaches Lanka in the Ramayana?",
+      "options": [
+        "Mandodari",
+        "Tara",
+        "Sita",
+        "Kaushalya"
+      ],
+      "answer": 2,
+      "explanation": "Hanuman crosses to Lanka to locate Sita, whom he finds held captive in the Ashoka grove."
+    },
+    {
+      "id": "hanuman-q06",
+      "difficulty": "easy",
+      "q": "Which weapon is most commonly associated with Hanuman in his iconography?",
+      "options": [
+        "A trident",
+        "A discus",
+        "A bow",
+        "A mace (gada)"
+      ],
+      "answer": 3,
+      "explanation": "Hanuman is most often depicted carrying a mace, the gada, a symbol of his immense strength."
+    },
+    {
+      "id": "hanuman-q07",
+      "difficulty": "easy",
+      "q": "In which kanda (book) of the Ramayana is Hanuman the central figure?",
+      "options": [
+        "Sundara Kanda",
+        "Bala Kanda",
+        "Aranya Kanda",
+        "Ayodhya Kanda"
+      ],
+      "answer": 0,
+      "explanation": "Hanuman's exploits in Lanka form the heart of the Sundara Kanda, the fifth book of the Ramayana."
+    },
+    {
+      "id": "hanuman-q08",
+      "difficulty": "easy",
+      "q": "In the Ramayana, which garden in Lanka is the grove where Hanuman finds Sita held captive?",
+      "options": [
+        "The Nandana grove",
+        "The Ashoka grove (Ashoka Vatika)",
+        "The Brindavan grove",
+        "The Kadamba grove"
+      ],
+      "answer": 1,
+      "explanation": "Hanuman discovers Sita imprisoned in the Ashoka Vatika, the grove of ashoka trees in Ravana's Lanka."
+    },
+    {
+      "id": "hanuman-q09",
+      "difficulty": "easy",
+      "q": "Hanuman is revered as a chiranjivi, meaning he is which of the following?",
+      "options": [
+        "A creator of worlds",
+        "A god of wealth",
+        "An immortal who lives through the ages",
+        "A teacher of the Vedas"
+      ],
+      "answer": 2,
+      "explanation": "As a chiranjivi, Hanuman is believed to be immortal, living on through the ages by the grace he received."
+    },
+    {
+      "id": "hanuman-q10",
+      "difficulty": "easy",
+      "q": "Hanuman is widely venerated as a giver of which qualities to his devotees?",
+      "options": [
+        "Wealth and prosperity",
+        "Knowledge and the arts",
+        "Beauty and charm",
+        "Strength and courage"
+      ],
+      "answer": 3,
+      "explanation": "Hanuman is venerated as a bestower of strength, courage, and protection to those who honor him."
+    },
+    {
+      "id": "hanuman-q11",
+      "difficulty": "medium",
+      "q": "Which mountain of healing herbs does Hanuman carry to revive the wounded Lakshmana in the Ramayana?",
+      "options": [
+        "The Sanjivani (Dronagiri) mountain",
+        "Mount Meru",
+        "Mount Mandara",
+        "Mount Govardhana"
+      ],
+      "answer": 0,
+      "explanation": "Unable to identify the single herb, Hanuman lifts and carries the entire Sanjivani mountain to heal Lakshmana."
+    },
+    {
+      "id": "hanuman-q12",
+      "difficulty": "medium",
+      "q": "By what name, meaning 'son of the wind,' is Hanuman commonly known?",
+      "options": [
+        "Devaputra",
+        "Pavanaputra",
+        "Suryaputra",
+        "Gangaputra"
+      ],
+      "answer": 1,
+      "explanation": "Hanuman is called Pavanaputra, 'son of the wind,' honoring his father Vayu, the wind-god."
+    },
+    {
+      "id": "hanuman-q13",
+      "difficulty": "medium",
+      "q": "Who is the mother of Hanuman in the Ramayana?",
+      "options": [
+        "Aditi",
+        "Tara",
+        "Anjana",
+        "Sumitra"
+      ],
+      "answer": 2,
+      "explanation": "Hanuman's mother is Anjana, a celestial being, which is why he is also called Anjaneya, 'son of Anjana.'"
+    },
+    {
+      "id": "hanuman-q14",
+      "difficulty": "medium",
+      "q": "How does Hanuman set much of Lanka ablaze in the Ramayana?",
+      "options": [
+        "By hurling firebrands",
+        "By calling down lightning",
+        "With arrows of flame",
+        "With his tail, which the rakshasas had set on fire"
+      ],
+      "answer": 3,
+      "explanation": "When the rakshasas set fire to Hanuman's tail, he uses the burning tail to set much of Lanka ablaze."
+    },
+    {
+      "id": "hanuman-q15",
+      "difficulty": "medium",
+      "q": "When Hanuman first reveals himself to Sita in Lanka, what token of Rama does he give her?",
+      "options": [
+        "Rama's signet ring",
+        "Rama's bow",
+        "Rama's crown",
+        "Rama's sandals"
+      ],
+      "answer": 0,
+      "explanation": "Hanuman shows Sita Rama's signet ring as proof that he is truly Rama's messenger."
+    },
+    {
+      "id": "hanuman-q16",
+      "difficulty": "medium",
+      "q": "By what name, derived from his mother, is Hanuman often addressed?",
+      "options": [
+        "Kaushikeya",
+        "Anjaneya",
+        "Gangeya",
+        "Radheya"
+      ],
+      "answer": 1,
+      "explanation": "Hanuman is called Anjaneya, meaning 'son of Anjana,' after his mother Anjana."
+    },
+    {
+      "id": "hanuman-q17",
+      "difficulty": "medium",
+      "q": "Which vanara king does Hanuman serve as a minister before joining the search for Sita?",
+      "options": [
+        "Vali",
+        "Angada",
+        "Sugriva",
+        "Nala"
+      ],
+      "answer": 2,
+      "explanation": "Hanuman is a trusted minister of Sugriva, the vanara king, and it is in his service that he first meets Rama."
+    },
+    {
+      "id": "hanuman-q18",
+      "difficulty": "medium",
+      "q": "According to the Ramayana, on whose behalf does Hanuman first approach Rama and Lakshmana in the forest?",
+      "options": [
+        "On behalf of Ravana",
+        "On behalf of Janaka",
+        "On behalf of Vibhishana",
+        "On behalf of Sugriva"
+      ],
+      "answer": 3,
+      "explanation": "Hanuman approaches Rama and Lakshmana as an envoy of Sugriva, beginning the alliance that aids Rama."
+    },
+    {
+      "id": "hanuman-q19",
+      "difficulty": "medium",
+      "q": "The popular forty-verse devotional hymn praising Hanuman, attributed to Tulsidas, is known by what name?",
+      "options": [
+        "The Hanuman Chalisa",
+        "The Vishnu Sahasranama",
+        "The Aditya Hridayam",
+        "The Devi Mahatmya"
+      ],
+      "answer": 0,
+      "explanation": "The Hanuman Chalisa, a hymn of forty verses by Tulsidas, is among the most beloved devotional praises of Hanuman."
+    },
+    {
+      "id": "hanuman-q20",
+      "difficulty": "medium",
+      "q": "In the Sundara Kanda, what does Hanuman do to his own body to enter Lanka unseen and to search its halls?",
+      "options": [
+        "Turns invisible entirely",
+        "Shrinks to a tiny size",
+        "Splits into many forms",
+        "Turns to stone"
+      ],
+      "answer": 1,
+      "explanation": "Hanuman shrinks himself to a small size to slip into Lanka and search its palaces without being detected."
+    },
+    {
+      "id": "hanuman-q21",
+      "difficulty": "medium",
+      "q": "Which mighty son of Ravana captures Hanuman in Lanka by binding him with the Brahmastra?",
+      "options": [
+        "Kumbhakarna",
+        "Akshayakumara",
+        "Indrajit (Meghanada)",
+        "Atikaya"
+      ],
+      "answer": 2,
+      "explanation": "Indrajit, also called Meghanada, binds Hanuman using the Brahmastra and brings him before Ravana's court."
+    },
+    {
+      "id": "hanuman-q22",
+      "difficulty": "medium",
+      "q": "On which day of the week is Hanuman especially worshipped in popular Hindu tradition?",
+      "options": [
+        "Monday",
+        "Thursday",
+        "Sunday",
+        "Tuesday (and Saturday)"
+      ],
+      "answer": 3,
+      "explanation": "Hanuman is traditionally worshipped on Tuesdays, and also on Saturdays, in popular Hindu devotional practice."
+    },
+    {
+      "id": "hanuman-q23",
+      "difficulty": "hard",
+      "q": "According to a well-known episode of Hanuman's childhood, which celestial body did the infant Hanuman leap toward, mistaking it for a fruit?",
+      "options": [
+        "The sun",
+        "The moon",
+        "A comet",
+        "The planet Mars"
+      ],
+      "answer": 0,
+      "explanation": "As an infant, Hanuman leapt toward the sun, mistaking the glowing orb for a ripe fruit to eat."
+    },
+    {
+      "id": "hanuman-q24",
+      "difficulty": "hard",
+      "q": "In a famous childhood tale, which deity strikes the infant Hanuman with a thunderbolt (vajra), injuring his jaw?",
+      "options": [
+        "Yama",
+        "Indra",
+        "Varuna",
+        "Kubera"
+      ],
+      "answer": 1,
+      "explanation": "Indra strikes the leaping infant Hanuman with his vajra, injuring his jaw, an event linked to the name 'Hanuman.'"
+    },
+    {
+      "id": "hanuman-q25",
+      "difficulty": "hard",
+      "q": "During his flight to Lanka, Hanuman is tested by Surasa, the mother of the nagas. How does he pass her in the Ramayana?",
+      "options": [
+        "By defeating her in battle",
+        "By turning her to stone",
+        "By outwitting her, shrinking to enter and exit her mouth",
+        "By flying high above the clouds"
+      ],
+      "answer": 2,
+      "explanation": "Surasa, mother of the nagas, was sent by the gods to test Hanuman; he honors her boon by shrinking to a tiny form, darting into and out of her mouth, then passing on."
+    },
+    {
+      "id": "hanuman-q26",
+      "difficulty": "hard",
+      "q": "Which she-rakshasa, dwelling in the sea and seizing shadows, does Hanuman slay during his flight to Lanka?",
+      "options": [
+        "Trijata",
+        "Surpanakha",
+        "Ayomukhi",
+        "Simhika"
+      ],
+      "answer": 3,
+      "explanation": "Hanuman slays the shadow-seizing demoness Simhika, who tried to drag him down by his shadow during his ocean crossing."
+    },
+    {
+      "id": "hanuman-q27",
+      "difficulty": "hard",
+      "q": "According to a traditional account, Hanuman is regarded as a partial incarnation or aspect of which great deity?",
+      "options": [
+        "Shiva (Rudra)",
+        "Brahma",
+        "Yama",
+        "Kubera"
+      ],
+      "answer": 0,
+      "explanation": "In many traditions Hanuman is regarded as an amsha or incarnation of Shiva, also called Rudra."
+    },
+    {
+      "id": "hanuman-q28",
+      "difficulty": "hard",
+      "q": "In the Mahabharata, Hanuman appears to which Pandava brother, who is also a son of the wind-god Vayu?",
+      "options": [
+        "Arjuna",
+        "Bhima",
+        "Yudhishthira",
+        "Nakula"
+      ],
+      "answer": 1,
+      "explanation": "Hanuman meets Bhima in the forest; both are sons of Vayu, making them spiritual brothers in the Mahabharata."
+    },
+    {
+      "id": "hanuman-q29",
+      "difficulty": "hard",
+      "q": "In the Mahabharata, on whose chariot banner is Hanuman said to be present during the Kurukshetra war?",
+      "options": [
+        "Karna's banner",
+        "Bhishma's banner",
+        "Arjuna's banner",
+        "Duryodhana's banner"
+      ],
+      "answer": 2,
+      "explanation": "Hanuman is said to appear on Arjuna's banner during the Kurukshetra war, lending strength to his chariot."
+    },
+    {
+      "id": "hanuman-q30",
+      "difficulty": "hard",
+      "q": "The Ramayana describes how an injury to Hanuman's jaw gives rise to his name, since 'hanu' refers to which part of the body?",
+      "options": [
+        "The hand",
+        "The foot",
+        "The heart",
+        "The jaw"
+      ],
+      "answer": 3,
+      "explanation": "The name Hanuman is traditionally linked to 'hanu,' the jaw, recalling the injury he received as an infant."
+    }
+  ]
+}

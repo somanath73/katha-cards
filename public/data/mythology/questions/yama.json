@@ -1,0 +1,395 @@
+{
+  "cardId": "yama",
+  "questions": [
+    {
+      "id": "yama-q01",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, over what realm does the deity Yama preside?",
+      "options": [
+        "The oceans",
+        "Wealth and treasure",
+        "Music and the arts",
+        "The dead and the afterlife"
+      ],
+      "answer": 3,
+      "explanation": "Yama is revered as the king of the dead, presiding over departed souls and the afterlife."
+    },
+    {
+      "id": "yama-q02",
+      "difficulty": "easy",
+      "q": "Which solar deity is named in the tradition as the father of Yama?",
+      "options": [
+        "Surya",
+        "Agni",
+        "Varuna",
+        "Chandra"
+      ],
+      "answer": 0,
+      "explanation": "Yama is the son of Surya, the radiant sun god of the Vedas."
+    },
+    {
+      "id": "yama-q03",
+      "difficulty": "easy",
+      "q": "What animal is described as the vahana (mount) of Yama, lord of death?",
+      "options": [
+        "A lion",
+        "A buffalo",
+        "An eagle",
+        "A peacock"
+      ],
+      "answer": 1,
+      "explanation": "Yama is traditionally depicted mounted upon a buffalo."
+    },
+    {
+      "id": "yama-q04",
+      "difficulty": "easy",
+      "q": "Which weapon is most associated with Yama for binding and drawing forth departed souls?",
+      "options": [
+        "A discus",
+        "A bow",
+        "A noose (pasha)",
+        "A flute"
+      ],
+      "answer": 2,
+      "explanation": "Yama wields a noose (pasha) with which he is said to draw forth the life of the departed."
+    },
+    {
+      "id": "yama-q05",
+      "difficulty": "easy",
+      "q": "By what title, meaning 'lord of righteousness,' is Yama also honored?",
+      "options": [
+        "Trivikrama",
+        "Gangadhara",
+        "Nilakantha",
+        "Dharmaraja"
+      ],
+      "answer": 3,
+      "explanation": "Yama is also called Dharmaraja, the lord of righteousness, reflecting his role as impartial judge."
+    },
+    {
+      "id": "yama-q06",
+      "difficulty": "easy",
+      "q": "Which cardinal direction does Yama preside over as a guardian of the quarters?",
+      "options": [
+        "The south",
+        "The north",
+        "The east",
+        "The west"
+      ],
+      "answer": 0,
+      "explanation": "Yama presides over the southern direction among the guardian deities of the quarters."
+    },
+    {
+      "id": "yama-q07",
+      "difficulty": "easy",
+      "q": "Who serves as the scribe of Yama, recording the deeds of every being?",
+      "options": [
+        "Narada",
+        "Chitragupta",
+        "Brihaspati",
+        "Vishvakarma"
+      ],
+      "answer": 1,
+      "explanation": "Chitragupta is the scribe of Yama who records the deeds of departed souls."
+    },
+    {
+      "id": "yama-q08",
+      "difficulty": "easy",
+      "q": "In addition to a noose, which weapon does Yama, lord of death, carry?",
+      "options": [
+        "A trident",
+        "A conch",
+        "A mace",
+        "A plough"
+      ],
+      "answer": 2,
+      "explanation": "Along with his noose, Yama is depicted bearing a mace as one of his attributes."
+    },
+    {
+      "id": "yama-q09",
+      "difficulty": "easy",
+      "q": "According to the Puranas, which realm of measured reckoning lies under the rule of Yama?",
+      "options": [
+        "Vaikuntha",
+        "Amaravati",
+        "Kailash",
+        "Naraka"
+      ],
+      "answer": 3,
+      "explanation": "Naraka, the realm where souls undergo measured reckoning for their deeds, lies under Yama's rule."
+    },
+    {
+      "id": "yama-q10",
+      "difficulty": "easy",
+      "q": "What distinction does the tradition give Yama as the very first being to undergo death?",
+      "options": [
+        "The first mortal to die",
+        "The first king of the gods",
+        "The first sage",
+        "The first avatar"
+      ],
+      "answer": 0,
+      "explanation": "Yama is honored as the first mortal to die, who thereby became king over the realm of the dead."
+    },
+    {
+      "id": "yama-q11",
+      "difficulty": "medium",
+      "q": "In the Vedas, who is named as the twin sister of Yama, sharing his lineage?",
+      "options": [
+        "Ushas",
+        "Yami",
+        "Saranyu",
+        "Ratri"
+      ],
+      "answer": 1,
+      "explanation": "Yami is the twin sister of Yama, with whom he shares his Vedic parentage."
+    },
+    {
+      "id": "yama-q12",
+      "difficulty": "medium",
+      "q": "In the Katha Upanishad, which young seeker engages Yama in a dialogue on the nature of death and the soul?",
+      "options": [
+        "Shvetaketu",
+        "Satyakama",
+        "Nachiketa",
+        "Maitreyi"
+      ],
+      "answer": 2,
+      "explanation": "In the Katha Upanishad, the boy Nachiketa receives teachings on death and the eternal soul directly from Yama."
+    },
+    {
+      "id": "yama-q13",
+      "difficulty": "medium",
+      "q": "In the Mahabharata, the eldest Pandava Yudhishthira is regarded as the son of which deity?",
+      "options": [
+        "Indra",
+        "Vayu",
+        "Ashvins",
+        "Yama (Dharma)"
+      ],
+      "answer": 3,
+      "explanation": "Yudhishthira, renowned for his righteousness, is regarded as the son of Yama in his aspect as Dharma."
+    },
+    {
+      "id": "yama-q14",
+      "difficulty": "medium",
+      "q": "In the well-known tale of Savitri, whose life does she follow Yama to recover through her devotion and wisdom?",
+      "options": [
+        "Her husband Satyavan's",
+        "Her father's",
+        "Her son's",
+        "Her brother's"
+      ],
+      "answer": 0,
+      "explanation": "In the Mahabharata's tale, Savitri follows Yama and, through her wisdom, wins back the life of her husband Satyavan."
+    },
+    {
+      "id": "yama-q15",
+      "difficulty": "medium",
+      "q": "Which name, meaning 'the ender' or 'time,' is also applied to Yama as the bringer of death?",
+      "options": [
+        "Soma",
+        "Kala",
+        "Rudra",
+        "Mitra"
+      ],
+      "answer": 1,
+      "explanation": "Yama is also called Kala, meaning time or the ender, as the one who brings all beings to their appointed end."
+    },
+    {
+      "id": "yama-q16",
+      "difficulty": "medium",
+      "q": "By what name is the city or abode of Yama, where the dead are judged, traditionally known?",
+      "options": [
+        "Dvaraka",
+        "Mathura",
+        "Yamapuri",
+        "Lanka"
+      ],
+      "answer": 2,
+      "explanation": "The abode of Yama, where departed souls are brought for judgment, is known as Yamapuri."
+    },
+    {
+      "id": "yama-q17",
+      "difficulty": "medium",
+      "q": "Which festival celebrates the bond between brother and sister, traditionally linked to Yama and his sister Yami (Yamuna)?",
+      "options": [
+        "Holi",
+        "Vasant Panchami",
+        "Janmashtami",
+        "Bhai Dooj (Yama Dvitiya)"
+      ],
+      "answer": 3,
+      "explanation": "Bhai Dooj, also called Yama Dvitiya, is traditionally linked to the affectionate meeting of Yama and his sister Yami."
+    },
+    {
+      "id": "yama-q18",
+      "difficulty": "medium",
+      "q": "In the Puranas, which sage devoted to Shiva is famously rescued from Yama's noose when Shiva intervenes to conquer death?",
+      "options": [
+        "Markandeya",
+        "Dhruva",
+        "Agastya",
+        "Bhagiratha"
+      ],
+      "answer": 0,
+      "explanation": "The sage Markandeya, clinging to the Shiva linga, is saved when Shiva bursts forth and overcomes Yama's noose."
+    },
+    {
+      "id": "yama-q19",
+      "difficulty": "medium",
+      "q": "The river Yamuna is traditionally regarded in the Puranas as the sister of which deity?",
+      "options": [
+        "Indra",
+        "Yama",
+        "Kubera",
+        "Agni"
+      ],
+      "answer": 1,
+      "explanation": "The river-goddess Yamuna is traditionally regarded as the sister of Yama, both children of Surya."
+    },
+    {
+      "id": "yama-q20",
+      "difficulty": "medium",
+      "q": "Which two dreaded dogs are described in the Vedas as the messengers and watchdogs of Yama on the path of the dead?",
+      "options": [
+        "The Ashvins",
+        "The Maruts",
+        "The Sarameyas (Shyama and Shabala)",
+        "The Vasus"
+      ],
+      "answer": 2,
+      "explanation": "The Rigveda describes the four-eyed Sarameya hounds, Shyama and Shabala, as the watchdogs and messengers of Yama."
+    },
+    {
+      "id": "yama-q21",
+      "difficulty": "medium",
+      "q": "As one of the Lokapalas (guardians of the directions), Yama is grouped with which other deity who guards the west?",
+      "options": [
+        "Kubera",
+        "Agni",
+        "Vayu",
+        "Varuna"
+      ],
+      "answer": 3,
+      "explanation": "Among the Lokapalas, Yama guards the south while Varuna guards the western direction."
+    },
+    {
+      "id": "yama-q22",
+      "difficulty": "medium",
+      "q": "In the Uttara Kanda of the Ramayana, Ravana is said to have marched against and challenged which lord of death during his conquests?",
+      "options": [
+        "Yama",
+        "Kubera",
+        "Indra",
+        "Varuna"
+      ],
+      "answer": 0,
+      "explanation": "The Uttara Kanda recounts that the mighty Ravana once contended even with Yama, the lord of death, during his campaigns of conquest."
+    },
+    {
+      "id": "yama-q23",
+      "difficulty": "hard",
+      "q": "According to the Vedic accounts, Saranyu, the mother of Yama, is the daughter of which divine architect?",
+      "options": [
+        "Brihaspati",
+        "Tvashtar (Vishvakarma)",
+        "Daksha",
+        "Kashyapa"
+      ],
+      "answer": 1,
+      "explanation": "Saranyu, mother of Yama, is named as the daughter of Tvashtar, the divine craftsman of the Vedas."
+    },
+    {
+      "id": "yama-q24",
+      "difficulty": "hard",
+      "q": "In the Rigveda, Yama is said to have discovered the path for mortals to follow because of which act?",
+      "options": [
+        "His churning of the cosmic ocean",
+        "His drinking of soma",
+        "His being the first to traverse the path of death",
+        "His slaying of a demon"
+      ],
+      "answer": 2,
+      "explanation": "The Rigveda honors Yama as the one who first journeyed along the path of death, thereby finding the way for all who follow."
+    },
+    {
+      "id": "yama-q25",
+      "difficulty": "hard",
+      "q": "Which terrible servant, often identified as Yama's own agent, is the personification dispatched to seize the dying?",
+      "options": [
+        "Vidyadhara",
+        "Gandharva",
+        "Kinnara",
+        "Yamaduta"
+      ],
+      "answer": 3,
+      "explanation": "The Yamadutas are the messengers of Yama, dispatched to carry the souls of the departed before him."
+    },
+    {
+      "id": "yama-q26",
+      "difficulty": "hard",
+      "q": "In the Katha Upanishad, what three boons does Yama grant to the boy who waits at his door?",
+      "options": [
+        "Peace for his father, knowledge of the fire-sacrifice, and the secret of death",
+        "Wealth, fame, and power",
+        "A kingdom, an army, and long life",
+        "Beauty, strength, and progeny"
+      ],
+      "answer": 0,
+      "explanation": "Yama grants Nachiketa three boons: his father's peace, the knowledge of the sacred fire, and the supreme teaching on death and the Self."
+    },
+    {
+      "id": "yama-q27",
+      "difficulty": "hard",
+      "q": "In Puranic genealogy, the Manu who presides over the present age, Vaivasvata Manu, shares which parent with Yama?",
+      "options": [
+        "Brahma",
+        "Surya",
+        "Kashyapa",
+        "Daksha"
+      ],
+      "answer": 1,
+      "explanation": "Vaivasvata Manu and Yama are both counted among the children of Surya, making them brothers in Puranic lineage."
+    },
+    {
+      "id": "yama-q28",
+      "difficulty": "hard",
+      "q": "Which staff or rod, symbolizing his authority over the dead, is named as a distinctive emblem of Yama?",
+      "options": [
+        "The Vajra",
+        "The Trishula",
+        "The Yamadanda",
+        "The Kaumodaki"
+      ],
+      "answer": 2,
+      "explanation": "The Yamadanda, the rod or staff of Yama, symbolizes his sovereign authority and the inescapable punishment of wrongdoing."
+    },
+    {
+      "id": "yama-q29",
+      "difficulty": "hard",
+      "q": "In the Mahabharata, Yama as Dharma tests Yudhishthira at a lake by appearing in what form before posing his questions?",
+      "options": [
+        "A serpent",
+        "A brahmin",
+        "A deer",
+        "A crane or yaksha"
+      ],
+      "answer": 3,
+      "explanation": "In the Yaksha Prashna episode, Yama in the form of a yaksha (crane) questions Yudhishthira before reviving his brothers."
+    },
+    {
+      "id": "yama-q30",
+      "difficulty": "hard",
+      "q": "The Puranas teach that the suffering souls undergo in Yama's realm of Naraka is best described as which of the following?",
+      "options": [
+        "Measured and proportionate to one's karma before rebirth",
+        "Eternal and unending",
+        "Imposed only on the gods",
+        "Reserved solely for demons"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas describe Naraka under Yama not as eternal damnation but as measured suffering, proportionate to one's karma before rebirth."
+    }
+  ]
+}

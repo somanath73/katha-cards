@@ -1,0 +1,395 @@
+{
+  "cardId": "the-dashavatara",
+  "questions": [
+    {
+      "id": "the-dashavatara-q01",
+      "difficulty": "easy",
+      "q": "The Dashavatara are the ten principal incarnations of which deity?",
+      "options": [
+        "Shiva",
+        "Brahma",
+        "Indra",
+        "Vishnu"
+      ],
+      "answer": 3,
+      "explanation": "According to the Puranas, the Dashavatara are the ten principal descents of Vishnu to restore dharma."
+    },
+    {
+      "id": "the-dashavatara-q02",
+      "difficulty": "easy",
+      "q": "What does the word 'Dashavatara' mean?",
+      "options": [
+        "Ten descents",
+        "Five forms",
+        "Three worlds",
+        "Seven sages"
+      ],
+      "answer": 0,
+      "explanation": "'Dasha' means ten and 'avatara' means descent, so Dashavatara denotes the ten incarnations of Vishnu."
+    },
+    {
+      "id": "the-dashavatara-q03",
+      "difficulty": "easy",
+      "q": "Which avatar of Vishnu takes the form of a fish in the Dashavatara sequence?",
+      "options": [
+        "Kurma",
+        "Matsya",
+        "Varaha",
+        "Narasimha"
+      ],
+      "answer": 1,
+      "explanation": "Matsya, the fish avatar, is the first of the Dashavatara and saves King Manu from the great deluge."
+    },
+    {
+      "id": "the-dashavatara-q04",
+      "difficulty": "easy",
+      "q": "In the classical Dashavatara list, which avatar of Vishnu appears as a tortoise?",
+      "options": [
+        "Matsya",
+        "Varaha",
+        "Kurma",
+        "Vamana"
+      ],
+      "answer": 2,
+      "explanation": "Kurma, the tortoise avatar, supports Mount Mandara on his back during the churning of the ocean of milk."
+    },
+    {
+      "id": "the-dashavatara-q05",
+      "difficulty": "easy",
+      "q": "Which avatar of Vishnu takes the form of a boar to rescue the earth?",
+      "options": [
+        "Narasimha",
+        "Kurma",
+        "Matsya",
+        "Varaha"
+      ],
+      "answer": 3,
+      "explanation": "Varaha, the boar avatar, lifts the earth goddess Bhudevi from the cosmic waters in the Puranic accounts."
+    },
+    {
+      "id": "the-dashavatara-q06",
+      "difficulty": "easy",
+      "q": "Which avatar of Vishnu has the form of a man-lion?",
+      "options": [
+        "Narasimha",
+        "Vamana",
+        "Parashurama",
+        "Rama"
+      ],
+      "answer": 0,
+      "explanation": "Narasimha, the man-lion avatar, appears to destroy the demon king Hiranyakashipu in the Puranas."
+    },
+    {
+      "id": "the-dashavatara-q07",
+      "difficulty": "easy",
+      "q": "Which avatar of Vishnu is the hero of the Ramayana?",
+      "options": [
+        "Krishna",
+        "Rama",
+        "Vamana",
+        "Buddha"
+      ],
+      "answer": 1,
+      "explanation": "Rama, the seventh avatar, is the prince of Ayodhya whose story is told in the Ramayana."
+    },
+    {
+      "id": "the-dashavatara-q08",
+      "difficulty": "easy",
+      "q": "Which avatar of Vishnu delivers the Bhagavad Gita in the Mahabharata?",
+      "options": [
+        "Rama",
+        "Buddha",
+        "Krishna",
+        "Kalki"
+      ],
+      "answer": 2,
+      "explanation": "Krishna, often counted as the eighth avatar, speaks the Bhagavad Gita to Arjuna on the battlefield of Kurukshetra."
+    },
+    {
+      "id": "the-dashavatara-q09",
+      "difficulty": "easy",
+      "q": "Which avatar of Vishnu is prophesied to appear in the future at the end of Kali Yuga?",
+      "options": [
+        "Parashurama",
+        "Vamana",
+        "Matsya",
+        "Kalki"
+      ],
+      "answer": 3,
+      "explanation": "Kalki is the tenth and future avatar, prophesied in the Puranas to appear at the end of Kali Yuga."
+    },
+    {
+      "id": "the-dashavatara-q10",
+      "difficulty": "easy",
+      "q": "Which emblem, a spinning discus, is most associated with Vishnu of the Dashavatara?",
+      "options": [
+        "Sudarshana Chakra",
+        "Trishula",
+        "Vajra",
+        "Pinaka"
+      ],
+      "answer": 0,
+      "explanation": "The Sudarshana Chakra, a spinning discus, is the signature weapon of Vishnu across his incarnations."
+    },
+    {
+      "id": "the-dashavatara-q11",
+      "difficulty": "medium",
+      "q": "In the classical Dashavatara sequence, which avatar of Vishnu comes first?",
+      "options": [
+        "Kurma",
+        "Matsya",
+        "Varaha",
+        "Vamana"
+      ],
+      "answer": 1,
+      "explanation": "The classical sequence opens with Matsya, the fish, followed by Kurma, the tortoise."
+    },
+    {
+      "id": "the-dashavatara-q12",
+      "difficulty": "medium",
+      "q": "Which avatar of Vishnu appears as a dwarf Brahmin who measures the cosmos in three strides?",
+      "options": [
+        "Parashurama",
+        "Narasimha",
+        "Vamana",
+        "Rama"
+      ],
+      "answer": 2,
+      "explanation": "Vamana, the dwarf avatar, requests three paces of land from King Bali and then covers all worlds in three strides."
+    },
+    {
+      "id": "the-dashavatara-q13",
+      "difficulty": "medium",
+      "q": "Which avatar of Vishnu is depicted as a warrior-sage wielding an axe?",
+      "options": [
+        "Rama",
+        "Balarama",
+        "Vamana",
+        "Parashurama"
+      ],
+      "answer": 3,
+      "explanation": "Parashurama, the sixth avatar, is the Brahmin warrior who bears an axe (parashu) given to him by Shiva."
+    },
+    {
+      "id": "the-dashavatara-q14",
+      "difficulty": "medium",
+      "q": "From which demon king does the Narasimha avatar of Vishnu protect the devotee Prahlada?",
+      "options": [
+        "Hiranyakashipu",
+        "Ravana",
+        "Bali",
+        "Bhasmasura"
+      ],
+      "answer": 0,
+      "explanation": "Narasimha destroys the demon king Hiranyakashipu, the father of the devoted Prahlada, in the Bhagavata Purana."
+    },
+    {
+      "id": "the-dashavatara-q15",
+      "difficulty": "medium",
+      "q": "From which king does the Vamana avatar of Vishnu request three paces of land?",
+      "options": [
+        "Janaka",
+        "Mahabali",
+        "Dasharatha",
+        "Hiranyaksha"
+      ],
+      "answer": 1,
+      "explanation": "Vamana approaches the generous King Mahabali and asks for three paces of land, which he uses to span the worlds."
+    },
+    {
+      "id": "the-dashavatara-q16",
+      "difficulty": "medium",
+      "q": "During which cosmic event does the Kurma avatar of Vishnu serve as a pivot beneath Mount Mandara?",
+      "options": [
+        "The great deluge",
+        "The burning of Tripura",
+        "The churning of the ocean of milk",
+        "The descent of the Ganga"
+      ],
+      "answer": 2,
+      "explanation": "Kurma supports Mount Mandara during the Samudra Manthana, the churning of the ocean of milk, in the Puranas."
+    },
+    {
+      "id": "the-dashavatara-q17",
+      "difficulty": "medium",
+      "q": "In the Puranas, the Matsya avatar of Vishnu rescues which figure from the great flood?",
+      "options": [
+        "Bali",
+        "Janaka",
+        "Bharata",
+        "Manu"
+      ],
+      "answer": 3,
+      "explanation": "Matsya guides the boat of Manu and the seeds of life safely through the great deluge in the Puranic accounts."
+    },
+    {
+      "id": "the-dashavatara-q18",
+      "difficulty": "medium",
+      "q": "In many Dashavatara lists, which figure is counted as the ninth avatar of Vishnu, before Kalki?",
+      "options": [
+        "Buddha",
+        "Balarama",
+        "Hanuman",
+        "Indra"
+      ],
+      "answer": 0,
+      "explanation": "In the widely followed list, the Buddha is counted as the ninth avatar, with Kalki as the tenth yet to come."
+    },
+    {
+      "id": "the-dashavatara-q19",
+      "difficulty": "medium",
+      "q": "Which serpent is Vishnu most often depicted reclining upon between his cosmic incarnations?",
+      "options": [
+        "Vasuki",
+        "Shesha",
+        "Takshaka",
+        "Kaliya"
+      ],
+      "answer": 1,
+      "explanation": "Vishnu reclines upon the cosmic serpent Shesha (Ananta) upon the ocean of milk in the Puranas."
+    },
+    {
+      "id": "the-dashavatara-q20",
+      "difficulty": "medium",
+      "q": "Who is the consort of Vishnu, whose incarnations often accompany the Dashavatara?",
+      "options": [
+        "Parvati",
+        "Saraswati",
+        "Lakshmi",
+        "Ganga"
+      ],
+      "answer": 2,
+      "explanation": "Lakshmi, goddess of fortune, is the consort of Vishnu and incarnates alongside him, as Sita with Rama and Rukmini with Krishna."
+    },
+    {
+      "id": "the-dashavatara-q21",
+      "difficulty": "medium",
+      "q": "According to the Puranas, which divine bird serves as the vahana (mount) of Vishnu across his incarnations?",
+      "options": [
+        "Jatayu",
+        "A peacock",
+        "A swan",
+        "Garuda"
+      ],
+      "answer": 3,
+      "explanation": "Garuda, the divine eagle, is the vahana (mount) of Vishnu across his incarnations in the Puranas."
+    },
+    {
+      "id": "the-dashavatara-q22",
+      "difficulty": "medium",
+      "q": "On which mount is the future Kalki avatar of Vishnu prophesied to appear?",
+      "options": [
+        "A white horse",
+        "A golden chariot",
+        "A great eagle",
+        "A celestial elephant"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas prophesy that Kalki will appear riding a white horse and wielding a blazing sword."
+    },
+    {
+      "id": "the-dashavatara-q23",
+      "difficulty": "hard",
+      "q": "Which two avatars immediately precede Buddha and Kalki at the close of the classical Dashavatara sequence?",
+      "options": [
+        "Vamana and Parashurama",
+        "Rama and Krishna",
+        "Matsya and Kurma",
+        "Varaha and Narasimha"
+      ],
+      "answer": 1,
+      "explanation": "The classical sequence runs through Rama and Krishna just before reaching Buddha and the future Kalki."
+    },
+    {
+      "id": "the-dashavatara-q24",
+      "difficulty": "hard",
+      "q": "Which boar-slain demon does the Varaha avatar of Vishnu defeat while rescuing the earth?",
+      "options": [
+        "Hiranyakashipu",
+        "Mahishasura",
+        "Hiranyaksha",
+        "Madhu"
+      ],
+      "answer": 2,
+      "explanation": "Varaha slays the demon Hiranyaksha, who had dragged the earth into the cosmic waters, in the Puranic accounts."
+    },
+    {
+      "id": "the-dashavatara-q25",
+      "difficulty": "hard",
+      "q": "In the Bhagavata Purana, which avatar is regarded as an incarnation of the serpent Shesha and is sometimes placed among the ten?",
+      "options": [
+        "Parashurama",
+        "Vamana",
+        "Kalki",
+        "Balarama"
+      ],
+      "answer": 3,
+      "explanation": "Balarama, elder brother of Krishna, is regarded as an incarnation of the serpent Shesha and appears in some Dashavatara lists in place of Buddha."
+    },
+    {
+      "id": "the-dashavatara-q26",
+      "difficulty": "hard",
+      "q": "The progression of the Dashavatara is often described as tracing a movement from the waters to which culmination?",
+      "options": [
+        "The perfected human",
+        "The first sage",
+        "The cosmic egg",
+        "The celestial mountain"
+      ],
+      "answer": 0,
+      "explanation": "The sequence is read as a cosmic progression from the aquatic Matsya to the perfected human, reflecting an ascent of forms."
+    },
+    {
+      "id": "the-dashavatara-q27",
+      "difficulty": "hard",
+      "q": "The Dashavatara appear, according to tradition, to restore which cosmic principle when it declines?",
+      "options": [
+        "Maya",
+        "Dharma",
+        "Karma",
+        "Moksha"
+      ],
+      "answer": 1,
+      "explanation": "The Puranas state that Vishnu descends as the avatars to restore dharma whenever cosmic order falters."
+    },
+    {
+      "id": "the-dashavatara-q28",
+      "difficulty": "hard",
+      "q": "In which kind of text is the enumeration of the Dashavatara most fully developed?",
+      "options": [
+        "The Brahmanas",
+        "The Upanishads",
+        "The Puranas",
+        "The Shulba Sutras"
+      ],
+      "answer": 2,
+      "explanation": "The classical enumeration of the ten avatars is most fully developed in the Puranas, such as the Bhagavata Purana."
+    },
+    {
+      "id": "the-dashavatara-q29",
+      "difficulty": "hard",
+      "q": "Which avatar of Vishnu is associated with the slaying of the serpent Kaliya in the Yamuna river?",
+      "options": [
+        "Rama",
+        "Balarama",
+        "Parashurama",
+        "Krishna"
+      ],
+      "answer": 3,
+      "explanation": "Krishna subdues the venomous serpent Kaliya in the Yamuna during his youth in Vrindavan, as told in the Bhagavata Purana."
+    },
+    {
+      "id": "the-dashavatara-q30",
+      "difficulty": "hard",
+      "q": "In the Ramayana, the Rama avatar of Vishnu is married to which goddess, herself regarded as an incarnation of Lakshmi?",
+      "options": [
+        "Sita",
+        "Radha",
+        "Rukmini",
+        "Draupadi"
+      ],
+      "answer": 0,
+      "explanation": "Rama is married to Sita, the daughter of King Janaka, who is regarded in tradition as an incarnation of Lakshmi."
+    }
+  ]
+}

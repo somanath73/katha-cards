@@ -1,0 +1,395 @@
+{
+  "cardId": "kashi",
+  "questions": [
+    {
+      "id": "kashi-q01",
+      "difficulty": "easy",
+      "q": "By what other well-known name is the sacred city of Kashi commonly called today?",
+      "options": [
+        "Varanasi",
+        "Mathura",
+        "Ujjain",
+        "Dwarka"
+      ],
+      "answer": 0,
+      "explanation": "Kashi is the ancient name of the city now widely known as Varanasi (Banaras)."
+    },
+    {
+      "id": "kashi-q02",
+      "difficulty": "easy",
+      "q": "On the banks of which sacred river does the holy city of Kashi stand?",
+      "options": [
+        "The Yamuna",
+        "The Ganga",
+        "The Godavari",
+        "The Narmada"
+      ],
+      "answer": 1,
+      "explanation": "Kashi stands on the banks of the river Ganga, regarded as India's most sacred river."
+    },
+    {
+      "id": "kashi-q03",
+      "difficulty": "easy",
+      "q": "In the Puranas, Kashi is hailed as the earthly city of which great deity?",
+      "options": [
+        "Brahma",
+        "Vishnu",
+        "Shiva",
+        "Indra"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas extol Kashi as the beloved earthly city of Lord Shiva."
+    },
+    {
+      "id": "kashi-q04",
+      "difficulty": "easy",
+      "q": "The name Kashi is traditionally linked to a Sanskrit root meaning 'to shine,' giving the city which famous poetic epithet?",
+      "options": [
+        "City of Gold",
+        "City of Rivers",
+        "City of Kings",
+        "City of Light"
+      ],
+      "answer": 3,
+      "explanation": "The name Kashi is associated with a root meaning 'to shine,' which is why the city is celebrated as the 'City of Light.'"
+    },
+    {
+      "id": "kashi-q05",
+      "difficulty": "easy",
+      "q": "By what name is the presiding form of Shiva worshipped at Kashi best known?",
+      "options": [
+        "Vishwanath",
+        "Nataraja",
+        "Bhairava",
+        "Pashupati"
+      ],
+      "answer": 0,
+      "explanation": "The presiding deity of Kashi is Shiva in his form as Vishwanath, Lord of the Universe."
+    },
+    {
+      "id": "kashi-q06",
+      "difficulty": "easy",
+      "q": "The name 'Vishwanath,' the presiding form of Shiva at Kashi, is traditionally understood to mean what?",
+      "options": [
+        "Lord of the Dance",
+        "Lord of the Universe",
+        "Lord of Wealth",
+        "Lord of the Mountains"
+      ],
+      "answer": 1,
+      "explanation": "Vishwanath means 'Lord of the Universe,' the title under which Shiva is revered at Kashi."
+    },
+    {
+      "id": "kashi-q07",
+      "difficulty": "easy",
+      "q": "According to Puranic tradition, what blessing is said to await those who die within the sacred bounds of Kashi?",
+      "options": [
+        "Vast earthly riches",
+        "A long royal lineage",
+        "Liberation from rebirth",
+        "Mastery of all the Vedas"
+      ],
+      "answer": 2,
+      "explanation": "Tradition holds that those who die in Kashi are freed from the cycle of rebirth."
+    },
+    {
+      "id": "kashi-q08",
+      "difficulty": "easy",
+      "q": "Kashi is counted among which category of revered locations in Hindu tradition?",
+      "options": [
+        "The royal capitals of the Mahabharata",
+        "The battlefields of the Ramayana",
+        "The peaks of the Himalayas",
+        "The holiest sacred cities of India"
+      ],
+      "answer": 3,
+      "explanation": "Kashi is counted among the holiest of India's sacred cities (tirthas)."
+    },
+    {
+      "id": "kashi-q09",
+      "difficulty": "easy",
+      "q": "The trident emblem associated with Kashi is the characteristic weapon of which deity?",
+      "options": [
+        "Shiva",
+        "Vishnu",
+        "Brahma",
+        "Kartikeya"
+      ],
+      "answer": 0,
+      "explanation": "The trident (trishula) is the iconic weapon of Shiva, the presiding lord of Kashi."
+    },
+    {
+      "id": "kashi-q10",
+      "difficulty": "easy",
+      "q": "Kashi is regarded in Hindu tradition primarily as which kind of place?",
+      "options": [
+        "A military fortress",
+        "A sacred pilgrimage city",
+        "A trading seaport",
+        "A mountain hermitage"
+      ],
+      "answer": 1,
+      "explanation": "Kashi is revered above all as a sacred pilgrimage city of immense spiritual significance."
+    },
+    {
+      "id": "kashi-q11",
+      "difficulty": "medium",
+      "q": "According to Puranic lore, what is unique about Kashi during the great cosmic dissolution (pralaya)?",
+      "options": [
+        "It is the first city created anew",
+        "It is submerged beneath the ocean",
+        "It is never abandoned or destroyed",
+        "It is carried into the heavens"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas hold that Kashi is never abandoned, remaining intact even during cosmic dissolution."
+    },
+    {
+      "id": "kashi-q12",
+      "difficulty": "medium",
+      "q": "Tradition holds that the dying in Kashi receive a liberating mantra whispered by which deity?",
+      "options": [
+        "Brahma",
+        "Vishnu",
+        "Yama",
+        "Shiva"
+      ],
+      "answer": 3,
+      "explanation": "It is said that Shiva himself whispers his liberating mantra (the Taraka mantra) to those who die in Kashi."
+    },
+    {
+      "id": "kashi-q13",
+      "difficulty": "medium",
+      "q": "The famous temple at the heart of Kashi is dedicated to Shiva under which name?",
+      "options": [
+        "Kashi Vishwanath",
+        "Brihadeeswara",
+        "Somnath",
+        "Lingaraja"
+      ],
+      "answer": 0,
+      "explanation": "The principal temple of the city is the Kashi Vishwanath temple, dedicated to Shiva as Vishwanath."
+    },
+    {
+      "id": "kashi-q14",
+      "difficulty": "medium",
+      "q": "The Shiva shrine at Kashi is traditionally counted among which renowned group of twelve sacred sites?",
+      "options": [
+        "The seven Mokshapuris",
+        "The twelve Jyotirlingas",
+        "The four Char Dhams",
+        "The eight Bhairavas"
+      ],
+      "answer": 1,
+      "explanation": "Kashi Vishwanath is revered as one of the twelve Jyotirlingas, sacred manifestations of Shiva as a pillar of light."
+    },
+    {
+      "id": "kashi-q15",
+      "difficulty": "medium",
+      "q": "Kashi is traditionally included among the seven sacred cities said to grant liberation, known by what collective term?",
+      "options": [
+        "The Pancha Bhutas",
+        "The Saptarishi",
+        "The Sapta Puri (Mokshapuris)",
+        "The Char Dham"
+      ],
+      "answer": 2,
+      "explanation": "Kashi is one of the Sapta Puri, the seven holy cities believed to bestow liberation (moksha)."
+    },
+    {
+      "id": "kashi-q16",
+      "difficulty": "medium",
+      "q": "The fierce guardian form of Shiva who is venerated as the protector of Kashi is known by which name?",
+      "options": [
+        "Aghora",
+        "Virabhadra",
+        "Rudra",
+        "Kala Bhairava"
+      ],
+      "answer": 3,
+      "explanation": "Kala Bhairava is honored as the fierce guardian and protector of the sacred city of Kashi."
+    },
+    {
+      "id": "kashi-q17",
+      "difficulty": "medium",
+      "q": "The riverside steps in Kashi where pilgrims bathe and perform rituals along the Ganga are called what?",
+      "options": [
+        "Ghats",
+        "Gopurams",
+        "Mandapas",
+        "Vimanas"
+      ],
+      "answer": 0,
+      "explanation": "The stepped embankments along the Ganga at Kashi are known as ghats, central to its pilgrimage life."
+    },
+    {
+      "id": "kashi-q18",
+      "difficulty": "medium",
+      "q": "In Puranic tradition, the descent of the Ganga to earth was made possible when its fall was broken by what?",
+      "options": [
+        "Vishnu's discus",
+        "Shiva's matted locks",
+        "Brahma's lotus",
+        "Indra's thunderbolt"
+      ],
+      "answer": 1,
+      "explanation": "The Puranas recount that the Ganga's mighty descent was broken by Shiva, who caught her in his matted locks."
+    },
+    {
+      "id": "kashi-q19",
+      "difficulty": "medium",
+      "q": "Which divine consort is traditionally worshipped alongside Shiva Vishwanath at Kashi?",
+      "options": [
+        "Saraswati",
+        "Lakshmi",
+        "Annapurna",
+        "Ganga as Shiva's wife"
+      ],
+      "answer": 2,
+      "explanation": "At Kashi the goddess Annapurna, a form of Parvati, is revered as the consort of Shiva Vishwanath."
+    },
+    {
+      "id": "kashi-q20",
+      "difficulty": "medium",
+      "q": "The goddess Annapurna, venerated at Kashi as Shiva's consort, is especially associated with the gift of what?",
+      "options": [
+        "Wealth and gold",
+        "Learning and music",
+        "Victory in war",
+        "Food and nourishment"
+      ],
+      "answer": 3,
+      "explanation": "Annapurna is revered as the goddess of food and nourishment, said to feed all who come to Kashi."
+    },
+    {
+      "id": "kashi-q21",
+      "difficulty": "medium",
+      "q": "Kashi is described in tradition as one of the most ancient continuously inhabited places in the world. Which faith, alongside Hinduism, also reveres sites in the Kashi region?",
+      "options": [
+        "Buddhism",
+        "Shinto",
+        "Zoroastrianism",
+        "Taoism"
+      ],
+      "answer": 0,
+      "explanation": "Sarnath near Kashi is a major Buddhist site, where the Buddha is said to have given his first sermon."
+    },
+    {
+      "id": "kashi-q22",
+      "difficulty": "medium",
+      "q": "In Hindu tradition, the act of dying and being liberated at Kashi is often referred to by which term?",
+      "options": [
+        "Ashvamedha",
+        "Kashi-labha (the gain of Kashi)",
+        "Rajasuya",
+        "Vanaprastha"
+      ],
+      "answer": 1,
+      "explanation": "The liberation believed to be attained by dying in Kashi is traditionally called Kashi-labha, 'the gain of Kashi.'"
+    },
+    {
+      "id": "kashi-q23",
+      "difficulty": "hard",
+      "q": "The Skanda Purana contains an extensive section glorifying the sacred city of Kashi. By what name is this section known?",
+      "options": [
+        "Vishnu Khanda",
+        "Reva Khanda",
+        "Kashi Khanda",
+        "Avantya Khanda"
+      ],
+      "answer": 2,
+      "explanation": "The Kashi Khanda of the Skanda Purana is the major Puranic text devoted to glorifying Kashi."
+    },
+    {
+      "id": "kashi-q24",
+      "difficulty": "hard",
+      "q": "A river that joins the Ganga at Kashi gives the city its modern name Varanasi. Which two rivers are traditionally said to bound the sacred city?",
+      "options": [
+        "The Yamuna and the Saraswati",
+        "The Son and the Gandak",
+        "The Gomati and the Ghaghara",
+        "The Varuna and the Assi"
+      ],
+      "answer": 3,
+      "explanation": "The name Varanasi is traditionally derived from the rivers Varuna and Assi, which bound the sacred city."
+    },
+    {
+      "id": "kashi-q25",
+      "difficulty": "hard",
+      "q": "In the Mahabharata, the kingdom of Kashi was ruled by a king whose three daughters were carried off by Bhishma for his brother. Who was this king?",
+      "options": [
+        "The King of Kashi (father of Amba, Ambika and Ambalika)",
+        "Drupada of Panchala",
+        "Virata of Matsya",
+        "Jarasandha of Magadha"
+      ],
+      "answer": 0,
+      "explanation": "In the Mahabharata, Bhishma carried off Amba, Ambika and Ambalika, the three princesses of Kashi, for Vichitravirya."
+    },
+    {
+      "id": "kashi-q26",
+      "difficulty": "hard",
+      "q": "Puranic lore associates the cremation ground at Kashi with Shiva's role in death and liberation. By what name is this famed burning ghat known?",
+      "options": [
+        "Kurukshetra",
+        "Manikarnika",
+        "Pushkar",
+        "Naimisha"
+      ],
+      "answer": 1,
+      "explanation": "Manikarnika is the celebrated cremation ghat at Kashi, deeply tied to its sanctity as a place of liberation in death."
+    },
+    {
+      "id": "kashi-q27",
+      "difficulty": "hard",
+      "q": "According to one Puranic tradition, the city of Kashi rests not upon the earth but is upheld upon which of Shiva's emblems?",
+      "options": [
+        "Shiva's bow",
+        "Shiva's serpent",
+        "Shiva's trident",
+        "Shiva's drum"
+      ],
+      "answer": 2,
+      "explanation": "Puranic lore holds that Kashi rests upon the tip of Shiva's trident, set apart from the ordinary earth."
+    },
+    {
+      "id": "kashi-q28",
+      "difficulty": "hard",
+      "q": "In the Puranas, a king named Divodasa once ruled Kashi so righteously that Shiva had to use stratagems to reclaim the city. What was the nature of Divodasa's rule that posed this difficulty?",
+      "options": [
+        "He had grown immortal through a boon",
+        "He had hidden the city beneath the sea",
+        "He commanded an unconquerable army",
+        "His rule was so perfectly just that no fault could be found"
+      ],
+      "answer": 3,
+      "explanation": "Puranic tradition tells that King Divodasa ruled Kashi so flawlessly that Shiva could find no pretext to displace him and reclaim his city."
+    },
+    {
+      "id": "kashi-q29",
+      "difficulty": "hard",
+      "q": "Kashi is one of the Sapta Puri liberation-cities. Which of the following is also traditionally counted among these seven sacred cities?",
+      "options": [
+        "Ayodhya",
+        "Tirupati",
+        "Amritsar",
+        "Bodh Gaya"
+      ],
+      "answer": 0,
+      "explanation": "Ayodhya is, like Kashi, one of the seven Sapta Puri cities believed to grant liberation."
+    },
+    {
+      "id": "kashi-q30",
+      "difficulty": "hard",
+      "q": "In several Puranas Kashi is given an honorific epithet that, like its 'City of Light' name, derives from a Sanskrit root for 'to shine.' Which Sanskrit name reflects this meaning?",
+      "options": [
+        "Hastinapura (the elephant city)",
+        "Kashika (the shining one)",
+        "Indraprastha (Indra's plain)",
+        "Lanka (the island fort)"
+      ],
+      "answer": 1,
+      "explanation": "The name Kashi itself derives from a Sanskrit root meaning 'to shine,' yielding the sense of the luminous or shining city."
+    }
+  ]
+}

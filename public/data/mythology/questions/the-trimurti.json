@@ -1,0 +1,395 @@
+{
+  "cardId": "the-trimurti",
+  "questions": [
+    {
+      "id": "the-trimurti-q01",
+      "difficulty": "easy",
+      "q": "How many principal deities make up the Trimurti of Hindu tradition?",
+      "options": [
+        "Two",
+        "Four",
+        "Five",
+        "Three"
+      ],
+      "answer": 3,
+      "explanation": "The word Trimurti means 'three forms', comprising Brahma, Vishnu and Shiva."
+    },
+    {
+      "id": "the-trimurti-q02",
+      "difficulty": "easy",
+      "q": "Which deity of the Trimurti is honoured as the creator of the worlds?",
+      "options": [
+        "Brahma",
+        "Vishnu",
+        "Shiva",
+        "Indra"
+      ],
+      "answer": 0,
+      "explanation": "In the Trimurti, Brahma is the creator who brings forth the cosmos (srishti)."
+    },
+    {
+      "id": "the-trimurti-q03",
+      "difficulty": "easy",
+      "q": "Which deity of the Trimurti is revered as the preserver of the universe?",
+      "options": [
+        "Brahma",
+        "Vishnu",
+        "Agni",
+        "Shiva"
+      ],
+      "answer": 1,
+      "explanation": "Vishnu fulfils the function of preservation (sthiti), maintaining cosmic order."
+    },
+    {
+      "id": "the-trimurti-q04",
+      "difficulty": "easy",
+      "q": "Which deity of the Trimurti is associated with destruction and transformation?",
+      "options": [
+        "Brahma",
+        "Vishnu",
+        "Shiva",
+        "Varuna"
+      ],
+      "answer": 2,
+      "explanation": "Shiva carries out destruction and dissolution (samhara), which renews the cosmic cycle."
+    },
+    {
+      "id": "the-trimurti-q05",
+      "difficulty": "easy",
+      "q": "The Sanskrit term 'Trimurti' is best translated as which of the following?",
+      "options": [
+        "Three rivers",
+        "Three worlds",
+        "Three vedas",
+        "Three forms"
+      ],
+      "answer": 3,
+      "explanation": "'Trimurti' literally means 'three forms', denoting the threefold divine expression."
+    },
+    {
+      "id": "the-trimurti-q06",
+      "difficulty": "easy",
+      "q": "In which body of Hindu scripture is the concept of the Trimurti most fully elaborated?",
+      "options": [
+        "The Puranas",
+        "The Arthashastra",
+        "The Dharmasutras",
+        "The Natya Shastra"
+      ],
+      "answer": 0,
+      "explanation": "The Trimurti as a unified theological concept is developed chiefly in the Puranas."
+    },
+    {
+      "id": "the-trimurti-q07",
+      "difficulty": "easy",
+      "q": "Which cosmic function is assigned to Brahma within the Trimurti?",
+      "options": [
+        "Preservation",
+        "Creation",
+        "Destruction",
+        "Illusion"
+      ],
+      "answer": 1,
+      "explanation": "Brahma's role in the Trimurti is creation, known in Sanskrit as srishti."
+    },
+    {
+      "id": "the-trimurti-q08",
+      "difficulty": "easy",
+      "q": "According to the Trimurti concept, the three deities are ultimately expressions of which single supreme reality?",
+      "options": [
+        "Maya",
+        "Karma",
+        "Brahman",
+        "Dharma"
+      ],
+      "answer": 2,
+      "explanation": "The Trimurti expresses the one Brahman behind the threefold activity of the cosmos."
+    },
+    {
+      "id": "the-trimurti-q09",
+      "difficulty": "easy",
+      "q": "Which of these deities is NOT one of the three members of the Trimurti?",
+      "options": [
+        "Brahma",
+        "Vishnu",
+        "Shiva",
+        "Indra"
+      ],
+      "answer": 3,
+      "explanation": "Indra is the king of the devas but is not part of the Trimurti, which is Brahma, Vishnu and Shiva."
+    },
+    {
+      "id": "the-trimurti-q10",
+      "difficulty": "easy",
+      "q": "The flower most often used as an emblem of cosmic creation in Trimurti imagery is which of these?",
+      "options": [
+        "The lotus",
+        "The marigold",
+        "The jasmine",
+        "The rose"
+      ],
+      "answer": 0,
+      "explanation": "The lotus, on which Brahma is depicted seated, is a recurring emblem of creation in Trimurti imagery."
+    },
+    {
+      "id": "the-trimurti-q11",
+      "difficulty": "medium",
+      "q": "In Puranic accounts, Brahma is described as emerging from a lotus that rises from the navel of which deity?",
+      "options": [
+        "Shiva",
+        "Vishnu",
+        "Indra",
+        "Agni"
+      ],
+      "answer": 1,
+      "explanation": "The Puranas describe Brahma seated on a lotus that grows from Vishnu's navel as creation begins."
+    },
+    {
+      "id": "the-trimurti-q12",
+      "difficulty": "medium",
+      "q": "The single three-faced deity often understood as combining Brahma, Vishnu and Shiva is known by which name?",
+      "options": [
+        "Hayagriva",
+        "Kubera",
+        "Dattatreya",
+        "Kartikeya"
+      ],
+      "answer": 2,
+      "explanation": "Dattatreya is depicted in a single three-faced form expressing the unity of the Trimurti."
+    },
+    {
+      "id": "the-trimurti-q13",
+      "difficulty": "medium",
+      "q": "Which Sanskrit term names the cosmic function of preservation associated with Vishnu in the Trimurti?",
+      "options": [
+        "Srishti",
+        "Samhara",
+        "Moksha",
+        "Sthiti"
+      ],
+      "answer": 3,
+      "explanation": "Sthiti denotes preservation or maintenance, the function attributed to Vishnu."
+    },
+    {
+      "id": "the-trimurti-q14",
+      "difficulty": "medium",
+      "q": "Which Sanskrit term names the cosmic function of dissolution associated with Shiva in the Trimurti?",
+      "options": [
+        "Samhara",
+        "Sthiti",
+        "Srishti",
+        "Bhakti"
+      ],
+      "answer": 0,
+      "explanation": "Samhara denotes destruction or dissolution, the function attributed to Shiva."
+    },
+    {
+      "id": "the-trimurti-q15",
+      "difficulty": "medium",
+      "q": "In Vaishnava tradition, the consort of Vishnu the preserver is which goddess?",
+      "options": [
+        "Saraswati",
+        "Lakshmi",
+        "Parvati",
+        "Ganga"
+      ],
+      "answer": 1,
+      "explanation": "Lakshmi, goddess of fortune and abundance, is the consort of Vishnu."
+    },
+    {
+      "id": "the-trimurti-q16",
+      "difficulty": "medium",
+      "q": "Within the Trimurti, the goddess of learning Saraswati is traditionally regarded as the consort of which deity?",
+      "options": [
+        "Vishnu",
+        "Shiva",
+        "Brahma",
+        "Yama"
+      ],
+      "answer": 2,
+      "explanation": "Saraswati, goddess of knowledge and speech, is the consort of Brahma the creator."
+    },
+    {
+      "id": "the-trimurti-q17",
+      "difficulty": "medium",
+      "q": "The goddess Parvati is traditionally honoured as the consort of which member of the Trimurti?",
+      "options": [
+        "Brahma",
+        "Vishnu",
+        "Surya",
+        "Shiva"
+      ],
+      "answer": 3,
+      "explanation": "Parvati is the consort of Shiva, the deity of destruction and transformation."
+    },
+    {
+      "id": "the-trimurti-q18",
+      "difficulty": "medium",
+      "q": "In Hindu iconography, which mount (vahana) is most often associated with Vishnu of the Trimurti?",
+      "options": [
+        "The eagle Garuda",
+        "The bull Nandi",
+        "The swan Hamsa",
+        "The peacock"
+      ],
+      "answer": 0,
+      "explanation": "Vishnu's traditional vahana is the eagle Garuda."
+    },
+    {
+      "id": "the-trimurti-q19",
+      "difficulty": "medium",
+      "q": "Which mount (vahana) is traditionally associated with Shiva of the Trimurti?",
+      "options": [
+        "The eagle Garuda",
+        "The bull Nandi",
+        "The swan Hamsa",
+        "The lion"
+      ],
+      "answer": 1,
+      "explanation": "Shiva's traditional vahana is the bull Nandi."
+    },
+    {
+      "id": "the-trimurti-q20",
+      "difficulty": "medium",
+      "q": "The swan or goose (Hamsa) is traditionally the mount of which member of the Trimurti?",
+      "options": [
+        "Vishnu",
+        "Shiva",
+        "Brahma",
+        "Kartikeya"
+      ],
+      "answer": 2,
+      "explanation": "Brahma's traditional vahana is the swan or goose, the Hamsa."
+    },
+    {
+      "id": "the-trimurti-q21",
+      "difficulty": "medium",
+      "q": "In Vaishnava tradition, Vishnu of the Trimurti is described as reclining upon which cosmic serpent?",
+      "options": [
+        "Vasuki",
+        "Takshaka",
+        "Kaliya",
+        "Shesha (Ananta)"
+      ],
+      "answer": 3,
+      "explanation": "Vishnu reclines upon the thousand-hooded serpent Shesha, also called Ananta, on the cosmic ocean."
+    },
+    {
+      "id": "the-trimurti-q22",
+      "difficulty": "medium",
+      "q": "Which weapon is most characteristically held by Vishnu the preserver in the Trimurti?",
+      "options": [
+        "The discus (Sudarshana Chakra)",
+        "The trident (trishula)",
+        "The thunderbolt (vajra)",
+        "The noose (pasha)"
+      ],
+      "answer": 0,
+      "explanation": "Vishnu wields the discus known as the Sudarshana Chakra."
+    },
+    {
+      "id": "the-trimurti-q23",
+      "difficulty": "hard",
+      "q": "The three-pronged weapon, the trishula, is most characteristically associated with which member of the Trimurti?",
+      "options": [
+        "Brahma",
+        "Shiva",
+        "Vishnu",
+        "Kubera"
+      ],
+      "answer": 1,
+      "explanation": "Shiva is iconographically associated with the trishula, the trident."
+    },
+    {
+      "id": "the-trimurti-q24",
+      "difficulty": "hard",
+      "q": "In Puranic cosmology, a single 'day of Brahma' spanning the life of the worlds is known by which term?",
+      "options": [
+        "Yuga",
+        "Muhurta",
+        "Kalpa",
+        "Samvatsara"
+      ],
+      "answer": 2,
+      "explanation": "A kalpa, or day of Brahma, is the vast span across which creation endures before dissolution."
+    },
+    {
+      "id": "the-trimurti-q25",
+      "difficulty": "hard",
+      "q": "Brahma of the Trimurti is frequently depicted with how many faces in classical iconography?",
+      "options": [
+        "Three",
+        "Five",
+        "Two",
+        "Four"
+      ],
+      "answer": 3,
+      "explanation": "Brahma is most commonly depicted with four faces, said to look toward the four directions."
+    },
+    {
+      "id": "the-trimurti-q26",
+      "difficulty": "hard",
+      "q": "In the Bhagavad Gita, Vishnu's preserving role is expressed through Krishna's teaching that he descends in every age to restore which principle?",
+      "options": [
+        "Dharma",
+        "Maya",
+        "Karma",
+        "Artha"
+      ],
+      "answer": 0,
+      "explanation": "In the Gita, Krishna declares he is born age after age to restore dharma when righteousness declines."
+    },
+    {
+      "id": "the-trimurti-q27",
+      "difficulty": "hard",
+      "q": "The conch shell, an emblem of the primordial cosmic sound, is most characteristically held by which member of the Trimurti?",
+      "options": [
+        "Brahma",
+        "Vishnu",
+        "Shiva",
+        "Yama"
+      ],
+      "answer": 1,
+      "explanation": "Vishnu holds the conch (shankha), whose sound is linked to the primordial vibration of creation."
+    },
+    {
+      "id": "the-trimurti-q28",
+      "difficulty": "hard",
+      "q": "Brahma, the creator of the Trimurti, is traditionally said to have given voice to which foundational body of sacred texts?",
+      "options": [
+        "The Puranas",
+        "The Upanishads",
+        "The Vedas",
+        "The epics"
+      ],
+      "answer": 2,
+      "explanation": "Tradition holds that the Vedas issued forth from Brahma the creator."
+    },
+    {
+      "id": "the-trimurti-q29",
+      "difficulty": "hard",
+      "q": "The Sanskrit word 'srishti', describing Brahma's role in the Trimurti, refers to which cosmic activity?",
+      "options": [
+        "Preservation",
+        "Destruction",
+        "Liberation",
+        "Creation"
+      ],
+      "answer": 3,
+      "explanation": "Srishti means creation or bringing-forth, the function attributed to Brahma."
+    },
+    {
+      "id": "the-trimurti-q30",
+      "difficulty": "hard",
+      "q": "In the unity of the Trimurti, the dissolution carried out by Shiva is understood in the Puranas to serve chiefly what purpose?",
+      "options": [
+        "To enable renewal and a fresh cycle of creation",
+        "To end existence permanently",
+        "To punish the gods",
+        "To remove the need for worship"
+      ],
+      "answer": 0,
+      "explanation": "Shiva's destruction is transformative, clearing the way for renewal and a new cycle of creation."
+    }
+  ]
+}

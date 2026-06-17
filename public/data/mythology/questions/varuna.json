@@ -1,0 +1,395 @@
+{
+  "cardId": "varuna",
+  "questions": [
+    {
+      "id": "varuna-q01",
+      "difficulty": "easy",
+      "q": "In later Hindu tradition, Varuna is best known as the lord of which element?",
+      "options": [
+        "The waters and oceans",
+        "Fire",
+        "The wind",
+        "The earth"
+      ],
+      "answer": 0,
+      "explanation": "Though a sky-god in the Vedas, Varuna came in later texts to be revered as the lord of the waters and oceans."
+    },
+    {
+      "id": "varuna-q02",
+      "difficulty": "easy",
+      "q": "Which cosmic and moral order does Varuna uphold and protect in the Vedas?",
+      "options": [
+        "Maya",
+        "Rita",
+        "Karma",
+        "Moksha"
+      ],
+      "answer": 1,
+      "explanation": "In the Vedas, Varuna is the great guardian of Rita, the cosmic and moral order that governs all things."
+    },
+    {
+      "id": "varuna-q03",
+      "difficulty": "easy",
+      "q": "What weapon or instrument is Varuna famously said to carry to bind wrongdoers?",
+      "options": [
+        "A trident",
+        "A thunderbolt",
+        "A noose (pasha)",
+        "A discus"
+      ],
+      "answer": 2,
+      "explanation": "Varuna is depicted binding sinners and wrongdoers with his noose, the pasha."
+    },
+    {
+      "id": "varuna-q04",
+      "difficulty": "easy",
+      "q": "Varuna belongs to which class of solar deities, the sons of the goddess Aditi?",
+      "options": [
+        "The Maruts",
+        "The Vasus",
+        "The Rudras",
+        "The Adityas"
+      ],
+      "answer": 3,
+      "explanation": "Varuna is counted among the Adityas, the deities born of the goddess Aditi."
+    },
+    {
+      "id": "varuna-q05",
+      "difficulty": "easy",
+      "q": "Over which of the four cardinal directions does Varuna preside as a guardian (Lokapala)?",
+      "options": [
+        "The west",
+        "The east",
+        "The north",
+        "The south"
+      ],
+      "answer": 0,
+      "explanation": "As a guardian of the directions, Varuna presides over the west."
+    },
+    {
+      "id": "varuna-q06",
+      "difficulty": "easy",
+      "q": "Which sea-creature serves as the mount (vahana) of Varuna in later imagery?",
+      "options": [
+        "The peacock",
+        "The Makara",
+        "The eagle Garuda",
+        "The bull Nandi"
+      ],
+      "answer": 1,
+      "explanation": "Varuna is portrayed riding the Makara, a sea-creature that serves as his vahana."
+    },
+    {
+      "id": "varuna-q07",
+      "difficulty": "easy",
+      "q": "In which ancient collection of hymns is Varuna among the most exalted and frequently invoked deities?",
+      "options": [
+        "The Bhagavad Gita",
+        "The Yoga Sutras",
+        "The Rigveda",
+        "The Arthashastra"
+      ],
+      "answer": 2,
+      "explanation": "Varuna is one of the most exalted deities invoked in the hymns of the Rigveda."
+    },
+    {
+      "id": "varuna-q08",
+      "difficulty": "easy",
+      "q": "Varuna is said to watch over all human deeds with what remarkable feature?",
+      "options": [
+        "A single horn",
+        "Ten thousand arms",
+        "Wings of gold",
+        "A thousand eyes"
+      ],
+      "answer": 3,
+      "explanation": "Varuna is described as the all-seeing god who observes every deed with a thousand eyes."
+    },
+    {
+      "id": "varuna-q09",
+      "difficulty": "easy",
+      "q": "As the keeper of cosmic order, Varuna is chiefly concerned with which aspect of human conduct?",
+      "options": [
+        "Truth and the punishment of falsehood",
+        "Wealth and trade",
+        "Music and the arts",
+        "Hunting and warfare"
+      ],
+      "answer": 0,
+      "explanation": "Varuna upholds truth and righteousness, binding and punishing those who break their word or commit falsehood."
+    },
+    {
+      "id": "varuna-q10",
+      "difficulty": "easy",
+      "q": "In the Vedas, Varuna is frequently paired and invoked alongside which other sovereign deity?",
+      "options": [
+        "Agni",
+        "Mitra",
+        "Soma",
+        "Pushan"
+      ],
+      "answer": 1,
+      "explanation": "Varuna is most often paired with Mitra, and the two are jointly invoked as the dual divinity Mitra-Varuna."
+    },
+    {
+      "id": "varuna-q11",
+      "difficulty": "medium",
+      "q": "The dual divinity in which Varuna is paired with Mitra is commonly known by what compound name?",
+      "options": [
+        "Indra-Agni",
+        "Dyava-Prithivi",
+        "Mitra-Varuna",
+        "Nara-Narayana"
+      ],
+      "answer": 2,
+      "explanation": "Varuna and Mitra together form the celebrated Vedic dual divinity Mitra-Varuna."
+    },
+    {
+      "id": "varuna-q12",
+      "difficulty": "medium",
+      "q": "Which goddess is named as the consort of Varuna in later Hindu tradition?",
+      "options": [
+        "Indrani",
+        "Rohini",
+        "Rati",
+        "Varunani"
+      ],
+      "answer": 3,
+      "explanation": "Varunani is named as the consort of Varuna in later Puranic tradition."
+    },
+    {
+      "id": "varuna-q13",
+      "difficulty": "medium",
+      "q": "In the Ramayana, when Rama sits in protest at the seashore, which god finally appears to grant passage to Lanka?",
+      "options": [
+        "Varuna, lord of the ocean",
+        "Indra",
+        "Agni",
+        "Kubera"
+      ],
+      "answer": 0,
+      "explanation": "In the Ramayana, Varuna, the lord of the ocean, appears before Rama and allows the sea to be bridged toward Lanka."
+    },
+    {
+      "id": "varuna-q14",
+      "difficulty": "medium",
+      "q": "In the Vedic worldview, Varuna's authority is closely tied to his association with which celestial expanse?",
+      "options": [
+        "The underworld of the dead",
+        "The encircling sky and cosmic waters",
+        "The forge of the gods",
+        "The mountain of jewels"
+      ],
+      "answer": 1,
+      "explanation": "In the Vedas Varuna is a sky-sovereign whose dominion encompasses the encircling heavens and cosmic waters."
+    },
+    {
+      "id": "varuna-q15",
+      "difficulty": "medium",
+      "q": "The class of deities to which Varuna belongs takes its name from which mother goddess?",
+      "options": [
+        "Diti",
+        "Danu",
+        "Aditi",
+        "Sarama"
+      ],
+      "answer": 2,
+      "explanation": "The Adityas, including Varuna, are named after their mother, the goddess Aditi."
+    },
+    {
+      "id": "varuna-q16",
+      "difficulty": "medium",
+      "q": "In Hindu tradition, the diseases of dropsy and edema were sometimes associated with the displeasure of which god, who binds with his noose?",
+      "options": [
+        "Rudra",
+        "Yama",
+        "Kubera",
+        "Varuna"
+      ],
+      "answer": 3,
+      "explanation": "Varuna, who binds wrongdoers with his noose, was traditionally associated with afflictions such as dropsy."
+    },
+    {
+      "id": "varuna-q17",
+      "difficulty": "medium",
+      "q": "Which sage is described in tradition as having been born from a pot through the agency of Mitra and Varuna?",
+      "options": [
+        "Vasishtha",
+        "Vishwamitra",
+        "Bharadwaja",
+        "Atri"
+      ],
+      "answer": 0,
+      "explanation": "The sage Vasishtha is traditionally said to have been born from a pot in connection with Mitra and Varuna."
+    },
+    {
+      "id": "varuna-q18",
+      "difficulty": "medium",
+      "q": "In the Puranas, Varuna is honored as the sovereign or king over which group of beings of the deep?",
+      "options": [
+        "The forest gandharvas",
+        "The aquatic creatures and water-spirits",
+        "The mountain yakshas",
+        "The celestial apsaras"
+      ],
+      "answer": 1,
+      "explanation": "As lord of the waters, Varuna is regarded as sovereign over the aquatic creatures and beings of the deep."
+    },
+    {
+      "id": "varuna-q19",
+      "difficulty": "medium",
+      "q": "Varuna's role as a Lokapala means he serves primarily as what?",
+      "options": [
+        "A teacher of the gods",
+        "A charioteer of the sun",
+        "A guardian of one of the directions",
+        "A judge of the dead"
+      ],
+      "answer": 2,
+      "explanation": "As a Lokapala, Varuna is one of the guardian deities who protect the cardinal directions, presiding over the west."
+    },
+    {
+      "id": "varuna-q20",
+      "difficulty": "medium",
+      "q": "Over the course of the tradition, Varuna's status shifts from a supreme Vedic sovereign to which more specialized role?",
+      "options": [
+        "King of the gods",
+        "God of war",
+        "God of wealth",
+        "Lord of waters and the western quarter"
+      ],
+      "answer": 3,
+      "explanation": "Once a near-supreme Vedic deity, Varuna later becomes more specifically the lord of the waters and guardian of the west."
+    },
+    {
+      "id": "varuna-q21",
+      "difficulty": "medium",
+      "q": "According to tradition, which warrior of the Mahabharata received the bow Gandiva, which is associated with Varuna's gift to Agni?",
+      "options": [
+        "Arjuna",
+        "Bhima",
+        "Karna",
+        "Drona"
+      ],
+      "answer": 0,
+      "explanation": "In the Mahabharata's burning of the Khandava forest, the bow Gandiva connected with Varuna comes into the hands of Arjuna."
+    },
+    {
+      "id": "varuna-q22",
+      "difficulty": "medium",
+      "q": "In the Rigveda, Varuna is frequently given which honorific title, used in its early sense of a mighty lord possessing wondrous power?",
+      "options": [
+        "Gandharva",
+        "Asura",
+        "Pitri",
+        "Daitya"
+      ],
+      "answer": 1,
+      "explanation": "In the Rigveda Varuna is repeatedly called an Asura, the term used in its early, honorific sense of a mighty lord wielding wondrous power (maya)."
+    },
+    {
+      "id": "varuna-q23",
+      "difficulty": "hard",
+      "q": "In the Rigveda, Varuna's mysterious creative power and command over the cosmic order is denoted by which term?",
+      "options": [
+        "Tapas",
+        "Yajna",
+        "Maya",
+        "Dana"
+      ],
+      "answer": 2,
+      "explanation": "The Rigveda attributes to Varuna a profound maya, a wondrous power by which he establishes and sustains the cosmic order."
+    },
+    {
+      "id": "varuna-q24",
+      "difficulty": "hard",
+      "q": "During the churning of the ocean of milk, the goddess of wine and intoxication who emerged is named after Varuna; what is her name?",
+      "options": [
+        "Apsara",
+        "Mohini",
+        "Sura",
+        "Varuni"
+      ],
+      "answer": 3,
+      "explanation": "Among the treasures of the churning of the ocean, the goddess Varuni, associated with wine, arose and bears Varuna's name."
+    },
+    {
+      "id": "varuna-q25",
+      "difficulty": "hard",
+      "q": "In the Rigveda, Varuna is often said to dwell in a golden-clad abode supported by what?",
+      "options": [
+        "A thousand pillars",
+        "A single lotus",
+        "A serpent's coils",
+        "A mountain of ice"
+      ],
+      "answer": 0,
+      "explanation": "Rigvedic hymns describe Varuna seated in a lofty mansion said to rest upon a thousand pillars."
+    },
+    {
+      "id": "varuna-q26",
+      "difficulty": "hard",
+      "q": "The famous Vedic hymns confessing sin and pleading for forgiveness from a binding god are addressed chiefly to which deity?",
+      "options": [
+        "Indra",
+        "Varuna",
+        "Vishnu",
+        "Brihaspati"
+      ],
+      "answer": 1,
+      "explanation": "Several of the most heartfelt Rigvedic hymns of confession and plea for mercy are directed to Varuna, who forgives transgression."
+    },
+    {
+      "id": "varuna-q27",
+      "difficulty": "hard",
+      "q": "In the tale of the Vedic seer Shunahshepa, who was bound to be sacrificed, deliverance is sought above all from which god?",
+      "options": [
+        "Yama",
+        "Rudra",
+        "Varuna",
+        "Soma"
+      ],
+      "answer": 2,
+      "explanation": "In the story of Shunahshepa, the youth bound for sacrifice appeals to Varuna and the gods for release."
+    },
+    {
+      "id": "varuna-q28",
+      "difficulty": "hard",
+      "q": "Varuna is sometimes invoked alongside Mitra and Aryaman as a triad of which kind of deities?",
+      "options": [
+        "War-gods of the storm",
+        "Twin healers",
+        "Guardians of fire",
+        "Sovereign Adityas of law and order"
+      ],
+      "answer": 3,
+      "explanation": "Varuna, Mitra, and Aryaman form a sovereign triad of Adityas associated with law, contract, and moral order."
+    },
+    {
+      "id": "varuna-q29",
+      "difficulty": "hard",
+      "q": "In Vedic cosmology, Varuna is credited with regulating the heavens, the waters, and especially which natural cycle?",
+      "options": [
+        "The seasonal rains and rivers",
+        "The growth of crops alone",
+        "The migrations of birds",
+        "The phases of human age"
+      ],
+      "answer": 0,
+      "explanation": "Varuna is celebrated for governing the celestial and earthly waters, releasing the rains and directing the flow of rivers."
+    },
+    {
+      "id": "varuna-q30",
+      "difficulty": "hard",
+      "q": "Within the Vedic pantheon, which thunder-wielding deity gradually eclipsed Varuna in prominence over time?",
+      "options": [
+        "Pushan",
+        "Indra",
+        "Tvashtri",
+        "Vayu"
+      ],
+      "answer": 1,
+      "explanation": "Over the course of the Vedic period, Indra, the warrior king of the gods, rose to eclipse the once-supreme Varuna."
+    }
+  ]
+}

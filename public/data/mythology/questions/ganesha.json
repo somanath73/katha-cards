@@ -1,0 +1,395 @@
+{
+  "cardId": "ganesha",
+  "questions": [
+    {
+      "id": "ganesha-q01",
+      "difficulty": "easy",
+      "q": "Which animal's head does the deity Ganesha bear in Hindu tradition?",
+      "options": [
+        "A lion's head",
+        "A horse's head",
+        "A bull's head",
+        "An elephant's head"
+      ],
+      "answer": 3,
+      "explanation": "Ganesha is famously depicted with the head of an elephant, restored to him after his original head was severed."
+    },
+    {
+      "id": "ganesha-q02",
+      "difficulty": "easy",
+      "q": "Ganesha is widely revered as the remover of obstacles. By which epithet is this role known?",
+      "options": [
+        "Vighnaharta",
+        "Mahakala",
+        "Yamaraja",
+        "Dharmaraja"
+      ],
+      "answer": 0,
+      "explanation": "Ganesha is invoked as Vighnaharta, the remover of obstacles, before the start of new undertakings."
+    },
+    {
+      "id": "ganesha-q03",
+      "difficulty": "easy",
+      "q": "Who are the divine parents of Ganesha according to the Puranas?",
+      "options": [
+        "Vishnu and Lakshmi",
+        "Shiva and Parvati",
+        "Brahma and Saraswati",
+        "Indra and Shachi"
+      ],
+      "answer": 1,
+      "explanation": "The Puranas describe Ganesha as the son of Shiva and Parvati."
+    },
+    {
+      "id": "ganesha-q04",
+      "difficulty": "easy",
+      "q": "Which small creature serves as the vahana (mount) of Ganesha?",
+      "options": [
+        "A peacock",
+        "A swan",
+        "A mouse",
+        "An owl"
+      ],
+      "answer": 2,
+      "explanation": "Ganesha's vahana is a mouse, often named Mushika, on which he is depicted riding."
+    },
+    {
+      "id": "ganesha-q05",
+      "difficulty": "easy",
+      "q": "Ganesha is the patron deity invoked at the start of what kinds of activities?",
+      "options": [
+        "Only funerary rites",
+        "Only battles",
+        "Only harvests",
+        "New beginnings and undertakings"
+      ],
+      "answer": 3,
+      "explanation": "As the lord of beginnings, Ganesha is invoked before new ventures and undertakings to ensure success."
+    },
+    {
+      "id": "ganesha-q06",
+      "difficulty": "easy",
+      "q": "Which epithet of Ganesha refers to his single broken tusk?",
+      "options": [
+        "Ekadanta",
+        "Trinetra",
+        "Nilakantha",
+        "Chaturbhuja"
+      ],
+      "answer": 0,
+      "explanation": "Ganesha is called Ekadanta, meaning 'one-tusked', in reference to his broken tusk."
+    },
+    {
+      "id": "ganesha-q07",
+      "difficulty": "easy",
+      "q": "Which warrior god is traditionally regarded as the brother of Ganesha?",
+      "options": [
+        "Hanuman",
+        "Kartikeya",
+        "Agni",
+        "Varuna"
+      ],
+      "answer": 1,
+      "explanation": "Kartikeya, also called Skanda or Murugan, is the brother of Ganesha, both being sons of Shiva and Parvati."
+    },
+    {
+      "id": "ganesha-q08",
+      "difficulty": "easy",
+      "q": "According to the Puranas, Ganesha served as the scribe for which great Sanskrit epic?",
+      "options": [
+        "The Ramayana",
+        "The Harivamsha",
+        "The Mahabharata",
+        "The Raghuvamsha"
+      ],
+      "answer": 2,
+      "explanation": "The Puranic tradition relates that Ganesha wrote down the Mahabharata as the sage Vyasa dictated it."
+    },
+    {
+      "id": "ganesha-q09",
+      "difficulty": "easy",
+      "q": "Ganesha is honored as the patron of which intellectual domain?",
+      "options": [
+        "War and weaponry",
+        "Rainfall and storms",
+        "The ocean tides",
+        "Letters and learning"
+      ],
+      "answer": 3,
+      "explanation": "Ganesha is revered as the patron of letters, wisdom, and learning."
+    },
+    {
+      "id": "ganesha-q10",
+      "difficulty": "easy",
+      "q": "Which sweet is traditionally regarded as a favourite offering to Ganesha?",
+      "options": [
+        "Modak",
+        "Salt",
+        "Raw rice only",
+        "Bitter neem"
+      ],
+      "answer": 0,
+      "explanation": "The sweet dumpling called modak is the offering most associated with Ganesha in devotional tradition."
+    },
+    {
+      "id": "ganesha-q11",
+      "difficulty": "medium",
+      "q": "According to the Puranas, why did Shiva behead the boy who would become Ganesha?",
+      "options": [
+        "The boy insulted the sages",
+        "The boy guarded Parvati's door and barred Shiva's entry",
+        "The boy stole the moon",
+        "The boy challenged Indra"
+      ],
+      "answer": 1,
+      "explanation": "The Puranas relate that the boy, set by Parvati to guard her door, refused Shiva entry, and Shiva in anger severed his head."
+    },
+    {
+      "id": "ganesha-q12",
+      "difficulty": "medium",
+      "q": "After beheading the boy, with what did Shiva restore him to life as Ganesha?",
+      "options": [
+        "The head of a tiger",
+        "A golden head fashioned by Vishvakarma",
+        "The head of the first creature found, an elephant",
+        "His own reflection"
+      ],
+      "answer": 2,
+      "explanation": "Shiva restored the boy by fixing upon him the head of an elephant, the first creature his attendants encountered."
+    },
+    {
+      "id": "ganesha-q13",
+      "difficulty": "medium",
+      "q": "Which implement, said to draw devotees toward truth, is commonly held in one of Ganesha's hands?",
+      "options": [
+        "A trident",
+        "A bow",
+        "A discus",
+        "A noose (pasha)"
+      ],
+      "answer": 3,
+      "explanation": "Ganesha is often depicted holding a noose (pasha), symbolising the capture of obstacles and worldly attachments."
+    },
+    {
+      "id": "ganesha-q14",
+      "difficulty": "medium",
+      "q": "Besides the noose, which goad-like implement is frequently shown in Ganesha's hand?",
+      "options": [
+        "An elephant goad (ankusha)",
+        "A scythe",
+        "A mace alone",
+        "A spear"
+      ],
+      "answer": 0,
+      "explanation": "Ganesha commonly holds an ankusha, the elephant goad, used to prod the mind forward and remove hindrances."
+    },
+    {
+      "id": "ganesha-q15",
+      "difficulty": "medium",
+      "q": "By which name, meaning 'lord of the ganas', is Ganesha widely known?",
+      "options": [
+        "Brihaspati",
+        "Ganapati",
+        "Prajapati",
+        "Pashupati"
+      ],
+      "answer": 1,
+      "explanation": "Ganesha is called Ganapati, meaning the lord of the ganas, the attendant hosts of Shiva."
+    },
+    {
+      "id": "ganesha-q16",
+      "difficulty": "medium",
+      "q": "In one well-known tale, Ganesha won a contest by circling whom as his entire world?",
+      "options": [
+        "The sage Narada",
+        "The god Indra",
+        "His parents Shiva and Parvati",
+        "The river Ganga"
+      ],
+      "answer": 2,
+      "explanation": "Ganesha won the contest by circumambulating his parents Shiva and Parvati, declaring them to be his whole world."
+    },
+    {
+      "id": "ganesha-q17",
+      "difficulty": "medium",
+      "q": "Whom did Ganesha race in the circumambulation contest that he won through devotion rather than speed?",
+      "options": [
+        "The sun god Surya",
+        "The wind god Vayu",
+        "The serpent Vasuki",
+        "His brother Kartikeya"
+      ],
+      "answer": 3,
+      "explanation": "Ganesha's brother Kartikeya raced around the world on his peacock, while Ganesha won by circling their parents."
+    },
+    {
+      "id": "ganesha-q18",
+      "difficulty": "medium",
+      "q": "What was the prize at stake in the famous contest between Ganesha and his brother Kartikeya?",
+      "options": [
+        "A fruit of wisdom",
+        "A divine peacock",
+        "Command of the deva army",
+        "The throne of Indra"
+      ],
+      "answer": 0,
+      "explanation": "In the popular Puranic tale, the brothers competed for a fruit, and Ganesha won it through his clever devotion to his parents."
+    },
+    {
+      "id": "ganesha-q19",
+      "difficulty": "medium",
+      "q": "During the festival devoted to Ganesha, clay images of him are traditionally concluded with which act?",
+      "options": [
+        "Burning on a pyre",
+        "Immersion in water (visarjan)",
+        "Burial underground",
+        "Sale at market"
+      ],
+      "answer": 1,
+      "explanation": "The festival of Ganesh Chaturthi concludes with visarjan, the immersion of Ganesha's clay image in water."
+    },
+    {
+      "id": "ganesha-q20",
+      "difficulty": "medium",
+      "q": "Which festival is celebrated each year as the birth of Ganesha?",
+      "options": [
+        "Diwali",
+        "Navaratri",
+        "Ganesh Chaturthi",
+        "Holi"
+      ],
+      "answer": 2,
+      "explanation": "Ganesh Chaturthi is the festival observed in honour of the birth of Ganesha."
+    },
+    {
+      "id": "ganesha-q21",
+      "difficulty": "medium",
+      "q": "Ganesha's large ears in his iconography are commonly understood to symbolise what virtue?",
+      "options": [
+        "Swiftness",
+        "Wrath",
+        "Concealment",
+        "Listening and attentiveness"
+      ],
+      "answer": 3,
+      "explanation": "Ganesha's broad ears are traditionally read as a symbol of attentive listening and the gaining of wisdom."
+    },
+    {
+      "id": "ganesha-q22",
+      "difficulty": "medium",
+      "q": "Which goddess of prosperity is often depicted and worshipped alongside Ganesha, especially during Diwali?",
+      "options": [
+        "Lakshmi",
+        "Kali",
+        "Durga",
+        "Usha"
+      ],
+      "answer": 0,
+      "explanation": "Ganesha is frequently worshipped together with Lakshmi, the goddess of wealth and prosperity, particularly at Diwali."
+    },
+    {
+      "id": "ganesha-q23",
+      "difficulty": "hard",
+      "q": "In one Puranic account, Ganesha broke off his own tusk to use it as an instrument for what purpose?",
+      "options": [
+        "To dig a well",
+        "To write down the Mahabharata when his pen failed",
+        "To slay an asura",
+        "To carve a temple"
+      ],
+      "answer": 1,
+      "explanation": "One tradition holds that Ganesha snapped off his tusk to continue writing the Mahabharata when his writing implement broke."
+    },
+    {
+      "id": "ganesha-q24",
+      "difficulty": "hard",
+      "q": "According to a Puranic tale, which celestial body laughed at Ganesha and was consequently cursed by him?",
+      "options": [
+        "The sun (Surya)",
+        "The planet Mars",
+        "The moon (Chandra)",
+        "The star Dhruva"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas relate that the moon mocked Ganesha, who cursed it, which is linked to the custom of not gazing at the moon on Ganesh Chaturthi."
+    },
+    {
+      "id": "ganesha-q25",
+      "difficulty": "hard",
+      "q": "Which name, referring to his elephant face, is among the traditional epithets of Ganesha?",
+      "options": [
+        "Trilochana",
+        "Vrishabhanu",
+        "Hiranyaksha",
+        "Gajanana"
+      ],
+      "answer": 3,
+      "explanation": "Ganesha is called Gajanana, meaning 'one with the face of an elephant'."
+    },
+    {
+      "id": "ganesha-q26",
+      "difficulty": "hard",
+      "q": "In the Ganapati Atharvashirsha, Ganesha is exalted with which sacred syllable as his essence?",
+      "options": [
+        "The syllable Om",
+        "The syllable Hrim",
+        "The syllable Klim",
+        "The syllable Shrim"
+      ],
+      "answer": 0,
+      "explanation": "The Ganapati Atharvashirsha identifies Ganesha with the sacred syllable Om, the primordial sound."
+    },
+    {
+      "id": "ganesha-q27",
+      "difficulty": "hard",
+      "q": "Whom did Parvati create to guard her door, according to the Puranic account of Ganesha's origin?",
+      "options": [
+        "A warrior sent by Indra",
+        "A boy formed from the turmeric or sandal paste of her body",
+        "A gana lent by Shiva",
+        "A golden statue gifted by Vishnu"
+      ],
+      "answer": 1,
+      "explanation": "The Puranas relate that Parvati fashioned the boy from the paste of her own body and breathed life into him to guard her door."
+    },
+    {
+      "id": "ganesha-q28",
+      "difficulty": "hard",
+      "q": "Which detail is commonly shown encircling the belly of Ganesha as a girdle in his iconography?",
+      "options": [
+        "A garland of lotuses",
+        "A coiled rope of gold",
+        "A serpent worn as a belt",
+        "The eagle Garuda"
+      ],
+      "answer": 2,
+      "explanation": "Ganesha is often depicted with a serpent tied around his ample belly, a detail noted in devotional descriptions and the Ganapati Atharvashirsha."
+    },
+    {
+      "id": "ganesha-q29",
+      "difficulty": "hard",
+      "q": "Ganesha's mouse mount, Mushika, in some Puranic tales was originally what kind of being?",
+      "options": [
+        "A fallen star",
+        "A demon born of the ocean",
+        "An apsara of Indra's court",
+        "A gandharva or celestial transformed by a curse"
+      ],
+      "answer": 3,
+      "explanation": "Several Puranic tales describe the mouse Mushika as a celestial being, such as a cursed gandharva, who became Ganesha's vahana."
+    },
+    {
+      "id": "ganesha-q30",
+      "difficulty": "hard",
+      "q": "In the Ganesha Purana and related texts, Ganesha is at times described battling and subduing what kind of adversaries?",
+      "options": [
+        "Asuras and demons personifying obstacles",
+        "Rival devas of the heavens",
+        "The guardians of the four directions",
+        "Sea monsters of the cosmic ocean"
+      ],
+      "answer": 0,
+      "explanation": "The Ganesha Purana recounts Ganesha defeating asuras and demons that personify obstacles and vices, affirming his role as Vighnaharta."
+    }
+  ]
+}

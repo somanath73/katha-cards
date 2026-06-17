@@ -1,0 +1,395 @@
+{
+  "cardId": "vishnu",
+  "questions": [
+    {
+      "id": "vishnu-q01",
+      "difficulty": "easy",
+      "q": "Within the Trimurti, what role is Vishnu chiefly said to fulfil?",
+      "options": [
+        "The creator",
+        "The preserver",
+        "The destroyer",
+        "The recorder"
+      ],
+      "answer": 1,
+      "explanation": "Vishnu is the preserver of the Trimurti, sustaining cosmic order while Brahma creates and Shiva dissolves."
+    },
+    {
+      "id": "vishnu-q02",
+      "difficulty": "easy",
+      "q": "Which goddess is described as the consort of Vishnu?",
+      "options": [
+        "Saraswati",
+        "Parvati",
+        "Lakshmi",
+        "Ganga"
+      ],
+      "answer": 2,
+      "explanation": "Lakshmi, the goddess of fortune and abundance, is the consort of Vishnu."
+    },
+    {
+      "id": "vishnu-q03",
+      "difficulty": "easy",
+      "q": "Which bird serves as the vahana (mount) of Vishnu?",
+      "options": [
+        "The swan Hamsa",
+        "The peacock",
+        "The owl",
+        "The eagle Garuda"
+      ],
+      "answer": 3,
+      "explanation": "Vishnu's vahana is the mighty eagle Garuda, sworn foe of the serpents."
+    },
+    {
+      "id": "vishnu-q04",
+      "difficulty": "easy",
+      "q": "Upon which great serpent is Vishnu said to recline on the cosmic ocean?",
+      "options": [
+        "Shesha",
+        "Vasuki",
+        "Takshaka",
+        "Kaliya"
+      ],
+      "answer": 0,
+      "explanation": "Vishnu reclines upon the thousand-hooded serpent Shesha (Ananta) upon the ocean of milk."
+    },
+    {
+      "id": "vishnu-q05",
+      "difficulty": "easy",
+      "q": "What is the name of the discus that Vishnu wields as a weapon?",
+      "options": [
+        "The trishula",
+        "The Sudarshana chakra",
+        "The vajra",
+        "The pinaka"
+      ],
+      "answer": 1,
+      "explanation": "Vishnu bears the spinning Sudarshana chakra, his foremost weapon for upholding dharma."
+    },
+    {
+      "id": "vishnu-q06",
+      "difficulty": "easy",
+      "q": "How many arms is Vishnu most commonly depicted with in iconography?",
+      "options": [
+        "Two",
+        "Six",
+        "Four",
+        "Eight"
+      ],
+      "answer": 2,
+      "explanation": "Vishnu is most often depicted four-armed, bearing the conch, discus, mace, and lotus."
+    },
+    {
+      "id": "vishnu-q07",
+      "difficulty": "easy",
+      "q": "What is the name of the conch shell that Vishnu holds?",
+      "options": [
+        "Devadatta",
+        "Paundra",
+        "Anantavijaya",
+        "Panchajanya"
+      ],
+      "answer": 3,
+      "explanation": "Vishnu blows the conch Panchajanya, later borne by his avatar Krishna."
+    },
+    {
+      "id": "vishnu-q08",
+      "difficulty": "easy",
+      "q": "On which cosmic ocean is Vishnu traditionally described as reclining?",
+      "options": [
+        "An ocean of milk",
+        "An ocean of wine",
+        "An ocean of fire",
+        "An ocean of honey"
+      ],
+      "answer": 0,
+      "explanation": "Vishnu reclines on the Kshira Sagara, the cosmic ocean of milk, in his abode of Vaikuntha."
+    },
+    {
+      "id": "vishnu-q09",
+      "difficulty": "easy",
+      "q": "Why does Vishnu descend into the world as an avatar, according to tradition?",
+      "options": [
+        "To create new worlds",
+        "To restore dharma when it declines",
+        "To learn from mortals",
+        "To collect tribute"
+      ],
+      "answer": 1,
+      "explanation": "Vishnu descends as avatars whenever righteousness (dharma) declines, to restore cosmic order."
+    },
+    {
+      "id": "vishnu-q10",
+      "difficulty": "easy",
+      "q": "What flower does Vishnu commonly hold in one of his four hands?",
+      "options": [
+        "A jasmine",
+        "A marigold",
+        "A lotus",
+        "A rose"
+      ],
+      "answer": 2,
+      "explanation": "Among his four emblems, Vishnu holds a lotus, symbol of purity and cosmic unfolding."
+    },
+    {
+      "id": "vishnu-q11",
+      "difficulty": "medium",
+      "q": "What is the name of the mace (gada) carried by Vishnu?",
+      "options": [
+        "Saunanda",
+        "Kaumudi",
+        "Modaki",
+        "Kaumodaki"
+      ],
+      "answer": 3,
+      "explanation": "Vishnu wields the mace Kaumodaki as one of his four principal attributes."
+    },
+    {
+      "id": "vishnu-q12",
+      "difficulty": "medium",
+      "q": "In how many primary avatars (the Dashavatara) is Vishnu most traditionally said to descend?",
+      "options": [
+        "Ten",
+        "Seven",
+        "Twelve",
+        "Twenty-four"
+      ],
+      "answer": 0,
+      "explanation": "The Dashavatara names ten principal avatars of Vishnu, from Matsya to Kalki."
+    },
+    {
+      "id": "vishnu-q13",
+      "difficulty": "medium",
+      "q": "Which is the first avatar of Vishnu in the usual Dashavatara list?",
+      "options": [
+        "Kurma the tortoise",
+        "Matsya the fish",
+        "Varaha the boar",
+        "Narasimha the man-lion"
+      ],
+      "answer": 1,
+      "explanation": "Matsya the fish is reckoned the first avatar, who saved the sage Manu from the great deluge."
+    },
+    {
+      "id": "vishnu-q14",
+      "difficulty": "medium",
+      "q": "As which avatar does Vishnu support Mount Mandara during the churning of the ocean?",
+      "options": [
+        "Varaha the boar",
+        "Vamana the dwarf",
+        "Kurma the tortoise",
+        "Matsya the fish"
+      ],
+      "answer": 2,
+      "explanation": "As Kurma the tortoise, Vishnu bore Mount Mandara on his back during the churning of the ocean of milk."
+    },
+    {
+      "id": "vishnu-q15",
+      "difficulty": "medium",
+      "q": "Which avatar of Vishnu raised the earth from the cosmic waters on his tusks?",
+      "options": [
+        "Narasimha the man-lion",
+        "Vamana the dwarf",
+        "Parashurama",
+        "Varaha the boar"
+      ],
+      "answer": 3,
+      "explanation": "As Varaha the boar, Vishnu lifted the earth (Bhudevi) from the depths on his tusks."
+    },
+    {
+      "id": "vishnu-q16",
+      "difficulty": "medium",
+      "q": "As which avatar did Vishnu slay the demon Hiranyakashipu to protect the devotee Prahlada?",
+      "options": [
+        "Narasimha",
+        "Vamana",
+        "Rama",
+        "Kurma"
+      ],
+      "answer": 0,
+      "explanation": "As Narasimha, half-man and half-lion, Vishnu slew Hiranyakashipu to save his devotee Prahlada."
+    },
+    {
+      "id": "vishnu-q17",
+      "difficulty": "medium",
+      "q": "Which avatar of Vishnu is the hero of the Ramayana?",
+      "options": [
+        "Krishna",
+        "Rama",
+        "Vamana",
+        "Balarama"
+      ],
+      "answer": 1,
+      "explanation": "Rama, prince of Ayodhya and slayer of Ravana, is the avatar of Vishnu central to the Ramayana."
+    },
+    {
+      "id": "vishnu-q18",
+      "difficulty": "medium",
+      "q": "As the dwarf avatar Vamana, what did Vishnu request from the demon king Bali?",
+      "options": [
+        "A thousand cattle",
+        "A golden chariot",
+        "Three paces of land",
+        "The crown of the heavens"
+      ],
+      "answer": 2,
+      "explanation": "As Vamana, Vishnu asked Bali for three paces of land, then strode across all the worlds."
+    },
+    {
+      "id": "vishnu-q19",
+      "difficulty": "medium",
+      "q": "What is the celestial abode of Vishnu called in the Puranas?",
+      "options": [
+        "Kailasa",
+        "Svarga",
+        "Goloka",
+        "Vaikuntha"
+      ],
+      "answer": 3,
+      "explanation": "Vaikuntha is the supreme abode of Vishnu, where he dwells with Lakshmi."
+    },
+    {
+      "id": "vishnu-q20",
+      "difficulty": "medium",
+      "q": "From which part of Vishnu is the god Brahma said to emerge in Puranic accounts?",
+      "options": [
+        "A lotus rising from his navel",
+        "A flame from his crown",
+        "His right shoulder",
+        "His footprints"
+      ],
+      "answer": 0,
+      "explanation": "In the Puranas, Brahma is born from a lotus that springs from the navel of the reclining Vishnu."
+    },
+    {
+      "id": "vishnu-q21",
+      "difficulty": "medium",
+      "q": "Which avatar of Vishnu is counted as the eighth in the Dashavatara and spoke the Bhagavad Gita?",
+      "options": [
+        "Rama",
+        "Krishna",
+        "Buddha",
+        "Parashurama"
+      ],
+      "answer": 1,
+      "explanation": "Krishna, the eighth avatar, delivered the Bhagavad Gita to Arjuna on the field of Kurukshetra."
+    },
+    {
+      "id": "vishnu-q22",
+      "difficulty": "medium",
+      "q": "Which avatar is foretold as the final, future descent of Vishnu at the end of the present age?",
+      "options": [
+        "Buddha",
+        "Parashurama",
+        "Kalki",
+        "Vamana"
+      ],
+      "answer": 2,
+      "explanation": "Kalki, the prophesied tenth avatar, is said to appear at the close of the Kali Yuga to restore dharma."
+    },
+    {
+      "id": "vishnu-q23",
+      "difficulty": "hard",
+      "q": "Which sacred gem or jewel is said to adorn the chest of Vishnu?",
+      "options": [
+        "The Syamantaka",
+        "The Chintamani",
+        "The Naulakha",
+        "The Kaustubha"
+      ],
+      "answer": 3,
+      "explanation": "The Kaustubha jewel, said to have arisen from the churning of the ocean, adorns the chest of Vishnu."
+    },
+    {
+      "id": "vishnu-q24",
+      "difficulty": "hard",
+      "q": "What is the name of the curl of hair or auspicious mark on Vishnu's chest?",
+      "options": [
+        "The Srivatsa",
+        "The Tilaka",
+        "The Urna",
+        "The Trishula mark"
+      ],
+      "answer": 0,
+      "explanation": "The Srivatsa, an auspicious mark or curl of hair, is described upon the chest of Vishnu."
+    },
+    {
+      "id": "vishnu-q25",
+      "difficulty": "hard",
+      "q": "What is the name of Vishnu's sword in his classical iconography?",
+      "options": [
+        "Chandrahas",
+        "Nandaka",
+        "Vijaya",
+        "Asi"
+      ],
+      "answer": 1,
+      "explanation": "Nandaka is the name of the sword attributed to Vishnu in traditional descriptions."
+    },
+    {
+      "id": "vishnu-q26",
+      "difficulty": "hard",
+      "q": "In the Puranas, what is the name of Vishnu's bow?",
+      "options": [
+        "Pinaka",
+        "Gandiva",
+        "Sharanga",
+        "Vijaya"
+      ],
+      "answer": 2,
+      "explanation": "Sharanga is the celebrated bow of Vishnu, while Pinaka belongs to Shiva."
+    },
+    {
+      "id": "vishnu-q27",
+      "difficulty": "hard",
+      "q": "During the churning of the ocean of milk, as which enchantress did Vishnu appear to distribute the nectar of immortality?",
+      "options": [
+        "Tilottama",
+        "Urvashi",
+        "Menaka",
+        "Mohini"
+      ],
+      "answer": 3,
+      "explanation": "Vishnu took the form of the enchantress Mohini to recover the amrita from the asuras."
+    },
+    {
+      "id": "vishnu-q28",
+      "difficulty": "hard",
+      "q": "Which warrior-sage avatar of Vishnu wielded an axe and is said to have rid the earth of tyrant kshatriyas?",
+      "options": [
+        "Parashurama",
+        "Balarama",
+        "Rama",
+        "Vamana"
+      ],
+      "answer": 0,
+      "explanation": "Parashurama, the axe-bearing Brahmin avatar of Vishnu, is said to have humbled the warrior kings."
+    },
+    {
+      "id": "vishnu-q29",
+      "difficulty": "hard",
+      "q": "The name 'Vishnu' is traditionally derived from a Sanskrit root carrying which meaning?",
+      "options": [
+        "To destroy",
+        "To pervade",
+        "To create",
+        "To slumber"
+      ],
+      "answer": 1,
+      "explanation": "The name Vishnu is traditionally derived from the root 'vish,' meaning 'to pervade,' marking him as the all-pervading."
+    },
+    {
+      "id": "vishnu-q30",
+      "difficulty": "hard",
+      "q": "Which devotional hymn of a thousand names of Vishnu appears within the Mahabharata?",
+      "options": [
+        "The Lalita Sahasranama",
+        "The Aditya Hridayam",
+        "The Vishnu Sahasranama",
+        "The Shiva Tandava Stotram"
+      ],
+      "answer": 2,
+      "explanation": "The Vishnu Sahasranama, the thousand names of Vishnu, is recited by Bhishma in the Mahabharata."
+    }
+  ]
+}

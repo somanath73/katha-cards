@@ -1,0 +1,395 @@
+{
+  "cardId": "durga",
+  "questions": [
+    {
+      "id": "durga-q01",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, the goddess Durga is best known as which kind of deity?",
+      "options": [
+        "A river goddess of fertility",
+        "The goddess of dawn",
+        "A fierce protective warrior goddess",
+        "A goddess of household hearth"
+      ],
+      "answer": 2,
+      "explanation": "Durga is venerated as the fierce protective warrior form of the Great Goddess, born to vanquish demons the gods could not defeat."
+    },
+    {
+      "id": "durga-q02",
+      "difficulty": "easy",
+      "q": "Which animal is most commonly depicted as the mount (vahana) of the goddess Durga?",
+      "options": [
+        "A peacock",
+        "A swan",
+        "A bull",
+        "A lion or tiger"
+      ],
+      "answer": 3,
+      "explanation": "Durga is traditionally depicted riding a lion or tiger as her vahana in battle."
+    },
+    {
+      "id": "durga-q03",
+      "difficulty": "easy",
+      "q": "According to the Devi Mahatmya, the goddess Durga was formed from what source?",
+      "options": [
+        "The combined radiance and energies of the devas",
+        "The churning of the ocean of milk",
+        "A furrow in the earth",
+        "The matted locks of Shiva"
+      ],
+      "answer": 0,
+      "explanation": "The Devi Mahatmya relates that Durga arose from the combined radiance and energies of the assembled gods."
+    },
+    {
+      "id": "durga-q04",
+      "difficulty": "easy",
+      "q": "The goddess Durga is most often depicted with how many arms?",
+      "options": [
+        "Exactly two arms",
+        "Many arms, each bearing a weapon",
+        "A single arm",
+        "No arms at all"
+      ],
+      "answer": 1,
+      "explanation": "Iconography from the Devi Mahatmya depicts Durga with many arms, each bearing a weapon gifted by the gods."
+    },
+    {
+      "id": "durga-q05",
+      "difficulty": "easy",
+      "q": "The weapons borne by the goddess Durga were, according to the Devi Mahatmya, obtained how?",
+      "options": [
+        "Forged by Durga herself",
+        "Stolen from the demons",
+        "Gifted to her by the various gods",
+        "Found in the cosmic ocean"
+      ],
+      "answer": 2,
+      "explanation": "Each of Durga's many weapons was gifted to her by a different deity to equip her for battle."
+    },
+    {
+      "id": "durga-q06",
+      "difficulty": "easy",
+      "q": "Which trident-bearing god is the consort of Parvati, of whom Durga is a fierce form?",
+      "options": [
+        "Vishnu",
+        "Brahma",
+        "Indra",
+        "Shiva"
+      ],
+      "answer": 3,
+      "explanation": "Durga is a fierce form of Parvati, the consort of Shiva."
+    },
+    {
+      "id": "durga-q07",
+      "difficulty": "easy",
+      "q": "Which festival is especially associated with the worship of the goddess Durga?",
+      "options": [
+        "Navaratri",
+        "Holi",
+        "Raksha Bandhan",
+        "Makar Sankranti"
+      ],
+      "answer": 0,
+      "explanation": "Durga is celebrated above all during Navaratri, the festival of nine nights honoring the goddess."
+    },
+    {
+      "id": "durga-q08",
+      "difficulty": "easy",
+      "q": "The buffalo-demon slain by the goddess Durga is known by what name?",
+      "options": [
+        "Ravana",
+        "Mahishasura",
+        "Hiranyakashipu",
+        "Vritra"
+      ],
+      "answer": 1,
+      "explanation": "Durga slew the buffalo-demon Mahishasura, earning the name Mahishasuramardini."
+    },
+    {
+      "id": "durga-q09",
+      "difficulty": "easy",
+      "q": "According to the Devi Mahatmya, the goddess Durga was created to defeat a demon who could not be overcome by whom?",
+      "options": [
+        "Ordinary mortals",
+        "The sages",
+        "The gods themselves",
+        "Other demons"
+      ],
+      "answer": 2,
+      "explanation": "Durga was created from the combined energies of the devas to vanquish a demon that the gods themselves could not defeat."
+    },
+    {
+      "id": "durga-q10",
+      "difficulty": "easy",
+      "q": "The goddess Durga is regarded as a form of which Great Goddess, the daughter of the mountain?",
+      "options": [
+        "Lakshmi",
+        "Saraswati",
+        "Ganga",
+        "Parvati"
+      ],
+      "answer": 3,
+      "explanation": "Durga is counted among the fierce forms of Parvati, the daughter of the mountain Himavan."
+    },
+    {
+      "id": "durga-q11",
+      "difficulty": "medium",
+      "q": "The principal scripture describing the goddess Durga's exploits, the Devi Mahatmya, is embedded within which Purana?",
+      "options": [
+        "The Markandeya Purana",
+        "The Bhagavata Purana",
+        "The Vishnu Purana",
+        "The Shiva Purana"
+      ],
+      "answer": 0,
+      "explanation": "The Devi Mahatmya, which recounts Durga's deeds, is contained within the Markandeya Purana."
+    },
+    {
+      "id": "durga-q12",
+      "difficulty": "medium",
+      "q": "The name Mahishasuramardini, applied to the goddess Durga, means which of the following?",
+      "options": [
+        "Mother of the mountain",
+        "Slayer of the buffalo-demon",
+        "Bearer of the trident",
+        "Rider of the lion"
+      ],
+      "answer": 1,
+      "explanation": "Mahishasuramardini means 'slayer of the buffalo-demon Mahishasura,' the title Durga earned in battle."
+    },
+    {
+      "id": "durga-q13",
+      "difficulty": "medium",
+      "q": "Which trident, the signature weapon of Shiva, is among those wielded by the goddess Durga against Mahishasura?",
+      "options": [
+        "The Vajra",
+        "The Sudarshana Chakra",
+        "The Trishula",
+        "The Pashupatastra"
+      ],
+      "answer": 2,
+      "explanation": "Durga receives Shiva's Trishula (trident) and pierces Mahishasura with it."
+    },
+    {
+      "id": "durga-q14",
+      "difficulty": "medium",
+      "q": "In the Devi Mahatmya, the demon Mahishasura was granted a boon making him invulnerable to which class of foes?",
+      "options": [
+        "Any weapon of iron",
+        "Fire and water",
+        "Beasts of the forest",
+        "Any man or god"
+      ],
+      "answer": 3,
+      "explanation": "Mahishasura's boon made him unconquerable by any man or god, which is why the goddess Durga was created to slay him."
+    },
+    {
+      "id": "durga-q15",
+      "difficulty": "medium",
+      "q": "The fierce dark goddess said to emerge from the brow of Durga during battle is known as whom?",
+      "options": [
+        "Kali",
+        "Saraswati",
+        "Lakshmi",
+        "Sati"
+      ],
+      "answer": 0,
+      "explanation": "Kali is said to have emerged from Durga's brow during the battle against the demons Chanda and Munda."
+    },
+    {
+      "id": "durga-q16",
+      "difficulty": "medium",
+      "q": "Within the broader Shakta tradition, the goddess Durga is understood as an expression of which underlying cosmic principle?",
+      "options": [
+        "Maya, cosmic illusion",
+        "Shakti, the primordial cosmic energy",
+        "Rita, cosmic order",
+        "Karma, action and fruit"
+      ],
+      "answer": 1,
+      "explanation": "Durga is venerated as a manifestation of Shakti, the dynamic feminine cosmic energy revered in Shaktism."
+    },
+    {
+      "id": "durga-q17",
+      "difficulty": "medium",
+      "q": "Which goddess of fortune, consort of Vishnu, is a distinct deity and NOT a fierce form of Durga?",
+      "options": [
+        "Kali",
+        "Chamunda",
+        "Lakshmi",
+        "Mahishasuramardini"
+      ],
+      "answer": 2,
+      "explanation": "Lakshmi, goddess of fortune and consort of Vishnu, is a distinct deity, whereas Kali and Chamunda are fierce forms associated with Durga."
+    },
+    {
+      "id": "durga-q18",
+      "difficulty": "medium",
+      "q": "The goddess Durga is described in the Devi Mahatmya as having what demeanor even amid the fury of battle?",
+      "options": [
+        "Trembling with fear",
+        "Weeping in sorrow",
+        "Asleep in meditation",
+        "Serene yet unconquerable"
+      ],
+      "answer": 3,
+      "explanation": "Durga is depicted as serene yet unconquerable in battle, calm even as she vanquishes her foes."
+    },
+    {
+      "id": "durga-q19",
+      "difficulty": "medium",
+      "q": "The festival of Navaratri, sacred to the goddess Durga, spans how many nights?",
+      "options": [
+        "Nine nights",
+        "Three nights",
+        "Seven nights",
+        "Twelve nights"
+      ],
+      "answer": 0,
+      "explanation": "Navaratri, dedicated to Durga, is the festival of nine nights, as its name indicates."
+    },
+    {
+      "id": "durga-q20",
+      "difficulty": "medium",
+      "q": "Which conch-bearing preserver god contributed his energy and weapon to the creation of the goddess Durga in the Devi Mahatmya?",
+      "options": [
+        "Yama",
+        "Vishnu",
+        "Kubera",
+        "Varuna"
+      ],
+      "answer": 1,
+      "explanation": "Vishnu was among the devas whose energies coalesced into Durga and who gifted her his weapon."
+    },
+    {
+      "id": "durga-q21",
+      "difficulty": "medium",
+      "q": "In the Devi Mahatmya, the demon Mahishasura was able to do what during his duel with the goddess Durga?",
+      "options": [
+        "Become invisible at will",
+        "Multiply from drops of blood",
+        "Shift between many forms",
+        "Fly beyond the heavens"
+      ],
+      "answer": 2,
+      "explanation": "Mahishasura was a shape-shifting demon, changing forms during his battle with Durga before she slew him."
+    },
+    {
+      "id": "durga-q22",
+      "difficulty": "medium",
+      "q": "The goddess Durga belongs principally to which devotional tradition of Hinduism?",
+      "options": [
+        "Vaishnavism",
+        "Smartism",
+        "Ganapatya",
+        "Shaktism"
+      ],
+      "answer": 3,
+      "explanation": "Durga is a central goddess of Shaktism, the tradition that venerates the Great Goddess as supreme."
+    },
+    {
+      "id": "durga-q23",
+      "difficulty": "hard",
+      "q": "Texts addressing the goddess Durga praise her supreme aspect as the primordial source from whom all goddesses emanate, often titled how?",
+      "options": [
+        "Adi Parashakti",
+        "Tridevi",
+        "Yogamaya",
+        "Annapurna"
+      ],
+      "answer": 0,
+      "explanation": "In Shakta theology Durga is identified with the Adi Parashakti, the primordial supreme power from whom all goddesses emanate."
+    },
+    {
+      "id": "durga-q24",
+      "difficulty": "hard",
+      "q": "Which Purana, distinct from the Markandeya Purana, is a major Shakta text that elaborates the theology and exploits of the goddess?",
+      "options": [
+        "The Garuda Purana",
+        "The Devi Bhagavata Purana",
+        "The Agni Purana",
+        "The Linga Purana"
+      ],
+      "answer": 1,
+      "explanation": "The Devi Bhagavata Purana is a major Shakta scripture elaborating the supremacy and deeds of the goddess alongside the Devi Mahatmya."
+    },
+    {
+      "id": "durga-q25",
+      "difficulty": "hard",
+      "q": "In the Devi Mahatmya, the fierce form arising from Durga slays the demon Raktabija by what means?",
+      "options": [
+        "Binding him with a celestial noose",
+        "Burning him with the third eye",
+        "Drinking each drop of his blood before it falls",
+        "Hurling him into the ocean"
+      ],
+      "answer": 2,
+      "explanation": "Kali, the fierce form arising from Durga, drank every drop of Raktabija's blood before it could touch the ground and multiply."
+    },
+    {
+      "id": "durga-q26",
+      "difficulty": "hard",
+      "q": "The demons Chanda and Munda, slain in the Devi Mahatmya, give the goddess which epithet derived from their names?",
+      "options": [
+        "Kaushiki",
+        "Bhadrakali",
+        "Shailaputri",
+        "Chamunda"
+      ],
+      "answer": 3,
+      "explanation": "From slaying Chanda and Munda the fierce goddess gains the epithet Chamunda."
+    },
+    {
+      "id": "durga-q27",
+      "difficulty": "hard",
+      "q": "The Devi Mahatmya is traditionally framed as a discourse recited to whom?",
+      "options": [
+        "King Suratha and the merchant Samadhi by the sage Medha",
+        "The sage Markandeya to his disciples",
+        "Arjuna by Krishna",
+        "Janamejaya by Vaishampayana"
+      ],
+      "answer": 0,
+      "explanation": "The Devi Mahatmya is framed as the sage Medha narrating the goddess's glory to the exiled King Suratha and the merchant Samadhi."
+    },
+    {
+      "id": "durga-q28",
+      "difficulty": "hard",
+      "q": "The very name 'Durga' is traditionally explained as conveying which meaning?",
+      "options": [
+        "The one who is gentle and fair",
+        "The fort, or one difficult to approach or assail",
+        "The keeper of cosmic order",
+        "The bringer of dawn"
+      ],
+      "answer": 1,
+      "explanation": "The name Durga is traditionally read as 'the fort' or 'one who is difficult to approach or assail,' reflecting her invincibility."
+    },
+    {
+      "id": "durga-q29",
+      "difficulty": "hard",
+      "q": "In the Devi Mahatmya, before facing Mahishasura the goddess also confronts which pair of demon brothers?",
+      "options": [
+        "Hiranyaksha and Hiranyakashipu",
+        "Madhu and Kaitabha",
+        "Shumbha and Nishumbha",
+        "Sunda and Upasunda"
+      ],
+      "answer": 2,
+      "explanation": "The Devi Mahatmya recounts the goddess's battles against the demon brothers Shumbha and Nishumbha among her major exploits."
+    },
+    {
+      "id": "durga-q30",
+      "difficulty": "hard",
+      "q": "Which weapon, the spinning discus of Vishnu, is among the divine arms the gods bestow upon the goddess Durga in the Devi Mahatmya?",
+      "options": [
+        "The Sharanga bow",
+        "The Kaumodaki mace",
+        "The Nandaka sword",
+        "The Sudarshana Chakra"
+      ],
+      "answer": 3,
+      "explanation": "Vishnu bestows a discus like his Sudarshana Chakra upon Durga among the weapons gifted to her by the gods."
+    }
+  ]
+}

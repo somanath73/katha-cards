@@ -1,0 +1,395 @@
+{
+  "cardId": "parashurama",
+  "questions": [
+    {
+      "id": "parashurama-q01",
+      "difficulty": "easy",
+      "q": "In the Dashavatara, which incarnation of Vishnu is Parashurama counted as?",
+      "options": [
+        "The fourth avatar",
+        "The fifth avatar",
+        "The sixth avatar",
+        "The seventh avatar"
+      ],
+      "answer": 2,
+      "explanation": "Parashurama is traditionally counted as the sixth of the ten principal avatars (Dashavatara) of Vishnu."
+    },
+    {
+      "id": "parashurama-q02",
+      "difficulty": "easy",
+      "q": "What is the signature weapon of Parashurama, from which his name is derived?",
+      "options": [
+        "A bow",
+        "A trident",
+        "A discus",
+        "An axe"
+      ],
+      "answer": 3,
+      "explanation": "His name combines 'Rama' with 'parashu' (axe), the weapon he is said to have received from Shiva."
+    },
+    {
+      "id": "parashurama-q03",
+      "difficulty": "easy",
+      "q": "Who is the father of Parashurama in the Puranas?",
+      "options": [
+        "The sage Jamadagni",
+        "The sage Vasishtha",
+        "The sage Vishwamitra",
+        "The sage Bharadvaja"
+      ],
+      "answer": 0,
+      "explanation": "Parashurama is the son of the sage Jamadagni, one of the Saptarishi."
+    },
+    {
+      "id": "parashurama-q04",
+      "difficulty": "easy",
+      "q": "Who is the mother of Parashurama according to the Puranas?",
+      "options": [
+        "Anasuya",
+        "Renuka",
+        "Arundhati",
+        "Aditi"
+      ],
+      "answer": 1,
+      "explanation": "Parashurama's mother is Renuka, the wife of the sage Jamadagni."
+    },
+    {
+      "id": "parashurama-q05",
+      "difficulty": "easy",
+      "q": "Which deity is said to have gifted the axe (parashu) to Parashurama?",
+      "options": [
+        "Vishnu",
+        "Brahma",
+        "Shiva",
+        "Indra"
+      ],
+      "answer": 2,
+      "explanation": "According to the Puranas, Parashurama bore the axe gifted to him by Shiva."
+    },
+    {
+      "id": "parashurama-q06",
+      "difficulty": "easy",
+      "q": "Parashurama is described as belonging to which dual social role?",
+      "options": [
+        "A king-merchant",
+        "A cowherd-prince",
+        "A charioteer-sage",
+        "A brahmin-warrior"
+      ],
+      "answer": 3,
+      "explanation": "He is uniquely a brahmin by birth who takes up the path of the warrior, making him a brahmin-warrior."
+    },
+    {
+      "id": "parashurama-q07",
+      "difficulty": "easy",
+      "q": "Parashurama is said to remain deathless, placing him among which group of beings?",
+      "options": [
+        "The chiranjivi (immortals)",
+        "The Adityas",
+        "The Saptarishi",
+        "The Vasus"
+      ],
+      "answer": 0,
+      "explanation": "He is counted among the chiranjivi, the long-lived or immortal ones, and is said to remain immortal."
+    },
+    {
+      "id": "parashurama-q08",
+      "difficulty": "easy",
+      "q": "Whose corrupt rule did Parashurama set out to rid the earth of, according to the Puranas?",
+      "options": [
+        "Corrupt brahmin priests",
+        "Corrupt kshatriya tyrants",
+        "Corrupt forest demons",
+        "Corrupt merchant guilds"
+      ],
+      "answer": 1,
+      "explanation": "The Puranas relate that Parashurama rid the earth of corrupt kshatriya tyrants who had abused their power."
+    },
+    {
+      "id": "parashurama-q09",
+      "difficulty": "easy",
+      "q": "What does the name 'Parashurama' literally describe?",
+      "options": [
+        "Rama with the bow",
+        "Rama of the forest",
+        "Rama with the axe",
+        "Rama of the mountain"
+      ],
+      "answer": 2,
+      "explanation": "'Parashu' means axe, so Parashurama means 'Rama with the axe.'"
+    },
+    {
+      "id": "parashurama-q10",
+      "difficulty": "easy",
+      "q": "Of which great god is Parashurama regarded as an avatar (descent)?",
+      "options": [
+        "Shiva",
+        "Brahma",
+        "Indra",
+        "Vishnu"
+      ],
+      "answer": 3,
+      "explanation": "Parashurama is one of the Dashavatara, the incarnations through which Vishnu descends to restore dharma."
+    },
+    {
+      "id": "parashurama-q11",
+      "difficulty": "medium",
+      "q": "In the classical Dashavatara sequence, which avatar of Vishnu immediately precedes Parashurama?",
+      "options": [
+        "Vamana",
+        "Narasimha",
+        "Rama",
+        "Krishna"
+      ],
+      "answer": 0,
+      "explanation": "The sequence runs through Vamana before reaching Parashurama, the sixth descent."
+    },
+    {
+      "id": "parashurama-q12",
+      "difficulty": "medium",
+      "q": "In the classical Dashavatara sequence, which avatar of Vishnu immediately follows Parashurama?",
+      "options": [
+        "Krishna",
+        "Rama",
+        "Buddha",
+        "Kalki"
+      ],
+      "answer": 1,
+      "explanation": "Parashurama, the sixth avatar, is followed by Rama, the seventh, in the classical sequence."
+    },
+    {
+      "id": "parashurama-q13",
+      "difficulty": "medium",
+      "q": "Parashurama's father Jamadagni is traditionally numbered among which group of seven sages?",
+      "options": [
+        "The Adityas",
+        "The Maruts",
+        "The Saptarishi",
+        "The Ashvins"
+      ],
+      "answer": 2,
+      "explanation": "Jamadagni is commonly listed among the Saptarishi, the seven great seers."
+    },
+    {
+      "id": "parashurama-q14",
+      "difficulty": "medium",
+      "q": "What act of his father against Renuka is Parashurama famously remembered for carrying out in obedience?",
+      "options": [
+        "Building a hermitage",
+        "Guarding the wish-cow",
+        "Performing a fire sacrifice",
+        "Beheading his own mother at Jamadagni's command"
+      ],
+      "answer": 3,
+      "explanation": "In the Puranic tale, Parashurama obeyed his father's command to behead Renuka and was later granted her restoration as a boon."
+    },
+    {
+      "id": "parashurama-q15",
+      "difficulty": "medium",
+      "q": "What chief motive do the Puranas give for Parashurama's campaign against the kshatriyas?",
+      "options": [
+        "Avenging his father's death",
+        "Reclaiming a stolen kingdom",
+        "Recovering the stolen Vedas",
+        "Winning a celestial bride"
+      ],
+      "answer": 0,
+      "explanation": "According to the Puranas, Parashurama avenged the death of his father Jamadagni, slain by kshatriyas."
+    },
+    {
+      "id": "parashurama-q16",
+      "difficulty": "medium",
+      "q": "Which thousand-armed king is described in the Mahabharata and Puranas as the slayer of Jamadagni, provoking Parashurama's wrath?",
+      "options": [
+        "Dhritarashtra",
+        "Kartavirya Arjuna",
+        "Sagara",
+        "Janaka"
+      ],
+      "answer": 1,
+      "explanation": "The Haihaya king Kartavirya Arjuna (Sahasrarjuna) and his sons are said to have killed Jamadagni, igniting Parashurama's vengeance."
+    },
+    {
+      "id": "parashurama-q17",
+      "difficulty": "medium",
+      "q": "Which emblem appears on Parashurama's card in keeping with his identity as the axe-wielding warrior-sage?",
+      "options": [
+        "A lotus",
+        "A serpent",
+        "A bladed weapon (sword)",
+        "A flute"
+      ],
+      "answer": 2,
+      "explanation": "His card bears a bladed-weapon emblem, fitting the sage who wields the axe."
+    },
+    {
+      "id": "parashurama-q18",
+      "difficulty": "medium",
+      "q": "In which major epic does Parashurama famously confront the prince Rama after the breaking of Shiva's bow?",
+      "options": [
+        "The Mahabharata",
+        "The Bhagavata Purana",
+        "The Harivamsha",
+        "The Ramayana"
+      ],
+      "answer": 3,
+      "explanation": "In the Ramayana, Parashurama appears after Rama breaks Shiva's bow at Sita's svayamvara and challenges him."
+    },
+    {
+      "id": "parashurama-q19",
+      "difficulty": "medium",
+      "q": "Parashurama is said to have served as a martial guru to which warrior of the Mahabharata, teaching him the use of arms?",
+      "options": [
+        "Karna",
+        "Bhima",
+        "Nakula",
+        "Abhimanyu"
+      ],
+      "answer": 0,
+      "explanation": "The Mahabharata relates that Karna learned weaponry from Parashurama, having approached him as a brahmin; the sage later cursed him on discovering he was not a brahmin."
+    },
+    {
+      "id": "parashurama-q20",
+      "difficulty": "medium",
+      "q": "Besides Karna, which grandsire of the Kuru and Pandava princes is described in the Mahabharata as a pupil of Parashurama in archery?",
+      "options": [
+        "Vidura",
+        "Bhishma",
+        "Shakuni",
+        "Drupada"
+      ],
+      "answer": 1,
+      "explanation": "The Mahabharata names Bhishma among the disciples of Parashurama, and the two later fought a great duel."
+    },
+    {
+      "id": "parashurama-q21",
+      "difficulty": "medium",
+      "q": "Parashurama belongs to the lineage of which celebrated sage, the founder of the Bhargava line?",
+      "options": [
+        "Angiras",
+        "Pulastya",
+        "Bhrigu",
+        "Marichi"
+      ],
+      "answer": 2,
+      "explanation": "Through Jamadagni, Parashurama is a Bhargava, descended from the sage Bhrigu."
+    },
+    {
+      "id": "parashurama-q22",
+      "difficulty": "medium",
+      "q": "Coastal traditions of western India credit Parashurama with reclaiming new land in what manner?",
+      "options": [
+        "Diverting the Ganga",
+        "Lifting a mountain",
+        "Drying a desert with fire",
+        "Hurling his axe to make the sea recede"
+      ],
+      "answer": 3,
+      "explanation": "Regional legends say Parashurama cast his axe into the sea, and the land that emerged became the western coastal region."
+    },
+    {
+      "id": "parashurama-q23",
+      "difficulty": "hard",
+      "q": "How many times over does tradition say Parashurama purged the earth of the offending kshatriya warriors?",
+      "options": [
+        "Twenty-one times",
+        "Three times",
+        "Seven times",
+        "One hundred times"
+      ],
+      "answer": 0,
+      "explanation": "Tradition holds that Parashurama cleared the earth of the corrupt kshatriyas twenty-one times."
+    },
+    {
+      "id": "parashurama-q24",
+      "difficulty": "hard",
+      "q": "At which sacred field does the Mahabharata say Parashurama offered oblations to his ancestors after his campaign against the kshatriyas?",
+      "options": [
+        "Naimisharanya",
+        "Samanta-panchaka (Kurukshetra)",
+        "Pushkar",
+        "Prayaga"
+      ],
+      "answer": 1,
+      "explanation": "The Mahabharata associates Parashurama's offerings to the Pitris with Samanta-panchaka, the holy field near Kurukshetra."
+    },
+    {
+      "id": "parashurama-q25",
+      "difficulty": "hard",
+      "q": "After his campaigns, to whom is Parashurama said in tradition to have given away the conquered earth in a great sacrifice?",
+      "options": [
+        "The god Indra",
+        "King Sagara",
+        "The sage Kashyapa",
+        "The sage Agastya"
+      ],
+      "answer": 2,
+      "explanation": "Tradition holds that Parashurama bestowed the entire earth upon the sage Kashyapa as a sacrificial gift."
+    },
+    {
+      "id": "parashurama-q26",
+      "difficulty": "hard",
+      "q": "By what means was Renuka restored after Parashurama beheaded her, in the well-known Puranic account?",
+      "options": [
+        "The nectar amrita",
+        "A blessing of Saraswati",
+        "The waters of the Ganga",
+        "A boon granted by Jamadagni"
+      ],
+      "answer": 3,
+      "explanation": "Pleased with his obedience, Jamadagni offered Parashurama a boon, which he used to have his mother Renuka brought back to life."
+    },
+    {
+      "id": "parashurama-q27",
+      "difficulty": "hard",
+      "q": "Which wish-fulfilling cow in Jamadagni's hermitage did Kartavirya Arjuna covet, setting in motion the feud with Parashurama's family?",
+      "options": [
+        "Kamadhenu (Surabhi)",
+        "Airavata",
+        "Uchchaihshravas",
+        "Sharabha"
+      ],
+      "answer": 0,
+      "explanation": "Kartavirya Arjuna's attempt to seize the wish-granting cow Kamadhenu (also called Surabhi) from Jamadagni's ashram triggered the conflict; Airavata and Uchchaihshravas are Indra's elephant and horse, not cows."
+    },
+    {
+      "id": "parashurama-q28",
+      "difficulty": "hard",
+      "q": "In the Ramayana encounter, after testing Rama, what does Parashurama do that signals his withdrawal from active warfare?",
+      "options": [
+        "Surrenders his axe to Rama",
+        "Yields his martial power and retires to penance",
+        "Casts his bow into the sea",
+        "Departs for Patala"
+      ],
+      "answer": 1,
+      "explanation": "Recognizing Rama as the divine, Parashurama yields his accumulated martial energy and withdraws to ascetic penance, often placed on Mount Mahendra."
+    },
+    {
+      "id": "parashurama-q29",
+      "difficulty": "hard",
+      "q": "On which mountain is Parashurama traditionally said to dwell in lasting penance as a chiranjivi?",
+      "options": [
+        "Mount Kailash",
+        "Mount Meru",
+        "Mount Mahendra",
+        "Mount Govardhan"
+      ],
+      "answer": 2,
+      "explanation": "Tradition places the immortal Parashurama in austerity on Mount Mahendra (Mahendragiri)."
+    },
+    {
+      "id": "parashurama-q30",
+      "difficulty": "hard",
+      "q": "Parashurama is unusual among Vishnu's avatars because, unlike Rama or Krishna, he is said to remain present even into which present age?",
+      "options": [
+        "The Satya Yuga",
+        "The Treta Yuga",
+        "The Dvapara Yuga",
+        "The Kali Yuga"
+      ],
+      "answer": 3,
+      "explanation": "As a chiranjivi he is said to endure across the ages, including the present Kali Yuga, whereas avatars like Rama and Krishna completed their earthly lives."
+    }
+  ]
+}

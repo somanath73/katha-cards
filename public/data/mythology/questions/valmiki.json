@@ -1,0 +1,395 @@
+{
+  "cardId": "valmiki",
+  "questions": [
+    {
+      "id": "valmiki-q01",
+      "difficulty": "easy",
+      "q": "Which great epic is the sage Valmiki traditionally credited with composing?",
+      "options": [
+        "The Mahabharata",
+        "The Ramayana",
+        "The Bhagavata Purana",
+        "The Harivamsa"
+      ],
+      "answer": 1,
+      "explanation": "Valmiki is revered as the author of the Ramayana, the epic narrating the life of Rama."
+    },
+    {
+      "id": "valmiki-q02",
+      "difficulty": "easy",
+      "q": "By what honorific title, meaning 'first poet,' is the sage Valmiki traditionally known?",
+      "options": [
+        "Vyasa-deva",
+        "Sutradhara",
+        "Adi-kavi",
+        "Maharishi-raja"
+      ],
+      "answer": 2,
+      "explanation": "Valmiki is honoured as the adi-kavi, meaning the 'first poet' of the Sanskrit tradition."
+    },
+    {
+      "id": "valmiki-q03",
+      "difficulty": "easy",
+      "q": "Who is the central hero whose life is narrated in Valmiki's Ramayana?",
+      "options": [
+        "Krishna",
+        "Arjuna",
+        "Bhima",
+        "Rama"
+      ],
+      "answer": 3,
+      "explanation": "The Ramayana composed by Valmiki narrates the life and deeds of Rama, prince of Ayodhya."
+    },
+    {
+      "id": "valmiki-q04",
+      "difficulty": "easy",
+      "q": "In which language did the sage Valmiki compose the Ramayana?",
+      "options": [
+        "Sanskrit",
+        "Tamil",
+        "Pali",
+        "Prakrit"
+      ],
+      "answer": 0,
+      "explanation": "Valmiki composed the Ramayana in Sanskrit, in the classical shloka verse form."
+    },
+    {
+      "id": "valmiki-q05",
+      "difficulty": "easy",
+      "q": "In the Ramayana, the killing of which bird by a hunter is said to have moved Valmiki to utter his first verse?",
+      "options": [
+        "A peacock",
+        "A crane (krauncha)",
+        "A swan",
+        "An eagle"
+      ],
+      "answer": 1,
+      "explanation": "Valmiki's grief at a hunter slaying a mating krauncha (crane) is said to have spontaneously formed the first shloka."
+    },
+    {
+      "id": "valmiki-q06",
+      "difficulty": "easy",
+      "q": "In the Ramayana, where does the sage Valmiki give shelter to the exiled Sita?",
+      "options": [
+        "In the palace of Ayodhya",
+        "In the city of Mithila",
+        "In his forest hermitage (ashrama)",
+        "On the island of Lanka"
+      ],
+      "answer": 2,
+      "explanation": "In the Uttara Kanda, Valmiki shelters the banished Sita in his forest hermitage."
+    },
+    {
+      "id": "valmiki-q07",
+      "difficulty": "easy",
+      "q": "What are the names of Sita's twin sons, whom Valmiki raises and teaches in his hermitage?",
+      "options": [
+        "Nakula and Sahadeva",
+        "Pradyumna and Aniruddha",
+        "Mani and Mala",
+        "Luv and Kush"
+      ],
+      "answer": 3,
+      "explanation": "Valmiki nurtures and instructs Sita's twin sons, Lava and Kusha, in his hermitage."
+    },
+    {
+      "id": "valmiki-q08",
+      "difficulty": "easy",
+      "q": "According to tradition, what did Valmiki teach Lava and Kusha to recite in his hermitage?",
+      "options": [
+        "The Ramayana itself",
+        "The Rig Veda hymns",
+        "The laws of Manu",
+        "The Yoga Sutras"
+      ],
+      "answer": 0,
+      "explanation": "Valmiki taught his own composition, the Ramayana, to Sita's sons Lava and Kusha."
+    },
+    {
+      "id": "valmiki-q09",
+      "difficulty": "easy",
+      "q": "What kind of figure is the sage Valmiki traditionally described as in the Ramayana?",
+      "options": [
+        "A warrior king",
+        "A sage and poet (rishi)",
+        "A celestial musician",
+        "A merchant prince"
+      ],
+      "answer": 1,
+      "explanation": "Valmiki is portrayed as a venerated rishi (sage) and poet who composed the Ramayana."
+    },
+    {
+      "id": "valmiki-q10",
+      "difficulty": "easy",
+      "q": "The emotion of grief that arose in Valmiki upon the crane's death is described in the tradition as giving rise to which poetic mood?",
+      "options": [
+        "Hasya (laughter)",
+        "Bhayanaka (terror)",
+        "Karuna (compassion/pathos)",
+        "Vira (heroism)"
+      ],
+      "answer": 2,
+      "explanation": "Valmiki's sorrow (shoka) is said to have transformed into shloka, expressing the karuna (pathos) rasa."
+    },
+    {
+      "id": "valmiki-q11",
+      "difficulty": "medium",
+      "q": "In Valmiki's Ramayana, which deity is traditionally said to have inspired or commanded the sage to compose the epic?",
+      "options": [
+        "Indra",
+        "Yama",
+        "Kubera",
+        "Brahma"
+      ],
+      "answer": 3,
+      "explanation": "According to the Ramayana's opening, the god Brahma appears to Valmiki and bids him compose the story of Rama."
+    },
+    {
+      "id": "valmiki-q12",
+      "difficulty": "medium",
+      "q": "From which celestial sage does Valmiki first hear the summary of Rama's story at the start of the Ramayana?",
+      "options": [
+        "Narada",
+        "Durvasa",
+        "Atri",
+        "Bhrigu"
+      ],
+      "answer": 0,
+      "explanation": "In the Bala Kanda, the divine sage Narada relates the essence of Rama's story to Valmiki."
+    },
+    {
+      "id": "valmiki-q13",
+      "difficulty": "medium",
+      "q": "The metrical verse form said to have originated from Valmiki's lament is known by which name?",
+      "options": [
+        "Gayatri",
+        "Anushtubh shloka",
+        "Tristubh",
+        "Jagati"
+      ],
+      "answer": 1,
+      "explanation": "Valmiki's spontaneous lament is traditionally said to have taken the form of the anushtubh shloka metre."
+    },
+    {
+      "id": "valmiki-q14",
+      "difficulty": "medium",
+      "q": "Approximately how many verses (shlokas) is Valmiki's Ramayana traditionally said to contain?",
+      "options": [
+        "About one thousand",
+        "About one hundred thousand",
+        "About twenty-four thousand",
+        "About seven hundred"
+      ],
+      "answer": 2,
+      "explanation": "Valmiki's Ramayana is traditionally counted at about twenty-four thousand shlokas."
+    },
+    {
+      "id": "valmiki-q15",
+      "difficulty": "medium",
+      "q": "Into how many books or 'kandas' is Valmiki's Ramayana traditionally divided?",
+      "options": [
+        "Five",
+        "Ten",
+        "Eighteen",
+        "Seven"
+      ],
+      "answer": 3,
+      "explanation": "Valmiki's Ramayana is conventionally arranged into seven kandas (books)."
+    },
+    {
+      "id": "valmiki-q16",
+      "difficulty": "medium",
+      "q": "Which kanda of Valmiki's Ramayana, dealing with later events, contains the episode of Sita's stay in his hermitage?",
+      "options": [
+        "Uttara Kanda",
+        "Bala Kanda",
+        "Aranya Kanda",
+        "Kishkindha Kanda"
+      ],
+      "answer": 0,
+      "explanation": "The Uttara Kanda relates the later episodes, including Sita finding refuge in Valmiki's hermitage."
+    },
+    {
+      "id": "valmiki-q17",
+      "difficulty": "medium",
+      "q": "The Sanskrit word 'shoka', central to the legend of Valmiki's first verse, means what?",
+      "options": [
+        "Joy",
+        "Grief or sorrow",
+        "Anger",
+        "Wonder"
+      ],
+      "answer": 1,
+      "explanation": "In the tradition, Valmiki's shoka (grief) at the crane's death gave rise to the shloka, the first verse."
+    },
+    {
+      "id": "valmiki-q18",
+      "difficulty": "medium",
+      "q": "In Valmiki's Ramayana, on which occasion do Lava and Kusha publicly recite the epic before Rama?",
+      "options": [
+        "At Rama's coronation in Ayodhya",
+        "During the battle at Lanka",
+        "During Rama's Ashvamedha (horse) sacrifice",
+        "At Sita's swayamvara"
+      ],
+      "answer": 2,
+      "explanation": "In the Uttara Kanda, Lava and Kusha sing the Ramayana before Rama during his Ashvamedha sacrifice."
+    },
+    {
+      "id": "valmiki-q19",
+      "difficulty": "medium",
+      "q": "In the Ramayana, Valmiki is said to vouch for the purity of which character before the assembled court?",
+      "options": [
+        "Kaikeyi",
+        "Mandodari",
+        "Tara",
+        "Sita"
+      ],
+      "answer": 3,
+      "explanation": "In the Uttara Kanda, the sage Valmiki affirms Sita's purity before Rama and the court."
+    },
+    {
+      "id": "valmiki-q20",
+      "difficulty": "medium",
+      "q": "The very first major poetic work of Sanskrit literature, attributed to Valmiki, gives him a reputation as the originator of which literary form?",
+      "options": [
+        "Kavya (refined poetry)",
+        "Sutra (aphorism)",
+        "Bhashya (commentary)",
+        "Tantra (ritual text)"
+      ],
+      "answer": 0,
+      "explanation": "Valmiki's Ramayana is regarded as the first kavya, earning him the title adi-kavi, founder of refined poetry."
+    },
+    {
+      "id": "valmiki-q21",
+      "difficulty": "medium",
+      "q": "In the Ramayana, before the crane episode, where does the sage Valmiki go that leads to his witnessing the hunter's act?",
+      "options": [
+        "To the summit of Mount Meru",
+        "To the banks of the Tamasa river",
+        "To the city of Lanka",
+        "To the court of Indra"
+      ],
+      "answer": 1,
+      "explanation": "Valmiki had gone to bathe at the Tamasa river when he witnessed the slaying of the crane."
+    },
+    {
+      "id": "valmiki-q22",
+      "difficulty": "medium",
+      "q": "In Valmiki's Ramayana, who carries Sita away to the hermitage where Valmiki receives her?",
+      "options": [
+        "Hanuman",
+        "Bharata",
+        "Lakshmana",
+        "Sugriva"
+      ],
+      "answer": 2,
+      "explanation": "In the Uttara Kanda, Lakshmana escorts the exiled Sita to the forest near Valmiki's hermitage."
+    },
+    {
+      "id": "valmiki-q23",
+      "difficulty": "hard",
+      "q": "Which word in Valmiki's curse upon the hunter became, by tradition, the model for the epic's whole verse structure?",
+      "options": [
+        "The mantra 'om namah'",
+        "The blessing 'svasti'",
+        "The cry 'jaya jaya'",
+        "The lament 'ma nishada'"
+      ],
+      "answer": 3,
+      "explanation": "Valmiki's verse beginning 'ma nishada' (let you find no rest, O hunter) is traditionally cited as the first shloka."
+    },
+    {
+      "id": "valmiki-q24",
+      "difficulty": "hard",
+      "q": "According to later tradition, by what earlier name or vocation is Valmiki said to have been known before becoming a sage?",
+      "options": [
+        "A hunter or highwayman named Ratnakara",
+        "A learned brahmin priest",
+        "A king of Kosala",
+        "A celestial gandharva"
+      ],
+      "answer": 0,
+      "explanation": "Later traditions relate that Valmiki, once known as Ratnakara, lived as a hunter or robber before his transformation into a sage."
+    },
+    {
+      "id": "valmiki-q25",
+      "difficulty": "hard",
+      "q": "In the popular legend of his transformation, repeating which sacred name is said to have turned Valmiki from his former life toward asceticism?",
+      "options": [
+        "The name of Shiva",
+        "The name of Rama",
+        "The name of Ganesha",
+        "The name of Surya"
+      ],
+      "answer": 1,
+      "explanation": "Legend holds that Valmiki attained sagehood by ceaselessly repeating the name 'Rama' during long meditation."
+    },
+    {
+      "id": "valmiki-q26",
+      "difficulty": "hard",
+      "q": "The name 'Valmiki' is popularly explained from 'valmika', a Sanskrit word meaning what, which is said to have encased him during meditation?",
+      "options": [
+        "A lotus",
+        "A river",
+        "An anthill",
+        "A cave"
+      ],
+      "answer": 2,
+      "explanation": "The name Valmiki is traditionally derived from valmika (anthill), said to have grown over him as he meditated."
+    },
+    {
+      "id": "valmiki-q27",
+      "difficulty": "hard",
+      "q": "Which kanda of Valmiki's Ramayana opens the epic and contains the legend of the first verse and Brahma's command?",
+      "options": [
+        "Ayodhya Kanda",
+        "Sundara Kanda",
+        "Yuddha Kanda",
+        "Bala Kanda"
+      ],
+      "answer": 3,
+      "explanation": "The Bala Kanda, the first book, narrates the origin of the shloka and Brahma's bidding to Valmiki."
+    },
+    {
+      "id": "valmiki-q28",
+      "difficulty": "hard",
+      "q": "In Valmiki's Ramayana, what does Sita do at the end of the Uttara Kanda after her sons are reconciled with Rama?",
+      "options": [
+        "She is received back into the earth by her mother Bhumi",
+        "She returns to rule beside Rama for many years",
+        "She becomes an ascetic in Valmiki's hermitage forever",
+        "She journeys to Lanka to free other captives"
+      ],
+      "answer": 0,
+      "explanation": "In the Uttara Kanda, Sita calls upon the earth-goddess Bhumi, who opens to receive her daughter."
+    },
+    {
+      "id": "valmiki-q29",
+      "difficulty": "hard",
+      "q": "Valmiki's Ramayana is most often classified within Hindu literature as which kind of text, distinct from the Vedas and Puranas?",
+      "options": [
+        "An Upanishad",
+        "An Itihasa (epic history)",
+        "A Dharmashastra",
+        "An Aranyaka"
+      ],
+      "answer": 1,
+      "explanation": "Valmiki's Ramayana is classed as an Itihasa, an epic history, alongside the Mahabharata."
+    },
+    {
+      "id": "valmiki-q30",
+      "difficulty": "hard",
+      "q": "Within Valmiki's Ramayana, who is described as the divine source from whom Rama is an incarnation, the avatar whose deeds the epic celebrates?",
+      "options": [
+        "Brahma",
+        "Indra",
+        "Vishnu",
+        "Agni"
+      ],
+      "answer": 2,
+      "explanation": "Valmiki's Ramayana presents Rama as an avatar of Vishnu, born to vanquish the demon Ravana."
+    }
+  ]
+}

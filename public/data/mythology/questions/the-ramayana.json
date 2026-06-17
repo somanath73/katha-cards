@@ -1,0 +1,395 @@
+{
+  "cardId": "the-ramayana",
+  "questions": [
+    {
+      "id": "the-ramayana-q01",
+      "difficulty": "easy",
+      "q": "Who is the central hero of the Ramayana?",
+      "options": [
+        "Krishna",
+        "Arjuna",
+        "Bhima",
+        "Rama"
+      ],
+      "answer": 3,
+      "explanation": "The Ramayana narrates the life and deeds of Rama, prince of Ayodhya."
+    },
+    {
+      "id": "the-ramayana-q02",
+      "difficulty": "easy",
+      "q": "Which sage is traditionally credited as the author of the Ramayana?",
+      "options": [
+        "Valmiki",
+        "Vyasa",
+        "Vashishtha",
+        "Vishwamitra"
+      ],
+      "answer": 0,
+      "explanation": "The Ramayana is traditionally composed by the sage Valmiki and is called the adi-kavya, or first poem."
+    },
+    {
+      "id": "the-ramayana-q03",
+      "difficulty": "easy",
+      "q": "In the Ramayana, who is the devoted wife of Rama?",
+      "options": [
+        "Radha",
+        "Sita",
+        "Draupadi",
+        "Parvati"
+      ],
+      "answer": 1,
+      "explanation": "Sita, princess of Mithila, is Rama's consort and is abducted by Ravana in the epic."
+    },
+    {
+      "id": "the-ramayana-q04",
+      "difficulty": "easy",
+      "q": "In the Ramayana, who is the demon-king of Lanka who abducts Sita?",
+      "options": [
+        "Kamsa",
+        "Mahishasura",
+        "Ravana",
+        "Hiranyakashipu"
+      ],
+      "answer": 2,
+      "explanation": "Ravana, the ten-headed rakshasa king of Lanka, abducts Sita and is the chief antagonist of the Ramayana."
+    },
+    {
+      "id": "the-ramayana-q05",
+      "difficulty": "easy",
+      "q": "In the Ramayana, of which deity is Rama considered an avatar?",
+      "options": [
+        "Shiva",
+        "Brahma",
+        "Indra",
+        "Vishnu"
+      ],
+      "answer": 3,
+      "explanation": "Rama is revered as an avatar of Vishnu who descends to restore dharma."
+    },
+    {
+      "id": "the-ramayana-q06",
+      "difficulty": "easy",
+      "q": "In the Ramayana, who is the devoted vanara (monkey) who leaps across the ocean to Lanka and first finds Sita?",
+      "options": [
+        "Hanuman",
+        "Sugriva",
+        "Jambavan",
+        "Nala"
+      ],
+      "answer": 0,
+      "explanation": "Hanuman, the mighty vanara devotee and son of Vayu, leaps across the ocean to Lanka and is the one who finds Sita in the Ashoka grove."
+    },
+    {
+      "id": "the-ramayana-q07",
+      "difficulty": "easy",
+      "q": "In the Ramayana, who is the loyal younger brother who accompanies Rama into exile?",
+      "options": [
+        "Bharata",
+        "Lakshmana",
+        "Shatrughna",
+        "Nakula"
+      ],
+      "answer": 1,
+      "explanation": "Lakshmana follows Rama and Sita into the forest exile and stands by them throughout."
+    },
+    {
+      "id": "the-ramayana-q08",
+      "difficulty": "easy",
+      "q": "In the Ramayana, which city is the birthplace and home of Rama?",
+      "options": [
+        "Mathura",
+        "Hastinapura",
+        "Ayodhya",
+        "Dwaraka"
+      ],
+      "answer": 2,
+      "explanation": "Rama is the prince of Ayodhya, the capital of the Kosala kingdom on the river Sarayu."
+    },
+    {
+      "id": "the-ramayana-q09",
+      "difficulty": "easy",
+      "q": "For how many years is Rama exiled to the forest in the Ramayana?",
+      "options": [
+        "Twelve years",
+        "Seven years",
+        "Twenty years",
+        "Fourteen years"
+      ],
+      "answer": 3,
+      "explanation": "Rama accepts a fourteen-year exile to honor the boon his father granted Queen Kaikeyi."
+    },
+    {
+      "id": "the-ramayana-q10",
+      "difficulty": "easy",
+      "q": "In the Ramayana, which island kingdom does Ravana rule?",
+      "options": [
+        "Lanka",
+        "Kishkindha",
+        "Mithila",
+        "Panchavati"
+      ],
+      "answer": 0,
+      "explanation": "Ravana rules the island kingdom of Lanka, where he holds Sita captive."
+    },
+    {
+      "id": "the-ramayana-q11",
+      "difficulty": "medium",
+      "q": "Into how many books, or kandas, is the Ramayana traditionally divided?",
+      "options": [
+        "Four",
+        "Seven",
+        "Five",
+        "Eighteen"
+      ],
+      "answer": 1,
+      "explanation": "The Ramayana is divided into seven kandas, from the Bala Kanda to the Uttara Kanda."
+    },
+    {
+      "id": "the-ramayana-q12",
+      "difficulty": "medium",
+      "q": "In the Ramayana, who is the father of Rama and king of Ayodhya?",
+      "options": [
+        "Janaka",
+        "Bharata",
+        "Dasharatha",
+        "Vashishtha"
+      ],
+      "answer": 2,
+      "explanation": "King Dasharatha of Ayodhya is the father of Rama and his three brothers."
+    },
+    {
+      "id": "the-ramayana-q13",
+      "difficulty": "medium",
+      "q": "In the Ramayana, who is the father of Sita and king of Mithila?",
+      "options": [
+        "Dasharatha",
+        "Sugriva",
+        "Vibhishana",
+        "Janaka"
+      ],
+      "answer": 3,
+      "explanation": "Sita is the daughter of King Janaka of Mithila and is often called Janaki."
+    },
+    {
+      "id": "the-ramayana-q14",
+      "difficulty": "medium",
+      "q": "In the Ramayana, which queen demands the boons that send Rama into exile?",
+      "options": [
+        "Kaikeyi",
+        "Kausalya",
+        "Sumitra",
+        "Mandodari"
+      ],
+      "answer": 0,
+      "explanation": "Queen Kaikeyi, swayed by her maid Manthara, demands Rama's exile and the throne for her son Bharata."
+    },
+    {
+      "id": "the-ramayana-q15",
+      "difficulty": "medium",
+      "q": "In the Ramayana, who places his sandals on the throne and rules Ayodhya as a regent during Rama's exile?",
+      "options": [
+        "Lakshmana",
+        "Bharata",
+        "Shatrughna",
+        "Sumantra"
+      ],
+      "answer": 1,
+      "explanation": "Bharata refuses the throne and rules in Rama's name, placing Rama's sandals upon the seat of Ayodhya."
+    },
+    {
+      "id": "the-ramayana-q16",
+      "difficulty": "medium",
+      "q": "In the Ramayana, which golden creature does Ravana use to lure Rama away before abducting Sita?",
+      "options": [
+        "A golden swan",
+        "A golden bull",
+        "A golden deer",
+        "A golden serpent"
+      ],
+      "answer": 2,
+      "explanation": "The demon Maricha takes the form of a golden deer to draw Rama away so Ravana can seize Sita."
+    },
+    {
+      "id": "the-ramayana-q17",
+      "difficulty": "medium",
+      "q": "In the Ramayana, who is the vanara king of Kishkindha who allies with Rama?",
+      "options": [
+        "Vali",
+        "Angada",
+        "Jambavan",
+        "Sugriva"
+      ],
+      "answer": 3,
+      "explanation": "Sugriva, restored to the throne of Kishkindha by Rama, sends the vanara army to search for Sita."
+    },
+    {
+      "id": "the-ramayana-q18",
+      "difficulty": "medium",
+      "q": "In the Ramayana, who is Ravana's righteous brother who defects to join Rama?",
+      "options": [
+        "Vibhishana",
+        "Kumbhakarna",
+        "Indrajit",
+        "Maricha"
+      ],
+      "answer": 0,
+      "explanation": "Vibhishana, opposing Ravana's injustice, joins Rama and is later crowned king of Lanka."
+    },
+    {
+      "id": "the-ramayana-q19",
+      "difficulty": "medium",
+      "q": "In the Ramayana, what is the name of the great bridge built across the sea to Lanka?",
+      "options": [
+        "Naga Setu",
+        "Rama Setu",
+        "Indra Setu",
+        "Vayu Setu"
+      ],
+      "answer": 1,
+      "explanation": "The vanaras build the bridge known as Rama Setu, or Nala Setu, to carry Rama's army to Lanka."
+    },
+    {
+      "id": "the-ramayana-q20",
+      "difficulty": "medium",
+      "q": "In the Ramayana, who is Ravana's enormous brother famed for his long slumber?",
+      "options": [
+        "Vibhishana",
+        "Indrajit",
+        "Kumbhakarna",
+        "Khara"
+      ],
+      "answer": 2,
+      "explanation": "Kumbhakarna, Ravana's giant brother, sleeps for long stretches and is roused to fight in the war."
+    },
+    {
+      "id": "the-ramayana-q21",
+      "difficulty": "medium",
+      "q": "In the Ramayana, what is the name of Ravana's powerful son, a master of illusory warfare?",
+      "options": [
+        "Akshaya",
+        "Atikaya",
+        "Prahasta",
+        "Indrajit"
+      ],
+      "answer": 3,
+      "explanation": "Indrajit, also called Meghanada, is Ravana's son renowned for his mastery of magical weapons and illusion."
+    },
+    {
+      "id": "the-ramayana-q22",
+      "difficulty": "medium",
+      "q": "In the Ramayana, which vulture king is mortally wounded trying to rescue Sita from Ravana?",
+      "options": [
+        "Jatayu",
+        "Sampati",
+        "Garuda",
+        "Jambavan"
+      ],
+      "answer": 0,
+      "explanation": "Jatayu, the noble vulture, fights Ravana to save Sita and dies of his wounds before Rama."
+    },
+    {
+      "id": "the-ramayana-q23",
+      "difficulty": "hard",
+      "q": "In the Ramayana, the first of the seven kandas is the Bala Kanda. Which kanda is the seventh and final book?",
+      "options": [
+        "Yuddha Kanda",
+        "Uttara Kanda",
+        "Sundara Kanda",
+        "Aranya Kanda"
+      ],
+      "answer": 1,
+      "explanation": "The Uttara Kanda is the seventh and final book of the Ramayana, recounting events after Rama's return."
+    },
+    {
+      "id": "the-ramayana-q24",
+      "difficulty": "hard",
+      "q": "In the Ramayana, which kanda chiefly recounts Hanuman's leap to Lanka and his discovery of Sita?",
+      "options": [
+        "Kishkindha Kanda",
+        "Ayodhya Kanda",
+        "Sundara Kanda",
+        "Bala Kanda"
+      ],
+      "answer": 2,
+      "explanation": "The Sundara Kanda centers on Hanuman's journey to Lanka, where he finds Sita in the Ashoka grove."
+    },
+    {
+      "id": "the-ramayana-q25",
+      "difficulty": "hard",
+      "q": "In the Ramayana, which sage takes the young Rama and Lakshmana to guard his sacrifice and later to Mithila?",
+      "options": [
+        "Vashishtha",
+        "Agastya",
+        "Bharadwaja",
+        "Vishwamitra"
+      ],
+      "answer": 3,
+      "explanation": "The sage Vishwamitra trains the young princes and leads Rama to Janaka's court in Mithila."
+    },
+    {
+      "id": "the-ramayana-q26",
+      "difficulty": "hard",
+      "q": "In the Ramayana, Rama wins Sita's hand at her swayamvara by an act involving a divine bow. To whom did that bow belong?",
+      "options": [
+        "Shiva",
+        "Vishnu",
+        "Indra",
+        "Varuna"
+      ],
+      "answer": 0,
+      "explanation": "Rama lifts and strings the great bow of Shiva, breaking it and thereby winning Sita's hand."
+    },
+    {
+      "id": "the-ramayana-q27",
+      "difficulty": "hard",
+      "q": "In the Ramayana, in roughly how many Sanskrit verses, or shlokas, is the epic traditionally said to be composed?",
+      "options": [
+        "About 100,000",
+        "About 24,000",
+        "About 700",
+        "About 6,000"
+      ],
+      "answer": 1,
+      "explanation": "Valmiki's Ramayana is traditionally reckoned at about 24,000 verses across its seven kandas."
+    },
+    {
+      "id": "the-ramayana-q28",
+      "difficulty": "hard",
+      "q": "In the Ramayana, what is the name of Rama's mother, the chief queen of Dasharatha?",
+      "options": [
+        "Sumitra",
+        "Kaikeyi",
+        "Kausalya",
+        "Mandodari"
+      ],
+      "answer": 2,
+      "explanation": "Kausalya, the eldest queen of Dasharatha, is the mother of Rama."
+    },
+    {
+      "id": "the-ramayana-q29",
+      "difficulty": "hard",
+      "q": "In the Ramayana, what are the names of the twin sons born to Sita who later recite the epic?",
+      "options": [
+        "Nakula and Sahadeva",
+        "Sunda and Upasunda",
+        "Vali and Sugriva",
+        "Luva and Kusha"
+      ],
+      "answer": 3,
+      "explanation": "Sita's twin sons, Luva and Kusha, are raised at Valmiki's hermitage and recite the Ramayana to Rama."
+    },
+    {
+      "id": "the-ramayana-q30",
+      "difficulty": "hard",
+      "q": "In Hindu tradition, the Ramayana is most often classified within which category of sacred literature?",
+      "options": [
+        "Smriti",
+        "Shruti",
+        "Vedanga",
+        "Sutra"
+      ],
+      "answer": 0,
+      "explanation": "The Ramayana is revered as smriti, the remembered tradition, and as an itihasa or epic history."
+    }
+  ]
+}

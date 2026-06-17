@@ -1,0 +1,395 @@
+{
+  "cardId": "parijata",
+  "questions": [
+    {
+      "id": "parijata-q01",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, what kind of object is the Parijata?",
+      "options": [
+        "A jeweled crown",
+        "A war chariot",
+        "A sacred river",
+        "A celestial flowering tree"
+      ],
+      "answer": 3,
+      "explanation": "The Parijata is celebrated in the Puranas as the wish-bestowing celestial flowering tree."
+    },
+    {
+      "id": "parijata-q02",
+      "difficulty": "easy",
+      "q": "From which great event did the Parijata tree arise?",
+      "options": [
+        "The churning of the ocean of milk",
+        "The burning of Tripura",
+        "The descent of the Ganga",
+        "The creation of the Vedas"
+      ],
+      "answer": 0,
+      "explanation": "The Parijata was one of the treasures that emerged from the Samudra Manthana, the churning of the ocean of milk."
+    },
+    {
+      "id": "parijata-q03",
+      "difficulty": "easy",
+      "q": "After it arose from the ocean, in whose heaven was the Parijata tree planted?",
+      "options": [
+        "Yama's realm",
+        "Indra's heaven",
+        "Varuna's domain",
+        "Kubera's city"
+      ],
+      "answer": 1,
+      "explanation": "The Parijata was planted in the heaven of Indra, king of the devas, where it perfumed the celestial realm."
+    },
+    {
+      "id": "parijata-q04",
+      "difficulty": "easy",
+      "q": "Which avatar of Vishnu is famed for bringing the Parijata tree from Indra's garden to his own city?",
+      "options": [
+        "Rama",
+        "Vamana",
+        "Krishna",
+        "Narasimha"
+      ],
+      "answer": 2,
+      "explanation": "Krishna brought the Parijata from Indra's heaven down to his city, as recounted in the Harivamsha and Bhagavata Purana."
+    },
+    {
+      "id": "parijata-q05",
+      "difficulty": "easy",
+      "q": "To which of Krishna's queens did he bring the Parijata tree to please her?",
+      "options": [
+        "Radha",
+        "Draupadi",
+        "Subhadra",
+        "Satyabhama"
+      ],
+      "answer": 3,
+      "explanation": "Krishna brought the Parijata to please his queen Satyabhama, according to the Harivamsha and Bhagavata Purana."
+    },
+    {
+      "id": "parijata-q06",
+      "difficulty": "easy",
+      "q": "To which of Krishna's cities was the Parijata tree carried from Indra's heaven?",
+      "options": [
+        "Dvaraka",
+        "Mathura",
+        "Ayodhya",
+        "Hastinapura"
+      ],
+      "answer": 0,
+      "explanation": "Krishna carried the Parijata to Dvaraka, his island capital, to please Satyabhama."
+    },
+    {
+      "id": "parijata-q07",
+      "difficulty": "easy",
+      "q": "The Parijata is best classified as which type of sacred item in Hindu lore?",
+      "options": [
+        "A celestial weapon",
+        "A divine tree or treasure",
+        "A holy mountain",
+        "A sacred chant"
+      ],
+      "answer": 1,
+      "explanation": "The Parijata is a divine treasure of the churning, revered as the wish-bestowing celestial tree."
+    },
+    {
+      "id": "parijata-q08",
+      "difficulty": "easy",
+      "q": "In the churning that produced the Parijata, which two opposing groups pulled the churning rope?",
+      "options": [
+        "The yakshas and the kinnaras",
+        "The rishis and the gandharvas",
+        "The devas and the asuras",
+        "The nagas and the rakshasas"
+      ],
+      "answer": 2,
+      "explanation": "The devas and asuras together churned the ocean of milk in the Samudra Manthana, from which the Parijata arose."
+    },
+    {
+      "id": "parijata-q09",
+      "difficulty": "easy",
+      "q": "Which quality is traditionally ascribed to the blossoms of the Parijata tree?",
+      "options": [
+        "They turn to stone at dawn",
+        "They are poisonous to the gods",
+        "They bloom only once in an age",
+        "They never fade and perfume the worlds"
+      ],
+      "answer": 3,
+      "explanation": "The Parijata's blossoms are said never to fade, perfuming the worlds with their fragrance."
+    },
+    {
+      "id": "parijata-q10",
+      "difficulty": "easy",
+      "q": "The texts that recount Krishna bringing the Parijata to Dvaraka belong chiefly to which bodies of literature?",
+      "options": [
+        "The Harivamsha and the Puranas",
+        "The grammatical Sutras",
+        "The Dharmashastras",
+        "The Arthashastra"
+      ],
+      "answer": 0,
+      "explanation": "The Parijata episode is narrated in the Harivamsha and in Puranas such as the Bhagavata and Vishnu Puranas."
+    },
+    {
+      "id": "parijata-q11",
+      "difficulty": "medium",
+      "q": "The bringing of the Parijata to Dvaraka is said to have sparked a celebrated conflict between Krishna and which deity?",
+      "options": [
+        "Varuna",
+        "Indra",
+        "Agni",
+        "Kubera"
+      ],
+      "answer": 1,
+      "explanation": "Removing the Parijata from heaven sparked a celebrated contest between Krishna and Indra, in whose garden it grew."
+    },
+    {
+      "id": "parijata-q12",
+      "difficulty": "medium",
+      "q": "According to the Puranas, which mountain served as the churning rod during the Samudra Manthana that yielded the Parijata?",
+      "options": [
+        "Mount Kailasa",
+        "Mount Meru",
+        "Mount Mandara",
+        "Mount Govardhana"
+      ],
+      "answer": 2,
+      "explanation": "Mount Mandara was used as the churning rod in the Samudra Manthana that produced the Parijata."
+    },
+    {
+      "id": "parijata-q13",
+      "difficulty": "medium",
+      "q": "Which serpent was used as the churning rope during the Samudra Manthana that produced the Parijata?",
+      "options": [
+        "Takshaka",
+        "Kaliya",
+        "Ananta",
+        "Vasuki"
+      ],
+      "answer": 3,
+      "explanation": "The serpent Vasuki was wound about Mount Mandara to serve as the churning rope."
+    },
+    {
+      "id": "parijata-q14",
+      "difficulty": "medium",
+      "q": "The Parijata is counted among the treasures of the ocean churning, the same event that also produced which nectar of immortality?",
+      "options": [
+        "Amrita",
+        "Soma wine of mortals",
+        "Madhu honey",
+        "Ghrita"
+      ],
+      "answer": 0,
+      "explanation": "The Samudra Manthana produced both the Parijata tree and Amrita, the nectar of immortality."
+    },
+    {
+      "id": "parijata-q15",
+      "difficulty": "medium",
+      "q": "In the celestial pleasure garden of Indra's heaven, where the Parijata is said to grow, what is that famed garden called?",
+      "options": [
+        "Vrindavana",
+        "Nandana",
+        "Madhuvana",
+        "Ashokavana"
+      ],
+      "answer": 1,
+      "explanation": "The Parijata grows in Nandana, the pleasure garden of Indra's heaven described in the Puranas."
+    },
+    {
+      "id": "parijata-q16",
+      "difficulty": "medium",
+      "q": "In the Samudra Manthana, the avatar of Vishnu who supported the sinking Mount Mandara on his back was which form?",
+      "options": [
+        "Matsya, the fish",
+        "Varaha, the boar",
+        "Kurma, the tortoise",
+        "Narasimha, the man-lion"
+      ],
+      "answer": 2,
+      "explanation": "Vishnu took the form of Kurma, the tortoise, to bear Mount Mandara upon his back during the churning."
+    },
+    {
+      "id": "parijata-q17",
+      "difficulty": "medium",
+      "q": "The Parijata is one of the auspicious treasures of the churning; which goddess of fortune also arose from the same waters?",
+      "options": [
+        "Saraswati",
+        "Parvati",
+        "Ushas",
+        "Lakshmi"
+      ],
+      "answer": 3,
+      "explanation": "Lakshmi, the goddess of fortune and consort of Vishnu, emerged from the churning that also yielded the Parijata."
+    },
+    {
+      "id": "parijata-q18",
+      "difficulty": "medium",
+      "q": "In the Harivamsha, after Krishna obtained the Parijata, in whose courtyard or garden was the tree planted at Dvaraka?",
+      "options": [
+        "Satyabhama's",
+        "Rukmini's",
+        "Jambavati's",
+        "Kalindi's"
+      ],
+      "answer": 0,
+      "explanation": "The tree was planted in the garden of Satyabhama, for whose sake Krishna had brought the Parijata to Dvaraka."
+    },
+    {
+      "id": "parijata-q19",
+      "difficulty": "medium",
+      "q": "The Parijata is described as a tree that grants wishes; such a wish-fulfilling celestial tree is known by which general term?",
+      "options": [
+        "Akshayavata",
+        "Kalpavriksha",
+        "Bodhi tree",
+        "Banyan of Prayaga"
+      ],
+      "answer": 1,
+      "explanation": "The Parijata is reckoned among the kalpavriksha, the wish-fulfilling celestial trees of the gods."
+    },
+    {
+      "id": "parijata-q20",
+      "difficulty": "medium",
+      "q": "Which queen of Krishna is traditionally contrasted with Satyabhama in the Parijata story for receiving only a single blossom rather than the whole tree?",
+      "options": [
+        "Mitravinda",
+        "Lakshana",
+        "Rukmini",
+        "Bhadra"
+      ],
+      "answer": 2,
+      "explanation": "In the tale, Krishna gives a Parijata blossom to Rukmini while the tree itself is planted for Satyabhama, a contrast central to the story."
+    },
+    {
+      "id": "parijata-q21",
+      "difficulty": "medium",
+      "q": "The Samudra Manthana that yielded the Parijata is most fully narrated in which body of texts and the epics?",
+      "options": [
+        "The Ashtadhyayi",
+        "The Yoga Sutras",
+        "The Brahma Sutras",
+        "The Puranas and the Mahabharata"
+      ],
+      "answer": 3,
+      "explanation": "The churning of the ocean is narrated in the Puranas and in the Mahabharata."
+    },
+    {
+      "id": "parijata-q22",
+      "difficulty": "medium",
+      "q": "The Parijata emerged from the ocean of milk, which in Sanskrit cosmology is named what?",
+      "options": [
+        "Kshira Sagara",
+        "Lavana Sagara",
+        "Sura Sagara",
+        "Dadhi Sagara"
+      ],
+      "answer": 0,
+      "explanation": "The ocean of milk that was churned is called the Kshira Sagara in Sanskrit."
+    },
+    {
+      "id": "parijata-q23",
+      "difficulty": "hard",
+      "q": "In the Harivamsha account, who accompanies Krishna to Indra's heaven and aids him in taking the Parijata?",
+      "options": [
+        "Balarama",
+        "Satyabhama",
+        "Arjuna",
+        "Uddhava"
+      ],
+      "answer": 1,
+      "explanation": "In the Harivamsha, Satyabhama rides with Krishna on Garuda to Indra's heaven when the Parijata is taken."
+    },
+    {
+      "id": "parijata-q24",
+      "difficulty": "hard",
+      "q": "On which mount does Krishna fly to Indra's heaven to obtain the Parijata in the Puranic narrative?",
+      "options": [
+        "Nandi, the bull",
+        "Airavata, the elephant",
+        "Garuda, the eagle",
+        "Uchchaihshravas, the horse"
+      ],
+      "answer": 2,
+      "explanation": "Krishna rides his eagle-mount Garuda to Indra's heaven to bring back the Parijata."
+    },
+    {
+      "id": "parijata-q25",
+      "difficulty": "hard",
+      "q": "According to the tradition surrounding the Parijata episode, who was the consort of Indra that wished to keep the tree in heaven?",
+      "options": [
+        "Rohini",
+        "Svaha",
+        "Rati",
+        "Shachi (Indrani)"
+      ],
+      "answer": 3,
+      "explanation": "Shachi, also called Indrani, the consort of Indra, is associated with the heavenly Parijata that Krishna removed."
+    },
+    {
+      "id": "parijata-q26",
+      "difficulty": "hard",
+      "q": "In the Bhagavata Purana, after Krishna defeats Indra in the contest over the Parijata, what is said of their relationship at the episode's close?",
+      "options": [
+        "Indra is reconciled with Krishna",
+        "Indra is slain and replaced",
+        "Krishna is banished from heaven",
+        "The tree is destroyed in the strife"
+      ],
+      "answer": 0,
+      "explanation": "The episode closes with reconciliation: Indra yields the Parijata, and harmony is restored between him and Krishna."
+    },
+    {
+      "id": "parijata-q27",
+      "difficulty": "hard",
+      "q": "During the same Samudra Manthana that produced the Parijata, the dreadful poison that first arose was consumed by which deity?",
+      "options": [
+        "Vishnu",
+        "Shiva",
+        "Agni",
+        "Vayu"
+      ],
+      "answer": 1,
+      "explanation": "Shiva drank the Halahala poison that emerged before the treasures, including the Parijata, appeared."
+    },
+    {
+      "id": "parijata-q28",
+      "difficulty": "hard",
+      "q": "The Parijata is grouped among the ratnas (treasures) of the churning; which celestial wish-granting cow is likewise counted among those treasures?",
+      "options": [
+        "Nandini",
+        "Surabhi of the south",
+        "Kamadhenu",
+        "Patala-dhenu"
+      ],
+      "answer": 2,
+      "explanation": "Kamadhenu, the wish-fulfilling cow, is among the celebrated treasures (ratnas) that arose from the churning alongside the Parijata."
+    },
+    {
+      "id": "parijata-q29",
+      "difficulty": "hard",
+      "q": "In the Harivamsha, what is said to become of the Parijata tree after Krishna's earthly sojourn concludes?",
+      "options": [
+        "It withers away forever",
+        "It is given to the Pandavas",
+        "It sinks back into the ocean",
+        "It is returned to Indra's heaven"
+      ],
+      "answer": 3,
+      "explanation": "The Harivamsha relates that the Parijata is restored to Indra's heaven after the close of Krishna's earthly life."
+    },
+    {
+      "id": "parijata-q30",
+      "difficulty": "hard",
+      "q": "The Parijata belongs to the cluster of treasures from the churning; which of the following is the physician-god who rose from the same ocean, rather than a tree or plant?",
+      "options": [
+        "Dhanvantari",
+        "Parijata",
+        "Kalpavriksha",
+        "Tulasi"
+      ],
+      "answer": 0,
+      "explanation": "Dhanvantari, the physician of the gods bearing the pot of Amrita, rose from the churned ocean, distinct from the Parijata tree."
+    }
+  ]
+}

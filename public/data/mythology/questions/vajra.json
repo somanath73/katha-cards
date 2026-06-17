@@ -1,0 +1,395 @@
+{
+  "cardId": "vajra",
+  "questions": [
+    {
+      "id": "vajra-q01",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, the Vajra is the signature weapon of which deity?",
+      "options": [
+        "Indra",
+        "Yama",
+        "Varuna",
+        "Agni"
+      ],
+      "answer": 0,
+      "explanation": "The Vajra is the thunderbolt wielded by Indra, the king of the devas."
+    },
+    {
+      "id": "vajra-q02",
+      "difficulty": "easy",
+      "q": "What kind of weapon is the Vajra of Indra usually described as?",
+      "options": [
+        "A noose",
+        "A thunderbolt",
+        "A bow",
+        "A returning discus"
+      ],
+      "answer": 1,
+      "explanation": "The Vajra is celebrated as Indra's indestructible thunderbolt."
+    },
+    {
+      "id": "vajra-q03",
+      "difficulty": "easy",
+      "q": "In the Rigveda, Indra uses the Vajra most famously to slay which serpent?",
+      "options": [
+        "Vasuki",
+        "Shesha",
+        "Vritra",
+        "Takshaka"
+      ],
+      "answer": 2,
+      "explanation": "The Rigveda celebrates the Vajra as the weapon with which Indra slew the serpent Vritra."
+    },
+    {
+      "id": "vajra-q04",
+      "difficulty": "easy",
+      "q": "When Indra slew Vritra with the Vajra, what did this act release for the world?",
+      "options": [
+        "The sun's light",
+        "The nectar amrita",
+        "The sacred fire",
+        "The imprisoned waters"
+      ],
+      "answer": 3,
+      "explanation": "By slaying Vritra with the Vajra, Indra released the waters the serpent had imprisoned."
+    },
+    {
+      "id": "vajra-q05",
+      "difficulty": "easy",
+      "q": "According to the Puranas, the Vajra was forged from the bones of which self-sacrificing sage?",
+      "options": [
+        "Dadhichi",
+        "Vishwamitra",
+        "Agastya",
+        "Markandeya"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas relate that the Vajra was forged from the spine and bones of the sage Dadhichi."
+    },
+    {
+      "id": "vajra-q06",
+      "difficulty": "easy",
+      "q": "The name 'Vajra' carries the meaning of which two qualities?",
+      "options": [
+        "Fire and water",
+        "Diamond and thunderbolt",
+        "Gold and silver",
+        "Wind and lightning"
+      ],
+      "answer": 1,
+      "explanation": "'Vajra' signifies both 'diamond' (the unbreakable) and 'thunderbolt' (the irresistible)."
+    },
+    {
+      "id": "vajra-q07",
+      "difficulty": "easy",
+      "q": "Indra, the wielder of the Vajra, holds what rank among the gods?",
+      "options": [
+        "Lord of death",
+        "God of the ocean",
+        "King of the devas",
+        "Creator of the worlds"
+      ],
+      "answer": 2,
+      "explanation": "Indra, who bears the Vajra, is the king of the devas in Hindu tradition."
+    },
+    {
+      "id": "vajra-q08",
+      "difficulty": "easy",
+      "q": "In which body of Hindu scripture is Indra's Vajra most prominently celebrated?",
+      "options": [
+        "The Bhagavad Gita",
+        "The Manusmriti",
+        "The Arthashastra",
+        "The Rigveda"
+      ],
+      "answer": 3,
+      "explanation": "The Rigveda celebrates the Vajra as the weapon by which Indra slew Vritra."
+    },
+    {
+      "id": "vajra-q09",
+      "difficulty": "easy",
+      "q": "The serpent Vritra, slain by Indra's Vajra, was associated with withholding what from the world?",
+      "options": [
+        "The waters",
+        "The harvest",
+        "The dawn",
+        "The moon"
+      ],
+      "answer": 0,
+      "explanation": "Vritra was the drought-serpent who imprisoned the waters until Indra slew him."
+    },
+    {
+      "id": "vajra-q10",
+      "difficulty": "easy",
+      "q": "What enduring quality is the Vajra of Indra said to possess?",
+      "options": [
+        "It is invisible",
+        "It is indestructible",
+        "It melts in fire",
+        "It can be thrown only once"
+      ],
+      "answer": 1,
+      "explanation": "The Vajra is described as Indra's indestructible thunderbolt, unbreakable as a diamond."
+    },
+    {
+      "id": "vajra-q11",
+      "difficulty": "medium",
+      "q": "According to the Puranas, which divine craftsman is most often credited with forging Indra's Vajra?",
+      "options": [
+        "Brahma",
+        "Kubera",
+        "Vishvakarma",
+        "Narada"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas credit the divine architect Vishvakarma with fashioning the Vajra from Dadhichi's bones."
+    },
+    {
+      "id": "vajra-q12",
+      "difficulty": "medium",
+      "q": "In the Puranic account, why did the sage Dadhichi give up his body so the Vajra could be made?",
+      "options": [
+        "To win a boon for himself",
+        "To escape a curse",
+        "To become immortal",
+        "So the gods could fashion a weapon against the asuras"
+      ],
+      "answer": 3,
+      "explanation": "Dadhichi sacrificed his body so that his indestructible bones could become the gods' weapon against the asuras."
+    },
+    {
+      "id": "vajra-q13",
+      "difficulty": "medium",
+      "q": "Indra, the bearer of the Vajra, rides which celestial mount?",
+      "options": [
+        "The white elephant Airavata",
+        "The bull Nandi",
+        "The eagle Garuda",
+        "The peacock Paravani"
+      ],
+      "answer": 0,
+      "explanation": "Indra rides the white elephant Airavata, who arose from the churning of the ocean of milk."
+    },
+    {
+      "id": "vajra-q14",
+      "difficulty": "medium",
+      "q": "Indra, who wields the Vajra, rules over which heavenly realm?",
+      "options": [
+        "Vaikuntha",
+        "Svarga",
+        "Kailash",
+        "Patala"
+      ],
+      "answer": 1,
+      "explanation": "Indra is the ruler of Svarga, the heaven of the devas."
+    },
+    {
+      "id": "vajra-q15",
+      "difficulty": "medium",
+      "q": "What is the name of Indra's resplendent capital city, from which he reigns as wielder of the Vajra?",
+      "options": [
+        "Dvaraka",
+        "Lanka",
+        "Amaravati",
+        "Ayodhya"
+      ],
+      "answer": 2,
+      "explanation": "Indra reigns from Amaravati, the resplendent capital of his heaven Svarga."
+    },
+    {
+      "id": "vajra-q16",
+      "difficulty": "medium",
+      "q": "Which epithet of Indra most directly refers to his wielding of the Vajra?",
+      "options": [
+        "Gangadhara, the bearer of Ganga",
+        "Trivikrama, of three strides",
+        "Nilakantha, the blue-throated",
+        "Vajrapani, the thunderbolt-bearer"
+      ],
+      "answer": 3,
+      "explanation": "Indra is called Vajrapani, 'the one who holds the Vajra' in his hand."
+    },
+    {
+      "id": "vajra-q17",
+      "difficulty": "medium",
+      "q": "Among the divine weapons of Hindu tradition, which belongs to Vishnu rather than being Indra's Vajra?",
+      "options": [
+        "The Sudarshana Chakra",
+        "The thunderbolt",
+        "The Pashupatastra",
+        "The Trishula"
+      ],
+      "answer": 0,
+      "explanation": "The Sudarshana Chakra is Vishnu's discus, distinct from Indra's thunderbolt the Vajra."
+    },
+    {
+      "id": "vajra-q18",
+      "difficulty": "medium",
+      "q": "The Vajra is the emblematic weapon of Indra; which weapon is similarly emblematic of Shiva?",
+      "options": [
+        "The Vajra (thunderbolt)",
+        "The Trishula (trident)",
+        "The Kaumodaki (mace)",
+        "The Panchajanya (conch)"
+      ],
+      "answer": 1,
+      "explanation": "The Trishula, or trident, is the signature weapon of Shiva, as the Vajra is of Indra."
+    },
+    {
+      "id": "vajra-q19",
+      "difficulty": "medium",
+      "q": "In the Puranic version of the Vritra myth, why is Indra said to have needed a special weapon like the Vajra?",
+      "options": [
+        "Vritra was hidden underwater",
+        "Vritra was invisible",
+        "Vritra could not be slain by ordinary weapons of wood or metal",
+        "Vritra could fly beyond reach"
+      ],
+      "answer": 2,
+      "explanation": "Puranic tradition holds that Vritra could not be harmed by ordinary weapons of wood or metal, so the Vajra was forged from the bones of the sage Dadhichi to slay him."
+    },
+    {
+      "id": "vajra-q20",
+      "difficulty": "medium",
+      "q": "Within the classification of Hindu lore, the Vajra of Indra is best described as which type of object?",
+      "options": [
+        "A celestial mount",
+        "A sacred river",
+        "A planetary deity",
+        "A divine weapon (astra)"
+      ],
+      "answer": 3,
+      "explanation": "The Vajra is a divine artifact, the thunderbolt-weapon of Indra."
+    },
+    {
+      "id": "vajra-q21",
+      "difficulty": "medium",
+      "q": "The Vajra is associated with thunder and lightning, fitting Indra's role as which kind of deity?",
+      "options": [
+        "A god of storm and rain",
+        "A god of the underworld",
+        "A god of wealth",
+        "A god of the dead"
+      ],
+      "answer": 0,
+      "explanation": "Indra is the Vedic god of storm, thunder, and rain, whose Vajra is the thunderbolt."
+    },
+    {
+      "id": "vajra-q22",
+      "difficulty": "medium",
+      "q": "Which sage, whose bones became the Vajra, is remembered chiefly for an act of supreme self-sacrifice?",
+      "options": [
+        "Vasishtha",
+        "Dadhichi",
+        "Bharadvaja",
+        "Kashyapa"
+      ],
+      "answer": 1,
+      "explanation": "The sage Dadhichi is remembered for sacrificing his body so his bones could be forged into the Vajra."
+    },
+    {
+      "id": "vajra-q23",
+      "difficulty": "hard",
+      "q": "In the Rigveda, the slaying of Vritra by the Vajra earns Indra which celebrated title?",
+      "options": [
+        "Maryada Purushottama",
+        "Adi-kavi",
+        "Vritrahan, the slayer of Vritra",
+        "Mahishasuramardini"
+      ],
+      "answer": 2,
+      "explanation": "For slaying Vritra with the Vajra, Indra is called Vritrahan, 'the slayer of Vritra.'"
+    },
+    {
+      "id": "vajra-q24",
+      "difficulty": "hard",
+      "q": "According to the Puranic account, what part of the sage Dadhichi's body was specifically used to forge the Vajra?",
+      "options": [
+        "His skull",
+        "His heart",
+        "His hair",
+        "His spine"
+      ],
+      "answer": 3,
+      "explanation": "The Puranas relate that the Vajra was forged from the spine, or backbone, of the sage Dadhichi."
+    },
+    {
+      "id": "vajra-q25",
+      "difficulty": "hard",
+      "q": "The Vajra's name conveys 'unbreakable'; from which substance does it draw that meaning?",
+      "options": [
+        "The diamond",
+        "Pure gold",
+        "Tempered iron",
+        "Crystal"
+      ],
+      "answer": 0,
+      "explanation": "The Vajra is named for the diamond (vajra), symbolizing the unbreakable and irresistible."
+    },
+    {
+      "id": "vajra-q26",
+      "difficulty": "hard",
+      "q": "In the Puranas, the Vajra-wielding Indra is humbled by Krishna during which episode?",
+      "options": [
+        "The churning of the ocean",
+        "The lifting of Mount Govardhan",
+        "The burning of Tripura",
+        "The descent of the Ganga"
+      ],
+      "answer": 1,
+      "explanation": "Indra's pride is humbled when Krishna lifts Mount Govardhan to shelter Vrindavan from Indra's storm."
+    },
+    {
+      "id": "vajra-q27",
+      "difficulty": "hard",
+      "q": "Which of the following is NOT a traditional attribute of Indra, the bearer of the Vajra?",
+      "options": [
+        "The white elephant Airavata",
+        "Rulership of Svarga",
+        "Matted locks bearing the crescent moon",
+        "The thunderbolt weapon"
+      ],
+      "answer": 2,
+      "explanation": "Matted locks bearing the crescent moon are an attribute of Shiva, not of Indra the Vajra-bearer."
+    },
+    {
+      "id": "vajra-q28",
+      "difficulty": "hard",
+      "q": "The serpent Vritra slain by the Vajra is, in the Vedic hymns, chiefly portrayed as an obstacle to what cosmic process?",
+      "options": [
+        "The rising of the sun each dawn",
+        "The turning of the seasons",
+        "The cycle of rebirth",
+        "The flowing of the life-giving waters"
+      ],
+      "answer": 3,
+      "explanation": "Vritra blocks the cosmic flow of the waters, and Indra's Vajra releases them to nourish the world."
+    },
+    {
+      "id": "vajra-q29",
+      "difficulty": "hard",
+      "q": "Both the Vajra and Vishnu's Sudarshana Chakra share which purpose among great divine weapons?",
+      "options": [
+        "They are wielded to uphold cosmic order against powerful foes",
+        "They were both gifts of Shiva",
+        "They were both churned from the ocean of milk",
+        "They both belong to Indra"
+      ],
+      "answer": 0,
+      "explanation": "Like Vishnu's Sudarshana Chakra, Indra's Vajra is wielded to uphold cosmic order by destroying mighty foes."
+    },
+    {
+      "id": "vajra-q30",
+      "difficulty": "hard",
+      "q": "Within Hindu symbolism, the Vajra of Indra primarily stands for which idea?",
+      "options": [
+        "Boundless compassion",
+        "Indomitable, irresistible power",
+        "Renunciation of the world",
+        "The fragility of life"
+      ],
+      "answer": 1,
+      "explanation": "The Vajra symbolizes indomitable, irresistible power, being unbreakable as diamond and forceful as the thunderbolt."
+    }
+  ]
+}

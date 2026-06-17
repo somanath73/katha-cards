@@ -1,0 +1,395 @@
+{
+  "cardId": "dharma",
+  "questions": [
+    {
+      "id": "dharma-q01",
+      "difficulty": "easy",
+      "q": "In Hindu thought, what does the concept of dharma most broadly refer to?",
+      "options": [
+        "The god of wealth and prosperity",
+        "A celestial weapon of Vishnu",
+        "A sacred river of the Himalayas",
+        "The cosmic order and righteous duty that sustains creation"
+      ],
+      "answer": 3,
+      "explanation": "Dharma is the cosmic order and the duty proper to each being that upholds creation, as expounded across the Vedas, Dharmashastras, and the epics."
+    },
+    {
+      "id": "dharma-q02",
+      "difficulty": "easy",
+      "q": "The word dharma derives from the Sanskrit root 'dhr', which means what?",
+      "options": [
+        "To hold or sustain",
+        "To burn or consume",
+        "To wander or travel",
+        "To speak or sing"
+      ],
+      "answer": 0,
+      "explanation": "Dharma comes from the root dhr, meaning to hold or sustain, reflecting its role in keeping creation from collapse."
+    },
+    {
+      "id": "dharma-q03",
+      "difficulty": "easy",
+      "q": "Which animal is the enduring symbol traditionally associated with dharma in Hindu tradition?",
+      "options": [
+        "The lion",
+        "The bull",
+        "The eagle",
+        "The peacock"
+      ],
+      "answer": 1,
+      "explanation": "Dharma is often personified, and the bull is its enduring symbol in the tradition."
+    },
+    {
+      "id": "dharma-q04",
+      "difficulty": "easy",
+      "q": "According to the Puranas, on how many legs does Dharma, personified, stand fully in the Satya Yuga?",
+      "options": [
+        "Two legs",
+        "Three legs",
+        "Four legs",
+        "One leg"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas teach that Dharma stands on four legs in the Satya Yuga, losing one leg in each successive age."
+    },
+    {
+      "id": "dharma-q05",
+      "difficulty": "easy",
+      "q": "In the Ramayana, which prince of Ayodhya is revered as Maryada Purushottama, the perfect embodiment of dharma?",
+      "options": [
+        "Ravana",
+        "Hanuman",
+        "Bharata",
+        "Rama"
+      ],
+      "answer": 3,
+      "explanation": "Rama, hero of Valmiki's Ramayana, is revered as Maryada Purushottama, the perfect embodiment of dharma."
+    },
+    {
+      "id": "dharma-q06",
+      "difficulty": "easy",
+      "q": "Which deity of the Trimurti is described as preserving cosmic order, or dharma, descending as avatars whenever it declines?",
+      "options": [
+        "Vishnu",
+        "Brahma",
+        "Indra",
+        "Agni"
+      ],
+      "answer": 0,
+      "explanation": "Vishnu the preserver sustains cosmic order (dharma) and descends as the avatars whenever it falters."
+    },
+    {
+      "id": "dharma-q07",
+      "difficulty": "easy",
+      "q": "Which of these is one of the four classical aims of human life (purusharthas) in Hindu tradition, alongside dharma?",
+      "options": [
+        "Karma",
+        "Moksha",
+        "Maya",
+        "Tapas"
+      ],
+      "answer": 1,
+      "explanation": "The four purusharthas are dharma, artha, kama, and moksha, the last being final liberation of the soul."
+    },
+    {
+      "id": "dharma-q08",
+      "difficulty": "easy",
+      "q": "As dharma declines across the four yugas, which age is described in the Puranas as the present, darkest age?",
+      "options": [
+        "Satya Yuga",
+        "Treta Yuga",
+        "Kali Yuga",
+        "Dvapara Yuga"
+      ],
+      "answer": 2,
+      "explanation": "The present Kali Yuga is the darkest age, in which dharma is reduced to a single leg."
+    },
+    {
+      "id": "dharma-q09",
+      "difficulty": "easy",
+      "q": "Dharma is expounded across many texts; which of the following is a Dharmashastra dealing with law and duty?",
+      "options": [
+        "The Sundara Kanda",
+        "The Gayatri mantra",
+        "The Panchajanya",
+        "The Manusmriti"
+      ],
+      "answer": 3,
+      "explanation": "The Manusmriti is among the Dharmashastras that expound dharma, the duty proper to each being."
+    },
+    {
+      "id": "dharma-q10",
+      "difficulty": "easy",
+      "q": "The future avatar Kalki is prophesied in the Puranas to appear at the end of Kali Yuga to accomplish what regarding dharma?",
+      "options": [
+        "To renew dharma and usher in a new Satya Yuga",
+        "To abolish dharma forever",
+        "To replace dharma with karma",
+        "To hide the Vedas beneath the ocean"
+      ],
+      "answer": 0,
+      "explanation": "Kalki is said to come to destroy the wicked, end the age of darkness, and usher in the renewal of dharma and a new Satya Yuga."
+    },
+    {
+      "id": "dharma-q11",
+      "difficulty": "medium",
+      "q": "In the Bhagavad Gita, what does Krishna declare he descends to accomplish whenever dharma declines?",
+      "options": [
+        "To churn the ocean of milk",
+        "To establish dharma and protect the righteous",
+        "To bring the Ganga down to earth",
+        "To compose the Vedas anew"
+      ],
+      "answer": 1,
+      "explanation": "In the Gita, Krishna says he takes birth in age after age to protect the good, destroy the wicked, and re-establish dharma."
+    },
+    {
+      "id": "dharma-q12",
+      "difficulty": "medium",
+      "q": "Which classical text genre, including the Manusmriti, specifically codifies dharma as law and duty?",
+      "options": [
+        "The Brahmanas",
+        "The Aranyakas",
+        "The Dharmashastras",
+        "The Samhitas"
+      ],
+      "answer": 2,
+      "explanation": "The Dharmashastras, such as the Manusmriti, are the texts that codify dharma as law and duty."
+    },
+    {
+      "id": "dharma-q13",
+      "difficulty": "medium",
+      "q": "Which deity, the impartial judge of the dead, is also titled Dharmaraja, lord of righteousness?",
+      "options": [
+        "Varuna",
+        "Kubera",
+        "Chandra",
+        "Yama"
+      ],
+      "answer": 3,
+      "explanation": "Yama, king of the dead and impartial judge of souls, is also Dharmaraja, the lord of righteousness."
+    },
+    {
+      "id": "dharma-q14",
+      "difficulty": "medium",
+      "q": "The four yugas form a complete cycle across which dharma steadily diminishes. What is this set of four ages collectively called?",
+      "options": [
+        "A chaturyuga",
+        "A manvantara",
+        "A kalpa",
+        "A pralaya"
+      ],
+      "answer": 0,
+      "explanation": "Satya, Treta, Dvapara, and Kali together form a chaturyuga, across which dharma declines from four legs to one."
+    },
+    {
+      "id": "dharma-q15",
+      "difficulty": "medium",
+      "q": "In the Vedas, which term denotes the cosmic and moral order closely connected to the idea of dharma, upheld by the god Varuna?",
+      "options": [
+        "Maya",
+        "Rita",
+        "Soma",
+        "Tejas"
+      ],
+      "answer": 1,
+      "explanation": "Rita is the Vedic cosmic and moral order upheld by Varuna, an early conception kindred to dharma."
+    },
+    {
+      "id": "dharma-q16",
+      "difficulty": "medium",
+      "q": "In the Ramayana, the righteous brother of Ravana who urges him to uphold dharma and return Sita is whom?",
+      "options": [
+        "Kumbhakarna",
+        "Indrajit",
+        "Vibhishana",
+        "Vali"
+      ],
+      "answer": 2,
+      "explanation": "Vibhishana counsels Ravana to return Sita and uphold dharma, and is later consecrated king of Lanka by Rama."
+    },
+    {
+      "id": "dharma-q17",
+      "difficulty": "medium",
+      "q": "The four purusharthas place dharma first among life's aims. What does the term artha denote among them?",
+      "options": [
+        "Liberation from rebirth",
+        "Sensory pleasure and love",
+        "Righteous duty",
+        "Material prosperity and worldly success"
+      ],
+      "answer": 3,
+      "explanation": "Among the purusharthas, artha denotes material prosperity and worldly success, pursued in harmony with dharma."
+    },
+    {
+      "id": "dharma-q18",
+      "difficulty": "medium",
+      "q": "According to the Puranas, the present Kali Yuga, the age in which dharma is weakest, is said to have begun at the close of whose earthly life?",
+      "options": [
+        "Krishna's",
+        "Rama's",
+        "Valmiki's",
+        "Bhagiratha's"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas say the Kali Yuga began at the close of Krishna's earthly life, the age in which dharma is reduced to one leg."
+    },
+    {
+      "id": "dharma-q19",
+      "difficulty": "medium",
+      "q": "The oldest layer of scripture in which the conception of cosmic order underlying dharma first appears is which body of texts?",
+      "options": [
+        "The Puranas",
+        "The Vedas",
+        "The Dharmashastras",
+        "The epics"
+      ],
+      "answer": 1,
+      "explanation": "Dharma is expounded across the Vedas, the Dharmashastras, and the epics, the Vedas being the oldest scriptural layer."
+    },
+    {
+      "id": "dharma-q20",
+      "difficulty": "medium",
+      "q": "Which goddess of knowledge and speech, consort of the creator Brahma, embodies the wisdom by which dharma is learned and transmitted?",
+      "options": [
+        "Lakshmi",
+        "Parvati",
+        "Saraswati",
+        "Durga"
+      ],
+      "answer": 2,
+      "explanation": "Saraswati is the goddess of knowledge, speech, and the arts, consort of Brahma and embodiment of learning."
+    },
+    {
+      "id": "dharma-q21",
+      "difficulty": "medium",
+      "q": "In the Ramayana, Rama upholds his father Dasharatha's promise by accepting what, a celebrated example of dharma?",
+      "options": [
+        "The throne of Lanka",
+        "The bow of Shiva",
+        "The kingship of Kishkindha",
+        "A fourteen-year exile to the forest"
+      ],
+      "answer": 3,
+      "explanation": "Rama accepts a fourteen-year forest exile to honor his father's word, a celebrated act of upholding dharma."
+    },
+    {
+      "id": "dharma-q22",
+      "difficulty": "medium",
+      "q": "The Bhagavad Gita teaches a doctrine concerning one's own dharma. What is the term for a person's individual duty according to their nature and station?",
+      "options": [
+        "Sva-dharma",
+        "Sanatana",
+        "Moksha",
+        "Yajna"
+      ],
+      "answer": 0,
+      "explanation": "Sva-dharma is one's own individual duty according to nature and station, central to the Gita's teaching to Arjuna."
+    },
+    {
+      "id": "dharma-q23",
+      "difficulty": "hard",
+      "q": "In the Mahabharata, the eldest Pandava Yudhishthira is so devoted to truth and duty that he bears which epithet related to dharma?",
+      "options": [
+        "Gangadhara",
+        "Dharmaputra (son of Dharma)",
+        "Maryada Purushottama",
+        "Vighnaharta"
+      ],
+      "answer": 1,
+      "explanation": "Yudhishthira, born of the god Dharma, is called Dharmaputra and Dharmaraja for his unwavering adherence to righteousness."
+    },
+    {
+      "id": "dharma-q24",
+      "difficulty": "hard",
+      "q": "In the Mahabharata, a famous trial of dharma occurs at the Yaksha Prashna, where a yaksha questions a Pandava beside a lake. The yaksha is later revealed to be which deity?",
+      "options": [
+        "Indra",
+        "Varuna",
+        "Yama, in the form of Dharma",
+        "Agni"
+      ],
+      "answer": 2,
+      "explanation": "In the Yaksha Prashna, the questioning yaksha is revealed to be Yama, the god Dharma, testing his son Yudhishthira."
+    },
+    {
+      "id": "dharma-q25",
+      "difficulty": "hard",
+      "q": "At the close of the Mahabharata, a faithful dog accompanies Yudhishthira on his final ascent and is revealed to be which divinity in disguise?",
+      "options": [
+        "Vishnu",
+        "Indra",
+        "Kubera",
+        "The god Dharma"
+      ],
+      "answer": 3,
+      "explanation": "The dog that follows Yudhishthira to heaven is the god Dharma himself, testing his compassion and steadfastness."
+    },
+    {
+      "id": "dharma-q26",
+      "difficulty": "hard",
+      "q": "Across the four yugas, by how many legs does Dharma, personified as the bull, diminish from one age to the next?",
+      "options": [
+        "By one leg per age",
+        "By two legs per age",
+        "By half a leg per age",
+        "It remains constant"
+      ],
+      "answer": 0,
+      "explanation": "Dharma stands on four legs in the Satya Yuga and loses one leg in each successive age until only one remains in Kali Yuga."
+    },
+    {
+      "id": "dharma-q27",
+      "difficulty": "hard",
+      "q": "Hindu tradition speaks of Sanatana Dharma. What does the term 'sanatana' signify in this phrase?",
+      "options": [
+        "Hidden or secret",
+        "Eternal or everlasting",
+        "Conquered or defeated",
+        "Wandering or restless"
+      ],
+      "answer": 1,
+      "explanation": "Sanatana means eternal or everlasting, and Sanatana Dharma denotes the eternal order or law."
+    },
+    {
+      "id": "dharma-q28",
+      "difficulty": "hard",
+      "q": "In Hindu tradition, the duties that are common to all beings, such as non-violence and truthfulness, regardless of caste or stage of life, are termed what?",
+      "options": [
+        "Sva-dharma",
+        "Varna-dharma",
+        "Sadharana dharma (or samanya dharma)",
+        "Ashrama-dharma"
+      ],
+      "answer": 2,
+      "explanation": "Sadharana or samanya dharma refers to the universal duties common to all, such as truthfulness and non-violence."
+    },
+    {
+      "id": "dharma-q29",
+      "difficulty": "hard",
+      "q": "The framework relating dharma to one's caste (varna) and stage of life (ashrama) is known by what compound term?",
+      "options": [
+        "Nishkama karma",
+        "Pancha-lakshana",
+        "Yoga nidra",
+        "Varnashrama dharma"
+      ],
+      "answer": 3,
+      "explanation": "Varnashrama dharma is the framework prescribing duties according to one's varna (caste) and ashrama (stage of life)."
+    },
+    {
+      "id": "dharma-q30",
+      "difficulty": "hard",
+      "q": "In the Mahabharata, the duty prescribed for one facing extreme distress or emergency, when ordinary rules of dharma may be set aside, is termed what?",
+      "options": [
+        "Apad-dharma",
+        "Raja-dharma",
+        "Stri-dharma",
+        "Moksha-dharma"
+      ],
+      "answer": 0,
+      "explanation": "Apad-dharma is the dharma applicable in times of distress or emergency, discussed at length in the Mahabharata's Shanti Parva."
+    }
+  ]
+}

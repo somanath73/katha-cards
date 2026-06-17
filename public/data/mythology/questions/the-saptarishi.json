@@ -1,0 +1,395 @@
+{
+  "cardId": "the-saptarishi",
+  "questions": [
+    {
+      "id": "the-saptarishi-q01",
+      "difficulty": "easy",
+      "q": "How many great sages are collectively honoured as the Saptarishi in Hindu tradition?",
+      "options": [
+        "Five",
+        "Seven",
+        "Nine",
+        "Twelve"
+      ],
+      "answer": 1,
+      "explanation": "The very name 'Saptarishi' means the Seven Seers, denoting the group of seven great rishis."
+    },
+    {
+      "id": "the-saptarishi-q02",
+      "difficulty": "easy",
+      "q": "According to the Puranas, the Saptarishi are most often described as the mind-born sons of which creator deity?",
+      "options": [
+        "Vishnu",
+        "Indra",
+        "Brahma",
+        "Shiva"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas describe the Saptarishi as manasaputras, the mind-born sons of Brahma the creator."
+    },
+    {
+      "id": "the-saptarishi-q03",
+      "difficulty": "easy",
+      "q": "The Saptarishi are traditionally identified with the seven stars of which well-known constellation?",
+      "options": [
+        "Orion",
+        "Pleiades",
+        "Cassiopeia",
+        "Ursa Major (the Great Bear)"
+      ],
+      "answer": 3,
+      "explanation": "According to the Puranas, the seven seers are identified with the seven stars of Ursa Major, the Great Bear."
+    },
+    {
+      "id": "the-saptarishi-q04",
+      "difficulty": "easy",
+      "q": "In Hindu cosmology, the Saptarishi are revered chiefly as the receivers and transmitters of which sacred body of knowledge?",
+      "options": [
+        "The Vedas",
+        "The Puranas",
+        "The Arthashastra",
+        "The Natyashastra"
+      ],
+      "answer": 0,
+      "explanation": "The seven seers are honoured as the rishis who received and transmitted the Vedas to humanity."
+    },
+    {
+      "id": "the-saptarishi-q05",
+      "difficulty": "easy",
+      "q": "Which of these revered sages is included in the commonly cited list of the Saptarishi?",
+      "options": [
+        "Ravana",
+        "Vasishtha",
+        "Hanuman",
+        "Sugriva"
+      ],
+      "answer": 1,
+      "explanation": "Vasishtha is one of the seven seers named in the common Puranic list of the Saptarishi."
+    },
+    {
+      "id": "the-saptarishi-q06",
+      "difficulty": "easy",
+      "q": "Which sage of the Saptarishi served as the family preceptor (guru) of the Ikshvaku kings, including Rama, in the Ramayana?",
+      "options": [
+        "Vishvamitra",
+        "Jamadagni",
+        "Vasishtha",
+        "Atri"
+      ],
+      "answer": 2,
+      "explanation": "In the Ramayana, Vasishtha is the revered family priest and preceptor of the Ikshvaku dynasty of Ayodhya."
+    },
+    {
+      "id": "the-saptarishi-q07",
+      "difficulty": "easy",
+      "q": "In the Ramayana, which sage of the Saptarishi taught young Rama divine weapons and led him to slay the demoness Tataka?",
+      "options": [
+        "Bharadvaja",
+        "Kashyapa",
+        "Gautama",
+        "Vishvamitra"
+      ],
+      "answer": 3,
+      "explanation": "Sage Vishvamitra takes Rama and Lakshmana to guard his sacrifice and instructs them in divine weapons in the Ramayana."
+    },
+    {
+      "id": "the-saptarishi-q08",
+      "difficulty": "easy",
+      "q": "The era or age presided over by a Manu, during which a particular set of Saptarishi anchor the cosmic order, is called by which name?",
+      "options": [
+        "Manvantara",
+        "Yuga",
+        "Kalpa",
+        "Muhurta"
+      ],
+      "answer": 0,
+      "explanation": "A manvantara is the cosmic period ruled by a Manu, and each manvantara has its own set of Saptarishi who uphold dharma."
+    },
+    {
+      "id": "the-saptarishi-q09",
+      "difficulty": "easy",
+      "q": "Which sage of the Saptarishi is renowned as the husband of the devoted Anasuya, celebrated for her chastity in the Puranas?",
+      "options": [
+        "Jamadagni",
+        "Atri",
+        "Gautama",
+        "Vasishtha"
+      ],
+      "answer": 1,
+      "explanation": "The sage Atri is the husband of Anasuya, whose great devotion and virtue are praised throughout the Puranas."
+    },
+    {
+      "id": "the-saptarishi-q10",
+      "difficulty": "easy",
+      "q": "Which sage among the Saptarishi is described as the father of Parashurama, the warrior-sage avatar of Vishnu?",
+      "options": [
+        "Bharadvaja",
+        "Kashyapa",
+        "Jamadagni",
+        "Vishvamitra"
+      ],
+      "answer": 2,
+      "explanation": "Jamadagni is the father of Parashurama, the axe-wielding sage and Vishnu avatar described in the Puranas and epics."
+    },
+    {
+      "id": "the-saptarishi-q11",
+      "difficulty": "medium",
+      "q": "In the common Puranic list of the Saptarishi, which sage is revered as a progenitor said to have fathered devas, asuras, and many beings through his many consorts?",
+      "options": [
+        "Gautama",
+        "Atri",
+        "Bharadvaja",
+        "Kashyapa"
+      ],
+      "answer": 3,
+      "explanation": "Kashyapa is honoured in the Puranas as a great progenitor whose offspring through his many wives include devas, asuras, nagas, and other beings."
+    },
+    {
+      "id": "the-saptarishi-q12",
+      "difficulty": "medium",
+      "q": "Which sage of the Saptarishi began as a king named Kaushika before attaining the rank of Brahmarishi through severe austerity?",
+      "options": [
+        "Vishvamitra",
+        "Vasishtha",
+        "Jamadagni",
+        "Atri"
+      ],
+      "answer": 0,
+      "explanation": "Vishvamitra was the warrior-king Kaushika who, through long penance, rose to become a Brahmarishi, as told in the Ramayana and Puranas."
+    },
+    {
+      "id": "the-saptarishi-q13",
+      "difficulty": "medium",
+      "q": "Sage Vishvamitra is traditionally credited in the Rig Veda with composing the hymn containing which celebrated mantra?",
+      "options": [
+        "The Mahamrityunjaya Mantra",
+        "The Gayatri Mantra",
+        "The Purusha Sukta",
+        "The Nasadiya Sukta"
+      ],
+      "answer": 1,
+      "explanation": "The sacred Gayatri Mantra of the Rig Veda is traditionally attributed to the seer Vishvamitra."
+    },
+    {
+      "id": "the-saptarishi-q14",
+      "difficulty": "medium",
+      "q": "Whose wife Ahalya, in the Ramayana, is restored by the touch of Rama after being cursed, in an episode tied to a sage of the Saptarishi?",
+      "options": [
+        "Bharadvaja",
+        "Atri",
+        "Gautama",
+        "Kashyapa"
+      ],
+      "answer": 2,
+      "explanation": "Ahalya is the wife of sage Gautama, and the Ramayana recounts her release from a curse through Rama's grace."
+    },
+    {
+      "id": "the-saptarishi-q15",
+      "difficulty": "medium",
+      "q": "Which sage of the Saptarishi hosted Rama, Sita, and Lakshmana at his hermitage near Prayaga during their exile in the Ramayana?",
+      "options": [
+        "Vishvamitra",
+        "Jamadagni",
+        "Kashyapa",
+        "Bharadvaja"
+      ],
+      "answer": 3,
+      "explanation": "In the Ramayana, sage Bharadvaja receives Rama and his companions at his ashram near the confluence at Prayaga."
+    },
+    {
+      "id": "the-saptarishi-q16",
+      "difficulty": "medium",
+      "q": "The long rivalry over the wish-fulfilling cow Nandini and Kamadhenu in the texts is famously set between Vishvamitra and which other Saptarishi sage?",
+      "options": [
+        "Vasishtha",
+        "Atri",
+        "Gautama",
+        "Jamadagni"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas and Ramayana describe the famed contest between Vishvamitra and Vasishtha over Vasishtha's divine cow."
+    },
+    {
+      "id": "the-saptarishi-q17",
+      "difficulty": "medium",
+      "q": "Which deity is said in the Puranas to have been born from the combined essence of Atri, Anasuya, and the divine trinity as the form Dattatreya?",
+      "options": [
+        "Kartikeya",
+        "Dattatreya",
+        "Ganesha",
+        "Ayyappa"
+      ],
+      "answer": 1,
+      "explanation": "Dattatreya, embodying Brahma, Vishnu, and Shiva, is described in the Puranas as the son of Atri and Anasuya."
+    },
+    {
+      "id": "the-saptarishi-q18",
+      "difficulty": "medium",
+      "q": "In the common list of the Saptarishi, the sage Bharadvaja is especially associated with the heritage of which field of sacred learning?",
+      "options": [
+        "Maritime navigation",
+        "The codification of law",
+        "The Vedas and the Ayurveda tradition",
+        "The science of warfare alone"
+      ],
+      "answer": 2,
+      "explanation": "Bharadvaja is honoured as a great Vedic seer to whom much sacred and Ayurvedic learning is traditionally ascribed."
+    },
+    {
+      "id": "the-saptarishi-q19",
+      "difficulty": "medium",
+      "q": "Which sage of the Saptarishi is traditionally regarded as a Mantra-drashta credited with seeing many hymns of the seventh mandala of the Rig Veda?",
+      "options": [
+        "Vishvamitra",
+        "Gautama",
+        "Jamadagni",
+        "Vasishtha"
+      ],
+      "answer": 3,
+      "explanation": "Vasishtha is traditionally credited as the seer of the hymns of the seventh mandala of the Rig Veda."
+    },
+    {
+      "id": "the-saptarishi-q20",
+      "difficulty": "medium",
+      "q": "In the Devi or Puranic accounts, the wives of the Saptarishi are themselves identified with the cluster of stars known by which name?",
+      "options": [
+        "The Krittikas (Pleiades)",
+        "The Ashvins",
+        "The Maruts",
+        "The Adityas"
+      ],
+      "answer": 0,
+      "explanation": "The wives of the seven seers are associated in the Puranas with the Krittika stars, the cluster known as the Pleiades."
+    },
+    {
+      "id": "the-saptarishi-q21",
+      "difficulty": "medium",
+      "q": "According to the Puranas, the Saptarishi are not fixed for all time but are renewed for each new cycle ruled by a different what?",
+      "options": [
+        "Yaksha",
+        "Manu",
+        "Gandharva",
+        "Apsara"
+      ],
+      "answer": 1,
+      "explanation": "Each manvantara is governed by its own Manu and accompanied by a distinct set of Saptarishi, as the Puranas describe."
+    },
+    {
+      "id": "the-saptarishi-q22",
+      "difficulty": "medium",
+      "q": "The sage Vasishtha is said in the Puranas to have a celestial wife whose name is shared with one of the stars of Ursa Major. Who is she?",
+      "options": [
+        "Rohini",
+        "Revati",
+        "Arundhati",
+        "Tara"
+      ],
+      "answer": 2,
+      "explanation": "Arundhati, the faithful wife of Vasishtha, is identified with the small star companion in the Great Bear constellation."
+    },
+    {
+      "id": "the-saptarishi-q23",
+      "difficulty": "hard",
+      "q": "The hermitage of the Saptarishi sage Gautama is traditionally linked to the origin of which major river of the Deccan, also called the Gautami after him?",
+      "options": [
+        "The Kaveri",
+        "The Krishna",
+        "The Tungabhadra",
+        "The Godavari"
+      ],
+      "answer": 3,
+      "explanation": "Puranic tradition links sage Gautama's hermitage to the source of the Godavari, which is also revered by the name Gautami after the sage."
+    },
+    {
+      "id": "the-saptarishi-q24",
+      "difficulty": "hard",
+      "q": "In the Ramayana, after Vishvamitra's long penance, who among the gods finally proclaims him a Brahmarishi, fulfilling his greatest aspiration?",
+      "options": [
+        "Brahma, with Vasishtha's acknowledgement",
+        "Indra alone",
+        "Yama",
+        "Kubera"
+      ],
+      "answer": 0,
+      "explanation": "The Ramayana relates that Vishvamitra attains the title of Brahmarishi, with Brahma and even his rival Vasishtha acknowledging it."
+    },
+    {
+      "id": "the-saptarishi-q25",
+      "difficulty": "hard",
+      "q": "The patriarch Kashyapa of the Saptarishi is described in the Puranas as the son of which earlier mind-born sage and Prajapati?",
+      "options": [
+        "Daksha",
+        "Marichi",
+        "Pulastya",
+        "Kratu"
+      ],
+      "answer": 1,
+      "explanation": "The Puranas name Kashyapa as the son of the Prajapati Marichi, himself a mind-born son of Brahma."
+    },
+    {
+      "id": "the-saptarishi-q26",
+      "difficulty": "hard",
+      "q": "Lists of the Saptarishi vary between texts; in some Puranic enumerations, which sage replaces one of the seven and is named among the seven seers?",
+      "options": [
+        "Ravana",
+        "Vibhishana",
+        "Pulastya",
+        "Kumbhakarna"
+      ],
+      "answer": 2,
+      "explanation": "Some Puranic lists name sages such as Pulastya, Pulaha, Kratu, Angiras, or Marichi among the seven, as enumerations differ."
+    },
+    {
+      "id": "the-saptarishi-q27",
+      "difficulty": "hard",
+      "q": "Which Saptarishi sage is invoked in the Bhagavata Purana as cursing the Yadava youths, an event tied to the eventual decline of the Yadava clan?",
+      "options": [
+        "Gautama alone",
+        "Bharadvaja alone",
+        "Atri alone",
+        "Vishvamitra, with other sages"
+      ],
+      "answer": 3,
+      "explanation": "The Bhagavata Purana relates that sages including Vishvamitra cursed the mischievous Yadava youths, foreshadowing the clan's ruin."
+    },
+    {
+      "id": "the-saptarishi-q28",
+      "difficulty": "hard",
+      "q": "In the Mahabharata, the river Saraswati is said to have rescued sage Vasishtha when he sought to end his life in grief over the deaths of which kin?",
+      "options": [
+        "His hundred sons, slain through Vishvamitra's enmity",
+        "His parents",
+        "His disciples",
+        "His brothers"
+      ],
+      "answer": 0,
+      "explanation": "The Mahabharata recounts that Vasishtha, grieving his sons killed amid his feud with Vishvamitra, was borne to safety by the Saraswati."
+    },
+    {
+      "id": "the-saptarishi-q29",
+      "difficulty": "hard",
+      "q": "The sage Jamadagni of the Saptarishi belonged to which renowned rishi lineage, also linked to the seer Bhrigu?",
+      "options": [
+        "The Angirasa lineage",
+        "The Bhargava lineage",
+        "The Vasishtha lineage",
+        "The Kashyapa lineage"
+      ],
+      "answer": 1,
+      "explanation": "Jamadagni is counted in the Bhargava lineage descending from Bhrigu, a heritage carried on by his son Parashurama."
+    },
+    {
+      "id": "the-saptarishi-q30",
+      "difficulty": "hard",
+      "q": "In Puranic astronomy, the Saptarishi are said to slowly move among the lunar mansions (nakshatras), spending a period of roughly how long in each before advancing?",
+      "options": [
+        "About one day",
+        "About one month",
+        "About one hundred years",
+        "About one thousand years"
+      ],
+      "answer": 2,
+      "explanation": "Puranic tradition describes the Saptarishi as dwelling about a hundred years in each nakshatra, forming the basis of the Saptarishi calendar era."
+    }
+  ]
+}

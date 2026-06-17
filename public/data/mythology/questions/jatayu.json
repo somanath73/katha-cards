@@ -1,0 +1,395 @@
+{
+  "cardId": "jatayu",
+  "questions": [
+    {
+      "id": "jatayu-q01",
+      "difficulty": "easy",
+      "q": "In the Ramayana, what kind of creature is Jatayu?",
+      "options": [
+        "A monkey",
+        "A serpent",
+        "A vulture",
+        "A horse"
+      ],
+      "answer": 2,
+      "explanation": "Jatayu is the noble vulture king who appears in the Ramayana."
+    },
+    {
+      "id": "jatayu-q02",
+      "difficulty": "easy",
+      "q": "Which ancient epic tells the story of Jatayu the vulture king?",
+      "options": [
+        "The Mahabharata",
+        "The Bhagavata Purana",
+        "The Rigveda",
+        "The Ramayana"
+      ],
+      "answer": 3,
+      "explanation": "Jatayu's story is told in Valmiki's Ramayana."
+    },
+    {
+      "id": "jatayu-q03",
+      "difficulty": "easy",
+      "q": "In the Ramayana, whom does Jatayu try to stop as he carries off the abducted Sita?",
+      "options": [
+        "Ravana",
+        "Kumbhakarna",
+        "Indrajit",
+        "Vali"
+      ],
+      "answer": 0,
+      "explanation": "Jatayu confronts Ravana as the demon-king flies away with Sita."
+    },
+    {
+      "id": "jatayu-q04",
+      "difficulty": "easy",
+      "q": "In the Ramayana, which princess is Jatayu trying to rescue when he fights Ravana?",
+      "options": [
+        "Urmila",
+        "Sita",
+        "Mandodari",
+        "Kaikeyi"
+      ],
+      "answer": 1,
+      "explanation": "Jatayu intervenes to save Sita, who is being abducted by Ravana."
+    },
+    {
+      "id": "jatayu-q05",
+      "difficulty": "easy",
+      "q": "In the Ramayana, with which king of Ayodhya did Jatayu share a bond of friendship?",
+      "options": [
+        "Janaka",
+        "Sagara",
+        "Dasharatha",
+        "Bhagiratha"
+      ],
+      "answer": 2,
+      "explanation": "Jatayu was a friend of King Dasharatha, the father of Rama."
+    },
+    {
+      "id": "jatayu-q06",
+      "difficulty": "easy",
+      "q": "In the Ramayana, how does Ravana mortally wound Jatayu during their aerial battle?",
+      "options": [
+        "By burning him with fire",
+        "By drowning him in the sea",
+        "By turning him to stone",
+        "By severing his wings"
+      ],
+      "answer": 3,
+      "explanation": "Ravana cuts off Jatayu's wings, mortally wounding the aged vulture."
+    },
+    {
+      "id": "jatayu-q07",
+      "difficulty": "easy",
+      "q": "In the Ramayana, what crucial information does the dying Jatayu give to Rama?",
+      "options": [
+        "The direction in which Sita was taken",
+        "The location of a hidden weapon",
+        "The secret of Ravana's death",
+        "The way to cross the ocean"
+      ],
+      "answer": 0,
+      "explanation": "Before dying, Jatayu tells Rama the direction in which Ravana carried Sita."
+    },
+    {
+      "id": "jatayu-q08",
+      "difficulty": "easy",
+      "q": "In the Ramayana, what does Rama do for Jatayu after the vulture dies?",
+      "options": [
+        "Builds him a temple",
+        "Performs his funeral rites",
+        "Brings him back to life",
+        "Crowns him king of the birds"
+      ],
+      "answer": 1,
+      "explanation": "Rama performs Jatayu's funeral rites with the love owed to a father."
+    },
+    {
+      "id": "jatayu-q09",
+      "difficulty": "easy",
+      "q": "In the Ramayana, why does Jatayu choose to fight the powerful Ravana despite his old age?",
+      "options": [
+        "To win a kingdom",
+        "To avenge his own family",
+        "To protect Sita and uphold dharma",
+        "To gain immortality"
+      ],
+      "answer": 2,
+      "explanation": "Jatayu fights to protect Sita and uphold dharma, knowing the cost."
+    },
+    {
+      "id": "jatayu-q10",
+      "difficulty": "easy",
+      "q": "In the Ramayana, where does Jatayu's confrontation with Ravana take place?",
+      "options": [
+        "On the ocean floor",
+        "Inside a cave",
+        "In Ravana's palace",
+        "In the sky"
+      ],
+      "answer": 3,
+      "explanation": "Jatayu battles Ravana in the sky as the demon flies off with Sita."
+    },
+    {
+      "id": "jatayu-q11",
+      "difficulty": "medium",
+      "q": "In the Ramayana, with which sage does Jatayu's lineage as a divine bird connect him, as son of Aruna?",
+      "options": [
+        "Kashyapa",
+        "Vishvamitra",
+        "Vasishtha",
+        "Agastya"
+      ],
+      "answer": 0,
+      "explanation": "Jatayu is born of Aruna, and his line traces to the sage Kashyapa, father of many divine beings."
+    },
+    {
+      "id": "jatayu-q12",
+      "difficulty": "medium",
+      "q": "In the Ramayana, who is the brother of Jatayu, also a great bird associated with the sun?",
+      "options": [
+        "Garuda",
+        "Sampati",
+        "Kakabhushundi",
+        "Suparna"
+      ],
+      "answer": 1,
+      "explanation": "Sampati is the elder brother of Jatayu, and the two are sons of Aruna."
+    },
+    {
+      "id": "jatayu-q13",
+      "difficulty": "medium",
+      "q": "In the Ramayana, Jatayu and his brother Sampati are described as the sons of which charioteer of the sun?",
+      "options": [
+        "Surya",
+        "Vayu",
+        "Aruna",
+        "Garuda"
+      ],
+      "answer": 2,
+      "explanation": "Jatayu and Sampati are the sons of Aruna, the charioteer of the sun-god Surya."
+    },
+    {
+      "id": "jatayu-q14",
+      "difficulty": "medium",
+      "q": "In the Ramayana, during which phase of Rama's life does he encounter Jatayu in the forest?",
+      "options": [
+        "His childhood in Ayodhya",
+        "His reign as king",
+        "His final journey",
+        "His exile in the forest"
+      ],
+      "answer": 3,
+      "explanation": "Rama meets Jatayu during the years of his forest exile, before Sita's abduction."
+    },
+    {
+      "id": "jatayu-q15",
+      "difficulty": "medium",
+      "q": "In the Ramayana, what title or role best describes Jatayu among the birds?",
+      "options": [
+        "A vulture king",
+        "A heavenly musician",
+        "A messenger of the gods",
+        "A guardian of treasure"
+      ],
+      "answer": 0,
+      "explanation": "Jatayu is honored as the noble vulture king in the Ramayana."
+    },
+    {
+      "id": "jatayu-q16",
+      "difficulty": "medium",
+      "q": "In the Ramayana, what had Jatayu pledged to Dasharatha that drives him to defend Sita?",
+      "options": [
+        "To find the Pushpaka chariot",
+        "To guard the royal family and forest",
+        "To slay all rakshasas",
+        "To bring rain to Ayodhya"
+      ],
+      "answer": 1,
+      "explanation": "Out of friendship with Dasharatha, Jatayu had taken on the care of the royal family, watching over Rama and Sita."
+    },
+    {
+      "id": "jatayu-q17",
+      "difficulty": "medium",
+      "q": "In the Ramayana, what does Jatayu attempt to do to Ravana's flying chariot during their fight?",
+      "options": [
+        "Steal its jewels",
+        "Pilot it to Ayodhya",
+        "Destroy it and free Sita",
+        "Sink it in the sea"
+      ],
+      "answer": 2,
+      "explanation": "Jatayu attacks Ravana and his chariot in a desperate effort to free Sita."
+    },
+    {
+      "id": "jatayu-q18",
+      "difficulty": "medium",
+      "q": "In the Ramayana, before he dies, in whose presence does Jatayu breathe his last?",
+      "options": [
+        "Hanuman and Sugriva",
+        "Vibhishana",
+        "Bharata and Shatrughna",
+        "Rama and Lakshmana"
+      ],
+      "answer": 3,
+      "explanation": "Jatayu dies in the presence of Rama and Lakshmana after relaying news of Sita."
+    },
+    {
+      "id": "jatayu-q19",
+      "difficulty": "medium",
+      "q": "In the Ramayana, Jatayu's sacrifice is remembered chiefly as an example of which virtue?",
+      "options": [
+        "Selfless devotion and courage",
+        "Cunning",
+        "Wealth and power",
+        "Scholarly wisdom"
+      ],
+      "answer": 0,
+      "explanation": "Jatayu is revered for his selfless devotion and courage in laying down his life for dharma."
+    },
+    {
+      "id": "jatayu-q20",
+      "difficulty": "medium",
+      "q": "In the Ramayana, what does Rama's tender treatment of the dying Jatayu reveal about Rama's character?",
+      "options": [
+        "His pride",
+        "His gratitude and adherence to dharma",
+        "His fear of Ravana",
+        "His desire for wealth"
+      ],
+      "answer": 1,
+      "explanation": "Rama honors Jatayu like a father, showing his gratitude and steadfast dharma."
+    },
+    {
+      "id": "jatayu-q21",
+      "difficulty": "medium",
+      "q": "In the Ramayana, the abduction of Sita that Jatayu witnesses is carried out by the king of which island realm?",
+      "options": [
+        "Kishkindha",
+        "Mithila",
+        "Lanka",
+        "Janasthana"
+      ],
+      "answer": 2,
+      "explanation": "Ravana, whom Jatayu confronts, is the rakshasa king of Lanka."
+    },
+    {
+      "id": "jatayu-q22",
+      "difficulty": "medium",
+      "q": "In the Ramayana, after Jatayu's death, which character does Rama and Lakshmana's search eventually lead them to that connects to Jatayu's brother?",
+      "options": [
+        "Guha the boatman",
+        "Trijata",
+        "Shabari alone",
+        "Sampati, who guides the vanaras"
+      ],
+      "answer": 3,
+      "explanation": "Jatayu's brother Sampati later guides the searching vanaras toward Sita in Lanka."
+    },
+    {
+      "id": "jatayu-q23",
+      "difficulty": "hard",
+      "q": "In the Ramayana, how did Jatayu's brother Sampati come to lose the use of his wings?",
+      "options": [
+        "Shielding Jatayu from the sun's heat",
+        "In a battle with Ravana",
+        "By a sage's curse",
+        "Falling from Mount Meru"
+      ],
+      "answer": 0,
+      "explanation": "Sampati's wings were scorched when he shielded the young Jatayu from the sun, according to the Ramayana."
+    },
+    {
+      "id": "jatayu-q24",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, in which book (kanda) does the episode of Jatayu's fight and death principally occur?",
+      "options": [
+        "Bala Kanda",
+        "Aranya Kanda",
+        "Sundara Kanda",
+        "Yuddha Kanda"
+      ],
+      "answer": 1,
+      "explanation": "Jatayu's confrontation with Ravana and his death occur in the Aranya Kanda, the forest book."
+    },
+    {
+      "id": "jatayu-q25",
+      "difficulty": "hard",
+      "q": "In Valmiki's Ramayana, what does Jatayu manage to do to Ravana's chariot during their fight before Ravana overpowers him?",
+      "options": [
+        "Carry it back to Ayodhya",
+        "Turn it into a flock of birds",
+        "Shatter it, killing its mules and driver",
+        "Hide it beneath the ocean"
+      ],
+      "answer": 2,
+      "explanation": "In the Aranya Kanda, Jatayu shatters Ravana's chariot and slays its mules and charioteer before Ravana strikes him down."
+    },
+    {
+      "id": "jatayu-q26",
+      "difficulty": "hard",
+      "q": "In the Ramayana, the funeral rites Rama performs for Jatayu are notable because such rites were traditionally reserved for what relation?",
+      "options": [
+        "A defeated enemy",
+        "A royal priest",
+        "A fallen soldier",
+        "A father or close kin"
+      ],
+      "answer": 3,
+      "explanation": "Rama performs Jatayu's last rites as one would for a father, an honor reserved for close kin."
+    },
+    {
+      "id": "jatayu-q27",
+      "difficulty": "hard",
+      "q": "In the Ramayana, what does Jatayu's willingness to die fighting a far stronger Ravana most embody within the epic's moral framework?",
+      "options": [
+        "Adherence to dharma over self-preservation",
+        "The pursuit of artha",
+        "The power of maya",
+        "Renunciation of all action"
+      ],
+      "answer": 0,
+      "explanation": "Jatayu exemplifies placing dharma above self-preservation, a central ideal of the Ramayana."
+    },
+    {
+      "id": "jatayu-q28",
+      "difficulty": "hard",
+      "q": "In the Ramayana, which weapon does Ravana ultimately use to cut down the aged Jatayu after a fierce struggle?",
+      "options": [
+        "A noose",
+        "A sword",
+        "A thunderbolt",
+        "A trident"
+      ],
+      "answer": 1,
+      "explanation": "Ravana severs Jatayu's wings with his sword, bringing the valiant bird down."
+    },
+    {
+      "id": "jatayu-q29",
+      "difficulty": "hard",
+      "q": "In the Ramayana, Jatayu's father Aruna is himself said to be the elder brother of which famous mount of Vishnu?",
+      "options": [
+        "Airavata",
+        "Nandi",
+        "Garuda",
+        "Uchchaihshravas"
+      ],
+      "answer": 2,
+      "explanation": "Aruna, the father of Jatayu and Sampati, is the elder brother of Garuda, the eagle mount of Vishnu."
+    },
+    {
+      "id": "jatayu-q30",
+      "difficulty": "hard",
+      "q": "In the Ramayana, Jatayu's intervention against Ravana serves what narrative purpose in Rama's search for Sita?",
+      "options": [
+        "It hides Sita's whereabouts forever",
+        "It ends Rama's exile early",
+        "It defeats Ravana outright",
+        "It provides Rama the first vital clue toward Sita"
+      ],
+      "answer": 3,
+      "explanation": "Jatayu's dying words give Rama the first crucial clue about the direction of Sita's captivity."
+    }
+  ]
+}

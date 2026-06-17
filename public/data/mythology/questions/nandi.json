@@ -1,0 +1,395 @@
+{
+  "cardId": "nandi",
+  "questions": [
+    {
+      "id": "nandi-q01",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, Nandi is the vahana (mount) of which deity?",
+      "options": [
+        "Vishnu",
+        "Shiva",
+        "Brahma",
+        "Indra"
+      ],
+      "answer": 1,
+      "explanation": "Nandi is the sacred bull who serves as the vahana of Shiva."
+    },
+    {
+      "id": "nandi-q02",
+      "difficulty": "easy",
+      "q": "What kind of animal is Nandi, the mount of Shiva?",
+      "options": [
+        "An elephant",
+        "A lion",
+        "A bull",
+        "A peacock"
+      ],
+      "answer": 2,
+      "explanation": "Nandi is depicted as a bull, the vahana of Shiva."
+    },
+    {
+      "id": "nandi-q03",
+      "difficulty": "easy",
+      "q": "Nandi, the bull of Shiva, is traditionally described as being what colour?",
+      "options": [
+        "Golden",
+        "Black",
+        "Red",
+        "White"
+      ],
+      "answer": 3,
+      "explanation": "Nandi is traditionally described as a white bull."
+    },
+    {
+      "id": "nandi-q04",
+      "difficulty": "easy",
+      "q": "In a Shaiva temple, where is the seated sculpture of Nandi usually placed?",
+      "options": [
+        "Facing the sanctum that houses Shiva",
+        "On the temple roof",
+        "At the rear of the temple",
+        "Inside the inner sanctum itself"
+      ],
+      "answer": 0,
+      "explanation": "A seated Nandi sculpture faces the sanctum, eternally gazing upon the Lord."
+    },
+    {
+      "id": "nandi-q05",
+      "difficulty": "easy",
+      "q": "Nandi is regarded as the foremost devotee of which god?",
+      "options": [
+        "Surya",
+        "Shiva",
+        "Ganesha",
+        "Vishnu"
+      ],
+      "answer": 1,
+      "explanation": "Nandi is honoured as the foremost devotee of Shiva."
+    },
+    {
+      "id": "nandi-q06",
+      "difficulty": "easy",
+      "q": "Where do Shaiva devotees traditionally whisper their prayers so that they may reach Shiva?",
+      "options": [
+        "Into a conch shell",
+        "At the temple flagpole",
+        "Into Nandi's ear",
+        "Upon a sacred fire"
+      ],
+      "answer": 2,
+      "explanation": "Devotees traditionally whisper their prayers into Nandi's ear to carry them to Shiva."
+    },
+    {
+      "id": "nandi-q07",
+      "difficulty": "easy",
+      "q": "Besides being Shiva's mount, what role does Nandi serve at the entrance to Shiva's abode?",
+      "options": [
+        "Charioteer",
+        "Cook",
+        "Scribe",
+        "Gatekeeper"
+      ],
+      "answer": 3,
+      "explanation": "Nandi is the gatekeeper of Shiva as well as his mount and devotee."
+    },
+    {
+      "id": "nandi-q08",
+      "difficulty": "easy",
+      "q": "Which great ascetic god, dwelling on Mount Kailash, rides the bull Nandi?",
+      "options": [
+        "Shiva",
+        "Brahma",
+        "Kartikeya",
+        "Yama"
+      ],
+      "answer": 0,
+      "explanation": "Shiva, the great ascetic of Mount Kailash, has Nandi as his vahana."
+    },
+    {
+      "id": "nandi-q09",
+      "difficulty": "easy",
+      "q": "Nandi is described as the chief of which group of attendants upon Shiva?",
+      "options": [
+        "The Apsaras",
+        "The Ganas",
+        "The Saptarishi",
+        "The Maruts"
+      ],
+      "answer": 1,
+      "explanation": "Nandi is described as the chief of Shiva's ganas, his attendant hosts."
+    },
+    {
+      "id": "nandi-q10",
+      "difficulty": "easy",
+      "q": "When a worshipper enters a Shiva temple, in which direction is the Nandi statue typically positioned relative to the Shiva lingam?",
+      "options": [
+        "Behind the lingam",
+        "Turned away from the lingam",
+        "Facing toward the lingam",
+        "Above the lingam"
+      ],
+      "answer": 2,
+      "explanation": "Nandi is seated facing the sanctum, gazing toward Shiva enshrined as the lingam."
+    },
+    {
+      "id": "nandi-q11",
+      "difficulty": "medium",
+      "q": "The name 'Nandi' is most closely associated with which quality in Sanskrit tradition?",
+      "options": [
+        "Sorrow",
+        "Wrath",
+        "Silence",
+        "Joy or delight"
+      ],
+      "answer": 3,
+      "explanation": "The name Nandi is connected with the sense of joy or delight (from the root nand)."
+    },
+    {
+      "id": "nandi-q12",
+      "difficulty": "medium",
+      "q": "Seated before the sanctum of a Shiva temple, what does the Nandi statue eternally gaze upon?",
+      "options": [
+        "The lingam in the sanctum",
+        "The temple gateway",
+        "The festival chariot",
+        "The river outside"
+      ],
+      "answer": 0,
+      "explanation": "Nandi, seated before the sanctum, eternally gazes upon Shiva worshipped as the lingam."
+    },
+    {
+      "id": "nandi-q13",
+      "difficulty": "medium",
+      "q": "Nandi serves as the bull mount of Shiva. Which deity's mount is the eagle Garuda rather than Nandi?",
+      "options": [
+        "Indra",
+        "Vishnu",
+        "Brahma",
+        "Agni"
+      ],
+      "answer": 1,
+      "explanation": "Nandi is the mount of Shiva alone; Vishnu's vahana is the eagle Garuda, not Nandi."
+    },
+    {
+      "id": "nandi-q14",
+      "difficulty": "medium",
+      "q": "The bull is also the traditional symbol of which concept that Nandi is said to embody?",
+      "options": [
+        "Kama (desire)",
+        "Maya (illusion)",
+        "Dharma (righteousness)",
+        "Pralaya (dissolution)"
+      ],
+      "answer": 2,
+      "explanation": "The bull, like Nandi, is the enduring symbol of dharma, the righteousness that upholds the cosmos."
+    },
+    {
+      "id": "nandi-q15",
+      "difficulty": "medium",
+      "q": "Parvati is the consort of the lord whom Nandi serves as mount. Who is that lord?",
+      "options": [
+        "Vishnu",
+        "Brahma",
+        "Agni",
+        "Shiva"
+      ],
+      "answer": 3,
+      "explanation": "Parvati is the consort of Shiva, the lord whom Nandi serves as mount and devotee."
+    },
+    {
+      "id": "nandi-q16",
+      "difficulty": "medium",
+      "q": "What is the signature weapon of Shiva, the god whose mount is Nandi?",
+      "options": [
+        "Trishula",
+        "Sudarshana chakra",
+        "Vajra",
+        "Gada"
+      ],
+      "answer": 0,
+      "explanation": "The Trishula (trident) is the signature weapon of Shiva, whose mount is Nandi."
+    },
+    {
+      "id": "nandi-q17",
+      "difficulty": "medium",
+      "q": "On which Himalayan mountain, the abode of Shiva, would Nandi be found attending his lord?",
+      "options": [
+        "Mount Meru",
+        "Mount Kailash",
+        "Mount Mandara",
+        "Mount Govardhan"
+      ],
+      "answer": 1,
+      "explanation": "Nandi attends Shiva at Mount Kailash, the lord's eternal Himalayan abode."
+    },
+    {
+      "id": "nandi-q18",
+      "difficulty": "medium",
+      "q": "In iconography, Nandi is most often depicted in what posture before the shrine of Shiva?",
+      "options": [
+        "Charging forward",
+        "Standing on hind legs",
+        "Seated and couchant, facing the shrine",
+        "Lying on its back"
+      ],
+      "answer": 2,
+      "explanation": "Nandi is most often shown seated and couchant, calmly facing the sanctum of Shiva."
+    },
+    {
+      "id": "nandi-q19",
+      "difficulty": "medium",
+      "q": "What is the relationship of Nandi to Shiva, according to Shaiva tradition?",
+      "options": [
+        "His enemy",
+        "His teacher",
+        "His son",
+        "His mount, devotee, and gatekeeper"
+      ],
+      "answer": 3,
+      "explanation": "Nandi is at once Shiva's mount (vahana), foremost devotee, and gatekeeper."
+    },
+    {
+      "id": "nandi-q20",
+      "difficulty": "medium",
+      "q": "The serpent coiled at the throat of Shiva, the god Nandi serves, is named what?",
+      "options": [
+        "Vasuki",
+        "Shesha",
+        "Takshaka",
+        "Kaliya"
+      ],
+      "answer": 0,
+      "explanation": "Vasuki, king of serpents, coils at Shiva's throat, the lord whose mount is Nandi."
+    },
+    {
+      "id": "nandi-q21",
+      "difficulty": "medium",
+      "q": "Which elephant-headed son of Shiva and Parvati, who rides a mouse, belongs to the household that Nandi serves?",
+      "options": [
+        "Kartikeya",
+        "Ganesha",
+        "Ayyappa",
+        "Hanuman"
+      ],
+      "answer": 1,
+      "explanation": "Ganesha, the elephant-headed son of Shiva and Parvati, rides a mouse and belongs to Shiva's household that Nandi serves."
+    },
+    {
+      "id": "nandi-q22",
+      "difficulty": "medium",
+      "q": "In Shaiva devotional practice, Nandi is venerated chiefly as an exemplar of which virtue?",
+      "options": [
+        "Cunning",
+        "Worldly ambition",
+        "Steadfast devotion",
+        "Detachment from all gods"
+      ],
+      "answer": 2,
+      "explanation": "Nandi is venerated as the exemplar of steadfast, unwavering devotion to Shiva."
+    },
+    {
+      "id": "nandi-q23",
+      "difficulty": "hard",
+      "q": "In Shaiva tradition, Nandi is sometimes regarded as a teacher who transmitted Shiva's wisdom; he is therefore counted as the foremost of which group?",
+      "options": [
+        "The Saptarishi",
+        "The Adityas",
+        "The Vasus",
+        "The ganas (attendant hosts) of Shiva"
+      ],
+      "answer": 3,
+      "explanation": "Nandi is reckoned the chief of Shiva's ganas and a transmitter of his teachings."
+    },
+    {
+      "id": "nandi-q24",
+      "difficulty": "hard",
+      "q": "The colossal Nandi at the great Brihadisvara temple in Thanjavur is famed for being carved from what?",
+      "options": [
+        "A single massive block of stone",
+        "Solid gold",
+        "Sandalwood",
+        "Crystal"
+      ],
+      "answer": 0,
+      "explanation": "The colossal Nandi at the Brihadisvara temple in Thanjavur is renowned as a monolith carved from a single block of stone."
+    },
+    {
+      "id": "nandi-q25",
+      "difficulty": "hard",
+      "q": "Among the hosts that attend Shiva, what rank does Nandi hold?",
+      "options": [
+        "The lowliest of the ganas",
+        "The leader and chief of the ganas",
+        "A rival to Shiva",
+        "A demon subdued by Shiva"
+      ],
+      "answer": 1,
+      "explanation": "Nandi is the leader and chief among Shiva's ganas, his closest attendant host."
+    },
+    {
+      "id": "nandi-q26",
+      "difficulty": "hard",
+      "q": "Nandi is closely linked in iconography to the bull that serves as the symbol of which principle personified in the Puranas?",
+      "options": [
+        "Kala (time)",
+        "Artha (wealth)",
+        "Dharma (cosmic law)",
+        "Moha (delusion)"
+      ],
+      "answer": 2,
+      "explanation": "The bull is the enduring symbol of Dharma personified, an association reflected in Nandi."
+    },
+    {
+      "id": "nandi-q27",
+      "difficulty": "hard",
+      "q": "In temple ritual, why is it traditionally said that a devotee should view the Shiva lingam past the figure of Nandi?",
+      "options": [
+        "Because Nandi guards a hidden treasure",
+        "Because Nandi blocks unworthy eyes",
+        "Because Nandi devours offerings",
+        "Because Nandi forever faces and beholds his Lord"
+      ],
+      "answer": 3,
+      "explanation": "Nandi is positioned eternally facing Shiva, so the devotee shares the bull's perpetual gaze upon the Lord."
+    },
+    {
+      "id": "nandi-q28",
+      "difficulty": "hard",
+      "q": "Which name, meaning 'one whose mount is the bull', is applied to Shiva on account of his association with Nandi?",
+      "options": [
+        "Vrishabhavahana",
+        "Gangadhara",
+        "Nilakantha",
+        "Tripurantaka"
+      ],
+      "answer": 0,
+      "explanation": "Shiva is called Vrishabhavahana, 'he whose mount is the bull', from his vahana Nandi."
+    },
+    {
+      "id": "nandi-q29",
+      "difficulty": "hard",
+      "q": "Nandi's role as the one who carries devotees' messages to Shiva most directly reflects his function as Shiva's what?",
+      "options": [
+        "Adversary",
+        "Intermediary and gatekeeper",
+        "Cook",
+        "Astrologer"
+      ],
+      "answer": 1,
+      "explanation": "As gatekeeper and intermediary, Nandi conveys the whispered prayers of devotees to Shiva."
+    },
+    {
+      "id": "nandi-q30",
+      "difficulty": "hard",
+      "q": "Across South Indian Shaiva temples, the presence of a dedicated Nandi mandapa (pavilion) before the sanctum chiefly signifies what?",
+      "options": [
+        "A shrine devoted to Vishnu",
+        "A shrine devoted to Brahma",
+        "A shrine devoted to Shiva",
+        "A shrine devoted to Surya"
+      ],
+      "answer": 2,
+      "explanation": "A Nandi mandapa facing the sanctum is a hallmark of a Shiva temple, since Nandi is Shiva's mount and gatekeeper."
+    }
+  ]
+}

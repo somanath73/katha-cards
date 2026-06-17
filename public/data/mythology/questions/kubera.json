@@ -1,0 +1,395 @@
+{
+  "cardId": "kubera",
+  "questions": [
+    {
+      "id": "kubera-q01",
+      "difficulty": "easy",
+      "q": "In Hindu mythology, what is the deity Kubera principally the lord of?",
+      "options": [
+        "Wealth and riches",
+        "Thunder and storms",
+        "Death and judgement",
+        "Fire and sacrifice"
+      ],
+      "answer": 0,
+      "explanation": "Kubera is revered as the lord of riches and the treasurer of the gods."
+    },
+    {
+      "id": "kubera-q02",
+      "difficulty": "easy",
+      "q": "Which class of nature-spirits and demigods does Kubera rule over?",
+      "options": [
+        "Gandharvas",
+        "Yakshas",
+        "Apsaras",
+        "Kinnaras"
+      ],
+      "answer": 1,
+      "explanation": "Kubera is the king of the yakshas, the demigods associated with hidden treasures of the earth."
+    },
+    {
+      "id": "kubera-q03",
+      "difficulty": "easy",
+      "q": "Which cardinal direction is the deity Kubera traditionally said to guard?",
+      "options": [
+        "The east",
+        "The south",
+        "The north",
+        "The west"
+      ],
+      "answer": 2,
+      "explanation": "Kubera is the dikpala, or guardian deity, of the northern direction."
+    },
+    {
+      "id": "kubera-q04",
+      "difficulty": "easy",
+      "q": "In which mountain range is Kubera's celestial city of Alaka said to lie?",
+      "options": [
+        "The Vindhyas",
+        "The Western Ghats",
+        "The Aravallis",
+        "The Himalayas"
+      ],
+      "answer": 3,
+      "explanation": "Kubera rules from his city Alaka set in the Himalayas, near Mount Kailasa."
+    },
+    {
+      "id": "kubera-q05",
+      "difficulty": "easy",
+      "q": "What is the name of Kubera's celestial city in the Himalayas?",
+      "options": [
+        "Alaka",
+        "Amaravati",
+        "Lanka",
+        "Dvaraka"
+      ],
+      "answer": 0,
+      "explanation": "Kubera rules the wealth of the earth from his city Alaka in the Himalayas."
+    },
+    {
+      "id": "kubera-q06",
+      "difficulty": "easy",
+      "q": "Near which sacred mountain, the abode of Shiva, is Kubera's city said to lie?",
+      "options": [
+        "Mount Meru",
+        "Mount Kailasa",
+        "Mount Mandara",
+        "Mount Govardhan"
+      ],
+      "answer": 1,
+      "explanation": "Kubera's city Alaka lies in the Himalayas near Mount Kailasa, the abode of Shiva."
+    },
+    {
+      "id": "kubera-q07",
+      "difficulty": "easy",
+      "q": "In traditional iconography, how is the wealth-god Kubera most often depicted in form?",
+      "options": [
+        "As a fierce warrior on horseback",
+        "As a four-headed ascetic",
+        "As a plump figure seated with a money-pot",
+        "As a serpent coiled on the waters"
+      ],
+      "answer": 2,
+      "explanation": "Kubera is commonly shown plump and seated, holding a money-pot symbolizing his treasures."
+    },
+    {
+      "id": "kubera-q08",
+      "difficulty": "easy",
+      "q": "The flying chariot Pushpaka was originally owned by which deity before it passed to others?",
+      "options": [
+        "Indra",
+        "Surya",
+        "Yama",
+        "Kubera"
+      ],
+      "answer": 3,
+      "explanation": "The Pushpaka Vimana was the original possession of Kubera, the god of wealth."
+    },
+    {
+      "id": "kubera-q09",
+      "difficulty": "easy",
+      "q": "In the Ramayana, the demon-king Ravana is described as a half-brother of which god of wealth?",
+      "options": [
+        "Kubera",
+        "Varuna",
+        "Agni",
+        "Chandra"
+      ],
+      "answer": 0,
+      "explanation": "Ravana and Kubera were half-brothers, both sons of the sage Vishrava."
+    },
+    {
+      "id": "kubera-q10",
+      "difficulty": "easy",
+      "q": "Kubera is honored as the treasurer of whom?",
+      "options": [
+        "The asuras",
+        "The gods",
+        "The nagas",
+        "The ancestors"
+      ],
+      "answer": 1,
+      "explanation": "Kubera serves as the treasurer of the gods, guarding the wealth of the cosmos."
+    },
+    {
+      "id": "kubera-q11",
+      "difficulty": "medium",
+      "q": "Which sage is named in the tradition as the father of both Kubera and Ravana?",
+      "options": [
+        "Vishvamitra",
+        "Vasishtha",
+        "Vishrava",
+        "Kashyapa"
+      ],
+      "answer": 2,
+      "explanation": "The sage Vishrava was the father of Kubera and, by another wife, of Ravana."
+    },
+    {
+      "id": "kubera-q12",
+      "difficulty": "medium",
+      "q": "In the Ramayana, what becomes of Kubera's flying chariot Pushpaka after Ravana seizes it?",
+      "options": [
+        "It is destroyed in the war at Lanka",
+        "It is given permanently to Hanuman",
+        "It sinks into the ocean of milk",
+        "It is reclaimed and returns to Kubera after Ravana's fall"
+      ],
+      "answer": 3,
+      "explanation": "After Ravana's defeat the Pushpaka bore Rama back to Ayodhya and afterward returned to its owner Kubera."
+    },
+    {
+      "id": "kubera-q13",
+      "difficulty": "medium",
+      "q": "Which divine architect is said in the Ramayana to have fashioned the Pushpaka chariot for Kubera?",
+      "options": [
+        "Vishvakarma",
+        "Maya",
+        "Tvashtri",
+        "Brahma"
+      ],
+      "answer": 0,
+      "explanation": "The Ramayana credits the divine architect Vishvakarma with creating the Pushpaka Vimana for Kubera."
+    },
+    {
+      "id": "kubera-q14",
+      "difficulty": "medium",
+      "q": "By what relationship is the demon-king Ravana connected to Kubera in the Ramayana?",
+      "options": [
+        "As his son",
+        "As his half-brother",
+        "As his nephew",
+        "As his charioteer"
+      ],
+      "answer": 1,
+      "explanation": "Ravana is described as the half-brother of Kubera, both being sons of the sage Vishrava."
+    },
+    {
+      "id": "kubera-q15",
+      "difficulty": "medium",
+      "q": "As the guardian of the northern quarter, Kubera belongs to which group of directional deities?",
+      "options": [
+        "The Adityas",
+        "The Vasus",
+        "The Lokapalas (dikpalas)",
+        "The Maruts"
+      ],
+      "answer": 2,
+      "explanation": "Kubera is counted among the Lokapalas or dikpalas, the guardians of the directions, holding the north."
+    },
+    {
+      "id": "kubera-q16",
+      "difficulty": "medium",
+      "q": "The wealth that Kubera guards is principally associated with which realm?",
+      "options": [
+        "The waters of the ocean",
+        "The light of the sun",
+        "The winds of the sky",
+        "The wealth hidden in the earth"
+      ],
+      "answer": 3,
+      "explanation": "Kubera guards the wealth of the earth, including its buried treasures and minerals."
+    },
+    {
+      "id": "kubera-q17",
+      "difficulty": "medium",
+      "q": "Which object is most characteristically held by Kubera in his depictions as the god of wealth?",
+      "options": [
+        "A money-pot",
+        "A thunderbolt",
+        "A conch",
+        "A plough"
+      ],
+      "answer": 0,
+      "explanation": "Kubera is typically shown holding a money-pot, an emblem of the riches he commands."
+    },
+    {
+      "id": "kubera-q18",
+      "difficulty": "medium",
+      "q": "Over which group of demigods does Kubera reign as king from his city in the north?",
+      "options": [
+        "The rakshasas",
+        "The yakshas",
+        "The daityas",
+        "The pitris"
+      ],
+      "answer": 1,
+      "explanation": "Kubera reigns as king of the yakshas, demigods linked to hidden wealth."
+    },
+    {
+      "id": "kubera-q19",
+      "difficulty": "medium",
+      "q": "Which deity is regarded as the divine treasurer who safeguards the riches of the gods?",
+      "options": [
+        "Brihaspati",
+        "Vishvakarma",
+        "Kubera",
+        "Dhanvantari"
+      ],
+      "answer": 2,
+      "explanation": "Kubera holds the office of treasurer of the gods, guarding their wealth."
+    },
+    {
+      "id": "kubera-q20",
+      "difficulty": "medium",
+      "q": "In the Ramayana, after Ravana's defeat the Pushpaka chariot first carried Rama, Sita, and Lakshmana to which city?",
+      "options": [
+        "Mithila",
+        "Kishkindha",
+        "Alaka",
+        "Ayodhya"
+      ],
+      "answer": 3,
+      "explanation": "The reclaimed Pushpaka bore Rama, Sita, and Lakshmana back to Ayodhya before returning to Kubera."
+    },
+    {
+      "id": "kubera-q21",
+      "difficulty": "medium",
+      "q": "Kubera's role as keeper of treasures most closely parallels the function of which goddess in Hindu tradition?",
+      "options": [
+        "Lakshmi, goddess of wealth and fortune",
+        "Saraswati, goddess of knowledge",
+        "Durga, the warrior goddess",
+        "Ganga, the river goddess"
+      ],
+      "answer": 0,
+      "explanation": "Both Kubera and Lakshmi are associated with wealth and prosperity in Hindu tradition."
+    },
+    {
+      "id": "kubera-q22",
+      "difficulty": "medium",
+      "q": "Which famous self-moving aerial chariot is associated in mythology with Kubera as its original owner?",
+      "options": [
+        "The chariot of Surya",
+        "The Pushpaka Vimana",
+        "The chariot of Indra",
+        "The chariot of Arjuna"
+      ],
+      "answer": 1,
+      "explanation": "The Pushpaka Vimana, a self-moving aerial chariot, was originally the possession of Kubera."
+    },
+    {
+      "id": "kubera-q23",
+      "difficulty": "hard",
+      "q": "By what patronymic, referring to his father Vishrava, is Kubera sometimes known?",
+      "options": [
+        "Vaivasvata",
+        "Vasava",
+        "Vaishravana",
+        "Vaikuntha"
+      ],
+      "answer": 2,
+      "explanation": "Kubera is called Vaishravana, a patronymic meaning son of Vishrava."
+    },
+    {
+      "id": "kubera-q24",
+      "difficulty": "hard",
+      "q": "In the Ramayana's account, by what means did Ravana come to possess the Pushpaka chariot that had belonged to Kubera?",
+      "options": [
+        "He won it in a contest of austerities",
+        "It was gifted to him by Brahma",
+        "He purchased it from the yakshas",
+        "He seized it by force from his half-brother Kubera"
+      ],
+      "answer": 3,
+      "explanation": "Ravana forcibly took the Pushpaka chariot from his half-brother Kubera and kept it at Lanka."
+    },
+    {
+      "id": "kubera-q25",
+      "difficulty": "hard",
+      "q": "Which mount or vehicle is most commonly attributed to Kubera in iconographic tradition?",
+      "options": [
+        "A man (the nara vahana)",
+        "A peacock",
+        "A buffalo",
+        "An antelope"
+      ],
+      "answer": 0,
+      "explanation": "Kubera is traditionally described with the nara vahana, a man as his mount, fitting his lordship over yakshas."
+    },
+    {
+      "id": "kubera-q26",
+      "difficulty": "hard",
+      "q": "Kubera's ruling seat in Alaka is set apart from the courts of which other directional kings, such as the eastern king of the devas?",
+      "options": [
+        "Yama",
+        "Indra",
+        "Varuna",
+        "Agni"
+      ],
+      "answer": 1,
+      "explanation": "Indra rules the east as king of the devas, while Kubera holds the northern quarter from Alaka."
+    },
+    {
+      "id": "kubera-q27",
+      "difficulty": "hard",
+      "q": "In Kubera's office as guardian of the north, which neighboring quarter and its guardian lies opposite to him?",
+      "options": [
+        "The east, guarded by Indra",
+        "The west, guarded by Varuna",
+        "The south, guarded by Yama",
+        "The northeast, guarded by Soma"
+      ],
+      "answer": 2,
+      "explanation": "Kubera holds the north while Yama, lord of death, guards the opposite southern quarter."
+    },
+    {
+      "id": "kubera-q28",
+      "difficulty": "hard",
+      "q": "Which jewel-laden epithet, reflecting his lordship over treasures, is applied to Kubera as the giver of wealth?",
+      "options": [
+        "Pashupati, lord of beasts",
+        "Prajapati, lord of creatures",
+        "Ganapati, lord of hosts",
+        "Dhanapati, lord of wealth"
+      ],
+      "answer": 3,
+      "explanation": "Kubera bears the epithet Dhanapati, lord of wealth, reflecting his command over riches."
+    },
+    {
+      "id": "kubera-q29",
+      "difficulty": "hard",
+      "q": "In the tradition, who held the Pushpaka chariot before Ravana, and to whom did it finally return after the war in the Ramayana?",
+      "options": [
+        "It belonged to and returned to Kubera",
+        "It belonged to and returned to Indra",
+        "It belonged to and returned to Brahma",
+        "It belonged to and returned to Vishvakarma"
+      ],
+      "answer": 0,
+      "explanation": "The Pushpaka originally belonged to Kubera, was seized by Ravana, and returned to Kubera after the war."
+    },
+    {
+      "id": "kubera-q30",
+      "difficulty": "hard",
+      "q": "Kubera's lordship over hidden riches makes him a patron of which broad domain in Hindu thought?",
+      "options": [
+        "Knowledge and the arts",
+        "Prosperity and material abundance",
+        "Asceticism and renunciation",
+        "War and conquest"
+      ],
+      "answer": 1,
+      "explanation": "As lord of riches, Kubera is the patron of prosperity and material abundance."
+    }
+  ]
+}

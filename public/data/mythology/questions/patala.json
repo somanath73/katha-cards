@@ -1,0 +1,395 @@
+{
+  "cardId": "patala",
+  "questions": [
+    {
+      "id": "patala-q01",
+      "difficulty": "easy",
+      "q": "In Puranic cosmology, what kind of realm is Patala?",
+      "options": [
+        "A celestial heaven above the clouds",
+        "A floating island in the cosmic ocean",
+        "A subterranean netherworld",
+        "A mountain peak of the gods"
+      ],
+      "answer": 2,
+      "explanation": "Patala is described in the Puranas as the lowest of the seven subterranean realms beneath the earth."
+    },
+    {
+      "id": "patala-q02",
+      "difficulty": "easy",
+      "q": "Which serpent beings are described as the principal inhabitants of Patala?",
+      "options": [
+        "The Gandharvas",
+        "The Apsaras",
+        "The Yakshas",
+        "The Nagas"
+      ],
+      "answer": 3,
+      "explanation": "Patala is portrayed as the domain of the Nagas, the serpent races, along with certain asuras."
+    },
+    {
+      "id": "patala-q03",
+      "difficulty": "easy",
+      "q": "According to the Puranas, who is the serpent king associated with the netherworld of Patala?",
+      "options": [
+        "Vasuki",
+        "Garuda",
+        "Airavata",
+        "Uchchaihshravas"
+      ],
+      "answer": 0,
+      "explanation": "Vasuki, the great Naga king, is named as a ruler dwelling in Patala."
+    },
+    {
+      "id": "patala-q04",
+      "difficulty": "easy",
+      "q": "How is Patala characterized in Puranic descriptions?",
+      "options": [
+        "As a dark place of eternal torment",
+        "As a jeweled and luminous world",
+        "As a barren and lifeless void",
+        "As a frozen wasteland"
+      ],
+      "answer": 1,
+      "explanation": "Patala is described as a radiant, jeweled realm rather than a place of suffering."
+    },
+    {
+      "id": "patala-q05",
+      "difficulty": "easy",
+      "q": "How many subterranean realms are there in Puranic cosmology, of which Patala is the lowest?",
+      "options": [
+        "Three",
+        "Five",
+        "Seven",
+        "Twelve"
+      ],
+      "answer": 2,
+      "explanation": "Puranic cosmology counts seven nether realms (the patalas), with Patala as the deepest."
+    },
+    {
+      "id": "patala-q06",
+      "difficulty": "easy",
+      "q": "Which sage is said in the Puranas to have praised Patala as a realm of pleasure surpassing the worlds above?",
+      "options": [
+        "Vasishtha",
+        "Vishwamitra",
+        "Bhrigu",
+        "Narada"
+      ],
+      "answer": 3,
+      "explanation": "The sage Narada is said to have extolled Patala as more delightful than the higher worlds."
+    },
+    {
+      "id": "patala-q07",
+      "difficulty": "easy",
+      "q": "Compared to Indra's heaven, how is Patala described in the Puranas?",
+      "options": [
+        "More splendid and beautiful",
+        "Far poorer and gloomier",
+        "Exactly identical",
+        "Smaller and crowded"
+      ],
+      "answer": 0,
+      "explanation": "Texts describe Patala as more splendid than even the heaven of Indra."
+    },
+    {
+      "id": "patala-q08",
+      "difficulty": "easy",
+      "q": "Besides the Nagas, which class of beings is said to dwell in Patala?",
+      "options": [
+        "The seven great sages",
+        "Certain asuras and Daityas",
+        "The Adityas",
+        "The Maruts"
+      ],
+      "answer": 1,
+      "explanation": "Patala is described as home to certain asuras and Daityas alongside the serpent races."
+    },
+    {
+      "id": "patala-q09",
+      "difficulty": "easy",
+      "q": "In which body of religious literature is the realm of Patala chiefly described?",
+      "options": [
+        "The grammatical treatises",
+        "The medical texts",
+        "The Puranas",
+        "The architectural manuals"
+      ],
+      "answer": 2,
+      "explanation": "The detailed cosmology of Patala appears in the Puranas."
+    },
+    {
+      "id": "patala-q10",
+      "difficulty": "easy",
+      "q": "What is the dominant emblem or symbol associated with the realm of Patala?",
+      "options": [
+        "The lotus",
+        "The thunderbolt",
+        "The conch",
+        "The serpent"
+      ],
+      "answer": 3,
+      "explanation": "The serpent (Naga) is the emblem of Patala, the realm of the serpent races."
+    },
+    {
+      "id": "patala-q11",
+      "difficulty": "medium",
+      "q": "In the Puranas, what is the name commonly given to the lowest and seventh of the nether realms, of which the whole group takes its name?",
+      "options": [
+        "Patala",
+        "Atala",
+        "Sutala",
+        "Talatala"
+      ],
+      "answer": 0,
+      "explanation": "Patala is the deepest of the seven nether realms and lends its name to the entire group."
+    },
+    {
+      "id": "patala-q12",
+      "difficulty": "medium",
+      "q": "Which of the following is traditionally listed among the seven nether realms alongside Patala?",
+      "options": [
+        "Svarga",
+        "Sutala",
+        "Vaikuntha",
+        "Kailasa"
+      ],
+      "answer": 1,
+      "explanation": "Sutala is one of the seven patalas (nether realms), with Patala being the lowest."
+    },
+    {
+      "id": "patala-q13",
+      "difficulty": "medium",
+      "q": "In the Bhagavata Purana, which nether realm is said to be ruled by the virtuous Daitya king Bali after his encounter with Vamana?",
+      "options": [
+        "Atala",
+        "Mahatala",
+        "Sutala",
+        "Rasatala"
+      ],
+      "answer": 2,
+      "explanation": "The Bhagavata Purana places Bali as ruler of Sutala, among the nether realms below the earth."
+    },
+    {
+      "id": "patala-q14",
+      "difficulty": "medium",
+      "q": "Which great serpent, who supports the earth and on whom Vishnu reclines, is associated with the depths of the nether regions?",
+      "options": [
+        "Takshaka",
+        "Kaliya",
+        "Manasa",
+        "Ananta-Shesha"
+      ],
+      "answer": 3,
+      "explanation": "Ananta-Shesha, the cosmic serpent, is associated with the lowest depths beneath Patala."
+    },
+    {
+      "id": "patala-q15",
+      "difficulty": "medium",
+      "q": "In the Ramayana, into which underworld region does the demon Ahiravana (Mahiravana) abduct Rama and Lakshmana?",
+      "options": [
+        "Patala",
+        "Lanka's central tower",
+        "Mount Meru",
+        "The Dandaka forest"
+      ],
+      "answer": 0,
+      "explanation": "In retellings of the Ramayana, Ahiravana carries Rama and Lakshmana to Patala, where Hanuman rescues them."
+    },
+    {
+      "id": "patala-q16",
+      "difficulty": "medium",
+      "q": "In the Patala episode of the Ramayana tradition, who descends to the netherworld to rescue Rama and Lakshmana from the demon Ahiravana?",
+      "options": [
+        "Sugriva",
+        "Hanuman",
+        "Jambavan",
+        "Vibhishana"
+      ],
+      "answer": 1,
+      "explanation": "Hanuman descends into Patala and slays Ahiravana to free Rama and Lakshmana."
+    },
+    {
+      "id": "patala-q17",
+      "difficulty": "medium",
+      "q": "What quality most distinguishes Patala from the hells (Narakas) in Puranic thought?",
+      "options": [
+        "Patala is a place of punishment, the Narakas of pleasure",
+        "Both are identical realms of torment",
+        "Patala is a luminous realm of enjoyment, while the Narakas are realms of expiation",
+        "Patala is empty while the Narakas are inhabited"
+      ],
+      "answer": 2,
+      "explanation": "Patala is a radiant realm of delight, whereas the Narakas are where beings expiate misdeeds."
+    },
+    {
+      "id": "patala-q18",
+      "difficulty": "medium",
+      "q": "In the churning of the ocean of milk, the serpent Vasuki, a king of Patala, served as what?",
+      "options": [
+        "The base mountain",
+        "The pot of nectar",
+        "The bow of the gods",
+        "The churning rope"
+      ],
+      "answer": 3,
+      "explanation": "Vasuki, the Naga king linked to Patala, was used as the rope to churn the cosmic ocean."
+    },
+    {
+      "id": "patala-q19",
+      "difficulty": "medium",
+      "q": "According to Puranic descriptions, what illuminates the realm of Patala in the absence of sun and moon?",
+      "options": [
+        "The radiant jewels on the hoods of the great Nagas",
+        "Glowing rivers of fire",
+        "Floating lanterns of the gods",
+        "The reflected light of the stars"
+      ],
+      "answer": 0,
+      "explanation": "The jewels upon the serpents' hoods are said to light the netherworld of Patala."
+    },
+    {
+      "id": "patala-q20",
+      "difficulty": "medium",
+      "q": "Which deity is described in the Puranas as presiding over the very bottom of the nether realms in the form of the serpent Ananta?",
+      "options": [
+        "Brahma",
+        "A form of Vishnu (as Sankarshana)",
+        "Surya",
+        "Vayu"
+      ],
+      "answer": 1,
+      "explanation": "At the base of Patala dwells Ananta-Shesha, regarded as a form (Sankarshana) of Vishnu."
+    },
+    {
+      "id": "patala-q21",
+      "difficulty": "medium",
+      "q": "In Puranic geography, where is Patala located in relation to the earthly realm (Bhu-loka)?",
+      "options": [
+        "Directly above it among the heavens",
+        "Beside it across the cosmic ocean",
+        "Below it among the nether realms",
+        "Surrounding it as the sky"
+      ],
+      "answer": 2,
+      "explanation": "Patala lies below the earthly realm, the deepest of the seven nether worlds."
+    },
+    {
+      "id": "patala-q22",
+      "difficulty": "medium",
+      "q": "Which of these is NOT among the traditional seven nether realms that include Patala?",
+      "options": [
+        "Atala",
+        "Vitala",
+        "Talatala",
+        "Brahmaloka"
+      ],
+      "answer": 3,
+      "explanation": "Brahmaloka is a higher world; the seven nether realms include Atala, Vitala, and Talatala among others, with Patala lowest."
+    },
+    {
+      "id": "patala-q23",
+      "difficulty": "hard",
+      "q": "In the standard Puranic list of the seven nether realms, which realm lies immediately above Patala, the lowest of them?",
+      "options": [
+        "Rasatala",
+        "Atala",
+        "Vitala",
+        "Sutala"
+      ],
+      "answer": 0,
+      "explanation": "In the usual order, Rasatala lies just above Patala, the deepest of the seven nether worlds."
+    },
+    {
+      "id": "patala-q24",
+      "difficulty": "hard",
+      "q": "In the Mahabharata, when Arjuna travels to the netherworld, he weds a Naga princess of Patala; what is her name?",
+      "options": [
+        "Chitrangada",
+        "Ulupi",
+        "Subhadra",
+        "Hidimba"
+      ],
+      "answer": 1,
+      "explanation": "In the Mahabharata, Arjuna marries the Naga princess Ulupi, daughter of a serpent king of the nether realm."
+    },
+    {
+      "id": "patala-q25",
+      "difficulty": "hard",
+      "q": "In the Bhagavata Purana's account, which great serpent is said to lie at the very base of Patala, holding the worlds upon his hoods?",
+      "options": [
+        "Takshaka",
+        "Kaliya",
+        "Shesha (Ananta)",
+        "Karkotaka"
+      ],
+      "answer": 2,
+      "explanation": "The Bhagavata Purana describes Shesha (Ananta) bearing the worlds at the foundation beneath Patala."
+    },
+    {
+      "id": "patala-q26",
+      "difficulty": "hard",
+      "q": "According to the Vishnu Purana, who is said to have visited the nether realms and declared them more delightful than Svarga?",
+      "options": [
+        "The sage Kapila",
+        "The sage Markandeya",
+        "The sage Durvasa",
+        "The sage Narada"
+      ],
+      "answer": 3,
+      "explanation": "The Vishnu Purana records Narada praising the nether realms, including Patala, as surpassing heaven in delight."
+    },
+    {
+      "id": "patala-q27",
+      "difficulty": "hard",
+      "q": "Which serpent king, distinct from Vasuki, is also counted among the great Nagas dwelling in the nether realm of Patala?",
+      "options": [
+        "Takshaka",
+        "Indra",
+        "Kubera",
+        "Varuna"
+      ],
+      "answer": 0,
+      "explanation": "Takshaka is among the foremost Naga kings said to dwell in Patala alongside Vasuki."
+    },
+    {
+      "id": "patala-q28",
+      "difficulty": "hard",
+      "q": "In Puranic cosmology, the soil and structures of Patala are described as adorned with what?",
+      "options": [
+        "Ash and bone",
+        "Gold, silver, and precious gems",
+        "Ice and stone",
+        "Thorns and iron"
+      ],
+      "answer": 1,
+      "explanation": "The Puranas describe the nether realms, including Patala, as built of gold, silver, and jewels."
+    },
+    {
+      "id": "patala-q29",
+      "difficulty": "hard",
+      "q": "In the Ramayana tradition's Patala episode, the demon Ahiravana is a devotee or kinsman associated with which ruler of Lanka?",
+      "options": [
+        "Sugriva",
+        "Vibhishana",
+        "Ravana",
+        "Janaka"
+      ],
+      "answer": 2,
+      "explanation": "Ahiravana, who drags Rama and Lakshmana to Patala, is depicted as a kinsman of Ravana, king of Lanka."
+    },
+    {
+      "id": "patala-q30",
+      "difficulty": "hard",
+      "q": "What does the very name 'Patala' broadly signify in the context of Puranic cosmology?",
+      "options": [
+        "A heaven of the gods",
+        "A purifying river",
+        "A sacred mountain",
+        "The subterranean or nether region beneath the earth"
+      ],
+      "answer": 3,
+      "explanation": "The term Patala denotes the subterranean nether region lying beneath the earthly world."
+    }
+  ]
+}

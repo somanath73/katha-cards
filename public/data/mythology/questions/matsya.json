@@ -1,0 +1,395 @@
+{
+  "cardId": "matsya",
+  "questions": [
+    {
+      "id": "matsya-q01",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, what animal form does Vishnu take as the avatar Matsya?",
+      "options": [
+        "A fish",
+        "A tortoise",
+        "A boar",
+        "A lion"
+      ],
+      "answer": 0,
+      "explanation": "Matsya is the fish incarnation of Vishnu, the first of the Dashavatara."
+    },
+    {
+      "id": "matsya-q02",
+      "difficulty": "easy",
+      "q": "Of which deity is Matsya considered an avatar (incarnation)?",
+      "options": [
+        "Brahma",
+        "Vishnu",
+        "Shiva",
+        "Indra"
+      ],
+      "answer": 1,
+      "explanation": "Matsya is counted as the first of the ten principal avatars of Vishnu."
+    },
+    {
+      "id": "matsya-q03",
+      "difficulty": "easy",
+      "q": "In the classical Dashavatara sequence, which position does Matsya hold?",
+      "options": [
+        "The fifth",
+        "The seventh",
+        "The first",
+        "The tenth"
+      ],
+      "answer": 2,
+      "explanation": "Matsya is traditionally listed as the first of Vishnu's ten avatars."
+    },
+    {
+      "id": "matsya-q04",
+      "difficulty": "easy",
+      "q": "From what world-ending disaster does Matsya save creation?",
+      "options": [
+        "A great fire",
+        "A great drought",
+        "A great earthquake",
+        "A great flood (deluge)"
+      ],
+      "answer": 3,
+      "explanation": "Matsya warns of and guides humanity through a world-ending deluge."
+    },
+    {
+      "id": "matsya-q05",
+      "difficulty": "easy",
+      "q": "Which king does the fish Matsya warn about the coming deluge?",
+      "options": [
+        "King Manu",
+        "King Bali",
+        "King Janaka",
+        "King Dasharatha"
+      ],
+      "answer": 0,
+      "explanation": "Matsya warns King Manu of the impending flood so that life may be preserved."
+    },
+    {
+      "id": "matsya-q06",
+      "difficulty": "easy",
+      "q": "How does Matsya help King Manu survive the flood?",
+      "options": [
+        "By drying up the waters",
+        "By towing his boat to safety",
+        "By building a mountain",
+        "By stopping the rain"
+      ],
+      "answer": 1,
+      "explanation": "Matsya tows Manu's boat through the floodwaters to safety."
+    },
+    {
+      "id": "matsya-q07",
+      "difficulty": "easy",
+      "q": "What is carried aboard King Manu's boat that Matsya guides to safety?",
+      "options": [
+        "Gold and jewels",
+        "An army of devas",
+        "The seeds of life and the seven sages",
+        "The nectar of immortality"
+      ],
+      "answer": 2,
+      "explanation": "The boat bears the seeds of life and the seven sages (Saptarishi) to safety."
+    },
+    {
+      "id": "matsya-q08",
+      "difficulty": "easy",
+      "q": "Which Purana is named after the fish avatar Matsya?",
+      "options": [
+        "The Markandeya Purana",
+        "The Vishnu Purana",
+        "The Shiva Purana",
+        "The Matsya Purana"
+      ],
+      "answer": 3,
+      "explanation": "The Matsya Purana is one of the eighteen Mahapuranas and recounts the Matsya story."
+    },
+    {
+      "id": "matsya-q09",
+      "difficulty": "easy",
+      "q": "The seven sages whom Matsya helps Manu rescue are collectively known by what name?",
+      "options": [
+        "The Saptarishi",
+        "The Trimurti",
+        "The Navagraha",
+        "The Dashavatara"
+      ],
+      "answer": 0,
+      "explanation": "The seven great seers are called the Saptarishi in Hindu tradition."
+    },
+    {
+      "id": "matsya-q10",
+      "difficulty": "easy",
+      "q": "What sacred texts does Matsya recover after the deluge?",
+      "options": [
+        "The Upanishads",
+        "The Vedas",
+        "The Puranas",
+        "The Dharmashastras"
+      ],
+      "answer": 1,
+      "explanation": "Matsya recovers the stolen Vedas, restoring sacred knowledge after the flood."
+    },
+    {
+      "id": "matsya-q11",
+      "difficulty": "medium",
+      "q": "Which demon steals the Vedas, whom Matsya then defeats to recover them?",
+      "options": [
+        "Hiranyaksha",
+        "Ravana",
+        "Hayagriva",
+        "Mahishasura"
+      ],
+      "answer": 2,
+      "explanation": "The demon Hayagriva steals the Vedas, and Matsya slays him to recover them."
+    },
+    {
+      "id": "matsya-q12",
+      "difficulty": "medium",
+      "q": "Besides the Matsya Purana, which other major text recounts the story of Matsya?",
+      "options": [
+        "The Devi Mahatmya",
+        "The Yoga Vasistha",
+        "The Manusmriti",
+        "The Bhagavata Purana"
+      ],
+      "answer": 3,
+      "explanation": "The Bhagavata Purana also narrates the Matsya avatar and the flood of Manu."
+    },
+    {
+      "id": "matsya-q13",
+      "difficulty": "medium",
+      "q": "In one early account, how does the small fish first reveal itself to King Manu?",
+      "options": [
+        "By appearing in the water he scoops in his hands",
+        "By leaping from the sea",
+        "By speaking from the sky",
+        "By rising from a sacred fire"
+      ],
+      "answer": 0,
+      "explanation": "In the tradition, a tiny fish appears in the water Manu takes in his hands and asks for protection."
+    },
+    {
+      "id": "matsya-q14",
+      "difficulty": "medium",
+      "q": "What unusual quality does the little fish display that signals to King Manu it is no ordinary creature?",
+      "options": [
+        "It turns to gold",
+        "It rapidly grows to an enormous size",
+        "It sings the Vedas",
+        "It walks on land"
+      ],
+      "answer": 1,
+      "explanation": "The fish grows so swiftly and vastly that Manu recognizes it as a divine being."
+    },
+    {
+      "id": "matsya-q15",
+      "difficulty": "medium",
+      "q": "King Manu, whom Matsya rescues, is revered in Hindu tradition chiefly as what?",
+      "options": [
+        "The first king of Lanka",
+        "The author of the Ramayana",
+        "The progenitor of humankind",
+        "A commander of the devas"
+      ],
+      "answer": 2,
+      "explanation": "Manu is honored as the ancestor and progenitor of humanity who survives the deluge."
+    },
+    {
+      "id": "matsya-q16",
+      "difficulty": "medium",
+      "q": "To what does King Manu tie his boat, following Matsya's instruction, as the floodwaters rise?",
+      "options": [
+        "The peak of Mount Meru",
+        "The serpent Shesha",
+        "The trunk of a celestial tree",
+        "The horn of the great fish"
+      ],
+      "answer": 3,
+      "explanation": "Manu fastens his boat to a horn upon the great fish, which then tows it through the waters."
+    },
+    {
+      "id": "matsya-q17",
+      "difficulty": "medium",
+      "q": "In iconography, Matsya is most often depicted as which composite form?",
+      "options": [
+        "Half-human, half-fish",
+        "Half-human, half-lion",
+        "Half-human, half-bird",
+        "Half-human, half-serpent"
+      ],
+      "answer": 0,
+      "explanation": "Matsya is commonly shown with a human upper body and a fish's lower body."
+    },
+    {
+      "id": "matsya-q18",
+      "difficulty": "medium",
+      "q": "As an avatar of Vishnu, which weapon is Matsya commonly shown holding in his upper hands?",
+      "options": [
+        "The trishula (trident)",
+        "The Sudarshana chakra",
+        "The vajra (thunderbolt)",
+        "The parashu (axe)"
+      ],
+      "answer": 1,
+      "explanation": "Being Vishnu, Matsya bears Vishnu's emblems such as the Sudarshana chakra and conch."
+    },
+    {
+      "id": "matsya-q19",
+      "difficulty": "medium",
+      "q": "Which avatar of Vishnu immediately follows Matsya in the classical Dashavatara order?",
+      "options": [
+        "Varaha, the boar",
+        "Narasimha, the man-lion",
+        "Kurma, the tortoise",
+        "Vamana, the dwarf"
+      ],
+      "answer": 2,
+      "explanation": "Kurma, the tortoise avatar, follows Matsya as the second of the ten descents."
+    },
+    {
+      "id": "matsya-q20",
+      "difficulty": "medium",
+      "q": "The Matsya episode is often compared by scholars to flood narratives because it centers on what theme?",
+      "options": [
+        "The creation of the first humans from clay",
+        "A war between the devas and asuras",
+        "The churning of the ocean of milk",
+        "The preservation of life through a great deluge"
+      ],
+      "answer": 3,
+      "explanation": "The Matsya story turns on the rescue and continuity of life through a world-covering flood."
+    },
+    {
+      "id": "matsya-q21",
+      "difficulty": "medium",
+      "q": "Why does Matsya's recovery of the Vedas carry such significance in the tradition?",
+      "options": [
+        "It restores sacred knowledge to the world after the flood",
+        "It grants immortality to the devas",
+        "It establishes the caste system",
+        "It creates the first temple"
+      ],
+      "answer": 0,
+      "explanation": "By recovering the Vedas from the demon, Matsya restores sacred knowledge after the deluge."
+    },
+    {
+      "id": "matsya-q22",
+      "difficulty": "medium",
+      "q": "The subtitle traditionally given to Matsya, 'The Fish Who Saved Creation,' points to his role as which kind of figure?",
+      "options": [
+        "A creator of new worlds",
+        "A preserver and rescuer",
+        "A destroyer of the cosmos",
+        "A judge of the dead"
+      ],
+      "answer": 1,
+      "explanation": "As an avatar of Vishnu the Preserver, Matsya saves and sustains creation through the flood."
+    },
+    {
+      "id": "matsya-q23",
+      "difficulty": "hard",
+      "q": "In the Shatapatha Brahmana, one of the earliest accounts, who is the man the fish warns of the coming flood?",
+      "options": [
+        "Pururavas",
+        "Ikshvaku",
+        "Manu",
+        "Surya"
+      ],
+      "answer": 2,
+      "explanation": "The Shatapatha Brahmana already names Manu as the one the fish warns and saves."
+    },
+    {
+      "id": "matsya-q24",
+      "difficulty": "hard",
+      "q": "The Manu most associated with the Matsya flood narrative bears which patronymic in the tradition?",
+      "options": [
+        "Svayambhuva",
+        "Chakshusha",
+        "Raivata",
+        "Vaivasvata"
+      ],
+      "answer": 3,
+      "explanation": "The flood is linked with Vaivasvata Manu, the Manu of the present cosmic age."
+    },
+    {
+      "id": "matsya-q25",
+      "difficulty": "hard",
+      "q": "In the account where the Vedas are stolen, from whom or whence are they taken at the time of the deluge?",
+      "options": [
+        "From the sleeping Brahma",
+        "From the temple at Pushkar",
+        "From the heaven of Indra",
+        "From the sage Vasishtha"
+      ],
+      "answer": 0,
+      "explanation": "In the Bhagavata account, the demon Hayagriva seizes the Vedas that issue from Brahma as he sleeps at the dissolution."
+    },
+    {
+      "id": "matsya-q26",
+      "difficulty": "hard",
+      "q": "The demon Hayagriva, slain by Matsya, shares his name with which other figure honored in Vaishnava tradition?",
+      "options": [
+        "A many-armed form of Durga",
+        "A benevolent horse-headed form of Vishnu",
+        "A serpent king of Patala",
+        "A guardian of Vaikuntha"
+      ],
+      "answer": 1,
+      "explanation": "Hayagriva is also the name of a revered horse-headed form of Vishnu, distinct from the demon Matsya slays."
+    },
+    {
+      "id": "matsya-q27",
+      "difficulty": "hard",
+      "q": "According to the tradition, what does the great fish instruct King Manu to gather and place upon the boat before the flood?",
+      "options": [
+        "Gold, gems, and royal treasure",
+        "Weapons of the devas",
+        "Seeds of all plants and pairs of living creatures",
+        "Idols of all the gods"
+      ],
+      "answer": 2,
+      "explanation": "Manu is told to load the boat with the seeds of all plants and living creatures to preserve life."
+    },
+    {
+      "id": "matsya-q28",
+      "difficulty": "hard",
+      "q": "In Puranic cosmology, the deluge Matsya guides Manu through is associated with which cosmic event?",
+      "options": [
+        "The samudra manthana, the churning of the ocean",
+        "The birth of Brahma from the lotus",
+        "The descent of the Ganga",
+        "The pralaya, or periodic dissolution of the worlds"
+      ],
+      "answer": 3,
+      "explanation": "The flood is tied to the pralaya, the periodic dissolution at the close of a cosmic age."
+    },
+    {
+      "id": "matsya-q29",
+      "difficulty": "hard",
+      "q": "After towing the boat through the deluge, where does Matsya bring Manu's vessel to rest in the tradition?",
+      "options": [
+        "Upon a high Himalayan peak",
+        "Upon the island of Lanka",
+        "Upon the banks of the Sarayu",
+        "Upon Mount Kailash"
+      ],
+      "answer": 0,
+      "explanation": "Matsya moors the boat to a high northern mountain peak as the waters recede."
+    },
+    {
+      "id": "matsya-q30",
+      "difficulty": "hard",
+      "q": "Within the symbolic reading of the Dashavatara as a cosmic progression, what does Matsya, emerging from the waters, represent?",
+      "options": [
+        "The perfected human being",
+        "The earliest, aquatic stage of life",
+        "The age of advanced civilization",
+        "The final dissolution of all forms"
+      ],
+      "answer": 1,
+      "explanation": "As a fish, Matsya is read as the first, aquatic stage in the avatars' progression from water toward the perfected human."
+    }
+  ]
+}

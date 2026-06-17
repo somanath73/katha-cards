@@ -1,0 +1,395 @@
+{
+  "cardId": "kali",
+  "questions": [
+    {
+      "id": "kali-q01",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, the goddess Kali is most closely associated with which aspect of cosmic existence?",
+      "options": [
+        "Wealth and prosperity",
+        "Learning and music",
+        "Rivers and rainfall",
+        "Time, destruction, and liberation"
+      ],
+      "answer": 3,
+      "explanation": "Kali is revered as the fierce goddess of time, destruction, and liberation, whose name is linked to 'kala', meaning time."
+    },
+    {
+      "id": "kali-q02",
+      "difficulty": "easy",
+      "q": "According to the Devi Mahatmya, the goddess Kali emerged from the brow of which warrior goddess during battle?",
+      "options": [
+        "Durga",
+        "Lakshmi",
+        "Saraswati",
+        "Sita"
+      ],
+      "answer": 0,
+      "explanation": "In the Devi Mahatmya, Kali sprang forth from the brow of the goddess Durga as she grew enraged in battle against the demons."
+    },
+    {
+      "id": "kali-q03",
+      "difficulty": "easy",
+      "q": "The goddess Kali is famously described in the texts as wearing a garland made of what?",
+      "options": [
+        "Lotus blossoms",
+        "Severed heads",
+        "Golden coins",
+        "Peacock feathers"
+      ],
+      "answer": 1,
+      "explanation": "Kali is iconographically depicted wearing a garland of severed heads, symbolizing the dissolution that her form embodies."
+    },
+    {
+      "id": "kali-q04",
+      "difficulty": "easy",
+      "q": "In her classic iconography, the goddess Kali is shown standing upon the prostrate body of which deity?",
+      "options": [
+        "Brahma",
+        "Vishnu",
+        "Shiva",
+        "Indra"
+      ],
+      "answer": 2,
+      "explanation": "Kali is traditionally depicted standing upon the prostrate Shiva, an image symbolizing dissolution preceding renewal."
+    },
+    {
+      "id": "kali-q05",
+      "difficulty": "easy",
+      "q": "Which feature of the goddess Kali's appearance is most distinctive in her traditional depictions?",
+      "options": [
+        "A crown of peacocks",
+        "A veil of pearls",
+        "Wings of gold",
+        "A long outstretched tongue"
+      ],
+      "answer": 3,
+      "explanation": "Kali is commonly shown with her tongue outstretched, a striking and characteristic feature of her fierce iconography."
+    },
+    {
+      "id": "kali-q06",
+      "difficulty": "easy",
+      "q": "The complexion of the goddess Kali is traditionally described in the texts as which color?",
+      "options": [
+        "Dark",
+        "Golden",
+        "Pale white",
+        "Crimson red"
+      ],
+      "answer": 0,
+      "explanation": "Kali is described as dark-complexioned, and her very name is connected to words meaning 'black' or 'dark'."
+    },
+    {
+      "id": "kali-q07",
+      "difficulty": "easy",
+      "q": "Besides her garland of heads, the goddess Kali is often shown wearing a girdle or skirt made of what?",
+      "options": [
+        "Woven reeds",
+        "Severed arms",
+        "Tiger claws",
+        "Silver bells"
+      ],
+      "answer": 1,
+      "explanation": "Kali is depicted wearing a girdle of severed arms, complementing her garland of heads in her fearsome form."
+    },
+    {
+      "id": "kali-q08",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, the goddess Kali is understood as a form or fierce aspect of which Great Goddess?",
+      "options": [
+        "Ushas, goddess of dawn",
+        "Ganga, the river goddess",
+        "Devi (the Divine Mother)",
+        "Aditi, mother of the gods"
+      ],
+      "answer": 2,
+      "explanation": "Kali is venerated as a fierce manifestation of the Devi, the Great Goddess, expressing her power of destruction and liberation."
+    },
+    {
+      "id": "kali-q09",
+      "difficulty": "easy",
+      "q": "The goddess Kali is frequently depicted holding which weapon, fitting for the consort and power of Shiva?",
+      "options": [
+        "A bow",
+        "A spear",
+        "A discus",
+        "A sword"
+      ],
+      "answer": 3,
+      "explanation": "Kali is commonly shown wielding a sword, symbolizing the cutting away of ignorance and the severing of bondage."
+    },
+    {
+      "id": "kali-q10",
+      "difficulty": "easy",
+      "q": "In her destructive role, the goddess Kali is said to embody the cosmic process that precedes what?",
+      "options": [
+        "Renewal",
+        "Famine",
+        "Eternal sleep",
+        "Imprisonment"
+      ],
+      "answer": 0,
+      "explanation": "Kali embodies the dissolution that precedes renewal, reflecting the cyclical Hindu vision of destruction and rebirth."
+    },
+    {
+      "id": "kali-q11",
+      "difficulty": "medium",
+      "q": "In the Devi Mahatmya, the goddess Kali appeared to help destroy two demon generals whose names are echoed in one of her titles. Who were they?",
+      "options": [
+        "Madhu and Kaitabha",
+        "Chanda and Munda",
+        "Sumbha and Nisumbha",
+        "Vritra and Namuchi"
+      ],
+      "answer": 1,
+      "explanation": "Kali slew the demon generals Chanda and Munda, earning the title Chamunda from their names."
+    },
+    {
+      "id": "kali-q12",
+      "difficulty": "medium",
+      "q": "From her victory over the demons Chanda and Munda, the goddess Kali received which well-known epithet?",
+      "options": [
+        "Mahishasuramardini",
+        "Annapurna",
+        "Chamunda",
+        "Bhavani"
+      ],
+      "answer": 2,
+      "explanation": "By slaying Chanda and Munda, Kali earned the name Chamunda, combining the demons' names."
+    },
+    {
+      "id": "kali-q13",
+      "difficulty": "medium",
+      "q": "In the Devi Mahatmya, the goddess Kali was crucial in defeating Raktabija because of his unusual power. What was it?",
+      "options": [
+        "He could not be wounded by metal",
+        "He was invisible by day",
+        "He could only be killed at midnight",
+        "Every drop of his spilled blood became a new demon"
+      ],
+      "answer": 3,
+      "explanation": "Raktabija multiplied from each drop of his blood that touched the ground, so Kali drank his blood to prevent his cloning."
+    },
+    {
+      "id": "kali-q14",
+      "difficulty": "medium",
+      "q": "According to the Devi Mahatmya, how did the goddess Kali finally overcome the demon Raktabija?",
+      "options": [
+        "By drinking his blood before it could touch the earth",
+        "By trapping him beneath a mountain",
+        "By turning him to stone with her gaze",
+        "By binding him with the serpent Vasuki"
+      ],
+      "answer": 0,
+      "explanation": "Kali drank Raktabija's blood and devoured his clones, preventing the drops from spawning more demons."
+    },
+    {
+      "id": "kali-q15",
+      "difficulty": "medium",
+      "q": "In the Puranic account, why does Shiva lie beneath the feet of the goddess Kali in her famous image?",
+      "options": [
+        "To offer her a throne",
+        "To calm her unstoppable rage after battle",
+        "To hide from the demons",
+        "To begin the cosmic dance"
+      ],
+      "answer": 1,
+      "explanation": "In the popular Puranic narrative, Shiva lay down before the rampaging Kali to halt her destructive frenzy, and she paused upon recognizing him."
+    },
+    {
+      "id": "kali-q16",
+      "difficulty": "medium",
+      "q": "The goddess Kali is counted as the first among a group of ten Tantric goddesses known by what collective name?",
+      "options": [
+        "The Saptamatrikas",
+        "The Apsaras",
+        "The Mahavidyas",
+        "The Navadurgas"
+      ],
+      "answer": 2,
+      "explanation": "Kali is regarded as the foremost of the Dasha Mahavidyas, the ten Tantric wisdom-goddesses."
+    },
+    {
+      "id": "kali-q17",
+      "difficulty": "medium",
+      "q": "The name 'Kali' is most directly derived from which Sanskrit concept?",
+      "options": [
+        "Maya, illusion",
+        "Jala, water",
+        "Agni, fire",
+        "Kala, time"
+      ],
+      "answer": 3,
+      "explanation": "The name Kali is etymologically connected to 'kala', meaning time, marking her as the goddess of time and its consuming power."
+    },
+    {
+      "id": "kali-q18",
+      "difficulty": "medium",
+      "q": "In which celebrated Sanskrit text, part of the Markandeya Purana, does the goddess Kali's emergence in battle famously appear?",
+      "options": [
+        "The Devi Mahatmya",
+        "The Bhagavad Gita",
+        "The Yoga Sutras",
+        "The Manusmriti"
+      ],
+      "answer": 0,
+      "explanation": "Kali's emergence from Durga's brow is narrated in the Devi Mahatmya, a section of the Markandeya Purana."
+    },
+    {
+      "id": "kali-q19",
+      "difficulty": "medium",
+      "q": "Many of Kali's hands are typically shown holding objects; one common hand displays a severed head, while another forms which gesture?",
+      "options": [
+        "A gesture of meditation only",
+        "A gesture of fear-dispelling (abhaya) or boon-giving",
+        "A gesture of teaching alone",
+        "A gesture of mourning"
+      ],
+      "answer": 1,
+      "explanation": "Despite her fierce form, Kali is often shown with hands in the abhaya (fear-dispelling) and boon-granting gestures, signifying her protective grace."
+    },
+    {
+      "id": "kali-q20",
+      "difficulty": "medium",
+      "q": "In Bengal, the goddess Kali is especially worshipped during a major autumn festival of lights known by what name?",
+      "options": [
+        "Raksha Bandhan",
+        "Vasant Panchami",
+        "Kali Puja",
+        "Karva Chauth"
+      ],
+      "answer": 2,
+      "explanation": "Kali Puja, observed in Bengal on the new-moon night of the Diwali season, is the principal festival dedicated to the goddess Kali."
+    },
+    {
+      "id": "kali-q21",
+      "difficulty": "medium",
+      "q": "The goddess Kali is sometimes addressed with the maternal title 'Ma Kali', emphasizing which relationship to her devotees?",
+      "options": [
+        "That of a stern judge",
+        "That of a distant queen",
+        "That of a fellow warrior",
+        "That of a divine mother"
+      ],
+      "answer": 3,
+      "explanation": "Devotees call her Ma Kali, honoring her as the Divine Mother whose fierceness shields her children, a devotion exemplified by saints like Ramakrishna."
+    },
+    {
+      "id": "kali-q22",
+      "difficulty": "medium",
+      "q": "A famous nineteenth-century mystic of the Dakshineswar temple near Kolkata was renowned for his ecstatic devotion to the goddess Kali. Who was he?",
+      "options": [
+        "Ramakrishna Paramahamsa",
+        "Adi Shankara",
+        "Tulsidas",
+        "Chaitanya Mahaprabhu"
+      ],
+      "answer": 0,
+      "explanation": "Ramakrishna Paramahamsa worshipped Kali at the Dakshineswar temple and is celebrated for his intense devotion to her."
+    },
+    {
+      "id": "kali-q23",
+      "difficulty": "hard",
+      "q": "In the Devi Mahatmya, the goddess from whose brow Kali sprang was herself created to defeat which buffalo demon earlier in the text?",
+      "options": [
+        "Hiranyakashipu",
+        "Mahishasura",
+        "Bali",
+        "Tarakasura"
+      ],
+      "answer": 1,
+      "explanation": "Durga, from whose brow Kali emerged, was first formed by the gods to slay the buffalo demon Mahishasura."
+    },
+    {
+      "id": "kali-q24",
+      "difficulty": "hard",
+      "q": "A particularly fierce form of the goddess Kali, associated with cremation grounds and worshipped in Tantric tradition, is known by which name?",
+      "options": [
+        "Gauri",
+        "Annapurna",
+        "Smashana Kali",
+        "Mangala"
+      ],
+      "answer": 2,
+      "explanation": "Smashana Kali, the Kali of the cremation grounds, is a fierce Tantric form invoked in the smashana (burning ground)."
+    },
+    {
+      "id": "kali-q25",
+      "difficulty": "hard",
+      "q": "In the well-known image where Kali stands upon Shiva, a gesture that signals her sudden return to awareness is often depicted. What does she do?",
+      "options": [
+        "She raises her sword in triumph",
+        "She closes her eyes in sleep",
+        "She offers a lotus to Shiva",
+        "She bites her tongue in startled restraint"
+      ],
+      "answer": 3,
+      "explanation": "Kali is shown biting her tongue, a gesture interpreted as her startled embarrassment on realizing she has stepped upon her own consort Shiva."
+    },
+    {
+      "id": "kali-q26",
+      "difficulty": "hard",
+      "q": "The demons Sumbha and Nisumbha, whose downfall the Devi Mahatmya recounts alongside Kali's exploits, sent which two generals first defeated by the goddess?",
+      "options": [
+        "Chanda and Munda",
+        "Madhu and Kaitabha",
+        "Khara and Dushana",
+        "Vatapi and Ilvala"
+      ],
+      "answer": 0,
+      "explanation": "Sumbha and Nisumbha dispatched the generals Chanda and Munda, whom Kali slew, before the goddess finally destroyed the two demon brothers."
+    },
+    {
+      "id": "kali-q27",
+      "difficulty": "hard",
+      "q": "Kali is venerated as a presiding goddess of one of the Shakti Pithas at a renowned temple in the city of Kolkata. Which temple is this?",
+      "options": [
+        "Somnath",
+        "Kalighat",
+        "Tirupati",
+        "Jagannath Puri"
+      ],
+      "answer": 1,
+      "explanation": "The Kalighat temple in Kolkata is a famed Shakti Pitha dedicated to the goddess Kali, giving the city part of its name."
+    },
+    {
+      "id": "kali-q28",
+      "difficulty": "hard",
+      "q": "In Tantric philosophy, the goddess Kali standing upon the inert Shiva is read as an emblem of which fundamental relationship?",
+      "options": [
+        "The earth supporting the sky",
+        "The sun overcoming the moon",
+        "The active power (Shakti) animating the static ground (Shiva)",
+        "The teacher instructing the pupil"
+      ],
+      "answer": 2,
+      "explanation": "The image is understood in Tantric thought as Shakti, the dynamic energy embodied by Kali, animating the otherwise inert consciousness of Shiva."
+    },
+    {
+      "id": "kali-q29",
+      "difficulty": "hard",
+      "q": "Among the Dasha Mahavidyas, a youthful and benign Tantric goddess often paired in contrast with the fierce Kali is known by which name?",
+      "options": [
+        "Tara",
+        "Bhairavi",
+        "Dhumavati",
+        "Shodashi (Tripura Sundari)"
+      ],
+      "answer": 3,
+      "explanation": "Shodashi, also called Tripura Sundari, is the youthful, beauteous Mahavidya often contrasted with the dark, fierce Kali."
+    },
+    {
+      "id": "kali-q30",
+      "difficulty": "hard",
+      "q": "The garland of severed heads worn by the goddess Kali is traditionally interpreted as representing which deeper meaning?",
+      "options": [
+        "The letters of the Sanskrit alphabet or the heads of the ego",
+        "The wealth she has conquered",
+        "The number of her devotees",
+        "The stars of the night sky"
+      ],
+      "answer": 0,
+      "explanation": "Kali's garland of heads is symbolically read as the fifty letters of the Sanskrit alphabet and as the severing of the ego, signifying liberating knowledge."
+    }
+  ]
+}

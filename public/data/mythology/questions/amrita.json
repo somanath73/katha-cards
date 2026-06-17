@@ -1,0 +1,395 @@
+{
+  "cardId": "amrita",
+  "questions": [
+    {
+      "id": "amrita-q01",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, what does the Amrita bestow upon those who drink it?",
+      "options": [
+        "Immortality",
+        "Great wealth",
+        "Invisibility",
+        "Boundless hunger"
+      ],
+      "answer": 0,
+      "explanation": "Amrita is the divine nectar that confers deathlessness, or immortality."
+    },
+    {
+      "id": "amrita-q02",
+      "difficulty": "easy",
+      "q": "From which great event did the Amrita emerge?",
+      "options": [
+        "The descent of the Ganga",
+        "The churning of the ocean of milk",
+        "The burning of Tripura",
+        "The creation of the Vedas"
+      ],
+      "answer": 1,
+      "explanation": "Amrita was the supreme treasure churned from the cosmic ocean during the Samudra Manthana, the churning of the ocean of milk."
+    },
+    {
+      "id": "amrita-q03",
+      "difficulty": "easy",
+      "q": "The Amrita is best classified as which type of sacred item in Hindu lore?",
+      "options": [
+        "A celestial weapon",
+        "A holy mountain",
+        "A divine treasure or nectar",
+        "A sacred chant"
+      ],
+      "answer": 2,
+      "explanation": "Amrita is a divine treasure, the nectar of immortality that arose from the churning of the ocean."
+    },
+    {
+      "id": "amrita-q04",
+      "difficulty": "easy",
+      "q": "Which physician-god rose from the churned ocean bearing the pot of Amrita?",
+      "options": [
+        "Brihaspati",
+        "Vishvakarma",
+        "Vishnu",
+        "Dhanvantari"
+      ],
+      "answer": 3,
+      "explanation": "Dhanvantari, the physician of the gods, rose from the waters bearing the pot of Amrita."
+    },
+    {
+      "id": "amrita-q05",
+      "difficulty": "easy",
+      "q": "In the churning that produced the Amrita, the two opposing groups who pulled the churning rope were the devas and which others?",
+      "options": [
+        "The asuras",
+        "The yakshas",
+        "The kinnaras",
+        "The gandharvas"
+      ],
+      "answer": 0,
+      "explanation": "The devas and asuras together churned the ocean of milk in the Samudra Manthana to obtain the Amrita."
+    },
+    {
+      "id": "amrita-q06",
+      "difficulty": "easy",
+      "q": "The Sanskrit name of the churning of the ocean that produced the Amrita is known as what?",
+      "options": [
+        "Ashvamedha",
+        "Samudra Manthana",
+        "Govardhana",
+        "Rajasuya"
+      ],
+      "answer": 1,
+      "explanation": "The episode is called the Samudra Manthana, the churning of the cosmic ocean."
+    },
+    {
+      "id": "amrita-q07",
+      "difficulty": "easy",
+      "q": "The Amrita is described in the tradition as having been churned from which body of water?",
+      "options": [
+        "A river of fire",
+        "A lake of honey",
+        "The ocean of milk",
+        "A sea of sand"
+      ],
+      "answer": 2,
+      "explanation": "Amrita emerged from the churning of the ocean of milk, the Kshira Sagara."
+    },
+    {
+      "id": "amrita-q08",
+      "difficulty": "easy",
+      "q": "Which enchanting female form did Vishnu take to secure the Amrita for the devas?",
+      "options": [
+        "Lakshmi",
+        "Saraswati",
+        "Durga",
+        "Mohini"
+      ],
+      "answer": 3,
+      "explanation": "Vishnu took the form of Mohini, an entrancing female avatar, to recover the Amrita for the devas."
+    },
+    {
+      "id": "amrita-q09",
+      "difficulty": "easy",
+      "q": "For whom did Vishnu, as Mohini, ultimately secure the Amrita?",
+      "options": [
+        "The devas",
+        "The asuras",
+        "The nagas",
+        "The rakshasas"
+      ],
+      "answer": 0,
+      "explanation": "Vishnu, as the enchantress Mohini, beguiled the demons and served the nectar only to the devas."
+    },
+    {
+      "id": "amrita-q10",
+      "difficulty": "easy",
+      "q": "The texts that recount the emergence of the Amrita from the churning belong chiefly to which body of literature?",
+      "options": [
+        "The grammatical Sutras",
+        "The Puranas",
+        "The Dharmashastras",
+        "The Arthashastra"
+      ],
+      "answer": 1,
+      "explanation": "The Puranas, such as the Bhagavata and Vishnu Puranas, recount the churning that yielded the Amrita."
+    },
+    {
+      "id": "amrita-q11",
+      "difficulty": "medium",
+      "q": "According to the Puranas, which mountain served as the churning rod during the Samudra Manthana that yielded the Amrita?",
+      "options": [
+        "Mount Kailasa",
+        "Mount Meru",
+        "Mount Mandara",
+        "Mount Govardhana"
+      ],
+      "answer": 2,
+      "explanation": "Mount Mandara was used as the churning rod in the Samudra Manthana."
+    },
+    {
+      "id": "amrita-q12",
+      "difficulty": "medium",
+      "q": "Which serpent was used as the churning rope during the Samudra Manthana that produced the Amrita?",
+      "options": [
+        "Takshaka",
+        "Kaliya",
+        "Ananta",
+        "Vasuki"
+      ],
+      "answer": 3,
+      "explanation": "The serpent Vasuki was wound about Mount Mandara to serve as the churning rope."
+    },
+    {
+      "id": "amrita-q13",
+      "difficulty": "medium",
+      "q": "In the Samudra Manthana, the avatar of Vishnu who supported the sinking Mount Mandara on his back was which form?",
+      "options": [
+        "Kurma, the tortoise",
+        "Matsya, the fish",
+        "Varaha, the boar",
+        "Narasimha, the man-lion"
+      ],
+      "answer": 0,
+      "explanation": "Vishnu took the form of Kurma, the tortoise, to bear Mount Mandara upon his back during the churning."
+    },
+    {
+      "id": "amrita-q14",
+      "difficulty": "medium",
+      "q": "When a demon disguised himself among the devas and drank the Amrita, Vishnu severed his head, creating which eclipse-causing being?",
+      "options": [
+        "Shukra",
+        "Rahu",
+        "Shani",
+        "Mangala"
+      ],
+      "answer": 1,
+      "explanation": "The demon Rahu drank the nectar in disguise; Vishnu severed his head, and the head and body became the eclipse-causing Rahu and Ketu."
+    },
+    {
+      "id": "amrita-q15",
+      "difficulty": "medium",
+      "q": "The Amrita emerged from the ocean of milk, which in Sanskrit cosmology is named what?",
+      "options": [
+        "Lavana Sagara",
+        "Dadhi Sagara",
+        "Kshira Sagara",
+        "Sura Sagara"
+      ],
+      "answer": 2,
+      "explanation": "The ocean of milk that was churned is called the Kshira Sagara in Sanskrit."
+    },
+    {
+      "id": "amrita-q16",
+      "difficulty": "medium",
+      "q": "Besides the Amrita, the same churning of the ocean also produced which goddess of fortune?",
+      "options": [
+        "Saraswati",
+        "Parvati",
+        "Ushas",
+        "Lakshmi"
+      ],
+      "answer": 3,
+      "explanation": "Lakshmi, the goddess of fortune, is among the celebrated treasures that arose from the churning of the ocean alongside the Amrita."
+    },
+    {
+      "id": "amrita-q17",
+      "difficulty": "medium",
+      "q": "Before the Amrita and the other treasures appeared, what dreadful substance first arose from the churning of the ocean?",
+      "options": [
+        "The poison Halahala",
+        "A storm of arrows",
+        "A river of gold",
+        "A cloud of locusts"
+      ],
+      "answer": 0,
+      "explanation": "The deadly poison Halahala rose first from the churning, before the auspicious treasures such as the Amrita appeared."
+    },
+    {
+      "id": "amrita-q18",
+      "difficulty": "medium",
+      "q": "Which deity drank the Halahala poison that arose during the churning, saving creation before the Amrita could be won?",
+      "options": [
+        "Vishnu",
+        "Shiva",
+        "Agni",
+        "Indra"
+      ],
+      "answer": 1,
+      "explanation": "Shiva swallowed the Halahala poison to save the worlds, an act that earned him the name Nilakantha."
+    },
+    {
+      "id": "amrita-q19",
+      "difficulty": "medium",
+      "q": "The Amrita is contained in a sacred vessel; in the iconography of Dhanvantari, what is he most often shown holding?",
+      "options": [
+        "A bow and quiver",
+        "A plough and mace",
+        "A pot of nectar (kalasha)",
+        "A book and rosary"
+      ],
+      "answer": 2,
+      "explanation": "Dhanvantari is depicted bearing the pot, or kalasha, that holds the Amrita."
+    },
+    {
+      "id": "amrita-q20",
+      "difficulty": "medium",
+      "q": "The Samudra Manthana that yielded the Amrita is narrated most fully in which body of texts and in the epics?",
+      "options": [
+        "The Ashtadhyayi",
+        "The Yoga Sutras",
+        "The Brahma Sutras",
+        "The Puranas and the Mahabharata"
+      ],
+      "answer": 3,
+      "explanation": "The churning of the ocean is narrated in the Puranas and in the Mahabharata."
+    },
+    {
+      "id": "amrita-q21",
+      "difficulty": "medium",
+      "q": "The devas sought the Amrita primarily to overcome which condition that afflicted them?",
+      "options": [
+        "Their loss of strength and vulnerability to death",
+        "Their inability to fly",
+        "Their loss of speech",
+        "Their forgetfulness of the Vedas"
+      ],
+      "answer": 0,
+      "explanation": "Weakened and subject to decline, the devas sought the Amrita to regain their strength and gain immortality."
+    },
+    {
+      "id": "amrita-q22",
+      "difficulty": "medium",
+      "q": "The word 'Amrita' is formed from a negation and a root; it literally signifies which idea?",
+      "options": [
+        "Boundless light",
+        "Non-death or deathlessness",
+        "Sweet taste",
+        "Endless wealth"
+      ],
+      "answer": 1,
+      "explanation": "The Sanskrit 'a-mrita' means 'non-dead' or deathless, hence the nectar of immortality."
+    },
+    {
+      "id": "amrita-q23",
+      "difficulty": "hard",
+      "q": "After Vishnu severed the disguised demon's head, the severed head and trunk became Rahu and which other shadow-planet?",
+      "options": [
+        "Budha",
+        "Brihaspati",
+        "Ketu",
+        "Shukra"
+      ],
+      "answer": 2,
+      "explanation": "The demon's head became Rahu and his body became Ketu, the two shadow-grahas associated with eclipses."
+    },
+    {
+      "id": "amrita-q24",
+      "difficulty": "hard",
+      "q": "Which two luminaries are said to have exposed the disguised demon as he drank the Amrita, earning his lasting enmity?",
+      "options": [
+        "Agni and Vayu",
+        "Indra and Varuna",
+        "Brihaspati and Shukra",
+        "Surya and Chandra (the Sun and Moon)"
+      ],
+      "answer": 3,
+      "explanation": "The Sun (Surya) and Moon (Chandra) revealed the demon drinking the nectar, which is why Rahu is said to pursue and swallow them, causing eclipses."
+    },
+    {
+      "id": "amrita-q25",
+      "difficulty": "hard",
+      "q": "The Amrita is reckoned among the ratnas (treasures) of the churning; which wish-fulfilling cow is likewise counted among those treasures?",
+      "options": [
+        "Kamadhenu",
+        "Nandini",
+        "Surabhi's calf",
+        "Bahula"
+      ],
+      "answer": 0,
+      "explanation": "Kamadhenu, the wish-fulfilling cow, is among the treasures that emerged from the churning of the ocean alongside the Amrita."
+    },
+    {
+      "id": "amrita-q26",
+      "difficulty": "hard",
+      "q": "In the Garuda lore connected with the nectar, the eagle Garuda seized a portion of the Amrita for what purpose?",
+      "options": [
+        "To gain Vishnu's throne",
+        "To free his enslaved mother from the Nagas",
+        "To win the hand of a goddess",
+        "To destroy Mount Mandara"
+      ],
+      "answer": 1,
+      "explanation": "Garuda won the nectar of immortality to free his mother Vinata from servitude to the Nagas, which began his eternal enmity with serpents."
+    },
+    {
+      "id": "amrita-q27",
+      "difficulty": "hard",
+      "q": "In Vedic tradition, the Amrita is closely identified with which sacred draught praised throughout the Rigveda?",
+      "options": [
+        "Madhu",
+        "Sura",
+        "Soma",
+        "Ghrita"
+      ],
+      "answer": 2,
+      "explanation": "The Amrita is closely identified with Soma, the sacred draught of the gods celebrated throughout the Rigveda."
+    },
+    {
+      "id": "amrita-q28",
+      "difficulty": "hard",
+      "q": "While Mohini distributed the Amrita, the asuras were beguiled because she served it according to what arrangement?",
+      "options": [
+        "She poured it only at midnight",
+        "She mixed it with the Halahala poison",
+        "She hid it within Mount Mandara",
+        "She seated the devas and asuras in separate rows"
+      ],
+      "answer": 3,
+      "explanation": "Mohini seated the devas and asuras in separate rows and, by her enchantment, served the genuine nectar only to the devas."
+    },
+    {
+      "id": "amrita-q29",
+      "difficulty": "hard",
+      "q": "The contest over drops of Amrita is traditionally linked to the origin of which great pilgrimage gathering?",
+      "options": [
+        "The Kumbha Mela",
+        "The Rath Yatra",
+        "The Pushkar fair",
+        "The Thaipusam festival"
+      ],
+      "answer": 0,
+      "explanation": "Tradition holds that drops of the Amrita fell at certain sacred sites during the contest for the pot, giving rise to the Kumbha Mela held at those places."
+    },
+    {
+      "id": "amrita-q30",
+      "difficulty": "hard",
+      "q": "The Amrita belongs to the cluster of treasures from the churning; which of the following that also arose is a radiant gem worn by Vishnu rather than a drink?",
+      "options": [
+        "Amrita",
+        "Kaustubha",
+        "Halahala",
+        "Varuni"
+      ],
+      "answer": 1,
+      "explanation": "The Kaustubha is the radiant gem from the churning that Vishnu wears on his chest, distinct from the Amrita nectar."
+    }
+  ]
+}

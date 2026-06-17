@@ -1,0 +1,395 @@
+{
+  "cardId": "moksha",
+  "questions": [
+    {
+      "id": "moksha-q01",
+      "difficulty": "easy",
+      "q": "In Hindu thought, moksha refers to liberation from what?",
+      "options": [
+        "The duties of kingship",
+        "The obligations of marriage",
+        "The cycle of birth, death, and rebirth (samsara)",
+        "The performance of fire sacrifices"
+      ],
+      "answer": 2,
+      "explanation": "Moksha is the final liberation of the soul from samsara, the endless cycle of birth, death, and rebirth."
+    },
+    {
+      "id": "moksha-q02",
+      "difficulty": "easy",
+      "q": "Moksha is counted as the highest of which set of four aims of human life?",
+      "options": [
+        "The four Vedas",
+        "The four yugas",
+        "The four varnas",
+        "The four purusharthas"
+      ],
+      "answer": 3,
+      "explanation": "Moksha is the highest of the four purusharthas, the legitimate aims of human life."
+    },
+    {
+      "id": "moksha-q03",
+      "difficulty": "easy",
+      "q": "Which three aims accompany moksha among the four purusharthas?",
+      "options": [
+        "Dharma, artha, and kama",
+        "Satya, ahimsa, and tapas",
+        "Bhakti, jnana, and karma",
+        "Srishti, sthiti, and samhara"
+      ],
+      "answer": 0,
+      "explanation": "The four purusharthas are dharma (duty), artha (prosperity), kama (desire), and moksha (liberation)."
+    },
+    {
+      "id": "moksha-q04",
+      "difficulty": "easy",
+      "q": "The cycle of repeated birth and death from which moksha frees the soul is known by which Sanskrit term?",
+      "options": [
+        "Pralaya",
+        "Samsara",
+        "Yajna",
+        "Manvantara"
+      ],
+      "answer": 1,
+      "explanation": "Samsara is the cycle of repeated birth, death, and rebirth from which moksha is release."
+    },
+    {
+      "id": "moksha-q05",
+      "difficulty": "easy",
+      "q": "In Vedantic teaching, moksha is often described as the realization of the identity of the individual soul (atman) with what?",
+      "options": [
+        "Maya",
+        "Prakriti",
+        "Brahman",
+        "Ahamkara"
+      ],
+      "answer": 2,
+      "explanation": "Many schools describe moksha as the realization of the atman's identity with Brahman, the supreme reality."
+    },
+    {
+      "id": "moksha-q06",
+      "difficulty": "easy",
+      "q": "Which layer of Hindu scripture first develops the teaching of moksha and the atman-Brahman relationship?",
+      "options": [
+        "The Dharmashastras",
+        "The Arthashastra",
+        "The Natyashastra",
+        "The Upanishads"
+      ],
+      "answer": 3,
+      "explanation": "The Upanishads, the concluding portions of the Vedas, develop the teaching of moksha and the atman's nature."
+    },
+    {
+      "id": "moksha-q07",
+      "difficulty": "easy",
+      "q": "The individual self that attains moksha is referred to in Hindu philosophy by which term?",
+      "options": [
+        "Atman",
+        "Vahana",
+        "Astra",
+        "Vimana"
+      ],
+      "answer": 0,
+      "explanation": "Atman is the individual self or soul whose liberation from samsara constitutes moksha."
+    },
+    {
+      "id": "moksha-q08",
+      "difficulty": "easy",
+      "q": "Moksha is commonly understood as freedom from rebirth driven by the fruits of which principle of action?",
+      "options": [
+        "Yajna",
+        "Karma",
+        "Dharma",
+        "Tapas"
+      ],
+      "answer": 1,
+      "explanation": "Karma binds the soul to consequences across lifetimes, and moksha is liberation from that binding cycle."
+    },
+    {
+      "id": "moksha-q09",
+      "difficulty": "easy",
+      "q": "Which scripture, a dialogue between Krishna and Arjuna, expounds several paths toward liberation?",
+      "options": [
+        "The Manusmriti",
+        "The Natya Shastra",
+        "The Bhagavad Gita",
+        "The Arthashastra"
+      ],
+      "answer": 2,
+      "explanation": "The Bhagavad Gita, Krishna's counsel to Arjuna, teaches the paths of knowledge, devotion, and action toward liberation."
+    },
+    {
+      "id": "moksha-q10",
+      "difficulty": "easy",
+      "q": "The three classical paths said to lead toward moksha are knowledge, devotion, and which third?",
+      "options": [
+        "Conquest",
+        "Wealth",
+        "Renown",
+        "Action"
+      ],
+      "answer": 3,
+      "explanation": "Moksha is traditionally approached through the paths of knowledge (jnana), devotion (bhakti), and action (karma)."
+    },
+    {
+      "id": "moksha-q11",
+      "difficulty": "medium",
+      "q": "The Sanskrit term 'jnana,' naming one path to moksha, refers to which kind of pursuit?",
+      "options": [
+        "Spiritual knowledge or wisdom",
+        "Ritual sacrifice",
+        "Loving devotion",
+        "Selfless action"
+      ],
+      "answer": 0,
+      "explanation": "Jnana-marga is the path of spiritual knowledge or wisdom leading to liberation."
+    },
+    {
+      "id": "moksha-q12",
+      "difficulty": "medium",
+      "q": "The path of 'bhakti' toward moksha is best described as which of the following?",
+      "options": [
+        "Disciplined knowledge of texts",
+        "Loving devotion to God",
+        "Performance of Vedic rituals",
+        "Renunciation of all action"
+      ],
+      "answer": 1,
+      "explanation": "Bhakti-marga is the path of loving devotion to a personal God as a means to liberation."
+    },
+    {
+      "id": "moksha-q13",
+      "difficulty": "medium",
+      "q": "Besides identity with Brahman, moksha is described in some traditions as which alternative state?",
+      "options": [
+        "Rebirth as a celestial being",
+        "Rulership of the heavens",
+        "Eternal union with God",
+        "Endless residence in Patala"
+      ],
+      "answer": 2,
+      "explanation": "Later devotional schools describe moksha as eternal union with or nearness to God rather than impersonal merging."
+    },
+    {
+      "id": "moksha-q14",
+      "difficulty": "medium",
+      "q": "Within the four purusharthas, which aim concerns righteous duty and cosmic order?",
+      "options": [
+        "Artha",
+        "Kama",
+        "Moksha",
+        "Dharma"
+      ],
+      "answer": 3,
+      "explanation": "Dharma, one of the four purusharthas, concerns righteous duty and the cosmic order that sustains creation."
+    },
+    {
+      "id": "moksha-q15",
+      "difficulty": "medium",
+      "q": "Within the four purusharthas, which aim concerns material prosperity and the means of livelihood?",
+      "options": [
+        "Artha",
+        "Dharma",
+        "Kama",
+        "Moksha"
+      ],
+      "answer": 0,
+      "explanation": "Artha, among the four purusharthas, concerns material prosperity, wealth, and the means of livelihood."
+    },
+    {
+      "id": "moksha-q16",
+      "difficulty": "medium",
+      "q": "The teaching that moksha frees the soul from rebirth treats moksha as which kind of goal among worldly aims?",
+      "options": [
+        "A preliminary stage before kingship",
+        "The ultimate and final aim",
+        "An aim equal in rank to wealth",
+        "An aim reserved only for the gods"
+      ],
+      "answer": 1,
+      "explanation": "Moksha is regarded as the highest and final aim, surpassing dharma, artha, and kama."
+    },
+    {
+      "id": "moksha-q17",
+      "difficulty": "medium",
+      "q": "The Bhagavad Gita's teaching of 'nishkama karma,' linked to liberation, means action performed in what manner?",
+      "options": [
+        "Only for personal gain",
+        "Solely through fire sacrifice",
+        "Without attachment to its results",
+        "In complete inactivity"
+      ],
+      "answer": 2,
+      "explanation": "Nishkama karma is action performed without attachment to its fruits, taught in the Gita as a path toward liberation."
+    },
+    {
+      "id": "moksha-q18",
+      "difficulty": "medium",
+      "q": "In the Puranas, the sacred city of Kashi (Varanasi) is associated with liberation because those who die there are said to receive what?",
+      "options": [
+        "A throne in Indra's heaven",
+        "Rulership over the Nagas",
+        "A boon of physical immortality",
+        "Shiva's liberating mantra and freedom from rebirth"
+      ],
+      "answer": 3,
+      "explanation": "The Puranas hold that those who die in Kashi receive Shiva's liberating mantra and are freed from rebirth."
+    },
+    {
+      "id": "moksha-q19",
+      "difficulty": "medium",
+      "q": "The supreme reality with which the atman is realized to be one in moksha is, in Vedanta, called by which name?",
+      "options": [
+        "Brahman",
+        "Indra",
+        "Yama",
+        "Kubera"
+      ],
+      "answer": 0,
+      "explanation": "In Vedanta, Brahman is the supreme, formless reality with which the liberated atman is realized to be identical."
+    },
+    {
+      "id": "moksha-q20",
+      "difficulty": "medium",
+      "q": "Heavens such as Indra's Svarga differ from moksha in that residence in them, according to the Puranas, eventually ends in what?",
+      "options": [
+        "Permanent and final liberation",
+        "A return to the cycle of rebirth",
+        "Transformation into a Naga",
+        "Ascension to the rank of Brahma"
+      ],
+      "answer": 1,
+      "explanation": "The Puranas teach that souls in heavens like Svarga enjoy merit only temporarily before returning to rebirth, unlike moksha."
+    },
+    {
+      "id": "moksha-q21",
+      "difficulty": "medium",
+      "q": "Among the four purusharthas, which aim concerns desire, pleasure, and the enjoyments of life?",
+      "options": [
+        "Dharma",
+        "Artha",
+        "Kama",
+        "Moksha"
+      ],
+      "answer": 2,
+      "explanation": "Kama, one of the four purusharthas, concerns desire, pleasure, and the legitimate enjoyments of life."
+    },
+    {
+      "id": "moksha-q22",
+      "difficulty": "medium",
+      "q": "In the Bhagavad Gita's framework, the path of knowledge toward liberation is most often designated by which Sanskrit term?",
+      "options": [
+        "Hatha yoga",
+        "Raja vidya",
+        "Yajna vidhi",
+        "Jnana yoga"
+      ],
+      "answer": 3,
+      "explanation": "Jnana yoga is the path of knowledge described in the Bhagavad Gita as a means to liberation."
+    },
+    {
+      "id": "moksha-q23",
+      "difficulty": "hard",
+      "q": "Liberation attained while still living in the body is known in Vedantic tradition by which term?",
+      "options": [
+        "Jivanmukti",
+        "Videhamukti",
+        "Sayujya",
+        "Kaivalya"
+      ],
+      "answer": 0,
+      "explanation": "Jivanmukti is liberation attained while still embodied, the state of one freed even before death."
+    },
+    {
+      "id": "moksha-q24",
+      "difficulty": "hard",
+      "q": "Which philosopher is most associated with the Advaita Vedanta view that moksha is realizing the non-difference of atman and Brahman?",
+      "options": [
+        "Patanjali",
+        "Adi Shankara",
+        "Kautilya",
+        "Panini"
+      ],
+      "answer": 1,
+      "explanation": "Adi Shankara is the foremost expositor of Advaita Vedanta, which teaches moksha as realizing the non-difference of atman and Brahman."
+    },
+    {
+      "id": "moksha-q25",
+      "difficulty": "hard",
+      "q": "In the Yoga school of Patanjali, the term most akin to moksha, denoting the soul's isolation from matter, is which of these?",
+      "options": [
+        "Samadhi",
+        "Pranayama",
+        "Kaivalya",
+        "Dharana"
+      ],
+      "answer": 2,
+      "explanation": "Kaivalya, meaning isolation or aloneness, is the liberative goal of Patanjali's Yoga, the self freed from prakriti."
+    },
+    {
+      "id": "moksha-q26",
+      "difficulty": "hard",
+      "q": "In devotional Vaishnava traditions, liberated souls are said to dwell eternally in the grace of Vishnu in which celestial abode?",
+      "options": [
+        "Amaravati",
+        "Alaka",
+        "Naraka",
+        "Vaikuntha"
+      ],
+      "answer": 3,
+      "explanation": "Vaikuntha, the supreme abode of Vishnu, is where liberated souls are said to dwell eternally in his grace."
+    },
+    {
+      "id": "moksha-q27",
+      "difficulty": "hard",
+      "q": "The Upanishadic 'great saying' (mahavakya) 'Tat Tvam Asi,' pointing to liberation, is translated as which of the following?",
+      "options": [
+        "That thou art",
+        "Truth alone triumphs",
+        "I am the sacrifice",
+        "Lead me from darkness"
+      ],
+      "answer": 0,
+      "explanation": "'Tat Tvam Asi,' meaning 'That thou art,' is a Chandogya Upanishad mahavakya affirming the atman's identity with Brahman."
+    },
+    {
+      "id": "moksha-q28",
+      "difficulty": "hard",
+      "q": "In Vaishnava theology, the mode of liberation described as merging into or sharing the very form of the Lord is termed which of these?",
+      "options": [
+        "Pralaya",
+        "Sayujya",
+        "Manvantara",
+        "Tapasya"
+      ],
+      "answer": 1,
+      "explanation": "Sayujya is the highest of the devotional modes of liberation, signifying union with or merging into the Lord."
+    },
+    {
+      "id": "moksha-q29",
+      "difficulty": "hard",
+      "q": "The Bhagavad Gita names three margas leading toward liberation; which trio correctly lists them?",
+      "options": [
+        "Artha, kama, and dharma",
+        "Tapas, dana, and yajna",
+        "Jnana, bhakti, and karma",
+        "Srishti, sthiti, and samhara"
+      ],
+      "answer": 2,
+      "explanation": "The Bhagavad Gita presents jnana (knowledge), bhakti (devotion), and karma (action) as paths toward liberation."
+    },
+    {
+      "id": "moksha-q30",
+      "difficulty": "hard",
+      "q": "The classical Sanskrit terms moksha, mukti, and apavarga all most directly denote which concept?",
+      "options": [
+        "Cosmic dissolution",
+        "Ritual purification",
+        "Ascetic penance",
+        "Liberation or release"
+      ],
+      "answer": 3,
+      "explanation": "Moksha, mukti, and apavarga are synonymous Sanskrit terms all denoting spiritual liberation or release from samsara."
+    }
+  ]
+}

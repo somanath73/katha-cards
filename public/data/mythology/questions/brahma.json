@@ -1,0 +1,395 @@
+{
+  "cardId": "brahma",
+  "questions": [
+    {
+      "id": "brahma-q01",
+      "difficulty": "easy",
+      "q": "Which cosmic function does Brahma fulfill within the Trimurti?",
+      "options": [
+        "Preservation",
+        "Destruction",
+        "Concealment",
+        "Creation"
+      ],
+      "answer": 3,
+      "explanation": "In the Puranas Brahma is the creator (srishti) of the Trimurti, alongside Vishnu the preserver and Shiva the destroyer."
+    },
+    {
+      "id": "brahma-q02",
+      "difficulty": "easy",
+      "q": "How many faces is Brahma traditionally depicted with in Puranic iconography?",
+      "options": [
+        "Four",
+        "Two",
+        "Three",
+        "Six"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas describe Brahma as four-faced (chaturmukha), his faces traditionally associated with the four directions and the four Vedas."
+    },
+    {
+      "id": "brahma-q03",
+      "difficulty": "easy",
+      "q": "Who is the consort of Brahma in Hindu tradition?",
+      "options": [
+        "Lakshmi",
+        "Saraswati",
+        "Parvati",
+        "Durga"
+      ],
+      "answer": 1,
+      "explanation": "Brahma's consort is Saraswati, the goddess of knowledge, music, and speech."
+    },
+    {
+      "id": "brahma-q04",
+      "difficulty": "easy",
+      "q": "What is the vahana (mount) of Brahma?",
+      "options": [
+        "Garuda the eagle",
+        "Nandi the bull",
+        "The hamsa (swan/goose)",
+        "The peacock"
+      ],
+      "answer": 2,
+      "explanation": "Brahma's vahana is the hamsa, the swan or goose, a symbol of discernment and purity."
+    },
+    {
+      "id": "brahma-q05",
+      "difficulty": "easy",
+      "q": "Upon what does Brahma sit in his classic Puranic depiction?",
+      "options": [
+        "A throne of gold",
+        "A tiger skin",
+        "A serpent's coils",
+        "A lotus"
+      ],
+      "answer": 3,
+      "explanation": "Brahma is seated upon a lotus, which in the Puranas rises from the navel of Vishnu."
+    },
+    {
+      "id": "brahma-q06",
+      "difficulty": "easy",
+      "q": "Which famous temple in Rajasthan is among the rare shrines dedicated to Brahma?",
+      "options": [
+        "The Pushkar temple",
+        "The Kashi Vishwanath temple",
+        "The Jagannath temple",
+        "The Meenakshi temple"
+      ],
+      "answer": 0,
+      "explanation": "The temple at Pushkar in Rajasthan is among the very few shrines dedicated to Brahma."
+    },
+    {
+      "id": "brahma-q07",
+      "difficulty": "easy",
+      "q": "How many arms is Brahma usually shown with in the Puranas?",
+      "options": [
+        "Two",
+        "Four",
+        "Eight",
+        "Ten"
+      ],
+      "answer": 1,
+      "explanation": "Brahma is traditionally depicted as four-armed, each hand bearing one of his sacred attributes."
+    },
+    {
+      "id": "brahma-q08",
+      "difficulty": "easy",
+      "q": "Saraswati, the consort of Brahma, is the goddess of what?",
+      "options": [
+        "Wealth and fortune",
+        "War and victory",
+        "Knowledge and speech",
+        "Time and destruction"
+      ],
+      "answer": 2,
+      "explanation": "Saraswati is venerated as the goddess of knowledge, learning, music, and speech."
+    },
+    {
+      "id": "brahma-q09",
+      "difficulty": "easy",
+      "q": "Which four sacred texts are said to be brought forth through Brahma at the dawn of each cosmic cycle?",
+      "options": [
+        "The four Upanishads",
+        "The four Yugas",
+        "The four Puranas",
+        "The four Vedas"
+      ],
+      "answer": 3,
+      "explanation": "Through Brahma the worlds and the four Vedas are brought forth at the beginning of each cosmic cycle."
+    },
+    {
+      "id": "brahma-q10",
+      "difficulty": "easy",
+      "q": "From whose navel does the lotus bearing Brahma rise in Puranic imagery?",
+      "options": [
+        "Vishnu's",
+        "Shiva's",
+        "Indra's",
+        "Surya's"
+      ],
+      "answer": 0,
+      "explanation": "In the Puranas, Brahma is born upon a lotus that rises from the navel of the reclining Vishnu."
+    },
+    {
+      "id": "brahma-q11",
+      "difficulty": "medium",
+      "q": "Which of these is one of the four objects Brahma is described as holding in the Puranas?",
+      "options": [
+        "A conch",
+        "A water pot (kamandalu)",
+        "A discus",
+        "A flute"
+      ],
+      "answer": 1,
+      "explanation": "Brahma is described holding the Vedas, a water pot (kamandalu), a rosary, and a ladle in his four hands."
+    },
+    {
+      "id": "brahma-q12",
+      "difficulty": "medium",
+      "q": "The rosary that Brahma holds is generally understood to represent what?",
+      "options": [
+        "His mastery of weapons",
+        "His sovereignty over kings",
+        "The counting of cosmic time and prayer",
+        "The wealth of the worlds"
+      ],
+      "answer": 2,
+      "explanation": "The rosary (akshamala) held by Brahma symbolizes the cycle of time and the practice of meditation and recitation."
+    },
+    {
+      "id": "brahma-q13",
+      "difficulty": "medium",
+      "q": "Brahma's vahana, the hamsa, is celebrated in tradition for its symbolic ability to do what?",
+      "options": [
+        "Carry messages between worlds",
+        "Foretell the future",
+        "Calm raging storms",
+        "Separate milk from water"
+      ],
+      "answer": 3,
+      "explanation": "The hamsa is traditionally praised for its power to separate milk from water, symbolizing the discernment of truth from illusion."
+    },
+    {
+      "id": "brahma-q14",
+      "difficulty": "medium",
+      "q": "According to the Puranas, the periodic dissolution of the cosmos at the very end of Brahma's life is known as what?",
+      "options": [
+        "The maha-pralaya",
+        "The Samudra Manthana",
+        "The Ananda Tandava",
+        "The yoga nidra"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas describe the maha-pralaya, the great dissolution, as occurring at the close of Brahma's life, after which all returns to the unmanifest."
+    },
+    {
+      "id": "brahma-q15",
+      "difficulty": "medium",
+      "q": "The Saptarishi, the seven great seers, are described in the Puranas as which relation to Brahma?",
+      "options": [
+        "His earthly disciples",
+        "His mind-born sons",
+        "His royal ministers",
+        "His celestial musicians"
+      ],
+      "answer": 1,
+      "explanation": "The seven seers (Saptarishi) are described as the mind-born sons of Brahma who anchor cosmic order across each age."
+    },
+    {
+      "id": "brahma-q16",
+      "difficulty": "medium",
+      "q": "The wandering sage Narada, who carries his veena through the three worlds, is described in the Puranas as a son of which deity?",
+      "options": [
+        "Vishnu",
+        "Shiva",
+        "Brahma",
+        "Indra"
+      ],
+      "answer": 2,
+      "explanation": "Narada is described as a mind-born son of Brahma and a supreme devotee of Vishnu."
+    },
+    {
+      "id": "brahma-q17",
+      "difficulty": "medium",
+      "q": "In the story of Hiranyakashipu, from which deity did the tyrant win the boon of near-invincibility?",
+      "options": [
+        "Vishnu",
+        "Yama",
+        "Agni",
+        "Brahma"
+      ],
+      "answer": 3,
+      "explanation": "According to the Bhagavata Purana, Hiranyakashipu won his boon of near-invincibility from Brahma through severe austerities."
+    },
+    {
+      "id": "brahma-q18",
+      "difficulty": "medium",
+      "q": "In the Ramayana, Kumbhakarna's request to Brahma was garbled by which goddess, condemning him to long sleep?",
+      "options": [
+        "Saraswati",
+        "Lakshmi",
+        "Parvati",
+        "Ganga"
+      ],
+      "answer": 0,
+      "explanation": "The Ramayana relates that Saraswati altered Kumbhakarna's speech so his request to Brahma became one for prolonged sleep."
+    },
+    {
+      "id": "brahma-q19",
+      "difficulty": "medium",
+      "q": "The divine missile that never misses its mark and is presided over by Brahma is known as what?",
+      "options": [
+        "The Pashupatastra",
+        "The Brahmastra",
+        "The Sudarshana Chakra",
+        "The Vajra"
+      ],
+      "answer": 1,
+      "explanation": "The Brahmastra is the supremely destructive divine missile presided over by Brahma, invoked by sacred mantra."
+    },
+    {
+      "id": "brahma-q20",
+      "difficulty": "medium",
+      "q": "In Puranic cosmology, Brahma's abode is placed at the summit of which cosmic mountain?",
+      "options": [
+        "Mount Kailash",
+        "Mount Mandara",
+        "Mount Meru",
+        "Mount Govardhan"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas place Brahma's abode at the summit of Mount Meru, the golden axis of the universe."
+    },
+    {
+      "id": "brahma-q21",
+      "difficulty": "medium",
+      "q": "Ravana, the ten-headed king of Lanka, is described in the Ramayana as a grandson of which creator deity?",
+      "options": [
+        "Vishnu",
+        "Shiva",
+        "Indra",
+        "Brahma"
+      ],
+      "answer": 3,
+      "explanation": "The Ramayana describes Ravana as the son of the sage Vishrava and grandson of Brahma."
+    },
+    {
+      "id": "brahma-q22",
+      "difficulty": "medium",
+      "q": "Within the Trimurti, which deity is paired with Brahma as the preserver of the cosmos?",
+      "options": [
+        "Vishnu",
+        "Shiva",
+        "Indra",
+        "Yama"
+      ],
+      "answer": 0,
+      "explanation": "In the Trimurti, Brahma the creator is paired with Vishnu the preserver and Shiva the destroyer."
+    },
+    {
+      "id": "brahma-q23",
+      "difficulty": "hard",
+      "q": "The ladle held by Brahma in his iconography is most directly associated with which sacred practice?",
+      "options": [
+        "Ritual bathing",
+        "The fire sacrifice (yajna)",
+        "The writing of scripture",
+        "The blowing of the conch"
+      ],
+      "answer": 1,
+      "explanation": "The ladle (sruva) held by Brahma is the implement of the yajna, the fire sacrifice, linking him to Vedic ritual."
+    },
+    {
+      "id": "brahma-q24",
+      "difficulty": "hard",
+      "q": "According to the Lingodbhava myth associated with the Shiva Lingam, what did Brahma attempt and fail to do?",
+      "options": [
+        "To lift Mount Mandara",
+        "To drink the ocean",
+        "To find the upper end of an infinite pillar of light",
+        "To string Shiva's bow"
+      ],
+      "answer": 2,
+      "explanation": "In the Lingodbhava myth, Shiva appeared as an infinite pillar of light whose ends neither Brahma nor Vishnu could find."
+    },
+    {
+      "id": "brahma-q25",
+      "difficulty": "hard",
+      "q": "In the Puranas, the rare worship of Brahma is sometimes explained by a curse said to have been pronounced upon him by which figure?",
+      "options": [
+        "The serpent Vasuki",
+        "The demon Mahishasura",
+        "The king Bhagiratha",
+        "The sage Bhrigu or, in some accounts, his consort"
+      ],
+      "answer": 3,
+      "explanation": "Puranic accounts attribute Brahma's scant worship to a curse, variously ascribed in different tellings, explaining why his shrines are so few."
+    },
+    {
+      "id": "brahma-q26",
+      "difficulty": "hard",
+      "q": "A single day of Brahma in Puranic time-reckoning is known as what span?",
+      "options": [
+        "A kalpa",
+        "A yuga",
+        "A muhurta",
+        "A manvantara"
+      ],
+      "answer": 0,
+      "explanation": "A single day of Brahma is called a kalpa, an immense span during which creation endures before dissolution."
+    },
+    {
+      "id": "brahma-q27",
+      "difficulty": "hard",
+      "q": "The four Vedas are traditionally associated with the four faces of Brahma. Which is counted among them?",
+      "options": [
+        "The Bhagavata",
+        "The Rigveda",
+        "The Manusmriti",
+        "The Gita"
+      ],
+      "answer": 1,
+      "explanation": "The four Vedas associated with Brahma's faces are the Rigveda, Yajurveda, Samaveda, and Atharvaveda."
+    },
+    {
+      "id": "brahma-q28",
+      "difficulty": "hard",
+      "q": "In the Puranic image of Vishnu reclining on Shesha, what specifically marks the moment of Brahma's birth to begin a new creation?",
+      "options": [
+        "The blowing of the conch Panchajanya",
+        "The churning of the ocean of milk",
+        "A lotus rising from Vishnu's navel",
+        "The descent of the Ganga"
+      ],
+      "answer": 2,
+      "explanation": "From a lotus rising out of Vishnu's navel, Brahma is born to begin a new creation as Vishnu reclines on Shesha."
+    },
+    {
+      "id": "brahma-q29",
+      "difficulty": "hard",
+      "q": "Brahma is most directly identified with which of the abstract principles of Hindu thought?",
+      "options": [
+        "Maya, illusion",
+        "Kala, time as destroyer",
+        "Rita, the moral order alone",
+        "The creative aspect of the one Brahman"
+      ],
+      "answer": 3,
+      "explanation": "Brahma personifies the creative function of the one supreme Brahman expressed through the threefold cosmic activity."
+    },
+    {
+      "id": "brahma-q30",
+      "difficulty": "hard",
+      "q": "The Pushkar temple of Brahma stands beside which feature held sacred in its associated lore?",
+      "options": [
+        "A sacred lake",
+        "A volcanic peak",
+        "A great banyan tree",
+        "A hidden cave"
+      ],
+      "answer": 0,
+      "explanation": "The Brahma temple at Pushkar stands beside the sacred Pushkar lake, central to the pilgrimage site's tradition."
+    }
+  ]
+}

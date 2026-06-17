@@ -1,0 +1,395 @@
+{
+  "cardId": "samudra-manthan",
+  "questions": [
+    {
+      "id": "samudra-manthan-q01",
+      "difficulty": "easy",
+      "q": "What is the Samudra Manthan, as recounted in the Puranas?",
+      "options": [
+        "The burning of a forest",
+        "A great flood",
+        "The churning of the cosmic ocean",
+        "A battle between two kings"
+      ],
+      "answer": 2,
+      "explanation": "Samudra Manthan means the churning of the ocean, the cosmic event narrated in the Bhagavata and Vishnu Puranas."
+    },
+    {
+      "id": "samudra-manthan-q02",
+      "difficulty": "easy",
+      "q": "In the Samudra Manthan, which mountain was used as the churning rod?",
+      "options": [
+        "Mount Kailasa",
+        "Mount Meru",
+        "Mount Govardhana",
+        "Mount Mandara"
+      ],
+      "answer": 3,
+      "explanation": "According to the Puranas, Mount Mandara served as the churning rod in the Samudra Manthan."
+    },
+    {
+      "id": "samudra-manthan-q03",
+      "difficulty": "easy",
+      "q": "In the Samudra Manthan, which serpent was used as the churning rope?",
+      "options": [
+        "Vasuki",
+        "Takshaka",
+        "Kaliya",
+        "Ananta"
+      ],
+      "answer": 0,
+      "explanation": "The serpent Vasuki served as the rope wound around Mount Mandara during the Samudra Manthan."
+    },
+    {
+      "id": "samudra-manthan-q04",
+      "difficulty": "easy",
+      "q": "Who worked together to churn the ocean in the Samudra Manthan?",
+      "options": [
+        "The seven sages",
+        "The devas and the asuras",
+        "The four Kumaras",
+        "The vanaras and the rakshasas"
+      ],
+      "answer": 1,
+      "explanation": "The devas (gods) and asuras (anti-gods) cooperated to churn the cosmic ocean in the Samudra Manthan."
+    },
+    {
+      "id": "samudra-manthan-q05",
+      "difficulty": "easy",
+      "q": "Which avatar of Vishnu supported Mount Mandara during the Samudra Manthan?",
+      "options": [
+        "Matsya, the fish",
+        "Varaha, the boar",
+        "Kurma, the tortoise",
+        "Narasimha, the man-lion"
+      ],
+      "answer": 2,
+      "explanation": "Vishnu took the form of Kurma, the tortoise, to support the sinking Mount Mandara during the churning."
+    },
+    {
+      "id": "samudra-manthan-q06",
+      "difficulty": "easy",
+      "q": "What divine nectar of immortality were the gods seeking through the Samudra Manthan?",
+      "options": [
+        "Soma",
+        "Ghrita",
+        "Madhu",
+        "Amrita"
+      ],
+      "answer": 3,
+      "explanation": "The chief goal of the Samudra Manthan was to obtain amrita, the nectar of immortality."
+    },
+    {
+      "id": "samudra-manthan-q07",
+      "difficulty": "easy",
+      "q": "Which goddess of fortune emerged from the ocean during the Samudra Manthan?",
+      "options": [
+        "Lakshmi",
+        "Saraswati",
+        "Parvati",
+        "Ganga"
+      ],
+      "answer": 0,
+      "explanation": "The goddess Lakshmi arose from the churning ocean and chose Vishnu as her consort."
+    },
+    {
+      "id": "samudra-manthan-q08",
+      "difficulty": "easy",
+      "q": "Which deadly poison emerged early in the Samudra Manthan?",
+      "options": [
+        "Amrita",
+        "Halahala",
+        "Soma",
+        "Madhu"
+      ],
+      "answer": 1,
+      "explanation": "The terrible poison Halahala emerged from the churning ocean, threatening all creation."
+    },
+    {
+      "id": "samudra-manthan-q09",
+      "difficulty": "easy",
+      "q": "Which god drank the poison Halahala to save creation during the Samudra Manthan?",
+      "options": [
+        "Brahma",
+        "Indra",
+        "Shiva",
+        "Vishnu"
+      ],
+      "answer": 2,
+      "explanation": "Shiva drank the Halahala poison to protect the worlds, holding it in his throat."
+    },
+    {
+      "id": "samudra-manthan-q10",
+      "difficulty": "easy",
+      "q": "In which body of water did the Samudra Manthan take place, according to the Puranas?",
+      "options": [
+        "The river Ganga",
+        "Lake Manasarovar",
+        "The ocean of salt",
+        "The ocean of milk"
+      ],
+      "answer": 3,
+      "explanation": "The Puranas describe the churning taking place in the Kshira Sagara, the cosmic ocean of milk."
+    },
+    {
+      "id": "samudra-manthan-q11",
+      "difficulty": "medium",
+      "q": "Which divine physician emerged from the Samudra Manthan bearing the pot of amrita?",
+      "options": [
+        "Dhanvantari",
+        "Chyavana",
+        "Brihaspati",
+        "Ashvini Kumaras"
+      ],
+      "answer": 0,
+      "explanation": "Dhanvantari, regarded as the physician of the gods and patron of Ayurveda, rose from the ocean carrying the amrita."
+    },
+    {
+      "id": "samudra-manthan-q12",
+      "difficulty": "medium",
+      "q": "Which celestial wish-fulfilling cow emerged during the Samudra Manthan?",
+      "options": [
+        "Nandini",
+        "Kamadhenu",
+        "Surabhi's calf",
+        "Kapila"
+      ],
+      "answer": 1,
+      "explanation": "Kamadhenu, the celestial wish-granting cow, was among the treasures yielded by the churning."
+    },
+    {
+      "id": "samudra-manthan-q13",
+      "difficulty": "medium",
+      "q": "Because the asuras objected to holding the serpent's tail, where did the devas position themselves on Vasuki during the Samudra Manthan?",
+      "options": [
+        "At the head, near the venom",
+        "At the coils in the middle",
+        "At the tail",
+        "They did not hold the serpent"
+      ],
+      "answer": 2,
+      "explanation": "When the asuras insisted on grasping the head, the devas held Vasuki's tail, a placement that ultimately favored them."
+    },
+    {
+      "id": "samudra-manthan-q14",
+      "difficulty": "medium",
+      "q": "Which white, multi-headed celestial elephant emerged during the Samudra Manthan?",
+      "options": [
+        "Gajendra",
+        "Ashvatthama",
+        "Kuvalayapida",
+        "Airavata"
+      ],
+      "answer": 3,
+      "explanation": "Airavata, the white celestial elephant who became Indra's mount, arose from the churning."
+    },
+    {
+      "id": "samudra-manthan-q15",
+      "difficulty": "medium",
+      "q": "Which divine white horse is said to have emerged from the Samudra Manthan?",
+      "options": [
+        "Uchchaihshravas",
+        "Kanthaka",
+        "Balaha",
+        "Devadatta"
+      ],
+      "answer": 0,
+      "explanation": "Uchchaihshravas, the seven-headed white horse, was among the treasures of the churning."
+    },
+    {
+      "id": "samudra-manthan-q16",
+      "difficulty": "medium",
+      "q": "What enchanting female form did Vishnu assume to distribute the amrita to the devas during the Samudra Manthan?",
+      "options": [
+        "Tripura Sundari",
+        "Mohini",
+        "Chinnamasta",
+        "Yogamaya"
+      ],
+      "answer": 1,
+      "explanation": "Vishnu took the bewitching form of Mohini to recover the amrita and ensure it reached the devas."
+    },
+    {
+      "id": "samudra-manthan-q17",
+      "difficulty": "medium",
+      "q": "Which asura disguised himself among the gods and drank some amrita before being beheaded during the Samudra Manthan?",
+      "options": [
+        "Hiranyakashipu",
+        "Bali",
+        "Svarbhanu (Rahu)",
+        "Maricha"
+      ],
+      "answer": 2,
+      "explanation": "The asura Svarbhanu drank the amrita and, though beheaded, became immortal as Rahu and Ketu."
+    },
+    {
+      "id": "samudra-manthan-q18",
+      "difficulty": "medium",
+      "q": "Which two luminaries exposed the disguised asura who stole amrita during the Samudra Manthan?",
+      "options": [
+        "Agni and Vayu",
+        "Indra and Varuna",
+        "Brihaspati and Shukra",
+        "Surya and Chandra"
+      ],
+      "answer": 3,
+      "explanation": "Surya (the Sun) and Chandra (the Moon) recognized and exposed the disguised asura to Vishnu."
+    },
+    {
+      "id": "samudra-manthan-q19",
+      "difficulty": "medium",
+      "q": "In the Puranas, where did Shiva hold the Halahala poison he drank during the Samudra Manthan?",
+      "options": [
+        "In his throat",
+        "In his stomach",
+        "In his matted hair",
+        "In his palm"
+      ],
+      "answer": 0,
+      "explanation": "Shiva held the poison in his throat, which turned blue, earning him the name Nilakantha."
+    },
+    {
+      "id": "samudra-manthan-q20",
+      "difficulty": "medium",
+      "q": "By what epithet is Shiva known for having held the poison in his throat during the Samudra Manthan?",
+      "options": [
+        "Nataraja",
+        "Nilakantha",
+        "Tryambaka",
+        "Bhairava"
+      ],
+      "answer": 1,
+      "explanation": "Holding the blue-stained poison in his throat earned Shiva the name Nilakantha, the blue-throated one."
+    },
+    {
+      "id": "samudra-manthan-q21",
+      "difficulty": "medium",
+      "q": "Which celestial tree, said to fulfil wishes, emerged during the Samudra Manthan?",
+      "options": [
+        "Ashvattha",
+        "Bodhi tree",
+        "Kalpavriksha",
+        "Vata"
+      ],
+      "answer": 2,
+      "explanation": "The Kalpavriksha, the wish-granting tree, was among the treasures churned from the ocean."
+    },
+    {
+      "id": "samudra-manthan-q22",
+      "difficulty": "hard",
+      "q": "According to the Bhagavata Purana, why did the devas initially seek the asuras' help for the Samudra Manthan?",
+      "options": [
+        "Vishnu commanded peace between them",
+        "The asuras owned Mount Mandara",
+        "The asuras controlled the ocean",
+        "The task was too great for the devas alone"
+      ],
+      "answer": 3,
+      "explanation": "Weakened by a sage's curse, the devas were advised by Vishnu to make a temporary pact with the asuras for the immense task."
+    },
+    {
+      "id": "samudra-manthan-q23",
+      "difficulty": "hard",
+      "q": "In the Bhagavata Purana, whose curse left the devas weakened, prompting the Samudra Manthan?",
+      "options": [
+        "Durvasa",
+        "Vishvamitra",
+        "Bhrigu",
+        "Narada"
+      ],
+      "answer": 0,
+      "explanation": "The sage Durvasa cursed Indra, draining the devas of strength and fortune, which set the churning in motion."
+    },
+    {
+      "id": "samudra-manthan-q24",
+      "difficulty": "hard",
+      "q": "Which radiant gem, later worn by Vishnu upon his chest, emerged from the Samudra Manthan?",
+      "options": [
+        "Syamantaka",
+        "Kaustubha",
+        "Chintamani",
+        "Koh-i-Noor"
+      ],
+      "answer": 1,
+      "explanation": "The Kaustubha gem arose from the churning of the ocean, and the Puranas relate that Vishnu took it to adorn his chest."
+    },
+    {
+      "id": "samudra-manthan-q25",
+      "difficulty": "hard",
+      "q": "According to the Puranas, how was Mount Mandara obtained for use as the churning rod in the Samudra Manthan?",
+      "options": [
+        "It was conjured from the sea foam",
+        "It was a gift from Varuna",
+        "The devas and asuras uprooted it and carried it to the ocean",
+        "It descended from the heavens on its own"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas describe Mandara as a great mountain that the devas and asuras together uprooted and carried to the ocean to serve as the churning rod."
+    },
+    {
+      "id": "samudra-manthan-q26",
+      "difficulty": "hard",
+      "q": "Which bird is described in the Puranas as helping carry Mount Mandara for the Samudra Manthan?",
+      "options": [
+        "Jatayu",
+        "Sampati",
+        "Kakabhushundi",
+        "Garuda"
+      ],
+      "answer": 3,
+      "explanation": "Garuda, Vishnu's eagle mount, is said to have helped transport the immense Mount Mandara to the ocean."
+    },
+    {
+      "id": "samudra-manthan-q27",
+      "difficulty": "hard",
+      "q": "Which radiant celestial body is counted in several Puranic lists among the treasures that emerged from the Samudra Manthan?",
+      "options": [
+        "Chandra, the moon",
+        "Mangala, Mars",
+        "Budha, Mercury",
+        "Shani, Saturn"
+      ],
+      "answer": 0,
+      "explanation": "Chandra, the moon, is counted among the radiant treasures said to have arisen from the churning of the ocean in several Puranic lists."
+    },
+    {
+      "id": "samudra-manthan-q28",
+      "difficulty": "hard",
+      "q": "Which goddess of wine or intoxication is said in some Puranic lists to have emerged during the Samudra Manthan?",
+      "options": [
+        "Rati",
+        "Varuni (Sura)",
+        "Usha",
+        "Sandhya"
+      ],
+      "answer": 1,
+      "explanation": "Varuni, also called Sura, the goddess associated with wine, is named among the fourteen treasures in several Puranic lists."
+    },
+    {
+      "id": "samudra-manthan-q29",
+      "difficulty": "medium",
+      "q": "Traditionally, how many treasures, or ratnas, are said to have emerged from the Samudra Manthan?",
+      "options": [
+        "Seven",
+        "Nine",
+        "Fourteen",
+        "Twenty-one"
+      ],
+      "answer": 2,
+      "explanation": "The churning is traditionally said to have yielded fourteen ratnas, or treasures, though lists vary slightly across texts."
+    },
+    {
+      "id": "samudra-manthan-q30",
+      "difficulty": "hard",
+      "q": "In which texts is the Samudra Manthan most prominently recounted?",
+      "options": [
+        "The Rig Veda alone",
+        "The Yoga Sutras",
+        "The Arthashastra",
+        "The Bhagavata and Vishnu Puranas"
+      ],
+      "answer": 3,
+      "explanation": "The Samudra Manthan is recounted prominently in the Bhagavata and Vishnu Puranas, among other Puranic and epic sources."
+    }
+  ]
+}

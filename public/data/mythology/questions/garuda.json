@@ -1,0 +1,395 @@
+{
+  "cardId": "garuda",
+  "questions": [
+    {
+      "id": "garuda-q01",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, which deity does the mighty eagle Garuda serve as the vahana (mount)?",
+      "options": [
+        "Vishnu",
+        "Shiva",
+        "Indra",
+        "Brahma"
+      ],
+      "answer": 0,
+      "explanation": "Garuda is celebrated in the Puranas as the eagle vahana of Vishnu, bearing him across the cosmos."
+    },
+    {
+      "id": "garuda-q02",
+      "difficulty": "easy",
+      "q": "What kind of creature is Garuda usually depicted as in Hindu iconography?",
+      "options": [
+        "A bull",
+        "An eagle-like bird",
+        "A lion",
+        "A serpent"
+      ],
+      "answer": 1,
+      "explanation": "Garuda is depicted as a mighty eagle-king, often shown with a bird's wings and beak combined with a human-like form."
+    },
+    {
+      "id": "garuda-q03",
+      "difficulty": "easy",
+      "q": "Garuda is famously hailed as the king of which group of animals?",
+      "options": [
+        "Beasts",
+        "Fishes",
+        "Birds",
+        "Elephants"
+      ],
+      "answer": 2,
+      "explanation": "Garuda is honored in the Puranas as the king of birds (Pakshiraja)."
+    },
+    {
+      "id": "garuda-q04",
+      "difficulty": "easy",
+      "q": "Which creatures are Garuda's eternal enemies, whom he is known as a devourer of?",
+      "options": [
+        "Lions",
+        "Demons of fire",
+        "Sea monsters",
+        "Serpents (Nagas)"
+      ],
+      "answer": 3,
+      "explanation": "Garuda bears an enduring enmity with the serpent Nagas and is hailed as a devourer of snakes."
+    },
+    {
+      "id": "garuda-q05",
+      "difficulty": "easy",
+      "q": "Who is the mother of Garuda in the Puranic accounts?",
+      "options": [
+        "Vinata",
+        "Aditi",
+        "Diti",
+        "Kadru"
+      ],
+      "answer": 0,
+      "explanation": "Garuda is the son of Vinata, whose enslavement to the Nagas he sought to undo."
+    },
+    {
+      "id": "garuda-q06",
+      "difficulty": "easy",
+      "q": "Which great sage is named as the father of Garuda?",
+      "options": [
+        "Vasishtha",
+        "Kashyapa",
+        "Vishwamitra",
+        "Atri"
+      ],
+      "answer": 1,
+      "explanation": "Garuda is the son of the sage Kashyapa and his wife Vinata, according to the Puranas."
+    },
+    {
+      "id": "garuda-q07",
+      "difficulty": "easy",
+      "q": "To free his enslaved mother from the Nagas, what precious substance did Garuda set out to win?",
+      "options": [
+        "The Sudarshana chakra",
+        "The Kaustubha gem",
+        "The nectar of immortality (amrita)",
+        "The bow Kodanda"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas relate that Garuda won the amrita, the nectar of immortality, to free his mother Vinata from the Nagas."
+    },
+    {
+      "id": "garuda-q08",
+      "difficulty": "easy",
+      "q": "Which Hindu deity, whose mount is Garuda, is known as the preserver of the cosmos?",
+      "options": [
+        "Shiva",
+        "Kartikeya",
+        "Yama",
+        "Vishnu"
+      ],
+      "answer": 3,
+      "explanation": "Garuda serves Vishnu, the preserver of the Trimurti, as his eagle vahana."
+    },
+    {
+      "id": "garuda-q09",
+      "difficulty": "easy",
+      "q": "Garuda's enmity arose because his mother Vinata had been enslaved by the serpents, who were the children of which figure?",
+      "options": [
+        "Kadru",
+        "Vinata",
+        "Diti",
+        "Danu"
+      ],
+      "answer": 0,
+      "explanation": "The Nagas were the offspring of Kadru, whose sons held Vinata, Garuda's mother, in bondage."
+    },
+    {
+      "id": "garuda-q10",
+      "difficulty": "easy",
+      "q": "Garuda serves as the vahana of Vishnu. In Hindu tradition, what is a vahana?",
+      "options": [
+        "A weapon",
+        "A divine mount",
+        "A sacred mantra",
+        "A celestial palace"
+      ],
+      "answer": 1,
+      "explanation": "A vahana is the divine animal mount or vehicle of a deity, and Garuda is the vahana of Vishnu."
+    },
+    {
+      "id": "garuda-q11",
+      "difficulty": "medium",
+      "q": "In the Puranic account, who is named as the mother of the serpent Nagas, the rival of Garuda's mother Vinata?",
+      "options": [
+        "Aditi",
+        "Sati",
+        "Kadru",
+        "Renuka"
+      ],
+      "answer": 2,
+      "explanation": "Kadru, another wife of Kashyapa, was the mother of the Nagas, and her sons enslaved Vinata."
+    },
+    {
+      "id": "garuda-q12",
+      "difficulty": "medium",
+      "q": "Garuda and Aruna, the charioteer of Surya, are described in the Puranas as sons of the same mother. Who is she?",
+      "options": [
+        "Kadru",
+        "Diti",
+        "Danu",
+        "Vinata"
+      ],
+      "answer": 3,
+      "explanation": "Both Garuda and Aruna, the dawn-charioteer of Surya, are sons of Vinata in the Puranic genealogy."
+    },
+    {
+      "id": "garuda-q13",
+      "difficulty": "medium",
+      "q": "Which king of the devas opposed Garuda when he flew to seize the nectar of immortality?",
+      "options": [
+        "Indra",
+        "Yama",
+        "Varuna",
+        "Kubera"
+      ],
+      "answer": 0,
+      "explanation": "Indra, guardian of the amrita, confronted Garuda with his thunderbolt during the quest for the nectar."
+    },
+    {
+      "id": "garuda-q14",
+      "difficulty": "medium",
+      "q": "Although Garuda won the nectar of immortality for the Nagas as ransom, the serpents never actually drank it. Why, in the Puranas?",
+      "options": [
+        "It was hidden in the ocean",
+        "Indra snatched the pot away before they returned from bathing",
+        "Vishnu took it back before they could drink",
+        "It turned into poison"
+      ],
+      "answer": 1,
+      "explanation": "While the Nagas went to purify themselves before drinking, Indra reclaimed the amrita, so the serpents never tasted it."
+    },
+    {
+      "id": "garuda-q15",
+      "difficulty": "medium",
+      "q": "On the great Garuda figure that adorns Vishnu temples, in what posture is Garuda most often shown before the Lord?",
+      "options": [
+        "Reclining in slumber",
+        "Brandishing a sword",
+        "Hands folded in reverent devotion",
+        "Seated in meditation alone"
+      ],
+      "answer": 2,
+      "explanation": "Garuda is typically depicted kneeling or standing with hands folded in devotion (anjali) before Vishnu, as his foremost servant."
+    },
+    {
+      "id": "garuda-q16",
+      "difficulty": "medium",
+      "q": "The tall pillar or column placed before the sanctum in many Vishnu temples, surmounted by his eagle mount, is known by what name?",
+      "options": [
+        "Nandi mandapa",
+        "Dhvaja danda",
+        "Yupa stambha",
+        "Garuda Stambha (Garuda pillar)"
+      ],
+      "answer": 3,
+      "explanation": "The Garuda Stambha, a pillar bearing the image of Garuda, traditionally stands before the sanctum of Vishnu temples."
+    },
+    {
+      "id": "garuda-q17",
+      "difficulty": "medium",
+      "q": "Which Mahapurana is named after Vishnu's eagle mount and is traditionally framed as Vishnu's discourse to Garuda?",
+      "options": [
+        "The Garuda Purana",
+        "The Markandeya Purana",
+        "The Vayu Purana",
+        "The Agni Purana"
+      ],
+      "answer": 0,
+      "explanation": "The Garuda Purana is one of the eighteen Mahapuranas, presented as Vishnu's teaching to Garuda and known especially for its accounts of the afterlife."
+    },
+    {
+      "id": "garuda-q18",
+      "difficulty": "medium",
+      "q": "Both Garuda and the Nagas are counted among the offspring of which common father, by his different wives?",
+      "options": [
+        "Brahma",
+        "Kashyapa",
+        "Daksha",
+        "Surya"
+      ],
+      "answer": 1,
+      "explanation": "The sage Kashyapa is father of both Garuda (through Vinata) and the Nagas (through Kadru), making them half-siblings."
+    },
+    {
+      "id": "garuda-q19",
+      "difficulty": "medium",
+      "q": "In the Mahabharata, before Garuda became the mount of Vishnu, the Lord granted him a boon and received a request in return. What did Garuda ask?",
+      "options": [
+        "To rule over all serpents",
+        "To possess the Sudarshana chakra",
+        "To be immortal and free of disease, even without drinking the amrita",
+        "To become a deva"
+      ],
+      "answer": 2,
+      "explanation": "The Mahabharata relates that Vishnu granted Garuda immortality and freedom from decay without his needing to drink the nectar."
+    },
+    {
+      "id": "garuda-q20",
+      "difficulty": "medium",
+      "q": "Garuda is the vahana of Vishnu. Which animal serves as the corresponding vahana of Shiva?",
+      "options": [
+        "The peacock Paravani",
+        "The mouse",
+        "The white elephant Airavata",
+        "The bull Nandi"
+      ],
+      "answer": 3,
+      "explanation": "While Garuda is the mount of Vishnu, the bull Nandi is the vahana of Shiva."
+    },
+    {
+      "id": "garuda-q21",
+      "difficulty": "medium",
+      "q": "In Hindu iconography, what does Garuda most commonly carry upon his back or shoulders?",
+      "options": [
+        "Vishnu, often with Lakshmi",
+        "The pot of amrita",
+        "Mount Mandara",
+        "The Vedas"
+      ],
+      "answer": 0,
+      "explanation": "Garuda is most often shown bearing Vishnu, frequently with his consort Lakshmi, across the heavens."
+    },
+    {
+      "id": "garuda-q22",
+      "difficulty": "medium",
+      "q": "In the Ramayana, which noble vulture, counted in tradition among Garuda's kindred, fought Ravana to stop the abduction of Sita?",
+      "options": [
+        "Sampati",
+        "Jatayu",
+        "Kakabhushundi",
+        "Gandaberunda"
+      ],
+      "answer": 1,
+      "explanation": "Jatayu is the vulture who confronted Ravana as he carried off Sita; in tradition he and his brother Sampati are reckoned among the kindred of Garuda's line."
+    },
+    {
+      "id": "garuda-q23",
+      "difficulty": "hard",
+      "q": "When Garuda flew with the pot of nectar, he is said to have carried it without drinking, showing his selflessness. Who, pleased by this restraint, offered him a boon making him their mount?",
+      "options": [
+        "Indra",
+        "Brahma",
+        "Vishnu",
+        "Surya"
+      ],
+      "answer": 2,
+      "explanation": "Vishnu, pleased that Garuda bore the amrita without drinking it for himself, made him his eternal vahana."
+    },
+    {
+      "id": "garuda-q24",
+      "difficulty": "hard",
+      "q": "According to the Mahabharata's account, what did Garuda do that led the Nagas to release his mother Vinata from bondage?",
+      "options": [
+        "He slew all the serpents in battle",
+        "He drank the ocean",
+        "He stole the Sudarshana chakra",
+        "He brought them the amrita as the agreed ransom"
+      ],
+      "answer": 3,
+      "explanation": "The Nagas had demanded the amrita as the price of Vinata's freedom, and Garuda fetched it to fulfill the ransom."
+    },
+    {
+      "id": "garuda-q25",
+      "difficulty": "hard",
+      "q": "In the Bhagavata Purana, when the elephant-king Gajendra cried out to be saved from the crocodile, how did Vishnu arrive at the lake?",
+      "options": [
+        "Riding upon Garuda",
+        "On foot from Vaikuntha",
+        "Carried by Shesha",
+        "In the Pushpaka Vimana"
+      ],
+      "answer": 0,
+      "explanation": "The Gajendra Moksha episode describes Vishnu rushing to the elephant's aid mounted upon Garuda, his swift eagle vahana."
+    },
+    {
+      "id": "garuda-q26",
+      "difficulty": "hard",
+      "q": "Garuda is sometimes given the epithet 'Suparna.' What does this name signify?",
+      "options": [
+        "The devourer of serpents",
+        "The one of beautiful wings",
+        "The bearer of nectar",
+        "The golden-bodied one"
+      ],
+      "answer": 1,
+      "explanation": "Suparna, an early Vedic name applied to Garuda, means 'having beautiful or fair wings.'"
+    },
+    {
+      "id": "garuda-q27",
+      "difficulty": "hard",
+      "q": "In the Mahabharata, Garuda's vast hunger once led him toward a giant tortoise and a giant elephant locked in combat. What were these two beings, according to the tale?",
+      "options": [
+        "Two demons in disguise",
+        "Two Nagas",
+        "Two sages reborn as animals through a curse from their feud",
+        "Two devas testing him"
+      ],
+      "answer": 2,
+      "explanation": "The Mahabharata relates that the tortoise and elephant Garuda seized were two brothers, sages cursed into those forms after a bitter quarrel."
+    },
+    {
+      "id": "garuda-q28",
+      "difficulty": "hard",
+      "q": "Garuda is sometimes invoked as 'Vishnu-ratha.' What does this title mean?",
+      "options": [
+        "The serpent-slayer",
+        "The bird of the sun",
+        "The keeper of nectar",
+        "The vehicle of Vishnu"
+      ],
+      "answer": 3,
+      "explanation": "'Vishnu-ratha' means 'the chariot (vehicle) of Vishnu,' reflecting Garuda's role as the Lord's bearer."
+    },
+    {
+      "id": "garuda-q29",
+      "difficulty": "hard",
+      "q": "Which serpent of Hindu lore, on whom Vishnu reclines upon the cosmic ocean, belongs to the Naga race that Garuda traditionally opposes?",
+      "options": [
+        "Ananta Shesha",
+        "Garuda himself",
+        "Nandi",
+        "Airavata"
+      ],
+      "answer": 0,
+      "explanation": "Ananta Shesha is the great serpent of the Naga race, the lineage with which Garuda holds his enduring enmity, though both serve Vishnu."
+    },
+    {
+      "id": "garuda-q30",
+      "difficulty": "hard",
+      "q": "Garuda's image is so identified with Vishnu's protection that, in tradition, his form and mantra are especially invoked against what?",
+      "options": [
+        "Famine",
+        "Snakebite and poison",
+        "Storms at sea",
+        "Loss of memory"
+      ],
+      "answer": 1,
+      "explanation": "As the foremost foe of serpents, Garuda is traditionally invoked for protection against snakebite and poison."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "karma",
+  "questions": [
+    {
+      "id": "karma-q01",
+      "difficulty": "easy",
+      "q": "In Hindu thought, what does the Sanskrit word 'karma' literally mean?",
+      "options": [
+        "Liberation",
+        "Devotion",
+        "Action or deed",
+        "Knowledge"
+      ],
+      "answer": 2,
+      "explanation": "The word karma derives from the root 'kr', meaning 'to do', and literally signifies action or deed."
+    },
+    {
+      "id": "karma-q02",
+      "difficulty": "easy",
+      "q": "According to the law of karma, every action is said to bear what?",
+      "options": [
+        "No consequence at all",
+        "Only material wealth",
+        "An immediate reward only",
+        "A corresponding fruit or result"
+      ],
+      "answer": 3,
+      "explanation": "The principle of karma holds that every action bears a corresponding fruit (phala), binding the doer to its consequences."
+    },
+    {
+      "id": "karma-q03",
+      "difficulty": "easy",
+      "q": "The law of karma is said to bind the soul to consequences across what?",
+      "options": [
+        "Multiple lifetimes",
+        "A single day",
+        "One year",
+        "A single hour"
+      ],
+      "answer": 0,
+      "explanation": "Karma is understood to bind the soul to the consequences of its actions across many lifetimes within the cycle of rebirth."
+    },
+    {
+      "id": "karma-q04",
+      "difficulty": "easy",
+      "q": "Which scripture teaches the doctrine of nishkama karma, action without attachment to results?",
+      "options": [
+        "The Manusmriti",
+        "The Bhagavad Gita",
+        "The Arthashastra",
+        "The Natya Shastra"
+      ],
+      "answer": 1,
+      "explanation": "The Bhagavad Gita teaches nishkama karma, performing one's duty without attachment to the fruits of action."
+    },
+    {
+      "id": "karma-q05",
+      "difficulty": "easy",
+      "q": "The cycle of repeated birth, death, and rebirth that karma perpetuates is known by which Sanskrit term?",
+      "options": [
+        "Moksha",
+        "Yajna",
+        "Samsara",
+        "Dharma"
+      ],
+      "answer": 2,
+      "explanation": "Samsara is the cycle of birth, death, and rebirth in which karma binds the soul until liberation is attained."
+    },
+    {
+      "id": "karma-q06",
+      "difficulty": "easy",
+      "q": "Which deity, lord of death, is said to judge the karma of departed souls in Hindu tradition?",
+      "options": [
+        "Indra",
+        "Agni",
+        "Varuna",
+        "Yama"
+      ],
+      "answer": 3,
+      "explanation": "Yama, the lord of death, is the impartial judge of the departed, weighing each soul's deeds with his scribe Chitragupta."
+    },
+    {
+      "id": "karma-q07",
+      "difficulty": "easy",
+      "q": "In Hindu cosmology, the realms where souls expiate misdeeds in proportion to their karma are called what?",
+      "options": [
+        "Naraka",
+        "Vaikuntha",
+        "Svarga",
+        "Kailasa"
+      ],
+      "answer": 0,
+      "explanation": "Naraka comprises the realms where, according to the Puranas, souls undergo measured suffering proportionate to their karma before rebirth."
+    },
+    {
+      "id": "karma-q08",
+      "difficulty": "easy",
+      "q": "The final liberation from the karmic cycle of rebirth is known in Hindu thought as what?",
+      "options": [
+        "Karma",
+        "Moksha",
+        "Maya",
+        "Tapas"
+      ],
+      "answer": 1,
+      "explanation": "Moksha is the liberation of the soul from samsara, the cycle of karma and rebirth, and is the highest goal of Hindu life."
+    },
+    {
+      "id": "karma-q09",
+      "difficulty": "easy",
+      "q": "The Upanishads on karma famously declare that as a person acts, so they become; what kind of texts are the Upanishads?",
+      "options": [
+        "Royal court chronicles",
+        "Astrological almanacs",
+        "Sacred philosophical scriptures",
+        "Medical manuals"
+      ],
+      "answer": 2,
+      "explanation": "The Upanishads are sacred philosophical scriptures forming the concluding portion of the Vedas, where the doctrine of karma is first developed."
+    },
+    {
+      "id": "karma-q10",
+      "difficulty": "easy",
+      "q": "In the Bhagavad Gita, who instructs Arjuna in the practice of selfless action (nishkama karma)?",
+      "options": [
+        "Hanuman",
+        "Bhishma",
+        "Vyasa",
+        "Krishna"
+      ],
+      "answer": 3,
+      "explanation": "In the Bhagavad Gita, Krishna counsels the warrior Arjuna to perform his duty without attachment to its results."
+    },
+    {
+      "id": "karma-q11",
+      "difficulty": "medium",
+      "q": "Classical Hindu thought distinguishes three categories of karma; which of the following is one of them?",
+      "options": [
+        "Sanchita karma",
+        "Sattvika karma",
+        "Nirguna karma",
+        "Tamasika karma"
+      ],
+      "answer": 0,
+      "explanation": "The three classical types are sanchita, prarabdha, and agami karma, with sanchita being the accumulated store of past actions."
+    },
+    {
+      "id": "karma-q12",
+      "difficulty": "medium",
+      "q": "In the classical threefold scheme of karma, which type refers to the accumulated store of all past actions not yet borne out?",
+      "options": [
+        "Prarabdha karma",
+        "Sanchita karma",
+        "Agami karma",
+        "Kriyamana karma"
+      ],
+      "answer": 1,
+      "explanation": "Sanchita karma is the total accumulated reservoir of karma gathered across all of a soul's past lifetimes."
+    },
+    {
+      "id": "karma-q13",
+      "difficulty": "medium",
+      "q": "Which type of karma in the threefold scheme is the portion that has begun to bear fruit in the present life?",
+      "options": [
+        "Sanchita karma",
+        "Agami karma",
+        "Prarabdha karma",
+        "Vikarma"
+      ],
+      "answer": 2,
+      "explanation": "Prarabdha karma is the portion of accumulated karma that has ripened and is being experienced in the present lifetime."
+    },
+    {
+      "id": "karma-q14",
+      "difficulty": "medium",
+      "q": "In the threefold classification of karma, which term denotes the new karma being generated by present actions for the future?",
+      "options": [
+        "Sanchita karma",
+        "Prarabdha karma",
+        "Akarma",
+        "Agami karma"
+      ],
+      "answer": 3,
+      "explanation": "Agami karma, also called kriyamana, is the fresh karma created by current deeds that will bear fruit in future lives."
+    },
+    {
+      "id": "karma-q15",
+      "difficulty": "medium",
+      "q": "The Bhagavad Gita's teaching of karma is set on the battlefield of which great war?",
+      "options": [
+        "The Kurukshetra war",
+        "The war of Lanka",
+        "The churning of the ocean",
+        "The burning of Tripura"
+      ],
+      "answer": 0,
+      "explanation": "The Bhagavad Gita is spoken by Krishna to Arjuna on the field of Kurukshetra, the great war of the Mahabharata."
+    },
+    {
+      "id": "karma-q16",
+      "difficulty": "medium",
+      "q": "In the Bhagavad Gita, the path of action performed as spiritual discipline is named which yoga?",
+      "options": [
+        "Bhakti yoga",
+        "Karma yoga",
+        "Jnana yoga",
+        "Hatha yoga"
+      ],
+      "answer": 1,
+      "explanation": "Karma yoga is the Bhagavad Gita's path of liberation through selfless, duty-bound action offered without attachment."
+    },
+    {
+      "id": "karma-q17",
+      "difficulty": "medium",
+      "q": "According to the Gita, the practitioner of nishkama karma should renounce attachment to what specifically?",
+      "options": [
+        "The performance of duty",
+        "Knowledge of scripture",
+        "The fruits of action",
+        "Devotion to God"
+      ],
+      "answer": 2,
+      "explanation": "Nishkama karma calls for renouncing attachment to the fruits or results of action while still performing one's duty."
+    },
+    {
+      "id": "karma-q18",
+      "difficulty": "medium",
+      "q": "In Hindu tradition, which deity records the deeds of souls as the scribe who assists Yama in judging karma?",
+      "options": [
+        "Narada",
+        "Brihaspati",
+        "Vishvakarma",
+        "Chitragupta"
+      ],
+      "answer": 3,
+      "explanation": "Chitragupta is the celestial scribe who records every being's deeds, assisting Yama in the reckoning of karma."
+    },
+    {
+      "id": "karma-q19",
+      "difficulty": "medium",
+      "q": "The concept of dharma, closely linked to karma, derives from a root meaning what?",
+      "options": [
+        "To hold or sustain",
+        "To destroy",
+        "To wander",
+        "To desire"
+      ],
+      "answer": 0,
+      "explanation": "Dharma comes from the root 'dhr', meaning to hold or sustain, denoting the duty and cosmic order that right action upholds."
+    },
+    {
+      "id": "karma-q20",
+      "difficulty": "medium",
+      "q": "Liberation (moksha) in Hindu thought is best described as freedom from what?",
+      "options": [
+        "The duty of righteous action",
+        "The bondage of karma and rebirth",
+        "The worship of deities",
+        "The study of the Vedas"
+      ],
+      "answer": 1,
+      "explanation": "Moksha is release from the bondage of karma and the cycle of rebirth, the soul's final liberation from samsara."
+    },
+    {
+      "id": "karma-q21",
+      "difficulty": "medium",
+      "q": "In the Puranas, the duration of a soul's stay in Naraka is determined by what?",
+      "options": [
+        "Its accumulated wealth",
+        "Its caste at birth",
+        "The proportion of its karma",
+        "The season of its death"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas teach that each soul's sojourn in Naraka is proportionate to its karma, an expiation rather than eternal damnation."
+    },
+    {
+      "id": "karma-q22",
+      "difficulty": "medium",
+      "q": "Which of the four traditional aims of human life (purusharthas) is fulfilled when one transcends karma entirely?",
+      "options": [
+        "Artha",
+        "Kama",
+        "Dharma",
+        "Moksha"
+      ],
+      "answer": 3,
+      "explanation": "Moksha, liberation, is the highest of the four purusharthas and is attained when the soul transcends the bonds of karma."
+    },
+    {
+      "id": "karma-q23",
+      "difficulty": "hard",
+      "q": "The Upanishadic teaching on karma is famously expressed in which early Upanishad's dialogue on the fate of the soul after death?",
+      "options": [
+        "The Brihadaranyaka Upanishad",
+        "The Yoga Sutras",
+        "The Dharmashastra",
+        "The Harivamsha"
+      ],
+      "answer": 0,
+      "explanation": "The Brihadaranyaka Upanishad contains the seminal teaching that a person becomes good by good action and bad by bad action."
+    },
+    {
+      "id": "karma-q24",
+      "difficulty": "hard",
+      "q": "In the Bhagavad Gita, Krishna contrasts action (karma) with inaction; what term does he use for prohibited or wrong action?",
+      "options": [
+        "Akarma",
+        "Vikarma",
+        "Sukarma",
+        "Nishkarma"
+      ],
+      "answer": 1,
+      "explanation": "In the Gita, vikarma denotes forbidden or wrongful action, distinguished from karma (right action) and akarma (inaction)."
+    },
+    {
+      "id": "karma-q25",
+      "difficulty": "hard",
+      "q": "Among the three types of karma, which is held to be burned away or dissolved by the attainment of self-knowledge, while one type must still be exhausted by living it out?",
+      "options": [
+        "Prarabdha karma is burned, sanchita remains",
+        "All three are instantly destroyed",
+        "Sanchita and agami are dissolved, prarabdha remains",
+        "Agami alone remains to be lived out"
+      ],
+      "answer": 2,
+      "explanation": "Self-knowledge is said to dissolve sanchita and halt agami karma, but prarabdha must still be exhausted by being lived through."
+    },
+    {
+      "id": "karma-q26",
+      "difficulty": "hard",
+      "q": "The Bhagavad Gita's discourse on karma and selfless action forms part of which larger epic?",
+      "options": [
+        "The Ramayana",
+        "The Bhagavata Purana",
+        "The Devi Mahatmya",
+        "The Mahabharata"
+      ],
+      "answer": 3,
+      "explanation": "The Bhagavad Gita is a dialogue embedded within the Bhishma Parva of the great epic Mahabharata."
+    },
+    {
+      "id": "karma-q27",
+      "difficulty": "hard",
+      "q": "In Hindu philosophy, the subtle impressions left by past actions that shape future tendencies and dispositions are called what?",
+      "options": [
+        "Samskaras",
+        "Mantras",
+        "Gunas",
+        "Tattvas"
+      ],
+      "answer": 0,
+      "explanation": "Samskaras are the subtle latent impressions deposited by karma, conditioning a being's inclinations across lifetimes."
+    },
+    {
+      "id": "karma-q28",
+      "difficulty": "hard",
+      "q": "The Bhagavad Gita teaches that action becomes binding karma chiefly because of which mental attachment?",
+      "options": [
+        "Devotion to the divine",
+        "Desire for the fruits of action",
+        "Performance of ritual duty",
+        "Acquisition of knowledge"
+      ],
+      "answer": 1,
+      "explanation": "The Gita holds that it is desire and attachment to the fruits of action, not action itself, that binds the soul to karma."
+    },
+    {
+      "id": "karma-q29",
+      "difficulty": "hard",
+      "q": "In the Puranas, the nine celestial deities believed to govern karmic fortune and destiny are collectively known as what?",
+      "options": [
+        "The Saptarishi",
+        "The Ashtadikpalas",
+        "The Navagraha",
+        "The Adityas"
+      ],
+      "answer": 2,
+      "explanation": "The Navagraha are the nine planetary deities said to govern days, destinies, and karmic fortune in Hindu tradition."
+    },
+    {
+      "id": "karma-q30",
+      "difficulty": "hard",
+      "q": "The Upanishadic and Gita teaching identifies the ultimate goal of mastering karma as the realization of what?",
+      "options": [
+        "The accumulation of merit for heaven",
+        "Eternal residence in Naraka",
+        "The conquest of earthly kingdoms",
+        "The atman's union or identity with Brahman"
+      ],
+      "answer": 3,
+      "explanation": "The texts hold that mastering karma leads to moksha, realized as the atman's identity or union with Brahman, the supreme reality."
+    }
+  ]
+}

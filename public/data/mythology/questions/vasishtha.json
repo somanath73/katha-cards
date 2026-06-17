@@ -1,0 +1,395 @@
+{
+  "cardId": "vasishtha",
+  "questions": [
+    {
+      "id": "vasishtha-q01",
+      "difficulty": "easy",
+      "q": "Vasishtha is counted as foremost among which celebrated group of sages?",
+      "options": [
+        "The Ashvins",
+        "The Saptarishi (Seven Seers)",
+        "The Adityas",
+        "The Maruts"
+      ],
+      "answer": 1,
+      "explanation": "Vasishtha is traditionally honored as a chief among the Saptarishi, the Seven Seers of Hindu tradition."
+    },
+    {
+      "id": "vasishtha-q02",
+      "difficulty": "easy",
+      "q": "Of which royal dynasty did the sage Vasishtha serve as the preceptor and guru?",
+      "options": [
+        "The Yadava dynasty",
+        "The Kuru dynasty",
+        "The Ikshvaku (Solar) dynasty",
+        "The Haihaya dynasty"
+      ],
+      "answer": 2,
+      "explanation": "Vasishtha served as the royal guru of the Ikshvaku dynasty, the Solar line into which Rama was born."
+    },
+    {
+      "id": "vasishtha-q03",
+      "difficulty": "easy",
+      "q": "Who is the chaste consort of the sage Vasishtha, herself revered as a model of wifely devotion?",
+      "options": [
+        "Anasuya",
+        "Lopamudra",
+        "Ahalya",
+        "Arundhati"
+      ],
+      "answer": 3,
+      "explanation": "Vasishtha's consort is the chaste Arundhati, who is venerated as an ideal of marital fidelity."
+    },
+    {
+      "id": "vasishtha-q04",
+      "difficulty": "easy",
+      "q": "Which divine wish-fulfilling cow was kept in the hermitage of the sage Vasishtha?",
+      "options": [
+        "Kamadhenu (Nandini)",
+        "Surabhi of the asuras",
+        "Kapila the calf",
+        "Rohini"
+      ],
+      "answer": 0,
+      "explanation": "Vasishtha was the keeper of the divine wish-fulfilling cow Kamadhenu, also called Nandini in his hermitage."
+    },
+    {
+      "id": "vasishtha-q05",
+      "difficulty": "easy",
+      "q": "Vasishtha served as the royal guru of which prince, the hero of the Ramayana?",
+      "options": [
+        "Krishna",
+        "Rama",
+        "Bharata of the Lunar line",
+        "Yudhishthira"
+      ],
+      "answer": 1,
+      "explanation": "Vasishtha was the family preceptor of Rama and his forefathers in the Ikshvaku dynasty."
+    },
+    {
+      "id": "vasishtha-q06",
+      "difficulty": "easy",
+      "q": "Which sage is the lifelong rival of Vasishtha in a famous narrative recorded in the Puranas?",
+      "options": [
+        "Durvasa",
+        "Bhrigu",
+        "Vishwamitra",
+        "Kashyapa"
+      ],
+      "answer": 2,
+      "explanation": "The long rivalry between Vasishtha and Vishwamitra is one of the defining narratives of the Puranas."
+    },
+    {
+      "id": "vasishtha-q07",
+      "difficulty": "easy",
+      "q": "Which scripture records the spiritual counsel given by the sage Vasishtha to Rama?",
+      "options": [
+        "The Bhagavad Gita",
+        "The Manusmriti",
+        "The Arthashastra",
+        "The Yoga Vasistha"
+      ],
+      "answer": 3,
+      "explanation": "The Yoga Vasistha records the philosophical and spiritual teachings of Vasishtha imparted to Rama."
+    },
+    {
+      "id": "vasishtha-q08",
+      "difficulty": "easy",
+      "q": "Vasishtha is most often described as belonging to which broad class of holy beings?",
+      "options": [
+        "A brahmarishi (sage)",
+        "A celestial gandharva",
+        "A daitya king",
+        "A yaksha guardian"
+      ],
+      "answer": 0,
+      "explanation": "Vasishtha is revered as a brahmarishi, the highest order of sages in Hindu tradition."
+    },
+    {
+      "id": "vasishtha-q09",
+      "difficulty": "easy",
+      "q": "Vasishtha is associated with which emblem reflecting his Vedic role as a fire-tending sage?",
+      "options": [
+        "Water",
+        "Fire",
+        "Wind",
+        "Stone"
+      ],
+      "answer": 1,
+      "explanation": "Vasishtha is linked with fire (agni), fitting his role as a Vedic rishi who tended the sacred sacrificial flames."
+    },
+    {
+      "id": "vasishtha-q10",
+      "difficulty": "easy",
+      "q": "In which great epic does Vasishtha appear as the family guru who guides the kings of Ayodhya?",
+      "options": [
+        "The Mahabharata alone",
+        "The Harivamsa alone",
+        "The Ramayana",
+        "The Devi Mahatmya"
+      ],
+      "answer": 2,
+      "explanation": "Vasishtha appears prominently in the Ramayana as the preceptor of the Ikshvaku kings of Ayodhya."
+    },
+    {
+      "id": "vasishtha-q11",
+      "difficulty": "medium",
+      "q": "In Hindu tradition Vasishtha and his wife Arundhati are identified with which pair of stars in the constellation of the Great Bear?",
+      "options": [
+        "The Pole Star and its companion",
+        "The two stars of Orion's belt",
+        "The twin stars of Gemini",
+        "A double star in the Saptarishi constellation"
+      ],
+      "answer": 3,
+      "explanation": "Vasishtha and Arundhati are traditionally identified with a closely paired double star among the Saptarishi (Ursa Major) stars."
+    },
+    {
+      "id": "vasishtha-q12",
+      "difficulty": "medium",
+      "q": "Which king sought to seize Vasishtha's cow Kamadhenu by force, igniting the famous sage-versus-king conflict?",
+      "options": [
+        "King Vishwamitra (then Kaushika)",
+        "King Dasharatha",
+        "King Harishchandra",
+        "King Sagara"
+      ],
+      "answer": 0,
+      "explanation": "In the Ramayana, King Kaushika, who later became the sage Vishwamitra, tried to take Kamadhenu by force from Vasishtha's hermitage."
+    },
+    {
+      "id": "vasishtha-q13",
+      "difficulty": "medium",
+      "q": "Which Vedic book is traditionally attributed in large part to the family of the sage Vasishtha?",
+      "options": [
+        "The fifth mandala of the Rigveda",
+        "The seventh mandala of the Rigveda",
+        "The Atharvaveda's first book",
+        "The Yajurveda's tenth chapter"
+      ],
+      "answer": 1,
+      "explanation": "The seventh mandala of the Rigveda is traditionally ascribed to Vasishtha and the seers of his lineage."
+    },
+    {
+      "id": "vasishtha-q14",
+      "difficulty": "medium",
+      "q": "According to several Puranic accounts, from which creator-deity was the sage Vasishtha said to be mind-born?",
+      "options": [
+        "Vishnu",
+        "Indra",
+        "Brahma",
+        "Yama"
+      ],
+      "answer": 2,
+      "explanation": "In Puranic tradition Vasishtha is often described as a manasaputra, a mind-born son of the creator Brahma."
+    },
+    {
+      "id": "vasishtha-q15",
+      "difficulty": "medium",
+      "q": "Vasishtha served as preceptor to the Solar-dynasty line of King Bhagiratha, who is famed for which great deed?",
+      "options": [
+        "Slaying the demon-king Ravana",
+        "Building a bridge to Lanka",
+        "Drinking up the ocean",
+        "Bringing the river Ganga down to earth"
+      ],
+      "answer": 3,
+      "explanation": "Vasishtha was preceptor of the Ikshvaku (Solar) kings, the line of Sagara and Bhagiratha; Bhagiratha is renowned for bringing the Ganga down to earth to liberate his ancestors."
+    },
+    {
+      "id": "vasishtha-q16",
+      "difficulty": "medium",
+      "q": "In the rivalry narrative, what did Vishwamitra ultimately strive to attain so as to equal the sage Vasishtha?",
+      "options": [
+        "The status of a brahmarishi",
+        "The kingdom of Ayodhya",
+        "The cow Kamadhenu's calf",
+        "A seat among the Adityas"
+      ],
+      "answer": 0,
+      "explanation": "Vishwamitra performed severe austerities to rise from a warrior-king to a brahmarishi, the rank that Vasishtha already held."
+    },
+    {
+      "id": "vasishtha-q17",
+      "difficulty": "medium",
+      "q": "In the Ramayana, who was the father of Rama for whom Vasishtha served as the chief family priest at Ayodhya?",
+      "options": [
+        "King Janaka",
+        "King Dasharatha",
+        "King Aja",
+        "King Romapada"
+      ],
+      "answer": 1,
+      "explanation": "Vasishtha was the royal priest of King Dasharatha, the father of Rama, in the Ramayana."
+    },
+    {
+      "id": "vasishtha-q18",
+      "difficulty": "medium",
+      "q": "The teaching of the Yoga Vasistha, given by Vasishtha to Rama, centers chiefly on which theme?",
+      "options": [
+        "Rules of warfare and weaponry",
+        "The construction of fire altars",
+        "The nature of the mind, illusion, and liberation",
+        "Laws of royal taxation"
+      ],
+      "answer": 2,
+      "explanation": "The Yoga Vasistha is a philosophical text in which Vasishtha expounds on the mind, the illusory nature of the world, and liberation (moksha)."
+    },
+    {
+      "id": "vasishtha-q19",
+      "difficulty": "medium",
+      "q": "Which ritual office did Vasishtha perform for the kings of Ayodhya, including the rites surrounding Rama's birth and consecration?",
+      "options": [
+        "Court physician",
+        "Commander of the army",
+        "Master of the treasury",
+        "Purohita (royal priest)"
+      ],
+      "answer": 3,
+      "explanation": "Vasishtha served as the purohita, the royal family priest, conducting the sacred rites for the Ikshvaku kings."
+    },
+    {
+      "id": "vasishtha-q20",
+      "difficulty": "medium",
+      "q": "In Puranic tradition the cow Kamadhenu (Nandini) in Vasishtha's care was renowned for being able to produce what?",
+      "options": [
+        "Whatever was desired or needed",
+        "Only sacred fire",
+        "Rain at command",
+        "Gold coins alone"
+      ],
+      "answer": 0,
+      "explanation": "Kamadhenu, the wish-fulfilling cow in Vasishtha's hermitage, could yield whatever was desired, providing for the sage's guests and rites."
+    },
+    {
+      "id": "vasishtha-q21",
+      "difficulty": "medium",
+      "q": "In the Ramayana, which sage accompanies the young Rama and Lakshmana away to protect a sacrifice, distinct from their family guru Vasishtha?",
+      "options": [
+        "Agastya",
+        "Vishwamitra",
+        "Bharadvaja",
+        "Valmiki"
+      ],
+      "answer": 1,
+      "explanation": "It is Vishwamitra, the longtime rival of Vasishtha, who takes Rama and Lakshmana from Ayodhya to guard his sacrifice."
+    },
+    {
+      "id": "vasishtha-q22",
+      "difficulty": "medium",
+      "q": "Vasishtha is regarded as the progenitor of which gotra (lineage) still named among Brahmin clans?",
+      "options": [
+        "The Bharadvaja gotra",
+        "The Kashyapa gotra",
+        "The Vasishtha gotra",
+        "The Atri gotra"
+      ],
+      "answer": 2,
+      "explanation": "Vasishtha is honored as the founder of the Vasishtha gotra, one of the major Brahmin lineages traced to the Saptarishi."
+    },
+    {
+      "id": "vasishtha-q23",
+      "difficulty": "hard",
+      "q": "According to Puranic genealogies, Vasishtha is traditionally regarded as the grandfather of which celebrated seer through his son Shakti?",
+      "options": [
+        "Vyasa",
+        "Jaimini",
+        "Markandeya",
+        "Parashara"
+      ],
+      "answer": 3,
+      "explanation": "In Puranic tradition Vasishtha's son was Shakti, and Shakti's son was the sage Parashara, making Vasishtha Parashara's grandfather."
+    },
+    {
+      "id": "vasishtha-q24",
+      "difficulty": "hard",
+      "q": "In Puranic accounts, the sons of which king, provoked at the behest of Vishwamitra, are said to have brought destruction upon the hundred sons of Vasishtha?",
+      "options": [
+        "King Kalmashapada (Saudasa)",
+        "King Trishanku",
+        "King Ambarisha",
+        "King Nimi"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas relate that the cursed king Kalmashapada (Saudasa), entangled in the feud, caused the death of Vasishtha's hundred sons."
+    },
+    {
+      "id": "vasishtha-q25",
+      "difficulty": "hard",
+      "q": "In the Ramayana, which Ikshvaku king did Vishwamitra strive to send bodily to heaven, a rite that Vasishtha's circle first declined to perform?",
+      "options": [
+        "Harishchandra",
+        "Trishanku",
+        "Sudas",
+        "Marutta"
+      ],
+      "answer": 1,
+      "explanation": "King Trishanku of the Ikshvaku line sought bodily ascent to heaven; the rite was declined by Vasishtha's circle, after which Vishwamitra undertook it."
+    },
+    {
+      "id": "vasishtha-q26",
+      "difficulty": "hard",
+      "q": "In Vedic and Puranic tradition, Vasishtha is closely associated with the worship and invocation of which deity, lord of cosmic order, in his hymns?",
+      "options": [
+        "Kubera",
+        "Vayu alone",
+        "Varuna",
+        "Soma alone"
+      ],
+      "answer": 2,
+      "explanation": "The Vasishtha hymns of the Rigveda are especially noted for their devotion to Varuna, the guardian of cosmic order (rita)."
+    },
+    {
+      "id": "vasishtha-q27",
+      "difficulty": "hard",
+      "q": "Some Puranic accounts relate that, grieving the loss of his sons, the sage Vasishtha attempted to end his own life but was prevented because what occurred?",
+      "options": [
+        "Indra carried him to heaven",
+        "Kamadhenu revived his sons at once",
+        "Brahma turned back time",
+        "The rivers refused to drown him and the elements spared him"
+      ],
+      "answer": 3,
+      "explanation": "The Puranas tell that the very elements, including a river that became the Vipasha, refused to take Vasishtha's life, so that he survived his grief."
+    },
+    {
+      "id": "vasishtha-q28",
+      "difficulty": "hard",
+      "q": "In the Ramayana, after Rama's exile and Dasharatha's death, which role did Vasishtha play regarding the empty throne of Ayodhya?",
+      "options": [
+        "He counseled and oversaw matters of succession and the rites of state",
+        "He crowned himself king",
+        "He led an army against Bharata",
+        "He renounced Ayodhya entirely"
+      ],
+      "answer": 0,
+      "explanation": "As royal preceptor, Vasishtha guided the affairs of succession in Ayodhya and performed the necessary rites during the crisis of the throne."
+    },
+    {
+      "id": "vasishtha-q29",
+      "difficulty": "hard",
+      "q": "According to one well-known Puranic motif, when Vishwamitra unleashed many celestial weapons against Vasishtha, the sage repelled them all using chiefly what?",
+      "options": [
+        "The Sudarshana discus",
+        "His brahmadanda (the staff of Brahman)",
+        "A bow gifted by Indra",
+        "The trident of Shiva"
+      ],
+      "answer": 1,
+      "explanation": "The Puranas describe Vasishtha neutralizing Vishwamitra's divine missiles with his brahmadanda, the staff that absorbs all weapons through spiritual power."
+    },
+    {
+      "id": "vasishtha-q30",
+      "difficulty": "hard",
+      "q": "In Puranic cosmology, Vasishtha is named among the Saptarishi who preside as star-seers over which recurring cosmic age cycle?",
+      "options": [
+        "A single human lifetime",
+        "A lunar fortnight",
+        "The reign of each Manu (a manvantara)",
+        "One solar year"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas hold that a set of Saptarishi, including Vasishtha in the present cycle, presides over each manvantara, the reign of a Manu."
+    }
+  ]
+}

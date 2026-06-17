@@ -1,0 +1,395 @@
+{
+  "cardId": "airavata",
+  "questions": [
+    {
+      "id": "airavata-q01",
+      "difficulty": "easy",
+      "q": "In Hindu mythology, Airavata is best known as the mount (vahana) of which deity?",
+      "options": [
+        "Vishnu",
+        "Shiva",
+        "Indra",
+        "Brahma"
+      ],
+      "answer": 2,
+      "explanation": "Airavata is the celestial elephant who serves as the vahana of Indra, king of the devas."
+    },
+    {
+      "id": "airavata-q02",
+      "difficulty": "easy",
+      "q": "What kind of animal is Airavata in Hindu tradition?",
+      "options": [
+        "A horse",
+        "An eagle",
+        "A bull",
+        "An elephant"
+      ],
+      "answer": 3,
+      "explanation": "Airavata is described in the Puranas as a magnificent white elephant, the foremost of elephants."
+    },
+    {
+      "id": "airavata-q03",
+      "difficulty": "easy",
+      "q": "What is the most commonly described colour of the elephant Airavata?",
+      "options": [
+        "White",
+        "Black",
+        "Golden",
+        "Crimson"
+      ],
+      "answer": 0,
+      "explanation": "Airavata is traditionally depicted as a pure white elephant, mount of Indra."
+    },
+    {
+      "id": "airavata-q04",
+      "difficulty": "easy",
+      "q": "According to the Puranas, from which great cosmic event did Airavata arise?",
+      "options": [
+        "The descent of the Ganga",
+        "The churning of the ocean of milk",
+        "The burning of Tripura",
+        "The lifting of Govardhan"
+      ],
+      "answer": 1,
+      "explanation": "The Puranas relate that Airavata emerged among the treasures of the Samudra Manthana, the churning of the ocean of milk."
+    },
+    {
+      "id": "airavata-q05",
+      "difficulty": "easy",
+      "q": "Airavata is the mount of Indra, who holds what office among the gods?",
+      "options": [
+        "Lord of death",
+        "God of fire",
+        "King of the devas",
+        "Creator of the worlds"
+      ],
+      "answer": 2,
+      "explanation": "Indra, whose mount is Airavata, is the king of the devas and ruler of the heaven Svarga."
+    },
+    {
+      "id": "airavata-q06",
+      "difficulty": "easy",
+      "q": "In which heavenly city, the capital of Indra, is Airavata associated as the king's mount?",
+      "options": [
+        "Dvaraka",
+        "Ayodhya",
+        "Lanka",
+        "Amaravati"
+      ],
+      "answer": 3,
+      "explanation": "Indra presides over Amaravati, the capital of Svarga, mounted upon the white elephant Airavata."
+    },
+    {
+      "id": "airavata-q07",
+      "difficulty": "easy",
+      "q": "Airavata is described in the Puranas as the foremost or chief of which kind of creature?",
+      "options": [
+        "Elephants",
+        "Serpents",
+        "Eagles",
+        "Lions"
+      ],
+      "answer": 0,
+      "explanation": "Airavata is hailed as the foremost of all elephants, the king among them."
+    },
+    {
+      "id": "airavata-q08",
+      "difficulty": "easy",
+      "q": "Indra, who rides Airavata, wields which famous weapon in the Vedas?",
+      "options": [
+        "The trident Trishula",
+        "The thunderbolt Vajra",
+        "The discus Sudarshana",
+        "The bow Kodanda"
+      ],
+      "answer": 1,
+      "explanation": "Indra, the rider of Airavata, wields the thunderbolt Vajra, celebrated in the Rigveda."
+    },
+    {
+      "id": "airavata-q09",
+      "difficulty": "easy",
+      "q": "Airavata is a celestial animal belonging to which group of beings?",
+      "options": [
+        "The rakshasas (demons)",
+        "The nagas (serpents)",
+        "The devas (gods)",
+        "The vanaras (monkeys)"
+      ],
+      "answer": 2,
+      "explanation": "As Indra's mount, Airavata is a celestial creature of the devas, the gods of the heavens."
+    },
+    {
+      "id": "airavata-q10",
+      "difficulty": "easy",
+      "q": "The white elephant Airavata is associated with which natural element through Indra's domain?",
+      "options": [
+        "Fire and ash",
+        "Earth and stone",
+        "Darkness and night",
+        "Rain, clouds, and water"
+      ],
+      "answer": 3,
+      "explanation": "As the mount of Indra, lord of rain and storm, Airavata is connected with clouds, water, and the rains."
+    },
+    {
+      "id": "airavata-q11",
+      "difficulty": "medium",
+      "q": "Airavata is named in the Puranas as the guardian elephant (dikgaja) of which cardinal direction?",
+      "options": [
+        "The east",
+        "The south",
+        "The west",
+        "The north"
+      ],
+      "answer": 0,
+      "explanation": "Airavata is described as the guardian-elephant of the eastern quarter, the direction over which Indra presides."
+    },
+    {
+      "id": "airavata-q12",
+      "difficulty": "medium",
+      "q": "Which distinctive physical feature is often attributed to Airavata in Puranic description?",
+      "options": [
+        "A single horn",
+        "Multiple tusks",
+        "Feathered wings",
+        "A serpent's tail"
+      ],
+      "answer": 1,
+      "explanation": "Airavata is frequently described as possessing multiple tusks, marking him as no ordinary elephant."
+    },
+    {
+      "id": "airavata-q13",
+      "difficulty": "medium",
+      "q": "According to tradition, Airavata is said to draw up water and hold it in the sky, connecting him to which phenomenon?",
+      "options": [
+        "Earthquakes",
+        "Solar eclipses",
+        "The forming of rain and clouds",
+        "Volcanic fire"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas describe Airavata holding water in the sky, linking him to the gathering of clouds and rain in Indra's storms."
+    },
+    {
+      "id": "airavata-q14",
+      "difficulty": "medium",
+      "q": "During the churning of the ocean of milk, which goddess of fortune arose alongside treasures such as Airavata?",
+      "options": [
+        "Saraswati",
+        "Durga",
+        "Kali",
+        "Lakshmi"
+      ],
+      "answer": 3,
+      "explanation": "The goddess Lakshmi arose from the Samudra Manthana among the treasures, the same churning that yielded Airavata."
+    },
+    {
+      "id": "airavata-q15",
+      "difficulty": "medium",
+      "q": "Airavata serves Indra, whose central Vedic myth is the slaying of which drought-bringing serpent?",
+      "options": [
+        "Vritra",
+        "Vasuki",
+        "Takshaka",
+        "Kaliya"
+      ],
+      "answer": 0,
+      "explanation": "Indra, the rider of Airavata, famously slew the serpent Vritra to release the imprisoned waters."
+    },
+    {
+      "id": "airavata-q16",
+      "difficulty": "medium",
+      "q": "In the Puranas, Airavata is counted among the treasures that emerged from the churning together with which wish-fulfilling cow?",
+      "options": [
+        "Nandini",
+        "Kamadhenu",
+        "Rohini",
+        "Sarama"
+      ],
+      "answer": 1,
+      "explanation": "The wish-granting cow Kamadhenu is among the treasures of the churning of the ocean, as is Airavata."
+    },
+    {
+      "id": "airavata-q17",
+      "difficulty": "medium",
+      "q": "Airavata is the mount of Indra, who rules over which celestial realm?",
+      "options": [
+        "Vaikuntha",
+        "Kailasa",
+        "Svarga",
+        "Patala"
+      ],
+      "answer": 2,
+      "explanation": "Indra, whose vahana is Airavata, rules over Svarga, the heaven of the devas."
+    },
+    {
+      "id": "airavata-q18",
+      "difficulty": "medium",
+      "q": "In Indra's heavenly capital where Airavata is kept, which wish-granting tree is said to grow?",
+      "options": [
+        "The Bodhi tree",
+        "The sandalwood of Malaya",
+        "The Ashvattha of Naimisha",
+        "The Parijata tree"
+      ],
+      "answer": 3,
+      "explanation": "The Parijata tree, which also arose from the churning of the ocean, grows in Indra's heaven where Airavata serves as his mount."
+    },
+    {
+      "id": "airavata-q19",
+      "difficulty": "medium",
+      "q": "Airavata is the mount of Indra, while which deity instead rides the eagle Garuda?",
+      "options": [
+        "Vishnu",
+        "Shiva",
+        "Brahma",
+        "Yama"
+      ],
+      "answer": 0,
+      "explanation": "Vishnu rides the eagle Garuda, whereas Indra's mount is the elephant Airavata."
+    },
+    {
+      "id": "airavata-q20",
+      "difficulty": "medium",
+      "q": "Airavata's pleasure garden home in Indra's heaven is most commonly named as which grove?",
+      "options": [
+        "Ashoka Vatika",
+        "Nandana",
+        "Vrindavan",
+        "Brindaban of Patala"
+      ],
+      "answer": 1,
+      "explanation": "Indra's heaven contains the celestial pleasure garden Nandana, the paradise where Airavata bears the king of the gods."
+    },
+    {
+      "id": "airavata-q21",
+      "difficulty": "medium",
+      "q": "Airavata most prominently appears in which body of Hindu scripture?",
+      "options": [
+        "The Quran",
+        "The Tripitaka",
+        "The Puranas",
+        "The Tao Te Ching"
+      ],
+      "answer": 2,
+      "explanation": "Airavata's description as Indra's mount and a treasure of the churning is drawn chiefly from the Puranas."
+    },
+    {
+      "id": "airavata-q22",
+      "difficulty": "medium",
+      "q": "The guardian elephants of the directions, of whom Airavata is one, are known by which collective Sanskrit term?",
+      "options": [
+        "Dikpalas",
+        "Lokapalas",
+        "Ashtavasus",
+        "Dikgajas"
+      ],
+      "answer": 3,
+      "explanation": "The directional guardian elephants, including Airavata of the east, are called the dikgajas."
+    },
+    {
+      "id": "airavata-q23",
+      "difficulty": "hard",
+      "q": "In the lineage given in some Puranas, Airavata is sometimes said to be born of which sage's progeny tracing to Kashyapa?",
+      "options": [
+        "From the brood of Iravati or the daughters of Kashyapa",
+        "From the egg of Vinata's line",
+        "From the matted locks of Shiva",
+        "From the navel-lotus of Vishnu"
+      ],
+      "answer": 0,
+      "explanation": "Some Puranic genealogies trace Airavata to the offspring of Kashyapa's daughters, his name linked to Iravati."
+    },
+    {
+      "id": "airavata-q24",
+      "difficulty": "hard",
+      "q": "The name 'Airavata' is traditionally connected to which root sense in Sanskrit?",
+      "options": [
+        "Born of the sun",
+        "Sprung from the waters or ocean",
+        "Forged of thunder",
+        "Carved from a mountain"
+      ],
+      "answer": 1,
+      "explanation": "The name Airavata is associated with the waters, fitting his emergence from the ocean of milk."
+    },
+    {
+      "id": "airavata-q25",
+      "difficulty": "hard",
+      "q": "In the episode where Indra rides Airavata and is cursed for disrespecting a garland, which short-tempered sage is involved?",
+      "options": [
+        "Vishwamitra",
+        "Agastya",
+        "Durvasa",
+        "Narada"
+      ],
+      "answer": 2,
+      "explanation": "In a Puranic account, the sage Durvasa's garland is trampled by Airavata, leading to a curse on Indra."
+    },
+    {
+      "id": "airavata-q26",
+      "difficulty": "hard",
+      "q": "Airavata serves the same king of the devas whose pride was humbled by Krishna in which Puranic episode?",
+      "options": [
+        "The slaying of Kamsa",
+        "The churning of the ocean",
+        "The burning of the Khandava forest",
+        "The lifting of Govardhan"
+      ],
+      "answer": 3,
+      "explanation": "Indra, the rider of Airavata, had his pride humbled when Krishna lifted Mount Govardhan to shield the cowherds from Indra's storm."
+    },
+    {
+      "id": "airavata-q27",
+      "difficulty": "hard",
+      "q": "In Buddhist and broader Indic tradition, the elephant comparable to Airavata bearing the king of gods is often called by which related name?",
+      "options": [
+        "Erawan (Airavana)",
+        "Uchchaihshravas",
+        "Kamadhenu",
+        "Sharabha"
+      ],
+      "answer": 0,
+      "explanation": "Airavata appears in wider Indic tradition under names such as Erawan or Airavana, the multi-tusked mount of the king of the gods."
+    },
+    {
+      "id": "airavata-q28",
+      "difficulty": "hard",
+      "q": "Which other celestial being, like Airavata, is named among the treasures churned from the ocean of milk?",
+      "options": [
+        "The bull Nandi",
+        "The horse Uchchaihshravas",
+        "The eagle Garuda",
+        "The serpent Shesha"
+      ],
+      "answer": 1,
+      "explanation": "The divine white horse Uchchaihshravas, like the elephant Airavata, arose among the treasures of the Samudra Manthana."
+    },
+    {
+      "id": "airavata-q29",
+      "difficulty": "hard",
+      "q": "Airavata is the mount of Indra, whose thunderbolt Vajra was forged from the bones of which self-sacrificing sage?",
+      "options": [
+        "Chyavana",
+        "Bhrigu",
+        "Dadhichi",
+        "Kanva"
+      ],
+      "answer": 2,
+      "explanation": "Indra's Vajra was forged from the bones of the sage Dadhichi; Indra wields it mounted upon Airavata."
+    },
+    {
+      "id": "airavata-q30",
+      "difficulty": "hard",
+      "q": "Airavata is the guardian elephant (dikgaja) of the east; in the classical list, which elephant is named as the dikgaja of the west?",
+      "options": [
+        "Pundarika",
+        "Vamana",
+        "Sarvabhauma",
+        "Anjana"
+      ],
+      "answer": 3,
+      "explanation": "In the classical scheme of directional elephants, Airavata guards the east while Anjana is the dikgaja most often placed in the west."
+    }
+  ]
+}

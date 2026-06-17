@@ -1,0 +1,395 @@
+{
+  "cardId": "lakshmi",
+  "questions": [
+    {
+      "id": "lakshmi-q01",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, of what is the goddess Lakshmi the deity?",
+      "options": [
+        "Wealth, prosperity, and auspiciousness",
+        "Death and the underworld",
+        "War and destruction",
+        "Drought and famine"
+      ],
+      "answer": 0,
+      "explanation": "Lakshmi is venerated as the goddess of wealth, prosperity, and auspiciousness."
+    },
+    {
+      "id": "lakshmi-q02",
+      "difficulty": "easy",
+      "q": "Who is the divine consort of the goddess Lakshmi?",
+      "options": [
+        "Shiva",
+        "Vishnu",
+        "Brahma",
+        "Indra"
+      ],
+      "answer": 1,
+      "explanation": "Lakshmi is the consort of Vishnu, the preserver of the cosmos."
+    },
+    {
+      "id": "lakshmi-q03",
+      "difficulty": "easy",
+      "q": "Upon which flower is the goddess Lakshmi most commonly depicted as seated?",
+      "options": [
+        "Marigold",
+        "Jasmine",
+        "Lotus",
+        "Hibiscus"
+      ],
+      "answer": 2,
+      "explanation": "Lakshmi is iconographically seated upon a blooming lotus."
+    },
+    {
+      "id": "lakshmi-q04",
+      "difficulty": "easy",
+      "q": "During which major festival is the goddess Lakshmi honored above all others?",
+      "options": [
+        "Holi",
+        "Navaratri",
+        "Raksha Bandhan",
+        "Diwali"
+      ],
+      "answer": 3,
+      "explanation": "Lakshmi is honored above all during Diwali, the festival of lights."
+    },
+    {
+      "id": "lakshmi-q05",
+      "difficulty": "easy",
+      "q": "From which great cosmic event did the goddess Lakshmi emerge, according to the Puranas?",
+      "options": [
+        "The churning of the ocean of milk",
+        "The descent of the Ganga",
+        "The burning of Kamadeva",
+        "The lifting of Govardhan"
+      ],
+      "answer": 0,
+      "explanation": "Lakshmi arose from the Samudra Manthana, the churning of the cosmic ocean of milk."
+    },
+    {
+      "id": "lakshmi-q06",
+      "difficulty": "easy",
+      "q": "In her iconography, what is the goddess Lakshmi often shown showering from her hands?",
+      "options": [
+        "Lotus petals",
+        "Gold coins",
+        "Sacred ash",
+        "Rice grains"
+      ],
+      "answer": 1,
+      "explanation": "Lakshmi is frequently depicted showering gold coins, symbolizing abundance."
+    },
+    {
+      "id": "lakshmi-q07",
+      "difficulty": "easy",
+      "q": "Which animals are traditionally shown flanking the goddess Lakshmi in her common iconography?",
+      "options": [
+        "Lions",
+        "Peacocks",
+        "Elephants",
+        "Serpents"
+      ],
+      "answer": 2,
+      "explanation": "Lakshmi is classically flanked by elephants, often shown bathing her with water."
+    },
+    {
+      "id": "lakshmi-q08",
+      "difficulty": "easy",
+      "q": "As the consort of Vishnu, in which of his avatar episodes does the goddess Lakshmi appear as Rama's wife?",
+      "options": [
+        "As Radha",
+        "As Parvati",
+        "As Saraswati",
+        "As Sita"
+      ],
+      "answer": 3,
+      "explanation": "Lakshmi accompanies Vishnu's avatar Rama in the form of Sita."
+    },
+    {
+      "id": "lakshmi-q09",
+      "difficulty": "easy",
+      "q": "What does the goddess Lakshmi primarily represent in Hindu worship?",
+      "options": [
+        "Fortune and abundance",
+        "Knowledge and the arts",
+        "Time and destruction",
+        "Cosmic dissolution"
+      ],
+      "answer": 0,
+      "explanation": "Lakshmi is revered as the goddess of fortune and material and spiritual abundance."
+    },
+    {
+      "id": "lakshmi-q10",
+      "difficulty": "easy",
+      "q": "Which goddess is regarded as the embodiment of prosperity and is invoked for good fortune in Hindu homes?",
+      "options": [
+        "Kali",
+        "Lakshmi",
+        "Durga",
+        "Yamuna"
+      ],
+      "answer": 1,
+      "explanation": "Lakshmi is invoked in households as the bestower of prosperity and good fortune."
+    },
+    {
+      "id": "lakshmi-q11",
+      "difficulty": "medium",
+      "q": "In the Bhagavata Purana, alongside Lakshmi, which physician-god also arose from the churning of the ocean bearing the pot of the nectar of immortality?",
+      "options": [
+        "Ashvini Kumaras",
+        "Brihaspati",
+        "Dhanvantari",
+        "Vishvakarma"
+      ],
+      "answer": 2,
+      "explanation": "Dhanvantari, the divine physician, emerged from the churning bearing the pot of amrita, as did Lakshmi."
+    },
+    {
+      "id": "lakshmi-q12",
+      "difficulty": "medium",
+      "q": "As the consort of Vishnu's avatar Krishna, in which form is the goddess Lakshmi said to appear as his principal queen?",
+      "options": [
+        "Satyabhama",
+        "Devaki",
+        "Yashoda",
+        "Rukmini"
+      ],
+      "answer": 3,
+      "explanation": "Lakshmi accompanies Krishna as his chief queen Rukmini."
+    },
+    {
+      "id": "lakshmi-q13",
+      "difficulty": "medium",
+      "q": "Where does the goddess Lakshmi attend Vishnu as he reclines in cosmic slumber upon the serpent Shesha?",
+      "options": [
+        "Upon the ocean of milk",
+        "At Mount Kailash",
+        "In the city of Ayodhya",
+        "Within Mount Meru"
+      ],
+      "answer": 0,
+      "explanation": "Lakshmi attends Vishnu at his feet as he reclines on Shesha upon the Kshira Sagara, the ocean of milk."
+    },
+    {
+      "id": "lakshmi-q14",
+      "difficulty": "medium",
+      "q": "By what alternate name, derived from the lotus, is the goddess Lakshmi often known?",
+      "options": [
+        "Gauri",
+        "Padma",
+        "Uma",
+        "Sati"
+      ],
+      "answer": 1,
+      "explanation": "Lakshmi is called Padma or Kamala, names meaning lotus, owing to her association with the flower."
+    },
+    {
+      "id": "lakshmi-q15",
+      "difficulty": "medium",
+      "q": "The goddess Lakshmi is the consort of which member of the Trimurti?",
+      "options": [
+        "Brahma the creator",
+        "Shiva the destroyer",
+        "Vishnu the preserver",
+        "Surya the sun"
+      ],
+      "answer": 2,
+      "explanation": "Lakshmi is the consort of Vishnu, the preserver within the Trimurti."
+    },
+    {
+      "id": "lakshmi-q16",
+      "difficulty": "medium",
+      "q": "In Vaikuntha, the abode of Vishnu, what role does the goddess Lakshmi traditionally fulfill?",
+      "options": [
+        "She guards the gates as Jaya",
+        "She rules the netherworld",
+        "She commands the deva armies",
+        "She attends Vishnu as his consort"
+      ],
+      "answer": 3,
+      "explanation": "In Vaikuntha, Lakshmi attends Vishnu as his ever-present consort."
+    },
+    {
+      "id": "lakshmi-q17",
+      "difficulty": "medium",
+      "q": "The popular collective form of the goddess Lakshmi as bestower of wealth, grain, valor, progeny, and other forms of abundance is known by which name?",
+      "options": [
+        "Ashtalakshmi",
+        "Tridevi",
+        "Saptamatrika",
+        "Navadurga"
+      ],
+      "answer": 0,
+      "explanation": "Lakshmi is worshipped in the collective form known as Ashtalakshmi, her eight aspects of abundance."
+    },
+    {
+      "id": "lakshmi-q18",
+      "difficulty": "medium",
+      "q": "Which festival, dedicated to seeking the blessings of the goddess Lakshmi, often features the cleaning and lighting of homes to welcome her?",
+      "options": [
+        "Maha Shivaratri",
+        "Diwali",
+        "Janmashtami",
+        "Ram Navami"
+      ],
+      "answer": 1,
+      "explanation": "During Diwali, homes are cleaned and lit with lamps to welcome Lakshmi and her blessings of prosperity."
+    },
+    {
+      "id": "lakshmi-q19",
+      "difficulty": "medium",
+      "q": "Sita, honored as an incarnation of the goddess Lakshmi, was the wife of which avatar of Vishnu?",
+      "options": [
+        "Krishna",
+        "Vamana",
+        "Rama",
+        "Parashurama"
+      ],
+      "answer": 2,
+      "explanation": "Sita, an incarnation of Lakshmi, is the wife of Rama, the seventh avatar of Vishnu."
+    },
+    {
+      "id": "lakshmi-q20",
+      "difficulty": "medium",
+      "q": "Together with the goddess Lakshmi, which celestial wish-fulfilling cow also emerged from the churning of the ocean of milk?",
+      "options": [
+        "Nandini",
+        "Rohini",
+        "Tara",
+        "Kamadhenu"
+      ],
+      "answer": 3,
+      "explanation": "The wish-fulfilling cow Kamadhenu emerged from the churning of the ocean alongside Lakshmi."
+    },
+    {
+      "id": "lakshmi-q21",
+      "difficulty": "medium",
+      "q": "What aspect of well-being does the goddess Lakshmi specifically embody beyond mere material riches?",
+      "options": [
+        "Auspiciousness and good fortune",
+        "Cosmic destruction",
+        "Asceticism and renunciation",
+        "Drought and scarcity"
+      ],
+      "answer": 0,
+      "explanation": "Lakshmi embodies auspiciousness (shri) and good fortune, not merely material wealth."
+    },
+    {
+      "id": "lakshmi-q22",
+      "difficulty": "medium",
+      "q": "Which Sanskrit honorific, meaning radiance, auspiciousness, and prosperity, is closely identified with the goddess Lakshmi?",
+      "options": [
+        "Om",
+        "Shri",
+        "Soma",
+        "Rita"
+      ],
+      "answer": 1,
+      "explanation": "Lakshmi is identified with Shri, the principle of radiance, auspiciousness, and prosperity, and is often called Shri Lakshmi."
+    },
+    {
+      "id": "lakshmi-q23",
+      "difficulty": "hard",
+      "q": "In the Vishnu Purana, the goddess Lakshmi is described in one account as the daughter of which sage and his wife?",
+      "options": [
+        "Atri and Anasuya",
+        "Kashyapa and Aditi",
+        "Bhrigu and Khyati",
+        "Vasishtha and Arundhati"
+      ],
+      "answer": 2,
+      "explanation": "The Vishnu Purana relates that Lakshmi, in one account, was born as the daughter of the sage Bhrigu and his wife Khyati."
+    },
+    {
+      "id": "lakshmi-q24",
+      "difficulty": "hard",
+      "q": "When the goddess Lakshmi emerged from the churned ocean, upon whom did she choose to bestow her garland, selecting him as her eternal lord?",
+      "options": [
+        "Indra",
+        "Varuna",
+        "Kubera",
+        "Vishnu"
+      ],
+      "answer": 3,
+      "explanation": "Rising from the ocean, Lakshmi placed her garland upon Vishnu, choosing him as her eternal consort."
+    },
+    {
+      "id": "lakshmi-q25",
+      "difficulty": "hard",
+      "q": "In her form as Bhudevi, the goddess Lakshmi is associated with which domain, complementing her form as Sridevi?",
+      "options": [
+        "The earth",
+        "The fire of sacrifice",
+        "The wind",
+        "The night sky"
+      ],
+      "answer": 0,
+      "explanation": "As Bhudevi, Lakshmi represents the earth, paired with Sridevi who represents prosperity, both as consorts of Vishnu."
+    },
+    {
+      "id": "lakshmi-q26",
+      "difficulty": "hard",
+      "q": "According to the Puranic episode, the goddess Lakshmi is said to have once withdrawn from the heavens following whose curse upon Indra?",
+      "options": [
+        "The sage Narada",
+        "The sage Durvasa",
+        "The sage Bhrigu",
+        "The sage Agastya"
+      ],
+      "answer": 1,
+      "explanation": "The sage Durvasa's curse caused Lakshmi to withdraw into the ocean, leading to the churning to recover her."
+    },
+    {
+      "id": "lakshmi-q27",
+      "difficulty": "hard",
+      "q": "Which bird, the owl, is associated as the vahana, or mount, of the goddess Lakshmi in much of her popular iconography?",
+      "options": [
+        "Garuda, the eagle",
+        "Hamsa, the swan",
+        "Uluka, the owl",
+        "Mayura, the peacock"
+      ],
+      "answer": 2,
+      "explanation": "Lakshmi is often associated with the owl, called Uluka, as her vahana in popular iconography."
+    },
+    {
+      "id": "lakshmi-q28",
+      "difficulty": "hard",
+      "q": "The depiction of the goddess Lakshmi being bathed by two elephants with water pots is known by which iconographic name?",
+      "options": [
+        "Dhana-Lakshmi",
+        "Vijaya-Lakshmi",
+        "Vira-Lakshmi",
+        "Gaja-Lakshmi"
+      ],
+      "answer": 3,
+      "explanation": "The form of Lakshmi flanked and lustrated by elephants is called Gaja-Lakshmi."
+    },
+    {
+      "id": "lakshmi-q29",
+      "difficulty": "hard",
+      "q": "In the Sri Vaishnava tradition, by which Tamil devotional name, meaning mother, is the goddess Lakshmi venerated as the inseparable consort and mediator of Vishnu's grace?",
+      "options": [
+        "Thayar",
+        "Yoga Maya",
+        "Adi Parashakti",
+        "Mahamaya"
+      ],
+      "answer": 0,
+      "explanation": "In the Sri Vaishnava tradition, Lakshmi is venerated as Sri or Thayar, the inseparable divine consort and mediator of Vishnu's grace."
+    },
+    {
+      "id": "lakshmi-q30",
+      "difficulty": "hard",
+      "q": "The goddess Lakshmi shares her emergence from the churning of the ocean with the moon and which fragrant flowering tree of paradise?",
+      "options": [
+        "The Ashoka tree",
+        "The Parijata tree",
+        "The Banyan tree",
+        "The Bilva tree"
+      ],
+      "answer": 1,
+      "explanation": "The celestial Parijata tree arose from the churning of the ocean of milk, as did Lakshmi."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "saraswati",
+  "questions": [
+    {
+      "id": "saraswati-q01",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, Saraswati is revered as the goddess of which domain?",
+      "options": [
+        "Wealth and prosperity",
+        "War and victory",
+        "Death and time",
+        "Knowledge, music, and the arts"
+      ],
+      "answer": 3,
+      "explanation": "Saraswati is venerated as the goddess of knowledge, music, speech, and the arts."
+    },
+    {
+      "id": "saraswati-q02",
+      "difficulty": "easy",
+      "q": "Which stringed musical instrument is Saraswati most often depicted holding?",
+      "options": [
+        "The veena",
+        "The flute",
+        "The damaru",
+        "The conch"
+      ],
+      "answer": 0,
+      "explanation": "Saraswati is iconographically shown holding the veena, symbolizing music and the arts."
+    },
+    {
+      "id": "saraswati-q03",
+      "difficulty": "easy",
+      "q": "In the Puranas, Saraswati is named as the consort of which member of the Trimurti?",
+      "options": [
+        "Vishnu",
+        "Brahma",
+        "Shiva",
+        "Indra"
+      ],
+      "answer": 1,
+      "explanation": "Saraswati is described in the Puranas as the consort of Brahma, the creator."
+    },
+    {
+      "id": "saraswati-q04",
+      "difficulty": "easy",
+      "q": "Saraswati is most commonly depicted wearing robes of which color?",
+      "options": [
+        "Red",
+        "Saffron",
+        "White",
+        "Blue"
+      ],
+      "answer": 2,
+      "explanation": "Saraswati is portrayed white-robed, the color associated with purity and learning."
+    },
+    {
+      "id": "saraswati-q05",
+      "difficulty": "easy",
+      "q": "Upon which seat or perch is Saraswati typically shown in her iconography?",
+      "options": [
+        "A bull",
+        "A peacock throne",
+        "A tiger skin",
+        "A lotus or a swan"
+      ],
+      "answer": 3,
+      "explanation": "Saraswati is depicted seated upon a lotus or a swan (hamsa)."
+    },
+    {
+      "id": "saraswati-q06",
+      "difficulty": "easy",
+      "q": "In the oldest layer of Hindu scripture, Saraswati is praised in which Veda?",
+      "options": [
+        "The Rigveda",
+        "The Atharvaveda",
+        "The Yajurveda",
+        "The Samaveda"
+      ],
+      "answer": 0,
+      "explanation": "Saraswati is praised in the Rigveda, first as a sacred river and as a goddess."
+    },
+    {
+      "id": "saraswati-q07",
+      "difficulty": "easy",
+      "q": "In her earliest Vedic praise, Saraswati was celebrated primarily as what?",
+      "options": [
+        "A sacred mountain",
+        "A sacred river",
+        "A sacred fire",
+        "A sacred tree"
+      ],
+      "answer": 1,
+      "explanation": "In the Rigveda, Saraswati is praised as a sacred river before her later goddess form."
+    },
+    {
+      "id": "saraswati-q08",
+      "difficulty": "easy",
+      "q": "Besides the veena, Saraswati is commonly shown holding which two objects?",
+      "options": [
+        "A bow and arrow",
+        "A noose and a mace",
+        "A manuscript and a rosary",
+        "A trident and a drum"
+      ],
+      "answer": 2,
+      "explanation": "Saraswati holds a manuscript (representing learning) and a rosary in her iconography."
+    },
+    {
+      "id": "saraswati-q09",
+      "difficulty": "easy",
+      "q": "The manuscript or book held by Saraswati is understood to symbolize what?",
+      "options": [
+        "Wealth and gold",
+        "Warfare and strategy",
+        "Healing and medicine",
+        "Learning and the scriptures"
+      ],
+      "answer": 3,
+      "explanation": "The manuscript Saraswati holds represents learning, the scriptures, and true knowledge."
+    },
+    {
+      "id": "saraswati-q10",
+      "difficulty": "easy",
+      "q": "Saraswati is widely honored as the patron goddess of what human pursuit?",
+      "options": [
+        "Learning, music, and the arts",
+        "Commerce and trade",
+        "Hunting and the chase",
+        "Sailing and the sea"
+      ],
+      "answer": 0,
+      "explanation": "Saraswati is honored as the patron of learning, music, speech, and the creative arts."
+    },
+    {
+      "id": "saraswati-q11",
+      "difficulty": "medium",
+      "q": "The white bird often shown as Saraswati's mount is known by which Sanskrit name?",
+      "options": [
+        "Garuda",
+        "Hamsa",
+        "Paravani",
+        "Jatayu"
+      ],
+      "answer": 1,
+      "explanation": "Saraswati's swan or goose mount is called the hamsa, also associated with her consort Brahma."
+    },
+    {
+      "id": "saraswati-q12",
+      "difficulty": "medium",
+      "q": "Saraswati shares her swan mount, the hamsa, with which deity who is her consort?",
+      "options": [
+        "Vishnu",
+        "Kartikeya",
+        "Brahma",
+        "Yama"
+      ],
+      "answer": 2,
+      "explanation": "The hamsa is the vahana of Brahma, Saraswati's consort, and is closely linked to her as well."
+    },
+    {
+      "id": "saraswati-q13",
+      "difficulty": "medium",
+      "q": "As the goddess of speech, Saraswati is closely identified with which Sanskrit concept of the spoken word?",
+      "options": [
+        "Maya",
+        "Rita",
+        "Tapas",
+        "Vach"
+      ],
+      "answer": 3,
+      "explanation": "Saraswati is identified with Vach, the personification of sacred speech and the word."
+    },
+    {
+      "id": "saraswati-q14",
+      "difficulty": "medium",
+      "q": "In the Ramayana, Saraswati is said to have influenced the boon of which sleeping rakshasa, so that his request was garbled?",
+      "options": [
+        "Kumbhakarna",
+        "Vibhishana",
+        "Indrajit",
+        "Maricha"
+      ],
+      "answer": 0,
+      "explanation": "Saraswati garbled Kumbhakarna's words before Brahma, so he was condemned to long months of sleep."
+    },
+    {
+      "id": "saraswati-q15",
+      "difficulty": "medium",
+      "q": "The festival dedicated to honoring Saraswati and the worship of learning is best known by which name?",
+      "options": [
+        "Karva Chauth",
+        "Vasant Panchami",
+        "Raksha Bandhan",
+        "Makar Sankranti"
+      ],
+      "answer": 1,
+      "explanation": "Vasant Panchami is the spring festival dedicated to the worship of Saraswati and learning."
+    },
+    {
+      "id": "saraswati-q16",
+      "difficulty": "medium",
+      "q": "Saraswati's iconography emphasizes which quality through her white attire and serene posture?",
+      "options": [
+        "Martial ferocity",
+        "Material abundance",
+        "Purity and wisdom",
+        "Fiery passion"
+      ],
+      "answer": 2,
+      "explanation": "Saraswati's white robes and calm bearing embody purity, wisdom, and the harmony of learning."
+    },
+    {
+      "id": "saraswati-q17",
+      "difficulty": "medium",
+      "q": "In Vedic geography, the now-lost Saraswati river is often paired with which other great river at a sacred confluence?",
+      "options": [
+        "The Kaveri",
+        "The Narmada",
+        "The Godavari",
+        "The Ganga and Yamuna"
+      ],
+      "answer": 3,
+      "explanation": "Tradition holds that the Saraswati joins the Ganga and Yamuna at the sacred confluence (Triveni Sangam) at Prayag."
+    },
+    {
+      "id": "saraswati-q18",
+      "difficulty": "medium",
+      "q": "Together with Lakshmi and Parvati, Saraswati is counted among which trio of principal Hindu goddesses?",
+      "options": [
+        "The Tridevi",
+        "The Matrikas",
+        "The Mahavidyas",
+        "The Krittikas"
+      ],
+      "answer": 0,
+      "explanation": "Saraswati, Lakshmi, and Parvati form the Tridevi, the consorts of the Trimurti."
+    },
+    {
+      "id": "saraswati-q19",
+      "difficulty": "medium",
+      "q": "The rosary (mala) carried by Saraswati most directly signifies which of the following?",
+      "options": [
+        "Power over death",
+        "Spiritual focus and meditation",
+        "Royal sovereignty",
+        "Command of the seas"
+      ],
+      "answer": 1,
+      "explanation": "The rosary Saraswati holds signifies concentration, prayer, and the meditative pursuit of knowledge."
+    },
+    {
+      "id": "saraswati-q20",
+      "difficulty": "medium",
+      "q": "Saraswati is invoked by students and seekers chiefly to grant which gift?",
+      "options": [
+        "Wealth and fortune",
+        "Long life and health",
+        "Wisdom, eloquence, and learning",
+        "Victory in battle"
+      ],
+      "answer": 2,
+      "explanation": "Saraswati is invoked for wisdom, eloquence in speech, and success in learning and the arts."
+    },
+    {
+      "id": "saraswati-q21",
+      "difficulty": "medium",
+      "q": "On Vasant Panchami, devotees of Saraswati traditionally favor which color in dress and offerings?",
+      "options": [
+        "Black",
+        "Crimson",
+        "Green",
+        "Yellow"
+      ],
+      "answer": 3,
+      "explanation": "Yellow, evoking spring and the mustard fields, is the favored color of Saraswati's festival, Vasant Panchami."
+    },
+    {
+      "id": "saraswati-q22",
+      "difficulty": "medium",
+      "q": "Which animal, a symbol of grace and learning, serves as Saraswati's vehicle in much of her imagery?",
+      "options": [
+        "The swan",
+        "The lion",
+        "The mouse",
+        "The elephant"
+      ],
+      "answer": 0,
+      "explanation": "The swan (hamsa) is Saraswati's vehicle, emblematic of discernment and grace."
+    },
+    {
+      "id": "saraswati-q23",
+      "difficulty": "hard",
+      "q": "The hamsa associated with Saraswati is said to possess which legendary discriminating ability?",
+      "options": [
+        "To breathe fire at will",
+        "To separate milk from water",
+        "To fly between the worlds unseen",
+        "To carry the dead to Yama"
+      ],
+      "answer": 1,
+      "explanation": "The hamsa is fabled to separate pure milk from water, symbolizing the discernment Saraswati grants."
+    },
+    {
+      "id": "saraswati-q24",
+      "difficulty": "hard",
+      "q": "In her Vedic identity as the personification of sacred speech, Saraswati is equated with which goddess of the word?",
+      "options": [
+        "Aditi",
+        "Ushas",
+        "Vach (Vak)",
+        "Prithvi"
+      ],
+      "answer": 2,
+      "explanation": "Saraswati is identified with Vach (Vak), the Vedic goddess and personification of speech."
+    },
+    {
+      "id": "saraswati-q25",
+      "difficulty": "hard",
+      "q": "In the Rigveda, the river Saraswati is famously extolled with which epithet, hailing her as the foremost of rivers?",
+      "options": [
+        "Ratnadhatama, richest in treasure",
+        "Devamata, mother of the gods",
+        "Vajrahasta, the thunder-bearer",
+        "Naditama, the best of rivers"
+      ],
+      "answer": 3,
+      "explanation": "The Rigveda praises Saraswati as 'naditama,' the foremost or best of rivers, in its hymns of devotion to her."
+    },
+    {
+      "id": "saraswati-q26",
+      "difficulty": "hard",
+      "q": "Saraswati is regarded as the mother or source of which Sanskrit script and learning, by tradition credited to her?",
+      "options": [
+        "The art of writing and letters",
+        "The forging of weapons",
+        "The science of medicine",
+        "The mapping of the stars"
+      ],
+      "answer": 0,
+      "explanation": "Tradition credits Saraswati as the source of the alphabet, letters, and the art of writing itself."
+    },
+    {
+      "id": "saraswati-q27",
+      "difficulty": "hard",
+      "q": "In the Rigveda, Saraswati is grouped among which triad of goddesses invoked in the Apri hymns?",
+      "options": [
+        "Saraswati, Aditi, and Diti",
+        "Saraswati, Ila, and Bharati",
+        "Saraswati, Ushas, and Ratri",
+        "Saraswati, Shri, and Bhumi"
+      ],
+      "answer": 1,
+      "explanation": "In the Rigvedic Apri hymns, Saraswati is invoked alongside the goddesses Ila and Bharati."
+    },
+    {
+      "id": "saraswati-q28",
+      "difficulty": "hard",
+      "q": "The hymn 'Saraswati Vandana' addresses the goddess with which famous opening epithet describing her brilliance?",
+      "options": [
+        "Mahishasuramardini",
+        "Adi Parashakti",
+        "Ya Kundendu Tushara Hara Dhavala",
+        "Tripura Sundari"
+      ],
+      "answer": 2,
+      "explanation": "The popular Saraswati Vandana begins 'Ya Kundendu Tushara Hara Dhavala,' praising her radiant whiteness like jasmine and snow."
+    },
+    {
+      "id": "saraswati-q29",
+      "difficulty": "hard",
+      "q": "Saraswati is sometimes described as having emerged from the mouth or word of which creator deity?",
+      "options": [
+        "Vishnu",
+        "Indra",
+        "Surya",
+        "Brahma"
+      ],
+      "answer": 3,
+      "explanation": "Saraswati, as the goddess of speech, is associated in tradition with Brahma, from whose creative word she is said to arise."
+    },
+    {
+      "id": "saraswati-q30",
+      "difficulty": "hard",
+      "q": "In South Indian and Tantric traditions, Saraswati is venerated alongside which form as a goddess of supreme knowledge?",
+      "options": [
+        "Sharada",
+        "Chamundi",
+        "Chinnamasta",
+        "Bagalamukhi"
+      ],
+      "answer": 0,
+      "explanation": "Saraswati is venerated as Sharada, a form of the goddess of wisdom honored at shrines such as Sharada Peeth and Sringeri."
+    }
+  ]
+}

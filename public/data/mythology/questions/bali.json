@@ -1,0 +1,395 @@
+{
+  "cardId": "bali",
+  "questions": [
+    {
+      "id": "bali-q01",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, what kind of being is King Bali, the generous ruler famed for his sacrifice?",
+      "options": [
+        "A celestial sage",
+        "An Asura (demon) king",
+        "A river deity",
+        "A mountain spirit"
+      ],
+      "answer": 1,
+      "explanation": "Bali is celebrated as a righteous and generous Asura (Daitya) king."
+    },
+    {
+      "id": "bali-q02",
+      "difficulty": "easy",
+      "q": "Which avatar of Vishnu approached King Bali to ask for three paces of land?",
+      "options": [
+        "Narasimha, the man-lion",
+        "Parashurama, the warrior",
+        "Vamana, the dwarf",
+        "Matsya, the fish"
+      ],
+      "answer": 2,
+      "explanation": "Vishnu came to Bali as Vamana, the dwarf Brahmin, in his fifth avatar."
+    },
+    {
+      "id": "bali-q03",
+      "difficulty": "easy",
+      "q": "How many paces of land did the dwarf Vamana request from King Bali?",
+      "options": [
+        "One pace",
+        "Two paces",
+        "Seven paces",
+        "Three paces"
+      ],
+      "answer": 3,
+      "explanation": "Vamana humbly asked Bali for only three paces of land."
+    },
+    {
+      "id": "bali-q04",
+      "difficulty": "easy",
+      "q": "King Bali was the grandson of which famous devotee of Vishnu?",
+      "options": [
+        "Prahlada",
+        "Dhruva",
+        "Ambarisha",
+        "Vibhishana"
+      ],
+      "answer": 0,
+      "explanation": "Bali was the grandson of Prahlada, the great devotee saved by Narasimha."
+    },
+    {
+      "id": "bali-q05",
+      "difficulty": "easy",
+      "q": "To which realm was King Bali finally granted lordship after surrendering everything?",
+      "options": [
+        "Svarga (heaven)",
+        "Patala (the netherworld)",
+        "Vaikuntha",
+        "Kailasa"
+      ],
+      "answer": 1,
+      "explanation": "Bali was given lordship over Patala, the netherworld, for his honesty."
+    },
+    {
+      "id": "bali-q06",
+      "difficulty": "easy",
+      "q": "For which virtue is King Bali most celebrated in the Vamana episode?",
+      "options": [
+        "His cruelty in battle",
+        "His mastery of illusion",
+        "His generosity and honesty in giving",
+        "His hatred of the gods"
+      ],
+      "answer": 2,
+      "explanation": "Bali is remembered above all for his boundless generosity and unbroken honesty."
+    },
+    {
+      "id": "bali-q07",
+      "difficulty": "easy",
+      "q": "Which three realms had King Bali conquered before Vamana came to him?",
+      "options": [
+        "The four oceans",
+        "The seven mountains",
+        "The five elements",
+        "The three worlds (heaven, earth, netherworld)"
+      ],
+      "answer": 3,
+      "explanation": "Bali had conquered the three worlds through devotion and sacrifice."
+    },
+    {
+      "id": "bali-q08",
+      "difficulty": "easy",
+      "q": "In which sacred text is the story of King Bali and Vamana most fully told?",
+      "options": [
+        "The Bhagavata Purana",
+        "The Yoga Sutras",
+        "The Arthashastra",
+        "The Natya Shastra"
+      ],
+      "answer": 0,
+      "explanation": "The Vamana-Bali episode is narrated most fully in the Bhagavata Purana."
+    },
+    {
+      "id": "bali-q09",
+      "difficulty": "easy",
+      "q": "When Vamana grew vast, in how many steps did he cover all of creation?",
+      "options": [
+        "In a single step",
+        "In two steps",
+        "In four steps",
+        "In ten steps"
+      ],
+      "answer": 1,
+      "explanation": "Vamana covered all the worlds in just two of his three promised steps."
+    },
+    {
+      "id": "bali-q10",
+      "difficulty": "easy",
+      "q": "What clan or lineage of Asuras did King Bali belong to?",
+      "options": [
+        "The Nagas",
+        "The Gandharvas",
+        "The Daityas",
+        "The Yakshas"
+      ],
+      "answer": 2,
+      "explanation": "Bali was a Daitya king, descended from the line of Diti and Hiranyakashipu."
+    },
+    {
+      "id": "bali-q11",
+      "difficulty": "medium",
+      "q": "Whose throne in heaven did King Bali seize after conquering the three worlds?",
+      "options": [
+        "Yama's throne",
+        "Varuna's throne",
+        "Kubera's throne",
+        "Indra's throne"
+      ],
+      "answer": 3,
+      "explanation": "Bali displaced Indra and took dominion over Svarga, the heaven of the gods."
+    },
+    {
+      "id": "bali-q12",
+      "difficulty": "medium",
+      "q": "Which guru of the Asuras warned King Bali that the dwarf seeking land was Vishnu in disguise?",
+      "options": [
+        "Shukracharya",
+        "Brihaspati",
+        "Vasishtha",
+        "Vishvamitra"
+      ],
+      "answer": 0,
+      "explanation": "Shukracharya, preceptor of the Asuras, warned Bali not to grant the request."
+    },
+    {
+      "id": "bali-q13",
+      "difficulty": "medium",
+      "q": "Where did Vamana place his second step when measuring out the three paces?",
+      "options": [
+        "Across the earth",
+        "Across the sky and heavens",
+        "Into the ocean",
+        "Upon Mount Meru"
+      ],
+      "answer": 1,
+      "explanation": "With one step Vamana spanned the earth and with the second the sky and heavens."
+    },
+    {
+      "id": "bali-q14",
+      "difficulty": "medium",
+      "q": "Having covered all creation in two steps, where did Vamana place his third step?",
+      "options": [
+        "Upon the sun",
+        "Into the sea",
+        "Upon Bali's own head",
+        "Upon the moon"
+      ],
+      "answer": 2,
+      "explanation": "With nowhere left to step, Bali offered his own head for Vamana's third pace."
+    },
+    {
+      "id": "bali-q15",
+      "difficulty": "medium",
+      "q": "What grand ritual was King Bali performing when Vamana arrived to ask for land?",
+      "options": [
+        "A coronation feast",
+        "A wedding ceremony",
+        "A funeral rite",
+        "A great sacrifice (yajna)"
+      ],
+      "answer": 3,
+      "explanation": "Bali was conducting a great sacrificial yajna when the dwarf came begging."
+    },
+    {
+      "id": "bali-q16",
+      "difficulty": "medium",
+      "q": "When Bali poured the ritual water to seal his gift, how did Shukracharya try to stop it?",
+      "options": [
+        "By entering the spout to block it",
+        "By breaking the water vessel",
+        "By cursing the dwarf",
+        "By summoning a storm"
+      ],
+      "answer": 0,
+      "explanation": "Shukracharya shrank and entered the vessel's spout to block the water; Vamana cleared it with a blade of grass, which cost the guru one eye."
+    },
+    {
+      "id": "bali-q17",
+      "difficulty": "medium",
+      "q": "Why did Vishnu act to humble King Bali despite Bali's righteousness?",
+      "options": [
+        "Bali had insulted the sages",
+        "To restore Indra and the gods to heaven",
+        "Bali had stolen Vishnu's discus",
+        "To punish Bali for greed"
+      ],
+      "answer": 1,
+      "explanation": "The gods, led by Indra, appealed to Vishnu to recover the heavens Bali had won."
+    },
+    {
+      "id": "bali-q18",
+      "difficulty": "medium",
+      "q": "According to tradition, who pleaded with Vamana on Bali's behalf after he was bound?",
+      "options": [
+        "His brother Sunda",
+        "The sage Narada alone",
+        "His grandfather Prahlada",
+        "His charioteer"
+      ],
+      "answer": 2,
+      "explanation": "Prahlada and others interceded, and Vishnu honored Bali for keeping his word."
+    },
+    {
+      "id": "bali-q19",
+      "difficulty": "medium",
+      "q": "What boon did Vishnu grant King Bali as a reward for his unbroken truthfulness?",
+      "options": [
+        "A place in Vaikuntha at once",
+        "Rulership of the seas",
+        "The return of all heaven",
+        "Lordship of Patala and Vishnu as his gatekeeper"
+      ],
+      "answer": 3,
+      "explanation": "Vishnu gave Bali lordship of Patala and promised to guard his door himself."
+    },
+    {
+      "id": "bali-q20",
+      "difficulty": "medium",
+      "q": "The harvest festival celebrated as the annual return of King Bali to his people is best known by which name?",
+      "options": [
+        "Onam",
+        "Pongal",
+        "Holi",
+        "Raksha Bandhan"
+      ],
+      "answer": 0,
+      "explanation": "In Kerala the festival of Onam commemorates the yearly return of King Bali to visit his subjects."
+    },
+    {
+      "id": "bali-q21",
+      "difficulty": "medium",
+      "q": "Vamana is counted as which descent among Vishnu's traditional ten avatars (Dashavatara)?",
+      "options": [
+        "The third",
+        "The fifth",
+        "The eighth",
+        "The tenth"
+      ],
+      "answer": 1,
+      "explanation": "Vamana, who humbled Bali, is the fifth of Vishnu's ten avatars."
+    },
+    {
+      "id": "bali-q22",
+      "difficulty": "medium",
+      "q": "What did King Bali do when he realized the dwarf was Vishnu himself coming to take all he had?",
+      "options": [
+        "He fled to the netherworld",
+        "He attacked Vamana",
+        "He kept his promise and offered all gladly",
+        "He renounced his vow"
+      ],
+      "answer": 2,
+      "explanation": "Bali honored his word without hesitation, offering everything including himself."
+    },
+    {
+      "id": "bali-q23",
+      "difficulty": "hard",
+      "q": "In Bali's lineage, Prahlada was the son of which demon king slain by Narasimha?",
+      "options": [
+        "Hiranyaksha",
+        "Ravana",
+        "Bana",
+        "Hiranyakashipu"
+      ],
+      "answer": 3,
+      "explanation": "Prahlada, Bali's grandfather, was the son of Hiranyakashipu, whom Narasimha slew."
+    },
+    {
+      "id": "bali-q24",
+      "difficulty": "hard",
+      "q": "By what patronymic, derived from his father Virochana, is King Bali sometimes known?",
+      "options": [
+        "Vairochani",
+        "Prahladi",
+        "Daiteya",
+        "Kashyapi"
+      ],
+      "answer": 0,
+      "explanation": "As the son of Virochana, Bali is sometimes called Vairochani."
+    },
+    {
+      "id": "bali-q25",
+      "difficulty": "hard",
+      "q": "Many traditions name King Bali as one of the Chiranjivis. What does that term mean?",
+      "options": [
+        "Conquerors of heaven",
+        "The immortal or long-living ones",
+        "Demon generals",
+        "Wandering ascetics"
+      ],
+      "answer": 1,
+      "explanation": "Bali is counted among the Chiranjivis, beings granted exceptionally long or undying life."
+    },
+    {
+      "id": "bali-q26",
+      "difficulty": "hard",
+      "q": "Some Puranic accounts foretell that King Bali will eventually hold which exalted office?",
+      "options": [
+        "Lord of death",
+        "King of the Nagas",
+        "A future Indra in a coming age",
+        "A future Brahma"
+      ],
+      "answer": 2,
+      "explanation": "Tradition holds that Bali will become Indra, king of the gods, in a future cosmic age."
+    },
+    {
+      "id": "bali-q27",
+      "difficulty": "hard",
+      "q": "When Vamana set his expanding foot upon the heavens, whose water is said to have washed it, giving rise to a sacred river?",
+      "options": [
+        "Varuna, releasing the sea",
+        "Soma, releasing nectar",
+        "Agni, releasing fire",
+        "Brahma, releasing the Ganga"
+      ],
+      "answer": 3,
+      "explanation": "In Puranic lore Brahma washed Vamana's foot, and that water became the heavenly Ganga."
+    },
+    {
+      "id": "bali-q28",
+      "difficulty": "hard",
+      "q": "The episode in which Bali surrenders the worlds is often called by which name in the Puranas?",
+      "options": [
+        "The Vamana avatara",
+        "The Kurma manthana",
+        "The Gajendra moksha",
+        "The Govardhana lila"
+      ],
+      "answer": 0,
+      "explanation": "The story is known as the Vamana avatara, Vishnu's dwarf incarnation before Bali."
+    },
+    {
+      "id": "bali-q29",
+      "difficulty": "hard",
+      "q": "Who was the father of King Bali in the Daitya lineage?",
+      "options": [
+        "Hiranyaksha",
+        "Virochana",
+        "Andhaka",
+        "Maya"
+      ],
+      "answer": 1,
+      "explanation": "Bali was the son of Virochana, himself the son of Prahlada."
+    },
+    {
+      "id": "bali-q30",
+      "difficulty": "hard",
+      "q": "In the great enumeration of avatars, the Vamana descent that humbled Bali bridges which two ages of Vishnu's forms?",
+      "options": [
+        "The first and final avatars",
+        "The sea avatars and the sky avatars",
+        "The animal avatars and the fully human avatars",
+        "The warrior and the sage avatars"
+      ],
+      "answer": 2,
+      "explanation": "Vamana, the dwarf who became a man, marks Vishnu's passage from animal forms to human avatars."
+    }
+  ]
+}

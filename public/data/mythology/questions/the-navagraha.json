@@ -1,0 +1,395 @@
+{
+  "cardId": "the-navagraha",
+  "questions": [
+    {
+      "id": "the-navagraha-q01",
+      "difficulty": "easy",
+      "q": "In Hindu cosmology, how many planetary deities make up the group known as the Navagraha?",
+      "options": [
+        "Seven",
+        "Nine",
+        "Eleven",
+        "Twelve"
+      ],
+      "answer": 1,
+      "explanation": "The word Navagraha means 'nine grahas', the nine celestial influencers of Hindu astrology."
+    },
+    {
+      "id": "the-navagraha-q02",
+      "difficulty": "easy",
+      "q": "Which of the Navagraha is the Sun deity of Hindu tradition?",
+      "options": [
+        "Chandra",
+        "Mangala",
+        "Surya",
+        "Shani"
+      ],
+      "answer": 2,
+      "explanation": "Surya is the Sun god, the first and foremost of the nine Navagraha."
+    },
+    {
+      "id": "the-navagraha-q03",
+      "difficulty": "easy",
+      "q": "Which of the Navagraha is the Moon deity in Hindu tradition?",
+      "options": [
+        "Surya",
+        "Budha",
+        "Shukra",
+        "Chandra"
+      ],
+      "answer": 3,
+      "explanation": "Chandra is the Moon god, counted among the nine Navagraha."
+    },
+    {
+      "id": "the-navagraha-q04",
+      "difficulty": "easy",
+      "q": "Among the Navagraha, which graha is associated with the planet Mars?",
+      "options": [
+        "Mangala",
+        "Budha",
+        "Brihaspati",
+        "Shukra"
+      ],
+      "answer": 0,
+      "explanation": "Mangala (also called Angaraka or Kuja) is the graha associated with the planet Mars."
+    },
+    {
+      "id": "the-navagraha-q05",
+      "difficulty": "easy",
+      "q": "Which graha among the Navagraha corresponds to the planet Mercury?",
+      "options": [
+        "Shukra",
+        "Budha",
+        "Shani",
+        "Mangala"
+      ],
+      "answer": 1,
+      "explanation": "Budha is the graha identified with the planet Mercury."
+    },
+    {
+      "id": "the-navagraha-q06",
+      "difficulty": "easy",
+      "q": "In the Navagraha, which deity is the guru of the gods and corresponds to the planet Jupiter?",
+      "options": [
+        "Shukra",
+        "Shani",
+        "Brihaspati",
+        "Budha"
+      ],
+      "answer": 2,
+      "explanation": "Brihaspati, preceptor of the devas, is the graha associated with the planet Jupiter."
+    },
+    {
+      "id": "the-navagraha-q07",
+      "difficulty": "easy",
+      "q": "Which graha among the Navagraha is identified with the planet Venus?",
+      "options": [
+        "Brihaspati",
+        "Chandra",
+        "Ketu",
+        "Shukra"
+      ],
+      "answer": 3,
+      "explanation": "Shukra, preceptor of the asuras, is the graha associated with the planet Venus."
+    },
+    {
+      "id": "the-navagraha-q08",
+      "difficulty": "easy",
+      "q": "Which of the Navagraha is the deity of the planet Saturn, known for governing discipline and karma?",
+      "options": [
+        "Shani",
+        "Mangala",
+        "Budha",
+        "Surya"
+      ],
+      "answer": 0,
+      "explanation": "Shani is the graha of Saturn, widely propitiated to soften hardship and the fruits of karma."
+    },
+    {
+      "id": "the-navagraha-q09",
+      "difficulty": "easy",
+      "q": "Among the Navagraha, which two are the shadow-grahas that are not physical planets?",
+      "options": [
+        "Surya and Chandra",
+        "Rahu and Ketu",
+        "Mangala and Budha",
+        "Shukra and Shani"
+      ],
+      "answer": 1,
+      "explanation": "Rahu and Ketu are the shadow-grahas, representing the lunar nodes rather than visible planets."
+    },
+    {
+      "id": "the-navagraha-q10",
+      "difficulty": "easy",
+      "q": "For what purpose are the Navagraha commonly propitiated together in Hindu temples?",
+      "options": [
+        "To bring rainfall",
+        "To win battles",
+        "To ward off misfortune",
+        "To grant immortality"
+      ],
+      "answer": 2,
+      "explanation": "The nine grahas are worshipped collectively to ward off misfortune and ill effects on one's destiny."
+    },
+    {
+      "id": "the-navagraha-q11",
+      "difficulty": "medium",
+      "q": "According to the Puranas, which serpent-demon's severed head became the graha Rahu after he drank the nectar of immortality?",
+      "options": [
+        "Vasuki",
+        "Takshaka",
+        "Kaliya",
+        "Svarbhanu"
+      ],
+      "answer": 3,
+      "explanation": "The asura Svarbhanu, decapitated by Vishnu, became Rahu (the head) and Ketu (the body) among the grahas."
+    },
+    {
+      "id": "the-navagraha-q12",
+      "difficulty": "medium",
+      "q": "In the legend of the Navagraha, which two grahas exposed the disguised asura who stole the amrita, leading to his beheading?",
+      "options": [
+        "Surya and Chandra",
+        "Mangala and Shani",
+        "Budha and Shukra",
+        "Brihaspati and Ketu"
+      ],
+      "answer": 0,
+      "explanation": "Surya (Sun) and Chandra (Moon) revealed Svarbhanu's disguise, which is why Rahu eternally pursues them, causing eclipses."
+    },
+    {
+      "id": "the-navagraha-q13",
+      "difficulty": "medium",
+      "q": "Which weekday of the Hindu week is named for and ruled by Surya, the Sun graha?",
+      "options": [
+        "Monday",
+        "Sunday",
+        "Saturday",
+        "Tuesday"
+      ],
+      "answer": 1,
+      "explanation": "Sunday (Ravivara) is governed by Surya, the Sun, the first of the seven planetary weekdays."
+    },
+    {
+      "id": "the-navagraha-q14",
+      "difficulty": "medium",
+      "q": "According to tradition, which graha rules Saturday, the weekday associated with discipline and patience?",
+      "options": [
+        "Mangala",
+        "Brihaspati",
+        "Shani",
+        "Chandra"
+      ],
+      "answer": 2,
+      "explanation": "Saturday (Shanivara) is ruled by Shani, the graha of Saturn."
+    },
+    {
+      "id": "the-navagraha-q15",
+      "difficulty": "medium",
+      "q": "In Hindu iconography, what vahana (mount or vehicle) is the Sun graha Surya most often depicted riding across the sky?",
+      "options": [
+        "A swan",
+        "A white elephant",
+        "A peacock",
+        "A chariot drawn by seven horses"
+      ],
+      "answer": 3,
+      "explanation": "Surya is depicted riding a chariot drawn by seven horses, often guided by his charioteer Aruna."
+    },
+    {
+      "id": "the-navagraha-q16",
+      "difficulty": "medium",
+      "q": "According to Hindu lore, who is the father of Shani, the graha of Saturn?",
+      "options": [
+        "Surya",
+        "Chandra",
+        "Brihaspati",
+        "Mangala"
+      ],
+      "answer": 0,
+      "explanation": "Shani is traditionally regarded as a son of Surya (the Sun) and his wife Chhaya."
+    },
+    {
+      "id": "the-navagraha-q17",
+      "difficulty": "medium",
+      "q": "In Hindu tradition, which graha is honoured as the preceptor (guru) of the asuras and master of the science of revival?",
+      "options": [
+        "Brihaspati",
+        "Shukra",
+        "Budha",
+        "Shani"
+      ],
+      "answer": 1,
+      "explanation": "Shukra is the guru of the asuras and is said to possess the Sanjivani knowledge of reviving the dead."
+    },
+    {
+      "id": "the-navagraha-q18",
+      "difficulty": "medium",
+      "q": "According to the Puranas, which graha serves as the divine preceptor and counsellor of the devas?",
+      "options": [
+        "Shukra",
+        "Budha",
+        "Brihaspati",
+        "Ketu"
+      ],
+      "answer": 2,
+      "explanation": "Brihaspati is the guru of the devas, embodying wisdom and counsel, and rules the planet Jupiter."
+    },
+    {
+      "id": "the-navagraha-q19",
+      "difficulty": "medium",
+      "q": "Which celestial phenomenon do the Puranas attribute to Rahu and Ketu swallowing the Sun or Moon?",
+      "options": [
+        "Comets",
+        "Thunderstorms",
+        "Earthquakes",
+        "Eclipses"
+      ],
+      "answer": 3,
+      "explanation": "Eclipses are explained as Rahu (or Ketu) seizing the Sun or Moon in revenge for exposing the asura at the churning of the ocean."
+    },
+    {
+      "id": "the-navagraha-q20",
+      "difficulty": "medium",
+      "q": "In which great cosmic episode of the Puranas does the legend of Rahu and Ketu's origin take place?",
+      "options": [
+        "The Samudra Manthana (churning of the ocean)",
+        "The Mahabharata war",
+        "The burning of Tripura",
+        "The descent of the Ganga"
+      ],
+      "answer": 0,
+      "explanation": "Rahu and Ketu arose during the Samudra Manthana, when the asura Svarbhanu stole the nectar of immortality."
+    },
+    {
+      "id": "the-navagraha-q21",
+      "difficulty": "medium",
+      "q": "Which day of the week is traditionally ruled by Chandra, the Moon graha?",
+      "options": [
+        "Friday",
+        "Monday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "answer": 1,
+      "explanation": "Monday (Somavara) takes its name from Soma, another name for Chandra, the Moon."
+    },
+    {
+      "id": "the-navagraha-q22",
+      "difficulty": "medium",
+      "q": "In the Navagraha, which graha is regarded as the son of Chandra (the Moon) and rules the planet Mercury?",
+      "options": [
+        "Shukra",
+        "Mangala",
+        "Budha",
+        "Shani"
+      ],
+      "answer": 2,
+      "explanation": "Budha, the graha of Mercury, is described in the Puranas as the son of Chandra."
+    },
+    {
+      "id": "the-navagraha-q23",
+      "difficulty": "hard",
+      "q": "In Navagraha iconography, on which color body and mount is the fierce graha Mangala (Mars) typically depicted?",
+      "options": [
+        "A white body riding a swan",
+        "A blue body riding a vulture",
+        "A golden body riding a lion",
+        "A red body riding a ram"
+      ],
+      "answer": 3,
+      "explanation": "Mangala is depicted with a red complexion, fitting Mars, and is often shown riding a ram."
+    },
+    {
+      "id": "the-navagraha-q24",
+      "difficulty": "hard",
+      "q": "According to Hindu tradition, which creature is named as a vahana commonly associated with Shani, the graha of Saturn?",
+      "options": [
+        "A crow (or vulture)",
+        "A peacock",
+        "A swan",
+        "A white horse"
+      ],
+      "answer": 0,
+      "explanation": "Shani is traditionally associated with dark mounts such as the crow or vulture, in keeping with his somber nature."
+    },
+    {
+      "id": "the-navagraha-q25",
+      "difficulty": "hard",
+      "q": "In Navagraha temple arrangements, the grahas are placed in a square grid in which the central, governing position is occupied by which deity?",
+      "options": [
+        "Shani",
+        "Surya",
+        "Brihaspati",
+        "Rahu"
+      ],
+      "answer": 1,
+      "explanation": "In the traditional Navagraha shrine layout, Surya the Sun stands at the center with the other eight arranged around him."
+    },
+    {
+      "id": "the-navagraha-q26",
+      "difficulty": "hard",
+      "q": "In Hindu astrology, the dreaded period when Shani transits the houses around one's moon sign is known by what name?",
+      "options": [
+        "Rahu Kala",
+        "Pradosha",
+        "Sade Sati",
+        "Antardasha"
+      ],
+      "answer": 2,
+      "explanation": "Sade Sati is the roughly seven-and-a-half-year transit of Shani held to bring trials, prompting his propitiation."
+    },
+    {
+      "id": "the-navagraha-q27",
+      "difficulty": "hard",
+      "q": "Among the Navagraha, Ketu is iconographically represented with the body of which creature, reflecting his origin from the severed asura?",
+      "options": [
+        "A horse",
+        "An elephant",
+        "A lion",
+        "A serpent (the tail)"
+      ],
+      "answer": 3,
+      "explanation": "Ketu, formed from the lower body of Svarbhanu, is depicted as the serpent's tail, while Rahu is the head."
+    },
+    {
+      "id": "the-navagraha-q28",
+      "difficulty": "hard",
+      "q": "In Navagraha iconography, which golden-hued graha, guru of the devas, is most often shown riding a chariot drawn by horses and holding a rosary and book?",
+      "options": [
+        "Brihaspati",
+        "Mangala",
+        "Shani",
+        "Budha"
+      ],
+      "answer": 0,
+      "explanation": "Brihaspati, the Jupiter graha and preceptor of the devas, is depicted golden-hued, riding a chariot drawn by horses and bearing a rosary and a book of sacred knowledge."
+    },
+    {
+      "id": "the-navagraha-q29",
+      "difficulty": "hard",
+      "q": "In Hindu astronomy, which of the Navagraha is identified with the ascending (north) lunar node, the point where the Moon's path crosses the ecliptic going north?",
+      "options": [
+        "Shukra",
+        "Rahu",
+        "Chandra",
+        "Budha"
+      ],
+      "answer": 1,
+      "explanation": "Rahu is the chaya-graha associated with the ascending (north) lunar node, while Ketu corresponds to the descending (south) node."
+    },
+    {
+      "id": "the-navagraha-q30",
+      "difficulty": "hard",
+      "q": "In the Surya iconography of the Navagraha, which deity is named as the charioteer who drives the Sun's chariot and is depicted without lower limbs?",
+      "options": [
+        "Garuda",
+        "Vishvakarma",
+        "Aruna",
+        "Daksha"
+      ],
+      "answer": 2,
+      "explanation": "Aruna, the elder brother of Garuda, serves as the charioteer of Surya and is described as having no lower limbs."
+    }
+  ]
+}

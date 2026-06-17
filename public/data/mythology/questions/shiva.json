@@ -1,0 +1,395 @@
+{
+  "cardId": "shiva",
+  "questions": [
+    {
+      "id": "shiva-q01",
+      "difficulty": "easy",
+      "q": "Within the Trimurti of Hindu tradition, what cosmic function is Shiva chiefly associated with?",
+      "options": [
+        "Creation",
+        "Preservation",
+        "Destruction and dissolution",
+        "Recording deeds"
+      ],
+      "answer": 2,
+      "explanation": "In the Trimurti, Shiva is the destroyer and transformer whose dissolution makes renewal possible, alongside Brahma the creator and Vishnu the preserver."
+    },
+    {
+      "id": "shiva-q02",
+      "difficulty": "easy",
+      "q": "Which mountain is described in the Puranas as the abode of Shiva?",
+      "options": [
+        "Mount Meru",
+        "Mount Govardhana",
+        "Mount Mandara",
+        "Mount Kailash"
+      ],
+      "answer": 3,
+      "explanation": "The Puranas place Shiva as the great ascetic dwelling upon Mount Kailash."
+    },
+    {
+      "id": "shiva-q03",
+      "difficulty": "easy",
+      "q": "What is the name of the bull that serves as Shiva's vahana (mount)?",
+      "options": [
+        "Nandi",
+        "Garuda",
+        "Airavata",
+        "Uchchaihshravas"
+      ],
+      "answer": 0,
+      "explanation": "Shiva's vahana is the bull Nandi, who is also revered as his devoted attendant."
+    },
+    {
+      "id": "shiva-q04",
+      "difficulty": "easy",
+      "q": "Who is named in the Puranas as the consort of Shiva?",
+      "options": [
+        "Lakshmi",
+        "Parvati",
+        "Saraswati",
+        "Sita"
+      ],
+      "answer": 1,
+      "explanation": "Shiva's consort is the goddess Parvati, daughter of the mountain king Himavan."
+    },
+    {
+      "id": "shiva-q05",
+      "difficulty": "easy",
+      "q": "Which three-pronged weapon is the chief emblem carried by Shiva?",
+      "options": [
+        "The sudarshana chakra",
+        "The vajra",
+        "The trishula (trident)",
+        "The gada (mace)"
+      ],
+      "answer": 2,
+      "explanation": "Shiva is depicted bearing the trishula, the three-pronged trident that is his signature weapon."
+    },
+    {
+      "id": "shiva-q06",
+      "difficulty": "easy",
+      "q": "What distinctive feature appears on Shiva's forehead in his iconography?",
+      "options": [
+        "A golden crown",
+        "A diamond tilaka",
+        "A peacock feather",
+        "A third eye"
+      ],
+      "answer": 3,
+      "explanation": "Shiva is portrayed with a third eye of fire upon his forehead, capable of burning what it gazes upon."
+    },
+    {
+      "id": "shiva-q07",
+      "difficulty": "easy",
+      "q": "Which celestial object is shown resting in Shiva's matted locks?",
+      "options": [
+        "The crescent moon",
+        "The sun",
+        "A comet",
+        "A cluster of stars"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas describe the crescent moon adorning Shiva's matted hair, earning him the name Chandrashekhara."
+    },
+    {
+      "id": "shiva-q08",
+      "difficulty": "easy",
+      "q": "Which sacred river is said to flow from Shiva's matted hair?",
+      "options": [
+        "The Yamuna",
+        "The Ganga",
+        "The Saraswati",
+        "The Godavari"
+      ],
+      "answer": 1,
+      "explanation": "Shiva caught the descending Ganga in his locks to break her fall to earth, and the river is said to flow from his hair."
+    },
+    {
+      "id": "shiva-q09",
+      "difficulty": "easy",
+      "q": "Which small two-headed drum is held by Shiva in his iconography?",
+      "options": [
+        "The mridanga",
+        "The tabla",
+        "The damaru",
+        "The dhol"
+      ],
+      "answer": 2,
+      "explanation": "Shiva holds the damaru, an hourglass-shaped drum whose beat is associated with the rhythm of creation."
+    },
+    {
+      "id": "shiva-q10",
+      "difficulty": "easy",
+      "q": "In aniconic worship, by what abstract form is Shiva commonly venerated?",
+      "options": [
+        "The chakra",
+        "The conch",
+        "The lotus",
+        "The lingam"
+      ],
+      "answer": 3,
+      "explanation": "Shiva is widely worshipped aniconically as the lingam, a symbol of his formless, generative presence."
+    },
+    {
+      "id": "shiva-q11",
+      "difficulty": "medium",
+      "q": "According to the Puranas, which serpent coils about Shiva's throat or neck?",
+      "options": [
+        "Vasuki",
+        "Shesha",
+        "Takshaka",
+        "Kaliya"
+      ],
+      "answer": 0,
+      "explanation": "The serpent Vasuki is described coiled at Shiva's throat as an ornament."
+    },
+    {
+      "id": "shiva-q12",
+      "difficulty": "medium",
+      "q": "In the cosmic dance, by what name is Shiva worshipped as the Lord of the Dance?",
+      "options": [
+        "Mahakala",
+        "Nataraja",
+        "Bhairava",
+        "Pashupati"
+      ],
+      "answer": 1,
+      "explanation": "As Nataraja, Shiva performs the cosmic dance of creation and dissolution within a ring of flames."
+    },
+    {
+      "id": "shiva-q13",
+      "difficulty": "medium",
+      "q": "After the churning of the ocean (samudra manthana), what did Shiva consume to save the worlds?",
+      "options": [
+        "The nectar of immortality",
+        "The wish-fulfilling Kamadhenu",
+        "The Halahala poison",
+        "The Kaustubha jewel"
+      ],
+      "answer": 2,
+      "explanation": "Shiva drank the deadly Halahala poison that arose from the churning, holding it in his throat to protect creation."
+    },
+    {
+      "id": "shiva-q14",
+      "difficulty": "medium",
+      "q": "Because he held the churning-poison in his throat, by what blue-throated epithet is Shiva known?",
+      "options": [
+        "Gangadhara",
+        "Tryambaka",
+        "Digambara",
+        "Nilakantha"
+      ],
+      "answer": 3,
+      "explanation": "The retained Halahala poison turned Shiva's throat blue, giving him the name Nilakantha, the blue-throated one."
+    },
+    {
+      "id": "shiva-q15",
+      "difficulty": "medium",
+      "q": "Whom did Shiva burn to ashes with his third eye when his meditation was disturbed?",
+      "options": [
+        "Kamadeva, the god of love",
+        "Yama, the god of death",
+        "Indra, the king of the gods",
+        "Surya, the sun god"
+      ],
+      "answer": 0,
+      "explanation": "When Kamadeva shot an arrow of desire to rouse Shiva, the angered ascetic burned him to ashes with his third eye."
+    },
+    {
+      "id": "shiva-q16",
+      "difficulty": "medium",
+      "q": "Which two sons are most commonly named as the children of Shiva and Parvati in the Puranas?",
+      "options": [
+        "Hanuman and Sugriva",
+        "Kartikeya and Ganesha",
+        "Indra and Agni",
+        "Nakula and Sahadeva"
+      ],
+      "answer": 1,
+      "explanation": "The Puranas name Kartikeya (Skanda) and Ganesha as the sons of Shiva and Parvati."
+    },
+    {
+      "id": "shiva-q17",
+      "difficulty": "medium",
+      "q": "In the Ramayana, which devotee of Shiva lifted Mount Kailash and was subdued by the pressure of Shiva's toe?",
+      "options": [
+        "Vali",
+        "Kumbhakarna",
+        "Ravana",
+        "Indrajit"
+      ],
+      "answer": 2,
+      "explanation": "The Ramayana tells that Ravana, a great devotee of Shiva, tried to lift Kailash and was pinned when Shiva pressed it down with his toe."
+    },
+    {
+      "id": "shiva-q18",
+      "difficulty": "medium",
+      "q": "The hymn of praise that Ravana composed for Shiva while pinned beneath Kailash is traditionally called what?",
+      "options": [
+        "The Vishnu Sahasranama",
+        "The Hanuman Chalisa",
+        "The Gayatri Mantra",
+        "The Shiva Tandava Stotra"
+      ],
+      "answer": 3,
+      "explanation": "Tradition credits Ravana with composing the Shiva Tandava Stotra in praise of Shiva to win his favor."
+    },
+    {
+      "id": "shiva-q19",
+      "difficulty": "medium",
+      "q": "Which festival is observed in honor of Shiva, marked by night-long vigil and worship?",
+      "options": [
+        "Maha Shivaratri",
+        "Janmashtami",
+        "Rama Navami",
+        "Navaratri"
+      ],
+      "answer": 0,
+      "explanation": "Maha Shivaratri, the Great Night of Shiva, is observed with fasting and a night-long vigil in his honor."
+    },
+    {
+      "id": "shiva-q20",
+      "difficulty": "medium",
+      "q": "Which great five-syllable mantra is most closely associated with the worship of Shiva?",
+      "options": [
+        "Hare Krishna",
+        "Om Namah Shivaya",
+        "Om Namo Narayanaya",
+        "Om Gam Ganapataye"
+      ],
+      "answer": 1,
+      "explanation": "The Panchakshara mantra Om Namah Shivaya is the foremost mantra dedicated to Shiva."
+    },
+    {
+      "id": "shiva-q21",
+      "difficulty": "medium",
+      "q": "What form did Shiva take when Vishnu's man-lion avatar Narasimha could not be calmed, according to the Puranas?",
+      "options": [
+        "Veerabhadra",
+        "Aghora",
+        "Sharabha",
+        "Hayagriva"
+      ],
+      "answer": 2,
+      "explanation": "The Puranas relate that Shiva took the fierce part-bird, part-beast form of Sharabha to pacify the raging Narasimha."
+    },
+    {
+      "id": "shiva-q22",
+      "difficulty": "medium",
+      "q": "When Daksha insulted Shiva and Sati immolated herself, whom did Shiva create from his matted hair to destroy Daksha's sacrifice?",
+      "options": [
+        "Bhairava",
+        "Andhaka",
+        "Jalandhara",
+        "Veerabhadra"
+      ],
+      "answer": 3,
+      "explanation": "Enraged by Sati's death, Shiva tore a lock of his hair and from it created the fierce warrior Veerabhadra, who destroyed Daksha's yajna."
+    },
+    {
+      "id": "shiva-q23",
+      "difficulty": "hard",
+      "q": "Which Vedic deity, a fierce storm and archer god, is regarded as a precursor and form of Shiva in the hymns of the Rigveda?",
+      "options": [
+        "Rudra",
+        "Varuna",
+        "Mitra",
+        "Pushan"
+      ],
+      "answer": 0,
+      "explanation": "The Rigveda hymns to the fierce archer Rudra are seen as an early form of Shiva, and Rudra remains one of his names."
+    },
+    {
+      "id": "shiva-q24",
+      "difficulty": "hard",
+      "q": "By what name, meaning 'Lord of the Animals' or of all living beings, is Shiva venerated in the Shvetashvatara Upanishad and the Puranas?",
+      "options": [
+        "Mahadeva",
+        "Pashupati",
+        "Vishvanatha",
+        "Shankara"
+      ],
+      "answer": 1,
+      "explanation": "Shiva is venerated as Pashupati, the Lord of Animals or of all living beings, a name carried over from the Vedic Rudra."
+    },
+    {
+      "id": "shiva-q25",
+      "difficulty": "hard",
+      "q": "In the legend of the lingam of fire, which two gods sought in vain to find the ends of Shiva's blazing pillar of light?",
+      "options": [
+        "Indra and Agni",
+        "Surya and Chandra",
+        "Brahma and Vishnu",
+        "Yama and Kubera"
+      ],
+      "answer": 2,
+      "explanation": "In the lingodbhava legend, Brahma and Vishnu searched upward and downward but could not find the ends of Shiva's infinite pillar of fire."
+    },
+    {
+      "id": "shiva-q26",
+      "difficulty": "hard",
+      "q": "In the half-male, half-female form that unites Shiva with his consort, by what name is this composite deity known?",
+      "options": [
+        "Harihara",
+        "Dakshinamurti",
+        "Lingodbhava",
+        "Ardhanarishvara"
+      ],
+      "answer": 3,
+      "explanation": "Ardhanarishvara is the form in which Shiva and Parvati are joined as one body, half male and half female."
+    },
+    {
+      "id": "shiva-q27",
+      "difficulty": "hard",
+      "q": "When the gods sought the destruction of the three flying cities of the asuras, what title did Shiva earn as their destroyer?",
+      "options": [
+        "Tripurantaka",
+        "Gajasamhara",
+        "Kalantaka",
+        "Andhakantaka"
+      ],
+      "answer": 0,
+      "explanation": "Shiva burned the three demon cities (Tripura) with a single arrow and is thus honored as Tripurantaka."
+    },
+    {
+      "id": "shiva-q28",
+      "difficulty": "hard",
+      "q": "Which formidable bow of Shiva did Rama break at Sita's swayamvara in the Ramayana?",
+      "options": [
+        "Sharanga",
+        "Pinaka",
+        "Gandiva",
+        "Vijaya"
+      ],
+      "answer": 1,
+      "explanation": "Rama strung and broke Shiva's mighty bow Pinaka to win the hand of Sita at Janaka's court."
+    },
+    {
+      "id": "shiva-q29",
+      "difficulty": "hard",
+      "q": "Facing south as the silent teacher of yoga and wisdom beneath a banyan tree, by what aspect is Shiva known?",
+      "options": [
+        "Bhairava",
+        "Mahakala",
+        "Dakshinamurti",
+        "Natesha"
+      ],
+      "answer": 2,
+      "explanation": "As Dakshinamurti, Shiva is the south-facing supreme guru who imparts knowledge through silence."
+    },
+    {
+      "id": "shiva-q30",
+      "difficulty": "hard",
+      "q": "When Markandeya clung to the lingam in devotion, whom did Shiva conquer to save the boy, earning the title Kalantaka?",
+      "options": [
+        "Mara, the tempter",
+        "Vritra, the drought serpent",
+        "Hiranyakashipu, the demon king",
+        "Yama, the lord of death"
+      ],
+      "answer": 3,
+      "explanation": "When Yama came to claim the young devotee Markandeya, Shiva burst from the lingam and overcame death itself, earning the name Kalantaka."
+    }
+  ]
+}

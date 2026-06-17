@@ -1,0 +1,395 @@
+{
+  "cardId": "sita",
+  "questions": [
+    {
+      "id": "sita-q01",
+      "difficulty": "easy",
+      "q": "In the Ramayana, who is the husband of Sita?",
+      "options": [
+        "Lakshmana",
+        "Bharata",
+        "Hanuman",
+        "Rama"
+      ],
+      "answer": 3,
+      "explanation": "Sita is the devoted consort of Rama, the prince of Ayodhya, in the Ramayana."
+    },
+    {
+      "id": "sita-q02",
+      "difficulty": "easy",
+      "q": "Which king of Mithila raised Sita as his daughter?",
+      "options": [
+        "Janaka",
+        "Dasharatha",
+        "Janamejaya",
+        "Sugriva"
+      ],
+      "answer": 0,
+      "explanation": "Sita was raised by King Janaka of Mithila, and so she is often called Janaki."
+    },
+    {
+      "id": "sita-q03",
+      "difficulty": "easy",
+      "q": "According to the Ramayana, how was the infant Sita first found?",
+      "options": [
+        "Floating on a river",
+        "In a furrow of the earth while ploughing",
+        "Inside a lotus flower",
+        "In a forest hermitage"
+      ],
+      "answer": 1,
+      "explanation": "Sita was discovered by King Janaka in a furrow of the field as he ploughed the earth, which is why she is called the daughter of the Earth."
+    },
+    {
+      "id": "sita-q04",
+      "difficulty": "easy",
+      "q": "Sita is honored in tradition as an incarnation of which goddess?",
+      "options": [
+        "Saraswati",
+        "Parvati",
+        "Lakshmi",
+        "Durga"
+      ],
+      "answer": 2,
+      "explanation": "Sita is revered as an incarnation of the goddess Lakshmi, the eternal consort of Vishnu."
+    },
+    {
+      "id": "sita-q05",
+      "difficulty": "easy",
+      "q": "In the Ramayana, which king of Lanka abducts Sita and carries her away?",
+      "options": [
+        "Kumbhakarna",
+        "Vali",
+        "Mahishasura",
+        "Ravana"
+      ],
+      "answer": 3,
+      "explanation": "Sita is abducted by Ravana, the ten-headed king of Lanka, in the Ramayana."
+    },
+    {
+      "id": "sita-q06",
+      "difficulty": "easy",
+      "q": "To which island kingdom is Sita taken after her abduction in the Ramayana?",
+      "options": [
+        "Lanka",
+        "Kishkindha",
+        "Mithila",
+        "Ayodhya"
+      ],
+      "answer": 0,
+      "explanation": "Sita is held captive in Ravana's kingdom of Lanka in the Ramayana."
+    },
+    {
+      "id": "sita-q07",
+      "difficulty": "easy",
+      "q": "Which devotee of Rama leaps across the ocean to Lanka and first finds Sita in captivity?",
+      "options": [
+        "Sugriva",
+        "Hanuman",
+        "Jatayu",
+        "Angada"
+      ],
+      "answer": 1,
+      "explanation": "Hanuman leaps across the ocean to Lanka and discovers Sita in the Ashoka grove."
+    },
+    {
+      "id": "sita-q08",
+      "difficulty": "easy",
+      "q": "Sita is the central female figure of which great Sanskrit epic?",
+      "options": [
+        "The Mahabharata",
+        "The Bhagavata Purana",
+        "The Ramayana",
+        "The Harivamsha"
+      ],
+      "answer": 2,
+      "explanation": "Sita is the heroine of the Ramayana, the epic traditionally attributed to the sage Valmiki."
+    },
+    {
+      "id": "sita-q09",
+      "difficulty": "easy",
+      "q": "When Rama is exiled to the forest, what does Sita choose to do in the Ramayana?",
+      "options": [
+        "Remain in Ayodhya",
+        "Return to Mithila",
+        "Join a hermitage alone",
+        "Follow Rama into exile"
+      ],
+      "answer": 3,
+      "explanation": "Out of devotion, Sita chooses to follow Rama into his fourteen-year forest exile rather than stay behind in comfort."
+    },
+    {
+      "id": "sita-q10",
+      "difficulty": "easy",
+      "q": "In the Ramayana, which brother of Rama accompanies Rama and Sita into the forest exile?",
+      "options": [
+        "Lakshmana",
+        "Bharata",
+        "Shatrughna",
+        "Vibhishana"
+      ],
+      "answer": 0,
+      "explanation": "Lakshmana, Rama's devoted younger brother, accompanies Rama and Sita throughout their exile."
+    },
+    {
+      "id": "sita-q11",
+      "difficulty": "medium",
+      "q": "Because she was raised by King Janaka, by what patronymic name is Sita commonly known?",
+      "options": [
+        "Kaushalya",
+        "Janaki",
+        "Gandhari",
+        "Sumitra"
+      ],
+      "answer": 1,
+      "explanation": "Sita is widely called Janaki, meaning the daughter of Janaka."
+    },
+    {
+      "id": "sita-q12",
+      "difficulty": "medium",
+      "q": "Sita is also called Maithili because she is associated with which kingdom?",
+      "options": [
+        "Magadha",
+        "Kosala",
+        "Mithila",
+        "Kashi"
+      ],
+      "answer": 2,
+      "explanation": "The name Maithili refers to Sita as the princess of Mithila, the realm of King Janaka."
+    },
+    {
+      "id": "sita-q13",
+      "difficulty": "medium",
+      "q": "In the Ramayana, how does Rama win the hand of Sita at the swayamvara in Mithila?",
+      "options": [
+        "By winning a chariot race",
+        "By solving a riddle",
+        "By defeating Janaka in single combat",
+        "By lifting and stringing Shiva's mighty bow"
+      ],
+      "answer": 3,
+      "explanation": "Rama wins Sita by lifting and stringing the great bow of Shiva, a feat no other suitor could accomplish."
+    },
+    {
+      "id": "sita-q14",
+      "difficulty": "medium",
+      "q": "The bow that Rama lifts to win Sita in the Ramayana belonged to which deity?",
+      "options": [
+        "Shiva",
+        "Vishnu",
+        "Indra",
+        "Varuna"
+      ],
+      "answer": 0,
+      "explanation": "The great bow that Rama strings to win Sita is the celebrated bow of Shiva kept in Janaka's court."
+    },
+    {
+      "id": "sita-q15",
+      "difficulty": "medium",
+      "q": "In the Ramayana, what golden creature does Sita long for, leading to Rama's pursuit and her abduction?",
+      "options": [
+        "A golden peacock",
+        "A golden deer",
+        "A golden swan",
+        "A golden serpent"
+      ],
+      "answer": 1,
+      "explanation": "Sita is enchanted by a golden deer, the demon Maricha in disguise, whose pursuit by Rama allows Ravana to abduct her."
+    },
+    {
+      "id": "sita-q16",
+      "difficulty": "medium",
+      "q": "Which demon disguises himself as the golden deer that lures Rama away from Sita?",
+      "options": [
+        "Khara",
+        "Indrajit",
+        "Maricha",
+        "Subahu"
+      ],
+      "answer": 2,
+      "explanation": "The demon Maricha takes the form of the golden deer to deceive Sita and draw Rama away in the Ramayana."
+    },
+    {
+      "id": "sita-q17",
+      "difficulty": "medium",
+      "q": "In which grove of Lanka is Sita held captive by Ravana in the Ramayana?",
+      "options": [
+        "The Nandana grove",
+        "The Kadamba grove",
+        "The Panchavati grove",
+        "The Ashoka grove"
+      ],
+      "answer": 3,
+      "explanation": "Sita is kept under guard in the Ashoka grove (Ashoka Vatika) within Ravana's Lanka."
+    },
+    {
+      "id": "sita-q18",
+      "difficulty": "medium",
+      "q": "What token does Hanuman carry from Rama to assure Sita of his identity in Lanka?",
+      "options": [
+        "Rama's signet ring",
+        "Rama's bow",
+        "Rama's sandals",
+        "Rama's crown"
+      ],
+      "answer": 0,
+      "explanation": "Hanuman shows Sita Rama's signet ring as a sign that he is truly Rama's messenger."
+    },
+    {
+      "id": "sita-q19",
+      "difficulty": "medium",
+      "q": "After Ravana is defeated, what ordeal does Sita undergo to affirm her purity in the Ramayana?",
+      "options": [
+        "A trial by water",
+        "The fire ordeal (Agni Pariksha)",
+        "A trial of fasting",
+        "A trial by combat"
+      ],
+      "answer": 1,
+      "explanation": "Sita undergoes the Agni Pariksha, an ordeal by fire, from which she emerges unharmed, affirming her constancy."
+    },
+    {
+      "id": "sita-q20",
+      "difficulty": "medium",
+      "q": "Which fire-god, invoked during Sita's ordeal in the Ramayana, attests to her purity?",
+      "options": [
+        "Vayu",
+        "Varuna",
+        "Agni",
+        "Surya"
+      ],
+      "answer": 2,
+      "explanation": "Agni, the god of fire, bears witness to Sita's purity during the fire ordeal in the Ramayana."
+    },
+    {
+      "id": "sita-q21",
+      "difficulty": "medium",
+      "q": "In the Ramayana, Sita is traditionally regarded as the daughter of which goddess, to whom she finally returns?",
+      "options": [
+        "The river goddess Ganga",
+        "The goddess Saraswati",
+        "The goddess Aditi",
+        "The goddess Earth (Bhudevi)"
+      ],
+      "answer": 3,
+      "explanation": "Sita is regarded as the daughter of the goddess Earth, Bhudevi, having arisen from the furrow, and the Ramayana relates that she finally returns to her."
+    },
+    {
+      "id": "sita-q22",
+      "difficulty": "medium",
+      "q": "In which forest settlement do Rama, Sita, and Lakshmana dwell, from where Sita is later abducted?",
+      "options": [
+        "Panchavati",
+        "Naimisha",
+        "Khandava",
+        "Vrindavan"
+      ],
+      "answer": 0,
+      "explanation": "Sita is abducted from the hermitage at Panchavati in the Dandaka forest where the three were dwelling."
+    },
+    {
+      "id": "sita-q23",
+      "difficulty": "hard",
+      "q": "In the Ramayana, who are the twin sons born to Sita during her later forest dwelling?",
+      "options": [
+        "Nakula and Sahadeva",
+        "Lava and Kusha",
+        "Luv and Bharata",
+        "Vali and Sugriva"
+      ],
+      "answer": 1,
+      "explanation": "Sita gives birth to the twins Lava and Kusha in the hermitage of the sage Valmiki."
+    },
+    {
+      "id": "sita-q24",
+      "difficulty": "hard",
+      "q": "In whose hermitage does Sita take refuge and raise her twin sons in the later Ramayana?",
+      "options": [
+        "Sage Agastya",
+        "Sage Vasishtha",
+        "Sage Valmiki",
+        "Sage Vishvamitra"
+      ],
+      "answer": 2,
+      "explanation": "Sita dwells in the hermitage of the sage Valmiki, who is traditionally regarded as the author of the Ramayana."
+    },
+    {
+      "id": "sita-q25",
+      "difficulty": "hard",
+      "q": "In the Ramayana, which aged vulture-king tries to rescue Sita as Ravana carries her away?",
+      "options": [
+        "Sampati",
+        "Garuda",
+        "Kakasura",
+        "Jatayu"
+      ],
+      "answer": 3,
+      "explanation": "The noble vulture Jatayu fights Ravana to save Sita and is mortally wounded in the attempt."
+    },
+    {
+      "id": "sita-q26",
+      "difficulty": "hard",
+      "q": "What is the name of the rakshasi in the Ashoka grove who comforts Sita and recounts a dream foretelling Ravana's fall?",
+      "options": [
+        "Trijata",
+        "Surpanakha",
+        "Tataka",
+        "Simhika"
+      ],
+      "answer": 0,
+      "explanation": "Trijata, a rakshasi in the Ashoka grove, is sympathetic to Sita and recounts a dream foretelling Ravana's fall."
+    },
+    {
+      "id": "sita-q27",
+      "difficulty": "hard",
+      "q": "Ravana's chief queen, who pleads with him to return Sita, is named whom?",
+      "options": [
+        "Tara",
+        "Mandodari",
+        "Ruma",
+        "Sulochana"
+      ],
+      "answer": 1,
+      "explanation": "Mandodari, the chief queen of Ravana, urges her husband to return Sita to Rama in the Ramayana."
+    },
+    {
+      "id": "sita-q28",
+      "difficulty": "hard",
+      "q": "Because she arose from the earth and not from a human womb, Sita is described by which term?",
+      "options": [
+        "Born of fire",
+        "Born of water",
+        "Ayonija, not born of a womb",
+        "Born of the wind"
+      ],
+      "answer": 2,
+      "explanation": "Sita is called ayonija, one not born from a womb, since she arose from a furrow of the earth."
+    },
+    {
+      "id": "sita-q29",
+      "difficulty": "hard",
+      "q": "In the popular Ramayana tradition, the protective boundary Lakshmana draws around Sita's dwelling is known as what?",
+      "options": [
+        "The Rama Setu",
+        "The Agni Rekha",
+        "The Sita Kund",
+        "The Lakshmana Rekha"
+      ],
+      "answer": 3,
+      "explanation": "In the popular tradition, the protective line drawn by Lakshmana for Sita's safety is called the Lakshmana Rekha."
+    },
+    {
+      "id": "sita-q30",
+      "difficulty": "hard",
+      "q": "Sita is venerated as the embodiment of which qualities in the Ramayana tradition?",
+      "options": [
+        "Devotion and constancy",
+        "Wealth and cunning",
+        "Wrath and warfare",
+        "Ambition and conquest"
+      ],
+      "answer": 0,
+      "explanation": "Sita is honored as the embodiment of devotion, constancy, and steadfast virtue throughout the Ramayana tradition."
+    }
+  ]
+}

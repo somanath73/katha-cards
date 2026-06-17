@@ -1,0 +1,395 @@
+{
+  "cardId": "varaha",
+  "questions": [
+    {
+      "id": "varaha-q01",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, the avatar Varaha of Vishnu takes the form of which animal?",
+      "options": [
+        "A tortoise",
+        "A lion",
+        "A fish",
+        "A boar"
+      ],
+      "answer": 3,
+      "explanation": "Varaha is the boar avatar of Vishnu, his name meaning 'boar' in Sanskrit."
+    },
+    {
+      "id": "varaha-q02",
+      "difficulty": "easy",
+      "q": "Of which deity is Varaha considered an avatar (incarnation)?",
+      "options": [
+        "Vishnu",
+        "Shiva",
+        "Indra",
+        "Brahma"
+      ],
+      "answer": 0,
+      "explanation": "Varaha is counted among the dashavatara, the ten principal incarnations of Lord Vishnu."
+    },
+    {
+      "id": "varaha-q03",
+      "difficulty": "easy",
+      "q": "In the Varaha episode, what does the boar avatar rescue from the cosmic waters?",
+      "options": [
+        "The moon",
+        "The earth",
+        "The nectar of immortality",
+        "The sun"
+      ],
+      "answer": 1,
+      "explanation": "Varaha dives into the cosmic ocean to rescue the earth, which had been dragged into the depths."
+    },
+    {
+      "id": "varaha-q04",
+      "difficulty": "easy",
+      "q": "In the Puranas, the earth that Varaha rescues is personified as which goddess?",
+      "options": [
+        "Saraswati",
+        "Parvati",
+        "Bhudevi",
+        "Lakshmi"
+      ],
+      "answer": 2,
+      "explanation": "The earth is personified as the goddess Bhudevi (Bhumi), whom Varaha lifts from the waters."
+    },
+    {
+      "id": "varaha-q05",
+      "difficulty": "easy",
+      "q": "Which demon (asura) does Varaha slay in the Bhagavata Purana account?",
+      "options": [
+        "Mahishasura",
+        "Bali",
+        "Ravana",
+        "Hiranyaksha"
+      ],
+      "answer": 3,
+      "explanation": "Varaha slays the asura Hiranyaksha, who had carried the earth down into the cosmic ocean."
+    },
+    {
+      "id": "varaha-q06",
+      "difficulty": "easy",
+      "q": "How does Varaha famously raise the earth back to its place?",
+      "options": [
+        "With his tusks",
+        "With a discus",
+        "With a bow",
+        "With a chariot"
+      ],
+      "answer": 0,
+      "explanation": "Varaha lifts the earth-goddess out of the waters upon his tusks."
+    },
+    {
+      "id": "varaha-q07",
+      "difficulty": "easy",
+      "q": "As which number among Vishnu's ten avatars is Varaha traditionally counted?",
+      "options": [
+        "The second",
+        "The third",
+        "The first",
+        "The fifth"
+      ],
+      "answer": 1,
+      "explanation": "Varaha is traditionally listed as the third of Vishnu's ten avatars (dashavatara)."
+    },
+    {
+      "id": "varaha-q08",
+      "difficulty": "easy",
+      "q": "In the dashavatara sequence, which avatar of Vishnu immediately precedes Varaha the boar?",
+      "options": [
+        "Vamana the dwarf",
+        "Matsya the fish",
+        "Kurma the tortoise",
+        "Narasimha the man-lion"
+      ],
+      "answer": 2,
+      "explanation": "Kurma the tortoise is the second avatar, coming just before Varaha, the third."
+    },
+    {
+      "id": "varaha-q09",
+      "difficulty": "easy",
+      "q": "Varaha's rescue of the earth chiefly takes place in which setting?",
+      "options": [
+        "The celestial heavens",
+        "A mountain peak",
+        "A forest hermitage",
+        "The cosmic ocean"
+      ],
+      "answer": 3,
+      "explanation": "The episode unfolds in the cosmic waters, into which the earth had been submerged."
+    },
+    {
+      "id": "varaha-q10",
+      "difficulty": "easy",
+      "q": "In the dashavatara list, which fierce avatar of Vishnu follows Varaha the boar?",
+      "options": [
+        "Narasimha the man-lion",
+        "Krishna",
+        "Rama",
+        "Matsya the fish"
+      ],
+      "answer": 0,
+      "explanation": "Narasimha, the man-lion, is the fourth avatar, following Varaha the boar."
+    },
+    {
+      "id": "varaha-q11",
+      "difficulty": "medium",
+      "q": "Which Purana gives the well-known account of Varaha slaying Hiranyaksha and lifting the earth?",
+      "options": [
+        "The Agni Purana",
+        "The Bhagavata Purana",
+        "The Markandeya Purana",
+        "The Garuda Purana"
+      ],
+      "answer": 1,
+      "explanation": "The Bhagavata Purana relates how Varaha slew Hiranyaksha and raised the earth upon his tusks."
+    },
+    {
+      "id": "varaha-q12",
+      "difficulty": "medium",
+      "q": "According to the Puranas, the demon Hiranyaksha slain by Varaha had a brother who was later killed by another avatar. Who was that brother?",
+      "options": [
+        "Bali",
+        "Prahlada",
+        "Hiranyakashipu",
+        "Virochana"
+      ],
+      "answer": 2,
+      "explanation": "Hiranyaksha's brother was Hiranyakashipu, later slain by Vishnu's Narasimha avatar."
+    },
+    {
+      "id": "varaha-q13",
+      "difficulty": "medium",
+      "q": "In the Bhagavata Purana, the demons Hiranyaksha and Hiranyakashipu were born to the sage Kashyapa and which mother?",
+      "options": [
+        "Aditi",
+        "Vinata",
+        "Danu",
+        "Diti"
+      ],
+      "answer": 3,
+      "explanation": "Diti was the mother of the daitya brothers Hiranyaksha and Hiranyakashipu, fathered by sage Kashyapa."
+    },
+    {
+      "id": "varaha-q14",
+      "difficulty": "medium",
+      "q": "In Puranic tradition, Hiranyaksha and Hiranyakashipu, slain by Vishnu's avatars, are said to be a cursed incarnation of which of Vishnu's gatekeepers?",
+      "options": [
+        "Jaya and Vijaya",
+        "Nanda and Sunanda",
+        "Chanda and Prachanda",
+        "Bhadra and Subhadra"
+      ],
+      "answer": 0,
+      "explanation": "The Bhagavata Purana identifies the demon brothers as Jaya and Vijaya, Vishnu's gatekeepers cursed to be born as asuras."
+    },
+    {
+      "id": "varaha-q15",
+      "difficulty": "medium",
+      "q": "In some Puranic accounts, from whose nostril does the tiny boar emerge before swelling to enormous size to rescue the earth?",
+      "options": [
+        "Shiva's",
+        "Brahma's",
+        "Indra's",
+        "Vishnu's"
+      ],
+      "answer": 1,
+      "explanation": "In several accounts the boar springs from the nostril of Brahma the creator, then grows to a colossal form."
+    },
+    {
+      "id": "varaha-q16",
+      "difficulty": "medium",
+      "q": "Which goddess, as Vishnu's consort, is identified with the earth-goddess Bhudevi whom Varaha rescues?",
+      "options": [
+        "Durga",
+        "Ganga",
+        "A form of Lakshmi",
+        "Kali"
+      ],
+      "answer": 2,
+      "explanation": "Bhudevi is regarded as a form of Lakshmi, the consort of Vishnu, in the earth-goddess aspect."
+    },
+    {
+      "id": "varaha-q17",
+      "difficulty": "medium",
+      "q": "In classical iconography, Varaha is most often depicted as which type of figure?",
+      "options": [
+        "A winged serpent",
+        "A multi-armed dwarf",
+        "A full four-legged boar only",
+        "A boar-headed man with a human body"
+      ],
+      "answer": 3,
+      "explanation": "Varaha is commonly carved and painted with a boar's head atop a powerful human body, often holding Vishnu's emblems."
+    },
+    {
+      "id": "varaha-q18",
+      "difficulty": "medium",
+      "q": "Which discus, an emblem of Vishnu, is often shown in the hand of Varaha in his iconography?",
+      "options": [
+        "The Sudarshana Chakra",
+        "The Trishula",
+        "The Pinaka",
+        "The Vajra"
+      ],
+      "answer": 0,
+      "explanation": "As an avatar of Vishnu, Varaha is frequently depicted bearing the Sudarshana Chakra, Vishnu's discus."
+    },
+    {
+      "id": "varaha-q19",
+      "difficulty": "medium",
+      "q": "In the Bhagavata Purana, how is the long conflict between Varaha and Hiranyaksha chiefly described?",
+      "options": [
+        "A footrace around the world",
+        "A fierce duel beneath the waters",
+        "A dice game",
+        "A debate of riddles"
+      ],
+      "answer": 1,
+      "explanation": "The texts describe a prolonged underwater duel in which Varaha finally slays the demon Hiranyaksha."
+    },
+    {
+      "id": "varaha-q20",
+      "difficulty": "medium",
+      "q": "In iconography, the earth-goddess rescued by Varaha is typically shown how in relation to the boar?",
+      "options": [
+        "Riding a separate chariot",
+        "Seated on a lotus far below",
+        "Resting upon his tusk or shoulder",
+        "Standing on his discus"
+      ],
+      "answer": 2,
+      "explanation": "Varaha is classically depicted with the small figure of Bhudevi lifted upon his tusk or shoulder."
+    },
+    {
+      "id": "varaha-q21",
+      "difficulty": "medium",
+      "q": "The boar lifting the earth appears as a cosmic emblem in which early Vedic-Brahmanical text, where the earth is raised by a boar named Emusha?",
+      "options": [
+        "The Kama Sutra",
+        "The Natya Shastra",
+        "The Arthashastra",
+        "The Shatapatha Brahmana"
+      ],
+      "answer": 3,
+      "explanation": "The Shatapatha Brahmana preserves an early version in which a boar called Emusha raises the earth from the waters."
+    },
+    {
+      "id": "varaha-q22",
+      "difficulty": "medium",
+      "q": "The Bhu Varaha Swamy temple, an important shrine dedicated to Vishnu's boar avatar Varaha, is located in which Indian state?",
+      "options": [
+        "Tamil Nadu",
+        "Rajasthan",
+        "Punjab",
+        "Assam"
+      ],
+      "answer": 0,
+      "explanation": "The Bhu Varaha Swamy temple at Srimushnam in Tamil Nadu is a celebrated shrine devoted to Varaha, the boar avatar of Vishnu."
+    },
+    {
+      "id": "varaha-q23",
+      "difficulty": "hard",
+      "q": "In some Puranic and ritual traditions, Varaha is identified with the sacrifice itself and given which epithet, 'the sacrificial boar'?",
+      "options": [
+        "Nri Varaha",
+        "Yajna Varaha",
+        "Pralaya Varaha",
+        "Adi Varaha"
+      ],
+      "answer": 1,
+      "explanation": "As Yajna Varaha, the boar is identified with the cosmic sacrifice, his limbs equated with elements of the Vedic rite."
+    },
+    {
+      "id": "varaha-q24",
+      "difficulty": "hard",
+      "q": "In the Bhagavata Purana, the curse that doomed the gatekeepers to be born as Hiranyaksha and Hiranyakashipu was pronounced by which group of child-sages?",
+      "options": [
+        "The Adityas",
+        "The Maruts",
+        "The four Kumaras",
+        "The seven Rishis"
+      ],
+      "answer": 2,
+      "explanation": "The four boy-sages, the Kumaras (Sanaka and his brothers), cursed Jaya and Vijaya when barred from Vishnu's abode."
+    },
+    {
+      "id": "varaha-q25",
+      "difficulty": "hard",
+      "q": "In the Bhagavata Purana, the gatekeepers cursed to become demons were given a choice; for which option did they opt that brought a swifter return to Vishnu?",
+      "options": [
+        "Endless servitude in Yama's realm",
+        "Eternal exile rather than rebirth",
+        "Seven lives as enemies rather than three as devotees",
+        "Three lives as Vishnu's enemies rather than seven as devotees"
+      ],
+      "answer": 3,
+      "explanation": "They chose three births as Vishnu's foes, slain by his avatars, over seven gentler births, hastening their return."
+    },
+    {
+      "id": "varaha-q26",
+      "difficulty": "hard",
+      "q": "In the Puranic genealogy, the daityas Hiranyaksha and Hiranyakashipu, opponents of Vishnu's avatars, are reckoned among the offspring of which patriarch sage?",
+      "options": [
+        "Kashyapa",
+        "Bhrigu",
+        "Atri",
+        "Vasishtha"
+      ],
+      "answer": 0,
+      "explanation": "The sage Kashyapa, with his wife Diti, is named as the father of the daitya brothers in the Puranas."
+    },
+    {
+      "id": "varaha-q27",
+      "difficulty": "hard",
+      "q": "Which short Upanishad-style Purana is devoted to Vishnu and named after the boar avatar?",
+      "options": [
+        "The Skanda Purana",
+        "The Varaha Purana",
+        "The Vishnudharmottara Purana",
+        "The Brahmanda Purana"
+      ],
+      "answer": 1,
+      "explanation": "The Varaha Purana is one of the eighteen Mahapuranas, framed largely as Varaha's teaching to the earth-goddess."
+    },
+    {
+      "id": "varaha-q28",
+      "difficulty": "hard",
+      "q": "At Khajuraho, a famous monumental sculpture depicts Varaha in which striking form?",
+      "options": [
+        "A boar-headed man slaying a serpent",
+        "A boar riding the eagle Garuda",
+        "A colossal fully zoomorphic boar covered with rows of carved deities",
+        "A miniature boar within a lotus"
+      ],
+      "answer": 2,
+      "explanation": "The Khajuraho Varaha is a large solid stone boar whose body is covered with hundreds of small carved divine figures."
+    },
+    {
+      "id": "varaha-q29",
+      "difficulty": "hard",
+      "q": "In Hindu cosmology, the Varaha avatar lends its name to the present 'kalpa' (day of Brahma). What is that age called?",
+      "options": [
+        "The Padma Kalpa",
+        "The Pitri Kalpa",
+        "The Brahma Kalpa",
+        "The Varaha Kalpa (Shveta-varaha Kalpa)"
+      ],
+      "answer": 3,
+      "explanation": "The current kalpa is called the Shveta-varaha Kalpa, named for Varaha's lifting of the earth at its dawn."
+    },
+    {
+      "id": "varaha-q30",
+      "difficulty": "hard",
+      "q": "In the Bhagavata Purana, the boon that made Hiranyaksha and his brother so formidable, leading to their deaths by Vishnu's avatars, was originally granted by which deity?",
+      "options": [
+        "Brahma",
+        "Vishnu",
+        "Indra",
+        "Yama"
+      ],
+      "answer": 0,
+      "explanation": "The daitya brothers obtained their near-invincible boons through austerities rewarded by Brahma the creator."
+    }
+  ]
+}

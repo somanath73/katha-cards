@@ -1,0 +1,395 @@
+{
+  "cardId": "chandra",
+  "questions": [
+    {
+      "id": "chandra-q01",
+      "difficulty": "easy",
+      "q": "In Hindu mythology, which celestial body is the deity Chandra identified with?",
+      "options": [
+        "The sun",
+        "The moon",
+        "Venus",
+        "The pole star"
+      ],
+      "answer": 1,
+      "explanation": "Chandra is the moon god of Hindu tradition, presiding over the moon in the night sky."
+    },
+    {
+      "id": "chandra-q02",
+      "difficulty": "easy",
+      "q": "The moon god Chandra is identified with which sacred substance of the Vedas?",
+      "options": [
+        "Amrita made by Dhanvantari",
+        "Ghee",
+        "Soma",
+        "Halahala"
+      ],
+      "answer": 2,
+      "explanation": "Chandra is identified with Soma, the sacred draught celebrated in the Vedas and associated with immortality."
+    },
+    {
+      "id": "chandra-q03",
+      "difficulty": "easy",
+      "q": "According to the Puranas, what animals draw the chariot of the moon god Chandra across the night sky?",
+      "options": [
+        "Seven horses",
+        "Swans",
+        "Lions",
+        "Antelopes"
+      ],
+      "answer": 3,
+      "explanation": "The Puranas describe Chandra riding a chariot drawn by antelopes across the night sky."
+    },
+    {
+      "id": "chandra-q04",
+      "difficulty": "easy",
+      "q": "Whose twenty-seven daughters did the moon god Chandra marry, according to the Puranas?",
+      "options": [
+        "Daksha",
+        "Kashyapa",
+        "Himavan",
+        "Vishvakarma"
+      ],
+      "answer": 0,
+      "explanation": "The Puranas relate that Chandra wed the twenty-seven daughters of Daksha, who personify the lunar mansions."
+    },
+    {
+      "id": "chandra-q05",
+      "difficulty": "easy",
+      "q": "The twenty-seven wives of the moon god Chandra represent which group of celestial entities?",
+      "options": [
+        "The seven seers",
+        "The lunar mansions (nakshatras)",
+        "The nine planets",
+        "The four directions"
+      ],
+      "answer": 1,
+      "explanation": "The twenty-seven daughters of Daksha whom Chandra married personify the nakshatras, the lunar mansions."
+    },
+    {
+      "id": "chandra-q06",
+      "difficulty": "easy",
+      "q": "According to the Puranas, why was the moon god Chandra cursed to wane?",
+      "options": [
+        "For stealing the Vedas",
+        "For challenging Indra",
+        "For neglecting all his wives but Rohini",
+        "For drinking the halahala"
+      ],
+      "answer": 2,
+      "explanation": "Chandra was cursed to wane because he favored Rohini and neglected his other twenty-six wives."
+    },
+    {
+      "id": "chandra-q07",
+      "difficulty": "easy",
+      "q": "Which of his many wives was the favorite of the moon god Chandra, leading to his curse?",
+      "options": [
+        "Sati",
+        "Rati",
+        "Arundhati",
+        "Rohini"
+      ],
+      "answer": 3,
+      "explanation": "Chandra favored Rohini above his other wives, which provoked the curse that he would wane."
+    },
+    {
+      "id": "chandra-q08",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, what monthly phenomenon of the moon is explained by the curse upon Chandra?",
+      "options": [
+        "The waxing and waning of the moon",
+        "Solar eclipses",
+        "The tides",
+        "Shooting stars"
+      ],
+      "answer": 0,
+      "explanation": "The curse upon Chandra is said to explain the moon's monthly cycle of waxing and waning."
+    },
+    {
+      "id": "chandra-q09",
+      "difficulty": "easy",
+      "q": "In the quiz deck of Indian mythology, the moon god Chandra is classified as which type of subject?",
+      "options": [
+        "A place",
+        "A character (deity)",
+        "An artifact",
+        "An abstract concept"
+      ],
+      "answer": 1,
+      "explanation": "Chandra is presented as a character, the personified moon god, in the Indian mythology collection."
+    },
+    {
+      "id": "chandra-q10",
+      "difficulty": "easy",
+      "q": "Among the Navagraha, the nine celestial influencers, which one is the moon god Chandra?",
+      "options": [
+        "The fire god",
+        "The earth",
+        "The moon",
+        "The wind"
+      ],
+      "answer": 2,
+      "explanation": "Chandra represents the moon among the Navagraha, the nine planetary deities of Hindu astrology."
+    },
+    {
+      "id": "chandra-q11",
+      "difficulty": "medium",
+      "q": "In Hindu cosmology, Chandra is counted among which group of nine celestial deities?",
+      "options": [
+        "The Saptarishi",
+        "The Adityas",
+        "The Vasus",
+        "The Navagraha"
+      ],
+      "answer": 3,
+      "explanation": "Chandra is one of the Navagraha, the nine planetary deities propitiated together in temples."
+    },
+    {
+      "id": "chandra-q12",
+      "difficulty": "medium",
+      "q": "Among the Navagraha, which two luminaries are Surya and Chandra respectively?",
+      "options": [
+        "The sun and the moon",
+        "The moon and Mars",
+        "The sun and Saturn",
+        "Jupiter and the moon"
+      ],
+      "answer": 0,
+      "explanation": "In the Navagraha, Surya is the sun and Chandra is the moon."
+    },
+    {
+      "id": "chandra-q13",
+      "difficulty": "medium",
+      "q": "Which sacred drink of the Vedic yajna, drawn from a pressed plant, shares its name and identity with the moon god Chandra?",
+      "options": [
+        "Madhu",
+        "Soma",
+        "Sura",
+        "Panchamrita"
+      ],
+      "answer": 1,
+      "explanation": "Soma, the ritual draught pressed and offered in the Vedic sacrifice, is identified with the moon god Chandra."
+    },
+    {
+      "id": "chandra-q14",
+      "difficulty": "medium",
+      "q": "The lunar mansions whom Chandra married are the daughters of Daksha. Of what is Daksha a son or descendant in the Puranas?",
+      "options": [
+        "A son of Vayu",
+        "A vanara chief",
+        "A progenitor (Prajapati) in the line of creation",
+        "A rakshasa king"
+      ],
+      "answer": 2,
+      "explanation": "Daksha is a Prajapati, a progenitor figure in Puranic genealogy, whose twenty-seven daughters Chandra married."
+    },
+    {
+      "id": "chandra-q15",
+      "difficulty": "medium",
+      "q": "In Hindu iconography of the planetary deities, what color is the moon god Chandra typically described as?",
+      "options": [
+        "Fiery red",
+        "Deep blue-black",
+        "Golden yellow",
+        "Pale or white"
+      ],
+      "answer": 3,
+      "explanation": "Chandra, as the moon, is typically depicted with a pale, fair, or white complexion."
+    },
+    {
+      "id": "chandra-q16",
+      "difficulty": "medium",
+      "q": "The crescent of the moon, associated with Chandra, is worn as an ornament by which great deity of the Trimurti?",
+      "options": [
+        "Shiva",
+        "Brahma",
+        "Vishnu",
+        "Indra"
+      ],
+      "answer": 0,
+      "explanation": "Shiva wears the crescent moon in his matted locks, an emblem closely linked to Chandra."
+    },
+    {
+      "id": "chandra-q17",
+      "difficulty": "medium",
+      "q": "The wife Rohini, favored by Chandra, lends her name to which kind of celestial marker in Hindu astronomy?",
+      "options": [
+        "A planet",
+        "A nakshatra (lunar mansion)",
+        "A comet",
+        "A direction"
+      ],
+      "answer": 1,
+      "explanation": "Rohini is one of the nakshatras, the lunar mansions personified as Chandra's wives."
+    },
+    {
+      "id": "chandra-q18",
+      "difficulty": "medium",
+      "q": "In Sanskrit, the name 'Chandra' most directly conveys which quality of the moon?",
+      "options": [
+        "Heat",
+        "Darkness",
+        "Shining or brightness",
+        "Swiftness"
+      ],
+      "answer": 2,
+      "explanation": "The name Chandra carries the sense of the shining, bright, or luminous one, fitting the moon."
+    },
+    {
+      "id": "chandra-q19",
+      "difficulty": "medium",
+      "q": "Soma, identified with Chandra, is praised in the Vedas chiefly as what?",
+      "options": [
+        "A god of death",
+        "A war weapon",
+        "A serpent king",
+        "A sacred ritual draught and deity"
+      ],
+      "answer": 3,
+      "explanation": "In the Vedas, Soma is exalted as a sacred ritual draught and deity, later identified with the moon Chandra."
+    },
+    {
+      "id": "chandra-q20",
+      "difficulty": "medium",
+      "q": "Which deity, mounted on a buffalo, is sometimes contrasted with Chandra as a lord of the night sky's opposite domain of death?",
+      "options": [
+        "Yama",
+        "Kubera",
+        "Agni",
+        "Varuna"
+      ],
+      "answer": 0,
+      "explanation": "Yama, lord of death mounted on a buffalo, is a distinct deity, whereas Chandra presides over the moon."
+    },
+    {
+      "id": "chandra-q21",
+      "difficulty": "medium",
+      "q": "The phases by which the moon waxes and wanes divide the lunar month into two halves. What is the bright, waxing half called?",
+      "options": [
+        "Krishna Paksha",
+        "Shukla Paksha",
+        "Purnima",
+        "Amavasya"
+      ],
+      "answer": 1,
+      "explanation": "The bright waxing fortnight of the moon, governed by Chandra, is called Shukla Paksha."
+    },
+    {
+      "id": "chandra-q22",
+      "difficulty": "medium",
+      "q": "The night of the full moon, when Chandra shines at his fullest, is known in Sanskrit by which name?",
+      "options": [
+        "Amavasya",
+        "Sankranti",
+        "Purnima",
+        "Ekadashi"
+      ],
+      "answer": 2,
+      "explanation": "Purnima is the full-moon night, when Chandra appears wholly waxed and brightest."
+    },
+    {
+      "id": "chandra-q23",
+      "difficulty": "hard",
+      "q": "In Puranic genealogy, the moon god Chandra is regarded as the progenitor of which great royal dynasty?",
+      "options": [
+        "The Solar dynasty (Suryavamsha)",
+        "The Ikshvaku dynasty",
+        "The Naga dynasty",
+        "The Lunar dynasty (Chandravamsha)"
+      ],
+      "answer": 3,
+      "explanation": "Chandra is held to be the founder of the Chandravamsha, the Lunar dynasty, in Puranic accounts."
+    },
+    {
+      "id": "chandra-q24",
+      "difficulty": "hard",
+      "q": "According to Puranic tradition, who pronounced the curse that caused the moon god Chandra to wane?",
+      "options": [
+        "Daksha",
+        "Brahma",
+        "Indra",
+        "Yama"
+      ],
+      "answer": 0,
+      "explanation": "Daksha, father of Chandra's wives, cursed him to wane for neglecting all but Rohini."
+    },
+    {
+      "id": "chandra-q25",
+      "difficulty": "hard",
+      "q": "In the Puranas, which planetary deity is traditionally regarded as a son born of Chandra?",
+      "options": [
+        "Shani (Saturn)",
+        "Budha (Mercury)",
+        "Mangala (Mars)",
+        "Shukra (Venus)"
+      ],
+      "answer": 1,
+      "explanation": "Budha, identified with the planet Mercury, is traditionally counted as a son of Chandra in the Puranas."
+    },
+    {
+      "id": "chandra-q26",
+      "difficulty": "hard",
+      "q": "After Daksha's curse, the relenting of the moon god Chandra's fate left the moon to do what, rather than vanish permanently?",
+      "options": [
+        "Burn brighter forever",
+        "Turn red",
+        "Wax and wane in a recurring cycle",
+        "Split into two"
+      ],
+      "answer": 2,
+      "explanation": "The curse was softened so that Chandra would wane and wax in a recurring cycle rather than disappear forever."
+    },
+    {
+      "id": "chandra-q27",
+      "difficulty": "hard",
+      "q": "In the Puranic account of the churning of the ocean of milk, the moon (associated with Chandra) is named among which category of emergent items?",
+      "options": [
+        "The deadly poisons",
+        "The asuras slain",
+        "The mountains used as the rod",
+        "The treasures that arose from the churning"
+      ],
+      "answer": 3,
+      "explanation": "Several Puranic lists count the moon among the treasures that arose from the churning of the ocean of milk."
+    },
+    {
+      "id": "chandra-q28",
+      "difficulty": "hard",
+      "q": "Which weekday in Hindu tradition is named for and presided over by the moon god Chandra?",
+      "options": [
+        "Monday (Somavara)",
+        "Sunday (Ravivara)",
+        "Tuesday (Mangalavara)",
+        "Saturday (Shanivara)"
+      ],
+      "answer": 0,
+      "explanation": "Monday, called Somavara after Soma, is the weekday associated with the moon god Chandra."
+    },
+    {
+      "id": "chandra-q29",
+      "difficulty": "hard",
+      "q": "The dark, moonless night of the lunar month, when Chandra is wholly waned, is known by which Sanskrit name?",
+      "options": [
+        "Purnima",
+        "Amavasya",
+        "Shukla Paksha",
+        "Dvadashi"
+      ],
+      "answer": 1,
+      "explanation": "Amavasya is the new-moon night, when Chandra has fully waned and the moon is unseen."
+    },
+    {
+      "id": "chandra-q30",
+      "difficulty": "hard",
+      "q": "Distinct from the moon god Chandra, which separate Vedic deity drives a chariot drawn by seven horses across the day sky?",
+      "options": [
+        "Vayu",
+        "Varuna",
+        "Surya",
+        "Soma"
+      ],
+      "answer": 2,
+      "explanation": "Surya, the sun god, rides a chariot of seven horses by day, whereas Chandra rides antelopes by night."
+    }
+  ]
+}
