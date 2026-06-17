@@ -96,6 +96,23 @@ const RECIPES = {
       }
     },
   },
+  'indian-cinema': {
+    style:
+      'Vintage hand-painted Indian movie-poster art, classic Bollywood cinema-hoarding style, lush saturated ' +
+      'technicolor, bold dramatic painterly brushwork, warm golden spotlight glow, expressive theatrical faces, ' +
+      'nostalgic mid-century film-poster composition, rich reds and golds, ornate and romantic. No text, no ' +
+      'lettering, no words, no captions, no title, no watermark, no signature. Vertical portrait orientation.',
+    lead: (c) => {
+      switch (c.type) {
+        case 'character': return `A bold hand-painted movie-poster portrait of ${c.title}, ${c.subtitle}.`
+        case 'event': return `A dramatic hand-painted movie-poster scene depicting ${c.title} (${c.subtitle}).`
+        case 'place': return `A vintage hand-painted poster-style depiction of ${c.title}, ${c.subtitle}, no central person.`
+        case 'artifact': return `A hand-painted vintage movie-poster composition evoking ${c.title}, ${c.subtitle}.`
+        case 'concept': return `A symbolic hand-painted movie-poster illustration representing ${c.title}, ${c.subtitle}.`
+        default: return `${c.title}, ${c.subtitle}.`
+      }
+    },
+  },
 }
 
 const recipe = RECIPES[recipeKey]

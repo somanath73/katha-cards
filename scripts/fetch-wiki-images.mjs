@@ -9,13 +9,16 @@ import { fileURLToPath } from 'node:url'
 import sharp from 'sharp'
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..')
-const category = 'indian-politics'
+const category = process.argv[2] || 'indian-politics'
 const outDir = join(root, `public/data/${category}/art`)
 mkdirSync(outDir, { recursive: true })
 mkdirSync(join(root, '.art'), { recursive: true })
 
-// cardId -> exact Wikipedia article title (disambiguated where needed)
-const MAP = {
+// cardId -> exact Wikipedia article title (disambiguated where needed), per deck.
+// Only people/places with genuinely free images get real photos; the license filter
+// below rejects anything non-free, which then falls back to generated illustration.
+const MAPS = {
+  'indian-politics': {
   'br-ambedkar': 'B. R. Ambedkar',
   'jawaharlal-nehru': 'Jawaharlal Nehru',
   'lal-bahadur-shastri': 'Lal Bahadur Shastri',
@@ -60,24 +63,93 @@ const MAP = {
   'parliament-house': 'Parliament House (India)',
   'rashtrapati-bhavan': 'Rashtrapati Bhavan',
   'supreme-court': 'Supreme Court of India',
-  'reserve-bank-of-india': 'Reserve Bank of India',
-  // note: 'national-emblem' deliberately omitted — the State Emblem of India is
-  // legally restricted (Prohibition of Improper Use Act); it stays an illustration.
+    'reserve-bank-of-india': 'Reserve Bank of India',
+    // note: 'national-emblem' deliberately omitted — the State Emblem of India is
+    // legally restricted (Prohibition of Improper Use Act); it stays an illustration.
+  },
+  'indian-cinema': {
+    // Real people — deceased classic-era figures (often PD/CC) and living stars
+    // (CC event photos). Films/concepts/events have no free imagery and stay art.
+    'dadasaheb-phalke': 'Dadasaheb Phalke',
+    'devika-rani': 'Devika Rani',
+    'k-l-saigal': 'K. L. Saigal',
+    'v-shantaram': 'V. Shantaram',
+    'mehboob-khan': 'Mehboob Khan',
+    'nargis': 'Nargis',
+    'dilip-kumar': 'Dilip Kumar',
+    'madhubala': 'Madhubala',
+    'guru-dutt': 'Guru Dutt',
+    'raj-kapoor': 'Raj Kapoor',
+    'bimal-roy': 'Bimal Roy',
+    'meena-kumari': 'Meena Kumari',
+    'waheeda-rehman': 'Waheeda Rehman',
+    'satyajit-ray': 'Satyajit Ray',
+    'ritwik-ghatak': 'Ritwik Ghatak',
+    'mrinal-sen': 'Mrinal Sen',
+    'uttam-kumar': 'Uttam Kumar',
+    'suchitra-sen': 'Suchitra Sen',
+    'm-g-ramachandran': 'M. G. Ramachandran',
+    'sivaji-ganesan': 'Sivaji Ganesan',
+    'kamal-haasan': 'Kamal Haasan',
+    'rajinikanth': 'Rajinikanth',
+    'mani-ratnam': 'Mani Ratnam',
+    'ilaiyaraaja': 'Ilaiyaraaja',
+    'n-t-rama-rao': 'N. T. Rama Rao',
+    'savitri': 'Savitri (actress)',
+    'k-viswanath': 'K. Viswanath',
+    'chiranjeevi': 'Chiranjeevi',
+    's-s-rajamouli': 'S. S. Rajamouli',
+    'adoor-gopalakrishnan': 'Adoor Gopalakrishnan',
+    'mammootty': 'Mammootty',
+    'mohanlal': 'Mohanlal',
+    'dr-rajkumar': 'Rajkumar (actor)',
+    'girish-karnad': 'Girish Karnad',
+    'shyam-benegal': 'Shyam Benegal',
+    'smita-patil': 'Smita Patil',
+    'shabana-azmi': 'Shabana Azmi',
+    'naseeruddin-shah': 'Naseeruddin Shah',
+    'lata-mangeshkar': 'Lata Mangeshkar',
+    'asha-bhosle': 'Asha Bhosle',
+    'mohammed-rafi': 'Mohammed Rafi',
+    'kishore-kumar': 'Kishore Kumar',
+    's-p-balasubrahmanyam': 'S. P. Balasubrahmanyam',
+    'naushad': 'Naushad',
+    's-d-burman': 'S. D. Burman',
+    'r-d-burman': 'R. D. Burman',
+    'a-r-rahman': 'A. R. Rahman',
+    'amitabh-bachchan': 'Amitabh Bachchan',
+    'yash-chopra': 'Yash Chopra',
+    'sridevi': 'Sridevi',
+    'madhuri-dixit': 'Madhuri Dixit',
+    'shah-rukh-khan': 'Shah Rukh Khan',
+    'aamir-khan': 'Aamir Khan',
+    'anurag-kashyap': 'Anurag Kashyap',
+    // Places with free photos
+    'ramoji-film-city': 'Ramoji Film City',
+    'ftii-pune': 'Film and Television Institute of India',
+  },
 }
+const MAP = MAPS[category] || {}
 
 // Override the auto-picked infobox image for cards where the infobox photo isn't
 // clearly free (or is the wrong subject), but a specific known freely-licensed file
 // exists. Pinning the file keeps real people/places on real photos instead of art.
-const FILE_OVERRIDE = {
-  'jawaharlal-nehru': 'File:Jawaharlal Nehru 1949.jpg',
-  // Infobox photo is GFDL-1.2 (not in our accepted set); use a GODL-India PMO portrait.
-  'deve-gowda': 'File:The former Prime Minister, Shri H.D. Deve Gowda calling on the Prime Minister, Shri Narendra Modi, in New Delhi on June 03, 2015 (cropped).jpg',
-  // Auto-picker grabs the restricted court emblem; pin a CC BY-SA building photo instead.
-  'supreme-court': 'File:Supreme Court of India front view 02.jpg',
-  // 'sukumar-sen' has no free photograph; the only free file is the 2020 India Post
-  // stamp, whose crop lands on the Election Commission logo (not his face), so he
-  // stays an illustration.
+const FILE_OVERRIDES = {
+  'indian-politics': {
+    'jawaharlal-nehru': 'File:Jawaharlal Nehru 1949.jpg',
+    // Infobox photo is GFDL-1.2 (not in our accepted set); use a GODL-India PMO portrait.
+    'deve-gowda': 'File:The former Prime Minister, Shri H.D. Deve Gowda calling on the Prime Minister, Shri Narendra Modi, in New Delhi on June 03, 2015 (cropped).jpg',
+    // Auto-picker grabs the restricted court emblem; pin a CC BY-SA building photo instead.
+    'supreme-court': 'File:Supreme Court of India front view 02.jpg',
+    // 'sukumar-sen' has no free photograph; the only free file is the 2020 India Post
+    // stamp, whose crop lands on the Election Commission logo (not his face), so he
+    // stays an illustration.
+  },
+  'indian-cinema': {
+    // filled in after a first pass reveals which infobox photos are non-free / wrong subject
+  },
 }
+const FILE_OVERRIDE = FILE_OVERRIDES[category] || {}
 
 // Accept only genuinely free licenses.
 const FREE = /(public domain|^pd|cc0|cc[ -]by([ -]sa)?|creative commons attribution|godl)/i
