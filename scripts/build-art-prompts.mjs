@@ -7,6 +7,7 @@ import { fileURLToPath } from 'node:url'
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..')
 const category = process.argv[2] || 'mahabharat'
+const recipeKey = process.argv[3] || category // optional style override
 const deck = JSON.parse(readFileSync(join(root, `public/data/${category}/cards.json`), 'utf8'))
 
 // Per-deck locked style recipe + per-type framing.
@@ -79,10 +80,26 @@ const RECIPES = {
       }
     },
   },
+  'indian-politics-real': {
+    style:
+      'Photorealistic, realistic natural cinematic lighting, rich true-to-life colours, documentary realism, ' +
+      'highly detailed, dignified and respectful, civic and neutral, modern India. No text, no lettering, no ' +
+      'party symbols, no political party flags, no captions. Vertical portrait orientation.',
+    lead: (c) => {
+      switch (c.type) {
+        case 'character': return `A realistic, dignified portrait photograph of ${c.title}, ${c.subtitle}.`
+        case 'event': return `A realistic, cinematic documentary photograph of the scene of ${c.title} (${c.subtitle}).`
+        case 'place': return `A realistic photograph of ${c.title}, ${c.subtitle}.`
+        case 'artifact': return `A realistic, detailed photograph of ${c.title}, ${c.subtitle}, as the central subject.`
+        case 'concept': return `A realistic, evocative photographic image representing ${c.title}, ${c.subtitle}.`
+        default: return `${c.title}, ${c.subtitle}.`
+      }
+    },
+  },
 }
 
-const recipe = RECIPES[category]
-if (!recipe) throw new Error(`No art recipe for category "${category}"`)
+const recipe = RECIPES[recipeKey]
+if (!recipe) throw new Error(`No art recipe for "${recipeKey}"`)
 
 const prompts = deck.cards.map((c) => ({
   id: c.id,
