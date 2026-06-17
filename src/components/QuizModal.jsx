@@ -4,10 +4,11 @@ import Emblem from './Emblem'
 import { CardBack } from './TarotCard'
 import { paletteFor } from '../data/palettes'
 import { drawQuestions, toRoman } from '../lib/random'
+import { withV } from '../lib/imgver'
 
 export default function QuizModal({ card, categoryId, progress, onClose }) {
   const pal = paletteFor(card.palette)
-  const imgSrc = card.image ? `${import.meta.env.BASE_URL}data/${categoryId}/${card.image}` : null
+  const imgSrc = card.image ? withV(`${import.meta.env.BASE_URL}data/${categoryId}/${card.image}`) : null
   const [bank, setBank] = useState(null)
   const [missing, setMissing] = useState(false)
   const [flipped, setFlipped] = useState(false)

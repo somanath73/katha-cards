@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react'
 import TarotCard from './TarotCard'
 import QuizModal from './QuizModal'
 import Credits from './Credits'
+import { withV } from '../lib/imgver'
 
 const TYPES = ['all', 'character', 'event', 'place', 'artifact', 'concept']
 
@@ -114,7 +115,7 @@ export default function Deck({ category, progress, onBack }) {
               key={c.id}
               card={c}
               best={progress.bestFor(c.id)}
-              imgSrc={c.image ? `${import.meta.env.BASE_URL}data/${category.id}/${c.image}` : null}
+              imgSrc={c.image ? withV(`${import.meta.env.BASE_URL}data/${category.id}/${c.image}`) : null}
               onClick={() => setActive(c)}
             />
           ))}
