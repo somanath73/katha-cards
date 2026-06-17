@@ -1,0 +1,395 @@
+{
+  "cardId": "golconda",
+  "questions": [
+    {
+      "id": "golconda-q01",
+      "difficulty": "easy",
+      "q": "Golconda was the seat of which dynasty?",
+      "options": [
+        "The Qutb Shahi dynasty",
+        "The Adil Shahi dynasty",
+        "The Nizam Shahi dynasty",
+        "The Tughlaq dynasty"
+      ],
+      "answer": 0,
+      "explanation": "Golconda was the seat of the Qutb Shahi dynasty of the Deccan."
+    },
+    {
+      "id": "golconda-q02",
+      "difficulty": "easy",
+      "q": "Golconda is best described as which kind of place?",
+      "options": [
+        "A river port",
+        "A fortified citadel",
+        "A desert oasis",
+        "A coastal harbour"
+      ],
+      "answer": 1,
+      "explanation": "Golconda was a fortified citadel and the capital of the Qutb Shahi kingdom."
+    },
+    {
+      "id": "golconda-q03",
+      "difficulty": "easy",
+      "q": "Golconda is famous for trade in which precious commodity?",
+      "options": [
+        "Spices",
+        "Silk",
+        "Diamonds",
+        "Pearls"
+      ],
+      "answer": 2,
+      "explanation": "Golconda was famed as a centre of the diamond trade."
+    },
+    {
+      "id": "golconda-q04",
+      "difficulty": "easy",
+      "q": "Golconda fort lies near which modern Indian city?",
+      "options": [
+        "Bengaluru",
+        "Chennai",
+        "Pune",
+        "Hyderabad"
+      ],
+      "answer": 3,
+      "explanation": "The fort of Golconda is located near the city of Hyderabad."
+    },
+    {
+      "id": "golconda-q05",
+      "difficulty": "easy",
+      "q": "Which Mughal emperor finally captured Golconda in 1687?",
+      "options": [
+        "Aurangzeb",
+        "Akbar",
+        "Shah Jahan",
+        "Jahangir"
+      ],
+      "answer": 0,
+      "explanation": "The Mughal emperor Aurangzeb captured Golconda in 1687."
+    },
+    {
+      "id": "golconda-q06",
+      "difficulty": "easy",
+      "q": "Golconda fort is renowned for what unusual architectural feature?",
+      "options": [
+        "Floating gardens",
+        "Remarkable acoustics",
+        "Underwater chambers",
+        "Glass domes"
+      ],
+      "answer": 1,
+      "explanation": "Golconda is famous for its remarkable acoustics, by which sounds carried across the fort."
+    },
+    {
+      "id": "golconda-q07",
+      "difficulty": "easy",
+      "q": "In which region of India is Golconda situated?",
+      "options": [
+        "The Gangetic plain",
+        "The Thar desert",
+        "The Deccan plateau",
+        "The Malabar coast"
+      ],
+      "answer": 2,
+      "explanation": "Golconda lies on the Deccan plateau in southern India."
+    },
+    {
+      "id": "golconda-q08",
+      "difficulty": "easy",
+      "q": "From roughly which century did Golconda serve as the Qutb Shahi capital?",
+      "options": [
+        "The 8th century",
+        "The 12th century",
+        "The 19th century",
+        "The 16th century"
+      ],
+      "answer": 3,
+      "explanation": "Golconda served as the seat of the Qutb Shahi dynasty from the 16th century."
+    },
+    {
+      "id": "golconda-q09",
+      "difficulty": "easy",
+      "q": "Golconda was one of which group of post-Bahmani states?",
+      "options": [
+        "The Deccan sultanates",
+        "The Rajput kingdoms",
+        "The Tamil dynasties",
+        "The Sikh misls"
+      ],
+      "answer": 0,
+      "explanation": "The Qutb Shahi kingdom of Golconda was one of the five Deccan sultanates."
+    },
+    {
+      "id": "golconda-q10",
+      "difficulty": "easy",
+      "q": "Golconda's fall to the Mughals in 1687 occurred during whose long campaigns in the Deccan?",
+      "options": [
+        "Babur's",
+        "Aurangzeb's",
+        "Humayun's",
+        "Akbar's"
+      ],
+      "answer": 1,
+      "explanation": "Golconda fell during Aurangzeb's protracted Deccan campaigns of the late 17th century."
+    },
+    {
+      "id": "golconda-q11",
+      "difficulty": "medium",
+      "q": "Who founded the Qutb Shahi dynasty that ruled from Golconda?",
+      "options": [
+        "Yusuf Adil Shah",
+        "Malik Ahmad Nizam Shah",
+        "Sultan Quli Qutb-ul-Mulk",
+        "Hasan Gangu"
+      ],
+      "answer": 2,
+      "explanation": "Sultan Quli Qutb-ul-Mulk founded the Qutb Shahi dynasty at Golconda in the early 16th century."
+    },
+    {
+      "id": "golconda-q12",
+      "difficulty": "medium",
+      "q": "Which nearby planned city was founded by a Qutb Shahi ruler as Golconda grew crowded?",
+      "options": [
+        "Bidar",
+        "Gulbarga",
+        "Bijapur",
+        "Hyderabad"
+      ],
+      "answer": 3,
+      "explanation": "The Qutb Shahis founded Hyderabad nearby, easing congestion in the older fort of Golconda."
+    },
+    {
+      "id": "golconda-q13",
+      "difficulty": "medium",
+      "q": "Which famous monument in Hyderabad was built by the Qutb Shahi ruler Muhammad Quli Qutb Shah?",
+      "options": [
+        "The Charminar",
+        "The Qutb Minar",
+        "The Buland Darwaza",
+        "The Gol Gumbaz"
+      ],
+      "answer": 0,
+      "explanation": "The Charminar was built in Hyderabad by Muhammad Quli Qutb Shah, founder of the city."
+    },
+    {
+      "id": "golconda-q14",
+      "difficulty": "medium",
+      "q": "The Kollur mine, source of legendary diamonds traded at Golconda, lay near which river?",
+      "options": [
+        "The Yamuna river",
+        "The Krishna river",
+        "The Brahmaputra river",
+        "The Narmada river"
+      ],
+      "answer": 1,
+      "explanation": "The Kollur diamond mine lay along the Krishna river, feeding Golconda's diamond markets."
+    },
+    {
+      "id": "golconda-q15",
+      "difficulty": "medium",
+      "q": "Which legendary diamond is traditionally associated with the Golconda region's mines?",
+      "options": [
+        "The Hope of Sancy",
+        "The Star of Africa",
+        "The Koh-i-Noor",
+        "The Black Orlov pebble"
+      ],
+      "answer": 2,
+      "explanation": "The Koh-i-Noor and other famous diamonds are traditionally linked to the Golconda mines."
+    },
+    {
+      "id": "golconda-q16",
+      "difficulty": "medium",
+      "q": "Golconda emerged as an independent sultanate after the breakup of which earlier Deccan state?",
+      "options": [
+        "The Vijayanagara Empire",
+        "The Delhi Sultanate",
+        "The Kakatiya kingdom",
+        "The Bahmani Sultanate"
+      ],
+      "answer": 3,
+      "explanation": "The Qutb Shahi state of Golconda arose from the fragmentation of the Bahmani Sultanate."
+    },
+    {
+      "id": "golconda-q17",
+      "difficulty": "medium",
+      "q": "Before the Qutb Shahis, Golconda had been a stronghold of which earlier Telugu dynasty?",
+      "options": [
+        "The Kakatiyas",
+        "The Hoysalas",
+        "The Pallavas",
+        "The Cheras"
+      ],
+      "answer": 0,
+      "explanation": "Golconda was originally a hill fort of the Kakatiya dynasty before the Qutb Shahis rebuilt it."
+    },
+    {
+      "id": "golconda-q18",
+      "difficulty": "medium",
+      "q": "How is the acoustic feature of Golconda's gateway traditionally said to have functioned?",
+      "options": [
+        "Bells rang on their own at sunrise",
+        "A clap at the entrance could be heard at the hilltop pavilion",
+        "Whispers were silenced by the walls",
+        "Music played from hidden pipes"
+      ],
+      "answer": 1,
+      "explanation": "A hand-clap near the main gate could reportedly be heard at the distant hilltop pavilion, serving as a warning system."
+    },
+    {
+      "id": "golconda-q19",
+      "difficulty": "medium",
+      "q": "The royal tombs of the Qutb Shahi rulers stand close to which fort?",
+      "options": [
+        "Daulatabad fort",
+        "Chittorgarh fort",
+        "Golconda fort",
+        "Raigad fort"
+      ],
+      "answer": 2,
+      "explanation": "The Qutb Shahi tombs lie just outside the Golconda fort complex."
+    },
+    {
+      "id": "golconda-q20",
+      "difficulty": "medium",
+      "q": "Golconda was a member of the Deccan alliance that defeated Vijayanagara at which battle?",
+      "options": [
+        "The Battle of Panipat",
+        "The Battle of Tarain",
+        "The Battle of Plassey",
+        "The Battle of Talikota"
+      ],
+      "answer": 3,
+      "explanation": "Golconda joined the Deccan alliance that crushed Vijayanagara at Talikota in 1565."
+    },
+    {
+      "id": "golconda-q21",
+      "difficulty": "medium",
+      "q": "Which European trading powers were active buyers in Golconda's diamond markets in the 17th century?",
+      "options": [
+        "The English, Dutch and French",
+        "Only the Portuguese",
+        "Only the Spanish",
+        "The Russians and Ottomans"
+      ],
+      "answer": 0,
+      "explanation": "English, Dutch and French traders all sought the diamonds of the Golconda region."
+    },
+    {
+      "id": "golconda-q22",
+      "difficulty": "medium",
+      "q": "Which French jewel merchant left famous accounts of the diamond trade around Golconda?",
+      "options": [
+        "Marco Polo",
+        "Jean-Baptiste Tavernier",
+        "Megasthenes",
+        "Ibn Battuta"
+      ],
+      "answer": 1,
+      "explanation": "Jean-Baptiste Tavernier, a French jeweller-traveller, described the Golconda diamond mines and trade."
+    },
+    {
+      "id": "golconda-q23",
+      "difficulty": "hard",
+      "q": "Who was the last Qutb Shahi sultan of Golconda, defeated by Aurangzeb in 1687?",
+      "options": [
+        "Ibrahim Qutb Shah",
+        "Sultan Quli Qutb-ul-Mulk",
+        "Abul Hasan Qutb Shah",
+        "Muhammad Quli Qutb Shah"
+      ],
+      "answer": 2,
+      "explanation": "Abul Hasan Qutb Shah, called Tana Shah, was the last ruler of Golconda before its Mughal conquest."
+    },
+    {
+      "id": "golconda-q24",
+      "difficulty": "hard",
+      "q": "How is the Mughal capture of Golconda in 1687 generally said to have been achieved?",
+      "options": [
+        "By a single frontal assault in a day",
+        "By a naval blockade",
+        "By a negotiated peaceful surrender",
+        "By treachery from within after a long siege"
+      ],
+      "answer": 3,
+      "explanation": "After a long siege, Golconda fell when a defender reportedly opened a gate, allowing the Mughals in."
+    },
+    {
+      "id": "golconda-q25",
+      "difficulty": "hard",
+      "q": "Roughly how many years did the Qutb Shahi dynasty rule from Golconda and Hyderabad before 1687?",
+      "options": [
+        "About 170 years",
+        "About 50 years",
+        "About 300 years",
+        "About 600 years"
+      ],
+      "answer": 0,
+      "explanation": "The Qutb Shahi dynasty ruled for roughly 170 years from its founding in 1518 to its fall in 1687."
+    },
+    {
+      "id": "golconda-q26",
+      "difficulty": "hard",
+      "q": "Which celebrated minister of Golconda was a noted patron and statesman under Abul Hasan?",
+      "options": [
+        "Mir Jumla alone",
+        "Madanna and his brother Akkanna",
+        "Tansen",
+        "Birbal"
+      ],
+      "answer": 1,
+      "explanation": "The Brahmin brothers Madanna and Akkanna served as influential ministers in the late Golconda court."
+    },
+    {
+      "id": "golconda-q27",
+      "difficulty": "hard",
+      "q": "Golconda's powerful general Mir Jumla defected to which power before the kingdom's final fall?",
+      "options": [
+        "Vijayanagara",
+        "The Portuguese",
+        "The Mughal Empire",
+        "The Marathas"
+      ],
+      "answer": 2,
+      "explanation": "Mir Jumla, a leading Golconda commander and diamond magnate, defected to the Mughals, weakening the kingdom."
+    },
+    {
+      "id": "golconda-q28",
+      "difficulty": "hard",
+      "q": "The Qutb Shahi rulers were notable patrons of which literary language of the Deccan?",
+      "options": [
+        "Pali",
+        "Prakrit",
+        "Avestan",
+        "Dakhni Urdu"
+      ],
+      "answer": 3,
+      "explanation": "The Qutb Shahi court patronised Dakhni Urdu, and several sultans were themselves poets."
+    },
+    {
+      "id": "golconda-q29",
+      "difficulty": "hard",
+      "q": "Before Aurangzeb's final conquest, which Mughal emperor's forces had earlier forced Golconda into tributary submission?",
+      "options": [
+        "Shah Jahan",
+        "Babur",
+        "Humayun",
+        "Jahangir"
+      ],
+      "answer": 0,
+      "explanation": "Shah Jahan's forces compelled Golconda to accept Mughal suzerainty and pay tribute decades before 1687."
+    },
+    {
+      "id": "golconda-q30",
+      "difficulty": "hard",
+      "q": "After 1687, the Golconda-Hyderabad region eventually came under the rule of which 18th-century dynasty?",
+      "options": [
+        "The Peshwas",
+        "The Asaf Jahi Nizams",
+        "The Wadiyars",
+        "The Nawabs of Bengal"
+      ],
+      "answer": 1,
+      "explanation": "The Asaf Jahi Nizams later established their state at Hyderabad, the former Qutb Shahi heartland."
+    }
+  ]
+}

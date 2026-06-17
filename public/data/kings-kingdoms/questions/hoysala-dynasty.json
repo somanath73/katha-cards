@@ -1,0 +1,395 @@
+{
+  "cardId": "hoysala-dynasty",
+  "questions": [
+    {
+      "id": "hoysala-dynasty-q01",
+      "difficulty": "easy",
+      "q": "The Hoysalas are most famous for which achievement?",
+      "options": [
+        "Long sea voyages",
+        "Building a great canal network",
+        "Minting the first gold coins",
+        "Intricately carved temples"
+      ],
+      "answer": 3,
+      "explanation": "The Hoysalas are celebrated for their richly carved stone temples."
+    },
+    {
+      "id": "hoysala-dynasty-q02",
+      "difficulty": "easy",
+      "q": "In which region of the Deccan did the Hoysalas chiefly rule?",
+      "options": [
+        "The Gangetic plain",
+        "Coastal Kerala",
+        "The southern Deccan (modern Karnataka)",
+        "The Punjab"
+      ],
+      "answer": 2,
+      "explanation": "The Hoysalas ruled parts of the southern Deccan, largely in present-day Karnataka."
+    },
+    {
+      "id": "hoysala-dynasty-q03",
+      "difficulty": "easy",
+      "q": "Roughly during which centuries did the Hoysala dynasty flourish?",
+      "options": [
+        "4th to 6th centuries CE",
+        "16th to 18th centuries CE",
+        "1st to 3rd centuries CE",
+        "11th to 14th centuries CE"
+      ],
+      "answer": 3,
+      "explanation": "The Hoysalas ruled from roughly the 11th to the 14th centuries CE."
+    },
+    {
+      "id": "hoysala-dynasty-q04",
+      "difficulty": "easy",
+      "q": "Which town is a famous site of Hoysala temple architecture?",
+      "options": [
+        "Konark",
+        "Khajuraho",
+        "Mahabalipuram",
+        "Belur"
+      ],
+      "answer": 3,
+      "explanation": "Belur, with the Chennakeshava temple, is a celebrated Hoysala site."
+    },
+    {
+      "id": "hoysala-dynasty-q05",
+      "difficulty": "easy",
+      "q": "Hoysala temples are noted for their distinctive ground plan shaped like what?",
+      "options": [
+        "A circle",
+        "A star",
+        "A square fortress",
+        "A long rectangle"
+      ],
+      "answer": 1,
+      "explanation": "Many Hoysala temples have a star-shaped (stellate) plan."
+    },
+    {
+      "id": "hoysala-dynasty-q06",
+      "difficulty": "easy",
+      "q": "Besides Belur, which other town is renowned for its Hoysala temples?",
+      "options": [
+        "Hampi",
+        "Madurai",
+        "Halebidu",
+        "Thanjavur"
+      ],
+      "answer": 2,
+      "explanation": "Halebidu, with the Hoysaleswara temple, is a major Hoysala centre."
+    },
+    {
+      "id": "hoysala-dynasty-q07",
+      "difficulty": "easy",
+      "q": "The Keshava temple at which village is a well-preserved Hoysala monument?",
+      "options": [
+        "Somanathapura",
+        "Sanchi",
+        "Ajanta",
+        "Ellora"
+      ],
+      "answer": 0,
+      "explanation": "Somanathapura's Keshava temple is among the finest surviving Hoysala temples."
+    },
+    {
+      "id": "hoysala-dynasty-q08",
+      "difficulty": "easy",
+      "q": "The Hoysala realm declined amid upheavals of which century?",
+      "options": [
+        "The 8th century CE",
+        "The 18th century CE",
+        "The 14th century CE",
+        "The 2nd century CE"
+      ],
+      "answer": 2,
+      "explanation": "The Hoysala kingdom fell apart during the turbulent 14th century."
+    },
+    {
+      "id": "hoysala-dynasty-q09",
+      "difficulty": "easy",
+      "q": "Hoysala temples are typically built of which stone, suited to fine carving?",
+      "options": [
+        "White marble",
+        "Soapstone (chloritic schist)",
+        "Red sandstone",
+        "Granite slabs only"
+      ],
+      "answer": 1,
+      "explanation": "Hoysala sculptors used soft soapstone, which allowed extraordinarily detailed carving."
+    },
+    {
+      "id": "hoysala-dynasty-q10",
+      "difficulty": "easy",
+      "q": "In which modern Indian state do the major Hoysala temples lie?",
+      "options": [
+        "Tamil Nadu",
+        "Maharashtra",
+        "Odisha",
+        "Karnataka"
+      ],
+      "answer": 3,
+      "explanation": "Belur, Halebidu, and Somanathapura are all in the state of Karnataka."
+    },
+    {
+      "id": "hoysala-dynasty-q11",
+      "difficulty": "medium",
+      "q": "What was the principal capital of the Hoysala dynasty?",
+      "options": [
+        "Dwarasamudra (Halebidu)",
+        "Hampi",
+        "Warangal",
+        "Devagiri"
+      ],
+      "answer": 0,
+      "explanation": "The Hoysala capital was Dwarasamudra, today known as Halebidu."
+    },
+    {
+      "id": "hoysala-dynasty-q12",
+      "difficulty": "medium",
+      "q": "The famous Hoysala emblem depicts a warrior fighting which animal, tied to the dynasty's origin legend?",
+      "options": [
+        "An elephant",
+        "A lion (or tiger)",
+        "A serpent",
+        "A bull"
+      ],
+      "answer": 1,
+      "explanation": "The Hoysala crest shows the legendary founder Sala striking a lion, the origin of the name 'Hoy-Sala.'"
+    },
+    {
+      "id": "hoysala-dynasty-q13",
+      "difficulty": "medium",
+      "q": "Which Hoysala king built the Chennakeshava temple at Belur, traditionally to mark a victory?",
+      "options": [
+        "Veera Ballala III",
+        "Narasimha I",
+        "Bittideva's grandson alone",
+        "Vishnuvardhana"
+      ],
+      "answer": 3,
+      "explanation": "King Vishnuvardhana built the Chennakeshava temple at Belur, commemorating a victory."
+    },
+    {
+      "id": "hoysala-dynasty-q14",
+      "difficulty": "medium",
+      "q": "The Hoysalas began as feudatories of which larger Deccan dynasty before becoming independent?",
+      "options": [
+        "The Western Chalukyas (of Kalyani)",
+        "The Mughals",
+        "The Mauryas",
+        "The Pallavas"
+      ],
+      "answer": 0,
+      "explanation": "The Hoysalas first served as subordinates of the Western Chalukyas of Kalyani."
+    },
+    {
+      "id": "hoysala-dynasty-q15",
+      "difficulty": "medium",
+      "q": "King Vishnuvardhana is associated with conversion to which Vaishnava tradition under the saint Ramanuja's influence?",
+      "options": [
+        "Sri Vaishnavism",
+        "Veerashaivism only",
+        "Jainism",
+        "Buddhism"
+      ],
+      "answer": 0,
+      "explanation": "Vishnuvardhana, originally a Jain, is said to have embraced Sri Vaishnavism under Ramanuja's influence."
+    },
+    {
+      "id": "hoysala-dynasty-q16",
+      "difficulty": "medium",
+      "q": "Hoysala inscriptions and literature were composed chiefly in which language?",
+      "options": [
+        "Tamil",
+        "Telugu",
+        "Kannada",
+        "Marathi"
+      ],
+      "answer": 2,
+      "explanation": "The Hoysalas patronised Kannada, the dominant language of their realm, alongside Sanskrit."
+    },
+    {
+      "id": "hoysala-dynasty-q17",
+      "difficulty": "medium",
+      "q": "Which Hoysala ruler is regarded as the founder who consolidated early Hoysala power, sometimes called the dynasty's first notable king?",
+      "options": [
+        "Krishnadevaraya",
+        "Nripa Kama II / the early chiefs leading to independence",
+        "Pulakeshin II",
+        "Rajaraja I"
+      ],
+      "answer": 1,
+      "explanation": "Early Hoysala chiefs such as Nripa Kama II laid the foundations before Vishnuvardhana's expansion."
+    },
+    {
+      "id": "hoysala-dynasty-q18",
+      "difficulty": "medium",
+      "q": "The Hoysaleswara temple at Halebidu is dedicated to which deity?",
+      "options": [
+        "Vishnu",
+        "Surya",
+        "Shiva",
+        "Brahma"
+      ],
+      "answer": 2,
+      "explanation": "The twin Hoysaleswara temple at Halebidu is a Shiva temple, while Belur's Chennakeshava honours Vishnu."
+    },
+    {
+      "id": "hoysala-dynasty-q19",
+      "difficulty": "medium",
+      "q": "Hoysala sculptors often signed their work. Where are such artists' signatures typically found on the temples?",
+      "options": [
+        "Painted on the ceilings",
+        "Carved beneath their sculptures",
+        "Inscribed on coins",
+        "Written on palm-leaf scrolls only"
+      ],
+      "answer": 1,
+      "explanation": "Many Hoysala master sculptors proudly signed their carvings, a rare practice in Indian temple art."
+    },
+    {
+      "id": "hoysala-dynasty-q20",
+      "difficulty": "medium",
+      "q": "Which last great Hoysala ruler fought against the early invasions of the Delhi Sultanate into the south?",
+      "options": [
+        "Vishnuvardhana",
+        "Narasimha II",
+        "Veera Ballala III",
+        "Someshwara"
+      ],
+      "answer": 2,
+      "explanation": "Veera Ballala III, the last major Hoysala king, resisted the Delhi Sultanate's southern campaigns."
+    },
+    {
+      "id": "hoysala-dynasty-q21",
+      "difficulty": "medium",
+      "q": "Several Hoysala temples were inscribed as UNESCO World Heritage Sites in which year?",
+      "options": [
+        "2023",
+        "1985",
+        "2004",
+        "2014"
+      ],
+      "answer": 0,
+      "explanation": "The 'Sacred Ensembles of the Hoysalas' (Belur, Halebidu, Somanathapura) were listed by UNESCO in 2023."
+    },
+    {
+      "id": "hoysala-dynasty-q22",
+      "difficulty": "medium",
+      "q": "Hoysala temples are often called 'dvikuta' or 'trikuta'; what does this describe?",
+      "options": [
+        "Temples with two or three shrines/towers",
+        "Temples with two or three moats",
+        "Temples for two or three dynasties",
+        "Temples lasting two or three centuries"
+      ],
+      "answer": 0,
+      "explanation": "Dvikuta and trikuta refer to temples having two or three sanctums (and towers) respectively."
+    },
+    {
+      "id": "hoysala-dynasty-q23",
+      "difficulty": "hard",
+      "q": "Which Hoysala general and minister is famed for commissioning the Keshava temple at Somanathapura in 1268 CE?",
+      "options": [
+        "Bairam Khan",
+        "Tikkana",
+        "Somanatha Dandanayaka",
+        "Hemachandra"
+      ],
+      "answer": 2,
+      "explanation": "The commander Somanatha Dandanayaka built the Somanathapura Keshava temple under Narasimha III."
+    },
+    {
+      "id": "hoysala-dynasty-q24",
+      "difficulty": "hard",
+      "q": "Veera Ballala III died around 1342 fighting the forces of which southern sultanate?",
+      "options": [
+        "The Bahmani Sultanate",
+        "The Madurai Sultanate",
+        "The Bijapur Sultanate",
+        "The Golconda Sultanate"
+      ],
+      "answer": 1,
+      "explanation": "Veera Ballala III was killed by the Madurai (Ma'bar) Sultanate near Tiruchirapalli around 1342."
+    },
+    {
+      "id": "hoysala-dynasty-q25",
+      "difficulty": "hard",
+      "q": "After the Hoysala collapse, much of their territory was absorbed into which rising empire?",
+      "options": [
+        "The Mughal Empire",
+        "The Vijayanagara Empire",
+        "The Maratha Empire",
+        "The Sikh Empire"
+      ],
+      "answer": 1,
+      "explanation": "The newly founded Vijayanagara Empire inherited much of the former Hoysala domain in the mid-14th century."
+    },
+    {
+      "id": "hoysala-dynasty-q26",
+      "difficulty": "hard",
+      "q": "The Chennakeshava temple at Belur is celebrated for its elaborately carved bracket figures of celestial maidens called what?",
+      "options": [
+        "Apsaras of Ajanta",
+        "Madanikas (salabhanjikas)",
+        "Yakshis of Sanchi",
+        "Devadasis of Konark"
+      ],
+      "answer": 1,
+      "explanation": "Belur's famous bracket sculptures of celestial women are known as madanikas or salabhanjikas."
+    },
+    {
+      "id": "hoysala-dynasty-q27",
+      "difficulty": "hard",
+      "q": "What architectural feature, a raised platform that follows the star-shaped plan, surrounds many Hoysala temples and serves as a circumambulation path?",
+      "options": [
+        "The gopuram",
+        "The qibla",
+        "The torana",
+        "The jagati"
+      ],
+      "answer": 3,
+      "explanation": "Hoysala temples often stand on a raised stellate platform called the jagati for circumambulation."
+    },
+    {
+      "id": "hoysala-dynasty-q28",
+      "difficulty": "hard",
+      "q": "Which Hoysala king moved the dynasty's secondary capital and was active in the Tamil country, intervening among the Pandyas and Cholas?",
+      "options": [
+        "Bimbisara",
+        "Kanishka",
+        "Mihira Bhoja",
+        "Veera Ballala III (and predecessors operating in the Tamil country)"
+      ],
+      "answer": 3,
+      "explanation": "Later Hoysalas, notably Veera Ballala III, set up a base at Tiruvannamalai and intervened in Tamil dynastic affairs."
+    },
+    {
+      "id": "hoysala-dynasty-q29",
+      "difficulty": "hard",
+      "q": "The narrative friezes on the lower bands of Hoysala temple walls typically depict scenes from which texts?",
+      "options": [
+        "The Ramayana, Mahabharata and Puranas",
+        "The Arthashastra",
+        "Greek epics",
+        "Persian court chronicles"
+      ],
+      "answer": 0,
+      "explanation": "Horizontal friezes on Hoysala temples narrate episodes from the Ramayana, Mahabharata, and Puranas."
+    },
+    {
+      "id": "hoysala-dynasty-q30",
+      "difficulty": "hard",
+      "q": "The Hoysala dynasty's name, by tradition, arose from a command meaning what, spoken by a sage to the founder Sala?",
+      "options": [
+        "'Strike, Sala!' (Hoy, Sala)",
+        "'Run, Sala!'",
+        "'Pray, Sala!'",
+        "'Build, Sala!'"
+      ],
+      "answer": 0,
+      "explanation": "Legend says a Jain sage cried 'Hoy, Sala!' ('Strike, Sala!') as Sala killed a lion/tiger, giving the dynasty its name."
+    }
+  ]
+}

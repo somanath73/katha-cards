@@ -1,0 +1,395 @@
+{
+  "cardId": "delhi-sultanate",
+  "questions": [
+    {
+      "id": "delhi-sultanate-q01",
+      "difficulty": "easy",
+      "q": "In which year was the Delhi Sultanate founded?",
+      "options": [
+        "1192 CE",
+        "1290 CE",
+        "1320 CE",
+        "1206 CE"
+      ],
+      "answer": 3,
+      "explanation": "The Delhi Sultanate is conventionally dated from 1206 CE, when Qutb-ud-din Aibak established Turkish rule at Delhi."
+    },
+    {
+      "id": "delhi-sultanate-q02",
+      "difficulty": "easy",
+      "q": "In which year did the Delhi Sultanate effectively come to an end?",
+      "options": [
+        "1498 CE",
+        "1605 CE",
+        "1526 CE",
+        "1556 CE"
+      ],
+      "answer": 2,
+      "explanation": "The Sultanate ended in 1526 CE when Babur defeated Ibrahim Lodi at the First Battle of Panipat, founding the Mughal Empire."
+    },
+    {
+      "id": "delhi-sultanate-q03",
+      "difficulty": "easy",
+      "q": "How many successive dynasties ruled the Delhi Sultanate?",
+      "options": [
+        "Three",
+        "Seven",
+        "Five",
+        "Two"
+      ],
+      "answer": 2,
+      "explanation": "Five dynasties ruled in succession: the Mamluk (Slave), Khalji, Tughlaq, Sayyid, and Lodi."
+    },
+    {
+      "id": "delhi-sultanate-q04",
+      "difficulty": "easy",
+      "q": "Which city served as the principal capital of the Delhi Sultanate?",
+      "options": [
+        "Agra",
+        "Gulbarga",
+        "Delhi",
+        "Lahore"
+      ],
+      "answer": 2,
+      "explanation": "Delhi was the seat of the Sultanate, which takes its name from the city, though the capital briefly shifted under Muhammad bin Tughlaq."
+    },
+    {
+      "id": "delhi-sultanate-q05",
+      "difficulty": "easy",
+      "q": "The Delhi Sultanate was a state ruled by sultans of which faith?",
+      "options": [
+        "Buddhism",
+        "Jainism",
+        "Islam",
+        "Hinduism"
+      ],
+      "answer": 2,
+      "explanation": "The Delhi Sultanate was a Muslim state, its rulers being Turkish, Afghan, and other Muslim dynasts."
+    },
+    {
+      "id": "delhi-sultanate-q06",
+      "difficulty": "easy",
+      "q": "Which empire supplanted the Delhi Sultanate in northern India?",
+      "options": [
+        "The Vijayanagara Empire",
+        "The Gupta Empire",
+        "The Mughal Empire",
+        "The Maratha Empire"
+      ],
+      "answer": 2,
+      "explanation": "The Mughal Empire, founded by Babur in 1526, replaced the Delhi Sultanate as the dominant power in the north."
+    },
+    {
+      "id": "delhi-sultanate-q07",
+      "difficulty": "easy",
+      "q": "The first dynasty of the Delhi Sultanate is commonly known by which name?",
+      "options": [
+        "The Tughlaq dynasty",
+        "The Slave (Mamluk) dynasty",
+        "The Lodi dynasty",
+        "The Khalji dynasty"
+      ],
+      "answer": 1,
+      "explanation": "The Mamluk or Slave dynasty, founded by the former slave Qutb-ud-din Aibak, was the first of the five dynasties."
+    },
+    {
+      "id": "delhi-sultanate-q08",
+      "difficulty": "easy",
+      "q": "The Delhi Sultanate ruled during which broad period of Indian history?",
+      "options": [
+        "Medieval period",
+        "Mauryan period",
+        "Colonial British period",
+        "Ancient Vedic period"
+      ],
+      "answer": 0,
+      "explanation": "Spanning 1206 to 1526 CE, the Sultanate was a central feature of medieval Indian history."
+    },
+    {
+      "id": "delhi-sultanate-q09",
+      "difficulty": "easy",
+      "q": "The last dynasty to rule the Delhi Sultanate was the:",
+      "options": [
+        "Sayyid dynasty",
+        "Mamluk dynasty",
+        "Khalji dynasty",
+        "Lodi dynasty"
+      ],
+      "answer": 3,
+      "explanation": "The Afghan Lodi dynasty was the fifth and final ruling house of the Sultanate before the Mughal conquest."
+    },
+    {
+      "id": "delhi-sultanate-q10",
+      "difficulty": "easy",
+      "q": "Which battle of 1192 CE paved the way for the founding of the Delhi Sultanate?",
+      "options": [
+        "Battle of Haldighati",
+        "Battle of Talikota",
+        "Battle of Plassey",
+        "Second Battle of Tarain"
+      ],
+      "answer": 3,
+      "explanation": "Muhammad of Ghor's victory over Prithviraj Chauhan at the Second Battle of Tarain in 1192 opened northern India to Turkish rule."
+    },
+    {
+      "id": "delhi-sultanate-q11",
+      "difficulty": "medium",
+      "q": "Which is the correct chronological order of the five dynasties of the Delhi Sultanate?",
+      "options": [
+        "Tughlaq, Khalji, Mamluk, Sayyid, Lodi",
+        "Mamluk, Khalji, Tughlaq, Sayyid, Lodi",
+        "Khalji, Mamluk, Tughlaq, Lodi, Sayyid",
+        "Mamluk, Tughlaq, Khalji, Lodi, Sayyid"
+      ],
+      "answer": 1,
+      "explanation": "The dynasties ruled in the order Mamluk, Khalji, Tughlaq, Sayyid, and finally Lodi."
+    },
+    {
+      "id": "delhi-sultanate-q12",
+      "difficulty": "medium",
+      "q": "The Khalji dynasty came to power in Delhi in which year?",
+      "options": [
+        "1414 CE",
+        "1290 CE",
+        "1206 CE",
+        "1320 CE"
+      ],
+      "answer": 1,
+      "explanation": "Jalaluddin Khalji founded the Khalji dynasty in 1290, ending the Mamluk line."
+    },
+    {
+      "id": "delhi-sultanate-q13",
+      "difficulty": "medium",
+      "q": "The Tughlaq dynasty was established in Delhi in which year?",
+      "options": [
+        "1290 CE",
+        "1320 CE",
+        "1414 CE",
+        "1451 CE"
+      ],
+      "answer": 1,
+      "explanation": "Ghiyasuddin Tughlaq founded the Tughlaq dynasty in 1320 after the fall of the Khaljis."
+    },
+    {
+      "id": "delhi-sultanate-q14",
+      "difficulty": "medium",
+      "q": "Which Sultan of Delhi notably attempted to shift the capital to Daulatabad in the Deccan?",
+      "options": [
+        "Alauddin Khalji",
+        "Muhammad bin Tughlaq",
+        "Balban",
+        "Firuz Shah Tughlaq"
+      ],
+      "answer": 1,
+      "explanation": "Muhammad bin Tughlaq's ambitious and ill-fated transfer of the capital to Daulatabad is a famous episode of Sultanate history."
+    },
+    {
+      "id": "delhi-sultanate-q15",
+      "difficulty": "medium",
+      "q": "The Sayyid dynasty of Delhi came to power following whose devastating invasion of 1398?",
+      "options": [
+        "Timur",
+        "Nadir Shah",
+        "Genghis Khan",
+        "Babur"
+      ],
+      "answer": 0,
+      "explanation": "Timur's sack of Delhi in 1398 shattered Tughlaq power, and the Sayyids emerged in the weakened aftermath in 1414."
+    },
+    {
+      "id": "delhi-sultanate-q16",
+      "difficulty": "medium",
+      "q": "Which Khalji Sultan introduced sweeping market price controls in Delhi?",
+      "options": [
+        "Qutbuddin Mubarak Shah",
+        "Jalaluddin Khalji",
+        "Balban",
+        "Alauddin Khalji"
+      ],
+      "answer": 3,
+      "explanation": "Alauddin Khalji (r. 1296-1316) is known for his rigorous market reforms and price regulations to sustain his army."
+    },
+    {
+      "id": "delhi-sultanate-q17",
+      "difficulty": "medium",
+      "q": "Which Sultan founded the Lodi dynasty in 1451 CE?",
+      "options": [
+        "Ibrahim Lodi",
+        "Bahlul Lodi",
+        "Khizr Khan",
+        "Sikandar Lodi"
+      ],
+      "answer": 1,
+      "explanation": "Bahlul Lodi founded the Afghan Lodi dynasty in 1451, ending the Sayyid line."
+    },
+    {
+      "id": "delhi-sultanate-q18",
+      "difficulty": "medium",
+      "q": "Which Lodi Sultan is credited with founding the city of Agra as a capital?",
+      "options": [
+        "Daulat Khan Lodi",
+        "Sikandar Lodi",
+        "Bahlul Lodi",
+        "Ibrahim Lodi"
+      ],
+      "answer": 1,
+      "explanation": "Sikandar Lodi founded Agra in 1504 and shifted his capital there from Delhi."
+    },
+    {
+      "id": "delhi-sultanate-q19",
+      "difficulty": "medium",
+      "q": "Which religious tradition flourished alongside Sultanate rule, with figures like Nizamuddin Auliya?",
+      "options": [
+        "Zoroastrianism",
+        "Theravada Buddhism",
+        "Sufism",
+        "Jainism"
+      ],
+      "answer": 2,
+      "explanation": "Sufi orders such as the Chishti, with saints like Nizamuddin Auliya, spread widely during the Sultanate period."
+    },
+    {
+      "id": "delhi-sultanate-q20",
+      "difficulty": "medium",
+      "q": "The Persian poet and scholar associated with several Sultanate courts in Delhi was:",
+      "options": [
+        "Firdausi",
+        "Hafiz",
+        "Amir Khusrau",
+        "Rumi"
+      ],
+      "answer": 2,
+      "explanation": "Amir Khusrau, a poet and musician, served at the courts of several Delhi Sultans and is a celebrated figure of the era."
+    },
+    {
+      "id": "delhi-sultanate-q21",
+      "difficulty": "medium",
+      "q": "Which Sultan repelled repeated Mongol invasions of the Sultanate's northwest frontier around 1300 CE?",
+      "options": [
+        "Iltutmish",
+        "Alauddin Khalji",
+        "Firuz Shah Tughlaq",
+        "Razia Sultana"
+      ],
+      "answer": 1,
+      "explanation": "Alauddin Khalji successfully repulsed a series of Mongol incursions during his reign, strengthening the Sultanate's defences."
+    },
+    {
+      "id": "delhi-sultanate-q22",
+      "difficulty": "medium",
+      "q": "The southern campaigns that extended Sultanate authority deep into the Deccan were led by generals of which Sultan?",
+      "options": [
+        "Alauddin Khalji",
+        "Ghiyasuddin Tughlaq",
+        "Bahlul Lodi",
+        "Qutb-ud-din Aibak"
+      ],
+      "answer": 0,
+      "explanation": "Alauddin Khalji's general Malik Kafur led campaigns that carried Sultanate power far into peninsular India."
+    },
+    {
+      "id": "delhi-sultanate-q23",
+      "difficulty": "hard",
+      "q": "Which contemporary chronicler wrote the Tarikh-i-Firuz Shahi, a key history of the Sultanate?",
+      "options": [
+        "Ziauddin Barani",
+        "Ferishta",
+        "Al-Biruni",
+        "Abul Fazl"
+      ],
+      "answer": 0,
+      "explanation": "Ziauddin Barani's Tarikh-i-Firuz Shahi is a major source for the history of the later Mamluk, Khalji, and Tughlaq periods."
+    },
+    {
+      "id": "delhi-sultanate-q24",
+      "difficulty": "hard",
+      "q": "The token currency experiment, issuing bronze and copper coins as legal tender, was undertaken by which Sultan?",
+      "options": [
+        "Muhammad bin Tughlaq",
+        "Alauddin Khalji",
+        "Firuz Shah Tughlaq",
+        "Bahlul Lodi"
+      ],
+      "answer": 0,
+      "explanation": "Muhammad bin Tughlaq's token currency, easily counterfeited, became a famous example of a failed monetary scheme."
+    },
+    {
+      "id": "delhi-sultanate-q25",
+      "difficulty": "hard",
+      "q": "Which Sultan abolished many illegal taxes and is known for extensive public works including canals?",
+      "options": [
+        "Muhammad bin Tughlaq",
+        "Alauddin Khalji",
+        "Sikandar Lodi",
+        "Firuz Shah Tughlaq"
+      ],
+      "answer": 3,
+      "explanation": "Firuz Shah Tughlaq (r. 1351-1388) is remembered for canals, towns, and the founding of cities such as Firozabad."
+    },
+    {
+      "id": "delhi-sultanate-q26",
+      "difficulty": "hard",
+      "q": "Under the Tughlaqs, the Bahmani Sultanate broke away in 1347 in which region?",
+      "options": [
+        "The Deccan",
+        "Gujarat",
+        "Bengal",
+        "Punjab"
+      ],
+      "answer": 0,
+      "explanation": "The Bahmani Sultanate's secession in the Deccan in 1347 marked the start of the Sultanate's loss of southern territories."
+    },
+    {
+      "id": "delhi-sultanate-q27",
+      "difficulty": "hard",
+      "q": "Which last Mamluk-era Sultan strengthened royal authority and enforced strict court etiquette like the sijda?",
+      "options": [
+        "Aram Shah",
+        "Iltutmish",
+        "Kaiqubad",
+        "Balban"
+      ],
+      "answer": 3,
+      "explanation": "Balban restored the prestige of the crown, demanding prostration (sijda) and crushing rival nobles to centralise power."
+    },
+    {
+      "id": "delhi-sultanate-q28",
+      "difficulty": "hard",
+      "q": "The iqta system, central to Sultanate administration, primarily concerned the:",
+      "options": [
+        "Assignment of revenue from land in lieu of salary",
+        "Organisation of trade guilds",
+        "Codification of religious law",
+        "Election of the Sultan by nobles"
+      ],
+      "answer": 0,
+      "explanation": "Under the iqta system, officials and military commanders were granted revenue rights over territory in return for service."
+    },
+    {
+      "id": "delhi-sultanate-q29",
+      "difficulty": "hard",
+      "q": "Which Sultan, the founder of the Tughlaq line, defeated the usurper Khusrau Khan to take the throne?",
+      "options": [
+        "Muhammad bin Tughlaq",
+        "Alauddin Khalji",
+        "Firuz Shah Tughlaq",
+        "Ghiyasuddin Tughlaq"
+      ],
+      "answer": 3,
+      "explanation": "Ghiyasuddin Tughlaq (Ghazi Malik) overthrew Khusrau Khan in 1320 to establish the Tughlaq dynasty."
+    },
+    {
+      "id": "delhi-sultanate-q30",
+      "difficulty": "hard",
+      "q": "Which dynasty ruled for the longest single span among the five dynasties of the Delhi Sultanate?",
+      "options": [
+        "The Tughlaq dynasty",
+        "The Sayyid dynasty",
+        "The Khalji dynasty",
+        "The Lodi dynasty"
+      ],
+      "answer": 0,
+      "explanation": "The Tughlaq dynasty (1320-1414) endured the longest of the five, despite later fragmentation of its empire."
+    }
+  ]
+}

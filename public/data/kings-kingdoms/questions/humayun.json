@@ -1,0 +1,395 @@
+{
+  "cardId": "humayun",
+  "questions": [
+    {
+      "id": "humayun-q01",
+      "difficulty": "easy",
+      "q": "Humayun was which emperor in the line of Mughal rulers?",
+      "options": [
+        "The second",
+        "The first",
+        "The third",
+        "The fourth"
+      ],
+      "answer": 0,
+      "explanation": "Humayun was the second Mughal emperor, succeeding his father Babur."
+    },
+    {
+      "id": "humayun-q02",
+      "difficulty": "easy",
+      "q": "Whose son was Humayun?",
+      "options": [
+        "Akbar",
+        "Babur",
+        "Sher Shah Suri",
+        "Timur"
+      ],
+      "answer": 1,
+      "explanation": "Humayun was the son of Babur, the founder of the Mughal Empire."
+    },
+    {
+      "id": "humayun-q03",
+      "difficulty": "easy",
+      "q": "Who drove Humayun out of India, forcing him into exile?",
+      "options": [
+        "Rana Sanga",
+        "Ibrahim Lodi",
+        "Sher Shah Suri",
+        "Hemu"
+      ],
+      "answer": 2,
+      "explanation": "Humayun lost his throne to the Afghan ruler Sher Shah Suri."
+    },
+    {
+      "id": "humayun-q04",
+      "difficulty": "easy",
+      "q": "In which land did Humayun spend years in exile?",
+      "options": [
+        "China",
+        "Egypt",
+        "Portugal",
+        "Persia"
+      ],
+      "answer": 3,
+      "explanation": "Humayun spent years in exile at the Safavid court in Persia."
+    },
+    {
+      "id": "humayun-q05",
+      "difficulty": "easy",
+      "q": "In which year did Humayun reclaim Delhi?",
+      "options": [
+        "1555",
+        "1526",
+        "1540",
+        "1605"
+      ],
+      "answer": 0,
+      "explanation": "Humayun reclaimed Delhi in 1555 after years of exile."
+    },
+    {
+      "id": "humayun-q06",
+      "difficulty": "easy",
+      "q": "Who succeeded Humayun as Mughal emperor?",
+      "options": [
+        "Jahangir",
+        "Akbar",
+        "Babur",
+        "Shah Jahan"
+      ],
+      "answer": 1,
+      "explanation": "Humayun's young son Akbar succeeded him after his death in 1556."
+    },
+    {
+      "id": "humayun-q07",
+      "difficulty": "easy",
+      "q": "Roughly how soon after reclaiming his throne did Humayun die?",
+      "options": [
+        "After twenty years",
+        "After fifty years",
+        "Within about a year",
+        "On the same day"
+      ],
+      "answer": 2,
+      "explanation": "Humayun died in early 1556, only months after recovering Delhi in 1555."
+    },
+    {
+      "id": "humayun-q08",
+      "difficulty": "easy",
+      "q": "Humayun's tomb is located in which city?",
+      "options": [
+        "Agra",
+        "Lahore",
+        "Kabul",
+        "Delhi"
+      ],
+      "answer": 3,
+      "explanation": "Humayun's Tomb, an architectural landmark, stands in Delhi and is a UNESCO World Heritage Site."
+    },
+    {
+      "id": "humayun-q09",
+      "difficulty": "easy",
+      "q": "The card describes Humayun with which epithet?",
+      "options": [
+        "The Fortune-Tossed Emperor",
+        "The Administrator King",
+        "Akbar the Great",
+        "The Lion of Punjab"
+      ],
+      "answer": 0,
+      "explanation": "Humayun is described as 'The Fortune-Tossed Emperor' for his turbulent reign of loss and recovery."
+    },
+    {
+      "id": "humayun-q10",
+      "difficulty": "easy",
+      "q": "Which empire did Humayun rule?",
+      "options": [
+        "The Maratha Empire",
+        "The Mughal Empire",
+        "The Gupta Empire",
+        "The Vijayanagara Empire"
+      ],
+      "answer": 1,
+      "explanation": "Humayun was the second emperor of the Mughal Empire founded by his father Babur."
+    },
+    {
+      "id": "humayun-q11",
+      "difficulty": "medium",
+      "q": "In which year did Humayun first lose his throne to Sher Shah Suri?",
+      "options": [
+        "1526",
+        "1556",
+        "1540",
+        "1530"
+      ],
+      "answer": 2,
+      "explanation": "After defeats at Chausa and Kannauj, Humayun lost his empire to Sher Shah Suri by 1540."
+    },
+    {
+      "id": "humayun-q12",
+      "difficulty": "medium",
+      "q": "At which 1539 battle did Sher Shah defeat Humayun, with many drowning in the Ganges?",
+      "options": [
+        "Battle of Khanwa",
+        "Battle of Plassey",
+        "Battle of Talikota",
+        "Battle of Chausa"
+      ],
+      "answer": 3,
+      "explanation": "The Battle of Chausa in 1539 was a major defeat for Humayun against Sher Shah."
+    },
+    {
+      "id": "humayun-q13",
+      "difficulty": "medium",
+      "q": "At which 1540 battle did Sher Shah decisively defeat Humayun, driving him from India?",
+      "options": [
+        "Battle of Kannauj (Bilgram)",
+        "Battle of Panipat",
+        "Battle of Buxar",
+        "Battle of Haldighati"
+      ],
+      "answer": 0,
+      "explanation": "The Battle of Kannauj in 1540 sealed Humayun's loss of the empire to Sher Shah Suri."
+    },
+    {
+      "id": "humayun-q14",
+      "difficulty": "medium",
+      "q": "Which Safavid Persian ruler gave Humayun refuge during his exile?",
+      "options": [
+        "Shah Abbas I",
+        "Shah Tahmasp I",
+        "Nadir Shah",
+        "Cyrus"
+      ],
+      "answer": 1,
+      "explanation": "Shah Tahmasp I of Safavid Persia sheltered Humayun and aided his return."
+    },
+    {
+      "id": "humayun-q15",
+      "difficulty": "medium",
+      "q": "Akbar, who succeeded Humayun, was born during his father's exile in which town?",
+      "options": [
+        "Kabul",
+        "Samarkand",
+        "Amarkot (Umerkot)",
+        "Lahore"
+      ],
+      "answer": 2,
+      "explanation": "Akbar was born at Amarkot in Sindh in 1542 while Humayun was a fugitive."
+    },
+    {
+      "id": "humayun-q16",
+      "difficulty": "medium",
+      "q": "How did Humayun die in 1556?",
+      "options": [
+        "In battle",
+        "By poisoning",
+        "Of old age in his sleep",
+        "From a fall down the steps of his library"
+      ],
+      "answer": 3,
+      "explanation": "Humayun died after falling down the stone steps of his library in Delhi."
+    },
+    {
+      "id": "humayun-q17",
+      "difficulty": "medium",
+      "q": "Which loyal noble served as Humayun's chief general and later as regent for the young Akbar?",
+      "options": [
+        "Bairam Khan",
+        "Todar Mal",
+        "Man Singh",
+        "Tansen"
+      ],
+      "answer": 0,
+      "explanation": "Bairam Khan was Humayun's trusted general and became regent for the boy-emperor Akbar."
+    },
+    {
+      "id": "humayun-q18",
+      "difficulty": "medium",
+      "q": "Humayun's Tomb in Delhi is notable as the first major Mughal example of which feature?",
+      "options": [
+        "A rock-cut shrine",
+        "A garden-tomb with a large dome (charbagh setting)",
+        "A pyramid",
+        "A wooden pagoda"
+      ],
+      "answer": 1,
+      "explanation": "Humayun's Tomb pioneered the Mughal garden-tomb (charbagh) form and influenced the Taj Mahal."
+    },
+    {
+      "id": "humayun-q19",
+      "difficulty": "medium",
+      "q": "Conflict with which of his own relatives, including Kamran Mirza, weakened Humayun's position?",
+      "options": [
+        "His grandfather",
+        "His daughters",
+        "His rebellious brothers",
+        "His Persian hosts"
+      ],
+      "answer": 2,
+      "explanation": "Humayun was undermined by rivalry with his brothers, especially Kamran Mirza, during his struggles."
+    },
+    {
+      "id": "humayun-q20",
+      "difficulty": "medium",
+      "q": "The name 'Humayun' carries which meaning, fitting his eventual fortunes?",
+      "options": [
+        "The conqueror",
+        "The just",
+        "The wise",
+        "Fortunate or auspicious"
+      ],
+      "answer": 3,
+      "explanation": "Humayun means 'fortunate' or 'auspicious', ironic given his early misfortunes before his recovery."
+    },
+    {
+      "id": "humayun-q21",
+      "difficulty": "medium",
+      "q": "Roughly how many years did Humayun spend away from his empire before reclaiming Delhi?",
+      "options": [
+        "About fifteen years",
+        "About two months",
+        "About forty years",
+        "About one week"
+      ],
+      "answer": 0,
+      "explanation": "Humayun was out of power from 1540 to 1555, around fifteen years, before his return."
+    },
+    {
+      "id": "humayun-q22",
+      "difficulty": "hard",
+      "q": "Humayun's Tomb in Delhi was commissioned by whom?",
+      "options": [
+        "Akbar's wife",
+        "His widow Bega Begum (Haji Begum)",
+        "Sher Shah Suri",
+        "Bairam Khan"
+      ],
+      "answer": 1,
+      "explanation": "Humayun's Tomb was commissioned by his widow Bega Begum, also called Haji Begum."
+    },
+    {
+      "id": "humayun-q23",
+      "difficulty": "hard",
+      "q": "Which Persian-trained architect is traditionally credited with designing Humayun's Tomb?",
+      "options": [
+        "Ustad Ahmad Lahori",
+        "Ustad Isa",
+        "Mirak Mirza Ghiyas",
+        "Sinan"
+      ],
+      "answer": 2,
+      "explanation": "Mirak Mirza Ghiyas is the architect traditionally credited with Humayun's Tomb."
+    },
+    {
+      "id": "humayun-q24",
+      "difficulty": "hard",
+      "q": "During his exile, Humayun briefly took refuge with which ruler before reaching Persia?",
+      "options": [
+        "The Nizam of Hyderabad",
+        "The Maratha Peshwa",
+        "The king of Portugal",
+        "The ruler of Sindh and then onward"
+      ],
+      "answer": 3,
+      "explanation": "Humayun wandered through Sindh and the deserts before securing Safavid Persian support."
+    },
+    {
+      "id": "humayun-q25",
+      "difficulty": "hard",
+      "q": "With Persian help, Humayun first recaptured which strongholds before advancing on India?",
+      "options": [
+        "Kandahar and Kabul",
+        "Bengal and Bihar",
+        "Gujarat and Malwa",
+        "Sindh and Multan only"
+      ],
+      "answer": 0,
+      "explanation": "Backed by Persia, Humayun seized Kandahar and Kabul before reconquering north India."
+    },
+    {
+      "id": "humayun-q26",
+      "difficulty": "hard",
+      "q": "Humayun's reconquest of Delhi in 1555 was made easier by the disintegration of which dynasty?",
+      "options": [
+        "The Lodi dynasty",
+        "The Sur dynasty after Sher Shah's death",
+        "The Khalji dynasty",
+        "The Sayyid dynasty"
+      ],
+      "answer": 1,
+      "explanation": "The Sur empire fragmented into rival claimants after Sher Shah's death, easing Humayun's return."
+    },
+    {
+      "id": "humayun-q27",
+      "difficulty": "hard",
+      "q": "An intimate Persian-language memoir of Humayun's life was written by his half-sister; what is she called?",
+      "options": [
+        "Nur Jahan",
+        "Jahanara",
+        "Gulbadan Begum (author of the Humayun-nama)",
+        "Roshanara"
+      ],
+      "answer": 2,
+      "explanation": "Gulbadan Begum, Humayun's half-sister, wrote the Humayun-nama, a rare first-hand court memoir."
+    },
+    {
+      "id": "humayun-q28",
+      "difficulty": "hard",
+      "q": "Humayun is said to have divided his early administration according to the elements, an unusual scheme reflecting his interest in what?",
+      "options": [
+        "Maritime trade",
+        "Naval gunnery",
+        "Vineyard cultivation",
+        "Astrology and the occult sciences"
+      ],
+      "answer": 3,
+      "explanation": "Humayun had a noted fascination with astrology, even organising aspects of his court by the elements and planets."
+    },
+    {
+      "id": "humayun-q29",
+      "difficulty": "hard",
+      "q": "The famed Persian painters Mir Sayyid Ali and Abd al-Samad, who later seeded Mughal painting, joined whose service during the exile?",
+      "options": [
+        "Humayun's",
+        "Sher Shah's",
+        "Rana Sanga's",
+        "Babur's"
+      ],
+      "answer": 0,
+      "explanation": "Humayun recruited Persian masters Mir Sayyid Ali and Abd al-Samad, founding the Mughal painting workshop later expanded under Akbar."
+    },
+    {
+      "id": "humayun-q30",
+      "difficulty": "medium",
+      "q": "Whom did Humayun defeat at the Battle of Sirhind in 1555 to clear his path back to Delhi?",
+      "options": [
+        "Rana Sanga",
+        "The Sur forces of Sikandar Shah Suri",
+        "Hemu",
+        "Ibrahim Lodi"
+      ],
+      "answer": 1,
+      "explanation": "At Sirhind in 1555, Humayun's forces under Bairam Khan defeated Sikandar Shah Suri, opening the road to Delhi."
+    }
+  ]
+}

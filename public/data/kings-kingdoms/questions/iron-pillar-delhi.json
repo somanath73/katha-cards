@@ -1,0 +1,395 @@
+{
+  "cardId": "iron-pillar-delhi",
+  "questions": [
+    {
+      "id": "iron-pillar-delhi-q01",
+      "difficulty": "easy",
+      "q": "The Iron Pillar of Delhi is most famous for which remarkable property?",
+      "options": [
+        "Resisting rust for over a millennium",
+        "Glowing in the dark",
+        "Changing colour with the seasons",
+        "Floating slightly above its base"
+      ],
+      "answer": 0,
+      "explanation": "The pillar is celebrated for having resisted corrosion for over 1,600 years, a testament to early Indian metallurgy."
+    },
+    {
+      "id": "iron-pillar-delhi-q02",
+      "difficulty": "easy",
+      "q": "In which Indian city does the Iron Pillar now stand?",
+      "options": [
+        "Agra",
+        "Delhi",
+        "Varanasi",
+        "Patna"
+      ],
+      "answer": 1,
+      "explanation": "The Iron Pillar stands in the Qutb complex in Delhi."
+    },
+    {
+      "id": "iron-pillar-delhi-q03",
+      "difficulty": "easy",
+      "q": "The Iron Pillar is primarily made of which material?",
+      "options": [
+        "Bronze",
+        "Cast steel",
+        "Wrought iron",
+        "Copper"
+      ],
+      "answer": 2,
+      "explanation": "The pillar is a column of wrought iron, notable for its purity and resistance to corrosion."
+    },
+    {
+      "id": "iron-pillar-delhi-q04",
+      "difficulty": "easy",
+      "q": "Within which famous architectural complex is the Iron Pillar located today?",
+      "options": [
+        "Red Fort complex",
+        "Humayun's Tomb complex",
+        "Fatehpur Sikri complex",
+        "Qutb complex"
+      ],
+      "answer": 3,
+      "explanation": "The Iron Pillar stands within the Qutb complex near the Qutb Minar in Delhi."
+    },
+    {
+      "id": "iron-pillar-delhi-q05",
+      "difficulty": "easy",
+      "q": "To which era is the Iron Pillar generally dated?",
+      "options": [
+        "Mughal era",
+        "Gupta era",
+        "Mauryan era",
+        "British era"
+      ],
+      "answer": 1,
+      "explanation": "The pillar dates to the Gupta period, around the 4th-5th century CE."
+    },
+    {
+      "id": "iron-pillar-delhi-q06",
+      "difficulty": "easy",
+      "q": "In which language and script is the main inscription on the Iron Pillar written?",
+      "options": [
+        "Persian",
+        "Pali",
+        "Sanskrit",
+        "Tamil"
+      ],
+      "answer": 2,
+      "explanation": "The pillar bears a Sanskrit inscription in the Gupta-era Brahmi script."
+    },
+    {
+      "id": "iron-pillar-delhi-q07",
+      "difficulty": "easy",
+      "q": "The inscription on the Iron Pillar honours a king bearing which name?",
+      "options": [
+        "Skanda",
+        "Vikrama",
+        "Bhanu",
+        "Chandra"
+      ],
+      "answer": 3,
+      "explanation": "The Sanskrit inscription praises a powerful king referred to as Chandra."
+    },
+    {
+      "id": "iron-pillar-delhi-q08",
+      "difficulty": "easy",
+      "q": "The Iron Pillar is widely regarded as a showcase of early Indian achievement in which field?",
+      "options": [
+        "Metallurgy",
+        "Astronomy",
+        "Cartography",
+        "Medicine"
+      ],
+      "answer": 0,
+      "explanation": "The pillar is a celebrated example of the metallurgical skill of ancient Indian ironsmiths."
+    },
+    {
+      "id": "iron-pillar-delhi-q09",
+      "difficulty": "easy",
+      "q": "Approximately how long has the Iron Pillar resisted significant rusting?",
+      "options": [
+        "About a century",
+        "A few decades",
+        "Over a millennium",
+        "Around three hundred years"
+      ],
+      "answer": 2,
+      "explanation": "The pillar has resisted corrosion for over a thousand years, drawing worldwide scientific interest."
+    },
+    {
+      "id": "iron-pillar-delhi-q10",
+      "difficulty": "easy",
+      "q": "The Iron Pillar is best described as which kind of object?",
+      "options": [
+        "A horizontal beam",
+        "A hollow dome",
+        "A carved gateway",
+        "A free-standing column"
+      ],
+      "answer": 3,
+      "explanation": "The pillar is a tall, free-standing wrought-iron column."
+    },
+    {
+      "id": "iron-pillar-delhi-q11",
+      "difficulty": "medium",
+      "q": "The king Chandra named in the inscription is most often identified by historians with which Gupta emperor?",
+      "options": [
+        "Chandragupta II",
+        "Samudragupta",
+        "Skandagupta",
+        "Kumaragupta I"
+      ],
+      "answer": 0,
+      "explanation": "Many scholars identify the Chandra of the inscription with the Gupta emperor Chandragupta II Vikramaditya."
+    },
+    {
+      "id": "iron-pillar-delhi-q12",
+      "difficulty": "medium",
+      "q": "The inscription says the pillar was set up as a standard (dhvaja) in honour of which deity?",
+      "options": [
+        "Shiva",
+        "Vishnu",
+        "Surya",
+        "Indra"
+      ],
+      "answer": 1,
+      "explanation": "The inscription records the pillar was raised as a standard of the god Vishnu on a hill called Vishnupada."
+    },
+    {
+      "id": "iron-pillar-delhi-q13",
+      "difficulty": "medium",
+      "q": "The approximate height of the Iron Pillar above the ground is closest to which figure?",
+      "options": [
+        "About 24 metres",
+        "About 2 metres",
+        "About 15 metres",
+        "About 7 metres"
+      ],
+      "answer": 3,
+      "explanation": "The pillar stands roughly 7 metres (about 24 feet) tall above its base."
+    },
+    {
+      "id": "iron-pillar-delhi-q14",
+      "difficulty": "medium",
+      "q": "The pillar is generally believed to have originally stood at a hill the inscription calls Vishnupada, often located in which region before being moved to Delhi?",
+      "options": [
+        "Central India",
+        "Kashmir",
+        "Sri Lanka",
+        "Bengal coast"
+      ],
+      "answer": 0,
+      "explanation": "Scholars suggest the pillar originally stood at a Vishnupada hill in central India (commonly linked to Udayagiri) before reaching Delhi."
+    },
+    {
+      "id": "iron-pillar-delhi-q15",
+      "difficulty": "medium",
+      "q": "Modern scientific study attributes the pillar's rust resistance largely to which factor?",
+      "options": [
+        "A secret coating of gold",
+        "A protective passive film linked to its phosphorus content",
+        "Its location underground for centuries",
+        "A modern stainless-steel core"
+      ],
+      "answer": 1,
+      "explanation": "Researchers credit a protective passive layer, formed partly due to the iron's high phosphorus content, for the corrosion resistance."
+    },
+    {
+      "id": "iron-pillar-delhi-q16",
+      "difficulty": "medium",
+      "q": "The Qutb complex housing the pillar primarily reflects the architecture of which later medieval power?",
+      "options": [
+        "Vijayanagara Empire",
+        "Chola Empire",
+        "Delhi Sultanate",
+        "Maratha Empire"
+      ],
+      "answer": 2,
+      "explanation": "The pillar now stands amid the early Delhi Sultanate architecture of the Qutb complex, though the pillar itself predates it."
+    },
+    {
+      "id": "iron-pillar-delhi-q17",
+      "difficulty": "medium",
+      "q": "Which technique was most likely used by ancient smiths to create the large pillar from iron?",
+      "options": [
+        "Forge-welding many smaller lumps of iron",
+        "Casting molten iron in a single mould",
+        "Rolling sheets in a mill",
+        "Electroplating layers of iron"
+      ],
+      "answer": 0,
+      "explanation": "The pillar was made by forge-welding together numerous hot lumps of wrought iron, not by casting."
+    },
+    {
+      "id": "iron-pillar-delhi-q18",
+      "difficulty": "medium",
+      "q": "The top of the Iron Pillar is shaped to resemble which decorative form?",
+      "options": [
+        "A lion figure",
+        "A bell-shaped capital",
+        "A wheel",
+        "A flat disc with no ornament"
+      ],
+      "answer": 1,
+      "explanation": "The pillar is crowned by a decorative bell-shaped capital typical of Gupta-era pillars."
+    },
+    {
+      "id": "iron-pillar-delhi-q19",
+      "difficulty": "medium",
+      "q": "Which empire's broader cultural and scientific flourishing forms the backdrop for the pillar's creation?",
+      "options": [
+        "Kushan Empire",
+        "Satavahana dynasty",
+        "Gupta Empire",
+        "Pala Empire"
+      ],
+      "answer": 2,
+      "explanation": "The pillar belongs to the Gupta era, often called a classical golden age of Indian civilization."
+    },
+    {
+      "id": "iron-pillar-delhi-q20",
+      "difficulty": "medium",
+      "q": "The inscription describes king Chandra as having conquered which northwestern region, mentioning the Vahlikas (Bactrians)?",
+      "options": [
+        "The Deccan plateau",
+        "The Tamil south",
+        "The Bengal delta",
+        "Crossings of the Sindhu (Indus) region"
+      ],
+      "answer": 3,
+      "explanation": "The inscription credits Chandra with crossing the seven mouths of the Sindhu and defeating the Vahlikas in the northwest."
+    },
+    {
+      "id": "iron-pillar-delhi-q21",
+      "difficulty": "medium",
+      "q": "What is the approximate total weight of the Iron Pillar?",
+      "options": [
+        "Around 60 tonnes",
+        "Around 6 tonnes",
+        "Around 500 kilograms",
+        "Around 25 tonnes"
+      ],
+      "answer": 1,
+      "explanation": "The pillar weighs approximately 6 tonnes, an impressive feat for ancient forge-welded iron."
+    },
+    {
+      "id": "iron-pillar-delhi-q22",
+      "difficulty": "medium",
+      "q": "The pillar's deepest section is buried below ground; what feature once anchored it that has since been removed?",
+      "options": [
+        "A bronze foundation slab",
+        "A wooden platform",
+        "A bulbous decorative base or supporting framework",
+        "A ring of smaller pillars"
+      ],
+      "answer": 2,
+      "explanation": "The buried lower portion shows it once had a bulbous base, and a low railing once surrounded it before removal."
+    },
+    {
+      "id": "iron-pillar-delhi-q23",
+      "difficulty": "hard",
+      "q": "Which Indian metallurgist of IIT Kanpur led influential modern studies explaining the Iron Pillar's corrosion resistance?",
+      "options": [
+        "Satish Dhawan",
+        "Homi Bhabha",
+        "M. Visvesvaraya",
+        "R. Balasubramaniam"
+      ],
+      "answer": 3,
+      "explanation": "Metallurgist R. Balasubramaniam of IIT Kanpur published detailed studies attributing the resistance to a phosphorus-rich passive film."
+    },
+    {
+      "id": "iron-pillar-delhi-q24",
+      "difficulty": "hard",
+      "q": "Some scholars argue the pillar was relocated to Delhi by which medieval ruler, who is credited with moving notable monuments?",
+      "options": [
+        "A Tomara or early Sultanate ruler",
+        "Ashoka the Mauryan",
+        "Rajaraja Chola",
+        "Krishnadevaraya"
+      ],
+      "answer": 0,
+      "explanation": "Tradition links the pillar's move to Delhi with the Tomara king Anangpal or early Sultanate rulers, though details remain debated."
+    },
+    {
+      "id": "iron-pillar-delhi-q25",
+      "difficulty": "hard",
+      "q": "The crystalline iron-phosphorus compound credited with forming the protective layer is most associated with which compound name?",
+      "options": [
+        "Pure iron oxide (hematite)",
+        "Iron carbonate (siderite)",
+        "A crystalline iron hydrogen phosphate hydrate",
+        "Iron sulphide (pyrite)"
+      ],
+      "answer": 2,
+      "explanation": "Studies describe a thin protective layer of crystalline iron hydrogen phosphate hydrate, enabled by the iron's high phosphorus content."
+    },
+    {
+      "id": "iron-pillar-delhi-q26",
+      "difficulty": "hard",
+      "q": "The high phosphorus and low presence of which element, due to ancient charcoal-based smelting, helped the pillar resist rust?",
+      "options": [
+        "Carbon excess from coke",
+        "Chromium",
+        "Nickel",
+        "Sulphur"
+      ],
+      "answer": 3,
+      "explanation": "Charcoal smelting kept sulphur low and phosphorus high, conditions that favoured the protective passive layer."
+    },
+    {
+      "id": "iron-pillar-delhi-q27",
+      "difficulty": "hard",
+      "q": "The inscription's reference to king Chandra resting his fame after conquering enemies in battle in the country called Vanga points to which region?",
+      "options": [
+        "Bengal",
+        "Gujarat",
+        "Punjab",
+        "Kerala"
+      ],
+      "answer": 0,
+      "explanation": "Vanga in the inscription refers to the Bengal region, where Chandra is said to have defeated a confederacy of foes."
+    },
+    {
+      "id": "iron-pillar-delhi-q28",
+      "difficulty": "hard",
+      "q": "A popular but fading local tradition held that touching the pillar in a certain way (e.g. encircling it with one's arms backward) would bring what?",
+      "options": [
+        "Rain for crops",
+        "Good fortune",
+        "Victory in battle",
+        "Long life for a king"
+      ],
+      "answer": 1,
+      "explanation": "A folk belief held that encircling the pillar with one's arms behind the back brought good luck; a fence now prevents contact."
+    },
+    {
+      "id": "iron-pillar-delhi-q29",
+      "difficulty": "hard",
+      "q": "The Gupta-era identification of Chandra with Chandragupta II is partly supported by comparison with which other source bearing similar royal claims?",
+      "options": [
+        "Ashokan rock edicts",
+        "The Sangam Tamil anthologies",
+        "Mughal court chronicles",
+        "Gupta gold coinage and inscriptions naming Chandragupta"
+      ],
+      "answer": 3,
+      "explanation": "Comparisons with Gupta coinage and inscriptions of Chandragupta II strengthen the identification of the inscription's Chandra."
+    },
+    {
+      "id": "iron-pillar-delhi-q30",
+      "difficulty": "hard",
+      "q": "A notable dent or damage near the upper portion of the pillar is traditionally attributed to what cause?",
+      "options": [
+        "A cannonball strike",
+        "A lightning bolt",
+        "An earthquake crack",
+        "A chisel during inscription"
+      ],
+      "answer": 0,
+      "explanation": "A dent on the pillar is popularly said to have been caused by a cannonball; the story is a local tradition rather than a documented event."
+    }
+  ]
+}

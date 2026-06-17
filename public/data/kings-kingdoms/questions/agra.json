@@ -1,0 +1,395 @@
+{
+  "cardId": "agra",
+  "questions": [
+    {
+      "id": "agra-q01",
+      "difficulty": "easy",
+      "q": "On the banks of which river does the city of Agra stand?",
+      "options": [
+        "Yamuna",
+        "Ganges",
+        "Narmada",
+        "Chambal"
+      ],
+      "answer": 0,
+      "explanation": "Agra lies on the banks of the Yamuna river in present-day Uttar Pradesh."
+    },
+    {
+      "id": "agra-q02",
+      "difficulty": "easy",
+      "q": "Agra is best known as a principal capital of which empire?",
+      "options": [
+        "Maratha Empire",
+        "Mughal Empire",
+        "Gupta Empire",
+        "Chola Empire"
+      ],
+      "answer": 1,
+      "explanation": "Agra served as a principal capital of the Mughal Empire, especially under Akbar and Shah Jahan."
+    },
+    {
+      "id": "agra-q03",
+      "difficulty": "easy",
+      "q": "Which famous white marble mausoleum stands in Agra?",
+      "options": [
+        "Qutb Minar",
+        "Charminar",
+        "Taj Mahal",
+        "Gol Gumbaz"
+      ],
+      "answer": 2,
+      "explanation": "The Taj Mahal, built by Shah Jahan, is located in Agra on the Yamuna."
+    },
+    {
+      "id": "agra-q04",
+      "difficulty": "easy",
+      "q": "Which great fort, a UNESCO World Heritage Site, stands in Agra?",
+      "options": [
+        "Gwalior Fort",
+        "Red Fort of Delhi",
+        "Golconda Fort",
+        "Agra Fort"
+      ],
+      "answer": 3,
+      "explanation": "The Agra Fort is one of the empire's most celebrated monuments and a UNESCO World Heritage Site."
+    },
+    {
+      "id": "agra-q05",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state is Agra located?",
+      "options": [
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Madhya Pradesh",
+        "Haryana"
+      ],
+      "answer": 1,
+      "explanation": "Agra is a city in the modern Indian state of Uttar Pradesh."
+    },
+    {
+      "id": "agra-q06",
+      "difficulty": "easy",
+      "q": "The Taj Mahal in Agra was built by Shah Jahan in memory of whom?",
+      "options": [
+        "Nur Jahan",
+        "Jodha Bai",
+        "Mumtaz Mahal",
+        "Hamida Banu"
+      ],
+      "answer": 2,
+      "explanation": "Shah Jahan built the Taj Mahal as a mausoleum for his wife Mumtaz Mahal."
+    },
+    {
+      "id": "agra-q07",
+      "difficulty": "easy",
+      "q": "Two of the Mughal Empire's most celebrated monuments in Agra are the Taj Mahal and the:",
+      "options": [
+        "Bibi Ka Maqbara",
+        "Jantar Mantar",
+        "Buland Darwaza",
+        "Agra Fort"
+      ],
+      "answer": 3,
+      "explanation": "Agra is home to both the Agra Fort and the Taj Mahal, two of the empire's most celebrated monuments."
+    },
+    {
+      "id": "agra-q08",
+      "difficulty": "easy",
+      "q": "Of what material is the Taj Mahal at Agra principally built?",
+      "options": [
+        "White marble",
+        "Red sandstone",
+        "Granite",
+        "Black basalt"
+      ],
+      "answer": 0,
+      "explanation": "The Taj Mahal is a white marble mausoleum, a masterpiece of Mughal architecture."
+    },
+    {
+      "id": "agra-q09",
+      "difficulty": "easy",
+      "q": "Agra rose to its greatest prominence under the rule of which dynasty?",
+      "options": [
+        "The Lodis",
+        "The Tughlaqs",
+        "The Mughals",
+        "The Khaljis"
+      ],
+      "answer": 2,
+      "explanation": "Though earlier a Lodi seat, Agra flourished as a Mughal capital under Akbar and Shah Jahan."
+    },
+    {
+      "id": "agra-q10",
+      "difficulty": "easy",
+      "q": "Which two Mughal emperors are most associated with making Agra a capital?",
+      "options": [
+        "Babur and Humayun",
+        "Bahadur Shah and Farrukhsiyar",
+        "Jahangir and Aurangzeb",
+        "Akbar and Shah Jahan"
+      ],
+      "answer": 3,
+      "explanation": "Agra served as a principal Mughal capital especially under Akbar and Shah Jahan."
+    },
+    {
+      "id": "agra-q11",
+      "difficulty": "medium",
+      "q": "Which Mughal emperor largely rebuilt the Agra Fort in red sandstone beginning in 1565?",
+      "options": [
+        "Akbar",
+        "Babur",
+        "Jahangir",
+        "Aurangzeb"
+      ],
+      "answer": 0,
+      "explanation": "Akbar rebuilt the Agra Fort in red sandstone from 1565, replacing the older brick fortress."
+    },
+    {
+      "id": "agra-q12",
+      "difficulty": "medium",
+      "q": "Before the Mughals, Agra served as a capital under which sultan of the Delhi Sultanate?",
+      "options": [
+        "Alauddin Khalji",
+        "Sikandar Lodi",
+        "Firuz Shah Tughlaq",
+        "Balban"
+      ],
+      "answer": 1,
+      "explanation": "Sikandar Lodi shifted the Lodi capital to Agra around 1504, before the Mughal conquest."
+    },
+    {
+      "id": "agra-q13",
+      "difficulty": "medium",
+      "q": "In which Agra-area palace did Shah Jahan spend his final years confined by his son?",
+      "options": [
+        "Fatehpur Sikri",
+        "Dig Palace",
+        "Sikandra",
+        "The Agra Fort"
+      ],
+      "answer": 3,
+      "explanation": "Aurangzeb imprisoned his father Shah Jahan in the Agra Fort, where he died in 1666."
+    },
+    {
+      "id": "agra-q14",
+      "difficulty": "medium",
+      "q": "Which Mughal emperor's tomb is located at Sikandra, just outside Agra?",
+      "options": [
+        "Akbar",
+        "Humayun",
+        "Jahangir",
+        "Shah Jahan"
+      ],
+      "answer": 0,
+      "explanation": "Akbar's tomb stands at Sikandra near Agra, a notable example of Mughal funerary architecture."
+    },
+    {
+      "id": "agra-q15",
+      "difficulty": "medium",
+      "q": "The 'Baby Taj', an early marble tomb in Agra, was built for which noble, father of Nur Jahan?",
+      "options": [
+        "Abdul Rahim Khan-i-Khanan",
+        "Itimad-ud-Daulah",
+        "Asaf Khan",
+        "Bairam Khan"
+      ],
+      "answer": 1,
+      "explanation": "The tomb of Itimad-ud-Daulah, Nur Jahan's father, is often called the 'Baby Taj' in Agra."
+    },
+    {
+      "id": "agra-q16",
+      "difficulty": "medium",
+      "q": "Which Mughal capital did Akbar build a short distance from Agra in the 1570s?",
+      "options": [
+        "Shahjahanabad",
+        "Allahabad",
+        "Fatehpur Sikri",
+        "Lahore"
+      ],
+      "answer": 2,
+      "explanation": "Akbar built Fatehpur Sikri near Agra as his capital in the 1570s before it was abandoned."
+    },
+    {
+      "id": "agra-q17",
+      "difficulty": "medium",
+      "q": "The Taj Mahal at Agra was completed around which year?",
+      "options": [
+        "1653",
+        "1605",
+        "1565",
+        "1707"
+      ],
+      "answer": 0,
+      "explanation": "The Taj Mahal was completed around 1653 during the reign of Shah Jahan."
+    },
+    {
+      "id": "agra-q18",
+      "difficulty": "medium",
+      "q": "Which emperor moved the Mughal capital from Agra to a new city at Delhi in the 17th century?",
+      "options": [
+        "Akbar",
+        "Jahangir",
+        "Shah Jahan",
+        "Aurangzeb"
+      ],
+      "answer": 2,
+      "explanation": "Shah Jahan shifted the capital from Agra to his new city of Shahjahanabad in Delhi."
+    },
+    {
+      "id": "agra-q19",
+      "difficulty": "medium",
+      "q": "Which famous founder of the Mughal dynasty died at Agra in 1530?",
+      "options": [
+        "Humayun",
+        "Babur",
+        "Sher Shah Suri",
+        "Ibrahim Lodi"
+      ],
+      "answer": 1,
+      "explanation": "Babur, founder of the Mughal Empire, died at Agra in 1530."
+    },
+    {
+      "id": "agra-q20",
+      "difficulty": "medium",
+      "q": "Within the Agra Fort, which white marble mosque was built by Shah Jahan?",
+      "options": [
+        "Badshahi Mosque",
+        "Jama Masjid of Delhi",
+        "Quwwat-ul-Islam",
+        "Moti Masjid"
+      ],
+      "answer": 3,
+      "explanation": "Shah Jahan built the Moti Masjid, or Pearl Mosque, within the Agra Fort."
+    },
+    {
+      "id": "agra-q21",
+      "difficulty": "medium",
+      "q": "Which Persian-style charbagh garden, possibly the earliest Mughal garden, was laid out by Babur across the Yamuna at Agra?",
+      "options": [
+        "Shalimar Bagh",
+        "Nishat Bagh",
+        "Ram Bagh (Aram Bagh)",
+        "Pinjore Garden"
+      ],
+      "answer": 2,
+      "explanation": "Babur laid out the Ram Bagh, or Aram Bagh, at Agra, often called the earliest Mughal garden in India."
+    },
+    {
+      "id": "agra-q22",
+      "difficulty": "medium",
+      "q": "The Agra Fort and the Taj Mahal are both recognised internationally with what status?",
+      "options": [
+        "UNESCO World Heritage Sites",
+        "National parks",
+        "Wildlife sanctuaries",
+        "Biosphere reserves"
+      ],
+      "answer": 0,
+      "explanation": "Both the Agra Fort and the Taj Mahal are inscribed as UNESCO World Heritage Sites."
+    },
+    {
+      "id": "agra-q23",
+      "difficulty": "hard",
+      "q": "Which Persian architect is traditionally credited with the chief design of the Taj Mahal at Agra?",
+      "options": [
+        "Mir Sayyid Ali",
+        "Mansur",
+        "Abd al-Samad",
+        "Ustad Ahmad Lahauri"
+      ],
+      "answer": 3,
+      "explanation": "Ustad Ahmad Lahauri is traditionally credited as the principal architect of the Taj Mahal."
+    },
+    {
+      "id": "agra-q24",
+      "difficulty": "hard",
+      "q": "From which marble within the Agra Fort did Shah Jahan reportedly gaze toward the Taj Mahal during his captivity?",
+      "options": [
+        "Diwan-i-Aam",
+        "Musamman Burj",
+        "Sheesh Mahal",
+        "Anguri Bagh"
+      ],
+      "answer": 1,
+      "explanation": "Shah Jahan is said to have viewed the Taj Mahal from the Musamman Burj, an octagonal tower in the Agra Fort."
+    },
+    {
+      "id": "agra-q25",
+      "difficulty": "hard",
+      "q": "What was the older name by which the Agra region was known in some early medieval references?",
+      "options": [
+        "Indraprastha",
+        "Agrabana or Agravana",
+        "Kanyakubja",
+        "Surasena"
+      ],
+      "answer": 1,
+      "explanation": "Agra was anciently associated with the name Agravana (Agrabana), meaning a grove or forest at the frontier."
+    },
+    {
+      "id": "agra-q26",
+      "difficulty": "hard",
+      "q": "Which gemstone-inlay technique decorating Agra's Taj Mahal involves setting semi-precious stones into marble?",
+      "options": [
+        "Cloisonné",
+        "Jali fretwork",
+        "Champlevé",
+        "Pietra dura (parchin kari)"
+      ],
+      "answer": 3,
+      "explanation": "The Taj Mahal's marble is decorated with pietra dura, known in India as parchin kari inlay work."
+    },
+    {
+      "id": "agra-q27",
+      "difficulty": "hard",
+      "q": "The Lodi sultan who first established Agra as a capital did so around which year?",
+      "options": [
+        "1504",
+        "1398",
+        "1206",
+        "1556"
+      ],
+      "answer": 0,
+      "explanation": "Sikandar Lodi founded Agra as a Lodi capital around 1504, before the Mughal era."
+    },
+    {
+      "id": "agra-q28",
+      "difficulty": "hard",
+      "q": "Which Jat ruler of Bharatpur sacked Agra and the Agra Fort in the 18th century amid Mughal decline?",
+      "options": [
+        "Badan Singh",
+        "Churaman",
+        "Suraj Mal",
+        "Jawahar Singh"
+      ],
+      "answer": 2,
+      "explanation": "The Jat ruler Suraj Mal of Bharatpur attacked and plundered Agra in 1761 during the empire's decline."
+    },
+    {
+      "id": "agra-q29",
+      "difficulty": "hard",
+      "q": "The Mughal capital frequently shifted between Agra and which other city during the dynasty's history?",
+      "options": [
+        "Burhanpur",
+        "Patna",
+        "Ahmedabad",
+        "Delhi"
+      ],
+      "answer": 3,
+      "explanation": "The Mughal seat of power alternated chiefly between Agra and Delhi over the centuries."
+    },
+    {
+      "id": "agra-q30",
+      "difficulty": "hard",
+      "q": "Which English ambassador to Jahangir's court travelled to Agra and left an influential account of the Mughal court?",
+      "options": [
+        "William Hawkins",
+        "Sir Thomas Roe",
+        "Ralph Fitch",
+        "Job Charnock"
+      ],
+      "answer": 1,
+      "explanation": "Sir Thomas Roe, envoy of King James I, visited the Mughal court including Agra and recorded his observations."
+    }
+  ]
+}

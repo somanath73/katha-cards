@@ -1,0 +1,395 @@
+{
+  "cardId": "chola-empire",
+  "questions": [
+    {
+      "id": "chola-empire-q01",
+      "difficulty": "easy",
+      "q": "The Chola Empire was a dynasty of which language region of India?",
+      "options": [
+        "The Tamil country",
+        "Bengal",
+        "Punjab",
+        "Gujarat"
+      ],
+      "answer": 0,
+      "explanation": "The Cholas were one of the ancient Tamil dynasties of southern India."
+    },
+    {
+      "id": "chola-empire-q02",
+      "difficulty": "easy",
+      "q": "During which centuries did the medieval Chola Empire reach its height?",
+      "options": [
+        "1st to 2nd centuries CE",
+        "10th to 12th centuries CE",
+        "15th to 16th centuries CE",
+        "18th to 19th centuries CE"
+      ],
+      "answer": 1,
+      "explanation": "The imperial Cholas were at their zenith from the 10th to 12th centuries CE."
+    },
+    {
+      "id": "chola-empire-q03",
+      "difficulty": "easy",
+      "q": "The Cholas are especially celebrated for their bronze statues of which kind?",
+      "options": [
+        "Greek gods",
+        "Roman emperors",
+        "Hindu deities such as the dancing Shiva (Nataraja)",
+        "Egyptian pharaohs"
+      ],
+      "answer": 2,
+      "explanation": "Chola bronzes, above all the Nataraja form of Shiva, are world-renowned masterpieces."
+    },
+    {
+      "id": "chola-empire-q04",
+      "difficulty": "easy",
+      "q": "The Cholas projected naval power across the seas to Sri Lanka and which other region?",
+      "options": [
+        "North Africa",
+        "Scandinavia",
+        "Australia",
+        "Southeast Asia"
+      ],
+      "answer": 3,
+      "explanation": "The Cholas mounted naval expeditions reaching Sri Lanka and Southeast Asia."
+    },
+    {
+      "id": "chola-empire-q05",
+      "difficulty": "easy",
+      "q": "The royal emblem of the Cholas was which animal?",
+      "options": [
+        "The tiger",
+        "The fish",
+        "The bow",
+        "The eagle"
+      ],
+      "answer": 0,
+      "explanation": "The Chola emblem was the tiger, distinguishing them from the Pandya fish and Chera bow."
+    },
+    {
+      "id": "chola-empire-q06",
+      "difficulty": "easy",
+      "q": "The Chola heartland lay in the fertile delta of which river?",
+      "options": [
+        "The Ganges",
+        "The Kaveri",
+        "The Indus",
+        "The Brahmaputra"
+      ],
+      "answer": 1,
+      "explanation": "The Chola core territory was the rich Kaveri (Cauvery) delta in Tamil Nadu."
+    },
+    {
+      "id": "chola-empire-q07",
+      "difficulty": "easy",
+      "q": "The Cholas are famed for building what kind of monumental structures?",
+      "options": [
+        "Pyramids",
+        "Pagodas of bamboo",
+        "Great Hindu temples",
+        "Stone circles"
+      ],
+      "answer": 2,
+      "explanation": "The Cholas were prolific builders of grand stone temples across the south."
+    },
+    {
+      "id": "chola-empire-q08",
+      "difficulty": "easy",
+      "q": "Which famous Chola temple at Thanjavur is a UNESCO World Heritage Site?",
+      "options": [
+        "The Meenakshi temple",
+        "The Konark Sun Temple",
+        "The Kailasa temple at Ellora",
+        "The Brihadisvara temple"
+      ],
+      "answer": 3,
+      "explanation": "The Brihadisvara temple at Thanjavur, built by Rajaraja I, is a UNESCO World Heritage Site."
+    },
+    {
+      "id": "chola-empire-q09",
+      "difficulty": "easy",
+      "q": "The Cholas were one of the three ancient crowned Tamil dynasties, along with the Pandyas and which other?",
+      "options": [
+        "The Cheras",
+        "The Mughals",
+        "The Kushans",
+        "The Palas"
+      ],
+      "answer": 0,
+      "explanation": "The Cheras, Cholas, and Pandyas were the three crowned Tamil dynasties."
+    },
+    {
+      "id": "chola-empire-q10",
+      "difficulty": "easy",
+      "q": "The Cholas are praised for an advanced and well-organised system of what?",
+      "options": [
+        "Steam-powered industry",
+        "Local self-government and administration",
+        "Aerial warfare",
+        "Printing presses"
+      ],
+      "answer": 1,
+      "explanation": "The Cholas are celebrated for their efficient administration and village self-government."
+    },
+    {
+      "id": "chola-empire-q11",
+      "difficulty": "medium",
+      "q": "Who founded the imperial line of the medieval Cholas in the 9th century by capturing Thanjavur?",
+      "options": [
+        "Rajaraja I",
+        "Rajendra I",
+        "Vijayalaya Chola",
+        "Karikala"
+      ],
+      "answer": 2,
+      "explanation": "Vijayalaya Chola revived Chola fortunes around 850 CE by seizing Thanjavur, founding the imperial line."
+    },
+    {
+      "id": "chola-empire-q12",
+      "difficulty": "medium",
+      "q": "Which Chola emperor built the Brihadisvara temple at Thanjavur and expanded the empire around 1000 CE?",
+      "options": [
+        "Vijayalaya",
+        "Kulottunga I",
+        "Aditya I",
+        "Rajaraja I"
+      ],
+      "answer": 3,
+      "explanation": "Rajaraja Chola I built the great Brihadisvara temple and greatly enlarged the empire."
+    },
+    {
+      "id": "chola-empire-q13",
+      "difficulty": "medium",
+      "q": "Which Chola emperor led an expedition to the Ganges and naval campaigns against Srivijaya in Southeast Asia?",
+      "options": [
+        "Rajendra Chola I",
+        "Vijayalaya",
+        "Parantaka I",
+        "Rajaraja II"
+      ],
+      "answer": 0,
+      "explanation": "Rajendra Chola I marched to the Ganges and launched naval expeditions against Srivijaya."
+    },
+    {
+      "id": "chola-empire-q14",
+      "difficulty": "medium",
+      "q": "Rajendra I founded a new Chola capital to commemorate his Ganges expedition; what was it called?",
+      "options": [
+        "Madurai",
+        "Gangaikonda Cholapuram",
+        "Kanchipuram",
+        "Hampi"
+      ],
+      "answer": 1,
+      "explanation": "Rajendra I founded Gangaikonda Cholapuram, 'the city of the Chola who took the Ganges'."
+    },
+    {
+      "id": "chola-empire-q15",
+      "difficulty": "medium",
+      "q": "The signature Chola bronze depicting Shiva dancing within a ring of flames is known as which form?",
+      "options": [
+        "Ardhanarishvara",
+        "Bhairava",
+        "Nataraja",
+        "Dakshinamurti"
+      ],
+      "answer": 2,
+      "explanation": "The Nataraja, Shiva as Lord of the Dance, is the most iconic Chola bronze."
+    },
+    {
+      "id": "chola-empire-q16",
+      "difficulty": "medium",
+      "q": "Chola village assemblies that governed local affairs are documented in inscriptions from which famous site near Kanchipuram?",
+      "options": [
+        "Mahabalipuram",
+        "Belur",
+        "Halebidu",
+        "Uttiramerur"
+      ],
+      "answer": 3,
+      "explanation": "The Uttiramerur inscriptions detail the Chola system of elected village assemblies (sabha)."
+    },
+    {
+      "id": "chola-empire-q17",
+      "difficulty": "medium",
+      "q": "Rajaraja I led a major naval conquest of which island kingdom to the south?",
+      "options": [
+        "Sri Lanka (Anuradhapura)",
+        "Java",
+        "Madagascar",
+        "Cyprus"
+      ],
+      "answer": 0,
+      "explanation": "Rajaraja I conquered much of Sri Lanka, ending Anuradhapura's role as its capital."
+    },
+    {
+      "id": "chola-empire-q18",
+      "difficulty": "medium",
+      "q": "Which dynasty did the Cholas displace in the Tamil country when they rose to power under Aditya I and Parantaka I?",
+      "options": [
+        "The Mughals",
+        "The Pallavas",
+        "The Rashtrakutas of Manyakheta",
+        "The Hoysalas"
+      ],
+      "answer": 1,
+      "explanation": "Aditya I overthrew the Pallavas, and the Cholas supplanted them as the dominant Tamil power."
+    },
+    {
+      "id": "chola-empire-q19",
+      "difficulty": "medium",
+      "q": "The towering pyramidal tower over the sanctum of a Chola temple is known by which term?",
+      "options": [
+        "Gopuram alone",
+        "Stupa",
+        "Vimana",
+        "Minaret"
+      ],
+      "answer": 2,
+      "explanation": "The vimana is the great tower over the sanctum; the Brihadisvara's vimana is especially renowned."
+    },
+    {
+      "id": "chola-empire-q20",
+      "difficulty": "medium",
+      "q": "Which later Chola emperor united the Chola and Eastern Chalukya lines and ruled from around 1070 CE?",
+      "options": [
+        "Vijayalaya",
+        "Rajaraja I",
+        "Aditya I",
+        "Kulottunga I"
+      ],
+      "answer": 3,
+      "explanation": "Kulottunga I, of mixed Chola and Eastern Chalukya descent, ruled a reunited realm from 1070."
+    },
+    {
+      "id": "chola-empire-q21",
+      "difficulty": "medium",
+      "q": "Rajendra I sent a famous diplomatic and trade mission to the court of which east Asian power?",
+      "options": [
+        "Song China",
+        "Tokugawa Japan",
+        "the Roman Empire",
+        "the Ottoman Empire"
+      ],
+      "answer": 0,
+      "explanation": "Rajendra I's reign saw Chola embassies to Song China, reflecting active maritime trade."
+    },
+    {
+      "id": "chola-empire-q22",
+      "difficulty": "medium",
+      "q": "The Brihadisvara temple at Thanjavur was completed around which year?",
+      "options": [
+        "1192 CE",
+        "1010 CE",
+        "850 CE",
+        "1336 CE"
+      ],
+      "answer": 1,
+      "explanation": "Rajaraja I's Brihadisvara (Rajarajeshvaram) temple was completed around 1010 CE."
+    },
+    {
+      "id": "chola-empire-q23",
+      "difficulty": "hard",
+      "q": "Rajendra I's naval campaign of around 1025 CE targeted the maritime empire of Srivijaya, then centred on which island region?",
+      "options": [
+        "Honshu",
+        "Sicily",
+        "Sumatra and the Malay peninsula",
+        "Madagascar"
+      ],
+      "answer": 2,
+      "explanation": "The Srivijaya empire of Sumatra and the Malay region was struck by Rajendra I's overseas expedition."
+    },
+    {
+      "id": "chola-empire-q24",
+      "difficulty": "hard",
+      "q": "The Chola merchant guild that dominated overseas trade and is named in inscriptions across South and Southeast Asia was known as which?",
+      "options": [
+        "The Hanseatic League",
+        "The Knights Templar",
+        "The East India Company",
+        "The Ainurruvar (Ayyavole / Five Hundred)"
+      ],
+      "answer": 3,
+      "explanation": "The Ainurruvar (the Five Hundred of Ayyavole) were a powerful Chola-era merchant guild trading across Asia."
+    },
+    {
+      "id": "chola-empire-q25",
+      "difficulty": "hard",
+      "q": "Rajaraja I's many conquests are recorded in the inscriptions on the walls of which temple?",
+      "options": [
+        "The Brihadisvara temple at Thanjavur",
+        "The Konark Sun Temple",
+        "The Qutb Minar",
+        "The Khajuraho temples"
+      ],
+      "answer": 0,
+      "explanation": "The Brihadisvara temple walls carry detailed inscriptions of Rajaraja I's reign and conquests."
+    },
+    {
+      "id": "chola-empire-q26",
+      "difficulty": "hard",
+      "q": "Which Chola king's reign is generally taken to mark the start of the imperial Cholas' decline, with the empire finally absorbed by the Pandyas in the 13th century?",
+      "options": [
+        "Vijayalaya",
+        "Rajendra III",
+        "Rajaraja I",
+        "Rajendra I"
+      ],
+      "answer": 1,
+      "explanation": "Rajendra III was the last Chola sovereign; by the mid-13th century the resurgent Pandyas absorbed the realm."
+    },
+    {
+      "id": "chola-empire-q27",
+      "difficulty": "hard",
+      "q": "The original name given by Rajaraja I to the great Thanjavur temple, after his own title, was which?",
+      "options": [
+        "Gangaikondacholeshvaram",
+        "Meenakshi Amman",
+        "Rajarajeshvaram",
+        "Kailasanatha"
+      ],
+      "answer": 2,
+      "explanation": "Rajaraja I named the temple Rajarajeshvaram after himself; it is now called Brihadisvara."
+    },
+    {
+      "id": "chola-empire-q28",
+      "difficulty": "hard",
+      "q": "Rajaraja I assumed which grand imperial title reflecting his conquests across the southern seas and lands?",
+      "options": [
+        "Vikramaditya",
+        "Maharajadhiraja Gupta",
+        "Chhatrapati",
+        "Mummudi Chola (the Chola of three crowns)"
+      ],
+      "answer": 3,
+      "explanation": "Rajaraja I took titles such as Mummudi Chola, claiming the crowns of the three Tamil dynasties."
+    },
+    {
+      "id": "chola-empire-q29",
+      "difficulty": "hard",
+      "q": "Rajendra I built a massive irrigation tank near his new capital; it was known as the 'liquid pillar of victory', or which lake?",
+      "options": [
+        "Cholagangam",
+        "Veeranam",
+        "Pulicat",
+        "Chilika"
+      ],
+      "answer": 0,
+      "explanation": "Rajendra I excavated the great Cholagangam tank at Gangaikonda Cholapuram, called a 'liquid pillar of victory'."
+    },
+    {
+      "id": "chola-empire-q30",
+      "difficulty": "hard",
+      "q": "The Eastern Chalukya marriage alliances that produced Kulottunga I linked the Cholas with rulers of which region?",
+      "options": [
+        "Kashmir",
+        "Vengi (the Andhra deltas)",
+        "Sindh",
+        "Nepal"
+      ],
+      "answer": 1,
+      "explanation": "Kulottunga I descended from the Eastern Chalukyas of Vengi in the Andhra region, united with the Chola line by marriage."
+    }
+  ]
+}

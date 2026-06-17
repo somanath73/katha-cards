@@ -1,0 +1,395 @@
+{
+  "cardId": "battle-of-hydaspes",
+  "questions": [
+    {
+      "id": "battle-of-hydaspes-q01",
+      "difficulty": "easy",
+      "q": "In which year was the Battle of Hydaspes fought?",
+      "options": [
+        "326 BCE",
+        "261 BCE",
+        "1526 CE",
+        "150 CE"
+      ],
+      "answer": 0,
+      "explanation": "The Battle of Hydaspes was fought in 326 BCE during Alexander's campaign in India."
+    },
+    {
+      "id": "battle-of-hydaspes-q02",
+      "difficulty": "easy",
+      "q": "Which Indian king fought Alexander of Macedon at the Hydaspes?",
+      "options": [
+        "Ambhi",
+        "Porus",
+        "Chandragupta",
+        "Dhana Nanda"
+      ],
+      "answer": 1,
+      "explanation": "The Indian king Porus (Puru) opposed Alexander at the Battle of Hydaspes."
+    },
+    {
+      "id": "battle-of-hydaspes-q03",
+      "difficulty": "easy",
+      "q": "The Hydaspes is the Greek name for which present-day river?",
+      "options": [
+        "The Ganges",
+        "The Indus",
+        "The Jhelum",
+        "The Yamuna"
+      ],
+      "answer": 2,
+      "explanation": "Hydaspes was the Greek name for the Jhelum river in the Punjab region."
+    },
+    {
+      "id": "battle-of-hydaspes-q04",
+      "difficulty": "easy",
+      "q": "Which Macedonian conqueror led the invading army at Hydaspes?",
+      "options": [
+        "Seleucus",
+        "Antigonus",
+        "Demetrius",
+        "Alexander the Great"
+      ],
+      "answer": 3,
+      "explanation": "Alexander the Great of Macedon led the army that fought Porus at the Hydaspes."
+    },
+    {
+      "id": "battle-of-hydaspes-q05",
+      "difficulty": "easy",
+      "q": "Which animals used by Porus made the battle especially difficult for Alexander's forces?",
+      "options": [
+        "Camels",
+        "War elephants",
+        "Armoured horses",
+        "Trained tigers"
+      ],
+      "answer": 1,
+      "explanation": "Porus deployed numerous war elephants that posed a serious challenge to the Macedonian cavalry and infantry."
+    },
+    {
+      "id": "battle-of-hydaspes-q06",
+      "difficulty": "easy",
+      "q": "What was the outcome of the Battle of Hydaspes?",
+      "options": [
+        "Porus won decisively",
+        "It ended in a truce before battle",
+        "Alexander won but at heavy cost",
+        "Both armies withdrew without fighting"
+      ],
+      "answer": 2,
+      "explanation": "Alexander prevailed, but the fierce resistance made it one of his costliest victories."
+    },
+    {
+      "id": "battle-of-hydaspes-q07",
+      "difficulty": "easy",
+      "q": "What did Alexander do with Porus after defeating him?",
+      "options": [
+        "Executed him publicly",
+        "Sent him to Macedon as a slave",
+        "Stripped him of all lands",
+        "Reinstated him as a ruler"
+      ],
+      "answer": 3,
+      "explanation": "Impressed by Porus's bravery, Alexander reinstated him as a ruler of his territory."
+    },
+    {
+      "id": "battle-of-hydaspes-q08",
+      "difficulty": "easy",
+      "q": "In which broad region of the subcontinent was the Battle of Hydaspes fought?",
+      "options": [
+        "The Punjab",
+        "Bengal",
+        "The Deccan",
+        "Kerala"
+      ],
+      "answer": 0,
+      "explanation": "The battle took place in the Punjab, on the banks of the Jhelum (Hydaspes) river."
+    },
+    {
+      "id": "battle-of-hydaspes-q09",
+      "difficulty": "easy",
+      "q": "The Battle of Hydaspes took place in which century BCE?",
+      "options": [
+        "6th century BCE",
+        "2nd century BCE",
+        "4th century BCE",
+        "1st century BCE"
+      ],
+      "answer": 2,
+      "explanation": "Fought in 326 BCE, the battle belongs to the 4th century BCE."
+    },
+    {
+      "id": "battle-of-hydaspes-q10",
+      "difficulty": "easy",
+      "q": "For what quality is Porus chiefly remembered in accounts of the battle?",
+      "options": [
+        "His swift surrender",
+        "His use of chariots only",
+        "His naval skill",
+        "His courage and dignity in defeat"
+      ],
+      "answer": 3,
+      "explanation": "Porus is remembered for his brave resistance and his dignified bearing even after defeat."
+    },
+    {
+      "id": "battle-of-hydaspes-q11",
+      "difficulty": "medium",
+      "q": "When Alexander asked the captured Porus how he wished to be treated, what was his famous reply?",
+      "options": [
+        "'Treat me as a king would'",
+        "'Spare my life at any cost'",
+        "'Make me your servant'",
+        "'Let me return to Macedon'"
+      ],
+      "answer": 0,
+      "explanation": "Tradition records that Porus asked to be treated 'as a king', impressing Alexander into restoring his kingdom."
+    },
+    {
+      "id": "battle-of-hydaspes-q12",
+      "difficulty": "medium",
+      "q": "Which neighbouring Indian ruler allied with Alexander against Porus?",
+      "options": [
+        "Chandragupta Maurya",
+        "Ambhi (Omphis) of Taxila",
+        "Bindusara",
+        "Dhana Nanda"
+      ],
+      "answer": 1,
+      "explanation": "Ambhi, the king of Taxila, allied with Alexander and was a rival of Porus."
+    },
+    {
+      "id": "battle-of-hydaspes-q13",
+      "difficulty": "medium",
+      "q": "Heavy seasonal conditions complicated the battle; what was the weather like at the Hydaspes crossing?",
+      "options": [
+        "It was a severe winter snowstorm",
+        "It was a dry desert heatwave",
+        "It was a sandstorm",
+        "It was during the monsoon rains"
+      ],
+      "answer": 3,
+      "explanation": "The battle was fought during the monsoon, with heavy rain swelling the river and affecting the fighting."
+    },
+    {
+      "id": "battle-of-hydaspes-q14",
+      "difficulty": "medium",
+      "q": "How did Alexander manage to get a large part of his army across the swollen Hydaspes?",
+      "options": [
+        "By a surprise crossing upstream at night",
+        "By building a permanent stone bridge",
+        "By draining the river",
+        "By waiting for the dry season"
+      ],
+      "answer": 0,
+      "explanation": "Alexander made a daring night crossing further upstream to outflank Porus's main position."
+    },
+    {
+      "id": "battle-of-hydaspes-q15",
+      "difficulty": "medium",
+      "q": "Alexander's beloved horse is said to have died around the time of this battle. What was its name?",
+      "options": [
+        "Pegasus",
+        "Bucephalus",
+        "Chetak",
+        "Marengo"
+      ],
+      "answer": 1,
+      "explanation": "Alexander's famous horse Bucephalus died around the time of the Hydaspes campaign; he reputedly founded a city in its honour."
+    },
+    {
+      "id": "battle-of-hydaspes-q16",
+      "difficulty": "medium",
+      "q": "After Hydaspes, Alexander's troops famously refused to advance further at which river?",
+      "options": [
+        "The Ganges",
+        "The Indus",
+        "The Hyphasis (Beas)",
+        "The Narmada"
+      ],
+      "answer": 2,
+      "explanation": "At the Hyphasis (Beas), Alexander's exhausted soldiers mutinied and refused to march eastward, forcing him to turn back."
+    },
+    {
+      "id": "battle-of-hydaspes-q17",
+      "difficulty": "medium",
+      "q": "Which arm of Alexander's army was especially effective in neutralising Porus's war elephants and cavalry?",
+      "options": [
+        "His mobile cavalry and mounted archers",
+        "His war chariots",
+        "His naval marines",
+        "His siege towers"
+      ],
+      "answer": 0,
+      "explanation": "Alexander's superior cavalry and horse-archers harassed and disordered Porus's elephants and chariots."
+    },
+    {
+      "id": "battle-of-hydaspes-q18",
+      "difficulty": "medium",
+      "q": "Porus's kingdom lay between the Jhelum and which neighbouring river?",
+      "options": [
+        "The Ganges",
+        "The Chenab (Acesines)",
+        "The Yamuna",
+        "The Godavari"
+      ],
+      "answer": 1,
+      "explanation": "Porus ruled the land between the Hydaspes (Jhelum) and the Acesines (Chenab) rivers in the Punjab."
+    },
+    {
+      "id": "battle-of-hydaspes-q19",
+      "difficulty": "medium",
+      "q": "To commemorate the victory and his horse, Alexander is said to have founded two cities; one was named after Bucephalus. What was the theme of the other's name?",
+      "options": [
+        "His mother's name",
+        "A Greek goddess of love",
+        "Victory (Nikaia)",
+        "His own birthplace"
+      ],
+      "answer": 2,
+      "explanation": "Alexander founded Bucephala for his horse and Nikaia ('victory') to mark his triumph at the Hydaspes."
+    },
+    {
+      "id": "battle-of-hydaspes-q20",
+      "difficulty": "medium",
+      "q": "The Battle of Hydaspes is often counted as which kind of event in Alexander's career?",
+      "options": [
+        "His first battle ever",
+        "A defeat he later avenged",
+        "A naval engagement",
+        "His last major pitched battle"
+      ],
+      "answer": 3,
+      "explanation": "Hydaspes is generally regarded as the last great pitched battle Alexander fought before turning homeward."
+    },
+    {
+      "id": "battle-of-hydaspes-q21",
+      "difficulty": "medium",
+      "q": "Indian chronicles add little detail, so most surviving accounts of Hydaspes come from which tradition?",
+      "options": [
+        "Tamil Sangam poets",
+        "Greek and Roman historians",
+        "Mauryan rock edicts",
+        "Chinese pilgrim records"
+      ],
+      "answer": 1,
+      "explanation": "The battle is known chiefly from Greek and Roman authors such as Arrian, Plutarch, and Curtius."
+    },
+    {
+      "id": "battle-of-hydaspes-q22",
+      "difficulty": "medium",
+      "q": "Which ancient historian's 'Anabasis of Alexander' is the principal detailed source for the Battle of Hydaspes?",
+      "options": [
+        "Herodotus",
+        "Thucydides",
+        "Arrian",
+        "Polybius"
+      ],
+      "answer": 2,
+      "explanation": "Arrian's Anabasis of Alexander gives the fullest surviving narrative of the Hydaspes campaign."
+    },
+    {
+      "id": "battle-of-hydaspes-q23",
+      "difficulty": "hard",
+      "q": "Whom did Alexander leave to hold the riverbank with part of the army while he crossed upstream to surprise Porus?",
+      "options": [
+        "Hephaestion",
+        "Ptolemy",
+        "Seleucus",
+        "Craterus"
+      ],
+      "answer": 3,
+      "explanation": "Alexander left Craterus to demonstrate at the main camp while he led the flanking crossing upstream."
+    },
+    {
+      "id": "battle-of-hydaspes-q24",
+      "difficulty": "hard",
+      "q": "Porus first sent a detachment, reportedly led by his son, to oppose Alexander's crossing. What was its fate?",
+      "options": [
+        "It was defeated and the son was killed",
+        "It captured Alexander's baggage",
+        "It successfully repelled the crossing",
+        "It defected to Alexander"
+      ],
+      "answer": 0,
+      "explanation": "The advance force under Porus's son was overwhelmed by Alexander's cavalry, and the son was slain."
+    },
+    {
+      "id": "battle-of-hydaspes-q25",
+      "difficulty": "hard",
+      "q": "After the battle, which Macedonian officer later became founder of a Hellenistic dynasty and ceded territory to Chandragupta Maurya?",
+      "options": [
+        "Antipater",
+        "Lysimachus",
+        "Seleucus I Nicator",
+        "Cassander"
+      ],
+      "answer": 2,
+      "explanation": "Seleucus I Nicator, one of Alexander's successors, later made a treaty with Chandragupta Maurya, ceding eastern provinces."
+    },
+    {
+      "id": "battle-of-hydaspes-q26",
+      "difficulty": "hard",
+      "q": "Greek accounts describe Porus as a man of exceptional what, adding to his heroic image?",
+      "options": [
+        "Wealth in gold",
+        "Number of wives",
+        "Skill as a poet",
+        "Physical stature and height"
+      ],
+      "answer": 3,
+      "explanation": "Sources such as Arrian stress Porus's unusual height and commanding physical presence."
+    },
+    {
+      "id": "battle-of-hydaspes-q27",
+      "difficulty": "hard",
+      "q": "A silver decadrachm, the so-called 'Porus medallion', is thought to commemorate Hydaspes by showing what scene?",
+      "options": [
+        "A horseman attacking a war elephant with riders",
+        "A naval battle",
+        "Alexander crowning Porus",
+        "A chariot race"
+      ],
+      "answer": 0,
+      "explanation": "The Porus medallions depict a mounted figure attacking an elephant bearing warriors, widely linked to the Hydaspes battle."
+    },
+    {
+      "id": "battle-of-hydaspes-q28",
+      "difficulty": "hard",
+      "q": "Within roughly how many years of the Hydaspes battle did the Mauryan empire under Chandragupta arise to dominate the same regions?",
+      "options": [
+        "Within about two centuries",
+        "Within about a decade",
+        "Within about five centuries",
+        "Not for nearly a millennium"
+      ],
+      "answer": 1,
+      "explanation": "Within roughly a decade, by about 321 BCE, Chandragupta Maurya had founded an empire that absorbed the northwest."
+    },
+    {
+      "id": "battle-of-hydaspes-q29",
+      "difficulty": "hard",
+      "q": "How did the wet ground produced by the monsoon specifically hamper one of Porus's key advantages?",
+      "options": [
+        "It put out his fire-arrows",
+        "It rusted his iron rockets",
+        "It drowned his camels",
+        "The muddy field reduced the mobility and effect of his chariots"
+      ],
+      "answer": 3,
+      "explanation": "The rain-soaked ground bogged down Porus's chariots, blunting an arm that might otherwise have countered Alexander's cavalry."
+    },
+    {
+      "id": "battle-of-hydaspes-q30",
+      "difficulty": "hard",
+      "q": "Following his Indian campaign, by which route did Alexander largely depart the subcontinent?",
+      "options": [
+        "Down the Indus and through the Gedrosian desert",
+        "Back over the Himalayas",
+        "By sea around peninsular India",
+        "Eastward to the Ganges delta"
+      ],
+      "answer": 0,
+      "explanation": "After turning back, Alexander sailed down the Indus and led part of his army through the harsh Gedrosian (Makran) desert."
+    }
+  ]
+}

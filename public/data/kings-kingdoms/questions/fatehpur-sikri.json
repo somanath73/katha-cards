@@ -1,0 +1,395 @@
+{
+  "cardId": "fatehpur-sikri",
+  "questions": [
+    {
+      "id": "fatehpur-sikri-q01",
+      "difficulty": "easy",
+      "q": "Which Mughal emperor built Fatehpur Sikri?",
+      "options": [
+        "Akbar",
+        "Shah Jahan",
+        "Babur",
+        "Aurangzeb"
+      ],
+      "answer": 0,
+      "explanation": "Fatehpur Sikri was built by the emperor Akbar in the 1570s."
+    },
+    {
+      "id": "fatehpur-sikri-q02",
+      "difficulty": "easy",
+      "q": "Fatehpur Sikri was built near which major Mughal city?",
+      "options": [
+        "Delhi",
+        "Agra",
+        "Lahore",
+        "Kabul"
+      ],
+      "answer": 1,
+      "explanation": "The planned city of Fatehpur Sikri lies near Agra in present-day Uttar Pradesh."
+    },
+    {
+      "id": "fatehpur-sikri-q03",
+      "difficulty": "easy",
+      "q": "What purpose was Fatehpur Sikri built to serve?",
+      "options": [
+        "A fortress prison",
+        "A trading port",
+        "Akbar's capital",
+        "A pilgrimage hospice only"
+      ],
+      "answer": 2,
+      "explanation": "Akbar built the city as his imperial capital, though it served that role only briefly."
+    },
+    {
+      "id": "fatehpur-sikri-q04",
+      "difficulty": "easy",
+      "q": "The colossal gateway of Fatehpur Sikri's mosque is known as the?",
+      "options": [
+        "India Gate",
+        "Charminar",
+        "Qutb Minar",
+        "Buland Darwaza"
+      ],
+      "answer": 3,
+      "explanation": "The Buland Darwaza, or Gate of Magnificence, is the towering entrance to the Jama Masjid at Fatehpur Sikri."
+    },
+    {
+      "id": "fatehpur-sikri-q05",
+      "difficulty": "easy",
+      "q": "What grand place of worship stands at Fatehpur Sikri?",
+      "options": [
+        "Jama Masjid",
+        "Brihadisvara Temple",
+        "Golden Temple",
+        "Konark Sun Temple"
+      ],
+      "answer": 0,
+      "explanation": "Fatehpur Sikri's Jama Masjid is one of the city's most renowned structures."
+    },
+    {
+      "id": "fatehpur-sikri-q06",
+      "difficulty": "easy",
+      "q": "Fatehpur Sikri blends Indian style with which other architectural tradition?",
+      "options": [
+        "Chinese",
+        "Persian",
+        "Roman",
+        "Egyptian"
+      ],
+      "answer": 1,
+      "explanation": "The city's architecture combines Persian and Indian elements in a distinctive Mughal synthesis."
+    },
+    {
+      "id": "fatehpur-sikri-q07",
+      "difficulty": "easy",
+      "q": "What is the most commonly cited reason Fatehpur Sikri was abandoned?",
+      "options": [
+        "An earthquake",
+        "A foreign invasion",
+        "Water scarcity",
+        "A great fire"
+      ],
+      "answer": 2,
+      "explanation": "The city was abandoned after a short time, reportedly because of a shortage of water."
+    },
+    {
+      "id": "fatehpur-sikri-q08",
+      "difficulty": "easy",
+      "q": "In which decade did Akbar build Fatehpur Sikri?",
+      "options": [
+        "The 1520s",
+        "The 1650s",
+        "The 1700s",
+        "The 1570s"
+      ],
+      "answer": 3,
+      "explanation": "Akbar built the city in the 1570s during the middle of his reign."
+    },
+    {
+      "id": "fatehpur-sikri-q09",
+      "difficulty": "easy",
+      "q": "What does the name 'Fatehpur' broadly signify?",
+      "options": [
+        "City of victory",
+        "City of water",
+        "City of saints",
+        "City of marble"
+      ],
+      "answer": 0,
+      "explanation": "Fatehpur means 'city of victory', linked to Akbar's military successes."
+    },
+    {
+      "id": "fatehpur-sikri-q10",
+      "difficulty": "easy",
+      "q": "Most of Fatehpur Sikri's buildings are constructed from which material?",
+      "options": [
+        "White marble",
+        "Red sandstone",
+        "Granite",
+        "Black basalt"
+      ],
+      "answer": 1,
+      "explanation": "The city is built largely of red sandstone, giving it a unified reddish appearance."
+    },
+    {
+      "id": "fatehpur-sikri-q11",
+      "difficulty": "medium",
+      "q": "Akbar is said to have founded Fatehpur Sikri to honour which Sufi saint?",
+      "options": [
+        "Nizamuddin Auliya",
+        "Moinuddin Chishti",
+        "Shaikh Salim Chishti",
+        "Bulleh Shah"
+      ],
+      "answer": 2,
+      "explanation": "Akbar built the city near the dwelling of Shaikh Salim Chishti, whose blessing he credited for the birth of his heir."
+    },
+    {
+      "id": "fatehpur-sikri-q12",
+      "difficulty": "medium",
+      "q": "The birth of which future emperor was linked to the saint's blessing that inspired the city?",
+      "options": [
+        "Shah Jahan",
+        "Aurangzeb",
+        "Humayun",
+        "Jahangir (Salim)"
+      ],
+      "answer": 3,
+      "explanation": "Akbar's son Salim, the future Jahangir, was named after Shaikh Salim Chishti."
+    },
+    {
+      "id": "fatehpur-sikri-q13",
+      "difficulty": "medium",
+      "q": "The white marble tomb within the complex is the dargah of whom?",
+      "options": [
+        "Shaikh Salim Chishti",
+        "Akbar",
+        "Mumtaz Mahal",
+        "Sher Shah Suri"
+      ],
+      "answer": 0,
+      "explanation": "The delicate marble tomb at Fatehpur Sikri is the dargah of the Sufi saint Salim Chishti."
+    },
+    {
+      "id": "fatehpur-sikri-q14",
+      "difficulty": "medium",
+      "q": "The Buland Darwaza was added to commemorate Akbar's conquest of which region?",
+      "options": [
+        "Bengal",
+        "Gujarat",
+        "Kashmir",
+        "Sindh"
+      ],
+      "answer": 1,
+      "explanation": "The Buland Darwaza was raised to mark Akbar's victory in the Gujarat campaign."
+    },
+    {
+      "id": "fatehpur-sikri-q15",
+      "difficulty": "medium",
+      "q": "Which hall at Fatehpur Sikri is famed for its central pillar with a circular platform from which Akbar held court?",
+      "options": [
+        "Buland Darwaza",
+        "Anup Talao",
+        "Diwan-i-Khas",
+        "Hawa Mahal"
+      ],
+      "answer": 2,
+      "explanation": "The Diwan-i-Khas features a richly carved central pillar supporting a platform linked by stone bridges."
+    },
+    {
+      "id": "fatehpur-sikri-q16",
+      "difficulty": "medium",
+      "q": "Akbar's house for interfaith religious debates at Fatehpur Sikri was the?",
+      "options": [
+        "Diwan-i-Aam",
+        "Panch Mahal",
+        "Jodha Bai's Palace",
+        "Ibadat Khana"
+      ],
+      "answer": 3,
+      "explanation": "The Ibadat Khana, or House of Worship, hosted Akbar's famous discussions among scholars of different faiths."
+    },
+    {
+      "id": "fatehpur-sikri-q17",
+      "difficulty": "medium",
+      "q": "Which five-storeyed open pavilion at Fatehpur Sikri is named for its tiered design?",
+      "options": [
+        "Panch Mahal",
+        "Buland Darwaza",
+        "Char Minar",
+        "Sheesh Mahal"
+      ],
+      "answer": 0,
+      "explanation": "The Panch Mahal is a five-tiered columned pavilion, each storey smaller than the one below."
+    },
+    {
+      "id": "fatehpur-sikri-q18",
+      "difficulty": "medium",
+      "q": "Fatehpur Sikri has been recognised since 1986 as what?",
+      "options": [
+        "A national wildlife park",
+        "A UNESCO World Heritage Site",
+        "A space research centre",
+        "A modern industrial zone"
+      ],
+      "answer": 1,
+      "explanation": "Fatehpur Sikri was inscribed as a UNESCO World Heritage Site in 1986."
+    },
+    {
+      "id": "fatehpur-sikri-q19",
+      "difficulty": "medium",
+      "q": "After Akbar left Fatehpur Sikri, to which city did the Mughal capital effectively return?",
+      "options": [
+        "Delhi only",
+        "Kabul",
+        "Agra (and later Lahore)",
+        "Hyderabad"
+      ],
+      "answer": 2,
+      "explanation": "Following the abandonment, the court returned to Agra and Akbar later moved operations toward Lahore."
+    },
+    {
+      "id": "fatehpur-sikri-q20",
+      "difficulty": "medium",
+      "q": "Roughly how long did Fatehpur Sikri serve as Akbar's principal capital before being largely abandoned?",
+      "options": [
+        "About a century",
+        "About fifty years",
+        "About two years",
+        "About fourteen years"
+      ],
+      "answer": 3,
+      "explanation": "The city functioned as Akbar's main capital for roughly fourteen years before being abandoned in the mid-1580s."
+    },
+    {
+      "id": "fatehpur-sikri-q21",
+      "difficulty": "medium",
+      "q": "The ornamental water tank at the heart of the palace complex, near a small island platform, is called the?",
+      "options": [
+        "Anup Talao",
+        "Hauz Khas",
+        "Char Bagh",
+        "Moti Talao"
+      ],
+      "answer": 0,
+      "explanation": "The Anup Talao is a square ornamental pool with a central platform reached by causeways."
+    },
+    {
+      "id": "fatehpur-sikri-q22",
+      "difficulty": "medium",
+      "q": "Fatehpur Sikri is built on a low ridge of which type of rock outcrop?",
+      "options": [
+        "Volcanic crater",
+        "Sandstone ridge",
+        "Coral reef",
+        "Limestone cave system"
+      ],
+      "answer": 1,
+      "explanation": "The city stands on a sandstone ridge near Sikri, the source of its red building stone."
+    },
+    {
+      "id": "fatehpur-sikri-q23",
+      "difficulty": "hard",
+      "q": "In which year is the founding of Fatehpur Sikri as Akbar's capital generally dated?",
+      "options": [
+        "1556 CE",
+        "1605 CE",
+        "1571 CE",
+        "1631 CE"
+      ],
+      "answer": 2,
+      "explanation": "Akbar began building Fatehpur Sikri around 1571 after the auspicious birth of his heir."
+    },
+    {
+      "id": "fatehpur-sikri-q24",
+      "difficulty": "hard",
+      "q": "An inscription on the Buland Darwaza quotes a famous saying attributed to which figure, advising that the world is a bridge?",
+      "options": [
+        "The Buddha",
+        "Zoroaster",
+        "Confucius",
+        "Jesus (Isa)"
+      ],
+      "answer": 3,
+      "explanation": "The Buland Darwaza bears an inscription of a saying attributed to Jesus: 'The world is a bridge; pass over it but build no house upon it.'"
+    },
+    {
+      "id": "fatehpur-sikri-q25",
+      "difficulty": "hard",
+      "q": "The palace popularly called 'Jodha Bai's Palace' actually housed whom in scholarly understanding?",
+      "options": [
+        "Akbar's senior queens/harem",
+        "Akbar's treasury guards",
+        "Foreign ambassadors",
+        "The royal stables"
+      ],
+      "answer": 0,
+      "explanation": "The large palace traditionally named for Jodha Bai is understood to be a principal residence of Akbar's harem and senior queens."
+    },
+    {
+      "id": "fatehpur-sikri-q26",
+      "difficulty": "hard",
+      "q": "Which courtyard game is said to have been played at Fatehpur Sikri using a marked stone board and human pieces?",
+      "options": [
+        "Polo only",
+        "Pachisi (on the Pachisi Courtyard)",
+        "Chaupar dice on water",
+        "Chess on the Anup Talao"
+      ],
+      "answer": 1,
+      "explanation": "Tradition holds that Akbar played pachisi on a large courtyard using slave girls as living pieces."
+    },
+    {
+      "id": "fatehpur-sikri-q27",
+      "difficulty": "hard",
+      "q": "The Buland Darwaza is often cited as among the tallest gateways of its kind, standing at roughly what height?",
+      "options": [
+        "About 15 metres",
+        "About 100 metres",
+        "About 54 metres",
+        "About 5 metres"
+      ],
+      "answer": 2,
+      "explanation": "The Buland Darwaza rises about 54 metres including its base, making it one of the highest gateways in the world."
+    },
+    {
+      "id": "fatehpur-sikri-q28",
+      "difficulty": "hard",
+      "q": "Besides water scarcity, Fatehpur Sikri's abandonment is also linked to Akbar's need to campaign in which direction?",
+      "options": [
+        "The far south Tamil country",
+        "Bengal in the far east only",
+        "Across the seas",
+        "The northwest frontier (toward the Punjab/Lahore)"
+      ],
+      "answer": 3,
+      "explanation": "Akbar shifted his base toward Lahore in the mid-1580s to deal with affairs on the northwest frontier, hastening the city's abandonment."
+    },
+    {
+      "id": "fatehpur-sikri-q29",
+      "difficulty": "hard",
+      "q": "The Diwan-i-Khas pillar's design is notable for combining motifs drawn from several religious traditions, reflecting which policy of Akbar?",
+      "options": [
+        "His syncretic, tolerant outlook",
+        "Strict orthodoxy",
+        "Rejection of all art",
+        "Isolation from non-Muslims"
+      ],
+      "answer": 0,
+      "explanation": "The eclectic carved bracket capitals of the Diwan-i-Khas reflect Akbar's syncretic, tolerant religious vision."
+    },
+    {
+      "id": "fatehpur-sikri-q30",
+      "difficulty": "hard",
+      "q": "The small but elaborately carved building at Fatehpur Sikri often identified as the residence or office of a court favourite is popularly called the house of whom?",
+      "options": [
+        "Tansen",
+        "Birbal",
+        "Todar Mal",
+        "Abul Fazl"
+      ],
+      "answer": 1,
+      "explanation": "A finely carved residence at Fatehpur Sikri is popularly known as the House of Birbal, after Akbar's celebrated courtier."
+    }
+  ]
+}

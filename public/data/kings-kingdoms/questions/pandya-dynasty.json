@@ -1,0 +1,395 @@
+{
+  "cardId": "pandya-dynasty",
+  "questions": [
+    {
+      "id": "pandya-dynasty-q01",
+      "difficulty": "easy",
+      "q": "The Pandyas ruled the far south of India from which great city?",
+      "options": [
+        "Madurai",
+        "Delhi",
+        "Kannauj",
+        "Pataliputra"
+      ],
+      "answer": 0,
+      "explanation": "Madurai was the principal capital of the Pandya dynasty."
+    },
+    {
+      "id": "pandya-dynasty-q02",
+      "difficulty": "easy",
+      "q": "The Pandyas were one of the three ancient kingdoms of which region?",
+      "options": [
+        "Bengal",
+        "The Tamil country",
+        "Gujarat",
+        "Kashmir"
+      ],
+      "answer": 1,
+      "explanation": "The Pandyas were one of the three crowned Tamil dynasties, with the Cheras and Cholas."
+    },
+    {
+      "id": "pandya-dynasty-q03",
+      "difficulty": "easy",
+      "q": "The Pandyas were especially renowned for the fishery of which precious natural product?",
+      "options": [
+        "Diamonds",
+        "Gold nuggets",
+        "Pearls",
+        "Amber"
+      ],
+      "answer": 2,
+      "explanation": "The Pandya realm was famous for its pearl fishery in the Gulf of Mannar."
+    },
+    {
+      "id": "pandya-dynasty-q04",
+      "difficulty": "easy",
+      "q": "The royal emblem of the Pandya dynasty was which symbol?",
+      "options": [
+        "The tiger",
+        "The bow",
+        "The lion",
+        "The fish"
+      ],
+      "answer": 3,
+      "explanation": "The Pandya emblem was the fish (often a twin-fish), distinct from the Chola tiger and Chera bow."
+    },
+    {
+      "id": "pandya-dynasty-q05",
+      "difficulty": "easy",
+      "q": "The Pandyas patronised poetry during which famous early Tamil literary age?",
+      "options": [
+        "The Sangam age",
+        "The Gupta golden age",
+        "The Mughal era",
+        "The Victorian era"
+      ],
+      "answer": 0,
+      "explanation": "The Pandyas were noted patrons of Sangam-era Tamil poetry, traditionally hosting the academies (Sangams) at Madurai."
+    },
+    {
+      "id": "pandya-dynasty-q06",
+      "difficulty": "easy",
+      "q": "Madurai, the Pandya capital, is located in which present-day Indian state?",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Odisha"
+      ],
+      "answer": 1,
+      "explanation": "Madurai lies in present-day Tamil Nadu."
+    },
+    {
+      "id": "pandya-dynasty-q07",
+      "difficulty": "easy",
+      "q": "The famous temple in the Pandya capital dedicated to the goddess Meenakshi is located in which city?",
+      "options": [
+        "Thanjavur",
+        "Kanchipuram",
+        "Madurai",
+        "Mahabalipuram"
+      ],
+      "answer": 2,
+      "explanation": "The Meenakshi Amman temple stands in Madurai, long the Pandya seat."
+    },
+    {
+      "id": "pandya-dynasty-q08",
+      "difficulty": "easy",
+      "q": "The Pandyas had two great phases of power: the early Sangam age and a later revival in which broad period?",
+      "options": [
+        "The Stone Age",
+        "The colonial period",
+        "The Vedic period",
+        "The medieval period"
+      ],
+      "answer": 3,
+      "explanation": "The Pandyas revived strongly in the medieval period, especially the 13th century CE."
+    },
+    {
+      "id": "pandya-dynasty-q09",
+      "difficulty": "easy",
+      "q": "The Pandyas were principally what kind of power?",
+      "options": [
+        "A Tamil dynasty of the deep south",
+        "A Himalayan mountain kingdom",
+        "A north Indian Islamic sultanate",
+        "A Central Asian empire"
+      ],
+      "answer": 0,
+      "explanation": "The Pandyas were one of the ancient Tamil dynasties of the southern peninsula."
+    },
+    {
+      "id": "pandya-dynasty-q10",
+      "difficulty": "easy",
+      "q": "Pandya pearls and trade connected their kingdom with merchants from which distant western power, among others?",
+      "options": [
+        "China only",
+        "Rome",
+        "Japan",
+        "Scandinavia"
+      ],
+      "answer": 1,
+      "explanation": "Pandya pearls and goods reached Roman and other foreign markets through busy southern ports."
+    },
+    {
+      "id": "pandya-dynasty-q11",
+      "difficulty": "medium",
+      "q": "Which Pandya king is celebrated in Sangam poetry for victory at the Battle of Talaiyalanganam over a confederacy of rivals?",
+      "options": [
+        "Karikala",
+        "Senguttuvan",
+        "Nedunjeliyan",
+        "Rajaraja"
+      ],
+      "answer": 2,
+      "explanation": "The Pandya Nedunjeliyan is praised in Sangam works for his triumph at Talaiyalanganam."
+    },
+    {
+      "id": "pandya-dynasty-q12",
+      "difficulty": "medium",
+      "q": "Which ruler is traditionally regarded as the founder of the medieval (later) Pandya revival in the 6th-7th centuries?",
+      "options": [
+        "Maravarman Sundara",
+        "Jatavarman Sundara",
+        "Maravarman Kulasekhara",
+        "Kadungon"
+      ],
+      "answer": 3,
+      "explanation": "Kadungon is credited with reviving Pandya power after the Kalabhra interregnum, founding the later line."
+    },
+    {
+      "id": "pandya-dynasty-q13",
+      "difficulty": "medium",
+      "q": "The Venetian traveller Marco Polo visited and described the wealth of which south Indian kingdom in the late 13th century?",
+      "options": [
+        "The Pandya kingdom",
+        "The Ahom kingdom",
+        "The Sikh kingdom",
+        "The Mughal empire"
+      ],
+      "answer": 0,
+      "explanation": "Marco Polo described the prosperity and pearl trade of the Pandya kingdom (which he called Maabar)."
+    },
+    {
+      "id": "pandya-dynasty-q14",
+      "difficulty": "medium",
+      "q": "Which medieval Pandya king greatly expanded the kingdom in the 13th century and led the so-called 'golden age' of Pandya power?",
+      "options": [
+        "Kadungon",
+        "Jatavarman Sundara Pandya I",
+        "Nedunjeliyan",
+        "Rajasimha"
+      ],
+      "answer": 1,
+      "explanation": "Jatavarman Sundara Pandya I led aggressive conquests in the mid-13th century, marking the Pandya zenith."
+    },
+    {
+      "id": "pandya-dynasty-q15",
+      "difficulty": "medium",
+      "q": "The Pandyas frequently warred against which neighbouring Tamil empire that often dominated them in the 9th-12th centuries?",
+      "options": [
+        "The Mughals",
+        "The Marathas",
+        "The Cholas",
+        "The Palas"
+      ],
+      "answer": 2,
+      "explanation": "The Cholas frequently subdued and absorbed the Pandya country during their height."
+    },
+    {
+      "id": "pandya-dynasty-q16",
+      "difficulty": "medium",
+      "q": "The pearl fishery that enriched the Pandyas was located in which body of water?",
+      "options": [
+        "The Bay of Bengal off Kolkata",
+        "The Arabian Sea off Gujarat",
+        "Lake Chilika",
+        "The Gulf of Mannar"
+      ],
+      "answer": 3,
+      "explanation": "The Gulf of Mannar between southern India and Sri Lanka was the famed Pandya pearl-fishing ground."
+    },
+    {
+      "id": "pandya-dynasty-q17",
+      "difficulty": "medium",
+      "q": "Which Delhi Sultanate general raided the Pandya country and sacked Madurai in the early 14th century?",
+      "options": [
+        "Malik Kafur",
+        "Bairam Khan",
+        "Mir Jafar",
+        "Man Singh"
+      ],
+      "answer": 0,
+      "explanation": "Malik Kafur, general of Alauddin Khalji, raided the Pandya country and plundered Madurai around 1311."
+    },
+    {
+      "id": "pandya-dynasty-q18",
+      "difficulty": "medium",
+      "q": "After Malik Kafur's invasions, a breakaway Muslim state formed in the former Pandya region; it was known as which sultanate?",
+      "options": [
+        "The Bahmani Sultanate",
+        "The Madurai Sultanate (Ma'bar)",
+        "The Bengal Sultanate",
+        "The Gujarat Sultanate"
+      ],
+      "answer": 1,
+      "explanation": "The short-lived Madurai (Ma'bar) Sultanate arose in the early 14th century in the old Pandya country."
+    },
+    {
+      "id": "pandya-dynasty-q19",
+      "difficulty": "medium",
+      "q": "The three crowned kings of the Tamil land, the muvendar, were the Cheras, Cholas, and which third dynasty?",
+      "options": [
+        "The Pallavas",
+        "The Hoysalas",
+        "The Pandyas",
+        "The Kakatiyas"
+      ],
+      "answer": 2,
+      "explanation": "The muvendar (three crowned kings) were the Cheras, Cholas, and Pandyas."
+    },
+    {
+      "id": "pandya-dynasty-q20",
+      "difficulty": "medium",
+      "q": "The later Pandyas often had multiple kings ruling at once under a system described as what?",
+      "options": [
+        "A single absolute monarch only",
+        "Rule by elected councils",
+        "Rule by foreign governors",
+        "Co-regency / collateral rule by several Pandya princes"
+      ],
+      "answer": 3,
+      "explanation": "The later Pandyas frequently practised collateral or joint rule, with several princes holding royal titles simultaneously."
+    },
+    {
+      "id": "pandya-dynasty-q21",
+      "difficulty": "medium",
+      "q": "Which interregnum group is traditionally said to have eclipsed the early Tamil dynasties, including the Pandyas, before Kadungon's revival?",
+      "options": [
+        "The Kalabhras",
+        "The Mughals",
+        "The Hephthalites",
+        "The Marathas"
+      ],
+      "answer": 0,
+      "explanation": "The Kalabhra interregnum is said to have disrupted the early Tamil dynasties before the Pandya revival under Kadungon."
+    },
+    {
+      "id": "pandya-dynasty-q22",
+      "difficulty": "medium",
+      "q": "The Pandya king Maravarman Sundara Pandya I notably defeated and ended the dominance of which weakening dynasty in the early 13th century?",
+      "options": [
+        "The Rashtrakutas",
+        "The Cholas",
+        "The Pallavas",
+        "The Satavahanas"
+      ],
+      "answer": 1,
+      "explanation": "Maravarman Sundara Pandya I struck decisive blows against the declining Cholas, reasserting Pandya supremacy."
+    },
+    {
+      "id": "pandya-dynasty-q23",
+      "difficulty": "hard",
+      "q": "Jatavarman Sundara Pandya I is recorded as performing a ceremony of 'covering with gold' at which famous temple?",
+      "options": [
+        "The Konark Sun Temple",
+        "The Khajuraho temples",
+        "The Chidambaram (Nataraja) temple",
+        "The Somnath temple"
+      ],
+      "answer": 2,
+      "explanation": "Jatavarman Sundara Pandya I is famed for gilding the hall and shrine at the Chidambaram temple."
+    },
+    {
+      "id": "pandya-dynasty-q24",
+      "difficulty": "hard",
+      "q": "A succession dispute between two Pandya princes, Vira Pandya and Sundara Pandya, in the late 13th century invited intervention that hastened the dynasty's fall; this civil war preceded which event?",
+      "options": [
+        "The Battle of Plassey",
+        "The fall of Vijayanagara at Talikota",
+        "The First Battle of Panipat",
+        "The invasions of Malik Kafur"
+      ],
+      "answer": 3,
+      "explanation": "The Pandya civil war between Vira and Sundara Pandya weakened the realm just before Malik Kafur's invasions."
+    },
+    {
+      "id": "pandya-dynasty-q25",
+      "difficulty": "hard",
+      "q": "Megasthenes and classical sources record a tradition that the Pandya kingdom was founded or named after a woman; the Greeks linked it to a daughter of which hero?",
+      "options": [
+        "Herakles (Heracles)",
+        "Alexander",
+        "Apollo",
+        "Achilles"
+      ],
+      "answer": 0,
+      "explanation": "Greek accounts via Megasthenes connected the Pandya land to 'Pandaia', described as a daughter of the Indian Herakles."
+    },
+    {
+      "id": "pandya-dynasty-q26",
+      "difficulty": "hard",
+      "q": "An embassy from a Pandya king is recorded as reaching the court of which Roman emperor around the start of the Common Era?",
+      "options": [
+        "Nero",
+        "Augustus",
+        "Constantine",
+        "Trajan"
+      ],
+      "answer": 1,
+      "explanation": "Roman sources note a south Indian (Pandya) embassy reaching Emperor Augustus, reflecting active trade contact."
+    },
+    {
+      "id": "pandya-dynasty-q27",
+      "difficulty": "hard",
+      "q": "The medieval Pandyas were eventually overrun and absorbed in the 14th-16th centuries by the expansion of which southern empire and its Nayaks?",
+      "options": [
+        "The Maratha empire",
+        "The Mughal empire",
+        "The Vijayanagara empire",
+        "The Sikh empire"
+      ],
+      "answer": 2,
+      "explanation": "After the sultanate interlude, Vijayanagara and its Madurai Nayaks absorbed the former Pandya country."
+    },
+    {
+      "id": "pandya-dynasty-q28",
+      "difficulty": "hard",
+      "q": "The Sinnamanur and Velvikudi copper-plate inscriptions are key sources for the genealogy of which dynasty?",
+      "options": [
+        "The Mauryas",
+        "The Cheras of Vanji",
+        "The Pallavas",
+        "The medieval Pandyas"
+      ],
+      "answer": 3,
+      "explanation": "The Velvikudi and Sinnamanur plates provide important genealogical records of the later Pandya line."
+    },
+    {
+      "id": "pandya-dynasty-q29",
+      "difficulty": "hard",
+      "q": "The Pandya king Maravarman Rajasimha and his successors fought a prolonged contest in the 8th-9th centuries with which northern Tamil-region dynasty over the central Tamil land?",
+      "options": [
+        "The Pallavas",
+        "The Hoysalas",
+        "The Kakatiyas",
+        "The Ahoms"
+      ],
+      "answer": 0,
+      "explanation": "The earlier medieval Pandyas waged long wars with the Pallavas of Kanchi for control of the Tamil heartland."
+    },
+    {
+      "id": "pandya-dynasty-q30",
+      "difficulty": "hard",
+      "q": "Marco Polo's account of the Pandya land notes the local custom of diving for pearls and refers to the region by which name?",
+      "options": [
+        "Cathay",
+        "Maabar (Ma'bar)",
+        "Cipangu",
+        "Taprobane"
+      ],
+      "answer": 1,
+      "explanation": "Marco Polo called the Pandya coast 'Maabar' and described its pearl diving and great wealth."
+    }
+  ]
+}

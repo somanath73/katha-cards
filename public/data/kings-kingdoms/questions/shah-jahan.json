@@ -1,0 +1,395 @@
+{
+  "cardId": "shah-jahan",
+  "questions": [
+    {
+      "id": "shah-jahan-q01",
+      "difficulty": "easy",
+      "q": "Shah Jahan is most famous for building which monument?",
+      "options": [
+        "The Qutb Minar",
+        "The Taj Mahal",
+        "The Charminar",
+        "The Red Fort of Agra"
+      ],
+      "answer": 1,
+      "explanation": "Shah Jahan built the Taj Mahal at Agra in memory of his wife Mumtaz Mahal."
+    },
+    {
+      "id": "shah-jahan-q02",
+      "difficulty": "easy",
+      "q": "Shah Jahan was which number in the line of Mughal emperors?",
+      "options": [
+        "The third",
+        "The fourth",
+        "The sixth",
+        "The fifth"
+      ],
+      "answer": 3,
+      "explanation": "Shah Jahan was the fifth Mughal emperor of India."
+    },
+    {
+      "id": "shah-jahan-q03",
+      "difficulty": "easy",
+      "q": "The Taj Mahal was built by Shah Jahan in memory of which person?",
+      "options": [
+        "Nur Jahan",
+        "Mumtaz Mahal",
+        "His mother",
+        "His sister Jahanara"
+      ],
+      "answer": 1,
+      "explanation": "Shah Jahan built the Taj Mahal as a mausoleum for his beloved wife Mumtaz Mahal."
+    },
+    {
+      "id": "shah-jahan-q04",
+      "difficulty": "easy",
+      "q": "Shah Jahan was the son and successor of which Mughal emperor?",
+      "options": [
+        "Akbar",
+        "Jahangir",
+        "Humayun",
+        "Aurangzeb"
+      ],
+      "answer": 1,
+      "explanation": "Shah Jahan succeeded his father Jahangir as Mughal emperor in 1628."
+    },
+    {
+      "id": "shah-jahan-q05",
+      "difficulty": "easy",
+      "q": "Shah Jahan moved the Mughal capital to a new city he founded in Delhi. What was it called?",
+      "options": [
+        "Fatehpur Sikri",
+        "Firozabad",
+        "Shahjahanabad",
+        "Tughlaqabad"
+      ],
+      "answer": 2,
+      "explanation": "Shah Jahan built and moved his capital to Shahjahanabad, the area of Old Delhi."
+    },
+    {
+      "id": "shah-jahan-q06",
+      "difficulty": "easy",
+      "q": "Shah Jahan's reign is especially celebrated as a high point in which field?",
+      "options": [
+        "Naval exploration",
+        "Astronomy",
+        "Mathematics",
+        "Architecture"
+      ],
+      "answer": 3,
+      "explanation": "Shah Jahan's reign is remembered as the golden age of Mughal architecture."
+    },
+    {
+      "id": "shah-jahan-q07",
+      "difficulty": "easy",
+      "q": "What was Shah Jahan's birth name as a prince?",
+      "options": [
+        "Khurram",
+        "Salim",
+        "Murad",
+        "Khusrau"
+      ],
+      "answer": 0,
+      "explanation": "Shah Jahan was born Prince Khurram and took the regnal name Shah Jahan on becoming emperor."
+    },
+    {
+      "id": "shah-jahan-q08",
+      "difficulty": "easy",
+      "q": "Which famous jewelled throne was commissioned by Shah Jahan?",
+      "options": [
+        "The Peacock Throne",
+        "The Lion Throne",
+        "The Marble Throne",
+        "The Golden Lotus Throne"
+      ],
+      "answer": 0,
+      "explanation": "Shah Jahan commissioned the celebrated jewel-encrusted Peacock Throne."
+    },
+    {
+      "id": "shah-jahan-q09",
+      "difficulty": "easy",
+      "q": "In which century did Shah Jahan reign over the Mughal Empire?",
+      "options": [
+        "The 15th century CE",
+        "The 16th century CE",
+        "The 17th century CE",
+        "The 18th century CE"
+      ],
+      "answer": 2,
+      "explanation": "Shah Jahan reigned from 1628 to 1658 CE, in the 17th century."
+    },
+    {
+      "id": "shah-jahan-q10",
+      "difficulty": "easy",
+      "q": "Which son of Shah Jahan seized the throne and became the next emperor?",
+      "options": [
+        "Aurangzeb",
+        "Dara Shikoh",
+        "Shuja",
+        "Murad Baksh"
+      ],
+      "answer": 0,
+      "explanation": "Shah Jahan's son Aurangzeb won the war of succession and became the sixth Mughal emperor."
+    },
+    {
+      "id": "shah-jahan-q11",
+      "difficulty": "medium",
+      "q": "In what year did Shah Jahan become Mughal emperor?",
+      "options": [
+        "1605 CE",
+        "1658 CE",
+        "1556 CE",
+        "1628 CE"
+      ],
+      "answer": 3,
+      "explanation": "Shah Jahan ascended the throne in 1628 CE after the death of his father Jahangir."
+    },
+    {
+      "id": "shah-jahan-q12",
+      "difficulty": "medium",
+      "q": "Mumtaz Mahal, in whose memory the Taj was built, died in which circumstances?",
+      "options": [
+        "In a battle",
+        "During childbirth",
+        "From poisoning",
+        "In a hunting accident"
+      ],
+      "answer": 1,
+      "explanation": "Mumtaz Mahal died in 1631 while giving birth to her fourteenth child, prompting Shah Jahan to build the Taj."
+    },
+    {
+      "id": "shah-jahan-q13",
+      "difficulty": "medium",
+      "q": "Shah Jahan built the famous Red Fort, the Lal Qila, in which city?",
+      "options": [
+        "Delhi",
+        "Agra",
+        "Lahore",
+        "Ajmer"
+      ],
+      "answer": 0,
+      "explanation": "Shah Jahan built the Red Fort (Lal Qila) as the palace fort of his new capital Shahjahanabad in Delhi."
+    },
+    {
+      "id": "shah-jahan-q14",
+      "difficulty": "medium",
+      "q": "The great congregational mosque built by Shah Jahan in Delhi is known as which?",
+      "options": [
+        "Badshahi Mosque",
+        "Moti Masjid",
+        "Jama Masjid",
+        "Wazir Khan Mosque"
+      ],
+      "answer": 2,
+      "explanation": "Shah Jahan built the Jama Masjid of Delhi, one of the largest mosques in India."
+    },
+    {
+      "id": "shah-jahan-q15",
+      "difficulty": "medium",
+      "q": "Shah Jahan's favourite eldest son, a noted scholar later defeated by Aurangzeb, was which prince?",
+      "options": [
+        "Murad Baksh",
+        "Shah Shuja",
+        "Dara Shikoh",
+        "Shahryar"
+      ],
+      "answer": 2,
+      "explanation": "Dara Shikoh, Shah Jahan's learned and favoured heir, was defeated and killed by Aurangzeb in the succession war."
+    },
+    {
+      "id": "shah-jahan-q16",
+      "difficulty": "medium",
+      "q": "After being deposed, where did Shah Jahan spend his final years in captivity?",
+      "options": [
+        "The Red Fort of Delhi",
+        "Lahore Fort",
+        "The Agra Fort",
+        "Gwalior Fort"
+      ],
+      "answer": 2,
+      "explanation": "Aurangzeb imprisoned Shah Jahan in the Agra Fort, where he died in 1666."
+    },
+    {
+      "id": "shah-jahan-q17",
+      "difficulty": "medium",
+      "q": "Mumtaz Mahal was the niece of which earlier Mughal queen?",
+      "options": [
+        "Jodha Bai",
+        "Nur Jahan",
+        "Hamida Banu",
+        "Maham Anga"
+      ],
+      "answer": 1,
+      "explanation": "Mumtaz Mahal was the niece of Nur Jahan, the powerful consort of Jahangir."
+    },
+    {
+      "id": "shah-jahan-q18",
+      "difficulty": "medium",
+      "q": "Shah Jahan's devoted eldest daughter, who cared for him in his captivity, was which princess?",
+      "options": [
+        "Roshanara",
+        "Gauharara",
+        "Jahanara",
+        "Zeb-un-Nissa"
+      ],
+      "answer": 2,
+      "explanation": "Princess Jahanara, his eldest daughter, remained with Shah Jahan during his imprisonment at Agra."
+    },
+    {
+      "id": "shah-jahan-q19",
+      "difficulty": "medium",
+      "q": "Shah Jahan's reign saw repeated, costly Mughal campaigns aimed at recapturing which northwestern fortress?",
+      "options": [
+        "Multan",
+        "Peshawar",
+        "Ghazni",
+        "Kandahar"
+      ],
+      "answer": 3,
+      "explanation": "Shah Jahan launched several expensive but ultimately failed campaigns to recover Kandahar from the Persians."
+    },
+    {
+      "id": "shah-jahan-q20",
+      "difficulty": "medium",
+      "q": "In what year did the deposed Shah Jahan die?",
+      "options": [
+        "1666 CE",
+        "1658 CE",
+        "1672 CE",
+        "1707 CE"
+      ],
+      "answer": 0,
+      "explanation": "Shah Jahan died in 1666 CE while a prisoner of his son Aurangzeb in the Agra Fort."
+    },
+    {
+      "id": "shah-jahan-q21",
+      "difficulty": "medium",
+      "q": "Where is Shah Jahan buried?",
+      "options": [
+        "In the Red Fort",
+        "At Sikandra",
+        "In Humayun's Tomb",
+        "Beside Mumtaz Mahal in the Taj Mahal"
+      ],
+      "answer": 3,
+      "explanation": "Shah Jahan was laid to rest beside Mumtaz Mahal inside the Taj Mahal at Agra."
+    },
+    {
+      "id": "shah-jahan-q22",
+      "difficulty": "medium",
+      "q": "The Mughal Empire under Shah Jahan is generally regarded as being at which stage?",
+      "options": [
+        "Its cultural and architectural peak",
+        "Its founding",
+        "Its first decade",
+        "Its final collapse"
+      ],
+      "answer": 0,
+      "explanation": "Shah Jahan's reign is widely seen as the empire's zenith of wealth, splendour, and architectural achievement."
+    },
+    {
+      "id": "shah-jahan-q23",
+      "difficulty": "hard",
+      "q": "The war of succession among Shah Jahan's sons broke out in 1657 after the emperor fell seriously ill with what?",
+      "options": [
+        "A battle wound",
+        "A hunting injury",
+        "Poisoning by a rival",
+        "A grave illness"
+      ],
+      "answer": 3,
+      "explanation": "A serious illness of Shah Jahan in 1657 triggered the succession war among his four sons, won by Aurangzeb."
+    },
+    {
+      "id": "shah-jahan-q24",
+      "difficulty": "hard",
+      "q": "Shah Jahan built a magnificent white marble mosque inside the Agra Fort known by which name?",
+      "options": [
+        "Wazir Khan Mosque",
+        "Badshahi Mosque",
+        "Sheesh Mahal",
+        "Moti Masjid (Pearl Mosque)"
+      ],
+      "answer": 3,
+      "explanation": "Shah Jahan built the Moti Masjid, or Pearl Mosque, of gleaming white marble within the Agra Fort."
+    },
+    {
+      "id": "shah-jahan-q25",
+      "difficulty": "hard",
+      "q": "Which two younger brothers did Aurangzeb defeat or eliminate, besides Dara Shikoh, in the succession struggle?",
+      "options": [
+        "Shah Shuja and Murad Baksh",
+        "Khusrau and Parviz",
+        "Shahryar and Daniyal",
+        "Hindal and Kamran"
+      ],
+      "answer": 0,
+      "explanation": "Aurangzeb overcame Shah Shuja and Murad Baksh, alongside Dara Shikoh, to seize the throne."
+    },
+    {
+      "id": "shah-jahan-q26",
+      "difficulty": "hard",
+      "q": "Before becoming emperor, Prince Khurram earned the title 'Shah Jahan' from his father after a successful campaign in which region?",
+      "options": [
+        "Bengal",
+        "The Deccan",
+        "Kashmir",
+        "Gujarat"
+      ],
+      "answer": 1,
+      "explanation": "Jahangir bestowed the title Shah Jahan on Prince Khurram after his Deccan campaigns."
+    },
+    {
+      "id": "shah-jahan-q27",
+      "difficulty": "hard",
+      "q": "Shah Jahan annexed which Deccan sultanate outright in 1636 during his southern expansion?",
+      "options": [
+        "Bijapur",
+        "Golconda",
+        "Berar",
+        "Ahmadnagar"
+      ],
+      "answer": 3,
+      "explanation": "Shah Jahan's forces extinguished the Nizam Shahi sultanate of Ahmadnagar, annexing it to the empire in 1636."
+    },
+    {
+      "id": "shah-jahan-q28",
+      "difficulty": "hard",
+      "q": "Shah Jahan's ill-fated Central Asian campaign of the 1640s targeted which region, the ancestral Mughal homeland?",
+      "options": [
+        "Persia",
+        "Tibet",
+        "Balkh and Badakhshan",
+        "Ceylon"
+      ],
+      "answer": 2,
+      "explanation": "Shah Jahan's costly Balkh and Badakhshan campaign aimed to recover the Timurid homelands but ended in withdrawal."
+    },
+    {
+      "id": "shah-jahan-q29",
+      "difficulty": "hard",
+      "q": "The European traveller who left a vivid eyewitness account of Shah Jahan's court and the Peacock Throne was which jeweller?",
+      "options": [
+        "Niccolao Manucci",
+        "Francois Bernier",
+        "Jean-Baptiste Tavernier",
+        "Sir Thomas Roe"
+      ],
+      "answer": 2,
+      "explanation": "The French jeweller Jean-Baptiste Tavernier described Shah Jahan's court and the jewel-laden Peacock Throne in detail."
+    },
+    {
+      "id": "shah-jahan-q30",
+      "difficulty": "hard",
+      "q": "The architect most often credited in tradition with the design of Shah Jahan's Taj Mahal is named as which?",
+      "options": [
+        "Mir Sayyid Ali",
+        "Ustad Ahmad Lahauri",
+        "Abdul Hamid Lahori",
+        "Ustad Mansur"
+      ],
+      "answer": 1,
+      "explanation": "Ustad Ahmad Lahauri is traditionally regarded as the chief architect of Shah Jahan's Taj Mahal."
+    }
+  ]
+}

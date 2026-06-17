@@ -1,0 +1,395 @@
+{
+  "cardId": "chanakya",
+  "questions": [
+    {
+      "id": "chanakya-q01",
+      "difficulty": "easy",
+      "q": "Chanakya is also widely known by which other name?",
+      "options": [
+        "Kautilya",
+        "Megasthenes",
+        "Banabhatta",
+        "Patanjali"
+      ],
+      "answer": 0,
+      "explanation": "Chanakya is famously also called Kautilya (and Vishnugupta)."
+    },
+    {
+      "id": "chanakya-q02",
+      "difficulty": "easy",
+      "q": "Chanakya is traditionally credited with authoring which treatise?",
+      "options": [
+        "The Ramayana",
+        "The Arthashastra",
+        "The Mahabharata",
+        "The Rigveda"
+      ],
+      "answer": 1,
+      "explanation": "Chanakya is traditionally credited with the Arthashastra, a manual of statecraft."
+    },
+    {
+      "id": "chanakya-q03",
+      "difficulty": "easy",
+      "q": "Which ruler did Chanakya guide to power?",
+      "options": [
+        "Samudragupta",
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Harsha"
+      ],
+      "answer": 2,
+      "explanation": "Chanakya mentored and guided Chandragupta Maurya to the throne."
+    },
+    {
+      "id": "chanakya-q04",
+      "difficulty": "easy",
+      "q": "Chanakya helped overthrow which dynasty of Magadha?",
+      "options": [
+        "The Pallava dynasty",
+        "The Gupta dynasty",
+        "The Chola dynasty",
+        "The Nanda dynasty"
+      ],
+      "answer": 3,
+      "explanation": "Chanakya engineered the overthrow of the Nanda dynasty."
+    },
+    {
+      "id": "chanakya-q05",
+      "difficulty": "easy",
+      "q": "The empire founded with Chanakya's guidance was the:",
+      "options": [
+        "Mughal Empire",
+        "Mauryan Empire",
+        "Maratha Empire",
+        "Vijayanagara Empire"
+      ],
+      "answer": 1,
+      "explanation": "Chanakya's efforts led to the founding of the Mauryan Empire."
+    },
+    {
+      "id": "chanakya-q06",
+      "difficulty": "easy",
+      "q": "Chanakya is best described as Chandragupta's what?",
+      "options": [
+        "Naval admiral",
+        "Court musician",
+        "Chief adviser and strategist",
+        "Personal physician"
+      ],
+      "answer": 2,
+      "explanation": "Chanakya served as Chandragupta's principal adviser and strategist, the 'kingmaker'."
+    },
+    {
+      "id": "chanakya-q07",
+      "difficulty": "easy",
+      "q": "The Arthashastra is primarily a treatise on what subjects?",
+      "options": [
+        "Medicine and surgery",
+        "Astronomy and calendars",
+        "Music and dance",
+        "Statecraft, economics, and warfare"
+      ],
+      "answer": 3,
+      "explanation": "The Arthashastra deals with statecraft, economics, diplomacy, and military strategy."
+    },
+    {
+      "id": "chanakya-q08",
+      "difficulty": "easy",
+      "q": "Chanakya is popularly remembered with which subtitle in this deck?",
+      "options": [
+        "The Kingmaker",
+        "The Sea Lord",
+        "The Builder Sultan",
+        "The Connoisseur"
+      ],
+      "answer": 0,
+      "explanation": "Chanakya is celebrated as 'The Kingmaker' for raising Chandragupta to power."
+    },
+    {
+      "id": "chanakya-q09",
+      "difficulty": "easy",
+      "q": "Chanakya lived around which period?",
+      "options": [
+        "12th century CE",
+        "5th century CE",
+        "Late 4th century BCE",
+        "1st century CE"
+      ],
+      "answer": 2,
+      "explanation": "Chanakya flourished in the late 4th century BCE during the founding of the Mauryan Empire."
+    },
+    {
+      "id": "chanakya-q10",
+      "difficulty": "easy",
+      "q": "Chanakya is principally remembered as a scholar and what?",
+      "options": [
+        "Court poet of love lyrics",
+        "Sea captain",
+        "Sculptor",
+        "Strategist"
+      ],
+      "answer": 3,
+      "explanation": "Chanakya was a scholar and political strategist who shaped Mauryan statecraft."
+    },
+    {
+      "id": "chanakya-q11",
+      "difficulty": "medium",
+      "q": "Chanakya is traditionally associated with teaching at which ancient centre of learning?",
+      "options": [
+        "Taxila",
+        "Madurai",
+        "Kanchipuram",
+        "Thanjavur"
+      ],
+      "answer": 0,
+      "explanation": "Tradition links Chanakya with the renowned centre of learning at Taxila (Takshashila)."
+    },
+    {
+      "id": "chanakya-q12",
+      "difficulty": "medium",
+      "q": "A third name by which Chanakya is known in tradition is:",
+      "options": [
+        "Vasubandhu",
+        "Vishnugupta",
+        "Vatsyayana",
+        "Vararuchi"
+      ],
+      "answer": 1,
+      "explanation": "Chanakya is also called Vishnugupta in several traditional sources."
+    },
+    {
+      "id": "chanakya-q13",
+      "difficulty": "medium",
+      "q": "Which classical Sanskrit play dramatises Chanakya's political schemes against the Nandas?",
+      "options": [
+        "Ratnavali",
+        "Shakuntala",
+        "Meghaduta",
+        "Mudrarakshasa"
+      ],
+      "answer": 3,
+      "explanation": "Vishakhadatta's Mudrarakshasa portrays Chanakya outmanoeuvring the Nandas' minister Rakshasa."
+    },
+    {
+      "id": "chanakya-q14",
+      "difficulty": "medium",
+      "q": "In the Mudrarakshasa, Chanakya's chief rival, the loyal Nanda minister he wins over, is named:",
+      "options": [
+        "Rakshasa",
+        "Vassakara",
+        "Bhattisvamin",
+        "Sushena"
+      ],
+      "answer": 0,
+      "explanation": "The minister Rakshasa is Chanakya's worthy adversary in the Mudrarakshasa, eventually won to the Mauryan side."
+    },
+    {
+      "id": "chanakya-q15",
+      "difficulty": "medium",
+      "q": "The Arthashastra famously discusses a fourfold set of policy expedients for dealing with rivals. Which is one of them?",
+      "options": [
+        "Earth, water, fire, air",
+        "Sama, dana, bheda, danda (conciliation, gifts, division, force)",
+        "Faith, hope, charity, love",
+        "Trade, tax, tribute, treaty"
+      ],
+      "answer": 1,
+      "explanation": "The Arthashastra outlines sama, dana, bheda and danda as the four means of statecraft."
+    },
+    {
+      "id": "chanakya-q16",
+      "difficulty": "medium",
+      "q": "The Arthashastra advocates an elaborate network of which agents for state security?",
+      "options": [
+        "Temple priests",
+        "Sea pilots",
+        "Spies",
+        "Court jesters"
+      ],
+      "answer": 2,
+      "explanation": "The Arthashastra recommends an extensive system of spies and informants to safeguard the state."
+    },
+    {
+      "id": "chanakya-q17",
+      "difficulty": "medium",
+      "q": "According to tradition, what insult triggered Chanakya's vow to destroy the Nandas?",
+      "options": [
+        "He was humiliated and expelled from the Nanda court",
+        "His ship was seized at sea",
+        "His temple was demolished",
+        "His coins were declared worthless"
+      ],
+      "answer": 0,
+      "explanation": "Tradition holds that Chanakya was insulted and dismissed from the Nanda court, prompting his vow of revenge."
+    },
+    {
+      "id": "chanakya-q18",
+      "difficulty": "medium",
+      "q": "The Arthashastra describes the state through a model of how many essential elements or limbs of sovereignty?",
+      "options": [
+        "Twelve",
+        "Three",
+        "Seven (the saptanga theory)",
+        "Twenty"
+      ],
+      "answer": 2,
+      "explanation": "The Arthashastra's saptanga theory lists seven limbs of the state, including the king, ministers, and army."
+    },
+    {
+      "id": "chanakya-q19",
+      "difficulty": "medium",
+      "q": "Collections of pithy moral and practical maxims attributed to Chanakya are commonly called:",
+      "options": [
+        "Chanakya Sutta",
+        "Chanakya Niti",
+        "Chanakya Purana",
+        "Chanakya Veda"
+      ],
+      "answer": 1,
+      "explanation": "The Chanakya Niti (and Chanakya Nitishastra) are collections of maxims traditionally ascribed to him."
+    },
+    {
+      "id": "chanakya-q20",
+      "difficulty": "medium",
+      "q": "Chanakya's home capital, from which he served the Mauryas, was the city of:",
+      "options": [
+        "Sravasti",
+        "Ujjain",
+        "Mathura",
+        "Pataliputra"
+      ],
+      "answer": 3,
+      "explanation": "Chanakya advised the Mauryan court from Pataliputra, the imperial capital."
+    },
+    {
+      "id": "chanakya-q21",
+      "difficulty": "medium",
+      "q": "Chanakya's statecraft is often compared by modern writers to which European political thinker?",
+      "options": [
+        "Plato",
+        "Aristotle",
+        "Machiavelli",
+        "Cicero"
+      ],
+      "answer": 2,
+      "explanation": "Chanakya is frequently compared to Machiavelli for his pragmatic, hard-headed political doctrine."
+    },
+    {
+      "id": "chanakya-q22",
+      "difficulty": "medium",
+      "q": "The surviving text of the Arthashastra was rediscovered and published in the early twentieth century largely through the work of:",
+      "options": [
+        "R. Shamasastry",
+        "James Prinsep",
+        "John Marshall",
+        "Max Muller"
+      ],
+      "answer": 0,
+      "explanation": "R. Shamasastry rediscovered a manuscript of the Arthashastra and published it in 1909, with a translation soon after."
+    },
+    {
+      "id": "chanakya-q23",
+      "difficulty": "hard",
+      "q": "The Arthashastra is composed in which form and language?",
+      "options": [
+        "Greek hexameter",
+        "Old Tamil verse",
+        "Prakrit dialogue",
+        "Sanskrit prose with verse, in sutra-and-commentary style"
+      ],
+      "answer": 3,
+      "explanation": "The Arthashastra is a Sanskrit text in terse prose interspersed with verses, organised into books and chapters."
+    },
+    {
+      "id": "chanakya-q24",
+      "difficulty": "hard",
+      "q": "The Arthashastra is divided into how many books (adhikaranas)?",
+      "options": [
+        "Four",
+        "Fifteen",
+        "Twenty-five",
+        "Seven"
+      ],
+      "answer": 1,
+      "explanation": "The Arthashastra is traditionally arranged into fifteen books covering different aspects of governance."
+    },
+    {
+      "id": "chanakya-q25",
+      "difficulty": "hard",
+      "q": "Modern scholars debate whether the Arthashastra is the work of a single author or a compilation refined over centuries. This debate centres on what?",
+      "options": [
+        "Whether it was carved on Ashokan pillars",
+        "Whether it was written in Greek first",
+        "Whether it predates the Vedas",
+        "Whether 'Kautilya' authored all of it or it was edited later"
+      ],
+      "answer": 3,
+      "explanation": "Scholars debate whether the text is wholly Kautilya's or a layered compilation finalised by later editors."
+    },
+    {
+      "id": "chanakya-q26",
+      "difficulty": "hard",
+      "q": "The Arthashastra prescribes a state office overseeing weights, measures, and prices headed by an official with what kind of role?",
+      "options": [
+        "A high priest of the realm",
+        "A superintendent (adhyaksha) of a specific department",
+        "An admiral of the fleet",
+        "A royal astrologer"
+      ],
+      "answer": 1,
+      "explanation": "The Arthashastra details many adhyakshas, departmental superintendents, regulating commerce, mints, and more."
+    },
+    {
+      "id": "chanakya-q27",
+      "difficulty": "hard",
+      "q": "Which work of Greek-derived information on Mauryan administration broadly corroborates the kind of bureaucracy the Arthashastra describes?",
+      "options": [
+        "Megasthenes' Indica",
+        "Herodotus' Histories",
+        "Caesar's Commentaries",
+        "Strabo's Geographica alone"
+      ],
+      "answer": 0,
+      "explanation": "Megasthenes' Indica, describing Mauryan governance, broadly echoes the administrative detail of the Arthashastra."
+    },
+    {
+      "id": "chanakya-q28",
+      "difficulty": "hard",
+      "q": "The traditional account of Chanakya finding and training Chandragupta as a boy is preserved especially in which tradition's texts?",
+      "options": [
+        "Persian chronicles",
+        "Roman histories",
+        "Buddhist and Jain traditions",
+        "Chinese annals"
+      ],
+      "answer": 2,
+      "explanation": "Buddhist and Jain texts preserve legends of Chanakya discovering and mentoring the young Chandragupta."
+    },
+    {
+      "id": "chanakya-q29",
+      "difficulty": "hard",
+      "q": "The Arthashastra's view of foreign policy is often summarised by the concept of the 'circle of states' known as:",
+      "options": [
+        "The chakravartin theory",
+        "The mandala theory",
+        "The dharma theory",
+        "The varna theory"
+      ],
+      "answer": 1,
+      "explanation": "The mandala theory frames neighbours as natural enemies and enemies' enemies as allies in a circle of states."
+    },
+    {
+      "id": "chanakya-q30",
+      "difficulty": "hard",
+      "q": "Chanakya's enduring significance lies chiefly in shaping which lasting feature of the Mauryan state?",
+      "options": [
+        "Its system of caves and stupas",
+        "Its maritime trade with Rome",
+        "Its Gandharan sculpture",
+        "Its centralised administration and governing theory"
+      ],
+      "answer": 3,
+      "explanation": "Chanakya's ideas underpinned the Mauryan Empire's centralised administration and theory of governance."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "battle-of-plassey",
+  "questions": [
+    {
+      "id": "battle-of-plassey-q01",
+      "difficulty": "easy",
+      "q": "In which year was the Battle of Plassey fought?",
+      "options": [
+        "1757",
+        "1764",
+        "1526",
+        "1857"
+      ],
+      "answer": 0,
+      "explanation": "The Battle of Plassey was fought in 1757 CE."
+    },
+    {
+      "id": "battle-of-plassey-q02",
+      "difficulty": "easy",
+      "q": "The Battle of Plassey was fought between the British East India Company and the Nawab of which province?",
+      "options": [
+        "Awadh",
+        "Bengal",
+        "Punjab",
+        "Mysore"
+      ],
+      "answer": 1,
+      "explanation": "The battle pitted the Company against Siraj-ud-Daulah, the Nawab of Bengal."
+    },
+    {
+      "id": "battle-of-plassey-q03",
+      "difficulty": "easy",
+      "q": "Which British commander led the East India Company's forces at Plassey?",
+      "options": [
+        "Warren Hastings",
+        "Lord Wellesley",
+        "Robert Clive",
+        "Lord Dalhousie"
+      ],
+      "answer": 2,
+      "explanation": "Robert Clive commanded the Company's army at Plassey."
+    },
+    {
+      "id": "battle-of-plassey-q04",
+      "difficulty": "easy",
+      "q": "Who was the Nawab of Bengal defeated at the Battle of Plassey?",
+      "options": [
+        "Mir Jafar",
+        "Alivardi Khan",
+        "Mir Qasim",
+        "Siraj-ud-Daulah"
+      ],
+      "answer": 3,
+      "explanation": "Siraj-ud-Daulah, the Nawab of Bengal, was defeated at Plassey."
+    },
+    {
+      "id": "battle-of-plassey-q05",
+      "difficulty": "easy",
+      "q": "The defection of which of the Nawab's commanders was central to the British victory?",
+      "options": [
+        "Mir Jafar",
+        "Mir Madan",
+        "Mohan Lal",
+        "Robert Clive"
+      ],
+      "answer": 0,
+      "explanation": "The battle was won largely through the defection of the Nawab's commander Mir Jafar."
+    },
+    {
+      "id": "battle-of-plassey-q06",
+      "difficulty": "easy",
+      "q": "What did the British gain control of as a result of their victory at Plassey?",
+      "options": [
+        "The Deccan",
+        "Bengal's wealth and resources",
+        "The Punjab",
+        "The Malabar coast"
+      ],
+      "answer": 1,
+      "explanation": "Victory gave the Company control of Bengal's wealth and resources."
+    },
+    {
+      "id": "battle-of-plassey-q07",
+      "difficulty": "easy",
+      "q": "Plassey is often described as a decisive step in the rise of what in India?",
+      "options": [
+        "The Maratha Empire",
+        "The Mughal Empire",
+        "British political power",
+        "The Sikh Empire"
+      ],
+      "answer": 2,
+      "explanation": "Plassey marked a decisive step in the East India Company's rise to political power in India."
+    },
+    {
+      "id": "battle-of-plassey-q08",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state did the Battle of Plassey take place?",
+      "options": [
+        "Bihar",
+        "Odisha",
+        "Jharkhand",
+        "West Bengal"
+      ],
+      "answer": 3,
+      "explanation": "Plassey (Palashi) lies in present-day West Bengal."
+    },
+    {
+      "id": "battle-of-plassey-q09",
+      "difficulty": "easy",
+      "q": "Who was rewarded with the throne of Bengal by the British after Plassey?",
+      "options": [
+        "Mir Jafar",
+        "Siraj-ud-Daulah",
+        "Robert Clive",
+        "Shah Alam II"
+      ],
+      "answer": 0,
+      "explanation": "Mir Jafar was installed as the new Nawab of Bengal after his betrayal helped win the battle."
+    },
+    {
+      "id": "battle-of-plassey-q10",
+      "difficulty": "easy",
+      "q": "Plassey is the anglicised name of which place?",
+      "options": [
+        "Patliputra",
+        "Palashi",
+        "Panipat",
+        "Pune"
+      ],
+      "answer": 1,
+      "explanation": "Plassey is the British rendering of Palashi, named for the palash trees of the area."
+    },
+    {
+      "id": "battle-of-plassey-q11",
+      "difficulty": "medium",
+      "q": "On what date was the Battle of Plassey fought?",
+      "options": [
+        "22 October 1764",
+        "21 April 1526",
+        "23 June 1757",
+        "14 January 1761"
+      ],
+      "answer": 2,
+      "explanation": "The battle took place on 23 June 1757."
+    },
+    {
+      "id": "battle-of-plassey-q12",
+      "difficulty": "medium",
+      "q": "On the banks of which river was the Battle of Plassey fought?",
+      "options": [
+        "The Ganges at Patna",
+        "The Brahmaputra",
+        "The Damodar",
+        "The Bhagirathi (Hooghly)"
+      ],
+      "answer": 3,
+      "explanation": "Plassey lay on the Bhagirathi-Hooghly river between Calcutta and Murshidabad."
+    },
+    {
+      "id": "battle-of-plassey-q13",
+      "difficulty": "medium",
+      "q": "How did the size of the Nawab's army compare with Clive's force at Plassey?",
+      "options": [
+        "The Nawab's army was far larger",
+        "The armies were equal in size",
+        "Clive's army was far larger",
+        "Neither side had cavalry"
+      ],
+      "answer": 0,
+      "explanation": "Siraj's tens of thousands vastly outnumbered Clive's few thousand, but treachery decided the result."
+    },
+    {
+      "id": "battle-of-plassey-q14",
+      "difficulty": "medium",
+      "q": "Which loyal commander of the Nawab was mortally wounded early, demoralising the Bengal army?",
+      "options": [
+        "Mir Jafar",
+        "Mir Madan",
+        "Rai Durlabh",
+        "Yar Lutuf Khan"
+      ],
+      "answer": 1,
+      "explanation": "The death of the loyal Mir Madan threw the Nawab's army into confusion."
+    },
+    {
+      "id": "battle-of-plassey-q15",
+      "difficulty": "medium",
+      "q": "A sudden monsoon downpour during the battle damaged whose gunpowder?",
+      "options": [
+        "The British, while the Nawab covered his",
+        "Both armies equally",
+        "The Nawab's, while the British covered theirs",
+        "No gunpowder was used"
+      ],
+      "answer": 2,
+      "explanation": "Rain spoiled the Nawab's exposed powder while the British kept theirs dry, weakening Siraj's artillery."
+    },
+    {
+      "id": "battle-of-plassey-q16",
+      "difficulty": "medium",
+      "q": "Which wealthy banking house is widely said to have helped finance the conspiracy behind Plassey?",
+      "options": [
+        "The Tatas",
+        "The Rothschilds",
+        "The Birlas",
+        "The Jagat Seths"
+      ],
+      "answer": 3,
+      "explanation": "The Jagat Seth bankers of Murshidabad backed the plot against Siraj-ud-Daulah."
+    },
+    {
+      "id": "battle-of-plassey-q17",
+      "difficulty": "medium",
+      "q": "Which French settlement had Clive captured shortly before Plassey, removing a European ally of the Nawab?",
+      "options": [
+        "Chandernagore",
+        "Pondicherry",
+        "Goa",
+        "Mahe"
+      ],
+      "answer": 0,
+      "explanation": "The British seized the French post of Chandernagore before marching on Plassey."
+    },
+    {
+      "id": "battle-of-plassey-q18",
+      "difficulty": "medium",
+      "q": "About how long did the actual fighting at Plassey effectively last?",
+      "options": [
+        "Several weeks",
+        "Less than a day",
+        "A full month",
+        "Three months"
+      ],
+      "answer": 1,
+      "explanation": "Plassey was decided in the course of a single day, largely by defection rather than prolonged combat."
+    },
+    {
+      "id": "battle-of-plassey-q19",
+      "difficulty": "medium",
+      "q": "Which Mughal emperor reigned, in name only, at the time of Plassey?",
+      "options": [
+        "Aurangzeb",
+        "Akbar",
+        "Alamgir II",
+        "Bahadur Shah Zafar"
+      ],
+      "answer": 2,
+      "explanation": "Alamgir II was the nominal Mughal emperor in 1757, the empire by then much weakened."
+    },
+    {
+      "id": "battle-of-plassey-q20",
+      "difficulty": "medium",
+      "q": "What happened to Siraj-ud-Daulah after his defeat at Plassey?",
+      "options": [
+        "He was restored to power",
+        "He escaped to France",
+        "He became a British ally",
+        "He fled, was captured, and was killed"
+      ],
+      "answer": 3,
+      "explanation": "Siraj fled, was captured, and was executed by the victorious faction soon after the battle."
+    },
+    {
+      "id": "battle-of-plassey-q21",
+      "difficulty": "medium",
+      "q": "Plassey lay between the Bengal capital and which Company stronghold that Clive marched from?",
+      "options": [
+        "Calcutta",
+        "Madras",
+        "Bombay",
+        "Surat"
+      ],
+      "answer": 0,
+      "explanation": "Clive advanced from the recaptured Company base at Calcutta toward Murshidabad, fighting at Plassey en route."
+    },
+    {
+      "id": "battle-of-plassey-q22",
+      "difficulty": "hard",
+      "q": "Which mango grove gave the battlefield of Plassey its characteristic cover for Clive's troops?",
+      "options": [
+        "The cedar forest",
+        "Laksha Bagh (the mango orchard)",
+        "A palm plantation",
+        "A teak grove"
+      ],
+      "answer": 1,
+      "explanation": "Clive's men took position in and around a large mango grove (Laksha Bagh) at Palashi."
+    },
+    {
+      "id": "battle-of-plassey-q23",
+      "difficulty": "hard",
+      "q": "Besides Mir Jafar, which two of Siraj's generals also stood aside or held back their troops at Plassey?",
+      "options": [
+        "Mir Madan and Mohan Lal",
+        "Clive and Watson",
+        "Rai Durlabh and Yar Lutuf Khan",
+        "Shaukat Jang and Miran"
+      ],
+      "answer": 2,
+      "explanation": "Rai Durlabh and Yar Lutuf Khan, like Mir Jafar, kept their forces idle, dooming the Nawab."
+    },
+    {
+      "id": "battle-of-plassey-q24",
+      "difficulty": "hard",
+      "q": "The secret agreement that arranged Mir Jafar's betrayal was negotiated partly through which Company agent and merchant intermediary?",
+      "options": [
+        "Warren Hastings and Tipu",
+        "Thomas Roe and Jahangir",
+        "Vasco da Gama and the Zamorin",
+        "William Watts and Omichund (Amir Chand)"
+      ],
+      "answer": 3,
+      "explanation": "William Watts handled the secret treaty, with the merchant Omichund (Amir Chand) entangled in the intrigue."
+    },
+    {
+      "id": "battle-of-plassey-q25",
+      "difficulty": "hard",
+      "q": "The famous deception in which Clive used a fake 'red' treaty to outwit a greedy intermediary involved whom?",
+      "options": [
+        "Omichund (Amir Chand)",
+        "Mir Jafar",
+        "Siraj-ud-Daulah",
+        "Mir Madan"
+      ],
+      "answer": 0,
+      "explanation": "Clive prepared a false red treaty to cheat Omichund of the share he had demanded for his role in the plot."
+    },
+    {
+      "id": "battle-of-plassey-q26",
+      "difficulty": "hard",
+      "q": "Mir Jafar's reign as British-backed Nawab soon gave way to that of which successor, his own son-in-law?",
+      "options": [
+        "Shaukat Jang",
+        "Mir Qasim",
+        "Najib-ud-Daulah",
+        "Shuja-ud-Daulah"
+      ],
+      "answer": 1,
+      "explanation": "Mir Jafar was later replaced by Mir Qasim, his son-in-law, in the unstable post-Plassey years."
+    },
+    {
+      "id": "battle-of-plassey-q27",
+      "difficulty": "medium",
+      "q": "The larger 1764 battle that more firmly cemented Company power after Plassey was fought at which place?",
+      "options": [
+        "Wandiwash",
+        "Assaye",
+        "Buxar",
+        "Khanwa"
+      ],
+      "answer": 2,
+      "explanation": "The Battle of Buxar in 1764 decisively confirmed and broadened the Company's dominance won at Plassey."
+    },
+    {
+      "id": "battle-of-plassey-q28",
+      "difficulty": "hard",
+      "q": "Following Plassey, the Company extracted the right to collect revenue (diwani) of Bengal, formally granted in which year?",
+      "options": [
+        "1757",
+        "1773",
+        "1784",
+        "1765"
+      ],
+      "answer": 3,
+      "explanation": "The Diwani of Bengal, Bihar, and Orissa was granted to the Company by the Mughal emperor in 1765, after Buxar."
+    },
+    {
+      "id": "battle-of-plassey-q29",
+      "difficulty": "hard",
+      "q": "Robert Clive's enrichment after Plassey, including a large jagir, later drew what kind of scrutiny in Britain?",
+      "options": [
+        "A parliamentary inquiry into his conduct and wealth",
+        "A knighthood with no questions",
+        "Banishment from England",
+        "Excommunication"
+      ],
+      "answer": 0,
+      "explanation": "Clive's vast post-Plassey fortune led to parliamentary inquiry into his conduct in Bengal."
+    },
+    {
+      "id": "battle-of-plassey-q30",
+      "difficulty": "hard",
+      "q": "Historians often regard Plassey as significant less for its military scale and more for what?",
+      "options": [
+        "Its enormous casualties",
+        "Demonstrating that intrigue and bribery could topple an Indian state",
+        "Its use of new artillery technology",
+        "Its naval engagements"
+      ],
+      "answer": 1,
+      "explanation": "Plassey is remembered chiefly because conspiracy and bribery, not battlefield prowess, delivered Bengal to the Company."
+    }
+  ]
+}

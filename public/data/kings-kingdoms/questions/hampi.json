@@ -1,0 +1,395 @@
+{
+  "cardId": "hampi",
+  "questions": [
+    {
+      "id": "hampi-q01",
+      "difficulty": "easy",
+      "q": "Hampi was the capital of which great empire?",
+      "options": [
+        "The Vijayanagara Empire",
+        "The Maurya Empire",
+        "The Mughal Empire",
+        "The Gupta Empire"
+      ],
+      "answer": 0,
+      "explanation": "Hampi was the capital of the Vijayanagara Empire."
+    },
+    {
+      "id": "hampi-q02",
+      "difficulty": "easy",
+      "q": "On the banks of which river does Hampi stand?",
+      "options": [
+        "The Ganges",
+        "The Tungabhadra",
+        "The Godavari",
+        "The Yamuna"
+      ],
+      "answer": 1,
+      "explanation": "Hampi stands on the Tungabhadra river."
+    },
+    {
+      "id": "hampi-q03",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state are the ruins of Hampi located?",
+      "options": [
+        "Tamil Nadu",
+        "Rajasthan",
+        "Karnataka",
+        "Bihar"
+      ],
+      "answer": 2,
+      "explanation": "Hampi lies in the modern state of Karnataka."
+    },
+    {
+      "id": "hampi-q04",
+      "difficulty": "easy",
+      "q": "The ruins of Hampi are recognised as what?",
+      "options": [
+        "A modern megacity",
+        "An active military fort",
+        "A man-made reservoir",
+        "A UNESCO World Heritage Site"
+      ],
+      "answer": 3,
+      "explanation": "The Group of Monuments at Hampi is a UNESCO World Heritage Site."
+    },
+    {
+      "id": "hampi-q05",
+      "difficulty": "easy",
+      "q": "Hampi's landscape is famously dotted with what striking natural feature?",
+      "options": [
+        "Sand dunes",
+        "Granite boulders",
+        "Snow peaks",
+        "Coral reefs"
+      ],
+      "answer": 1,
+      "explanation": "Hampi sits amid a dramatic landscape of giant granite boulders."
+    },
+    {
+      "id": "hampi-q06",
+      "difficulty": "easy",
+      "q": "Which famous temple at Hampi is still an active place of worship today?",
+      "options": [
+        "The Taj Mahal",
+        "The Qutb Minar",
+        "The Virupaksha temple",
+        "The Konark Sun temple"
+      ],
+      "answer": 2,
+      "explanation": "The Virupaksha temple at Hampi remains an active centre of worship."
+    },
+    {
+      "id": "hampi-q07",
+      "difficulty": "easy",
+      "q": "The deity Virupaksha, worshipped at Hampi's main temple, is a form of which god?",
+      "options": [
+        "Vishnu",
+        "Brahma",
+        "Surya",
+        "Shiva"
+      ],
+      "answer": 3,
+      "explanation": "Virupaksha is a form of the god Shiva, the patron deity of Hampi."
+    },
+    {
+      "id": "hampi-q08",
+      "difficulty": "easy",
+      "q": "Which empire's defeat in 1565 led to Hampi being abandoned as a ruin?",
+      "options": [
+        "Vijayanagara",
+        "The Maratha Empire",
+        "The Delhi Sultanate",
+        "The Sikh Empire"
+      ],
+      "answer": 0,
+      "explanation": "After Vijayanagara's defeat at Talikota in 1565, Hampi was sacked and left in ruins."
+    },
+    {
+      "id": "hampi-q09",
+      "difficulty": "easy",
+      "q": "Hampi served as a great centre of which activity during the empire's height?",
+      "options": [
+        "Coal mining",
+        "Ship-breaking",
+        "Temple-building and trade",
+        "Glassblowing"
+      ],
+      "answer": 2,
+      "explanation": "At its height Hampi was a thriving centre of temple-building, trade, and culture."
+    },
+    {
+      "id": "hampi-q10",
+      "difficulty": "easy",
+      "q": "The Vittala temple complex at Hampi is one of its most famous what?",
+      "options": [
+        "Modern hotels",
+        "Railway stations",
+        "Markets that are still trading",
+        "Monuments"
+      ],
+      "answer": 3,
+      "explanation": "The Vittala temple complex is among Hampi's most celebrated monuments."
+    },
+    {
+      "id": "hampi-q11",
+      "difficulty": "medium",
+      "q": "The Vittala temple at Hampi is celebrated for which extraordinary feature?",
+      "options": [
+        "Musical stone pillars and an iconic stone chariot",
+        "A marble dome of inlaid gems",
+        "A leaning bell tower",
+        "A frozen waterfall"
+      ],
+      "answer": 0,
+      "explanation": "The Vittala temple is famous for its resonant musical pillars and its stone chariot shrine."
+    },
+    {
+      "id": "hampi-q12",
+      "difficulty": "medium",
+      "q": "The famous stone chariot at Hampi stands in the courtyard of which temple?",
+      "options": [
+        "The Virupaksha temple",
+        "The Vittala temple",
+        "The Hazara Rama temple",
+        "The Brihadisvara temple"
+      ],
+      "answer": 1,
+      "explanation": "The iconic stone chariot is located in the Vittala temple complex."
+    },
+    {
+      "id": "hampi-q13",
+      "difficulty": "medium",
+      "q": "Hampi is associated with which place from the Ramayana, identified with the surrounding region?",
+      "options": [
+        "Lanka",
+        "Ayodhya",
+        "Mithila",
+        "Kishkindha, the monkey kingdom"
+      ],
+      "answer": 3,
+      "explanation": "The Hampi area is traditionally identified with Kishkindha, the legendary monkey kingdom of the Ramayana."
+    },
+    {
+      "id": "hampi-q14",
+      "difficulty": "medium",
+      "q": "Which large monolithic statue at Hampi depicts a fierce man-lion form of Vishnu?",
+      "options": [
+        "The Ugra Narasimha statue",
+        "The Gomateshwara statue",
+        "The Lion Capital",
+        "The Nataraja bronze"
+      ],
+      "answer": 0,
+      "explanation": "The colossal Ugra (Lakshmi) Narasimha monolith at Hampi depicts the man-lion avatar of Vishnu."
+    },
+    {
+      "id": "hampi-q15",
+      "difficulty": "medium",
+      "q": "The Lotus Mahal at Hampi is an example of what kind of architecture?",
+      "options": [
+        "Pure Gothic style",
+        "A blend of Hindu and Islamic (Indo-Islamic) styles",
+        "Roman classical style",
+        "Chinese pagoda style"
+      ],
+      "answer": 1,
+      "explanation": "The Lotus Mahal in the royal enclosure shows a characteristic fusion of Hindu and Islamic architectural elements."
+    },
+    {
+      "id": "hampi-q16",
+      "difficulty": "medium",
+      "q": "The large stepped tank and elephant stables at Hampi were part of which area of the city?",
+      "options": [
+        "The fishing harbour",
+        "The grain silos",
+        "The royal centre / royal enclosure",
+        "A burial ground"
+      ],
+      "answer": 2,
+      "explanation": "The royal centre of Hampi held structures like the stepped tank, the elephant stables, and palace platforms."
+    },
+    {
+      "id": "hampi-q17",
+      "difficulty": "medium",
+      "q": "Foreign visitors such as the Portuguese described Hampi at its peak as a city comparable in size to which European city?",
+      "options": [
+        "Rome",
+        "London",
+        "Athens",
+        "Madrid"
+      ],
+      "answer": 0,
+      "explanation": "Portuguese chronicler Domingo Paes described Hampi as a great city, comparing it in size to Rome."
+    },
+    {
+      "id": "hampi-q18",
+      "difficulty": "medium",
+      "q": "The towering gateway of the Virupaksha temple at Hampi is an example of which architectural element?",
+      "options": [
+        "A minaret",
+        "A ziggurat",
+        "A gopuram",
+        "A flying buttress"
+      ],
+      "answer": 2,
+      "explanation": "The Virupaksha temple is entered through a tall, tiered gopuram, a hallmark of South Indian temple architecture."
+    },
+    {
+      "id": "hampi-q19",
+      "difficulty": "medium",
+      "q": "Hampi was richly enriched by markets that traded in which luxury goods near its temple streets?",
+      "options": [
+        "Tea and silk porcelain",
+        "Diamonds, horses, and textiles",
+        "Furs and amber",
+        "Whale oil and ivory only"
+      ],
+      "answer": 1,
+      "explanation": "Travellers recorded bustling market streets at Hampi trading in gems, horses, spices, and fine cloth."
+    },
+    {
+      "id": "hampi-q20",
+      "difficulty": "medium",
+      "q": "The Hazara Rama temple at Hampi is notable for carved panels depicting which epic?",
+      "options": [
+        "The Iliad",
+        "The Shahnameh",
+        "Beowulf",
+        "The Ramayana"
+      ],
+      "answer": 3,
+      "explanation": "The Hazara Rama temple's walls are covered with reliefs narrating scenes from the Ramayana."
+    },
+    {
+      "id": "hampi-q21",
+      "difficulty": "medium",
+      "q": "Roughly when did Hampi flourish as the imperial capital before its destruction?",
+      "options": [
+        "1st to 3rd centuries CE",
+        "9th to 11th centuries BCE",
+        "14th to 16th centuries CE",
+        "17th to 19th centuries CE"
+      ],
+      "answer": 2,
+      "explanation": "Hampi flourished from the empire's founding in 1336 until its sacking in 1565, spanning the 14th to 16th centuries CE."
+    },
+    {
+      "id": "hampi-q22",
+      "difficulty": "medium",
+      "q": "Hampi's well-engineered network of canals and tanks was mainly built to support what?",
+      "options": [
+        "Irrigation and water supply for the city",
+        "Ocean shipping docks",
+        "Underground railways",
+        "Hot-air balloon launches"
+      ],
+      "answer": 0,
+      "explanation": "Vijayanagara's engineers built extensive aqueducts, canals, and tanks to supply water and irrigate the region around Hampi."
+    },
+    {
+      "id": "hampi-q23",
+      "difficulty": "hard",
+      "q": "The Krishna temple at Hampi was built by Krishnadevaraya to commemorate his conquest of which place?",
+      "options": [
+        "Delhi",
+        "Goa",
+        "Sri Lanka",
+        "Udayagiri (in his Orissa/Gajapati campaign)"
+      ],
+      "answer": 3,
+      "explanation": "Krishnadevaraya built the Krishna temple at Hampi to mark his victory and the capture of Udayagiri during his eastern campaigns."
+    },
+    {
+      "id": "hampi-q24",
+      "difficulty": "hard",
+      "q": "The royal platform at Hampi from which kings watched festivals and parades is known as the:",
+      "options": [
+        "Diwan-i-Khas",
+        "Mahanavami Dibba",
+        "Buland Darwaza",
+        "Sheesh Mahal"
+      ],
+      "answer": 1,
+      "explanation": "The Mahanavami Dibba was a great stone platform from which Vijayanagara kings observed the grand Mahanavami (Dasara) festivities."
+    },
+    {
+      "id": "hampi-q25",
+      "difficulty": "hard",
+      "q": "The Tungabhadra at Hampi was historically crossed near the city using what traditional craft?",
+      "options": [
+        "Steel suspension bridges",
+        "Round coracle boats",
+        "Submarines",
+        "Pontoon rafts of inflated leather only"
+      ],
+      "answer": 1,
+      "explanation": "Round wicker-and-hide coracles have long been used to cross the Tungabhadra at Hampi, a practice noted by early travellers."
+    },
+    {
+      "id": "hampi-q26",
+      "difficulty": "hard",
+      "q": "Which sacred hill overlooking Hampi is associated in legend with the birthplace of the monkey god Hanuman?",
+      "options": [
+        "Mount Abu",
+        "Tirumala hill",
+        "Girnar hill",
+        "Anjanadri (Anjeyanadri) hill"
+      ],
+      "answer": 3,
+      "explanation": "Anjanadri hill near Hampi is traditionally revered as the birthplace of Hanuman."
+    },
+    {
+      "id": "hampi-q27",
+      "difficulty": "hard",
+      "q": "The grand festival celebrated with great pomp at Hampi, described by foreign visitors, was the nine-day:",
+      "options": [
+        "Mahanavami (Navaratri/Dasara)",
+        "Diwali only",
+        "Holi only",
+        "Pongal"
+      ],
+      "answer": 0,
+      "explanation": "The nine-day Mahanavami festival was a spectacular state occasion at Hampi, vividly described by visitors like Abdur Razzaq and Domingo Paes."
+    },
+    {
+      "id": "hampi-q28",
+      "difficulty": "hard",
+      "q": "Which Persian ambassador left a detailed 15th-century account of Vijayanagara/Hampi's wealth and bazaars?",
+      "options": [
+        "Al-Biruni",
+        "Ibn Battuta",
+        "Abdur Razzaq",
+        "Firdausi"
+      ],
+      "answer": 2,
+      "explanation": "The Persian envoy Abdur Razzaq visited in the 15th century and described Hampi's fortifications, bazaars, and riches."
+    },
+    {
+      "id": "hampi-q29",
+      "difficulty": "hard",
+      "q": "The Vittala temple's stone chariot at Hampi is modelled on the chariot shrine of which other famous temple's tradition?",
+      "options": [
+        "The Pyramids of Giza",
+        "The Parthenon",
+        "The Colosseum",
+        "A temple car (ratha) like the Sun temple at Konark"
+      ],
+      "answer": 3,
+      "explanation": "The stone chariot represents a temple ratha (car) and echoes the chariot-shaped design tradition seen at temples such as Konark."
+    },
+    {
+      "id": "hampi-q30",
+      "difficulty": "hard",
+      "q": "The fortified sacred precinct around the Virupaksha temple at Hampi formed part of which historic centre of the city?",
+      "options": [
+        "The naval dockyard",
+        "The Hampi (sacred) bazaar centre near the riverside",
+        "The imperial mint at Delhi",
+        "A Buddhist monastery complex"
+      ],
+      "answer": 1,
+      "explanation": "The Virupaksha temple anchored the sacred centre of Hampi, fronted by the long colonnaded Hampi bazaar near the Tungabhadra."
+    }
+  ]
+}

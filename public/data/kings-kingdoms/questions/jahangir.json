@@ -1,0 +1,395 @@
+{
+  "cardId": "jahangir",
+  "questions": [
+    {
+      "id": "jahangir-q01",
+      "difficulty": "easy",
+      "q": "Jahangir was a ruler of which Indian empire?",
+      "options": [
+        "The Maratha Empire",
+        "The Vijayanagara Empire",
+        "The Gupta Empire",
+        "The Mughal Empire"
+      ],
+      "answer": 3,
+      "explanation": "Jahangir was the fourth emperor of the Mughal Empire in India."
+    },
+    {
+      "id": "jahangir-q02",
+      "difficulty": "easy",
+      "q": "Jahangir was the son and successor of which great Mughal emperor?",
+      "options": [
+        "Akbar",
+        "Babur",
+        "Humayun",
+        "Shah Jahan"
+      ],
+      "answer": 0,
+      "explanation": "Jahangir succeeded his father Akbar, the third Mughal emperor, in 1605."
+    },
+    {
+      "id": "jahangir-q03",
+      "difficulty": "easy",
+      "q": "In which century did Jahangir reign as Mughal emperor?",
+      "options": [
+        "The 15th century CE",
+        "The 17th century CE",
+        "The 16th century CE",
+        "The 18th century CE"
+      ],
+      "answer": 1,
+      "explanation": "Jahangir reigned from 1605 to 1627 CE, placing his rule in the early 17th century."
+    },
+    {
+      "id": "jahangir-q04",
+      "difficulty": "easy",
+      "q": "Jahangir is especially remembered as a patron of which art form?",
+      "options": [
+        "Naval shipbuilding",
+        "Astronomy and mathematics",
+        "Painting and the arts",
+        "Coin minting alone"
+      ],
+      "answer": 2,
+      "explanation": "Jahangir was a noted connoisseur and patron of Mughal painting and the arts."
+    },
+    {
+      "id": "jahangir-q05",
+      "difficulty": "easy",
+      "q": "An English ambassador, Sir Thomas Roe, visited Jahangir's court on behalf of which country?",
+      "options": [
+        "Portugal",
+        "France",
+        "The Netherlands",
+        "England"
+      ],
+      "answer": 3,
+      "explanation": "Sir Thomas Roe was an envoy from England who came to Jahangir's court to seek trading rights."
+    },
+    {
+      "id": "jahangir-q06",
+      "difficulty": "easy",
+      "q": "The name 'Jahangir' is commonly translated as which of the following?",
+      "options": [
+        "Light of Faith",
+        "Seizer of the World",
+        "Lord of the Sun",
+        "King of Kings"
+      ],
+      "answer": 1,
+      "explanation": "The regnal title 'Jahangir' means 'Seizer' or 'Conqueror of the World'."
+    },
+    {
+      "id": "jahangir-q07",
+      "difficulty": "easy",
+      "q": "What was the given birth name of the prince who became Emperor Jahangir?",
+      "options": [
+        "Khurram",
+        "Murad",
+        "Salim",
+        "Daniyal"
+      ],
+      "answer": 2,
+      "explanation": "Before taking the throne he was Prince Salim, named in part after the Sufi saint Salim Chishti."
+    },
+    {
+      "id": "jahangir-q08",
+      "difficulty": "easy",
+      "q": "Jahangir's most powerful and influential queen was which woman?",
+      "options": [
+        "Mumtaz Mahal",
+        "Jodha Bai",
+        "Nur Jahan",
+        "Hamida Banu"
+      ],
+      "answer": 2,
+      "explanation": "Nur Jahan was Jahangir's chief consort and wielded great political influence at his court."
+    },
+    {
+      "id": "jahangir-q09",
+      "difficulty": "easy",
+      "q": "Which European trading company gained important commercial privileges in India during Jahangir's reign?",
+      "options": [
+        "The Hudson's Bay Company",
+        "The English East India Company",
+        "The Swedish East India Company",
+        "The Royal African Company"
+      ],
+      "answer": 1,
+      "explanation": "The English East India Company secured trading rights, aided by Sir Thomas Roe's embassy to Jahangir."
+    },
+    {
+      "id": "jahangir-q10",
+      "difficulty": "easy",
+      "q": "Jahangir's son and successor, who built the Taj Mahal, was which emperor?",
+      "options": [
+        "Aurangzeb",
+        "Shah Jahan",
+        "Akbar",
+        "Humayun"
+      ],
+      "answer": 1,
+      "explanation": "Jahangir was succeeded by his son Shah Jahan, the builder of the Taj Mahal."
+    },
+    {
+      "id": "jahangir-q11",
+      "difficulty": "medium",
+      "q": "In what year did Jahangir ascend the Mughal throne?",
+      "options": [
+        "1556 CE",
+        "1627 CE",
+        "1605 CE",
+        "1658 CE"
+      ],
+      "answer": 2,
+      "explanation": "Jahangir became emperor in 1605 CE upon the death of his father Akbar."
+    },
+    {
+      "id": "jahangir-q12",
+      "difficulty": "medium",
+      "q": "Jahangir's memoirs, which record his observations and reign, are known by what name?",
+      "options": [
+        "Akbarnama",
+        "Baburnama",
+        "Ain-i-Akbari",
+        "Tuzuk-i-Jahangiri"
+      ],
+      "answer": 3,
+      "explanation": "The Tuzuk-i-Jahangiri, or Jahangirnama, is the emperor's own memoir."
+    },
+    {
+      "id": "jahangir-q13",
+      "difficulty": "medium",
+      "q": "Early in his reign Jahangir faced a rebellion led by his own eldest son, who was which prince?",
+      "options": [
+        "Khurram",
+        "Khusrau",
+        "Parviz",
+        "Shahryar"
+      ],
+      "answer": 1,
+      "explanation": "Prince Khusrau Mirza rebelled against Jahangir in 1606 and was ultimately blinded after his revolt failed."
+    },
+    {
+      "id": "jahangir-q14",
+      "difficulty": "medium",
+      "q": "Jahangir was said to have set up a 'chain of justice' (zanjir-i-adl) so petitioners could reach him. Where was it installed?",
+      "options": [
+        "At Fatehpur Sikri's gate",
+        "Outside the Agra Fort",
+        "At the Lahore Fort only",
+        "On a ship on the Yamuna"
+      ],
+      "answer": 1,
+      "explanation": "Jahangir's famous golden chain of justice was hung at the Agra Fort so subjects could ring it for redress."
+    },
+    {
+      "id": "jahangir-q15",
+      "difficulty": "medium",
+      "q": "Jahangir's reign saw the execution of a major Sikh religious figure. Which Guru was this?",
+      "options": [
+        "Guru Nanak",
+        "Guru Tegh Bahadur",
+        "Guru Gobind Singh",
+        "Guru Arjan"
+      ],
+      "answer": 3,
+      "explanation": "Guru Arjan, the fifth Sikh Guru, was executed under Jahangir in 1606, partly for aiding the rebel prince Khusrau."
+    },
+    {
+      "id": "jahangir-q16",
+      "difficulty": "medium",
+      "q": "Jahangir's mother, a Rajput princess from Amber, is popularly remembered by which name?",
+      "options": [
+        "Jodha Bai",
+        "Nur Jahan",
+        "Mumtaz Mahal",
+        "Maham Anga"
+      ],
+      "answer": 0,
+      "explanation": "Jahangir's mother, often called Jodha Bai or Mariam-uz-Zamani, was a Rajput princess of Amber married to Akbar."
+    },
+    {
+      "id": "jahangir-q17",
+      "difficulty": "medium",
+      "q": "Which Mughal province in the Deccan did Jahangir's forces struggle to fully subdue against the resistance of Malik Ambar?",
+      "options": [
+        "Bengal",
+        "Kashmir",
+        "Sindh",
+        "Ahmadnagar"
+      ],
+      "answer": 3,
+      "explanation": "The Abyssinian general Malik Ambar of Ahmadnagar long frustrated Jahangir's campaigns in the Deccan."
+    },
+    {
+      "id": "jahangir-q18",
+      "difficulty": "medium",
+      "q": "Jahangir greatly favoured which northern region as a retreat, lavishing gardens upon it?",
+      "options": [
+        "Kashmir",
+        "Gujarat",
+        "Malwa",
+        "Odisha"
+      ],
+      "answer": 0,
+      "explanation": "Jahangir loved Kashmir, where he and Nur Jahan laid out famous Mughal gardens such as Shalimar Bagh."
+    },
+    {
+      "id": "jahangir-q19",
+      "difficulty": "medium",
+      "q": "Jahangir's keen interest in natural history is reflected in his patronage of which celebrated painter?",
+      "options": [
+        "Bichitr / Mansur",
+        "Raja Ravi Varma",
+        "Nainsukh",
+        "Bishandas alone"
+      ],
+      "answer": 0,
+      "explanation": "Court artists such as Ustad Mansur and Bichitr produced detailed studies of birds, animals, and portraits for the connoisseur emperor."
+    },
+    {
+      "id": "jahangir-q20",
+      "difficulty": "medium",
+      "q": "In which year did Jahangir die, ending his roughly 22-year reign?",
+      "options": [
+        "1605 CE",
+        "1627 CE",
+        "1617 CE",
+        "1632 CE"
+      ],
+      "answer": 1,
+      "explanation": "Jahangir died in 1627 CE, after which his son Shah Jahan secured the throne."
+    },
+    {
+      "id": "jahangir-q21",
+      "difficulty": "medium",
+      "q": "Jahangir's tomb stands in which city?",
+      "options": [
+        "Agra",
+        "Delhi",
+        "Lahore",
+        "Sikandra"
+      ],
+      "answer": 2,
+      "explanation": "Jahangir was buried at Shahdara near Lahore, where his garden tomb still stands."
+    },
+    {
+      "id": "jahangir-q22",
+      "difficulty": "medium",
+      "q": "During Jahangir's reign the rebellious prince Khurram later took which regnal name as emperor?",
+      "options": [
+        "Shah Jahan",
+        "Aurangzeb",
+        "Bahadur Shah",
+        "Alamgir"
+      ],
+      "answer": 0,
+      "explanation": "Prince Khurram, who rebelled in Jahangir's last years, became Emperor Shah Jahan in 1628."
+    },
+    {
+      "id": "jahangir-q23",
+      "difficulty": "hard",
+      "q": "Which powerful noble briefly held Jahangir captive in 1626 during a rebellion?",
+      "options": [
+        "Asaf Khan",
+        "Itimad-ud-Daula",
+        "Mahabat Khan",
+        "Abdur Rahim"
+      ],
+      "answer": 2,
+      "explanation": "The general Mahabat Khan staged a coup in 1626 and held Jahangir prisoner, though Nur Jahan helped engineer his release."
+    },
+    {
+      "id": "jahangir-q24",
+      "difficulty": "hard",
+      "q": "Jahangir granted the English permission to establish a 'factory' (trading post) at which western Indian port?",
+      "options": [
+        "Calicut",
+        "Goa",
+        "Masulipatnam",
+        "Surat"
+      ],
+      "answer": 3,
+      "explanation": "Following Roe's embassy, the English East India Company was permitted a factory at Surat in Gujarat."
+    },
+    {
+      "id": "jahangir-q25",
+      "difficulty": "hard",
+      "q": "Nur Jahan's father, who served as Jahangir's chief minister, held which title?",
+      "options": [
+        "Khan-i-Khanan",
+        "Mir Bakshi",
+        "Itimad-ud-Daula",
+        "Asaf Jah"
+      ],
+      "answer": 2,
+      "explanation": "Mirza Ghiyas Beg, Nur Jahan's father, bore the title Itimad-ud-Daula and served as Jahangir's wazir."
+    },
+    {
+      "id": "jahangir-q26",
+      "difficulty": "hard",
+      "q": "Jahangir's allegorical court paintings often depicted him doing what, symbolising his vision of kingship?",
+      "options": [
+        "Embracing rival Shah Abbas of Persia",
+        "Leading cavalry charges in person",
+        "Building the Taj Mahal",
+        "Sailing to Mecca"
+      ],
+      "answer": 0,
+      "explanation": "Idealised paintings showed Jahangir embracing the Safavid Shah Abbas or shooting symbolic enemies, projecting an image of universal sovereignty."
+    },
+    {
+      "id": "jahangir-q27",
+      "difficulty": "hard",
+      "q": "Jahangir lost the strategically important fortress of Kandahar during his reign to which power?",
+      "options": [
+        "The Uzbeks",
+        "The Portuguese",
+        "The Ottomans",
+        "Safavid Persia"
+      ],
+      "answer": 3,
+      "explanation": "Safavid Persia under Shah Abbas captured Kandahar from the Mughals in 1622, a notable setback for Jahangir."
+    },
+    {
+      "id": "jahangir-q28",
+      "difficulty": "hard",
+      "q": "The Rajput state of Mewar finally made peace with the Mughals under Jahangir in 1615, when which Rana submitted?",
+      "options": [
+        "Rana Amar Singh",
+        "Rana Sanga",
+        "Maharana Pratap",
+        "Rana Kumbha"
+      ],
+      "answer": 0,
+      "explanation": "Rana Amar Singh of Mewar, son of Maharana Pratap, concluded a treaty with Jahangir's son Prince Khurram in 1615."
+    },
+    {
+      "id": "jahangir-q29",
+      "difficulty": "hard",
+      "q": "Jahangir's coins struck during Nur Jahan's ascendancy were notable because they bore whose name alongside or instead of his?",
+      "options": [
+        "His son Khurram's",
+        "Sir Thomas Roe's",
+        "Shah Abbas of Persia's",
+        "Nur Jahan's"
+      ],
+      "answer": 3,
+      "explanation": "Coins were issued in Nur Jahan's name during Jahangir's later years, a striking sign of her political power."
+    },
+    {
+      "id": "jahangir-q30",
+      "difficulty": "hard",
+      "q": "Which Jain or zodiac-themed series of coins did Jahangir famously issue, breaking with orthodox convention?",
+      "options": [
+        "Coins bearing wine cups",
+        "Zodiac (rashi) coins",
+        "Coins with European crests",
+        "Coins showing the Kaaba"
+      ],
+      "answer": 1,
+      "explanation": "Jahangir issued an unusual series of gold and silver zodiac coins, each depicting a sign of the zodiac, reflecting his personal tastes."
+    }
+  ]
+}

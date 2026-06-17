@@ -24,7 +24,7 @@ export const CATEGORIES = [
     tagline: 'From Magadha to the Marathas',
     emblem: 'crown',
     palette: 'dawn',
-    live: false,
+    live: true,
   },
   {
     id: 'freedom-struggle',

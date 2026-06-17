@@ -1,0 +1,395 @@
+{
+  "cardId": "koh-i-noor",
+  "questions": [
+    {
+      "id": "koh-i-noor-q01",
+      "difficulty": "easy",
+      "q": "The Koh-i-Noor is one of the world's most famous examples of what?",
+      "options": [
+        "A diamond",
+        "A crown of gold",
+        "A sword",
+        "A throne"
+      ],
+      "answer": 0,
+      "explanation": "The Koh-i-Noor is one of the most famous diamonds in the world."
+    },
+    {
+      "id": "koh-i-noor-q02",
+      "difficulty": "easy",
+      "q": "What does the name 'Koh-i-Noor' mean?",
+      "options": [
+        "River of Gold",
+        "Mountain of Light",
+        "Eye of the Sun",
+        "Heart of the Sea"
+      ],
+      "answer": 1,
+      "explanation": "Koh-i-Noor is Persian for 'Mountain of Light'."
+    },
+    {
+      "id": "koh-i-noor-q03",
+      "difficulty": "easy",
+      "q": "To whom was the Koh-i-Noor surrendered after the annexation of Punjab in 1849?",
+      "options": [
+        "The Mughal emperor",
+        "The Nizam of Hyderabad",
+        "The British Crown",
+        "The king of Persia"
+      ],
+      "answer": 2,
+      "explanation": "The diamond was surrendered to the British Crown following the annexation of the Punjab in 1849."
+    },
+    {
+      "id": "koh-i-noor-q04",
+      "difficulty": "easy",
+      "q": "The Koh-i-Noor passed through the courts of several dynasties. Which of these famously held it in India before the Persians and Afghans?",
+      "options": [
+        "The Cholas",
+        "The Guptas",
+        "The Satavahanas",
+        "The Mughals"
+      ],
+      "answer": 3,
+      "explanation": "The Mughals held the Koh-i-Noor before it passed to Persian and Afghan rulers."
+    },
+    {
+      "id": "koh-i-noor-q05",
+      "difficulty": "easy",
+      "q": "Which Sikh ruler held the Koh-i-Noor before it passed to the British?",
+      "options": [
+        "Guru Gobind Singh",
+        "Maharaja Ranjit Singh",
+        "Banda Singh Bahadur",
+        "Sambhaji"
+      ],
+      "answer": 1,
+      "explanation": "Maharaja Ranjit Singh held the Koh-i-Noor at the Sikh court before British annexation."
+    },
+    {
+      "id": "koh-i-noor-q06",
+      "difficulty": "easy",
+      "q": "The Koh-i-Noor today forms part of whose royal collection?",
+      "options": [
+        "The Vatican treasury",
+        "The Russian state regalia",
+        "The British Crown Jewels",
+        "The Ottoman treasury"
+      ],
+      "answer": 2,
+      "explanation": "The Koh-i-Noor is part of the British Crown Jewels held in the Tower of London."
+    },
+    {
+      "id": "koh-i-noor-q07",
+      "difficulty": "easy",
+      "q": "The Koh-i-Noor is widely believed to have originally come from mines in which region of India?",
+      "options": [
+        "Kashmir",
+        "Bengal",
+        "Kerala",
+        "The Golconda region"
+      ],
+      "answer": 3,
+      "explanation": "The diamond is traditionally said to have been mined in the Golconda region of southern India, famed for its diamonds."
+    },
+    {
+      "id": "koh-i-noor-q08",
+      "difficulty": "easy",
+      "q": "A Persian invader carried the Koh-i-Noor off from Delhi in 1739. Who was he?",
+      "options": [
+        "Nadir Shah",
+        "Ahmad Shah Durrani",
+        "Genghis Khan",
+        "Timur"
+      ],
+      "answer": 0,
+      "explanation": "Nadir Shah of Persia carried the Koh-i-Noor off when he sacked Delhi in 1739."
+    },
+    {
+      "id": "koh-i-noor-q09",
+      "difficulty": "easy",
+      "q": "Along with the Koh-i-Noor, Nadir Shah also carried off which famous Mughal object in 1739?",
+      "options": [
+        "The Iron Pillar",
+        "The Lion Capital",
+        "The Peacock Throne",
+        "The Taj Mahal's dome"
+      ],
+      "answer": 2,
+      "explanation": "Nadir Shah took both the Koh-i-Noor and the jewelled Peacock Throne when he sacked Delhi."
+    },
+    {
+      "id": "koh-i-noor-q10",
+      "difficulty": "easy",
+      "q": "In which country is the Koh-i-Noor diamond kept today?",
+      "options": [
+        "India",
+        "Iran",
+        "Afghanistan",
+        "The United Kingdom"
+      ],
+      "answer": 3,
+      "explanation": "The Koh-i-Noor is kept in the United Kingdom as part of the Crown Jewels."
+    },
+    {
+      "id": "koh-i-noor-q11",
+      "difficulty": "medium",
+      "q": "It is widely reported that Nadir Shah gave the diamond its name 'Koh-i-Noor' upon seeing it. What does the exclamation translate to?",
+      "options": [
+        "'Mountain of Light!'",
+        "'River of Stars!'",
+        "'Crown of Kings!'",
+        "'Heart of Fire!'"
+      ],
+      "answer": 0,
+      "explanation": "Tradition holds that Nadir Shah exclaimed 'Koh-i-Noor!' meaning 'Mountain of Light' on first seeing the diamond."
+    },
+    {
+      "id": "koh-i-noor-q12",
+      "difficulty": "medium",
+      "q": "After Nadir Shah's assassination, the Koh-i-Noor passed to which Afghan dynasty's founder?",
+      "options": [
+        "Dost Mohammad Khan",
+        "Ahmad Shah Durrani",
+        "Sher Shah Suri",
+        "Babur"
+      ],
+      "answer": 1,
+      "explanation": "Following Nadir Shah's death, the diamond passed to Ahmad Shah Durrani, founder of the Durrani Afghan empire."
+    },
+    {
+      "id": "koh-i-noor-q13",
+      "difficulty": "medium",
+      "q": "Ranjit Singh acquired the Koh-i-Noor around 1813 from which deposed Afghan ruler?",
+      "options": [
+        "Ahmad Shah Durrani",
+        "Nadir Shah",
+        "Timur Shah",
+        "Shah Shuja Durrani"
+      ],
+      "answer": 3,
+      "explanation": "Ranjit Singh obtained the diamond from the exiled Afghan ruler Shah Shuja Durrani around 1813."
+    },
+    {
+      "id": "koh-i-noor-q14",
+      "difficulty": "medium",
+      "q": "The treaty by which the Koh-i-Noor was ceded to the British was signed after which event?",
+      "options": [
+        "The annexation of the Punjab",
+        "The Battle of Plassey",
+        "The fall of Golconda",
+        "The Battle of Talikota"
+      ],
+      "answer": 0,
+      "explanation": "The Koh-i-Noor was ceded under the Treaty of Lahore terms following the British annexation of the Punjab in 1849."
+    },
+    {
+      "id": "koh-i-noor-q15",
+      "difficulty": "medium",
+      "q": "Which young Sikh Maharaja was formally made to surrender the Koh-i-Noor to the British?",
+      "options": [
+        "Kharak Singh",
+        "Duleep Singh",
+        "Sher Singh",
+        "Naunihal Singh"
+      ],
+      "answer": 1,
+      "explanation": "The child Maharaja Duleep Singh, last ruler of the Sikh Empire, was made to surrender the Koh-i-Noor in 1849."
+    },
+    {
+      "id": "koh-i-noor-q16",
+      "difficulty": "medium",
+      "q": "To which British monarch was the Koh-i-Noor presented in 1850?",
+      "options": [
+        "Queen Elizabeth II",
+        "King George III",
+        "Queen Victoria",
+        "King Edward VII"
+      ],
+      "answer": 2,
+      "explanation": "The Koh-i-Noor was presented to Queen Victoria in 1850 after being brought to Britain."
+    },
+    {
+      "id": "koh-i-noor-q17",
+      "difficulty": "medium",
+      "q": "The Koh-i-Noor was displayed to the British public in 1851 at what event?",
+      "options": [
+        "The Great Exhibition",
+        "The Coronation of Victoria",
+        "The Delhi Durbar",
+        "The Festival of Britain"
+      ],
+      "answer": 0,
+      "explanation": "The diamond was shown to the public at the Great Exhibition of 1851 in London's Crystal Palace."
+    },
+    {
+      "id": "koh-i-noor-q18",
+      "difficulty": "medium",
+      "q": "Because its first display underwhelmed viewers, the Koh-i-Noor was later subjected to what process?",
+      "options": [
+        "Melting down",
+        "Re-cutting and polishing",
+        "Being broken into pieces",
+        "Being dyed a new colour"
+      ],
+      "answer": 1,
+      "explanation": "The Koh-i-Noor was re-cut and polished in the 1850s to increase its brilliance, reducing its weight considerably."
+    },
+    {
+      "id": "koh-i-noor-q19",
+      "difficulty": "medium",
+      "q": "Several countries have made claims for the return of the Koh-i-Noor. Which of these is among the claimants?",
+      "options": [
+        "France",
+        "Italy",
+        "India",
+        "Egypt"
+      ],
+      "answer": 2,
+      "explanation": "India, along with Pakistan, Afghanistan and Iran, has made claims for the return of the Koh-i-Noor."
+    },
+    {
+      "id": "koh-i-noor-q20",
+      "difficulty": "medium",
+      "q": "The Koh-i-Noor has been set into the crowns of British queen consorts rather than kings, partly due to what reputation?",
+      "options": [
+        "A belief it weakens armies",
+        "A claim it loses its shine for kings",
+        "A tradition reserving it for the eldest child",
+        "A legend that it is unlucky for men"
+      ],
+      "answer": 3,
+      "explanation": "A persistent legend holds that the Koh-i-Noor brings misfortune to male owners, so it has been set in consorts' crowns."
+    },
+    {
+      "id": "koh-i-noor-q21",
+      "difficulty": "medium",
+      "q": "Before reaching the Mughals, the Koh-i-Noor is associated in tradition with rulers of which earlier Indian dynasty in the Deccan and beyond?",
+      "options": [
+        "The Cholas",
+        "The Kakatiyas",
+        "The Pallavas",
+        "The Hoysalas"
+      ],
+      "answer": 1,
+      "explanation": "Tradition links the diamond to the Kakatiya dynasty of Warangal before its passage to later powers, though early history is uncertain."
+    },
+    {
+      "id": "koh-i-noor-q22",
+      "difficulty": "medium",
+      "q": "The Koh-i-Noor is currently set in which item of British regalia?",
+      "options": [
+        "The Imperial State Crown",
+        "St Edward's Crown",
+        "The Queen Mother's Crown",
+        "The Sovereign's Sceptre"
+      ],
+      "answer": 2,
+      "explanation": "The Koh-i-Noor is set at the front of the crown made for Queen Elizabeth The Queen Mother."
+    },
+    {
+      "id": "koh-i-noor-q23",
+      "difficulty": "hard",
+      "q": "After its 1852 re-cutting, the Koh-i-Noor's weight was reduced to approximately how many carats?",
+      "options": [
+        "About 280 carats",
+        "About 50 carats",
+        "About 410 carats",
+        "About 105 carats"
+      ],
+      "answer": 3,
+      "explanation": "The re-cut Koh-i-Noor weighs approximately 105.6 carats, down from around 186 carats before."
+    },
+    {
+      "id": "koh-i-noor-q24",
+      "difficulty": "hard",
+      "q": "The Koh-i-Noor was brought to England in 1850 aboard a ship of which company?",
+      "options": [
+        "The East India Company",
+        "The Royal Navy alone",
+        "The Hudson's Bay Company",
+        "The Dutch East India Company"
+      ],
+      "answer": 0,
+      "explanation": "The East India Company arranged for the diamond's transport to Britain aboard HMS Medea in 1850."
+    },
+    {
+      "id": "koh-i-noor-q25",
+      "difficulty": "hard",
+      "q": "The 1852 re-cutting of the Koh-i-Noor was carried out under the supervision of which firm of jewellers/lapidaries?",
+      "options": [
+        "Tiffany and Co.",
+        "Faberge",
+        "Garrard, with Dutch cutters from Coster",
+        "Cartier"
+      ],
+      "answer": 2,
+      "explanation": "The Crown jewellers Garrard oversaw the re-cutting, with cutters from the Coster firm of Amsterdam doing the work."
+    },
+    {
+      "id": "koh-i-noor-q26",
+      "difficulty": "hard",
+      "q": "Some accounts link the Koh-i-Noor with the legendary Syamantaka gem and with which epic-era figure?",
+      "options": [
+        "Arjuna",
+        "Rama",
+        "Bhima",
+        "Krishna"
+      ],
+      "answer": 3,
+      "explanation": "Folklore associates the diamond with the Syamantaka jewel of Hindu legend connected to Krishna, though this is legendary rather than documented history."
+    },
+    {
+      "id": "koh-i-noor-q27",
+      "difficulty": "hard",
+      "q": "Under the terms of which treaty document was the Koh-i-Noor's cession to Queen Victoria specifically written in?",
+      "options": [
+        "The Treaty of Lahore (1849 terms)",
+        "The Treaty of Amritsar (1809)",
+        "The Treaty of Bassein",
+        "The Treaty of Allahabad"
+      ],
+      "answer": 0,
+      "explanation": "The 1849 Treaty of Lahore terms required that the Koh-i-Noor be surrendered to the Queen of England."
+    },
+    {
+      "id": "koh-i-noor-q28",
+      "difficulty": "hard",
+      "q": "The Mughal emperor most often associated with possessing the diamond in his Peacock Throne era was which ruler?",
+      "options": [
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb",
+        "Bahadur Shah Zafar"
+      ],
+      "answer": 1,
+      "explanation": "The diamond is traditionally linked to Shah Jahan's era and his jewelled Peacock Throne, though precise identification is debated."
+    },
+    {
+      "id": "koh-i-noor-q29",
+      "difficulty": "hard",
+      "q": "When first cut and displayed, the Koh-i-Noor had what shape that British viewers found unimpressive?",
+      "options": [
+        "A perfect modern brilliant",
+        "A square emerald cut",
+        "A teardrop pendant cut",
+        "An old Mughal-cut, rounded dome form"
+      ],
+      "answer": 3,
+      "explanation": "In its original Mughal cut the stone was a high, rounded dome that lacked the sparkle of modern brilliant cuts, prompting re-cutting."
+    },
+    {
+      "id": "koh-i-noor-q30",
+      "difficulty": "hard",
+      "q": "The earliest reasonably reliable written records of the diamond that became the Koh-i-Noor place it with which dynasty's founder's memoir?",
+      "options": [
+        "Babur, in the Baburnama",
+        "Ashoka, in the edicts",
+        "Harsha, in the Harshacharita",
+        "Akbar, in the Ain-i-Akbari"
+      ],
+      "answer": 0,
+      "explanation": "Babur's memoir, the Baburnama, mentions a famous great diamond often identified with the Koh-i-Noor, among the earliest plausible records."
+    }
+  ]
+}

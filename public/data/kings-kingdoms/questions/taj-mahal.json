@@ -1,0 +1,395 @@
+{
+  "cardId": "taj-mahal",
+  "questions": [
+    {
+      "id": "taj-mahal-q01",
+      "difficulty": "easy",
+      "q": "The Taj Mahal is located in which Indian city?",
+      "options": [
+        "Delhi",
+        "Lahore",
+        "Agra",
+        "Jaipur"
+      ],
+      "answer": 2,
+      "explanation": "The Taj Mahal stands on the banks of the Yamuna river at Agra."
+    },
+    {
+      "id": "taj-mahal-q02",
+      "difficulty": "easy",
+      "q": "Which Mughal emperor built the Taj Mahal?",
+      "options": [
+        "Akbar",
+        "Shah Jahan",
+        "Jahangir",
+        "Aurangzeb"
+      ],
+      "answer": 1,
+      "explanation": "The Taj Mahal was commissioned by the fifth Mughal emperor, Shah Jahan."
+    },
+    {
+      "id": "taj-mahal-q03",
+      "difficulty": "easy",
+      "q": "The Taj Mahal was built as a memorial for which person?",
+      "options": [
+        "Nur Jahan",
+        "Jahanara",
+        "Shah Jahan's mother",
+        "Mumtaz Mahal"
+      ],
+      "answer": 3,
+      "explanation": "Shah Jahan built the Taj Mahal as a mausoleum for his wife Mumtaz Mahal."
+    },
+    {
+      "id": "taj-mahal-q04",
+      "difficulty": "easy",
+      "q": "The Taj Mahal is chiefly built of which material, giving it its gleaming white appearance?",
+      "options": [
+        "Red sandstone",
+        "Granite",
+        "White marble",
+        "Limestone"
+      ],
+      "answer": 2,
+      "explanation": "The Taj Mahal is famously clad in white marble, much of it from Makrana in Rajasthan."
+    },
+    {
+      "id": "taj-mahal-q05",
+      "difficulty": "easy",
+      "q": "The Taj Mahal is most often described as a monument symbolising what?",
+      "options": [
+        "Military victory",
+        "Religious conquest",
+        "Trade wealth",
+        "Love"
+      ],
+      "answer": 3,
+      "explanation": "Built for Mumtaz Mahal, the Taj Mahal is celebrated worldwide as a monument to love."
+    },
+    {
+      "id": "taj-mahal-q06",
+      "difficulty": "easy",
+      "q": "The Taj Mahal is an example of which style of architecture?",
+      "options": [
+        "Chola",
+        "Rajput",
+        "Gupta",
+        "Mughal"
+      ],
+      "answer": 3,
+      "explanation": "The Taj Mahal is regarded as the supreme masterpiece of Mughal architecture."
+    },
+    {
+      "id": "taj-mahal-q07",
+      "difficulty": "easy",
+      "q": "The Taj Mahal has been recognised internationally with which designation?",
+      "options": [
+        "Wonder of the Solar System",
+        "UNESCO World Heritage Site",
+        "National Wildlife Reserve",
+        "Olympic Heritage Landmark"
+      ],
+      "answer": 1,
+      "explanation": "The Taj Mahal is a UNESCO World Heritage Site, inscribed in 1983."
+    },
+    {
+      "id": "taj-mahal-q08",
+      "difficulty": "easy",
+      "q": "Beside which river does the Taj Mahal stand?",
+      "options": [
+        "The Ganges",
+        "The Yamuna",
+        "The Narmada",
+        "The Chambal"
+      ],
+      "answer": 1,
+      "explanation": "The Taj Mahal overlooks the Yamuna river at Agra."
+    },
+    {
+      "id": "taj-mahal-q09",
+      "difficulty": "easy",
+      "q": "Tall slender towers, four of them, frame the Taj Mahal. What are these called?",
+      "options": [
+        "Minarets",
+        "Stupas",
+        "Gopurams",
+        "Pylons"
+      ],
+      "answer": 0,
+      "explanation": "Four minarets stand at the corners of the Taj Mahal's marble plinth."
+    },
+    {
+      "id": "taj-mahal-q10",
+      "difficulty": "easy",
+      "q": "The Taj Mahal was completed around which year?",
+      "options": [
+        "1653 CE",
+        "1453 CE",
+        "1526 CE",
+        "1707 CE"
+      ],
+      "answer": 0,
+      "explanation": "The Taj Mahal complex is generally said to have been completed around 1653 CE."
+    },
+    {
+      "id": "taj-mahal-q11",
+      "difficulty": "medium",
+      "q": "Construction of the Taj Mahal began in approximately which year, soon after Mumtaz Mahal's death?",
+      "options": [
+        "1605 CE",
+        "1658 CE",
+        "1666 CE",
+        "1632 CE"
+      ],
+      "answer": 3,
+      "explanation": "Work on the Taj Mahal began around 1632, the year after Mumtaz Mahal died in 1631."
+    },
+    {
+      "id": "taj-mahal-q12",
+      "difficulty": "medium",
+      "q": "Mumtaz Mahal, for whom the Taj was built, died in which circumstances?",
+      "options": [
+        "In battle",
+        "By illness in old age",
+        "During childbirth",
+        "In a fire"
+      ],
+      "answer": 2,
+      "explanation": "Mumtaz Mahal died in 1631 giving birth to her fourteenth child, which led Shah Jahan to build the Taj."
+    },
+    {
+      "id": "taj-mahal-q13",
+      "difficulty": "medium",
+      "q": "Besides Mumtaz Mahal, whose tomb was later placed inside the Taj Mahal?",
+      "options": [
+        "Shah Jahan's",
+        "Jahangir's",
+        "Akbar's",
+        "Aurangzeb's"
+      ],
+      "answer": 0,
+      "explanation": "Shah Jahan himself was buried beside Mumtaz Mahal inside the Taj Mahal after his death in 1666."
+    },
+    {
+      "id": "taj-mahal-q14",
+      "difficulty": "medium",
+      "q": "The decorative inlay of semi-precious stones into the Taj's marble is known by which name?",
+      "options": [
+        "Pietra dura (parchin kari)",
+        "Jali",
+        "Fresco secco",
+        "Filigree"
+      ],
+      "answer": 0,
+      "explanation": "The Taj Mahal is adorned with pietra dura, called parchin kari, inlaying coloured stones into marble."
+    },
+    {
+      "id": "taj-mahal-q15",
+      "difficulty": "medium",
+      "q": "The marble used for the Taj Mahal was famously quarried from which place in Rajasthan?",
+      "options": [
+        "Makrana",
+        "Jaisalmer",
+        "Dholpur",
+        "Karauli"
+      ],
+      "answer": 0,
+      "explanation": "The white marble of the Taj Mahal was sourced largely from Makrana in Rajasthan."
+    },
+    {
+      "id": "taj-mahal-q16",
+      "difficulty": "medium",
+      "q": "What kind of formal garden lies in front of the Taj Mahal?",
+      "options": [
+        "A Japanese rock garden",
+        "A Persian vineyard",
+        "An English landscape park",
+        "A Mughal charbagh"
+      ],
+      "answer": 3,
+      "explanation": "The Taj Mahal is set within a charbagh, a four-part Mughal garden divided by watercourses."
+    },
+    {
+      "id": "taj-mahal-q17",
+      "difficulty": "medium",
+      "q": "The grand entrance gateway and the great central dome of the Taj reflect influences from which architectural traditions?",
+      "options": [
+        "Greek and Roman",
+        "Persian and Indian Islamic",
+        "Chinese and Tibetan",
+        "Gothic and Byzantine"
+      ],
+      "answer": 1,
+      "explanation": "The Taj blends Persian, Central Asian, and Indian Islamic design in its dome, iwan, and gateway."
+    },
+    {
+      "id": "taj-mahal-q18",
+      "difficulty": "medium",
+      "q": "Flanking the main mausoleum are two red sandstone buildings; one is a mosque and the other is which?",
+      "options": [
+        "A library",
+        "A treasury",
+        "A prison",
+        "A jawab (mirror-image guest hall)"
+      ],
+      "answer": 3,
+      "explanation": "To balance the mosque, a matching jawab ('answer') building stands on the other side for symmetry."
+    },
+    {
+      "id": "taj-mahal-q19",
+      "difficulty": "medium",
+      "q": "The Taj Mahal's minarets lean slightly outward; by what reason is this most commonly explained?",
+      "options": [
+        "To improve the view",
+        "To save marble",
+        "So that, if they fell, they would topple away from the tomb",
+        "To catch more sunlight"
+      ],
+      "answer": 2,
+      "explanation": "The minarets tilt slightly outward, and the traditional explanation is that this would make them fall away from the central mausoleum rather than onto it."
+    },
+    {
+      "id": "taj-mahal-q20",
+      "difficulty": "medium",
+      "q": "The verses inlaid in black stone around the Taj's archways are passages from which text?",
+      "options": [
+        "The Baburnama",
+        "The Mahabharata",
+        "The Quran",
+        "The Arthashastra"
+      ],
+      "answer": 2,
+      "explanation": "Calligraphic inscriptions of Quranic verses, in black marble inlay, decorate the Taj Mahal's portals."
+    },
+    {
+      "id": "taj-mahal-q21",
+      "difficulty": "medium",
+      "q": "The architect traditionally credited as the chief designer of the Taj Mahal is named as which?",
+      "options": [
+        "Ustad Ahmad Lahauri",
+        "Mir Sayyid Ali",
+        "Ustad Mansur",
+        "Abdus Samad"
+      ],
+      "answer": 0,
+      "explanation": "Ustad Ahmad Lahauri is traditionally regarded as the chief architect of the Taj Mahal."
+    },
+    {
+      "id": "taj-mahal-q22",
+      "difficulty": "medium",
+      "q": "Which feature of the central dome of the Taj Mahal gives it its distinctive shape?",
+      "options": [
+        "It is a flat slab",
+        "It is a stepped pyramid",
+        "It is a glass cupola",
+        "It is a bulbous onion (amrud) dome"
+      ],
+      "answer": 3,
+      "explanation": "The Taj is crowned by a large bulbous 'onion' or amrud dome topped by a finial."
+    },
+    {
+      "id": "taj-mahal-q23",
+      "difficulty": "hard",
+      "q": "The two tombs visible in the main chamber of the Taj Mahal are which kind?",
+      "options": [
+        "The actual graves",
+        "Cenotaphs above the real graves in a lower crypt",
+        "Empty for display only",
+        "Made of solid gold"
+      ],
+      "answer": 1,
+      "explanation": "The chamber holds decorative cenotaphs; the true graves of Mumtaz Mahal and Shah Jahan lie in a crypt below."
+    },
+    {
+      "id": "taj-mahal-q24",
+      "difficulty": "hard",
+      "q": "Within the symmetrical layout of the Taj Mahal, which element notably breaks the perfect symmetry?",
+      "options": [
+        "Shah Jahan's off-centre cenotaph",
+        "The four minarets",
+        "The central dome",
+        "The entrance gateway"
+      ],
+      "answer": 0,
+      "explanation": "Shah Jahan's larger cenotaph, added later beside Mumtaz Mahal's central one, is the only asymmetric element."
+    },
+    {
+      "id": "taj-mahal-q25",
+      "difficulty": "hard",
+      "q": "The mosque flanking the Taj Mahal faces which direction, as required for prayer?",
+      "options": [
+        "East, toward the sunrise",
+        "West, toward Mecca",
+        "North",
+        "South, toward the river"
+      ],
+      "answer": 1,
+      "explanation": "The mosque is oriented westward toward Mecca, which is why a matching jawab was built to its east for balance."
+    },
+    {
+      "id": "taj-mahal-q26",
+      "difficulty": "hard",
+      "q": "Mumtaz Mahal died at which place while accompanying Shah Jahan on a Deccan campaign?",
+      "options": [
+        "Aurangabad",
+        "Daulatabad",
+        "Bijapur",
+        "Burhanpur"
+      ],
+      "answer": 3,
+      "explanation": "Mumtaz Mahal died at Burhanpur in 1631; her remains were later moved to Agra for burial in the Taj Mahal."
+    },
+    {
+      "id": "taj-mahal-q27",
+      "difficulty": "hard",
+      "q": "The full marble-clad mausoleum building of the Taj is generally said to have been finished by about which year, before the surrounding complex?",
+      "options": [
+        "1638 CE",
+        "1643 CE",
+        "1653 CE",
+        "1666 CE"
+      ],
+      "answer": 1,
+      "explanation": "The central mausoleum was largely complete by around 1643, with the wider complex finished about a decade later."
+    },
+    {
+      "id": "taj-mahal-q28",
+      "difficulty": "hard",
+      "q": "A popular but historically unverified legend claims Shah Jahan planned what counterpart across the river?",
+      "options": [
+        "A second mosque",
+        "A royal mint",
+        "A black marble Taj for himself",
+        "A floating palace"
+      ],
+      "answer": 2,
+      "explanation": "The 'Black Taj' legend, that Shah Jahan intended a mirror tomb in black marble, is not supported by firm evidence."
+    },
+    {
+      "id": "taj-mahal-q29",
+      "difficulty": "hard",
+      "q": "The garden across the Yamuna, aligned with the Taj Mahal and linked to its original riverfront design, is known as which?",
+      "options": [
+        "Shalimar Bagh",
+        "Ram Bagh",
+        "Mehtab Bagh",
+        "Nishat Bagh"
+      ],
+      "answer": 2,
+      "explanation": "The Mehtab Bagh ('Moonlight Garden') lies directly across the river, aligned with the Taj as part of its riverside plan."
+    },
+    {
+      "id": "taj-mahal-q30",
+      "difficulty": "hard",
+      "q": "In the colour of its marble, the Taj Mahal appears to change subtly with what?",
+      "options": [
+        "The light of different times of day",
+        "The seasons only",
+        "The number of visitors",
+        "The river's water level"
+      ],
+      "answer": 0,
+      "explanation": "The translucent marble of the Taj Mahal takes on different hues with the changing light of dawn, day, and moonlight."
+    }
+  ]
+}

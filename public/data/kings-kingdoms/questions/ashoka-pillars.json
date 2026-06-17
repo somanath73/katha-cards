@@ -1,0 +1,395 @@
+{
+  "cardId": "ashoka-pillars",
+  "questions": [
+    {
+      "id": "ashoka-pillars-q01",
+      "difficulty": "easy",
+      "q": "Which Mauryan emperor erected the famous inscribed pillars across his empire?",
+      "options": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Samudragupta"
+      ],
+      "answer": 0,
+      "explanation": "The polished stone pillars bearing edicts were erected by the Mauryan emperor Ashoka in the 3rd century BCE."
+    },
+    {
+      "id": "ashoka-pillars-q02",
+      "difficulty": "easy",
+      "q": "What was inscribed on Ashoka's pillars?",
+      "options": [
+        "Tax records",
+        "His edicts on dhamma",
+        "Lists of victories",
+        "Trade agreements"
+      ],
+      "answer": 1,
+      "explanation": "Ashoka's pillars carry his edicts promoting dhamma, his policy of moral and ethical conduct."
+    },
+    {
+      "id": "ashoka-pillars-q03",
+      "difficulty": "easy",
+      "q": "Which pillar capital was adopted as the State Emblem of India?",
+      "options": [
+        "The Bull Capital of Rampurva",
+        "The Elephant Capital of Sankissa",
+        "The Lion Capital of Sarnath",
+        "The Horse Capital of Vaishali"
+      ],
+      "answer": 2,
+      "explanation": "The Lion Capital of Sarnath, which once crowned an Ashokan pillar, was adopted as the State Emblem of independent India."
+    },
+    {
+      "id": "ashoka-pillars-q04",
+      "difficulty": "easy",
+      "q": "From what material were Ashoka's pillars chiefly made?",
+      "options": [
+        "Solid gold",
+        "Baked brick",
+        "Cast bronze",
+        "Polished sandstone"
+      ],
+      "answer": 3,
+      "explanation": "The pillars were carved from polished sandstone, often quarried at Chunar near Varanasi."
+    },
+    {
+      "id": "ashoka-pillars-q05",
+      "difficulty": "easy",
+      "q": "What typically crowned the top of an Ashokan pillar?",
+      "options": [
+        "A pointed spire",
+        "An animal capital",
+        "A water pot",
+        "A human statue"
+      ],
+      "answer": 1,
+      "explanation": "Many Ashokan pillars were topped with animal capitals such as lions, bulls, and elephants."
+    },
+    {
+      "id": "ashoka-pillars-q06",
+      "difficulty": "easy",
+      "q": "How many lions appear on the famous Lion Capital of Sarnath?",
+      "options": [
+        "Two",
+        "One",
+        "Four",
+        "Six"
+      ],
+      "answer": 2,
+      "explanation": "The Sarnath capital shows four lions seated back to back, of which three are visible from any one side."
+    },
+    {
+      "id": "ashoka-pillars-q07",
+      "difficulty": "easy",
+      "q": "The wheel beneath the Sarnath lions inspired which feature of the Indian national flag?",
+      "options": [
+        "The saffron band",
+        "The green band",
+        "The white stripe alone",
+        "The Ashoka Chakra at its centre"
+      ],
+      "answer": 3,
+      "explanation": "The Ashoka Chakra at the centre of India's flag is modelled on the dharma wheel from the Sarnath capital."
+    },
+    {
+      "id": "ashoka-pillars-q08",
+      "difficulty": "easy",
+      "q": "In which century BCE were Ashoka's pillars erected?",
+      "options": [
+        "3rd century BCE",
+        "6th century BCE",
+        "1st century CE",
+        "5th century CE"
+      ],
+      "answer": 0,
+      "explanation": "The pillars were raised during Ashoka's reign in the 3rd century BCE."
+    },
+    {
+      "id": "ashoka-pillars-q09",
+      "difficulty": "easy",
+      "q": "Ashoka's pillars are notable for which surface quality even today?",
+      "options": [
+        "Gold leaf gilding",
+        "Painted murals",
+        "A high mirror-like polish",
+        "Inlaid gemstones"
+      ],
+      "answer": 2,
+      "explanation": "The Mauryan pillars are famed for their lustrous, mirror-like polish, a hallmark of Mauryan stonework."
+    },
+    {
+      "id": "ashoka-pillars-q10",
+      "difficulty": "easy",
+      "q": "The animal most often associated with the Sarnath capital adopted as India's emblem is the:",
+      "options": [
+        "Elephant",
+        "Bull",
+        "Horse",
+        "Lion"
+      ],
+      "answer": 3,
+      "explanation": "The Sarnath capital features lions, which is why the emblem is known as the Lion Capital."
+    },
+    {
+      "id": "ashoka-pillars-q11",
+      "difficulty": "medium",
+      "q": "From which quarry was the fine sandstone for many Ashokan pillars obtained?",
+      "options": [
+        "Chunar",
+        "Makrana",
+        "Karauli",
+        "Dholpur"
+      ],
+      "answer": 0,
+      "explanation": "Much of the sandstone for the pillars came from Chunar, near Varanasi on the Ganges."
+    },
+    {
+      "id": "ashoka-pillars-q12",
+      "difficulty": "medium",
+      "q": "The Ashokan pillar at Lumbini commemorates which event?",
+      "options": [
+        "The Buddha's first sermon",
+        "The Buddha's birth at that spot",
+        "Ashoka's coronation",
+        "The founding of Pataliputra"
+      ],
+      "answer": 1,
+      "explanation": "The Lumbini (Rummindei) pillar marks Ashoka's visit to the Buddha's birthplace and records a tax remission for the village."
+    },
+    {
+      "id": "ashoka-pillars-q13",
+      "difficulty": "medium",
+      "q": "In what shape are the shafts of Ashoka's pillars, and are they monolithic?",
+      "options": [
+        "Square and built of stacked blocks",
+        "Fluted and made of brick",
+        "Twisted and cast in metal",
+        "Tapering and carved from a single stone"
+      ],
+      "answer": 3,
+      "explanation": "Each pillar shaft is a single tapering monolith of stone, a remarkable feat of quarrying and transport."
+    },
+    {
+      "id": "ashoka-pillars-q14",
+      "difficulty": "medium",
+      "q": "The bell-shaped element directly beneath the animal capital is based on which motif?",
+      "options": [
+        "An inverted lotus",
+        "A coiled serpent",
+        "A clenched fist",
+        "A flaming sun"
+      ],
+      "answer": 0,
+      "explanation": "Ashokan capitals feature an inverted, bell-shaped lotus supporting an abacus and the crowning animals."
+    },
+    {
+      "id": "ashoka-pillars-q15",
+      "difficulty": "medium",
+      "q": "Four animals carved in relief on the abacus of the Sarnath capital include the lion, the elephant, the horse, and which other?",
+      "options": [
+        "The deer",
+        "The bull",
+        "The tiger",
+        "The peacock"
+      ],
+      "answer": 1,
+      "explanation": "The abacus of the Sarnath capital depicts a lion, an elephant, a galloping horse, and a bull, separated by wheels."
+    },
+    {
+      "id": "ashoka-pillars-q16",
+      "difficulty": "medium",
+      "q": "In which script are the inscriptions on most of Ashoka's pillars in India written?",
+      "options": [
+        "Kharoshthi",
+        "Greek",
+        "Brahmi",
+        "Devanagari"
+      ],
+      "answer": 2,
+      "explanation": "The Pillar Edicts in the Mauryan heartland are inscribed in the Brahmi script."
+    },
+    {
+      "id": "ashoka-pillars-q17",
+      "difficulty": "medium",
+      "q": "Which later sultan of Delhi is known for transporting two Ashokan pillars to his capital?",
+      "options": [
+        "Firuz Shah Tughlaq",
+        "Alauddin Khalji",
+        "Balban",
+        "Iltutmish"
+      ],
+      "answer": 0,
+      "explanation": "Firuz Shah Tughlaq moved two Ashokan pillars to Delhi in the 14th century, one of which stands at Firoz Shah Kotla."
+    },
+    {
+      "id": "ashoka-pillars-q18",
+      "difficulty": "medium",
+      "q": "The Sarnath pillar marks the place associated with which event in the Buddha's life?",
+      "options": [
+        "His birth",
+        "His first sermon",
+        "His enlightenment",
+        "His death (parinirvana)"
+      ],
+      "answer": 1,
+      "explanation": "Sarnath is where the Buddha delivered his first sermon, and Ashoka's pillar there commemorates that site."
+    },
+    {
+      "id": "ashoka-pillars-q19",
+      "difficulty": "medium",
+      "q": "The Lion Capital of Sarnath is today preserved in which museum?",
+      "options": [
+        "The British Museum",
+        "The National Museum, Delhi",
+        "The Sarnath Museum",
+        "The Indian Museum, Kolkata"
+      ],
+      "answer": 2,
+      "explanation": "The original Lion Capital is housed in the Archaeological Museum at Sarnath."
+    },
+    {
+      "id": "ashoka-pillars-q20",
+      "difficulty": "medium",
+      "q": "Which motto inscribed below the State Emblem is taken from a scripture, not the pillar itself?",
+      "options": [
+        "Vande Mataram",
+        "Jai Hind",
+        "Sare Jahan Se Achha",
+        "Satyameva Jayate"
+      ],
+      "answer": 3,
+      "explanation": "The words 'Satyameva Jayate', from the Mundaka Upanishad, were added beneath the adapted Lion Capital emblem."
+    },
+    {
+      "id": "ashoka-pillars-q21",
+      "difficulty": "medium",
+      "q": "Roughly how tall and heavy were the larger Ashokan pillar shafts, reflecting Mauryan engineering?",
+      "options": [
+        "About 2 metres tall and very light",
+        "Around 12-15 metres tall and many tonnes in weight",
+        "Over 50 metres tall",
+        "Hollow and almost weightless"
+      ],
+      "answer": 1,
+      "explanation": "The pillars often rose some 12 to 15 metres and weighed many tonnes, requiring great skill to quarry and erect."
+    },
+    {
+      "id": "ashoka-pillars-q22",
+      "difficulty": "medium",
+      "q": "How many of the four lions of the Sarnath capital are depicted, and what does the choice symbolise in the emblem?",
+      "options": [
+        "Three lions in total",
+        "Two lions facing each other",
+        "Four lions, of which only three are visible at once",
+        "A single forward-facing lion"
+      ],
+      "answer": 2,
+      "explanation": "There are four lions back to back; in the two-dimensional State Emblem only three are seen, the fourth being hidden behind."
+    },
+    {
+      "id": "ashoka-pillars-q23",
+      "difficulty": "hard",
+      "q": "At which sites were the two Ashokan pillars surmounted by bull capitals, now well known, originally found?",
+      "options": [
+        "Sarnath",
+        "Sanchi",
+        "Lauriya Nandangarh",
+        "Rampurva"
+      ],
+      "answer": 3,
+      "explanation": "Rampurva in Bihar yielded two pillars, one crowned by a bull capital and the other by a lion."
+    },
+    {
+      "id": "ashoka-pillars-q24",
+      "difficulty": "hard",
+      "q": "The Allahabad (Prayagraj) Ashokan pillar is notable for carrying a later inscription of which emperor?",
+      "options": [
+        "Samudragupta",
+        "Harsha",
+        "Kanishka",
+        "Rajaraja Chola"
+      ],
+      "answer": 0,
+      "explanation": "The Allahabad pillar bears Samudragupta's famous Prashasti composed by Harishena, added centuries after Ashoka."
+    },
+    {
+      "id": "ashoka-pillars-q25",
+      "difficulty": "hard",
+      "q": "Which set of edicts, distinct from the Major Pillar Edicts, prohibits schisms in the Buddhist monastic order?",
+      "options": [
+        "The Kalinga Separate Edicts",
+        "Rock Edict XIII",
+        "The Schism (or Minor Pillar) Edicts at Sarnath, Sanchi, and Kausambi",
+        "The Barabar cave inscriptions"
+      ],
+      "answer": 2,
+      "explanation": "The Schism Edicts, found on pillars at Sarnath, Sanchi, and Kausambi, warn against dividing the Buddhist sangha."
+    },
+    {
+      "id": "ashoka-pillars-q26",
+      "difficulty": "hard",
+      "q": "How many Major Pillar Edicts are conventionally counted in Ashoka's series?",
+      "options": [
+        "Fourteen",
+        "Three",
+        "Twenty",
+        "Seven"
+      ],
+      "answer": 3,
+      "explanation": "Ashoka's Major Pillar Edicts are usually numbered seven, the seventh found only on the Delhi-Topra pillar."
+    },
+    {
+      "id": "ashoka-pillars-q27",
+      "difficulty": "hard",
+      "q": "The art-historical style of the Sarnath capital's animals shows the influence of which artistic tradition?",
+      "options": [
+        "Achaemenid Persian",
+        "Roman",
+        "Chinese",
+        "Egyptian"
+      ],
+      "answer": 0,
+      "explanation": "Scholars note Achaemenid Persian influence in the polish and stylised forms of the Mauryan pillar capitals."
+    },
+    {
+      "id": "ashoka-pillars-q28",
+      "difficulty": "hard",
+      "q": "Which pillar bears the seventh Pillar Edict, the longest of Ashoka's edicts, summarising his dhamma work?",
+      "options": [
+        "The Lumbini pillar",
+        "The Delhi-Topra pillar",
+        "The Vaishali pillar",
+        "The Sankissa pillar"
+      ],
+      "answer": 1,
+      "explanation": "The Delhi-Topra pillar (moved there by Firuz Shah Tughlaq) uniquely carries the lengthy seventh Pillar Edict."
+    },
+    {
+      "id": "ashoka-pillars-q29",
+      "difficulty": "hard",
+      "q": "The Vaishali Ashokan pillar is distinctive for being crowned by which single animal capital?",
+      "options": [
+        "A bull",
+        "An elephant",
+        "A horse",
+        "A single seated lion"
+      ],
+      "answer": 3,
+      "explanation": "The pillar at Vaishali (Kolhua) is topped by a single lion facing the direction associated with the Buddha's last journey."
+    },
+    {
+      "id": "ashoka-pillars-q30",
+      "difficulty": "hard",
+      "q": "The wheel motifs (chakras) carved on the abacus and capitals of Ashoka's pillars primarily symbolise what?",
+      "options": [
+        "The wheel of dhamma (dharmachakra)",
+        "The sun god's chariot",
+        "The royal seal of the Mauryas",
+        "A calendar of festivals"
+      ],
+      "answer": 0,
+      "explanation": "The chakras represent the dharmachakra, the wheel of law set in motion by the Buddha, central to Ashoka's dhamma."
+    }
+  ]
+}

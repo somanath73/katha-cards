@@ -45,6 +45,23 @@ const RECIPES = {
       }
     },
   },
+  'kings-kingdoms': {
+    style:
+      'Majestic realistic oil-painting with rich VIBRANT saturated colours and luminous warm golden light, ' +
+      'bright jewel tones, glowing highlights, lifelike painterly detail, grand and regal uplifting mood, ' +
+      'ornate colourful royal Indian attire and architecture, richly detailed. No text, no lettering, no ' +
+      'captions, no picture frame, no border. Vertical portrait orientation.',
+    lead: (c) => {
+      switch (c.type) {
+        case 'character': return `A majestic, vibrant oil-painting portrait of ${c.title}, ${c.subtitle}.`
+        case 'event': return `A grand, colourful oil-painting depicting the historic scene of ${c.title} (${c.subtitle}).`
+        case 'place': return `A grand, sunlit oil-painting of ${c.title}, ${c.subtitle}, a majestic Indian setting.`
+        case 'artifact': return `A richly detailed, vibrant oil-painting of ${c.title}, ${c.subtitle}, as the glowing centerpiece.`
+        case 'concept': return `A symbolic, majestic oil-painting evoking the glory of ${c.title}, ${c.subtitle}.`
+        default: return `${c.title}, ${c.subtitle}.`
+      }
+    },
+  },
 }
 
 const recipe = RECIPES[category]

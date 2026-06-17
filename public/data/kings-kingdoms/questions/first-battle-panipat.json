@@ -1,0 +1,395 @@
+{
+  "cardId": "first-battle-panipat",
+  "questions": [
+    {
+      "id": "first-battle-panipat-q01",
+      "difficulty": "easy",
+      "q": "In which year was the First Battle of Panipat fought?",
+      "options": [
+        "1526 CE",
+        "1556 CE",
+        "1761 CE",
+        "1192 CE"
+      ],
+      "answer": 0,
+      "explanation": "The First Battle of Panipat was fought in 1526 CE between Babur and Ibrahim Lodi."
+    },
+    {
+      "id": "first-battle-panipat-q02",
+      "difficulty": "easy",
+      "q": "Who led the victorious forces at the First Battle of Panipat?",
+      "options": [
+        "Akbar",
+        "Babur",
+        "Humayun",
+        "Sher Shah Suri"
+      ],
+      "answer": 1,
+      "explanation": "Babur, a Timurid prince from Central Asia, led the victorious army at Panipat in 1526."
+    },
+    {
+      "id": "first-battle-panipat-q03",
+      "difficulty": "easy",
+      "q": "Who was the defeated ruler at the First Battle of Panipat?",
+      "options": [
+        "Rana Sanga",
+        "Hemu",
+        "Ibrahim Lodi",
+        "Siraj-ud-Daulah"
+      ],
+      "answer": 2,
+      "explanation": "Ibrahim Lodi, the last Sultan of the Lodi dynasty, was defeated and killed at Panipat."
+    },
+    {
+      "id": "first-battle-panipat-q04",
+      "difficulty": "easy",
+      "q": "Which empire was founded in India as a result of the First Battle of Panipat?",
+      "options": [
+        "The Maratha Empire",
+        "The Gupta Empire",
+        "The Maurya Empire",
+        "The Mughal Empire"
+      ],
+      "answer": 3,
+      "explanation": "Babur's victory at Panipat established the Mughal Empire in India."
+    },
+    {
+      "id": "first-battle-panipat-q05",
+      "difficulty": "easy",
+      "q": "Which Indian state did the First Battle of Panipat bring to an end?",
+      "options": [
+        "The Delhi Sultanate",
+        "The Vijayanagara Empire",
+        "The Bahmani Sultanate",
+        "The Sikh Empire"
+      ],
+      "answer": 0,
+      "explanation": "The defeat of Ibrahim Lodi ended the Delhi Sultanate, which had ruled since 1206."
+    },
+    {
+      "id": "first-battle-panipat-q06",
+      "difficulty": "easy",
+      "q": "The town of Panipat lies in which present-day Indian state?",
+      "options": [
+        "Punjab",
+        "Haryana",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "answer": 1,
+      "explanation": "Panipat is located in present-day Haryana, north of Delhi."
+    },
+    {
+      "id": "first-battle-panipat-q07",
+      "difficulty": "easy",
+      "q": "Which type of weaponry helped Babur's smaller army defeat the Lodi forces?",
+      "options": [
+        "War elephants",
+        "Naval cannon",
+        "Field artillery and guns",
+        "Iron-cased rockets"
+      ],
+      "answer": 2,
+      "explanation": "Babur's use of field artillery and matchlock guns was decisive at Panipat in 1526."
+    },
+    {
+      "id": "first-battle-panipat-q08",
+      "difficulty": "easy",
+      "q": "From which region did Babur, the victor of Panipat, originally come?",
+      "options": [
+        "Persia",
+        "Arabia",
+        "Bengal",
+        "Central Asia"
+      ],
+      "answer": 3,
+      "explanation": "Babur was a Timurid prince from Central Asia, descended from Timur and Genghis Khan."
+    },
+    {
+      "id": "first-battle-panipat-q09",
+      "difficulty": "easy",
+      "q": "Babur's forces at Panipat were generally described as which of the following?",
+      "options": [
+        "Greatly outnumbered",
+        "Vastly larger",
+        "Entirely naval",
+        "Composed only of elephants"
+      ],
+      "answer": 0,
+      "explanation": "Babur's army was outnumbered but triumphed through superior tactics and artillery."
+    },
+    {
+      "id": "first-battle-panipat-q10",
+      "difficulty": "easy",
+      "q": "The First Battle of Panipat marked the beginning of which era in Indian history?",
+      "options": [
+        "The Gupta golden age",
+        "Mughal rule in India",
+        "The Maratha confederacy",
+        "The Sangam age"
+      ],
+      "answer": 1,
+      "explanation": "The battle marked the start of Mughal rule in the Indian subcontinent."
+    },
+    {
+      "id": "first-battle-panipat-q11",
+      "difficulty": "medium",
+      "q": "The defensive tactic Babur used at Panipat, lashing carts together to shield his guns, is associated with which name?",
+      "options": [
+        "Tulughma",
+        "Chakravyuha",
+        "Araba (the Ottoman cart-laager)",
+        "Phalanx"
+      ],
+      "answer": 2,
+      "explanation": "Babur arranged carts tied with ropes, a tactic often linked to the Ottoman use of wagons (araba) to protect artillery."
+    },
+    {
+      "id": "first-battle-panipat-q12",
+      "difficulty": "medium",
+      "q": "Which flanking tactic, dividing the army into wings to encircle the enemy, did Babur employ at Panipat?",
+      "options": [
+        "Sarvatobhadra",
+        "Garuda vyuha",
+        "Testudo",
+        "Tulughma"
+      ],
+      "answer": 3,
+      "explanation": "Babur used the tulughma, a Central Asian tactic of flanking divisions to surround the Lodi army."
+    },
+    {
+      "id": "first-battle-panipat-q13",
+      "difficulty": "medium",
+      "q": "Which master gunner is credited with commanding Babur's artillery at the First Battle of Panipat?",
+      "options": [
+        "Ustad Ali Quli",
+        "Bairam Khan",
+        "Mir Baqi",
+        "Tardi Beg"
+      ],
+      "answer": 0,
+      "explanation": "Ustad Ali Quli is the gunner credited with managing Babur's cannon at Panipat in 1526; the Ottoman gunner Mustafa Rumi is chiefly associated with the later Battle of Khanwa."
+    },
+    {
+      "id": "first-battle-panipat-q14",
+      "difficulty": "medium",
+      "q": "Babur recorded his account of the Panipat campaign in which famous work?",
+      "options": [
+        "The Akbarnama",
+        "The Baburnama",
+        "The Ain-i-Akbari",
+        "The Tuzuk-i-Jahangiri"
+      ],
+      "answer": 1,
+      "explanation": "Babur described his conquests, including Panipat, in his memoir the Baburnama."
+    },
+    {
+      "id": "first-battle-panipat-q15",
+      "difficulty": "medium",
+      "q": "Roughly how large was Ibrahim Lodi's army at Panipat according to traditional accounts?",
+      "options": [
+        "Around 5,000 men",
+        "Around 500 men",
+        "Around 100,000 men",
+        "Around two million men"
+      ],
+      "answer": 2,
+      "explanation": "Traditional accounts put Ibrahim Lodi's force at roughly 100,000 men, far larger than Babur's army."
+    },
+    {
+      "id": "first-battle-panipat-q16",
+      "difficulty": "medium",
+      "q": "What distinction does Ibrahim Lodi hold regarding his death at Panipat?",
+      "options": [
+        "He fled the field unharmed",
+        "He surrendered and was pardoned",
+        "He abdicated before the battle",
+        "He was the only Delhi Sultan to die on a battlefield"
+      ],
+      "answer": 3,
+      "explanation": "Ibrahim Lodi is the only Sultan of Delhi known to have been killed in battle, dying at Panipat."
+    },
+    {
+      "id": "first-battle-panipat-q17",
+      "difficulty": "medium",
+      "q": "After his victory at Panipat, which city did Babur's forces move on to occupy first?",
+      "options": [
+        "Delhi",
+        "Lahore",
+        "Kabul",
+        "Agra"
+      ],
+      "answer": 0,
+      "explanation": "Following the battle, Babur secured Delhi, with his son Humayun pressing on toward Agra."
+    },
+    {
+      "id": "first-battle-panipat-q18",
+      "difficulty": "medium",
+      "q": "Which dynasty did Ibrahim Lodi belong to?",
+      "options": [
+        "The Tughlaq dynasty",
+        "The Lodi dynasty",
+        "The Khalji dynasty",
+        "The Sayyid dynasty"
+      ],
+      "answer": 1,
+      "explanation": "Ibrahim Lodi was the last ruler of the Lodi dynasty, the final dynasty of the Delhi Sultanate."
+    },
+    {
+      "id": "first-battle-panipat-q19",
+      "difficulty": "medium",
+      "q": "Babur claimed descent from which two famous conquerors?",
+      "options": [
+        "Alexander and Darius",
+        "Cyrus and Xerxes",
+        "Timur and Genghis Khan",
+        "Mahmud of Ghazni and Muhammad of Ghor"
+      ],
+      "answer": 2,
+      "explanation": "Babur was a Timurid on his father's side and descended from Genghis Khan on his mother's side."
+    },
+    {
+      "id": "first-battle-panipat-q20",
+      "difficulty": "medium",
+      "q": "Which earlier Babur victory in the Punjab set the stage for his march to Panipat?",
+      "options": [
+        "His conquest of Bengal",
+        "His sack of Vijayanagara",
+        "His siege of Golconda",
+        "His capture of Lahore and Dipalpur"
+      ],
+      "answer": 3,
+      "explanation": "Babur's earlier campaigns in the Punjab, including Lahore and Dipalpur, paved the way for his advance to Panipat."
+    },
+    {
+      "id": "first-battle-panipat-q21",
+      "difficulty": "medium",
+      "q": "Discontent among which group within Ibrahim Lodi's realm contributed to invitations urging Babur to invade?",
+      "options": [
+        "Afghan nobles and the governor of Punjab",
+        "Maratha chiefs",
+        "Rajput princes of the south",
+        "Tamil merchants"
+      ],
+      "answer": 0,
+      "explanation": "Disaffected Afghan nobles and Daulat Khan Lodi, governor of Punjab, encouraged Babur's invasion."
+    },
+    {
+      "id": "first-battle-panipat-q22",
+      "difficulty": "hard",
+      "q": "On approximately which date in April 1526 was the First Battle of Panipat fought?",
+      "options": [
+        "21 February 1526",
+        "21 April 1526",
+        "5 November 1526",
+        "27 December 1526"
+      ],
+      "answer": 1,
+      "explanation": "The battle was fought on or around 21 April 1526."
+    },
+    {
+      "id": "first-battle-panipat-q23",
+      "difficulty": "hard",
+      "q": "Babur stated this was which numbered expedition he had launched into Hindustan?",
+      "options": [
+        "His first",
+        "His third",
+        "His fifth",
+        "His tenth"
+      ],
+      "answer": 2,
+      "explanation": "In the Baburnama, Babur counted the Panipat campaign as his fifth expedition into Hindustan."
+    },
+    {
+      "id": "first-battle-panipat-q24",
+      "difficulty": "hard",
+      "q": "Which Lodi ally and ruler of Gwalior is traditionally said to have died fighting alongside Ibrahim Lodi at Panipat?",
+      "options": [
+        "Rana Sanga",
+        "Medini Rai",
+        "Silhadi",
+        "Vikramaditya of Gwalior"
+      ],
+      "answer": 3,
+      "explanation": "Vikramaditya (Vikramjit) of Gwalior is traditionally said to have fallen at Panipat fighting for Ibrahim Lodi."
+    },
+    {
+      "id": "first-battle-panipat-q25",
+      "difficulty": "hard",
+      "q": "Approximately how many days did Babur and Ibrahim Lodi face each other before the decisive engagement at Panipat?",
+      "options": [
+        "About a week of skirmishing and standoff",
+        "Exactly six months",
+        "A single afternoon with no delay",
+        "Over two years"
+      ],
+      "answer": 0,
+      "explanation": "The two armies faced off for roughly a week, with minor skirmishes, before the main battle was joined."
+    },
+    {
+      "id": "first-battle-panipat-q26",
+      "difficulty": "hard",
+      "q": "Babur reportedly entrusted the front of his line at Panipat to a defensive screen made largely of what?",
+      "options": [
+        "A stone rampart built overnight",
+        "Hundreds of bullock carts and gun emplacements",
+        "A line of trained war elephants",
+        "A flooded moat"
+      ],
+      "answer": 1,
+      "explanation": "Babur fortified his center with hundreds of carts tied together, with gaps left for his guns and cavalry."
+    },
+    {
+      "id": "first-battle-panipat-q27",
+      "difficulty": "hard",
+      "q": "Which son of Babur played a prominent role in the campaign and was sent ahead toward Agra after the victory?",
+      "options": [
+        "Kamran",
+        "Askari",
+        "Humayun",
+        "Hindal"
+      ],
+      "answer": 2,
+      "explanation": "Humayun, Babur's eldest son, took part in the campaign and advanced on Agra after Panipat."
+    },
+    {
+      "id": "first-battle-panipat-q28",
+      "difficulty": "hard",
+      "q": "The Koh-i-Noor diamond is traditionally said to have come into Babur's family's possession in connection with which post-Panipat event?",
+      "options": [
+        "A tribute from the Nizam of Hyderabad",
+        "The sack of Vijayanagara",
+        "A treaty with the Portuguese",
+        "The gift from the family of the slain Raja of Gwalior to Humayun at Agra"
+      ],
+      "answer": 3,
+      "explanation": "Tradition holds the great diamond was given to Humayun by the family of the Gwalior raja at Agra after Panipat."
+    },
+    {
+      "id": "first-battle-panipat-q29",
+      "difficulty": "hard",
+      "q": "Babur's victory at Panipat left him facing which formidable Rajput coalition the following year?",
+      "options": [
+        "Rana Sanga's Rajput confederacy at Khanwa",
+        "The Maratha confederacy",
+        "The Ahom kingdom",
+        "The Sikh misls"
+      ],
+      "answer": 0,
+      "explanation": "In 1527, the year after Panipat, Babur defeated Rana Sanga's Rajput confederacy at the Battle of Khanwa."
+    },
+    {
+      "id": "first-battle-panipat-q30",
+      "difficulty": "medium",
+      "q": "How long had the Delhi Sultanate lasted by the time it ended at Panipat in 1526?",
+      "options": [
+        "About 50 years",
+        "About 320 years (since 1206)",
+        "About 700 years",
+        "About 100 years"
+      ],
+      "answer": 1,
+      "explanation": "The Delhi Sultanate, founded in 1206, lasted about 320 years before ending at Panipat in 1526."
+    }
+  ]
+}

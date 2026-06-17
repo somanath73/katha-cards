@@ -1,0 +1,395 @@
+{
+  "cardId": "sikh-empire",
+  "questions": [
+    {
+      "id": "sikh-empire-q01",
+      "difficulty": "easy",
+      "q": "Who founded the Sikh Empire in 1799 CE?",
+      "options": [
+        "Guru Gobind Singh",
+        "Banda Singh Bahadur",
+        "Hari Singh Nalwa",
+        "Maharaja Ranjit Singh"
+      ],
+      "answer": 3,
+      "explanation": "The Sikh Empire was founded by Maharaja Ranjit Singh in 1799 CE."
+    },
+    {
+      "id": "sikh-empire-q02",
+      "difficulty": "easy",
+      "q": "The Sikh Empire ruled over which region of India?",
+      "options": [
+        "The Punjab and surrounding regions",
+        "Bengal",
+        "The Deccan plateau",
+        "Tamil country"
+      ],
+      "answer": 0,
+      "explanation": "It ruled the Punjab and surrounding regions of northwestern India."
+    },
+    {
+      "id": "sikh-empire-q03",
+      "difficulty": "easy",
+      "q": "In what year was the Sikh Empire founded?",
+      "options": [
+        "1849",
+        "1799",
+        "1707",
+        "1857"
+      ],
+      "answer": 1,
+      "explanation": "Ranjit Singh founded the empire in 1799 CE when he took Lahore."
+    },
+    {
+      "id": "sikh-empire-q04",
+      "difficulty": "easy",
+      "q": "The Sikh Empire unified what kind of smaller Sikh states or confederacies?",
+      "options": [
+        "The nawabs",
+        "The peshwas",
+        "The misls",
+        "The zamindaris"
+      ],
+      "answer": 2,
+      "explanation": "Ranjit Singh unified the various Sikh misls into a single empire."
+    },
+    {
+      "id": "sikh-empire-q05",
+      "difficulty": "easy",
+      "q": "The Sikh Empire was the last major Indian power to fall to whom?",
+      "options": [
+        "The Mughals",
+        "The Marathas",
+        "The Afghans",
+        "The British"
+      ],
+      "answer": 3,
+      "explanation": "It was the last major Indian power to fall to the British."
+    },
+    {
+      "id": "sikh-empire-q06",
+      "difficulty": "easy",
+      "q": "In what year did the Sikh Empire finally fall to the British?",
+      "options": [
+        "1849",
+        "1799",
+        "1818",
+        "1857"
+      ],
+      "answer": 0,
+      "explanation": "The empire was annexed by the British in 1849."
+    },
+    {
+      "id": "sikh-empire-q07",
+      "difficulty": "easy",
+      "q": "The Sikh Empire was especially known for what military strength?",
+      "options": [
+        "A large war-elephant corps only",
+        "A strong, modernised army",
+        "A powerful ocean navy",
+        "Mercenary pirates"
+      ],
+      "answer": 1,
+      "explanation": "It was known for a strong, modernised standing army."
+    },
+    {
+      "id": "sikh-empire-q08",
+      "difficulty": "easy",
+      "q": "Maharaja Ranjit Singh is popularly remembered by which nickname?",
+      "options": [
+        "The Tiger of Mysore",
+        "The Iron Sultan",
+        "The Lion of Punjab",
+        "The Indian Napoleon"
+      ],
+      "answer": 2,
+      "explanation": "Ranjit Singh is famously called the Lion of Punjab (Sher-e-Punjab)."
+    },
+    {
+      "id": "sikh-empire-q09",
+      "difficulty": "easy",
+      "q": "The Sikh Empire's ruling religion and identity was that of which faith?",
+      "options": [
+        "Jainism",
+        "Buddhism",
+        "Zoroastrianism",
+        "Sikhism"
+      ],
+      "answer": 3,
+      "explanation": "The empire was a Sikh state, though it ruled people of many faiths."
+    },
+    {
+      "id": "sikh-empire-q10",
+      "difficulty": "easy",
+      "q": "The Sikh Empire's heartland centred on which historic city?",
+      "options": [
+        "Lahore",
+        "Delhi",
+        "Calcutta",
+        "Madras"
+      ],
+      "answer": 0,
+      "explanation": "Lahore was the capital and heart of the Sikh Empire."
+    },
+    {
+      "id": "sikh-empire-q11",
+      "difficulty": "medium",
+      "q": "Which city served as the capital of the Sikh Empire?",
+      "options": [
+        "Amritsar",
+        "Lahore",
+        "Multan",
+        "Peshawar"
+      ],
+      "answer": 1,
+      "explanation": "Lahore was the political capital of the Sikh Empire."
+    },
+    {
+      "id": "sikh-empire-q12",
+      "difficulty": "medium",
+      "q": "Which famous diamond was held in the Sikh court before passing to the British in 1849?",
+      "options": [
+        "The Hope Diamond",
+        "The Orlov",
+        "The Koh-i-Noor",
+        "The Regent"
+      ],
+      "answer": 2,
+      "explanation": "The Koh-i-Noor was held by the Sikh court and surrendered after annexation in 1849."
+    },
+    {
+      "id": "sikh-empire-q13",
+      "difficulty": "medium",
+      "q": "Ranjit Singh modernised the Sikh army with the help of officers from where?",
+      "options": [
+        "The Ottoman Empire",
+        "Imperial China",
+        "The Maratha Peshwas",
+        "Europe (including French and Italian officers)"
+      ],
+      "answer": 3,
+      "explanation": "He hired European officers, including French and Italian veterans, to modernise his army."
+    },
+    {
+      "id": "sikh-empire-q14",
+      "difficulty": "medium",
+      "q": "The modernised regular infantry of the Sikh Empire was known as the what?",
+      "options": [
+        "Fauj-i-Khas / Sikh Khalsa Army",
+        "Sepoy Lines",
+        "Janissary Corps",
+        "Risala Bahadur"
+      ],
+      "answer": 0,
+      "explanation": "The regular force was the Sikh Khalsa Army, with an elite corps called the Fauj-i-Khas."
+    },
+    {
+      "id": "sikh-empire-q15",
+      "difficulty": "medium",
+      "q": "Which renowned general of the Sikh Empire expanded its frontier toward Peshawar and the northwest?",
+      "options": [
+        "Mir Jafar",
+        "Hari Singh Nalwa",
+        "Bairam Khan",
+        "Tantia Tope"
+      ],
+      "answer": 1,
+      "explanation": "Hari Singh Nalwa was a celebrated Sikh general who extended the frontier to the northwest."
+    },
+    {
+      "id": "sikh-empire-q16",
+      "difficulty": "medium",
+      "q": "The Anglo-Sikh Wars that ended the empire were fought in which broad period?",
+      "options": [
+        "The 1750s",
+        "The 1690s",
+        "The 1840s",
+        "The 1900s"
+      ],
+      "answer": 2,
+      "explanation": "The two Anglo-Sikh Wars were fought in the 1840s, ending in 1849."
+    },
+    {
+      "id": "sikh-empire-q17",
+      "difficulty": "medium",
+      "q": "Ranjit Singh captured which key city from the Afghans in 1818, extending the empire south?",
+      "options": [
+        "Agra",
+        "Lucknow",
+        "Patna",
+        "Multan"
+      ],
+      "answer": 3,
+      "explanation": "Ranjit Singh took Multan from Afghan control in 1818."
+    },
+    {
+      "id": "sikh-empire-q18",
+      "difficulty": "medium",
+      "q": "Ranjit Singh's empire captured which strategic city near the Khyber region in 1834?",
+      "options": [
+        "Peshawar",
+        "Kabul",
+        "Kandahar",
+        "Herat"
+      ],
+      "answer": 0,
+      "explanation": "The Sikh Empire captured Peshawar in 1834, pushing its frontier toward the Khyber."
+    },
+    {
+      "id": "sikh-empire-q19",
+      "difficulty": "medium",
+      "q": "Ranjit Singh contributed gold to which famous shrine, giving it its golden appearance?",
+      "options": [
+        "The Jagannath Temple at Puri",
+        "The Golden Temple (Harmandir Sahib) at Amritsar",
+        "The Meenakshi Temple at Madurai",
+        "The Somnath Temple"
+      ],
+      "answer": 1,
+      "explanation": "He funded the gilding of the Harmandir Sahib, giving rise to the name Golden Temple."
+    },
+    {
+      "id": "sikh-empire-q20",
+      "difficulty": "medium",
+      "q": "Ranjit Singh kept the British east of which river during his lifetime?",
+      "options": [
+        "The Ganges",
+        "The Narmada",
+        "The Sutlej",
+        "The Godavari"
+      ],
+      "answer": 2,
+      "explanation": "By treaty, Ranjit Singh kept the British east of the Sutlej during his reign."
+    },
+    {
+      "id": "sikh-empire-q21",
+      "difficulty": "medium",
+      "q": "The Sikh Empire was noted for what attitude toward its non-Sikh subjects?",
+      "options": [
+        "Forced mass conversion",
+        "Expulsion of all Hindus",
+        "Banning all Muslim worship",
+        "Religious tolerance"
+      ],
+      "answer": 3,
+      "explanation": "Ranjit Singh's rule was known for religious tolerance toward Hindus and Muslims alike."
+    },
+    {
+      "id": "sikh-empire-q22",
+      "difficulty": "medium",
+      "q": "In what year did Maharaja Ranjit Singh die, after which the empire weakened?",
+      "options": [
+        "1839",
+        "1799",
+        "1849",
+        "1857"
+      ],
+      "answer": 0,
+      "explanation": "Ranjit Singh died in 1839, and the empire declined into instability afterward."
+    },
+    {
+      "id": "sikh-empire-q23",
+      "difficulty": "hard",
+      "q": "The 1846 Treaty of Lahore, ending the First Anglo-Sikh War, ceded which region to the British?",
+      "options": [
+        "Bengal",
+        "Jalandhar Doab (and led to the sale of Kashmir)",
+        "Sindh",
+        "Gujarat"
+      ],
+      "answer": 1,
+      "explanation": "The Treaty of Lahore ceded the Jalandhar Doab and arranged the transfer of Kashmir to Gulab Singh."
+    },
+    {
+      "id": "sikh-empire-q24",
+      "difficulty": "hard",
+      "q": "Who was the last Maharaja of the Sikh Empire, deposed when Punjab was annexed in 1849?",
+      "options": [
+        "Sher Singh",
+        "Kharak Singh",
+        "Duleep Singh",
+        "Nau Nihal Singh"
+      ],
+      "answer": 2,
+      "explanation": "The boy-king Duleep Singh was the last Maharaja, deposed at the 1849 annexation."
+    },
+    {
+      "id": "sikh-empire-q25",
+      "difficulty": "hard",
+      "q": "The decisive battles of Chillianwala and Gujrat in 1849 belonged to which conflict?",
+      "options": [
+        "The First Anglo-Sikh War",
+        "The Anglo-Maratha Wars",
+        "The Anglo-Mysore Wars",
+        "The Second Anglo-Sikh War"
+      ],
+      "answer": 3,
+      "explanation": "Chillianwala and Gujrat were fought during the Second Anglo-Sikh War of 1848 to 1849."
+    },
+    {
+      "id": "sikh-empire-q26",
+      "difficulty": "hard",
+      "q": "Gulab Singh, who gained Kashmir after the First Anglo-Sikh War, founded which princely dynasty?",
+      "options": [
+        "The Dogra dynasty of Jammu and Kashmir",
+        "The Scindia dynasty of Gwalior",
+        "The Holkar dynasty of Indore",
+        "The Wadiyar dynasty of Mysore"
+      ],
+      "answer": 0,
+      "explanation": "Gulab Singh founded the Dogra dynasty that ruled Jammu and Kashmir."
+    },
+    {
+      "id": "sikh-empire-q27",
+      "difficulty": "hard",
+      "q": "Which European general organised the elite Fauj-i-Khas corps of the Sikh army?",
+      "options": [
+        "Robert Clive",
+        "Jean-Baptiste Ventura",
+        "Arthur Wellesley",
+        "Charles Napier"
+      ],
+      "answer": 1,
+      "explanation": "Jean-Baptiste Ventura, a French veteran, helped organise the elite Fauj-i-Khas."
+    },
+    {
+      "id": "sikh-empire-q28",
+      "difficulty": "hard",
+      "q": "The Sikh Empire's currency was struck not in the ruler's name but in the name of whom?",
+      "options": [
+        "The British monarch",
+        "The Mughal emperor",
+        "The Gurus (Nanakshahi coinage)",
+        "The Maratha Peshwa"
+      ],
+      "answer": 2,
+      "explanation": "Coins were issued as Nanakshahi currency in the name of the Gurus rather than Ranjit Singh."
+    },
+    {
+      "id": "sikh-empire-q29",
+      "difficulty": "hard",
+      "q": "At which 1837 battle did Hari Singh Nalwa fall while defending the empire's northwest frontier?",
+      "options": [
+        "Saragarhi",
+        "Aliwal",
+        "Sobraon",
+        "Jamrud"
+      ],
+      "answer": 3,
+      "explanation": "Hari Singh Nalwa was killed at the Battle of Jamrud near the Khyber in 1837."
+    },
+    {
+      "id": "sikh-empire-q30",
+      "difficulty": "hard",
+      "q": "Before unifying into the empire, the Sikh misls loosely coordinated through which institution?",
+      "options": [
+        "The Sarbat Khalsa / Dal Khalsa",
+        "The Mughal mansabdari",
+        "The East India Company board",
+        "The Maratha Ashtapradhan"
+      ],
+      "answer": 0,
+      "explanation": "The misls coordinated through the Sarbat Khalsa assembly and the combined Dal Khalsa."
+    }
+  ]
+}

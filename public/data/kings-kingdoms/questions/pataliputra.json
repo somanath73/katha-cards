@@ -1,0 +1,395 @@
+{
+  "cardId": "pataliputra",
+  "questions": [
+    {
+      "id": "pataliputra-q01",
+      "difficulty": "easy",
+      "q": "Pataliputra stood near which modern Indian city?",
+      "options": [
+        "Patna",
+        "Varanasi",
+        "Kolkata",
+        "Gaya"
+      ],
+      "answer": 0,
+      "explanation": "Pataliputra was located near present-day Patna in Bihar."
+    },
+    {
+      "id": "pataliputra-q02",
+      "difficulty": "easy",
+      "q": "Pataliputra served as the capital of which of these empires?",
+      "options": [
+        "The Chola Empire",
+        "The Mauryan Empire",
+        "The Mughal Empire",
+        "The Vijayanagara Empire"
+      ],
+      "answer": 1,
+      "explanation": "Pataliputra was the capital of the Mauryan Empire, among others."
+    },
+    {
+      "id": "pataliputra-q03",
+      "difficulty": "easy",
+      "q": "Which Greek envoy famously described Pataliputra as one of the largest cities of the ancient world?",
+      "options": [
+        "Herodotus",
+        "Pliny",
+        "Megasthenes",
+        "Ptolemy"
+      ],
+      "answer": 2,
+      "explanation": "The Greek ambassador Megasthenes described the splendour of Pataliputra in his Indica."
+    },
+    {
+      "id": "pataliputra-q04",
+      "difficulty": "easy",
+      "q": "Pataliputra was situated at the confluence of which type of geographic features?",
+      "options": [
+        "Two seas",
+        "Mountain passes",
+        "Desert oases",
+        "Major rivers"
+      ],
+      "answer": 3,
+      "explanation": "Pataliputra lay at the confluence of major rivers, giving it strong defences and trade access."
+    },
+    {
+      "id": "pataliputra-q05",
+      "difficulty": "easy",
+      "q": "Besides the Mauryas, which later great empire also used Pataliputra as a capital?",
+      "options": [
+        "The Gupta Empire",
+        "The Kushan Empire",
+        "The Pallava Empire",
+        "The Maratha Empire"
+      ],
+      "answer": 0,
+      "explanation": "Pataliputra served as a capital for the Magadhan, Mauryan, and later Gupta states."
+    },
+    {
+      "id": "pataliputra-q06",
+      "difficulty": "easy",
+      "q": "In which modern Indian state is the site of Pataliputra located?",
+      "options": [
+        "Uttar Pradesh",
+        "Bihar",
+        "West Bengal",
+        "Jharkhand"
+      ],
+      "answer": 1,
+      "explanation": "Pataliputra, near Patna, lies in the modern state of Bihar."
+    },
+    {
+      "id": "pataliputra-q07",
+      "difficulty": "easy",
+      "q": "Pataliputra is best remembered in history as a great what?",
+      "options": [
+        "Mountain fortress",
+        "Port on the western coast",
+        "Imperial capital city",
+        "Buddhist cave complex"
+      ],
+      "answer": 2,
+      "explanation": "Pataliputra was one of the ancient world's grand imperial capitals."
+    },
+    {
+      "id": "pataliputra-q08",
+      "difficulty": "easy",
+      "q": "On the banks of which great river system did Pataliputra grow?",
+      "options": [
+        "The Indus",
+        "The Godavari",
+        "The Narmada",
+        "The Ganges"
+      ],
+      "answer": 3,
+      "explanation": "Pataliputra rose on the Ganges plain near where major rivers met."
+    },
+    {
+      "id": "pataliputra-q09",
+      "difficulty": "easy",
+      "q": "Which emperor ruled the Mauryan Empire from Pataliputra at its height?",
+      "options": [
+        "Ashoka",
+        "Babur",
+        "Akbar",
+        "Harsha"
+      ],
+      "answer": 0,
+      "explanation": "Ashoka governed the Mauryan Empire from Pataliputra at its zenith."
+    },
+    {
+      "id": "pataliputra-q10",
+      "difficulty": "easy",
+      "q": "Which kingdom first made Pataliputra a centre of power before the Mauryas?",
+      "options": [
+        "Kalinga",
+        "Magadha",
+        "Gandhara",
+        "Kosala"
+      ],
+      "answer": 1,
+      "explanation": "Pataliputra was the great capital of the kingdom of Magadha before and during the Mauryan era."
+    },
+    {
+      "id": "pataliputra-q11",
+      "difficulty": "medium",
+      "q": "Which Magadhan ruler first fortified the village of Pataligrama that grew into Pataliputra?",
+      "options": [
+        "Bimbisara",
+        "Mahapadma Nanda",
+        "Ajatashatru",
+        "Chandragupta"
+      ],
+      "answer": 2,
+      "explanation": "Ajatashatru fortified Pataligrama in the 5th century BCE, the nucleus of the future Pataliputra."
+    },
+    {
+      "id": "pataliputra-q12",
+      "difficulty": "medium",
+      "q": "Which two rivers' confluence is most associated with the site of Pataliputra?",
+      "options": [
+        "The Yamuna and the Chambal",
+        "The Kaveri and the Kabini",
+        "The Beas and the Sutlej",
+        "The Ganges and the Son"
+      ],
+      "answer": 3,
+      "explanation": "Pataliputra lay near the confluence of the Ganges and the Son, with the Gandak and Punpun also nearby."
+    },
+    {
+      "id": "pataliputra-q13",
+      "difficulty": "medium",
+      "q": "Megasthenes recorded Pataliputra's Greek name as what?",
+      "options": [
+        "Palibothra",
+        "Taxila",
+        "Methora",
+        "Ozene"
+      ],
+      "answer": 0,
+      "explanation": "Megasthenes called the city Palibothra, the Greek rendering of Pataliputra."
+    },
+    {
+      "id": "pataliputra-q14",
+      "difficulty": "medium",
+      "q": "According to Megasthenes, the city of Pataliputra was protected by what kind of defences?",
+      "options": [
+        "A single stone keep",
+        "A wooden palisade wall with many towers and a moat",
+        "Floating pontoon barriers only",
+        "An underground tunnel network"
+      ],
+      "answer": 1,
+      "explanation": "Megasthenes described Pataliputra as enclosed by a timber palisade with hundreds of towers and a deep moat."
+    },
+    {
+      "id": "pataliputra-q15",
+      "difficulty": "medium",
+      "q": "Which Buddhist council was held at Pataliputra during the reign of Ashoka?",
+      "options": [
+        "The First Buddhist Council",
+        "The Fourth Buddhist Council",
+        "The Third Buddhist Council",
+        "The Second Buddhist Council"
+      ],
+      "answer": 2,
+      "explanation": "The Third Buddhist Council was convened at Pataliputra under Ashoka's patronage, around 250 BCE."
+    },
+    {
+      "id": "pataliputra-q16",
+      "difficulty": "medium",
+      "q": "Which Chinese pilgrim visited the ruins of Pataliputra during the Gupta era?",
+      "options": [
+        "Hsuan-tsang only",
+        "Zhang Qian",
+        "Marco Polo",
+        "Faxian (Fa-Hien)"
+      ],
+      "answer": 3,
+      "explanation": "The pilgrim Faxian described Pataliputra and the remains of Ashoka's palace during the Gupta period."
+    },
+    {
+      "id": "pataliputra-q17",
+      "difficulty": "medium",
+      "q": "The remains excavated at the Pataliputra site, including an 80-pillared hall, are found in which Patna locality?",
+      "options": [
+        "Kumrahar",
+        "Sarnath",
+        "Nalanda",
+        "Rajgir"
+      ],
+      "answer": 0,
+      "explanation": "Excavations at Kumrahar in Patna revealed the famous pillared hall of Mauryan Pataliputra."
+    },
+    {
+      "id": "pataliputra-q18",
+      "difficulty": "medium",
+      "q": "Which Gupta emperor made Pataliputra a principal seat of the revived empire in the 4th century CE?",
+      "options": [
+        "Kanishka",
+        "Chandragupta I",
+        "Harsha",
+        "Pulakeshin II"
+      ],
+      "answer": 1,
+      "explanation": "Chandragupta I of the Guptas raised the family to imperial status with Pataliputra among its key centres."
+    },
+    {
+      "id": "pataliputra-q19",
+      "difficulty": "medium",
+      "q": "The early Magadhan rulers had moved their capital to Pataliputra from which earlier hill-girt capital?",
+      "options": [
+        "Ujjain",
+        "Kaushambi",
+        "Rajagriha (Rajgir)",
+        "Mathura"
+      ],
+      "answer": 2,
+      "explanation": "Magadha's capital shifted from Rajagriha to Pataliputra as the kingdom expanded."
+    },
+    {
+      "id": "pataliputra-q20",
+      "difficulty": "medium",
+      "q": "Which Nanda-era ruler is often credited in tradition with shifting the capital firmly to Pataliputra before the Mauryas?",
+      "options": [
+        "Bimbisara",
+        "Ashoka",
+        "Brihadratha",
+        "The Shishunaga or Nanda rulers"
+      ],
+      "answer": 3,
+      "explanation": "The shift to Pataliputra is associated with the Shishunaga and Nanda phase of Magadhan rule before the Mauryas."
+    },
+    {
+      "id": "pataliputra-q21",
+      "difficulty": "medium",
+      "q": "Megasthenes reported the administration of Pataliputra was managed by a city council divided into how many boards?",
+      "options": [
+        "Six boards of five members each",
+        "Two boards",
+        "Ten boards",
+        "A single governor"
+      ],
+      "answer": 0,
+      "explanation": "Megasthenes wrote that Pataliputra was governed by a municipal commission of six boards, each of five members."
+    },
+    {
+      "id": "pataliputra-q22",
+      "difficulty": "medium",
+      "q": "What does the second element of the name 'Pataliputra' (putra) literally evoke in folk etymology?",
+      "options": [
+        "Fortress",
+        "Son or child",
+        "River",
+        "Market"
+      ],
+      "answer": 1,
+      "explanation": "The name is popularly linked to the Patali tree and 'putra' (son), behind folk legends of the city's origin."
+    },
+    {
+      "id": "pataliputra-q23",
+      "difficulty": "hard",
+      "q": "The Buddhist text the Mahaparinibbana Sutta records a prophecy by the Buddha about which place's future greatness?",
+      "options": [
+        "Lumbini",
+        "Kushinagar",
+        "Pataligrama (future Pataliputra)",
+        "Shravasti"
+      ],
+      "answer": 2,
+      "explanation": "The Buddha is said to have prophesied the future greatness of Pataligrama, which became Pataliputra."
+    },
+    {
+      "id": "pataliputra-q24",
+      "difficulty": "hard",
+      "q": "Excavated Mauryan wooden palisade remains at Pataliputra confirmed which classical writer's description?",
+      "options": [
+        "Arrian alone",
+        "Diodorus alone",
+        "Plutarch",
+        "Megasthenes"
+      ],
+      "answer": 3,
+      "explanation": "Discovery of the timber palisade at Bulandi Bagh corroborated Megasthenes' account of the city walls."
+    },
+    {
+      "id": "pataliputra-q25",
+      "difficulty": "hard",
+      "q": "Which archaeologist conducted important early excavations at Pataliputra in the early twentieth century?",
+      "options": [
+        "D. B. Spooner",
+        "John Marshall only",
+        "Mortimer Wheeler",
+        "Alexander Cunningham only"
+      ],
+      "answer": 0,
+      "explanation": "D. B. Spooner led notable excavations at Kumrahar and Bulandi Bagh, uncovering Mauryan Pataliputra."
+    },
+    {
+      "id": "pataliputra-q26",
+      "difficulty": "hard",
+      "q": "The pillared hall unearthed at Kumrahar is often compared in style to which foreign tradition?",
+      "options": [
+        "Egyptian hypostyle halls",
+        "Achaemenid Persian (Persepolis) pillared halls",
+        "Roman basilicas",
+        "Chinese pagodas"
+      ],
+      "answer": 1,
+      "explanation": "The Kumrahar pillared hall is often compared with Achaemenid Persian audience halls like those at Persepolis."
+    },
+    {
+      "id": "pataliputra-q27",
+      "difficulty": "hard",
+      "q": "By the time of the medieval period, Pataliputra had largely declined, partly due to repeated flooding from which river?",
+      "options": [
+        "The Indus",
+        "The Brahmaputra",
+        "The Son and shifting river courses",
+        "The Tapti"
+      ],
+      "answer": 2,
+      "explanation": "Shifting river courses and flooding contributed to Pataliputra's decline in the post-Gupta centuries."
+    },
+    {
+      "id": "pataliputra-q28",
+      "difficulty": "hard",
+      "q": "The Greek account states Pataliputra's palisade had roughly how many gates?",
+      "options": [
+        "Ten gates",
+        "Twelve gates",
+        "One hundred gates",
+        "Sixty-four gates"
+      ],
+      "answer": 3,
+      "explanation": "Megasthenes reported the wooden wall of Pataliputra was pierced by sixty-four gates and 570 towers."
+    },
+    {
+      "id": "pataliputra-q29",
+      "difficulty": "hard",
+      "q": "The Patali tree, from which the city's name is traditionally derived, is which kind of plant?",
+      "options": [
+        "A flowering trumpet-flower tree",
+        "A palm",
+        "A thorny shrub",
+        "A water lily"
+      ],
+      "answer": 0,
+      "explanation": "The Patali (Stereospermum) is a flowering trumpet-flower tree said to lend the city its name."
+    },
+    {
+      "id": "pataliputra-q30",
+      "difficulty": "hard",
+      "q": "Which later ruler is associated with renewed activity at the Pataliputra region before its eclipse by other centres?",
+      "options": [
+        "The Cholas of the far south",
+        "The Pala and Gupta successors of the region",
+        "The Pallavas of Kanchipuram",
+        "The Cheras of Kerala"
+      ],
+      "answer": 1,
+      "explanation": "After the Guptas, regional successors such as the Palas remained connected to the area before Pataliputra's eclipse."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "arthashastra",
+  "questions": [
+    {
+      "id": "arthashastra-q01",
+      "difficulty": "easy",
+      "q": "To whom is the Arthashastra traditionally attributed?",
+      "options": [
+        "Kautilya (Chanakya)",
+        "Panini",
+        "Valmiki",
+        "Patanjali"
+      ],
+      "answer": 0,
+      "explanation": "The Arthashastra is traditionally attributed to Kautilya, also known as Chanakya."
+    },
+    {
+      "id": "arthashastra-q02",
+      "difficulty": "easy",
+      "q": "What is the main subject of the Arthashastra?",
+      "options": [
+        "Dance and drama",
+        "Statecraft and administration",
+        "Yoga and meditation",
+        "Astronomy and the stars"
+      ],
+      "answer": 1,
+      "explanation": "The Arthashastra is a treatise on statecraft, economics, diplomacy, and military strategy."
+    },
+    {
+      "id": "arthashastra-q03",
+      "difficulty": "easy",
+      "q": "In which language was the Arthashastra composed?",
+      "options": [
+        "Tamil",
+        "Pali",
+        "Sanskrit",
+        "Prakrit"
+      ],
+      "answer": 2,
+      "explanation": "The Arthashastra was composed in Sanskrit."
+    },
+    {
+      "id": "arthashastra-q04",
+      "difficulty": "easy",
+      "q": "When was the Arthashastra rediscovered in modern times?",
+      "options": [
+        "In the eighteenth century",
+        "In the Middle Ages",
+        "In ancient Roman times",
+        "In the early twentieth century"
+      ],
+      "answer": 3,
+      "explanation": "The text was rediscovered in the early twentieth century after being long lost."
+    },
+    {
+      "id": "arthashastra-q05",
+      "difficulty": "easy",
+      "q": "Kautilya, the author of the Arthashastra, is associated with which empire's founding?",
+      "options": [
+        "The Mauryan Empire",
+        "The Gupta Empire",
+        "The Mughal Empire",
+        "The Chola Empire"
+      ],
+      "answer": 0,
+      "explanation": "Kautilya is traditionally credited with helping found the Mauryan Empire alongside Chandragupta."
+    },
+    {
+      "id": "arthashastra-q06",
+      "difficulty": "easy",
+      "q": "The word 'Arthashastra' broadly refers to the science of what?",
+      "options": [
+        "Spiritual liberation",
+        "Material gain and governance",
+        "Poetic meter",
+        "Temple architecture"
+      ],
+      "answer": 1,
+      "explanation": "Artha relates to wealth and worldly success, so the Arthashastra is the science of statecraft and prosperity."
+    },
+    {
+      "id": "arthashastra-q07",
+      "difficulty": "easy",
+      "q": "The Arthashastra describes how a ruler should manage which of the following?",
+      "options": [
+        "A monastery's prayers",
+        "A theatre troupe",
+        "A kingdom and its economy",
+        "A pilgrimage route only"
+      ],
+      "answer": 2,
+      "explanation": "The Arthashastra offers a detailed, pragmatic vision of how a kingdom and its economy should be administered."
+    },
+    {
+      "id": "arthashastra-q08",
+      "difficulty": "easy",
+      "q": "Which figure is another name for the author Kautilya?",
+      "options": [
+        "Megasthenes",
+        "Ashoka",
+        "Bindusara",
+        "Chanakya"
+      ],
+      "answer": 3,
+      "explanation": "Kautilya is also known as Chanakya, the strategist who guided Chandragupta Maurya."
+    },
+    {
+      "id": "arthashastra-q09",
+      "difficulty": "easy",
+      "q": "The Arthashastra is best described as a manual of what?",
+      "options": [
+        "Statecraft",
+        "Cooking",
+        "Sailing",
+        "Painting"
+      ],
+      "answer": 0,
+      "explanation": "The Arthashastra is famed as a manual of statecraft and government."
+    },
+    {
+      "id": "arthashastra-q10",
+      "difficulty": "easy",
+      "q": "Besides administration, which other field does the Arthashastra cover in detail?",
+      "options": [
+        "Sculpture techniques",
+        "Warfare and military strategy",
+        "Musical composition",
+        "Gemstone polishing only"
+      ],
+      "answer": 1,
+      "explanation": "The Arthashastra covers warfare and military strategy in addition to economics and diplomacy."
+    },
+    {
+      "id": "arthashastra-q11",
+      "difficulty": "medium",
+      "q": "Which scholar rediscovered and edited the Arthashastra manuscript in the early twentieth century?",
+      "options": [
+        "Max Muller",
+        "William Jones",
+        "R. Shamasastry",
+        "James Prinsep"
+      ],
+      "answer": 2,
+      "explanation": "R. Shamasastry rediscovered a manuscript of the Arthashastra and published it in 1909."
+    },
+    {
+      "id": "arthashastra-q12",
+      "difficulty": "medium",
+      "q": "The Arthashastra is divided into how many books, or 'adhikaranas'?",
+      "options": [
+        "Five",
+        "Twenty-five",
+        "Three",
+        "Fifteen"
+      ],
+      "answer": 3,
+      "explanation": "The Arthashastra is organized into fifteen books (adhikaranas) covering different aspects of governance."
+    },
+    {
+      "id": "arthashastra-q13",
+      "difficulty": "medium",
+      "q": "The Arthashastra's foreign policy theory is famously built around which conceptual circle of states?",
+      "options": [
+        "The mandala (circle of kings)",
+        "The chakravartin wheel",
+        "The sangha assembly",
+        "The varna order"
+      ],
+      "answer": 0,
+      "explanation": "Kautilya's mandala theory analyzes a king's neighbors as a circle of potential allies and enemies."
+    },
+    {
+      "id": "arthashastra-q14",
+      "difficulty": "medium",
+      "q": "In the Arthashastra, which official, the 'amatya', refers to what?",
+      "options": [
+        "A common foot soldier",
+        "A minister or high counselor",
+        "A village priest",
+        "A travelling merchant"
+      ],
+      "answer": 1,
+      "explanation": "The amatya in the Arthashastra denotes ministers and high counselors who help run the state."
+    },
+    {
+      "id": "arthashastra-q15",
+      "difficulty": "medium",
+      "q": "The Arthashastra advises rulers to make extensive use of which intelligence resource?",
+      "options": [
+        "Foreign mercenaries only",
+        "Astrologers exclusively",
+        "A network of spies",
+        "Wandering minstrels"
+      ],
+      "answer": 2,
+      "explanation": "The Arthashastra recommends an elaborate network of spies and informers for the king."
+    },
+    {
+      "id": "arthashastra-q16",
+      "difficulty": "medium",
+      "q": "The Arthashastra outlines a theory of the state built on how many constituent elements (prakritis)?",
+      "options": [
+        "Three",
+        "Twelve",
+        "Four",
+        "Seven (saptanga)"
+      ],
+      "answer": 3,
+      "explanation": "Kautilya's saptanga theory holds the state to consist of seven limbs, including the king, ministers, territory, and treasury."
+    },
+    {
+      "id": "arthashastra-q17",
+      "difficulty": "medium",
+      "q": "Which of the following is one of the seven 'limbs' of the state in the Arthashastra?",
+      "options": [
+        "The treasury (kosha)",
+        "The temple bell",
+        "The royal elephant alone",
+        "The court poet"
+      ],
+      "answer": 0,
+      "explanation": "The treasury (kosha) is one of the seven essential limbs (prakritis) of the state in Kautilya's theory."
+    },
+    {
+      "id": "arthashastra-q18",
+      "difficulty": "medium",
+      "q": "The Arthashastra discusses the four 'upayas', the means by which a king deals with rivals. Which is one of them?",
+      "options": [
+        "Yajna (sacrifice)",
+        "Sama (conciliation)",
+        "Tapas (austerity)",
+        "Dana to monks"
+      ],
+      "answer": 1,
+      "explanation": "The four upayas are sama (conciliation), dana (gifts), bheda (sowing dissension), and danda (force)."
+    },
+    {
+      "id": "arthashastra-q19",
+      "difficulty": "medium",
+      "q": "The Arthashastra prescribes detailed rules for which key revenue source of the kingdom?",
+      "options": [
+        "Lottery winnings",
+        "Foreign aid grants",
+        "Land taxation and agriculture",
+        "Inheritance from monasteries"
+      ],
+      "answer": 2,
+      "explanation": "The Arthashastra sets out elaborate rules on land revenue, agriculture, and taxation as the kingdom's mainstay."
+    },
+    {
+      "id": "arthashastra-q20",
+      "difficulty": "medium",
+      "q": "The official called the 'samaharta' in the Arthashastra was chiefly responsible for what?",
+      "options": [
+        "Command of the navy",
+        "Royal coronation rituals",
+        "Education of princes",
+        "Collection of revenue"
+      ],
+      "answer": 3,
+      "explanation": "The samaharta was the chief collector of revenue in the administrative scheme of the Arthashastra."
+    },
+    {
+      "id": "arthashastra-q21",
+      "difficulty": "medium",
+      "q": "The Arthashastra is often compared with which later Western work on power and politics?",
+      "options": [
+        "Machiavelli's The Prince",
+        "Plato's Republic",
+        "Aristotle's Poetics",
+        "More's Utopia"
+      ],
+      "answer": 0,
+      "explanation": "For its pragmatic realism, the Arthashastra is frequently compared to Machiavelli's The Prince."
+    },
+    {
+      "id": "arthashastra-q22",
+      "difficulty": "medium",
+      "q": "The Arthashastra deals with the office of the 'superintendents' (adhyakshas) who oversaw what?",
+      "options": [
+        "Only religious festivals",
+        "Various departments of the economy",
+        "The royal harem alone",
+        "Foreign embassies only"
+      ],
+      "answer": 1,
+      "explanation": "The adhyakshas were superintendents managing economic departments such as mines, trade, forests, and weaving."
+    },
+    {
+      "id": "arthashastra-q23",
+      "difficulty": "hard",
+      "q": "In which year did R. Shamasastry first publish the rediscovered Sanskrit text of the Arthashastra?",
+      "options": [
+        "1858",
+        "1947",
+        "1909",
+        "1992"
+      ],
+      "answer": 2,
+      "explanation": "Shamasastry published the Sanskrit text in 1909, following an English translation a few years later."
+    },
+    {
+      "id": "arthashastra-q24",
+      "difficulty": "hard",
+      "q": "Modern scholars debate the Arthashastra's date, with many arguing the surviving text was compiled over several centuries around which era?",
+      "options": [
+        "The 10th century CE",
+        "The 6th century BCE",
+        "The 15th century CE",
+        "Roughly between the 2nd century BCE and 3rd century CE"
+      ],
+      "answer": 3,
+      "explanation": "While tradition ties it to Chanakya, many scholars argue the received text reached its form between about the 2nd century BCE and 3rd century CE."
+    },
+    {
+      "id": "arthashastra-q25",
+      "difficulty": "hard",
+      "q": "The Arthashastra names a hierarchy of earlier authorities; which is repeatedly cited and criticized by Kautilya?",
+      "options": [
+        "The school of Brihaspati and Ushanas (Shukra)",
+        "The Buddhist Tripitaka",
+        "The Greek philosophers",
+        "The Sangam poets"
+      ],
+      "answer": 0,
+      "explanation": "Kautilya cites and disputes earlier teachers and schools such as Brihaspati and Ushanas (Shukra) on points of policy."
+    },
+    {
+      "id": "arthashastra-q26",
+      "difficulty": "hard",
+      "q": "The Arthashastra contains a detailed section on the 'sangrahana', 'kharvatika', and 'dronamukha', which are types of what?",
+      "options": [
+        "War elephants",
+        "Administrative settlement units",
+        "Coins",
+        "Weapons"
+      ],
+      "answer": 1,
+      "explanation": "These are grades of administrative settlements or revenue units in the Arthashastra's scheme of territory."
+    },
+    {
+      "id": "arthashastra-q27",
+      "difficulty": "hard",
+      "q": "The Arthashastra prescribes standards for coinage; the silver coin it discusses is called the what?",
+      "options": [
+        "Dinar",
+        "Tanka",
+        "Pana (karshapana)",
+        "Rupiya"
+      ],
+      "answer": 2,
+      "explanation": "The Arthashastra discusses the silver pana or karshapana and the duties of the mint master (lakshanadhyaksha)."
+    },
+    {
+      "id": "arthashastra-q28",
+      "difficulty": "hard",
+      "q": "The Arthashastra's concluding verses contain a colophon that some read as identifying the author with which historical role?",
+      "options": [
+        "A Buddhist monk of Nalanda",
+        "A Chola court astronomer",
+        "A Gupta-era poet",
+        "The minister who destroyed the Nanda power and won the empire"
+      ],
+      "answer": 3,
+      "explanation": "A closing verse credits the author with rescuing the science and the realm 'from the Nanda king', linking him to Chanakya's legend."
+    },
+    {
+      "id": "arthashastra-q29",
+      "difficulty": "hard",
+      "q": "The Arthashastra devotes attention to 'fort' types; the water-fort is termed what?",
+      "options": [
+        "Audaka (or audaka-durga)",
+        "Giri-durga",
+        "Vana-durga",
+        "Maru-durga"
+      ],
+      "answer": 0,
+      "explanation": "Kautilya classifies forts including the water-fort (audaka), hill-fort (giri), forest-fort (vana), and desert-fort (dhanvana)."
+    },
+    {
+      "id": "arthashastra-q30",
+      "difficulty": "hard",
+      "q": "The Arthashastra outlines six measures of foreign policy known collectively as the what?",
+      "options": [
+        "Trivarga",
+        "Shadgunya (six-fold policy)",
+        "Panchatantra",
+        "Chaturanga"
+      ],
+      "answer": 1,
+      "explanation": "Kautilya's shadgunya is the six-fold policy: peace, war, neutrality, marching, alliance, and dual policy."
+    }
+  ]
+}

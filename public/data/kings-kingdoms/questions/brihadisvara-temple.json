@@ -1,0 +1,395 @@
+{
+  "cardId": "brihadisvara-temple",
+  "questions": [
+    {
+      "id": "brihadisvara-temple-q01",
+      "difficulty": "easy",
+      "q": "In which city does the Brihadisvara temple stand?",
+      "options": [
+        "Madurai",
+        "Kanchipuram",
+        "Thanjavur",
+        "Chidambaram"
+      ],
+      "answer": 2,
+      "explanation": "The Brihadisvara temple was built at Thanjavur, the Chola capital."
+    },
+    {
+      "id": "brihadisvara-temple-q02",
+      "difficulty": "easy",
+      "q": "Which Chola emperor built the Brihadisvara temple?",
+      "options": [
+        "Rajendra Chola I",
+        "Kulottunga I",
+        "Rajaraja Chola I",
+        "Vijayalaya"
+      ],
+      "answer": 2,
+      "explanation": "The temple was commissioned by Rajaraja Chola I."
+    },
+    {
+      "id": "brihadisvara-temple-q03",
+      "difficulty": "easy",
+      "q": "To which deity is the Brihadisvara temple dedicated?",
+      "options": [
+        "Vishnu",
+        "Shiva",
+        "Surya",
+        "Ganesha"
+      ],
+      "answer": 1,
+      "explanation": "The temple is a great Shiva temple, with a colossal lingam in its sanctum."
+    },
+    {
+      "id": "brihadisvara-temple-q04",
+      "difficulty": "easy",
+      "q": "The Brihadisvara temple is a fine example of which architectural style?",
+      "options": [
+        "Dravidian (Chola)",
+        "Indo-Islamic",
+        "Nagara (North Indian)",
+        "Indo-Gothic"
+      ],
+      "answer": 0,
+      "explanation": "It is a masterpiece of Dravidian temple architecture as developed by the Cholas."
+    },
+    {
+      "id": "brihadisvara-temple-q05",
+      "difficulty": "easy",
+      "q": "Around which year was the Brihadisvara temple completed?",
+      "options": [
+        "1250 CE",
+        "850 CE",
+        "1565 CE",
+        "1010 CE"
+      ],
+      "answer": 3,
+      "explanation": "The temple was completed around 1010 CE during Rajaraja I's reign."
+    },
+    {
+      "id": "brihadisvara-temple-q06",
+      "difficulty": "easy",
+      "q": "The towering pyramidal structure over the sanctum of the temple is called what?",
+      "options": [
+        "Vimana",
+        "Minaret",
+        "Stupa",
+        "Gopuram base"
+      ],
+      "answer": 0,
+      "explanation": "The tower rising over the main sanctum is the vimana, the temple's most famous feature."
+    },
+    {
+      "id": "brihadisvara-temple-q07",
+      "difficulty": "easy",
+      "q": "The Brihadisvara temple holds what international status?",
+      "options": [
+        "Seven Wonders of the World",
+        "Ramsar wetland site",
+        "Olympic heritage monument",
+        "UNESCO World Heritage Site"
+      ],
+      "answer": 3,
+      "explanation": "The temple is inscribed as a UNESCO World Heritage Site among the Great Living Chola Temples."
+    },
+    {
+      "id": "brihadisvara-temple-q08",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state is the Brihadisvara temple located?",
+      "options": [
+        "Karnataka",
+        "Kerala",
+        "Andhra Pradesh",
+        "Tamil Nadu"
+      ],
+      "answer": 3,
+      "explanation": "Thanjavur and its great temple lie in the state of Tamil Nadu."
+    },
+    {
+      "id": "brihadisvara-temple-q09",
+      "difficulty": "easy",
+      "q": "A huge monolithic statue of which mount of Shiva guards the temple?",
+      "options": [
+        "Garuda the eagle",
+        "Hamsa the swan",
+        "Nandi the bull",
+        "A lion"
+      ],
+      "answer": 2,
+      "explanation": "A massive monolithic Nandi (Shiva's bull mount) faces the sanctum."
+    },
+    {
+      "id": "brihadisvara-temple-q10",
+      "difficulty": "easy",
+      "q": "The temple is one of a group of UNESCO-listed monuments collectively known as what?",
+      "options": [
+        "Great Living Chola Temples",
+        "Group of Monuments at Hampi",
+        "Western Ghats temples",
+        "Khajuraho Group"
+      ],
+      "answer": 0,
+      "explanation": "It is part of the 'Great Living Chola Temples' World Heritage listing."
+    },
+    {
+      "id": "brihadisvara-temple-q11",
+      "difficulty": "medium",
+      "q": "What is the original name given to the temple by Rajaraja I himself?",
+      "options": [
+        "Gangaikondacholeshwaram",
+        "Rajarajeshwaram",
+        "Airavateshwara",
+        "Kailasanatha"
+      ],
+      "answer": 1,
+      "explanation": "Rajaraja named the temple Rajarajeshwaram after himself; 'Brihadisvara' is a later Sanskritised name."
+    },
+    {
+      "id": "brihadisvara-temple-q12",
+      "difficulty": "medium",
+      "q": "Approximately how tall is the temple's main vimana?",
+      "options": [
+        "About 66 metres",
+        "About 25 metres",
+        "About 110 metres",
+        "About 12 metres"
+      ],
+      "answer": 0,
+      "explanation": "The vimana rises to roughly 66 metres (about 216 feet), making it one of the tallest of its era."
+    },
+    {
+      "id": "brihadisvara-temple-q13",
+      "difficulty": "medium",
+      "q": "The crowning stone (shikhara/cupola) atop the vimana is a single block weighing roughly how much?",
+      "options": [
+        "About 80 tonnes",
+        "About 5 tonnes",
+        "About 400 tonnes",
+        "About 1 tonne"
+      ],
+      "answer": 0,
+      "explanation": "The massive capstone is estimated to weigh around 80 tonnes, a feat of engineering."
+    },
+    {
+      "id": "brihadisvara-temple-q14",
+      "difficulty": "medium",
+      "q": "Of what primary material is the Brihadisvara temple chiefly built?",
+      "options": [
+        "Red sandstone",
+        "Granite",
+        "White marble",
+        "Sun-dried brick"
+      ],
+      "answer": 1,
+      "explanation": "The temple is constructed largely of granite, unusual given its scale and the local geology."
+    },
+    {
+      "id": "brihadisvara-temple-q15",
+      "difficulty": "medium",
+      "q": "The detailed inscriptions covering the temple's plinth chiefly record what information?",
+      "options": [
+        "Recipes for temple food",
+        "Star charts and eclipses",
+        "Naval battle reports",
+        "Endowments, gifts and temple personnel"
+      ],
+      "answer": 3,
+      "explanation": "The base inscriptions list extensive gifts of gold, land and the many servants attached to the temple."
+    },
+    {
+      "id": "brihadisvara-temple-q16",
+      "difficulty": "medium",
+      "q": "The temple's sanctum houses one of the largest examples of which sacred object?",
+      "options": [
+        "A reclining Vishnu",
+        "A Shiva lingam",
+        "A seated Buddha",
+        "A Surya chariot"
+      ],
+      "answer": 1,
+      "explanation": "The garbhagriha enshrines a very large lingam, the aniconic form of Shiva."
+    },
+    {
+      "id": "brihadisvara-temple-q17",
+      "difficulty": "medium",
+      "q": "Fresco-style wall paintings of which period were discovered beneath later layers in the temple?",
+      "options": [
+        "Mughal period",
+        "British colonial period",
+        "Chola period",
+        "Vijayanagara period only"
+      ],
+      "answer": 2,
+      "explanation": "Original Chola-era frescoes were found beneath later Nayaka paintings within the temple corridors."
+    },
+    {
+      "id": "brihadisvara-temple-q18",
+      "difficulty": "medium",
+      "q": "Who is traditionally named as the chief architect of the Brihadisvara temple?",
+      "options": [
+        "Vishvakarma of Ujjain",
+        "Kunjara Mallan Raja Raja Perunthachan",
+        "Mamalla",
+        "Sthapati Ganapati"
+      ],
+      "answer": 1,
+      "explanation": "Inscriptions name Kunjara Mallan Raja Raja Perunthachan as the principal architect."
+    },
+    {
+      "id": "brihadisvara-temple-q19",
+      "difficulty": "medium",
+      "q": "The temple complex is entered through grand gateway towers known as what?",
+      "options": [
+        "Toranas",
+        "Gopurams",
+        "Pylons",
+        "Iwans"
+      ],
+      "answer": 1,
+      "explanation": "Visitors pass through monumental gopurams (gateway towers) to reach the temple courtyard."
+    },
+    {
+      "id": "brihadisvara-temple-q20",
+      "difficulty": "medium",
+      "q": "The 2010 celebrations at the temple marked which anniversary of its completion?",
+      "options": [
+        "500th",
+        "750th",
+        "1000th (millennium)",
+        "250th"
+      ],
+      "answer": 2,
+      "explanation": "In 2010 grand festivities celebrated the temple's 1000th anniversary."
+    },
+    {
+      "id": "brihadisvara-temple-q21",
+      "difficulty": "medium",
+      "q": "Carvings on the temple walls depict numerous postures of which classical art form?",
+      "options": [
+        "Bharatanatyam dance (karanas)",
+        "Kalaripayattu combat",
+        "Yoga asanas only",
+        "Kathak footwork"
+      ],
+      "answer": 0,
+      "explanation": "Sculpted panels illustrate the karanas, the basic dance poses of Bharatanatyam."
+    },
+    {
+      "id": "brihadisvara-temple-q22",
+      "difficulty": "medium",
+      "q": "Which dynasty, ruling Thanjavur after the Cholas, added shrines and paintings to the temple complex?",
+      "options": [
+        "Mughals",
+        "Hoysalas",
+        "Nayaks (and later Marathas)",
+        "Pallavas"
+      ],
+      "answer": 2,
+      "explanation": "The Thanjavur Nayaks and later the Marathas made additions to the temple over the centuries."
+    },
+    {
+      "id": "brihadisvara-temple-q23",
+      "difficulty": "hard",
+      "q": "A persistent popular claim about the vimana's capstone (that its shadow never falls on the ground at noon) is best described as what?",
+      "options": [
+        "A popular myth not supported by evidence",
+        "A proven scientific fact",
+        "An inscription written by Rajaraja",
+        "A UNESCO designation criterion"
+      ],
+      "answer": 0,
+      "explanation": "The 'no shadow at noon' story is a widely repeated legend; the tower does cast a shadow and the claim is not factual."
+    },
+    {
+      "id": "brihadisvara-temple-q24",
+      "difficulty": "hard",
+      "q": "The temple's Nandi was carved from a single stone roughly how long?",
+      "options": [
+        "About 2 metres long",
+        "About 6 metres long",
+        "About 20 metres long",
+        "About 1 metre long"
+      ],
+      "answer": 1,
+      "explanation": "The monolithic Nandi is roughly 6 metres (about 19 feet) long, one of the largest in India."
+    },
+    {
+      "id": "brihadisvara-temple-q25",
+      "difficulty": "hard",
+      "q": "An inner wall of the temple bears a rare early depiction of which dance form by Shiva, accompanied by detailed sculpture?",
+      "options": [
+        "The Garba dance",
+        "The Bhangra",
+        "The Manipuri Raas",
+        "Nataraja's cosmic dance poses"
+      ],
+      "answer": 3,
+      "explanation": "The temple includes notable depictions of Shiva as the dancing Nataraja and the karana dance poses."
+    },
+    {
+      "id": "brihadisvara-temple-q26",
+      "difficulty": "hard",
+      "q": "How is the enormous capstone believed to have been raised to the top of the vimana?",
+      "options": [
+        "Lifted by water-balloon flotation",
+        "Raised with iron cranes",
+        "Carried by trained elephants up stairs",
+        "Hauled up a long inclined ramp"
+      ],
+      "answer": 3,
+      "explanation": "Tradition holds that a great inclined earthen ramp was used to drag the capstone to the summit."
+    },
+    {
+      "id": "brihadisvara-temple-q27",
+      "difficulty": "hard",
+      "q": "The temple was inscribed on the UNESCO World Heritage list in which year?",
+      "options": [
+        "1965",
+        "2004",
+        "1987",
+        "2014"
+      ],
+      "answer": 2,
+      "explanation": "The Brihadisvara temple was added to the World Heritage list in 1987."
+    },
+    {
+      "id": "brihadisvara-temple-q28",
+      "difficulty": "hard",
+      "q": "Bronze images of which Chola-era saints and deities were donated to and housed in the temple, reflecting Chola metalwork?",
+      "options": [
+        "Shaiva saints and forms of Shiva",
+        "Jain Tirthankaras",
+        "Buddhist bodhisattvas",
+        "Vaishnava Alvars only"
+      ],
+      "answer": 0,
+      "explanation": "The temple received numerous bronze images of Shaiva saints and forms of Shiva, hallmarks of Chola bronze art."
+    },
+    {
+      "id": "brihadisvara-temple-q29",
+      "difficulty": "hard",
+      "q": "The temple's sister monument, Gangaikondacholisvaram, was built by whom in emulation of it?",
+      "options": [
+        "Kulottunga III",
+        "Rajaraja II",
+        "Aditya Karikala",
+        "Rajendra Chola I"
+      ],
+      "answer": 3,
+      "explanation": "Rajaraja's son Rajendra I built the closely related temple at his new capital Gangaikonda Cholapuram."
+    },
+    {
+      "id": "brihadisvara-temple-q30",
+      "difficulty": "hard",
+      "q": "The outer prakara (enclosure) wall of the temple is notable for housing what feature along its inner side?",
+      "options": [
+        "A moat full of crocodiles",
+        "A cloister with rows of lingams and a pillared corridor",
+        "An underground granary",
+        "A row of cannon emplacements"
+      ],
+      "answer": 1,
+      "explanation": "The enclosing wall has a long pillared cloister lined with many lingams encircling the courtyard."
+    }
+  ]
+}

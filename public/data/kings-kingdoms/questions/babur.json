@@ -1,0 +1,395 @@
+{
+  "cardId": "babur",
+  "questions": [
+    {
+      "id": "babur-q01",
+      "difficulty": "easy",
+      "q": "Which empire did Babur found in India?",
+      "options": [
+        "The Mughal Empire",
+        "The Maratha Empire",
+        "The Gupta Empire",
+        "The Maurya Empire"
+      ],
+      "answer": 0,
+      "explanation": "Babur founded the Mughal Empire in India in 1526."
+    },
+    {
+      "id": "babur-q02",
+      "difficulty": "easy",
+      "q": "In which year did Babur win the First Battle of Panipat?",
+      "options": [
+        "1556 CE",
+        "1526 CE",
+        "1761 CE",
+        "1192 CE"
+      ],
+      "answer": 1,
+      "explanation": "Babur defeated Ibrahim Lodi at the First Battle of Panipat in 1526 CE."
+    },
+    {
+      "id": "babur-q03",
+      "difficulty": "easy",
+      "q": "Whom did Babur defeat at the First Battle of Panipat?",
+      "options": [
+        "Rana Sanga",
+        "Sher Shah Suri",
+        "Ibrahim Lodi",
+        "Hemu"
+      ],
+      "answer": 2,
+      "explanation": "Babur defeated Ibrahim Lodi, the last Lodi sultan of Delhi, at Panipat."
+    },
+    {
+      "id": "babur-q04",
+      "difficulty": "easy",
+      "q": "From which broad region did Babur originally come?",
+      "options": [
+        "Persia proper",
+        "Bengal",
+        "Tamil Nadu",
+        "Central Asia"
+      ],
+      "answer": 3,
+      "explanation": "Babur was a Timurid prince originating from Central Asia."
+    },
+    {
+      "id": "babur-q05",
+      "difficulty": "easy",
+      "q": "Babur wrote a famous memoir known by what name?",
+      "options": [
+        "The Baburnama",
+        "The Arthashastra",
+        "The Akbarnama",
+        "The Ain-i-Akbari"
+      ],
+      "answer": 0,
+      "explanation": "Babur left a vivid memoir, the Baburnama, describing his life and conquests."
+    },
+    {
+      "id": "babur-q06",
+      "difficulty": "easy",
+      "q": "Babur belonged to which dynasty by descent?",
+      "options": [
+        "The Lodis",
+        "The Timurids",
+        "The Cholas",
+        "The Pallavas"
+      ],
+      "answer": 1,
+      "explanation": "Babur was a Timurid prince, descended from the line of Timur."
+    },
+    {
+      "id": "babur-q07",
+      "difficulty": "easy",
+      "q": "Babur is remembered as both a soldier and a what?",
+      "options": [
+        "Sailor",
+        "Architect of temples",
+        "Writer",
+        "Sculptor"
+      ],
+      "answer": 2,
+      "explanation": "Babur was a gifted soldier and writer, famous for his memoir the Baburnama."
+    },
+    {
+      "id": "babur-q08",
+      "difficulty": "easy",
+      "q": "Babur's victory at Panipat ended which long-standing Indian state?",
+      "options": [
+        "The Vijayanagara Empire",
+        "The Ahom kingdom",
+        "The Sikh Empire",
+        "The Delhi Sultanate"
+      ],
+      "answer": 3,
+      "explanation": "Babur's defeat of Ibrahim Lodi ended the Delhi Sultanate and began Mughal rule."
+    },
+    {
+      "id": "babur-q09",
+      "difficulty": "easy",
+      "q": "Babur was the first emperor of which Indian dynasty?",
+      "options": [
+        "The Mughals",
+        "The Tughlaqs",
+        "The Suris",
+        "The Khaljis"
+      ],
+      "answer": 0,
+      "explanation": "Babur was the founder and first emperor of the Mughal dynasty in India."
+    },
+    {
+      "id": "babur-q10",
+      "difficulty": "easy",
+      "q": "In which century did Babur establish Mughal rule in India?",
+      "options": [
+        "The 12th century",
+        "The 16th century",
+        "The 18th century",
+        "The 4th century"
+      ],
+      "answer": 1,
+      "explanation": "Babur founded the Mughal Empire in 1526, in the 16th century CE."
+    },
+    {
+      "id": "babur-q11",
+      "difficulty": "medium",
+      "q": "Which Central Asian principality did the young Babur first inherit and rule?",
+      "options": [
+        "Samarkand",
+        "Kabul",
+        "Fergana",
+        "Herat"
+      ],
+      "answer": 2,
+      "explanation": "Babur first inherited the small kingdom of Fergana as a boy."
+    },
+    {
+      "id": "babur-q12",
+      "difficulty": "medium",
+      "q": "Which great Timurid capital did Babur repeatedly try, and ultimately fail, to hold for long?",
+      "options": [
+        "Delhi",
+        "Agra",
+        "Lahore",
+        "Samarkand"
+      ],
+      "answer": 3,
+      "explanation": "Babur captured Samarkand more than once but could never hold the storied Timurid capital."
+    },
+    {
+      "id": "babur-q13",
+      "difficulty": "medium",
+      "q": "Which city did Babur seize and make his base before invading India?",
+      "options": [
+        "Kabul",
+        "Bukhara",
+        "Ghazni",
+        "Multan"
+      ],
+      "answer": 0,
+      "explanation": "Babur captured Kabul in 1504 and used it as a base for his campaigns into India."
+    },
+    {
+      "id": "babur-q14",
+      "difficulty": "medium",
+      "q": "On his mother's side, Babur was descended from which famous Mongol conqueror?",
+      "options": [
+        "Attila",
+        "Genghis Khan",
+        "Kublai's general",
+        "Hulagu only"
+      ],
+      "answer": 1,
+      "explanation": "Babur claimed descent from Genghis Khan on his mother's side and from Timur on his father's."
+    },
+    {
+      "id": "babur-q15",
+      "difficulty": "medium",
+      "q": "Babur defeated a Rajput confederacy under Rana Sanga at which 1527 battle?",
+      "options": [
+        "The Battle of Haldighati",
+        "The Battle of Talikota",
+        "The Battle of Khanwa",
+        "The Battle of Saraighat"
+      ],
+      "answer": 2,
+      "explanation": "Babur defeated Rana Sanga's Rajput confederacy at the Battle of Khanwa in 1527."
+    },
+    {
+      "id": "babur-q16",
+      "difficulty": "medium",
+      "q": "In 1529 Babur defeated the Afghan forces of Bengal and Bihar at which battle?",
+      "options": [
+        "The Battle of Chausa",
+        "The Battle of Buxar",
+        "The Battle of Karnal",
+        "The Battle of Ghaghra"
+      ],
+      "answer": 3,
+      "explanation": "Babur defeated the eastern Afghan confederacy at the Battle of Ghaghra in 1529."
+    },
+    {
+      "id": "babur-q17",
+      "difficulty": "medium",
+      "q": "Which military tactic and technology gave Babur a decisive edge at Panipat?",
+      "options": [
+        "Field artillery and the tulughma flanking manoeuvre",
+        "War elephants alone",
+        "Naval bombardment",
+        "Siege towers"
+      ],
+      "answer": 0,
+      "explanation": "Babur combined field artillery with the tulughma encircling cavalry tactic to defeat a larger army."
+    },
+    {
+      "id": "babur-q18",
+      "difficulty": "medium",
+      "q": "In which language did Babur originally write his memoirs?",
+      "options": [
+        "Persian",
+        "Chagatai Turkic",
+        "Sanskrit",
+        "Arabic"
+      ],
+      "answer": 1,
+      "explanation": "Babur wrote the Baburnama in Chagatai Turkic, his mother tongue."
+    },
+    {
+      "id": "babur-q19",
+      "difficulty": "medium",
+      "q": "Who was Babur's son and immediate successor as Mughal emperor?",
+      "options": [
+        "Akbar",
+        "Jahangir",
+        "Humayun",
+        "Kamran"
+      ],
+      "answer": 2,
+      "explanation": "Babur was succeeded by his son Humayun, the second Mughal emperor."
+    },
+    {
+      "id": "babur-q20",
+      "difficulty": "medium",
+      "q": "Babur was originally buried in Agra but, by his wish, his remains were later moved to which city?",
+      "options": [
+        "Samarkand",
+        "Delhi",
+        "Lahore",
+        "Kabul"
+      ],
+      "answer": 3,
+      "explanation": "Babur was first buried at Agra and later reinterred in a garden at Kabul, as he had wished."
+    },
+    {
+      "id": "babur-q21",
+      "difficulty": "medium",
+      "q": "Babur was fond of laying out which kind of feature wherever he settled?",
+      "options": [
+        "Formal gardens",
+        "Diamond mines",
+        "Sea harbours",
+        "Forest hunting reserves only"
+      ],
+      "answer": 0,
+      "explanation": "Babur was a keen designer of formal gardens, a passion described in the Baburnama."
+    },
+    {
+      "id": "babur-q22",
+      "difficulty": "medium",
+      "q": "Babur captured which two principal cities of northern India after his victory at Panipat?",
+      "options": [
+        "Lahore and Multan",
+        "Delhi and Agra",
+        "Patna and Gaya",
+        "Ajmer and Jodhpur"
+      ],
+      "answer": 1,
+      "explanation": "After Panipat, Babur occupied Delhi and Agra, the heart of the former Lodi domain."
+    },
+    {
+      "id": "babur-q23",
+      "difficulty": "hard",
+      "q": "In which year was Babur born?",
+      "options": [
+        "1526 CE",
+        "1469 CE",
+        "1483 CE",
+        "1504 CE"
+      ],
+      "answer": 2,
+      "explanation": "Babur was born in 1483 CE in Fergana, in present-day Uzbekistan."
+    },
+    {
+      "id": "babur-q24",
+      "difficulty": "hard",
+      "q": "Babur's personal name was what, with Babur being a nickname meaning roughly tiger or beaver?",
+      "options": [
+        "Nasir-ud-din Muhammad",
+        "Jalal-ud-din Muhammad",
+        "Ghiyas-ud-din Muhammad",
+        "Zahir-ud-din Muhammad"
+      ],
+      "answer": 3,
+      "explanation": "Babur's formal name was Zahir-ud-din Muhammad; Babur was a nickname he carried."
+    },
+    {
+      "id": "babur-q25",
+      "difficulty": "hard",
+      "q": "Before Khanwa, Babur is said to have publicly renounced what to rally his troops?",
+      "options": [
+        "Wine",
+        "His throne",
+        "His memoirs",
+        "His cavalry"
+      ],
+      "answer": 0,
+      "explanation": "Before Khanwa Babur dramatically renounced wine and smashed his drinking vessels to inspire his men."
+    },
+    {
+      "id": "babur-q26",
+      "difficulty": "hard",
+      "q": "Babur's account of India in the Baburnama is noted for its detailed observation of what?",
+      "options": [
+        "European naval tactics",
+        "Indian flora, fauna and customs",
+        "Chinese porcelain trade",
+        "African geography"
+      ],
+      "answer": 1,
+      "explanation": "The Baburnama gives detailed, often critical observations of India's plants, animals and customs."
+    },
+    {
+      "id": "babur-q27",
+      "difficulty": "hard",
+      "q": "In which year did Babur die, after only about four years ruling in India?",
+      "options": [
+        "1540 CE",
+        "1556 CE",
+        "1530 CE",
+        "1605 CE"
+      ],
+      "answer": 2,
+      "explanation": "Babur died in 1530 CE, roughly four years after his victory at Panipat."
+    },
+    {
+      "id": "babur-q28",
+      "difficulty": "hard",
+      "q": "According to tradition, Babur prayed to take upon himself the illness of his son, who then recovered while Babur fell ill. Who was that son?",
+      "options": [
+        "Kamran",
+        "Askari",
+        "Hindal",
+        "Humayun"
+      ],
+      "answer": 3,
+      "explanation": "A famous tradition holds that Babur offered his own life for the recovery of his ailing son Humayun."
+    },
+    {
+      "id": "babur-q29",
+      "difficulty": "hard",
+      "q": "Which firearms commander helped Babur deploy his artillery effectively at Panipat?",
+      "options": [
+        "Ustad Ali Quli",
+        "Mir Jumla",
+        "Bairam Khan",
+        "Tardi Beg"
+      ],
+      "answer": 0,
+      "explanation": "The Ottoman-trained gunner Ustad Ali Quli directed Babur's artillery at Panipat."
+    },
+    {
+      "id": "babur-q30",
+      "difficulty": "hard",
+      "q": "Which mosque, controversially attributed to Babur's reign, stood at Ayodhya?",
+      "options": [
+        "The Jama Masjid of Delhi",
+        "The Babri Masjid",
+        "The Charminar",
+        "The Quwwat-ul-Islam mosque"
+      ],
+      "answer": 1,
+      "explanation": "The Babri Masjid at Ayodhya was traditionally attributed to Babur's reign, built by his officer Mir Baqi."
+    }
+  ]
+}

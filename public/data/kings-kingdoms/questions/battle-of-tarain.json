@@ -1,0 +1,395 @@
+{
+  "cardId": "battle-of-tarain",
+  "questions": [
+    {
+      "id": "battle-of-tarain-q01",
+      "difficulty": "easy",
+      "q": "The Battles of Tarain were fought between Prithviraj Chauhan and which adversary?",
+      "options": [
+        "Muhammad of Ghor",
+        "Babur",
+        "Mahmud of Ghazni",
+        "Timur"
+      ],
+      "answer": 0,
+      "explanation": "The battles pitted Prithviraj Chauhan against the Ghurid ruler Muhammad of Ghor."
+    },
+    {
+      "id": "battle-of-tarain-q02",
+      "difficulty": "easy",
+      "q": "How many battles of Tarain were there?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Five"
+      ],
+      "answer": 1,
+      "explanation": "Two battles were fought at Tarain, in 1191 and 1192 CE."
+    },
+    {
+      "id": "battle-of-tarain-q03",
+      "difficulty": "easy",
+      "q": "In which years were the two Battles of Tarain fought?",
+      "options": [
+        "1526 and 1527 CE",
+        "1757 and 1761 CE",
+        "1191 and 1192 CE",
+        "1001 and 1025 CE"
+      ],
+      "answer": 2,
+      "explanation": "The First Battle was in 1191 CE and the Second in 1192 CE."
+    },
+    {
+      "id": "battle-of-tarain-q04",
+      "difficulty": "easy",
+      "q": "Who won the First Battle of Tarain in 1191?",
+      "options": [
+        "Muhammad of Ghor",
+        "Qutb-ud-din Aibak",
+        "Jaichand",
+        "Prithviraj Chauhan"
+      ],
+      "answer": 3,
+      "explanation": "Prithviraj Chauhan defeated Muhammad of Ghor in the First Battle of Tarain."
+    },
+    {
+      "id": "battle-of-tarain-q05",
+      "difficulty": "easy",
+      "q": "Who won the Second Battle of Tarain in 1192?",
+      "options": [
+        "Muhammad of Ghor",
+        "Prithviraj Chauhan",
+        "Babur",
+        "Rana Sanga"
+      ],
+      "answer": 0,
+      "explanation": "Muhammad of Ghor defeated Prithviraj Chauhan in the decisive Second Battle of Tarain."
+    },
+    {
+      "id": "battle-of-tarain-q06",
+      "difficulty": "easy",
+      "q": "Tarain is located in which present-day Indian state?",
+      "options": [
+        "Gujarat",
+        "Haryana",
+        "Bihar",
+        "Kerala"
+      ],
+      "answer": 1,
+      "explanation": "Tarain, modern Taraori, lies in present-day Haryana, north of Delhi."
+    },
+    {
+      "id": "battle-of-tarain-q07",
+      "difficulty": "easy",
+      "q": "Muhammad of Ghor came from which region to invade India?",
+      "options": [
+        "Persia",
+        "Bengal",
+        "Ghor in Afghanistan",
+        "The Deccan"
+      ],
+      "answer": 2,
+      "explanation": "He was the Ghurid ruler based at Ghor in present-day Afghanistan."
+    },
+    {
+      "id": "battle-of-tarain-q08",
+      "difficulty": "easy",
+      "q": "The Ghurid victory at the second battle opened the way for which new political order in India?",
+      "options": [
+        "The Gupta Empire",
+        "The Vijayanagara Empire",
+        "The Maratha confederacy",
+        "The Delhi Sultanate"
+      ],
+      "answer": 3,
+      "explanation": "The victory led to the establishment of Turkish rule and the founding of the Delhi Sultanate."
+    },
+    {
+      "id": "battle-of-tarain-q09",
+      "difficulty": "easy",
+      "q": "Prithviraj Chauhan, who fought at Tarain, was a king of which dynasty?",
+      "options": [
+        "The Chahamana (Chauhan) dynasty",
+        "The Chola dynasty",
+        "The Gupta dynasty",
+        "The Mughal dynasty"
+      ],
+      "answer": 0,
+      "explanation": "Prithviraj III was a ruler of the Chahamana (Chauhan) dynasty of Ajmer and Delhi."
+    },
+    {
+      "id": "battle-of-tarain-q10",
+      "difficulty": "easy",
+      "q": "The Battles of Tarain are remembered as a turning point in the history of which part of India?",
+      "options": [
+        "Coastal Kerala",
+        "Northern India",
+        "The Tamil far south",
+        "The Assam valley"
+      ],
+      "answer": 1,
+      "explanation": "They marked a decisive shift toward Turkish rule in northern India."
+    },
+    {
+      "id": "battle-of-tarain-q11",
+      "difficulty": "medium",
+      "q": "Muhammad of Ghor's dynasty is known to history as the?",
+      "options": [
+        "Ghaznavids",
+        "Mamluks",
+        "Ghurids",
+        "Khaljis"
+      ],
+      "answer": 2,
+      "explanation": "Muhammad of Ghor belonged to the Ghurid dynasty, distinct from the earlier Ghaznavids."
+    },
+    {
+      "id": "battle-of-tarain-q12",
+      "difficulty": "medium",
+      "q": "In the First Battle of Tarain, Muhammad of Ghor was personally what?",
+      "options": [
+        "Killed in combat",
+        "Crowned victor",
+        "Taken prisoner for ransom",
+        "Wounded and forced to retreat"
+      ],
+      "answer": 3,
+      "explanation": "Muhammad of Ghor was wounded and his army routed, compelling his retreat in 1191."
+    },
+    {
+      "id": "battle-of-tarain-q13",
+      "difficulty": "medium",
+      "q": "A key factor in the Ghurid success at the Second Battle of Tarain was their use of what?",
+      "options": [
+        "Mounted archers and mobile cavalry tactics",
+        "War elephants alone",
+        "Naval bombardment",
+        "Gunpowder cannon"
+      ],
+      "answer": 0,
+      "explanation": "Ghurid mounted archers and swift cavalry manoeuvres outmatched the Rajput formations in 1192."
+    },
+    {
+      "id": "battle-of-tarain-q14",
+      "difficulty": "medium",
+      "q": "After the Second Battle of Tarain, which general of Muhammad of Ghor later founded the Slave dynasty of Delhi?",
+      "options": [
+        "Iltutmish",
+        "Qutb-ud-din Aibak",
+        "Balban",
+        "Bairam Khan"
+      ],
+      "answer": 1,
+      "explanation": "Qutb-ud-din Aibak, the Ghurid general left in charge, founded the Mamluk (Slave) dynasty in 1206."
+    },
+    {
+      "id": "battle-of-tarain-q15",
+      "difficulty": "medium",
+      "q": "What broadly happened to Prithviraj Chauhan after the Second Battle of Tarain?",
+      "options": [
+        "He retired to rule Gujarat",
+        "He fled to the Deccan",
+        "He was captured and killed",
+        "He converted and joined the Ghurids"
+      ],
+      "answer": 2,
+      "explanation": "Prithviraj was captured following the second battle and was put to death."
+    },
+    {
+      "id": "battle-of-tarain-q16",
+      "difficulty": "medium",
+      "q": "Which earlier raider, distinct from Muhammad of Ghor, had invaded India repeatedly in the 11th century?",
+      "options": [
+        "Babur",
+        "Nadir Shah",
+        "Ahmad Shah Durrani",
+        "Mahmud of Ghazni"
+      ],
+      "answer": 3,
+      "explanation": "Mahmud of Ghazni raided India in the early 11th century, well before the Ghurid campaigns at Tarain."
+    },
+    {
+      "id": "battle-of-tarain-q17",
+      "difficulty": "medium",
+      "q": "The Rajput army at Tarain relied heavily on which traditional war animal?",
+      "options": [
+        "The war elephant",
+        "The camel",
+        "The horse alone",
+        "The bullock"
+      ],
+      "answer": 0,
+      "explanation": "Rajput armies of the period made heavy use of war elephants alongside cavalry."
+    },
+    {
+      "id": "battle-of-tarain-q18",
+      "difficulty": "medium",
+      "q": "One reason offered for the Rajput defeat in 1192 was their failure to do what after the 1191 victory?",
+      "options": [
+        "Build naval defences",
+        "Decisively pursue and finish the Ghurid threat",
+        "Adopt gunpowder weapons",
+        "Sign a treaty with the Cholas"
+      ],
+      "answer": 1,
+      "explanation": "Prithviraj did not press his 1191 advantage, allowing Muhammad of Ghor to regroup and return stronger."
+    },
+    {
+      "id": "battle-of-tarain-q19",
+      "difficulty": "medium",
+      "q": "The Battles of Tarain are sometimes also called the Battles of?",
+      "options": [
+        "Panipat",
+        "Plassey",
+        "Taraori",
+        "Talikota"
+      ],
+      "answer": 2,
+      "explanation": "Tarain corresponds to modern Taraori, so the battles are also called the Battles of Taraori."
+    },
+    {
+      "id": "battle-of-tarain-q20",
+      "difficulty": "medium",
+      "q": "Tarain lies on a strategic route guarding the approach to which city?",
+      "options": [
+        "Mumbai",
+        "Chennai",
+        "Kolkata",
+        "Delhi"
+      ],
+      "answer": 3,
+      "explanation": "Tarain sat on the historic invasion route from the northwest toward Delhi."
+    },
+    {
+      "id": "battle-of-tarain-q21",
+      "difficulty": "medium",
+      "q": "Just before Tarain, Muhammad of Ghor had captured which strategic Punjab fortress town?",
+      "options": [
+        "Bhatinda (Tabarhindah)",
+        "Surat",
+        "Thanjavur",
+        "Murshidabad"
+      ],
+      "answer": 0,
+      "explanation": "Muhammad of Ghor seized Bhatinda (Tabarhindah), provoking Prithviraj's march that led to the First Battle of Tarain."
+    },
+    {
+      "id": "battle-of-tarain-q22",
+      "difficulty": "medium",
+      "q": "The Second Battle of Tarain is widely regarded by historians as what kind of turning point?",
+      "options": [
+        "A minor border skirmish",
+        "A decisive shift enabling lasting Muslim rule in north India",
+        "A naval engagement",
+        "A purely religious council"
+      ],
+      "answer": 1,
+      "explanation": "It is seen as a watershed that enabled the durable establishment of Turkish-Muslim rule in northern India."
+    },
+    {
+      "id": "battle-of-tarain-q23",
+      "difficulty": "hard",
+      "q": "The contemporary chronicler whose work the 'Tabaqat-i-Nasiri' is a key Persian source for Tarain was?",
+      "options": [
+        "Abul Fazl",
+        "Ferishta only",
+        "Minhaj-i-Siraj",
+        "Megasthenes"
+      ],
+      "answer": 2,
+      "explanation": "Minhaj-i-Siraj's Tabaqat-i-Nasiri is an important medieval Persian source on the Ghurid conquests."
+    },
+    {
+      "id": "battle-of-tarain-q24",
+      "difficulty": "hard",
+      "q": "In the Second Battle of Tarain, Muhammad of Ghor reportedly divided his cavalry into several light divisions to do what?",
+      "options": [
+        "Defend a fixed fortress",
+        "Ferry troops across a river",
+        "Lay a long siege",
+        "Harass and tire the Rajputs before a final charge"
+      ],
+      "answer": 3,
+      "explanation": "Ghurid mounted archers used hit-and-run tactics to exhaust the Rajput host before delivering a decisive reserve charge."
+    },
+    {
+      "id": "battle-of-tarain-q25",
+      "difficulty": "hard",
+      "q": "After Tarain, the Ghurids quickly pushed eastward and defeated which Gahadavala king of Kannauj?",
+      "options": [
+        "Jaichand",
+        "Paramardideva",
+        "Bhima II",
+        "Vigraharaja"
+      ],
+      "answer": 0,
+      "explanation": "In 1194 the Ghurids defeated Jaichand of Kannauj at the Battle of Chandawar, extending their conquests."
+    },
+    {
+      "id": "battle-of-tarain-q26",
+      "difficulty": "hard",
+      "q": "The Ghurid army at Tarain was composed largely of which type of soldiers central to Central Asian warfare?",
+      "options": [
+        "Heavy chariot crews",
+        "Horse-mounted mounted archers",
+        "Elephant-borne lancers",
+        "Foot crossbowmen"
+      ],
+      "answer": 1,
+      "explanation": "Mounted horse archers were the backbone of Ghurid and Central Asian armies, giving them tactical mobility."
+    },
+    {
+      "id": "battle-of-tarain-q27",
+      "difficulty": "hard",
+      "q": "How is the size of the opposing armies at Tarain best characterised in the sources?",
+      "options": [
+        "Precisely recorded by a census",
+        "Known to the exact soldier",
+        "Reported figures are large but likely exaggerated",
+        "Said to be only a few hundred each"
+      ],
+      "answer": 2,
+      "explanation": "Medieval chronicles give very large army figures that historians regard as exaggerated and approximate."
+    },
+    {
+      "id": "battle-of-tarain-q28",
+      "difficulty": "hard",
+      "q": "Following his victory, Muhammad of Ghor returned to his Central Asian base, leaving Indian affairs largely to whom?",
+      "options": [
+        "Iltutmish",
+        "Razia Sultana",
+        "Balban",
+        "Qutb-ud-din Aibak"
+      ],
+      "answer": 3,
+      "explanation": "Muhammad of Ghor delegated the administration and further conquest of north India to his general Qutb-ud-din Aibak."
+    },
+    {
+      "id": "battle-of-tarain-q29",
+      "difficulty": "hard",
+      "q": "The dramatic tale of a blinded Prithviraj slaying Muhammad of Ghor with an arrow is found mainly in which source, regarded as legend?",
+      "options": [
+        "The Prithviraj Raso",
+        "The Tabaqat-i-Nasiri",
+        "The Rajatarangini",
+        "The Baburnama"
+      ],
+      "answer": 0,
+      "explanation": "This episode appears in the bardic Prithviraj Raso and is treated as legendary rather than historical."
+    },
+    {
+      "id": "battle-of-tarain-q30",
+      "difficulty": "hard",
+      "q": "Muhammad of Ghor's success at Tarain is often contrasted with his earlier defeat in India at which battle around 1178?",
+      "options": [
+        "The Battle of Talikota",
+        "The Battle of Kasahrada (against the Chaulukyas of Gujarat)",
+        "The Battle of Haldighati",
+        "The Battle of Plassey"
+      ],
+      "answer": 1,
+      "explanation": "Muhammad of Ghor had earlier been defeated by the Chaulukyas (Solankis) of Gujarat at Kasahrada around 1178 CE."
+    }
+  ]
+}

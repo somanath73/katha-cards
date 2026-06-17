@@ -1,0 +1,395 @@
+{
+  "cardId": "vijayanagara-empire",
+  "questions": [
+    {
+      "id": "vijayanagara-empire-q01",
+      "difficulty": "easy",
+      "q": "In which year was the Vijayanagara Empire founded?",
+      "options": [
+        "1336 CE",
+        "1206 CE",
+        "1347 CE",
+        "1526 CE"
+      ],
+      "answer": 0,
+      "explanation": "The Vijayanagara Empire was founded in 1336 CE on the southern bank of the Tungabhadra river."
+    },
+    {
+      "id": "vijayanagara-empire-q02",
+      "difficulty": "easy",
+      "q": "What was the capital city of the Vijayanagara Empire?",
+      "options": [
+        "Thanjavur",
+        "Hampi",
+        "Bidar",
+        "Madurai"
+      ],
+      "answer": 1,
+      "explanation": "Hampi, on the Tungabhadra river, was the magnificent capital of the Vijayanagara Empire."
+    },
+    {
+      "id": "vijayanagara-empire-q03",
+      "difficulty": "easy",
+      "q": "The name 'Vijayanagara' means which of the following?",
+      "options": [
+        "City of Gold",
+        "City of Lakes",
+        "City of Victory",
+        "City of Light"
+      ],
+      "answer": 2,
+      "explanation": "Vijayanagara translates as the 'City of Victory'."
+    },
+    {
+      "id": "vijayanagara-empire-q04",
+      "difficulty": "easy",
+      "q": "On the banks of which river was the Vijayanagara capital situated?",
+      "options": [
+        "Ganges",
+        "Yamuna",
+        "Brahmaputra",
+        "Tungabhadra"
+      ],
+      "answer": 3,
+      "explanation": "The capital Hampi stood on the southern bank of the Tungabhadra river."
+    },
+    {
+      "id": "vijayanagara-empire-q05",
+      "difficulty": "easy",
+      "q": "Which decisive 1565 battle led to the empire's downfall?",
+      "options": [
+        "Battle of Tarain",
+        "Battle of Talikota",
+        "Battle of Panipat",
+        "Battle of Plassey"
+      ],
+      "answer": 1,
+      "explanation": "Vijayanagara was crushingly defeated at the Battle of Talikota in 1565."
+    },
+    {
+      "id": "vijayanagara-empire-q06",
+      "difficulty": "easy",
+      "q": "The Vijayanagara Empire was a great centre of which religious tradition?",
+      "options": [
+        "Buddhist monasticism",
+        "Jain pilgrimage only",
+        "Hindu culture and temple-building",
+        "Zoroastrianism"
+      ],
+      "answer": 2,
+      "explanation": "Vijayanagara was renowned as a great centre of Hindu culture, temple-building, and learning."
+    },
+    {
+      "id": "vijayanagara-empire-q07",
+      "difficulty": "easy",
+      "q": "In which part of India did the Vijayanagara Empire hold sway?",
+      "options": [
+        "The Punjab",
+        "Bengal and Assam",
+        "Kashmir",
+        "Peninsular (southern) India"
+      ],
+      "answer": 3,
+      "explanation": "Vijayanagara dominated peninsular southern India for over two centuries."
+    },
+    {
+      "id": "vijayanagara-empire-q08",
+      "difficulty": "easy",
+      "q": "For roughly how long did the Vijayanagara Empire dominate the south?",
+      "options": [
+        "Over two centuries",
+        "A few decades",
+        "Over six centuries",
+        "Less than ten years"
+      ],
+      "answer": 0,
+      "explanation": "Vijayanagara dominated peninsular India for more than two centuries after its founding in 1336."
+    },
+    {
+      "id": "vijayanagara-empire-q09",
+      "difficulty": "easy",
+      "q": "The ruins of the Vijayanagara capital are today recognised as a what?",
+      "options": [
+        "A modern industrial city",
+        "A naval base",
+        "A UNESCO World Heritage Site",
+        "A national park with no monuments"
+      ],
+      "answer": 2,
+      "explanation": "The ruins at Hampi are a UNESCO World Heritage Site."
+    },
+    {
+      "id": "vijayanagara-empire-q10",
+      "difficulty": "easy",
+      "q": "Which Muslim Deccan kingdom was Vijayanagara's main early rival?",
+      "options": [
+        "The Mughal Empire",
+        "The Maratha Empire",
+        "The Sikh Empire",
+        "The Bahmani Sultanate"
+      ],
+      "answer": 3,
+      "explanation": "Vijayanagara's principal early rival was the neighbouring Bahmani Sultanate to its north."
+    },
+    {
+      "id": "vijayanagara-empire-q11",
+      "difficulty": "medium",
+      "q": "Which two brothers are traditionally credited with founding Vijayanagara?",
+      "options": [
+        "Harihara and Bukka",
+        "Babur and Humayun",
+        "Hasan and Husain",
+        "Rama and Lakshmana"
+      ],
+      "answer": 0,
+      "explanation": "The brothers Harihara and Bukka founded the empire and its first ruling line in 1336."
+    },
+    {
+      "id": "vijayanagara-empire-q12",
+      "difficulty": "medium",
+      "q": "What was the name of the first ruling dynasty of Vijayanagara?",
+      "options": [
+        "Tuluva",
+        "Sangama",
+        "Aravidu",
+        "Saluva"
+      ],
+      "answer": 1,
+      "explanation": "The Sangama dynasty, named after the founders' father, was the first of four dynasties to rule Vijayanagara."
+    },
+    {
+      "id": "vijayanagara-empire-q13",
+      "difficulty": "medium",
+      "q": "Which dynasty produced Vijayanagara's most famous ruler, Krishnadevaraya?",
+      "options": [
+        "Sangama",
+        "Saluva",
+        "Aravidu",
+        "Tuluva"
+      ],
+      "answer": 3,
+      "explanation": "Krishnadevaraya belonged to the Tuluva dynasty, the third of the four Vijayanagara dynasties."
+    },
+    {
+      "id": "vijayanagara-empire-q14",
+      "difficulty": "medium",
+      "q": "Which alliance of states defeated Vijayanagara at Talikota in 1565?",
+      "options": [
+        "A confederacy of Deccan sultanates",
+        "The Mughal Empire",
+        "The British East India Company",
+        "The Maratha Confederacy"
+      ],
+      "answer": 0,
+      "explanation": "An alliance of the Deccan sultanates (the Bahmani successor states) combined to defeat Vijayanagara at Talikota."
+    },
+    {
+      "id": "vijayanagara-empire-q15",
+      "difficulty": "medium",
+      "q": "What happened to the capital Hampi after the defeat at Talikota?",
+      "options": [
+        "It became the Mughal capital",
+        "It was sacked and largely destroyed",
+        "It was peacefully expanded",
+        "It was untouched and prospered"
+      ],
+      "answer": 1,
+      "explanation": "After Talikota the victorious armies sacked Hampi, and the city never recovered its former glory."
+    },
+    {
+      "id": "vijayanagara-empire-q16",
+      "difficulty": "medium",
+      "q": "Which Italian traveller left a vivid account of the prosperous Vijayanagara capital?",
+      "options": [
+        "Marco Polo",
+        "Ibn Battuta",
+        "Niccolo de' Conti",
+        "Fa-Hien"
+      ],
+      "answer": 2,
+      "explanation": "The Venetian traveller Niccolo de' Conti visited Vijayanagara in the 15th century and described its size and wealth."
+    },
+    {
+      "id": "vijayanagara-empire-q17",
+      "difficulty": "medium",
+      "q": "Which Portuguese traveller described Vijayanagara as a city as large as Rome during Krishnadevaraya's reign?",
+      "options": [
+        "Domingo Paes",
+        "Vasco da Gama",
+        "Bartolomeu Dias",
+        "Ferdinand Magellan"
+      ],
+      "answer": 0,
+      "explanation": "The Portuguese chronicler Domingo Paes left a celebrated account of Vijayanagara's grandeur in the early 16th century."
+    },
+    {
+      "id": "vijayanagara-empire-q18",
+      "difficulty": "medium",
+      "q": "Vijayanagara is especially celebrated for its monumental architecture in which form?",
+      "options": [
+        "Marble Mughal mausoleums",
+        "Buddhist stupas",
+        "Stone Hindu temples with towering gopurams",
+        "Rock-cut Jain caves"
+      ],
+      "answer": 2,
+      "explanation": "Vijayanagara is famed for its grand stone temples, ornate pillared halls, and soaring gopuram gateways."
+    },
+    {
+      "id": "vijayanagara-empire-q19",
+      "difficulty": "medium",
+      "q": "The Vijayanagara economy grew rich largely from trade in which valuable commodity, among others?",
+      "options": [
+        "Tea and porcelain",
+        "Cotton textiles, spices, and horses",
+        "Tobacco and rubber",
+        "Coal and steel"
+      ],
+      "answer": 1,
+      "explanation": "Vijayanagara grew wealthy through a flourishing trade in textiles, spices, gems, and the import of war horses."
+    },
+    {
+      "id": "vijayanagara-empire-q20",
+      "difficulty": "medium",
+      "q": "Vijayanagara was administratively divided into provinces governed by chiefs holding land under which system?",
+      "options": [
+        "The mansabdari system",
+        "The zamindari system",
+        "The jagir-only system of Delhi",
+        "The Nayankara (nayaka) system"
+      ],
+      "answer": 3,
+      "explanation": "The Nayankara system granted territories to military governors called nayakas in return for service and tribute."
+    },
+    {
+      "id": "vijayanagara-empire-q21",
+      "difficulty": "medium",
+      "q": "How many successive dynasties ruled the Vijayanagara Empire over its history?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Six"
+      ],
+      "answer": 2,
+      "explanation": "Four dynasties ruled Vijayanagara: Sangama, Saluva, Tuluva, and Aravidu."
+    },
+    {
+      "id": "vijayanagara-empire-q22",
+      "difficulty": "medium",
+      "q": "After Hampi's destruction, the remnant Vijayanagara state under the last dynasty shifted its base to which city?",
+      "options": [
+        "Penukonda (and later Chandragiri/Vellore)",
+        "Delhi",
+        "Hampi again",
+        "Goa"
+      ],
+      "answer": 0,
+      "explanation": "The Aravidu dynasty ruled a shrunken successor state from Penukonda and later Chandragiri and Vellore after 1565."
+    },
+    {
+      "id": "vijayanagara-empire-q23",
+      "difficulty": "hard",
+      "q": "Who is traditionally said to have spiritually inspired and guided the founding of Vijayanagara?",
+      "options": [
+        "Adi Shankaracharya",
+        "Ramanuja",
+        "Basava",
+        "The sage Vidyaranya"
+      ],
+      "answer": 3,
+      "explanation": "Tradition credits the sage Vidyaranya of Sringeri with inspiring Harihara and Bukka to found the empire."
+    },
+    {
+      "id": "vijayanagara-empire-q24",
+      "difficulty": "hard",
+      "q": "What was the name of the powerful regent and de facto ruler of the Tuluva line before Krishnadevaraya, who founded the dynasty?",
+      "options": [
+        "Saluva Narasimha alone",
+        "Tuluva Narasa Nayaka / his son Vira Narasimha",
+        "Achyuta Deva Raya",
+        "Sadasiva Raya"
+      ],
+      "answer": 1,
+      "explanation": "The Tuluva dynasty was established by Tuluva Narasa Nayaka and his son Vira Narasimha Raya, who preceded Krishnadevaraya."
+    },
+    {
+      "id": "vijayanagara-empire-q25",
+      "difficulty": "hard",
+      "q": "The Saluva dynasty came to power in Vijayanagara through what means?",
+      "options": [
+        "Foreign invasion",
+        "A usurpation by Saluva Narasimha ending Sangama rule",
+        "A peaceful election",
+        "Conquest by the Bahmanis"
+      ],
+      "answer": 1,
+      "explanation": "Saluva Narasimha seized the throne from the declining Sangama line, founding the short-lived Saluva dynasty."
+    },
+    {
+      "id": "vijayanagara-empire-q26",
+      "difficulty": "hard",
+      "q": "The Vittala temple at Hampi is famous for which extraordinary architectural feature?",
+      "options": [
+        "A white marble dome",
+        "A leaning minaret",
+        "Underground tunnels of gold",
+        "Musical (resonating) stone pillars and a stone chariot"
+      ],
+      "answer": 3,
+      "explanation": "The Vittala temple complex is renowned for its musical pillars that resonate when struck and its iconic stone chariot."
+    },
+    {
+      "id": "vijayanagara-empire-q27",
+      "difficulty": "hard",
+      "q": "The richly fertile region disputed between Vijayanagara and the Bahmanis was known as the:",
+      "options": [
+        "Raichur doab",
+        "Gangetic doab",
+        "Sundarbans",
+        "Konkan coast"
+      ],
+      "answer": 0,
+      "explanation": "The Raichur doab, between the Krishna and Tungabhadra rivers, was repeatedly contested by Vijayanagara and the Bahmanis."
+    },
+    {
+      "id": "vijayanagara-empire-q28",
+      "difficulty": "hard",
+      "q": "Krishnadevaraya's Telugu work on statecraft and kingship is titled:",
+      "options": [
+        "Arthashastra",
+        "Ain-i-Akbari",
+        "Amuktamalyada",
+        "Manimekalai"
+      ],
+      "answer": 2,
+      "explanation": "Krishnadevaraya authored the Telugu poem Amuktamalyada, which includes reflections on governance."
+    },
+    {
+      "id": "vijayanagara-empire-q29",
+      "difficulty": "hard",
+      "q": "Which last effective regent of Vijayanagara commanded its forces at Talikota and was killed there?",
+      "options": [
+        "Sadasiva Raya",
+        "Tirumala Deva Raya",
+        "Achyuta Raya",
+        "Rama Raya"
+      ],
+      "answer": 3,
+      "explanation": "Aliya Rama Raya, the powerful regent of the puppet king Sadasiva, led the army at Talikota and was captured and executed."
+    },
+    {
+      "id": "vijayanagara-empire-q30",
+      "difficulty": "hard",
+      "q": "The Vijayanagara rulers gave special prominence to the worship of which deity, reflected in many capital-city temples?",
+      "options": [
+        "Only the Buddha",
+        "Virupaksha (a form of Shiva) and Vishnu/Krishna",
+        "Only Surya the sun god",
+        "Only Indra"
+      ],
+      "answer": 1,
+      "explanation": "Vijayanagara kings were great patrons of Shaiva (Virupaksha) and Vaishnava worship, building major temples to both at the capital."
+    }
+  ]
+}

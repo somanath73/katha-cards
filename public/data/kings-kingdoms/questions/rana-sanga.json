@@ -1,0 +1,395 @@
+{
+  "cardId": "rana-sanga",
+  "questions": [
+    {
+      "id": "rana-sanga-q01",
+      "difficulty": "easy",
+      "q": "Rana Sanga was the ruler of which Rajput kingdom?",
+      "options": [
+        "Mewar",
+        "Marwar",
+        "Amber",
+        "Bundi"
+      ],
+      "answer": 0,
+      "explanation": "Rana Sanga, or Maharana Sangram Singh, was the ruler of Mewar in the early 16th century."
+    },
+    {
+      "id": "rana-sanga-q02",
+      "difficulty": "easy",
+      "q": "What was Rana Sanga's formal given name?",
+      "options": [
+        "Udai Singh",
+        "Sangram Singh",
+        "Pratap Singh",
+        "Kumbha"
+      ],
+      "answer": 1,
+      "explanation": "Rana Sanga's full name was Maharana Sangram Singh of Mewar."
+    },
+    {
+      "id": "rana-sanga-q03",
+      "difficulty": "easy",
+      "q": "In which battle was Rana Sanga defeated by Babur in 1527?",
+      "options": [
+        "Battle of Panipat",
+        "Battle of Haldighati",
+        "Battle of Khanwa",
+        "Battle of Talikota"
+      ],
+      "answer": 2,
+      "explanation": "Rana Sanga was defeated by Babur at the Battle of Khanwa in 1527."
+    },
+    {
+      "id": "rana-sanga-q04",
+      "difficulty": "easy",
+      "q": "Rana Sanga belonged to which Rajput clan of Mewar?",
+      "options": [
+        "Rathore",
+        "Kachhwaha",
+        "Chauhan",
+        "Sisodia"
+      ],
+      "answer": 3,
+      "explanation": "Rana Sanga belonged to the Sisodia clan that ruled Mewar."
+    },
+    {
+      "id": "rana-sanga-q05",
+      "difficulty": "easy",
+      "q": "In which century did Rana Sanga rule Mewar?",
+      "options": [
+        "Early 16th century CE",
+        "12th century CE",
+        "18th century CE",
+        "8th century CE"
+      ],
+      "answer": 0,
+      "explanation": "Rana Sanga was a formidable Rajput ruler of the early 16th century CE."
+    },
+    {
+      "id": "rana-sanga-q06",
+      "difficulty": "easy",
+      "q": "Against whom did Rana Sanga lead a confederacy of Rajput states at Khanwa?",
+      "options": [
+        "Akbar",
+        "Babur",
+        "Sher Shah Suri",
+        "Alauddin Khalji"
+      ],
+      "answer": 1,
+      "explanation": "Rana Sanga led a Rajput confederacy against Babur, the founder of the Mughal Empire."
+    },
+    {
+      "id": "rana-sanga-q07",
+      "difficulty": "easy",
+      "q": "The capital fortress associated with Rana Sanga's Mewar was which famous fort?",
+      "options": [
+        "Golconda",
+        "Raigad",
+        "Chittorgarh (Chittor)",
+        "Gwalior"
+      ],
+      "answer": 2,
+      "explanation": "Chittorgarh was the storied capital fortress of the Sisodia rulers of Mewar, including Rana Sanga."
+    },
+    {
+      "id": "rana-sanga-q08",
+      "difficulty": "easy",
+      "q": "What was the outcome of the Battle of Khanwa for Rana Sanga?",
+      "options": [
+        "A decisive victory",
+        "A drawn battle",
+        "He avoided the battle entirely",
+        "A defeat"
+      ],
+      "answer": 3,
+      "explanation": "Rana Sanga was defeated by Babur at Khanwa in 1527."
+    },
+    {
+      "id": "rana-sanga-q09",
+      "difficulty": "easy",
+      "q": "Rana Sanga is remembered chiefly as a champion of which community?",
+      "options": [
+        "The Rajputs",
+        "The Marathas",
+        "The Sikhs",
+        "The Ahoms"
+      ],
+      "answer": 0,
+      "explanation": "Rana Sanga is celebrated as a Rajput champion who united several Rajput states."
+    },
+    {
+      "id": "rana-sanga-q10",
+      "difficulty": "easy",
+      "q": "Which title did rulers of Mewar such as Rana Sanga bear?",
+      "options": [
+        "Nawab",
+        "Maharana",
+        "Peshwa",
+        "Nizam"
+      ],
+      "answer": 1,
+      "explanation": "The rulers of Mewar held the title Maharana, hence Maharana Sangram Singh."
+    },
+    {
+      "id": "rana-sanga-q11",
+      "difficulty": "medium",
+      "q": "Rana Sanga was famously said to have lost the use of one of which body parts in battle?",
+      "options": [
+        "One ear",
+        "His tongue",
+        "One eye",
+        "Both feet"
+      ],
+      "answer": 2,
+      "explanation": "Tradition holds Rana Sanga lost an eye, along with an arm and bore many wounds from his battles."
+    },
+    {
+      "id": "rana-sanga-q12",
+      "difficulty": "medium",
+      "q": "In which year was the Battle of Khanwa fought?",
+      "options": [
+        "1526",
+        "1556",
+        "1576",
+        "1527"
+      ],
+      "answer": 3,
+      "explanation": "The Battle of Khanwa was fought in 1527, the year after Babur's victory at Panipat."
+    },
+    {
+      "id": "rana-sanga-q13",
+      "difficulty": "medium",
+      "q": "Before facing Babur, Rana Sanga is traditionally credited with defeating the sultans of which two neighbouring sultanates?",
+      "options": [
+        "Malwa and Gujarat",
+        "Bengal and Bahmani",
+        "Golconda and Bijapur",
+        "Jaunpur and Multan"
+      ],
+      "answer": 0,
+      "explanation": "Rana Sanga won renown for victories against the sultans of Malwa and Gujarat before Khanwa."
+    },
+    {
+      "id": "rana-sanga-q14",
+      "difficulty": "medium",
+      "q": "Babur declared a jihad before Khanwa and renounced what to rally his troops?",
+      "options": [
+        "Horses",
+        "Wine and the breaking of wine-cups",
+        "Gunpowder",
+        "His throne"
+      ],
+      "answer": 1,
+      "explanation": "Babur famously renounced wine and broke his drinking vessels to inspire his army before Khanwa."
+    },
+    {
+      "id": "rana-sanga-q15",
+      "difficulty": "medium",
+      "q": "Rana Sanga was the son of which Mewar ruler?",
+      "options": [
+        "Rana Kumbha",
+        "Rana Hammir",
+        "Rana Raimal",
+        "Rana Udai Singh"
+      ],
+      "answer": 2,
+      "explanation": "Rana Sanga was a son of Rana Raimal of Mewar and succeeded after a struggle among his brothers."
+    },
+    {
+      "id": "rana-sanga-q16",
+      "difficulty": "medium",
+      "q": "The site of the Battle of Khanwa lies near which present-day Indian state?",
+      "options": [
+        "Punjab",
+        "Maharashtra",
+        "Bengal",
+        "Rajasthan"
+      ],
+      "answer": 3,
+      "explanation": "Khanwa is located in present-day Rajasthan, west of Agra."
+    },
+    {
+      "id": "rana-sanga-q17",
+      "difficulty": "medium",
+      "q": "What decisively turned the Battle of Khanwa in Babur's favour, much as at Panipat?",
+      "options": [
+        "His field artillery and guns",
+        "Naval bombardment",
+        "A surprise night ambush",
+        "A war-elephant charge by his side"
+      ],
+      "answer": 0,
+      "explanation": "As at Panipat, Babur's artillery and firearms proved decisive against the Rajput cavalry at Khanwa."
+    },
+    {
+      "id": "rana-sanga-q18",
+      "difficulty": "medium",
+      "q": "After his defeat at Khanwa, Rana Sanga reportedly vowed not to do what until he had avenged the loss?",
+      "options": [
+        "Eat meat",
+        "Return to Chittor",
+        "Ride a horse",
+        "Wear a turban"
+      ],
+      "answer": 1,
+      "explanation": "Tradition says the wounded Rana Sanga vowed not to return to Chittor until he had defeated Babur."
+    },
+    {
+      "id": "rana-sanga-q19",
+      "difficulty": "medium",
+      "q": "Rana Sanga died not long after Khanwa, reportedly in which year?",
+      "options": [
+        "1540",
+        "1556",
+        "1528",
+        "1519"
+      ],
+      "answer": 2,
+      "explanation": "Rana Sanga died around 1528, shortly after the defeat at Khanwa."
+    },
+    {
+      "id": "rana-sanga-q20",
+      "difficulty": "medium",
+      "q": "Which later, more famous Maharana of Mewar was a descendant of Rana Sanga?",
+      "options": [
+        "Rana Kumbha",
+        "Rana Hammir",
+        "Bappa Rawal",
+        "Maharana Pratap"
+      ],
+      "answer": 3,
+      "explanation": "Maharana Pratap, who resisted Akbar, was a grandson of Rana Sanga through Udai Singh II."
+    },
+    {
+      "id": "rana-sanga-q21",
+      "difficulty": "medium",
+      "q": "An Afghan claimant Babur defeated at Khanwa-era campaigns, fighting alongside Rajput interests, was Mahmud Lodi, brother of which slain sultan?",
+      "options": [
+        "Ibrahim Lodi",
+        "Bahlul Lodi",
+        "Sikandar Lodi",
+        "Daulat Khan Lodi"
+      ],
+      "answer": 0,
+      "explanation": "Mahmud Lodi, brother of the slain Ibrahim Lodi, allied with Rana Sanga against Babur."
+    },
+    {
+      "id": "rana-sanga-q22",
+      "difficulty": "hard",
+      "q": "On approximately which date in March 1527 was the Battle of Khanwa fought?",
+      "options": [
+        "21 April 1527",
+        "16 March 1527",
+        "5 November 1527",
+        "27 December 1527"
+      ],
+      "answer": 1,
+      "explanation": "The Battle of Khanwa was fought on or around 16 March 1527."
+    },
+    {
+      "id": "rana-sanga-q23",
+      "difficulty": "hard",
+      "q": "Tradition holds that Rana Sanga's body bore roughly how many wounds and missing limbs from a lifetime of war?",
+      "options": [
+        "He was entirely unscarred",
+        "He had lost both legs",
+        "He bore some eighty wounds, having lost an arm and an eye",
+        "He had only a single small scar"
+      ],
+      "answer": 2,
+      "explanation": "Accounts describe Rana Sanga as bearing around eighty wounds, having lost an arm and an eye in battle."
+    },
+    {
+      "id": "rana-sanga-q24",
+      "difficulty": "hard",
+      "q": "After Khanwa, Babur reportedly erected a tower made of what to mark his victory?",
+      "options": [
+        "A tower of captured cannon",
+        "A marble obelisk",
+        "A pillar of gold coins",
+        "A tower of enemy skulls"
+      ],
+      "answer": 3,
+      "explanation": "Babur is said to have built a tower of the skulls of slain foes after Khanwa, a grim victory marker."
+    },
+    {
+      "id": "rana-sanga-q25",
+      "difficulty": "hard",
+      "q": "Many accounts state that Rana Sanga was carried unconscious from the field at Khanwa after being struck down; who reportedly led the Rajputs in his place using his royal insignia?",
+      "options": [
+        "A chief who took up Sanga's standard while Sanga was borne away wounded",
+        "Babur's own son Humayun",
+        "Maharana Pratap",
+        "Rana Kumbha"
+      ],
+      "answer": 0,
+      "explanation": "When Rana Sanga fell wounded, a chief took up his royal canopy and standard, but the line broke and the Rajputs were routed."
+    },
+    {
+      "id": "rana-sanga-q26",
+      "difficulty": "hard",
+      "q": "Some chronicles allege Rana Sanga's death after Khanwa was hastened by what, rather than battle wounds alone?",
+      "options": [
+        "A hunting accident",
+        "Poisoning by his own nobles who opposed renewing war with Babur",
+        "A fall from a fort wall",
+        "Drowning in the Yamuna"
+      ],
+      "answer": 1,
+      "explanation": "Several chronicles suggest Rana Sanga was poisoned by nobles who feared another disastrous war with Babur, though accounts vary."
+    },
+    {
+      "id": "rana-sanga-q27",
+      "difficulty": "hard",
+      "q": "Rana Sanga's confederacy at Khanwa notably included Hasan Khan Mewati, ruler of which territory?",
+      "options": [
+        "Malwa",
+        "Gondwana",
+        "Mewat",
+        "Marwar"
+      ],
+      "answer": 2,
+      "explanation": "Hasan Khan Mewati of Mewat was a key ally of Rana Sanga and fell at Khanwa."
+    },
+    {
+      "id": "rana-sanga-q28",
+      "difficulty": "hard",
+      "q": "Which Rajput chief of Marwar, ancestor of the later Jodhpur line, is associated with Rana Sanga's wider Rajput resurgence of the period?",
+      "options": [
+        "Man Singh of Amber",
+        "Jai Singh II",
+        "Durgadas Rathore",
+        "Rao Ganga of Marwar (and his son Maldeo)"
+      ],
+      "answer": 3,
+      "explanation": "Rao Ganga of Marwar, whose son Maldeo later expanded Marwar, was part of the Rajput political world of Rana Sanga's era."
+    },
+    {
+      "id": "rana-sanga-q29",
+      "difficulty": "hard",
+      "q": "Rana Sanga's reign followed a bitter succession struggle in which he was injured; with which brothers did he contend for the Mewar throne?",
+      "options": [
+        "Prithviraj and Jaimal",
+        "Udai Singh and Vikramaditya",
+        "Sanga had no brothers",
+        "Akbar and Bairam Khan"
+      ],
+      "answer": 0,
+      "explanation": "Rana Sanga contended with his brothers, including Prithviraj and Jaimal, in the struggle for the Mewar throne."
+    },
+    {
+      "id": "rana-sanga-q30",
+      "difficulty": "medium",
+      "q": "Khanwa is often regarded as more decisive than Panipat for Mughal rule because it removed which threat?",
+      "options": [
+        "The Portuguese on the western coast",
+        "The leading indigenous Rajput power that could have expelled Babur from north India",
+        "The Maratha confederacy",
+        "The Sikh misls of Punjab"
+      ],
+      "answer": 1,
+      "explanation": "Khanwa broke the main Rajput coalition under Rana Sanga, the strongest indigenous force that might have driven Babur out, securing Mughal dominance in the north."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "magadha",
+  "questions": [
+    {
+      "id": "magadha-q01",
+      "difficulty": "easy",
+      "q": "Magadha was an ancient kingdom centred in which present-day Indian state?",
+      "options": [
+        "Bihar",
+        "Rajasthan",
+        "Kerala",
+        "Punjab"
+      ],
+      "answer": 0,
+      "explanation": "Magadha lay on the Ganges plain in the region of present-day Bihar."
+    },
+    {
+      "id": "magadha-q02",
+      "difficulty": "easy",
+      "q": "From around which century BCE did Magadha rise to dominance?",
+      "options": [
+        "2nd century BCE",
+        "6th century BCE",
+        "10th century BCE",
+        "1st century CE"
+      ],
+      "answer": 1,
+      "explanation": "Magadha began rising to prominence from around the 6th century BCE."
+    },
+    {
+      "id": "magadha-q03",
+      "difficulty": "easy",
+      "q": "Along which major river system did the Magadhan kingdom develop?",
+      "options": [
+        "Indus",
+        "Narmada",
+        "Ganges",
+        "Kaveri"
+      ],
+      "answer": 2,
+      "explanation": "Magadha was centred on the fertile Ganges (Ganga) plain."
+    },
+    {
+      "id": "magadha-q04",
+      "difficulty": "easy",
+      "q": "What was the earliest capital of Magadha before Pataliputra?",
+      "options": [
+        "Ujjain",
+        "Mathura",
+        "Taxila",
+        "Rajagriha"
+      ],
+      "answer": 3,
+      "explanation": "Rajagriha (Rajgir) was Magadha's early capital before power shifted to Pataliputra."
+    },
+    {
+      "id": "magadha-q05",
+      "difficulty": "easy",
+      "q": "Which later city became the great capital of Magadha?",
+      "options": [
+        "Kanchipuram",
+        "Pataliputra",
+        "Dwaraka",
+        "Vidisha"
+      ],
+      "answer": 1,
+      "explanation": "Pataliputra, near modern Patna, became Magadha's enduring capital."
+    },
+    {
+      "id": "magadha-q06",
+      "difficulty": "easy",
+      "q": "Magadha is often described as the seedbed of India's first great what?",
+      "options": [
+        "Universities",
+        "Ports",
+        "Empires",
+        "Mosques"
+      ],
+      "answer": 2,
+      "explanation": "Magadha was the cradle from which India's first major empires arose."
+    },
+    {
+      "id": "magadha-q07",
+      "difficulty": "easy",
+      "q": "Which natural resource, abundant near Magadha, gave it a military and economic edge?",
+      "options": [
+        "Gold",
+        "Coal",
+        "Salt",
+        "Iron"
+      ],
+      "answer": 3,
+      "explanation": "Iron deposits in the region supplied weapons and tools that strengthened Magadha."
+    },
+    {
+      "id": "magadha-q08",
+      "difficulty": "easy",
+      "q": "Magadha's prosperity rested heavily on what quality of its land?",
+      "options": [
+        "Its fertility",
+        "Its desert dryness",
+        "Its rocky terrain",
+        "Its high altitude"
+      ],
+      "answer": 0,
+      "explanation": "The fertile Ganges plain made Magadha agriculturally rich and populous."
+    },
+    {
+      "id": "magadha-q09",
+      "difficulty": "easy",
+      "q": "Magadha was one of the great mahajanapadas of which broad period of ancient India?",
+      "options": [
+        "The colonial era",
+        "The medieval sultanate era",
+        "The early historic period",
+        "The Vedic stone age"
+      ],
+      "answer": 2,
+      "explanation": "Magadha was a leading mahajanapada of the early historic period from the 6th century BCE."
+    },
+    {
+      "id": "magadha-q10",
+      "difficulty": "easy",
+      "q": "Pataliputra, Magadha's later capital, corresponds to which modern city?",
+      "options": [
+        "Nagpur",
+        "Pune",
+        "Bhopal",
+        "Patna"
+      ],
+      "answer": 3,
+      "explanation": "Pataliputra stood at the site of present-day Patna in Bihar."
+    },
+    {
+      "id": "magadha-q11",
+      "difficulty": "medium",
+      "q": "Which dynasty is generally credited with first raising Magadha to dominance in the 6th century BCE?",
+      "options": [
+        "The Haryanka dynasty",
+        "The Mauryas",
+        "The Guptas",
+        "The Cholas"
+      ],
+      "answer": 0,
+      "explanation": "The Haryanka dynasty, under Bimbisara and Ajatashatru, made Magadha a leading power."
+    },
+    {
+      "id": "magadha-q12",
+      "difficulty": "medium",
+      "q": "Rajagriha, Magadha's early capital, is identified with which modern town?",
+      "options": [
+        "Raipur",
+        "Rajgir",
+        "Rajkot",
+        "Rajahmundry"
+      ],
+      "answer": 1,
+      "explanation": "Rajagriha corresponds to modern Rajgir in Bihar."
+    },
+    {
+      "id": "magadha-q13",
+      "difficulty": "medium",
+      "q": "Which neighbouring kingdom was annexed by Magadha to control eastern trade routes?",
+      "options": [
+        "Kamboja",
+        "Avanti",
+        "Gandhara",
+        "Anga"
+      ],
+      "answer": 3,
+      "explanation": "Magadha's annexation of Anga gave it access to eastern trade and the Ganges delta."
+    },
+    {
+      "id": "magadha-q14",
+      "difficulty": "medium",
+      "q": "Magadha was a contemporary setting for the lives of which two religious founders?",
+      "options": [
+        "The Buddha and Mahavira",
+        "Nanak and Kabir",
+        "Shankara and Ramanuja",
+        "Basava and Chaitanya"
+      ],
+      "answer": 0,
+      "explanation": "Both the Buddha and Mahavira lived and taught in and around Magadha in the 6th-5th centuries BCE."
+    },
+    {
+      "id": "magadha-q15",
+      "difficulty": "medium",
+      "q": "Rajagriha was notably surrounded and protected by what natural feature?",
+      "options": [
+        "A wide desert",
+        "A ring of hills",
+        "A coastal lagoon",
+        "A snowfield"
+      ],
+      "answer": 1,
+      "explanation": "Rajagriha lay within a ring of hills that gave it strong natural defences."
+    },
+    {
+      "id": "magadha-q16",
+      "difficulty": "medium",
+      "q": "Which dynasty succeeded the Haryankas in ruling Magadha?",
+      "options": [
+        "The Satavahana dynasty",
+        "The Pallava dynasty",
+        "The Shishunaga dynasty",
+        "The Pala dynasty"
+      ],
+      "answer": 2,
+      "explanation": "The Shishunaga dynasty followed the Haryankas as rulers of Magadha."
+    },
+    {
+      "id": "magadha-q17",
+      "difficulty": "medium",
+      "q": "Which dynasty, originating in Magadha, founded India's first pan-Indian empire around 321 BCE?",
+      "options": [
+        "The Mauryan dynasty",
+        "The Chalukya dynasty",
+        "The Vakataka dynasty",
+        "The Kushan dynasty"
+      ],
+      "answer": 0,
+      "explanation": "The Mauryas rose from Magadha to found the first empire spanning most of the subcontinent."
+    },
+    {
+      "id": "magadha-q18",
+      "difficulty": "medium",
+      "q": "Which later imperial dynasty also ruled from Pataliputra, the old Magadhan capital?",
+      "options": [
+        "The Hoysalas",
+        "The Cheras",
+        "The Guptas",
+        "The Rashtrakutas"
+      ],
+      "answer": 2,
+      "explanation": "The Gupta Empire of the 4th-6th centuries CE was also centred at Pataliputra."
+    },
+    {
+      "id": "magadha-q19",
+      "difficulty": "medium",
+      "q": "Magadha bordered which republican confederacy across the Ganges to its north?",
+      "options": [
+        "The Cholas",
+        "The Vajji confederacy",
+        "The Pandyas",
+        "The Kushans"
+      ],
+      "answer": 1,
+      "explanation": "The Vajji confederacy, centred on Vaishali, lay north of Magadha across the Ganges."
+    },
+    {
+      "id": "magadha-q20",
+      "difficulty": "medium",
+      "q": "What term is used for the great regional states like Magadha in the 6th century BCE?",
+      "options": [
+        "Misls",
+        "Subahs",
+        "Jagirs",
+        "Mahajanapadas"
+      ],
+      "answer": 3,
+      "explanation": "These large states of early historic India are called mahajanapadas."
+    },
+    {
+      "id": "magadha-q21",
+      "difficulty": "medium",
+      "q": "Magadha's military strength was famously aided by its large corps of which animal?",
+      "options": [
+        "Camels",
+        "Yaks",
+        "War elephants",
+        "Wild horses"
+      ],
+      "answer": 2,
+      "explanation": "Magadha's access to war elephants gave its armies an advantage over rivals."
+    },
+    {
+      "id": "magadha-q22",
+      "difficulty": "medium",
+      "q": "Which rival mahajanapada to Magadha's west was eventually absorbed into the growing kingdom?",
+      "options": [
+        "Avanti",
+        "Kalinga",
+        "Vanga",
+        "Kuru"
+      ],
+      "answer": 0,
+      "explanation": "Avanti, with its capital at Ujjain, was a major rival before Magadha absorbed it."
+    },
+    {
+      "id": "magadha-q23",
+      "difficulty": "hard",
+      "q": "Which Magadhan king of the Haryanka dynasty is traditionally said to have killed his father Bimbisara to take the throne?",
+      "options": [
+        "Shishunaga",
+        "Udayin",
+        "Mahapadma",
+        "Ajatashatru"
+      ],
+      "answer": 3,
+      "explanation": "Buddhist tradition holds that Ajatashatru imprisoned and killed his father Bimbisara."
+    },
+    {
+      "id": "magadha-q24",
+      "difficulty": "hard",
+      "q": "Which Magadhan ruler is traditionally credited with founding the city of Pataliputra by shifting the capital there?",
+      "options": [
+        "Bimbisara",
+        "Udayin",
+        "Chandragupta Maurya",
+        "Pushyamitra"
+      ],
+      "answer": 1,
+      "explanation": "Udayin, son of Ajatashatru, is credited with making Pataliputra the Magadhan capital."
+    },
+    {
+      "id": "magadha-q25",
+      "difficulty": "hard",
+      "q": "The Nanda dynasty that ruled Magadha before the Mauryas was founded by a king known as what?",
+      "options": [
+        "Bimbisara",
+        "Bindusara",
+        "Ajatashatru",
+        "Mahapadma Nanda"
+      ],
+      "answer": 3,
+      "explanation": "Mahapadma Nanda founded the Nanda dynasty that dominated Magadha in the 4th century BCE."
+    },
+    {
+      "id": "magadha-q26",
+      "difficulty": "hard",
+      "q": "Pataliputra stood near the confluence of the Ganges and which other major river?",
+      "options": [
+        "The Chambal",
+        "The Son",
+        "The Tapti",
+        "The Beas"
+      ],
+      "answer": 1,
+      "explanation": "Pataliputra lay near where the Son river met the Ganges, aiding trade and defence."
+    },
+    {
+      "id": "magadha-q27",
+      "difficulty": "hard",
+      "q": "Which Greek ambassador described Magadha's capital Pataliputra in detail during Mauryan times?",
+      "options": [
+        "Megasthenes",
+        "Herodotus",
+        "Strabo",
+        "Ptolemy"
+      ],
+      "answer": 0,
+      "explanation": "Megasthenes, envoy of Seleucus, described Pataliputra in his work the Indica."
+    },
+    {
+      "id": "magadha-q28",
+      "difficulty": "hard",
+      "q": "Magadha lay within which larger geographic and cultural region of the eastern Ganges plain?",
+      "options": [
+        "The Malabar coast",
+        "The Thar Desert",
+        "Madhyadesha and the eastern Gangetic basin",
+        "The Brahmaputra valley"
+      ],
+      "answer": 2,
+      "explanation": "Magadha occupied the eastern Gangetic basin, a core part of the northern Indian heartland."
+    },
+    {
+      "id": "magadha-q29",
+      "difficulty": "hard",
+      "q": "The First Buddhist Council, held soon after the Buddha's death, took place at which Magadhan site?",
+      "options": [
+        "Sarnath",
+        "Rajagriha",
+        "Lumbini",
+        "Sanchi"
+      ],
+      "answer": 1,
+      "explanation": "The First Buddhist Council was convened at Rajagriha, the Magadhan capital."
+    },
+    {
+      "id": "magadha-q30",
+      "difficulty": "hard",
+      "q": "Magadha's rise illustrates a broad shift in early Indian polity from tribal republics toward what?",
+      "options": [
+        "Nomadic confederacies",
+        "Maritime city-states",
+        "Theocratic temple-states",
+        "Large territorial monarchies"
+      ],
+      "answer": 3,
+      "explanation": "Magadha's growth marked the rise of large monarchical states absorbing smaller republics and kingdoms."
+    }
+  ]
+}

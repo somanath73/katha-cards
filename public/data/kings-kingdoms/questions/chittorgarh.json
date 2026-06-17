@@ -1,0 +1,395 @@
+{
+  "cardId": "chittorgarh",
+  "questions": [
+    {
+      "id": "chittorgarh-q01",
+      "difficulty": "easy",
+      "q": "Chittorgarh is located in which present-day Indian state?",
+      "options": [
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh",
+        "Maharashtra"
+      ],
+      "answer": 1,
+      "explanation": "Chittorgarh is a great hill fort in present-day Rajasthan."
+    },
+    {
+      "id": "chittorgarh-q02",
+      "difficulty": "easy",
+      "q": "Chittorgarh was long the capital of which kingdom?",
+      "options": [
+        "Marwar",
+        "Amber",
+        "Mewar",
+        "Bundi"
+      ],
+      "answer": 2,
+      "explanation": "Chittorgarh served for centuries as the capital of Mewar."
+    },
+    {
+      "id": "chittorgarh-q03",
+      "difficulty": "easy",
+      "q": "The rulers who held Chittorgarh as their seat belonged to which Rajput clan?",
+      "options": [
+        "Kachhwaha",
+        "Rathore",
+        "Chauhan",
+        "Sisodia"
+      ],
+      "answer": 3,
+      "explanation": "Chittorgarh was the seat of the Sisodia rulers of Mewar."
+    },
+    {
+      "id": "chittorgarh-q04",
+      "difficulty": "easy",
+      "q": "Chittorgarh is best described as which kind of site?",
+      "options": [
+        "A hill fort",
+        "A coastal port",
+        "A desert oasis town",
+        "A river delta city"
+      ],
+      "answer": 0,
+      "explanation": "Chittorgarh is a great hill fort, set atop a plateau in Rajasthan."
+    },
+    {
+      "id": "chittorgarh-q05",
+      "difficulty": "easy",
+      "q": "Chittorgarh is famous as the site of which dramatic acts during sieges?",
+      "options": [
+        "Coronation durbars",
+        "Jauhar",
+        "Trade fairs",
+        "Pilgrimage festivals only"
+      ],
+      "answer": 1,
+      "explanation": "The fort is renowned for famous sieges and acts of jauhar."
+    },
+    {
+      "id": "chittorgarh-q06",
+      "difficulty": "easy",
+      "q": "Which legendary queen is most closely associated with Chittorgarh?",
+      "options": [
+        "Rani Durgavati",
+        "Nur Jahan",
+        "Rani Padmini",
+        "Razia Sultana"
+      ],
+      "answer": 2,
+      "explanation": "The legendary Rani Padmini is most famously linked to Chittorgarh."
+    },
+    {
+      "id": "chittorgarh-q07",
+      "difficulty": "easy",
+      "q": "Chittorgarh is celebrated as a symbol of which group's resistance and honour?",
+      "options": [
+        "The Marathas",
+        "The Ahoms",
+        "The Cholas",
+        "The Rajputs"
+      ],
+      "answer": 3,
+      "explanation": "The fort stands as one of the most storied symbols of Rajput history and honour."
+    },
+    {
+      "id": "chittorgarh-q08",
+      "difficulty": "easy",
+      "q": "The shorter traditional name often used for Chittorgarh fort is which of these?",
+      "options": [
+        "Chittor",
+        "Cuttack",
+        "Chanderi",
+        "Champaner"
+      ],
+      "answer": 0,
+      "explanation": "The fort and its town are commonly called simply Chittor."
+    },
+    {
+      "id": "chittorgarh-q09",
+      "difficulty": "easy",
+      "q": "Jauhar at Chittorgarh refers to which act?",
+      "options": [
+        "A victory parade after a siege",
+        "Self-immolation by women to avoid capture",
+        "A treaty-signing ceremony",
+        "A harvest celebration"
+      ],
+      "answer": 1,
+      "explanation": "Jauhar was the collective self-immolation of women to avoid capture during sieges."
+    },
+    {
+      "id": "chittorgarh-q10",
+      "difficulty": "easy",
+      "q": "Chittorgarh fort is set atop what kind of landform?",
+      "options": [
+        "A sea cliff",
+        "An island in a lake",
+        "An elevated rocky plateau (hill)",
+        "A sand dune"
+      ],
+      "answer": 2,
+      "explanation": "The fort sits on an elevated rocky plateau rising above the surrounding plain."
+    },
+    {
+      "id": "chittorgarh-q11",
+      "difficulty": "medium",
+      "q": "Which Delhi Sultanate ruler besieged Chittor around 1303 CE?",
+      "options": [
+        "Iltutmish",
+        "Balban",
+        "Firuz Shah Tughlaq",
+        "Alauddin Khalji"
+      ],
+      "answer": 3,
+      "explanation": "Alauddin Khalji besieged and captured Chittor around 1303 CE."
+    },
+    {
+      "id": "chittorgarh-q12",
+      "difficulty": "medium",
+      "q": "Which Sisodia ruler recaptured and restored Mewar's power at Chittor in the 15th century, building the Vijaya Stambha?",
+      "options": [
+        "Rana Kumbha",
+        "Rana Sanga",
+        "Maharana Pratap",
+        "Rana Hammir's son alone"
+      ],
+      "answer": 0,
+      "explanation": "Rana Kumbha strengthened Chittor and built the Vijaya Stambha (Tower of Victory)."
+    },
+    {
+      "id": "chittorgarh-q13",
+      "difficulty": "medium",
+      "q": "The Vijaya Stambha at Chittorgarh is famous as what kind of monument?",
+      "options": [
+        "A royal mausoleum",
+        "A tower of victory",
+        "A grain store",
+        "A lighthouse"
+      ],
+      "answer": 1,
+      "explanation": "The Vijaya Stambha is a celebrated tower of victory built by Rana Kumbha."
+    },
+    {
+      "id": "chittorgarh-q14",
+      "difficulty": "medium",
+      "q": "Which Gujarat sultan sacked Chittor in 1535, prompting a famous jauhar?",
+      "options": [
+        "Mahmud Begada",
+        "Sher Shah Suri",
+        "Bahadur Shah of Gujarat",
+        "Hemu"
+      ],
+      "answer": 2,
+      "explanation": "Bahadur Shah of Gujarat besieged Chittor in 1535, leading to a major jauhar."
+    },
+    {
+      "id": "chittorgarh-q15",
+      "difficulty": "medium",
+      "q": "Which Mughal emperor captured Chittor in 1568, after which Mewar's capital shifted away from it?",
+      "options": [
+        "Babur",
+        "Humayun",
+        "Jahangir",
+        "Akbar"
+      ],
+      "answer": 3,
+      "explanation": "Akbar captured Chittor in 1568; Mewar's later capital moved to Udaipur."
+    },
+    {
+      "id": "chittorgarh-q16",
+      "difficulty": "medium",
+      "q": "After Chittor fell to the Mughals, which city became the new Mewar capital?",
+      "options": [
+        "Udaipur",
+        "Jaipur",
+        "Jodhpur",
+        "Bikaner"
+      ],
+      "answer": 0,
+      "explanation": "Mewar's rulers founded and shifted their capital to Udaipur after losing Chittor."
+    },
+    {
+      "id": "chittorgarh-q17",
+      "difficulty": "medium",
+      "q": "Tradition holds that Chittor faced how many major jauhars in its history?",
+      "options": [
+        "One",
+        "Three",
+        "Seven",
+        "Ten"
+      ],
+      "answer": 1,
+      "explanation": "Tradition records three great jauhars at Chittor (1303, 1535, and 1568)."
+    },
+    {
+      "id": "chittorgarh-q18",
+      "difficulty": "medium",
+      "q": "The Kirti Stambha (Tower of Fame) at Chittorgarh is associated with which religion?",
+      "options": [
+        "Buddhism",
+        "Sikhism",
+        "Jainism",
+        "Zoroastrianism"
+      ],
+      "answer": 2,
+      "explanation": "The Kirti Stambha is a Jain tower of fame within the Chittorgarh fort."
+    },
+    {
+      "id": "chittorgarh-q19",
+      "difficulty": "medium",
+      "q": "Chittorgarh fort was inscribed as a UNESCO World Heritage Site as part of which 2013 grouping?",
+      "options": [
+        "Mountain Railways of India",
+        "Group of Monuments at Hampi",
+        "Western Ghats",
+        "Hill Forts of Rajasthan"
+      ],
+      "answer": 3,
+      "explanation": "Chittorgarh is one of the Hill Forts of Rajasthan listed by UNESCO in 2013."
+    },
+    {
+      "id": "chittorgarh-q20",
+      "difficulty": "medium",
+      "q": "The 16th-century mystic poet-saint Mirabai is traditionally associated with Chittor through marriage into which house?",
+      "options": [
+        "The Sisodia royal house of Mewar",
+        "The Mughal imperial family",
+        "The Kachhwaha house of Amber",
+        "The Bhonsle house"
+      ],
+      "answer": 0,
+      "explanation": "Mirabai is traditionally tied to the Sisodia royal house of Mewar at Chittor."
+    },
+    {
+      "id": "chittorgarh-q21",
+      "difficulty": "medium",
+      "q": "The poem Padmavat, which dramatizes Chittor's siege, was composed by whom?",
+      "options": [
+        "Amir Khusrau",
+        "Malik Muhammad Jayasi",
+        "Banabhatta",
+        "Kalidasa"
+      ],
+      "answer": 1,
+      "explanation": "Malik Muhammad Jayasi composed the Padmavat about the legend of Padmini at Chittor."
+    },
+    {
+      "id": "chittorgarh-q22",
+      "difficulty": "medium",
+      "q": "Which Rana, defeated by Babur at Khanwa in 1527, ruled Mewar from Chittor?",
+      "options": [
+        "Rana Kumbha",
+        "Rana Hammir",
+        "Rana Sanga",
+        "Rana Udai Singh"
+      ],
+      "answer": 2,
+      "explanation": "Rana Sanga (Sangram Singh) ruled Mewar from Chittor and fought Babur at Khanwa."
+    },
+    {
+      "id": "chittorgarh-q23",
+      "difficulty": "hard",
+      "q": "Which Rajput chief is said to have heroically led the defence during Akbar's 1567 to 1568 siege of Chittor?",
+      "options": [
+        "Man Singh",
+        "Rana Pratap",
+        "Hemu",
+        "Jaimal and Patta"
+      ],
+      "answer": 3,
+      "explanation": "Jaimal and Patta are celebrated for leading Chittor's defence against Akbar in 1567 to 1568."
+    },
+    {
+      "id": "chittorgarh-q24",
+      "difficulty": "hard",
+      "q": "Which Sisodia ruler is traditionally credited with first wresting Chittor for the Sisodia line in the 14th century after the Khalji conquest?",
+      "options": [
+        "Rana Hammir Singh",
+        "Rana Kumbha",
+        "Rana Sanga",
+        "Rana Udai Singh"
+      ],
+      "answer": 0,
+      "explanation": "Rana Hammir Singh is traditionally credited with re-establishing Sisodia rule over Chittor."
+    },
+    {
+      "id": "chittorgarh-q25",
+      "difficulty": "hard",
+      "q": "The legend of Padmini links Alauddin Khalji's 1303 siege of Chittor to which Rajput king of Mewar?",
+      "options": [
+        "Rana Kumbha",
+        "Rawal Ratan Singh",
+        "Rana Sanga",
+        "Bappa Rawal"
+      ],
+      "answer": 1,
+      "explanation": "The Padmini legend names Rawal Ratan Singh as the Mewar king during the 1303 siege."
+    },
+    {
+      "id": "chittorgarh-q26",
+      "difficulty": "hard",
+      "q": "The Vijaya Stambha built by Rana Kumbha commemorated a victory over which adversary?",
+      "options": [
+        "The Mughals",
+        "The Marathas",
+        "The Sultan of Malwa",
+        "The Portuguese"
+      ],
+      "answer": 2,
+      "explanation": "The Tower of Victory is traditionally said to mark Rana Kumbha's triumph over the Malwa Sultanate."
+    },
+    {
+      "id": "chittorgarh-q27",
+      "difficulty": "hard",
+      "q": "How many gates (pols) traditionally guard the approach up to Chittorgarh fort?",
+      "options": [
+        "Two",
+        "Twelve",
+        "Twenty",
+        "Seven"
+      ],
+      "answer": 3,
+      "explanation": "Seven massive gates (pols) traditionally guard the winding ascent to the fort."
+    },
+    {
+      "id": "chittorgarh-q28",
+      "difficulty": "hard",
+      "q": "The figure of Padmini is regarded by historians as which of the following?",
+      "options": [
+        "A largely legendary figure first popularized by later poetry",
+        "A well-documented historical empress",
+        "A Mughal court chronicler",
+        "A Chola-era queen"
+      ],
+      "answer": 0,
+      "explanation": "Padmini is widely treated as a legendary figure popularized by Jayasi's 16th-century Padmavat, not firm history."
+    },
+    {
+      "id": "chittorgarh-q29",
+      "difficulty": "hard",
+      "q": "Which large water bodies were a notable feature of Chittorgarh fort's self-sufficiency in sieges?",
+      "options": [
+        "Salt pans",
+        "Numerous reservoirs and ponds (kunds)",
+        "Tidal harbours",
+        "Hot springs"
+      ],
+      "answer": 1,
+      "explanation": "The fort contained many reservoirs and ponds that helped it withstand long sieges."
+    },
+    {
+      "id": "chittorgarh-q30",
+      "difficulty": "hard",
+      "q": "Rana Udai Singh II, who relocated Mewar's capital to Udaipur, was the father of which famous Mewar ruler?",
+      "options": [
+        "Rana Kumbha",
+        "Rana Sanga",
+        "Maharana Pratap",
+        "Rana Hammir"
+      ],
+      "answer": 2,
+      "explanation": "Udai Singh II, who founded Udaipur after Chittor's fall, was the father of Maharana Pratap."
+    }
+  ]
+}

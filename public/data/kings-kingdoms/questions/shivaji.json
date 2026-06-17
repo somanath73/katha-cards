@@ -1,0 +1,395 @@
+{
+  "cardId": "shivaji",
+  "questions": [
+    {
+      "id": "shivaji-q01",
+      "difficulty": "easy",
+      "q": "Shivaji is celebrated as the founder of which Indian kingdom?",
+      "options": [
+        "The Maratha kingdom",
+        "The Sikh Empire",
+        "The Mysore kingdom",
+        "The Ahom kingdom"
+      ],
+      "answer": 0,
+      "explanation": "Shivaji Bhonsle founded the Maratha kingdom in western India in the 17th century."
+    },
+    {
+      "id": "shivaji-q02",
+      "difficulty": "easy",
+      "q": "In which century did Shivaji establish the Maratha kingdom?",
+      "options": [
+        "15th century CE",
+        "17th century CE",
+        "16th century CE",
+        "18th century CE"
+      ],
+      "answer": 1,
+      "explanation": "Shivaji built the Maratha state during the 17th century CE."
+    },
+    {
+      "id": "shivaji-q03",
+      "difficulty": "easy",
+      "q": "What royal title did Shivaji take at his coronation?",
+      "options": [
+        "Sultan",
+        "Maharajadhiraja",
+        "Chhatrapati",
+        "Nawab"
+      ],
+      "answer": 2,
+      "explanation": "Shivaji was crowned Chhatrapati, meaning paramount sovereign, in 1674."
+    },
+    {
+      "id": "shivaji-q04",
+      "difficulty": "easy",
+      "q": "At which hill fort was Shivaji crowned Chhatrapati in 1674?",
+      "options": [
+        "Torna",
+        "Sinhagad",
+        "Pratapgad",
+        "Raigad"
+      ],
+      "answer": 3,
+      "explanation": "Shivaji's grand coronation took place at Raigad Fort in 1674."
+    },
+    {
+      "id": "shivaji-q05",
+      "difficulty": "easy",
+      "q": "What was Shivaji's family surname?",
+      "options": [
+        "Holkar",
+        "Bhonsle",
+        "Scindia",
+        "Gaikwad"
+      ],
+      "answer": 1,
+      "explanation": "Shivaji belonged to the Bhonsle clan; his full name was Shivaji Bhonsle."
+    },
+    {
+      "id": "shivaji-q06",
+      "difficulty": "easy",
+      "q": "Shivaji is especially remembered for pioneering which style of warfare in western India?",
+      "options": [
+        "Trench warfare",
+        "Siege artillery duels",
+        "Guerrilla warfare",
+        "Naval blockade only"
+      ],
+      "answer": 2,
+      "explanation": "Shivaji built his kingdom largely through mobile guerrilla warfare in the Western Ghats."
+    },
+    {
+      "id": "shivaji-q07",
+      "difficulty": "easy",
+      "q": "Against which empire did Shivaji wage a long struggle in the Deccan?",
+      "options": [
+        "The Vijayanagara Empire",
+        "The Gupta Empire",
+        "The Chola Empire",
+        "The Mughal Empire"
+      ],
+      "answer": 3,
+      "explanation": "Shivaji fought the Mughals as well as the Deccan sultanates to carve out his kingdom."
+    },
+    {
+      "id": "shivaji-q08",
+      "difficulty": "easy",
+      "q": "In which mountainous region of western India did Shivaji build his network of forts?",
+      "options": [
+        "The Sahyadri (Western Ghats)",
+        "The Himalayas",
+        "The Aravallis",
+        "The Vindhyas"
+      ],
+      "answer": 0,
+      "explanation": "Shivaji's forts were concentrated in the Sahyadri range, the Western Ghats of Maharashtra."
+    },
+    {
+      "id": "shivaji-q09",
+      "difficulty": "easy",
+      "q": "Besides land forces, Shivaji is noted for developing what for his kingdom?",
+      "options": [
+        "Gunpowder mills only",
+        "A railway",
+        "A navy",
+        "A trading company"
+      ],
+      "answer": 2,
+      "explanation": "Shivaji built a navy to guard the Konkan coast, earning him the title 'Father of the Indian Navy'."
+    },
+    {
+      "id": "shivaji-q10",
+      "difficulty": "easy",
+      "q": "Shivaji's kingdom is often linked to the ideal of 'Hindavi Swarajya', meaning roughly:",
+      "options": [
+        "Foreign trade",
+        "Royal monopoly",
+        "Religious conversion",
+        "Self-rule"
+      ],
+      "answer": 3,
+      "explanation": "Hindavi Swarajya expressed Shivaji's ideal of self-rule for the people of his land."
+    },
+    {
+      "id": "shivaji-q11",
+      "difficulty": "medium",
+      "q": "Which Bijapur general did Shivaji famously kill at Pratapgad in 1659?",
+      "options": [
+        "Afzal Khan",
+        "Shaista Khan",
+        "Siddi Jauhar",
+        "Jai Singh"
+      ],
+      "answer": 0,
+      "explanation": "Shivaji killed the Adilshahi general Afzal Khan during their meeting at Pratapgad in 1659."
+    },
+    {
+      "id": "shivaji-q12",
+      "difficulty": "medium",
+      "q": "Which Mughal noble and uncle of Aurangzeb did Shivaji raid by night at Pune in 1663, wounding him?",
+      "options": [
+        "Mirza Raja Jai Singh",
+        "Shaista Khan",
+        "Dilir Khan",
+        "Jaswant Singh"
+      ],
+      "answer": 1,
+      "explanation": "Shivaji launched a daring night raid on Shaista Khan at Pune in 1663, cutting off the noble's fingers as he fled."
+    },
+    {
+      "id": "shivaji-q13",
+      "difficulty": "medium",
+      "q": "By which 1665 treaty did Shivaji agree to surrender a number of forts to the Mughals?",
+      "options": [
+        "Treaty of Salbai",
+        "Treaty of Bassein",
+        "Treaty of Surat",
+        "Treaty of Purandar"
+      ],
+      "answer": 3,
+      "explanation": "The Treaty of Purandar in 1665, negotiated by Jai Singh, required Shivaji to give up many forts to the Mughals."
+    },
+    {
+      "id": "shivaji-q14",
+      "difficulty": "medium",
+      "q": "Shivaji's bold escape in 1666 was from imprisonment in which Mughal city?",
+      "options": [
+        "Agra",
+        "Delhi",
+        "Lahore",
+        "Burhanpur"
+      ],
+      "answer": 0,
+      "explanation": "Shivaji famously escaped from house arrest at Agra in 1666, reportedly hidden in baskets of sweets."
+    },
+    {
+      "id": "shivaji-q15",
+      "difficulty": "medium",
+      "q": "Which prosperous Mughal trading port did Shivaji sack in 1664 and raid again in 1670?",
+      "options": [
+        "Goa",
+        "Surat",
+        "Calicut",
+        "Masulipatnam"
+      ],
+      "answer": 1,
+      "explanation": "Shivaji raided the wealthy Mughal trading port of Surat in 1664 and returned in 1670."
+    },
+    {
+      "id": "shivaji-q16",
+      "difficulty": "medium",
+      "q": "Who was Shivaji's revered mother, a major influence on his upbringing?",
+      "options": [
+        "Saibai",
+        "Soyarabai",
+        "Jijabai",
+        "Putalabai"
+      ],
+      "answer": 2,
+      "explanation": "Shivaji's mother Jijabai is remembered for shaping his character and ideals."
+    },
+    {
+      "id": "shivaji-q17",
+      "difficulty": "medium",
+      "q": "Who was Shivaji's father, a noble who served the Deccan sultanates?",
+      "options": [
+        "Shahaji Bhonsle",
+        "Maloji Bhonsle",
+        "Sambhaji Bhonsle",
+        "Ekoji Bhonsle"
+      ],
+      "answer": 0,
+      "explanation": "Shivaji's father was Shahaji Bhonsle, a military commander serving Bijapur and other Deccan states."
+    },
+    {
+      "id": "shivaji-q18",
+      "difficulty": "medium",
+      "q": "Which loyal commander is said to have sacrificed his life at the recapture of Sinhagad fort in 1670?",
+      "options": [
+        "Netaji Palkar",
+        "Baji Prabhu Deshpande",
+        "Tanaji Malusare",
+        "Hambirao Mohite"
+      ],
+      "answer": 2,
+      "explanation": "Tanaji Malusare died capturing Sinhagad in 1670, prompting Shivaji's famous lament about the lion."
+    },
+    {
+      "id": "shivaji-q19",
+      "difficulty": "medium",
+      "q": "Around which year was Shivaji born, according to the most widely accepted tradition?",
+      "options": [
+        "1605",
+        "1630",
+        "1657",
+        "1674"
+      ],
+      "answer": 1,
+      "explanation": "Shivaji is most commonly held to have been born in 1630 at the hill fort of Shivneri."
+    },
+    {
+      "id": "shivaji-q20",
+      "difficulty": "medium",
+      "q": "At which hill fort is Shivaji traditionally said to have been born?",
+      "options": [
+        "Rajgad",
+        "Raigad",
+        "Torna",
+        "Shivneri"
+      ],
+      "answer": 3,
+      "explanation": "Shivaji was born at Shivneri Fort, near Junnar in present-day Maharashtra."
+    },
+    {
+      "id": "shivaji-q21",
+      "difficulty": "medium",
+      "q": "Which fort, captured around 1646, is often considered the first that the young Shivaji seized?",
+      "options": [
+        "Sindhudurg",
+        "Pratapgad",
+        "Torna",
+        "Vijaydurg"
+      ],
+      "answer": 2,
+      "explanation": "Torna Fort, taken around 1646, is often cited as Shivaji's first conquest as a teenager."
+    },
+    {
+      "id": "shivaji-q22",
+      "difficulty": "medium",
+      "q": "In which year did Shivaji die, passing his kingdom to his successor?",
+      "options": [
+        "1680",
+        "1674",
+        "1689",
+        "1707"
+      ],
+      "answer": 0,
+      "explanation": "Shivaji died in 1680 at Raigad, leaving the Maratha kingdom to his son."
+    },
+    {
+      "id": "shivaji-q23",
+      "difficulty": "hard",
+      "q": "What was the name of Shivaji's eight-minister council of state?",
+      "options": [
+        "Mansabdari",
+        "Navaratna",
+        "Diwan-i-Khas",
+        "Ashtapradhan"
+      ],
+      "answer": 3,
+      "explanation": "Shivaji governed with the Ashtapradhan, a council of eight ministers headed by the Peshwa."
+    },
+    {
+      "id": "shivaji-q24",
+      "difficulty": "hard",
+      "q": "Which Brahmin scholar is traditionally said to have led the rituals of Shivaji's 1674 coronation at Raigad?",
+      "options": [
+        "Ramdas",
+        "Gaga Bhatt",
+        "Tukaram",
+        "Moropant Pingle"
+      ],
+      "answer": 1,
+      "explanation": "The pandit Gaga Bhatt of Varanasi presided over Shivaji's Vedic coronation ceremony at Raigad."
+    },
+    {
+      "id": "shivaji-q25",
+      "difficulty": "hard",
+      "q": "What name did Shivaji give to the new calendar era he inaugurated at his coronation?",
+      "options": [
+        "Vikram Samvat",
+        "Rajyabhishek Shaka",
+        "Saka era",
+        "Kollam era"
+      ],
+      "answer": 1,
+      "explanation": "Shivaji began a new era, the Rajyabhishek Shaka, dated from his coronation in 1674."
+    },
+    {
+      "id": "shivaji-q26",
+      "difficulty": "hard",
+      "q": "Which coastal sea fort did Shivaji build on a rock off the Konkan coast around 1664?",
+      "options": [
+        "Daman",
+        "Janjira",
+        "Bassein",
+        "Sindhudurg"
+      ],
+      "answer": 3,
+      "explanation": "Shivaji constructed the island sea fort of Sindhudurg off the Malvan coast to anchor his naval power."
+    },
+    {
+      "id": "shivaji-q27",
+      "difficulty": "hard",
+      "q": "Which Mughal general negotiated the Treaty of Purandar with Shivaji on Aurangzeb's behalf?",
+      "options": [
+        "Mirza Raja Jai Singh",
+        "Shaista Khan",
+        "Diler Khan",
+        "Bahadur Khan"
+      ],
+      "answer": 0,
+      "explanation": "Mirza Raja Jai Singh I of Amber led the Mughal campaign that produced the Treaty of Purandar in 1665."
+    },
+    {
+      "id": "shivaji-q28",
+      "difficulty": "hard",
+      "q": "After his escape from the siege at Panhala in 1660, Shivaji's safety was secured by the sacrifice of which commander at Pavan Khind?",
+      "options": [
+        "Yesaji Kank",
+        "Tanaji Malusare",
+        "Baji Prabhu Deshpande",
+        "Murarbaji Deshpande"
+      ],
+      "answer": 2,
+      "explanation": "Baji Prabhu Deshpande held the pass at Pavan Khind, dying so Shivaji could reach Vishalgad safely."
+    },
+    {
+      "id": "shivaji-q29",
+      "difficulty": "hard",
+      "q": "Which administrative land-revenue and Persian-replacing lexicon reforms did Shivaji promote in governance?",
+      "options": [
+        "Todar Mal's bandobast",
+        "Ain-i-Akbari",
+        "Dahsala system",
+        "Rajya Vyavahara Kosha"
+      ],
+      "answer": 3,
+      "explanation": "Shivaji commissioned the Rajya Vyavahara Kosha to replace Persian administrative terms with Sanskrit ones."
+    },
+    {
+      "id": "shivaji-q30",
+      "difficulty": "hard",
+      "q": "Which spiritual figure is traditionally regarded as a guru and inspiration to Shivaji?",
+      "options": [
+        "Kabir",
+        "Samarth Ramdas",
+        "Guru Nanak",
+        "Basava"
+      ],
+      "answer": 1,
+      "explanation": "The saint Samarth Ramdas is traditionally linked to Shivaji as a spiritual guide, though the connection is debated by historians."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "chera-dynasty",
+  "questions": [
+    {
+      "id": "chera-dynasty-q01",
+      "difficulty": "easy",
+      "q": "The Cheras were an ancient dynasty associated chiefly with which present-day Indian state?",
+      "options": [
+        "Kerala",
+        "Punjab",
+        "Bihar",
+        "Assam"
+      ],
+      "answer": 0,
+      "explanation": "The Cheras ruled the Malabar coast in present-day Kerala (and adjoining parts of Tamil Nadu)."
+    },
+    {
+      "id": "chera-dynasty-q02",
+      "difficulty": "easy",
+      "q": "The Cheras were one of the three ancient kingdoms of which language region?",
+      "options": [
+        "The Bengali region",
+        "The Tamil region",
+        "The Marathi region",
+        "The Kashmiri region"
+      ],
+      "answer": 1,
+      "explanation": "The Cheras, Cholas, and Pandyas were the three crowned Tamil dynasties of the Sangam age."
+    },
+    {
+      "id": "chera-dynasty-q03",
+      "difficulty": "easy",
+      "q": "Which valuable spice was central to the Chera trade with foreign merchants?",
+      "options": [
+        "Saffron",
+        "Cinnamon of Sri Lanka",
+        "Pepper",
+        "Vanilla"
+      ],
+      "answer": 2,
+      "explanation": "The Cheras grew rich on the pepper and spice trade of the Malabar coast."
+    },
+    {
+      "id": "chera-dynasty-q04",
+      "difficulty": "easy",
+      "q": "The Cheras feature prominently in which body of early Tamil literature?",
+      "options": [
+        "The Vedas",
+        "Mughal court chronicles",
+        "The Puranas of the Guptas",
+        "Sangam literature"
+      ],
+      "answer": 3,
+      "explanation": "The Cheras are richly described in the early Tamil Sangam corpus."
+    },
+    {
+      "id": "chera-dynasty-q05",
+      "difficulty": "easy",
+      "q": "Chera trade linked their coast with merchants from which distant empire to the west?",
+      "options": [
+        "Rome",
+        "China",
+        "Japan",
+        "Mexico"
+      ],
+      "answer": 0,
+      "explanation": "Roman, Arab, and other merchants traded with the Cheras for pepper and spices."
+    },
+    {
+      "id": "chera-dynasty-q06",
+      "difficulty": "easy",
+      "q": "The coast the Cheras controlled is commonly known by what name?",
+      "options": [
+        "The Coromandel coast",
+        "The Malabar coast",
+        "The Konkan coast",
+        "The Gujarat coast"
+      ],
+      "answer": 1,
+      "explanation": "The Cheras ruled the Malabar (southwestern) coast of the Indian peninsula."
+    },
+    {
+      "id": "chera-dynasty-q07",
+      "difficulty": "easy",
+      "q": "Which of these goods was a major export from Chera ports?",
+      "options": [
+        "Coal",
+        "Iron cannon",
+        "Spices such as pepper",
+        "Tea (only in modern times)"
+      ],
+      "answer": 2,
+      "explanation": "Pepper and other spices were the famous exports of the Chera realm."
+    },
+    {
+      "id": "chera-dynasty-q08",
+      "difficulty": "easy",
+      "q": "The Cheras are described as kings of which broad period in their earliest phase?",
+      "options": [
+        "The Mughal era",
+        "The Delhi Sultanate",
+        "The Indus Valley civilization",
+        "The Sangam age (early centuries around the Common Era)"
+      ],
+      "answer": 3,
+      "explanation": "The early Cheras belong to the Sangam age, around the turn of the Common Era."
+    },
+    {
+      "id": "chera-dynasty-q09",
+      "difficulty": "easy",
+      "q": "Which classical European geographers and texts mention the Chera (Cerobothra) and the pepper ports?",
+      "options": [
+        "Greco-Roman sources like the Periplus",
+        "Chinese dynastic annals only",
+        "Persian Avesta",
+        "Egyptian hieroglyphs"
+      ],
+      "answer": 0,
+      "explanation": "Greco-Roman works such as the Periplus of the Erythraean Sea mention the Chera kingdom and its ports."
+    },
+    {
+      "id": "chera-dynasty-q10",
+      "difficulty": "easy",
+      "q": "The Cheras were primarily what kind of power?",
+      "options": [
+        "A north Indian Buddhist empire",
+        "A Tamil dynasty of the southwest coast",
+        "A Central Asian nomadic confederacy",
+        "A European trading company"
+      ],
+      "answer": 1,
+      "explanation": "The Cheras were one of the ancient Tamil dynasties ruling the southwestern coast."
+    },
+    {
+      "id": "chera-dynasty-q11",
+      "difficulty": "medium",
+      "q": "Which famous Sangam-era Chera king is celebrated in the poem Patitrupattu and led campaigns to the north?",
+      "options": [
+        "Karikala",
+        "Nedunjeliyan",
+        "Senguttuvan (Cheran Senguttuvan)",
+        "Rajaraja"
+      ],
+      "answer": 2,
+      "explanation": "Cheran Senguttuvan is the renowned Chera king praised in Sangam works such as the Patitrupattu and the Silappadikaram."
+    },
+    {
+      "id": "chera-dynasty-q12",
+      "difficulty": "medium",
+      "q": "Cheran Senguttuvan is traditionally linked to the founding of the cult of which goddess?",
+      "options": [
+        "Meenakshi",
+        "Kali of Kolkata",
+        "Durga of Bengal",
+        "Kannagi (Pattini)"
+      ],
+      "answer": 3,
+      "explanation": "Senguttuvan is associated with establishing the Pattini cult of Kannagi, heroine of the Silappadikaram."
+    },
+    {
+      "id": "chera-dynasty-q13",
+      "difficulty": "medium",
+      "q": "Which Tamil epic, set partly in the Chera land, tells the story of Kannagi and Kovalan?",
+      "options": [
+        "Silappadikaram",
+        "Ramayana",
+        "Mahabharata",
+        "Meghaduta"
+      ],
+      "answer": 0,
+      "explanation": "The Silappadikaram, attributed to Ilango Adigal, connects to the Chera court of Senguttuvan."
+    },
+    {
+      "id": "chera-dynasty-q14",
+      "difficulty": "medium",
+      "q": "The early Cheras' principal capital is often identified with which ancient site?",
+      "options": [
+        "Madurai",
+        "Vanji (Karur / Tiruvanchikulam)",
+        "Thanjavur",
+        "Kanchipuram"
+      ],
+      "answer": 1,
+      "explanation": "The early Chera capital Vanji is variously identified with Karur or a coastal site, a major seat of Chera power."
+    },
+    {
+      "id": "chera-dynasty-q15",
+      "difficulty": "medium",
+      "q": "The famous ancient Chera (and broader Tamil) trading port that handled Roman commerce was called what?",
+      "options": [
+        "Lothal",
+        "Tamralipti",
+        "Muziris (Muciri)",
+        "Bharuch"
+      ],
+      "answer": 2,
+      "explanation": "Muziris on the Chera coast was the great emporium of Roman-Indian trade in spices."
+    },
+    {
+      "id": "chera-dynasty-q16",
+      "difficulty": "medium",
+      "q": "The later medieval line that revived Chera power from around the 9th century is known as which?",
+      "options": [
+        "The Hoysalas",
+        "The Kakatiyas",
+        "The Pallavas",
+        "The Chera Perumals (Kulasekharas) of Mahodayapuram"
+      ],
+      "answer": 3,
+      "explanation": "The later Cheras, the Chera Perumals or Kulasekharas, ruled from Mahodayapuram (Kodungallur)."
+    },
+    {
+      "id": "chera-dynasty-q17",
+      "difficulty": "medium",
+      "q": "The Sangam-era Cheras frequently fought against which neighbouring Tamil dynasties?",
+      "options": [
+        "The Cholas and Pandyas",
+        "The Mughals and Marathas",
+        "The Mauryas and Guptas",
+        "The Palas and Pratiharas"
+      ],
+      "answer": 0,
+      "explanation": "The three crowned kings, Cheras, Cholas, and Pandyas, frequently warred among themselves."
+    },
+    {
+      "id": "chera-dynasty-q18",
+      "difficulty": "medium",
+      "q": "Roman gold coins (aurei) found in hoards in Kerala and Tamil Nadu testify to trade with which dynasty among others?",
+      "options": [
+        "The Mughals",
+        "The Cheras",
+        "The Delhi Sultans",
+        "The Kushans"
+      ],
+      "answer": 1,
+      "explanation": "Hoards of Roman coins along the Malabar coast attest to the lucrative Chera spice trade with Rome."
+    },
+    {
+      "id": "chera-dynasty-q19",
+      "difficulty": "medium",
+      "q": "The emblem of the Chera dynasty was traditionally said to be which symbol?",
+      "options": [
+        "The tiger",
+        "The fish",
+        "The bow",
+        "The lion"
+      ],
+      "answer": 2,
+      "explanation": "The Chera royal emblem was the bow, just as the Chola emblem was the tiger and the Pandya the fish."
+    },
+    {
+      "id": "chera-dynasty-q20",
+      "difficulty": "medium",
+      "q": "The later Chera Perumal kingdom is traditionally said to have ended with the partition of the realm and the abdication of which last ruler?",
+      "options": [
+        "Senguttuvan",
+        "Karikala",
+        "Nedunjeliyan",
+        "Rama Varma Kulasekhara"
+      ],
+      "answer": 3,
+      "explanation": "The Chera Perumal kingdom is traditionally said to have dissolved in the early 12th century under the last Perumal, Rama Varma Kulasekhara."
+    },
+    {
+      "id": "chera-dynasty-q21",
+      "difficulty": "medium",
+      "q": "Which devotional Tamil poet-saint, a Vaishnava Alvar, was a king of the later Chera line?",
+      "options": [
+        "Kulasekhara Alvar",
+        "Andal",
+        "Appar",
+        "Sundarar"
+      ],
+      "answer": 0,
+      "explanation": "Kulasekhara Alvar, one of the twelve Vaishnava Alvars, is identified with the Chera royal house."
+    },
+    {
+      "id": "chera-dynasty-q22",
+      "difficulty": "medium",
+      "q": "The Sangam anthology Patitrupattu ('Ten Tens') is devoted to praising the kings of which dynasty?",
+      "options": [
+        "The Pandyas",
+        "The Cheras",
+        "The Pallavas",
+        "The Cholas"
+      ],
+      "answer": 1,
+      "explanation": "The Patitrupattu is a Sangam collection composed in praise of a line of Chera kings."
+    },
+    {
+      "id": "chera-dynasty-q23",
+      "difficulty": "hard",
+      "q": "The Pugalur (Pugalur) inscriptions, among the earliest Tamil-Brahmi records, relate to the early kings of which dynasty?",
+      "options": [
+        "The Mauryas",
+        "The Satavahanas",
+        "The Cheras (Irumporai line)",
+        "The Kadambas"
+      ],
+      "answer": 2,
+      "explanation": "The Pugalur Tamil-Brahmi inscriptions name early Chera (Irumporai) rulers and their succession."
+    },
+    {
+      "id": "chera-dynasty-q24",
+      "difficulty": "hard",
+      "q": "Cheran Senguttuvan's northern expedition was traditionally said to bring a stone for an idol from which river region?",
+      "options": [
+        "The Kaveri delta",
+        "The Indus",
+        "The Brahmaputra",
+        "The Himalayas / Ganges"
+      ],
+      "answer": 3,
+      "explanation": "Legend holds Senguttuvan marched north to the Himalayas to bring stone from the Ganges region for the Kannagi image."
+    },
+    {
+      "id": "chera-dynasty-q25",
+      "difficulty": "hard",
+      "q": "The later Chera capital Mahodayapuram is identified with which modern town in Kerala?",
+      "options": [
+        "Kodungallur (Cranganore)",
+        "Thiruvananthapuram",
+        "Kochi",
+        "Kozhikode"
+      ],
+      "answer": 0,
+      "explanation": "Mahodayapuram corresponds to Kodungallur (Cranganore), the seat of the Chera Perumals."
+    },
+    {
+      "id": "chera-dynasty-q26",
+      "difficulty": "hard",
+      "q": "The later Chera Perumals fought prolonged wars against which expanding southern empire from the 10th to 11th centuries?",
+      "options": [
+        "The Hoysalas",
+        "The Cholas",
+        "The Kakatiyas",
+        "The Vijayanagara empire"
+      ],
+      "answer": 1,
+      "explanation": "The Chera Perumals waged the long Chera-Chola wars against the expanding Chola empire."
+    },
+    {
+      "id": "chera-dynasty-q27",
+      "difficulty": "hard",
+      "q": "The Sangam Chera king Senguttuvan belonged to which branch or line of the Chera house?",
+      "options": [
+        "The Kushan line",
+        "The Pallava Simhavishnu line",
+        "The Cheras of the elder (Utiyan) line ruling from the coast",
+        "The Western Ganga line"
+      ],
+      "answer": 2,
+      "explanation": "Senguttuvan belonged to the main Sangam-era Chera line descending from Utiyan Cheralatan."
+    },
+    {
+      "id": "chera-dynasty-q28",
+      "difficulty": "hard",
+      "q": "Which ancient port mentioned in the Periplus and identified with Tyndis lay on the Chera coast?",
+      "options": [
+        "Sopara near Mumbai",
+        "Arikamedu near Pondicherry",
+        "Tamralipti in Bengal",
+        "Tyndis (near modern Kozhikode/Ponnani)"
+      ],
+      "answer": 3,
+      "explanation": "Tyndis, named in the Periplus alongside Muziris, was a Chera-coast port of the Roman trade."
+    },
+    {
+      "id": "chera-dynasty-q29",
+      "difficulty": "hard",
+      "q": "The early Chera kings issued the earliest dynasty's coins bearing which emblem and portraits influenced by foreign coinage?",
+      "options": [
+        "The bow-and-arrow emblem",
+        "The double-headed eagle",
+        "The Roman she-wolf",
+        "The wheel of Ashoka"
+      ],
+      "answer": 0,
+      "explanation": "Early Chera coins carry the dynasty's bow-and-arrow emblem, sometimes alongside other motifs."
+    },
+    {
+      "id": "chera-dynasty-q30",
+      "difficulty": "hard",
+      "q": "The dissolution of the later Chera Perumal kingdom is traditionally said to have given rise to small principalities, including the rulers of which later prominent kingdom?",
+      "options": [
+        "Magadha",
+        "Venad (which grew into Travancore)",
+        "Mewar",
+        "Vijayanagara"
+      ],
+      "answer": 1,
+      "explanation": "After the Chera Perumals, successor principalities such as Venad arose, later developing into Travancore."
+    }
+  ]
+}

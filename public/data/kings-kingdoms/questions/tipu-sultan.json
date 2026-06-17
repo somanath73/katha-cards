@@ -1,0 +1,395 @@
+{
+  "cardId": "tipu-sultan",
+  "questions": [
+    {
+      "id": "tipu-sultan-q01",
+      "difficulty": "easy",
+      "q": "Tipu Sultan was the ruler of which kingdom?",
+      "options": [
+        "Mysore",
+        "Bengal",
+        "Travancore",
+        "Hyderabad"
+      ],
+      "answer": 0,
+      "explanation": "Tipu Sultan was the ruler of the Kingdom of Mysore in southern India."
+    },
+    {
+      "id": "tipu-sultan-q02",
+      "difficulty": "easy",
+      "q": "By what nickname is Tipu Sultan famously known?",
+      "options": [
+        "The Lion of Punjab",
+        "The Tiger of Mysore",
+        "The Last Mughal",
+        "The Iron Sultan"
+      ],
+      "answer": 1,
+      "explanation": "Tipu Sultan is known as the 'Tiger of Mysore' for his fierce resistance to the British."
+    },
+    {
+      "id": "tipu-sultan-q03",
+      "difficulty": "easy",
+      "q": "Tipu Sultan was the son of which Mysore ruler?",
+      "options": [
+        "Krishnadevaraya",
+        "Marthanda Varma",
+        "Hyder Ali",
+        "Shivaji"
+      ],
+      "answer": 2,
+      "explanation": "Tipu Sultan was the son of Hyder Ali, the de facto ruler of Mysore."
+    },
+    {
+      "id": "tipu-sultan-q04",
+      "difficulty": "easy",
+      "q": "Tipu Sultan is famous for pioneering the military use of what weapon made of iron?",
+      "options": [
+        "Iron cannons only",
+        "Iron crossbows",
+        "Iron chariots",
+        "Iron-cased rockets"
+      ],
+      "answer": 3,
+      "explanation": "Tipu Sultan pioneered the military use of iron-cased rockets, advancing the technology used by his father."
+    },
+    {
+      "id": "tipu-sultan-q05",
+      "difficulty": "easy",
+      "q": "Tipu Sultan died in 1799 defending which capital city?",
+      "options": [
+        "Madurai",
+        "Srirangapatna",
+        "Thanjavur",
+        "Hampi"
+      ],
+      "answer": 1,
+      "explanation": "Tipu Sultan died in 1799 defending his capital, Srirangapatna (Seringapatam), against the British."
+    },
+    {
+      "id": "tipu-sultan-q06",
+      "difficulty": "easy",
+      "q": "Tipu Sultan resisted the expansion of which European power in southern India?",
+      "options": [
+        "The Russians",
+        "The Spanish",
+        "The British",
+        "The Swedes"
+      ],
+      "answer": 2,
+      "explanation": "Tipu Sultan fiercely resisted British expansion in southern India."
+    },
+    {
+      "id": "tipu-sultan-q07",
+      "difficulty": "easy",
+      "q": "In which year did Tipu Sultan die?",
+      "options": [
+        "1782",
+        "1857",
+        "1707",
+        "1799"
+      ],
+      "answer": 3,
+      "explanation": "Tipu Sultan died in 1799 during the Fourth Anglo-Mysore War."
+    },
+    {
+      "id": "tipu-sultan-q08",
+      "difficulty": "easy",
+      "q": "Tipu Sultan became ruler of Mysore in which year?",
+      "options": [
+        "1782",
+        "1799",
+        "1761",
+        "1739"
+      ],
+      "answer": 0,
+      "explanation": "Tipu Sultan became ruler of Mysore in 1782 following the death of his father Hyder Ali."
+    },
+    {
+      "id": "tipu-sultan-q09",
+      "difficulty": "easy",
+      "q": "The animal that became Tipu Sultan's personal emblem and motif was the what?",
+      "options": [
+        "Elephant",
+        "Peacock",
+        "Tiger",
+        "Lion"
+      ],
+      "answer": 2,
+      "explanation": "The tiger was Tipu Sultan's emblem, reflected in his nickname and in objects like the famous 'Tipu's Tiger' automaton."
+    },
+    {
+      "id": "tipu-sultan-q10",
+      "difficulty": "easy",
+      "q": "Tipu Sultan fought a series of wars against the British known by what name?",
+      "options": [
+        "The Carnatic Wars",
+        "The Anglo-Sikh Wars",
+        "The Maratha Wars",
+        "The Anglo-Mysore Wars"
+      ],
+      "answer": 3,
+      "explanation": "Tipu Sultan fought the British in the Anglo-Mysore Wars, dying in the fourth of them."
+    },
+    {
+      "id": "tipu-sultan-q11",
+      "difficulty": "medium",
+      "q": "In which war did Tipu Sultan die in 1799?",
+      "options": [
+        "The Fourth Anglo-Mysore War",
+        "The First Anglo-Mysore War",
+        "The Battle of Plassey",
+        "The Third Battle of Panipat"
+      ],
+      "answer": 0,
+      "explanation": "Tipu Sultan died at the fall of Srirangapatna during the Fourth Anglo-Mysore War in 1799."
+    },
+    {
+      "id": "tipu-sultan-q12",
+      "difficulty": "medium",
+      "q": "Tipu Sultan continued and concluded which war begun by his father, signing the Treaty of Mangalore in 1784?",
+      "options": [
+        "The Fourth Anglo-Mysore War",
+        "The Second Anglo-Mysore War",
+        "The First Carnatic War",
+        "The Anglo-Maratha War"
+      ],
+      "answer": 1,
+      "explanation": "Tipu concluded the Second Anglo-Mysore War with the Treaty of Mangalore in 1784 after Hyder Ali's death."
+    },
+    {
+      "id": "tipu-sultan-q13",
+      "difficulty": "medium",
+      "q": "The Third Anglo-Mysore War ended in 1792 with which treaty, in which Tipu ceded much territory?",
+      "options": [
+        "The Treaty of Madras",
+        "The Treaty of Mangalore",
+        "The Treaty of Bassein",
+        "The Treaty of Seringapatam"
+      ],
+      "answer": 3,
+      "explanation": "The Third Anglo-Mysore War ended with the 1792 Treaty of Seringapatam, forcing Tipu to cede half his territory."
+    },
+    {
+      "id": "tipu-sultan-q14",
+      "difficulty": "medium",
+      "q": "Which British Governor-General led the campaign that ended in Tipu Sultan's death in 1799?",
+      "options": [
+        "The Marquess Wellesley",
+        "Robert Clive",
+        "Warren Hastings",
+        "Lord Dalhousie"
+      ],
+      "answer": 0,
+      "explanation": "Lord Wellesley (the Marquess Wellesley) directed the campaign of 1799 that ended at Srirangapatna with Tipu's death."
+    },
+    {
+      "id": "tipu-sultan-q15",
+      "difficulty": "medium",
+      "q": "Tipu Sultan sought foreign alliances against the British, notably reaching out to which power led by Napoleon's nation?",
+      "options": [
+        "Prussia",
+        "France",
+        "Austria",
+        "Sweden"
+      ],
+      "answer": 1,
+      "explanation": "Tipu sought an alliance with France, even corresponding regarding Napoleon's Egyptian campaign, alarming the British."
+    },
+    {
+      "id": "tipu-sultan-q16",
+      "difficulty": "medium",
+      "q": "Tipu Sultan introduced reforms in Mysore including a new what?",
+      "options": [
+        "Written script for Tamil",
+        "System of caste abolition fully enforced",
+        "Calendar and coinage system",
+        "National railway"
+      ],
+      "answer": 2,
+      "explanation": "Tipu introduced a new calendar, coinage, and administrative measures as part of his reforms in Mysore."
+    },
+    {
+      "id": "tipu-sultan-q17",
+      "difficulty": "medium",
+      "q": "Tipu Sultan promoted the planting and trade of which crop, founding a state commercial venture?",
+      "options": [
+        "Sericulture (silk)",
+        "Rubber",
+        "Tea in Assam",
+        "Coffee in Brazil"
+      ],
+      "answer": 0,
+      "explanation": "Tipu is credited with promoting sericulture (silk production) in Mysore, an industry that endures in the region."
+    },
+    {
+      "id": "tipu-sultan-q18",
+      "difficulty": "medium",
+      "q": "Tipu Sultan's rockets were later studied by the British and influenced the development of which weapon system?",
+      "options": [
+        "The Gatling gun",
+        "The Congreve rocket",
+        "The Maxim gun",
+        "The Brown Bess musket"
+      ],
+      "answer": 1,
+      "explanation": "Captured Mysorean rockets influenced William Congreve, who developed the British Congreve rocket."
+    },
+    {
+      "id": "tipu-sultan-q19",
+      "difficulty": "medium",
+      "q": "Tipu Sultan built a summer palace and gardens at which site near Srirangapatna?",
+      "options": [
+        "Hawa Mahal",
+        "Amber Fort",
+        "Daria Daulat Bagh",
+        "Mehrangarh"
+      ],
+      "answer": 2,
+      "explanation": "Tipu's summer palace, the Daria Daulat Bagh, stands at Srirangapatna and is known for its murals."
+    },
+    {
+      "id": "tipu-sultan-q20",
+      "difficulty": "medium",
+      "q": "The famous mechanical automaton 'Tipu's Tiger', now in a London museum, depicts a tiger mauling whom?",
+      "options": [
+        "A Mughal prince",
+        "A Maratha chief",
+        "A French officer",
+        "A European (British) soldier"
+      ],
+      "answer": 3,
+      "explanation": "'Tipu's Tiger' shows a tiger savaging a European soldier and is held in the Victoria and Albert Museum, London."
+    },
+    {
+      "id": "tipu-sultan-q21",
+      "difficulty": "medium",
+      "q": "Tipu Sultan was buried at the Gumbaz in Srirangapatna alongside whom?",
+      "options": [
+        "Krishnadevaraya",
+        "His father Hyder Ali",
+        "Shivaji",
+        "Aurangzeb"
+      ],
+      "answer": 1,
+      "explanation": "Tipu Sultan is buried in the Gumbaz mausoleum at Srirangapatna beside his father Hyder Ali."
+    },
+    {
+      "id": "tipu-sultan-q22",
+      "difficulty": "medium",
+      "q": "Against which neighbouring kingdom's attack did Tipu Sultan launch the campaign that triggered the Third Anglo-Mysore War?",
+      "options": [
+        "The Ahom Kingdom",
+        "Nepal",
+        "Travancore",
+        "Sindh"
+      ],
+      "answer": 2,
+      "explanation": "Tipu's attack on Travancore, a British ally, helped trigger the Third Anglo-Mysore War."
+    },
+    {
+      "id": "tipu-sultan-q23",
+      "difficulty": "hard",
+      "q": "In approximately which year was Tipu Sultan born?",
+      "options": [
+        "1720",
+        "1782",
+        "1799",
+        "1750"
+      ],
+      "answer": 3,
+      "explanation": "Tipu Sultan was born around 1750 (commonly given as 1751) at Devanahalli."
+    },
+    {
+      "id": "tipu-sultan-q24",
+      "difficulty": "hard",
+      "q": "Tipu Sultan was born at which town near present-day Bengaluru?",
+      "options": [
+        "Devanahalli",
+        "Budikote",
+        "Hampi",
+        "Badami"
+      ],
+      "answer": 0,
+      "explanation": "Tipu Sultan was born at Devanahalli, north of present-day Bengaluru."
+    },
+    {
+      "id": "tipu-sultan-q25",
+      "difficulty": "hard",
+      "q": "Under the 1792 Treaty of Seringapatam, Tipu was forced to surrender two of his sons to the British as what?",
+      "options": [
+        "Apprentices to learn shipbuilding",
+        "Ambassadors to London",
+        "Hostages for indemnity payment",
+        "Soldiers in the Company army"
+      ],
+      "answer": 2,
+      "explanation": "The 1792 treaty required Tipu to hand over two sons as hostages until he paid the war indemnity."
+    },
+    {
+      "id": "tipu-sultan-q26",
+      "difficulty": "hard",
+      "q": "Tipu Sultan styled his throne and regalia with which animal-head motif, symbolising his power?",
+      "options": [
+        "Eagle heads",
+        "Serpent hoods",
+        "Ram horns",
+        "Tiger heads and tiger-stripe (bubri) patterns"
+      ],
+      "answer": 3,
+      "explanation": "Tipu's throne and arms bore tiger heads and the tiger-stripe 'bubri' motif, reinforcing his Tiger of Mysore identity."
+    },
+    {
+      "id": "tipu-sultan-q27",
+      "difficulty": "hard",
+      "q": "Tipu Sultan sent diplomatic embassies abroad seeking alliances, including a notable mission to the court of which ruler?",
+      "options": [
+        "The Ottoman Sultan",
+        "The Russian Tsar",
+        "The Chinese Emperor",
+        "The Pope"
+      ],
+      "answer": 0,
+      "explanation": "Tipu sent an embassy to the Ottoman Sultan, as well as to France, seeking support against the British."
+    },
+    {
+      "id": "tipu-sultan-q28",
+      "difficulty": "hard",
+      "q": "During the final assault of 1799, the British were aided by intelligence and the defection associated with which of Tipu's officials?",
+      "options": [
+        "Mir Jafar",
+        "Mir Sadiq",
+        "Nizam-ul-Mulk",
+        "Bairam Khan"
+      ],
+      "answer": 1,
+      "explanation": "Tipu's minister Mir Sadiq is traditionally accused of treachery aiding the British during the fall of Srirangapatna."
+    },
+    {
+      "id": "tipu-sultan-q29",
+      "difficulty": "hard",
+      "q": "After Tipu's death in 1799, the British restored which dynasty to the throne of Mysore as a princely state?",
+      "options": [
+        "The Nizams",
+        "The Marathas",
+        "The Nayaks",
+        "The Wodeyars"
+      ],
+      "answer": 3,
+      "explanation": "Following Tipu's defeat, the British reinstated the Wodeyar dynasty to a reduced princely state of Mysore."
+    },
+    {
+      "id": "tipu-sultan-q30",
+      "difficulty": "hard",
+      "q": "Tipu Sultan renamed his capital and styled his realm with a title reflecting his religious devotion. He called his government by what name meaning 'Gift of God'?",
+      "options": [
+        "Khudadad Sarkar (Khudadad)",
+        "Hindavi Swarajya",
+        "Din-i-Ilahi",
+        "Dar-ul-Islam"
+      ],
+      "answer": 0,
+      "explanation": "Tipu referred to his domain as Khudadad ('God-given'), styling his state the Khudadad Sarkar."
+    }
+  ]
+}

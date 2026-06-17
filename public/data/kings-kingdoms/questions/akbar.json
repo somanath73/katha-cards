@@ -1,0 +1,395 @@
+{
+  "cardId": "akbar",
+  "questions": [
+    {
+      "id": "akbar-q01",
+      "difficulty": "easy",
+      "q": "Akbar belonged to which Indian dynasty?",
+      "options": [
+        "Mughal",
+        "Lodi",
+        "Tughlaq",
+        "Maratha"
+      ],
+      "answer": 0,
+      "explanation": "Akbar was the third emperor of the Mughal dynasty founded by his grandfather Babur."
+    },
+    {
+      "id": "akbar-q02",
+      "difficulty": "easy",
+      "q": "Akbar is the third emperor of which empire?",
+      "options": [
+        "Maurya Empire",
+        "Mughal Empire",
+        "Gupta Empire",
+        "Chola Empire"
+      ],
+      "answer": 1,
+      "explanation": "Akbar was the third ruler of the Mughal Empire, after Babur and Humayun."
+    },
+    {
+      "id": "akbar-q03",
+      "difficulty": "easy",
+      "q": "By what honorific title is Akbar most popularly known?",
+      "options": [
+        "Akbar the Conqueror",
+        "Akbar the Just",
+        "Akbar the Great",
+        "Akbar the Wise"
+      ],
+      "answer": 2,
+      "explanation": "He is commonly remembered as Akbar the Great for his wide-ranging reign and reforms."
+    },
+    {
+      "id": "akbar-q04",
+      "difficulty": "easy",
+      "q": "Who was Akbar's father?",
+      "options": [
+        "Babur",
+        "Jahangir",
+        "Sher Shah Suri",
+        "Humayun"
+      ],
+      "answer": 3,
+      "explanation": "Akbar succeeded his father Humayun, who died in 1556 shortly after reclaiming Delhi."
+    },
+    {
+      "id": "akbar-q05",
+      "difficulty": "easy",
+      "q": "Who succeeded Akbar as Mughal emperor?",
+      "options": [
+        "Jahangir",
+        "Shah Jahan",
+        "Aurangzeb",
+        "Humayun"
+      ],
+      "answer": 0,
+      "explanation": "Akbar was succeeded in 1605 by his son Salim, who took the regnal name Jahangir."
+    },
+    {
+      "id": "akbar-q06",
+      "difficulty": "easy",
+      "q": "Akbar is especially remembered for which attitude toward different faiths?",
+      "options": [
+        "Forced conversion",
+        "Religious tolerance",
+        "Banning all religions",
+        "Religious indifference"
+      ],
+      "answer": 1,
+      "explanation": "Akbar is celebrated for his policy of religious tolerance toward the diverse faiths of his empire."
+    },
+    {
+      "id": "akbar-q07",
+      "difficulty": "easy",
+      "q": "What was the name of the syncretic faith promoted by Akbar?",
+      "options": [
+        "Sufism",
+        "Bhakti",
+        "Din-i-Ilahi",
+        "Sikhism"
+      ],
+      "answer": 2,
+      "explanation": "Akbar introduced Din-i-Ilahi, an experimental faith blending elements of several religions."
+    },
+    {
+      "id": "akbar-q08",
+      "difficulty": "easy",
+      "q": "In which century did most of Akbar's reign take place?",
+      "options": [
+        "14th century CE",
+        "18th century CE",
+        "13th century CE",
+        "16th century CE"
+      ],
+      "answer": 3,
+      "explanation": "Akbar reigned from 1556 to 1605, placing the bulk of his rule in the 16th century CE."
+    },
+    {
+      "id": "akbar-q09",
+      "difficulty": "easy",
+      "q": "Akbar came to the throne as a young boy at roughly what age?",
+      "options": [
+        "Around thirteen",
+        "Around thirty",
+        "Around twenty-five",
+        "Around forty"
+      ],
+      "answer": 0,
+      "explanation": "Akbar became emperor in 1556 at about thirteen years of age after Humayun's death."
+    },
+    {
+      "id": "akbar-q10",
+      "difficulty": "easy",
+      "q": "Akbar greatly did what to the Mughal Empire during his long reign?",
+      "options": [
+        "Sold it to the British",
+        "Expanded and consolidated it",
+        "Divided it among rivals",
+        "Abandoned it entirely"
+      ],
+      "answer": 1,
+      "explanation": "Akbar greatly expanded and consolidated the Mughal Empire through conquest and administrative reform."
+    },
+    {
+      "id": "akbar-q11",
+      "difficulty": "medium",
+      "q": "In what year did Akbar become Mughal emperor?",
+      "options": [
+        "1526 CE",
+        "1605 CE",
+        "1556 CE",
+        "1605 BCE"
+      ],
+      "answer": 2,
+      "explanation": "Akbar ascended the throne in 1556 following his father Humayun's death."
+    },
+    {
+      "id": "akbar-q12",
+      "difficulty": "medium",
+      "q": "Who served as the regent and protector of the young Akbar in the early years of his reign?",
+      "options": [
+        "Man Singh",
+        "Todar Mal",
+        "Abul Fazl",
+        "Bairam Khan"
+      ],
+      "answer": 3,
+      "explanation": "Bairam Khan acted as regent and guided the boy-emperor Akbar, including at the Second Battle of Panipat."
+    },
+    {
+      "id": "akbar-q13",
+      "difficulty": "medium",
+      "q": "Akbar's land-revenue and administrative reforms were largely organised by which minister?",
+      "options": [
+        "Raja Todar Mal",
+        "Birbal",
+        "Tansen",
+        "Faizi"
+      ],
+      "answer": 0,
+      "explanation": "Raja Todar Mal devised the dahsala revenue settlement system that underpinned Akbar's administration."
+    },
+    {
+      "id": "akbar-q14",
+      "difficulty": "medium",
+      "q": "What military and administrative ranking system did Akbar institute to organise his nobility?",
+      "options": [
+        "Iqta system",
+        "Mansabdari system",
+        "Jagirdari abolition",
+        "Zamindari guild"
+      ],
+      "answer": 1,
+      "explanation": "Akbar created the mansabdari system, ranking officials by numerical mansabs that fixed their status and obligations."
+    },
+    {
+      "id": "akbar-q15",
+      "difficulty": "medium",
+      "q": "Which capital city did Akbar build near Agra in the 1570s?",
+      "options": [
+        "Shahjahanabad",
+        "Daulatabad",
+        "Fatehpur Sikri",
+        "Firozabad"
+      ],
+      "answer": 2,
+      "explanation": "Akbar founded the planned city of Fatehpur Sikri, which briefly served as his capital."
+    },
+    {
+      "id": "akbar-q16",
+      "difficulty": "medium",
+      "q": "The hall where Akbar held religious discussions among scholars of different faiths was called the?",
+      "options": [
+        "Diwan-i-Aam",
+        "Buland Darwaza",
+        "Anup Talao",
+        "Ibadat Khana"
+      ],
+      "answer": 3,
+      "explanation": "Akbar built the Ibadat Khana (House of Worship) at Fatehpur Sikri for interfaith debates."
+    },
+    {
+      "id": "akbar-q17",
+      "difficulty": "medium",
+      "q": "Which Rajput general, a Mughal commander, fought for Akbar at the Battle of Haldighati in 1576?",
+      "options": [
+        "Man Singh of Amber",
+        "Rana Sanga",
+        "Jai Singh",
+        "Durgadas Rathore"
+      ],
+      "answer": 0,
+      "explanation": "Raja Man Singh of Amber led Akbar's forces against Maharana Pratap at Haldighati."
+    },
+    {
+      "id": "akbar-q18",
+      "difficulty": "medium",
+      "q": "Akbar abolished which tax that had been levied on non-Muslims?",
+      "options": [
+        "Zakat",
+        "Jizya",
+        "Kharaj",
+        "Khums"
+      ],
+      "answer": 1,
+      "explanation": "As part of his conciliatory policy, Akbar abolished the jizya, the poll tax on non-Muslims."
+    },
+    {
+      "id": "akbar-q19",
+      "difficulty": "medium",
+      "q": "The official chronicle of Akbar's reign, the Akbarnama, was written by whom?",
+      "options": [
+        "Badauni",
+        "Ferishta",
+        "Abul Fazl",
+        "Babur"
+      ],
+      "answer": 2,
+      "explanation": "Abul Fazl, a leading member of Akbar's court, composed the Akbarnama and its statistical appendix the Ain-i-Akbari."
+    },
+    {
+      "id": "akbar-q20",
+      "difficulty": "medium",
+      "q": "Which fort city in Rajasthan did Akbar capture after a famous siege in 1568?",
+      "options": [
+        "Jodhpur",
+        "Bikaner",
+        "Ranthambore",
+        "Chittorgarh"
+      ],
+      "answer": 3,
+      "explanation": "Akbar besieged and captured the Sisodia stronghold of Chittorgarh in 1568."
+    },
+    {
+      "id": "akbar-q21",
+      "difficulty": "medium",
+      "q": "Which Rajput princess did Akbar marry as part of his policy of alliance with the Rajputs?",
+      "options": [
+        "A princess of Amber (Jaipur)",
+        "A princess of Mewar",
+        "A princess of Marwar's Rathore line first",
+        "A Maratha princess"
+      ],
+      "answer": 0,
+      "explanation": "Akbar married a princess of the house of Amber, sealing an alliance with that Rajput clan."
+    },
+    {
+      "id": "akbar-q22",
+      "difficulty": "medium",
+      "q": "Akbar's birth in 1542 took place at which town?",
+      "options": [
+        "Kabul",
+        "Umarkot",
+        "Agra",
+        "Lahore"
+      ],
+      "answer": 1,
+      "explanation": "Akbar was born in 1542 at Umarkot in present-day Sindh, while Humayun was a fugitive."
+    },
+    {
+      "id": "akbar-q23",
+      "difficulty": "hard",
+      "q": "What was Akbar's full given name at birth?",
+      "options": [
+        "Nasir-ud-din Muhammad",
+        "Zahir-ud-din Muhammad",
+        "Jalal-ud-din Muhammad Akbar",
+        "Mu'in-ud-din Muhammad"
+      ],
+      "answer": 2,
+      "explanation": "Akbar's full name was Jalal-ud-din Muhammad Akbar; Zahir-ud-din Muhammad was the name of his grandfather Babur."
+    },
+    {
+      "id": "akbar-q24",
+      "difficulty": "hard",
+      "q": "In which year did Akbar formally proclaim the Din-i-Ilahi?",
+      "options": [
+        "1571 CE",
+        "1605 CE",
+        "1556 CE",
+        "1582 CE"
+      ],
+      "answer": 3,
+      "explanation": "Akbar is generally said to have proclaimed the Din-i-Ilahi around 1582."
+    },
+    {
+      "id": "akbar-q25",
+      "difficulty": "hard",
+      "q": "Through which 1562 measure did Akbar signal early conciliation, by ending the practice of doing what to war captives?",
+      "options": [
+        "Enslaving prisoners of war and their families",
+        "Executing all prisoners",
+        "Forcibly converting all captives",
+        "Deporting captives abroad"
+      ],
+      "answer": 0,
+      "explanation": "In 1562 Akbar banned the enslavement of war captives and their families, an early sign of his conciliatory policy."
+    },
+    {
+      "id": "akbar-q26",
+      "difficulty": "hard",
+      "q": "Akbar created an inner group of elite disciples bound to him as part of his sovereignty doctrine. What concept expressed this idea of the emperor as spiritual guide?",
+      "options": [
+        "Sharia enforcement",
+        "Sulh-i-kul / the emperor as supreme arbiter",
+        "Mahzar abolition",
+        "Divine right of clergy"
+      ],
+      "answer": 1,
+      "explanation": "Akbar promoted sulh-i-kul (universal peace) and a 1579 mahzar declaration that made him the final arbiter in religious disputes."
+    },
+    {
+      "id": "akbar-q27",
+      "difficulty": "hard",
+      "q": "Which wealthy region did Akbar annex in the 1570s, securing its rich textile and maritime trade for the empire?",
+      "options": [
+        "Bengal alone",
+        "Kashmir first",
+        "Gujarat",
+        "Sindh first"
+      ],
+      "answer": 2,
+      "explanation": "Akbar conquered Gujarat in 1572-1573, securing its rich textile and maritime trade; the victory is commonly linked to the 'Fatehpur' (city of victory) name."
+    },
+    {
+      "id": "akbar-q28",
+      "difficulty": "hard",
+      "q": "The Ain-i-Akbari, a detailed gazetteer of Akbar's empire, forms the third volume of which larger work?",
+      "options": [
+        "The Baburnama",
+        "The Tuzuk-i-Jahangiri",
+        "The Padshahnama",
+        "The Akbarnama"
+      ],
+      "answer": 3,
+      "explanation": "The Ain-i-Akbari is the third part of Abul Fazl's Akbarnama, cataloguing administration, revenue, and statistics."
+    },
+    {
+      "id": "akbar-q29",
+      "difficulty": "hard",
+      "q": "Which northern kingdom did Akbar annex in 1586, bringing its valley firmly under Mughal control?",
+      "options": [
+        "Kashmir",
+        "Sindh",
+        "Kandahar",
+        "Odisha"
+      ],
+      "answer": 0,
+      "explanation": "Akbar annexed Kashmir in 1586, adding the valley to the Mughal domains."
+    },
+    {
+      "id": "akbar-q30",
+      "difficulty": "hard",
+      "q": "In which year did Akbar die, and where was he buried?",
+      "options": [
+        "1556, buried at Delhi",
+        "1605, buried at Sikandra near Agra",
+        "1627, buried at Lahore",
+        "1556, buried at Kabul"
+      ],
+      "answer": 1,
+      "explanation": "Akbar died in 1605 and was buried in a grand tomb at Sikandra near Agra."
+    }
+  ]
+}

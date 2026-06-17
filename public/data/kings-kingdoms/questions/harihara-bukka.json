@@ -1,0 +1,395 @@
+{
+  "cardId": "harihara-bukka",
+  "questions": [
+    {
+      "id": "harihara-bukka-q01",
+      "difficulty": "easy",
+      "q": "Harihara and Bukka are famous as the founders of which empire?",
+      "options": [
+        "The Vijayanagara Empire",
+        "The Maurya Empire",
+        "The Mughal Empire",
+        "The Chola Empire"
+      ],
+      "answer": 0,
+      "explanation": "The brothers Harihara and Bukka founded the Vijayanagara Empire in 1336 CE."
+    },
+    {
+      "id": "harihara-bukka-q02",
+      "difficulty": "easy",
+      "q": "In which year did Harihara and Bukka found Vijayanagara?",
+      "options": [
+        "1206 CE",
+        "1336 CE",
+        "1526 CE",
+        "1565 CE"
+      ],
+      "answer": 1,
+      "explanation": "Vijayanagara was founded by the two brothers in 1336 CE."
+    },
+    {
+      "id": "harihara-bukka-q03",
+      "difficulty": "easy",
+      "q": "What was the relationship between Harihara and Bukka?",
+      "options": [
+        "They were father and son",
+        "They were cousins married to sisters",
+        "They were brothers",
+        "They were unrelated rivals"
+      ],
+      "answer": 2,
+      "explanation": "Harihara and Bukka were brothers who jointly founded the empire."
+    },
+    {
+      "id": "harihara-bukka-q04",
+      "difficulty": "easy",
+      "q": "Which dynasty did Harihara and Bukka establish?",
+      "options": [
+        "The Tuluva dynasty",
+        "The Maurya dynasty",
+        "The Gupta dynasty",
+        "The Sangama dynasty"
+      ],
+      "answer": 3,
+      "explanation": "The brothers founded the Sangama dynasty, the first of Vijayanagara's four ruling lines."
+    },
+    {
+      "id": "harihara-bukka-q05",
+      "difficulty": "easy",
+      "q": "On the bank of which river did the brothers establish their new capital?",
+      "options": [
+        "The Ganges",
+        "The Tungabhadra",
+        "The Indus",
+        "The Kaveri"
+      ],
+      "answer": 1,
+      "explanation": "They founded their capital on the southern bank of the Tungabhadra river."
+    },
+    {
+      "id": "harihara-bukka-q06",
+      "difficulty": "easy",
+      "q": "Which brother became the first king of Vijayanagara?",
+      "options": [
+        "Bukka I",
+        "Both ruled jointly with equal title",
+        "Harihara I",
+        "Neither, a third brother ruled"
+      ],
+      "answer": 2,
+      "explanation": "Harihara I (Hakka) became the first crowned king of Vijayanagara, with Bukka as his close partner and successor."
+    },
+    {
+      "id": "harihara-bukka-q07",
+      "difficulty": "easy",
+      "q": "The capital city founded by Harihara and Bukka grew into which renowned city?",
+      "options": [
+        "Delhi",
+        "Agra",
+        "Lahore",
+        "Hampi (Vijayanagara)"
+      ],
+      "answer": 3,
+      "explanation": "Their capital grew into Hampi, one of the largest and richest cities of its age."
+    },
+    {
+      "id": "harihara-bukka-q08",
+      "difficulty": "easy",
+      "q": "The empire founded by the brothers became a great stronghold of which culture?",
+      "options": [
+        "Hindu culture in the south",
+        "Mughal Persian culture",
+        "Buddhist culture in Tibet",
+        "Norse culture"
+      ],
+      "answer": 0,
+      "explanation": "Vijayanagara became a leading stronghold of Hindu culture and temple-building in southern India."
+    },
+    {
+      "id": "harihara-bukka-q09",
+      "difficulty": "easy",
+      "q": "In which century did Harihara and Bukka found their empire?",
+      "options": [
+        "10th century CE",
+        "16th century CE",
+        "14th century CE",
+        "6th century BCE"
+      ],
+      "answer": 2,
+      "explanation": "The empire was founded in 1336, in the 14th century CE."
+    },
+    {
+      "id": "harihara-bukka-q10",
+      "difficulty": "easy",
+      "q": "The brothers established their kingdom on which side of the Tungabhadra river?",
+      "options": [
+        "The northern bank",
+        "An island in the river",
+        "The river's source",
+        "The southern bank"
+      ],
+      "answer": 3,
+      "explanation": "They founded the capital on the southern bank of the Tungabhadra."
+    },
+    {
+      "id": "harihara-bukka-q11",
+      "difficulty": "medium",
+      "q": "After Harihara I, which of the founding brothers succeeded to the Vijayanagara throne?",
+      "options": [
+        "Bukka Raya I",
+        "Krishnadevaraya",
+        "Saluva Narasimha",
+        "Deva Raya II"
+      ],
+      "answer": 0,
+      "explanation": "Bukka Raya I succeeded his brother Harihara I and consolidated the young empire."
+    },
+    {
+      "id": "harihara-bukka-q12",
+      "difficulty": "medium",
+      "q": "The Sangama dynasty was named after whom?",
+      "options": [
+        "A river goddess",
+        "Sangama, the father of the founding brothers",
+        "A mountain near Hampi",
+        "The first Bahmani sultan"
+      ],
+      "answer": 1,
+      "explanation": "The dynasty took its name from Sangama, the father of Harihara, Bukka, and their brothers."
+    },
+    {
+      "id": "harihara-bukka-q13",
+      "difficulty": "medium",
+      "q": "Which sage is traditionally said to have inspired Harihara and Bukka to found Vijayanagara?",
+      "options": [
+        "Chanakya",
+        "Tulsidas",
+        "Ramanuja",
+        "Vidyaranya of Sringeri"
+      ],
+      "answer": 3,
+      "explanation": "Tradition credits the sage Vidyaranya with inspiring and blessing the brothers' founding of the empire."
+    },
+    {
+      "id": "harihara-bukka-q14",
+      "difficulty": "medium",
+      "q": "The early capital of Harihara and Bukka was named in honour of which figure, according to one tradition?",
+      "options": [
+        "The sage Vidyaranya (Vidyanagara)",
+        "The Buddha",
+        "Emperor Ashoka",
+        "Alexander"
+      ],
+      "answer": 0,
+      "explanation": "One tradition holds the city was first called Vidyanagara after the sage Vidyaranya before becoming Vijayanagara."
+    },
+    {
+      "id": "harihara-bukka-q15",
+      "difficulty": "medium",
+      "q": "Harihara and Bukka had originally served as officers under which northern power before founding their own kingdom?",
+      "options": [
+        "The Mughal Empire",
+        "The Delhi Sultanate",
+        "The Maratha Confederacy",
+        "The Sikh misls"
+      ],
+      "answer": 1,
+      "explanation": "According to several accounts the brothers had served the Delhi Sultanate before establishing the independent kingdom of Vijayanagara."
+    },
+    {
+      "id": "harihara-bukka-q16",
+      "difficulty": "medium",
+      "q": "Which northern Muslim kingdom became the chief rival of Vijayanagara soon after its founding?",
+      "options": [
+        "The Mughal Empire",
+        "The kingdom of Mysore",
+        "The Bahmani Sultanate",
+        "The Sur Empire"
+      ],
+      "answer": 2,
+      "explanation": "The Bahmani Sultanate, founded in 1347, became Vijayanagara's principal rival across the Deccan."
+    },
+    {
+      "id": "harihara-bukka-q17",
+      "difficulty": "medium",
+      "q": "Harihara and Bukka are believed to have originally come from which region or background before founding Vijayanagara?",
+      "options": [
+        "The Deccan, in service of regional kingdoms such as the Kakatiyas/Hoysalas",
+        "Persia",
+        "The Punjab",
+        "Sri Lanka"
+      ],
+      "answer": 0,
+      "explanation": "The brothers are believed to have served Deccan kingdoms like the Kakatiyas or Hoysalas before forging their own state."
+    },
+    {
+      "id": "harihara-bukka-q18",
+      "difficulty": "medium",
+      "q": "The founding of Vijayanagara is often seen by historians as a response to the expansion of which power into the south?",
+      "options": [
+        "The Roman Empire",
+        "The Gupta Empire",
+        "The Delhi Sultanate",
+        "The Portuguese Estado da India"
+      ],
+      "answer": 2,
+      "explanation": "Vijayanagara is often interpreted as a consolidation of southern Hindu power in the face of the Delhi Sultanate's southward expansion."
+    },
+    {
+      "id": "harihara-bukka-q19",
+      "difficulty": "medium",
+      "q": "During Bukka I's reign, Vijayanagara fought prolonged wars against the Bahmanis over which contested region?",
+      "options": [
+        "The Gangetic plain",
+        "The Raichur doab and the Krishna-Tungabhadra frontier",
+        "Kashmir",
+        "The Malabar coast"
+      ],
+      "answer": 1,
+      "explanation": "Bukka I waged repeated wars with the Bahmanis over the fertile lands between the Krishna and Tungabhadra rivers."
+    },
+    {
+      "id": "harihara-bukka-q20",
+      "difficulty": "medium",
+      "q": "Bukka I is noted for an act of religious tolerance involving a dispute between which two communities?",
+      "options": [
+        "Buddhists and Muslims",
+        "Sikhs and Hindus",
+        "Christians and Parsis",
+        "Vaishnavas and Jains"
+      ],
+      "answer": 3,
+      "explanation": "Bukka I is famously recorded as mediating and protecting both Jains and Vaishnavas, declaring them under his equal protection."
+    },
+    {
+      "id": "harihara-bukka-q21",
+      "difficulty": "medium",
+      "q": "How many sons of Sangama, including Harihara and Bukka, are traditionally counted as the founding brothers?",
+      "options": [
+        "Two only",
+        "Ten",
+        "Five",
+        "Three"
+      ],
+      "answer": 2,
+      "explanation": "Sangama is traditionally said to have had five sons, of whom Harihara and Bukka were the most prominent founders."
+    },
+    {
+      "id": "harihara-bukka-q22",
+      "difficulty": "medium",
+      "q": "The dynasty founded by Harihara and Bukka was eventually succeeded by which line?",
+      "options": [
+        "The Saluva dynasty",
+        "The Mughal dynasty",
+        "The Lodi dynasty",
+        "The Chalukya dynasty"
+      ],
+      "answer": 0,
+      "explanation": "The Sangama dynasty was succeeded by the Saluva dynasty when Saluva Narasimha seized the throne in the late 15th century."
+    },
+    {
+      "id": "harihara-bukka-q23",
+      "difficulty": "hard",
+      "q": "According to a widely repeated tradition, before founding Vijayanagara the brothers had been captured and what?",
+      "options": [
+        "Sent as envoys to China",
+        "Exiled to Sri Lanka",
+        "Enslaved by the Portuguese",
+        "Converted to Islam at Delhi, then later returned to Hinduism"
+      ],
+      "answer": 3,
+      "explanation": "A common tradition holds the brothers were captured by the Delhi Sultanate and converted to Islam, later reconverting to Hinduism under Vidyaranya's guidance, though historians debate this account."
+    },
+    {
+      "id": "harihara-bukka-q24",
+      "difficulty": "hard",
+      "q": "Harihara I established the empire's authority partly by absorbing the territory of which declining southern dynasty?",
+      "options": [
+        "The Cholas",
+        "The Hoysalas",
+        "The Pallavas",
+        "The Satavahanas"
+      ],
+      "answer": 1,
+      "explanation": "Vijayanagara expanded into the lands of the collapsing Hoysala kingdom in the southern Deccan."
+    },
+    {
+      "id": "harihara-bukka-q25",
+      "difficulty": "hard",
+      "q": "Bukka I sent a famous diplomatic mission to which foreign court, recorded in Chinese sources?",
+      "options": [
+        "The Byzantine court",
+        "The Ming court of China",
+        "The court of Venice",
+        "The Caliphate of Baghdad"
+      ],
+      "answer": 1,
+      "explanation": "Bukka I is recorded as sending an embassy to the Ming emperor of China in the 14th century."
+    },
+    {
+      "id": "harihara-bukka-q26",
+      "difficulty": "hard",
+      "q": "Harihara and Bukka issued their inscriptions and grants invoking which protective deity of the empire?",
+      "options": [
+        "Surya",
+        "The Buddha",
+        "Mithra",
+        "Virupaksha (Shiva)"
+      ],
+      "answer": 3,
+      "explanation": "The Sangama rulers governed in the name of the god Virupaksha, a form of Shiva, the tutelary deity of the capital."
+    },
+    {
+      "id": "harihara-bukka-q27",
+      "difficulty": "hard",
+      "q": "Who succeeded Bukka I as Vijayanagara's ruler, continuing the Sangama line at the empire's early peak?",
+      "options": [
+        "Harihara II",
+        "Deva Raya I",
+        "Krishnadevaraya",
+        "Saluva Narasimha"
+      ],
+      "answer": 0,
+      "explanation": "Bukka I was succeeded by his son Harihara II, who further expanded the empire toward the coasts."
+    },
+    {
+      "id": "harihara-bukka-q28",
+      "difficulty": "hard",
+      "q": "Under Harihara II, Vijayanagara extended its control to reach which two seas, becoming a coast-to-coast power?",
+      "options": [
+        "The Caspian Sea and the Black Sea",
+        "The Red Sea and the Mediterranean",
+        "The Arabian Sea and the Bay of Bengal",
+        "The Andaman Sea and the Java Sea"
+      ],
+      "answer": 2,
+      "explanation": "Harihara II expanded the realm so that Vijayanagara controlled territory from the Arabian Sea to the Bay of Bengal."
+    },
+    {
+      "id": "harihara-bukka-q29",
+      "difficulty": "hard",
+      "q": "The historical reliability of the conversion-and-reconversion story of Harihara and Bukka is best described as:",
+      "options": [
+        "An undisputed eyewitness record",
+        "A fact proved by Greek coins",
+        "Entirely a 20th-century invention with no early source",
+        "A traditional account debated and questioned by modern historians"
+      ],
+      "answer": 3,
+      "explanation": "The conversion narrative comes from later traditions and is debated; many historians treat it cautiously as legend mixed with history."
+    },
+    {
+      "id": "harihara-bukka-q30",
+      "difficulty": "hard",
+      "q": "The brothers' choice of capital site was strategically strong because the location offered what natural defence?",
+      "options": [
+        "A vast desert on all sides",
+        "The Tungabhadra river and surrounding rocky granite hills",
+        "Dense Himalayan snow passes",
+        "A coastal lagoon and reefs"
+      ],
+      "answer": 1,
+      "explanation": "The capital was protected by the Tungabhadra river to the north and a rugged landscape of granite boulders and hills, making it easy to defend."
+    }
+  ]
+}
