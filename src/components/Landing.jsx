@@ -4,7 +4,7 @@ import { CardBack } from './TarotCard'
 import { CATEGORIES } from '../data/categories'
 import { paletteFor } from '../data/palettes'
 
-export default function Landing({ onEnter }) {
+export default function Landing({ onEnter, premium, onUpgrade }) {
   const [shaking, setShaking] = useState(null)
 
   const pick = (cat) => {
@@ -68,7 +68,19 @@ export default function Landing({ onEnter }) {
         })}
       </section>
 
-      <footer className="foot">Made with 🪔 — the Mahabharat deck is live · five more decks on the way</footer>
+      <footer className="foot">
+        {premium ? (
+          <span>👑 Premium unlocked — every difficulty across all six decks.</span>
+        ) : (
+          <span>
+            Made with 🪔 · Free plan plays easy questions.{' '}
+            <button className="linklike" onClick={() => onUpgrade()}>
+              Go Premium
+            </button>{' '}
+            for every difficulty &amp; fresh questions.
+          </span>
+        )}
+      </footer>
     </div>
   )
 }

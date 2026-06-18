@@ -6,7 +6,7 @@ import { withV } from '../lib/imgver'
 
 const TYPES = ['all', 'character', 'event', 'place', 'artifact', 'concept']
 
-export default function Deck({ category, progress, onBack }) {
+export default function Deck({ category, progress, premium, onUpgrade, onBack }) {
   const [deck, setDeck] = useState(null)
   const [waiting, setWaiting] = useState(false)
   const [filter, setFilter] = useState('all')
@@ -97,6 +97,15 @@ export default function Deck({ category, progress, onBack }) {
             ⓘ Image credits
           </button>
         )}
+        {premium ? (
+          <span className="chip premium-chip" title="Premium unlocked">
+            👑 Premium
+          </span>
+        ) : (
+          <button className="chip upgrade-chip" onClick={() => onUpgrade()} title="Unlock all difficulties">
+            ✦ Go Premium
+          </button>
+        )}
       </div>
 
       {!deck ? (
@@ -129,6 +138,8 @@ export default function Deck({ category, progress, onBack }) {
           card={active}
           categoryId={category.id}
           progress={progress}
+          premium={premium}
+          onUpgrade={onUpgrade}
           onClose={() => setActive(null)}
         />
       )}

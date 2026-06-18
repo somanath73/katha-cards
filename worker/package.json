@@ -1,0 +1,12 @@
+{
+  "name": "katha-billing",
+  "private": true,
+  "description": "Stripe billing Worker for Katha Cards Premium",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.78.0"
+  }
+}

@@ -6,7 +6,9 @@ import { paletteFor } from '../data/palettes'
 import { drawQuestions, toRoman } from '../lib/random'
 import { withV } from '../lib/imgver'
 
-export default function QuizModal({ card, categoryId, progress, onClose }) {
+const DIFF_TABS = ['all', 'easy', 'medium', 'hard']
+
+export default function QuizModal({ card, categoryId, progress, premium, onUpgrade, onClose }) {
   const pal = paletteFor(card.palette)
   const imgSrc = card.image ? withV(`${import.meta.env.BASE_URL}data/${categoryId}/${card.image}`) : null
   const [bank, setBank] = useState(null)
@@ -17,6 +19,7 @@ export default function QuizModal({ card, categoryId, progress, onClose }) {
   const [qi, setQi] = useState(0)
   const [picked, setPicked] = useState(null)
   const [score, setScore] = useState(0)
+  const [difficulty, setDifficulty] = useState(premium ? 'all' : 'easy')
   const retryRef = useRef(null)
 
   useEffect(() => {
@@ -47,11 +50,20 @@ export default function QuizModal({ card, categoryId, progress, onClose }) {
   }, [card.id, categoryId])
 
   const begin = () => {
-    setQs(drawQuestions(bank, 3, progress.seenFor(card.id)))
+    const diff = premium ? difficulty : 'easy'
+    setQs(drawQuestions(bank, 3, progress.seenFor(card.id), { difficulty: diff, premium }))
     setStage('quiz')
     setQi(0)
     setScore(0)
     setPicked(null)
+  }
+
+  const pickDifficulty = (d) => {
+    if (!premium && d !== 'easy') {
+      onUpgrade(`"${d.charAt(0).toUpperCase() + d.slice(1)}" questions are a Premium feature.`)
+      return
+    }
+    setDifficulty(d)
   }
 
   const choose = (i) => {
@@ -117,9 +129,35 @@ export default function QuizModal({ card, categoryId, progress, onClose }) {
             </div>
             <p className="reveal-desc">{card.description}</p>
             {bank ? (
-              <button className="btn-gold pulse" onClick={begin}>
-                Draw 3 questions
-              </button>
+              <>
+                <div className="diff-pick" role="group" aria-label="Question difficulty">
+                  {DIFF_TABS.map((d) => {
+                    const locked = !premium && d !== 'easy'
+                    const on = (premium ? difficulty : 'easy') === d
+                    return (
+                      <button
+                        key={d}
+                        className={`diff-tab ${d !== 'all' ? `diff-${d}` : ''} ${on ? 'on' : ''} ${
+                          locked ? 'locked' : ''
+                        }`}
+                        onClick={() => pickDifficulty(d)}
+                        aria-pressed={on}
+                      >
+                        {locked && <span className="diff-lock">🔒</span>}
+                        {d === 'all' ? 'All' : d}
+                      </button>
+                    )
+                  })}
+                </div>
+                <button className="btn-gold pulse" onClick={begin}>
+                  Draw 3 {premium ? (difficulty === 'all' ? '' : `${difficulty} `) : 'easy '}questions
+                </button>
+                {!premium && (
+                  <button className="reveal-upsell linklike" onClick={() => onUpgrade()}>
+                    Free plan · easy questions only. <b>Go Premium</b> for medium, hard &amp; fresh draws →
+                  </button>
+                )}
+              </>
             ) : (
               <p className="inscribe">
                 {missing
@@ -198,12 +236,17 @@ export default function QuizModal({ card, categoryId, progress, onClose }) {
             </p>
             <div className="result-actions">
               <button className="btn-gold" onClick={begin}>
-                Draw 3 new questions
+                {premium ? 'Draw 3 new questions' : 'Replay easy questions'}
               </button>
               <button className="btn-ghost" onClick={onClose}>
                 Back to the deck
               </button>
             </div>
+            {!premium && (
+              <button className="reveal-upsell linklike" onClick={() => onUpgrade()}>
+                <b>Go Premium</b> to unlock medium, hard &amp; a fresh draw every time →
+              </button>
+            )}
           </div>
         )}
       </div>

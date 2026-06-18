@@ -1213,6 +1213,215 @@ button {
 
 /* ---------------- responsive ---------------- */
 
+/* ---------------- premium / paywall ---------------- */
+
+.linklike {
+  background: none;
+  border: 0;
+  padding: 0;
+  color: var(--gold);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.linklike:hover {
+  color: var(--gold-2);
+}
+
+.upgrade-chip {
+  border-color: color-mix(in srgb, var(--gold) 55%, transparent);
+  color: var(--gold);
+  font-weight: 800;
+}
+.upgrade-chip:hover {
+  background: var(--gold);
+  border-color: transparent;
+  color: #241a05;
+}
+.premium-chip {
+  border-color: transparent;
+  background: linear-gradient(120deg, #f0c75e, #d99a2b);
+  color: #241a05;
+  font-weight: 800;
+  cursor: default;
+}
+
+/* difficulty picker on the card reveal */
+.diff-pick {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin: 6px 0 16px;
+}
+.diff-tab {
+  padding: 8px 16px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.045);
+  color: var(--ink-dim);
+  font-weight: 700;
+  font-size: 0.82rem;
+  text-transform: capitalize;
+  cursor: pointer;
+  transition: transform 0.15s, border-color 0.15s, background 0.15s, color 0.15s;
+}
+.diff-tab:hover {
+  color: var(--ink);
+  border-color: rgba(255, 255, 255, 0.32);
+}
+.diff-tab.on {
+  background: var(--gold);
+  border-color: transparent;
+  color: #241a05;
+}
+.diff-tab.diff-easy.on {
+  background: #34d36b;
+}
+.diff-tab.diff-medium.on {
+  background: #ffd166;
+}
+.diff-tab.diff-hard.on {
+  background: #ff8fa3;
+}
+.diff-tab.locked {
+  opacity: 0.7;
+}
+.diff-tab.locked:hover {
+  border-color: var(--gold);
+  color: var(--gold);
+}
+.diff-lock {
+  margin-right: 5px;
+  font-size: 0.74em;
+}
+
+.reveal-upsell {
+  display: block;
+  margin: 13px auto 0;
+  background: none;
+  border: 0;
+  color: var(--ink-dim);
+  font: inherit;
+  font-size: 0.85rem;
+  text-align: center;
+  cursor: pointer;
+}
+.reveal-upsell b {
+  color: var(--gold);
+}
+.reveal-upsell:hover b {
+  color: var(--gold-2);
+}
+
+.modal-box.paywall {
+  width: min(440px, 94vw);
+  text-align: center;
+  padding-top: 34px;
+}
+.paywall-crown {
+  font-size: 2.6rem;
+  line-height: 1;
+}
+.paywall-title {
+  font-family: var(--font-display);
+  font-size: 1.7rem;
+  margin: 8px 0 2px;
+}
+.paywall-reason {
+  color: var(--ink-dim);
+  margin: 0 auto 16px;
+  max-width: 330px;
+}
+.paywall-price {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: 6px;
+  margin-bottom: 18px;
+}
+.paywall-amount {
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  font-weight: 900;
+  color: var(--gold);
+}
+.paywall-per {
+  color: var(--ink-dim);
+  font-weight: 700;
+}
+.paywall-perks {
+  list-style: none;
+  margin: 0 auto 22px;
+  padding: 0;
+  max-width: 330px;
+  text-align: left;
+  display: grid;
+  gap: 11px;
+}
+.paywall-perks li {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  font-size: 0.95rem;
+}
+.paywall-perks .tick {
+  color: var(--gold);
+  flex-shrink: 0;
+}
+.paywall-cta {
+  width: 100%;
+  max-width: 330px;
+}
+.paywall-note {
+  color: var(--gold);
+  margin: 13px 0 0;
+  font-weight: 600;
+}
+.paywall-foot {
+  margin-top: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+}
+.paywall-fine {
+  color: var(--ink-dim);
+  font-size: 0.78rem;
+}
+
+.toast {
+  position: fixed;
+  left: 50%;
+  bottom: calc(22px + env(safe-area-inset-bottom, 0px));
+  transform: translateX(-50%);
+  background: linear-gradient(120deg, #f0c75e, #d99a2b);
+  color: #241a05;
+  font-weight: 800;
+  padding: 13px 22px;
+  border-radius: 999px;
+  box-shadow: 0 16px 44px -12px rgba(0, 0, 0, 0.7);
+  z-index: 70;
+  animation: toastIn 3.4s ease forwards;
+}
+@keyframes toastIn {
+  0% {
+    opacity: 0;
+    transform: translate(-50%, 16px);
+  }
+  10%,
+  82% {
+    opacity: 1;
+    transform: translate(-50%, 0);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(-50%, 8px);
+  }
+}
+
 @media (max-width: 640px) {
   .deck-head {
     gap: 10px;
@@ -1249,6 +1458,41 @@ button {
 
   .f3 {
     left: calc(50% + 56px);
+  }
+
+  .modal {
+    padding: 12px;
+    align-items: start;
+  }
+  .modal-box {
+    max-height: calc(100dvh - 24px);
+    padding-bottom: calc(24px + env(safe-area-inset-bottom, 0px));
+  }
+
+  .chips {
+    gap: 8px;
+  }
+
+  .diff-tab {
+    padding: 7px 13px;
+    font-size: 0.78rem;
+  }
+
+  .opt {
+    padding: 13px 14px;
+  }
+  .opt:hover {
+    transform: none;
+  }
+
+  .paywall-amount {
+    font-size: 2.1rem;
+  }
+
+  .toast {
+    max-width: calc(100vw - 26px);
+    font-size: 0.9rem;
+    text-align: center;
   }
 }
 

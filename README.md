@@ -79,3 +79,29 @@ no code changes — just append to the array.
 
 Stored in localStorage under `katha-progress-v1`: per-card plays, best score
 (0–3 stars), and seen question ids. Clear site data to reset.
+
+## Free vs Premium
+
+Every question already carries a `difficulty` of `easy` / `medium` / `hard`.
+
+- **Free** — only the **easy** questions, and the *same* fixed set each time.
+- **Premium** ($0.99/year) — a difficulty picker (all / easy / medium / hard)
+  and a fresh, randomised, unseen-preferring draw across the full bank.
+
+Gating lives in `drawQuestions()` ([src/lib/random.js](src/lib/random.js)) and
+the difficulty picker in the card reveal. Premium state is in
+[src/lib/premium.js](src/lib/premium.js) (`katha-premium-v1`).
+
+Billing is **Stripe**. Because the site is static, real subscriptions run
+through a small Cloudflare Worker in [`worker/`](worker/) (Checkout + webhook +
+KV entitlement) — see its README to deploy. Set `BILLING.apiBase` in
+`premium.js` to go live; until then the Upgrade button unlocks locally for
+testing. A Stripe Payment Link (`BILLING.paymentLink`) is a no-backend
+alternative.
+
+## Mobile / install (PWA)
+
+Responsive for phones and installable to the home screen on iOS (Safari → Share
+→ Add to Home Screen) and Android (Chrome → Install). Driven by
+[`public/manifest.webmanifest`](public/manifest.webmanifest), the generated
+chakra app icons, and the apple-mobile-web-app meta tags in `index.html`.

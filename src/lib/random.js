@@ -7,13 +7,28 @@ export function shuffle(arr) {
   return a
 }
 
-// Draw n questions, preferring ones the player hasn't seen yet; once the
-// bank is exhausted, seen questions cycle back in.
-export function drawQuestions(all, n, seenIds) {
+export const DIFFICULTIES = ['easy', 'medium', 'hard']
+
+// Draw n questions for a card.
+//  - Free players (premium=false) always get the SAME first n EASY questions,
+//    in bank order — a fixed taste of the deck.
+//  - Premium players pick a difficulty ('all' | 'easy' | 'medium' | 'hard') and
+//    get a fresh, shuffled draw that prefers questions they haven't seen yet.
+export function drawQuestions(all, n, seenIds, opts = {}) {
+  const { difficulty = 'all', premium = true } = opts
+
+  if (!premium) {
+    const easy = all.filter((q) => q.difficulty === 'easy')
+    return (easy.length ? easy : all).slice(0, n)
+  }
+
+  let pool = difficulty === 'all' ? all : all.filter((q) => q.difficulty === difficulty)
+  if (pool.length === 0) pool = all
+
   const seen = seenIds || new Set()
-  const unseen = all.filter((q) => !seen.has(q.id))
-  const pool = unseen.length >= n ? unseen : [...unseen, ...shuffle(all.filter((q) => seen.has(q.id)))]
-  return shuffle(pool).slice(0, n)
+  const unseen = pool.filter((q) => !seen.has(q.id))
+  const draw = unseen.length >= n ? unseen : [...unseen, ...shuffle(pool.filter((q) => seen.has(q.id)))]
+  return shuffle(draw).slice(0, n)
 }
 
 export function toRoman(n) {

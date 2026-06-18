@@ -1,0 +1,20 @@
+name = "katha-billing"
+main = "src/index.js"
+compatibility_date = "2024-09-01"
+
+# Entitlement store. Create it once with:
+#   npx wrangler kv namespace create ENTITLEMENTS
+# then paste the returned id below.
+[[kv_namespaces]]
+binding = "ENTITLEMENTS"
+id = "REPLACE_WITH_KV_NAMESPACE_ID"
+
+[vars]
+# Your deployed site origin (used for CORS + checkout redirects).
+ALLOWED_ORIGIN = "https://somanath73.github.io"
+# The Stripe recurring Price for the $0.99/year plan (price_...).
+STRIPE_PRICE_ID = "price_REPLACE_ME"
+
+# Secrets — set these with `wrangler secret put NAME` (never commit them):
+#   STRIPE_SECRET_KEY       sk_live_...  (or sk_test_... while testing)
+#   STRIPE_WEBHOOK_SECRET   whsec_...    (from the webhook endpoint you create)
