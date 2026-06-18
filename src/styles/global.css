@@ -363,6 +363,7 @@ button {
   align-items: center;
   gap: 18px;
   padding: 14px 22px;
+  padding-right: 156px; /* leave room for the fixed premium button */
   background: rgba(8, 8, 26, 0.72);
   backdrop-filter: blur(14px);
   border-bottom: 1px solid var(--line);
@@ -1230,22 +1231,44 @@ button {
   color: var(--gold-2);
 }
 
-.upgrade-chip {
-  border-color: color-mix(in srgb, var(--gold) 55%, transparent);
-  color: var(--gold);
+/* persistent top-right premium control (rendered globally in App) */
+.premium-corner {
+  position: fixed;
+  top: calc(env(safe-area-inset-top, 0px) + 12px);
+  right: calc(env(safe-area-inset-right, 0px) + 14px);
+  z-index: 40;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 9px 16px;
+  border-radius: 999px;
+  font-family: var(--font-ui);
   font-weight: 800;
+  font-size: 0.84rem;
+  letter-spacing: 0.2px;
+  cursor: pointer;
+  color: var(--gold);
+  border: 1px solid color-mix(in srgb, var(--gold) 55%, transparent);
+  background: rgba(8, 8, 26, 0.66);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 24px -10px rgba(0, 0, 0, 0.7);
+  transition: transform 0.16s, background 0.16s, color 0.16s, box-shadow 0.16s;
 }
-.upgrade-chip:hover {
+.premium-corner:hover {
+  transform: translateY(-1px);
   background: var(--gold);
-  border-color: transparent;
   color: #241a05;
+  box-shadow: 0 12px 30px -10px rgba(233, 196, 106, 0.5);
 }
-.premium-chip {
+.premium-corner.is-premium {
+  cursor: default;
+  color: #241a05;
   border-color: transparent;
   background: linear-gradient(120deg, #f0c75e, #d99a2b);
-  color: #241a05;
-  font-weight: 800;
-  cursor: default;
+}
+.premium-corner.is-premium:hover {
+  transform: none;
+  box-shadow: 0 8px 24px -10px rgba(0, 0, 0, 0.7);
 }
 
 /* difficulty picker on the card reveal */
@@ -1519,6 +1542,16 @@ button {
     max-width: calc(100vw - 26px);
     font-size: 0.9rem;
     text-align: center;
+  }
+
+  .premium-corner {
+    top: calc(env(safe-area-inset-top, 0px) + 10px);
+    right: calc(env(safe-area-inset-right, 0px) + 10px);
+    padding: 7px 12px;
+    font-size: 0.78rem;
+  }
+  .deck-head {
+    padding-right: 124px;
   }
 }
 

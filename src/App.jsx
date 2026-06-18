@@ -19,6 +19,19 @@ export default function App() {
   return (
     <div className="app">
       <div className="bg-stars" aria-hidden="true" />
+
+      <button
+        type="button"
+        className={`premium-corner ${premium ? 'is-premium' : ''}`}
+        onClick={() => {
+          if (!premium) requestUpgrade()
+        }}
+        aria-disabled={premium}
+        title={premium ? 'Premium unlocked' : 'Unlock all difficulties & fresh questions'}
+      >
+        {premium ? '👑 Premium' : '✦ Go Premium'}
+      </button>
+
       {category ? (
         <Deck
           category={category}

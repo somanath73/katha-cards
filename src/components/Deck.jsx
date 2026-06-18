@@ -97,15 +97,6 @@ export default function Deck({ category, progress, premium, onUpgrade, onBack })
             ⓘ Image credits
           </button>
         )}
-        {premium ? (
-          <span className="chip premium-chip" title="Premium unlocked">
-            👑 Premium
-          </span>
-        ) : (
-          <button className="chip upgrade-chip" onClick={() => onUpgrade()} title="Unlock all difficulties">
-            ✦ Go Premium
-          </button>
-        )}
       </div>
 
       {!deck ? (
