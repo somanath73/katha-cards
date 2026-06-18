@@ -46,6 +46,17 @@ export default function Landing({ onEnter }) {
               style={{ '--c1': pal.c1, '--c2': pal.c2, '--accent': pal.accent, '--glow': pal.glow }}
               onClick={() => pick(cat)}
             >
+              <img
+                className="cat-cover"
+                src={`${import.meta.env.BASE_URL}covers/${cat.id}.webp`}
+                alt=""
+                aria-hidden="true"
+                loading="lazy"
+                onError={(e) => {
+                  e.currentTarget.style.display = 'none'
+                }}
+              />
+              <div className="cat-shade" />
               <div className="cat-emblem">
                 <Emblem name={cat.emblem} />
               </div>
