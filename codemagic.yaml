@@ -1,0 +1,117 @@
+# Codemagic CI/CD for Katha Cards (Capacitor 8)
+# Builds the native iOS and Android apps from this repo with NO local Mac.
+# Docs: https://docs.codemagic.io/yaml-quick-start/
+#
+# One-time setup in the Codemagic UI before the first run (see MOBILE.md):
+#   iOS:
+#     - Add an App Store Connect API key integration and name it "KathaCards_ASC".
+#     - Register the bundle id com.kathacards.app in your Apple account.
+#     - Set APP_STORE_APPLE_ID below to your app's numeric Apple ID.
+#   Android:
+#     - Upload your upload keystore and name the reference "KathaCardsKeystore".
+#     - Wire it into android/app/build.gradle (signingConfigs) using the
+#       CM_KEYSTORE_PATH / CM_KEYSTORE_PASSWORD / CM_KEY_ALIAS / CM_KEY_PASSWORD
+#       variables Codemagic injects — see the snippet at the bottom of this file.
+#     - Add a Google Play service-account JSON to a variable group "google_play"
+#       as GCLOUD_SERVICE_ACCOUNT_CREDENTIALS.
+
+workflows:
+  # ---------------------------------------------------------------------------
+  ios-release:
+    name: iOS – TestFlight
+    instance_type: mac_mini_m2
+    max_build_duration: 60
+    integrations:
+      app_store_connect: KathaCards_ASC
+    environment:
+      ios_signing:
+        distribution_type: app_store
+        bundle_identifier: com.kathacards.app
+      vars:
+        BUNDLE_ID: "com.kathacards.app"
+        APP_STORE_APPLE_ID: 0000000000 # <-- replace with your app's numeric Apple ID
+      node: 20
+      xcode: latest
+    scripts:
+      - name: Install dependencies
+        script: npm ci
+      - name: Build web (native mode) and sync iOS
+        script: |
+          npm run build:native
+          npx cap sync ios
+      - name: Set up code signing
+        script: xcode-project use-profiles
+      - name: Build IPA
+        script: |
+          xcode-project build-ipa \
+            --project "ios/App/App.xcodeproj" \
+            --scheme "App"
+    artifacts:
+      - build/ios/ipa/*.ipa
+      - /tmp/xcodebuild_logs/*.log
+    publishing:
+      app_store_connect:
+        auth: integration
+        submit_to_testflight: true
+      email:
+        recipients:
+          - somanath73@gmail.com
+
+  # ---------------------------------------------------------------------------
+  android-release:
+    name: Android – Play internal
+    instance_type: linux_x2
+    max_build_duration: 60
+    environment:
+      android_signing:
+        - KathaCardsKeystore
+      groups:
+        - google_play # provides GCLOUD_SERVICE_ACCOUNT_CREDENTIALS
+      vars:
+        PACKAGE_NAME: "com.kathacards.app"
+      node: 20
+      java: 17
+    scripts:
+      - name: Install dependencies
+        script: npm ci
+      - name: Build web (native mode) and sync Android
+        script: |
+          npm run build:native
+          npx cap sync android
+      - name: Build signed release bundle
+        script: |
+          cd android
+          ./gradlew bundleRelease
+    artifacts:
+      - android/app/build/outputs/**/*.aab
+    publishing:
+      google_play:
+        credentials: $GCLOUD_SERVICE_ACCOUNT_CREDENTIALS
+        track: internal
+        submit_as_draft: true
+      email:
+        recipients:
+          - somanath73@gmail.com
+# -----------------------------------------------------------------------------
+# Android signing snippet — add inside android/app/build.gradle so gradle picks
+# up the keystore Codemagic injects. (Capacitor's default project is unsigned.)
+#
+#   android {
+#       ...
+#       signingConfigs {
+#           release {
+#               if (System.getenv("CM_KEYSTORE_PATH")) {
+#                   storeFile file(System.getenv("CM_KEYSTORE_PATH"))
+#                   storePassword System.getenv("CM_KEYSTORE_PASSWORD")
+#                   keyAlias System.getenv("CM_KEY_ALIAS")
+#                   keyPassword System.getenv("CM_KEY_PASSWORD")
+#               }
+#           }
+#       }
+#       buildTypes {
+#           release {
+#               signingConfig signingConfigs.release
+#               ...
+#           }
+#       }
+#   }
