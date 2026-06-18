@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { BILLING, PREMIUM_PERKS } from '../lib/premium'
+import { BILLING, PLAN_COMPARE } from '../lib/premium'
 
 // The upgrade modal. `reason` tailors the headline (e.g. a locked difficulty).
 // `onUpgrade`/`onRestore` come from usePremium(); onRestore(email) verifies an
@@ -61,18 +61,28 @@ export default function Paywall({ reason, onUpgrade, onRestore, onClose }) {
           <span className="paywall-amount">{BILLING.price}</span>
           <span className="paywall-per">/ {BILLING.period}</span>
         </div>
+        {BILLING.launchNote && <p className="paywall-launch">✦ {BILLING.launchNote}</p>}
 
-        <ul className="paywall-perks">
-          {PREMIUM_PERKS.map((p) => (
-            <li key={p}>
-              <span className="tick">✦</span>
-              {p}
-            </li>
+        <div className="paywall-compare" role="table" aria-label="Free versus Premium">
+          <div className="pc-row pc-head" role="row">
+            <span role="columnheader" />
+            <span role="columnheader">Free</span>
+            <span role="columnheader" className="pc-prem">Premium</span>
+          </div>
+          {PLAN_COMPARE.map((r) => (
+            <div className="pc-row" role="row" key={r.label}>
+              <span className="pc-feat" role="cell">{r.label}</span>
+              <span className={`pc-cell ${r.free ? 'yes' : 'no'}`} role="cell">{r.free ? '✓' : '—'}</span>
+              <span className={`pc-cell pc-prem ${r.prem ? 'yes' : 'no'}`} role="cell">{r.prem ? '✓' : '—'}</span>
+            </div>
           ))}
-        </ul>
+        </div>
 
         <button className="btn-gold pulse paywall-cta" onClick={go} disabled={busy}>
           {busy ? 'One moment…' : `Go Premium · ${BILLING.price}/${BILLING.period} →`}
+        </button>
+        <button className="btn-ghost paywall-free" onClick={onClose} disabled={busy}>
+          Continue free
         </button>
 
         {note && <p className="paywall-note">{note}</p>}

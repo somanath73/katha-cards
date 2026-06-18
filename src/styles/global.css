@@ -363,7 +363,7 @@ button {
   align-items: center;
   gap: 18px;
   padding: 14px 22px;
-  padding-right: 156px; /* leave room for the fixed premium button */
+  padding-right: 164px; /* leave room for the fixed premium button */
   background: rgba(8, 8, 26, 0.72);
   backdrop-filter: blur(14px);
   border-bottom: 1px solid var(--line);
@@ -1234,8 +1234,8 @@ button {
 /* persistent top-right premium control (rendered globally in App) */
 .premium-corner {
   position: fixed;
-  top: calc(env(safe-area-inset-top, 0px) + 12px);
-  right: calc(env(safe-area-inset-right, 0px) + 14px);
+  top: calc(env(safe-area-inset-top, 0px) + 16px);
+  right: calc(env(safe-area-inset-right, 0px) + 20px);
   z-index: 40;
   display: inline-flex;
   align-items: center;
@@ -1375,24 +1375,63 @@ button {
   color: var(--ink-dim);
   font-weight: 700;
 }
-.paywall-perks {
-  list-style: none;
-  margin: 0 auto 22px;
-  padding: 0;
-  max-width: 330px;
-  text-align: left;
-  display: grid;
-  gap: 11px;
-}
-.paywall-perks li {
-  display: flex;
-  gap: 10px;
-  align-items: flex-start;
-  font-size: 0.95rem;
-}
-.paywall-perks .tick {
+.paywall-launch {
+  margin: -10px 0 16px;
   color: var(--gold);
-  flex-shrink: 0;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+}
+.paywall-compare {
+  width: 100%;
+  max-width: 340px;
+  margin: 0 auto 18px;
+  display: grid;
+  gap: 0;
+  text-align: left;
+}
+.pc-row {
+  display: grid;
+  grid-template-columns: 1fr 44px 64px;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 4px;
+}
+.pc-row:not(.pc-head) {
+  border-top: 1px solid var(--line);
+}
+.pc-head {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: var(--ink-dim);
+}
+.pc-head span {
+  text-align: center;
+}
+.pc-head .pc-prem {
+  color: var(--gold);
+}
+.pc-feat {
+  font-size: 0.88rem;
+}
+.pc-cell {
+  text-align: center;
+  font-weight: 800;
+}
+.pc-cell.yes {
+  color: #57d98a;
+}
+.pc-cell.no {
+  color: var(--ink-dim);
+}
+.pc-prem.yes {
+  color: var(--gold);
+}
+.paywall-free {
+  width: 100%;
+  max-width: 330px;
+  margin-top: 10px;
 }
 .paywall-cta {
   width: 100%;

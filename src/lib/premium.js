@@ -19,13 +19,16 @@ export const BILLING = {
   paymentLink: '', // e.g. 'https://buy.stripe.com/xxxxxxxx'
   price: '$0.99',
   period: 'year',
+  launchNote: 'Launch price', // shown under the price; clear later for normal pricing
 }
 
-export const PREMIUM_PERKS = [
-  'All three difficulties — easy, medium & hard',
-  'Fresh, randomised questions every draw',
-  'The full 3,000-question bank across every deck',
-  'Support new decks & artwork',
+// At-a-glance Free vs Premium so the paywall shows what free already gives you.
+export const PLAN_COMPARE = [
+  { label: 'Easy questions, every deck', free: true, prem: true },
+  { label: 'Medium & Hard difficulty', free: false, prem: true },
+  { label: 'A fresh, random draw every time', free: false, prem: true },
+  { label: 'The full 3,000-question bank', free: false, prem: true },
+  { label: 'Future decks & artwork', free: false, prem: true },
 ]
 
 const PREMIUM_KEY = 'katha-premium-v1'
