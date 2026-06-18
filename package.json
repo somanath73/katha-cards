@@ -6,15 +6,29 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "build:native": "vite build --mode native",
+    "cap:sync": "npm run build:native && cap sync",
+    "cap:ios": "npm run cap:sync && cap open ios",
+    "cap:android": "npm run cap:sync && cap open android",
+    "cap:assets": "capacitor-assets generate --ios --android --iconBackgroundColor #08081a --splashBackgroundColor #08081a"
   },
   "dependencies": {
+    "@capacitor/android": "^8.4.0",
+    "@capacitor/app": "^8.1.0",
+    "@capacitor/core": "^8.4.0",
+    "@capacitor/ios": "^8.4.0",
+    "@capacitor/splash-screen": "^8.0.1",
+    "@capacitor/status-bar": "^8.0.2",
+    "@revenuecat/purchases-capacitor": "^13.2.0",
     "@supabase/supabase-js": "^2.108.2",
     "canvas-confetti": "^1.9.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^8.4.0",
     "@vitejs/plugin-react": "^4.3.4",
     "vite": "^5.4.11"
   }

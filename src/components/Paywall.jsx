@@ -4,8 +4,11 @@ import { BILLING, PLAN_COMPARE } from '../lib/premium'
 // Mode-aware upgrade modal.
 //  static   → Go Premium (Stripe/local) + "Restore by email" in the footer.
 //  accounts → sign in first (magic link); signing in also restores.
+//  native   → Go Premium (App Store / Play via RevenueCat) + "Restore purchases".
 export default function Paywall({ reason, mode, user, onUpgrade, onRestore, onSignIn, onSignOut, onClose }) {
   const accounts = mode === 'accounts'
+  const native = mode === 'native'
+  const base = import.meta.env.BASE_URL || '/'
   const [busy, setBusy] = useState(false)
   const [note, setNote] = useState('')
   const [showRestore, setShowRestore] = useState(false) // static: footer email form
@@ -25,6 +28,21 @@ export default function Paywall({ reason, mode, user, onUpgrade, onRestore, onSi
       if (r?.unlocked) finish('Premium unlocked on this device. Enjoy!')
     } catch {
       setNote('Could not start checkout — please try again.')
+    } finally {
+      setBusy(false)
+    }
+  }
+
+  // Native restore — no email; pulls from the signed-in App Store / Play account.
+  const restoreNative = async () => {
+    setBusy(true)
+    setNote('')
+    try {
+      const ok = await onRestore()
+      if (ok) finish('Purchases restored — welcome back!')
+      else setNote('No active subscription found on this account.')
+    } catch {
+      setNote('Could not restore — please try again.')
     } finally {
       setBusy(false)
     }
@@ -122,6 +140,10 @@ export default function Paywall({ reason, mode, user, onUpgrade, onRestore, onSi
             ) : (
               <span className="paywall-fine">Signing in restores an existing subscription on any device.</span>
             )
+          ) : native ? (
+            <button className="linklike" onClick={restoreNative} disabled={busy}>
+              Restore purchases
+            </button>
           ) : showRestore ? (
             <form className="restore-form" onSubmit={submitEmail}>
               <input
@@ -144,7 +166,20 @@ export default function Paywall({ reason, mode, user, onUpgrade, onRestore, onSi
               Already subscribed? Restore by email
             </button>
           )}
-          <span className="paywall-fine">Cancel anytime · secure checkout via Stripe</span>
+          <span className="paywall-fine">
+            {native
+              ? `Auto-renews at ${BILLING.price}/${BILLING.period} until canceled · manage in your device Settings`
+              : 'Cancel anytime · secure checkout via Stripe'}
+          </span>
+          <span className="paywall-fine">
+            <a href={`${base}terms.html`} target="_blank" rel="noopener" style={{ color: 'inherit', textDecoration: 'underline' }}>
+              Terms
+            </a>
+            {' · '}
+            <a href={`${base}privacy.html`} target="_blank" rel="noopener" style={{ color: 'inherit', textDecoration: 'underline' }}>
+              Privacy
+            </a>
+          </span>
         </div>
       </div>
     </div>

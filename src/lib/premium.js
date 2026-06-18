@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useState } from 'react'
 import { BACKEND } from './supabase'
 import * as account from './account'
+import { isNative, iapConfigured, isPremiumNative, purchasePremiumNative, restorePremiumNative } from './iap'
 
 // ---------------------------------------------------------------------------
 // Billing config. Katha Cards is a static site, so real recurring payments run
@@ -220,6 +221,26 @@ export function usePremium() {
     ;(async () => {
       const ret = consumeReturn()
 
+      // Native app (iOS/Android): entitlement comes from the App Store / Play
+      // via RevenueCat — never the web Stripe flow.
+      if (isNative()) {
+        if (!iapConfigured()) {
+          if (!dead) setPremium(isPremiumLocal()) // RevenueCat not wired yet (test mode)
+          return
+        }
+        try {
+          const active = await isPremiumNative()
+          if (dead) return
+          if (active !== null) {
+            setPremium(active)
+            setPremiumLocal(active)
+          }
+        } catch {
+          if (!dead) setPremium(isPremiumLocal())
+        }
+        return
+      }
+
       if (BACKEND) {
         unsub = account.onAuthChange(async (u) => {
           if (dead) return
@@ -265,6 +286,24 @@ export function usePremium() {
   }, [])
 
   const upgrade = useCallback(async () => {
+    if (isNative()) {
+      if (!iapConfigured()) {
+        setPremiumLocal(true) // RevenueCat not wired yet — unlock locally for testing
+        setPremium(true)
+        return { unlocked: true }
+      }
+      try {
+        const ok = await purchasePremiumNative()
+        if (ok) {
+          setPremium(true)
+          setPremiumLocal(true)
+        }
+        return { unlocked: ok }
+      } catch (e) {
+        if (e?.userCancelled || /cancel/i.test(e?.message || '')) return { cancelled: true }
+        throw e
+      }
+    }
     if (BACKEND) {
       const u = await account.currentUser()
       if (!u) return { needAuth: true } // paywall will prompt sign-in first
@@ -278,6 +317,15 @@ export function usePremium() {
   // STATIC: verify an existing sub by email. ACCOUNTS: email a magic link
   // (signing in with the checkout email restores the subscription).
   const restore = useCallback(async (email) => {
+    if (isNative()) {
+      if (!iapConfigured()) {
+        setPremium(true) // test mode (no RevenueCat key yet)
+        return true
+      }
+      const ok = await restorePremiumNative()
+      if (ok) setPremium(true)
+      return ok
+    }
     if (BACKEND) {
       const r = await account.signInWithEmail(email)
       return r.ok ? 'sent' : false
@@ -297,7 +345,7 @@ export function usePremium() {
   const clearUpgraded = useCallback(() => setJustUpgraded(false), [])
 
   return {
-    mode: BACKEND ? 'accounts' : 'static',
+    mode: isNative() ? 'native' : BACKEND ? 'accounts' : 'static',
     premium,
     user,
     justUpgraded,

@@ -1,0 +1,22 @@
+{
+  "appId": "com.kathacards.app",
+  "appName": "Katha Cards",
+  "webDir": "dist",
+  "backgroundColor": "#08081a",
+  "ios": {
+    "backgroundColor": "#08081a",
+    "contentInset": "always"
+  },
+  "android": {
+    "backgroundColor": "#08081a"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 800,
+      "launchAutoHide": true,
+      "backgroundColor": "#08081a",
+      "showSpinner": false,
+      "androidScaleType": "CENTER_CROP"
+    }
+  }
+}

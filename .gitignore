@@ -8,3 +8,6 @@ dist
 
 .art/
 .art-test/
+
+# Stray PWA output if cap:assets is ever run without --ios --android
+icons/
