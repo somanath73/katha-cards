@@ -5,11 +5,11 @@ import { useCallback, useEffect, useState } from 'react'
 // through a tiny Cloudflare Worker (see /worker) that talks to Stripe.
 //
 //   apiBase  — deployed Worker origin. When set, checkout uses a real Stripe
-//              Checkout Session and premium is VERIFIED server-side (webhook +
-//              KV), so it can't be faked by hitting the success URL.
+//              Checkout Session and premium is VERIFIED server-side. Entitlement
+//              follows the customer's EMAIL, so it restores on any device.
 //   paymentLink — a Stripe Payment Link URL. Simpler fallback when no Worker is
 //              deployed: real payment, but entitlement is trust-on-redirect.
-//   price    — display string only.
+//   price/period — display strings only.
 //
 // With neither set, the Upgrade button unlocks locally so the flow is testable
 // before Stripe is wired up.
@@ -30,9 +30,36 @@ export const PREMIUM_PERKS = [
 
 const PREMIUM_KEY = 'katha-premium-v1'
 const DEVICE_KEY = 'katha-device-v1'
+const EMAIL_KEY = 'katha-email-v1'
+const VERIFY_KEY = 'katha-verify-v1' // { premium, ts } — caches the email re-check
 const RETURN_PARAM = 'upgrade'
+const VERIFY_TTL = 12 * 60 * 60 * 1000 // re-check the email against Stripe twice a day
 
 const base = import.meta.env.BASE_URL || '/'
+
+const ls = {
+  get(k) {
+    try {
+      return localStorage.getItem(k)
+    } catch {
+      return null
+    }
+  },
+  set(k, v) {
+    try {
+      localStorage.setItem(k, v)
+    } catch {
+      /* ignore */
+    }
+  },
+  del(k) {
+    try {
+      localStorage.removeItem(k)
+    } catch {
+      /* ignore */
+    }
+  },
+}
 
 function rid() {
   try {
@@ -43,46 +70,68 @@ function rid() {
 }
 
 export function deviceId() {
-  let id = null
-  try {
-    id = localStorage.getItem(DEVICE_KEY)
-    if (!id) {
-      id = rid()
-      localStorage.setItem(DEVICE_KEY, id)
-    }
-  } catch {
-    id = id || rid()
+  let id = ls.get(DEVICE_KEY)
+  if (!id) {
+    id = rid()
+    ls.set(DEVICE_KEY, id)
   }
   return id
 }
 
+export const getEmail = () => ls.get(EMAIL_KEY) || ''
+const setEmail = (e) => (e ? ls.set(EMAIL_KEY, e) : ls.del(EMAIL_KEY))
+
 export function isPremiumLocal() {
-  try {
-    return localStorage.getItem(PREMIUM_KEY) === '1'
-  } catch {
-    return false
+  return ls.get(PREMIUM_KEY) === '1'
+}
+function setPremiumLocal(v) {
+  if (v) ls.set(PREMIUM_KEY, '1')
+  else {
+    ls.del(PREMIUM_KEY)
+    ls.del(VERIFY_KEY)
   }
 }
 
-function setPremiumLocal(v) {
+function readVerifyCache() {
   try {
-    if (v) localStorage.setItem(PREMIUM_KEY, '1')
-    else localStorage.removeItem(PREMIUM_KEY)
+    const c = JSON.parse(ls.get(VERIFY_KEY) || 'null')
+    if (c && Date.now() - c.ts < VERIFY_TTL) return Boolean(c.premium)
   } catch {
     /* ignore */
   }
+  return null
+}
+function writeVerifyCache(premium) {
+  ls.set(VERIFY_KEY, JSON.stringify({ premium, ts: Date.now() }))
 }
 
-// Ask the Worker whether this device's subscription is active.
-async function verifyEntitlement() {
+const norm = (e) => (e || '').trim().toLowerCase()
+
+async function ask(query) {
+  const r = await fetch(`${BILLING.apiBase}/entitlement?${query}`, { headers: { accept: 'application/json' } })
+  if (!r.ok) throw new Error('entitlement http ' + r.status)
+  const j = await r.json()
+  return Boolean(j.premium)
+}
+
+// Source of truth: the deployed Worker (which checks Stripe). If an email is on
+// file we follow that (restores anywhere, cached to limit Stripe calls); the
+// buying device falls back to its device id (kept fresh by webhooks in KV).
+async function verifyEntitlement({ force = false } = {}) {
   if (!BILLING.apiBase) return isPremiumLocal()
+  const email = getEmail()
   try {
-    const r = await fetch(`${BILLING.apiBase}/entitlement?device=${encodeURIComponent(deviceId())}`, {
-      headers: { accept: 'application/json' },
-    })
-    if (!r.ok) return isPremiumLocal()
-    const j = await r.json()
-    const active = Boolean(j.premium)
+    let active
+    if (email) {
+      if (!force) {
+        const cached = readVerifyCache()
+        if (cached !== null) return cached
+      }
+      active = await ask(`email=${encodeURIComponent(email)}`)
+      writeVerifyCache(active)
+    } else {
+      active = await ask(`device=${encodeURIComponent(deviceId())}`)
+    }
     setPremiumLocal(active)
     return active
   } catch {
@@ -118,9 +167,27 @@ export async function startCheckout() {
     location.href = u.toString()
     return { redirected: true }
   }
-  // No billing configured — unlock locally so the experience is testable.
-  setPremiumLocal(true)
+  setPremiumLocal(true) // no billing configured — unlock locally for testing
   return { redirected: false, unlocked: true }
+}
+
+// Restore an existing subscription on THIS device by email (works after a
+// reinstall, on a new phone, in another browser…). Verified live against Stripe.
+export async function restoreByEmail(rawEmail) {
+  const email = norm(rawEmail)
+  if (!email) return false
+  if (!BILLING.apiBase) {
+    setEmail(email)
+    setPremiumLocal(true) // test mode (no backend)
+    return true
+  }
+  const active = await ask(`email=${encodeURIComponent(email)}`)
+  if (active) {
+    setEmail(email)
+    setPremiumLocal(true)
+    writeVerifyCache(true)
+  }
+  return active
 }
 
 // Handle the redirect back from Stripe. Returns 'success' | 'cancel' | null.
@@ -128,15 +195,13 @@ async function consumeReturn() {
   const params = new URLSearchParams(location.search)
   const status = params.get(RETURN_PARAM)
   if (!status) return null
-  // Clean the URL so a refresh doesn't re-trigger.
   params.delete(RETURN_PARAM)
   const clean = base + (params.toString() ? `?${params}` : '') + location.hash
   history.replaceState(null, '', clean)
   if (status === 'success') {
     if (BILLING.apiBase) {
-      // Webhook may lag a beat; poll entitlement briefly.
       for (let i = 0; i < 5; i++) {
-        if (await verifyEntitlement()) break
+        if (await verifyEntitlement({ force: true })) break
         await new Promise((res) => setTimeout(res, 1200))
       }
     } else {
@@ -170,10 +235,10 @@ export function usePremium() {
     return r
   }, [])
 
-  const restore = useCallback(async () => {
-    const active = await verifyEntitlement()
-    setPremium(active)
-    return active
+  const restore = useCallback(async (email) => {
+    const ok = await restoreByEmail(email)
+    if (ok) setPremium(true)
+    return ok
   }, [])
 
   const clearUpgraded = useCallback(() => setJustUpgraded(false), [])

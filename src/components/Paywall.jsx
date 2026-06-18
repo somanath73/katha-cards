@@ -1,11 +1,14 @@
 import { useState } from 'react'
 import { BILLING, PREMIUM_PERKS } from '../lib/premium'
 
-// The upgrade modal. `reason` lets callers tailor the headline (e.g. a locked
-// difficulty). `onUpgrade`/`onRestore` come from usePremium().
+// The upgrade modal. `reason` tailors the headline (e.g. a locked difficulty).
+// `onUpgrade`/`onRestore` come from usePremium(); onRestore(email) verifies an
+// existing subscription so Premium follows the person across devices.
 export default function Paywall({ reason, onUpgrade, onRestore, onClose }) {
   const [busy, setBusy] = useState(false)
   const [note, setNote] = useState('')
+  const [restoring, setRestoring] = useState(false)
+  const [email, setEmail] = useState('')
 
   const go = async () => {
     setBusy(true)
@@ -24,16 +27,22 @@ export default function Paywall({ reason, onUpgrade, onRestore, onClose }) {
     }
   }
 
-  const restore = async () => {
+  const submitRestore = async (e) => {
+    e.preventDefault()
     setBusy(true)
     setNote('')
-    const ok = await onRestore()
-    setBusy(false)
-    if (ok) {
-      setNote('Welcome back — premium restored!')
-      setTimeout(onClose, 1100)
-    } else {
-      setNote('No active subscription found for this device.')
+    try {
+      const ok = await onRestore(email)
+      if (ok) {
+        setNote('Welcome back — Premium restored!')
+        setTimeout(onClose, 1100)
+      } else {
+        setNote('No active subscription found for that email.')
+      }
+    } catch {
+      setNote('Could not restore — please try again.')
+    } finally {
+      setBusy(false)
     }
   }
 
@@ -46,9 +55,7 @@ export default function Paywall({ reason, onUpgrade, onRestore, onClose }) {
 
         <div className="paywall-crown">👑</div>
         <h3 className="paywall-title">Go Premium</h3>
-        <p className="paywall-reason">
-          {reason || 'Unlock the full Katha Cards experience.'}
-        </p>
+        <p className="paywall-reason">{reason || 'Unlock the full Katha Cards experience.'}</p>
 
         <div className="paywall-price">
           <span className="paywall-amount">{BILLING.price}</span>
@@ -71,9 +78,28 @@ export default function Paywall({ reason, onUpgrade, onRestore, onClose }) {
         {note && <p className="paywall-note">{note}</p>}
 
         <div className="paywall-foot">
-          <button className="linklike" onClick={restore} disabled={busy}>
-            Restore purchase
-          </button>
+          {restoring ? (
+            <form className="restore-form" onSubmit={submitRestore}>
+              <input
+                type="email"
+                inputMode="email"
+                autoComplete="email"
+                placeholder="Email used at checkout"
+                value={email}
+                onChange={(e) => setEmail(e.target.value)}
+                required
+                disabled={busy}
+                autoFocus
+              />
+              <button type="submit" className="btn-ghost" disabled={busy}>
+                {busy ? '…' : 'Restore'}
+              </button>
+            </form>
+          ) : (
+            <button className="linklike" onClick={() => setRestoring(true)} disabled={busy}>
+              Already subscribed? Restore by email
+            </button>
+          )}
           <span className="paywall-fine">Cancel anytime · secure checkout via Stripe</span>
         </div>
       </div>

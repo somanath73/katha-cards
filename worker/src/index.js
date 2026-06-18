@@ -49,7 +49,7 @@ async function verifyStripeSig(header, body, secret) {
   return diff === 0
 }
 
-// Minimal Stripe REST call (no SDK — the node SDK doesn't run on Workers).
+// Minimal Stripe REST calls (no SDK — the node SDK doesn't run on Workers).
 async function stripe(env, path, form) {
   const body = new URLSearchParams(form).toString()
   const r = await fetch(`https://api.stripe.com/v1/${path}`, {
@@ -61,6 +61,25 @@ async function stripe(env, path, form) {
     body,
   })
   return r.json()
+}
+
+async function stripeGet(env, path) {
+  const r = await fetch(`https://api.stripe.com/v1/${path}`, {
+    headers: { authorization: `Bearer ${env.STRIPE_SECRET_KEY}` },
+  })
+  return r.json()
+}
+
+// Live, authoritative check: does any Stripe customer with this email have an
+// active (or trialing) subscription? This is what makes Premium follow the
+// person — restorable on any device by the email used at checkout.
+async function emailHasActiveSub(env, email) {
+  const custs = await stripeGet(env, `customers?email=${encodeURIComponent(email)}&limit=10`)
+  for (const c of custs?.data || []) {
+    const subs = await stripeGet(env, `subscriptions?customer=${c.id}&status=all&limit=100`)
+    if ((subs?.data || []).some((s) => s.status === 'active' || s.status === 'trialing')) return true
+  }
+  return false
 }
 
 export default {
@@ -112,7 +131,14 @@ export default {
     }
 
     // --- Entitlement check ----------------------------------------------------
+    // ?email=  -> live Stripe lookup (works on any device; for "Restore").
+    // ?device= -> fast KV lookup for the device that purchased (webhook-fresh).
     if (url.pathname === '/entitlement' && request.method === 'GET') {
+      const email = url.searchParams.get('email')
+      if (email) {
+        const premium = await emailHasActiveSub(env, email.trim().toLowerCase())
+        return json({ premium }, 200, origin)
+      }
       const device = url.searchParams.get('device')
       if (!device) return json({ premium: false }, 200, origin)
       const raw = await env.ENTITLEMENTS.get(`device:${device}`)

@@ -11,10 +11,19 @@ button just unlocks Premium locally so you can test the flow.
 |-------|---------|
 | `POST /create-checkout-session` | Creates a Stripe Checkout Session (mode: subscription) and returns the hosted checkout URL. |
 | `POST /webhook` | Verifies Stripe's signature and records/clears entitlement in KV. |
-| `GET /entitlement?device=ID` | Returns `{ premium: true/false }` for an anonymous device id. |
+| `GET /entitlement?device=ID` | Fast KV check for the device that purchased (kept fresh by the webhook). |
+| `GET /entitlement?email=…` | Live Stripe check — is there an active subscription for this email? Powers **Restore**. |
 
-Entitlement is keyed by a random `device` id the browser generates (passed as
-the Checkout `client_reference_id`). No accounts or logins required.
+**Identity, without accounts.** The purchasing browser is recognised by a random
+`device` id (passed as the Checkout `client_reference_id`) — instant, no login.
+But because Premium should follow the *person*, the durable key is the customer's
+**email** (which Stripe collects at checkout): the in-app "Restore by email" asks
+the Worker to check Stripe live, so Premium unlocks on any device, after a
+reinstall, or in another browser. No passwords or magic links required.
+
+> Note: email restore is unverified (anyone who knows a subscriber's email could
+> restore on their own device). At $0.99 that's an accepted trade-off; for
+> airtight verification, add a one-time email code (needs a mail provider).
 
 ## One-time setup
 
