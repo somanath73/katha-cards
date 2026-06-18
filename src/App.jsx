@@ -1,20 +1,41 @@
-import { useCallback, useState } from 'react'
+import { useCallback, useEffect, useState } from 'react'
 import Landing from './components/Landing'
 import Deck from './components/Deck'
 import Paywall from './components/Paywall'
 import { useProgress } from './hooks/useProgress'
 import { usePremium } from './lib/premium'
+import * as account from './lib/account'
 
 export default function App() {
   const [category, setCategory] = useState(null)
   const progress = useProgress()
-  const { premium, justUpgraded, clearUpgraded, upgrade, restore } = usePremium()
+  const { setSync, mergeRemote } = progress
+  const { mode, premium, user, justUpgraded, clearUpgraded, upgrade, restore, signIn, signOut } = usePremium()
   const [paywall, setPaywall] = useState(null) // null | reason string
 
   const requestUpgrade = useCallback(
     (reason) => setPaywall(reason || 'Unlock every difficulty and a fresh draw of questions every time.'),
     [],
   )
+
+  // accounts mode: push progress to the server as it's recorded…
+  useEffect(() => {
+    if (mode !== 'accounts') return
+    setSync((deck, cardId, entry) => account.pushProgressRow(deck, cardId, entry))
+    return () => setSync(null)
+  }, [mode, setSync])
+
+  // …and pull it back on sign-in so it follows the player across devices.
+  useEffect(() => {
+    if (mode !== 'accounts' || !user) return
+    let dead = false
+    account.loadRemoteProgress().then((rows) => {
+      if (!dead) mergeRemote(rows)
+    })
+    return () => {
+      dead = true
+    }
+  }, [mode, user, mergeRemote])
 
   return (
     <div className="app">
@@ -47,8 +68,12 @@ export default function App() {
       {paywall && (
         <Paywall
           reason={paywall}
+          mode={mode}
+          user={user}
           onUpgrade={upgrade}
           onRestore={restore}
+          onSignIn={signIn}
+          onSignOut={signOut}
           onClose={() => setPaywall(null)}
         />
       )}

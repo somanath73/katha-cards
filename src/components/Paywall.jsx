@@ -1,14 +1,20 @@
 import { useState } from 'react'
 import { BILLING, PLAN_COMPARE } from '../lib/premium'
 
-// The upgrade modal. `reason` tailors the headline (e.g. a locked difficulty).
-// `onUpgrade`/`onRestore` come from usePremium(); onRestore(email) verifies an
-// existing subscription so Premium follows the person across devices.
-export default function Paywall({ reason, onUpgrade, onRestore, onClose }) {
+// Mode-aware upgrade modal.
+//  static   → Go Premium (Stripe/local) + "Restore by email" in the footer.
+//  accounts → sign in first (magic link); signing in also restores.
+export default function Paywall({ reason, mode, user, onUpgrade, onRestore, onSignIn, onSignOut, onClose }) {
+  const accounts = mode === 'accounts'
   const [busy, setBusy] = useState(false)
   const [note, setNote] = useState('')
-  const [restoring, setRestoring] = useState(false)
+  const [showRestore, setShowRestore] = useState(false) // static: footer email form
   const [email, setEmail] = useState('')
+
+  const finish = (msg) => {
+    setNote(msg)
+    setTimeout(onClose, 1200)
+  }
 
   const go = async () => {
     setBusy(true)
@@ -16,10 +22,7 @@ export default function Paywall({ reason, onUpgrade, onRestore, onClose }) {
     try {
       const r = await onUpgrade()
       if (r?.redirected) return // leaving for Stripe
-      if (r?.unlocked) {
-        setNote('Premium unlocked on this device. Enjoy!')
-        setTimeout(onClose, 1100)
-      }
+      if (r?.unlocked) finish('Premium unlocked on this device. Enjoy!')
     } catch {
       setNote('Could not start checkout — please try again.')
     } finally {
@@ -27,20 +30,22 @@ export default function Paywall({ reason, onUpgrade, onRestore, onClose }) {
     }
   }
 
-  const submitRestore = async (e) => {
+  // Sign-in (accounts) or restore (static) — both submit an email.
+  const submitEmail = async (e) => {
     e.preventDefault()
     setBusy(true)
     setNote('')
     try {
-      const ok = await onRestore(email)
-      if (ok) {
-        setNote('Welcome back — Premium restored!')
-        setTimeout(onClose, 1100)
+      if (accounts) {
+        const r = await onSignIn(email)
+        setNote(r?.ok ? 'Check your email for a sign-in link.' : 'Could not send the link — please try again.')
       } else {
-        setNote('No active subscription found for that email.')
+        const ok = await onRestore(email)
+        if (ok) finish('Welcome back — Premium restored!')
+        else setNote('No active subscription found for that email.')
       }
     } catch {
-      setNote('Could not restore — please try again.')
+      setNote('Something went wrong — please try again.')
     } finally {
       setBusy(false)
     }
@@ -78,9 +83,30 @@ export default function Paywall({ reason, onUpgrade, onRestore, onClose }) {
           ))}
         </div>
 
-        <button className="btn-gold pulse paywall-cta" onClick={go} disabled={busy}>
-          {busy ? 'One moment…' : `Go Premium · ${BILLING.price}/${BILLING.period} →`}
-        </button>
+        {/* primary action: sign-in form (accounts, signed out) OR the upgrade button */}
+        {accounts && !user ? (
+          <form className="restore-form paywall-cta" onSubmit={submitEmail}>
+            <input
+              type="email"
+              inputMode="email"
+              autoComplete="email"
+              placeholder="Email for your magic link"
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              required
+              disabled={busy}
+              autoFocus
+            />
+            <button type="submit" className="btn-gold" disabled={busy}>
+              {busy ? '…' : 'Send link'}
+            </button>
+          </form>
+        ) : (
+          <button className="btn-gold pulse paywall-cta" onClick={go} disabled={busy}>
+            {busy ? 'One moment…' : `Go Premium · ${BILLING.price}/${BILLING.period} →`}
+          </button>
+        )}
+
         <button className="btn-ghost paywall-free" onClick={onClose} disabled={busy}>
           Continue free
         </button>
@@ -88,8 +114,16 @@ export default function Paywall({ reason, onUpgrade, onRestore, onClose }) {
         {note && <p className="paywall-note">{note}</p>}
 
         <div className="paywall-foot">
-          {restoring ? (
-            <form className="restore-form" onSubmit={submitRestore}>
+          {accounts ? (
+            user ? (
+              <button className="linklike" onClick={onSignOut} disabled={busy}>
+                Signed in as {user.email} · Sign out
+              </button>
+            ) : (
+              <span className="paywall-fine">Signing in restores an existing subscription on any device.</span>
+            )
+          ) : showRestore ? (
+            <form className="restore-form" onSubmit={submitEmail}>
               <input
                 type="email"
                 inputMode="email"
@@ -106,7 +140,7 @@ export default function Paywall({ reason, onUpgrade, onRestore, onClose }) {
               </button>
             </form>
           ) : (
-            <button className="linklike" onClick={() => setRestoring(true)} disabled={busy}>
+            <button className="linklike" onClick={() => setShowRestore(true)} disabled={busy}>
               Already subscribed? Restore by email
             </button>
           )}

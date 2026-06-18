@@ -92,12 +92,18 @@ Gating lives in `drawQuestions()` ([src/lib/random.js](src/lib/random.js)) and
 the difficulty picker in the card reveal. Premium state is in
 [src/lib/premium.js](src/lib/premium.js) (`katha-premium-v1`).
 
-Billing is **Stripe**. Because the site is static, real subscriptions run
-through a small Cloudflare Worker in [`worker/`](worker/) (Checkout + webhook +
-KV entitlement) — see its README to deploy. Set `BILLING.apiBase` in
-`premium.js` to go live; until then the Upgrade button unlocks locally for
-testing. A Stripe Payment Link (`BILLING.paymentLink`) is a no-backend
-alternative.
+Billing is **Stripe**. Two deployment options, both optional (the app works
+statically until you wire one up):
+
+- **Accounts mode (recommended)** — [`supabase/`](supabase/): magic-link sign-in,
+  server-verified entitlement, **content-protected** medium/hard questions (RLS),
+  cross-device progress sync, and a daily free allowance. Turns on when the
+  `VITE_SUPABASE_*` env vars are set (see [.env.example](.env.example) +
+  [supabase/README](supabase/README.md)).
+- **No-accounts mode** — [`worker/`](worker/): a small Cloudflare Worker for
+  Checkout + webhook + device/email entitlement (no login). Set `BILLING.apiBase`.
+
+Until either is configured, the Upgrade button unlocks locally for testing.
 
 ## Mobile / install (PWA)
 

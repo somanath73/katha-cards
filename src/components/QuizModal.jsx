@@ -5,6 +5,9 @@ import { CardBack } from './TarotCard'
 import { paletteFor } from '../data/palettes'
 import { drawQuestions, toRoman } from '../lib/random'
 import { withV } from '../lib/imgver'
+import { FREE_DAILY_DRAWS, freeDrawsLeft, noteFreeDraw } from '../lib/premium'
+import { fetchPremiumQuestions } from '../lib/account'
+import { BACKEND } from '../lib/supabase'
 
 const DIFF_TABS = ['all', 'easy', 'medium', 'hard']
 
@@ -20,6 +23,8 @@ export default function QuizModal({ card, categoryId, progress, premium, onUpgra
   const [picked, setPicked] = useState(null)
   const [score, setScore] = useState(0)
   const [difficulty, setDifficulty] = useState(premium ? 'all' : 'easy')
+  const [premiumQs, setPremiumQs] = useState(null) // medium/hard from the server (accounts mode)
+  const [loadingPremium, setLoadingPremium] = useState(false)
   const retryRef = useRef(null)
 
   useEffect(() => {
@@ -49,9 +54,28 @@ export default function QuizModal({ card, categoryId, progress, premium, onUpgra
     }
   }, [card.id, categoryId])
 
-  const begin = () => {
+  const begin = async () => {
     const diff = premium ? difficulty : 'easy'
-    setQs(drawQuestions(bank, 3, progress.seenFor(card.id), { difficulty: diff, premium }))
+    const limited = !premium && BACKEND && FREE_DAILY_DRAWS > 0
+    if (limited && freeDrawsLeft() <= 0) {
+      setStage('limit')
+      return
+    }
+    let pool = bank
+    // Content protection: in accounts mode the static bank holds only easy
+    // questions — fetch the protected medium/hard set from the server.
+    if (BACKEND && premium && diff !== 'easy') {
+      let pq = premiumQs
+      if (pq === null) {
+        setLoadingPremium(true)
+        pq = await fetchPremiumQuestions(categoryId, card.id)
+        setPremiumQs(pq)
+        setLoadingPremium(false)
+      }
+      pool = [...bank, ...pq]
+    }
+    setQs(drawQuestions(pool, 3, progress.seenFor(card.id), { difficulty: diff, premium }))
+    if (limited) noteFreeDraw()
     setStage('quiz')
     setQi(0)
     setScore(0)
@@ -77,7 +101,7 @@ export default function QuizModal({ card, categoryId, progress, premium, onUpgra
       setQi(qi + 1)
       setPicked(null)
     } else {
-      progress.record(card.id, score, qs.map((q) => q.id))
+      progress.record(categoryId, card.id, score, qs.map((q) => q.id))
       setStage('result')
       if (score === 3) {
         confetti({
@@ -149,8 +173,10 @@ export default function QuizModal({ card, categoryId, progress, premium, onUpgra
                     )
                   })}
                 </div>
-                <button className="btn-gold pulse" onClick={begin}>
-                  Draw 3 {premium ? (difficulty === 'all' ? '' : `${difficulty} `) : 'easy '}questions
+                <button className="btn-gold pulse" onClick={begin} disabled={loadingPremium}>
+                  {loadingPremium
+                    ? 'Summoning questions…'
+                    : `Draw 3 ${premium ? (difficulty === 'all' ? '' : `${difficulty} `) : 'easy '}questions`}
                 </button>
                 {!premium && (
                   <button className="reveal-upsell linklike" onClick={() => onUpgrade()}>
@@ -247,6 +273,27 @@ export default function QuizModal({ card, categoryId, progress, premium, onUpgra
                 <b>Go Premium</b> to unlock medium, hard &amp; a fresh draw every time →
               </button>
             )}
+          </div>
+        )}
+
+        {stage === 'limit' && (
+          <div className="result">
+            <div className="result-stars">
+              <span className="rstar lit">🌙</span>
+            </div>
+            <h3>That's today's free legends</h3>
+            <p>
+              You've played your {FREE_DAILY_DRAWS} free rounds for today. Come back tomorrow — or go
+              Premium for unlimited play and every difficulty.
+            </p>
+            <div className="result-actions">
+              <button className="btn-gold" onClick={() => onUpgrade('Unlimited rounds & every difficulty.')}>
+                Go Premium
+              </button>
+              <button className="btn-ghost" onClick={onClose}>
+                Back to the deck
+              </button>
+            </div>
           </div>
         )}
       </div>
