@@ -51,6 +51,14 @@ export const CATEGORIES = [
     live: true,
   },
   {
+    id: 'ramayana',
+    name: 'Ramayana',
+    tagline: 'Rama, Ravana and the war for Sita',
+    emblem: 'bow',
+    palette: 'royal',
+    live: false,
+  },
+  {
     id: 'monuments',
     name: 'Monuments of India',
     tagline: 'Temples, forts and timeless wonders',
@@ -72,14 +80,6 @@ export const CATEGORIES = [
     tagline: 'Lights, colours and a thousand celebrations',
     emblem: 'sun',
     palette: 'flame',
-    live: false,
-  },
-  {
-    id: 'sport',
-    name: 'Indian Sport',
-    tagline: 'Cricket, hockey and Olympic glory',
-    emblem: 'shield',
-    palette: 'forest',
     live: false,
   },
 ]
