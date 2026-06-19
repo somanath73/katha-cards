@@ -63,6 +63,26 @@ const RECIPES = {
       }
     },
   },
+  // Photoreal cinematic portraits — replaces the painterly K&K look so real
+  // historical figures get specific, believable likenesses (approved style).
+  'kings-kingdoms-real': {
+    style:
+      'Photorealistic, razor-sharp focus, ultra-detailed crisp fine detail on skin, beard, fabric weave ' +
+      'and jewellery, dramatic warm golden lighting, rich true-to-life colour, period-accurate royal and ' +
+      'ancient Indian attire and ornaments, regal and dignified mood, epic film-still quality, subtle ' +
+      'volumetric god-rays, softly blurred Indian palace background. No text, no lettering, no captions, ' +
+      'no watermark, no signature, no modern objects. Vertical portrait orientation.',
+    lead: (c) => {
+      switch (c.type) {
+        case 'character': return `A photorealistic, dignified cinematic close-up portrait of a single historical figure: ${c.title}, ${c.subtitle}. Tight upper-body portrait, the figure fills the frame, face large and prominent.`
+        case 'event': return `A photorealistic, cinematic depiction of the historic scene of ${c.title} (${c.subtitle}).`
+        case 'place': return `A photorealistic, cinematic establishing shot of ${c.title}, ${c.subtitle}, a majestic Indian setting, no central person.`
+        case 'artifact': return `A photorealistic, detailed cinematic close-up of ${c.title}, ${c.subtitle}, as the centerpiece. No human figure.`
+        case 'concept': return `A photorealistic, symbolic cinematic composition evoking ${c.title}, ${c.subtitle}.`
+        default: return `${c.title}, ${c.subtitle}.`
+      }
+    },
+  },
   'indian-politics': {
     style:
       'Modern flat editorial illustration, clean bold vector style, vibrant limited colour palette, ' +
