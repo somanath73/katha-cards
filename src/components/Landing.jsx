@@ -38,7 +38,7 @@ const Ic = ({ d, fill }) => (
   </svg>
 )
 
-export default function Landing({ onEnter, premium, onUpgrade }) {
+export default function Landing({ onEnter, premium, onUpgrade, progress }) {
   const [active, setActive] = useState(2) // Mythology centered, as in the design
   const [group, setGroup] = useState('All')
   const [q, setQ] = useState('')
@@ -46,8 +46,12 @@ export default function Landing({ onEnter, premium, onUpgrade }) {
 
   const live = CATEGORIES.filter((c) => c.live)
   const fan = FAN_ORDER.map((id) => CATEGORIES.find((c) => c.id === id)).filter(Boolean)
-  const mahabharat = CATEGORIES.find((c) => c.id === 'mahabharat')
   const trending = CATEGORIES.find((c) => c.id === 'mythology')
+
+  // Real profile stats (from saved progress) drive the streak, continue bar and stat cards.
+  const ov = progress?.overall || { decksPlayed: 0, quizzes: 0, accuracy: 0, streak: 0, longest: 0, lastDeck: null }
+  const resume = CATEGORIES.find((c) => c.id === ov.lastDeck) || live[0]
+  const resumePct = progress?.deckPct ? progress.deckPct(resume?.id) : 0
 
   const pick = (cat) => {
     if (!cat) return
@@ -127,10 +131,15 @@ export default function Landing({ onEnter, premium, onUpgrade }) {
           <div className="streak">
             <span className="streak-fire">🔥</span>
             <div>
-              <b>7 Day Streak</b>
-              <span>Keep it going!</span>
+              <b>{ov.streak > 0 ? `${ov.streak} Day Streak` : 'Start a Streak'}</b>
+              <span>{ov.streak > 0 ? 'Keep it going!' : 'Play daily to build it'}</span>
             </div>
-            <div className="streak-days">{[1, 1, 1, 1, 1, 1, 0].map((on, i) => <i key={i} className={on ? 'on' : ''}>{on ? '✓' : ''}</i>)}</div>
+            <div className="streak-days">
+              {Array.from({ length: 7 }).map((_, i) => {
+                const on = i < Math.min(ov.streak, 7)
+                return <i key={i} className={on ? 'on' : ''}>{on ? '✓' : ''}</i>
+              })}
+            </div>
             <span className="streak-gift">🎁</span>
           </div>
 
@@ -174,20 +183,20 @@ export default function Landing({ onEnter, premium, onUpgrade }) {
         <div className="cbar-resume">
           <span className="cbar-h">▣ Continue Playing</span>
           <div className="cbar-deck">
-            <img src={cover('mahabharat')} alt="" />
+            <img src={cover(resume.id)} alt="" />
             <div className="cbar-info">
-              <b>Mahabharat</b>
-              <span>The war that changed everything</span>
-              <div className="cbar-prog"><i style={{ width: '65%' }} /></div>
+              <b>{resume.name}</b>
+              <span>{resume.tagline}</span>
+              <div className="cbar-prog"><i style={{ width: `${resumePct}%` }} /></div>
             </div>
-            <button className="btn-ghost" onClick={() => pick(mahabharat)}>↺ Resume</button>
+            <button className="btn-ghost" onClick={() => pick(resume)}>{ov.lastDeck ? '↺ Resume' : '▶ Start'}</button>
           </div>
         </div>
         <div className="cbar-stats">
-          <Stat icon="🗂️" label="Decks Played" value="6 / 6" tint="#9b8cff" />
-          <Stat icon="🏆" label="Quizzes Completed" value="124" tint="#f6c453" />
-          <Stat icon="🎯" label="Accuracy" value="78%" tint="#ff6b6b" />
-          <Stat icon="🔥" label="Longest Streak" value="7 Days" tint="#ffa24d" />
+          <Stat icon="🗂️" label="Decks Played" value={`${ov.decksPlayed} / ${live.length}`} tint="#9b8cff" />
+          <Stat icon="🏆" label="Quizzes Completed" value={String(ov.quizzes)} tint="#f6c453" />
+          <Stat icon="🎯" label="Accuracy" value={ov.quizzes ? `${ov.accuracy}%` : '—'} tint="#ff6b6b" />
+          <Stat icon="🔥" label="Longest Streak" value={`${ov.longest} ${ov.longest === 1 ? 'Day' : 'Days'}`} tint="#ffa24d" />
         </div>
       </section>
 
