@@ -1,7 +1,17 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import Emblem from './Emblem'
+import Profile from './Profile'
 import { CATEGORIES } from '../data/categories'
 import { paletteFor } from '../data/palettes'
+
+const NAME_KEY = 'katha-name-v1'
+const loadName = () => {
+  try {
+    return localStorage.getItem(NAME_KEY) || ''
+  } catch {
+    return ''
+  }
+}
 
 const base = import.meta.env.BASE_URL
 const cover = (id) => `${base}covers/${id}.webp`
@@ -38,11 +48,36 @@ const Ic = ({ d, fill }) => (
   </svg>
 )
 
-export default function Landing({ onEnter, premium, onUpgrade, progress }) {
+export default function Landing({ onEnter, premium, onUpgrade, progress, mode, user, signIn, signOut, restore }) {
   const [active, setActive] = useState(2) // Mythology centered, as in the design
   const [group, setGroup] = useState('All')
   const [q, setQ] = useState('')
   const [shaking, setShaking] = useState(null)
+  const [menu, setMenu] = useState(false)
+  const [name, setName] = useState(loadName)
+  const acctRef = useRef(null)
+
+  const saveName = (v) => {
+    setName(v)
+    try {
+      localStorage.setItem(NAME_KEY, v)
+    } catch {
+      /* ignore */
+    }
+  }
+
+  // close the profile menu on outside click / Escape
+  useEffect(() => {
+    if (!menu) return
+    const onDown = (e) => acctRef.current && !acctRef.current.contains(e.target) && setMenu(false)
+    const onKey = (e) => e.key === 'Escape' && setMenu(false)
+    document.addEventListener('mousedown', onDown)
+    document.addEventListener('keydown', onKey)
+    return () => {
+      document.removeEventListener('mousedown', onDown)
+      document.removeEventListener('keydown', onKey)
+    }
+  }, [menu])
 
   const live = CATEGORIES.filter((c) => c.live)
   const fan = FAN_ORDER.map((id) => CATEGORIES.find((c) => c.id === id)).filter(Boolean)
@@ -103,7 +138,26 @@ export default function Landing({ onEnter, premium, onUpgrade, progress }) {
             <kbd>⌘K</kbd>
           </label>
           <button className="nav-icon" aria-label="Notifications"><Ic d={I.bell} /></button>
-          <button className="nav-ava" aria-label="Account"><span>🪔</span></button>
+          <div className="nav-acct" ref={acctRef}>
+            <button className="nav-ava" aria-label="Your profile" aria-expanded={menu} onClick={() => setMenu((m) => !m)}>
+              <span>{name ? name.trim()[0].toUpperCase() : '🪔'}</span>
+            </button>
+            {menu && (
+              <Profile
+                name={name}
+                onName={saveName}
+                premium={premium}
+                mode={mode}
+                user={user}
+                overall={ov}
+                onUpgrade={onUpgrade}
+                onSignIn={signIn}
+                onSignOut={signOut}
+                onRestore={restore}
+                onClose={() => setMenu(false)}
+              />
+            )}
+          </div>
         </div>
       </header>
 

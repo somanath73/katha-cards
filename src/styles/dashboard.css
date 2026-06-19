@@ -164,6 +164,7 @@
   .decks { grid-template-columns: 1fr; }
   .trend-card { height: 200px; }
   .nav-links { display: none; }
+  .nav-right { margin-left: auto; } /* keep avatar/search at the right when nav-links are hidden */
 }
 @media (max-width: 560px) {
   .home { padding: 0 14px 40px; }
@@ -176,3 +177,27 @@
   .streak { padding: 8px 10px; }
   .streak-gift { display: none; }
 }
+
+/* ---- profile / account dropdown ---- */
+.nav-acct { position: relative; }
+.profile-menu { position: absolute; top: calc(100% + 12px); right: 0; width: 300px; max-width: calc(100vw - 28px); z-index: 50; padding: 16px; border-radius: 18px; background: linear-gradient(170deg, #16162e, #0b0b1c); border: 1px solid var(--line); box-shadow: 0 26px 60px -18px #000, 0 0 60px -30px rgba(233, 196, 106, 0.35); animation: rise 0.2s ease-out; }
+.profile-head { display: flex; align-items: center; gap: 12px; }
+.profile-ava { width: 46px; height: 46px; flex-shrink: 0; border-radius: 50%; display: grid; place-items: center; font-family: var(--font-display); font-weight: 700; font-size: 1.3rem; color: #241a05; background: linear-gradient(120deg, #f0c75e, #d99a2b); }
+.profile-id { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 2px; }
+.profile-name { width: 100%; background: transparent; border: 0; border-bottom: 1px dashed transparent; color: var(--ink); font-family: var(--font-display); font-weight: 700; font-size: 1.1rem; padding: 0 0 2px; outline: none; }
+.profile-name:hover, .profile-name:focus { border-bottom-color: var(--line); }
+.profile-status { font-size: 0.74rem; color: var(--ink-dim); }
+.profile-stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; margin: 14px 0; padding: 12px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); text-align: center; }
+.profile-stats div { display: flex; flex-direction: column; }
+.profile-stats b { font-family: var(--font-display); font-size: 1.06rem; }
+.profile-stats span { font-size: 0.64rem; color: var(--ink-dim); margin-top: 1px; }
+.profile-prem { width: 100%; margin-bottom: 14px; justify-content: center; }
+.profile-acct { display: flex; flex-direction: column; gap: 9px; }
+.profile-fine { font-size: 0.78rem; color: var(--ink-dim); }
+.profile-fine b { color: var(--ink); }
+.profile-row { display: flex; gap: 8px; }
+.profile-row input { flex: 1; min-width: 0; padding: 10px 12px; border-radius: 10px; border: 1px solid var(--line); background: rgba(255, 255, 255, 0.05); color: var(--ink); font: inherit; font-size: 0.86rem; outline: none; }
+.profile-row input:focus { border-color: color-mix(in srgb, var(--gold) 55%, transparent); }
+.profile-row .btn-gold { padding: 9px 14px; font-size: 0.84rem; white-space: nowrap; }
+.profile-acct .btn-ghost { align-self: flex-start; }
+.profile-note { font-size: 0.78rem; color: var(--gold); }

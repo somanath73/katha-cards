@@ -65,7 +65,17 @@ export default function App() {
           onBack={() => setCategory(null)}
         />
       ) : (
-        <Landing onEnter={setCategory} premium={premium} onUpgrade={requestUpgrade} progress={progress} />
+        <Landing
+          onEnter={setCategory}
+          premium={premium}
+          onUpgrade={requestUpgrade}
+          progress={progress}
+          mode={mode}
+          user={user}
+          signIn={signIn}
+          signOut={signOut}
+          restore={restore}
+        />
       )}
 
       {paywall && (
