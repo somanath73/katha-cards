@@ -33,6 +33,21 @@ async function nativeBoot() {
 }
 nativeBoot()
 
+// Offline PWA: register the service worker on the web build only — never in the
+// Capacitor native shell, and not in dev (avoids stale-cache surprises while
+// iterating). BASE_URL is '/katha-cards/' on the Pages build, '/' otherwise.
+if (
+  !Capacitor.isNativePlatform() &&
+  import.meta.env.PROD &&
+  'serviceWorker' in navigator
+) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register(`${import.meta.env.BASE_URL}sw.js`).catch(() => {
+      /* offline support is best-effort */
+    })
+  })
+}
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
