@@ -2,6 +2,7 @@ import { useCallback, useEffect, useState } from 'react'
 import Landing from './components/Landing'
 import Deck from './components/Deck'
 import Paywall from './components/Paywall'
+import BottomNav from './components/BottomNav'
 import { useProgress } from './hooks/useProgress'
 import { usePremium } from './lib/premium'
 import * as account from './lib/account'
@@ -17,6 +18,20 @@ export default function App() {
     (reason) => setPaywall(reason || 'Unlock every difficulty and a fresh draw of questions every time.'),
     [],
   )
+
+  // Bottom-nav (mobile) destinations.
+  const goHome = () => {
+    setCategory(null)
+    requestAnimationFrame(() => window.scrollTo({ top: 0, behavior: 'smooth' }))
+  }
+  const goDecks = () => {
+    const wasDeck = !!category
+    setCategory(null)
+    setTimeout(
+      () => document.getElementById('decks')?.scrollIntoView({ behavior: 'smooth', block: 'start' }),
+      wasDeck ? 160 : 0,
+    )
+  }
 
   // accounts mode: push progress to the server as it's recorded…
   useEffect(() => {
@@ -96,6 +111,14 @@ export default function App() {
           👑 Premium unlocked — every difficulty is yours.
         </div>
       )}
+
+      <BottomNav
+        active={category ? 'decks' : 'home'}
+        premium={premium}
+        onHome={goHome}
+        onDecks={goDecks}
+        onPremium={() => requestUpgrade()}
+      />
     </div>
   )
 }
