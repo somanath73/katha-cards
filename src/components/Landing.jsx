@@ -120,21 +120,6 @@ export default function Landing({ onEnter, premium, onUpgrade, progress }) {
         </div>
 
         <div className="hero2-right">
-          <div className="streak">
-            <span className="streak-fire">🔥</span>
-            <div>
-              <b>{ov.streak > 0 ? `${ov.streak} Day Streak` : 'Start a Streak'}</b>
-              <span>{ov.streak > 0 ? 'Keep it going!' : 'Play daily to build it'}</span>
-            </div>
-            <div className="streak-days">
-              {Array.from({ length: 7 }).map((_, i) => {
-                const on = i < Math.min(ov.streak, 7)
-                return <i key={i} className={on ? 'on' : ''}>{on ? '✓' : ''}</i>
-              })}
-            </div>
-            <span className="streak-gift">🎁</span>
-          </div>
-
           <div className="fan">
             {fan.map((c, i) => {
               const off = i - active
