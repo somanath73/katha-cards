@@ -5,6 +5,7 @@ import { CardBack } from './TarotCard'
 import { paletteFor } from '../data/palettes'
 import { drawQuestions, toRoman } from '../lib/random'
 import { withV } from '../lib/imgver'
+import { sfx } from '../lib/sound'
 import { FREE_DAILY_DRAWS, freeDrawsLeft, noteFreeDraw } from '../lib/premium'
 import { fetchPremiumQuestions } from '../lib/account'
 import { BACKEND } from '../lib/supabase'
@@ -46,7 +47,10 @@ export default function QuizModal({ card, categoryId, progress, premium, onUpgra
           retryRef.current = setTimeout(load, 4000)
         })
     load()
-    const t = setTimeout(() => setFlipped(true), 350)
+    const t = setTimeout(() => {
+      setFlipped(true)
+      sfx('flip')
+    }, 350)
     return () => {
       dead = true
       clearTimeout(retryRef.current)
@@ -58,6 +62,7 @@ export default function QuizModal({ card, categoryId, progress, premium, onUpgra
     const diff = premium ? difficulty : 'easy'
     const limited = !premium && BACKEND && FREE_DAILY_DRAWS > 0
     if (limited && freeDrawsLeft() <= 0) {
+      sfx('locked')
       setStage('limit')
       return
     }
@@ -76,40 +81,54 @@ export default function QuizModal({ card, categoryId, progress, premium, onUpgra
     }
     setQs(drawQuestions(pool, 3, progress.seenFor(card.id), { difficulty: diff, premium }))
     if (limited) noteFreeDraw()
+    sfx('flip')
     setStage('quiz')
     setQi(0)
     setScore(0)
     setPicked(null)
   }
 
+  const close = () => {
+    sfx('close')
+    onClose()
+  }
+
   const pickDifficulty = (d) => {
     if (!premium && d !== 'easy') {
+      sfx('locked')
       onUpgrade(`"${d.charAt(0).toUpperCase() + d.slice(1)}" questions are a Premium feature.`)
       return
     }
+    sfx('tap')
     setDifficulty(d)
   }
 
   const choose = (i) => {
     if (picked !== null) return
     setPicked(i)
-    if (i === qs[qi].answer) setScore((s) => s + 1)
+    const right = i === qs[qi].answer
+    if (right) setScore((s) => s + 1)
+    sfx(right ? 'correct' : 'wrong')
   }
 
   const next = () => {
     if (qi < qs.length - 1) {
       setQi(qi + 1)
       setPicked(null)
+      sfx('tap')
     } else {
       progress.record(categoryId, card.id, score, qs.map((q) => q.id))
       setStage('result')
       if (score === 3) {
+        sfx('win')
         confetti({
           particleCount: 170,
           spread: 80,
           origin: { y: 0.6 },
           colors: [pal.accent, '#ffffff', '#e9c46a'],
         })
+      } else {
+        sfx('result')
       }
     }
   }
@@ -117,12 +136,12 @@ export default function QuizModal({ card, categoryId, progress, premium, onUpgra
   const q = qs[qi]
 
   return (
-    <div className="modal" onClick={(e) => e.target === e.currentTarget && onClose()}>
+    <div className="modal" onClick={(e) => e.target === e.currentTarget && close()}>
       <div
         className="modal-box"
         style={{ '--c1': pal.c1, '--c2': pal.c2, '--accent': pal.accent, '--glow': pal.glow }}
       >
-        <button className="modal-x" onClick={onClose} aria-label="Close">
+        <button className="modal-x" onClick={close} aria-label="Close">
           ✕
         </button>
 
@@ -264,7 +283,7 @@ export default function QuizModal({ card, categoryId, progress, premium, onUpgra
               <button className="btn-gold" onClick={begin}>
                 {premium ? 'Draw 3 new questions' : 'Replay easy questions'}
               </button>
-              <button className="btn-ghost" onClick={onClose}>
+              <button className="btn-ghost" onClick={close}>
                 Back to the deck
               </button>
             </div>
@@ -290,7 +309,7 @@ export default function QuizModal({ card, categoryId, progress, premium, onUpgra
               <button className="btn-gold" onClick={() => onUpgrade('Unlimited rounds & every difficulty.')}>
                 Go Premium
               </button>
-              <button className="btn-ghost" onClick={onClose}>
+              <button className="btn-ghost" onClick={close}>
                 Back to the deck
               </button>
             </div>

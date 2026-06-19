@@ -440,7 +440,8 @@
       "type": "place",
       "emblem": "tree",
       "palette": "forest",
-      "description": "The grove on the Godavari where Rama, Sita, and Lakshmana built their hut and lived in peace — until Shurpanakha came."
+      "description": "The grove on the Godavari where Rama, Sita, and Lakshmana built their hut and lived in peace — until Shurpanakha came.",
+      "image": "art/panchavati.webp"
     },
     {
       "id": "jatayu",
@@ -505,7 +506,8 @@
       "type": "concept",
       "emblem": "shield",
       "palette": "forest",
-      "description": "The protective line Lakshmana is said to have drawn around the hut before leaving Sita. Tricked into stepping past it, she fell into Ravana's hands."
+      "description": "The protective line Lakshmana is said to have drawn around the hut before leaving Sita. Tricked into stepping past it, she fell into Ravana's hands.",
+      "image": "art/lakshman-rekha.webp"
     },
     {
       "id": "ravana",
@@ -526,7 +528,8 @@
       "type": "concept",
       "emblem": "crown",
       "palette": "flame",
-      "description": "Ravana's ten heads are said to signify his mastery of the six shastras and four Vedas — vast learning ruined by ungoverned pride."
+      "description": "Ravana's ten heads are said to signify his mastery of the six shastras and four Vedas — vast learning ruined by ungoverned pride.",
+      "image": "art/the-ten-heads.webp"
     },
     {
       "id": "abduction-of-sita",
@@ -536,7 +539,8 @@
       "type": "event",
       "emblem": "chariot",
       "palette": "flame",
-      "description": "Disguised as a mendicant, Ravana carried Sita off in his flying chariot to Lanka, the act that set the whole war in motion."
+      "description": "Disguised as a mendicant, Ravana carried Sita off in his flying chariot to Lanka, the act that set the whole war in motion.",
+      "image": "art/abduction-of-sita.webp"
     },
     {
       "id": "jatayus-stand",
@@ -546,7 +550,8 @@
       "type": "event",
       "emblem": "garuda",
       "palette": "dusk",
-      "description": "The aged vulture Jatayu fought Ravana in the sky to save Sita. Mortally wounded, he lived only long enough to tell Rama which way she was taken."
+      "description": "The aged vulture Jatayu fought Ravana in the sky to save Sita. Mortally wounded, he lived only long enough to tell Rama which way she was taken.",
+      "image": "art/jatayus-stand.webp"
     },
     {
       "id": "kabandha",
@@ -578,7 +583,8 @@
       "type": "place",
       "emblem": "river",
       "palette": "forest",
-      "description": "The lotus-covered lake near Rishyamukha where Rama, grieving for Sita, first met Hanuman and was led to Sugriva."
+      "description": "The lotus-covered lake near Rishyamukha where Rama, grieving for Sita, first met Hanuman and was led to Sugriva.",
+      "image": "art/pampa.webp"
     },
     {
       "id": "hanuman",
@@ -621,7 +627,8 @@
       "type": "event",
       "emblem": "arrow",
       "palette": "forest",
-      "description": "To restore Sugriva to his throne, Rama struck Vali with an arrow from concealment during their duel — a deed long debated for its dharma."
+      "description": "To restore Sugriva to his throne, Rama struck Vali with an arrow from concealment during their duel — a deed long debated for its dharma.",
+      "image": "art/slaying-of-vali.webp"
     },
     {
       "id": "tara",
@@ -664,7 +671,8 @@
       "type": "place",
       "emblem": "mountain",
       "palette": "forest",
-      "description": "The mountain realm of the monkey-folk ruled by Sugriva, from which the great search for Sita was launched in all directions."
+      "description": "The mountain realm of the monkey-folk ruled by Sugriva, from which the great search for Sita was launched in all directions.",
+      "image": "art/kishkindha.webp"
     },
     {
       "id": "vanara-sena",
@@ -674,7 +682,8 @@
       "type": "concept",
       "emblem": "mace",
       "palette": "forest",
-      "description": "The vast host of vanaras and bears who rallied to Rama, built the great bridge, and stormed Lanka in his cause."
+      "description": "The vast host of vanaras and bears who rallied to Rama, built the great bridge, and stormed Lanka in his cause.",
+      "image": "art/vanara-sena.webp"
     },
     {
       "id": "sampati",
@@ -695,7 +704,8 @@
       "type": "place",
       "emblem": "mountain",
       "palette": "ocean",
-      "description": "The great seaside mountain from which Hanuman gathered himself and sprang across the ocean toward Lanka."
+      "description": "The great seaside mountain from which Hanuman gathered himself and sprang across the ocean toward Lanka.",
+      "image": "art/mahendra.webp"
     },
     {
       "id": "hanumans-leap",
@@ -705,7 +715,8 @@
       "type": "event",
       "emblem": "mountain",
       "palette": "ocean",
-      "description": "Swelling to enormous size, Hanuman bounded a hundred yojanas over the sea to Lanka, overcoming trials of sea-demons along the way."
+      "description": "Swelling to enormous size, Hanuman bounded a hundred yojanas over the sea to Lanka, overcoming trials of sea-demons along the way.",
+      "image": "art/hanumans-leap.webp"
     },
     {
       "id": "surasa",
@@ -737,7 +748,8 @@
       "type": "place",
       "emblem": "tree",
       "palette": "dusk",
-      "description": "The grove of ashoka trees in Lanka where Sita was held captive, guarded by rakshasis, refusing all of Ravana's threats and blandishments."
+      "description": "The grove of ashoka trees in Lanka where Sita was held captive, guarded by rakshasis, refusing all of Ravana's threats and blandishments.",
+      "image": "art/ashoka-vatika.webp"
     },
     {
       "id": "trijata",
@@ -758,7 +770,8 @@
       "type": "artifact",
       "emblem": "star",
       "palette": "flame",
-      "description": "The ring Hanuman carried to Sita as proof that he came from Rama, and which she answered with her own jewel."
+      "description": "The ring Hanuman carried to Sita as proof that he came from Rama, and which she answered with her own jewel.",
+      "image": "art/the-ring-of-rama.webp"
     },
     {
       "id": "chudamani",
@@ -768,7 +781,8 @@
       "type": "artifact",
       "emblem": "star",
       "palette": "dawn",
-      "description": "The hair-jewel Sita entrusted to Hanuman to carry back to Rama, a token of her endurance and a sign she still lived."
+      "description": "The hair-jewel Sita entrusted to Hanuman to carry back to Rama, a token of her endurance and a sign she still lived.",
+      "image": "art/chudamani.webp"
     },
     {
       "id": "burning-of-lanka",
@@ -778,7 +792,8 @@
       "type": "event",
       "emblem": "fire",
       "palette": "flame",
-      "description": "Captured and his tail set alight by the rakshasas, Hanuman leapt across the rooftops and set the golden city ablaze before bounding home."
+      "description": "Captured and his tail set alight by the rakshasas, Hanuman leapt across the rooftops and set the golden city ablaze before bounding home.",
+      "image": "art/burning-of-lanka.webp"
     },
     {
       "id": "vibhishana",
@@ -810,7 +825,8 @@
       "type": "event",
       "emblem": "mountain",
       "palette": "ocean",
-      "description": "The vanara host bridged the ocean with boulders and tree-trunks, some said to float because the name of Rama was written upon them."
+      "description": "The vanara host bridged the ocean with boulders and tree-trunks, some said to float because the name of Rama was written upon them.",
+      "image": "art/setu-bandha.webp"
     },
     {
       "id": "rama-setu",
@@ -820,7 +836,8 @@
       "type": "place",
       "emblem": "river",
       "palette": "ocean",
-      "description": "The long bridge of stones raised across the sea, over which Rama's army marched to lay siege to Lanka."
+      "description": "The long bridge of stones raised across the sea, over which Rama's army marched to lay siege to Lanka.",
+      "image": "art/rama-setu.webp"
     },
     {
       "id": "the-rakshasas",
@@ -830,7 +847,8 @@
       "type": "concept",
       "emblem": "trident",
       "palette": "flame",
-      "description": "The fierce demon-folk of Lanka, masters of illusion and war, who fought for Ravana against the vanara army."
+      "description": "The fierce demon-folk of Lanka, masters of illusion and war, who fought for Ravana against the vanara army.",
+      "image": "art/the-rakshasas.webp"
     },
     {
       "id": "kumbhakarna",
@@ -851,7 +869,8 @@
       "type": "event",
       "emblem": "mountain",
       "palette": "flame",
-      "description": "Roused from his long sleep, the giant Kumbhakarna wrought havoc on the battlefield until Rama severed his great limbs and head with celestial arrows."
+      "description": "Roused from his long sleep, the giant Kumbhakarna wrought havoc on the battlefield until Rama severed his great limbs and head with celestial arrows.",
+      "image": "art/death-of-kumbhakarna.webp"
     },
     {
       "id": "indrajit",
@@ -872,7 +891,8 @@
       "type": "artifact",
       "emblem": "serpent",
       "palette": "flame",
-      "description": "Indrajit's serpent-arrows that bound Rama and Lakshmana in living coils, until Garuda, foe of snakes, came and freed them."
+      "description": "Indrajit's serpent-arrows that bound Rama and Lakshmana in living coils, until Garuda, foe of snakes, came and freed them.",
+      "image": "art/the-naga-pasha.webp"
     },
     {
       "id": "garuda",
@@ -893,7 +913,8 @@
       "type": "artifact",
       "emblem": "tree",
       "palette": "forest",
-      "description": "The luminous life-restoring herb growing on a far Himalayan peak. Unable to find it, Hanuman carried back the whole mountain to heal Lakshmana."
+      "description": "The luminous life-restoring herb growing on a far Himalayan peak. Unable to find it, Hanuman carried back the whole mountain to heal Lakshmana.",
+      "image": "art/sanjeevani.webp"
     },
     {
       "id": "hanuman-and-the-mountain",
@@ -903,7 +924,8 @@
       "type": "event",
       "emblem": "mountain",
       "palette": "forest",
-      "description": "When Lakshmana lay dying, Hanuman flew to the Himalayas and, unable to pick the right herb, bore the entire glowing mountain back to the battlefield."
+      "description": "When Lakshmana lay dying, Hanuman flew to the Himalayas and, unable to pick the right herb, bore the entire glowing mountain back to the battlefield.",
+      "image": "art/hanuman-and-the-mountain.webp"
     },
     {
       "id": "fall-of-indrajit",
@@ -913,7 +935,8 @@
       "type": "event",
       "emblem": "arrow",
       "palette": "flame",
-      "description": "After fierce illusory battles, Lakshmana slew the sorcerer-prince Indrajit, breaking the back of Lanka's resistance."
+      "description": "After fierce illusory battles, Lakshmana slew the sorcerer-prince Indrajit, breaking the back of Lanka's resistance.",
+      "image": "art/fall-of-indrajit.webp"
     },
     {
       "id": "mandodari",
@@ -989,7 +1012,8 @@
       "type": "concept",
       "emblem": "fire",
       "palette": "dawn",
-      "description": "Sita's unwavering faithfulness through captivity and trial, held up by the epic as the ideal of the pativrata, the devoted wife."
+      "description": "Sita's unwavering faithfulness through captivity and trial, held up by the epic as the ideal of the pativrata, the devoted wife.",
+      "image": "art/pativrata.webp"
     },
     {
       "id": "return-to-ayodhya",
@@ -1010,7 +1034,8 @@
       "type": "place",
       "emblem": "river",
       "palette": "dawn",
-      "description": "The sacred river flowing past Ayodhya, witness to Rama's birth, his departure, his return, and at the last his passing from the world."
+      "description": "The sacred river flowing past Ayodhya, witness to Rama's birth, his departure, his return, and at the last his passing from the world.",
+      "image": "art/sarayu.webp"
     },
     {
       "id": "ayodhya",
@@ -1031,7 +1056,8 @@
       "type": "event",
       "emblem": "throne",
       "palette": "royal",
-      "description": "His exile fulfilled, Rama was crowned king of Ayodhya amid universal rejoicing, beginning the reign remembered as the golden age."
+      "description": "His exile fulfilled, Rama was crowned king of Ayodhya amid universal rejoicing, beginning the reign remembered as the golden age.",
+      "image": "art/coronation-of-rama.webp"
     },
     {
       "id": "rama-rajya",
@@ -1041,7 +1067,8 @@
       "type": "concept",
       "emblem": "throne",
       "palette": "dawn",
-      "description": "The legendary reign of Rama, a byword for perfect, just, and prosperous rule in which dharma flourished and all suffering ceased."
+      "description": "The legendary reign of Rama, a byword for perfect, just, and prosperous rule in which dharma flourished and all suffering ceased.",
+      "image": "art/rama-rajya.webp"
     },
     {
       "id": "bhakti",
@@ -1051,7 +1078,8 @@
       "type": "concept",
       "emblem": "flute",
       "palette": "flame",
-      "description": "The path of loving devotion embodied above all by Hanuman, whose selfless service to Rama became its eternal model."
+      "description": "The path of loving devotion embodied above all by Hanuman, whose selfless service to Rama became its eternal model.",
+      "image": "art/bhakti.webp"
     },
     {
       "id": "lava",

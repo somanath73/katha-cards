@@ -1,8 +1,10 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import Emblem from './Emblem'
 import Profile from './Profile'
+import SoundToggle from './SoundToggle'
 import { CATEGORIES } from '../data/categories'
 import { paletteFor } from '../data/palettes'
+import { sfx } from '../lib/sound'
 
 const NAME_KEY = 'katha-name-v1'
 const loadName = () => {
@@ -16,19 +18,20 @@ const loadName = () => {
 const base = import.meta.env.BASE_URL
 const cover = (id) => `${base}covers/${id}.webp`
 
-// Decorative per-deck metadata to match the dashboard design (category filter,
-// a representative difficulty + "accuracy" badge). Purely presentational.
+// Per-deck editorial metadata: category group (for the filter chips) and a
+// representative difficulty label. The completion % shown on each tile is REAL —
+// it comes from saved progress (deckPct), not from here.
 const META = {
-  mahabharat: { group: 'Mythology', diff: 'Hard', acc: 72 },
-  mythology: { group: 'Mythology', diff: 'Hard', acc: 68 },
-  'kings-kingdoms': { group: 'History', diff: 'Medium', acc: 61 },
-  'freedom-struggle': { group: 'History', diff: 'Medium', acc: 54 },
-  'indian-politics': { group: 'Society', diff: 'Easy', acc: 48 },
-  'indian-cinema': { group: 'Culture', diff: 'Easy', acc: 42 },
-  ramayana: { group: 'Mythology', diff: 'Medium', acc: 0 },
-  monuments: { group: 'History', diff: 'Medium', acc: 0 },
-  science: { group: 'Society', diff: 'Easy', acc: 0 },
-  festivals: { group: 'Culture', diff: 'Easy', acc: 0 },
+  mahabharat: { group: 'Mythology', diff: 'Hard' },
+  mythology: { group: 'Mythology', diff: 'Hard' },
+  'kings-kingdoms': { group: 'History', diff: 'Medium' },
+  'freedom-struggle': { group: 'History', diff: 'Medium' },
+  'indian-politics': { group: 'Society', diff: 'Easy' },
+  'indian-cinema': { group: 'Culture', diff: 'Easy' },
+  ramayana: { group: 'Mythology', diff: 'Medium' },
+  monuments: { group: 'History', diff: 'Medium' },
+  science: { group: 'Society', diff: 'Easy' },
+  festivals: { group: 'Culture', diff: 'Easy' },
 }
 const GROUPS = ['All', 'Mythology', 'History', 'Society', 'Culture']
 const FAN_ORDER = ['kings-kingdoms', 'mahabharat', 'mythology', 'freedom-struggle', 'indian-politics', 'indian-cinema']
@@ -90,8 +93,11 @@ export default function Landing({ onEnter, premium, onUpgrade, progress, mode, u
 
   const pick = (cat) => {
     if (!cat) return
-    if (cat.live) onEnter(cat)
-    else {
+    if (cat.live) {
+      sfx('open')
+      onEnter(cat)
+    } else {
+      sfx('locked')
       setShaking(cat.id)
       setTimeout(() => setShaking(null), 500)
     }
@@ -109,7 +115,10 @@ export default function Landing({ onEnter, premium, onUpgrade, progress, mode, u
     })
   }, [group, q])
 
-  const move = (delta) => setActive((a) => (a + delta + fan.length) % fan.length)
+  const move = (delta) => {
+    sfx('nav')
+    setActive((a) => (a + delta + fan.length) % fan.length)
+  }
 
   return (
     <div className="home">
@@ -137,6 +146,7 @@ export default function Landing({ onEnter, premium, onUpgrade, progress, mode, u
             <input placeholder="Search decks, topics…" value={q} onChange={(e) => setQ(e.target.value)} />
             <kbd>⌘K</kbd>
           </label>
+          <SoundToggle />
           <button className="nav-icon" aria-label="Notifications"><Ic d={I.bell} /></button>
           <div className="nav-acct" ref={acctRef}>
             <button className="nav-ava" aria-label="Your profile" aria-expanded={menu} onClick={() => setMenu((m) => !m)}>
@@ -189,7 +199,7 @@ export default function Landing({ onEnter, premium, onUpgrade, progress, mode, u
                     '--accent': pal.accent,
                     '--glow': pal.glow,
                   }}
-                  onClick={() => (off === 0 ? pick(c) : setActive(i))}
+                  onClick={() => { if (off === 0) pick(c); else { sfx('nav'); setActive(i) } }}
                   aria-label={c.name}
                 >
                   <img src={cover(c.id)} alt="" loading="lazy" onError={(e) => (e.currentTarget.style.opacity = 0)} />
@@ -202,7 +212,7 @@ export default function Landing({ onEnter, premium, onUpgrade, progress, mode, u
 
           <div className="fan-ctrl">
             <button onClick={() => move(-1)} aria-label="Previous"><Ic d={I.chevL} /></button>
-            <div className="dots">{fan.map((_, i) => <i key={i} className={i === active ? 'on' : ''} onClick={() => setActive(i)} />)}</div>
+            <div className="dots">{fan.map((_, i) => <i key={i} className={i === active ? 'on' : ''} onClick={() => { sfx('nav'); setActive(i) }} />)}</div>
             <button onClick={() => move(1)} aria-label="Next"><Ic d={I.chevR} /></button>
           </div>
         </div>
@@ -250,7 +260,7 @@ export default function Landing({ onEnter, premium, onUpgrade, progress, mode, u
             <h3>♛ Choose Your Deck</h3>
             <div className="chips">
               {GROUPS.map((g) => (
-                <button key={g} className={`chip ${group === g ? 'on' : ''}`} onClick={() => setGroup(g)}>{g}</button>
+                <button key={g} className={`chip ${group === g ? 'on' : ''}`} onClick={() => { sfx('tap'); setGroup(g) }}>{g}</button>
               ))}
               <a className="view-all" onClick={scrollToDecks}>View All →</a>
             </div>
@@ -260,6 +270,7 @@ export default function Landing({ onEnter, premium, onUpgrade, progress, mode, u
             {visible.map((c) => {
               const pal = paletteFor(c.palette)
               const m = META[c.id] || {}
+              const pct = c.live && progress?.deckPct ? progress.deckPct(c.id) : 0
               return (
                 <button
                   key={c.id}
@@ -277,7 +288,7 @@ export default function Landing({ onEnter, premium, onUpgrade, progress, mode, u
                     <b className="deckcard-name">{c.name}</b>
                     <p className="deckcard-tag">{c.tagline}</p>
                     <div className="deckcard-foot">
-                      <span className="deckcard-acc">{c.live ? `◔ ${m.acc}%` : '100 cards'}</span>
+                      <span className="deckcard-acc">{c.live ? (pct > 0 ? `◔ ${pct}%` : '✦ New') : ''}</span>
                       <span className="deckcard-count">100 Cards</span>
                       <span className={`deckcard-play ${c.live ? '' : 'off'}`}><Ic d={I.play} fill /></span>
                     </div>

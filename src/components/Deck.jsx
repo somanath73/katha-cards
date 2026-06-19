@@ -2,7 +2,9 @@ import { useEffect, useMemo, useState } from 'react'
 import TarotCard from './TarotCard'
 import QuizModal from './QuizModal'
 import Credits from './Credits'
+import SoundToggle from './SoundToggle'
 import { withV } from '../lib/imgver'
+import { sfx } from '../lib/sound'
 
 const TYPES = ['all', 'character', 'event', 'place', 'artifact', 'concept']
 
@@ -67,7 +69,7 @@ export default function Deck({ category, progress, premium, onUpgrade, onBack })
   return (
     <div className="deck">
       <header className="deck-head">
-        <button className="btn-ghost" onClick={onBack}>
+        <button className="btn-ghost" onClick={() => { sfx('nav'); onBack() }}>
           ← Decks
         </button>
         <div className="deck-title-wrap">
@@ -84,11 +86,12 @@ export default function Deck({ category, progress, premium, onUpgrade, onBack })
           value={query}
           onChange={(e) => setQuery(e.target.value)}
         />
+        <SoundToggle />
       </header>
 
       <div className="chips">
         {TYPES.map((t) => (
-          <button key={t} className={`chip ${filter === t ? 'on' : ''}`} onClick={() => setFilter(t)}>
+          <button key={t} className={`chip ${filter === t ? 'on' : ''}`} onClick={() => { sfx('tap'); setFilter(t) }}>
             {t === 'all' ? 'All' : `${t}s`}
           </button>
         ))}
@@ -116,7 +119,7 @@ export default function Deck({ category, progress, premium, onUpgrade, onBack })
               card={c}
               best={progress.bestFor(c.id)}
               imgSrc={c.image ? withV(`${import.meta.env.BASE_URL}data/${category.id}/${c.image}`) : null}
-              onClick={() => setActive(c)}
+              onClick={() => { sfx('open'); setActive(c) }}
             />
           ))}
           {shown.length === 0 && <p className="empty">No cards match — try another search.</p>}
