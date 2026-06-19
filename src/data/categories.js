@@ -56,7 +56,7 @@ export const CATEGORIES = [
     tagline: 'Rama, Ravana and the war for Sita',
     emblem: 'bow',
     palette: 'royal',
-    live: false,
+    live: true,
   },
   {
     id: 'monuments',
