@@ -1,86 +1,281 @@
-import { useState } from 'react'
+import { useMemo, useState } from 'react'
 import Emblem from './Emblem'
-import { CardBack } from './TarotCard'
 import { CATEGORIES } from '../data/categories'
 import { paletteFor } from '../data/palettes'
 
+const base = import.meta.env.BASE_URL
+const cover = (id) => `${base}covers/${id}.webp`
+
+// Decorative per-deck metadata to match the dashboard design (category filter,
+// a representative difficulty + "accuracy" badge). Purely presentational.
+const META = {
+  mahabharat: { group: 'Mythology', diff: 'Hard', acc: 72 },
+  mythology: { group: 'Mythology', diff: 'Hard', acc: 68 },
+  'kings-kingdoms': { group: 'History', diff: 'Medium', acc: 61 },
+  'freedom-struggle': { group: 'History', diff: 'Medium', acc: 54 },
+  'indian-politics': { group: 'Society', diff: 'Easy', acc: 48 },
+  'indian-cinema': { group: 'Culture', diff: 'Easy', acc: 42 },
+  ramayana: { group: 'Mythology', diff: 'Medium', acc: 0 },
+  monuments: { group: 'History', diff: 'Medium', acc: 0 },
+  science: { group: 'Society', diff: 'Easy', acc: 0 },
+  festivals: { group: 'Culture', diff: 'Easy', acc: 0 },
+}
+const GROUPS = ['All', 'Mythology', 'History', 'Society', 'Culture']
+const FAN_ORDER = ['kings-kingdoms', 'mahabharat', 'mythology', 'freedom-struggle', 'indian-politics', 'indian-cinema']
+
+const I = {
+  search: 'M11 19a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm10 2-4.3-4.3',
+  bell: 'M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9M10.3 21a1.94 1.94 0 0 0 3.4 0',
+  chevL: 'm15 18-6-6 6-6',
+  chevR: 'm9 18 6-6-6-6',
+  play: 'M6 4v16l13-8z',
+  bolt: 'M13 2 3 14h7l-1 8 10-12h-7z',
+  grid: 'M3 3h7v7H3zM14 3h7v7h-7zM14 14h7v7h-7zM3 14h7v7H3z',
+}
+const Ic = ({ d, fill }) => (
+  <svg viewBox="0 0 24 24" width="1em" height="1em" fill={fill ? 'currentColor' : 'none'} stroke={fill ? 'none' : 'currentColor'} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+    <path d={d} />
+  </svg>
+)
+
 export default function Landing({ onEnter, premium, onUpgrade }) {
+  const [active, setActive] = useState(2) // Mythology centered, as in the design
+  const [group, setGroup] = useState('All')
+  const [q, setQ] = useState('')
   const [shaking, setShaking] = useState(null)
 
+  const live = CATEGORIES.filter((c) => c.live)
+  const fan = FAN_ORDER.map((id) => CATEGORIES.find((c) => c.id === id)).filter(Boolean)
+  const mahabharat = CATEGORIES.find((c) => c.id === 'mahabharat')
+  const trending = CATEGORIES.find((c) => c.id === 'mythology')
+
   const pick = (cat) => {
-    if (cat.live) return onEnter(cat)
-    setShaking(cat.id)
-    setTimeout(() => setShaking(null), 500)
+    if (!cat) return
+    if (cat.live) onEnter(cat)
+    else {
+      setShaking(cat.id)
+      setTimeout(() => setShaking(null), 500)
+    }
   }
 
+  const scrollToDecks = () => document.getElementById('decks')?.scrollIntoView({ behavior: 'smooth' })
+
+  const visible = useMemo(() => {
+    const needle = q.trim().toLowerCase()
+    return CATEGORIES.filter((c) => {
+      const m = META[c.id] || {}
+      const okGroup = group === 'All' || m.group === group
+      const okQ = !needle || `${c.name} ${c.tagline}`.toLowerCase().includes(needle)
+      return okGroup && okQ
+    })
+  }, [group, q])
+
+  const move = (delta) => setActive((a) => (a + delta + fan.length) % fan.length)
+
   return (
-    <div className="landing">
-      <section className="hero">
-        <div className="hero-cards" aria-hidden="true">
-          <CardBack className="float f1" />
-          <CardBack className="float f2" />
-          <CardBack className="float f3" />
+    <div className="home">
+      {/* ---------------- top nav ---------------- */}
+      <header className="nav">
+        <div className="nav-brand">
+          <span className="nav-mark"><Emblem name="chakra" /></span>
+          <span className="nav-brand-txt">
+            <span className="nav-logo">KATHA <b>CARDS</b></span>
+            <span className="nav-tag">A test of memory. A tribute to legends.</span>
+          </span>
         </div>
-        <p className="hero-kicker">A deck of legends · A test of memory</p>
-        <h1 className="hero-title">
-          Katha <span>Cards</span>
-        </h1>
-        <p className="hero-sub">
-          Flip a card. Face three questions. Master the epics of India — one legend at a time.
-        </p>
-        <button
-          className="btn-gold"
-          onClick={() => document.getElementById('cats')?.scrollIntoView({ behavior: 'smooth' })}
-        >
-          Choose your deck ↓
-        </button>
+        <nav className="nav-links">
+          <a className="on">Home</a>
+          <a onClick={scrollToDecks}>Decks</a>
+          <a title="Coming soon" className="soon">Daily Challenge</a>
+          <a title="Coming soon" className="soon">Leaderboard</a>
+          <a className="nav-prem" onClick={() => !premium && onUpgrade()}>
+            {premium ? '👑 Premium' : '♛ Premium'}
+          </a>
+        </nav>
+        <div className="nav-right">
+          <label className="nav-search">
+            <Ic d={I.search} />
+            <input placeholder="Search decks, topics…" value={q} onChange={(e) => setQ(e.target.value)} />
+            <kbd>⌘K</kbd>
+          </label>
+          <button className="nav-icon" aria-label="Notifications"><Ic d={I.bell} /></button>
+          <button className="nav-ava" aria-label="Account"><span>🪔</span></button>
+        </div>
+      </header>
+
+      {/* ---------------- hero ---------------- */}
+      <section className="hero2">
+        <div className="hero2-left">
+          <span className="hero-badge">✦ India's Best Trivia Experience</span>
+          <h1 className="hero2-title">Katha <span>Cards</span></h1>
+          <p className="hero2-sub">Flip a card. Face three epic questions. Master the timeless stories that shaped India.</p>
+          <div className="hero2-cta">
+            <button className="btn-gold" onClick={() => pick(live[0])}><Ic d={I.bolt} fill /> Start Playing</button>
+            <button className="btn-ghost big" onClick={scrollToDecks}><Ic d={I.grid} /> Explore Decks</button>
+          </div>
+          <div className="hero2-social">
+            <div className="avatars">{['🛕', '🏹', '🪔', '👑'].map((e, i) => <span key={i} className="ava">{e}</span>)}</div>
+            <p>
+              <b>25K+ players</b> are exploring legends
+              <br />
+              <span className="live"><i /> 12,543 playing now</span>
+            </p>
+          </div>
+        </div>
+
+        <div className="hero2-right">
+          <div className="streak">
+            <span className="streak-fire">🔥</span>
+            <div>
+              <b>7 Day Streak</b>
+              <span>Keep it going!</span>
+            </div>
+            <div className="streak-days">{[1, 1, 1, 1, 1, 1, 0].map((on, i) => <i key={i} className={on ? 'on' : ''}>{on ? '✓' : ''}</i>)}</div>
+            <span className="streak-gift">🎁</span>
+          </div>
+
+          <div className="fan">
+            {fan.map((c, i) => {
+              const off = i - active
+              const abs = Math.abs(off)
+              const pal = paletteFor(c.palette)
+              return (
+                <button
+                  key={c.id}
+                  className={`fan-card ${off === 0 ? 'is-active' : ''}`}
+                  style={{
+                    transform: `translateX(-50%) translateX(${off * 50}%) translateY(${off === 0 ? -14 : abs * 18}px) rotate(${off * 7}deg) scale(${off === 0 ? 1.08 : 1 - abs * 0.1})`,
+                    zIndex: 20 - abs,
+                    '--accent': pal.accent,
+                    '--glow': pal.glow,
+                  }}
+                  onClick={() => (off === 0 ? pick(c) : setActive(i))}
+                  aria-label={c.name}
+                >
+                  <img src={cover(c.id)} alt="" loading="lazy" onError={(e) => (e.currentTarget.style.opacity = 0)} />
+                  <span className="fan-emblem"><Emblem name={c.emblem} /></span>
+                  <span className="fan-name">{c.name}</span>
+                  <span className="fan-count">100 cards</span>
+                </button>
+              )
+            })}
+          </div>
+
+          <div className="fan-ctrl">
+            <button onClick={() => move(-1)} aria-label="Previous"><Ic d={I.chevL} /></button>
+            <div className="dots">{fan.map((_, i) => <i key={i} className={i === active ? 'on' : ''} onClick={() => setActive(i)} />)}</div>
+            <button onClick={() => move(1)} aria-label="Next"><Ic d={I.chevR} /></button>
+          </div>
+        </div>
       </section>
 
-      <section className="cats" id="cats">
-        {CATEGORIES.map((cat) => {
-          const pal = paletteFor(cat.palette)
-          return (
-            <button
-              key={cat.id}
-              className={`cat ${cat.live ? '' : 'locked'} ${shaking === cat.id ? 'shake' : ''}`}
-              style={{ '--c1': pal.c1, '--c2': pal.c2, '--accent': pal.accent, '--glow': pal.glow }}
-              onClick={() => pick(cat)}
-            >
-              <img
-                className="cat-cover"
-                src={`${import.meta.env.BASE_URL}covers/${cat.id}.webp`}
-                alt=""
-                aria-hidden="true"
-                loading="lazy"
-                onError={(e) => {
-                  e.currentTarget.style.display = 'none'
-                }}
-              />
-              <div className="cat-shade" />
-              <div className="cat-emblem">
-                <Emblem name={cat.emblem} />
-              </div>
-              <div className="cat-name">{cat.name}</div>
-              <div className="cat-tag">{cat.tagline}</div>
-              <div className="cat-cta">{cat.live ? '100 cards · Play now →' : '🔒 Coming soon'}</div>
-            </button>
-          )
-        })}
+      {/* ---------------- continue + stats ---------------- */}
+      <section className="cbar">
+        <div className="cbar-resume">
+          <span className="cbar-h">▣ Continue Playing</span>
+          <div className="cbar-deck">
+            <img src={cover('mahabharat')} alt="" />
+            <div className="cbar-info">
+              <b>Mahabharat</b>
+              <span>The war that changed everything</span>
+              <div className="cbar-prog"><i style={{ width: '65%' }} /></div>
+            </div>
+            <button className="btn-ghost" onClick={() => pick(mahabharat)}>↺ Resume</button>
+          </div>
+        </div>
+        <div className="cbar-stats">
+          <Stat icon="🗂️" label="Decks Played" value="6 / 6" tint="#9b8cff" />
+          <Stat icon="🏆" label="Quizzes Completed" value="124" tint="#f6c453" />
+          <Stat icon="🎯" label="Accuracy" value="78%" tint="#ff6b6b" />
+          <Stat icon="🔥" label="Longest Streak" value="7 Days" tint="#ffa24d" />
+        </div>
+      </section>
+
+      {/* ---------------- decks ---------------- */}
+      <section className="decks" id="decks">
+        <aside className="trending">
+          <h3><Ic d={I.bolt} fill /> Trending Decks</h3>
+          <button className="trend-card" onClick={() => pick(trending)} style={{ '--accent': paletteFor(trending.palette).accent }}>
+            <img src={cover(trending.id)} alt="" />
+            <span className="trend-rank">1</span>
+            <div className="trend-body">
+              <b>{trending.name}</b>
+              <span>{trending.tagline}</span>
+              <span className="trend-players"><i /><i /><i /> 8.2K players</span>
+              <span className="trend-cta">Play Now →</span>
+            </div>
+          </button>
+        </aside>
+
+        <div className="decks-main">
+          <div className="decks-head">
+            <h3>♛ Choose Your Deck</h3>
+            <div className="chips">
+              {GROUPS.map((g) => (
+                <button key={g} className={`chip ${group === g ? 'on' : ''}`} onClick={() => setGroup(g)}>{g}</button>
+              ))}
+              <a className="view-all" onClick={scrollToDecks}>View All →</a>
+            </div>
+          </div>
+
+          <div className="deckgrid">
+            {visible.map((c) => {
+              const pal = paletteFor(c.palette)
+              const m = META[c.id] || {}
+              return (
+                <button
+                  key={c.id}
+                  className={`deckcard ${c.live ? '' : 'locked'} ${shaking === c.id ? 'shake' : ''}`}
+                  style={{ '--accent': pal.accent, '--glow': pal.glow, '--c2': pal.c2 }}
+                  onClick={() => pick(c)}
+                >
+                  <div className="deckcard-cover">
+                    <img src={cover(c.id)} alt="" loading="lazy" onError={(e) => (e.currentTarget.style.opacity = 0)} />
+                    <span className="deckcard-emblem"><Emblem name={c.emblem} /></span>
+                    <span className="deckcard-mark">🔖</span>
+                    {!c.live && <span className="deckcard-soon">🔒 Soon</span>}
+                  </div>
+                  <div className="deckcard-body">
+                    <b className="deckcard-name">{c.name}</b>
+                    <p className="deckcard-tag">{c.tagline}</p>
+                    <div className="deckcard-foot">
+                      <span className="deckcard-acc">{c.live ? `◔ ${m.acc}%` : '100 cards'}</span>
+                      <span className="deckcard-count">100 Cards</span>
+                      <span className={`deckcard-play ${c.live ? '' : 'off'}`}><Ic d={I.play} fill /></span>
+                    </div>
+                    <span className={`deckcard-diff diff-${(m.diff || 'easy').toLowerCase()}`}>{c.live ? m.diff : 'Coming soon'}</span>
+                  </div>
+                </button>
+              )
+            })}
+            {!visible.length && <p className="empty">No decks match “{q}”.</p>}
+          </div>
+        </div>
       </section>
 
       <footer className="foot">
         {premium ? (
-          <span>👑 Premium unlocked — every difficulty across all six decks.</span>
+          <span>👑 Premium unlocked — every difficulty across all decks.</span>
         ) : (
           <span>
             Made with 🪔 · Free plan plays easy questions.{' '}
-            <button className="linklike" onClick={() => onUpgrade()}>
-              Go Premium
-            </button>{' '}
+            <button className="linklike" onClick={() => onUpgrade()}>Go Premium</button>{' '}
             for every difficulty &amp; fresh questions.
           </span>
         )}
       </footer>
+    </div>
+  )
+}
+
+function Stat({ icon, label, value, tint }) {
+  return (
+    <div className="stat">
+      <span className="stat-icon" style={{ color: tint, background: `${tint}22` }}>{icon}</span>
+      <div>
+        <span className="stat-label">{label}</span>
+        <b className="stat-value">{value}</b>
+      </div>
     </div>
   )
 }

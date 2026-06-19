@@ -4,6 +4,7 @@ import { Capacitor } from '@capacitor/core'
 import App from './App'
 import { configureIAP } from './lib/iap'
 import './styles/global.css'
+import './styles/dashboard.css'
 
 // Native-only setup (no-ops on the web build). Plugins are dynamically imported
 // so the web bundle never pulls in native code.
