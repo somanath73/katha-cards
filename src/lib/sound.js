@@ -25,7 +25,7 @@ function ensure() {
     try {
       ctx = new AC()
       master = ctx.createGain()
-      master.gain.value = 0.26 // overall subtlety
+      master.gain.value = 0.5 // gentle but clearly audible
       master.connect(ctx.destination)
       // short white-noise buffer reused for "whoosh" flip/nav sounds
       const len = Math.floor(ctx.sampleRate * 0.4)
@@ -41,11 +41,16 @@ function ensure() {
   return ctx
 }
 
-// Unlock on the first gesture so the modal's auto-flip (a timer) can sound.
+// Unlock on user gestures so the audio context leaves the browser's initial
+// "suspended" state (and so timer-driven cues like the auto-flip can sound).
+// Keep retrying on each gesture until it's actually running, then detach.
 if (typeof window !== 'undefined') {
-  const unlock = () => ensure()
-  window.addEventListener('pointerdown', unlock, { once: true })
-  window.addEventListener('keydown', unlock, { once: true })
+  const EVENTS = ['pointerdown', 'touchstart', 'keydown', 'click']
+  const onGesture = () => {
+    ensure()
+    if (ctx && ctx.state === 'running') EVENTS.forEach((e) => window.removeEventListener(e, onGesture))
+  }
+  EVENTS.forEach((e) => window.addEventListener(e, onGesture, { passive: true }))
 }
 
 function tone({ freq = 440, to = null, type = 'sine', t = 0, dur = 0.12, vol = 0.5, attack = 0.005 }) {
