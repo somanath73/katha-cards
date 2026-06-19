@@ -1,0 +1,245 @@
+{
+  "cardId": "tataka",
+  "questions": [
+    {
+      "id": "tataka-q01",
+      "difficulty": "easy",
+      "q": "What kind of being was Tataka?",
+      "options": ["A celestial apsara", "A fearsome demoness", "A river goddess", "A wise sage"],
+      "answer": 1,
+      "explanation": "Tataka was a fearsome yakshini turned rakshasi who terrorized the forest."
+    },
+    {
+      "id": "tataka-q02",
+      "difficulty": "easy",
+      "q": "Who killed Tataka?",
+      "options": ["Lakshmana", "Hanuman", "Rama", "Bharata"],
+      "answer": 2,
+      "explanation": "Rama slew Tataka, an act remembered as his first great deed."
+    },
+    {
+      "id": "tataka-q03",
+      "difficulty": "easy",
+      "q": "At whose command did Rama slay Tataka?",
+      "options": ["Vishvamitra", "Vasishtha", "Dasharatha", "Janaka"],
+      "answer": 0,
+      "explanation": "Rama killed Tataka at the bidding of the sage Vishvamitra."
+    },
+    {
+      "id": "tataka-q04",
+      "difficulty": "easy",
+      "q": "Where did Tataka spread her terror?",
+      "options": ["In the ocean depths", "In the city of Ayodhya", "In the forest and its hermitages", "On Mount Kailasa"],
+      "answer": 2,
+      "explanation": "Tataka ravaged the woodlands and the sages dwelling within them."
+    },
+    {
+      "id": "tataka-q05",
+      "difficulty": "easy",
+      "q": "Slaying Tataka was notable as Rama's first what?",
+      "options": ["First marriage", "First exile", "First coronation", "First great deed"],
+      "answer": 3,
+      "explanation": "The killing of Tataka is celebrated as Rama's first great heroic deed."
+    },
+    {
+      "id": "tataka-q06",
+      "difficulty": "easy",
+      "q": "Which weapon did Rama use to slay Tataka?",
+      "options": ["A mace", "A sword", "Bow and arrows", "A discus"],
+      "answer": 2,
+      "explanation": "Rama loosed his arrows from his bow to bring down the demoness Tataka."
+    },
+    {
+      "id": "tataka-q07",
+      "difficulty": "easy",
+      "q": "Who were the chief victims of Tataka's terror in the forest?",
+      "options": ["Sages and hermits", "Merchants and traders", "Kings and princes", "Farmers and herders"],
+      "answer": 0,
+      "explanation": "Tataka devoured and tormented the sages who lived in the forest hermitages."
+    },
+    {
+      "id": "tataka-q08",
+      "difficulty": "easy",
+      "q": "Which young prince accompanied Rama when Vishvamitra led them into the forest?",
+      "options": ["Bharata", "Shatrughna", "Lakshmana", "Vibhishana"],
+      "answer": 2,
+      "explanation": "Lakshmana accompanied his brother Rama under Vishvamitra's guidance."
+    },
+    {
+      "id": "tataka-q09",
+      "difficulty": "easy",
+      "q": "Into what kind of creature had Tataka transformed from her original nature?",
+      "options": ["A gentle deer", "A singing bird", "A peaceful cow", "A flesh-eating rakshasi"],
+      "answer": 3,
+      "explanation": "Once a yakshini, Tataka had become a man-eating rakshasi who devoured beings in the forest."
+    },
+    {
+      "id": "tataka-q10",
+      "difficulty": "easy",
+      "q": "What did Rama free by killing Tataka?",
+      "options": ["A captive princess", "A hidden treasure", "The forest hermitages from terror", "An enchanted city"],
+      "answer": 2,
+      "explanation": "Slaying Tataka freed the forest's hermitages and sages from her reign of terror."
+    },
+    {
+      "id": "tataka-q11",
+      "difficulty": "medium",
+      "q": "Who was Tataka's father, the powerful yaksha?",
+      "options": ["Suketu", "Sumali", "Sukesha", "Sunda"],
+      "answer": 0,
+      "explanation": "Tataka was the daughter of the yaksha Suketu, who obtained her through penance."
+    },
+    {
+      "id": "tataka-q12",
+      "difficulty": "medium",
+      "q": "Whom did Tataka marry?",
+      "options": ["Maricha", "Subahu", "Khara", "Sunda"],
+      "answer": 3,
+      "explanation": "Tataka was married to Sunda, and their son was Maricha."
+    },
+    {
+      "id": "tataka-q13",
+      "difficulty": "medium",
+      "q": "Who was the son of Tataka?",
+      "options": ["Subahu", "Khara", "Maricha", "Trishira"],
+      "answer": 2,
+      "explanation": "Maricha, who later disguised himself as the golden deer, was Tataka's son."
+    },
+    {
+      "id": "tataka-q14",
+      "difficulty": "medium",
+      "q": "Whose curse caused Tataka's husband Sunda to be destroyed, turning her wrathful?",
+      "options": ["Sage Agastya", "Sage Vasishtha", "Sage Bharadwaja", "Sage Atri"],
+      "answer": 0,
+      "explanation": "The sage Agastya destroyed Sunda, and when Tataka attacked him he cursed her into a hideous rakshasi."
+    },
+    {
+      "id": "tataka-q15",
+      "difficulty": "medium",
+      "q": "What did the sage Agastya's curse do to Tataka?",
+      "options": ["Made her immortal", "Restored her beauty", "Bound her to a tree", "Turned her into a deformed, man-eating demoness"],
+      "answer": 3,
+      "explanation": "Agastya cursed Tataka to lose her beauty and become a deformed flesh-eating rakshasi."
+    },
+    {
+      "id": "tataka-q16",
+      "difficulty": "medium",
+      "q": "By what other name is the forest or region associated with Tataka's terror sometimes known?",
+      "options": ["Dandaka", "Naimisha", "Panchavati", "Tataka forest (Tatakavana)"],
+      "answer": 3,
+      "explanation": "The wilderness she ravaged came to be called the Tataka forest, dreaded by travelers."
+    },
+    {
+      "id": "tataka-q17",
+      "difficulty": "medium",
+      "q": "What boon-like strength was Tataka said to possess, making her a formidable foe?",
+      "options": ["The strength of a thousand elephants", "Power over the seas", "Control of the winds", "The ability to fly to the sun"],
+      "answer": 0,
+      "explanation": "Tataka was said to possess the strength of a thousand elephants, making her terribly powerful."
+    },
+    {
+      "id": "tataka-q18",
+      "difficulty": "medium",
+      "q": "Why did Rama initially hesitate to strike Tataka?",
+      "options": ["She was a king's daughter", "She was a goddess", "She was a woman", "She was his relative"],
+      "answer": 2,
+      "explanation": "Rama hesitated because killing a woman seemed unworthy, until Vishvamitra urged him to fulfill his duty."
+    },
+    {
+      "id": "tataka-q19",
+      "difficulty": "medium",
+      "q": "How did Vishvamitra justify the killing of Tataka despite her being a woman?",
+      "options": ["She had insulted a king", "She owed a debt", "She had stolen a sacred weapon", "Protecting the people and sages outweighed the rule against killing a woman"],
+      "answer": 3,
+      "explanation": "Vishvamitra taught that a king must slay even a woman for the protection of the people and dharma."
+    },
+    {
+      "id": "tataka-q20",
+      "difficulty": "medium",
+      "q": "In which book (kanda) of the Valmiki Ramayana does the slaying of Tataka occur?",
+      "options": ["Bala Kanda", "Aranya Kanda", "Sundara Kanda", "Yuddha Kanda"],
+      "answer": 0,
+      "explanation": "The episode of Tataka's slaying is narrated in the Bala Kanda, the first book of the Ramayana."
+    },
+    {
+      "id": "tataka-q21",
+      "difficulty": "medium",
+      "q": "Why had Vishvamitra brought Rama and Lakshmana into the forest in the first place?",
+      "options": ["To find a hidden weapon", "To hunt for sport", "To visit King Janaka", "To guard his sacrifice from demons"],
+      "answer": 3,
+      "explanation": "Vishvamitra took the princes to protect his sacrificial rites from demons, and they cleared Tataka on the way."
+    },
+    {
+      "id": "tataka-q22",
+      "difficulty": "medium",
+      "q": "After slaying Tataka, what celestial weapons did the pleased Vishvamitra bestow upon Rama?",
+      "options": ["Ordinary forest tools", "A chariot of gold", "Divine astras and missiles", "A magic flute"],
+      "answer": 2,
+      "explanation": "Pleased with Rama, Vishvamitra granted him many divine astras (celestial weapons) after the deed."
+    },
+    {
+      "id": "tataka-q23",
+      "difficulty": "hard",
+      "q": "How did Tataka's father Suketu obtain her as a daughter?",
+      "options": ["She was found in a furrow", "Through severe penance to please Brahma", "She rose from the ocean", "She was carved from sandalwood"],
+      "answer": 1,
+      "explanation": "The childless yaksha Suketu performed harsh penance, and Brahma granted him Tataka as a daughter with great strength."
+    },
+    {
+      "id": "tataka-q24",
+      "difficulty": "hard",
+      "q": "How did Tataka's husband Sunda meet his end before her transformation?",
+      "options": ["Slain in war by Indra", "Drowned in the ocean", "Killed by his own son", "Destroyed by sage Agastya's power"],
+      "answer": 3,
+      "explanation": "Sunda perished by the power of the sage Agastya, which provoked Tataka and her son to attack the sage."
+    },
+    {
+      "id": "tataka-q25",
+      "difficulty": "hard",
+      "q": "When Tataka and Maricha assailed Agastya, what curse did he lay upon Maricha?",
+      "options": ["To wander as a rakshasa", "To turn to stone", "To lose his voice", "To serve the gods"],
+      "answer": 0,
+      "explanation": "Agastya cursed Maricha to become a rakshasa, while cursing Tataka into a hideous man-eating form."
+    },
+    {
+      "id": "tataka-q26",
+      "difficulty": "hard",
+      "q": "According to the Valmiki Ramayana, how did Tataka try to attack Rama as she charged?",
+      "options": ["By singing a deadly hymn", "By summoning a flood", "By hurling rocks and conjuring illusions and dust", "By turning invisible forever"],
+      "answer": 2,
+      "explanation": "Tataka rushed at the princes hurling rocks and raising showers of dust and stones through her demonic power."
+    },
+    {
+      "id": "tataka-q27",
+      "difficulty": "hard",
+      "q": "Where was Tataka's fatal wound struck by Rama's arrow in the Valmiki account?",
+      "options": ["Her chest, piercing her heart", "Her foot", "Her crown", "Her hand"],
+      "answer": 0,
+      "explanation": "Rama pierced Tataka through the chest with his arrow, felling the mighty demoness."
+    },
+    {
+      "id": "tataka-q28",
+      "difficulty": "hard",
+      "q": "Who rejoiced and showered praise after Tataka was slain?",
+      "options": ["The ocean spirits", "The other rakshasas", "The serpent kings", "The gods and Indra in the heavens"],
+      "answer": 3,
+      "explanation": "Indra and the celestials in heaven rejoiced and praised Rama for ridding the world of Tataka."
+    },
+    {
+      "id": "tataka-q29",
+      "difficulty": "hard",
+      "q": "Which region's prosperity had Tataka destroyed, according to the legend told to Rama?",
+      "options": ["The flourishing land of Malada and Karusha", "The kingdom of Mithila", "The realm of Lanka", "The valley of Kishkindha"],
+      "answer": 0,
+      "explanation": "Tataka had laid waste the once-prosperous lands of Malada and Karusha, leaving them desolate."
+    },
+    {
+      "id": "tataka-q30",
+      "difficulty": "hard",
+      "q": "What broader lesson does Vishvamitra impart to Rama through the slaying of Tataka?",
+      "options": ["That penance defeats all foes", "That demons can never be defeated", "That a ruler must uphold dharma even by harsh acts for the people's protection", "That weapons should never be used"],
+      "answer": 2,
+      "explanation": "Vishvamitra teaches that a king's duty to protect dharma and the people can justify even the slaying of a woman."
+    }
+  ]
+}

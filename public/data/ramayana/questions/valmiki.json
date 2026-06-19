@@ -1,0 +1,245 @@
+{
+  "cardId": "valmiki",
+  "questions": [
+    {
+      "id": "valmiki-q01",
+      "difficulty": "easy",
+      "q": "Valmiki is traditionally credited with composing which great Sanskrit epic?",
+      "options": ["The Ramayana", "The Mahabharata", "The Bhagavata Purana", "The Rig Veda"],
+      "answer": 0,
+      "explanation": "Valmiki is revered as the author of the Ramayana, the epic narrating the life of Rama."
+    },
+    {
+      "id": "valmiki-q02",
+      "difficulty": "easy",
+      "q": "Valmiki is honored with which famous title meaning the 'first poet'?",
+      "options": ["Maharishi", "Adi Kavi", "Chakravartin", "Brahmarishi"],
+      "answer": 1,
+      "explanation": "Valmiki is called the Adi Kavi, the 'first poet', for composing the first formal Sanskrit epic poem."
+    },
+    {
+      "id": "valmiki-q03",
+      "difficulty": "easy",
+      "q": "In which language did Valmiki compose the Ramayana?",
+      "options": ["Tamil", "Pali", "Sanskrit", "Prakrit"],
+      "answer": 2,
+      "explanation": "Valmiki composed the Ramayana in Sanskrit, the classical literary language of ancient India."
+    },
+    {
+      "id": "valmiki-q04",
+      "difficulty": "easy",
+      "q": "Whom did Valmiki shelter in his hermitage after she was exiled?",
+      "options": ["Kaikeyi", "Mandodari", "Sita", "Tara"],
+      "answer": 2,
+      "explanation": "Valmiki gave refuge to the exiled Sita in his ashram, where she lived and raised her sons."
+    },
+    {
+      "id": "valmiki-q05",
+      "difficulty": "easy",
+      "q": "Valmiki taught the Ramayana to the twin sons of which couple?",
+      "options": ["Rama and Sita", "Lakshmana and Urmila", "Bharata and Mandavi", "Dasharatha and Kausalya"],
+      "answer": 0,
+      "explanation": "Valmiki taught his epic to Lava and Kusha, the twin sons of Rama and Sita."
+    },
+    {
+      "id": "valmiki-q06",
+      "difficulty": "easy",
+      "q": "What were the names of the twin boys Valmiki taught the Ramayana?",
+      "options": ["Luv and Kush", "Rama and Bharata", "Nakula and Sahadeva", "Hanuman and Sugriva"],
+      "answer": 0,
+      "explanation": "The twins Lava and Kusha learned the Ramayana from Valmiki and later recited it."
+    },
+    {
+      "id": "valmiki-q07",
+      "difficulty": "easy",
+      "q": "Valmiki lived primarily in what kind of dwelling?",
+      "options": ["A royal palace", "A mountain cave", "A seaside fort", "A forest hermitage (ashram)"],
+      "answer": 3,
+      "explanation": "Valmiki was a forest sage who lived in a hermitage, or ashram, in the wilderness."
+    },
+    {
+      "id": "valmiki-q08",
+      "difficulty": "easy",
+      "q": "Valmiki is most accurately described as which of the following?",
+      "options": ["A king", "A merchant", "A sage and poet", "A warrior charioteer"],
+      "answer": 2,
+      "explanation": "Valmiki is revered as a sage (rishi) and the poet who authored the Ramayana."
+    },
+    {
+      "id": "valmiki-q09",
+      "difficulty": "easy",
+      "q": "The Ramayana composed by Valmiki tells the life story of which prince?",
+      "options": ["Krishna", "Arjuna", "Rama", "Buddha"],
+      "answer": 2,
+      "explanation": "Valmiki's Ramayana narrates the life of Rama, prince of Ayodhya, as the ideal of dharma."
+    },
+    {
+      "id": "valmiki-q10",
+      "difficulty": "easy",
+      "q": "Which emblem best symbolizes Valmiki as a poet and author?",
+      "options": ["A bow", "A scroll", "A crown", "A mace"],
+      "answer": 1,
+      "explanation": "As the composer of the epic, Valmiki is associated with the scroll, a symbol of writing and poetry."
+    },
+    {
+      "id": "valmiki-q11",
+      "difficulty": "medium",
+      "q": "According to tradition, the verse form (shloka) sprang from Valmiki's grief when he saw a hunter kill which bird?",
+      "options": ["A peacock", "A swan", "A krauncha (crane)", "An eagle"],
+      "answer": 2,
+      "explanation": "Valmiki uttered the first shloka in sorrow after a hunter slew one of a pair of krauncha cranes."
+    },
+    {
+      "id": "valmiki-q12",
+      "difficulty": "medium",
+      "q": "Which sage is traditionally said to have inspired or instructed Valmiki to compose the Ramayana?",
+      "options": ["Narada", "Vishvamitra", "Vasishtha", "Agastya"],
+      "answer": 0,
+      "explanation": "The divine sage Narada narrated Rama's story to Valmiki, prompting him to compose the epic."
+    },
+    {
+      "id": "valmiki-q13",
+      "difficulty": "medium",
+      "q": "The Ramayana is divided into how many major books, or kandas?",
+      "options": ["Five", "Ten", "Eighteen", "Seven"],
+      "answer": 3,
+      "explanation": "Valmiki's Ramayana is organized into seven kandas, from the Bala Kanda to the Uttara Kanda."
+    },
+    {
+      "id": "valmiki-q14",
+      "difficulty": "medium",
+      "q": "In tradition, the metrical unit Valmiki originated for the epic is known by which name?",
+      "options": ["Mantra", "Sutra", "Shloka", "Stotra"],
+      "answer": 2,
+      "explanation": "Valmiki is credited with originating the shloka, the verse meter in which the Ramayana is written."
+    },
+    {
+      "id": "valmiki-q15",
+      "difficulty": "medium",
+      "q": "Lava and Kusha first recited the Ramayana before Rama during which great ceremony?",
+      "options": ["A royal wedding", "The Ashvamedha (horse sacrifice)", "A coronation feast", "A funeral rite"],
+      "answer": 1,
+      "explanation": "The twins sang the Ramayana at Rama's Ashvamedha horse sacrifice, where Rama recognized them."
+    },
+    {
+      "id": "valmiki-q16",
+      "difficulty": "medium",
+      "q": "Within Valmiki's hermitage, Sita gave birth to how many sons?",
+      "options": ["One", "Two", "Three", "Four"],
+      "answer": 1,
+      "explanation": "Sita bore the twin sons Lava and Kusha while living in Valmiki's ashram."
+    },
+    {
+      "id": "valmiki-q17",
+      "difficulty": "medium",
+      "q": "The opening book of Valmiki's Ramayana, covering Rama's birth and youth, is called what?",
+      "options": ["Aranya Kanda", "Yuddha Kanda", "Kishkindha Kanda", "Bala Kanda"],
+      "answer": 3,
+      "explanation": "The Bala Kanda ('Book of Childhood') is the first kanda of Valmiki's Ramayana."
+    },
+    {
+      "id": "valmiki-q18",
+      "difficulty": "medium",
+      "q": "The final book of Valmiki's Ramayana, which includes Sita's life in his ashram, is called what?",
+      "options": ["Sundara Kanda", "Ayodhya Kanda", "Uttara Kanda", "Bala Kanda"],
+      "answer": 2,
+      "explanation": "The Uttara Kanda is the seventh and last book, covering events after Rama's return, including Sita's exile."
+    },
+    {
+      "id": "valmiki-q19",
+      "difficulty": "medium",
+      "q": "When Sita was banished from Ayodhya, who escorted her to the vicinity of Valmiki's hermitage?",
+      "options": ["Bharata", "Lakshmana", "Hanuman", "Sugriva"],
+      "answer": 1,
+      "explanation": "Lakshmana, acting on Rama's order, left the pregnant Sita near Valmiki's ashram, where the sage took her in."
+    },
+    {
+      "id": "valmiki-q20",
+      "difficulty": "medium",
+      "q": "Valmiki is venerated as the founder of which literary form in Sanskrit?",
+      "options": ["The drama (nataka)", "The epic poem (kavya/itihasa)", "The hymn (sukta)", "The fable (nitikatha)"],
+      "answer": 1,
+      "explanation": "As the Adi Kavi, Valmiki is regarded as the originator of the Sanskrit epic poem tradition."
+    },
+    {
+      "id": "valmiki-q21",
+      "difficulty": "medium",
+      "q": "At the Ashvamedha gathering, Lava and Kusha were revealed to be the sons of whom?",
+      "options": ["Valmiki himself", "Rama", "Lakshmana", "Bharata"],
+      "answer": 1,
+      "explanation": "The twins were recognized as Rama's own sons, born to Sita while she lived in Valmiki's hermitage."
+    },
+    {
+      "id": "valmiki-q22",
+      "difficulty": "medium",
+      "q": "The Ramayana is classified within which category of Sanskrit literature, alongside the Mahabharata?",
+      "options": ["Veda", "Itihasa", "Upanishad", "Sutra"],
+      "answer": 1,
+      "explanation": "Both the Ramayana and Mahabharata are itihasas ('thus it happened'), the great epic histories of India."
+    },
+    {
+      "id": "valmiki-q23",
+      "difficulty": "hard",
+      "q": "In a well-known legend, before becoming a sage Valmiki was a forest dweller who lived by which means?",
+      "options": ["Trading spices", "Robbery and hunting", "Herding cattle", "Fishing"],
+      "answer": 1,
+      "explanation": "Tradition holds that Valmiki was once a highwayman (the bandit Ratnakara) before his transformation into a sage."
+    },
+    {
+      "id": "valmiki-q24",
+      "difficulty": "hard",
+      "q": "According to legend, while meditating so long that an anthill grew over him, Valmiki repeatedly chanted what?",
+      "options": ["The name of Rama", "The Gayatri mantra", "The name of Shiva", "The syllable Om alone"],
+      "answer": 0,
+      "explanation": "He meditated on Rama's name (said as 'mara' reversed) so intently that an anthill, or valmika, formed around him, giving his name."
+    },
+    {
+      "id": "valmiki-q25",
+      "difficulty": "hard",
+      "q": "The name 'Valmiki' is traditionally explained as deriving from 'valmika', a Sanskrit word meaning what?",
+      "options": ["River", "Anthill", "Mountain", "Lotus"],
+      "answer": 1,
+      "explanation": "Valmika means 'anthill', referring to the mound that grew over the sage during his long meditation."
+    },
+    {
+      "id": "valmiki-q26",
+      "difficulty": "hard",
+      "q": "The bird whose slaying inspired Valmiki's first shloka was killed at what moment, deepening his grief?",
+      "options": ["While building a nest", "While mating with its partner", "While teaching its young to fly", "While migrating south"],
+      "answer": 1,
+      "explanation": "The male krauncha was struck down while united with its mate, and the survivor's anguish moved Valmiki to verse."
+    },
+    {
+      "id": "valmiki-q27",
+      "difficulty": "hard",
+      "q": "Which deity is traditionally said to have appeared to Valmiki and assured him his composition would be remembered as long as mountains and rivers endure?",
+      "options": ["Indra", "Brahma", "Vishnu", "Agni"],
+      "answer": 1,
+      "explanation": "The creator Brahma appeared to Valmiki, blessed his shloka, and commanded him to compose the full Ramayana."
+    },
+    {
+      "id": "valmiki-q28",
+      "difficulty": "hard",
+      "q": "The Ramayana is traditionally said to comprise approximately how many shlokas (verses)?",
+      "options": ["Twenty-four thousand", "One hundred thousand", "Seven hundred", "Two thousand"],
+      "answer": 0,
+      "explanation": "Valmiki's Ramayana is traditionally counted at about 24,000 shlokas across its seven kandas."
+    },
+    {
+      "id": "valmiki-q29",
+      "difficulty": "hard",
+      "q": "In the Uttara Kanda, when Sita is brought back to Rama's court, Valmiki personally does what on her behalf?",
+      "options": ["Crowns her queen of Ayodhya", "Vouches for her purity and offers his ascetic merit as proof", "Demands she undergo another fire ordeal", "Sends her away to a distant kingdom"],
+      "answer": 1,
+      "explanation": "Valmiki publicly testified to Sita's chastity, staking his accumulated ascetic merit on her innocence."
+    },
+    {
+      "id": "valmiki-q30",
+      "difficulty": "hard",
+      "q": "Beyond authoring the epic, Valmiki appears within the Ramayana's own narrative as a character living in which region?",
+      "options": ["On the banks of the Tamasa/Ganga, near Chitrakuta", "On the island of Lanka", "In the city of Mithila", "In the Kishkindha caves"],
+      "answer": 0,
+      "explanation": "Valmiki's hermitage is placed in the forest near the Tamasa and Ganga rivers, where the exiled Sita found refuge."
+    }
+  ]
+}

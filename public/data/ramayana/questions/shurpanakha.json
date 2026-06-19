@@ -1,0 +1,245 @@
+{
+  "cardId": "shurpanakha",
+  "questions": [
+    {
+      "id": "shurpanakha-q01",
+      "difficulty": "easy",
+      "q": "Who was Shurpanakha's most famous brother?",
+      "options": ["Ravana", "Sugriva", "Vibhishana's enemy Bali", "Jatayu"],
+      "answer": 0,
+      "explanation": "Shurpanakha was the sister of Ravana, the rakshasa king of Lanka."
+    },
+    {
+      "id": "shurpanakha-q02",
+      "difficulty": "easy",
+      "q": "What kind of being was Shurpanakha?",
+      "options": ["A celestial apsara", "A rakshasi (demoness)", "A human princess", "A river goddess"],
+      "answer": 1,
+      "explanation": "Shurpanakha was a rakshasi, a demoness, and sister of the demon king Ravana."
+    },
+    {
+      "id": "shurpanakha-q03",
+      "difficulty": "easy",
+      "q": "Whom did Shurpanakha first become infatuated with in the forest?",
+      "options": ["Lakshmana", "Bharata", "Rama", "Hanuman"],
+      "answer": 2,
+      "explanation": "When she encountered the exiles, Shurpanakha was first smitten with the handsome Rama."
+    },
+    {
+      "id": "shurpanakha-q04",
+      "difficulty": "easy",
+      "q": "Who disfigured Shurpanakha by cutting off her nose and ears?",
+      "options": ["Rama", "Lakshmana", "Sita", "Jatayu"],
+      "answer": 1,
+      "explanation": "At Rama's bidding, Lakshmana cut off Shurpanakha's nose and ears."
+    },
+    {
+      "id": "shurpanakha-q05",
+      "difficulty": "easy",
+      "q": "In which forest region did Shurpanakha meet Rama, Sita, and Lakshmana?",
+      "options": ["Panchavati", "Kishkindha", "Ayodhya", "Mithila"],
+      "answer": 0,
+      "explanation": "The encounter took place at Panchavati, the grove on the Godavari where the exiles had built their hut."
+    },
+    {
+      "id": "shurpanakha-q06",
+      "difficulty": "easy",
+      "q": "Why did Rama refuse Shurpanakha's proposal of marriage?",
+      "options": ["He had taken a vow of celibacy", "He was already married to Sita", "He feared her brother Ravana", "He did not speak her language"],
+      "answer": 1,
+      "explanation": "Rama told her he was already married to Sita and so could not accept her."
+    },
+    {
+      "id": "shurpanakha-q07",
+      "difficulty": "easy",
+      "q": "To whom did Shurpanakha run for help after being disfigured?",
+      "options": ["Her brother Ravana", "King Janaka", "Sugriva", "The sage Agastya"],
+      "answer": 0,
+      "explanation": "Humiliated and bleeding, Shurpanakha fled to incite her brothers and ultimately Ravana."
+    },
+    {
+      "id": "shurpanakha-q08",
+      "difficulty": "easy",
+      "q": "Toward whom did Shurpanakha lunge in jealous rage, prompting her disfigurement?",
+      "options": ["Rama", "Lakshmana", "Sita", "A passing deer"],
+      "answer": 2,
+      "explanation": "Enraged that Rama loved Sita, Shurpanakha attacked Sita, and Lakshmana then mutilated her."
+    },
+    {
+      "id": "shurpanakha-q09",
+      "difficulty": "easy",
+      "q": "Shurpanakha's grievance ultimately drew which great enemy against Rama?",
+      "options": ["Ravana", "Indrajit alone", "Kumbhakarna alone", "Vali"],
+      "answer": 0,
+      "explanation": "Her complaint inflamed Ravana, leading him to abduct Sita and wage war against Rama."
+    },
+    {
+      "id": "shurpanakha-q10",
+      "difficulty": "easy",
+      "q": "When Rama declined her, to whom did Shurpanakha then turn her advances?",
+      "options": ["Lakshmana", "Sita", "Jatayu", "Sugriva"],
+      "answer": 0,
+      "explanation": "After Rama refused, Shurpanakha approached Lakshmana, who also rebuffed her mockingly."
+    },
+    {
+      "id": "shurpanakha-q11",
+      "difficulty": "medium",
+      "q": "What was Shurpanakha's appearance when she first approached Rama?",
+      "options": ["She came in her true monstrous form", "She assumed a beautiful, alluring form", "She appeared as an old beggar woman", "She came as a golden deer"],
+      "answer": 1,
+      "explanation": "Shurpanakha used her power to take on a charming and beautiful form to attract Rama."
+    },
+    {
+      "id": "shurpanakha-q12",
+      "difficulty": "medium",
+      "q": "Which demon brother of Shurpanakha first marched against Rama after her disfigurement?",
+      "options": ["Khara", "Kumbhakarna", "Vibhishana", "Indrajit"],
+      "answer": 0,
+      "explanation": "She first went to Khara of Janasthana, whose forces Rama then destroyed."
+    },
+    {
+      "id": "shurpanakha-q13",
+      "difficulty": "medium",
+      "q": "How many rakshasa warriors did Rama slay at Janasthana after Shurpanakha incited them?",
+      "options": ["One thousand", "Ten thousand", "Fourteen thousand", "One hundred thousand"],
+      "answer": 2,
+      "explanation": "Rama single-handedly destroyed Khara's army of fourteen thousand rakshasas at Janasthana."
+    },
+    {
+      "id": "shurpanakha-q14",
+      "difficulty": "medium",
+      "q": "Besides Khara, which other brother of Shurpanakha was slain in the battle of Janasthana?",
+      "options": ["Dushana", "Vibhishana", "Akampana", "Prahasta"],
+      "answer": 0,
+      "explanation": "Dushana, along with Khara and Trishira, was killed by Rama at Janasthana."
+    },
+    {
+      "id": "shurpanakha-q15",
+      "difficulty": "medium",
+      "q": "To rouse Ravana, what did Shurpanakha emphasize about Sita?",
+      "options": ["Sita's extraordinary beauty", "Sita's wealth", "Sita's magical powers", "Sita's army"],
+      "answer": 0,
+      "explanation": "Shurpanakha described Sita's surpassing beauty to inflame Ravana's desire and revenge."
+    },
+    {
+      "id": "shurpanakha-q16",
+      "difficulty": "medium",
+      "q": "What is the literal meaning of the name 'Shurpanakha'?",
+      "options": ["One with golden hair", "One whose nails are like winnowing baskets", "One with sharp teeth", "One who dwells in fire"],
+      "answer": 1,
+      "explanation": "The name Shurpanakha means 'she whose fingernails are like winnowing fans (shurpa).'"
+    },
+    {
+      "id": "shurpanakha-q17",
+      "difficulty": "medium",
+      "q": "Who was Shurpanakha's father, the sage father of Ravana's line?",
+      "options": ["Vishravas", "Pulastya", "Kashyapa", "Vishwamitra"],
+      "answer": 0,
+      "explanation": "Shurpanakha was the daughter of the sage Vishravas (son of Pulastya) and the demoness Kaikasi."
+    },
+    {
+      "id": "shurpanakha-q18",
+      "difficulty": "medium",
+      "q": "After fleeing Lakshmana, where did Shurpanakha go to lament before reaching Ravana?",
+      "options": ["First to Khara at Janasthana", "Straight to Kishkindha", "To the city of Mithila", "To the hermitage of Agastya"],
+      "answer": 0,
+      "explanation": "She first went to Khara's stronghold at Janasthana before later traveling to Lanka to rouse Ravana."
+    },
+    {
+      "id": "shurpanakha-q19",
+      "difficulty": "medium",
+      "q": "Which of these was NOT a brother of Shurpanakha?",
+      "options": ["Kumbhakarna", "Vibhishana", "Sugriva", "Ravana"],
+      "answer": 2,
+      "explanation": "Sugriva was the vanara king, not a brother of Shurpanakha; her brothers included Ravana, Kumbhakarna, and Vibhishana."
+    },
+    {
+      "id": "shurpanakha-q20",
+      "difficulty": "medium",
+      "q": "How did Lakshmana initially respond when Shurpanakha proposed to him?",
+      "options": ["He accepted immediately", "He mocked her, saying he was a mere servant", "He attacked her at once", "He fled into the forest"],
+      "answer": 1,
+      "explanation": "Lakshmana playfully mocked her, calling himself a servant and sending her back toward Rama."
+    },
+    {
+      "id": "shurpanakha-q21",
+      "difficulty": "medium",
+      "q": "What plan did Shurpanakha's complaint ultimately set in motion against the exiles?",
+      "options": ["The abduction of Sita by Ravana", "The burning of Panchavati", "A flood of the Godavari", "The poisoning of Rama"],
+      "answer": 0,
+      "explanation": "Her incitement led Ravana to plot and carry out the abduction of Sita from Panchavati."
+    },
+    {
+      "id": "shurpanakha-q22",
+      "difficulty": "medium",
+      "q": "Which Book (Kanda) of the Valmiki Ramayana contains the Shurpanakha episode?",
+      "options": ["Bala Kanda", "Aranya Kanda", "Sundara Kanda", "Yuddha Kanda"],
+      "answer": 1,
+      "explanation": "The Shurpanakha episode occurs in the Aranya Kanda, the 'forest' book of the Ramayana."
+    },
+    {
+      "id": "shurpanakha-q23",
+      "difficulty": "hard",
+      "q": "According to tradition, who was Shurpanakha's husband, slain by Ravana?",
+      "options": ["Vidyutjihva", "Maricha", "Subahu", "Tataka's son"],
+      "answer": 0,
+      "explanation": "Tradition holds that Shurpanakha's husband was the danava Vidyutjihva, killed by Ravana, fueling her own bitterness."
+    },
+    {
+      "id": "shurpanakha-q24",
+      "difficulty": "hard",
+      "q": "What was another name by which Shurpanakha is known in some traditions?",
+      "options": ["Meenakshi", "Kaikasi", "Trijata", "Mandodari"],
+      "answer": 0,
+      "explanation": "In some southern traditions Shurpanakha is called Meenakshi, 'one with fish-shaped eyes.'"
+    },
+    {
+      "id": "shurpanakha-q25",
+      "difficulty": "hard",
+      "q": "Who was the mother of Shurpanakha and Ravana?",
+      "options": ["Kaikasi", "Mandodari", "Sumitra", "Tara"],
+      "answer": 0,
+      "explanation": "Shurpanakha and Ravana were born to Kaikasi, the demoness wife of the sage Vishravas."
+    },
+    {
+      "id": "shurpanakha-q26",
+      "difficulty": "hard",
+      "q": "Which third brother, killed at Janasthana, is named alongside Khara and Dushana?",
+      "options": ["Trishira", "Atikaya", "Narantaka", "Devantaka"],
+      "answer": 0,
+      "explanation": "Trishira ('three-headed') was slain by Rama at Janasthana together with Khara and Dushana."
+    },
+    {
+      "id": "shurpanakha-q27",
+      "difficulty": "hard",
+      "q": "In the Ramayana narrative, what immediate purpose did Shurpanakha's mutilation serve in the plot?",
+      "options": ["It triggered the chain of events leading to Ravana's war", "It ended the forest exile early", "It freed Jatayu from a curse", "It restored Dasharatha to life"],
+      "answer": 0,
+      "explanation": "Her disfigurement set off the rakshasa retaliation, Sita's abduction, and ultimately the war with Ravana."
+    },
+    {
+      "id": "shurpanakha-q28",
+      "difficulty": "hard",
+      "q": "Which sage's hermitage region of Dandaka forest was near where Shurpanakha roamed?",
+      "options": ["Agastya", "Vasishtha", "Bharadwaja", "Gautama"],
+      "answer": 0,
+      "explanation": "The exiles settled at Panchavati on the advice of the sage Agastya, in the Dandaka forest where Shurpanakha roamed."
+    },
+    {
+      "id": "shurpanakha-q29",
+      "difficulty": "hard",
+      "q": "What did Shurpanakha claim she wanted to do with Sita when she first lunged at her?",
+      "options": ["Devour her to remove her rival", "Crown her queen of Lanka", "Take her to Ravana", "Teach her sorcery"],
+      "answer": 0,
+      "explanation": "In jealous fury Shurpanakha rushed to devour Sita, whom she saw as the obstacle to winning Rama."
+    },
+    {
+      "id": "shurpanakha-q30",
+      "difficulty": "hard",
+      "q": "What was the name of the kingdom from which Shurpanakha summoned her brother Khara's forces?",
+      "options": ["Janasthana", "Kishkindha", "Lanka proper", "Ayodhya"],
+      "answer": 0,
+      "explanation": "Khara ruled Janasthana, a rakshasa outpost in the Dandaka forest, from which his fourteen thousand warriors marched."
+    }
+  ]
+}

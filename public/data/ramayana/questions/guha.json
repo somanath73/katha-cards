@@ -1,0 +1,245 @@
+{
+  "cardId": "guha",
+  "questions": [
+    {
+      "id": "guha-q01",
+      "difficulty": "easy",
+      "q": "What is Guha's role in the Ramayana?",
+      "options": ["A boatman and ferryman chief", "A royal minister of Ayodhya", "A forest-dwelling sage", "A rakshasa warrior of Lanka"],
+      "answer": 0,
+      "explanation": "Guha is the Nishada chieftain who served as a ferryman, carrying travelers across the river."
+    },
+    {
+      "id": "guha-q02",
+      "difficulty": "easy",
+      "q": "To which tribe or community did Guha belong?",
+      "options": ["The Vanaras", "The Nishadas", "The Rakshasas", "The Yakshas"],
+      "answer": 1,
+      "explanation": "Guha was the chieftain of the Nishadas, a forest and river-dwelling tribal people."
+    },
+    {
+      "id": "guha-q03",
+      "difficulty": "easy",
+      "q": "Across which river did Guha ferry Rama and his companions?",
+      "options": ["The Sarayu", "The Godavari", "The Ganga", "The Yamuna"],
+      "answer": 2,
+      "explanation": "Guha helped Rama's party cross the river Ganga on their journey into exile."
+    },
+    {
+      "id": "guha-q04",
+      "difficulty": "easy",
+      "q": "Whom did Guha help across the river along with Rama?",
+      "options": ["Sita and Lakshmana", "Bharata and Shatrughna", "Dasharatha and Kaushalya", "Hanuman and Sugriva"],
+      "answer": 0,
+      "explanation": "Guha ferried Rama together with Sita and Lakshmana as they set out for the forest."
+    },
+    {
+      "id": "guha-q05",
+      "difficulty": "easy",
+      "q": "On what journey was Rama when he met Guha?",
+      "options": ["His return to Ayodhya", "His pilgrimage to Lanka", "His exile into the forest", "His march to war"],
+      "answer": 2,
+      "explanation": "Guha met Rama during the beginning of Rama's fourteen-year forest exile."
+    },
+    {
+      "id": "guha-q06",
+      "difficulty": "easy",
+      "q": "What feeling did Guha hold toward Rama?",
+      "options": ["Love and reverence", "Fear and hostility", "Jealousy and rivalry", "Indifference and scorn"],
+      "answer": 0,
+      "explanation": "Guha received Rama with deep love and reverence, treating him as an honored friend."
+    },
+    {
+      "id": "guha-q07",
+      "difficulty": "easy",
+      "q": "What kind of vessel did Guha use to carry Rama's party across the river?",
+      "options": ["A chariot", "A boat", "A flying vimana", "A bridge of stones"],
+      "answer": 1,
+      "explanation": "As a ferryman, Guha used a boat to take Rama, Sita, and Lakshmana across the Ganga."
+    },
+    {
+      "id": "guha-q08",
+      "difficulty": "easy",
+      "q": "What was Guha's standing among his people?",
+      "options": ["A humble servant", "A wandering hermit", "A chief or king", "A captured prisoner"],
+      "answer": 2,
+      "explanation": "Guha was the chieftain, or king, of the Nishada tribe."
+    },
+    {
+      "id": "guha-q09",
+      "difficulty": "easy",
+      "q": "Near which forest town is Guha's domain traditionally placed?",
+      "options": ["Kishkindha", "Shringaverapura", "Panchavati", "Chitrakoot"],
+      "answer": 1,
+      "explanation": "Guha ruled the region of Shringaverapura on the banks of the Ganga."
+    },
+    {
+      "id": "guha-q10",
+      "difficulty": "easy",
+      "q": "How is Guha generally remembered in the Ramayana tradition?",
+      "options": ["As a devoted friend of Rama", "As an enemy who opposed Rama", "As a traitor to Ayodhya", "As a demon slain by Rama"],
+      "answer": 0,
+      "explanation": "Guha is cherished as a loyal and devoted friend who served Rama with love."
+    },
+    {
+      "id": "guha-q11",
+      "difficulty": "medium",
+      "q": "When Rama arrived at Shringaverapura, where did he spend the night before crossing?",
+      "options": ["In Guha's palace", "Beneath a tree on the riverbank", "In a sage's hermitage", "On the boat itself"],
+      "answer": 1,
+      "explanation": "Rama, keeping the discipline of an ascetic, rested under a tree on the bank of the Ganga."
+    },
+    {
+      "id": "guha-q12",
+      "difficulty": "medium",
+      "q": "What did Guha offer Rama upon his arrival that Rama politely declined?",
+      "options": ["Rich food and lodging", "Weapons of war", "A share of his kingdom", "A new chariot"],
+      "answer": 0,
+      "explanation": "Guha offered abundant food and comforts, but Rama declined to keep his ascetic vow during exile."
+    },
+    {
+      "id": "guha-q13",
+      "difficulty": "medium",
+      "q": "Who kept watch with Guha through the night while Rama slept on the riverbank?",
+      "options": ["Sita", "Bharata", "Lakshmana", "Sumantra"],
+      "answer": 2,
+      "explanation": "Lakshmana stayed awake guarding Rama and Sita, conversing with the grieving Guha through the night."
+    },
+    {
+      "id": "guha-q14",
+      "difficulty": "medium",
+      "q": "What did Rama use to mat his hair into ascetic locks before entering the forest?",
+      "options": ["Sandal paste", "The sap of the banyan (nyagrodha) tree", "River clay", "Sacred ash"],
+      "answer": 1,
+      "explanation": "Rama and Lakshmana matted their hair with the milky sap of the banyan tree provided in this region."
+    },
+    {
+      "id": "guha-q15",
+      "difficulty": "medium",
+      "q": "Who was the charioteer that accompanied Rama as far as Guha's land before turning back?",
+      "options": ["Sumantra", "Vasishtha", "Sumitra", "Vishvamitra"],
+      "answer": 0,
+      "explanation": "Sumantra, Dasharatha's faithful charioteer, brought Rama to the Ganga and returned to Ayodhya from there."
+    },
+    {
+      "id": "guha-q16",
+      "difficulty": "medium",
+      "q": "Why did Lakshmana grieve through the night in Guha's company?",
+      "options": ["He feared the forest beasts", "He sorrowed over Rama's exile and Ayodhya's fate", "He had quarreled with Sita", "He was wounded in a fight"],
+      "answer": 1,
+      "explanation": "Lakshmana lamented the injustice of Rama's banishment and the suffering it brought upon their family."
+    },
+    {
+      "id": "guha-q17",
+      "difficulty": "medium",
+      "q": "How did Guha regard Rama in terms of kinship and friendship?",
+      "options": ["As a distant stranger", "As a dear friend, almost a brother", "As his sworn rival", "As a mere customer"],
+      "answer": 1,
+      "explanation": "Guha treated Rama as a beloved friend, offering his heart and all his possessions in service."
+    },
+    {
+      "id": "guha-q18",
+      "difficulty": "medium",
+      "q": "In the Ayodhya Kanda, in which kingdom's borderlands does Guha's territory lie?",
+      "options": ["Videha", "Kosala", "Kekaya", "Magadha"],
+      "answer": 1,
+      "explanation": "Shringaverapura lay within the kingdom of Kosala, near its forest frontier on the Ganga."
+    },
+    {
+      "id": "guha-q19",
+      "difficulty": "medium",
+      "q": "What did Rama and his companions eat on the night they stayed with Guha, keeping their vow?",
+      "options": ["A royal feast", "Only water, abstaining from food", "Roasted meat", "Sweet payasam"],
+      "answer": 1,
+      "explanation": "Rama and Lakshmana took only water that night, declining food to honor their ascetic discipline."
+    },
+    {
+      "id": "guha-q20",
+      "difficulty": "medium",
+      "q": "What did Guha command his people to do to ensure Rama's safety on the riverbank?",
+      "options": ["Build a fortress overnight", "Keep armed guard and watch over the sleeping prince", "Drain the river", "Summon an army from Ayodhya"],
+      "answer": 1,
+      "explanation": "Guha set his Nishada men on watch, vigilant to protect Rama through the night."
+    },
+    {
+      "id": "guha-q21",
+      "difficulty": "medium",
+      "q": "How does Guha's hospitality reflect his character in the epic?",
+      "options": ["It shows selfless devotion across social rank", "It shows cunning and self-interest", "It shows reluctance and resentment", "It shows ignorance of Rama's identity"],
+      "answer": 0,
+      "explanation": "Guha's wholehearted welcome of the exiled prince exemplifies devotion that transcends differences of birth."
+    },
+    {
+      "id": "guha-q22",
+      "difficulty": "medium",
+      "q": "After crossing the Ganga, in which direction did Rama's party continue their journey?",
+      "options": ["Back north to Ayodhya", "Onward toward the southern forests", "East to the sea", "West to Kekaya"],
+      "answer": 1,
+      "explanation": "Having crossed the river, Rama pressed on toward the forests of the south to fulfill his exile."
+    },
+    {
+      "id": "guha-q23",
+      "difficulty": "hard",
+      "q": "When Bharata later marched to seek Rama, how did Guha first react to the approaching army?",
+      "options": ["He fled into the forest", "He suspected Bharata of ill intent and prepared his Nishadas", "He immediately joined Bharata's cause", "He ferried them across without question"],
+      "answer": 1,
+      "explanation": "Seeing Bharata's host, Guha at first feared harm to Rama and readied his men, until Bharata's sorrow revealed his true devotion."
+    },
+    {
+      "id": "guha-q24",
+      "difficulty": "hard",
+      "q": "What did Bharata do at the river that moved Guha and showed his love for Rama?",
+      "options": ["He wept and asked the way to Rama, sharing in Rama's austerities", "He demanded the throne be returned", "He offered Guha gold to betray Rama", "He set fire to the forest"],
+      "answer": 0,
+      "explanation": "Bharata grieved deeply and sought Rama only to bring him home, convincing Guha of his sincerity."
+    },
+    {
+      "id": "guha-q25",
+      "difficulty": "hard",
+      "q": "Which sage's hermitage did Guha help direct travelers toward on the road beyond the Ganga?",
+      "options": ["Agastya", "Bharadvaja", "Atri", "Gautama"],
+      "answer": 1,
+      "explanation": "The route from Shringaverapura led toward the hermitage of the sage Bharadvaja at Prayaga."
+    },
+    {
+      "id": "guha-q26",
+      "difficulty": "hard",
+      "q": "In Valmiki's account, what detail underscores Rama's renunciation during his stay with Guha?",
+      "options": ["He slept on a bed of leaves or grass on the bare ground", "He wore his royal crown", "He feasted on rich meats", "He rode in a golden chariot"],
+      "answer": 0,
+      "explanation": "Rama, having renounced princely comforts, lay upon a simple bed on the ground like an ascetic."
+    },
+    {
+      "id": "guha-q27",
+      "difficulty": "hard",
+      "q": "What is the traditional meaning often associated with the name 'Guha'?",
+      "options": ["River-crosser", "Cave or hidden one", "Golden boat", "Forest hunter"],
+      "answer": 1,
+      "explanation": "The Sanskrit name Guha is commonly linked to the sense of 'cave' or 'the hidden one,' also a name of Kartikeya."
+    },
+    {
+      "id": "guha-q28",
+      "difficulty": "hard",
+      "q": "How does the episode of Guha contribute to the epic's portrayal of devotion?",
+      "options": ["It shows even a humble tribal chief as a model of pure bhakti to Rama", "It shows Rama rewarding only the high-born", "It shows that only sages may serve Rama", "It shows devotion limited to kings and warriors"],
+      "answer": 0,
+      "explanation": "Guha's heartfelt service makes him an enduring emblem that devotion to Rama is open to all, regardless of birth."
+    },
+    {
+      "id": "guha-q29",
+      "difficulty": "hard",
+      "q": "In which kanda (book) of the Valmiki Ramayana does the Guha episode chiefly occur?",
+      "options": ["Bala Kanda", "Ayodhya Kanda", "Aranya Kanda", "Kishkindha Kanda"],
+      "answer": 1,
+      "explanation": "Guha appears in the Ayodhya Kanda, during Rama's departure from the kingdom into exile."
+    },
+    {
+      "id": "guha-q30",
+      "difficulty": "hard",
+      "q": "What gesture by Guha best captures his bond with Rama in the tradition?",
+      "options": ["He laid his whole kingdom and self at Rama's service", "He challenged Rama to a contest", "He refused to ferry the exiles", "He demanded payment for the crossing"],
+      "answer": 0,
+      "explanation": "Guha offered his realm, his wealth, and his own life in devoted service, asking nothing in return."
+    }
+  ]
+}

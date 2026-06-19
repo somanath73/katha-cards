@@ -1,0 +1,395 @@
+{
+  "cardId": "rama-setu",
+  "questions": [
+    {
+      "id": "rama-setu-q01",
+      "difficulty": "easy",
+      "q": "What was the main purpose of building Rama Setu, the causeway to Lanka?",
+      "options": [
+        "To let Rama's army cross the sea to reach Lanka",
+        "To trap fish for the army's food",
+        "To build a city in the middle of the ocean",
+        "To honor the sea god with a monument"
+      ],
+      "answer": 0,
+      "explanation": "The bridge was raised across the sea so that Rama's vanara army could march over it to besiege Lanka and rescue Sita."
+    },
+    {
+      "id": "rama-setu-q02",
+      "difficulty": "easy",
+      "q": "Which army built Rama Setu?",
+      "options": [
+        "An army of demons",
+        "An army of vanaras (monkeys)",
+        "An army of human soldiers from Ayodhya",
+        "An army of celestial beings"
+      ],
+      "answer": 1,
+      "explanation": "Rama's vast vanara (monkey) army, led under his command, constructed the bridge of stones across the ocean."
+    },
+    {
+      "id": "rama-setu-q03",
+      "difficulty": "easy",
+      "q": "What was the bridge primarily made of?",
+      "options": [
+        "Wooden planks",
+        "Iron beams",
+        "Stones and rocks",
+        "Ropes and vines"
+      ],
+      "answer": 2,
+      "explanation": "Rama Setu was a long bridge built from stones and boulders cast into the sea by the vanaras."
+    },
+    {
+      "id": "rama-setu-q04",
+      "difficulty": "easy",
+      "q": "To which island kingdom did Rama Setu lead?",
+      "options": [
+        "Kishkindha",
+        "Lanka",
+        "Ayodhya",
+        "Mithila"
+      ],
+      "answer": 1,
+      "explanation": "The causeway connected the mainland to the island of Lanka, the kingdom ruled by Ravana."
+    },
+    {
+      "id": "rama-setu-q05",
+      "difficulty": "easy",
+      "q": "Whom did Rama seek to rescue by crossing the bridge to Lanka?",
+      "options": [
+        "His brother Lakshmana",
+        "His mother Kausalya",
+        "His wife Sita",
+        "His ally Sugriva"
+      ],
+      "answer": 2,
+      "explanation": "Rama led his army across to Lanka to free his wife Sita, who had been abducted by Ravana."
+    },
+    {
+      "id": "rama-setu-q06",
+      "difficulty": "easy",
+      "q": "Who had abducted Sita and taken her to Lanka?",
+      "options": [
+        "Ravana",
+        "Vibhishana",
+        "Sugriva",
+        "Jatayu"
+      ],
+      "answer": 0,
+      "explanation": "Ravana, the demon king of Lanka, abducted Sita, prompting Rama's campaign across the sea."
+    },
+    {
+      "id": "rama-setu-q07",
+      "difficulty": "easy",
+      "q": "Across what body of water was Rama Setu built?",
+      "options": [
+        "A wide river",
+        "A deep lake",
+        "A marsh",
+        "The ocean (sea)"
+      ],
+      "answer": 3,
+      "explanation": "The causeway was raised across the ocean separating the mainland from the island of Lanka."
+    },
+    {
+      "id": "rama-setu-q08",
+      "difficulty": "easy",
+      "q": "Which devoted vanara was a key figure in Rama's army during the Lanka campaign?",
+      "options": [
+        "Hanuman",
+        "Ravana",
+        "Kumbhakarna",
+        "Mareecha"
+      ],
+      "answer": 0,
+      "explanation": "Hanuman, the mighty and devoted vanara, played a central role in serving Rama throughout the war against Lanka."
+    },
+    {
+      "id": "rama-setu-q09",
+      "difficulty": "easy",
+      "q": "What kind of place is Rama Setu best described as?",
+      "options": [
+        "A palace",
+        "A bridge or causeway",
+        "A forest",
+        "A temple"
+      ],
+      "answer": 1,
+      "explanation": "Rama Setu is a bridge, or causeway, of stones spanning the sea to Lanka."
+    },
+    {
+      "id": "rama-setu-q10",
+      "difficulty": "easy",
+      "q": "Who was the king and commander leading the army that crossed Rama Setu?",
+      "options": [
+        "Bharata",
+        "Rama",
+        "Ravana",
+        "Vali"
+      ],
+      "answer": 1,
+      "explanation": "Rama, the prince of Ayodhya, led his army across the bridge to wage war on Lanka."
+    },
+    {
+      "id": "rama-setu-q11",
+      "difficulty": "medium",
+      "q": "Which vanara is traditionally credited as the chief architect or engineer of Rama Setu?",
+      "options": [
+        "Angada",
+        "Nala",
+        "Jambavan",
+        "Sushena"
+      ],
+      "answer": 1,
+      "explanation": "Nala, son of the divine architect Vishvakarma, directed the construction of the bridge in the Valmiki Ramayana."
+    },
+    {
+      "id": "rama-setu-q12",
+      "difficulty": "medium",
+      "q": "Before building the bridge, Rama performed a penance on the shore to gain passage. Whom was he appealing to?",
+      "options": [
+        "Indra, king of the gods",
+        "Agni, the fire god",
+        "Samudra, the ocean deity (Sagara)",
+        "Vayu, the wind god"
+      ],
+      "answer": 2,
+      "explanation": "Rama undertook a penance to entreat Samudra, the lord of the ocean, to allow his army to cross."
+    },
+    {
+      "id": "rama-setu-q13",
+      "difficulty": "medium",
+      "q": "When the ocean deity initially did not respond, what did Rama threaten to do?",
+      "options": [
+        "Drain the sea with fiery arrows",
+        "Abandon the campaign entirely",
+        "Walk across the water by yogic power",
+        "Sail across in built ships"
+      ],
+      "answer": 0,
+      "explanation": "Angered by the ocean's silence, Rama took up his bow and threatened to dry up the sea with his blazing weapons until Samudra appeared."
+    },
+    {
+      "id": "rama-setu-q14",
+      "difficulty": "medium",
+      "q": "According to the Ramayana, how many days did the vanaras take to complete the bridge?",
+      "options": [
+        "One day",
+        "Twelve days",
+        "Thirty days",
+        "Five days"
+      ],
+      "answer": 3,
+      "explanation": "Valmiki's Ramayana states the vanaras completed the great bridge across the sea in five days."
+    },
+    {
+      "id": "rama-setu-q15",
+      "difficulty": "medium",
+      "q": "From which coastal region did the bridge to Lanka traditionally begin?",
+      "options": [
+        "Mount Mahendra",
+        "The shore near Rameswaram",
+        "The banks of the Sarayu",
+        "The slopes of Kishkindha"
+      ],
+      "answer": 1,
+      "explanation": "Tradition places the bridge's starting point at the southern coast near Rameswaram, leading toward Lanka."
+    },
+    {
+      "id": "rama-setu-q16",
+      "difficulty": "medium",
+      "q": "What detail is often said about how the stones used in the bridge behaved in the water?",
+      "options": [
+        "They glowed in the dark",
+        "They floated on the sea",
+        "They turned into coral",
+        "They dissolved slowly"
+      ],
+      "answer": 1,
+      "explanation": "In popular tradition the stones floated on the water, an aspect linked in later lore to Rama's name being inscribed on them."
+    },
+    {
+      "id": "rama-setu-q17",
+      "difficulty": "medium",
+      "q": "Which two brothers from Ravana's lineage joined Rama before the crossing, one of them having defected?",
+      "options": [
+        "Vibhishana defected to Rama, while Ravana and Kumbhakarna opposed him",
+        "Kumbhakarna defected to Rama against Ravana",
+        "Indrajit defected to Rama against Ravana",
+        "Mareecha defected to Rama against Ravana"
+      ],
+      "answer": 0,
+      "explanation": "Vibhishana, Ravana's brother, abandoned Lanka and sought refuge with Rama, while Ravana and Kumbhakarna remained his foes."
+    },
+    {
+      "id": "rama-setu-q18",
+      "difficulty": "medium",
+      "q": "What is another common name by which Rama Setu is known?",
+      "options": [
+        "Setubandha (Adam's Bridge)",
+        "Indra's Bridge",
+        "Garuda Setu",
+        "Naga Setu"
+      ],
+      "answer": 0,
+      "explanation": "The causeway is also called Setubandha, and in English geography it is known as Adam's Bridge."
+    },
+    {
+      "id": "rama-setu-q19",
+      "difficulty": "medium",
+      "q": "Which large bear-like vanara leader counseled Rama and aided the war effort against Lanka?",
+      "options": [
+        "Nala",
+        "Jambavan",
+        "Nila",
+        "Tara"
+      ],
+      "answer": 1,
+      "explanation": "Jambavan, the wise leader of the bears, was a key counselor among Rama's forces during the Lanka campaign."
+    },
+    {
+      "id": "rama-setu-q20",
+      "difficulty": "medium",
+      "q": "After the ocean deity appeared, what guidance did he give Rama about crossing?",
+      "options": [
+        "To wait for the tide to recede",
+        "That a bridge could be built and he would bear it upon his waters",
+        "To find a hidden underwater tunnel",
+        "To summon Garuda to fly the army over"
+      ],
+      "answer": 1,
+      "explanation": "Samudra advised that a bridge be constructed, promising his waters would support it so the army could cross."
+    },
+    {
+      "id": "rama-setu-q21",
+      "difficulty": "medium",
+      "q": "Which monkey kingdom supplied the bulk of the army that built and crossed the bridge?",
+      "options": [
+        "Mithila",
+        "Kishkindha",
+        "Lanka",
+        "Ayodhya"
+      ],
+      "answer": 1,
+      "explanation": "The vanara forces came from Kishkindha, the monkey kingdom ruled by Sugriva, Rama's ally."
+    },
+    {
+      "id": "rama-setu-q22",
+      "difficulty": "medium",
+      "q": "What did the vanaras chiefly do to gather and transport materials for the bridge?",
+      "options": [
+        "Uprooted trees, mountains, and hurled great rocks into the sea",
+        "Wove enormous nets from jungle vines",
+        "Melted ore to cast metal beams",
+        "Carved planks from fallen timber"
+      ],
+      "answer": 0,
+      "explanation": "The vanaras tore up trees and mountains and cast huge boulders and rocks into the sea to form the causeway."
+    },
+    {
+      "id": "rama-setu-q23",
+      "difficulty": "hard",
+      "q": "According to Valmiki's Ramayana, what was the stated length of the bridge in yojanas?",
+      "options": [
+        "Ten yojanas",
+        "Fifty yojanas",
+        "One hundred yojanas",
+        "Five yojanas"
+      ],
+      "answer": 2,
+      "explanation": "Valmiki describes the bridge as one hundred yojanas in length and ten yojanas in width across the sea."
+    },
+    {
+      "id": "rama-setu-q24",
+      "difficulty": "hard",
+      "q": "According to Valmiki's Ramayana, what was the stated width of the bridge in yojanas?",
+      "options": [
+        "Ten yojanas",
+        "One yojana",
+        "Twenty-five yojanas",
+        "Fifty yojanas"
+      ],
+      "answer": 0,
+      "explanation": "Valmiki gives the bridge's breadth as ten yojanas, against a length of one hundred yojanas."
+    },
+    {
+      "id": "rama-setu-q25",
+      "difficulty": "hard",
+      "q": "Nala, the bridge's architect, was said to be the son of which divine craftsman?",
+      "options": [
+        "Tvashtar",
+        "Vishvakarma",
+        "Maya the Asura",
+        "Brihaspati"
+      ],
+      "answer": 1,
+      "explanation": "Nala was the son of Vishvakarma, the celestial architect, and inherited his skill in construction."
+    },
+    {
+      "id": "rama-setu-q26",
+      "difficulty": "hard",
+      "q": "In which kanda (book) of Valmiki's Ramayana does the building of the bridge primarily occur?",
+      "options": [
+        "Aranya Kanda",
+        "Kishkindha Kanda",
+        "Sundara Kanda",
+        "Yuddha Kanda"
+      ],
+      "answer": 3,
+      "explanation": "The construction of the bridge and the march to Lanka are narrated in the Yuddha Kanda, the book of war."
+    },
+    {
+      "id": "rama-setu-q27",
+      "difficulty": "hard",
+      "q": "By what name is the ocean deity whom Rama propitiated before the bridge was built most commonly known?",
+      "options": [
+        "Varuna alone",
+        "Sagara (Samudra)",
+        "Ganga",
+        "Yamuna"
+      ],
+      "answer": 1,
+      "explanation": "The personified ocean Rama propitiated is called Sagara or Samudra, the lord of the seas."
+    },
+    {
+      "id": "rama-setu-q28",
+      "difficulty": "hard",
+      "q": "When Samudra appeared, he suggested Rama redirect his already-drawn fiery arrow toward a region troubled by robbers. This act is traditionally linked to the formation of which feature?",
+      "options": [
+        "The Drumakulya desert region in the north",
+        "The Vindhya mountains",
+        "The Thar coast of Lanka",
+        "The river Kaveri"
+      ],
+      "answer": 0,
+      "explanation": "At Samudra's request Rama loosed the arrow toward the Drumakulya region, an episode tied in the epic to that northern desert tract."
+    },
+    {
+      "id": "rama-setu-q29",
+      "difficulty": "hard",
+      "q": "Which two vanaras are named in tradition as supervising the placing of stones, with one often paired alongside Nala as a builder?",
+      "options": [
+        "Nala and Nila",
+        "Angada and Tara",
+        "Sugriva and Vali",
+        "Sushena and Sampati"
+      ],
+      "answer": 0,
+      "explanation": "Nala, the chief architect, is frequently paired with Nila in traditional accounts of overseeing the bridge's construction."
+    },
+    {
+      "id": "rama-setu-q30",
+      "difficulty": "hard",
+      "q": "What did Rama do at the seashore that is commemorated by the temple at Rameswaram, associated with the bridge's starting point?",
+      "options": [
+        "He installed and worshipped a lingam of Shiva",
+        "He performed the horse sacrifice",
+        "He crowned Sugriva king",
+        "He cremated Jatayu"
+      ],
+      "answer": 0,
+      "explanation": "Tradition holds that Rama worshipped a Shiva lingam at Rameswaram near the bridge's starting point, commemorated by the temple there."
+    }
+  ]
+}

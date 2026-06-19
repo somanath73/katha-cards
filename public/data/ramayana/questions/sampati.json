@@ -1,0 +1,245 @@
+{
+  "cardId": "sampati",
+  "questions": [
+    {
+      "id": "sampati-q01",
+      "difficulty": "easy",
+      "q": "What kind of creature is Sampati in the Ramayana?",
+      "options": ["A vulture", "A monkey", "A bear", "A serpent"],
+      "answer": 0,
+      "explanation": "Sampati is a great vulture and the elder brother of Jatayu."
+    },
+    {
+      "id": "sampati-q02",
+      "difficulty": "easy",
+      "q": "Sampati is the brother of which famous bird of the Ramayana?",
+      "options": ["Jatayu", "Garuda", "Kakasura", "Sumukha"],
+      "answer": 0,
+      "explanation": "Sampati is the elder brother of Jatayu, the vulture who fought Ravana."
+    },
+    {
+      "id": "sampati-q03",
+      "difficulty": "easy",
+      "q": "What physical condition makes Sampati unable to fly?",
+      "options": ["He is blind", "He has broken legs", "He has lost his wings", "He is too old to move"],
+      "answer": 2,
+      "explanation": "Sampati is wingless, having had his wings burned away, so he cannot fly."
+    },
+    {
+      "id": "sampati-q04",
+      "difficulty": "easy",
+      "q": "What crucial piece of information does Sampati give the searchers?",
+      "options": ["The way back to Ayodhya", "The name of Ravana's son", "The location where Sita is held captive", "The secret of Ravana's death"],
+      "answer": 2,
+      "explanation": "Sampati tells the searching vanaras that Sita is held captive in Lanka across the sea."
+    },
+    {
+      "id": "sampati-q05",
+      "difficulty": "easy",
+      "q": "Across what does Sampati say Sita is held captive?",
+      "options": ["A great forest", "A high mountain", "The sea", "A wide river"],
+      "answer": 2,
+      "explanation": "Sampati reveals that Sita is held in Lanka across the ocean."
+    },
+    {
+      "id": "sampati-q06",
+      "difficulty": "easy",
+      "q": "In which island kingdom does Sampati say Sita is being kept?",
+      "options": ["Kishkindha", "Lanka", "Mithila", "Janasthana"],
+      "answer": 1,
+      "explanation": "Sampati identifies Lanka, Ravana's island kingdom, as the place where Sita is held."
+    },
+    {
+      "id": "sampati-q07",
+      "difficulty": "easy",
+      "q": "Who are the searchers that Sampati helps with his information?",
+      "options": ["The rakshasas", "The vanaras (monkeys)", "The sages of the forest", "The soldiers of Ayodhya"],
+      "answer": 1,
+      "explanation": "Sampati gives his information to the band of vanaras searching for Sita."
+    },
+    {
+      "id": "sampati-q08",
+      "difficulty": "easy",
+      "q": "Hearing about whose death deeply affects Sampati when the vanaras speak?",
+      "options": ["Dasharatha's", "Jatayu's", "Vali's", "Ravana's"],
+      "answer": 1,
+      "explanation": "Sampati is moved to learn of the death of his brother Jatayu from the vanaras."
+    },
+    {
+      "id": "sampati-q09",
+      "difficulty": "easy",
+      "q": "Sampati's revelation chiefly helps which hero leap across the sea?",
+      "options": ["Rama", "Lakshmana", "Hanuman", "Sugriva"],
+      "answer": 2,
+      "explanation": "His revelation that Sita is in Lanka leads to Hanuman's great leap across the ocean."
+    },
+    {
+      "id": "sampati-q10",
+      "difficulty": "easy",
+      "q": "What renowned quality of vision is associated with vultures like Sampati?",
+      "options": ["Night blindness", "Color blindness", "Poor eyesight", "Far sight"],
+      "answer": 3,
+      "explanation": "Sampati possesses extraordinarily keen, far-reaching sight, able to see Sita far away in Lanka."
+    },
+    {
+      "id": "sampati-q11",
+      "difficulty": "medium",
+      "q": "How, according to tradition, did Sampati lose his wings?",
+      "options": ["A storm tore them off", "They were burned shielding Jatayu near the sun", "Ravana cut them in battle", "He was cursed by a sage to lose them"],
+      "answer": 1,
+      "explanation": "Sampati's wings were scorched away when he shielded the younger Jatayu from the sun's heat while flying high."
+    },
+    {
+      "id": "sampati-q12",
+      "difficulty": "medium",
+      "q": "When Sampati first sees the starving vanaras, what does he initially intend toward them?",
+      "options": ["To carry them to Lanka", "To heal their wounds", "To lead them to Rama", "To eat them as prey"],
+      "answer": 3,
+      "explanation": "The wingless Sampati at first regards the despairing vanaras as food sent to him."
+    },
+    {
+      "id": "sampati-q13",
+      "difficulty": "medium",
+      "q": "On which mountain do the searching vanaras encounter Sampati?",
+      "options": ["Mount Mahendra", "Mount Vindhya", "Mount Rishyamukha", "Mount Malaya"],
+      "answer": 1,
+      "explanation": "The vanaras, despairing of their search, meet Sampati on the slopes of the Vindhya mountain."
+    },
+    {
+      "id": "sampati-q14",
+      "difficulty": "medium",
+      "q": "What were Sampati and Jatayu attempting to do when Sampati's wings were burned?",
+      "options": ["Race toward the sun", "Hunt a great serpent", "Escape a forest fire", "Cross the ocean to Lanka"],
+      "answer": 0,
+      "explanation": "As young birds, Sampati and Jatayu competed to fly up toward the sun, where the heat scorched Sampati's wings."
+    },
+    {
+      "id": "sampati-q15",
+      "difficulty": "medium",
+      "q": "Who was the vanara leader of the southern search party that met Sampati?",
+      "options": ["Nala", "Nila", "Angada", "Tara"],
+      "answer": 2,
+      "explanation": "Angada, son of Vali, led the southern search party that encountered Sampati."
+    },
+    {
+      "id": "sampati-q16",
+      "difficulty": "medium",
+      "q": "Whose name, spoken by the grieving vanaras, first makes Sampati pay close attention?",
+      "options": ["Sugriva's", "Jatayu's", "Dasharatha's", "Hanuman's"],
+      "answer": 1,
+      "explanation": "When the vanaras lament and mention Jatayu, Sampati is stirred to learn of his brother."
+    },
+    {
+      "id": "sampati-q17",
+      "difficulty": "medium",
+      "q": "What does Sampati ask the vanaras to do for him in return for his help?",
+      "options": ["To bring him food daily", "To make him their king", "To take him across the sea", "To help with the last rites for Jatayu"],
+      "answer": 3,
+      "explanation": "On learning of Jatayu's death, Sampati asks the vanaras to help him perform funeral rites for his fallen brother."
+    },
+    {
+      "id": "sampati-q18",
+      "difficulty": "medium",
+      "q": "Roughly how far across the sea does Sampati say Lanka lies?",
+      "options": ["Ten yojanas", "A hundred yojanas", "A thousand yojanas", "Only one yojana"],
+      "answer": 1,
+      "explanation": "Sampati declares that Sita and Ravana lie a hundred yojanas across the ocean in Lanka."
+    },
+    {
+      "id": "sampati-q19",
+      "difficulty": "medium",
+      "q": "Whom does Sampati say he saw carrying Sita away through the sky?",
+      "options": ["Maricha", "Kumbhakarna", "Ravana", "Indrajit"],
+      "answer": 2,
+      "explanation": "With his keen sight Sampati had seen Ravana carrying the weeping Sita through the air toward Lanka."
+    },
+    {
+      "id": "sampati-q20",
+      "difficulty": "medium",
+      "q": "How did the vanaras initially feel before Sampati gave them hope?",
+      "options": ["Triumphant and proud", "Despairing and ready to fast to death", "Eager to attack Lanka", "Confused about Rama's orders"],
+      "answer": 1,
+      "explanation": "Having failed in their search and fearing Sugriva's wrath, the vanaras sat in despair, resolved to fast to death, when Sampati appeared."
+    },
+    {
+      "id": "sampati-q21",
+      "difficulty": "medium",
+      "q": "Sampati's father is named in tradition as which figure?",
+      "options": ["Garuda", "Vinata", "Kashyapa", "Aruna"],
+      "answer": 3,
+      "explanation": "Sampati and Jatayu are described as sons of Aruna, the charioteer of the sun."
+    },
+    {
+      "id": "sampati-q22",
+      "difficulty": "medium",
+      "q": "What does Sampati say will happen because he has heard Rama's name and helped the search?",
+      "options": ["He will become immortal", "His burned wings will grow back", "He will be reborn as a vanara", "He will rule over the birds"],
+      "answer": 1,
+      "explanation": "Tradition relates that after aiding Rama's cause, Sampati's wings miraculously grow back."
+    },
+    {
+      "id": "sampati-q23",
+      "difficulty": "hard",
+      "q": "According to the Ramayana, which sage's hermitage was near where Sampati lived, having foretold his role?",
+      "options": ["Vishvamitra", "Nishakara", "Vasishtha", "Bharadwaja"],
+      "answer": 1,
+      "explanation": "The sage Nishakara consoled the fallen Sampati and foretold that he would one day aid Rama's messengers."
+    },
+    {
+      "id": "sampati-q24",
+      "difficulty": "hard",
+      "q": "What had the sage Nishakara promised would restore Sampati's wings?",
+      "options": ["Bathing in a sacred river", "Eating a divine fruit", "Aiding the searchers of Sita", "Reciting a secret mantra"],
+      "answer": 2,
+      "explanation": "Nishakara told Sampati that helping those who sought Sita would cause his lost wings to regrow."
+    },
+    {
+      "id": "sampati-q25",
+      "difficulty": "hard",
+      "q": "Who is Sampati's son, mentioned as relaying news of Ravana to him?",
+      "options": ["Sumukha", "Suketu", "Suparshva", "Sushena"],
+      "answer": 2,
+      "explanation": "Sampati's son Suparshva brought him food and reported the sight of Ravana carrying Sita toward Lanka."
+    },
+    {
+      "id": "sampati-q26",
+      "difficulty": "hard",
+      "q": "In the Ramayana, after losing his wings where did Sampati fall to earth?",
+      "options": ["The banks of the Ganga", "The slopes of Mount Meru", "The shores of Lanka", "The Vindhya mountains"],
+      "answer": 3,
+      "explanation": "His wings burned, Sampati fell upon the Vindhya range, where he remained for ages until the vanaras found him."
+    },
+    {
+      "id": "sampati-q27",
+      "difficulty": "hard",
+      "q": "Why did Sampati's son Suparshva delay bringing him food on the day he saw Ravana?",
+      "options": ["He had been wounded by hunters", "He had stopped to watch Ravana carry Sita past", "He had quarreled with another bird", "He had flown to Lanka by mistake"],
+      "answer": 1,
+      "explanation": "Suparshva returned late because he had paused, blocked from his prey, while watching Ravana fly past carrying Sita."
+    },
+    {
+      "id": "sampati-q28",
+      "difficulty": "hard",
+      "q": "What relationship do Sampati and Jatayu bear to the great eagle Garuda in tradition?",
+      "options": ["They are Garuda's own sons", "They are enemies of Garuda", "They are Garuda's mounts", "They are of Garuda's kindred lineage of birds"],
+      "answer": 3,
+      "explanation": "As sons of Aruna, brother of Garuda's father Vinata's line, Sampati and Jatayu belong to the same noble lineage of great birds."
+    },
+    {
+      "id": "sampati-q29",
+      "difficulty": "hard",
+      "q": "What does Sampati declare about his eyesight that lets him locate Sita so precisely?",
+      "options": ["A vulture can see prey from a hundred yojanas", "He can see only what is near", "His sight returns only at night", "He needs the sun to see"],
+      "answer": 0,
+      "explanation": "Sampati explains that vultures possess sight reaching a hundred yojanas, enabling him to see Sita far away in Lanka."
+    },
+    {
+      "id": "sampati-q30",
+      "difficulty": "hard",
+      "q": "After the vanaras heard Sampati, which of them was finally chosen to leap across the sea to Lanka?",
+      "options": ["Angada", "Jambavan", "Nala", "Hanuman"],
+      "answer": 3,
+      "explanation": "Encouraged by Sampati's news, the vanaras chose Hanuman, whose strength was roused by Jambavan, to leap the ocean to Lanka."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "pushpaka-vimana",
+  "questions": [
+    {
+      "id": "pushpaka-vimana-q01",
+      "difficulty": "easy",
+      "q": "What kind of object is the Pushpaka Vimana in the Ramayana?",
+      "options": ["A flying chariot", "A magic bow", "A golden crown", "A sacred drum"],
+      "answer": 0,
+      "explanation": "The Pushpaka Vimana is a self-moving aerial chariot that travels through the sky."
+    },
+    {
+      "id": "pushpaka-vimana-q02",
+      "difficulty": "easy",
+      "q": "Which demon-king seized the Pushpaka Vimana before the events of the war?",
+      "options": ["Kumbhakarna", "Ravana", "Maricha", "Vibhishana"],
+      "answer": 1,
+      "explanation": "Ravana took the Pushpaka Vimana by force and used it as his own."
+    },
+    {
+      "id": "pushpaka-vimana-q03",
+      "difficulty": "easy",
+      "q": "After Ravana's defeat, the Pushpaka Vimana carried Rama and his companions home to which city?",
+      "options": ["Mithila", "Lanka", "Ayodhya", "Kishkindha"],
+      "answer": 2,
+      "explanation": "The Pushpaka Vimana bore Rama, Sita, and their companions back to Ayodhya."
+    },
+    {
+      "id": "pushpaka-vimana-q04",
+      "difficulty": "easy",
+      "q": "Through what medium does the Pushpaka Vimana travel?",
+      "options": ["The sky", "The ocean depths", "Underground tunnels", "Rivers"],
+      "answer": 0,
+      "explanation": "The Pushpaka Vimana is an aerial vehicle that moves through the air."
+    },
+    {
+      "id": "pushpaka-vimana-q05",
+      "difficulty": "easy",
+      "q": "Which princess of Videha returned to Ayodhya aboard the Pushpaka Vimana with Rama?",
+      "options": ["Mandodari", "Sita", "Tara", "Kaikeyi"],
+      "answer": 1,
+      "explanation": "Sita, rescued from Lanka, flew home with Rama aboard the Pushpaka Vimana."
+    },
+    {
+      "id": "pushpaka-vimana-q06",
+      "difficulty": "easy",
+      "q": "A notable trait of the Pushpaka Vimana is that it is described as self-moving, meaning it can do what?",
+      "options": ["Turn invisible at will", "Move on its own", "Speak human language", "Grant wishes"],
+      "answer": 1,
+      "explanation": "The Pushpaka Vimana is famed as a self-moving aerial chariot that obeys its master's wish."
+    },
+    {
+      "id": "pushpaka-vimana-q07",
+      "difficulty": "easy",
+      "q": "In which kingdom was the Pushpaka Vimana based while Ravana possessed it?",
+      "options": ["Lanka", "Ayodhya", "Kishkindha", "Mithila"],
+      "answer": 0,
+      "explanation": "Ravana kept the Pushpaka Vimana in his island kingdom of Lanka."
+    },
+    {
+      "id": "pushpaka-vimana-q08",
+      "difficulty": "easy",
+      "q": "The Pushpaka Vimana is best classified as which of the following?",
+      "options": ["A divine weapon", "A wondrous vehicle", "A holy text", "A musical instrument"],
+      "answer": 1,
+      "explanation": "The Pushpaka Vimana is a wondrous celestial vehicle rather than a weapon."
+    },
+    {
+      "id": "pushpaka-vimana-q09",
+      "difficulty": "easy",
+      "q": "The Sanskrit word 'vimana' in 'Pushpaka Vimana' most nearly refers to what?",
+      "options": ["A flying vehicle", "A fortress wall", "A war banner", "A royal seal"],
+      "answer": 0,
+      "explanation": "'Vimana' denotes a celestial chariot or flying vehicle in Sanskrit tradition."
+    },
+    {
+      "id": "pushpaka-vimana-q10",
+      "difficulty": "easy",
+      "q": "Whose return journey to Ayodhya after the war was made aboard the Pushpaka Vimana?",
+      "options": ["Bharata's", "Rama's", "Dasharatha's", "Janaka's"],
+      "answer": 1,
+      "explanation": "Rama, victorious over Ravana, traveled home to Ayodhya in the Pushpaka Vimana."
+    },
+    {
+      "id": "pushpaka-vimana-q11",
+      "difficulty": "medium",
+      "q": "Who originally created the Pushpaka Vimana, according to tradition?",
+      "options": ["Indra", "Vishvakarma, for Brahma", "Agni", "Varuna"],
+      "answer": 1,
+      "explanation": "Tradition holds that the divine architect Vishvakarma fashioned the Pushpaka for Brahma."
+    },
+    {
+      "id": "pushpaka-vimana-q12",
+      "difficulty": "medium",
+      "q": "From whom did Ravana take the Pushpaka Vimana by force?",
+      "options": ["His brother Kubera", "His brother Vibhishana", "His son Indrajit", "His grandfather Sumali"],
+      "answer": 0,
+      "explanation": "Ravana seized the Pushpaka from his half-brother Kubera, the lord of wealth."
+    },
+    {
+      "id": "pushpaka-vimana-q13",
+      "difficulty": "medium",
+      "q": "After Ravana's death, to whom did Rama give the Pushpaka Vimana as the rightful owner?",
+      "options": ["Vibhishana", "Sugriva", "Hanuman", "Lakshmana"],
+      "answer": 0,
+      "explanation": "Rama installed Vibhishana as king of Lanka and the Pushpaka was placed at his command before the journey home."
+    },
+    {
+      "id": "pushpaka-vimana-q14",
+      "difficulty": "medium",
+      "q": "Which god originally received the Pushpaka Vimana from Brahma before it passed to Kubera?",
+      "options": ["Brahma granted it to Kubera", "Shiva granted it to Yama", "Indra granted it to Surya", "Vishnu granted it to Agni"],
+      "answer": 0,
+      "explanation": "Brahma bestowed the Pushpaka on Kubera, the god of riches, from whom Ravana later took it."
+    },
+    {
+      "id": "pushpaka-vimana-q15",
+      "difficulty": "medium",
+      "q": "A remarkable feature of the Pushpaka described in the epic is that it could do what according to the needs of its rider?",
+      "options": ["Expand or change size as required", "Become liquid", "Split into many chariots permanently", "Turn into a living animal"],
+      "answer": 0,
+      "explanation": "The Pushpaka was said to expand to accommodate however many passengers boarded it, never becoming crowded."
+    },
+    {
+      "id": "pushpaka-vimana-q16",
+      "difficulty": "medium",
+      "q": "Which loyal devotee of Rama also boarded the Pushpaka Vimana for the journey from Lanka to Ayodhya?",
+      "options": ["Hanuman", "Jatayu", "Maricha", "Sampati"],
+      "answer": 0,
+      "explanation": "Hanuman, along with other vanara and rakshasa allies, accompanied Rama aboard the Pushpaka."
+    },
+    {
+      "id": "pushpaka-vimana-q17",
+      "difficulty": "medium",
+      "q": "On the homeward flight, Rama pointed out to Sita the sites of which past event below?",
+      "options": ["The battlefield where Ravana fell", "The forge where the bow of Shiva was made", "The river where Ganga descended", "The mountain where Hanuman was born"],
+      "answer": 0,
+      "explanation": "From the Pushpaka, Rama showed Sita the battlefield of Lanka and other places they had passed during their ordeal."
+    },
+    {
+      "id": "pushpaka-vimana-q18",
+      "difficulty": "medium",
+      "q": "Why was the return to Ayodhya aboard the Pushpaka especially timely for Rama?",
+      "options": ["To arrive before his fourteen-year exile ended", "To escape a pursuing army", "To outrun a flood", "To deliver a message before dawn"],
+      "answer": 0,
+      "explanation": "Rama needed to reach Ayodhya as his fourteen-year exile concluded, and the swift Pushpaka made this possible."
+    },
+    {
+      "id": "pushpaka-vimana-q19",
+      "difficulty": "medium",
+      "q": "On the way to Ayodhya, the Pushpaka stopped at the hermitage of which sage so Rama could pay respects?",
+      "options": ["Bharadvaja", "Vishvamitra", "Vasishtha", "Agastya"],
+      "answer": 0,
+      "explanation": "Rama halted at the ashram of the sage Bharadvaja near Prayaga during the return journey."
+    },
+    {
+      "id": "pushpaka-vimana-q20",
+      "difficulty": "medium",
+      "q": "Whom did Rama send ahead from Bharadvaja's hermitage to announce his coming to Ayodhya?",
+      "options": ["Hanuman", "Sugriva", "Vibhishana", "Angada"],
+      "answer": 0,
+      "explanation": "Rama dispatched Hanuman ahead to inform Bharata of his imminent return."
+    },
+    {
+      "id": "pushpaka-vimana-q21",
+      "difficulty": "medium",
+      "q": "The 'Pushpaka' name is connected to which of the following images?",
+      "options": ["Flowers", "Lightning", "Serpents", "Eagles"],
+      "answer": 0,
+      "explanation": "The name 'Pushpaka' is associated with flowers ('pushpa'), and the chariot is described as flower-adorned."
+    },
+    {
+      "id": "pushpaka-vimana-q22",
+      "difficulty": "medium",
+      "q": "Which brother greeted Rama and had waited as regent during the exile, after the Pushpaka brought Rama home?",
+      "options": ["Bharata", "Lakshmana", "Shatrughna", "Vibhishana"],
+      "answer": 0,
+      "explanation": "Bharata, who had ruled as Rama's regent placing his sandals on the throne, welcomed him home."
+    },
+    {
+      "id": "pushpaka-vimana-q23",
+      "difficulty": "hard",
+      "q": "In which kanda (book) of Valmiki's Ramayana does the return flight aboard the Pushpaka Vimana primarily take place?",
+      "options": ["Yuddha Kanda", "Bala Kanda", "Aranya Kanda", "Kishkindha Kanda"],
+      "answer": 0,
+      "explanation": "The homeward journey in the Pushpaka is narrated in the Yuddha Kanda, after Ravana's defeat."
+    },
+    {
+      "id": "pushpaka-vimana-q24",
+      "difficulty": "hard",
+      "q": "According to tradition, after returning to Ayodhya, what did Rama eventually do with the Pushpaka Vimana?",
+      "options": ["Returned it so it went back to Kubera", "Burned it in a great fire", "Sank it in the ocean", "Kept it locked away forever"],
+      "answer": 0,
+      "explanation": "Rama returned the borrowed Pushpaka, and it went back to its rightful owner Kubera."
+    },
+    {
+      "id": "pushpaka-vimana-q25",
+      "difficulty": "hard",
+      "q": "Kubera, the original divine owner of the Pushpaka, is also known by which title?",
+      "options": ["Lord of wealth and the yakshas", "Lord of the dead", "Lord of the oceans", "Lord of fire"],
+      "answer": 0,
+      "explanation": "Kubera is the god of wealth and king of the yakshas, half-brother to Ravana."
+    },
+    {
+      "id": "pushpaka-vimana-q26",
+      "difficulty": "hard",
+      "q": "The Pushpaka was famed for obeying which command of its rider?",
+      "options": ["Going wherever the rider wished by thought", "Only flying due north", "Moving only at sunrise", "Requiring chants to start"],
+      "answer": 0,
+      "explanation": "The Pushpaka was a wish-directed chariot that traveled wherever its master desired."
+    },
+    {
+      "id": "pushpaka-vimana-q27",
+      "difficulty": "hard",
+      "q": "Which mother of Ravana's lineage connects him by blood to Kubera, the Pushpaka's owner?",
+      "options": ["They shared the father, the sage Vishrava", "They shared the mother Kaikasi", "They were unrelated entirely", "They were twin brothers"],
+      "answer": 0,
+      "explanation": "Ravana and Kubera were half-brothers, both sons of the sage Vishrava by different mothers."
+    },
+    {
+      "id": "pushpaka-vimana-q28",
+      "difficulty": "hard",
+      "q": "During the Lanka war, where had the Pushpaka Vimana been kept by Ravana?",
+      "options": ["Within his palace in Lanka", "On a hidden island", "In a cave on Mount Trikuta's base", "Aboard a fleet at sea"],
+      "answer": 0,
+      "explanation": "Ravana kept the Pushpaka within his magnificent palace in the citadel of Lanka."
+    },
+    {
+      "id": "pushpaka-vimana-q29",
+      "difficulty": "hard",
+      "q": "The Pushpaka is repeatedly praised in the epic for its appearance as what?",
+      "options": ["A radiant, jewel-adorned celestial palace in flight", "A plain wooden cart", "A simple iron platform", "A reed boat with sails"],
+      "answer": 0,
+      "explanation": "Valmiki describes the Pushpaka as a dazzling, gem-encrusted aerial palace, brilliant as the sun."
+    },
+    {
+      "id": "pushpaka-vimana-q30",
+      "difficulty": "hard",
+      "q": "What does the Pushpaka Vimana most enduringly symbolize in the Ramayana's narrative of Rama's return?",
+      "options": ["The triumphant homecoming after exile and victory", "The start of the forest exile", "Ravana's abduction of Sita", "The breaking of Shiva's bow"],
+      "answer": 0,
+      "explanation": "The Pushpaka's flight to Ayodhya embodies the joyous, triumphant homecoming that culminates in Rama's coronation."
+    }
+  ]
+}

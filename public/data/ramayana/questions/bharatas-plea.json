@@ -1,0 +1,245 @@
+{
+  "cardId": "bharatas-plea",
+  "questions": [
+    {
+      "id": "bharatas-plea-q01",
+      "difficulty": "easy",
+      "q": "Who journeyed to plead with Rama to take back the throne of Ayodhya?",
+      "options": ["Bharata", "Lakshmana", "Shatrughna", "Sugriva"],
+      "answer": 0,
+      "explanation": "Bharata, Rama's younger brother, traveled to the forest to beg Rama to return and rule."
+    },
+    {
+      "id": "bharatas-plea-q02",
+      "difficulty": "easy",
+      "q": "To which forest hermitage did Bharata travel to meet Rama?",
+      "options": ["Panchavati", "Chitrakoot", "Dandaka", "Kishkindha"],
+      "answer": 1,
+      "explanation": "Rama was living at Chitrakoot during his early exile when Bharata came to find him."
+    },
+    {
+      "id": "bharatas-plea-q03",
+      "difficulty": "easy",
+      "q": "What did Bharata want Rama to do?",
+      "options": ["Stay in exile longer", "Take back the crown and rule Ayodhya", "Fight Ravana", "Renounce the kingdom forever"],
+      "answer": 1,
+      "explanation": "Bharata begged Rama to return to Ayodhya and accept the kingship that was rightfully his."
+    },
+    {
+      "id": "bharatas-plea-q04",
+      "difficulty": "easy",
+      "q": "Did Rama agree to return to Ayodhya at Bharata's request?",
+      "options": ["Yes, immediately", "No, he refused", "Only after a year", "He left the decision to Sita"],
+      "answer": 1,
+      "explanation": "Rama refused, insisting on honoring his father's promise and completing his exile."
+    },
+    {
+      "id": "bharatas-plea-q05",
+      "difficulty": "easy",
+      "q": "What did Bharata carry home in place of Rama himself?",
+      "options": ["Rama's bow", "Rama's crown", "Rama's wooden sandals", "Rama's robe"],
+      "answer": 2,
+      "explanation": "Rama gave Bharata his wooden sandals (paduka) to represent him on the throne."
+    },
+    {
+      "id": "bharatas-plea-q06",
+      "difficulty": "easy",
+      "q": "Why did Rama feel bound to remain in exile?",
+      "options": ["To honor his father's word", "To avoid Bharata", "Because Sita demanded it", "To search for Ravana"],
+      "answer": 0,
+      "explanation": "Rama remained in exile out of duty to uphold the promise King Dasharatha had given."
+    },
+    {
+      "id": "bharatas-plea-q07",
+      "difficulty": "easy",
+      "q": "Whose word was Rama upholding by staying in the forest?",
+      "options": ["Kaikeyi's", "Bharata's", "King Dasharatha's", "Vasishtha's"],
+      "answer": 2,
+      "explanation": "Rama honored the vow his father, King Dasharatha, had made to Kaikeyi."
+    },
+    {
+      "id": "bharatas-plea-q08",
+      "difficulty": "easy",
+      "q": "What is the Sanskrit term for the wooden sandals Bharata took back?",
+      "options": ["Paduka", "Chakra", "Gada", "Trishula"],
+      "answer": 0,
+      "explanation": "The wooden sandals are called paduka, which Bharata enshrined as a symbol of Rama's rule."
+    },
+    {
+      "id": "bharatas-plea-q09",
+      "difficulty": "easy",
+      "q": "How long was Rama bound to remain in exile?",
+      "options": ["Five years", "Ten years", "Fourteen years", "Twenty years"],
+      "answer": 2,
+      "explanation": "Rama's exile, as promised, lasted fourteen years, which he refused to cut short."
+    },
+    {
+      "id": "bharatas-plea-q10",
+      "difficulty": "easy",
+      "q": "After receiving the sandals, how did Bharata govern Ayodhya?",
+      "options": ["As the crowned king", "In the name of Rama's sandals", "Jointly with Shatrughna", "He abdicated the kingdom"],
+      "answer": 1,
+      "explanation": "Bharata ruled as a regent, placing Rama's sandals on the throne and acting in their name."
+    },
+    {
+      "id": "bharatas-plea-q11",
+      "difficulty": "medium",
+      "q": "Who was Bharata's mother, whose demand sent Rama into exile?",
+      "options": ["Kausalya", "Sumitra", "Kaikeyi", "Mandodari"],
+      "answer": 2,
+      "explanation": "Kaikeyi, Bharata's mother, demanded Rama's exile and Bharata's coronation."
+    },
+    {
+      "id": "bharatas-plea-q12",
+      "difficulty": "medium",
+      "q": "What grievous event had occurred in Ayodhya before Bharata set out for Chitrakoot?",
+      "options": ["Ravana's attack", "Sita's abduction", "Lakshmana's injury", "King Dasharatha's death"],
+      "answer": 3,
+      "explanation": "King Dasharatha had died of grief over Rama's exile, news Bharata brought to Chitrakoot."
+    },
+    {
+      "id": "bharatas-plea-q13",
+      "difficulty": "medium",
+      "q": "Where was Bharata when Rama was first sent into exile?",
+      "options": ["At his maternal grandfather's house", "In Lanka", "On a pilgrimage to Mithila", "Hunting in Dandaka forest"],
+      "answer": 0,
+      "explanation": "Bharata was away at his maternal uncle's or grandfather's kingdom and had no part in the plot."
+    },
+    {
+      "id": "bharatas-plea-q14",
+      "difficulty": "medium",
+      "q": "How did Bharata react when he learned his mother had schemed for the throne on his behalf?",
+      "options": ["He rejoiced", "He thanked her", "He was filled with horror and grief", "He immediately accepted the crown"],
+      "answer": 2,
+      "explanation": "Bharata was horrified and condemned his mother's actions, refusing to benefit from them."
+    },
+    {
+      "id": "bharatas-plea-q15",
+      "difficulty": "medium",
+      "q": "Which brother accompanied Rama and Sita in exile and was present at Chitrakoot?",
+      "options": ["Bharata", "Shatrughna", "Lakshmana", "Vibhishana"],
+      "answer": 2,
+      "explanation": "Lakshmana faithfully accompanied Rama and Sita throughout the exile, including at Chitrakoot."
+    },
+    {
+      "id": "bharatas-plea-q16",
+      "difficulty": "medium",
+      "q": "When Lakshmana first saw Bharata's army approaching Chitrakoot, what did he initially suspect?",
+      "options": ["That Bharata came to honor Rama", "That it was Ravana's force", "That Bharata came to attack them", "That it was a hunting party"],
+      "answer": 2,
+      "explanation": "Lakshmana grew angry, suspecting Bharata had come with an army to harm Rama, until Rama calmed him."
+    },
+    {
+      "id": "bharatas-plea-q17",
+      "difficulty": "medium",
+      "q": "Who was the family priest and counselor who accompanied Bharata to persuade Rama?",
+      "options": ["Vishwamitra", "Agastya", "Bharadwaja", "Vasishtha"],
+      "answer": 3,
+      "explanation": "Sage Vasishtha, the royal preceptor, joined Bharata's party urging Rama to return."
+    },
+    {
+      "id": "bharatas-plea-q18",
+      "difficulty": "medium",
+      "q": "At whose hermitage did Bharata's large party rest on the way to Chitrakoot?",
+      "options": ["Sage Bharadwaja's", "Sage Atri's", "Sage Valmiki's", "Sage Gautama's"],
+      "answer": 0,
+      "explanation": "Bharata's company was hosted at the ashram of Sage Bharadwaja near Prayaga on the journey."
+    },
+    {
+      "id": "bharatas-plea-q19",
+      "difficulty": "medium",
+      "q": "What did Bharata vow to do for the fourteen years until Rama's return?",
+      "options": ["Live as an ascetic outside the capital", "Rule from the palace as king", "Wage war on Kaikeyi's kin", "Travel the world in search of Rama"],
+      "answer": 0,
+      "explanation": "Bharata vowed to live austerely at Nandigrama, ruling only as Rama's deputy until his return."
+    },
+    {
+      "id": "bharatas-plea-q20",
+      "difficulty": "medium",
+      "q": "From which place outside Ayodhya did Bharata administer the kingdom in Rama's name?",
+      "options": ["Mithila", "Kishkindha", "Panchavati", "Nandigrama"],
+      "answer": 3,
+      "explanation": "Bharata settled at Nandigrama, just outside Ayodhya, and governed in the name of the sandals."
+    },
+    {
+      "id": "bharatas-plea-q21",
+      "difficulty": "medium",
+      "q": "What lifestyle did Bharata adopt while waiting for Rama, in solidarity with his exiled brother?",
+      "options": ["A life of luxury", "An ascetic life of matted hair and bark garments", "A life of constant warfare", "A life of seclusion in a cave"],
+      "answer": 1,
+      "explanation": "Bharata wore bark and matted hair like an ascetic, refusing royal comforts during Rama's exile."
+    },
+    {
+      "id": "bharatas-plea-q22",
+      "difficulty": "medium",
+      "q": "What was the central reason Rama gave for why returning would be wrong?",
+      "options": ["He feared Bharata", "He disliked Ayodhya", "He wanted Bharata to be king permanently", "It would break his father's promise and dharma"],
+      "answer": 3,
+      "explanation": "Rama held that abandoning the exile would violate dharma and dishonor his father's solemn word."
+    },
+    {
+      "id": "bharatas-plea-q23",
+      "difficulty": "hard",
+      "q": "In Valmiki's Ramayana, which book (Kanda) contains Bharata's plea at Chitrakoot?",
+      "options": ["Bala Kanda", "Ayodhya Kanda", "Aranya Kanda", "Sundara Kanda"],
+      "answer": 1,
+      "explanation": "The episode falls within the Ayodhya Kanda, which covers Rama's exile from the capital."
+    },
+    {
+      "id": "bharatas-plea-q24",
+      "difficulty": "hard",
+      "q": "Which brother was Bharata's devoted, inseparable companion who went with him to Chitrakoot?",
+      "options": ["Lakshmana", "Rama", "Sumantra", "Shatrughna"],
+      "answer": 3,
+      "explanation": "Shatrughna was Bharata's constant companion and accompanied him on the journey to plead with Rama."
+    },
+    {
+      "id": "bharatas-plea-q25",
+      "difficulty": "hard",
+      "q": "Which chieftain of the Nishadas warmly received Bharata's army on the banks of the Ganga?",
+      "options": ["Guha", "Jatayu", "Jambavan", "Hanuman"],
+      "answer": 0,
+      "explanation": "Guha, the Nishada king and Rama's friend, hosted Bharata and observed his sincerity."
+    },
+    {
+      "id": "bharatas-plea-q26",
+      "difficulty": "hard",
+      "q": "What did Rama place his foot upon to consecrate the sandals before giving them to Bharata?",
+      "options": ["A sacred fire", "The sandals themselves", "A bed of kusha grass", "The river Mandakini"],
+      "answer": 1,
+      "explanation": "Rama stepped into the wooden sandals to sanctify them, then handed them to Bharata as his representatives."
+    },
+    {
+      "id": "bharatas-plea-q27",
+      "difficulty": "hard",
+      "q": "Which river flowed near Rama's hermitage at Chitrakoot?",
+      "options": ["Sarayu", "Mandakini", "Godavari", "Yamuna"],
+      "answer": 1,
+      "explanation": "The Mandakini river flowed by Chitrakoot, where Rama dwelt during his early exile."
+    },
+    {
+      "id": "bharatas-plea-q28",
+      "difficulty": "hard",
+      "q": "How did Bharata honor the sandals once he returned to Ayodhya's domain?",
+      "options": ["He buried them", "He hung them at the city gate", "He carried them in battle", "He placed them on the royal throne under the white umbrella"],
+      "answer": 3,
+      "explanation": "Bharata enthroned the sandals beneath the royal umbrella, offering them all the homage due a king."
+    },
+    {
+      "id": "bharatas-plea-q29",
+      "difficulty": "hard",
+      "q": "Whom did Bharata blame least and even defend, despite the injustice of the exile?",
+      "options": ["His mother Kaikeyi", "Rama", "Lakshmana", "King Dasharatha"],
+      "answer": 1,
+      "explanation": "Bharata defended and revered Rama, directing his condemnation at his mother's scheming rather than his blameless brother."
+    },
+    {
+      "id": "bharatas-plea-q30",
+      "difficulty": "hard",
+      "q": "What did Bharata declare he would do if Rama still refused to return after his plea?",
+      "options": ["Wage war on Ayodhya", "Join Rama in the forest as an exile", "Crown Kaikeyi as queen", "Abandon the royal family"],
+      "answer": 1,
+      "explanation": "Bharata declared he would himself remain in the forest in exile if Rama would not come back, showing his devotion."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "khara",
+  "questions": [
+    {
+      "id": "khara-q01",
+      "difficulty": "easy",
+      "q": "What kind of being is Khara in the Ramayana?",
+      "options": ["A rakshasa (demon)", "A vanara (monkey)", "A deva (god)", "A human sage"],
+      "answer": 0,
+      "explanation": "Khara is a rakshasa, a demon, and a kinsman of Ravana."
+    },
+    {
+      "id": "khara-q02",
+      "difficulty": "easy",
+      "q": "Khara is described as a cousin (relative) of which demon king?",
+      "options": ["Bali", "Ravana", "Hiranyakashipu", "Mahishasura"],
+      "answer": 1,
+      "explanation": "Khara was a rakshasa kinsman of Ravana, the king of Lanka."
+    },
+    {
+      "id": "khara-q03",
+      "difficulty": "easy",
+      "q": "Which region did Khara rule and guard as its demon chief?",
+      "options": ["Kishkindha", "Mithila", "Janasthana", "Ayodhya"],
+      "answer": 2,
+      "explanation": "Khara was the demon ruler of Janasthana in the Dandaka forest, earning him the title 'The Demon of Janasthana'."
+    },
+    {
+      "id": "khara-q04",
+      "difficulty": "easy",
+      "q": "Whom did Khara seek to avenge by attacking Rama?",
+      "options": ["Shurpanakha", "Mandodari", "Tara", "Kaikeyi"],
+      "answer": 0,
+      "explanation": "Khara attacked Rama to avenge his sister Shurpanakha, who had been disfigured."
+    },
+    {
+      "id": "khara-q05",
+      "difficulty": "easy",
+      "q": "How large was the army Khara led against Rama?",
+      "options": ["One thousand rakshasas", "Fourteen thousand rakshasas", "One hundred rakshasas", "One hundred thousand rakshasas"],
+      "answer": 1,
+      "explanation": "Khara led an army of fourteen thousand rakshasas against Rama."
+    },
+    {
+      "id": "khara-q06",
+      "difficulty": "easy",
+      "q": "Who ultimately destroyed Khara and his army?",
+      "options": ["Lakshmana", "Hanuman", "Rama", "Indra"],
+      "answer": 2,
+      "explanation": "Rama destroyed Khara and his entire army single-handedly."
+    },
+    {
+      "id": "khara-q07",
+      "difficulty": "easy",
+      "q": "Shurpanakha, whom Khara sought to avenge, was disfigured by whom?",
+      "options": ["Lakshmana", "Bharata", "Sugriva", "Jatayu"],
+      "answer": 0,
+      "explanation": "Lakshmana cut off Shurpanakha's nose and ears, which led her to seek Khara's aid."
+    },
+    {
+      "id": "khara-q08",
+      "difficulty": "easy",
+      "q": "Khara's confrontation with Rama takes place during which period of Rama's life?",
+      "options": ["His childhood in Ayodhya", "His exile in the forest", "His reign as king of Ayodhya", "His education with Vishvamitra"],
+      "answer": 1,
+      "explanation": "The battle with Khara occurred while Rama was living in exile in the Dandaka forest."
+    },
+    {
+      "id": "khara-q09",
+      "difficulty": "easy",
+      "q": "In which forest region were Khara and his demons based?",
+      "options": ["Naimisha forest", "Dandaka forest", "Khandava forest", "Madhuvana"],
+      "answer": 1,
+      "explanation": "Khara and his rakshasas dwelt in Janasthana within the Dandaka forest."
+    },
+    {
+      "id": "khara-q10",
+      "difficulty": "easy",
+      "q": "What is Khara remembered for in the Ramayana?",
+      "options": ["Being slain alone by Rama with his vast army", "Helping Rama build the bridge to Lanka", "Teaching Rama archery", "Crowning Sugriva king"],
+      "answer": 0,
+      "explanation": "Khara is remembered as the demon who, with fourteen thousand soldiers, was destroyed by Rama alone."
+    },
+    {
+      "id": "khara-q11",
+      "difficulty": "medium",
+      "q": "Which two demons were Khara's chief commanders who fell alongside him?",
+      "options": ["Dushana and Trishira", "Kumbhakarna and Vibhishana", "Maricha and Subahu", "Vali and Sugriva"],
+      "answer": 0,
+      "explanation": "Khara's principal generals Dushana and Trishira were both slain by Rama before Khara himself."
+    },
+    {
+      "id": "khara-q12",
+      "difficulty": "medium",
+      "q": "Before facing Rama's army, Khara first sent a smaller force of how many rakshasas, who were all killed?",
+      "options": ["Fourteen", "Forty", "Four hundred", "Four thousand"],
+      "answer": 0,
+      "explanation": "Khara first dispatched fourteen rakshasas with Shurpanakha, and Rama slew all fourteen before the main battle."
+    },
+    {
+      "id": "khara-q13",
+      "difficulty": "medium",
+      "q": "What did Lakshmana do with Sita while Rama fought Khara's army?",
+      "options": ["Took her to a hidden cave for safety", "Sent her back to Ayodhya", "Left her with Jatayu", "Had her join the battle"],
+      "answer": 0,
+      "explanation": "Rama instructed Lakshmana to take Sita and hide in a mountain cave while he confronted the demon host."
+    },
+    {
+      "id": "khara-q14",
+      "difficulty": "medium",
+      "q": "Which demon, Khara's general, is described as having three heads?",
+      "options": ["Trishira", "Dushana", "Akampana", "Pramatha"],
+      "answer": 0,
+      "explanation": "Trishira, whose name means 'three-headed', was one of Khara's commanders slain by Rama."
+    },
+    {
+      "id": "khara-q15",
+      "difficulty": "medium",
+      "q": "After Lakshmana disfigured Shurpanakha, to whom did she first run before Khara assembled his main army?",
+      "options": ["Directly to Ravana in Lanka", "To Khara at Janasthana", "To Maricha", "To Kumbhakarna"],
+      "answer": 1,
+      "explanation": "Shurpanakha first fled to her brother Khara at Janasthana, who then sent forces against Rama."
+    },
+    {
+      "id": "khara-q16",
+      "difficulty": "medium",
+      "q": "How many rakshasas did Rama slay single-handedly in the Khara episode (the full host)?",
+      "options": ["Fourteen thousand", "Seven thousand", "Twenty-eight thousand", "One thousand"],
+      "answer": 0,
+      "explanation": "Rama destroyed the entire army of fourteen thousand rakshasas by himself."
+    },
+    {
+      "id": "khara-q17",
+      "difficulty": "medium",
+      "q": "Which ominous portents are described as appearing as Khara marched out to battle Rama?",
+      "options": ["Evil omens foretelling the demons' doom", "Showers of golden flowers blessing them", "A rainbow guiding their path", "Singing of celestial maidens"],
+      "answer": 0,
+      "explanation": "Valmiki describes inauspicious omens accompanying Khara's march, foretelling the destruction of the rakshasas."
+    },
+    {
+      "id": "khara-q18",
+      "difficulty": "medium",
+      "q": "In which book (kanda) of the Valmiki Ramayana does the Khara episode occur?",
+      "options": ["Aranya Kanda", "Bala Kanda", "Sundara Kanda", "Yuddha Kanda"],
+      "answer": 0,
+      "explanation": "The slaying of Khara is narrated in the Aranya Kanda, the book of the forest."
+    },
+    {
+      "id": "khara-q19",
+      "difficulty": "medium",
+      "q": "What was the broad outcome of Khara's campaign against Rama?",
+      "options": ["His entire army and he were annihilated", "He captured Sita successfully", "He forced Rama to flee Janasthana", "He made a truce with Rama"],
+      "answer": 0,
+      "explanation": "Khara's whole army was wiped out and Khara himself was killed, leaving the campaign a total failure."
+    },
+    {
+      "id": "khara-q20",
+      "difficulty": "medium",
+      "q": "Who carried the news of Khara's death to Ravana, urging him to act?",
+      "options": ["Akampana (a surviving rakshasa) and Shurpanakha", "Hanuman", "Jatayu", "Vibhishana"],
+      "answer": 0,
+      "explanation": "A surviving demon, Akampana, and Shurpanakha brought word of Khara's defeat to Ravana, fueling his desire for revenge."
+    },
+    {
+      "id": "khara-q21",
+      "difficulty": "medium",
+      "q": "What weapon did Rama primarily use to destroy Khara and his forces?",
+      "options": ["His bow and arrows", "A mace", "A discus (chakra)", "A trident"],
+      "answer": 0,
+      "explanation": "Rama, the great archer, used his bow and a storm of arrows to annihilate Khara's army."
+    },
+    {
+      "id": "khara-q22",
+      "difficulty": "medium",
+      "q": "Khara's defeat is significant because it indirectly led to which major event?",
+      "options": ["Ravana's plot to abduct Sita", "The building of the bridge to Lanka", "The coronation of Bharata", "Hanuman's birth"],
+      "answer": 0,
+      "explanation": "The destruction of Khara so enraged and alarmed Ravana that he resolved to abduct Sita in revenge."
+    },
+    {
+      "id": "khara-q23",
+      "difficulty": "hard",
+      "q": "According to tradition, who were Khara and his brother Dushana said to be reborn as in a later age, tied to Vishnu's vow?",
+      "options": ["The gatekeepers Jaya and Vijaya in one of their demon births", "The Ashvins", "The Maruts", "The seven sages"],
+      "answer": 0,
+      "explanation": "In Vaishnava tradition, the recurring demon foes of Vishnu's avatars (such as Khara-related antagonists) are linked to the cursed gatekeepers Jaya and Vijaya across their births."
+    },
+    {
+      "id": "khara-q24",
+      "difficulty": "hard",
+      "q": "Which charioteer-related detail marks Khara's final duel with Rama?",
+      "options": ["Rama shattered Khara's chariot, bow, and banner before slaying him", "Khara fought entirely on foot without a chariot", "Khara fled in his chariot and escaped", "Rama spared Khara's chariot out of mercy"],
+      "answer": 0,
+      "explanation": "In the duel Rama destroyed Khara's chariot, broke his bow and standard, and then killed him."
+    },
+    {
+      "id": "khara-q25",
+      "difficulty": "hard",
+      "q": "With what final weapon is Rama said to have killed Khara after a fierce single combat?",
+      "options": ["A powerful arrow likened to Indra's thunderbolt (a celestial/aindra astra)", "A net of illusion", "His bare hands", "A poisoned dagger"],
+      "answer": 0,
+      "explanation": "Rama slew Khara with a blazing, irresistible arrow described as resembling the thunderbolt of Indra."
+    },
+    {
+      "id": "khara-q26",
+      "difficulty": "hard",
+      "q": "Roughly how long is the climactic battle in which Rama destroyed Khara's host said to have lasted?",
+      "options": ["A short span of about an hour and a half (a fraction of a day)", "Several days", "A full month", "A single instant with no fight"],
+      "answer": 0,
+      "explanation": "Valmiki indicates Rama destroyed the fourteen thousand rakshasas in a remarkably brief period, on the order of a part of a single day."
+    },
+    {
+      "id": "khara-q27",
+      "difficulty": "hard",
+      "q": "When Dushana charged with a mace, how did Rama deal with him?",
+      "options": ["Severed Dushana's arms and killed him with arrows", "Crushed him under a boulder", "Took him prisoner", "Let Lakshmana finish him"],
+      "answer": 0,
+      "explanation": "Rama cut off Dushana's arms holding the mace and slew him with his arrows."
+    },
+    {
+      "id": "khara-q28",
+      "difficulty": "hard",
+      "q": "Which celestial witnesses are described as gathering to watch Rama fight Khara's army alone?",
+      "options": ["Gods, sages, and other celestial beings in the sky", "Only Indra alone", "The vanaras of Kishkindha", "No witnesses at all"],
+      "answer": 0,
+      "explanation": "Valmiki describes devas, rishis, and celestial beings assembling in the sky to behold Rama's lone stand against the demon host."
+    },
+    {
+      "id": "khara-q29",
+      "difficulty": "hard",
+      "q": "What had the sages of Dandaka forest earlier shown Rama that foreshadowed his conflict with demons like Khara?",
+      "options": ["Heaps of bones of ascetics devoured by rakshasas", "A map to Lanka", "The Brahmastra weapon", "A golden deer"],
+      "answer": 0,
+      "explanation": "The forest sages showed Rama the bones of hermits slain by rakshasas and begged his protection, setting the stage for his war on Khara's demons."
+    },
+    {
+      "id": "khara-q30",
+      "difficulty": "hard",
+      "q": "Why is Rama's victory over Khara especially emphasized as extraordinary in the epic?",
+      "options": ["He alone defeated fourteen thousand demons plus their commanders", "He used an entire vanara army to win", "He defeated them through diplomacy without fighting", "Lakshmana won the battle for him"],
+      "answer": 0,
+      "explanation": "The episode showcases Rama single-handedly annihilating a host of fourteen thousand rakshasas along with Khara, Dushana, and Trishira."
+    }
+  ]
+}

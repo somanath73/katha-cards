@@ -1,0 +1,245 @@
+{
+  "cardId": "sumantra",
+  "questions": [
+    {
+      "id": "sumantra-q01",
+      "difficulty": "easy",
+      "q": "What was Sumantra's role in King Dasharatha's court?",
+      "options": ["Court physician", "Minister and charioteer", "Army general", "High priest"],
+      "answer": 1,
+      "explanation": "Sumantra served Dasharatha as a trusted minister and as his personal charioteer."
+    },
+    {
+      "id": "sumantra-q02",
+      "difficulty": "easy",
+      "q": "Sumantra was the charioteer of which king of Ayodhya?",
+      "options": ["Dasharatha", "Janaka", "Ravana", "Sugriva"],
+      "answer": 0,
+      "explanation": "Sumantra was the faithful charioteer of King Dasharatha of Ayodhya."
+    },
+    {
+      "id": "sumantra-q03",
+      "difficulty": "easy",
+      "q": "In which kingdom did Sumantra serve as a minister?",
+      "options": ["Lanka", "Kishkindha", "Kosala (Ayodhya)", "Mithila"],
+      "answer": 2,
+      "explanation": "Sumantra served the royal court of Kosala, whose capital was Ayodhya."
+    },
+    {
+      "id": "sumantra-q04",
+      "difficulty": "easy",
+      "q": "Whom did Sumantra drive in his chariot to the edge of the forest at the start of the exile?",
+      "options": ["Ravana", "Rama, Sita, and Lakshmana", "Bharata and Shatrughna", "Hanuman"],
+      "answer": 1,
+      "explanation": "Sumantra drove Rama, Sita, and Lakshmana in his chariot toward the forest as they left for exile."
+    },
+    {
+      "id": "sumantra-q05",
+      "difficulty": "easy",
+      "q": "What emotion is most associated with Sumantra when he returned to Ayodhya after leaving Rama?",
+      "options": ["Joy", "Anger", "Heartbreak and grief", "Indifference"],
+      "answer": 2,
+      "explanation": "Sumantra returned to a grieving Ayodhya heartbroken at having to leave Rama in the forest."
+    },
+    {
+      "id": "sumantra-q06",
+      "difficulty": "easy",
+      "q": "Sumantra is best remembered for which quality in his service?",
+      "options": ["Treachery", "Faithfulness and loyalty", "Cowardice", "Greed"],
+      "answer": 1,
+      "explanation": "Sumantra is celebrated as the faithful and devoted servant of the royal house of Ayodhya."
+    },
+    {
+      "id": "sumantra-q07",
+      "difficulty": "easy",
+      "q": "What vehicle did Sumantra use to carry Rama out of Ayodhya?",
+      "options": ["A boat", "An elephant", "A chariot", "A palanquin"],
+      "answer": 2,
+      "explanation": "Sumantra carried Rama, Sita, and Lakshmana out of the city in his royal chariot."
+    },
+    {
+      "id": "sumantra-q08",
+      "difficulty": "easy",
+      "q": "How is Sumantra generally regarded by the people of Ayodhya?",
+      "options": ["As an enemy of the king", "As a trusted and beloved counselor", "As a foreign spy", "As a rival to the throne"],
+      "answer": 1,
+      "explanation": "Sumantra was a trusted and respected minister, dear to both the king and the people."
+    },
+    {
+      "id": "sumantra-q09",
+      "difficulty": "easy",
+      "q": "Whose exile order did Sumantra have to help carry out, however unwillingly?",
+      "options": ["Rama's exile to the forest", "Bharata's exile", "Lakshmana's exile", "Sita's exile in the Uttara Kanda"],
+      "answer": 0,
+      "explanation": "Sumantra reluctantly assisted with Rama's departure into exile by driving his chariot."
+    },
+    {
+      "id": "sumantra-q10",
+      "difficulty": "easy",
+      "q": "After leaving Rama at the forest's edge, where did Sumantra go?",
+      "options": ["He stayed in the forest with Rama", "He went to Lanka", "He returned to Ayodhya", "He traveled to Mithila"],
+      "answer": 2,
+      "explanation": "Sumantra returned alone to Ayodhya, bringing the sorrowful news of Rama's departure."
+    },
+    {
+      "id": "sumantra-q11",
+      "difficulty": "medium",
+      "q": "When Rama set out for exile, why did Sumantra accompany him in the chariot?",
+      "options": ["To spy on Rama for Kaikeyi", "On Dasharatha's order, to drive Rama as far as possible", "To abandon him in the forest", "Because Rama forced him to come"],
+      "answer": 1,
+      "explanation": "Dasharatha sent his trusted charioteer Sumantra to drive Rama, hoping to ease his beloved son's journey."
+    },
+    {
+      "id": "sumantra-q12",
+      "difficulty": "medium",
+      "q": "On the banks of which river did Sumantra finally have to part from Rama?",
+      "options": ["The Yamuna", "The Sarayu", "The Ganga", "The Godavari"],
+      "answer": 2,
+      "explanation": "Sumantra parted from Rama near the Ganga, where Guha the boatman ferried Rama across."
+    },
+    {
+      "id": "sumantra-q13",
+      "difficulty": "medium",
+      "q": "Which Nishada chieftain did Sumantra encounter when Rama reached the Ganga?",
+      "options": ["Guha", "Jatayu", "Sugriva", "Vibhishana"],
+      "answer": 0,
+      "explanation": "At the Ganga, Rama met Guha the Nishada chief, and it was there that Sumantra turned back."
+    },
+    {
+      "id": "sumantra-q14",
+      "difficulty": "medium",
+      "q": "What did Rama ask Sumantra to tell Dasharatha and the mothers upon his return?",
+      "options": ["That Rama had renounced them forever", "Messages of reassurance and that they should not grieve", "That Rama blamed Dasharatha", "Nothing at all"],
+      "answer": 1,
+      "explanation": "Rama sent words of comfort through Sumantra, urging his family not to grieve over his exile."
+    },
+    {
+      "id": "sumantra-q15",
+      "difficulty": "medium",
+      "q": "How did Sumantra react when Rama insisted he turn the chariot back to Ayodhya?",
+      "options": ["He happily agreed and left at once", "He was overcome with sorrow and reluctant to leave Rama", "He refused and stayed with Rama", "He laughed it off"],
+      "answer": 1,
+      "explanation": "Sumantra was grief-stricken and pleaded to remain, only reluctantly returning at Rama's insistence."
+    },
+    {
+      "id": "sumantra-q16",
+      "difficulty": "medium",
+      "q": "When Sumantra brought back the empty chariot, what was the mood in Ayodhya?",
+      "options": ["Celebration", "Deep mourning and lamentation", "Anger toward Sumantra", "Total indifference"],
+      "answer": 1,
+      "explanation": "The whole of Ayodhya was plunged into mourning at the sight of Sumantra returning without Rama."
+    },
+    {
+      "id": "sumantra-q17",
+      "difficulty": "medium",
+      "q": "Which queen's demand set in motion the events that forced Sumantra to drive Rama away?",
+      "options": ["Kaushalya", "Sumitra", "Kaikeyi", "Mandodari"],
+      "answer": 2,
+      "explanation": "Queen Kaikeyi's boons demanding Rama's exile and Bharata's coronation set these events in motion."
+    },
+    {
+      "id": "sumantra-q18",
+      "difficulty": "medium",
+      "q": "How did the horses of Sumantra's chariot reportedly behave as he was forced to leave Rama?",
+      "options": ["They galloped away joyfully", "They were reluctant and shed tears, unwilling to move", "They threw off Sumantra", "They refused to be harnessed at all"],
+      "answer": 1,
+      "explanation": "Tradition holds that even the chariot horses wept and moved unwillingly as they bore Sumantra away from Rama."
+    },
+    {
+      "id": "sumantra-q19",
+      "difficulty": "medium",
+      "q": "Within which book (Kanda) of the Ramayana does Sumantra's role in the exile mainly fall?",
+      "options": ["Bala Kanda", "Ayodhya Kanda", "Sundara Kanda", "Yuddha Kanda"],
+      "answer": 1,
+      "explanation": "Sumantra's part in Rama's exile is told in the Ayodhya Kanda, the book of Ayodhya."
+    },
+    {
+      "id": "sumantra-q20",
+      "difficulty": "medium",
+      "q": "When Sumantra returned, to whom did he have to give the painful report of Rama's departure?",
+      "options": ["Ravana", "King Dasharatha and the queens", "Vibhishana", "Jatayu"],
+      "answer": 1,
+      "explanation": "Sumantra reported the sorrowful news of Rama's parting to the grieving Dasharatha and the queens of Ayodhya."
+    },
+    {
+      "id": "sumantra-q21",
+      "difficulty": "medium",
+      "q": "What best describes the relationship of trust between Dasharatha and Sumantra?",
+      "options": ["Distant and formal only", "A bond of deep confidence and friendship", "Open hostility", "Newly formed acquaintance"],
+      "answer": 1,
+      "explanation": "Sumantra was among Dasharatha's most trusted ministers, sharing a bond of deep confidence with the king."
+    },
+    {
+      "id": "sumantra-q22",
+      "difficulty": "medium",
+      "q": "Before Rama's exile, Sumantra also served as a messenger and counselor during which earlier royal matter?",
+      "options": ["The summoning of sages and ministers for state counsel", "Negotiating peace with Ravana", "Leading armies against Lanka", "Crowning Bharata as a child"],
+      "answer": 0,
+      "explanation": "As a senior minister, Sumantra carried the king's word and helped convene sages and councilors on state matters."
+    },
+    {
+      "id": "sumantra-q23",
+      "difficulty": "hard",
+      "q": "Sumantra is said to have helped summon which sage to advise the childless Dasharatha about a sacrifice for sons?",
+      "options": ["Rishyasringa", "Agastya", "Durvasa", "Narada"],
+      "answer": 0,
+      "explanation": "Sumantra recounted the story of the sage Rishyasringa, who was brought to perform the rites that gave Dasharatha sons."
+    },
+    {
+      "id": "sumantra-q24",
+      "difficulty": "hard",
+      "q": "Which two great sacrifices, leading to the birth of Dasharatha's sons, are connected with the counsel Sumantra conveyed?",
+      "options": ["The Rajasuya and Vajapeya", "The Ashvamedha and Putrakameshti", "The Agnihotra and Soma sacrifice", "The Sarpa Yajna and Gomedha"],
+      "answer": 1,
+      "explanation": "Sumantra's counsel pointed toward the Ashvamedha and Putrakameshti sacrifices performed to obtain sons for Dasharatha."
+    },
+    {
+      "id": "sumantra-q25",
+      "difficulty": "hard",
+      "q": "When Sumantra reported back, Dasharatha was tormented by the memory of an old curse for accidentally killing whom?",
+      "options": ["A deer hunter", "The young ascetic Shravana Kumara", "A forest king", "A rival charioteer"],
+      "answer": 1,
+      "explanation": "Dasharatha recalled killing the young ascetic Shravana Kumara by mistake, whose parents' curse foretold his death from grief over a son."
+    },
+    {
+      "id": "sumantra-q26",
+      "difficulty": "hard",
+      "q": "After Rama's departure, what soon befell King Dasharatha, deepening Ayodhya's sorrow that Sumantra witnessed?",
+      "options": ["He abdicated and went to the forest", "He died of grief over Rama's exile", "He marched against Kaikeyi's kin", "He recovered and ruled long after"],
+      "answer": 1,
+      "explanation": "Dasharatha died of grief soon after Rama's exile, a sorrow Sumantra and all Ayodhya shared."
+    },
+    {
+      "id": "sumantra-q27",
+      "difficulty": "hard",
+      "q": "When Bharata returned and set out to bring Rama back, what role did the experienced Sumantra play?",
+      "options": ["He opposed Bharata's journey", "He accompanied and guided the party toward Rama", "He stayed behind to rule Ayodhya", "He had already retired from court"],
+      "answer": 1,
+      "explanation": "As a senior minister, Sumantra accompanied Bharata's party that journeyed to the forest to seek Rama's return."
+    },
+    {
+      "id": "sumantra-q28",
+      "difficulty": "hard",
+      "q": "Which other senior minister of Dasharatha is most often named alongside Sumantra in the royal council?",
+      "options": ["Sushena", "Vijaya (and other ministers like Jayanta)", "Akampana", "Prahasta"],
+      "answer": 1,
+      "explanation": "Sumantra is named among Dasharatha's eight ministers, listed with figures such as Vijaya and Jayanta in the council."
+    },
+    {
+      "id": "sumantra-q29",
+      "difficulty": "hard",
+      "q": "What is the literal sense of a name like 'Sumantra,' fitting his role as a wise counselor?",
+      "options": ["One who is a great warrior", "One of good counsel or good counsel itself", "One who tends horses", "One born of the river"],
+      "answer": 1,
+      "explanation": "The name Sumantra carries the sense of 'good counsel,' suiting his role as the king's wise and trusted minister."
+    },
+    {
+      "id": "sumantra-q30",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, how does Sumantra try to comfort the grieving Kaushalya after his return?",
+      "options": ["By telling her Rama has died", "By conveying Rama's reassuring words and praising his steadfastness", "By blaming her for the exile", "By refusing to speak to her"],
+      "answer": 1,
+      "explanation": "Sumantra consoled Kaushalya by relating Rama's loving, reassuring messages and his calm resolve in accepting exile."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "ayodhya",
+  "questions": [
+    {
+      "id": "ayodhya-q01",
+      "difficulty": "easy",
+      "q": "In the Ramayana, what is Ayodhya?",
+      "options": ["A forest hermitage", "A royal capital city", "A sacred mountain", "An ocean island"],
+      "answer": 1,
+      "explanation": "Ayodhya is the ancient royal capital city, the seat of Rama's dynasty."
+    },
+    {
+      "id": "ayodhya-q02",
+      "difficulty": "easy",
+      "q": "Of which kingdom is Ayodhya the capital?",
+      "options": ["Kosala", "Mithila", "Lanka", "Kishkindha"],
+      "answer": 0,
+      "explanation": "Ayodhya is the capital of the kingdom of Kosala."
+    },
+    {
+      "id": "ayodhya-q03",
+      "difficulty": "easy",
+      "q": "Which prince of the Ramayana was born in Ayodhya?",
+      "options": ["Ravana", "Sugriva", "Rama", "Vibhishana"],
+      "answer": 2,
+      "explanation": "Rama, the hero of the Ramayana, was born in Ayodhya as a prince of Kosala."
+    },
+    {
+      "id": "ayodhya-q04",
+      "difficulty": "easy",
+      "q": "Who was the king of Ayodhya and the father of Rama?",
+      "options": ["Janaka", "Dasharatha", "Sumantra", "Vasishtha"],
+      "answer": 1,
+      "explanation": "Dasharatha was the king of Ayodhya and the father of Rama."
+    },
+    {
+      "id": "ayodhya-q05",
+      "difficulty": "easy",
+      "q": "Along which river does Ayodhya stand?",
+      "options": ["The Ganga", "The Yamuna", "The Sarayu", "The Godavari"],
+      "answer": 2,
+      "explanation": "Ayodhya stands on the banks of the river Sarayu."
+    },
+    {
+      "id": "ayodhya-q06",
+      "difficulty": "easy",
+      "q": "For how many years did Rama leave Ayodhya during his exile?",
+      "options": ["Fourteen years", "Seven years", "Twelve years", "Twenty years"],
+      "answer": 0,
+      "explanation": "Rama left Ayodhya to spend fourteen years in exile in the forest."
+    },
+    {
+      "id": "ayodhya-q07",
+      "difficulty": "easy",
+      "q": "When Rama finally returned to Ayodhya, how was he received?",
+      "options": ["He was imprisoned", "He was welcomed in triumph", "He was sent away again", "He was ignored"],
+      "answer": 1,
+      "explanation": "Rama returned to Ayodhya in triumph and was joyfully welcomed by its people."
+    },
+    {
+      "id": "ayodhya-q08",
+      "difficulty": "easy",
+      "q": "Which of these brothers of Rama also belonged to the royal house of Ayodhya?",
+      "options": ["Bharata", "Hanuman", "Jatayu", "Angada"],
+      "answer": 0,
+      "explanation": "Bharata was Rama's brother and a prince of the royal house of Ayodhya."
+    },
+    {
+      "id": "ayodhya-q09",
+      "difficulty": "easy",
+      "q": "What ceremony was being prepared for Rama in Ayodhya before his exile?",
+      "options": ["His wedding", "His coronation as crown prince", "His funeral", "His banishment"],
+      "answer": 1,
+      "explanation": "Ayodhya was preparing Rama's installation as crown prince when the plan was overturned."
+    },
+    {
+      "id": "ayodhya-q10",
+      "difficulty": "easy",
+      "q": "Who ruled Ayodhya on Rama's behalf while Rama was in exile?",
+      "options": ["Lakshmana", "Shatrughna", "Bharata", "Sumantra"],
+      "answer": 2,
+      "explanation": "Bharata governed Ayodhya in Rama's name while Rama was away in exile."
+    },
+    {
+      "id": "ayodhya-q11",
+      "difficulty": "medium",
+      "q": "To which famous dynasty did the kings of Ayodhya belong?",
+      "options": ["The Ikshvaku (Solar) dynasty", "The Yadava dynasty", "The Lunar dynasty of Hastinapura", "The Maurya dynasty"],
+      "answer": 0,
+      "explanation": "The kings of Ayodhya belonged to the Ikshvaku, or Solar, dynasty."
+    },
+    {
+      "id": "ayodhya-q12",
+      "difficulty": "medium",
+      "q": "From where did Bharata rule the affairs of Ayodhya during Rama's exile?",
+      "options": ["From the palace throne directly", "From the nearby village of Nandigrama", "From the forest of Chitrakoot", "From Mithila"],
+      "answer": 1,
+      "explanation": "Bharata governed from Nandigrama, near Ayodhya, refusing to sit on the throne himself."
+    },
+    {
+      "id": "ayodhya-q13",
+      "difficulty": "medium",
+      "q": "What did Bharata place upon the throne of Ayodhya to represent Rama's authority?",
+      "options": ["Rama's bow", "Rama's sandals (paduka)", "Rama's crown", "Rama's ring"],
+      "answer": 1,
+      "explanation": "Bharata enshrined Rama's sandals on the throne of Ayodhya as a token of Rama's kingship."
+    },
+    {
+      "id": "ayodhya-q14",
+      "difficulty": "medium",
+      "q": "Who was the chief minister and charioteer of the king of Ayodhya?",
+      "options": ["Sumantra", "Sumitra", "Sumati", "Sushena"],
+      "answer": 0,
+      "explanation": "Sumantra was the trusted minister and charioteer of King Dasharatha of Ayodhya."
+    },
+    {
+      "id": "ayodhya-q15",
+      "difficulty": "medium",
+      "q": "Who was the royal preceptor (family guru) of the kings of Ayodhya?",
+      "options": ["Vishwamitra", "Agastya", "Vasishtha", "Bharadwaja"],
+      "answer": 2,
+      "explanation": "Sage Vasishtha was the family preceptor of the royal house of Ayodhya."
+    },
+    {
+      "id": "ayodhya-q16",
+      "difficulty": "medium",
+      "q": "Which queen of Ayodhya demanded that Rama be exiled?",
+      "options": ["Kausalya", "Sumitra", "Kaikeyi", "Mandavi"],
+      "answer": 2,
+      "explanation": "Queen Kaikeyi demanded Rama's exile, using the boons King Dasharatha had promised her."
+    },
+    {
+      "id": "ayodhya-q17",
+      "difficulty": "medium",
+      "q": "What happened to King Dasharatha in Ayodhya after Rama departed for the forest?",
+      "options": ["He died of grief", "He marched to war", "He abdicated and became a hermit", "He fell ill but recovered"],
+      "answer": 0,
+      "explanation": "Overcome with grief at Rama's exile, Dasharatha died in Ayodhya soon after."
+    },
+    {
+      "id": "ayodhya-q18",
+      "difficulty": "medium",
+      "q": "Which serving-woman of Ayodhya is blamed for poisoning Kaikeyi's mind against Rama?",
+      "options": ["Trijata", "Manthara", "Tara", "Anasuya"],
+      "answer": 1,
+      "explanation": "Manthara, Kaikeyi's hunchbacked maidservant, incited her against Rama in Ayodhya."
+    },
+    {
+      "id": "ayodhya-q19",
+      "difficulty": "medium",
+      "q": "Who was Rama's mother and the senior queen of Ayodhya?",
+      "options": ["Kaikeyi", "Sumitra", "Kausalya", "Sunaina"],
+      "answer": 2,
+      "explanation": "Kausalya, the eldest queen of Dasharatha, was Rama's mother."
+    },
+    {
+      "id": "ayodhya-q20",
+      "difficulty": "medium",
+      "q": "The triumphant return of Rama to Ayodhya is traditionally remembered by which festival?",
+      "options": ["Holi", "Diwali", "Navaratri", "Raksha Bandhan"],
+      "answer": 1,
+      "explanation": "Rama's return to Ayodhya, greeted by rows of lamps, is celebrated as the festival of Diwali."
+    },
+    {
+      "id": "ayodhya-q21",
+      "difficulty": "medium",
+      "q": "From which city did Rama bring his bride Sita home to Ayodhya?",
+      "options": ["Mithila", "Kishkindha", "Lanka", "Kashi"],
+      "answer": 0,
+      "explanation": "Rama married Sita in Mithila, the capital of Janaka, and brought her to Ayodhya."
+    },
+    {
+      "id": "ayodhya-q22",
+      "difficulty": "medium",
+      "q": "Who was sent by Rama as a messenger to assure Ayodhya of his coming return?",
+      "options": ["Sugriva", "Vibhishana", "Hanuman", "Jambavan"],
+      "answer": 2,
+      "explanation": "Hanuman was sent ahead to Ayodhya to announce Rama's approaching return."
+    },
+    {
+      "id": "ayodhya-q23",
+      "difficulty": "hard",
+      "q": "Who is traditionally regarded as the founder of Ayodhya in the Ikshvaku line?",
+      "options": ["Manu", "Sagara", "Raghu", "Bhagiratha"],
+      "answer": 0,
+      "explanation": "Tradition holds that Manu, ancestor of the Ikshvaku kings, founded the city of Ayodhya."
+    },
+    {
+      "id": "ayodhya-q24",
+      "difficulty": "hard",
+      "q": "After Rama's reign, among whom did he traditionally divide and distribute the wider Kosala realm?",
+      "options": ["His ministers", "His sons Lava and Kusha", "His brothers' sons", "The forest sages"],
+      "answer": 1,
+      "explanation": "Rama is said to have established his sons Lava and Kusha as rulers, dividing the Kosala lands between them."
+    },
+    {
+      "id": "ayodhya-q25",
+      "difficulty": "hard",
+      "q": "Which two boons granted by Dasharatha did Kaikeyi invoke in Ayodhya?",
+      "options": ["Rama's exile and Bharata's crowning", "Sita's exile and Lakshmana's death", "Rama's marriage and a great sacrifice", "A treasury share and a new palace"],
+      "answer": 0,
+      "explanation": "Kaikeyi used her two boons to demand Rama's fourteen-year exile and Bharata's installation as king."
+    },
+    {
+      "id": "ayodhya-q26",
+      "difficulty": "hard",
+      "q": "What name of Rama's great-grandfather is the source of the title 'Raghu' dynasty borne by Ayodhya's kings?",
+      "options": ["Raghu", "Aja", "Dilipa", "Nahusha"],
+      "answer": 0,
+      "explanation": "The kings of Ayodhya are called the Raghu (Raghava) line after King Raghu, an illustrious ancestor of Rama."
+    },
+    {
+      "id": "ayodhya-q27",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, how does the opening canto describe Ayodhya's defenses and layout?",
+      "options": ["A ruined city of broken walls", "A well-planned, prosperous city with moats and gates", "A scattered village without walls", "A floating city upon the sea"],
+      "answer": 1,
+      "explanation": "Valmiki's Bala Kanda praises Ayodhya as a prosperous, well-fortified city with broad roads, moats, and strong gates."
+    },
+    {
+      "id": "ayodhya-q28",
+      "difficulty": "hard",
+      "q": "According to tradition, what finally became of Ayodhya's people when Rama departed the world at the Sarayu?",
+      "options": ["They abandoned the city for Lanka", "Many followed him into the river and to heaven", "They crowned a foreign king", "They fled to the mountains"],
+      "answer": 1,
+      "explanation": "Tradition relates that the people of Ayodhya followed Rama into the Sarayu and attained the celestial world with him."
+    },
+    {
+      "id": "ayodhya-q29",
+      "difficulty": "hard",
+      "q": "Whom did Rama appoint to rule in his name while he undertook the duties of kingship in Ayodhya, sending them to neighboring lands?",
+      "options": ["His sons, as rulers of new cities", "His brothers Bharata and Shatrughna over other regions", "His ministers over distant provinces", "His allies the vanaras"],
+      "answer": 1,
+      "explanation": "Rama entrusted regions such as the Sindhu-Sauvira and Madhura lands to his brothers Bharata and Shatrughna while he reigned in Ayodhya."
+    },
+    {
+      "id": "ayodhya-q30",
+      "difficulty": "hard",
+      "q": "What is the literal meaning of the name 'Ayodhya'?",
+      "options": ["City of lamps", "The unconquerable / not to be warred against", "River of the gods", "Place of the lotus"],
+      "answer": 1,
+      "explanation": "The name Ayodhya means 'unconquerable' or 'that which cannot be warred against', from a-yodhya."
+    }
+  ]
+}

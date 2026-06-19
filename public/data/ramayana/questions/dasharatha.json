@@ -1,0 +1,245 @@
+{
+  "cardId": "dasharatha",
+  "questions": [
+    {
+      "id": "dasharatha-q01",
+      "difficulty": "easy",
+      "q": "Of which kingdom was Dasharatha the king?",
+      "options": ["Kosala", "Mithila", "Kishkindha", "Lanka"],
+      "answer": 0,
+      "explanation": "Dasharatha ruled the kingdom of Kosala, whose capital was Ayodhya."
+    },
+    {
+      "id": "dasharatha-q02",
+      "difficulty": "easy",
+      "q": "What was the capital city of Dasharatha's kingdom?",
+      "options": ["Lanka", "Ayodhya", "Mithila", "Hastinapura"],
+      "answer": 1,
+      "explanation": "Ayodhya was the capital of Kosala, ruled by Dasharatha."
+    },
+    {
+      "id": "dasharatha-q03",
+      "difficulty": "easy",
+      "q": "Which of his sons was Dasharatha's favorite and chosen heir?",
+      "options": ["Bharata", "Lakshmana", "Rama", "Shatrughna"],
+      "answer": 2,
+      "explanation": "Rama, the eldest son, was Dasharatha's beloved son and chosen to be crowned heir."
+    },
+    {
+      "id": "dasharatha-q04",
+      "difficulty": "easy",
+      "q": "How many sons did Dasharatha have in total?",
+      "options": ["Two", "Three", "Four", "Five"],
+      "answer": 2,
+      "explanation": "Dasharatha had four sons: Rama, Bharata, Lakshmana, and Shatrughna."
+    },
+    {
+      "id": "dasharatha-q05",
+      "difficulty": "easy",
+      "q": "Which queen demanded that Rama be exiled?",
+      "options": ["Kaushalya", "Sumitra", "Kaikeyi", "Mandavi"],
+      "answer": 2,
+      "explanation": "Queen Kaikeyi demanded Rama's exile using the two boons Dasharatha had promised her."
+    },
+    {
+      "id": "dasharatha-q06",
+      "difficulty": "easy",
+      "q": "For how many years was Rama to be exiled according to Kaikeyi's demand?",
+      "options": ["Fourteen years", "Twelve years", "Ten years", "Sixteen years"],
+      "answer": 0,
+      "explanation": "Kaikeyi demanded that Rama be exiled to the forest for fourteen years."
+    },
+    {
+      "id": "dasharatha-q07",
+      "difficulty": "easy",
+      "q": "Who did Kaikeyi want to be crowned king in Rama's place?",
+      "options": ["Lakshmana", "Shatrughna", "Bharata", "Rama"],
+      "answer": 2,
+      "explanation": "Kaikeyi used her boons to have her own son Bharata crowned king instead of Rama."
+    },
+    {
+      "id": "dasharatha-q08",
+      "difficulty": "easy",
+      "q": "What happened to Dasharatha soon after Rama left for exile?",
+      "options": ["He went to war", "He died of grief", "He renounced the throne and became a hermit", "He fell into a long sleep"],
+      "answer": 1,
+      "explanation": "Overcome with grief at his beloved son's exile, Dasharatha died shortly afterward."
+    },
+    {
+      "id": "dasharatha-q09",
+      "difficulty": "easy",
+      "q": "Which divine ritual did Dasharatha perform to obtain sons?",
+      "options": ["Ashvamedha and Putrakameshti yajna", "Rajasuya alone", "Vajapeya alone", "Soma yajna alone"],
+      "answer": 0,
+      "explanation": "Dasharatha performed the Putrakameshti sacrifice (alongside the Ashvamedha) to be blessed with sons."
+    },
+    {
+      "id": "dasharatha-q10",
+      "difficulty": "easy",
+      "q": "Dasharatha is described in the card as the father of which hero?",
+      "options": ["Hanuman", "Rama", "Sugriva", "Jatayu"],
+      "answer": 1,
+      "explanation": "Dasharatha was the father of Rama, the central hero of the Ramayana."
+    },
+    {
+      "id": "dasharatha-q11",
+      "difficulty": "medium",
+      "q": "How many queens (chief wives) did Dasharatha have?",
+      "options": ["Two", "Three", "Four", "Five"],
+      "answer": 1,
+      "explanation": "Dasharatha had three chief queens: Kaushalya, Kaikeyi, and Sumitra."
+    },
+    {
+      "id": "dasharatha-q12",
+      "difficulty": "medium",
+      "q": "Which queen was the mother of Lakshmana and Shatrughna?",
+      "options": ["Kaushalya", "Kaikeyi", "Sumitra", "Tara"],
+      "answer": 2,
+      "explanation": "Sumitra was the mother of the twins Lakshmana and Shatrughna."
+    },
+    {
+      "id": "dasharatha-q13",
+      "difficulty": "medium",
+      "q": "On what occasion had Kaikeyi earlier earned the two boons from Dasharatha?",
+      "options": ["When she nursed him back to health after illness", "When she saved him on a battlefield against the asuras", "When she won a chariot race for him", "When she defeated a rival queen in debate"],
+      "answer": 1,
+      "explanation": "Kaikeyi had saved Dasharatha's life during a battle aiding the gods against the asuras, for which he granted her two boons."
+    },
+    {
+      "id": "dasharatha-q14",
+      "difficulty": "medium",
+      "q": "Which sage's curse foretold that Dasharatha would die grieving for his son?",
+      "options": ["The parents of Shravana Kumara", "Sage Vishwamitra", "Sage Vasishtha", "Sage Agastya"],
+      "answer": 0,
+      "explanation": "The blind parents of Shravana Kumara, whom Dasharatha killed by accident, cursed him to die in grief over a son."
+    },
+    {
+      "id": "dasharatha-q15",
+      "difficulty": "medium",
+      "q": "How did Dasharatha accidentally kill the youth Shravana Kumara?",
+      "options": ["With a sword in a duel", "By mistaking him for an animal while hunting by sound", "By trampling him with his chariot", "By a curse gone wrong"],
+      "answer": 1,
+      "explanation": "Hunting by sound at night, Dasharatha shot an arrow toward the noise of Shravana filling water, mistaking him for an animal."
+    },
+    {
+      "id": "dasharatha-q16",
+      "difficulty": "medium",
+      "q": "Who was the chief preceptor and royal priest of Dasharatha's court?",
+      "options": ["Vishwamitra", "Vasishtha", "Bharadwaja", "Narada"],
+      "answer": 1,
+      "explanation": "Sage Vasishtha was the family priest (rajaguru) and chief preceptor of Dasharatha's royal house."
+    },
+    {
+      "id": "dasharatha-q17",
+      "difficulty": "medium",
+      "q": "Which sage requested Dasharatha to send Rama to protect a sacrifice from demons?",
+      "options": ["Vasishtha", "Valmiki", "Vishwamitra", "Atri"],
+      "answer": 2,
+      "explanation": "Sage Vishwamitra came to Ayodhya and asked Dasharatha to send Rama to guard his sacrifice from rakshasas."
+    },
+    {
+      "id": "dasharatha-q18",
+      "difficulty": "medium",
+      "q": "What was Dasharatha's reaction when Vishwamitra first asked for Rama?",
+      "options": ["He gladly agreed at once", "He was reluctant and pained to part with his young son", "He refused outright and was cursed", "He sent Bharata instead"],
+      "answer": 1,
+      "explanation": "Dasharatha was deeply reluctant to send the young Rama, but Vasishtha persuaded him to honor the sage's request."
+    },
+    {
+      "id": "dasharatha-q19",
+      "difficulty": "medium",
+      "q": "To which dynasty (royal line) did Dasharatha belong?",
+      "options": ["The Lunar dynasty (Chandravamsha)", "The Solar dynasty (Suryavamsha / Ikshvaku line)", "The Yadava dynasty", "The Nanda dynasty"],
+      "answer": 1,
+      "explanation": "Dasharatha was a king of the Solar dynasty, the Ikshvaku line of Suryavamsha."
+    },
+    {
+      "id": "dasharatha-q20",
+      "difficulty": "medium",
+      "q": "Whom did Dasharatha send to bring Bharata home after the king's death drew near?",
+      "options": ["No one; messengers were sent only after his death", "Lakshmana", "Shatrughna alone", "Sumantra"],
+      "answer": 0,
+      "explanation": "Bharata was away at his maternal grandfather's kingdom, and messengers were dispatched to fetch him only after Dasharatha had died."
+    },
+    {
+      "id": "dasharatha-q21",
+      "difficulty": "medium",
+      "q": "What was the name of Dasharatha's trusted charioteer and minister?",
+      "options": ["Sumantra", "Sumitra", "Sumali", "Sumukha"],
+      "answer": 0,
+      "explanation": "Sumantra was Dasharatha's devoted charioteer and counselor who drove Rama toward the forest."
+    },
+    {
+      "id": "dasharatha-q22",
+      "difficulty": "medium",
+      "q": "Where did Kaikeyi confront Dasharatha to demand her boons?",
+      "options": ["In the royal assembly hall", "In the anger-chamber (kopa-bhavana) where she lay on the floor", "In the temple of Ayodhya", "On the palace ramparts"],
+      "answer": 1,
+      "explanation": "Kaikeyi withdrew to the kopa-bhavana, the chamber of wrath, where she lay on the bare floor and made her demands."
+    },
+    {
+      "id": "dasharatha-q23",
+      "difficulty": "hard",
+      "q": "What is the most commonly cited meaning of the name 'Dasharatha'?",
+      "options": ["One of ten chariots / whose chariot moves in ten directions", "Ruler of ten kingdoms", "Born under ten stars", "Lord of ten elephants"],
+      "answer": 0,
+      "explanation": "'Dasharatha' is traditionally interpreted as 'ten chariots' or one whose chariot can move in all ten directions, reflecting his martial skill."
+    },
+    {
+      "id": "dasharatha-q24",
+      "difficulty": "hard",
+      "q": "Whose handmaid incited Kaikeyi to turn against Rama?",
+      "options": ["Trijata", "Manthara", "Surama", "Lopamudra"],
+      "answer": 1,
+      "explanation": "The hunchbacked maidservant Manthara poisoned Kaikeyi's mind, urging her to demand Rama's exile and Bharata's coronation."
+    },
+    {
+      "id": "dasharatha-q25",
+      "difficulty": "hard",
+      "q": "Who was the father of Kaushalya, Dasharatha's eldest queen, according to tradition?",
+      "options": ["The king of Kekaya", "The king of Kashi (Kosala/Magadha tradition)", "Janaka of Mithila", "Romapada of Anga"],
+      "answer": 1,
+      "explanation": "Kaushalya is traditionally said to be a princess of Kashi (often linked with the Kosala royal house by marriage)."
+    },
+    {
+      "id": "dasharatha-q26",
+      "difficulty": "hard",
+      "q": "From which kingdom did Kaikeyi come, making her father the king of that land?",
+      "options": ["Kekaya", "Videha", "Anga", "Magadha"],
+      "answer": 0,
+      "explanation": "Kaikeyi was the princess of Kekaya, daughter of King Ashvapati of the Kekaya kingdom."
+    },
+    {
+      "id": "dasharatha-q27",
+      "difficulty": "hard",
+      "q": "Which adopted daughter of Dasharatha was married to the sage Rishyasringa?",
+      "options": ["Shanta", "Urmila", "Mandavi", "Shrutakirti"],
+      "answer": 0,
+      "explanation": "Shanta, Dasharatha's daughter (given in adoption to King Romapada), was married to the sage Rishyasringa who later performed Dasharatha's sacrifice."
+    },
+    {
+      "id": "dasharatha-q28",
+      "difficulty": "hard",
+      "q": "What divine substance, emerging from the Putrakameshti sacrifice, did Dasharatha distribute among his queens?",
+      "options": ["A pot of sacred fire", "A golden vessel of divine payasa (sweet rice pudding)", "A jeweled necklace", "A vial of soma"],
+      "answer": 1,
+      "explanation": "A divine being rose from the sacrificial fire bearing a vessel of payasa, which Dasharatha divided among his queens, leading to the birth of his sons."
+    },
+    {
+      "id": "dasharatha-q29",
+      "difficulty": "hard",
+      "q": "When dying, for whose return did Dasharatha cry out in his final moments?",
+      "options": ["Bharata", "Rama", "Lakshmana", "Shatrughna"],
+      "answer": 1,
+      "explanation": "In his last moments Dasharatha lamented and called out for Rama, dying of grief over his exiled son."
+    },
+    {
+      "id": "dasharatha-q30",
+      "difficulty": "hard",
+      "q": "What happened to Dasharatha's body while Bharata was away after the king died?",
+      "options": ["It was cremated immediately", "It was preserved in a vat of oil until Bharata returned", "It was buried by the river", "It was carried to the forest to find Rama"],
+      "answer": 1,
+      "explanation": "Because Bharata was absent, Dasharatha's body was preserved in a trough of oil (taila) so the last rites could await the heir's return."
+    }
+  ]
+}

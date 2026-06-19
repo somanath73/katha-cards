@@ -1,0 +1,245 @@
+{
+  "cardId": "tara",
+  "questions": [
+    {
+      "id": "tara-q01",
+      "difficulty": "easy",
+      "q": "In the Ramayana, of which kingdom is Tara the queen?",
+      "options": ["Kishkindha", "Lanka", "Ayodhya", "Mithila"],
+      "answer": 0,
+      "explanation": "Tara is the queen of Kishkindha, the kingdom of the vanaras (monkeys)."
+    },
+    {
+      "id": "tara-q02",
+      "difficulty": "easy",
+      "q": "Who is Tara's first husband?",
+      "options": ["Sugriva", "Vali", "Hanuman", "Angada"],
+      "answer": 1,
+      "explanation": "Tara is the wife of Vali, the mighty king of Kishkindha."
+    },
+    {
+      "id": "tara-q03",
+      "difficulty": "easy",
+      "q": "Tara is famous in the epic for what quality of character?",
+      "options": ["Her skill in archery", "Her wisdom and eloquence", "Her power of flight", "Her wealth"],
+      "answer": 1,
+      "explanation": "Tara is renowned as a wise and eloquent queen whose counsel is highly valued."
+    },
+    {
+      "id": "tara-q04",
+      "difficulty": "easy",
+      "q": "To what race or kind of beings does Tara belong?",
+      "options": ["The rakshasas", "The devas", "The vanaras (monkeys)", "The nagas"],
+      "answer": 2,
+      "explanation": "Tara is a vanara, the same race of monkey-folk as her husband Vali and Sugriva."
+    },
+    {
+      "id": "tara-q05",
+      "difficulty": "easy",
+      "q": "Vali and Sugriva, the two kings linked to Tara, are related to each other as what?",
+      "options": ["Father and son", "Brothers", "Uncle and nephew", "Cousins by marriage"],
+      "answer": 1,
+      "explanation": "Vali and Sugriva are brothers, both kings of Kishkindha at different times."
+    },
+    {
+      "id": "tara-q06",
+      "difficulty": "easy",
+      "q": "Who is the hero of the Ramayana who kills Vali, leaving Tara a grieving widow?",
+      "options": ["Lakshmana", "Bharata", "Rama", "Hanuman"],
+      "answer": 2,
+      "explanation": "Rama shoots and kills Vali, which is the source of Tara's famous lament."
+    },
+    {
+      "id": "tara-q07",
+      "difficulty": "easy",
+      "q": "After Vali's death, which brother becomes king of Kishkindha?",
+      "options": ["Sugriva", "Angada", "Nala", "Nila"],
+      "answer": 0,
+      "explanation": "Sugriva becomes king of Kishkindha after Vali is slain."
+    },
+    {
+      "id": "tara-q08",
+      "difficulty": "easy",
+      "q": "Tara's counsel in the epic most often takes the form of what?",
+      "options": ["Magic spells", "Wise advice and persuasive speech", "Battlefield strategy in person", "Prophecy of the future"],
+      "answer": 1,
+      "explanation": "Tara is celebrated for her wise advice and persuasive, eloquent speech."
+    },
+    {
+      "id": "tara-q09",
+      "difficulty": "easy",
+      "q": "Which of these emotions is Tara especially associated with after Vali falls?",
+      "options": ["Joy", "Grief", "Indifference", "Greed"],
+      "answer": 1,
+      "explanation": "Tara's grief over Vali's death is one of the most affecting passages of the epic."
+    },
+    {
+      "id": "tara-q10",
+      "difficulty": "easy",
+      "q": "Allies of which hero help Sugriva regain the throne that affects Tara's fate?",
+      "options": ["Ravana", "Rama", "Kumbhakarna", "Indrajit"],
+      "answer": 1,
+      "explanation": "Rama allies with Sugriva and helps him defeat Vali to win back Kishkindha."
+    },
+    {
+      "id": "tara-q11",
+      "difficulty": "medium",
+      "q": "Who is the son of Tara and Vali?",
+      "options": ["Angada", "Nala", "Nila", "Jambavan"],
+      "answer": 0,
+      "explanation": "Angada, the brave young vanara prince, is the son of Tara and Vali."
+    },
+    {
+      "id": "tara-q12",
+      "difficulty": "medium",
+      "q": "Before the duel in which Vali dies, what does Tara warn her husband about?",
+      "options": ["That he should not fight Sugriva because Rama is allied with him", "That he should flee Kishkindha forever", "That he should poison Sugriva first", "That he should surrender the kingdom"],
+      "answer": 0,
+      "explanation": "Tara wisely warns Vali not to fight Sugriva, since Rama has allied with him, but Vali ignores her."
+    },
+    {
+      "id": "tara-q13",
+      "difficulty": "medium",
+      "q": "Whom does Tara marry after Vali's death, according to the tradition?",
+      "options": ["Hanuman", "Sugriva", "Angada", "Jambavan"],
+      "answer": 1,
+      "explanation": "Tara becomes the wife of Sugriva after Vali is killed, remaining a queen of Kishkindha."
+    },
+    {
+      "id": "tara-q14",
+      "difficulty": "medium",
+      "q": "In some traditions Tara is counted among the Panchakanya. What does that group honor?",
+      "options": ["Five great warriors", "Five exemplary, virtuous women", "Five sages", "Five rivers"],
+      "answer": 1,
+      "explanation": "The Panchakanya are five revered women of the epics, and Tara is often counted among them."
+    },
+    {
+      "id": "tara-q15",
+      "difficulty": "medium",
+      "q": "According to one well-known tradition, from where did Tara originate?",
+      "options": ["She arose from the churning of the ocean of milk", "She was born from fire", "She descended from the moon", "She was carved from stone"],
+      "answer": 0,
+      "explanation": "A popular tradition holds that Tara emerged from the churning of the ocean of milk (samudra manthana)."
+    },
+    {
+      "id": "tara-q16",
+      "difficulty": "medium",
+      "q": "When Lakshmana comes to Kishkindha angry that Sugriva has delayed the search for Sita, who pacifies him?",
+      "options": ["Hanuman", "Tara", "Sugriva", "Angada"],
+      "answer": 1,
+      "explanation": "Tara's eloquent diplomacy calms the furious Lakshmana and saves the situation for Sugriva."
+    },
+    {
+      "id": "tara-q17",
+      "difficulty": "medium",
+      "q": "Why does Vali dismiss Tara's warning before his fatal duel?",
+      "options": ["He is overconfident and believes Rama has no reason to harm him", "He cannot hear her", "He is already wounded", "He believes she is plotting against him"],
+      "answer": 0,
+      "explanation": "Vali, overconfident, reasons that Rama is righteous and would not unjustly attack him, so he ignores Tara."
+    },
+    {
+      "id": "tara-q18",
+      "difficulty": "medium",
+      "q": "In which book (kanda) of Valmiki's Ramayana do Tara's main episodes occur?",
+      "options": ["Bala Kanda", "Aranya Kanda", "Kishkindha Kanda", "Sundara Kanda"],
+      "answer": 2,
+      "explanation": "Tara's principal episodes, including Vali's death and her lament, occur in the Kishkindha Kanda."
+    },
+    {
+      "id": "tara-q19",
+      "difficulty": "medium",
+      "q": "What is the name of the demon whose challenge to Vali earlier set the brothers against each other?",
+      "options": ["Mayavi (Dundubhi's kin)", "Maricha", "Subahu", "Viradha"],
+      "answer": 0,
+      "explanation": "The demon Mayavi challenged Vali, and the events in the cave that followed led to the feud between Vali and Sugriva."
+    },
+    {
+      "id": "tara-q20",
+      "difficulty": "medium",
+      "q": "Tara's father, a vanara physician, is traditionally named what?",
+      "options": ["Sushena", "Riksharaja", "Kesari", "Tara has no named father"],
+      "answer": 0,
+      "explanation": "Tara is often described as the daughter of Sushena, the vanara physician of Kishkindha."
+    },
+    {
+      "id": "tara-q21",
+      "difficulty": "medium",
+      "q": "What does Tara do upon reaching the dying or fallen Vali on the battlefield?",
+      "options": ["She laments and mourns him deeply", "She celebrates his defeat", "She immediately leaves for the forest", "She attacks Rama"],
+      "answer": 0,
+      "explanation": "Tara's profound lament over the fallen Vali is one of the most moving passages of the Kishkindha Kanda."
+    },
+    {
+      "id": "tara-q22",
+      "difficulty": "medium",
+      "q": "In her grief, Tara reproaches Rama for what?",
+      "options": ["For striking Vali from hiding rather than in open combat", "For sparing Sugriva", "For refusing to fight at all", "For freeing Sita"],
+      "answer": 0,
+      "explanation": "Tara reproaches Rama for killing Vali from concealment instead of in a fair, open fight."
+    },
+    {
+      "id": "tara-q23",
+      "difficulty": "hard",
+      "q": "When the rainy season delays Sugriva from helping Rama, Tara's calming of Lakshmana helps avoid what outcome?",
+      "options": ["Lakshmana's destruction of Kishkindha in his rage", "A war with Lanka", "The exile of Angada", "The crowning of Hanuman"],
+      "answer": 0,
+      "explanation": "Tara's words defuse Lakshmana's wrath, preventing him from venting his rage destructively upon Kishkindha."
+    },
+    {
+      "id": "tara-q24",
+      "difficulty": "hard",
+      "q": "What argument does Tara use to soothe Lakshmana on Sugriva's behalf?",
+      "options": ["She explains the delay is from the rains and that Sugriva is loyal and has summoned the armies", "She threatens Lakshmana with war", "She denies any promise was made", "She blames Rama for the delay"],
+      "answer": 0,
+      "explanation": "Tara reasons that the monsoon caused the delay and assures Lakshmana of Sugriva's loyalty and that the vanara hosts are being gathered."
+    },
+    {
+      "id": "tara-q25",
+      "difficulty": "hard",
+      "q": "Which gem or ornament associated with Vali becomes significant around the time of his death?",
+      "options": ["His golden necklace (mala) given by Indra", "Vali's gem-chariot", "The Chudamani", "Vali's conch"],
+      "answer": 0,
+      "explanation": "Vali wore a celestial golden chain or necklace granted by his father Indra, a token of his divine parentage."
+    },
+    {
+      "id": "tara-q26",
+      "difficulty": "hard",
+      "q": "Tara is depicted as so wise that Vali entrusts her with what role in his kingdom?",
+      "options": ["Counselor in matters of state and policy", "Commander of his armies in battle", "Royal treasurer alone", "Court musician"],
+      "answer": 0,
+      "explanation": "Vali relies on Tara as a trusted counselor, and her advice on statecraft is portrayed as sound and far-seeing."
+    },
+    {
+      "id": "tara-q27",
+      "difficulty": "hard",
+      "q": "Who is the father of Vali and Sugriva according to tradition, making Tara the daughter-in-law of a deity?",
+      "options": ["Indra (father of Vali) and Surya (father of Sugriva)", "Vayu and Agni", "Varuna and Yama", "Brahma alone"],
+      "answer": 0,
+      "explanation": "Tradition holds Vali to be a son of Indra and Sugriva a son of Surya, the sun god."
+    },
+    {
+      "id": "tara-q28",
+      "difficulty": "hard",
+      "q": "After Vali's death, what does Tara fear for her son Angada, prompting concern over the succession?",
+      "options": ["That Angada's claim and safety may be threatened under the new king", "That Angada will be exiled to Lanka", "That Angada will lose his power of speech", "That Angada must marry Sita"],
+      "answer": 0,
+      "explanation": "As a mother and queen, Tara is anxious about Angada's position and safety once Sugriva takes the throne."
+    },
+    {
+      "id": "tara-q29",
+      "difficulty": "hard",
+      "q": "Rama justifies killing Vali partly on what grounds, which Tara's lament implicitly challenges?",
+      "options": ["That Vali wronged Sugriva and took his wife, so the punishment was just", "That Vali had allied with Ravana", "That Vali had insulted Sita", "That Vali refused to pay tribute to Ayodhya"],
+      "answer": 0,
+      "explanation": "Rama defends the deed by citing Vali's wrong against Sugriva, including seizing Sugriva's wife, framing it as just punishment."
+    },
+    {
+      "id": "tara-q30",
+      "difficulty": "hard",
+      "q": "Tara's enduring reputation in later tradition rests chiefly on which combination of traits?",
+      "options": ["Her wisdom, eloquence, and the depth of her devotion and grief", "Her martial conquests and sorcery", "Her wealth and her many palaces", "Her power to grant boons to gods"],
+      "answer": 0,
+      "explanation": "Tara is remembered as a wise, eloquent, and devoted queen whose counsel and grief make her one of the epic's most affecting figures."
+    }
+  ]
+}

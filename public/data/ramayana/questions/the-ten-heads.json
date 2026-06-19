@@ -1,0 +1,245 @@
+{
+  "cardId": "the-ten-heads",
+  "questions": [
+    {
+      "id": "the-ten-heads-q01",
+      "difficulty": "easy",
+      "q": "How many heads is Ravana traditionally said to have?",
+      "options": ["Five", "Ten", "Seven", "Twelve"],
+      "answer": 1,
+      "explanation": "Ravana is famously depicted with ten heads, which gives him names such as Dashanana and Dashagriva."
+    },
+    {
+      "id": "the-ten-heads-q02",
+      "difficulty": "easy",
+      "q": "Which Sanskrit name for Ravana literally means 'ten heads'?",
+      "options": ["Dashanana", "Lankesha", "Paulastya", "Vibhishana"],
+      "answer": 0,
+      "explanation": "Dashanana combines 'dasha' (ten) and 'anana' (face/head), describing his ten-headed form."
+    },
+    {
+      "id": "the-ten-heads-q03",
+      "difficulty": "easy",
+      "q": "In popular tradition, Ravana's ten heads are said to symbolize his mastery of learning rather than mere monstrosity. What quality did this learning become ruined by?",
+      "options": ["Cowardice", "Pride", "Laziness", "Poverty"],
+      "answer": 1,
+      "explanation": "Tradition holds that Ravana's vast knowledge was undone by his ungoverned pride and ego."
+    },
+    {
+      "id": "the-ten-heads-q04",
+      "difficulty": "easy",
+      "q": "Ravana was the king of which island kingdom?",
+      "options": ["Kishkindha", "Mithila", "Lanka", "Ayodhya"],
+      "answer": 2,
+      "explanation": "Ravana ruled Lanka, the golden island fortress of the rakshasas."
+    },
+    {
+      "id": "the-ten-heads-q05",
+      "difficulty": "easy",
+      "q": "To which race of beings did the ten-headed Ravana belong?",
+      "options": ["Devas", "Rakshasas", "Gandharvas", "Nagas"],
+      "answer": 1,
+      "explanation": "Ravana was a rakshasa, the mighty demon emperor of Lanka."
+    },
+    {
+      "id": "the-ten-heads-q06",
+      "difficulty": "easy",
+      "q": "Which god was Ravana a famously devoted worshipper of?",
+      "options": ["Vishnu", "Indra", "Shiva", "Brahma"],
+      "answer": 2,
+      "explanation": "Ravana was a learned and ardent devotee of Lord Shiva."
+    },
+    {
+      "id": "the-ten-heads-q07",
+      "difficulty": "easy",
+      "q": "Ravana's abduction of which woman set the central conflict of the Ramayana in motion?",
+      "options": ["Kaikeyi", "Sita", "Mandodari", "Tara"],
+      "answer": 1,
+      "explanation": "Ravana abducted Sita, the wife of Rama, which brought Rama's wrath upon Lanka."
+    },
+    {
+      "id": "the-ten-heads-q08",
+      "difficulty": "easy",
+      "q": "Who ultimately defeated and killed the ten-headed Ravana?",
+      "options": ["Lakshmana", "Hanuman", "Rama", "Sugriva"],
+      "answer": 2,
+      "explanation": "Rama, the hero of the Ramayana, slew Ravana in the climactic war at Lanka."
+    },
+    {
+      "id": "the-ten-heads-q09",
+      "difficulty": "easy",
+      "q": "The festival of Dussehra celebrates the destruction of which figure with the ten heads?",
+      "options": ["Kumbhakarna", "Ravana", "Indrajit", "Maricha"],
+      "answer": 1,
+      "explanation": "Dussehra marks Rama's victory over Ravana, often shown by burning effigies of the ten-headed king."
+    },
+    {
+      "id": "the-ten-heads-q10",
+      "difficulty": "easy",
+      "q": "What emblem is most strongly associated with the proud, kingly imagery of Ravana's ten heads?",
+      "options": ["A crown", "A plough", "A lotus", "A conch"],
+      "answer": 0,
+      "explanation": "Ravana is depicted as a crowned emperor, with crowns adorning his many heads."
+    },
+    {
+      "id": "the-ten-heads-q11",
+      "difficulty": "medium",
+      "q": "A common interpretation says the ten heads represent mastery of the four Vedas and how many shastras?",
+      "options": ["Three", "Six", "Eight", "Ten"],
+      "answer": 1,
+      "explanation": "Tradition holds the ten heads signify command of the four Vedas plus the six shastras, totaling ten branches of knowledge."
+    },
+    {
+      "id": "the-ten-heads-q12",
+      "difficulty": "medium",
+      "q": "Which other Sanskrit epithet of Ravana also means 'ten-necked' or 'ten-throated'?",
+      "options": ["Dashagriva", "Meghanada", "Pulastya", "Kuvera"],
+      "answer": 0,
+      "explanation": "Dashagriva ('ten necks') is another name reflecting Ravana's ten heads."
+    },
+    {
+      "id": "the-ten-heads-q13",
+      "difficulty": "medium",
+      "q": "A widespread moral reading interprets the ten heads as ten vices to be conquered. Which of these is commonly listed among them?",
+      "options": ["Honesty", "Lust", "Patience", "Generosity"],
+      "answer": 1,
+      "explanation": "Popular teaching frames the heads as vices such as lust (kama), anger, greed and ego that must be overcome."
+    },
+    {
+      "id": "the-ten-heads-q14",
+      "difficulty": "medium",
+      "q": "Ravana was the grandson of which great sage, making him part-Brahmin by lineage?",
+      "options": ["Vishwamitra", "Pulastya", "Agastya", "Vashishtha"],
+      "answer": 1,
+      "explanation": "Ravana was the grandson of the sage Pulastya, one of the mind-born sons of Brahma."
+    },
+    {
+      "id": "the-ten-heads-q15",
+      "difficulty": "medium",
+      "q": "In the Valmiki Ramayana, who was Ravana's father?",
+      "options": ["Vishrava", "Sumali", "Malyavan", "Heti"],
+      "answer": 0,
+      "explanation": "Ravana's father was the sage Vishrava, son of Pulastya."
+    },
+    {
+      "id": "the-ten-heads-q16",
+      "difficulty": "medium",
+      "q": "According to tradition, Ravana once offered his own heads in sacrifice to please which deity, earning great boons?",
+      "options": ["Vishnu", "Brahma", "Yama", "Varuna"],
+      "answer": 1,
+      "explanation": "Ravana is said to have performed extreme austerities, even cutting off his heads, to win boons from Brahma."
+    },
+    {
+      "id": "the-ten-heads-q17",
+      "difficulty": "medium",
+      "q": "The boon Ravana received from Brahma made him nearly invincible against gods and demons, but he scorned to ask protection from which beings he thought too weak?",
+      "options": ["Birds and serpents", "Humans and animals", "Yakshas and gandharvas", "Sages and ascetics"],
+      "answer": 1,
+      "explanation": "Ravana's boon excluded men and animals, which is why Vishnu incarnated as the man Rama to slay him."
+    },
+    {
+      "id": "the-ten-heads-q18",
+      "difficulty": "medium",
+      "q": "Ravana's half-brother, the rightful original ruler of Lanka and lord of wealth, was whom?",
+      "options": ["Kubera", "Vibhishana", "Kumbhakarna", "Khara"],
+      "answer": 0,
+      "explanation": "Kubera, the god of wealth and Ravana's half-brother, originally ruled Lanka before Ravana seized it."
+    },
+    {
+      "id": "the-ten-heads-q19",
+      "difficulty": "medium",
+      "q": "Which musical instrument is Ravana, the learned ten-headed king, traditionally credited with mastering or even inventing?",
+      "options": ["The veena", "The mridangam", "The flute", "The damaru"],
+      "answer": 0,
+      "explanation": "Ravana was a renowned veena player, and a bowed instrument called the ravanahatha is named after him."
+    },
+    {
+      "id": "the-ten-heads-q20",
+      "difficulty": "medium",
+      "q": "Ravana's chief queen, often praised as virtuous and counseling him to return Sita, was named what?",
+      "options": ["Mandodari", "Surpanakha", "Trijata", "Sulochana"],
+      "answer": 0,
+      "explanation": "Mandodari, Ravana's principal queen, repeatedly urged him to restore Sita to Rama."
+    },
+    {
+      "id": "the-ten-heads-q21",
+      "difficulty": "medium",
+      "q": "Which righteous brother of Ravana abandoned him and joined Rama before the war?",
+      "options": ["Kumbhakarna", "Vibhishana", "Indrajit", "Akampana"],
+      "answer": 1,
+      "explanation": "Vibhishana, disgusted by Ravana's refusal to return Sita, defected to Rama's side."
+    },
+    {
+      "id": "the-ten-heads-q22",
+      "difficulty": "medium",
+      "q": "The 'ten heads' image is sometimes explained as Ravana possessing the combined intellect of how many ordinary men?",
+      "options": ["Two", "Ten", "Twenty", "A hundred"],
+      "answer": 1,
+      "explanation": "One interpretation is that ten heads represent intelligence equal to ten learned men combined."
+    },
+    {
+      "id": "the-ten-heads-q23",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, when Rama severs Ravana's heads in battle, what astonishing thing repeatedly happens?",
+      "options": ["The heads turn to stone", "New heads grow back in their place", "The heads fly away to Lanka", "The heads speak prophecies"],
+      "answer": 1,
+      "explanation": "Each head Rama cut off was instantly replaced by a new one, until he used the Brahmastra to finally kill Ravana."
+    },
+    {
+      "id": "the-ten-heads-q24",
+      "difficulty": "hard",
+      "q": "Which celestial weapon did Rama finally use to kill Ravana after cutting off his heads proved futile?",
+      "options": ["Pashupatastra", "Brahmastra", "Narayanastra", "Agneyastra"],
+      "answer": 1,
+      "explanation": "Rama invoked the Brahmastra, given by sage Agastya, which struck Ravana's heart and ended him."
+    },
+    {
+      "id": "the-ten-heads-q25",
+      "difficulty": "hard",
+      "q": "According to a well-known tradition, why did the infant Ravana receive the name 'Dashagriva' or the description of ten heads?",
+      "options": ["He was born with ten heads", "He wore a necklace whose reflections appeared as ten faces", "He grew heads as he learned each Veda", "Brahma gifted him ten heads as a reward"],
+      "answer": 1,
+      "explanation": "One tradition says a divine necklace's reflections made his single head appear as ten, giving him the name."
+    },
+    {
+      "id": "the-ten-heads-q26",
+      "difficulty": "hard",
+      "q": "Beyond the four Vedas and six shastras, some traditions count the ten heads as Ravana's grasp of all branches of knowledge, making him supreme in which scholarly field tied to his Brahmin heritage?",
+      "options": ["Metallurgy", "Vedic scholarship and ritual", "Seafaring", "Architecture alone"],
+      "answer": 1,
+      "explanation": "Ravana's part-Brahmin lineage and ten heads symbolize unmatched mastery of Vedic scholarship and ritual lore."
+    },
+    {
+      "id": "the-ten-heads-q27",
+      "difficulty": "hard",
+      "q": "Ravana is credited with composing a famous devotional hymn to his chosen deity. By what name is this stotra known?",
+      "options": ["Shiva Tandava Stotra", "Vishnu Sahasranama", "Hanuman Chalisa", "Lalita Sahasranama"],
+      "answer": 0,
+      "explanation": "The learned Ravana is traditionally said to have composed the Shiva Tandava Stotra in praise of Shiva."
+    },
+    {
+      "id": "the-ten-heads-q28",
+      "difficulty": "hard",
+      "q": "When Ravana once tried to lift Mount Kailasa, Shiva pressed it down and trapped him. What did Ravana do that earned him a Shiva-given name?",
+      "options": ["He wept and begged for years", "He sang in praise until Shiva relented", "He fought free with his weapons", "He summoned other demons to help"],
+      "answer": 1,
+      "explanation": "Pinned under Kailasa, Ravana sang Shiva's praises so beautifully that Shiva freed him and gave him the name Ravana ('one who roars')."
+    },
+    {
+      "id": "the-ten-heads-q29",
+      "difficulty": "hard",
+      "q": "In the moral allegory of the ten heads, conquering them is likened to the inner war every devotee must win. This reading frames Rama's victory chiefly as a triumph over what?",
+      "options": ["External enemies only", "The ego and base impulses", "Poverty and hunger", "Old age and death"],
+      "answer": 1,
+      "explanation": "The allegory treats slaying ten-headed Ravana as conquering the ego and vices that ruin even great learning."
+    },
+    {
+      "id": "the-ten-heads-q30",
+      "difficulty": "hard",
+      "q": "Some retellings explain that despite his ten heads of knowledge, Ravana's fatal flaw was ignoring wise counsel. Whose repeated advice to return Sita did he most notoriously reject?",
+      "options": ["Only Vibhishana's", "Both Vibhishana's and Mandodari's", "Only Kumbhakarna's", "Only Maricha's"],
+      "answer": 1,
+      "explanation": "Ravana rejected the wise counsel of both his brother Vibhishana and his queen Mandodari, who urged him to return Sita."
+    }
+  ]
+}

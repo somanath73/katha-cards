@@ -1,0 +1,245 @@
+{
+  "cardId": "bharata",
+  "questions": [
+    {
+      "id": "bharata-q01",
+      "difficulty": "easy",
+      "q": "Who was Bharata's mother?",
+      "options": ["Kausalya", "Kaikeyi", "Sumitra", "Mandodari"],
+      "answer": 1,
+      "explanation": "Bharata was the son of King Dasharatha and his second queen, Kaikeyi."
+    },
+    {
+      "id": "bharata-q02",
+      "difficulty": "easy",
+      "q": "Who was Bharata's father?",
+      "options": ["Dasharatha", "Janaka", "Ravana", "Sumantra"],
+      "answer": 0,
+      "explanation": "Bharata was a son of King Dasharatha, the ruler of Ayodhya."
+    },
+    {
+      "id": "bharata-q03",
+      "difficulty": "easy",
+      "q": "Bharata is the brother of which hero of the Ramayana?",
+      "options": ["Krishna", "Arjuna", "Rama", "Hanuman"],
+      "answer": 2,
+      "explanation": "Bharata was the younger half-brother of Rama, the central hero of the Ramayana."
+    },
+    {
+      "id": "bharata-q04",
+      "difficulty": "easy",
+      "q": "What is Bharata best remembered for doing with the throne of Ayodhya?",
+      "options": ["Ruling it as king for himself", "Refusing it and ruling in Rama's name", "Selling it to Ravana", "Destroying it"],
+      "answer": 1,
+      "explanation": "Bharata refused the throne won by his mother's scheme and ruled only as Rama's steward."
+    },
+    {
+      "id": "bharata-q05",
+      "difficulty": "easy",
+      "q": "What did Bharata place upon the throne to represent the true king?",
+      "options": ["Rama's crown", "Rama's bow", "Rama's sandals", "Rama's robe"],
+      "answer": 2,
+      "explanation": "Bharata placed Rama's wooden sandals (paduka) on the throne and ruled as a regent in his name."
+    },
+    {
+      "id": "bharata-q06",
+      "difficulty": "easy",
+      "q": "Which kingdom did Bharata govern in Rama's absence?",
+      "options": ["Mithila", "Lanka", "Kishkindha", "Ayodhya"],
+      "answer": 3,
+      "explanation": "Bharata governed the kingdom of Ayodhya while Rama was in exile."
+    },
+    {
+      "id": "bharata-q07",
+      "difficulty": "easy",
+      "q": "For how long was Rama exiled, the period during which Bharata served as regent?",
+      "options": ["Fourteen years", "Seven years", "Twelve years", "One year"],
+      "answer": 0,
+      "explanation": "Rama was exiled for fourteen years, and Bharata ruled as steward for that entire time."
+    },
+    {
+      "id": "bharata-q08",
+      "difficulty": "easy",
+      "q": "Which brother was Bharata's closest and constant companion?",
+      "options": ["Rama", "Lakshmana", "Shatrughna", "Vibhishana"],
+      "answer": 2,
+      "explanation": "Shatrughna, Sumitra's son, was Bharata's devoted companion, just as Lakshmana served Rama."
+    },
+    {
+      "id": "bharata-q09",
+      "difficulty": "easy",
+      "q": "How did Bharata feel about his mother's scheme to win him the throne?",
+      "options": ["Grateful and pleased", "Indifferent", "Horrified and ashamed", "Proud and ambitious"],
+      "answer": 2,
+      "explanation": "Bharata was horrified and condemned his mother Kaikeyi for exiling Rama on his behalf."
+    },
+    {
+      "id": "bharata-q10",
+      "difficulty": "easy",
+      "q": "Where was Bharata when Rama was sent into exile and Dasharatha died?",
+      "options": ["In Ayodhya", "Away at his maternal uncle's home", "In the forest with Rama", "In Lanka"],
+      "answer": 1,
+      "explanation": "Bharata was visiting his maternal grandfather's kingdom and was absent during these events."
+    },
+    {
+      "id": "bharata-q11",
+      "difficulty": "medium",
+      "q": "What was the name of Bharata's wife?",
+      "options": ["Sita", "Urmila", "Mandavi", "Shrutakirti"],
+      "answer": 2,
+      "explanation": "Bharata married Mandavi, a cousin of Sita, in the group wedding of Dasharatha's sons at Mithila."
+    },
+    {
+      "id": "bharata-q12",
+      "difficulty": "medium",
+      "q": "To which kingdom did Bharata travel, summoned home after Dasharatha's death?",
+      "options": ["The kingdom of the Kekayas", "Kishkindha", "Janakpur", "Panchavati"],
+      "answer": 0,
+      "explanation": "Bharata was at the Kekaya kingdom, the realm of his maternal grandfather King Ashwapati."
+    },
+    {
+      "id": "bharata-q13",
+      "difficulty": "medium",
+      "q": "Whom did Bharata blame and harshly rebuke for Rama's exile and his father's death?",
+      "options": ["Rama", "His mother Kaikeyi", "Lakshmana", "Sage Vasishtha"],
+      "answer": 1,
+      "explanation": "Bharata bitterly denounced his mother Kaikeyi, disowning her actions and her boons."
+    },
+    {
+      "id": "bharata-q14",
+      "difficulty": "medium",
+      "q": "Where did Bharata go to plead with Rama to return and take the throne?",
+      "options": ["Lanka", "Chitrakuta", "Kishkindha", "Mithila"],
+      "answer": 1,
+      "explanation": "Bharata led a procession to Chitrakuta, where Rama was living in exile, to beg him to return."
+    },
+    {
+      "id": "bharata-q15",
+      "difficulty": "medium",
+      "q": "How did Rama respond to Bharata's plea to abandon the exile and rule?",
+      "options": ["He agreed at once", "He refused, honoring their father's word", "He grew angry with Bharata", "He fled deeper into the forest"],
+      "answer": 1,
+      "explanation": "Rama declined, insisting he must keep his father's vow and complete the fourteen years of exile."
+    },
+    {
+      "id": "bharata-q16",
+      "difficulty": "medium",
+      "q": "After receiving Rama's sandals, where did Bharata choose to live while serving as regent?",
+      "options": ["In the royal palace of Ayodhya", "In the village of Nandigrama", "In the forest at Chitrakuta", "On Mount Kailasa"],
+      "answer": 1,
+      "explanation": "Bharata lived austerely at Nandigrama, outside Ayodhya, ruling in Rama's name from there."
+    },
+    {
+      "id": "bharata-q17",
+      "difficulty": "medium",
+      "q": "How did Bharata live during the years he ruled as regent?",
+      "options": ["In royal luxury", "As an ascetic, like an exile himself", "Hidden in disguise", "Traveling abroad constantly"],
+      "answer": 1,
+      "explanation": "Bharata adopted an ascetic life of matted hair and bark garments, sharing his brother's hardship in spirit."
+    },
+    {
+      "id": "bharata-q18",
+      "difficulty": "medium",
+      "q": "Whom did Bharata wish to install as the rightful ruler of Ayodhya?",
+      "options": ["Himself", "Rama", "Shatrughna", "Lakshmana"],
+      "answer": 1,
+      "explanation": "Bharata never wanted the crown for himself and insisted that only Rama was the lawful king."
+    },
+    {
+      "id": "bharata-q19",
+      "difficulty": "medium",
+      "q": "Which sandals did Bharata enthrone, and what did they symbolize?",
+      "options": ["His own, to mark his rule", "Rama's, to mark Rama as the true sovereign", "Dasharatha's, to honor the dead king", "Lakshmana's, as a guardian symbol"],
+      "answer": 1,
+      "explanation": "Rama's sandals on the throne signified that Rama remained king and Bharata governed only on his behalf."
+    },
+    {
+      "id": "bharata-q20",
+      "difficulty": "medium",
+      "q": "What vow did Bharata reportedly make if Rama did not return on the appointed day?",
+      "options": ["To wage war on Rama", "To enter a fire and end his life", "To crown himself king", "To leave India forever"],
+      "answer": 1,
+      "explanation": "Tradition holds Bharata vowed to immolate himself if Rama failed to return when the exile ended."
+    },
+    {
+      "id": "bharata-q21",
+      "difficulty": "medium",
+      "q": "Which devoted messenger flew ahead to assure Bharata that Rama was returning?",
+      "options": ["Jatayu", "Hanuman", "Sugriva", "Sampati"],
+      "answer": 1,
+      "explanation": "Hanuman went ahead to Nandigrama to bring Bharata the joyful news of Rama's imminent return."
+    },
+    {
+      "id": "bharata-q22",
+      "difficulty": "medium",
+      "q": "How is Bharata generally regarded in the tradition of the Ramayana?",
+      "options": ["As a villain", "As a model of selfless devotion and duty", "As a coward", "As a usurper"],
+      "answer": 1,
+      "explanation": "Bharata is celebrated as an ideal of brotherly love, renunciation, and dharma."
+    },
+    {
+      "id": "bharata-q23",
+      "difficulty": "hard",
+      "q": "Who was the maternal grandfather of Bharata, at whose kingdom he was staying?",
+      "options": ["Janaka", "Ashwapati", "Kushadhwaja", "Romapada"],
+      "answer": 1,
+      "explanation": "King Ashwapati of the Kekayas was Kaikeyi's father and thus Bharata's maternal grandfather."
+    },
+    {
+      "id": "bharata-q24",
+      "difficulty": "hard",
+      "q": "Which uncle (Kaikeyi's brother) was associated with Bharata's stay in the Kekaya land?",
+      "options": ["Yudhajit", "Vibhishana", "Kumbhakarna", "Sumantra"],
+      "answer": 0,
+      "explanation": "Yudhajit, Kaikeyi's brother, was Bharata's maternal uncle, and Bharata had gone to that kingdom."
+    },
+    {
+      "id": "bharata-q25",
+      "difficulty": "hard",
+      "q": "Whom did Bharata perform the funeral rites for upon returning to Ayodhya?",
+      "options": ["Rama", "King Dasharatha", "Manthara", "Sage Vasishtha"],
+      "answer": 1,
+      "explanation": "Bharata returned to find his father Dasharatha dead and performed the king's final rites."
+    },
+    {
+      "id": "bharata-q26",
+      "difficulty": "hard",
+      "q": "Which sage and family priest counseled Bharata and urged him to accept kingship for the people's sake?",
+      "options": ["Vishwamitra", "Vasishtha", "Agastya", "Bharadwaja"],
+      "answer": 1,
+      "explanation": "Vasishtha, the royal preceptor of the Ikshvakus, advised Bharata, though Bharata still refused the crown for himself."
+    },
+    {
+      "id": "bharata-q27",
+      "difficulty": "hard",
+      "q": "At whose hermitage was Bharata's great army hosted on the way to Chitrakuta?",
+      "options": ["Atri's", "Agastya's", "Bharadwaja's", "Valmiki's"],
+      "answer": 2,
+      "explanation": "The sage Bharadwaja miraculously feasted Bharata's entire host at his ashram during the journey."
+    },
+    {
+      "id": "bharata-q28",
+      "difficulty": "hard",
+      "q": "When Bharata's vast army approached, why did Lakshmana initially grow suspicious?",
+      "options": ["He feared Bharata came to attack Rama", "He thought it was Ravana's army", "He believed it was a hunting party", "He suspected demons in disguise"],
+      "answer": 0,
+      "explanation": "Lakshmana suspected Bharata might be coming with troops to harm Rama, until Rama reassured him of Bharata's love."
+    },
+    {
+      "id": "bharata-q29",
+      "difficulty": "hard",
+      "q": "Which of Bharata's sons is named in later tradition as founding a city?",
+      "options": ["Lava", "Taksha", "Angada", "Chandraketu"],
+      "answer": 1,
+      "explanation": "Bharata's sons Taksha and Pushkala are said to have founded Takshashila and Pushkalavati."
+    },
+    {
+      "id": "bharata-q30",
+      "difficulty": "hard",
+      "q": "Into which book (kanda) of the Valmiki Ramayana does Bharata's central role in refusing the throne mainly fall?",
+      "options": ["Bala Kanda", "Ayodhya Kanda", "Aranya Kanda", "Yuddha Kanda"],
+      "answer": 1,
+      "explanation": "Bharata's refusal of the throne and his pilgrimage to Chitrakuta occur in the Ayodhya Kanda."
+    }
+  ]
+}

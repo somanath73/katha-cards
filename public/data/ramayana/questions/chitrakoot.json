@@ -1,0 +1,245 @@
+{
+  "cardId": "chitrakoot",
+  "questions": [
+    {
+      "id": "chitrakoot-q01",
+      "difficulty": "easy",
+      "q": "What kind of place is Chitrakoot in the Ramayana?",
+      "options": ["A forested hill region", "A great ocean port", "A desert fortress", "A snowy mountain peak"],
+      "answer": 0,
+      "explanation": "Chitrakoot is a forested hill region where Rama settled during the early part of his exile."
+    },
+    {
+      "id": "chitrakoot-q02",
+      "difficulty": "easy",
+      "q": "During which period of his life did Rama settle at Chitrakoot?",
+      "options": ["His childhood in Ayodhya", "His early exile", "His reign as king", "His student years with a guru"],
+      "answer": 1,
+      "explanation": "Rama made Chitrakoot his dwelling place in the early portion of his fourteen-year exile."
+    },
+    {
+      "id": "chitrakoot-q03",
+      "difficulty": "easy",
+      "q": "Who accompanied Rama when he lived at Chitrakoot?",
+      "options": ["Hanuman and Sugriva", "Bharata and Shatrughna", "Sita and Lakshmana", "Vibhishana and Jambavan"],
+      "answer": 2,
+      "explanation": "Rama lived at Chitrakoot together with his wife Sita and his brother Lakshmana."
+    },
+    {
+      "id": "chitrakoot-q04",
+      "difficulty": "easy",
+      "q": "Which brother of Rama came to Chitrakoot to plead for his return?",
+      "options": ["Bharata", "Lakshmana", "Shatrughna", "Vibhishana"],
+      "answer": 0,
+      "explanation": "Bharata journeyed to Chitrakoot to beg Rama to come back and rule Ayodhya."
+    },
+    {
+      "id": "chitrakoot-q05",
+      "difficulty": "easy",
+      "q": "What did Rama build to live in at Chitrakoot?",
+      "options": ["A stone palace", "A leaf-and-wood hermitage hut", "A floating boat-house", "A cave fortress"],
+      "answer": 1,
+      "explanation": "Rama built a simple thatched hermitage of leaves and wood to live in at Chitrakoot."
+    },
+    {
+      "id": "chitrakoot-q06",
+      "difficulty": "easy",
+      "q": "Why was Rama living in the forest rather than in Ayodhya?",
+      "options": ["He was banished by his guru", "He was searching for a lost kingdom", "He was fulfilling an exile of fourteen years", "He was leading an army to war"],
+      "answer": 2,
+      "explanation": "Rama was honoring the fourteen-year exile that resulted from Kaikeyi's boons to King Dasharatha."
+    },
+    {
+      "id": "chitrakoot-q07",
+      "difficulty": "easy",
+      "q": "What was the general character of Chitrakoot's surroundings?",
+      "options": ["Barren and lifeless", "A crowded marketplace city", "Frozen tundra", "Lush forests, rivers, and wildlife"],
+      "answer": 3,
+      "explanation": "Chitrakoot is described as a beautiful place rich in forests, flowing streams, and abundant wildlife."
+    },
+    {
+      "id": "chitrakoot-q08",
+      "difficulty": "easy",
+      "q": "Whom did Bharata want to install as king when he came to Chitrakoot?",
+      "options": ["Rama", "Lakshmana", "Himself", "Shatrughna"],
+      "answer": 0,
+      "explanation": "Bharata urged Rama to return and take the throne of Ayodhya, which Bharata refused to rule himself."
+    },
+    {
+      "id": "chitrakoot-q09",
+      "difficulty": "easy",
+      "q": "What sad news did Bharata bring to Rama at Chitrakoot?",
+      "options": ["That Lanka had fallen", "That their father Dasharatha had died", "That Sita had been captured", "That Ayodhya had been destroyed"],
+      "answer": 1,
+      "explanation": "Bharata informed Rama that their father, King Dasharatha, had died grieving over Rama's exile."
+    },
+    {
+      "id": "chitrakoot-q10",
+      "difficulty": "easy",
+      "q": "Did Rama agree to return to Ayodhya when Bharata asked him at Chitrakoot?",
+      "options": ["Yes, he returned at once", "No, he chose to complete his exile", "He returned but left again the next day", "He sent Lakshmana back in his place"],
+      "answer": 1,
+      "explanation": "Rama refused to break his vow and insisted on completing the full term of his exile."
+    },
+    {
+      "id": "chitrakoot-q11",
+      "difficulty": "medium",
+      "q": "Which sage advised Rama to settle at Chitrakoot during his exile?",
+      "options": ["Sage Vishvamitra", "Sage Vasishtha", "Sage Bharadwaja", "Sage Agastya"],
+      "answer": 2,
+      "explanation": "The sage Bharadwaja, at whose hermitage Rama stopped, recommended Chitrakoot as an ideal place to dwell."
+    },
+    {
+      "id": "chitrakoot-q12",
+      "difficulty": "medium",
+      "q": "Near which river is Chitrakoot situated in the Ramayana?",
+      "options": ["The Mandakini", "The Sarayu", "The Kaveri", "The Sindhu"],
+      "answer": 0,
+      "explanation": "Chitrakoot lies beside the river Mandakini, whose waters are praised in Valmiki's descriptions."
+    },
+    {
+      "id": "chitrakoot-q13",
+      "difficulty": "medium",
+      "q": "At whose hermitage did Rama's party rest before reaching Chitrakoot?",
+      "options": ["Atri's hermitage", "Bharadwaja's hermitage", "Agastya's hermitage", "Sharabhanga's hermitage"],
+      "answer": 1,
+      "explanation": "Rama, Sita, and Lakshmana visited the hermitage of sage Bharadwaja near Prayaga before going on to Chitrakoot."
+    },
+    {
+      "id": "chitrakoot-q14",
+      "difficulty": "medium",
+      "q": "Who built the leaf hut for Rama and Sita at Chitrakoot?",
+      "options": ["Sita herself", "Lakshmana", "Local forest sages", "Guha the boatman"],
+      "answer": 1,
+      "explanation": "Lakshmana constructed the thatched hermitage of branches and leaves for Rama and Sita to live in."
+    },
+    {
+      "id": "chitrakoot-q15",
+      "difficulty": "medium",
+      "q": "When Bharata set out for Chitrakoot, who went along with him?",
+      "options": ["Only his army, leaving the queens behind", "A large retinue including ministers, the queen mothers, and citizens", "Just Shatrughna alone", "The sage Vishvamitra and his disciples"],
+      "answer": 1,
+      "explanation": "Bharata travelled to Chitrakoot with a great company, including the royal mothers, ministers, priests, and many citizens."
+    },
+    {
+      "id": "chitrakoot-q16",
+      "difficulty": "medium",
+      "q": "What did Bharata carry back from Chitrakoot to rule in Rama's name?",
+      "options": ["Rama's bow", "Rama's wooden sandals (paduka)", "Rama's crown", "Rama's sacred thread"],
+      "answer": 1,
+      "explanation": "Rama gave Bharata his wooden sandals, which Bharata placed on the throne to rule as Rama's representative."
+    },
+    {
+      "id": "chitrakoot-q17",
+      "difficulty": "medium",
+      "q": "From where did Bharata rule the kingdom while waiting for Rama's return?",
+      "options": ["From the palace in Ayodhya", "From the village of Nandigrama", "From the forest of Chitrakoot", "From the city of Mithila"],
+      "answer": 1,
+      "explanation": "Bharata governed from Nandigrama, living austerely outside Ayodhya with Rama's sandals on the throne."
+    },
+    {
+      "id": "chitrakoot-q18",
+      "difficulty": "medium",
+      "q": "How did Rama justify refusing Bharata's plea to return from Chitrakoot?",
+      "options": ["He no longer wished to be king", "He must honor their father's word and his own vow", "He feared the people of Ayodhya", "He was bound by a curse"],
+      "answer": 1,
+      "explanation": "Rama insisted that duty required him to uphold Dasharatha's promise and his own exile vow."
+    },
+    {
+      "id": "chitrakoot-q19",
+      "difficulty": "medium",
+      "q": "Which two queen mothers, among others, accompanied Bharata to Chitrakoot to see Rama?",
+      "options": ["Kaushalya and Sumitra", "Mandodari and Tara", "Sita and Urmila", "Ahalya and Anasuya"],
+      "answer": 0,
+      "explanation": "The queen mothers Kaushalya and Sumitra, along with Kaikeyi, went with Bharata to Chitrakoot."
+    },
+    {
+      "id": "chitrakoot-q20",
+      "difficulty": "medium",
+      "q": "What is Chitrakoot remembered for in the larger arc of Rama's exile?",
+      "options": ["The place where Sita was abducted", "The site of the reunion with Bharata and the sandals episode", "The location of the war with Ravana", "The grove where Hanuman first met Rama"],
+      "answer": 1,
+      "explanation": "Chitrakoot is famed for Bharata's visit, the emotional reunion, and the giving of the sandals."
+    },
+    {
+      "id": "chitrakoot-q21",
+      "difficulty": "medium",
+      "q": "Which celebrated sage couple did Rama and Sita visit near Chitrakoot?",
+      "options": ["Atri and Anasuya", "Gautama and Ahalya", "Kashyapa and Aditi", "Jamadagni and Renuka"],
+      "answer": 0,
+      "explanation": "Rama and Sita visited the hermitage of the sage Atri and his devoted wife Anasuya in the Chitrakoot region."
+    },
+    {
+      "id": "chitrakoot-q22",
+      "difficulty": "medium",
+      "q": "What gift did the pious Anasuya give to Sita near Chitrakoot?",
+      "options": ["A magical bow", "Celestial ornaments, garments, and unfading garlands", "A golden chariot", "A protective amulet against rakshasas"],
+      "answer": 1,
+      "explanation": "Anasuya gave Sita divine ornaments, fine garments, and ever-fresh garlands and unguents as a blessing."
+    },
+    {
+      "id": "chitrakoot-q23",
+      "difficulty": "hard",
+      "q": "Why did Rama eventually leave Chitrakoot after Bharata's departure?",
+      "options": ["The Mandakini river had dried up", "Crowds of sorrowing visitors and reminders of home disturbed his peace", "He was driven out by rakshasas", "A famine struck the region"],
+      "answer": 1,
+      "explanation": "Rama left Chitrakoot partly because the place reminded him of the sorrow of Ayodhya and was thronged by visitors."
+    },
+    {
+      "id": "chitrakoot-q24",
+      "difficulty": "hard",
+      "q": "To which sage's hermitage did Rama journey after leaving Chitrakoot?",
+      "options": ["Sage Atri's hermitage", "Sage Bharadwaja's hermitage", "Sage Sharabhanga's hermitage", "Sage Vasishtha's hermitage"],
+      "answer": 0,
+      "explanation": "After leaving Chitrakoot, Rama proceeded toward the hermitage of the venerable sage Atri."
+    },
+    {
+      "id": "chitrakoot-q25",
+      "difficulty": "hard",
+      "q": "Which Kanda (book) of Valmiki's Ramayana chiefly contains the Chitrakoot episode?",
+      "options": ["Bala Kanda", "Aranya Kanda", "Sundara Kanda", "Ayodhya Kanda"],
+      "answer": 3,
+      "explanation": "The events at Chitrakoot, including Bharata's visit, are narrated in the Ayodhya Kanda."
+    },
+    {
+      "id": "chitrakoot-q26",
+      "difficulty": "hard",
+      "q": "What did Rama do at Chitrakoot upon hearing of Dasharatha's death?",
+      "options": ["He immediately marched on Ayodhya", "He performed funerary water-offerings (tarpana) for his father", "He renounced the throne forever in writing", "He cursed Kaikeyi"],
+      "answer": 1,
+      "explanation": "On learning of his father's death, Rama, with his brothers, performed the customary water-offerings for Dasharatha."
+    },
+    {
+      "id": "chitrakoot-q27",
+      "difficulty": "hard",
+      "q": "Who first sighted Bharata's approaching army from a height and grew suspicious at Chitrakoot?",
+      "options": ["Rama", "Sita", "Lakshmana", "Sage Bharadwaja"],
+      "answer": 2,
+      "explanation": "Lakshmana spotted Bharata's advancing host and, suspecting hostile intent, grew alarmed before Rama calmed him."
+    },
+    {
+      "id": "chitrakoot-q28",
+      "difficulty": "hard",
+      "q": "How did Rama reassure Lakshmana about Bharata's intentions at Chitrakoot?",
+      "options": ["He said Bharata came in love and devotion, not as an enemy", "He ordered Lakshmana to prepare for battle", "He decided to flee deeper into the forest", "He sent Sita to negotiate"],
+      "answer": 0,
+      "explanation": "Rama assured Lakshmana that Bharata, full of affection, was coming to entreat him and meant no harm."
+    },
+    {
+      "id": "chitrakoot-q29",
+      "difficulty": "hard",
+      "q": "What role did the sage Vasishtha play during the gathering at Chitrakoot?",
+      "options": ["He led an army against Rama", "He acted as royal priest and helped urge reconciliation", "He cursed Bharata for his ambition", "He refused to attend the meeting"],
+      "answer": 1,
+      "explanation": "The family priest Vasishtha accompanied the party and supported the appeals for Rama's return."
+    },
+    {
+      "id": "chitrakoot-q30",
+      "difficulty": "hard",
+      "q": "What enduring devotional significance is associated with Chitrakoot in tradition?",
+      "options": ["It is the birthplace of Hanuman", "It is revered as a sacred pilgrimage site linked to Rama's exile", "It is the site where Ravana was slain", "It is where the Pushpaka chariot was first built"],
+      "answer": 1,
+      "explanation": "Chitrakoot is honored as a holy pilgrimage place because of its association with Rama's stay during exile."
+    }
+  ]
+}

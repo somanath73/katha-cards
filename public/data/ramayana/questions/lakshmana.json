@@ -1,0 +1,245 @@
+{
+  "cardId": "lakshmana",
+  "questions": [
+    {
+      "id": "lakshmana-q01",
+      "difficulty": "easy",
+      "q": "Whose devoted brother is Lakshmana, accompanying him into exile?",
+      "options": ["Rama", "Bharata", "Shatrughna", "Sugriva"],
+      "answer": 0,
+      "explanation": "Lakshmana is the devoted brother of Rama and followed him into the forest exile."
+    },
+    {
+      "id": "lakshmana-q02",
+      "difficulty": "easy",
+      "q": "Who was the father of Lakshmana?",
+      "options": ["Janaka", "Dasharatha", "Vishvamitra", "Sumitra"],
+      "answer": 1,
+      "explanation": "Lakshmana was one of the four sons of King Dasharatha of Ayodhya."
+    },
+    {
+      "id": "lakshmana-q03",
+      "difficulty": "easy",
+      "q": "Who was the mother of Lakshmana?",
+      "options": ["Kaushalya", "Kaikeyi", "Sumitra", "Mandavi"],
+      "answer": 2,
+      "explanation": "Lakshmana was born to Sumitra, the third queen of Dasharatha."
+    },
+    {
+      "id": "lakshmana-q04",
+      "difficulty": "easy",
+      "q": "Which kingdom was Lakshmana a prince of?",
+      "options": ["Mithila", "Kishkindha", "Ayodhya", "Lanka"],
+      "answer": 2,
+      "explanation": "Lakshmana was a prince of the kingdom of Ayodhya, ruled by Dasharatha."
+    },
+    {
+      "id": "lakshmana-q05",
+      "difficulty": "easy",
+      "q": "How many years of exile did Lakshmana share with Rama and Sita?",
+      "options": ["Twelve years", "Fourteen years", "Ten years", "Twenty years"],
+      "answer": 1,
+      "explanation": "Lakshmana accompanied Rama and Sita for the full fourteen years of forest exile."
+    },
+    {
+      "id": "lakshmana-q06",
+      "difficulty": "easy",
+      "q": "Whom did Lakshmana serve and protect alongside Rama during the exile?",
+      "options": ["Sita", "Urmila", "Mandodari", "Tara"],
+      "answer": 0,
+      "explanation": "Lakshmana tirelessly served and guarded both Rama and Sita throughout the exile."
+    },
+    {
+      "id": "lakshmana-q07",
+      "difficulty": "easy",
+      "q": "Which weapon is Lakshmana most associated with as a warrior?",
+      "options": ["The mace", "The bow and arrow", "The trident", "The discus"],
+      "answer": 1,
+      "explanation": "Like Rama, Lakshmana was a master archer skilled with the bow and arrow."
+    },
+    {
+      "id": "lakshmana-q08",
+      "difficulty": "easy",
+      "q": "Lakshmana is often described as which figure in relation to Rama?",
+      "options": ["Rama's rival", "Rama's shadow", "Rama's teacher", "Rama's enemy"],
+      "answer": 1,
+      "explanation": "Lakshmana is famously called 'Rama's shadow' for his constant, devoted companionship."
+    },
+    {
+      "id": "lakshmana-q09",
+      "difficulty": "easy",
+      "q": "To which broad class of beings did the foes Lakshmana battled, like Ravana's kin, belong?",
+      "options": ["Devas", "Gandharvas", "Rakshasas", "Nagas"],
+      "answer": 2,
+      "explanation": "Lakshmana fought many rakshasas (demons), the race to which Ravana and his family belonged."
+    },
+    {
+      "id": "lakshmana-q10",
+      "difficulty": "easy",
+      "q": "Lakshmana chose to live in the forest rather than remain comfortably where?",
+      "options": ["In the palace at Ayodhya", "In Mithila", "In Kishkindha", "On Mount Kailasa"],
+      "answer": 0,
+      "explanation": "Lakshmana gave up the comforts of the Ayodhya palace to serve Rama in exile."
+    },
+    {
+      "id": "lakshmana-q11",
+      "difficulty": "medium",
+      "q": "Who was the wife of Lakshmana, left behind in Ayodhya during the exile?",
+      "options": ["Mandavi", "Shrutakirti", "Urmila", "Sita"],
+      "answer": 2,
+      "explanation": "Lakshmana married Urmila, Sita's sister, who remained in Ayodhya during his exile."
+    },
+    {
+      "id": "lakshmana-q12",
+      "difficulty": "medium",
+      "q": "Which rakshasa prince, son of Ravana, did Lakshmana ultimately slay?",
+      "options": ["Indrajit (Meghanada)", "Kumbhakarna", "Khara", "Atikaya"],
+      "answer": 0,
+      "explanation": "Lakshmana killed Indrajit, also called Meghanada, Ravana's mightiest son."
+    },
+    {
+      "id": "lakshmana-q13",
+      "difficulty": "medium",
+      "q": "Lakshmana was the twin brother of which of Dasharatha's sons, both born to Sumitra?",
+      "options": ["Rama", "Bharata", "Shatrughna", "Indrajit"],
+      "answer": 2,
+      "explanation": "Lakshmana and Shatrughna were the twin sons of Sumitra."
+    },
+    {
+      "id": "lakshmana-q14",
+      "difficulty": "medium",
+      "q": "Which demoness did Lakshmana punish by cutting off her nose and ears at Panchavati?",
+      "options": ["Tataka", "Shurpanakha", "Trijata", "Ayomukhi"],
+      "answer": 1,
+      "explanation": "Lakshmana mutilated Shurpanakha, Ravana's sister, after she threatened Sita."
+    },
+    {
+      "id": "lakshmana-q15",
+      "difficulty": "medium",
+      "q": "What protective boundary did Lakshmana draw around the hut before leaving Sita to find Rama?",
+      "options": ["A circle of fire", "The Lakshmana Rekha", "A wall of arrows", "A ring of stones"],
+      "answer": 1,
+      "explanation": "By tradition Lakshmana drew the Lakshmana Rekha, a protective line Sita was not to cross."
+    },
+    {
+      "id": "lakshmana-q16",
+      "difficulty": "medium",
+      "q": "When Bharata came to the forest with an army, what did Lakshmana initially suspect?",
+      "options": ["That Bharata came to attack Rama", "That Bharata was a demon in disguise", "That Bharata sought Sita", "That Bharata wished to join the exile"],
+      "answer": 0,
+      "explanation": "Lakshmana grew angry, suspecting Bharata had come with the army to harm Rama, until Rama calmed him."
+    },
+    {
+      "id": "lakshmana-q17",
+      "difficulty": "medium",
+      "q": "After Ravana abducted Sita, whom did Rama and Lakshmana befriend as an ally in the search?",
+      "options": ["Vali", "Sugriva", "Vibhishana", "Jatayu"],
+      "answer": 1,
+      "explanation": "Rama and Lakshmana allied with the monkey-king Sugriva to help find and rescue Sita."
+    },
+    {
+      "id": "lakshmana-q18",
+      "difficulty": "medium",
+      "q": "Lakshmana was an incarnation (amsha) of which divine being in tradition?",
+      "options": ["Brahma", "Shesha (Ananta)", "Indra", "Agni"],
+      "answer": 1,
+      "explanation": "Tradition holds Lakshmana to be an incarnation of Shesha, the serpent on whom Vishnu reclines."
+    },
+    {
+      "id": "lakshmana-q19",
+      "difficulty": "medium",
+      "q": "Who tricked Lakshmana into leaving Sita's side by imitating Rama's cry for help?",
+      "options": ["Maricha", "Subahu", "Kabandha", "Viradha"],
+      "answer": 0,
+      "explanation": "The demon Maricha, as the golden deer, mimicked Rama's voice, luring Lakshmana away so Ravana could seize Sita."
+    },
+    {
+      "id": "lakshmana-q20",
+      "difficulty": "medium",
+      "q": "During the war, when Lakshmana fell gravely wounded, what was needed to save him?",
+      "options": ["The Sanjivani herb from a mountain", "A potion from Vibhishana", "Holy water from the Sarayu", "A boon from Indra"],
+      "answer": 0,
+      "explanation": "Hanuman fetched the life-restoring Sanjivani herb (from Mount Dronagiri) to heal the wounded Lakshmana."
+    },
+    {
+      "id": "lakshmana-q21",
+      "difficulty": "medium",
+      "q": "Which loyal devotee flew to bring the healing herb when Lakshmana lay near death?",
+      "options": ["Angada", "Jambavan", "Hanuman", "Nala"],
+      "answer": 2,
+      "explanation": "Hanuman carried the entire mountain bearing the Sanjivani herb to revive Lakshmana."
+    },
+    {
+      "id": "lakshmana-q22",
+      "difficulty": "medium",
+      "q": "According to tradition, what penance allowed Lakshmana to remain awake during the exile, earning him the name Gudakesha?",
+      "options": ["He never ate any food", "He conquered sleep, giving his share to his wife Urmila", "He meditated without breathing", "He stood on one leg for years"],
+      "answer": 1,
+      "explanation": "Tradition says Lakshmana conquered sleep so as to guard Rama and Sita, and Urmila slept on his behalf."
+    },
+    {
+      "id": "lakshmana-q23",
+      "difficulty": "hard",
+      "q": "Why was Lakshmana able to kill Indrajit when others could not, according to tradition?",
+      "options": ["He used a weapon from Agni", "Indrajit could only be slain by one who had conquered sleep and fasted", "He wore enchanted armor", "He attacked from the sky"],
+      "answer": 1,
+      "explanation": "Tradition holds Indrajit could be killed only by a man who had not slept or eaten for fourteen years, conditions Lakshmana fulfilled."
+    },
+    {
+      "id": "lakshmana-q24",
+      "difficulty": "hard",
+      "q": "At which sacred site did Lakshmana sever Indrajit's connection to his power before slaying him?",
+      "options": ["The Ashoka grove", "Nikumbhila, where Indrajit performed his secret sacrifice", "The shores of Lanka", "Mount Trikuta's peak"],
+      "answer": 1,
+      "explanation": "Lakshmana attacked Indrajit at Nikumbhila, interrupting the rite that would have made him invincible."
+    },
+    {
+      "id": "lakshmana-q25",
+      "difficulty": "hard",
+      "q": "When Rama in despair spoke of giving up after Sita's abduction, what role did Lakshmana take?",
+      "options": ["He left to find Sita alone", "He counseled and steadied Rama, urging him to act", "He returned to Ayodhya for help", "He fell silent and grieved"],
+      "answer": 1,
+      "explanation": "Lakshmana repeatedly encouraged and steadied the grieving Rama, urging resolute action."
+    },
+    {
+      "id": "lakshmana-q26",
+      "difficulty": "hard",
+      "q": "In the Uttara Kanda, what ultimately led to Lakshmana's death after the return to Ayodhya?",
+      "options": ["He died in a later battle", "Rama was bound to renounce him after he interrupted a fateful meeting with Yama", "He was cursed by a sage", "He drowned in the Sarayu in battle"],
+      "answer": 1,
+      "explanation": "When Lakshmana interrupted Rama's private meeting with Time/Yama, Rama was bound by his word to renounce him, and Lakshmana then gave up his life."
+    },
+    {
+      "id": "lakshmana-q27",
+      "difficulty": "hard",
+      "q": "Which demon, encountered early in the exile, seized Rama and Lakshmana in his long arms before they freed themselves?",
+      "options": ["Kabandha", "Viradha", "Kumbhakarna", "Dhumraksha"],
+      "answer": 1,
+      "explanation": "The rakshasa Viradha seized the brothers in the Dandaka forest; they slew him and freed themselves."
+    },
+    {
+      "id": "lakshmana-q28",
+      "difficulty": "hard",
+      "q": "Whom did Lakshmana sternly rebuke and threaten when an ally delayed mustering forces to search for Sita?",
+      "options": ["Vibhishana", "Sugriva", "Jambavan", "Hanuman"],
+      "answer": 1,
+      "explanation": "Lakshmana confronted Sugriva for indulging in pleasures and neglecting his promise to help find Sita."
+    },
+    {
+      "id": "lakshmana-q29",
+      "difficulty": "hard",
+      "q": "According to tradition, when Lakshmana could not look upon Sita's ornaments, which jewelry could he reliably identify?",
+      "options": ["Her necklaces", "Her earrings", "Her anklets (nupura)", "Her bracelets"],
+      "answer": 2,
+      "explanation": "Out of pure reverence Lakshmana never raised his eyes above Sita's feet, so he recognized only her anklets."
+    },
+    {
+      "id": "lakshmana-q30",
+      "difficulty": "hard",
+      "q": "After Rama's coronation, which kingdom is Lakshmana said in tradition to have had his sons rule?",
+      "options": ["Angada and Chandraketu's realms (e.g., near the Himalayas)", "Lanka", "Kishkindha", "Mithila"],
+      "answer": 0,
+      "explanation": "Tradition holds Lakshmana's sons Angada and Chandraketu were established as rulers of territories such as Karupada and Chandrakanta."
+    }
+  ]
+}

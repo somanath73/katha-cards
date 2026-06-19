@@ -1,0 +1,245 @@
+{
+  "cardId": "slaying-of-ravana",
+  "questions": [
+    {
+      "id": "slaying-of-ravana-q01",
+      "difficulty": "easy",
+      "q": "Who killed Ravana in the great war?",
+      "options": ["Lakshmana", "Rama", "Hanuman", "Sugriva"],
+      "answer": 1,
+      "explanation": "Rama himself slew Ravana in their final duel on the battlefield of Lanka."
+    },
+    {
+      "id": "slaying-of-ravana-q02",
+      "difficulty": "easy",
+      "q": "What divine weapon did Rama use to finally kill Ravana?",
+      "options": ["Brahmastra", "Sudarshana Chakra", "Trishula", "Vajra"],
+      "answer": 0,
+      "explanation": "Rama loosed the Brahmastra, the supreme weapon, which pierced Ravana's heart."
+    },
+    {
+      "id": "slaying-of-ravana-q03",
+      "difficulty": "easy",
+      "q": "Ravana was the king of which city?",
+      "options": ["Kishkindha", "Ayodhya", "Lanka", "Mithila"],
+      "answer": 2,
+      "explanation": "Ravana ruled over the golden city of Lanka as its demon-king."
+    },
+    {
+      "id": "slaying-of-ravana-q04",
+      "difficulty": "easy",
+      "q": "How many heads is Ravana traditionally depicted as having?",
+      "options": ["Five", "Ten", "Seven", "Three"],
+      "answer": 1,
+      "explanation": "Ravana is famously known as Dashagriva, the ten-headed demon-king."
+    },
+    {
+      "id": "slaying-of-ravana-q05",
+      "difficulty": "easy",
+      "q": "Whose abduction by Ravana led to the war that ended in his death?",
+      "options": ["Sita", "Urmila", "Mandodari", "Tara"],
+      "answer": 0,
+      "explanation": "Ravana abducted Sita, Rama's wife, sparking the war that brought about his downfall."
+    },
+    {
+      "id": "slaying-of-ravana-q06",
+      "difficulty": "easy",
+      "q": "What weapon did Rama use throughout the war to fight Ravana?",
+      "options": ["Sword", "Mace", "Bow and arrows", "Spear"],
+      "answer": 2,
+      "explanation": "Rama was a master archer who fought with his bow and a quiver of arrows."
+    },
+    {
+      "id": "slaying-of-ravana-q07",
+      "difficulty": "easy",
+      "q": "Who was Rama's loyal brother who fought beside him against Ravana's forces?",
+      "options": ["Bharata", "Shatrughna", "Lakshmana", "Vibhishana"],
+      "answer": 2,
+      "explanation": "Lakshmana accompanied Rama throughout the exile and the war against Ravana."
+    },
+    {
+      "id": "slaying-of-ravana-q08",
+      "difficulty": "easy",
+      "q": "The duel that ended Ravana's life took place during the war for which city?",
+      "options": ["Lanka", "Ayodhya", "Kishkindha", "Janasthana"],
+      "answer": 0,
+      "explanation": "The climactic battle was fought outside the gates of Lanka, Ravana's kingdom."
+    },
+    {
+      "id": "slaying-of-ravana-q09",
+      "difficulty": "easy",
+      "q": "After Ravana's death, what was the world said to be freed from?",
+      "options": ["A famine", "His tyranny", "A great flood", "A plague"],
+      "answer": 1,
+      "explanation": "Ravana's slaying freed the world of his tyranny and oppression of the righteous."
+    },
+    {
+      "id": "slaying-of-ravana-q10",
+      "difficulty": "easy",
+      "q": "What army helped Rama wage the war against Ravana?",
+      "options": ["An army of vanaras (monkeys)", "An army of elephants", "The army of Ayodhya", "An army of nagas"],
+      "answer": 0,
+      "explanation": "Rama was aided by the vast vanara (monkey) army led by Sugriva and Hanuman."
+    },
+    {
+      "id": "slaying-of-ravana-q11",
+      "difficulty": "medium",
+      "q": "Who advised Rama of the secret that the source of Ravana's life lay in his navel?",
+      "options": ["Hanuman", "Vibhishana", "Sugriva", "Jambavan"],
+      "answer": 1,
+      "explanation": "Vibhishana, Ravana's righteous brother who joined Rama, revealed the secret of striking Ravana's navel."
+    },
+    {
+      "id": "slaying-of-ravana-q12",
+      "difficulty": "medium",
+      "q": "Where did the Brahmastra strike to finally end Ravana's life?",
+      "options": ["His forehead", "His throat", "His heart and chest", "His feet"],
+      "answer": 2,
+      "explanation": "In Valmiki's account the Brahmastra pierced Ravana's heart, drinking his blood and felling him."
+    },
+    {
+      "id": "slaying-of-ravana-q13",
+      "difficulty": "medium",
+      "q": "Why could Rama not kill Ravana simply by cutting off his heads?",
+      "options": ["His heads grew back instantly", "He had no heads to cut", "He was invisible", "He wore impenetrable armor"],
+      "answer": 0,
+      "explanation": "Each time Rama severed a head, a new one grew in its place until the Brahmastra was used."
+    },
+    {
+      "id": "slaying-of-ravana-q14",
+      "difficulty": "medium",
+      "q": "Which sage gave Rama the Brahmastra (the weapon of Brahma) used against Ravana?",
+      "options": ["Vasishtha", "Agastya", "Vishwamitra", "Bharadwaja"],
+      "answer": 2,
+      "explanation": "The sage Vishwamitra had earlier imparted to Rama the divine astras, including the Brahmastra."
+    },
+    {
+      "id": "slaying-of-ravana-q15",
+      "difficulty": "medium",
+      "q": "According to tradition, what hymn did sage Agastya teach Rama before the final battle with Ravana?",
+      "options": ["Gayatri Mantra", "Aditya Hridayam", "Vishnu Sahasranama", "Hanuman Chalisa"],
+      "answer": 1,
+      "explanation": "Agastya taught Rama the Aditya Hridayam, a hymn to the Sun, to gain strength for slaying Ravana."
+    },
+    {
+      "id": "slaying-of-ravana-q16",
+      "difficulty": "medium",
+      "q": "Who was Ravana's son, a mighty warrior, slain by Lakshmana before Ravana's own death?",
+      "options": ["Atikaya", "Indrajit (Meghanada)", "Akshayakumara", "Prahasta"],
+      "answer": 1,
+      "explanation": "Indrajit, also called Meghanada, was Ravana's most powerful son, killed by Lakshmana earlier in the war."
+    },
+    {
+      "id": "slaying-of-ravana-q17",
+      "difficulty": "medium",
+      "q": "Which giant brother of Ravana was slain by Rama before the final duel with Ravana?",
+      "options": ["Vibhishana", "Kumbhakarna", "Khara", "Maricha"],
+      "answer": 1,
+      "explanation": "Kumbhakarna, the colossal sleeping brother of Ravana, was killed by Rama earlier in the battle."
+    },
+    {
+      "id": "slaying-of-ravana-q18",
+      "difficulty": "medium",
+      "q": "Whose chariot did the gods send for Rama so he could fight Ravana on equal footing?",
+      "options": ["Indra's chariot driven by Matali", "Surya's chariot", "Kubera's chariot", "Yama's chariot"],
+      "answer": 0,
+      "explanation": "Indra sent his celestial chariot driven by his charioteer Matali so Rama would not fight on foot."
+    },
+    {
+      "id": "slaying-of-ravana-q19",
+      "difficulty": "medium",
+      "q": "Who was Ravana's chief queen who mourned his death?",
+      "options": ["Tara", "Mandodari", "Trijata", "Surpanakha"],
+      "answer": 1,
+      "explanation": "Mandodari, Ravana's principal queen, delivered a sorrowful lament over his fallen body."
+    },
+    {
+      "id": "slaying-of-ravana-q20",
+      "difficulty": "medium",
+      "q": "After Ravana's death, who was crowned the new king of Lanka by Rama?",
+      "options": ["Vibhishana", "Hanuman", "Angada", "Indrajit"],
+      "answer": 0,
+      "explanation": "Rama installed the virtuous Vibhishana, Ravana's brother and ally, as the new king of Lanka."
+    },
+    {
+      "id": "slaying-of-ravana-q21",
+      "difficulty": "medium",
+      "q": "What did Rama instruct Lakshmana to do regarding the dying Ravana, to learn from him?",
+      "options": ["To behead him quickly", "To approach and learn statecraft and wisdom from him", "To free his prisoners", "To burn his palace"],
+      "answer": 1,
+      "explanation": "Rama sent Lakshmana to the dying Ravana to learn lessons of statecraft and wisdom from the learned demon-king."
+    },
+    {
+      "id": "slaying-of-ravana-q22",
+      "difficulty": "medium",
+      "q": "Ravana had earned a boon that he could not be killed by which beings?",
+      "options": ["Gods, demons, and other celestial beings", "Animals and birds", "Water and fire", "Sages and kings"],
+      "answer": 0,
+      "explanation": "Ravana's boon from Brahma made him invulnerable to gods, demons and divine beings, but he scorned men, so Rama as a man could slay him."
+    },
+    {
+      "id": "slaying-of-ravana-q23",
+      "difficulty": "hard",
+      "q": "In Valmiki's Ramayana, the final duel between Rama and Ravana is described in which kanda (book)?",
+      "options": ["Aranya Kanda", "Sundara Kanda", "Yuddha Kanda", "Kishkindha Kanda"],
+      "answer": 2,
+      "explanation": "The war and Ravana's slaying are narrated in the Yuddha Kanda, the sixth book of the Ramayana."
+    },
+    {
+      "id": "slaying-of-ravana-q24",
+      "difficulty": "hard",
+      "q": "Which divine craftsman is said to have forged the Brahmastra arrow described in Rama's final shot?",
+      "options": ["Vishwakarma fashioning it for Brahma", "Tvashta for Indra", "Maya the asura architect", "Kubera the lord of wealth"],
+      "answer": 0,
+      "explanation": "The supreme arrow was said to be fashioned by Brahma through Vishwakarma, charged with the power of the gods."
+    },
+    {
+      "id": "slaying-of-ravana-q25",
+      "difficulty": "hard",
+      "q": "According to the Yuddha Kanda, what were the feathers of Rama's final Brahmastra arrow associated with?",
+      "options": ["The winds (Vayu)", "The fire (Agni and the Sun)", "The oceans", "The mountains"],
+      "answer": 1,
+      "explanation": "Valmiki describes the decisive arrow as embodying Agni and the Sun in its tip, with the wind in its feathers, blazing with cosmic power."
+    },
+    {
+      "id": "slaying-of-ravana-q26",
+      "difficulty": "hard",
+      "q": "What ominous portents are said to have appeared in Lanka as Ravana approached his death?",
+      "options": ["Rivers ran dry", "Evil omens such as bleeding idols and unnatural darkness", "The sea froze", "Trees bore golden fruit"],
+      "answer": 1,
+      "explanation": "Valmiki records dire omens in Lanka, including weeping and bleeding images and unnatural gloom, foretelling Ravana's doom."
+    },
+    {
+      "id": "slaying-of-ravana-q27",
+      "difficulty": "hard",
+      "q": "Who was Ravana's grandfather, the sage from whom his Brahminical lineage descended?",
+      "options": ["Pulastya", "Kashyapa", "Bhrigu", "Atri"],
+      "answer": 0,
+      "explanation": "Ravana was the grandson of the sage Pulastya, one of the mind-born sons of Brahma, giving him Brahmin ancestry."
+    },
+    {
+      "id": "slaying-of-ravana-q28",
+      "difficulty": "hard",
+      "q": "On which day in popular tradition is the slaying of Ravana celebrated?",
+      "options": ["Diwali", "Holi", "Vijayadashami (Dussehra)", "Rama Navami"],
+      "answer": 2,
+      "explanation": "Vijayadashami, or Dussehra, commemorates Rama's victory over Ravana, marked by burning effigies of the demon-king."
+    },
+    {
+      "id": "slaying-of-ravana-q29",
+      "difficulty": "hard",
+      "q": "What was Ravana's original name before he gained his epithet meaning 'one who makes the universe roar'?",
+      "options": ["Dashanana", "Dashagriva", "Ravana from the roar he caused under Mount Kailasa", "Lankesha"],
+      "answer": 2,
+      "explanation": "Shiva named him 'Ravana' after he was crushed under Mount Kailasa and let out a terrible roar, the name meaning one who roars."
+    },
+    {
+      "id": "slaying-of-ravana-q30",
+      "difficulty": "hard",
+      "q": "After Ravana fell, who first lamented over the body before the formal funeral rites were performed?",
+      "options": ["Surpanakha", "Mandodari and the women of the harem", "Sita", "Kaikasi alone"],
+      "answer": 1,
+      "explanation": "Mandodari and the grieving women of Ravana's harem came out to lament over his slain body before his cremation."
+    }
+  ]
+}

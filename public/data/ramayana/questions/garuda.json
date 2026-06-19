@@ -1,0 +1,245 @@
+{
+  "cardId": "garuda",
+  "questions": [
+    {
+      "id": "garuda-q01",
+      "difficulty": "easy",
+      "q": "Garuda is the divine mount (vahana) of which great god?",
+      "options": ["Shiva", "Vishnu", "Brahma", "Indra"],
+      "answer": 1,
+      "explanation": "Garuda is the celestial eagle who serves as the mount of Vishnu."
+    },
+    {
+      "id": "garuda-q02",
+      "difficulty": "easy",
+      "q": "What kind of creature is Garuda?",
+      "options": ["A lion", "A bull", "An eagle", "A swan"],
+      "answer": 2,
+      "explanation": "Garuda is depicted as a great eagle, the king of birds."
+    },
+    {
+      "id": "garuda-q03",
+      "difficulty": "easy",
+      "q": "In the Ramayana, Garuda comes to free Rama and Lakshmana from bonds made of what?",
+      "options": ["Iron chains", "Serpents", "Thorny vines", "Ropes of fire"],
+      "answer": 1,
+      "explanation": "Garuda freed the brothers from the serpent-arrows that had coiled around them."
+    },
+    {
+      "id": "garuda-q04",
+      "difficulty": "easy",
+      "q": "Garuda is the natural enemy of which kind of beings?",
+      "options": ["Serpents", "Monkeys", "Bears", "Fish"],
+      "answer": 0,
+      "explanation": "Garuda is famed as the foe of snakes (nagas), which is why his approach scattered the serpent-bonds."
+    },
+    {
+      "id": "garuda-q05",
+      "difficulty": "easy",
+      "q": "Which two brothers did Garuda revive after they fell bound on the battlefield?",
+      "options": ["Rama and Bharata", "Bharata and Shatrughna", "Rama and Lakshmana", "Lakshmana and Shatrughna"],
+      "answer": 2,
+      "explanation": "Garuda freed and revived Rama and Lakshmana, who had been struck down by serpent-arrows."
+    },
+    {
+      "id": "garuda-q06",
+      "difficulty": "easy",
+      "q": "The serpent-arrows that bound Rama and Lakshmana were fired by which warrior?",
+      "options": ["Ravana", "Kumbhakarna", "Indrajit", "Khara"],
+      "answer": 2,
+      "explanation": "Indrajit, son of Ravana, used the nagapasha (serpent-noose) weapon to bind the brothers."
+    },
+    {
+      "id": "garuda-q07",
+      "difficulty": "easy",
+      "q": "What effect did Garuda's mere approach have on the serpents binding the brothers?",
+      "options": ["It strengthened them", "It scattered them in fear", "It put them to sleep", "It turned them to stone"],
+      "answer": 1,
+      "explanation": "At the approach of Garuda, their natural enemy, the serpents fled and the bonds dissolved."
+    },
+    {
+      "id": "garuda-q08",
+      "difficulty": "easy",
+      "q": "Garuda is the king of which group of creatures?",
+      "options": ["Beasts", "Birds", "Reptiles", "Sea creatures"],
+      "answer": 1,
+      "explanation": "Garuda is honored as the king of birds in Hindu tradition."
+    },
+    {
+      "id": "garuda-q09",
+      "difficulty": "easy",
+      "q": "When Garuda departed after healing the brothers, how did Rama feel toward him?",
+      "options": ["Angry", "Indifferent", "Grateful", "Fearful"],
+      "answer": 2,
+      "explanation": "Rama was filled with gratitude and wonder at the eagle who had saved them."
+    },
+    {
+      "id": "garuda-q10",
+      "difficulty": "easy",
+      "q": "Garuda's wings are most often described as having what quality?",
+      "options": ["Golden and radiant", "Black and dull", "Small and weak", "Made of stone"],
+      "answer": 0,
+      "explanation": "Garuda is traditionally described with golden, radiant wings befitting Vishnu's mount."
+    },
+    {
+      "id": "garuda-q11",
+      "difficulty": "medium",
+      "q": "Who was the father of Garuda according to tradition?",
+      "options": ["Kashyapa", "Vasishtha", "Bhrigu", "Atri"],
+      "answer": 0,
+      "explanation": "Garuda was born to the sage Kashyapa and his wife Vinata."
+    },
+    {
+      "id": "garuda-q12",
+      "difficulty": "medium",
+      "q": "Who was the mother of Garuda?",
+      "options": ["Kadru", "Vinata", "Aditi", "Diti"],
+      "answer": 1,
+      "explanation": "Garuda's mother was Vinata, while the serpents were born of her co-wife Kadru."
+    },
+    {
+      "id": "garuda-q13",
+      "difficulty": "medium",
+      "q": "The serpents (nagas), Garuda's eternal foes, were born of which mother?",
+      "options": ["Vinata", "Aditi", "Kadru", "Danu"],
+      "answer": 2,
+      "explanation": "The serpents were the offspring of Kadru, making them cousins and rivals of Garuda."
+    },
+    {
+      "id": "garuda-q14",
+      "difficulty": "medium",
+      "q": "The serpent-weapon Indrajit used to bind the brothers is best known by what name?",
+      "options": ["Brahmastra", "Nagapasha", "Pashupatastra", "Vajra"],
+      "answer": 1,
+      "explanation": "The nagapasha was the serpent-noose weapon that ensnared Rama and Lakshmana."
+    },
+    {
+      "id": "garuda-q15",
+      "difficulty": "medium",
+      "q": "In the famous tale of his birth, Garuda obtained which substance to free his mother from servitude?",
+      "options": ["The Sanjeevani herb", "The nectar of immortality (amrita)", "The Kaustubha gem", "The Parijata flower"],
+      "answer": 1,
+      "explanation": "Garuda seized the amrita (nectar of immortality) from the gods to ransom his enslaved mother Vinata."
+    },
+    {
+      "id": "garuda-q16",
+      "difficulty": "medium",
+      "q": "Garuda's mother Vinata was held in servitude because of a wager lost over the color of what?",
+      "options": ["The celestial horse's tail", "The moon's halo", "A sacred cow", "The ocean's waves"],
+      "answer": 0,
+      "explanation": "Vinata lost a bet with Kadru over the color of the divine horse Uchchaihshravas's tail."
+    },
+    {
+      "id": "garuda-q17",
+      "difficulty": "medium",
+      "q": "When Garuda came to free the brothers, the battle had taken place near which city?",
+      "options": ["Ayodhya", "Mithila", "Lanka", "Kishkindha"],
+      "answer": 2,
+      "explanation": "The serpent-bond episode occurred during the war at Lanka against Ravana's forces."
+    },
+    {
+      "id": "garuda-q18",
+      "difficulty": "medium",
+      "q": "After being revived by Garuda, Rama and Lakshmana regained which qualities at once?",
+      "options": ["Wealth and land", "Strength and vigor", "Anger and pride", "Sorrow and doubt"],
+      "answer": 1,
+      "explanation": "Garuda's touch restored the brothers' strength, vigor, and even enhanced their splendor."
+    },
+    {
+      "id": "garuda-q19",
+      "difficulty": "medium",
+      "q": "Which of these is a well-known alternate name or epithet for Garuda?",
+      "options": ["Suparna", "Sugriva", "Sumitra", "Sushena"],
+      "answer": 0,
+      "explanation": "Garuda is often called Suparna, meaning 'the well-winged one.'"
+    },
+    {
+      "id": "garuda-q20",
+      "difficulty": "medium",
+      "q": "Garuda is frequently portrayed in art as having a body that is part man and part what?",
+      "options": ["Serpent", "Bird", "Horse", "Fish"],
+      "answer": 1,
+      "explanation": "Garuda is commonly depicted with a human torso and the wings, beak, and talons of a great bird."
+    },
+    {
+      "id": "garuda-q21",
+      "difficulty": "medium",
+      "q": "Garuda's role as Vishnu's mount links him most closely to which of these in the Ramayana?",
+      "options": ["The demon Maricha", "Rama as an incarnation of Vishnu", "The sage Vishwamitra", "The river Sarayu"],
+      "answer": 1,
+      "explanation": "Because Rama is an avatar of Vishnu, Garuda, Vishnu's eagle, aids him in his hour of need."
+    },
+    {
+      "id": "garuda-q22",
+      "difficulty": "medium",
+      "q": "What is the chief emotion the watching armies felt when Garuda descended to free the brothers?",
+      "options": ["Boredom", "Wonder and awe", "Hunger", "Jealousy"],
+      "answer": 1,
+      "explanation": "The hosts watched in wonder and awe as the radiant eagle scattered the serpents and healed Rama and Lakshmana."
+    },
+    {
+      "id": "garuda-q23",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, before Garuda's arrival, what state were Rama and Lakshmana in?",
+      "options": ["Standing victorious", "Fallen and bound, near lifeless", "Fleeing the field", "Negotiating a truce"],
+      "answer": 1,
+      "explanation": "Bound by the nagapasha, the brothers had fallen and lay senseless until Garuda revived them."
+    },
+    {
+      "id": "garuda-q24",
+      "difficulty": "hard",
+      "q": "According to the narrative, what did Garuda do to the brothers' wounds besides loosening the bonds?",
+      "options": ["He stroked their faces, healing every wound", "He poured amrita on them", "He carried them to the Himalayas", "He gave them new weapons"],
+      "answer": 0,
+      "explanation": "Garuda gently stroked the brothers' faces, and their wounds healed and their bodies grew radiant."
+    },
+    {
+      "id": "garuda-q25",
+      "difficulty": "hard",
+      "q": "In the larger Puranic tradition, Garuda's intense enmity with serpents is rooted in the enslavement of whom?",
+      "options": ["His brother Aruna", "His mother Vinata", "His father Kashyapa", "His wife"],
+      "answer": 1,
+      "explanation": "The serpents' mother Kadru enslaved Garuda's mother Vinata, fueling Garuda's lifelong hatred of snakes."
+    },
+    {
+      "id": "garuda-q26",
+      "difficulty": "hard",
+      "q": "Garuda's elder brother, born prematurely and lacking fully formed legs, became the charioteer of which deity?",
+      "options": ["Surya (the sun)", "Chandra (the moon)", "Yama", "Kubera"],
+      "answer": 0,
+      "explanation": "Aruna, Garuda's brother, became the charioteer of Surya, the sun god."
+    },
+    {
+      "id": "garuda-q27",
+      "difficulty": "hard",
+      "q": "When Garuda asks Rama who he is, the episode emphasizes that even Garuda did not at first fully grasp what about Rama?",
+      "options": ["His divine identity as Vishnu", "His age", "His kingdom's location", "His weapons"],
+      "answer": 0,
+      "explanation": "The encounter underscores Rama's hidden divinity as Vishnu, of whom Garuda is the eternal mount."
+    },
+    {
+      "id": "garuda-q28",
+      "difficulty": "hard",
+      "q": "After healing the brothers in some retellings, Garuda offers Rama which kind of parting advice or blessing?",
+      "options": ["To abandon the war", "To remain ever vigilant and victorious", "To surrender Sita", "To return to Ayodhya at once"],
+      "answer": 1,
+      "explanation": "Garuda blesses Rama to remain vigilant and assures him of ultimate victory before flying away."
+    },
+    {
+      "id": "garuda-q29",
+      "difficulty": "hard",
+      "q": "Garuda's swiftness in the tradition is so great that he is said to be able to outpace what?",
+      "options": ["The wind and even thought", "Only a galloping horse", "A flowing river", "A rolling chariot"],
+      "answer": 0,
+      "explanation": "Garuda is praised as swifter than the wind and as fast as thought itself."
+    },
+    {
+      "id": "garuda-q30",
+      "difficulty": "hard",
+      "q": "The serpent-bond episode that Garuda resolves is associated with which of Indrajit's tactics in the war?",
+      "options": ["Open single combat", "Striking from invisibility with illusion", "Negotiating openly", "Fighting only by day"],
+      "answer": 1,
+      "explanation": "Indrajit, a master of illusion, struck the brothers with the serpent-arrows while hidden from view."
+    }
+  ]
+}

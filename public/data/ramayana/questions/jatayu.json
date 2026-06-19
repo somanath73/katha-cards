@@ -1,0 +1,245 @@
+{
+  "cardId": "jatayu",
+  "questions": [
+    {
+      "id": "jatayu-q01",
+      "difficulty": "easy",
+      "q": "What kind of creature is Jatayu in the Ramayana?",
+      "options": ["A vulture (bird)", "A monkey", "A serpent", "A bear"],
+      "answer": 0,
+      "explanation": "Jatayu is depicted as a mighty vulture, the noble king among birds of his kind."
+    },
+    {
+      "id": "jatayu-q02",
+      "difficulty": "easy",
+      "q": "Jatayu was a friend of which king, the father of Rama?",
+      "options": ["Janaka", "Dasharatha", "Sugriva", "Ravana"],
+      "answer": 1,
+      "explanation": "Jatayu was an old friend of King Dasharatha, Rama's father."
+    },
+    {
+      "id": "jatayu-q03",
+      "difficulty": "easy",
+      "q": "Whom did Jatayu try to rescue from being carried away?",
+      "options": ["Kausalya", "Mandodari", "Sita", "Tara"],
+      "answer": 2,
+      "explanation": "Jatayu fought to save Sita as she was being abducted."
+    },
+    {
+      "id": "jatayu-q04",
+      "difficulty": "easy",
+      "q": "Who was the demon king abducting Sita when Jatayu intervened?",
+      "options": ["Ravana", "Kumbhakarna", "Vali", "Maricha"],
+      "answer": 0,
+      "explanation": "Ravana, king of Lanka, was carrying Sita away when Jatayu confronted him."
+    },
+    {
+      "id": "jatayu-q05",
+      "difficulty": "easy",
+      "q": "In what was Ravana flying when he carried off Sita?",
+      "options": ["A golden chariot", "A flying elephant", "A great ship", "A war horse"],
+      "answer": 0,
+      "explanation": "Ravana abducted Sita in his flying aerial chariot."
+    },
+    {
+      "id": "jatayu-q06",
+      "difficulty": "easy",
+      "q": "What did Jatayu ultimately give in his attempt to save Sita?",
+      "options": ["His kingdom", "His life", "His wings only", "His treasure"],
+      "answer": 1,
+      "explanation": "Jatayu sacrificed his life in the battle to rescue Sita."
+    },
+    {
+      "id": "jatayu-q07",
+      "difficulty": "easy",
+      "q": "How is Jatayu described in age?",
+      "options": ["A newly hatched chick", "An aged, old bird", "A young fledgling", "A middle-aged hunter"],
+      "answer": 1,
+      "explanation": "Jatayu is portrayed as an aged king of vultures."
+    },
+    {
+      "id": "jatayu-q08",
+      "difficulty": "easy",
+      "q": "Jatayu is often called the king of which birds?",
+      "options": ["Swans", "Vultures", "Peacocks", "Eagles"],
+      "answer": 1,
+      "explanation": "Jatayu is honored as the noble king of vultures."
+    },
+    {
+      "id": "jatayu-q09",
+      "difficulty": "easy",
+      "q": "To whom did the dying Jatayu reveal the direction Ravana had gone?",
+      "options": ["Rama and Lakshmana", "Hanuman", "Bharata", "Vibhishana"],
+      "answer": 0,
+      "explanation": "The mortally wounded Jatayu told Rama and Lakshmana about Ravana before dying."
+    },
+    {
+      "id": "jatayu-q10",
+      "difficulty": "easy",
+      "q": "What was Jatayu's main motive for attacking Ravana?",
+      "options": ["To loot the chariot", "To protect Sita out of duty and friendship", "To claim Lanka", "To avenge his own kidnapping"],
+      "answer": 1,
+      "explanation": "Out of loyalty to Dasharatha and righteousness, Jatayu fought to protect Sita."
+    },
+    {
+      "id": "jatayu-q11",
+      "difficulty": "medium",
+      "q": "Who was Jatayu's brother, also a great bird in the Ramayana?",
+      "options": ["Sampati", "Garuda", "Aruna", "Suparna"],
+      "answer": 0,
+      "explanation": "Sampati was Jatayu's elder brother, another mighty bird."
+    },
+    {
+      "id": "jatayu-q12",
+      "difficulty": "medium",
+      "q": "How did Jatayu and Sampati's father connect them to celestial lineage?",
+      "options": ["They were sons of Aruna (Garuda's brother)", "They were sons of Indra", "They were sons of Vishnu", "They were sons of Surya himself"],
+      "answer": 0,
+      "explanation": "In tradition Jatayu and Sampati are sons of Aruna, the charioteer of the Sun and brother of Garuda."
+    },
+    {
+      "id": "jatayu-q13",
+      "difficulty": "medium",
+      "q": "When Jatayu first heard Sita's cries, what did he do?",
+      "options": ["Fled in fear", "Roused himself and challenged Ravana to release her", "Hid in a tree", "Called for Rama silently"],
+      "answer": 1,
+      "explanation": "Jatayu awoke, confronted Ravana, and demanded he free Sita."
+    },
+    {
+      "id": "jatayu-q14",
+      "difficulty": "medium",
+      "q": "During the fight, what damage did Jatayu inflict on Ravana's chariot?",
+      "options": ["He destroyed the chariot, killed the mules and the charioteer", "He set it on fire", "He turned it to stone", "He stole its wheels"],
+      "answer": 0,
+      "explanation": "Jatayu wrecked Ravana's chariot, slew its donkey-like steeds and the charioteer before being struck down."
+    },
+    {
+      "id": "jatayu-q15",
+      "difficulty": "medium",
+      "q": "How did Ravana finally overcome Jatayu?",
+      "options": ["He fled and abandoned the fight", "He cut off Jatayu's wings with his sword", "He cast a sleeping spell", "He drowned him in the sea"],
+      "answer": 1,
+      "explanation": "Ravana severed Jatayu's wings, sides, and feet with his sword, mortally wounding him."
+    },
+    {
+      "id": "jatayu-q16",
+      "difficulty": "medium",
+      "q": "After Jatayu died, what did Rama and Lakshmana do for him?",
+      "options": ["Left him for the forest beasts", "Performed his funeral rites and cremation", "Buried him at sea", "Built a temple immediately"],
+      "answer": 1,
+      "explanation": "Rama performed the last rites and cremation for Jatayu as for a beloved kinsman."
+    },
+    {
+      "id": "jatayu-q17",
+      "difficulty": "medium",
+      "q": "Rama treated the dying Jatayu with the affection due to whom?",
+      "options": ["A common stranger", "A father", "An enemy spared in mercy", "A mere servant"],
+      "answer": 1,
+      "explanation": "Rama regarded Jatayu, his father's friend, with the love owed to a father figure."
+    },
+    {
+      "id": "jatayu-q18",
+      "difficulty": "medium",
+      "q": "What crucial information did Jatayu give before dying that aided the search for Sita?",
+      "options": ["The recipe to break Ravana's spell", "That Ravana, son of Vishrava, had taken her southward", "The location of the ocean bridge", "The name of Sita's future rescuer"],
+      "answer": 1,
+      "explanation": "Jatayu named Ravana and indicated the direction of the abduction, guiding Rama's search."
+    },
+    {
+      "id": "jatayu-q19",
+      "difficulty": "medium",
+      "q": "Jatayu's role in the Ramayana is most associated with which virtue?",
+      "options": ["Cunning deceit", "Selfless sacrifice and loyalty", "Greed for power", "Cowardice"],
+      "answer": 1,
+      "explanation": "Jatayu exemplifies selfless sacrifice and unwavering loyalty to dharma."
+    },
+    {
+      "id": "jatayu-q20",
+      "difficulty": "medium",
+      "q": "In which forest region did the encounter between Jatayu and Ravana take place?",
+      "options": ["The Himalayas", "Near Panchavati / the Dandaka forest", "The city of Ayodhya", "The island of Lanka"],
+      "answer": 1,
+      "explanation": "Sita was abducted from near Panchavati in the Dandaka forest, where Jatayu intervened."
+    },
+    {
+      "id": "jatayu-q21",
+      "difficulty": "medium",
+      "q": "What had Jatayu promised Dasharatha regarding Rama and his family?",
+      "options": ["To watch over and protect them in the forest", "To rule Ayodhya in his absence", "To train Rama in archery", "To guard Lanka"],
+      "answer": 0,
+      "explanation": "Out of friendship, Jatayu had pledged to look after Rama, Lakshmana, and Sita."
+    },
+    {
+      "id": "jatayu-q22",
+      "difficulty": "medium",
+      "q": "Why was Jatayu, despite his great age, willing to fight a powerful demon king?",
+      "options": ["He sought wealth", "His sense of duty and righteousness compelled him", "He was forced by a curse", "He wanted Ravana's throne"],
+      "answer": 1,
+      "explanation": "His commitment to dharma and his bond with Dasharatha's family drove him to fight."
+    },
+    {
+      "id": "jatayu-q23",
+      "difficulty": "hard",
+      "q": "According to tradition, Jatayu's brother Sampati lost what in his youth?",
+      "options": ["His sight", "The feathers of his wings (scorched by the sun)", "His voice", "His memory"],
+      "answer": 1,
+      "explanation": "Sampati's wings were burned when he shielded Jatayu from the sun's heat, leaving him unable to fly."
+    },
+    {
+      "id": "jatayu-q24",
+      "difficulty": "hard",
+      "q": "How did Sampati later help Rama's cause, continuing his brother's legacy?",
+      "options": ["He flew the army to Lanka", "He revealed that Sita was held in Lanka across the sea", "He fought Ravana directly", "He built the bridge to Lanka"],
+      "answer": 1,
+      "explanation": "Sampati, on learning of Jatayu's death, told the searching monkeys that Sita was in Lanka."
+    },
+    {
+      "id": "jatayu-q25",
+      "difficulty": "hard",
+      "q": "In the Aranya Kanda, what did Ravana first attempt before resorting to force against Jatayu?",
+      "options": ["To bribe Jatayu with gold", "To simply fly past and ignore the aged bird", "To summon other demons", "To disguise himself as Rama"],
+      "answer": 1,
+      "explanation": "Ravana at first tried to evade the old vulture and continue his flight before the battle erupted."
+    },
+    {
+      "id": "jatayu-q26",
+      "difficulty": "hard",
+      "q": "What did Jatayu warn Ravana about the consequences of abducting Sita?",
+      "options": ["That it would bring rain", "That it would lead to Ravana's and Lanka's destruction", "That Sita would curse him to stone", "That the gods would reward him"],
+      "answer": 1,
+      "explanation": "Jatayu warned that seizing another's wife unrighteously would doom Ravana and his kingdom."
+    },
+    {
+      "id": "jatayu-q27",
+      "difficulty": "hard",
+      "q": "Which of Sita's belongings is associated with the abduction episode in which Jatayu fought?",
+      "options": ["Her ornaments, which she dropped as a trail", "Her royal crown", "Her bow", "Her chariot"],
+      "answer": 0,
+      "explanation": "Sita cast down her jewels during the abduction so they might mark Ravana's path, the same flight Jatayu opposed."
+    },
+    {
+      "id": "jatayu-q28",
+      "difficulty": "hard",
+      "q": "What is the traditional name of the place said to be where Jatayu fell, now a pilgrimage site?",
+      "options": ["Chitrakoot", "Lepakshi (linked to 'le pakshi')", "Rameswaram", "Kishkindha"],
+      "answer": 1,
+      "explanation": "Lepakshi in Andhra Pradesh is traditionally tied to Jatayu's fall, its name linked to Rama's words 'le pakshi' (rise, bird)."
+    },
+    {
+      "id": "jatayu-q29",
+      "difficulty": "hard",
+      "q": "In Valmiki's account, what blessing or assurance does the dying Jatayu receive from Rama?",
+      "options": ["That he would be reborn as a king", "Words of grace, with Rama granting him liberation and an honorable departure", "That his wings would regrow", "That Ravana would surrender"],
+      "answer": 1,
+      "explanation": "Rama consoled Jatayu and granted him a gracious, liberated passing for his noble sacrifice."
+    },
+    {
+      "id": "jatayu-q30",
+      "difficulty": "hard",
+      "q": "Jatayu's death and last words mark the transition into which phase of Rama's quest?",
+      "options": ["His coronation in Ayodhya", "The active search for Sita leading toward Kishkindha and the vanaras", "His exile beginning", "His marriage to Sita"],
+      "answer": 1,
+      "explanation": "Jatayu's revelation set Rama and Lakshmana on the southward search that led to Kishkindha and the monkey allies."
+    }
+  ]
+}

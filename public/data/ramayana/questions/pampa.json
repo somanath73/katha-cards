@@ -1,0 +1,245 @@
+{
+  "cardId": "pampa",
+  "questions": [
+    {
+      "id": "pampa-q01",
+      "difficulty": "easy",
+      "q": "What kind of place is Pampa in the Ramayana?",
+      "options": ["A lake", "A mountain", "A palace", "A desert"],
+      "answer": 0,
+      "explanation": "Pampa is a beautiful lotus-covered lake described in the Kishkindha Kanda of the Ramayana."
+    },
+    {
+      "id": "pampa-q02",
+      "difficulty": "easy",
+      "q": "Pampa Lake is associated with which kingdom?",
+      "options": ["Ayodhya", "Mithila", "Kishkindha", "Lanka"],
+      "answer": 2,
+      "explanation": "Pampa Lake lies in the region of Kishkindha, the kingdom of the monkeys (vanaras)."
+    },
+    {
+      "id": "pampa-q03",
+      "difficulty": "easy",
+      "q": "Which flower is famously said to cover the surface of Pampa Lake?",
+      "options": ["Rose", "Lotus", "Marigold", "Jasmine"],
+      "answer": 1,
+      "explanation": "Pampa is repeatedly described as a lake covered with blooming lotus flowers."
+    },
+    {
+      "id": "pampa-q04",
+      "difficulty": "easy",
+      "q": "Which grieving prince came to Pampa Lake searching for his abducted wife?",
+      "options": ["Bharata", "Rama", "Lakshmana", "Shatrughna"],
+      "answer": 1,
+      "explanation": "Rama, mourning the loss of Sita, arrived at Pampa Lake during his search for her."
+    },
+    {
+      "id": "pampa-q05",
+      "difficulty": "easy",
+      "q": "Whose abduction was Rama grieving when he reached Pampa Lake?",
+      "options": ["Tara's", "Mandodari's", "Kaikeyi's", "Sita's"],
+      "answer": 3,
+      "explanation": "Rama was grieving deeply for Sita, who had been carried off by Ravana."
+    },
+    {
+      "id": "pampa-q06",
+      "difficulty": "easy",
+      "q": "Which devoted minister did Rama first meet near Pampa Lake?",
+      "options": ["Sugriva", "Hanuman", "Jambavan", "Angada"],
+      "answer": 1,
+      "explanation": "It was near Pampa, on Rishyamukha, that Rama first met Hanuman, Sugriva's minister."
+    },
+    {
+      "id": "pampa-q07",
+      "difficulty": "easy",
+      "q": "To whom did the meeting at Pampa lead Rama, the exiled monkey king?",
+      "options": ["Vali", "Ravana", "Sugriva", "Vibhishana"],
+      "answer": 2,
+      "explanation": "Hanuman led Rama from Pampa to Sugriva, the exiled monkey king on Rishyamukha."
+    },
+    {
+      "id": "pampa-q08",
+      "difficulty": "easy",
+      "q": "Pampa Lake is described as being near which hill or mountain?",
+      "options": ["Chitrakoot", "Rishyamukha", "Mainaka", "Trikuta"],
+      "answer": 1,
+      "explanation": "Pampa Lake lay close to Rishyamukha, the hill where Sugriva and his companions had taken refuge."
+    },
+    {
+      "id": "pampa-q09",
+      "difficulty": "easy",
+      "q": "Who accompanied Rama on his journey to Pampa Lake?",
+      "options": ["Bharata", "Hanuman", "Sugriva", "Lakshmana"],
+      "answer": 3,
+      "explanation": "Lakshmana, Rama's devoted brother, was with him throughout the journey to Pampa."
+    },
+    {
+      "id": "pampa-q10",
+      "difficulty": "easy",
+      "q": "In which season is Pampa Lake's beauty most famously described as Rama arrives?",
+      "options": ["Summer", "Spring", "Winter", "Monsoon"],
+      "answer": 1,
+      "explanation": "The Ramayana describes Pampa in the lush bloom of spring, which deepened Rama's longing for Sita."
+    },
+    {
+      "id": "pampa-q11",
+      "difficulty": "medium",
+      "q": "In which book (Kanda) of the Valmiki Ramayana does the description of Pampa Lake mainly appear?",
+      "options": ["Bala Kanda", "Aranya Kanda", "Kishkindha Kanda", "Sundara Kanda"],
+      "answer": 2,
+      "explanation": "The arrival at Pampa and the meeting with Hanuman are narrated in the Kishkindha Kanda."
+    },
+    {
+      "id": "pampa-q12",
+      "difficulty": "medium",
+      "q": "Which aged tribal devotee did Rama meet just before reaching Pampa Lake?",
+      "options": ["Anasuya", "Shabari", "Ahalya", "Swayamprabha"],
+      "answer": 1,
+      "explanation": "Rama met the devotee Shabari at her hermitage, and on her counsel proceeded toward Pampa."
+    },
+    {
+      "id": "pampa-q13",
+      "difficulty": "medium",
+      "q": "Who advised Rama to go to Pampa and seek the friendship of Sugriva?",
+      "options": ["Shabari", "Jatayu", "Vasishtha", "Vishvamitra"],
+      "answer": 0,
+      "explanation": "Before passing on, Shabari directed Rama toward Pampa and the alliance with Sugriva."
+    },
+    {
+      "id": "pampa-q14",
+      "difficulty": "medium",
+      "q": "Why was Sugriva living in exile near Pampa on Rishyamukha hill?",
+      "options": ["He feared his brother Vali", "He was banished by Rama", "He fled from Ravana", "He sought penance"],
+      "answer": 0,
+      "explanation": "Sugriva hid on Rishyamukha because his brother Vali, the monkey king, sought to kill him."
+    },
+    {
+      "id": "pampa-q15",
+      "difficulty": "medium",
+      "q": "In what disguise did Hanuman first approach Rama near Pampa?",
+      "options": ["A merchant", "A warrior", "A hunter", "A mendicant (ascetic/brahmin)"],
+      "answer": 3,
+      "explanation": "Hanuman approached Rama in the guise of a mendicant or ascetic before revealing his purpose."
+    },
+    {
+      "id": "pampa-q16",
+      "difficulty": "medium",
+      "q": "What is the gender association of the name 'Pampa' in tradition?",
+      "options": ["A male sage", "A goddess/feminine river", "A demon", "A monkey chief"],
+      "answer": 1,
+      "explanation": "Pampa is traditionally regarded as a sacred feminine water, identified with a goddess and river."
+    },
+    {
+      "id": "pampa-q17",
+      "difficulty": "medium",
+      "q": "What did the sight of the blossoming forest around Pampa do to Rama's state of mind?",
+      "options": ["Calmed him completely", "Increased his grief for Sita", "Made him forget Sita", "Filled him with anger at Sugriva"],
+      "answer": 1,
+      "explanation": "The springtime beauty of Pampa intensified Rama's sorrow and longing for the absent Sita."
+    },
+    {
+      "id": "pampa-q18",
+      "difficulty": "medium",
+      "q": "Which brother of Sugriva ruled Kishkindha and made Rishyamukha near Pampa a refuge?",
+      "options": ["Angada", "Vali (Bali)", "Jambavan", "Nala"],
+      "answer": 1,
+      "explanation": "Vali ruled Kishkindha; a curse barred him from Rishyamukha, making it Sugriva's safe haven near Pampa."
+    },
+    {
+      "id": "pampa-q19",
+      "difficulty": "medium",
+      "q": "What token did Sugriva show Rama as proof he had seen Sita being carried away?",
+      "options": ["A bow", "A letter", "A bundle of ornaments she dropped", "A lotus garland"],
+      "answer": 2,
+      "explanation": "Sugriva produced the ornaments Sita had dropped while being abducted over the monkeys' realm."
+    },
+    {
+      "id": "pampa-q20",
+      "difficulty": "medium",
+      "q": "What sacred fire-ritual sealed the friendship between Rama and Sugriva after the Pampa meeting?",
+      "options": ["A pact witnessed before a kindled fire", "A coronation", "A wedding", "A horse sacrifice"],
+      "answer": 0,
+      "explanation": "Rama and Sugriva swore their alliance as friends with the sacred fire as witness."
+    },
+    {
+      "id": "pampa-q21",
+      "difficulty": "medium",
+      "q": "Birds of which kind are prominently described thronging the waters of Pampa?",
+      "options": ["Eagles", "Aquatic birds such as swans and cranes", "Vultures", "Owls"],
+      "answer": 1,
+      "explanation": "Valmiki describes Pampa teeming with swans, cranes and other water birds amid the lotuses."
+    },
+    {
+      "id": "pampa-q22",
+      "difficulty": "medium",
+      "q": "After the alliance formed at Pampa, what did Rama promise to do for Sugriva?",
+      "options": ["Crown him over Ayodhya", "Slay Vali and restore his kingdom", "Build him a palace", "Give him a chariot"],
+      "answer": 1,
+      "explanation": "Rama vowed to kill Vali and restore Sugriva's throne in Kishkindha in return for help finding Sita."
+    },
+    {
+      "id": "pampa-q23",
+      "difficulty": "hard",
+      "q": "In the geography of the Ramayana, in which broad direction did Rama travel from Shabari's ashram to reach Pampa?",
+      "options": ["Northward", "Westward toward Pampa and Kishkindha", "Eastward to the sea", "Back toward Ayodhya"],
+      "answer": 1,
+      "explanation": "Rama proceeded westward through the forest from Shabari's hermitage to arrive at Pampa near Kishkindha."
+    },
+    {
+      "id": "pampa-q24",
+      "difficulty": "hard",
+      "q": "Which sage's curse kept Vali from setting foot on Rishyamukha near Pampa, protecting Sugriva there?",
+      "options": ["Matanga", "Agastya", "Atri", "Bharadwaja"],
+      "answer": 0,
+      "explanation": "The sage Matanga's curse barred Vali from Rishyamukha, which is why Sugriva sheltered there safely."
+    },
+    {
+      "id": "pampa-q25",
+      "difficulty": "hard",
+      "q": "Pampa is traditionally identified with a region around which present-day site in Karnataka?",
+      "options": ["Hampi", "Mysore", "Badami", "Belur"],
+      "answer": 0,
+      "explanation": "Tradition locates Pampa and Kishkindha around Hampi on the Tungabhadra in Karnataka."
+    },
+    {
+      "id": "pampa-q26",
+      "difficulty": "hard",
+      "q": "The name Pampa is traditionally linked to a form of which goddess worshipped at that sacred site?",
+      "options": ["Saraswati", "Lakshmi", "Durga as Kali", "Parvati (as Pampa Devi)"],
+      "answer": 3,
+      "explanation": "Pampa is venerated as a form of Parvati, called Pampa Devi, consort of the local Shiva at the site."
+    },
+    {
+      "id": "pampa-q27",
+      "difficulty": "hard",
+      "q": "Near Pampa, in which secluded place had Sugriva and his companions made their dwelling?",
+      "options": ["A river island", "Caves and groves of Rishyamukha", "A floating palace", "Underground caverns of Lanka"],
+      "answer": 1,
+      "explanation": "Sugriva's band lived among the caves and wooded slopes of Rishyamukha hill beside Pampa."
+    },
+    {
+      "id": "pampa-q28",
+      "difficulty": "hard",
+      "q": "Seeing Rama and Lakshmana approach Pampa armed, what did Sugriva initially fear?",
+      "options": ["That they were sages", "That Vali had sent them to kill him", "That they were Ravana's spies", "That they were lost travelers"],
+      "answer": 1,
+      "explanation": "Sugriva feared the two armed strangers might be agents sent by his enemy Vali, so he sent Hanuman to inquire."
+    },
+    {
+      "id": "pampa-q29",
+      "difficulty": "hard",
+      "q": "Which quality of Hanuman's speech near Pampa most impressed Rama when they first met?",
+      "options": ["Its harshness", "Its faultless, refined eloquence", "Its brevity to the point of rudeness", "Its use of demonic tongue"],
+      "answer": 1,
+      "explanation": "Rama praised Hanuman's flawless, cultured speech, judging him a master of the Vedas and grammar."
+    },
+    {
+      "id": "pampa-q30",
+      "difficulty": "hard",
+      "q": "In Valmiki's account, the river or stream feeding the Pampa region is traditionally identified with which river?",
+      "options": ["Ganga", "Yamuna", "Tungabhadra", "Godavari"],
+      "answer": 2,
+      "explanation": "The Pampa and Kishkindha region is traditionally associated with the Tungabhadra river in the south."
+    }
+  ]
+}

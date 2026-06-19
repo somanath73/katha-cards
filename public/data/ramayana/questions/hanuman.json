@@ -1,0 +1,245 @@
+{
+  "cardId": "hanuman",
+  "questions": [
+    {
+      "id": "hanuman-q01",
+      "difficulty": "easy",
+      "q": "Hanuman is the son of which god?",
+      "options": ["Vayu, the wind-god", "Agni, the fire-god", "Indra, the king of gods", "Surya, the sun-god"],
+      "answer": 0,
+      "explanation": "Hanuman is the son of Vayu, the wind-god, which is why he is called the Son of the Wind."
+    },
+    {
+      "id": "hanuman-q02",
+      "difficulty": "easy",
+      "q": "To which race of beings does Hanuman belong?",
+      "options": ["Rakshasas", "Vanaras (monkey-people)", "Devas", "Nagas"],
+      "answer": 1,
+      "explanation": "Hanuman is a vanara, one of the monkey-like forest dwellers of Kishkindha."
+    },
+    {
+      "id": "hanuman-q03",
+      "difficulty": "easy",
+      "q": "Whom does Hanuman serve as a supreme devotee in the Ramayana?",
+      "options": ["Ravana", "Sugriva", "Rama", "Bharata"],
+      "answer": 2,
+      "explanation": "Hanuman is celebrated as the supreme devotee of Rama, serving him with unwavering loyalty."
+    },
+    {
+      "id": "hanuman-q04",
+      "difficulty": "easy",
+      "q": "Hanuman leaps across the ocean to reach which place?",
+      "options": ["Lanka", "Ayodhya", "Kishkindha", "Mithila"],
+      "answer": 0,
+      "explanation": "Hanuman makes his famous leap across the ocean to the island of Lanka in search of Sita."
+    },
+    {
+      "id": "hanuman-q05",
+      "difficulty": "easy",
+      "q": "Whom does Hanuman search for and find in Lanka?",
+      "options": ["Lakshmana", "Sita", "Sugriva", "Vibhishana"],
+      "answer": 1,
+      "explanation": "Hanuman crosses to Lanka to find Sita, whom Ravana had abducted, and discovers her in the Ashoka grove."
+    },
+    {
+      "id": "hanuman-q06",
+      "difficulty": "easy",
+      "q": "Where in Lanka does Hanuman find Sita held captive?",
+      "options": ["The royal palace", "A dungeon by the sea", "The Ashoka grove (Ashoka Vatika)", "A mountain cave"],
+      "answer": 2,
+      "explanation": "Hanuman finds Sita guarded by rakshasis in the Ashoka grove of Ravana's kingdom."
+    },
+    {
+      "id": "hanuman-q07",
+      "difficulty": "easy",
+      "q": "What token does Rama give Hanuman to show Sita as proof of his identity?",
+      "options": ["A bow", "A signet ring", "A garland", "A sword"],
+      "answer": 1,
+      "explanation": "Rama gives Hanuman his signet ring, which Hanuman shows to Sita so she will trust him as Rama's messenger."
+    },
+    {
+      "id": "hanuman-q08",
+      "difficulty": "easy",
+      "q": "What is one of Hanuman's most famous abilities?",
+      "options": ["Turning invisible permanently", "Changing the size of his body at will", "Reading minds", "Controlling the seasons"],
+      "answer": 1,
+      "explanation": "Hanuman can change his size at will, growing colossal to leap the ocean or shrinking small to enter Lanka unseen."
+    },
+    {
+      "id": "hanuman-q09",
+      "difficulty": "easy",
+      "q": "Which weapon is most commonly associated with Hanuman?",
+      "options": ["A bow", "A discus", "A mace (gada)", "A trident"],
+      "answer": 2,
+      "explanation": "Hanuman is traditionally depicted carrying a mace (gada), the emblem of his great strength."
+    },
+    {
+      "id": "hanuman-q10",
+      "difficulty": "easy",
+      "q": "How does Hanuman leave a dramatic mark on Lanka before departing?",
+      "options": ["He drains the city's wells", "He sets the city on fire with his burning tail", "He topples the palace walls", "He steals Ravana's crown"],
+      "answer": 1,
+      "explanation": "After the rakshasas set his tail ablaze, Hanuman uses the fire to burn much of Lanka before leaping away."
+    },
+    {
+      "id": "hanuman-q11",
+      "difficulty": "medium",
+      "q": "Who was Hanuman's mother?",
+      "options": ["Anjana", "Tara", "Mandodari", "Sumitra"],
+      "answer": 0,
+      "explanation": "Hanuman's mother was Anjana, an apsara-born vanara woman, which gives him the name Anjaneya."
+    },
+    {
+      "id": "hanuman-q12",
+      "difficulty": "medium",
+      "q": "Where does Hanuman first meet Rama and Lakshmana?",
+      "options": ["On the shore of Lanka", "Near Rishyamukha mountain by Pampa", "In the city of Ayodhya", "At Janasthana"],
+      "answer": 1,
+      "explanation": "Hanuman, serving Sugriva, first meets Rama and Lakshmana near the Rishyamukha mountain by Pampa lake."
+    },
+    {
+      "id": "hanuman-q13",
+      "difficulty": "medium",
+      "q": "Whose minister and loyal companion is Hanuman among the vanaras?",
+      "options": ["Vali", "Sugriva", "Angada", "Jambavan"],
+      "answer": 1,
+      "explanation": "Hanuman is the trusted minister and counselor of Sugriva, the exiled and later restored vanara king."
+    },
+    {
+      "id": "hanuman-q14",
+      "difficulty": "medium",
+      "q": "Which mountain did Hanuman press down with his foot so he could spring across the ocean?",
+      "options": ["Mount Meru", "Mount Mahendra", "Mount Kailasa", "Mount Govardhana"],
+      "answer": 1,
+      "explanation": "Hanuman launched his great leap to Lanka from Mount Mahendra, pressing it down as he sprang."
+    },
+    {
+      "id": "hanuman-q15",
+      "difficulty": "medium",
+      "q": "Which sea-serpent demoness tried to swallow Hanuman during his ocean crossing, whom he outwitted by shrinking?",
+      "options": ["Surasa", "Tataka", "Surpanakha", "Trijata"],
+      "answer": 0,
+      "explanation": "Surasa, mother of serpents, tested Hanuman by trying to swallow him, but he shrank to thumb-size, entered and left her mouth, and passed."
+    },
+    {
+      "id": "hanuman-q16",
+      "difficulty": "medium",
+      "q": "Which rakshasi did Hanuman defeat upon first reaching Lanka's shore, fulfilling an omen that the city's fall was near?",
+      "options": ["Lanka (Lankini), the city's guardian", "Mandodari", "Kaikasi", "Ayomukhi"],
+      "answer": 0,
+      "explanation": "Hanuman struck down Lankini, the guardian spirit of the city, whose defeat was an omen that Lanka would fall."
+    },
+    {
+      "id": "hanuman-q17",
+      "difficulty": "medium",
+      "q": "When Hanuman was captured in Lanka, with what was his tail set ablaze?",
+      "options": ["Burning arrows", "Oil-soaked cloth wrapped around it", "Molten metal", "A torch of dry grass"],
+      "answer": 1,
+      "explanation": "On Ravana's order, the rakshasas wrapped Hanuman's tail in oil-soaked cloth and set it on fire."
+    },
+    {
+      "id": "hanuman-q18",
+      "difficulty": "medium",
+      "q": "How was Hanuman brought before Ravana in the assembly hall after his capture?",
+      "options": ["He was dragged in chains", "He was bound by Indrajit's Brahmastra", "He surrendered willingly", "He was carried unconscious"],
+      "answer": 1,
+      "explanation": "Indrajit, Ravana's son, bound Hanuman with the Brahmastra; Hanuman allowed the binding to hold so he could meet Ravana."
+    },
+    {
+      "id": "hanuman-q19",
+      "difficulty": "medium",
+      "q": "What did Sita give Hanuman to carry back to Rama as a sign that he had truly found her?",
+      "options": ["Her anklet", "Her hair ornament (chudamani)", "A lock of her hair", "Her veil"],
+      "answer": 1,
+      "explanation": "Sita gave Hanuman her chudamani (a jeweled hair ornament) as a token for Rama, proving he had found her."
+    },
+    {
+      "id": "hanuman-q20",
+      "difficulty": "medium",
+      "q": "During the war, Hanuman fetched an entire mountain to save Lakshmana's life. What healing herb was needed?",
+      "options": ["Soma", "Sanjivani", "Tulsi", "Amrita"],
+      "answer": 1,
+      "explanation": "Hanuman flew to the Himalayas for the Sanjivani herb and, unable to identify it, carried back the whole mountain."
+    },
+    {
+      "id": "hanuman-q21",
+      "difficulty": "medium",
+      "q": "Why did Hanuman bring back the entire mountain rather than just the herb?",
+      "options": ["The mountain was sacred and could not be cut", "He could not identify which herb was the right one", "Ravana's forces guarded the herb", "The herb only worked while rooted"],
+      "answer": 1,
+      "explanation": "Unable to tell which glowing herb was Sanjivani, Hanuman uprooted the whole mountain and carried it to the battlefield."
+    },
+    {
+      "id": "hanuman-q22",
+      "difficulty": "medium",
+      "q": "Which elder vanara reminded Hanuman of his forgotten powers, inspiring him to leap the ocean?",
+      "options": ["Jambavan", "Angada", "Nala", "Nila"],
+      "answer": 0,
+      "explanation": "Jambavan, the wise bear-king, reminded Hanuman of his immense strength and powers, rousing him to make the great leap."
+    },
+    {
+      "id": "hanuman-q23",
+      "difficulty": "hard",
+      "q": "As a child, Hanuman leapt toward the sky to seize the sun, mistaking it for a fruit. Which god struck him with a weapon to stop him?",
+      "options": ["Surya", "Indra with his thunderbolt (vajra)", "Yama with his staff", "Varuna with his noose"],
+      "answer": 1,
+      "explanation": "Indra struck the child Hanuman with his vajra (thunderbolt) on the jaw to stop him from seizing the sun, which is the origin of the name Hanuman."
+    },
+    {
+      "id": "hanuman-q24",
+      "difficulty": "hard",
+      "q": "The name 'Hanuman' is traditionally derived from an injury to which part of his body?",
+      "options": ["His jaw (hanu)", "His foot", "His tail", "His chest"],
+      "answer": 0,
+      "explanation": "The name Hanuman comes from 'hanu' (jaw), referring to the jaw injured by Indra's thunderbolt in his childhood."
+    },
+    {
+      "id": "hanuman-q25",
+      "difficulty": "hard",
+      "q": "Because of a curse pronounced by sages, Hanuman remained unaware of his own great powers until reminded. What was the nature of this curse?",
+      "options": ["He would forget his strength until someone recounted it to him", "He would lose his powers in sunlight", "He could never speak of his deeds", "He would shrink whenever angry"],
+      "answer": 0,
+      "explanation": "Sages cursed the mischievous young Hanuman to forget his powers until reminded of them, which is why Jambavan later had to rouse his memory."
+    },
+    {
+      "id": "hanuman-q26",
+      "difficulty": "hard",
+      "q": "Which son of Ravana did Hanuman kill in battle while destroying the grove and provoking the rakshasas?",
+      "options": ["Indrajit (Meghanada)", "Aksha (Akshayakumara)", "Atikaya", "Trishira"],
+      "answer": 1,
+      "explanation": "Hanuman slew Aksha, the young son of Ravana, before Indrajit was sent to capture him."
+    },
+    {
+      "id": "hanuman-q27",
+      "difficulty": "hard",
+      "q": "Whom did Hanuman carry on his shoulders during the war so that the warrior could fight Ravana's forces, as Rama rode Hanuman?",
+      "options": ["Sugriva", "Rama", "Vibhishana", "Angada"],
+      "answer": 1,
+      "explanation": "In the battle, Rama mounted Hanuman's shoulders, while Lakshmana rode Angada, as the vanaras served as the brothers' mounts."
+    },
+    {
+      "id": "hanuman-q28",
+      "difficulty": "hard",
+      "q": "On his journey to Lanka, Hanuman rested on a mountain that rose from the sea to offer him hospitality. What was its name?",
+      "options": ["Mainaka", "Trikuta", "Chitrakuta", "Gandhamadana"],
+      "answer": 0,
+      "explanation": "The golden mountain Mainaka rose from the ocean and offered Hanuman rest, but he touched it in thanks and flew onward without stopping."
+    },
+    {
+      "id": "hanuman-q29",
+      "difficulty": "hard",
+      "q": "Which kind rakshasi comforted Sita in the Ashoka grove and described favorable dreams foretelling Rama's victory?",
+      "options": ["Trijata", "Surpanakha", "Simhika", "Lankini"],
+      "answer": 0,
+      "explanation": "Trijata, a compassionate rakshasi, reassured Sita by recounting auspicious dreams that foretold Ravana's defeat and Rama's victory."
+    },
+    {
+      "id": "hanuman-q30",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, Hanuman is described as deeply learned, said to have mastered the scriptures by studying with which celestial body as his teacher?",
+      "options": ["The moon", "The sun (Surya)", "The stars", "Brihaspati"],
+      "answer": 1,
+      "explanation": "Hanuman is said to have learned the Vedas and grammar from Surya, the sun, running alongside the sun's chariot to receive instruction."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "parashurama",
+  "questions": [
+    {
+      "id": "parashurama-q01",
+      "difficulty": "easy",
+      "q": "What weapon is Parashurama most famous for wielding?",
+      "options": ["A battle axe", "A trident", "A discus", "A mace"],
+      "answer": 0,
+      "explanation": "Parashurama's very name means 'Rama with the axe,' the parashu (axe) being his signature weapon."
+    },
+    {
+      "id": "parashurama-q02",
+      "difficulty": "easy",
+      "q": "Parashurama is regarded as an avatar of which deity?",
+      "options": ["Brahma", "Indra", "Vishnu", "Shiva"],
+      "answer": 2,
+      "explanation": "Parashurama is counted among the ten principal avatars (dashavatara) of Vishnu."
+    },
+    {
+      "id": "parashurama-q03",
+      "difficulty": "easy",
+      "q": "By caste or birth, what was Parashurama?",
+      "options": ["A king's son", "A brahmin", "A merchant", "A boatman"],
+      "answer": 1,
+      "explanation": "Parashurama was born a brahmin, the son of the sage Jamadagni, yet lived as a warrior."
+    },
+    {
+      "id": "parashurama-q04",
+      "difficulty": "easy",
+      "q": "In the Ramayana, Parashurama appears just after which dramatic event?",
+      "options": ["Rama broke Shiva's bow", "Sita was abducted", "Dasharatha died", "Rama was exiled"],
+      "answer": 0,
+      "explanation": "Parashurama confronts Rama on the road shortly after Rama snapped Shiva's bow to win Sita."
+    },
+    {
+      "id": "parashurama-q05",
+      "difficulty": "easy",
+      "q": "What is the common English description used for Parashurama on his card?",
+      "options": ["The Whispering Maid", "The Axe-Wielding Sage", "The Boatman of the Ganga", "The Bear King"],
+      "answer": 1,
+      "explanation": "His card subtitle calls him 'The Axe-Wielding Sage,' reflecting his role as a fierce brahmin-warrior."
+    },
+    {
+      "id": "parashurama-q06",
+      "difficulty": "easy",
+      "q": "When Parashurama challenged Rama, what did he hand to Rama?",
+      "options": ["A garland", "A great bow", "A crown", "A book of scriptures"],
+      "answer": 1,
+      "explanation": "Parashurama gave Rama his own mighty bow (the bow of Vishnu) and challenged him to string it."
+    },
+    {
+      "id": "parashurama-q07",
+      "difficulty": "easy",
+      "q": "How did the encounter between Rama and Parashurama ultimately end?",
+      "options": ["In a deadly battle", "Parashurama yielded to Rama", "Rama fled", "They became enemies forever"],
+      "answer": 1,
+      "explanation": "Rama effortlessly drew Parashurama's bow, and the elder sage recognized his power and yielded."
+    },
+    {
+      "id": "parashurama-q08",
+      "difficulty": "easy",
+      "q": "Whose son was Parashurama?",
+      "options": ["Sage Vishwamitra", "Sage Jamadagni", "King Janaka", "King Dasharatha"],
+      "answer": 1,
+      "explanation": "Parashurama was the son of the great sage Jamadagni and Renuka."
+    },
+    {
+      "id": "parashurama-q09",
+      "difficulty": "easy",
+      "q": "Which Rama strung Shiva's bow that drew Parashurama out to confront him?",
+      "options": ["Balarama", "Rama, son of Dasharatha", "Parashurama himself", "Sugriva"],
+      "answer": 1,
+      "explanation": "It was Rama, prince of Ayodhya and son of Dasharatha, whose breaking of Shiva's bow brought Parashurama."
+    },
+    {
+      "id": "parashurama-q10",
+      "difficulty": "easy",
+      "q": "Parashurama is traditionally said to be free from what, making him a deathless figure?",
+      "options": ["Hunger", "Death (a chiranjivi/immortal)", "Sleep", "Anger"],
+      "answer": 1,
+      "explanation": "Parashurama is counted among the chiranjivis, the immortals believed to still live across the ages."
+    },
+    {
+      "id": "parashurama-q11",
+      "difficulty": "medium",
+      "q": "Who was Parashurama's mother?",
+      "options": ["Renuka", "Anasuya", "Arundhati", "Sumitra"],
+      "answer": 0,
+      "explanation": "Parashurama's mother was Renuka, wife of the sage Jamadagni."
+    },
+    {
+      "id": "parashurama-q12",
+      "difficulty": "medium",
+      "q": "From which deity did Parashurama obtain his famous axe through penance?",
+      "options": ["Vishnu", "Shiva", "Agni", "Varuna"],
+      "answer": 1,
+      "explanation": "Parashurama performed severe penance to Shiva, who granted him the parashu (axe) and martial knowledge."
+    },
+    {
+      "id": "parashurama-q13",
+      "difficulty": "medium",
+      "q": "Parashurama is renowned in tradition for waging war repeatedly against which class?",
+      "options": ["The brahmins", "The kshatriyas (warrior-kings)", "The sages", "The demons of Lanka"],
+      "answer": 1,
+      "explanation": "Tradition holds that Parashurama rid the earth of corrupt kshatriya kings many times over."
+    },
+    {
+      "id": "parashurama-q14",
+      "difficulty": "medium",
+      "q": "Which king's killing of Jamadagni triggered Parashurama's vengeance, per tradition?",
+      "options": ["Kartavirya Arjuna's sons", "Ravana", "Janaka", "Sagara"],
+      "answer": 0,
+      "explanation": "The sons of King Kartavirya Arjuna slew Jamadagni, igniting Parashurama's war on the kshatriyas."
+    },
+    {
+      "id": "parashurama-q15",
+      "difficulty": "medium",
+      "q": "In the Ramayana, on what occasion does Parashurama intercept Rama and his party?",
+      "options": ["During the forest exile", "On the journey back to Ayodhya after the wedding", "At the start of the Lanka war", "During Rama's coronation"],
+      "answer": 1,
+      "explanation": "Parashurama blocks the wedding party returning from Mithila to Ayodhya after Rama married Sita."
+    },
+    {
+      "id": "parashurama-q16",
+      "difficulty": "medium",
+      "q": "What was the bow Parashurama gave Rama said to belong to?",
+      "options": ["Indra", "Vishnu", "Yama", "Kubera"],
+      "answer": 1,
+      "explanation": "The bow Parashurama carried was the great Vaishnava bow, the bow of Vishnu, counterpart to Shiva's bow."
+    },
+    {
+      "id": "parashurama-q17",
+      "difficulty": "medium",
+      "q": "After Rama drew the Vishnu bow, Parashurama asked Rama to do what with the nocked arrow?",
+      "options": ["Shoot Parashurama himself", "Destroy his power to ascend or his accumulated merit", "Aim it at the sky harmlessly", "Hand it back unused"],
+      "answer": 1,
+      "explanation": "Since the drawn arrow could not be wasted, Parashurama bade Rama strike down his power of motion (his ascetic merit)."
+    },
+    {
+      "id": "parashurama-q18",
+      "difficulty": "medium",
+      "q": "Which elder accompanying Rama tried to calm and appease the furious Parashurama?",
+      "options": ["Dasharatha", "Lakshmana", "Vasishtha", "Bharata"],
+      "answer": 0,
+      "explanation": "King Dasharatha, terrified, pleaded with Parashurama to spare his sons during the confrontation."
+    },
+    {
+      "id": "parashurama-q19",
+      "difficulty": "medium",
+      "q": "How did Lakshmana behave toward Parashurama during the confrontation?",
+      "options": ["He fled in fear", "He mocked Parashurama defiantly", "He bowed and stayed silent", "He shot an arrow at him"],
+      "answer": 1,
+      "explanation": "Lakshmana, ever quick-tempered, scoffed at Parashurama's boasts and angered him further."
+    },
+    {
+      "id": "parashurama-q20",
+      "difficulty": "medium",
+      "q": "After yielding to Rama, where did Parashurama withdraw to?",
+      "options": ["Mount Mahendra", "Lanka", "Ayodhya", "The Himalayas to Kailasa"],
+      "answer": 0,
+      "explanation": "Parashurama retired to Mahendra mountain to resume his austerities after recognizing Rama's divinity."
+    },
+    {
+      "id": "parashurama-q21",
+      "difficulty": "medium",
+      "q": "The confrontation with Parashurama symbolically represents what transition?",
+      "options": ["From the old warrior-sage age to Rama's new age", "From summer to winter", "From war to a second war", "From childhood to adulthood"],
+      "answer": 0,
+      "explanation": "As the card notes, the elder yielded to the new age, marking Rama's ascendancy as the era's hero."
+    },
+    {
+      "id": "parashurama-q22",
+      "difficulty": "medium",
+      "q": "What sacred thread duty did Parashurama uniquely combine that made him unusual?",
+      "options": ["Brahmin scholarship with warrior violence", "Kingship with farming", "Sailing with trade", "Healing with music"],
+      "answer": 0,
+      "explanation": "Parashurama was a brahmin by birth yet lived as a fierce warrior, blending priestly and martial roles."
+    },
+    {
+      "id": "parashurama-q23",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, the bow Parashurama carries is said to rival which other divine bow?",
+      "options": ["The bow of Indra", "Shiva's bow that Rama broke", "The Gandiva of Arjuna", "The bow of Karna"],
+      "answer": 1,
+      "explanation": "The Vishnu bow Parashurama bears is described as the twin and equal of the Shiva bow Rama had just shattered."
+    },
+    {
+      "id": "parashurama-q24",
+      "difficulty": "hard",
+      "q": "According to tradition, how many times did Parashurama clear the earth of unrighteous kshatriyas?",
+      "options": ["Three times", "Seven times", "Twenty-one times", "One hundred times"],
+      "answer": 2,
+      "explanation": "Tradition states Parashurama rid the earth of corrupt kshatriyas twenty-one times over."
+    },
+    {
+      "id": "parashurama-q25",
+      "difficulty": "hard",
+      "q": "Whose celestial cow did Kartavirya Arjuna seize, sparking the feud in Parashurama's backstory?",
+      "options": ["Jamadagni's Kamadhenu (Surabhi)", "Vasishtha's Nandini", "Janaka's plough cow", "Indra's Kamadhenu in heaven"],
+      "answer": 0,
+      "explanation": "Kartavirya Arjuna coveted and stole the wish-granting cow of Jamadagni, leading to the deadly feud."
+    },
+    {
+      "id": "parashurama-q26",
+      "difficulty": "hard",
+      "q": "In which kanda (book) of Valmiki's Ramayana does the Parashurama episode occur?",
+      "options": ["Ayodhya Kanda", "Bala Kanda", "Aranya Kanda", "Yuddha Kanda"],
+      "answer": 1,
+      "explanation": "The encounter with Parashurama closes the Bala Kanda, the first book of the Ramayana."
+    },
+    {
+      "id": "parashurama-q27",
+      "difficulty": "hard",
+      "q": "Parashurama explains that the spirit of which great Vishnu-portion had already entered Rama, making him yield?",
+      "options": ["His own ascetic energy was absorbed by Rama's", "Rama held a piece of Shiva", "Rama had Indra's blessing", "Rama carried Brahma's staff"],
+      "answer": 0,
+      "explanation": "Recognizing Rama drew the imperishable Vishnu bow, Parashurama saw his own power pass into Rama and submitted."
+    },
+    {
+      "id": "parashurama-q28",
+      "difficulty": "hard",
+      "q": "By father's lineage, Parashurama belonged to which sage's clan?",
+      "options": ["The Bhrigu lineage", "The Vasishtha lineage", "The Vishwamitra lineage", "The Atri lineage"],
+      "answer": 0,
+      "explanation": "Jamadagni was a descendant of the sage Bhrigu, making Parashurama a Bhargava (of the Bhrigu line)."
+    },
+    {
+      "id": "parashurama-q29",
+      "difficulty": "hard",
+      "q": "Which act of obedience did Parashurama perform at his father Jamadagni's command, per tradition?",
+      "options": ["Beheading his own mother Renuka", "Burning a forest", "Building a temple", "Drying up a river"],
+      "answer": 0,
+      "explanation": "At Jamadagni's order Parashurama beheaded Renuka, and his unwavering obedience later won her revival as a boon."
+    },
+    {
+      "id": "parashurama-q30",
+      "difficulty": "hard",
+      "q": "As a chiranjivi, Parashurama is traditionally said to reappear as a teacher of warriors in which later epic age?",
+      "options": ["He vanished after the Ramayana entirely", "As a martial guru in the Mahabharata era", "As a king of the gods", "As the founder of Ayodhya"],
+      "answer": 1,
+      "explanation": "Being immortal, Parashurama is said to live on and tutor warriors such as Bhishma, Drona, and Karna in the Mahabharata age."
+    }
+  ]
+}

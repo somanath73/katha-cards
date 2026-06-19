@@ -1,0 +1,245 @@
+{
+  "cardId": "sarayu",
+  "questions": [
+    {
+      "id": "sarayu-q01",
+      "difficulty": "easy",
+      "q": "What kind of natural feature is the Sarayu in the Ramayana?",
+      "options": ["A mountain", "A river", "A desert", "An ocean"],
+      "answer": 1,
+      "explanation": "The Sarayu is the sacred river that flows past the city of Ayodhya."
+    },
+    {
+      "id": "sarayu-q02",
+      "difficulty": "easy",
+      "q": "Which city stands on the banks of the Sarayu river?",
+      "options": ["Lanka", "Mithila", "Ayodhya", "Kishkindha"],
+      "answer": 2,
+      "explanation": "Ayodhya, the capital of Kosala and seat of the Ikshvaku dynasty, lies on the Sarayu."
+    },
+    {
+      "id": "sarayu-q03",
+      "difficulty": "easy",
+      "q": "How is the Sarayu generally regarded in the Ramayana?",
+      "options": ["As a sacred, holy river", "As a poisonous swamp", "As a salty sea", "As a dry riverbed"],
+      "answer": 0,
+      "explanation": "The Sarayu is revered as a sacred and holy river throughout the epic."
+    },
+    {
+      "id": "sarayu-q04",
+      "difficulty": "easy",
+      "q": "Whose birth city was located on the Sarayu?",
+      "options": ["Ravana", "Rama", "Sugriva", "Janaka"],
+      "answer": 1,
+      "explanation": "Rama was born in Ayodhya, the city that sits beside the Sarayu river."
+    },
+    {
+      "id": "sarayu-q05",
+      "difficulty": "easy",
+      "q": "Which dynasty's capital, Ayodhya, lay on the Sarayu?",
+      "options": ["The Yadava dynasty", "The Kuru dynasty", "The Ikshvaku (Solar) dynasty", "The Lunar dynasty of Mithila"],
+      "answer": 2,
+      "explanation": "Ayodhya on the Sarayu was the seat of the Ikshvaku, or Solar, dynasty into which Rama was born."
+    },
+    {
+      "id": "sarayu-q06",
+      "difficulty": "easy",
+      "q": "When Rama left for his exile, which river did he and his companions need to cross?",
+      "options": ["The Sarayu", "The Yamuna only", "The Kaveri", "The Narmada"],
+      "answer": 0,
+      "explanation": "Rama's departure into exile took him across the Sarayu away from Ayodhya."
+    },
+    {
+      "id": "sarayu-q07",
+      "difficulty": "easy",
+      "q": "In which kingdom does the Sarayu flow in the Ramayana?",
+      "options": ["Kosala", "Lanka", "Kekaya", "Anga"],
+      "answer": 0,
+      "explanation": "The Sarayu flows through Kosala, the kingdom whose capital was Ayodhya."
+    },
+    {
+      "id": "sarayu-q08",
+      "difficulty": "easy",
+      "q": "The Sarayu is described as a witness to which major event in Rama's life?",
+      "options": ["His coronation in Lanka", "His birth", "His marriage in Kishkindha", "His defeat in battle"],
+      "answer": 1,
+      "explanation": "The river is portrayed as a witness to Rama's birth at Ayodhya on its banks."
+    },
+    {
+      "id": "sarayu-q09",
+      "difficulty": "easy",
+      "q": "At the end of his life, where did Rama go to depart from the world?",
+      "options": ["Into the Sarayu river", "Into the Indian Ocean", "Into the Ganga at Haridwar", "Into a volcano"],
+      "answer": 0,
+      "explanation": "Tradition holds that Rama walked into the Sarayu river to leave the mortal world."
+    },
+    {
+      "id": "sarayu-q10",
+      "difficulty": "easy",
+      "q": "What is the Sarayu most closely associated with for the people of Ayodhya?",
+      "options": ["Their daily life and sacred rites", "Trade with Lanka", "A great naval war", "Mining for gold"],
+      "answer": 0,
+      "explanation": "The Sarayu was central to the daily life and sacred rituals of Ayodhya's people."
+    },
+    {
+      "id": "sarayu-q11",
+      "difficulty": "medium",
+      "q": "When Rama, Sita, and Lakshmana left Ayodhya in exile, who drove the chariot that took them to and across the Sarayu region?",
+      "options": ["Sumantra", "Vasishtha", "Guha", "Bharata"],
+      "answer": 0,
+      "explanation": "Sumantra, Dasharatha's charioteer and minister, drove Rama's party out of Ayodhya toward the Sarayu."
+    },
+    {
+      "id": "sarayu-q12",
+      "difficulty": "medium",
+      "q": "After crossing beyond the Sarayu region, at which river did Guha the Nishada chief ferry Rama across?",
+      "options": ["The Ganga", "The Godavari", "The Sarayu again", "The Tamasa source"],
+      "answer": 0,
+      "explanation": "Guha, the Nishada king, arranged a boat to ferry Rama's party across the Ganga during the exile journey."
+    },
+    {
+      "id": "sarayu-q13",
+      "difficulty": "medium",
+      "q": "On the very first night after leaving Ayodhya, on the bank of which river did Rama's party halt?",
+      "options": ["The Tamasa", "The Sindhu", "The Saraswati", "The Kaveri"],
+      "answer": 0,
+      "explanation": "Rama's group spent its first night of exile on the bank of the Tamasa, a stream near the Sarayu."
+    },
+    {
+      "id": "sarayu-q14",
+      "difficulty": "medium",
+      "q": "In the Valmiki Ramayana, the Sarayu is said to arise from which celestial lake?",
+      "options": ["Lake Manasa (Manasarovar)", "The Milk Ocean", "Lake Pampa", "The Sarayu has no named source"],
+      "answer": 0,
+      "explanation": "Tradition links the Sarayu's origin to the sacred Manasa (Manasarovar) lake."
+    },
+    {
+      "id": "sarayu-q15",
+      "difficulty": "medium",
+      "q": "Which two sons did Rama and Sita have, who in tradition are associated with cities near the Sarayu/Kosala region?",
+      "options": ["Lava and Kusha", "Luv and Bharata", "Kusha and Angada", "Lava and Shatrughna"],
+      "answer": 0,
+      "explanation": "Lava and Kusha were the twin sons of Rama and Sita, born during her later years."
+    },
+    {
+      "id": "sarayu-q16",
+      "difficulty": "medium",
+      "q": "Bathing in or drinking the waters of the Sarayu is traditionally believed to confer what?",
+      "options": ["Spiritual merit and purification", "Invisibility", "Eternal youth in battle", "The power to fly"],
+      "answer": 0,
+      "explanation": "The Sarayu's sacred waters are believed to grant purification and spiritual merit."
+    },
+    {
+      "id": "sarayu-q17",
+      "difficulty": "medium",
+      "q": "King Dasharatha, who ruled the city on the Sarayu, was the father of how many sons in all?",
+      "options": ["Two", "Three", "Four", "Five"],
+      "answer": 2,
+      "explanation": "Dasharatha of Ayodhya had four sons: Rama, Bharata, Lakshmana, and Shatrughna."
+    },
+    {
+      "id": "sarayu-q18",
+      "difficulty": "medium",
+      "q": "The Sarayu is described as flowing past Ayodhya and serving as a witness to Rama's return after how many years of exile?",
+      "options": ["Ten years", "Twelve years", "Fourteen years", "Twenty years"],
+      "answer": 2,
+      "explanation": "Rama returned to Ayodhya on the Sarayu after completing fourteen years of exile."
+    },
+    {
+      "id": "sarayu-q19",
+      "difficulty": "medium",
+      "q": "Which sage's hermitage and the boyhood education of Rama are connected to the Sarayu/Kosala land before his adventures began?",
+      "options": ["Vasishtha", "Vishwamitra at his own ashram", "Bharadwaja", "Matanga"],
+      "answer": 0,
+      "explanation": "Vasishtha was the royal preceptor of the Ikshvaku house at Ayodhya on the Sarayu and guided the young princes."
+    },
+    {
+      "id": "sarayu-q20",
+      "difficulty": "medium",
+      "q": "When the sage Vishwamitra first took Rama and Lakshmana from Ayodhya, in which direction did they travel, crossing the Sarayu's confluence area?",
+      "options": ["Toward the forest and Mithila to perform tasks", "South to Lanka by sea", "West to Kekaya", "Up into the Himalayas to meditate"],
+      "answer": 0,
+      "explanation": "Vishwamitra led the young princes out from Ayodhya toward the forests and onward to Mithila."
+    },
+    {
+      "id": "sarayu-q21",
+      "difficulty": "medium",
+      "q": "In the Valmiki Ramayana, near where the Sarayu meets the Ganga, Vishwamitra recounted the story of which river goddess's descent?",
+      "options": ["Ganga", "Sarayu herself", "Yamuna", "Godavari"],
+      "answer": 0,
+      "explanation": "At the confluence of the Sarayu and Ganga, Vishwamitra narrated the famous story of Ganga's descent to earth."
+    },
+    {
+      "id": "sarayu-q22",
+      "difficulty": "medium",
+      "q": "The Sarayu river city Ayodhya is praised in the Ramayana as being founded or associated with which ancient king?",
+      "options": ["Manu", "Ravana", "Janaka", "Sugriva"],
+      "answer": 0,
+      "explanation": "Tradition credits the founding of Ayodhya on the Sarayu to Manu, progenitor of the Ikshvaku line."
+    },
+    {
+      "id": "sarayu-q23",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, the name 'Sarayu' is connected to the bursting forth of waters from Lake Manasa caused by which figure?",
+      "options": ["Brahma, when the lake's waters broke out", "Indra hurling his thunderbolt", "Hanuman digging a channel", "Agastya drinking the sea"],
+      "answer": 0,
+      "explanation": "The tradition links the Sarayu's emergence to the waters of Lake Manasa, associated with Brahma, breaking forth as a river."
+    },
+    {
+      "id": "sarayu-q24",
+      "difficulty": "hard",
+      "q": "Which celebrated ancestor of Rama brought the Ganga down to earth, whose waters tradition links with the Sarayu's region near Ayodhya?",
+      "options": ["Bhagiratha", "Sagara", "Raghu", "Aja"],
+      "answer": 0,
+      "explanation": "Bhagiratha, an ancestor of Rama in the Ikshvaku line, brought the Ganga down to earth through his austerities."
+    },
+    {
+      "id": "sarayu-q25",
+      "difficulty": "hard",
+      "q": "At the close of the Ramayana, when Rama entered the Sarayu, in what form is he said to have departed, accompanied by the people of Ayodhya?",
+      "options": ["He returned to his divine form as Vishnu", "He turned into a stone idol", "He sailed away on a ship", "He vanished into a cave"],
+      "answer": 0,
+      "explanation": "Entering the Sarayu, Rama resumed his divine identity as Vishnu and ascended, with many of Ayodhya's people following him."
+    },
+    {
+      "id": "sarayu-q26",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana's account of Rama's final departure into the Sarayu, which deity appeared to receive and accompany him?",
+      "options": ["Brahma", "Kubera", "Varuna only", "Yama"],
+      "answer": 0,
+      "explanation": "Brahma appeared at the Sarayu and welcomed Rama as he gave up his earthly body and returned to his divine abode."
+    },
+    {
+      "id": "sarayu-q27",
+      "difficulty": "hard",
+      "q": "The Sarayu is sometimes identified in later tradition with which modern river of the Ayodhya region?",
+      "options": ["The Ghaghara (Saryu)", "The Chambal", "The Beas", "The Mahanadi"],
+      "answer": 0,
+      "explanation": "The Sarayu of the epic is traditionally identified with the Ghaghara, also called the Saryu, near present-day Ayodhya."
+    },
+    {
+      "id": "sarayu-q28",
+      "difficulty": "hard",
+      "q": "When Rama's party crossed the Sarayu's vicinity at the start of exile, the citizens of Ayodhya who had followed him were left behind sleeping near which river?",
+      "options": ["The Tamasa", "The Mandakini", "The Pampa", "The Sone"],
+      "answer": 0,
+      "explanation": "Rama slipped away by night from the Tamasa's bank, leaving the loyal citizens of Ayodhya asleep so they would return home."
+    },
+    {
+      "id": "sarayu-q29",
+      "difficulty": "hard",
+      "q": "Which charioteer-minister of Ayodhya returned alone with the empty chariot across the Sarayu region, grieving, after Rama crossed the Ganga?",
+      "options": ["Sumantra", "Guha", "Lakshmana", "Vasishtha"],
+      "answer": 0,
+      "explanation": "Sumantra was sent back with the chariot after Guha ferried Rama across the Ganga, returning sorrowfully to Ayodhya."
+    },
+    {
+      "id": "sarayu-q30",
+      "difficulty": "hard",
+      "q": "In tradition, the place on the Sarayu where Rama is said to have entered the water to leave the world is venerated near Ayodhya as what kind of site?",
+      "options": ["A sacred ghat or tirtha (pilgrimage spot)", "A naval shipyard", "A royal treasury", "A battlefield monument"],
+      "answer": 0,
+      "explanation": "The spot on the Sarayu linked to Rama's departure is revered as a sacred ghat and pilgrimage tirtha near Ayodhya."
+    }
+  ]
+}

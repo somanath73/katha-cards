@@ -1,0 +1,245 @@
+{
+  "cardId": "brahmastra",
+  "questions": [
+    {
+      "id": "brahmastra-q01",
+      "difficulty": "easy",
+      "q": "The Brahmastra is named after and associated with which god?",
+      "options": ["Vishnu", "Indra", "Agni", "Brahma"],
+      "answer": 3,
+      "explanation": "The Brahmastra is the divine missile attributed to the creator-god Brahma."
+    },
+    {
+      "id": "brahmastra-q02",
+      "difficulty": "easy",
+      "q": "Which hero loosed the Brahmastra to slay Ravana in the final battle?",
+      "options": ["Lakshmana", "Hanuman", "Rama", "Sugriva"],
+      "answer": 2,
+      "explanation": "Rama discharged the Brahmastra that struck down Ravana."
+    },
+    {
+      "id": "brahmastra-q03",
+      "difficulty": "easy",
+      "q": "Where did the Brahmastra strike Ravana, ending his life?",
+      "options": ["His heart", "His foot", "His left arm", "His crown"],
+      "answer": 0,
+      "explanation": "The Brahmastra pierced Ravana through the heart, killing him."
+    },
+    {
+      "id": "brahmastra-q04",
+      "difficulty": "easy",
+      "q": "What kind of object is the Brahmastra?",
+      "options": ["A sacred drink", "A divine missile or weapon", "A golden crown", "A magic chariot"],
+      "answer": 1,
+      "explanation": "The Brahmastra is an irresistible divine missile invoked with mantras."
+    },
+    {
+      "id": "brahmastra-q05",
+      "difficulty": "easy",
+      "q": "How is the Brahmastra invoked before it is launched?",
+      "options": ["By a written spell", "By drinking nectar", "By blowing a conch", "By sacred mantras"],
+      "answer": 3,
+      "explanation": "The Brahmastra is invoked with sacred mantras before being released."
+    },
+    {
+      "id": "brahmastra-q06",
+      "difficulty": "easy",
+      "q": "The Brahmastra is best described as which type of weapon?",
+      "options": ["An ordinary arrow", "An irresistible divine weapon", "A blunt club", "A throwing net"],
+      "answer": 1,
+      "explanation": "Tradition describes the Brahmastra as an irresistible, almost unstoppable divine weapon."
+    },
+    {
+      "id": "brahmastra-q07",
+      "difficulty": "easy",
+      "q": "Whom did Rama defeat with the Brahmastra at Lanka?",
+      "options": ["Kumbhakarna", "Vibhishana", "Ravana", "Indrajit"],
+      "answer": 2,
+      "explanation": "Rama used the Brahmastra to defeat and kill Ravana, the demon-king of Lanka."
+    },
+    {
+      "id": "brahmastra-q08",
+      "difficulty": "easy",
+      "q": "In which kingdom did Rama's final duel using the Brahmastra take place?",
+      "options": ["Ayodhya", "Mithila", "Lanka", "Kishkindha"],
+      "answer": 2,
+      "explanation": "The climactic battle in which Rama loosed the Brahmastra was fought at Lanka."
+    },
+    {
+      "id": "brahmastra-q09",
+      "difficulty": "easy",
+      "q": "Rama, who wielded the Brahmastra, was a prince of which city?",
+      "options": ["Lanka", "Kishkindha", "Mithila", "Ayodhya"],
+      "answer": 3,
+      "explanation": "Rama was the prince of Ayodhya who ultimately slew Ravana."
+    },
+    {
+      "id": "brahmastra-q10",
+      "difficulty": "easy",
+      "q": "From what kind of arms did Rama launch the Brahmastra at Ravana?",
+      "options": ["A bow", "A spear", "A sword", "A mace"],
+      "answer": 0,
+      "explanation": "Rama was a great archer and discharged the Brahmastra from his bow."
+    },
+    {
+      "id": "brahmastra-q11",
+      "difficulty": "medium",
+      "q": "According to tradition, which sage instructed the young Rama in the secret astras including the Brahmastra?",
+      "options": ["Vishvamitra", "Vashishtha", "Agastya", "Bharadvaja"],
+      "answer": 0,
+      "explanation": "The sage Vishvamitra taught Rama the divine missiles (astras) during his early adventures."
+    },
+    {
+      "id": "brahmastra-q12",
+      "difficulty": "medium",
+      "q": "In the Valmiki Ramayana, the decisive arrow Rama used to slay Ravana is often said to have been given by which sage?",
+      "options": ["Agastya", "Narada", "Durvasa", "Valmiki"],
+      "answer": 0,
+      "explanation": "The sage Agastya is associated with empowering and counselling Rama for the final blow against Ravana."
+    },
+    {
+      "id": "brahmastra-q13",
+      "difficulty": "medium",
+      "q": "What made the Brahmastra effective against Ravana when ordinary arrows had failed?",
+      "options": ["It was poisoned", "It was an unstoppable divine missile invoked with mantras", "It was made of pure gold", "It could turn invisible"],
+      "answer": 1,
+      "explanation": "The Brahmastra was a supreme divine weapon whose power no ordinary defense could withstand."
+    },
+    {
+      "id": "brahmastra-q14",
+      "difficulty": "medium",
+      "q": "Why did Rama's earlier arrows fail to kill Ravana before he used the ultimate weapon?",
+      "options": ["Ravana wore impenetrable armor", "Ravana's severed heads kept regrowing", "Ravana could not be touched by metal", "Rama's bow was broken"],
+      "answer": 1,
+      "explanation": "Ravana's heads regenerated when cut, so a single supreme weapon to the heart was needed to end him."
+    },
+    {
+      "id": "brahmastra-q15",
+      "difficulty": "medium",
+      "q": "Which weapon class does the Brahmastra belong to in Hindu tradition?",
+      "options": ["A mantra-invoked celestial astra", "A simple handheld shastra", "A forged earthly sword", "A siege engine"],
+      "answer": 0,
+      "explanation": "The Brahmastra is an astra, a celestial weapon summoned and directed by mantras rather than a mere handheld arm."
+    },
+    {
+      "id": "brahmastra-q16",
+      "difficulty": "medium",
+      "q": "Who was Ravana's wife who mourned after he was struck down by Rama's ultimate weapon?",
+      "options": ["Mandodari", "Tara", "Sulochana", "Trijata"],
+      "answer": 0,
+      "explanation": "Mandodari, Ravana's chief queen, lamented over his body after the Brahmastra slew him."
+    },
+    {
+      "id": "brahmastra-q17",
+      "difficulty": "medium",
+      "q": "Which brother of Ravana defected to Rama and witnessed the demon-king's fall?",
+      "options": ["Kumbhakarna", "Vibhishana", "Khara", "Mareecha"],
+      "answer": 1,
+      "explanation": "Vibhishana sided with Rama and was present at Ravana's defeat by the Brahmastra."
+    },
+    {
+      "id": "brahmastra-q18",
+      "difficulty": "medium",
+      "q": "The slaying of Ravana with the Brahmastra is the climax of which book (kanda) of the Ramayana?",
+      "options": ["Bala Kanda", "Aranya Kanda", "Yuddha Kanda", "Kishkindha Kanda"],
+      "answer": 2,
+      "explanation": "Ravana's death occurs in the Yuddha Kanda, the war book of the Ramayana."
+    },
+    {
+      "id": "brahmastra-q19",
+      "difficulty": "medium",
+      "q": "Rama, the wielder of the Brahmastra, is traditionally regarded as an avatar of which god?",
+      "options": ["Shiva", "Vishnu", "Brahma", "Indra"],
+      "answer": 1,
+      "explanation": "Rama is venerated as the seventh avatar of Vishnu."
+    },
+    {
+      "id": "brahmastra-q20",
+      "difficulty": "medium",
+      "q": "What is the most famous property attributed to the Brahmastra in tradition?",
+      "options": ["It always misses", "It once launched, cannot be countered and is unfailing", "It only wounds, never kills", "It must be thrown by hand"],
+      "answer": 1,
+      "explanation": "The Brahmastra is renowned as an unfailing weapon that finds its mark and cannot be repelled."
+    },
+    {
+      "id": "brahmastra-q21",
+      "difficulty": "medium",
+      "q": "Before the final blow, Rama was counselled in the secret of Ravana's life. What was the key to ending Ravana?",
+      "options": ["Striking him in the heart with a supreme weapon", "Burning his palace", "Capturing his crown", "Stealing his chariot"],
+      "answer": 0,
+      "explanation": "Rama was advised that only a supreme weapon driven into Ravana's heart could end him, which the Brahmastra accomplished."
+    },
+    {
+      "id": "brahmastra-q22",
+      "difficulty": "medium",
+      "q": "In Hindu tradition, which divine architect is credited with fashioning the celestial weapons of the gods, such as the Brahmastra?",
+      "options": ["Sumantra", "Mareecha", "Jambavan", "Vishvakarma"],
+      "answer": 3,
+      "explanation": "Vishvakarma, the divine architect and smith, is traditionally credited with fashioning the celestial weapons of the gods."
+    },
+    {
+      "id": "brahmastra-q23",
+      "difficulty": "hard",
+      "q": "The Aditya Hridayam hymn, recited to Rama before he slew Ravana, was taught to him by which sage on the battlefield?",
+      "options": ["Agastya", "Vashishtha", "Vishvamitra", "Atri"],
+      "answer": 0,
+      "explanation": "The sage Agastya taught Rama the Aditya Hridayam hymn to the Sun just before the decisive fight."
+    },
+    {
+      "id": "brahmastra-q24",
+      "difficulty": "hard",
+      "q": "Counter-weapons existed for divine astras. Which other supreme astra is the Brahmastra most often paired or compared with as its equal in Hindu epic tradition?",
+      "options": ["The Pashupatastra", "A bamboo dart", "A flaming torch", "A poisoned dagger"],
+      "answer": 0,
+      "explanation": "The Pashupatastra of Shiva is traditionally counted among the supreme astras alongside the Brahmastra."
+    },
+    {
+      "id": "brahmastra-q25",
+      "difficulty": "hard",
+      "q": "In tradition, the Brahmastra is said to be invoked correctly only by one with what qualification?",
+      "options": ["Great wealth", "Knowledge of the proper mantras and self-discipline", "A royal crown", "A golden chariot"],
+      "answer": 1,
+      "explanation": "Only one who knew the precise mantras and had the spiritual discipline could summon and wield the Brahmastra."
+    },
+    {
+      "id": "brahmastra-q26",
+      "difficulty": "hard",
+      "q": "Ravana had earlier obtained boons that protected him from gods and demons but, in his pride, omitted protection from which beings, allowing Rama to slay him?",
+      "options": ["Animals only", "Men and monkeys", "Nagas only", "The wind and fire"],
+      "answer": 1,
+      "explanation": "Ravana's boon excluded humans and lesser beings, so the human Rama could kill him."
+    },
+    {
+      "id": "brahmastra-q27",
+      "difficulty": "hard",
+      "q": "After Ravana fell to the Brahmastra, who did Rama install as the new king of Lanka?",
+      "options": ["Indrajit's son", "Sugriva", "Angada", "Vibhishana"],
+      "answer": 3,
+      "explanation": "Rama crowned Vibhishana, Ravana's righteous brother, as the king of Lanka."
+    },
+    {
+      "id": "brahmastra-q28",
+      "difficulty": "hard",
+      "q": "In the wider epic tradition, misuse of the Brahmastra was believed to cause what kind of catastrophe?",
+      "options": ["A gentle rain", "Drought, famine, and devastation of the land", "A bountiful harvest", "Eternal daylight"],
+      "answer": 1,
+      "explanation": "Tradition warns that the Brahmastra's misuse brought drought, famine, and ruin to the land for years."
+    },
+    {
+      "id": "brahmastra-q29",
+      "difficulty": "hard",
+      "q": "Rama's charioteer for the final battle, sent by Indra to aid him against Ravana, was named:",
+      "options": ["Sumantra", "Daruka", "Sanjaya", "Matali"],
+      "answer": 3,
+      "explanation": "Indra sent his own charioteer Matali with a celestial chariot to carry Rama in the duel with Ravana."
+    },
+    {
+      "id": "brahmastra-q30",
+      "difficulty": "hard",
+      "q": "Which celestial chariot, lent by Indra, did Rama ride when he loosed the Brahmastra at Ravana?",
+      "options": ["Indra's own divine chariot driven by Matali", "The Pushpaka Vimana", "A bullock cart", "Ravana's chariot"],
+      "answer": 0,
+      "explanation": "Rama fought from Indra's celestial chariot, driven by the charioteer Matali, when he slew Ravana."
+    }
+  ]
+}

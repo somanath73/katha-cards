@@ -1,0 +1,245 @@
+{
+  "cardId": "kaikeyi",
+  "questions": [
+    {
+      "id": "kaikeyi-q01",
+      "difficulty": "easy",
+      "q": "Kaikeyi was which wife of King Dasharatha?",
+      "options": ["His first queen", "His second queen", "His third queen", "His only queen"],
+      "answer": 1,
+      "explanation": "Kaikeyi was Dasharatha's second queen, alongside Kausalya and Sumitra."
+    },
+    {
+      "id": "kaikeyi-q02",
+      "difficulty": "easy",
+      "q": "Who was Kaikeyi's son?",
+      "options": ["Rama", "Lakshmana", "Bharata", "Shatrughna"],
+      "answer": 2,
+      "explanation": "Bharata, who later ruled Ayodhya as regent in Rama's name, was Kaikeyi's son."
+    },
+    {
+      "id": "kaikeyi-q03",
+      "difficulty": "easy",
+      "q": "Which scheming maidservant turned Kaikeyi against Rama?",
+      "options": ["Manthara", "Trijata", "Shabari", "Kausalya"],
+      "answer": 0,
+      "explanation": "Manthara, Kaikeyi's hunchbacked maid, poisoned her mind against Rama's coronation."
+    },
+    {
+      "id": "kaikeyi-q04",
+      "difficulty": "easy",
+      "q": "How many boons did Kaikeyi demand from Dasharatha?",
+      "options": ["One", "Two", "Three", "Four"],
+      "answer": 1,
+      "explanation": "Kaikeyi invoked two boons Dasharatha had earlier promised her."
+    },
+    {
+      "id": "kaikeyi-q05",
+      "difficulty": "easy",
+      "q": "What did Kaikeyi demand happen to Rama with one of her boons?",
+      "options": ["That he be crowned king", "That he be exiled to the forest", "That he marry Sita", "That he lead the army"],
+      "answer": 1,
+      "explanation": "One boon demanded Rama's exile to the forest for fourteen years."
+    },
+    {
+      "id": "kaikeyi-q06",
+      "difficulty": "easy",
+      "q": "With her second boon, whom did Kaikeyi want placed on the throne of Ayodhya?",
+      "options": ["Rama", "Lakshmana", "Bharata", "Shatrughna"],
+      "answer": 2,
+      "explanation": "Kaikeyi's second boon demanded that her son Bharata be made king."
+    },
+    {
+      "id": "kaikeyi-q07",
+      "difficulty": "easy",
+      "q": "For how many years did Kaikeyi demand Rama be exiled?",
+      "options": ["Seven years", "Twelve years", "Fourteen years", "Twenty years"],
+      "answer": 2,
+      "explanation": "Kaikeyi demanded Rama live in the forest for fourteen years."
+    },
+    {
+      "id": "kaikeyi-q08",
+      "difficulty": "easy",
+      "q": "What was Kaikeyi's title or epithet on this card?",
+      "options": ["The Queen Who Asked", "The Mother of Twins", "The Faithful Wife", "The Forest Queen"],
+      "answer": 0,
+      "explanation": "The card titles Kaikeyi 'The Queen Who Asked,' referring to her two fateful boons."
+    },
+    {
+      "id": "kaikeyi-q09",
+      "difficulty": "easy",
+      "q": "Whose exile resulted directly from Kaikeyi's demands?",
+      "options": ["Bharata's", "Rama's", "Dasharatha's", "Manthara's"],
+      "answer": 1,
+      "explanation": "Kaikeyi's boons sent Rama into a fourteen-year forest exile."
+    },
+    {
+      "id": "kaikeyi-q10",
+      "difficulty": "easy",
+      "q": "In which kingdom was Kaikeyi a queen?",
+      "options": ["Mithila", "Kishkindha", "Ayodhya", "Lanka"],
+      "answer": 2,
+      "explanation": "Kaikeyi was one of the queens of Ayodhya, ruled by King Dasharatha."
+    },
+    {
+      "id": "kaikeyi-q11",
+      "difficulty": "medium",
+      "q": "Kaikeyi was the daughter of the king of which kingdom?",
+      "options": ["Kosala", "Kekaya", "Videha", "Anga"],
+      "answer": 1,
+      "explanation": "Kaikeyi was the princess of the Kekaya kingdom, from which her name derives."
+    },
+    {
+      "id": "kaikeyi-q12",
+      "difficulty": "medium",
+      "q": "On what occasion did Dasharatha originally promise Kaikeyi the two boons?",
+      "options": ["After she saved his life in a battle", "At their wedding ceremony", "When Bharata was born", "After a hunting contest"],
+      "answer": 0,
+      "explanation": "Kaikeyi tended Dasharatha after he was wounded in a battle aiding the gods, and he granted her two boons."
+    },
+    {
+      "id": "kaikeyi-q13",
+      "difficulty": "medium",
+      "q": "Where did Kaikeyi retreat to make her demands, refusing comfort?",
+      "options": ["The royal garden", "The anger chamber (kopa-bhavana)", "The temple of Ayodhya", "Her chariot"],
+      "answer": 1,
+      "explanation": "Kaikeyi withdrew to the 'kopa-bhavana,' the chamber of wrath, lying on the bare floor to press her demands."
+    },
+    {
+      "id": "kaikeyi-q14",
+      "difficulty": "medium",
+      "q": "How did Dasharatha react when Kaikeyi insisted on her two boons?",
+      "options": ["He joyfully agreed", "He fainted and was overcome with grief", "He immediately banished her", "He laughed it off"],
+      "answer": 1,
+      "explanation": "Dasharatha was so devastated by Kaikeyi's demands that he collapsed in grief and despair."
+    },
+    {
+      "id": "kaikeyi-q15",
+      "difficulty": "medium",
+      "q": "Where was Bharata when Kaikeyi made her demands and Rama left for exile?",
+      "options": ["Beside the king in Ayodhya", "Away visiting his maternal grandfather's kingdom", "In the forest with Rama", "Leading an army"],
+      "answer": 1,
+      "explanation": "Bharata was away at the Kekaya kingdom of his maternal grandfather and knew nothing of the plot."
+    },
+    {
+      "id": "kaikeyi-q16",
+      "difficulty": "medium",
+      "q": "What was Bharata's reaction when he returned and learned what his mother had done?",
+      "options": ["He gladly accepted the throne", "He was furious and condemned Kaikeyi", "He praised Manthara", "He exiled himself willingly with joy"],
+      "answer": 1,
+      "explanation": "Bharata was horrified and angrily rebuked Kaikeyi, refusing to accept the throne won by such treachery."
+    },
+    {
+      "id": "kaikeyi-q17",
+      "difficulty": "medium",
+      "q": "What fear did Manthara plant in Kaikeyi about her future if Rama became king?",
+      "options": ["That Rama would burn Ayodhya", "That she and Bharata would be subservient to Kausalya and Rama", "That Sita would poison her", "That Lakshmana would seize the army"],
+      "answer": 1,
+      "explanation": "Manthara warned that under Rama's rule, Kaikeyi would become a servant to Kausalya and Bharata would be sidelined."
+    },
+    {
+      "id": "kaikeyi-q18",
+      "difficulty": "medium",
+      "q": "Who accompanied Rama into exile after Kaikeyi's boons took effect?",
+      "options": ["Sita and Lakshmana", "Bharata and Shatrughna", "Dasharatha and Kausalya", "Manthara and Sumitra"],
+      "answer": 0,
+      "explanation": "Sita and Lakshmana voluntarily followed Rama into his forest exile."
+    },
+    {
+      "id": "kaikeyi-q19",
+      "difficulty": "medium",
+      "q": "What happened to Dasharatha not long after Rama departed for the forest?",
+      "options": ["He recovered and ruled happily", "He died of grief", "He went into exile too", "He crowned Kaikeyi as ruler"],
+      "answer": 1,
+      "explanation": "Dasharatha died of heartbreak soon after Rama left, unable to bear separation from his beloved son."
+    },
+    {
+      "id": "kaikeyi-q20",
+      "difficulty": "medium",
+      "q": "When Bharata went to the forest to bring Rama back, what did he ultimately do upon Rama's refusal?",
+      "options": ["He seized the crown for himself", "He ruled as regent, placing Rama's sandals on the throne", "He killed Kaikeyi", "He joined Rama in exile permanently"],
+      "answer": 1,
+      "explanation": "Bharata installed Rama's sandals (paduka) on the throne and ruled as a regent in Rama's name."
+    },
+    {
+      "id": "kaikeyi-q21",
+      "difficulty": "medium",
+      "q": "From which town or place did Bharata rule as regent during Rama's exile?",
+      "options": ["Ayodhya itself", "Nandigrama", "Chitrakuta", "Panchavati"],
+      "answer": 1,
+      "explanation": "Bharata governed from Nandigrama, living austerely and keeping Rama's sandals on the throne."
+    },
+    {
+      "id": "kaikeyi-q22",
+      "difficulty": "medium",
+      "q": "How is Kaikeyi generally regarded in tradition after these events?",
+      "options": ["As a heroine who saved Ayodhya", "As the figure whose demands set the epic's tragedy in motion", "As a sage and teacher", "As a warrior queen"],
+      "answer": 1,
+      "explanation": "Kaikeyi is remembered as the queen whose boons triggered Rama's exile and the epic's central conflict."
+    },
+    {
+      "id": "kaikeyi-q23",
+      "difficulty": "hard",
+      "q": "According to tradition, on whose side did Dasharatha fight the battle during which Kaikeyi earned her boons?",
+      "options": ["The gods (devas), against the asuras", "The rakshasas of Lanka", "The kingdom of Mithila", "The vanaras of Kishkindha"],
+      "answer": 0,
+      "explanation": "Dasharatha aided the gods (devas) in their war against the demons, and was wounded, after which Kaikeyi saved him."
+    },
+    {
+      "id": "kaikeyi-q24",
+      "difficulty": "hard",
+      "q": "What specific act of Kaikeyi during the battle is traditionally said to have saved Dasharatha's life?",
+      "options": ["She healed his wounds with herbs", "She steadied a broken chariot axle, some say with her own hand", "She slew the enemy commander", "She carried him from the field on horseback"],
+      "answer": 1,
+      "explanation": "Tradition holds that Kaikeyi acted as his charioteer and saved him when his chariot faltered, earning the two boons."
+    },
+    {
+      "id": "kaikeyi-q25",
+      "difficulty": "hard",
+      "q": "By what other name, derived from her father, is Kaikeyi sometimes referred to in the Ramayana?",
+      "options": ["Vaidehi", "Kaikeyi (daughter of the Kekaya king Ashvapati)", "Maithili", "Kausalya"],
+      "answer": 1,
+      "explanation": "Kaikeyi was the daughter of Ashvapati, king of Kekaya; her name marks her as the Kekaya princess."
+    },
+    {
+      "id": "kaikeyi-q26",
+      "difficulty": "hard",
+      "q": "What promise concerning succession is sometimes said to have been part of Kaikeyi's marriage agreement with Dasharatha?",
+      "options": ["That her son would inherit the throne", "That she would never bear children", "That she would rule jointly", "That Rama would be banished from birth"],
+      "answer": 0,
+      "explanation": "In some traditions, Kaikeyi's father secured a pledge that her son would succeed Dasharatha, which Manthara later invoked."
+    },
+    {
+      "id": "kaikeyi-q27",
+      "difficulty": "hard",
+      "q": "Whom did Bharata blame and treat with contempt as the instigator of the whole scheme?",
+      "options": ["Sumitra", "Manthara", "Kausalya", "Sita"],
+      "answer": 1,
+      "explanation": "Bharata held Manthara responsible for poisoning Kaikeyi's mind and treated her with scorn."
+    },
+    {
+      "id": "kaikeyi-q28",
+      "difficulty": "hard",
+      "q": "After Rama returned and was crowned, how is Kaikeyi's later relationship with him generally described?",
+      "options": ["Rama executed her", "Rama forgave her and treated her with respect", "Rama exiled her permanently", "Rama never spoke to her again"],
+      "answer": 1,
+      "explanation": "Rama, ever dutiful, forgave Kaikeyi and continued to honor her as one of his fathers' queens."
+    },
+    {
+      "id": "kaikeyi-q29",
+      "difficulty": "hard",
+      "q": "What did Kaikeyi initially feel when Manthara first brought her news of Rama's planned coronation, before being persuaded otherwise?",
+      "options": ["Immediate rage", "Joy, and she rewarded the messenger", "Indifference", "Fear of war"],
+      "answer": 1,
+      "explanation": "Kaikeyi was at first delighted at the news of Rama's coronation and even gave Manthara a gift before being swayed."
+    },
+    {
+      "id": "kaikeyi-q30",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, the events caused by Kaikeyi's boons primarily unfold in which book (kanda)?",
+      "options": ["Bala Kanda", "Ayodhya Kanda", "Aranya Kanda", "Yuddha Kanda"],
+      "answer": 1,
+      "explanation": "Kaikeyi's demands and Rama's departure for exile are central to the Ayodhya Kanda, the second book of the epic."
+    }
+  ]
+}

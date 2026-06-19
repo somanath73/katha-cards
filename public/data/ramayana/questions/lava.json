@@ -1,0 +1,245 @@
+{
+  "cardId": "lava",
+  "questions": [
+    {
+      "id": "lava-q01",
+      "difficulty": "easy",
+      "q": "Who is Lava in the Ramayana?",
+      "options": ["One of the twin sons of Rama and Sita", "A brother of Rama", "A demon of Lanka", "A vanara general"],
+      "answer": 0,
+      "explanation": "Lava is one of the twin sons born to Rama and Sita."
+    },
+    {
+      "id": "lava-q02",
+      "difficulty": "easy",
+      "q": "Who is Lava's mother?",
+      "options": ["Kaushalya", "Sita", "Mandodari", "Tara"],
+      "answer": 1,
+      "explanation": "Lava's mother is Sita, the wife of Rama."
+    },
+    {
+      "id": "lava-q03",
+      "difficulty": "easy",
+      "q": "Who is Lava's father?",
+      "options": ["Lakshmana", "Bharata", "Rama", "Janaka"],
+      "answer": 2,
+      "explanation": "Lava is a son of Rama, the hero of the Ramayana."
+    },
+    {
+      "id": "lava-q04",
+      "difficulty": "easy",
+      "q": "Who is Lava's twin brother?",
+      "options": ["Kusha", "Shatrughna", "Angada", "Indrajit"],
+      "answer": 0,
+      "explanation": "Lava's twin brother is Kusha, the other son of Rama and Sita."
+    },
+    {
+      "id": "lava-q05",
+      "difficulty": "easy",
+      "q": "Where were Lava and Kusha born and raised?",
+      "options": ["The palace of Ayodhya", "The court of Mithila", "Valmiki's hermitage", "The island of Lanka"],
+      "answer": 2,
+      "explanation": "The twins were born and brought up in the hermitage of the sage Valmiki."
+    },
+    {
+      "id": "lava-q06",
+      "difficulty": "easy",
+      "q": "Which great epic were Lava and Kusha taught to recite?",
+      "options": ["The Mahabharata", "The Ramayana", "The Bhagavad Gita", "The Rigveda"],
+      "answer": 1,
+      "explanation": "Valmiki taught the twins the Ramayana, the story of their own father."
+    },
+    {
+      "id": "lava-q07",
+      "difficulty": "easy",
+      "q": "Which sage composed the epic that Lava learned and sang?",
+      "options": ["Vishvamitra", "Agastya", "Vasishtha", "Valmiki"],
+      "answer": 3,
+      "explanation": "Valmiki, the Adi Kavi, composed the Ramayana that the twins recited."
+    },
+    {
+      "id": "lava-q08",
+      "difficulty": "easy",
+      "q": "Before whom did Lava sing the Ramayana, not knowing him?",
+      "options": ["Ravana", "His father Rama", "King Janaka", "The sage Agastya"],
+      "answer": 1,
+      "explanation": "Lava sang the epic before Rama, his unknowing father."
+    },
+    {
+      "id": "lava-q09",
+      "difficulty": "easy",
+      "q": "Lava is associated with which emblem, fitting a son of Rama?",
+      "options": ["The bow", "The lotus", "The serpent", "The trident"],
+      "answer": 0,
+      "explanation": "Like his father Rama, Lava is associated with the bow and skill in arms."
+    },
+    {
+      "id": "lava-q10",
+      "difficulty": "easy",
+      "q": "What kind of figure is Lava in the epic?",
+      "options": ["A demon", "A river", "A young prince", "A celestial weapon"],
+      "answer": 2,
+      "explanation": "Lava is a young prince, the son and heir of Rama."
+    },
+    {
+      "id": "lava-q11",
+      "difficulty": "medium",
+      "q": "In which kanda (book) of the Ramayana does the story of Lava and Kusha appear?",
+      "options": ["Bala Kanda", "Aranya Kanda", "Sundara Kanda", "Uttara Kanda"],
+      "answer": 3,
+      "explanation": "The birth and deeds of Lava and Kusha are told in the Uttara Kanda, the final book."
+    },
+    {
+      "id": "lava-q12",
+      "difficulty": "medium",
+      "q": "Why was Sita living in Valmiki's hermitage when she bore Lava?",
+      "options": ["She was on a pilgrimage", "Rama had banished her after rumors questioned her purity", "She fled the war in Lanka", "She was visiting her father Janaka"],
+      "answer": 1,
+      "explanation": "Rama sent the pregnant Sita away to the forest after public rumors doubted her chastity."
+    },
+    {
+      "id": "lava-q13",
+      "difficulty": "medium",
+      "q": "On what occasion did Lava and Kusha publicly recite the Ramayana?",
+      "options": ["Rama's coronation", "Rama's Ashvamedha (horse) sacrifice", "Sita's swayamvara", "The first Diwali celebration"],
+      "answer": 1,
+      "explanation": "The twins sang the epic at the assembly of Rama's Ashvamedha sacrifice."
+    },
+    {
+      "id": "lava-q14",
+      "difficulty": "medium",
+      "q": "How did the listeners first react to the boys singing the Ramayana?",
+      "options": ["They were charmed by the beauty of the recitation", "They drove the boys away", "They ignored them", "They accused the boys of theft"],
+      "answer": 0,
+      "explanation": "The audience and Rama were enchanted by the sweetness and skill of the twins' song."
+    },
+    {
+      "id": "lava-q15",
+      "difficulty": "medium",
+      "q": "In the Uttara Kanda, what role do Lava and Kusha play during the Ashvamedha?",
+      "options": ["They guard the sacrificial fire", "They are the priests of the rite", "They capture the sacrificial horse, leading to conflict", "They lead Rama's army"],
+      "answer": 2,
+      "explanation": "In popular tradition tied to the Uttara Kanda episode, the twins seize the roaming sacrificial horse and fight the warriors sent to recover it."
+    },
+    {
+      "id": "lava-q16",
+      "difficulty": "medium",
+      "q": "What skills did Valmiki impart to Lava besides reciting the epic?",
+      "options": ["Sailing and trade", "Music, scripture, and the use of weapons", "Statecraft and law alone", "Sorcery and illusion"],
+      "answer": 1,
+      "explanation": "The twins were trained in song, sacred learning, and arms in Valmiki's ashram."
+    },
+    {
+      "id": "lava-q17",
+      "difficulty": "medium",
+      "q": "How did Rama come to suspect the singing twins were his own kin?",
+      "options": ["They wore royal crowns", "They strongly resembled him and the tale was his own life", "Valmiki announced it at birth", "Sita introduced them at court"],
+      "answer": 1,
+      "explanation": "The boys' resemblance to Rama and their telling of his very life roused his recognition."
+    },
+    {
+      "id": "lava-q18",
+      "difficulty": "medium",
+      "q": "Who revealed to Rama that Lava and Kusha were the sons of him and Sita?",
+      "options": ["Hanuman", "Lakshmana", "The sage Valmiki", "King Janaka"],
+      "answer": 2,
+      "explanation": "Valmiki disclosed that the twins were the sons of Rama and the blameless Sita."
+    },
+    {
+      "id": "lava-q19",
+      "difficulty": "medium",
+      "q": "What did Valmiki vouch for when presenting the twins to Rama?",
+      "options": ["Sita's purity and innocence", "His own claim to the throne", "The boys' wish to renounce the world", "A demand for tribute"],
+      "answer": 0,
+      "explanation": "Valmiki testified on oath to Sita's purity and the legitimacy of her sons."
+    },
+    {
+      "id": "lava-q20",
+      "difficulty": "medium",
+      "q": "After Rama learned of the twins, what did he wish from Sita before the assembly?",
+      "options": ["That she lead an army", "That she give a public oath affirming her purity", "That she leave for Lanka", "That she crown the twins at once"],
+      "answer": 1,
+      "explanation": "Rama asked Sita to swear publicly to her chastity so the people might accept her and the sons."
+    },
+    {
+      "id": "lava-q21",
+      "difficulty": "medium",
+      "q": "Lava belongs to which royal dynasty through his father Rama?",
+      "options": ["The Yadava dynasty", "The Kuru dynasty", "The Ikshvaku (Solar) dynasty", "The Haihaya dynasty"],
+      "answer": 2,
+      "explanation": "Through Rama, Lava is a prince of the Ikshvaku or Solar dynasty of Ayodhya."
+    },
+    {
+      "id": "lava-q22",
+      "difficulty": "medium",
+      "q": "Sita is regarded as an incarnation of which goddess, making Lava her divine-born son?",
+      "options": ["Saraswati", "Durga", "Parvati", "Lakshmi"],
+      "answer": 3,
+      "explanation": "Sita is honored as an incarnation of Lakshmi, the consort of Vishnu."
+    },
+    {
+      "id": "lava-q23",
+      "difficulty": "hard",
+      "q": "According to popular tradition, which northern city is associated with Lava as his later capital?",
+      "options": ["Lahore", "Kushinagar", "Mathura", "Dwaraka"],
+      "answer": 0,
+      "explanation": "Tradition links Lava with the founding of Lavapuri, identified with the city of Lahore."
+    },
+    {
+      "id": "lava-q24",
+      "difficulty": "hard",
+      "q": "In the Uttara Kanda, how did Sita finally depart from the world after the twins were acknowledged?",
+      "options": ["She returned to rule Mithila", "She was swallowed back into the earth by her mother Bhumi", "She ascended to Vaikuntha in a chariot", "She retired to the Himalayas"],
+      "answer": 1,
+      "explanation": "Sita called upon her mother the Earth, who opened and received her, after which the twins remained with Rama."
+    },
+    {
+      "id": "lava-q25",
+      "difficulty": "hard",
+      "q": "How is the name 'Lava' traditionally explained in relation to the herb kusha grass?",
+      "options": ["He was named after a river", "Valmiki shaped him from blades of grass (kusha/lava) to protect Sita's child", "His name means 'fire' in Sanskrit", "He chose the name himself"],
+      "answer": 1,
+      "explanation": "A traditional account holds that Valmiki created a second child from kusha grass when Sita took one twin, giving the names Kusha and Lava."
+    },
+    {
+      "id": "lava-q26",
+      "difficulty": "hard",
+      "q": "In the well-known recension where the twins fight Rama's forces, which of Rama's brothers did they confront in battle?",
+      "options": ["They confronted Bharata, Lakshmana, and Shatrughna", "They confronted only Vibhishana", "They confronted Sugriva alone", "They confronted no warriors"],
+      "answer": 0,
+      "explanation": "In the popular Lava-Kusha episode the boys overpower Rama's brothers Bharata, Lakshmana, and Shatrughna who pursue the sacrificial horse."
+    },
+    {
+      "id": "lava-q27",
+      "difficulty": "hard",
+      "q": "What was the eventual fate of Lava and Kusha after Rama recognized them?",
+      "options": ["They were exiled like their father", "They were accepted as Rama's heirs and given kingdoms to rule", "They renounced the throne to become hermits", "They perished in the battle of the sacrifice"],
+      "answer": 1,
+      "explanation": "Rama acknowledged the twins as his sons and heirs, and tradition holds they were later given kingdoms to rule."
+    },
+    {
+      "id": "lava-q28",
+      "difficulty": "hard",
+      "q": "Which kingdom or region is the twin Kusha traditionally associated with founding, paralleling Lava's city?",
+      "options": ["Kushasthali or Kushavati", "Indraprastha", "Hastinapura", "Vaishali"],
+      "answer": 0,
+      "explanation": "Kusha is traditionally linked with the city of Kushavati (also Kushasthali), as Lava is with Lavapuri."
+    },
+    {
+      "id": "lava-q29",
+      "difficulty": "hard",
+      "q": "Why is the recitation by Lava and Kusha significant to the structure of Valmiki's Ramayana itself?",
+      "options": ["It is omitted from all versions", "It frames the epic as a song first sung by the twins", "It replaces the war entirely", "It is told only in the Mahabharata"],
+      "answer": 1,
+      "explanation": "The epic presents itself as the song Valmiki taught the twins, who first performed it, framing the whole narrative."
+    },
+    {
+      "id": "lava-q30",
+      "difficulty": "hard",
+      "q": "When the twins first recited before Rama, why did Rama not recognize them as his sons immediately?",
+      "options": ["He had never met Sita", "He had sent Sita away before their birth and did not know they existed", "They were disguised as demons", "They spoke a foreign language"],
+      "answer": 1,
+      "explanation": "Rama had banished the pregnant Sita to the forest before the twins were born, so he was unaware of their existence."
+    }
+  ]
+}

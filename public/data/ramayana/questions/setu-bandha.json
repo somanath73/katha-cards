@@ -1,0 +1,395 @@
+{
+  "cardId": "setu-bandha",
+  "questions": [
+    {
+      "id": "setu-bandha-q01",
+      "difficulty": "easy",
+      "q": "What was the purpose of building the Setu (bridge) in the Ramayana?",
+      "options": [
+        "To cross the ocean and reach Lanka",
+        "To irrigate the forests of Kishkindha",
+        "To trap fish for the vanara army",
+        "To connect two banks of the river Sarayu"
+      ],
+      "answer": 0,
+      "explanation": "The bridge was built across the ocean so Rama's army could cross over to Lanka to rescue Sita."
+    },
+    {
+      "id": "setu-bandha-q02",
+      "difficulty": "easy",
+      "q": "Whose army built the great bridge to Lanka?",
+      "options": [
+        "The army of demons (rakshasas)",
+        "The vanara (monkey) army",
+        "The army of the gods (devas)",
+        "An army of human soldiers from Ayodhya"
+      ],
+      "answer": 1,
+      "explanation": "The vanara host, allied with Rama, constructed the causeway across the sea."
+    },
+    {
+      "id": "setu-bandha-q03",
+      "difficulty": "easy",
+      "q": "Across what body of water was the Setu built?",
+      "options": [
+        "A wide river",
+        "A deep lake",
+        "The ocean (sea)",
+        "A mountain valley"
+      ],
+      "answer": 2,
+      "explanation": "The bridge spanned the ocean separating the mainland from the island of Lanka."
+    },
+    {
+      "id": "setu-bandha-q04",
+      "difficulty": "easy",
+      "q": "What materials did the vanaras chiefly use to build the bridge?",
+      "options": [
+        "Iron beams and bricks",
+        "Boulders, rocks, and tree-trunks",
+        "Bamboo rafts and ropes only",
+        "Sand bags and clay"
+      ],
+      "answer": 1,
+      "explanation": "The vanaras hurled boulders, mountains, and uprooted trees into the sea to form the causeway."
+    },
+    {
+      "id": "setu-bandha-q05",
+      "difficulty": "easy",
+      "q": "For whom was Rama leading the campaign that required the bridge?",
+      "options": [
+        "His brother Lakshmana",
+        "His mother Kaushalya",
+        "His wife Sita",
+        "His ally Sugriva"
+      ],
+      "answer": 2,
+      "explanation": "Rama crossed to Lanka to rescue his wife Sita, who had been abducted by Ravana."
+    },
+    {
+      "id": "setu-bandha-q06",
+      "difficulty": "easy",
+      "q": "Who had abducted Sita, making the journey to Lanka necessary?",
+      "options": [
+        "Ravana",
+        "Vibhishana",
+        "Sugriva",
+        "Kumbhakarna"
+      ],
+      "answer": 0,
+      "explanation": "Ravana, the rakshasa king of Lanka, carried Sita away, prompting Rama's expedition."
+    },
+    {
+      "id": "setu-bandha-q07",
+      "difficulty": "easy",
+      "q": "According to popular tradition, why did some of the stones float on the water?",
+      "options": [
+        "They were hollow inside",
+        "The name of Rama was written upon them",
+        "They were made of light pumice only",
+        "The gods enchanted them with wind"
+      ],
+      "answer": 1,
+      "explanation": "Tradition holds that stones inscribed with Rama's name floated on the sea."
+    },
+    {
+      "id": "setu-bandha-q08",
+      "difficulty": "easy",
+      "q": "What is the island kingdom that the bridge connected the mainland to?",
+      "options": [
+        "Kishkindha",
+        "Ayodhya",
+        "Mithila",
+        "Lanka"
+      ],
+      "answer": 3,
+      "explanation": "The bridge led across the sea to Lanka, Ravana's island stronghold."
+    },
+    {
+      "id": "setu-bandha-q09",
+      "difficulty": "easy",
+      "q": "What kind of creatures made up the bridge-building host?",
+      "options": [
+        "Monkeys and bears",
+        "Horses and elephants",
+        "Eagles and serpents",
+        "Fishermen and sailors"
+      ],
+      "answer": 0,
+      "explanation": "The vanara host included monkeys and bears (such as Jambavan's troops) who carried the rocks."
+    },
+    {
+      "id": "setu-bandha-q10",
+      "difficulty": "easy",
+      "q": "What was the bridge primarily meant to allow the army to do?",
+      "options": [
+        "Sail boats faster",
+        "Walk across the sea on foot",
+        "Dam the ocean permanently",
+        "Catch fish for food"
+      ],
+      "answer": 1,
+      "explanation": "The causeway gave the army a path to march on foot across the water to Lanka."
+    },
+    {
+      "id": "setu-bandha-q11",
+      "difficulty": "medium",
+      "q": "Which vanara architect is credited with engineering and directing the construction of the bridge?",
+      "options": [
+        "Angada",
+        "Nala",
+        "Hanuman",
+        "Sushena"
+      ],
+      "answer": 1,
+      "explanation": "Nala, son of the divine craftsman Vishvakarma, supervised the building of the causeway."
+    },
+    {
+      "id": "setu-bandha-q12",
+      "difficulty": "medium",
+      "q": "Before the bridge was built, what did Rama do to compel the ocean to grant passage?",
+      "options": [
+        "He drank the sea dry",
+        "He performed a penance (fast) on the shore",
+        "He built a boat from reeds",
+        "He summoned a flying chariot"
+      ],
+      "answer": 1,
+      "explanation": "Rama sat in penance on the shore for several days seeking the Ocean's help to cross."
+    },
+    {
+      "id": "setu-bandha-q13",
+      "difficulty": "medium",
+      "q": "When the Ocean did not appear, how did Rama finally force a response?",
+      "options": [
+        "He took up his bow and threatened to dry up the sea with his arrows",
+        "He cursed the fish to die",
+        "He commanded the wind to blow the water aside",
+        "He threw his crown into the waves"
+      ],
+      "answer": 0,
+      "explanation": "An angered Rama raised his bow with fiery arrows, frightening the Ocean god into appearing."
+    },
+    {
+      "id": "setu-bandha-q14",
+      "difficulty": "medium",
+      "q": "According to the Valmiki Ramayana, how did the Ocean god (Samudra) suggest the crossing be made?",
+      "options": [
+        "By freezing the water solid",
+        "By having Nala build a bridge, since the waters would bear it up",
+        "By sailing on a fleet of golden ships",
+        "By flying over on the bird Jatayu"
+      ],
+      "answer": 1,
+      "explanation": "The Ocean advised that Nala, son of Vishvakarma, should build a bridge that the sea would support."
+    },
+    {
+      "id": "setu-bandha-q15",
+      "difficulty": "medium",
+      "q": "How many days, by Valmiki's account, did the vanaras take to complete the bridge?",
+      "options": [
+        "One single day",
+        "Five days",
+        "A full year",
+        "Forty days"
+      ],
+      "answer": 1,
+      "explanation": "Valmiki's Ramayana states the mighty vanaras completed the great bridge in five days."
+    },
+    {
+      "id": "setu-bandha-q16",
+      "difficulty": "medium",
+      "q": "What was Nala's divine parentage that gave him the skill to build the bridge?",
+      "options": [
+        "He was the son of Indra, king of the gods",
+        "He was the son of Vishvakarma, the celestial architect",
+        "He was the son of Agni, the fire god",
+        "He was the son of Surya, the sun god"
+      ],
+      "answer": 1,
+      "explanation": "Nala was born of Vishvakarma, the divine architect, inheriting his craftsmanship."
+    },
+    {
+      "id": "setu-bandha-q17",
+      "difficulty": "medium",
+      "q": "What did the vanaras uproot and carry from the land to cast into the sea?",
+      "options": [
+        "Mountains and great trees",
+        "Temples and houses",
+        "Riverbeds and lakes",
+        "Clouds and lightning"
+      ],
+      "answer": 0,
+      "explanation": "The vanaras tore up mountains and huge trees and hurled them into the ocean to form the bridge."
+    },
+    {
+      "id": "setu-bandha-q18",
+      "difficulty": "medium",
+      "q": "Roughly how long was the bridge said to be in Valmiki's Ramayana?",
+      "options": [
+        "Ten yojanas wide and a hundred yojanas long",
+        "One yojana in total",
+        "Three yojanas wide and ten yojanas long",
+        "Fifty yojanas wide and fifty yojanas long"
+      ],
+      "answer": 0,
+      "explanation": "Valmiki describes the bridge as ten yojanas in breadth and a hundred yojanas in length."
+    },
+    {
+      "id": "setu-bandha-q19",
+      "difficulty": "medium",
+      "q": "Which key figure had recently joined Rama's side and was present as the army prepared to cross to Lanka?",
+      "options": [
+        "Ravana's brother Vibhishana",
+        "Sita's father Janaka",
+        "Rama's brother Bharata",
+        "The sage Vishvamitra"
+      ],
+      "answer": 0,
+      "explanation": "Vibhishana, Ravana's righteous brother, had defected to Rama before the crossing to Lanka."
+    },
+    {
+      "id": "setu-bandha-q20",
+      "difficulty": "medium",
+      "q": "What role did the larger vanaras play while the architects positioned the stones?",
+      "options": [
+        "They sang songs to calm the sea",
+        "They carried enormous rocks and trees to the bridge-head",
+        "They guarded the camp from a distance",
+        "They dug tunnels under the ocean floor"
+      ],
+      "answer": 1,
+      "explanation": "The powerful vanaras hauled massive boulders and trees, which Nala arranged into the causeway."
+    },
+    {
+      "id": "setu-bandha-q21",
+      "difficulty": "medium",
+      "q": "In which kanda (book) of the Valmiki Ramayana does the building of the bridge occur?",
+      "options": [
+        "Bala Kanda",
+        "Aranya Kanda",
+        "Yuddha Kanda (the War Book)",
+        "Ayodhya Kanda"
+      ],
+      "answer": 2,
+      "explanation": "The Setu Bandha episode appears in the Yuddha Kanda, the book describing the war against Ravana."
+    },
+    {
+      "id": "setu-bandha-q22",
+      "difficulty": "medium",
+      "q": "After the bridge was finished, what did Rama's army do?",
+      "options": [
+        "They returned home to Ayodhya",
+        "They crossed over it to reach Lanka",
+        "They dismantled it for firewood",
+        "They waited for a fleet of ships"
+      ],
+      "answer": 1,
+      "explanation": "Once the bridge was complete, the vast vanara army marched across it to Lanka to begin the war."
+    },
+    {
+      "id": "setu-bandha-q23",
+      "difficulty": "hard",
+      "q": "What is the name of the Ocean god whom Rama propitiated for safe passage?",
+      "options": [
+        "Varuna",
+        "Samudra (Sagara)",
+        "Vayu",
+        "Yama"
+      ],
+      "answer": 1,
+      "explanation": "The personified Ocean, called Samudra or Sagara, appeared before Rama and advised the bridge-building."
+    },
+    {
+      "id": "setu-bandha-q24",
+      "difficulty": "hard",
+      "q": "When Rama drew his bow against the sea, where did the Ocean ask him to release the powerful arrow that had been invoked, so it would not be wasted?",
+      "options": [
+        "Upon the city of Lanka",
+        "Upon a region of robbers in the north (Drumakulya)",
+        "Upon the Himalayan peaks",
+        "Upon the army of Ravana"
+      ],
+      "answer": 1,
+      "explanation": "The Ocean asked Rama to loose the arrow on the Drumakulya region in the north, inhabited by wicked dwellers."
+    },
+    {
+      "id": "setu-bandha-q25",
+      "difficulty": "hard",
+      "q": "On which day of construction, per Valmiki, did the vanaras complete the greatest span, working with frenzied speed?",
+      "options": [
+        "On the first day they built fourteen yojanas",
+        "On the third day twenty-one yojanas",
+        "Each successive day they extended it, finishing on the fifth",
+        "They built it all in a single hour"
+      ],
+      "answer": 2,
+      "explanation": "Valmiki recounts the bridge growing over successive days, the vanaras completing the hundred-yojana span on the fifth day."
+    },
+    {
+      "id": "setu-bandha-q26",
+      "difficulty": "hard",
+      "q": "Which sea or strait is traditionally identified with the location of Rama's bridge?",
+      "options": [
+        "The Bay of Bengal near Kolkata",
+        "The strait between Rameswaram (India) and Mannar (Sri Lanka)",
+        "The Arabian Sea near Dwarka",
+        "The Gulf of Khambhat"
+      ],
+      "answer": 1,
+      "explanation": "The bridge is traditionally placed at the strait between Rameswaram in India and Mannar in Sri Lanka."
+    },
+    {
+      "id": "setu-bandha-q27",
+      "difficulty": "hard",
+      "q": "Which divine craftsman, father of Nala, is the source of the bridge-builder's hereditary skill?",
+      "options": [
+        "Tvashta alone, unrelated to Nala",
+        "Vishvakarma",
+        "Maya, the asura architect",
+        "Brihaspati"
+      ],
+      "answer": 1,
+      "explanation": "Nala inherited his building genius from his father Vishvakarma, the architect of the gods."
+    },
+    {
+      "id": "setu-bandha-q28",
+      "difficulty": "hard",
+      "q": "In Valmiki's account, what feature helped the vanaras keep the long bridge straight and aligned as they built?",
+      "options": [
+        "They used a measuring cord and rods to keep it true",
+        "They floated lanterns at night",
+        "They followed a path of stars only",
+        "They let the current shape it randomly"
+      ],
+      "answer": 0,
+      "explanation": "The vanaras used cords and measuring rods so the great causeway was built straight and even."
+    },
+    {
+      "id": "setu-bandha-q29",
+      "difficulty": "hard",
+      "q": "What name is commonly given to the bridge in later tradition, honoring its builder and its purpose?",
+      "options": [
+        "Hanuman Setu",
+        "Nala Setu or Rama Setu",
+        "Sugriva Setu",
+        "Vibhishana Setu"
+      ],
+      "answer": 1,
+      "explanation": "The causeway is known as Nala Setu (after its architect) and as Rama Setu (after Rama)."
+    },
+    {
+      "id": "setu-bandha-q30",
+      "difficulty": "hard",
+      "q": "According to the narrative, how did the vanaras manage to make the heavy boulders and mountains stay in place to form a stable path?",
+      "options": [
+        "They froze them with ice from the Himalayas",
+        "They bound the stones together and Nala arranged them so they held, the sea bearing them up as promised",
+        "They melted the rocks into a single sheet",
+        "They tied the bridge to the moon"
+      ],
+      "answer": 1,
+      "explanation": "Nala arranged and bound the rocks into a firm causeway, and the Ocean, as promised, bore up the bridge."
+    }
+  ]
+}

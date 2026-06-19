@@ -1,0 +1,245 @@
+{
+  "cardId": "pinaka",
+  "questions": [
+    {
+      "id": "pinaka-q01",
+      "difficulty": "easy",
+      "q": "To which god did the bow Pinaka originally belong?",
+      "options": ["Vishnu", "Shiva", "Indra", "Brahma"],
+      "answer": 1,
+      "explanation": "The Pinaka was the mighty bow of the god Shiva, later kept in Janaka's court."
+    },
+    {
+      "id": "pinaka-q02",
+      "difficulty": "easy",
+      "q": "In whose court was the Pinaka bow kept?",
+      "options": ["King Dasharatha", "King Ravana", "King Janaka", "King Sugriva"],
+      "answer": 2,
+      "explanation": "The bow was preserved in the court of King Janaka of Mithila."
+    },
+    {
+      "id": "pinaka-q03",
+      "difficulty": "easy",
+      "q": "What was the prize for stringing the Pinaka bow?",
+      "options": ["The kingdom of Mithila", "A chest of gold", "A divine chariot", "The hand of Sita in marriage"],
+      "answer": 3,
+      "explanation": "Janaka vowed that whoever could string the bow would win the hand of his daughter Sita."
+    },
+    {
+      "id": "pinaka-q04",
+      "difficulty": "easy",
+      "q": "Which prince ultimately strung the Pinaka bow?",
+      "options": ["Bharata", "Lakshmana", "Rama", "Shatrughna"],
+      "answer": 2,
+      "explanation": "Rama lifted and strung the bow, fulfilling the condition to marry Sita."
+    },
+    {
+      "id": "pinaka-q05",
+      "difficulty": "easy",
+      "q": "What was remarkable about the Pinaka that made it a fitting test?",
+      "options": ["It was made of gold", "It was invisible", "It could not be lifted by any king", "It sang when touched"],
+      "answer": 2,
+      "explanation": "The colossal bow was so heavy that no king could even lift it."
+    },
+    {
+      "id": "pinaka-q06",
+      "difficulty": "easy",
+      "q": "Whom did Rama marry after stringing the Pinaka?",
+      "options": ["Urmila", "Mandavi", "Sita", "Shrutakirti"],
+      "answer": 2,
+      "explanation": "By stringing the bow, Rama won the hand of Sita, Janaka's daughter."
+    },
+    {
+      "id": "pinaka-q07",
+      "difficulty": "easy",
+      "q": "What happened to the Pinaka bow when Rama drew it to string it?",
+      "options": ["It vanished", "It turned to gold", "It flew into the sky", "It broke"],
+      "answer": 3,
+      "explanation": "As Rama bent the bow to string it, the Pinaka snapped in two with a thunderous sound."
+    },
+    {
+      "id": "pinaka-q08",
+      "difficulty": "easy",
+      "q": "Which sage led Rama and Lakshmana to Janaka's court where the bow was kept?",
+      "options": ["Vasishtha", "Bharadvaja", "Agastya", "Vishvamitra"],
+      "answer": 3,
+      "explanation": "The sage Vishvamitra brought the young princes to Mithila to witness Janaka's great bow."
+    },
+    {
+      "id": "pinaka-q09",
+      "difficulty": "easy",
+      "q": "The Pinaka is most closely associated with which type of object in the Ramayana?",
+      "options": ["A bow", "A sword", "A crown", "A discus"],
+      "answer": 0,
+      "explanation": "The Pinaka is famous as a bow, the celebrated weapon of Shiva."
+    },
+    {
+      "id": "pinaka-q10",
+      "difficulty": "easy",
+      "q": "In which kingdom did the contest to string the Pinaka take place?",
+      "options": ["Ayodhya", "Lanka", "Mithila", "Kishkindha"],
+      "answer": 2,
+      "explanation": "The bow contest was held in Mithila, the kingdom ruled by King Janaka."
+    },
+    {
+      "id": "pinaka-q11",
+      "difficulty": "medium",
+      "q": "How was the enormous Pinaka bow transported into the assembly for the contest?",
+      "options": ["Carried by a single soldier", "Floated on the river", "Drawn on a large eight-wheeled cart", "Pulled by elephants alone"],
+      "answer": 2,
+      "explanation": "In Valmiki's account the bow was brought in on a great eight-wheeled iron chest drawn by many men."
+    },
+    {
+      "id": "pinaka-q12",
+      "difficulty": "medium",
+      "q": "How did King Janaka come to possess the Pinaka bow?",
+      "options": ["He forged it himself", "He won it in battle", "He bought it from Ravana", "It was a gift from the gods to his ancestors"],
+      "answer": 3,
+      "explanation": "The bow was given by the gods to Janaka's ancestor Devarata and passed down as a family heirloom."
+    },
+    {
+      "id": "pinaka-q13",
+      "difficulty": "medium",
+      "q": "How was Sita described in relation to her birth, the princess won through the Pinaka?",
+      "options": ["Born from fire", "Risen from the ocean", "Found in a furrow of the earth", "Descended from the sky"],
+      "answer": 2,
+      "explanation": "Sita was found by Janaka in a furrow while ploughing a field, hence called daughter of the earth."
+    },
+    {
+      "id": "pinaka-q14",
+      "difficulty": "medium",
+      "q": "What did King Janaka do after Rama broke the Pinaka, before the wedding?",
+      "options": ["Declared war on Ayodhya", "Hid Sita away", "Demanded another contest", "Sent messengers to King Dasharatha"],
+      "answer": 3,
+      "explanation": "Janaka dispatched envoys to Ayodhya to invite Dasharatha for the marriage of Rama and Sita."
+    },
+    {
+      "id": "pinaka-q15",
+      "difficulty": "medium",
+      "q": "Which mighty figure had previously failed to bend or lift the Pinaka, according to tradition?",
+      "options": ["Ravana", "Hanuman", "Sugriva", "Vibhishana"],
+      "answer": 0,
+      "explanation": "Tradition holds that even the powerful Ravana could not lift or string the great bow of Shiva."
+    },
+    {
+      "id": "pinaka-q16",
+      "difficulty": "medium",
+      "q": "What sound accompanied the breaking of the Pinaka bow?",
+      "options": ["Soft music", "Complete silence", "A noise like a thunderbolt", "The ringing of bells"],
+      "answer": 2,
+      "explanation": "The bow snapped with a crash compared to a thunderbolt, heard far across the land."
+    },
+    {
+      "id": "pinaka-q17",
+      "difficulty": "medium",
+      "q": "What did Rama do to the bow before it broke?",
+      "options": ["He admired it from afar", "He shot an arrow with it", "He gave it to Lakshmana", "He lifted, bent, and began to string it"],
+      "answer": 3,
+      "explanation": "Rama effortlessly lifted the bow, bent it to fasten the string, and in doing so it broke."
+    },
+    {
+      "id": "pinaka-q18",
+      "difficulty": "medium",
+      "q": "Why did Janaka set the bow-stringing as a condition for Sita's marriage?",
+      "options": ["To find the wealthiest suitor", "To amuse his court", "To find a husband of matchless strength worthy of her", "To punish failed suitors"],
+      "answer": 2,
+      "explanation": "Janaka wished his daughter to be wed only to a man of extraordinary valor, proven by the bow."
+    },
+    {
+      "id": "pinaka-q19",
+      "difficulty": "medium",
+      "q": "How is the worship of the Pinaka described in Janaka's court before the contest?",
+      "options": ["It was ignored", "It was kept secret", "It was used daily for hunting", "It was honored with offerings of perfume and incense"],
+      "answer": 3,
+      "explanation": "Janaka venerated the divine bow with regular offerings of incense, perfume, and reverence."
+    },
+    {
+      "id": "pinaka-q20",
+      "difficulty": "medium",
+      "q": "Which of Rama's three brothers also married daughters of Janaka's family at the same ceremony?",
+      "options": ["Only Lakshmana", "Only Bharata", "Lakshmana, Bharata, and Shatrughna", "None of them"],
+      "answer": 2,
+      "explanation": "All three brothers wed: Lakshmana married Urmila, while Bharata and Shatrughna married Janaka's nieces."
+    },
+    {
+      "id": "pinaka-q21",
+      "difficulty": "medium",
+      "q": "What was the general reaction of the assembled kings who could not lift the Pinaka?",
+      "options": ["Joy and celebration", "Indifference", "Laughter", "Shame and humiliation"],
+      "answer": 3,
+      "explanation": "The many kings who failed even to stir the bow departed in shame and disappointment."
+    },
+    {
+      "id": "pinaka-q22",
+      "difficulty": "medium",
+      "q": "The breaking of the Pinaka set the stage for an encounter with which fierce sage-warrior on the road home?",
+      "options": ["Parashurama", "Durvasa", "Narada", "Atri"],
+      "answer": 0,
+      "explanation": "News of the broken bow of Shiva drew the wrathful Parashurama to confront Rama after the wedding."
+    },
+    {
+      "id": "pinaka-q23",
+      "difficulty": "hard",
+      "q": "Through which royal lineage had the Pinaka bow descended to King Janaka?",
+      "options": ["The line of Ikshvaku", "The line of Yadu", "The line of Nimi through Devarata", "The line of Bharata"],
+      "answer": 2,
+      "explanation": "The bow descended through the kings of Mithila, having been entrusted to Janaka's forefather Devarata."
+    },
+    {
+      "id": "pinaka-q24",
+      "difficulty": "hard",
+      "q": "According to tradition, for what purpose had Shiva once readied the Pinaka before it came to Mithila?",
+      "options": ["To destroy the gods at Daksha's sacrifice", "To slay Tataka", "To churn the ocean", "To guard the Vedas"],
+      "answer": 0,
+      "explanation": "Shiva had bent the Pinaka in anger to destroy the gods at Daksha's sacrifice before being appeased."
+    },
+    {
+      "id": "pinaka-q25",
+      "difficulty": "hard",
+      "q": "After Rama broke the Pinaka, which other divine bow did Parashurama challenge him to string?",
+      "options": ["The Gandiva of Arjuna", "The Ajagava bow", "Indra's Vijaya bow", "The bow of Vishnu (Sharanga)"],
+      "answer": 3,
+      "explanation": "Parashurama brought the bow of Vishnu and challenged Rama, who strung it and thereby humbled the sage."
+    },
+    {
+      "id": "pinaka-q26",
+      "difficulty": "hard",
+      "q": "How many men are said to have been required to draw the cart bearing the Pinaka in Valmiki's Ramayana?",
+      "options": ["About one hundred", "Five thousand stalwart men", "A single elephant", "Ten warriors"],
+      "answer": 1,
+      "explanation": "Valmiki describes five thousand tall, strong men straining to draw the eight-wheeled chest holding the bow."
+    },
+    {
+      "id": "pinaka-q27",
+      "difficulty": "hard",
+      "q": "What name is sometimes given to Shiva himself in reference to wielding the Pinaka?",
+      "options": ["Pinakapani / Pinaki", "Gandivadhanvan", "Sharngapani", "Chakrapani"],
+      "answer": 0,
+      "explanation": "Shiva is called Pinaki or Pinakapani, meaning the bearer of the Pinaka bow."
+    },
+    {
+      "id": "pinaka-q28",
+      "difficulty": "hard",
+      "q": "In Valmiki's narrative, what did Janaka say about even gods and gandharvas regarding the Pinaka?",
+      "options": ["They had crafted it for him", "They guarded it nightly", "They too were unable to string it", "They worshipped it as a deity"],
+      "answer": 2,
+      "explanation": "Janaka declared that even gods, demons, and gandharvas had been unable to string the mighty bow."
+    },
+    {
+      "id": "pinaka-q29",
+      "difficulty": "hard",
+      "q": "What did Janaka offer to give as a dowry, weeping with joy after the bow was broken?",
+      "options": ["His entire kingdom", "The broken bow itself", "A fleet of ships", "Sita along with great wealth and his devotion to Rama"],
+      "answer": 3,
+      "explanation": "Overcome with joy, Janaka gave Sita to Rama together with abundant riches and heartfelt blessings."
+    },
+    {
+      "id": "pinaka-q30",
+      "difficulty": "hard",
+      "q": "Which event involving the Pinaka is traditionally invoked to show Rama as an incarnation surpassing former heroes?",
+      "options": ["His effortless breaking of Shiva's bow that none could lift", "His forging of a new bow", "His refusal to touch the bow", "His gifting of the bow to Lakshmana"],
+      "answer": 0,
+      "explanation": "Rama's effortless breaking of Shiva's unliftable bow marks him as supreme among all warriors and a divine incarnation."
+    }
+  ]
+}

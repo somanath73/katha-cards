@@ -1,0 +1,245 @@
+{
+  "cardId": "abduction-of-sita",
+  "questions": [
+    {
+      "id": "abduction-of-sita-q01",
+      "difficulty": "easy",
+      "q": "Who abducted Sita and carried her away to Lanka?",
+      "options": ["Ravana", "Hanuman", "Vibhishana", "Sugriva"],
+      "answer": 0,
+      "explanation": "Ravana, the rakshasa king of Lanka, abducted Sita and carried her off in his flying chariot."
+    },
+    {
+      "id": "abduction-of-sita-q02",
+      "difficulty": "easy",
+      "q": "To which kingdom did Ravana take Sita after abducting her?",
+      "options": ["Ayodhya", "Lanka", "Kishkindha", "Mithila"],
+      "answer": 1,
+      "explanation": "Ravana took Sita to his island kingdom of Lanka."
+    },
+    {
+      "id": "abduction-of-sita-q03",
+      "difficulty": "easy",
+      "q": "In what disguise did Ravana approach Sita to abduct her?",
+      "options": ["A warrior", "A king", "A mendicant (ascetic)", "A merchant"],
+      "answer": 2,
+      "explanation": "Ravana disguised himself as a wandering mendicant or ascetic to approach Sita."
+    },
+    {
+      "id": "abduction-of-sita-q04",
+      "difficulty": "easy",
+      "q": "Whose wife was Sita?",
+      "options": ["Lakshmana", "Bharata", "Rama", "Shatrughna"],
+      "answer": 2,
+      "explanation": "Sita was the devoted wife of Rama, prince of Ayodhya."
+    },
+    {
+      "id": "abduction-of-sita-q05",
+      "difficulty": "easy",
+      "q": "By what means did Ravana fly Sita away to Lanka?",
+      "options": ["A flying chariot", "A great eagle", "A magic boat", "On foot through the forest"],
+      "answer": 0,
+      "explanation": "Ravana carried Sita off in his celestial flying chariot."
+    },
+    {
+      "id": "abduction-of-sita-q06",
+      "difficulty": "easy",
+      "q": "In which forest were Rama, Sita, and Lakshmana living when Sita was abducted?",
+      "options": ["Dandaka forest", "Naimisha forest", "Ashoka forest", "Khandava forest"],
+      "answer": 0,
+      "explanation": "The abduction took place while they were dwelling in the Dandaka forest during their exile."
+    },
+    {
+      "id": "abduction-of-sita-q07",
+      "difficulty": "easy",
+      "q": "What was Ravana's relationship to the demoness Shurpanakha, whose insult helped set the abduction in motion?",
+      "options": ["Her son", "Her brother", "Her husband", "Her father"],
+      "answer": 1,
+      "explanation": "Shurpanakha was Ravana's sister, and her humiliation by Rama and Lakshmana spurred Ravana's revenge."
+    },
+    {
+      "id": "abduction-of-sita-q08",
+      "difficulty": "easy",
+      "q": "What kind of animal did the demon Maricha turn into to lure Rama away from the hermitage?",
+      "options": ["A golden deer", "A white horse", "A black serpent", "A silver swan"],
+      "answer": 0,
+      "explanation": "Maricha took the form of an enchanting golden deer to draw Rama away."
+    },
+    {
+      "id": "abduction-of-sita-q09",
+      "difficulty": "easy",
+      "q": "Whom did Sita ask Rama to capture for her, leading him to leave the hermitage?",
+      "options": ["The golden deer", "A peacock", "A monkey", "A parrot"],
+      "answer": 0,
+      "explanation": "Charmed by the golden deer, Sita asked Rama to capture it for her."
+    },
+    {
+      "id": "abduction-of-sita-q10",
+      "difficulty": "easy",
+      "q": "The abduction of Sita is the event that directly set in motion which great conflict?",
+      "options": ["The war between Rama and Ravana", "The Kurukshetra war", "The churning of the ocean", "The battle of Lanka's founding"],
+      "answer": 0,
+      "explanation": "The abduction of Sita set in motion the great war between Rama and Ravana."
+    },
+    {
+      "id": "abduction-of-sita-q11",
+      "difficulty": "medium",
+      "q": "Which demon, fearing Rama's arrows, reluctantly took the form of the golden deer at Ravana's command?",
+      "options": ["Maricha", "Khara", "Dushana", "Subahu"],
+      "answer": 0,
+      "explanation": "Maricha, who had earlier been struck by Rama's arrow, fearfully obeyed Ravana and became the golden deer."
+    },
+    {
+      "id": "abduction-of-sita-q12",
+      "difficulty": "medium",
+      "q": "When struck by Rama's arrow, the golden deer cried out in whose voice to deceive Sita?",
+      "options": ["Lakshmana's voice", "Rama's voice", "Bharata's voice", "Sugriva's voice"],
+      "answer": 1,
+      "explanation": "The dying Maricha mimicked Rama's voice, crying out for help to lure Lakshmana away."
+    },
+    {
+      "id": "abduction-of-sita-q13",
+      "difficulty": "medium",
+      "q": "Whom did Sita send after Rama when she heard the deceptive cry for help?",
+      "options": ["Lakshmana", "Hanuman", "Jatayu", "Guha"],
+      "answer": 0,
+      "explanation": "Believing Rama was in danger, Sita urged a reluctant Lakshmana to go after him."
+    },
+    {
+      "id": "abduction-of-sita-q14",
+      "difficulty": "medium",
+      "q": "Before leaving the hermitage, what protective measure is Lakshmana traditionally said to have drawn around Sita?",
+      "options": ["A circle of fire", "The Lakshmana Rekha (a protective line)", "A ring of arrows", "A wall of thorns"],
+      "answer": 1,
+      "explanation": "In popular tradition Lakshmana drew a protective line, the Lakshmana Rekha, which Sita was warned not to cross."
+    },
+    {
+      "id": "abduction-of-sita-q15",
+      "difficulty": "medium",
+      "q": "What hospitality did Sita offer the disguised mendicant, in keeping with sacred custom?",
+      "options": ["Gold and jewels", "A seat on his chariot", "Food and alms", "Shelter for the night"],
+      "answer": 2,
+      "explanation": "Honoring the duty owed to a holy guest, Sita came forward to offer the disguised Ravana food and alms."
+    },
+    {
+      "id": "abduction-of-sita-q16",
+      "difficulty": "medium",
+      "q": "Which aged vulture king tried to rescue Sita and fought Ravana as he flew her away?",
+      "options": ["Sampati", "Garuda", "Jatayu", "Kakasura"],
+      "answer": 2,
+      "explanation": "Jatayu, the noble vulture king and friend of Rama's father, battled Ravana to try to save Sita."
+    },
+    {
+      "id": "abduction-of-sita-q17",
+      "difficulty": "medium",
+      "q": "How did Ravana defeat Jatayu during the abduction?",
+      "options": ["He cut off Jatayu's wings with his sword", "He burned Jatayu with fire", "He turned Jatayu to stone", "He bound Jatayu with chains"],
+      "answer": 0,
+      "explanation": "Ravana severed Jatayu's wings with his sword, mortally wounding the brave bird."
+    },
+    {
+      "id": "abduction-of-sita-q18",
+      "difficulty": "medium",
+      "q": "As she was carried off, what did Sita drop to leave a trail for Rama to follow?",
+      "options": ["Her ornaments and jewels", "Flower petals", "Strands of her hair", "Pieces of cloth from her sari"],
+      "answer": 0,
+      "explanation": "Sita cast down her ornaments and jewels so that Rama might trace the path of her abductor."
+    },
+    {
+      "id": "abduction-of-sita-q19",
+      "difficulty": "medium",
+      "q": "Which group of vanaras (monkeys) later received the bundle of ornaments that Sita had dropped?",
+      "options": ["Sugriva and his companions", "Hanuman's parents", "Vibhishana's spies", "Vali's guards"],
+      "answer": 0,
+      "explanation": "Sugriva and the monkeys gathered the ornaments Sita had cast down and later showed them to Rama."
+    },
+    {
+      "id": "abduction-of-sita-q20",
+      "difficulty": "medium",
+      "q": "In which grove of Lanka did Ravana hold Sita captive after the abduction?",
+      "options": ["The Ashoka grove (Ashoka Vatika)", "The Nandana grove", "The Madhuvana grove", "The Panchavati grove"],
+      "answer": 0,
+      "explanation": "Ravana imprisoned Sita in the Ashoka grove (Ashoka Vatika) within Lanka."
+    },
+    {
+      "id": "abduction-of-sita-q21",
+      "difficulty": "medium",
+      "q": "What did Ravana fail to do to Sita because of a curse that forbade him from forcing himself on an unwilling woman?",
+      "options": ["Touch or force her against her will", "Speak to her", "See her face", "Enter the Ashoka grove"],
+      "answer": 0,
+      "explanation": "A curse meant Ravana would perish if he forced an unwilling woman, so he could not compel Sita against her will."
+    },
+    {
+      "id": "abduction-of-sita-q22",
+      "difficulty": "medium",
+      "q": "The settlement of Panchavati, where the abduction occurred, lies on the bank of which river?",
+      "options": ["The Ganga", "The Godavari", "The Yamuna", "The Sarayu"],
+      "answer": 1,
+      "explanation": "Rama's hermitage at Panchavati stood on the bank of the river Godavari."
+    },
+    {
+      "id": "abduction-of-sita-q23",
+      "difficulty": "hard",
+      "q": "According to tradition, why was Maricha especially terrified to confront Rama again as the golden deer?",
+      "options": ["Rama had once struck him with an arrow that flung him far across the sea", "Rama had killed his brother in single combat", "Rama had cursed him to lose his powers", "Rama had defeated him in a wrestling match"],
+      "answer": 0,
+      "explanation": "In an earlier encounter Rama's arrow had hurled Maricha far across the ocean, leaving him in dread of Rama."
+    },
+    {
+      "id": "abduction-of-sita-q24",
+      "difficulty": "hard",
+      "q": "Whose advice did Ravana ignore when his minister warned him against carrying out the abduction of Sita?",
+      "options": ["Maricha's", "Kumbhakarna's", "Indrajit's", "Mareecha's son's"],
+      "answer": 0,
+      "explanation": "Maricha himself warned Ravana that abducting Sita would bring his doom, but Ravana ignored the counsel."
+    },
+    {
+      "id": "abduction-of-sita-q25",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, in which kanda (book) does the abduction of Sita take place?",
+      "options": ["Bala Kanda", "Aranya Kanda", "Sundara Kanda", "Yuddha Kanda"],
+      "answer": 1,
+      "explanation": "The abduction of Sita is narrated in the Aranya Kanda, the book of the forest."
+    },
+    {
+      "id": "abduction-of-sita-q26",
+      "difficulty": "hard",
+      "q": "Whose son was the vulture Jatayu, who attempted to rescue Sita?",
+      "options": ["Aruna", "Garuda", "Vinata directly", "Kashyapa directly"],
+      "answer": 0,
+      "explanation": "Jatayu and his brother Sampati were the sons of Aruna, the charioteer of the Sun."
+    },
+    {
+      "id": "abduction-of-sita-q27",
+      "difficulty": "hard",
+      "q": "As Ravana carried Sita over the sky, which group did she appeal to and drop her ornaments among, hoping they would tell Rama?",
+      "options": ["Five monkeys seated on a mountaintop", "A band of forest sages", "A flock of swans", "A caravan of merchants"],
+      "answer": 0,
+      "explanation": "Seeing five monkeys on a mountain, Sita dropped her ornaments and upper garment among them as a sign for Rama."
+    },
+    {
+      "id": "abduction-of-sita-q28",
+      "difficulty": "hard",
+      "q": "What did Ravana use to lift and carry Sita that, in the Valmiki account, scorched her like fire to touch?",
+      "options": ["His arms and his chariot", "A net of thorns", "A burning rope", "An iron cage"],
+      "answer": 0,
+      "explanation": "Ravana seized Sita with his arms and bore her in his chariot, an unholy contact described as searing."
+    },
+    {
+      "id": "abduction-of-sita-q29",
+      "difficulty": "hard",
+      "q": "When the dying Jatayu later met Rama, what crucial information did he provide before passing away?",
+      "options": ["The direction Ravana had taken Sita (toward the south)", "The exact day Ravana would be killed", "The location of Hanuman", "The name of Ravana's secret weakness"],
+      "answer": 0,
+      "explanation": "Jatayu told Rama that Ravana had carried Sita away to the south before he died of his wounds."
+    },
+    {
+      "id": "abduction-of-sita-q30",
+      "difficulty": "hard",
+      "q": "What ultimate motive does the Valmiki Ramayana attribute to Ravana for abducting Sita, beyond mere desire?",
+      "options": ["To avenge his sister Shurpanakha's mutilation by Rama and Lakshmana", "To gain a magical weapon Sita possessed", "To fulfill a boon promised to him by Brahma", "To win a wager with the gods"],
+      "answer": 0,
+      "explanation": "Ravana's abduction was driven by revenge for the disfigurement of his sister Shurpanakha by Rama and Lakshmana."
+    }
+  ]
+}

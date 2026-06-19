@@ -1,0 +1,245 @@
+{
+  "cardId": "surasa",
+  "questions": [
+    {
+      "id": "surasa-q01",
+      "difficulty": "easy",
+      "q": "Who is Surasa in the Ramayana?",
+      "options": ["The mother of serpents", "A queen of Ayodhya", "A vanara warrior", "A river goddess"],
+      "answer": 0,
+      "explanation": "Surasa is described as the mother of the nagas, the serpents, and appears as a sea-creature in the Ramayana."
+    },
+    {
+      "id": "surasa-q02",
+      "difficulty": "easy",
+      "q": "Which hero did Surasa test as he crossed the ocean?",
+      "options": ["Rama", "Lakshmana", "Hanuman", "Sugriva"],
+      "answer": 2,
+      "explanation": "Surasa was sent to test Hanuman during his great leap over the sea toward Lanka."
+    },
+    {
+      "id": "surasa-q03",
+      "difficulty": "easy",
+      "q": "Why was Hanuman leaping across the ocean when he met Surasa?",
+      "options": ["To search for Sita in Lanka", "To fetch the Sanjeevani herb", "To find Sugriva", "To burn Ravana's palace"],
+      "answer": 0,
+      "explanation": "Hanuman was crossing the sea to reach Lanka in search of the captive Sita."
+    },
+    {
+      "id": "surasa-q04",
+      "difficulty": "easy",
+      "q": "What kind of being is Surasa most often described as?",
+      "options": ["A vulture", "A sea-demoness or naga mother", "A celestial dancer", "A bear"],
+      "answer": 1,
+      "explanation": "Surasa is portrayed as a serpent-mother and sea-creature who rose from the ocean to confront Hanuman."
+    },
+    {
+      "id": "surasa-q05",
+      "difficulty": "easy",
+      "q": "How did Hanuman pass through Surasa's mouth?",
+      "options": ["By growing larger than her", "By shrinking to a tiny size", "By flying around her", "By fighting his way through"],
+      "answer": 1,
+      "explanation": "Hanuman shrank to a tiny form, darted into and out of her mouth, and so passed through unharmed."
+    },
+    {
+      "id": "surasa-q06",
+      "difficulty": "easy",
+      "q": "What did Surasa demand of Hanuman when she blocked his path?",
+      "options": ["That he turn back", "That he enter her mouth", "That he give her a jewel", "That he answer a riddle"],
+      "answer": 1,
+      "explanation": "Surasa declared that he must pass through her mouth, since she was fated to eat whoever crossed her way."
+    },
+    {
+      "id": "surasa-q07",
+      "difficulty": "easy",
+      "q": "What quality of Hanuman did the Surasa episode chiefly prove?",
+      "options": ["His cunning and intelligence", "His skill in archery", "His wealth", "His singing voice"],
+      "answer": 0,
+      "explanation": "By outwitting Surasa rather than overpowering her, Hanuman proved his cunning as well as his strength."
+    },
+    {
+      "id": "surasa-q08",
+      "difficulty": "easy",
+      "q": "Over which body of water was Hanuman leaping when Surasa appeared?",
+      "options": ["The Ganga", "The ocean toward Lanka", "Pampa Lake", "The Sarayu"],
+      "answer": 1,
+      "explanation": "Surasa rose from the ocean that Hanuman was bounding across on his way to Lanka."
+    },
+    {
+      "id": "surasa-q09",
+      "difficulty": "easy",
+      "q": "After the encounter, how did Surasa treat Hanuman?",
+      "options": ["She devoured him", "She blessed him and let him pass", "She imprisoned him", "She turned him to stone"],
+      "answer": 1,
+      "explanation": "Having seen him pass her test, Surasa praised Hanuman, blessed his mission, and allowed him to continue."
+    },
+    {
+      "id": "surasa-q10",
+      "difficulty": "easy",
+      "q": "The Surasa episode occurs in which phase of the Ramayana?",
+      "options": ["During Rama's childhood", "During Hanuman's journey to Lanka", "After Rama's coronation", "Before the exile began"],
+      "answer": 1,
+      "explanation": "The meeting with Surasa takes place during Hanuman's flight over the sea to Lanka in the Sundara Kanda."
+    },
+    {
+      "id": "surasa-q11",
+      "difficulty": "medium",
+      "q": "In which kanda (book) of Valmiki's Ramayana does the Surasa episode appear?",
+      "options": ["Bala Kanda", "Aranya Kanda", "Sundara Kanda", "Yuddha Kanda"],
+      "answer": 2,
+      "explanation": "Hanuman's leap and his meeting with Surasa are narrated in the Sundara Kanda, the fifth book."
+    },
+    {
+      "id": "surasa-q12",
+      "difficulty": "medium",
+      "q": "According to tradition, who sent Surasa to test Hanuman?",
+      "options": ["The gods and sages", "Ravana", "Sugriva", "Indra alone, in anger"],
+      "answer": 0,
+      "explanation": "The gods, gandharvas, and sages sent Surasa to test Hanuman's strength and wit on his way to Lanka."
+    },
+    {
+      "id": "surasa-q13",
+      "difficulty": "medium",
+      "q": "When Surasa first widened her mouth, how did Hanuman respond?",
+      "options": ["He shrank at once", "He grew his own body larger", "He fled back to shore", "He struck her with his mace"],
+      "answer": 1,
+      "explanation": "Hanuman first expanded his own size to match her, and only then shrank tiny to slip through, outsmarting her."
+    },
+    {
+      "id": "surasa-q14",
+      "difficulty": "medium",
+      "q": "Surasa is named in tradition as the mother of which class of beings?",
+      "options": ["The nagas (serpents)", "The vanaras (monkeys)", "The rakshasas (demons)", "The apsaras (nymphs)"],
+      "answer": 0,
+      "explanation": "Surasa is traditionally regarded as the mother of the nagas, the serpent race."
+    },
+    {
+      "id": "surasa-q15",
+      "difficulty": "medium",
+      "q": "How small did Hanuman make himself to escape Surasa's jaws, by traditional account?",
+      "options": ["The size of a thumb", "The size of a mountain", "The size of a deer", "The size of an elephant"],
+      "answer": 0,
+      "explanation": "Hanuman reduced himself to a tiny, thumb-like size to dart in and out of her mouth in an instant."
+    },
+    {
+      "id": "surasa-q16",
+      "difficulty": "medium",
+      "q": "What boon or fate had made Surasa entitled to confront travellers over the sea?",
+      "options": ["She was destined to devour whatever crossed her path", "She owned the ocean", "She guarded Lanka's gate", "She served Ravana as a spy"],
+      "answer": 0,
+      "explanation": "By a boon she claimed the right to eat whoever passed her, which she invoked against Hanuman."
+    },
+    {
+      "id": "surasa-q17",
+      "difficulty": "medium",
+      "q": "Which other sea-creature did Hanuman face on the same ocean crossing, distinct from Surasa?",
+      "options": ["Simhika (the shadow-seizer)", "Tataka", "Shurpanakha", "Trijata"],
+      "answer": 0,
+      "explanation": "On the same leap Hanuman also encountered Simhika, a demoness who seized shadows, whom he killed."
+    },
+    {
+      "id": "surasa-q18",
+      "difficulty": "medium",
+      "q": "What did Surasa acknowledge about Hanuman after he passed her test?",
+      "options": ["That he had both strength and cleverness for his task", "That he was Ravana's equal", "That he could not reach Lanka", "That he had defeated her in battle"],
+      "answer": 0,
+      "explanation": "Surasa declared that Hanuman possessed the strength and intelligence needed to accomplish Rama's work."
+    },
+    {
+      "id": "surasa-q19",
+      "difficulty": "medium",
+      "q": "The Surasa episode is one of the obstacles Hanuman overcomes during what specific feat?",
+      "options": ["His leap of a hundred yojanas over the sea", "His burning of Lanka", "His lifting of Dronagiri", "His meeting with Sita"],
+      "answer": 0,
+      "explanation": "Surasa appears as Hanuman bounds the hundred-yojana span across the ocean toward Lanka."
+    },
+    {
+      "id": "surasa-q20",
+      "difficulty": "medium",
+      "q": "How does the Surasa story characterize the ideal of overcoming an obstacle?",
+      "options": ["Through wit rather than brute force", "Through wealth and bribery", "Through flattery alone", "Through retreat and delay"],
+      "answer": 0,
+      "explanation": "Hanuman triumphs by clever stratagem rather than force, illustrating that wit can conquer where strength alone cannot."
+    },
+    {
+      "id": "surasa-q21",
+      "difficulty": "medium",
+      "q": "From where did Surasa emerge to meet Hanuman?",
+      "options": ["From the depths of the ocean", "From a mountain cave", "From the sky", "From Ravana's palace"],
+      "answer": 0,
+      "explanation": "Surasa rose up out of the sea to bar Hanuman's path as he flew above the waters."
+    },
+    {
+      "id": "surasa-q22",
+      "difficulty": "medium",
+      "q": "Which mountain did Hanuman launch himself from before crossing the sea toward Surasa's waters?",
+      "options": ["Mount Mahendra", "Mount Kailasa", "Mount Meru", "Chitrakoot"],
+      "answer": 0,
+      "explanation": "Hanuman sprang from Mount Mahendra to begin his ocean leap, on which he met Surasa."
+    },
+    {
+      "id": "surasa-q23",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, after Surasa enlarged her mouth, by what trick did Hanuman finally win through?",
+      "options": ["He grew huge, then suddenly shrank to thumb-size and flew out of her ear or mouth", "He cut her in two with a sword", "He set her mouth on fire", "He sang a hymn that put her to sleep"],
+      "answer": 0,
+      "explanation": "Hanuman matched her growth, then instantly shrank to a tiny form, slipped in and out, and emerged, defeating her by stratagem."
+    },
+    {
+      "id": "surasa-q24",
+      "difficulty": "hard",
+      "q": "What was the true purpose behind Surasa's challenge, according to the epic?",
+      "options": ["To test and confirm Hanuman's fitness for the mission", "To kill Hanuman on Ravana's orders", "To capture Sita herself", "To win a boon from Rama"],
+      "answer": 0,
+      "explanation": "The divine beings sent Surasa specifically to test Hanuman, and his success confirmed his fitness to serve Rama."
+    },
+    {
+      "id": "surasa-q25",
+      "difficulty": "hard",
+      "q": "Which of these correctly distinguishes Surasa from Simhika in Hanuman's crossing?",
+      "options": ["Surasa tested him and let him pass; Simhika tried to seize him and was slain", "Surasa was slain; Simhika blessed him", "Both were slain by Hanuman", "Both blessed him without challenge"],
+      "answer": 0,
+      "explanation": "Surasa was a test he passed by cunning and was blessed, while Simhika sought to devour him and was killed."
+    },
+    {
+      "id": "surasa-q26",
+      "difficulty": "hard",
+      "q": "What span is Hanuman traditionally said to have leaped across the sea, the journey on which Surasa appears?",
+      "options": ["One hundred yojanas", "Ten yojanas", "One thousand yojanas", "One yojana"],
+      "answer": 0,
+      "explanation": "Tradition gives the breadth of the ocean Hanuman leaped as one hundred yojanas, the crossing on which Surasa tested him."
+    },
+    {
+      "id": "surasa-q27",
+      "difficulty": "hard",
+      "q": "Surasa's role in the Sundara Kanda is best understood as which kind of narrative element?",
+      "options": ["A threshold test before the hero's great task", "A romantic subplot", "A genealogical record", "A description of Lanka's defenses"],
+      "answer": 0,
+      "explanation": "The Surasa episode functions as a threshold ordeal that the hero must pass before reaching his goal in Lanka."
+    },
+    {
+      "id": "surasa-q28",
+      "difficulty": "hard",
+      "q": "In what palette and emblem is the Surasa card themed in this deck, reflecting her nature?",
+      "options": ["Ocean palette with a serpent emblem", "Flame palette with a crown emblem", "Dawn palette with a lotus emblem", "Forest palette with a tree emblem"],
+      "answer": 0,
+      "explanation": "Surasa, the serpent-mother of the sea, is given an ocean palette and a serpent emblem in the deck."
+    },
+    {
+      "id": "surasa-q29",
+      "difficulty": "hard",
+      "q": "Which statement about Surasa's outcome is accurate in the tradition?",
+      "options": ["She praised Hanuman, granted success to his mission, and departed", "She followed Hanuman to Lanka as an ally", "She was killed and her body became a bridge", "She turned Hanuman back to Mahendra"],
+      "answer": 0,
+      "explanation": "After Hanuman passed her test, Surasa praised him, wished his mission success, and withdrew."
+    },
+    {
+      "id": "surasa-q30",
+      "difficulty": "hard",
+      "q": "What deeper lesson does the Surasa episode convey within the Ramayana's narrative design?",
+      "options": ["That intelligence joined to strength is needed to fulfill dharma's tasks", "That serpents must always be slain", "That the sea cannot be crossed", "That divine tests are unfair and to be resented"],
+      "answer": 0,
+      "explanation": "The episode teaches that Hanuman's mission required wisdom and wit alongside power, the union proven against Surasa."
+    }
+  ]
+}

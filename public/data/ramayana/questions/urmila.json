@@ -1,0 +1,245 @@
+{
+  "cardId": "urmila",
+  "questions": [
+    {
+      "id": "urmila-q01",
+      "difficulty": "easy",
+      "q": "Whom did Urmila marry?",
+      "options": ["Lakshmana", "Rama", "Bharata", "Shatrughna"],
+      "answer": 0,
+      "explanation": "Urmila was the wife of Lakshmana, Rama's devoted younger brother."
+    },
+    {
+      "id": "urmila-q02",
+      "difficulty": "easy",
+      "q": "Who was Urmila's father?",
+      "options": ["Dasharatha", "Janaka", "Kushadhwaja", "Vishwamitra"],
+      "answer": 1,
+      "explanation": "Urmila was a daughter of King Janaka of Mithila."
+    },
+    {
+      "id": "urmila-q03",
+      "difficulty": "easy",
+      "q": "Urmila was the sister of which famous heroine of the Ramayana?",
+      "options": ["Kaikeyi", "Mandodari", "Sita", "Tara"],
+      "answer": 2,
+      "explanation": "Urmila was Sita's sister, both daughters in Janaka's household."
+    },
+    {
+      "id": "urmila-q04",
+      "difficulty": "easy",
+      "q": "In which kingdom was Urmila born?",
+      "options": ["Ayodhya", "Mithila", "Lanka", "Kishkindha"],
+      "answer": 1,
+      "explanation": "Urmila was born in Mithila, the kingdom ruled by King Janaka."
+    },
+    {
+      "id": "urmila-q05",
+      "difficulty": "easy",
+      "q": "When her husband went to the forest, where did Urmila remain?",
+      "options": ["Mithila", "Chitrakuta", "Ayodhya", "Panchavati"],
+      "answer": 2,
+      "explanation": "Urmila stayed behind in Ayodhya throughout the long fourteen-year exile."
+    },
+    {
+      "id": "urmila-q06",
+      "difficulty": "easy",
+      "q": "Urmila's marriage was part of a joint wedding of how many of Dasharatha's sons?",
+      "options": ["Two", "Three", "Four", "Five"],
+      "answer": 2,
+      "explanation": "All four sons of Dasharatha were married together at Mithila."
+    },
+    {
+      "id": "urmila-q07",
+      "difficulty": "easy",
+      "q": "Urmila is best remembered for her great act of what?",
+      "options": ["Warfare", "Sacrifice", "Sorcery", "Trade"],
+      "answer": 1,
+      "explanation": "Urmila is honored for her quiet sacrifice of separation during the exile."
+    },
+    {
+      "id": "urmila-q08",
+      "difficulty": "easy",
+      "q": "How many years did Urmila spend separated from her husband?",
+      "options": ["Seven years", "Ten years", "Twelve years", "Fourteen years"],
+      "answer": 3,
+      "explanation": "The exile lasted fourteen years, the entire span of Urmila's separation."
+    },
+    {
+      "id": "urmila-q09",
+      "difficulty": "easy",
+      "q": "To which royal family did Urmila belong by marriage?",
+      "options": ["The house of Ayodhya", "The house of Lanka", "The house of Kishkindha", "The house of Mithila's enemies"],
+      "answer": 0,
+      "explanation": "By marrying Lakshmana, Urmila joined the royal house of Ayodhya."
+    },
+    {
+      "id": "urmila-q10",
+      "difficulty": "easy",
+      "q": "Urmila's husband Lakshmana accompanied which brother into exile?",
+      "options": ["Bharata", "Shatrughna", "Rama", "None"],
+      "answer": 2,
+      "explanation": "Lakshmana followed his elder brother Rama into the forest exile."
+    },
+    {
+      "id": "urmila-q11",
+      "difficulty": "medium",
+      "q": "Who was Urmila's mother?",
+      "options": ["Sunayana", "Kausalya", "Sumitra", "Kaikeyi"],
+      "answer": 0,
+      "explanation": "Sunayana was the chief queen of Janaka and Urmila's mother in tradition."
+    },
+    {
+      "id": "urmila-q12",
+      "difficulty": "medium",
+      "q": "Who was Urmila's mother-in-law in Ayodhya?",
+      "options": ["Kausalya", "Kaikeyi", "Sumitra", "Sunayana"],
+      "answer": 2,
+      "explanation": "Lakshmana was a son of Sumitra, so Sumitra was Urmila's mother-in-law."
+    },
+    {
+      "id": "urmila-q13",
+      "difficulty": "medium",
+      "q": "According to a famous tradition known as 'Urmila Nidra' (Urmila's sleep), what did Urmila do for fourteen years?",
+      "options": ["She slept on behalf of Lakshmana so he could stay awake", "She wept continuously", "She ruled Ayodhya", "She journeyed to the forest"],
+      "answer": 0,
+      "explanation": "In the popular tale, Urmila accepted sleep in Lakshmana's place so he could guard Rama and Sita day and night."
+    },
+    {
+      "id": "urmila-q14",
+      "difficulty": "medium",
+      "q": "Which deity is said to have appeared to grant the boon allowing Urmila to take on Lakshmana's sleep?",
+      "options": ["Yama", "Nidra (the goddess of sleep)", "Agni", "Varuna"],
+      "answer": 1,
+      "explanation": "Nidra, the goddess of sleep, agreed that Urmila would sleep for both during the exile."
+    },
+    {
+      "id": "urmila-q15",
+      "difficulty": "medium",
+      "q": "Sita and Urmila were married to Rama and Lakshmana; to whom were Janaka's nieces Mandavi and Shrutakirti married?",
+      "options": ["Bharata and Shatrughna", "Rama and Bharata", "Lakshmana and Shatrughna", "Sugriva and Angada"],
+      "answer": 0,
+      "explanation": "Mandavi married Bharata and Shrutakirti married Shatrughna, completing the four weddings."
+    },
+    {
+      "id": "urmila-q16",
+      "difficulty": "medium",
+      "q": "When Lakshmana resolved to follow Rama into exile, what did Urmila do?",
+      "options": ["Forbade him from going", "Released him with her blessing to serve Rama", "Insisted on coming along", "Returned to Mithila in anger"],
+      "answer": 1,
+      "explanation": "Urmila selflessly released Lakshmana to serve Rama, accepting separation without protest."
+    },
+    {
+      "id": "urmila-q17",
+      "difficulty": "medium",
+      "q": "How are Sita and Urmila related as sisters in the Valmiki tradition?",
+      "options": ["They are twins of identical birth", "Sita is older and Urmila younger", "Urmila is older and Sita younger", "They are cousins, not sisters"],
+      "answer": 1,
+      "explanation": "Sita, found in the earth's furrow, is the elder, with Urmila her younger sister."
+    },
+    {
+      "id": "urmila-q18",
+      "difficulty": "medium",
+      "q": "What is the name of the sons born to Urmila and Lakshmana in tradition?",
+      "options": ["Lava and Kusha", "Angada and Chandraketu", "Taksha and Pushkala", "Subahu and Shatrughati"],
+      "answer": 1,
+      "explanation": "Urmila and Lakshmana are traditionally said to have two sons, Angada and Chandraketu."
+    },
+    {
+      "id": "urmila-q19",
+      "difficulty": "medium",
+      "q": "Which event led directly to Urmila's long separation from Lakshmana?",
+      "options": ["Kaikeyi's demand sending Rama into exile", "The war with Ravana beginning", "Janaka's death", "Sita's abduction"],
+      "answer": 0,
+      "explanation": "Kaikeyi's boons forced Rama's exile, which Lakshmana joined, causing Urmila's separation."
+    },
+    {
+      "id": "urmila-q20",
+      "difficulty": "medium",
+      "q": "What virtue is Urmila most often praised for in retellings of the Ramayana?",
+      "options": ["Cunning in battle", "Patient, uncomplaining devotion", "Skill in archery", "Mastery of magic"],
+      "answer": 1,
+      "explanation": "Urmila is celebrated for her patient, silent devotion and endurance during the exile."
+    },
+    {
+      "id": "urmila-q21",
+      "difficulty": "medium",
+      "q": "In the wedding at Mithila, the brides Sita and Urmila were given away by which king?",
+      "options": ["Dasharatha", "Janaka", "Vishwamitra", "Sumati"],
+      "answer": 1,
+      "explanation": "King Janaka gave his daughters Sita and Urmila in marriage to Rama and Lakshmana."
+    },
+    {
+      "id": "urmila-q22",
+      "difficulty": "medium",
+      "q": "Why is Urmila's role often described as 'overlooked' in the epic?",
+      "options": ["She betrayed Ayodhya", "Her quiet sacrifice receives little narrative attention", "She never actually married", "She left the story early"],
+      "answer": 1,
+      "explanation": "Though her sacrifice was profound, Valmiki's narrative gives Urmila little direct attention."
+    },
+    {
+      "id": "urmila-q23",
+      "difficulty": "hard",
+      "q": "Which celebrated Hindi poet wrote a work giving Urmila a central, sympathetic voice?",
+      "options": ["Tulsidas in Ramcharitmanas", "Maithili Sharan Gupt in 'Saket'", "Kalidasa in 'Raghuvamsha'", "Valmiki in the Uttara Kanda"],
+      "answer": 1,
+      "explanation": "Maithili Sharan Gupt's epic poem 'Saket' famously centers Urmila's neglected suffering."
+    },
+    {
+      "id": "urmila-q24",
+      "difficulty": "hard",
+      "q": "In the 'Urmila Nidra' tradition, why did Lakshmana need to remain awake for the entire exile?",
+      "options": ["To meditate constantly", "To guard Rama and Sita without rest", "To complete a vow of fasting", "To search endlessly for herbs"],
+      "answer": 1,
+      "explanation": "Lakshmana vowed to stay awake guarding Rama and Sita, so Urmila bore his sleep for him."
+    },
+    {
+      "id": "urmila-q25",
+      "difficulty": "hard",
+      "q": "Mandavi and Shrutakirti, who married alongside Urmila, were the daughters of whom?",
+      "options": ["Janaka himself", "Kushadhwaja, Janaka's brother", "Dasharatha", "Sumitra"],
+      "answer": 1,
+      "explanation": "Mandavi and Shrutakirti were daughters of Kushadhwaja, Janaka's younger brother."
+    },
+    {
+      "id": "urmila-q26",
+      "difficulty": "hard",
+      "q": "According to tradition, when Lakshmana finally woke from his vow at exile's end, where had Urmila's accumulated sleep returned?",
+      "options": ["It vanished entirely", "It returned to Urmila, who awoke as he did", "It passed to Sita", "It was given to Ravana"],
+      "answer": 1,
+      "explanation": "When the fourteen years ended, the sleep Urmila had carried left her and she awoke as Lakshmana's vigil ended."
+    },
+    {
+      "id": "urmila-q27",
+      "difficulty": "hard",
+      "q": "Urmila's name is sometimes interpreted to evoke which natural image?",
+      "options": ["A wave or ripple of water", "A mountain peak", "A blazing fire", "A field of grain"],
+      "answer": 0,
+      "explanation": "The name Urmila is associated with 'urmi', meaning a wave or ripple, suggesting flowing emotion."
+    },
+    {
+      "id": "urmila-q28",
+      "difficulty": "hard",
+      "q": "In the family structure of Ayodhya's brides, which pair of wives were sisters by the same parents?",
+      "options": ["Sita and Urmila", "Mandavi and Urmila", "Sita and Shrutakirti", "Mandavi and Shrutakirti"],
+      "answer": 0,
+      "explanation": "Sita and Urmila were both daughters of Janaka's household, making them full sisters among the four brides."
+    },
+    {
+      "id": "urmila-q29",
+      "difficulty": "hard",
+      "q": "Which kanda (book) of the Valmiki Ramayana contains the marriage of Urmila and Lakshmana at Mithila?",
+      "options": ["Aranya Kanda", "Bala Kanda", "Sundara Kanda", "Yuddha Kanda"],
+      "answer": 1,
+      "explanation": "The weddings at Mithila, including Urmila's, are narrated in the Bala Kanda, the first book."
+    },
+    {
+      "id": "urmila-q30",
+      "difficulty": "hard",
+      "q": "Modern feminist retellings most often hold up Urmila as a symbol of what?",
+      "options": ["Vengeful rebellion", "The unsung sacrifice of women whose burdens go unrecorded", "Royal ambition for the throne", "Indifference to family duty"],
+      "answer": 1,
+      "explanation": "Urmila has become a literary emblem of the silent, unrecorded sacrifices borne by women in the epic."
+    }
+  ]
+}

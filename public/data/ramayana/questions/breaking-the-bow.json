@@ -1,0 +1,245 @@
+{
+  "cardId": "breaking-the-bow",
+  "questions": [
+    {
+      "id": "breaking-the-bow-q01",
+      "difficulty": "easy",
+      "q": "Who broke the great bow at the swayamvara?",
+      "options": ["Rama", "Lakshmana", "Bharata", "Ravana"],
+      "answer": 0,
+      "explanation": "Rama lifted and broke Shiva's bow at the swayamvara to win Sita."
+    },
+    {
+      "id": "breaking-the-bow-q02",
+      "difficulty": "easy",
+      "q": "Whose hand in marriage was won by breaking the bow?",
+      "options": ["Mandodari", "Sita", "Urmila", "Kaikeyi"],
+      "answer": 1,
+      "explanation": "Breaking the bow won Rama the hand of Sita."
+    },
+    {
+      "id": "breaking-the-bow-q03",
+      "difficulty": "easy",
+      "q": "The bow that Rama broke originally belonged to which god?",
+      "options": ["Vishnu", "Indra", "Shiva", "Brahma"],
+      "answer": 2,
+      "explanation": "The bow was the famous bow of Shiva, kept in Janaka's court."
+    },
+    {
+      "id": "breaking-the-bow-q04",
+      "difficulty": "easy",
+      "q": "Who was the father of Sita who hosted the swayamvara?",
+      "options": ["Dasharatha", "Janaka", "Vishvamitra", "Sumantra"],
+      "answer": 1,
+      "explanation": "King Janaka of Mithila was Sita's father and held the swayamvara."
+    },
+    {
+      "id": "breaking-the-bow-q05",
+      "difficulty": "easy",
+      "q": "What was the condition Janaka set for marrying Sita?",
+      "options": ["Defeat his army in battle", "String the bow of Shiva", "Solve a riddle", "Win a chariot race"],
+      "answer": 1,
+      "explanation": "The suitor had to lift and string Shiva's mighty bow to win Sita."
+    },
+    {
+      "id": "breaking-the-bow-q06",
+      "difficulty": "easy",
+      "q": "What happened to the bow when Rama drew it to string it?",
+      "options": ["It vanished", "It snapped in two", "It turned to gold", "It flew away"],
+      "answer": 1,
+      "explanation": "As Rama bent the bow to string it, it snapped in two with a thunderous sound."
+    },
+    {
+      "id": "breaking-the-bow-q07",
+      "difficulty": "easy",
+      "q": "Which type of ceremony was the gathering where the bow was broken?",
+      "options": ["A coronation", "A swayamvara", "A funeral rite", "A harvest festival"],
+      "answer": 1,
+      "explanation": "The event was Sita's swayamvara, a ceremony to choose her husband."
+    },
+    {
+      "id": "breaking-the-bow-q08",
+      "difficulty": "easy",
+      "q": "In which kingdom did the breaking of the bow take place?",
+      "options": ["Ayodhya", "Lanka", "Mithila", "Kishkindha"],
+      "answer": 2,
+      "explanation": "The swayamvara was held in Mithila, the kingdom of King Janaka."
+    },
+    {
+      "id": "breaking-the-bow-q09",
+      "difficulty": "easy",
+      "q": "Which brother accompanied Rama to Mithila for the swayamvara?",
+      "options": ["Bharata", "Shatrughna", "Lakshmana", "Vibhishana"],
+      "answer": 2,
+      "explanation": "Lakshmana accompanied Rama on the journey with the sage to Mithila."
+    },
+    {
+      "id": "breaking-the-bow-q10",
+      "difficulty": "easy",
+      "q": "What did breaking the bow announce about Rama?",
+      "options": ["His more-than-mortal strength", "His wealth", "His age", "His skill in music"],
+      "answer": 0,
+      "explanation": "The feat revealed Rama's more-than-mortal strength to the assembled kings."
+    },
+    {
+      "id": "breaking-the-bow-q11",
+      "difficulty": "medium",
+      "q": "Which sage brought Rama and Lakshmana to Janaka's court?",
+      "options": ["Vasishtha", "Vishvamitra", "Agastya", "Bharadwaja"],
+      "answer": 1,
+      "explanation": "The sage Vishvamitra led Rama and Lakshmana to Mithila where the bow was kept."
+    },
+    {
+      "id": "breaking-the-bow-q12",
+      "difficulty": "medium",
+      "q": "What was the name of Shiva's bow kept in Janaka's court?",
+      "options": ["Sharanga", "Gandiva", "Pinaka", "Vijaya"],
+      "answer": 2,
+      "explanation": "Shiva's bow was named Pinaka, which no king could even lift."
+    },
+    {
+      "id": "breaking-the-bow-q13",
+      "difficulty": "medium",
+      "q": "How was the heavy bow transported into the assembly for the test?",
+      "options": ["Carried by a single warrior", "Drawn in on a large eight-wheeled chest", "Flown in by an eagle", "Floated on a river raft"],
+      "answer": 1,
+      "explanation": "The bow was brought in resting in a great eight-wheeled iron casket pulled by many men."
+    },
+    {
+      "id": "breaking-the-bow-q14",
+      "difficulty": "medium",
+      "q": "Before Rama, how had countless kings fared at the bow?",
+      "options": ["They strung it but missed the target", "They could not even lift or stir it", "They broke its string only", "They refused to attempt it"],
+      "answer": 1,
+      "explanation": "Many kings had failed because they could not so much as lift or move the colossal bow."
+    },
+    {
+      "id": "breaking-the-bow-q15",
+      "difficulty": "medium",
+      "q": "How had the divine bow come into the keeping of Janaka's family?",
+      "options": ["It was forged by Janaka's smiths", "It was a gift from Shiva to Janaka's ancestors", "It was won in war from Ravana", "It fell from the sky during a storm"],
+      "answer": 1,
+      "explanation": "The bow was given by Shiva and had been preserved as a sacred heirloom by Janaka's royal line."
+    },
+    {
+      "id": "breaking-the-bow-q16",
+      "difficulty": "medium",
+      "q": "Who is the father of Rama, the prince who broke the bow?",
+      "options": ["Janaka", "Dasharatha", "Raghu", "Aja"],
+      "answer": 1,
+      "explanation": "Rama was the son of King Dasharatha of Ayodhya."
+    },
+    {
+      "id": "breaking-the-bow-q17",
+      "difficulty": "medium",
+      "q": "Sita is also known by which name connected to her father's kingdom or her origin?",
+      "options": ["Maithili", "Kausalya", "Tara", "Anasuya"],
+      "answer": 0,
+      "explanation": "Sita is called Maithili because she is the princess of Mithila."
+    },
+    {
+      "id": "breaking-the-bow-q18",
+      "difficulty": "medium",
+      "q": "What accompanied the snapping of the bow that startled the assembly?",
+      "options": ["A blinding flash of light", "A sound like a thunderclap", "A burst of flowers", "A sudden silence"],
+      "answer": 1,
+      "explanation": "The bow broke with a tremendous crash like a thunderbolt, stunning those present."
+    },
+    {
+      "id": "breaking-the-bow-q19",
+      "difficulty": "medium",
+      "q": "After the bow broke, what did Janaka resolve to do?",
+      "options": ["Send Rama away", "Give Sita to Rama in marriage", "Demand a second test", "Crown Rama king of Mithila"],
+      "answer": 1,
+      "explanation": "Janaka joyfully resolved to give Sita to Rama, the only one to fulfill the vow."
+    },
+    {
+      "id": "breaking-the-bow-q20",
+      "difficulty": "medium",
+      "q": "Messengers were sent after the feat to invite whom to Mithila?",
+      "options": ["Ravana", "King Dasharatha and his court", "The sage Vasishtha alone", "The gods of heaven"],
+      "answer": 1,
+      "explanation": "Janaka sent envoys to Ayodhya to invite Dasharatha and his family for the wedding."
+    },
+    {
+      "id": "breaking-the-bow-q21",
+      "difficulty": "medium",
+      "q": "How is Sita traditionally said to have been found by Janaka?",
+      "options": ["Born to his queen", "Discovered in a furrow while plowing", "Given by a passing sage", "Rescued from a river"],
+      "answer": 1,
+      "explanation": "Sita was found by Janaka in a furrow of the earth while plowing a sacrificial field."
+    },
+    {
+      "id": "breaking-the-bow-q22",
+      "difficulty": "medium",
+      "q": "What followed soon after Rama broke the bow at Mithila?",
+      "options": ["A great war", "The marriage of Rama and Sita", "Rama's exile", "The building of a bridge"],
+      "answer": 1,
+      "explanation": "With the bow broken, the marriage of Rama and Sita was celebrated at Mithila."
+    },
+    {
+      "id": "breaking-the-bow-q23",
+      "difficulty": "hard",
+      "q": "In Valmiki's account, how many men were said to draw the chest holding the bow?",
+      "options": ["A hundred men", "Five hundred men", "Eight thousand men", "A dozen men"],
+      "answer": 2,
+      "explanation": "Valmiki's Ramayana says the eight-wheeled casket bearing the bow was dragged by some five thousand strong men, with traditions citing large numbers in the thousands."
+    },
+    {
+      "id": "breaking-the-bow-q24",
+      "difficulty": "hard",
+      "q": "Which sage in Janaka's narration had originally received Shiva's bow as a trust?",
+      "options": ["Devarata, an ancestor of Janaka", "Parashurama", "Jamadagni", "Gautama"],
+      "answer": 0,
+      "explanation": "Janaka relates that the bow was entrusted by the gods to his ancestor Devarata and preserved thereafter."
+    },
+    {
+      "id": "breaking-the-bow-q25",
+      "difficulty": "hard",
+      "q": "Whose former bow, paired with Shiva's, is recalled in the lore surrounding this event?",
+      "options": ["The bow of Indra", "The bow of Vishnu", "The bow of Kama", "The bow of Yama"],
+      "answer": 1,
+      "explanation": "Tradition pairs Shiva's Pinaka with Vishnu's bow (Sharanga), a theme that resurfaces when Parashurama later appears."
+    },
+    {
+      "id": "breaking-the-bow-q26",
+      "difficulty": "hard",
+      "q": "Shortly after the marriage, which fierce sage confronted Rama over the breaking of Shiva's bow?",
+      "options": ["Vishvamitra", "Parashurama", "Durvasa", "Bhrigu"],
+      "answer": 1,
+      "explanation": "On the journey home, Parashurama angrily challenged Rama, testing him with Vishnu's bow after the breaking of Shiva's bow."
+    },
+    {
+      "id": "breaking-the-bow-q27",
+      "difficulty": "hard",
+      "q": "What did Janaka vow about the suitor as a 'bride-price' or condition tied to the bow?",
+      "options": ["Only one of divine strength could win Sita", "Sita would wed the richest king", "Sita would choose by garland alone", "The suitor must rule Mithila"],
+      "answer": 0,
+      "explanation": "Janaka had vowed that Sita, born not of woman, would be given only to one who could wield the bow, proving more-than-human strength."
+    },
+    {
+      "id": "breaking-the-bow-q28",
+      "difficulty": "hard",
+      "q": "In the Ramayana, which other princesses were married alongside Sita after this event?",
+      "options": ["Sita's sister Urmila and cousins Mandavi and Shrutakirti", "Kaikeyi and Kausalya", "Tara and Mandodari", "Ahalya and Anasuya"],
+      "answer": 0,
+      "explanation": "Urmila wed Lakshmana, while Janaka's nieces Mandavi and Shrutakirti wed Bharata and Shatrughna in the joint ceremony."
+    },
+    {
+      "id": "breaking-the-bow-q29",
+      "difficulty": "hard",
+      "q": "What did Rama do to the bow that no previous suitor had managed even to begin?",
+      "options": ["He merely touched it", "He lifted it, bent it, and strung it", "He cast it into a fire", "He polished its surface"],
+      "answer": 1,
+      "explanation": "Rama not only lifted the bow but bent it to string it, a stage no earlier king reached, and it broke in the bending."
+    },
+    {
+      "id": "breaking-the-bow-q30",
+      "difficulty": "hard",
+      "q": "Within the larger Ramayana, the bow's breaking marks an early sign of which truth about Rama?",
+      "options": ["That he is an avatar of Vishnu", "That he is a forest hermit", "That he is the son of Janaka", "That he is destined to rule Lanka"],
+      "answer": 0,
+      "explanation": "The superhuman feat foreshadows Rama's identity as an incarnation of Vishnu, hinted throughout the epic."
+    }
+  ]
+}

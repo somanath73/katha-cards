@@ -1,0 +1,245 @@
+{
+  "cardId": "marriage-of-rama-sita",
+  "questions": [
+    {
+      "id": "marriage-of-rama-sita-q01",
+      "difficulty": "easy",
+      "q": "In which kingdom did the marriage of Rama and Sita take place?",
+      "options": ["Mithila", "Ayodhya", "Lanka", "Kishkindha"],
+      "answer": 0,
+      "explanation": "Rama and Sita were wed at Mithila, the capital of Janaka's kingdom of Videha."
+    },
+    {
+      "id": "marriage-of-rama-sita-q02",
+      "difficulty": "easy",
+      "q": "Who was the bride that Rama married?",
+      "options": ["Mandodari", "Sita", "Kaikeyi", "Tara"],
+      "answer": 1,
+      "explanation": "Rama married Sita, the daughter of King Janaka of Mithila."
+    },
+    {
+      "id": "marriage-of-rama-sita-q03",
+      "difficulty": "easy",
+      "q": "What did Rama have to do to win Sita's hand in marriage?",
+      "options": ["Win a chariot race", "Slay a demon king", "Lift and string the bow of Shiva", "Cross the ocean"],
+      "answer": 2,
+      "explanation": "King Janaka had decreed that whoever could lift and string Shiva's great bow would marry Sita, and Rama broke it."
+    },
+    {
+      "id": "marriage-of-rama-sita-q04",
+      "difficulty": "easy",
+      "q": "Who was the father of Sita who arranged the marriage?",
+      "options": ["Dasharatha", "Janaka", "Vishvamitra", "Sumantra"],
+      "answer": 1,
+      "explanation": "King Janaka of Mithila was Sita's father and hosted the bow-contest that decided her marriage."
+    },
+    {
+      "id": "marriage-of-rama-sita-q05",
+      "difficulty": "easy",
+      "q": "Who was the father of Rama present for the wedding at Mithila?",
+      "options": ["Janaka", "Dasharatha", "Bharata", "Kushadhwaja"],
+      "answer": 1,
+      "explanation": "King Dasharatha of Ayodhya, Rama's father, traveled to Mithila for the wedding ceremony."
+    },
+    {
+      "id": "marriage-of-rama-sita-q06",
+      "difficulty": "easy",
+      "q": "According to the card, how many of Dasharatha's sons were married in the grand ceremony?",
+      "options": ["One", "Two", "Three", "Four"],
+      "answer": 3,
+      "explanation": "All four sons of Dasharatha (Rama and his three brothers) were married together in a single grand ceremony."
+    },
+    {
+      "id": "marriage-of-rama-sita-q07",
+      "difficulty": "easy",
+      "q": "What happened to Shiva's bow when Rama tried to string it?",
+      "options": ["It vanished", "It broke", "It turned to gold", "It flew away"],
+      "answer": 1,
+      "explanation": "As Rama bent the bow to string it, the mighty weapon snapped in two with a thunderous sound."
+    },
+    {
+      "id": "marriage-of-rama-sita-q08",
+      "difficulty": "easy",
+      "q": "Which sage escorted Rama and Lakshmana to Mithila before the marriage?",
+      "options": ["Vishvamitra", "Vashistha", "Agastya", "Narada"],
+      "answer": 0,
+      "explanation": "The sage Vishvamitra brought Rama and Lakshmana to Mithila, where they witnessed the bow and won Sita."
+    },
+    {
+      "id": "marriage-of-rama-sita-q09",
+      "difficulty": "easy",
+      "q": "Sita is famously described as which kind of daughter to Janaka?",
+      "options": ["His blood-born daughter", "An adopted daughter found in a furrow", "A daughter sent by the gods in a chariot", "His niece raised as a daughter"],
+      "answer": 1,
+      "explanation": "Sita was found by Janaka in a furrow while ploughing a field, and so was his adopted, earth-born daughter."
+    },
+    {
+      "id": "marriage-of-rama-sita-q10",
+      "difficulty": "easy",
+      "q": "The marriage of Rama and Sita is celebrated in tradition as which festival?",
+      "options": ["Diwali", "Vivaha Panchami (Sita Vivah)", "Holi", "Navaratri"],
+      "answer": 1,
+      "explanation": "The wedding of Rama and Sita is commemorated as Vivaha Panchami, also known as Sita Vivah."
+    },
+    {
+      "id": "marriage-of-rama-sita-q11",
+      "difficulty": "medium",
+      "q": "Lakshmana married which sister of Sita?",
+      "options": ["Mandavi", "Shrutakirti", "Urmila", "Kaushalya"],
+      "answer": 2,
+      "explanation": "Lakshmana was wedded to Urmila, Janaka's own daughter and Sita's sister."
+    },
+    {
+      "id": "marriage-of-rama-sita-q12",
+      "difficulty": "medium",
+      "q": "Bharata married which bride in the joint ceremony at Mithila?",
+      "options": ["Mandavi", "Urmila", "Shrutakirti", "Sumitra"],
+      "answer": 0,
+      "explanation": "Bharata married Mandavi, a daughter of Janaka's brother Kushadhwaja."
+    },
+    {
+      "id": "marriage-of-rama-sita-q13",
+      "difficulty": "medium",
+      "q": "Shatrughna married which of the brides at the grand wedding?",
+      "options": ["Urmila", "Mandavi", "Shrutakirti", "Sita"],
+      "answer": 2,
+      "explanation": "Shatrughna married Shrutakirti, another daughter of Kushadhwaja."
+    },
+    {
+      "id": "marriage-of-rama-sita-q14",
+      "difficulty": "medium",
+      "q": "Mandavi and Shrutakirti, who married Bharata and Shatrughna, were daughters of whom?",
+      "options": ["Janaka himself", "Janaka's brother Kushadhwaja", "Sage Vishvamitra", "King Dasharatha"],
+      "answer": 1,
+      "explanation": "Mandavi and Shrutakirti were the daughters of Kushadhwaja, the brother of King Janaka."
+    },
+    {
+      "id": "marriage-of-rama-sita-q15",
+      "difficulty": "medium",
+      "q": "Which family priest of Dasharatha presided over the wedding rites at Mithila?",
+      "options": ["Vishvamitra", "Vashistha", "Shatananda", "Bharadwaja"],
+      "answer": 1,
+      "explanation": "Sage Vashistha, the royal priest of Ayodhya, officiated the wedding rites alongside Mithila's priests."
+    },
+    {
+      "id": "marriage-of-rama-sita-q16",
+      "difficulty": "medium",
+      "q": "The original divine bow of Shiva that Rama broke had been entrusted to the ancestors of which king?",
+      "options": ["Dasharatha", "Janaka", "Ravana", "Sugriva"],
+      "answer": 1,
+      "explanation": "Shiva's bow had been given to Janaka's ancestors (the kings of Mithila) and kept as a heirloom in his court."
+    },
+    {
+      "id": "marriage-of-rama-sita-q17",
+      "difficulty": "medium",
+      "q": "Who was the chief priest of Janaka's court at Mithila during the marriage?",
+      "options": ["Shatananda", "Gautama", "Markandeya", "Jabali"],
+      "answer": 0,
+      "explanation": "Shatananda, son of the sage Gautama and Ahalya, served as Janaka's family priest at Mithila."
+    },
+    {
+      "id": "marriage-of-rama-sita-q18",
+      "difficulty": "medium",
+      "q": "Which sage and warrior confronted Rama on the road back from Mithila, angered that Shiva's bow was broken?",
+      "options": ["Parashurama", "Durvasa", "Agastya", "Vasishtha"],
+      "answer": 0,
+      "explanation": "Parashurama, devotee of Shiva, intercepted the wedding party and challenged Rama after the bow broke."
+    },
+    {
+      "id": "marriage-of-rama-sita-q19",
+      "difficulty": "medium",
+      "q": "How is Sita regarded in tradition in relation to the goddess Lakshmi?",
+      "options": ["An avatar of Saraswati", "An incarnation of Lakshmi", "A form of Parvati", "A form of Durga"],
+      "answer": 1,
+      "explanation": "Sita is traditionally venerated as an incarnation of the goddess Lakshmi, consort of Vishnu, whom Rama incarnates."
+    },
+    {
+      "id": "marriage-of-rama-sita-q20",
+      "difficulty": "medium",
+      "q": "What is the name of the kingdom over which Janaka, Sita's father, ruled?",
+      "options": ["Kosala", "Videha", "Magadha", "Panchala"],
+      "answer": 1,
+      "explanation": "Janaka ruled the kingdom of Videha, whose capital was Mithila."
+    },
+    {
+      "id": "marriage-of-rama-sita-q21",
+      "difficulty": "medium",
+      "q": "What sacred ritual at the heart of a Vedic wedding did Rama and Sita perform together?",
+      "options": ["Circumambulating the sacred fire", "Breaking a coconut at sea", "Exchanging crowns", "Releasing doves"],
+      "answer": 0,
+      "explanation": "Like all Vedic marriages, Rama and Sita took their vows by walking around the sacred fire (Agni) as witness."
+    },
+    {
+      "id": "marriage-of-rama-sita-q22",
+      "difficulty": "medium",
+      "q": "Because Janaka famously found Sita while ploughing, she bears which epithet?",
+      "options": ["Vaidehi only", "Janaki, meaning daughter of Janaka", "Maithili from a distant land", "Bhumija only"],
+      "answer": 1,
+      "explanation": "Sita is called Janaki, 'daughter of Janaka,' among her many names including Vaidehi and Maithili."
+    },
+    {
+      "id": "marriage-of-rama-sita-q23",
+      "difficulty": "hard",
+      "q": "By what name is the great bow of Shiva that Rama broke traditionally known?",
+      "options": ["Sharanga", "Pinaka", "Gandiva", "Vijaya"],
+      "answer": 1,
+      "explanation": "Shiva's bow is called Pinaka, distinguishing it from Vishnu's bow Sharanga that Rama later receives from Parashurama."
+    },
+    {
+      "id": "marriage-of-rama-sita-q24",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, how many men were required just to carry the chest holding Shiva's bow into the assembly?",
+      "options": ["One hundred", "Three hundred", "Five hundred", "Five thousand"],
+      "answer": 2,
+      "explanation": "Valmiki describes five hundred men drawing the eight-wheeled chest that bore Shiva's immense bow into the court."
+    },
+    {
+      "id": "marriage-of-rama-sita-q25",
+      "difficulty": "hard",
+      "q": "After Rama broke Shiva's bow, Parashurama challenged him to string which other divine bow?",
+      "options": ["A second bow of Shiva", "The Vaishnava bow of Vishnu", "Arjuna's Gandiva", "Karna's Vijaya"],
+      "answer": 1,
+      "explanation": "Parashurama produced the Vaishnava bow of Vishnu and challenged Rama to bend it, which Rama effortlessly did."
+    },
+    {
+      "id": "marriage-of-rama-sita-q26",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, what did Janaka offer to give along with Sita as the marriage was settled?",
+      "options": ["Half his kingdom", "Vast wealth, cattle, and a dowry of riches", "The bow itself, repaired", "Nothing, by Rama's request"],
+      "answer": 1,
+      "explanation": "Janaka bestowed an immense dowry of gold, cattle, horses, and treasures upon the departing brides and grooms."
+    },
+    {
+      "id": "marriage-of-rama-sita-q27",
+      "difficulty": "hard",
+      "q": "Which queen of Dasharatha was the birth mother of both Lakshmana and Shatrughna?",
+      "options": ["Kaushalya", "Kaikeyi", "Sumitra", "Mandodari"],
+      "answer": 2,
+      "explanation": "Queen Sumitra was the mother of the twins Lakshmana and Shatrughna, who married Urmila and Shrutakirti."
+    },
+    {
+      "id": "marriage-of-rama-sita-q28",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, who was sent as a swift envoy from Mithila to Ayodhya to invite Dasharatha to the wedding?",
+      "options": ["Janaka's own messengers", "Sumantra", "Vishvamitra in person", "Bharata"],
+      "answer": 0,
+      "explanation": "Janaka dispatched his own messengers to Ayodhya, who rode three days to carry the marriage invitation to Dasharatha."
+    },
+    {
+      "id": "marriage-of-rama-sita-q29",
+      "difficulty": "hard",
+      "q": "How old is Sita commonly said to be in some traditional reckonings at the time of her marriage to Rama?",
+      "options": ["Six years", "Eighteen years", "Twenty-five years", "Thirty years"],
+      "answer": 0,
+      "explanation": "Certain traditional accounts state Sita was about six and Rama somewhat older, though the epic emphasizes the union's sanctity over precise ages."
+    },
+    {
+      "id": "marriage-of-rama-sita-q30",
+      "difficulty": "hard",
+      "q": "On which auspicious lunar day, celebrated as Vivaha Panchami, is the marriage of Rama and Sita traditionally observed?",
+      "options": ["The fifth day of the bright fortnight of Margashirsha", "The full moon of Kartika", "The new moon of Shravana", "The tenth day of Ashvina"],
+      "answer": 0,
+      "explanation": "Vivaha Panchami falls on the fifth lunar day (panchami) of the bright fortnight of the month of Margashirsha."
+    }
+  ]
+}

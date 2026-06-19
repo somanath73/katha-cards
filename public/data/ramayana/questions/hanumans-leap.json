@@ -1,0 +1,245 @@
+{
+  "cardId": "hanumans-leap",
+  "questions": [
+    {
+      "id": "hanumans-leap-q01",
+      "difficulty": "easy",
+      "q": "Across what body of water did Hanuman leap to reach Lanka?",
+      "options": ["The ocean (the great sea)", "The Ganga river", "Lake Pampa", "The Sarayu river"],
+      "answer": 0,
+      "explanation": "Hanuman bounded across the great ocean that separated the mainland from the island of Lanka."
+    },
+    {
+      "id": "hanumans-leap-q02",
+      "difficulty": "easy",
+      "q": "Whom was Hanuman searching for when he leaped to Lanka?",
+      "options": ["Lakshmana", "Sita", "Bharata", "Sugriva"],
+      "answer": 1,
+      "explanation": "Hanuman crossed the sea to find Sita, who was held captive in Lanka by Ravana."
+    },
+    {
+      "id": "hanumans-leap-q03",
+      "difficulty": "easy",
+      "q": "Who held Sita captive in the city Hanuman leaped toward?",
+      "options": ["Vali", "Kumbhakarna", "Ravana", "Indrajit"],
+      "answer": 2,
+      "explanation": "Ravana, the demon king of Lanka, had abducted Sita and imprisoned her there."
+    },
+    {
+      "id": "hanumans-leap-q04",
+      "difficulty": "easy",
+      "q": "What did Hanuman do to his body before making the great leap?",
+      "options": ["Swelled to an enormous size", "Turned invisible", "Became as small as a cat", "Sprouted feathered wings"],
+      "answer": 0,
+      "explanation": "Hanuman expanded himself to a colossal size to gather the strength for the mighty leap."
+    },
+    {
+      "id": "hanumans-leap-q05",
+      "difficulty": "easy",
+      "q": "From which mountain did Hanuman launch his leap across the sea?",
+      "options": ["Mount Meru", "Mount Mahendra", "Mount Kailasa", "Mount Govardhana"],
+      "answer": 1,
+      "explanation": "Hanuman gathered himself on Mount Mahendra and sprang from its summit toward Lanka."
+    },
+    {
+      "id": "hanumans-leap-q06",
+      "difficulty": "easy",
+      "q": "Hanuman is the son of which deity?",
+      "options": ["Agni, the fire god", "Vayu, the wind god", "Varuna, the water god", "Surya, the sun god"],
+      "answer": 1,
+      "explanation": "Hanuman is the son of Vayu, the wind god, which gave him the power to fly through the air."
+    },
+    {
+      "id": "hanumans-leap-q07",
+      "difficulty": "easy",
+      "q": "On which island kingdom was Sita imprisoned?",
+      "options": ["Kishkindha", "Lanka", "Ayodhya", "Mithila"],
+      "answer": 1,
+      "explanation": "Sita was held in Lanka, the island fortress ruled by Ravana."
+    },
+    {
+      "id": "hanumans-leap-q08",
+      "difficulty": "easy",
+      "q": "What kind of creatures did Hanuman encounter as trials during his flight over the sea?",
+      "options": ["Sea-demons", "Flying dragons", "Giant eagles", "Storm clouds with faces"],
+      "answer": 0,
+      "explanation": "Hanuman overcame trials posed by sea-demons during his crossing of the ocean."
+    },
+    {
+      "id": "hanumans-leap-q09",
+      "difficulty": "easy",
+      "q": "Which king did Hanuman serve, in whose cause he made the leap?",
+      "options": ["Ravana", "Rama", "Dasharatha", "Janaka"],
+      "answer": 1,
+      "explanation": "Hanuman acted as the devoted servant of Rama, leaping the sea to find Rama's wife Sita."
+    },
+    {
+      "id": "hanumans-leap-q10",
+      "difficulty": "easy",
+      "q": "To what race of beings did Hanuman belong?",
+      "options": ["The rakshasas (demons)", "The vanaras (monkeys)", "The nagas (serpents)", "The gandharvas"],
+      "answer": 1,
+      "explanation": "Hanuman was a vanara, one of the monkey heroes who aided Rama in the search for Sita."
+    },
+    {
+      "id": "hanumans-leap-q11",
+      "difficulty": "medium",
+      "q": "How long was Hanuman's leap across the ocean said to be?",
+      "options": ["Ten yojanas", "A hundred yojanas", "A thousand yojanas", "Five yojanas"],
+      "answer": 1,
+      "explanation": "The Valmiki Ramayana describes Hanuman bounding roughly a hundred yojanas across the sea to Lanka."
+    },
+    {
+      "id": "hanumans-leap-q12",
+      "difficulty": "medium",
+      "q": "The book of the Ramayana that narrates Hanuman's leap and search in Lanka is named after whom?",
+      "options": ["After Sita", "After Sundara (the 'Beautiful')", "After Rama", "After Lakshmana"],
+      "answer": 1,
+      "explanation": "Hanuman's journey is told in the Sundara Kanda, the 'Beautiful Book' of the Valmiki Ramayana."
+    },
+    {
+      "id": "hanumans-leap-q13",
+      "difficulty": "medium",
+      "q": "Which golden mountain rose from the sea and offered Hanuman a place to rest mid-flight?",
+      "options": ["Mainaka", "Trikuta", "Rishyamukha", "Chitrakuta"],
+      "answer": 0,
+      "explanation": "The mountain Mainaka rose from the ocean to offer Hanuman rest, sent by the sea out of gratitude to Hanuman's father, the wind."
+    },
+    {
+      "id": "hanumans-leap-q14",
+      "difficulty": "medium",
+      "q": "Why did Hanuman decline the mountain Mainaka's offer to rest?",
+      "options": ["He feared the mountain was a demon's trick", "He had vowed not to pause until his task was done", "He could not see the mountain clearly", "He was already too tired to stop"],
+      "answer": 1,
+      "explanation": "Hanuman touched the mountain in courtesy but refused to halt, determined to finish his mission without resting."
+    },
+    {
+      "id": "hanumans-leap-q15",
+      "difficulty": "medium",
+      "q": "Surasa, the mother of serpents (nagas), tested Hanuman during his flight. How did he pass her trial?",
+      "options": ["He fought and killed her", "He shrank tiny, entered her mouth, and instantly came out", "He flew far around her", "He put her to sleep with a hymn"],
+      "answer": 1,
+      "explanation": "Hanuman shrank to a thumb's size, darted into and out of Surasa's mouth, satisfying her boon and proving his wit."
+    },
+    {
+      "id": "hanumans-leap-q16",
+      "difficulty": "medium",
+      "q": "Surasa's test of Hanuman was meant to measure what quality?",
+      "options": ["His strength and cleverness", "His honesty", "His singing", "His wealth"],
+      "answer": 0,
+      "explanation": "The gods sent Surasa to test Hanuman's strength and intelligence, both of which he displayed by his clever escape."
+    },
+    {
+      "id": "hanumans-leap-q17",
+      "difficulty": "medium",
+      "q": "A demoness who seized the shadows of flying creatures tried to drag Hanuman down by his shadow. What was her name?",
+      "options": ["Tataka", "Simhika", "Trijata", "Shurpanakha"],
+      "answer": 1,
+      "explanation": "Simhika, a sea-demoness, caught Hanuman by his shadow, but he slew her by diving into her body and tearing her apart."
+    },
+    {
+      "id": "hanumans-leap-q18",
+      "difficulty": "medium",
+      "q": "How did Hanuman defeat the shadow-seizing demoness Simhika?",
+      "options": ["He burned her with fire", "He grew huge, then shrank and tore her from within", "He blinded her with sunlight", "He out-argued her"],
+      "answer": 1,
+      "explanation": "Hanuman expanded his body, then suddenly shrank and entered Simhika, ripping her apart from inside and emerging."
+    },
+    {
+      "id": "hanumans-leap-q19",
+      "difficulty": "medium",
+      "q": "Before Hanuman leaped, what did the assembled vanaras realize about their group's ability to cross the sea?",
+      "options": ["Only Hanuman among them could leap the full distance", "All of them could cross easily", "None could cross, so they turned back", "They would build a bridge instead"],
+      "answer": 0,
+      "explanation": "When each vanara measured his leaping power, it became clear that only Hanuman possessed the strength to span the hundred-yojana sea."
+    },
+    {
+      "id": "hanumans-leap-q20",
+      "difficulty": "medium",
+      "q": "Who reminded Hanuman of his own immense, half-forgotten powers, rousing him to attempt the leap?",
+      "options": ["Sugriva", "Jambavan", "Angada's father Vali", "Nala"],
+      "answer": 1,
+      "explanation": "The wise old bear Jambavan recalled to Hanuman the greatness of his hidden strength, inspiring him to undertake the leap."
+    },
+    {
+      "id": "hanumans-leap-q21",
+      "difficulty": "medium",
+      "q": "What happened to the trees and rocks of Mount Mahendra at the moment Hanuman sprang?",
+      "options": ["They were torn loose and flung into the air by the force", "They turned to gold", "They burst into flame", "They sank into the sea"],
+      "answer": 0,
+      "explanation": "The tremendous force of Hanuman's launch uprooted trees and tore loose rocks, hurling them upward with him."
+    },
+    {
+      "id": "hanumans-leap-q22",
+      "difficulty": "medium",
+      "q": "After clearing the ocean, on which mountain near Lanka did Hanuman first alight?",
+      "options": ["Mount Mahendra", "Mount Trikuta (Lamba/Lanka's hill)", "Mount Meru", "Mount Malyavan"],
+      "answer": 1,
+      "explanation": "Hanuman landed on the heights overlooking Lanka, the Trikuta range on which Ravana's city was built."
+    },
+    {
+      "id": "hanumans-leap-q23",
+      "difficulty": "hard",
+      "q": "The mountain Mainaka had once possessed wings and fled into the sea to escape whom?",
+      "options": ["Indra's thunderbolt", "Agni's flames", "Yama's noose", "Varuna's flood"],
+      "answer": 0,
+      "explanation": "Mainaka had hidden in the ocean to escape Indra, who clipped the wings of mountains with his thunderbolt; it sheltered there by the sea's favor."
+    },
+    {
+      "id": "hanumans-leap-q24",
+      "difficulty": "hard",
+      "q": "Why did the ocean (Sagara) urge Mount Mainaka to rise and aid Hanuman?",
+      "options": ["Out of gratitude to Hanuman's father, the wind god Vayu", "Because Rama had commanded it", "To trap Hanuman", "Out of fear of Ravana"],
+      "answer": 0,
+      "explanation": "The ocean asked Mainaka to offer rest as a return of past kindness shown by the wind god, Hanuman's father, who had once protected the mountain."
+    },
+    {
+      "id": "hanumans-leap-q25",
+      "difficulty": "hard",
+      "q": "Surasa appeared in Hanuman's path because she was sent by which group?",
+      "options": ["The rakshasas of Lanka", "The gods (devas), to test him", "The serpents seeking revenge", "Ravana's spies"],
+      "answer": 1,
+      "explanation": "In the Valmiki Ramayana the gods sent Surasa, mother of the nagas, to assess Hanuman's prowess before he reached Lanka."
+    },
+    {
+      "id": "hanumans-leap-q26",
+      "difficulty": "hard",
+      "q": "When Surasa expanded her mouth ever wider to swallow Hanuman, how did he respond?",
+      "options": ["He grew larger to match her, then suddenly shrank thumb-sized", "He flew straight down her throat and stayed", "He turned to stone", "He summoned his father Vayu to blow her away"],
+      "answer": 0,
+      "explanation": "Hanuman kept growing to match Surasa's widening jaws, then abruptly shrank to a thumb's size, slipping in and out before she could close her mouth."
+    },
+    {
+      "id": "hanumans-leap-q27",
+      "difficulty": "hard",
+      "q": "What unusual ability did the demoness Simhika possess that made her dangerous to flying beings?",
+      "options": ["She could seize and hold a creature's shadow on the water", "She could turn invisible", "She could mimic any voice", "She could split the sea"],
+      "answer": 0,
+      "explanation": "Simhika, the chaya-graha, could grasp the shadow that a flying creature cast upon the sea and so drag it down to her."
+    },
+    {
+      "id": "hanumans-leap-q28",
+      "difficulty": "hard",
+      "q": "A 'yojana,' the unit used to measure Hanuman's leap, is best described as a measure of what?",
+      "options": ["Distance", "Weight", "Time", "Volume"],
+      "answer": 0,
+      "explanation": "A yojana is an ancient Indian unit of distance, so the 'hundred-yojana' leap describes the breadth of the sea Hanuman crossed."
+    },
+    {
+      "id": "hanumans-leap-q29",
+      "difficulty": "hard",
+      "q": "Whose detailed report of Sita's location across the sea had earlier set the stage for the leap?",
+      "options": ["Jatayu's", "Sampati's", "Garuda's", "Vibhishana's"],
+      "answer": 1,
+      "explanation": "The wingless vulture Sampati told the searching vanaras that Sita was held in Lanka across the ocean, prompting the leap."
+    },
+    {
+      "id": "hanumans-leap-q30",
+      "difficulty": "hard",
+      "q": "As Hanuman approached Lanka after the leap, what time of day did he choose to enter the city for stealth?",
+      "options": ["At dawn", "After nightfall, in a shrunken form", "At high noon", "During a storm"],
+      "answer": 1,
+      "explanation": "Hanuman waited and entered Lanka by night, shrinking to a small size so he could slip past Ravana's guards unseen."
+    }
+  ]
+}

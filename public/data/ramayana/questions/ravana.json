@@ -1,0 +1,245 @@
+{
+  "cardId": "ravana",
+  "questions": [
+    {
+      "id": "ravana-q01",
+      "difficulty": "easy",
+      "q": "Of which island kingdom was Ravana the king?",
+      "options": ["Kishkindha", "Lanka", "Ayodhya", "Mithila"],
+      "answer": 1,
+      "explanation": "Ravana was the rakshasa emperor who ruled the golden kingdom of Lanka."
+    },
+    {
+      "id": "ravana-q02",
+      "difficulty": "easy",
+      "q": "How many heads is Ravana traditionally depicted as having?",
+      "options": ["Five", "Seven", "Ten", "Twelve"],
+      "answer": 2,
+      "explanation": "Ravana is famously known as the ten-headed king, the Dashagriva."
+    },
+    {
+      "id": "ravana-q03",
+      "difficulty": "easy",
+      "q": "Whose wife did Ravana abduct, setting the war in motion?",
+      "options": ["Sita", "Mandodari", "Tara", "Urmila"],
+      "answer": 0,
+      "explanation": "Ravana abducted Sita, the wife of Rama, which brought Rama's wrath upon him."
+    },
+    {
+      "id": "ravana-q04",
+      "difficulty": "easy",
+      "q": "Which kind of being was Ravana?",
+      "options": ["Deva", "Rakshasa", "Gandharva", "Naga"],
+      "answer": 1,
+      "explanation": "Ravana was the mighty emperor of the rakshasas, a race of demons."
+    },
+    {
+      "id": "ravana-q05",
+      "difficulty": "easy",
+      "q": "Which god was Ravana a devoted worshipper of?",
+      "options": ["Vishnu", "Brahma", "Indra", "Shiva"],
+      "answer": 3,
+      "explanation": "Ravana was a learned and ardent devotee of Lord Shiva."
+    },
+    {
+      "id": "ravana-q06",
+      "difficulty": "easy",
+      "q": "Who ultimately killed Ravana in battle?",
+      "options": ["Lakshmana", "Hanuman", "Rama", "Sugriva"],
+      "answer": 2,
+      "explanation": "Rama slew Ravana on the battlefield of Lanka, ending his tyranny."
+    },
+    {
+      "id": "ravana-q07",
+      "difficulty": "easy",
+      "q": "What is Ravana's title that means 'ten-faced one'?",
+      "options": ["Dashagriva", "Dashamukha", "Trishira", "Lankesha"],
+      "answer": 1,
+      "explanation": "Ravana is called Dashamukha (or Dashagriva), meaning the ten-faced or ten-necked one."
+    },
+    {
+      "id": "ravana-q08",
+      "difficulty": "easy",
+      "q": "Who was Ravana's chief queen?",
+      "options": ["Mandodari", "Sita", "Trijata", "Surasa"],
+      "answer": 0,
+      "explanation": "Mandodari was Ravana's principal queen and a woman renowned for her virtue."
+    },
+    {
+      "id": "ravana-q09",
+      "difficulty": "easy",
+      "q": "Who was Ravana's loyal brother who fought alongside him in the war?",
+      "options": ["Vibhishana", "Kumbhakarna", "Sugriva", "Angada"],
+      "answer": 1,
+      "explanation": "Kumbhakarna, the giant brother of Ravana, fought and died for him in the war."
+    },
+    {
+      "id": "ravana-q10",
+      "difficulty": "easy",
+      "q": "In Hindu tradition, Ravana's defeat is celebrated during which festival?",
+      "options": ["Holi", "Diwali", "Dussehra", "Makar Sankranti"],
+      "answer": 2,
+      "explanation": "Dussehra (Vijayadashami) celebrates Rama's victory over Ravana, marked by burning his effigy."
+    },
+    {
+      "id": "ravana-q11",
+      "difficulty": "medium",
+      "q": "Who was the father of Ravana?",
+      "options": ["Sumali", "Vishrava", "Pulastya", "Malyavan"],
+      "answer": 1,
+      "explanation": "Ravana was the son of the sage Vishrava and the rakshasi Kaikesi."
+    },
+    {
+      "id": "ravana-q12",
+      "difficulty": "medium",
+      "q": "Who was Ravana's righteous brother who defected to join Rama?",
+      "options": ["Kumbhakarna", "Khara", "Vibhishana", "Indrajit"],
+      "answer": 2,
+      "explanation": "Vibhishana, the virtuous brother, left Ravana and allied with Rama after being insulted."
+    },
+    {
+      "id": "ravana-q13",
+      "difficulty": "medium",
+      "q": "What was the name of Ravana's powerful son who defeated Lakshmana before dying?",
+      "options": ["Indrajit", "Atikaya", "Akshayakumara", "Prahasta"],
+      "answer": 0,
+      "explanation": "Indrajit (Meghnad), Ravana's son, was a mighty warrior who fell to Lakshmana in battle."
+    },
+    {
+      "id": "ravana-q14",
+      "difficulty": "medium",
+      "q": "Ravana's sister, whose disfigurement helped provoke the conflict, was named what?",
+      "options": ["Trijata", "Ayomukhi", "Surpanakha", "Tataka"],
+      "answer": 2,
+      "explanation": "Surpanakha was Ravana's sister; her mutilation by Lakshmana spurred Ravana toward revenge."
+    },
+    {
+      "id": "ravana-q15",
+      "difficulty": "medium",
+      "q": "From whom did Ravana usurp Lanka and the flying chariot Pushpaka?",
+      "options": ["Indra", "Kubera", "Varuna", "Yama"],
+      "answer": 1,
+      "explanation": "Ravana seized Lanka and the Pushpaka Vimana from his half-brother Kubera, the god of wealth."
+    },
+    {
+      "id": "ravana-q16",
+      "difficulty": "medium",
+      "q": "What boon did Ravana win from Brahma through severe penance?",
+      "options": ["Immortality from all creatures", "Invincibility against gods and demons", "Eternal youth", "Power over the sun"],
+      "answer": 1,
+      "explanation": "Ravana gained invulnerability from gods, demons, and other celestial beings, but not from humans."
+    },
+    {
+      "id": "ravana-q17",
+      "difficulty": "medium",
+      "q": "Why did Ravana not seek protection from humans in his boon from Brahma?",
+      "options": ["He forgot to ask", "He despised humans as too weak to threaten him", "Brahma refused", "He feared monkeys instead"],
+      "answer": 1,
+      "explanation": "Ravana disdained mortals as insignificant, an oversight that allowed the human Rama to slay him."
+    },
+    {
+      "id": "ravana-q18",
+      "difficulty": "medium",
+      "q": "Disguised as what did Ravana approach to abduct Sita?",
+      "options": ["A golden deer", "A wandering mendicant", "A wounded bird", "A merchant"],
+      "answer": 1,
+      "explanation": "Ravana came to Sita's hermitage disguised as a sannyasi (mendicant) before carrying her off."
+    },
+    {
+      "id": "ravana-q19",
+      "difficulty": "medium",
+      "q": "Which bird tried to stop Ravana as he carried Sita away and was mortally wounded?",
+      "options": ["Garuda", "Sampati", "Jatayu", "Kakasura"],
+      "answer": 2,
+      "explanation": "The noble vulture Jatayu fought Ravana to save Sita and was fatally wounded in the attempt."
+    },
+    {
+      "id": "ravana-q20",
+      "difficulty": "medium",
+      "q": "In which grove of Lanka did Ravana hold Sita captive?",
+      "options": ["Madhuvana", "Ashoka Vatika", "Panchavati", "Nandanavana"],
+      "answer": 1,
+      "explanation": "Sita was kept prisoner in the Ashoka Vatika (Ashoka grove) within Ravana's kingdom."
+    },
+    {
+      "id": "ravana-q21",
+      "difficulty": "medium",
+      "q": "What was the name of Ravana's grandfather on his mother's side, a rakshasa lord?",
+      "options": ["Sumali", "Hiranyakashipu", "Maricha", "Subahu"],
+      "answer": 0,
+      "explanation": "Sumali was the rakshasa lord whose daughter Kaikesi was Ravana's mother."
+    },
+    {
+      "id": "ravana-q22",
+      "difficulty": "medium",
+      "q": "Ravana's ten heads are traditionally said to symbolize his mastery of what?",
+      "options": ["Ten kingdoms he conquered", "The six shastras and four Vedas", "Ten weapons of war", "The ten directions"],
+      "answer": 1,
+      "explanation": "His ten heads signify command of the six shastras and four Vedas, vast learning marred by pride."
+    },
+    {
+      "id": "ravana-q23",
+      "difficulty": "hard",
+      "q": "What was the original name of Ravana before he earned the name 'Ravana'?",
+      "options": ["Dashagriva", "Meghnad", "Trishira", "Kuvera"],
+      "answer": 0,
+      "explanation": "He was first called Dashagriva; the name Ravana ('one who makes others roar') came after lifting Mount Kailasa."
+    },
+    {
+      "id": "ravana-q24",
+      "difficulty": "hard",
+      "q": "According to tradition, how did Ravana earn the very name 'Ravana' from Shiva?",
+      "options": ["By writing a hymn", "By attempting to lift and shake Mount Kailasa", "By winning a duel with Indra", "By performing a thousand sacrifices"],
+      "answer": 1,
+      "explanation": "When he tried to uproot Kailasa, Shiva pinned him; his cries earned him the name Ravana, 'the roarer'."
+    },
+    {
+      "id": "ravana-q25",
+      "difficulty": "hard",
+      "q": "The musical instrument Ravana is said to have created and played in Shiva's honor is the what?",
+      "options": ["Veena", "Mridanga", "Ravanahatha", "Damaru"],
+      "answer": 2,
+      "explanation": "Ravana is credited with crafting the bowed instrument known as the Ravanahatha."
+    },
+    {
+      "id": "ravana-q26",
+      "difficulty": "hard",
+      "q": "In a former life, Ravana was said to be one of which pair of cursed gatekeepers of Vishnu's abode?",
+      "options": ["Nara and Narayana", "Jaya and Vijaya", "Madhu and Kaitabha", "Sunda and Upasunda"],
+      "answer": 1,
+      "explanation": "Tradition holds Ravana was Jaya (with Kumbhakarna as Vijaya), a doorkeeper of Vaikuntha cursed to be born a demon."
+    },
+    {
+      "id": "ravana-q27",
+      "difficulty": "hard",
+      "q": "Which celestial weapon-curse limited Ravana from forcing himself upon Sita?",
+      "options": ["A curse from Nalakubara for assaulting Rambha", "A boon from Agni", "A vow to Brahma", "A spell of Mandodari"],
+      "answer": 0,
+      "explanation": "Nalakubara cursed Ravana that his head would burst if he ever forced himself on an unwilling woman."
+    },
+    {
+      "id": "ravana-q28",
+      "difficulty": "hard",
+      "q": "On the eve of his death, whom did Rama send to learn statecraft and wisdom from the dying Ravana?",
+      "options": ["Hanuman", "Lakshmana", "Vibhishana", "Sugriva"],
+      "answer": 1,
+      "explanation": "In tradition, Rama sent Lakshmana to the fallen Ravana to receive his counsel on kingship and life."
+    },
+    {
+      "id": "ravana-q29",
+      "difficulty": "hard",
+      "q": "Where in Ravana's body did Rama strike the fatal arrow to finally kill him?",
+      "options": ["His heart's navel region", "His throat", "His forehead", "His foot"],
+      "answer": 0,
+      "explanation": "Rama's Brahmastra struck Ravana's navel, said to hold the nectar that sustained his life."
+    },
+    {
+      "id": "ravana-q30",
+      "difficulty": "hard",
+      "q": "Which conqueror-king is Ravana famously recorded as having once defeated and imprisoned, the ruler of the celestials?",
+      "options": ["Yama, lord of death", "Indra, king of the gods", "Varuna, lord of waters", "Kubera alone"],
+      "answer": 1,
+      "explanation": "Ravana's son captured Indra, king of the gods, earning the son the title Indrajit ('conqueror of Indra')."
+    }
+  ]
+}

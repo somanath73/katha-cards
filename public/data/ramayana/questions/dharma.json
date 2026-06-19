@@ -1,0 +1,245 @@
+{
+  "cardId": "dharma",
+  "questions": [
+    {
+      "id": "dharma-q01",
+      "difficulty": "easy",
+      "q": "In the Ramayana, what does the word 'dharma' broadly refer to?",
+      "options": ["A weapon of the gods", "Righteousness and moral duty", "Wealth and prosperity", "A river in Ayodhya"],
+      "answer": 1,
+      "explanation": "Dharma is the principle of righteousness, moral law, and duty that every figure in the epic is expected to uphold."
+    },
+    {
+      "id": "dharma-q02",
+      "difficulty": "easy",
+      "q": "Rama is celebrated above all in the Ramayana for his unfailing adherence to which principle?",
+      "options": ["Personal pleasure", "Wealth accumulation", "Dharma", "Vengeance"],
+      "answer": 2,
+      "explanation": "Rama's steadfast commitment to dharma is described as the very spine of the story."
+    },
+    {
+      "id": "dharma-q03",
+      "difficulty": "easy",
+      "q": "Out of duty to honor his father's word, what did Rama agree to do?",
+      "options": ["Wage war on Ayodhya", "Abandon Sita", "Renounce his name", "Go into forest exile for fourteen years"],
+      "answer": 3,
+      "explanation": "Upholding his father Dasharatha's promise to Kaikeyi, Rama dutifully accepted fourteen years of forest exile."
+    },
+    {
+      "id": "dharma-q04",
+      "difficulty": "easy",
+      "q": "Whose promise to Queen Kaikeyi did Rama feel duty-bound to fulfill?",
+      "options": ["His father Dasharatha's", "His brother Lakshmana's", "Sage Vishvamitra's", "King Janaka's"],
+      "answer": 0,
+      "explanation": "King Dasharatha had granted Kaikeyi two boons, and Rama upheld dharma by honoring his father's word."
+    },
+    {
+      "id": "dharma-q05",
+      "difficulty": "easy",
+      "q": "Rama is often given which title for being the ideal upholder of dharma?",
+      "options": ["Chakravarti Samrat", "Maryada Purushottam", "Devaraja", "Dharmaraja Yudhishthira"],
+      "answer": 1,
+      "explanation": "Rama is honored as Maryada Purushottam, the perfect man who never transgresses the bounds of righteousness."
+    },
+    {
+      "id": "dharma-q06",
+      "difficulty": "easy",
+      "q": "According to the epic, dharma must be upheld even against which inner forces?",
+      "options": ["Hunger and thirst", "Sleep and fatigue", "Desire and grief", "Cold and heat"],
+      "answer": 2,
+      "explanation": "The card describes dharma as the moral law upheld against desire and grief."
+    },
+    {
+      "id": "dharma-q07",
+      "difficulty": "easy",
+      "q": "Which brother followed Rama into exile out of devotion and a sense of duty?",
+      "options": ["Bharata", "Shatrughna", "Vibhishana", "Lakshmana"],
+      "answer": 3,
+      "explanation": "Lakshmana chose to accompany Rama into the forest, embodying loyal duty toward his elder brother."
+    },
+    {
+      "id": "dharma-q08",
+      "difficulty": "easy",
+      "q": "What is the title of the card whose subject is dharma?",
+      "options": ["The Path of Righteousness", "The Perfect Man", "The Sandals on the Throne", "The Golden Deer"],
+      "answer": 0,
+      "explanation": "The dharma card is titled 'Dharma' with the subtitle 'The Path of Righteousness'."
+    },
+    {
+      "id": "dharma-q09",
+      "difficulty": "easy",
+      "q": "Rama's wife Sita demonstrated dharma by choosing to do what during his exile?",
+      "options": ["Rule Ayodhya alone", "Accompany him into the forest", "Return to her father Janaka", "Lead an army"],
+      "answer": 1,
+      "explanation": "As a devoted wife, Sita insisted on following Rama into the forest rather than staying behind in comfort."
+    },
+    {
+      "id": "dharma-q10",
+      "difficulty": "easy",
+      "q": "Who is the revered sage credited as the author of the Valmiki Ramayana?",
+      "options": ["Vyasa", "Vishvamitra", "Valmiki", "Vasishtha"],
+      "answer": 2,
+      "explanation": "The Ramayana that establishes Rama as the embodiment of dharma is attributed to the sage Valmiki."
+    },
+    {
+      "id": "dharma-q11",
+      "difficulty": "medium",
+      "q": "When offered the throne after Rama's exile, how did Bharata uphold dharma?",
+      "options": ["He crowned himself king", "He went to war against Rama", "He banished Kaikeyi from the kingdom", "He refused to rule himself and placed Rama's sandals on the throne"],
+      "answer": 3,
+      "explanation": "Bharata refused the crown won by his mother's scheming and ruled in Rama's name, enshrining Rama's paduka (sandals)."
+    },
+    {
+      "id": "dharma-q12",
+      "difficulty": "medium",
+      "q": "Why did Rama ultimately help Sugriva against Vali, and how is this debated in terms of dharma?",
+      "options": ["He allied with Sugriva and slew Vali, a deed later questioned on grounds of fair combat", "He refused to interfere in the monkeys' dispute", "He crowned Vali king of Kishkindha", "He fought Vali in open single combat"],
+      "answer": 0,
+      "explanation": "Rama killed Vali from concealment to aid the exiled Sugriva, an act Vali himself challenged as a breach of warrior dharma."
+    },
+    {
+      "id": "dharma-q13",
+      "difficulty": "medium",
+      "q": "Which rakshasa abandoned his brother Ravana on grounds of dharma and joined Rama?",
+      "options": ["Kumbhakarna", "Vibhishana", "Indrajit", "Maricha"],
+      "answer": 1,
+      "explanation": "Vibhishana left Ravana after counseling him to return Sita, choosing righteousness over kinship, and allied with Rama."
+    },
+    {
+      "id": "dharma-q14",
+      "difficulty": "medium",
+      "q": "What act of Ravana is presented as the central violation of dharma in the epic?",
+      "options": ["The burning of Lanka", "The killing of Jatayu", "The abduction of Sita", "The exile of Vibhishana"],
+      "answer": 2,
+      "explanation": "Ravana's forcible abduction of Sita is the great adharma that sets Rama's righteous war in motion."
+    },
+    {
+      "id": "dharma-q15",
+      "difficulty": "medium",
+      "q": "Which aged vulture king died upholding dharma while trying to rescue Sita from Ravana?",
+      "options": ["Sampati", "Garuda", "Kakasura", "Jatayu"],
+      "answer": 3,
+      "explanation": "Jatayu fought Ravana to stop Sita's abduction and was mortally wounded, dying in Rama's arms as a model of duty."
+    },
+    {
+      "id": "dharma-q16",
+      "difficulty": "medium",
+      "q": "Lakshmana's wife Urmila is praised for which act of quiet dharma during the exile years?",
+      "options": ["Remaining in Ayodhya in patient devotion while Lakshmana served Rama", "Leading Ayodhya's armies", "Following the brothers into the forest", "Ruling Mithila in Janaka's place"],
+      "answer": 0,
+      "explanation": "Urmila stayed behind in Ayodhya, bearing the long separation so Lakshmana could fulfill his duty to Rama."
+    },
+    {
+      "id": "dharma-q17",
+      "difficulty": "medium",
+      "q": "How did King Dasharatha's own conduct reflect the demands of dharma after granting Kaikeyi's boons?",
+      "options": ["He revoked the boons immediately", "He kept his given word though it broke his heart and led to his death from grief", "He had Kaikeyi imprisoned", "He abdicated and joined Rama in exile"],
+      "answer": 1,
+      "explanation": "Bound by his promise, Dasharatha honored his word and exiled Rama, then died of grief, embodying truth at terrible cost."
+    },
+    {
+      "id": "dharma-q18",
+      "difficulty": "medium",
+      "q": "What does the term 'raja-dharma' specifically refer to in the Ramayana?",
+      "options": ["The duty of a wife to her husband", "The penance of a forest hermit", "The righteous duties of a king toward his subjects", "The code of a merchant's trade"],
+      "answer": 2,
+      "explanation": "Raja-dharma is the duty of a king to rule justly and protect his people, a standard Rama exemplifies as the ideal ruler."
+    },
+    {
+      "id": "dharma-q19",
+      "difficulty": "medium",
+      "q": "Which devoted servant of Rama is held up as a model of selfless duty (seva) in the epic?",
+      "options": ["Sugriva", "Angada", "Nala", "Hanuman"],
+      "answer": 3,
+      "explanation": "Hanuman's tireless, humble service to Rama makes him the supreme example of dharma expressed through devotion."
+    },
+    {
+      "id": "dharma-q20",
+      "difficulty": "medium",
+      "q": "Before the war, what did Rama and Vibhishana urge to give Ravana one last chance at dharma?",
+      "options": ["That Ravana peacefully return Sita to avoid destruction", "That Ravana surrender his crown to Kumbhakarna", "That Ravana flee Lanka", "That Ravana fast for forgiveness"],
+      "answer": 0,
+      "explanation": "The righteous path offered was for Ravana to restore Sita, but his refusal sealed his fate."
+    },
+    {
+      "id": "dharma-q21",
+      "difficulty": "medium",
+      "q": "Which concept card closely related to dharma names Rama as 'The Perfect Man'?",
+      "options": ["Bharata's Plea", "Maryada Purushottam", "The Paduka", "The Golden Deer"],
+      "answer": 1,
+      "explanation": "The 'Maryada Purushottam' card celebrates Rama as the perfect man, the human ideal of dharma."
+    },
+    {
+      "id": "dharma-q22",
+      "difficulty": "medium",
+      "q": "How is the great war against Ravana characterized in the moral framework of the Ramayana?",
+      "options": ["As a dispute over land and gold", "As a contest for a throne", "As a war of dharma against adharma", "As a personal feud between brothers"],
+      "answer": 2,
+      "explanation": "The conflict is framed as righteousness (dharma) confronting and overcoming unrighteousness (adharma)."
+    },
+    {
+      "id": "dharma-q23",
+      "difficulty": "hard",
+      "q": "Vali, when struck down, accused Rama of breaching which specific aspect of warrior dharma?",
+      "options": ["Using a divine weapon against a mortal", "Fighting him without a chariot", "Attacking him at night", "Striking him from hiding rather than in open, face-to-face battle"],
+      "answer": 3,
+      "explanation": "Vali charged that Rama, hidden, shot him while he fought Sugriva, violating the fairness expected between warriors."
+    },
+    {
+      "id": "dharma-q24",
+      "difficulty": "hard",
+      "q": "By tradition, who narrate the Ramayana, the song of Rama's dharma, in the court of Rama himself?",
+      "options": ["Lava and Kusha, Rama's twin sons", "Hanuman and Sugriva", "Vibhishana and Angada", "Bharata and Shatrughna"],
+      "answer": 0,
+      "explanation": "Valmiki taught the epic to Sita's sons Lava and Kusha, who sang it before Rama at the Ashvamedha sacrifice."
+    },
+    {
+      "id": "dharma-q25",
+      "difficulty": "hard",
+      "q": "In the Uttara Kanda, Rama's painful decision to send the pregnant Sita to the forest is justified by which dharma?",
+      "options": ["Putra-dharma, duty toward one's father", "Raja-dharma, a king's duty to honor public opinion above personal happiness", "Atithi-dharma, duty toward guests", "Guru-dharma, duty toward one's teacher"],
+      "answer": 1,
+      "explanation": "Citing his duty as king to maintain the people's trust, Rama placed raja-dharma above his own love for Sita."
+    },
+    {
+      "id": "dharma-q26",
+      "difficulty": "hard",
+      "q": "Which sage's hermitage did Rama, Sita, and Lakshmana visit on the advice that it marked a righteous abode early in the exile?",
+      "options": ["Sage Agastya's in the deep south", "Sage Gautama's by the Ganga", "Sage Bharadwaja's, which pointed them toward Chitrakoot", "Sage Durvasa's in Ayodhya"],
+      "answer": 2,
+      "explanation": "Bharadwaja received the exiles near Prayaga and directed them to settle at Chitrakoot, a place fit for dharmic living."
+    },
+    {
+      "id": "dharma-q27",
+      "difficulty": "hard",
+      "q": "The doctrine that one should follow one's own duty imperfectly rather than another's well is best captured by which term echoed in dharmic thought?",
+      "options": ["Para-dharma (another's duty)", "Adharma (unrighteousness)", "Moksha (liberation)", "Sva-dharma (one's own proper duty)"],
+      "answer": 3,
+      "explanation": "Sva-dharma, doing one's own appointed duty, underlies why each character in the epic acts according to their station."
+    },
+    {
+      "id": "dharma-q28",
+      "difficulty": "hard",
+      "q": "When Bharata sought to bring Rama back, on what dharmic ground did Rama refuse to return early?",
+      "options": ["Honoring his father's command and vow took precedence even over Bharata's plea", "He no longer wished to be king", "He feared Kaikeyi's anger", "He had taken a vow of permanent renunciation"],
+      "answer": 0,
+      "explanation": "Rama held that fulfilling Dasharatha's word for the full term was the higher dharma, and so declined the throne for then."
+    },
+    {
+      "id": "dharma-q29",
+      "difficulty": "hard",
+      "q": "Which boatman, often named Guha, is remembered for his humble act of dharma in ferrying Rama across the Ganga during the exile?",
+      "options": ["Sumantra, the charioteer", "Guha, the Nishada chief", "Kevat, the royal minister", "Jambavan, the bear king"],
+      "answer": 1,
+      "explanation": "Guha, the Nishada (fisherfolk) chief, devotedly aided Rama at the Ganga, honored for serving dharma despite low birth."
+    },
+    {
+      "id": "dharma-q30",
+      "difficulty": "hard",
+      "q": "The famous line 'dharmo rakshati rakshitah' expresses which idea central to the epic?",
+      "options": ["Dharma rewards those who renounce it", "Dharma belongs only to kings", "Dharma protects those who protect dharma", "Dharma is destroyed by war"],
+      "answer": 2,
+      "explanation": "The maxim teaches that those who uphold righteousness are in turn protected by it, the moral promise underlying Rama's path."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "rama",
+  "questions": [
+    {
+      "id": "rama-q01",
+      "difficulty": "easy",
+      "q": "Who was Rama's father?",
+      "options": ["Janaka", "Dasharatha", "Vishvamitra", "Ravana"],
+      "answer": 1,
+      "explanation": "Rama was the eldest son of King Dasharatha of Ayodhya."
+    },
+    {
+      "id": "rama-q02",
+      "difficulty": "easy",
+      "q": "Of which god is Rama considered an incarnation (avatar)?",
+      "options": ["Shiva", "Brahma", "Vishnu", "Indra"],
+      "answer": 2,
+      "explanation": "Rama is revered as the seventh avatar of Vishnu, born to destroy Ravana."
+    },
+    {
+      "id": "rama-q03",
+      "difficulty": "easy",
+      "q": "Who was Rama's wife?",
+      "options": ["Sita", "Urmila", "Tara", "Mandodari"],
+      "answer": 0,
+      "explanation": "Rama married Sita, the daughter of King Janaka of Mithila."
+    },
+    {
+      "id": "rama-q04",
+      "difficulty": "easy",
+      "q": "Which demon-king did Rama incarnate to destroy?",
+      "options": ["Kumbhakarna", "Indrajit", "Ravana", "Khara"],
+      "answer": 2,
+      "explanation": "Rama was born as an incarnation of Vishnu to slay the demon-king Ravana of Lanka."
+    },
+    {
+      "id": "rama-q05",
+      "difficulty": "easy",
+      "q": "Which kingdom did Rama belong to as a prince?",
+      "options": ["Mithila", "Kishkindha", "Lanka", "Kosala"],
+      "answer": 3,
+      "explanation": "Rama was a prince of the kingdom of Kosala, whose capital was Ayodhya."
+    },
+    {
+      "id": "rama-q06",
+      "difficulty": "easy",
+      "q": "What is the emblem most associated with Rama?",
+      "options": ["Bow", "Mace", "Trident", "Discus"],
+      "answer": 0,
+      "explanation": "Rama is famously depicted as a master archer, and the bow is his signature weapon."
+    },
+    {
+      "id": "rama-q07",
+      "difficulty": "easy",
+      "q": "Who was Rama's mother?",
+      "options": ["Kaikeyi", "Sumitra", "Kaushalya", "Mandodari"],
+      "answer": 2,
+      "explanation": "Rama was born to Kaushalya, the eldest queen of Dasharatha."
+    },
+    {
+      "id": "rama-q08",
+      "difficulty": "easy",
+      "q": "Which brother accompanied Rama and Sita into the forest exile?",
+      "options": ["Bharata", "Shatrughna", "Lakshmana", "Vibhishana"],
+      "answer": 2,
+      "explanation": "Lakshmana, Rama's devoted brother, chose to share his exile and served him throughout."
+    },
+    {
+      "id": "rama-q09",
+      "difficulty": "easy",
+      "q": "Rama is upheld in the epic as the ideal of which virtue?",
+      "options": ["Wealth", "Dharma", "Cunning", "Vengeance"],
+      "answer": 1,
+      "explanation": "Rama is celebrated as the ideal of dharma, righteous conduct and duty."
+    },
+    {
+      "id": "rama-q10",
+      "difficulty": "easy",
+      "q": "How many years was Rama exiled to the forest?",
+      "options": ["Seven", "Twelve", "Fourteen", "Twenty"],
+      "answer": 2,
+      "explanation": "Rama accepted fourteen years of forest exile to honour his father's word."
+    },
+    {
+      "id": "rama-q11",
+      "difficulty": "medium",
+      "q": "Which queen's two boons forced Rama into exile?",
+      "options": ["Kaushalya", "Sumitra", "Kaikeyi", "Mandodari"],
+      "answer": 2,
+      "explanation": "Kaikeyi used two boons from Dasharatha to demand the throne for Bharata and exile for Rama."
+    },
+    {
+      "id": "rama-q12",
+      "difficulty": "medium",
+      "q": "Which sage took the young Rama to guard his sacrifice and taught him celestial weapons?",
+      "options": ["Vasishtha", "Vishvamitra", "Agastya", "Valmiki"],
+      "answer": 1,
+      "explanation": "The warrior-sage Vishvamitra took Rama and Lakshmana to protect his sacrifice and imparted divine weapons."
+    },
+    {
+      "id": "rama-q13",
+      "difficulty": "medium",
+      "q": "What deed did Rama perform to win the hand of Sita at her swayamvara?",
+      "options": ["Defeated a hundred kings in combat", "Strung and broke Shiva's bow", "Answered Janaka's riddles", "Tamed a wild elephant"],
+      "answer": 1,
+      "explanation": "Rama lifted and strung Shiva's mighty bow Pinaka, snapping it in two and winning Sita."
+    },
+    {
+      "id": "rama-q14",
+      "difficulty": "medium",
+      "q": "Whom did Rama free from a curse simply by the touch or dust of his feet on the way to Mithila?",
+      "options": ["Shabari", "Ahalya", "Tara", "Trijata"],
+      "answer": 1,
+      "explanation": "Ahalya, cursed to be stone, was restored to her form by the grace of Rama."
+    },
+    {
+      "id": "rama-q15",
+      "difficulty": "medium",
+      "q": "Which fearsome demoness did Rama slay as his first great deed at Vishvamitra's bidding?",
+      "options": ["Shurpanakha", "Surasa", "Tataka", "Trijata"],
+      "answer": 2,
+      "explanation": "At Vishvamitra's command Rama slew the demoness Tataka, freeing the forest hermitages."
+    },
+    {
+      "id": "rama-q16",
+      "difficulty": "medium",
+      "q": "Which warrior-sage avatar of Vishnu did Rama confront after breaking Shiva's bow?",
+      "options": ["Parashurama", "Agastya", "Vasishtha", "Narada"],
+      "answer": 0,
+      "explanation": "Parashurama challenged Rama after the bow broke; Rama drew Parashurama's own bow and the elder yielded."
+    },
+    {
+      "id": "rama-q17",
+      "difficulty": "medium",
+      "q": "What did Rama give to Bharata to rule Ayodhya in his place during the exile?",
+      "options": ["His bow", "His signet ring", "His wooden sandals", "His crown"],
+      "answer": 2,
+      "explanation": "Rama gave Bharata his wooden sandals (paduka), which Bharata enthroned and ruled in their name."
+    },
+    {
+      "id": "rama-q18",
+      "difficulty": "medium",
+      "q": "Which vanara king did Rama ally with to search for the abducted Sita?",
+      "options": ["Vali", "Sugriva", "Angada", "Jambavan"],
+      "answer": 1,
+      "explanation": "Rama allied with Sugriva, the exiled vanara king, who lent his host to find Sita."
+    },
+    {
+      "id": "rama-q19",
+      "difficulty": "medium",
+      "q": "Which lured Rama away from the hut so that Ravana could abduct Sita?",
+      "options": ["A golden deer", "A celestial bird", "A weeping sage", "A river spirit"],
+      "answer": 0,
+      "explanation": "The rakshasa Maricha took the form of a golden deer to draw Rama away from Sita."
+    },
+    {
+      "id": "rama-q20",
+      "difficulty": "medium",
+      "q": "Whom did Rama slay with an arrow from concealment to restore Sugriva to the throne?",
+      "options": ["Khara", "Kabandha", "Vali", "Maricha"],
+      "answer": 2,
+      "explanation": "Rama struck the vanara king Vali from hiding during his duel with Sugriva, a deed long debated for its dharma."
+    },
+    {
+      "id": "rama-q21",
+      "difficulty": "medium",
+      "q": "Which weapon did Rama use to finally slay Ravana?",
+      "options": ["The Naga-pasha", "The Brahmastra", "The Sanjeevani", "The Pinaka"],
+      "answer": 1,
+      "explanation": "Rama loosed the irresistible Brahmastra, piercing Ravana through the heart."
+    },
+    {
+      "id": "rama-q22",
+      "difficulty": "medium",
+      "q": "Whom did Rama promise the throne of Lanka after the war?",
+      "options": ["Sugriva", "Vibhishana", "Hanuman", "Angada"],
+      "answer": 1,
+      "explanation": "Rama promised the kingdom of Lanka to Vibhishana, Ravana's righteous brother who joined his cause."
+    },
+    {
+      "id": "rama-q23",
+      "difficulty": "hard",
+      "q": "From which dynasty did Rama descend?",
+      "options": ["Yadava", "Ikshvaku", "Kuru", "Bhrigu"],
+      "answer": 1,
+      "explanation": "Rama belonged to the solar Ikshvaku dynasty, whose family preceptor was the sage Vasishtha."
+    },
+    {
+      "id": "rama-q24",
+      "difficulty": "hard",
+      "q": "Which sage in the Dandaka forest gifted Rama the bow and quiver of Vishnu?",
+      "options": ["Agastya", "Bharadvaja", "Atri", "Sharabhanga"],
+      "answer": 0,
+      "explanation": "The sage Agastya received Rama in the Dandaka forest and gave him divine weapons including the bow of Vishnu."
+    },
+    {
+      "id": "rama-q25",
+      "difficulty": "hard",
+      "q": "In how many kandas (books) is the Ramayana, the epic of Rama, traditionally told?",
+      "options": ["Five", "Six", "Seven", "Ten"],
+      "answer": 2,
+      "explanation": "The Valmiki Ramayana narrating Rama's life is traditionally told in seven kandas."
+    },
+    {
+      "id": "rama-q26",
+      "difficulty": "hard",
+      "q": "Which demon, cousin of Ravana, led an army of fourteen thousand that Rama destroyed alone at Janasthana?",
+      "options": ["Prahasta", "Khara", "Kumbhakarna", "Indrajit"],
+      "answer": 1,
+      "explanation": "Khara led fourteen thousand rakshasas to avenge Shurpanakha, and Rama destroyed them all single-handedly."
+    },
+    {
+      "id": "rama-q27",
+      "difficulty": "hard",
+      "q": "What honorific title is given to Rama as the man who never transgressed the bounds of virtue?",
+      "options": ["Maryada Purushottam", "Adi Kavi", "Chakravartin", "Jagadguru"],
+      "answer": 0,
+      "explanation": "Rama is called Maryada Purushottam, the perfect man who never crossed the limits of virtue and duty."
+    },
+    {
+      "id": "rama-q28",
+      "difficulty": "hard",
+      "q": "Whose dying words told Rama which direction Sita had been carried after her abduction?",
+      "options": ["Sampati", "Jatayu", "Kabandha", "Guha"],
+      "answer": 1,
+      "explanation": "The mortally wounded vulture Jatayu lived just long enough to tell Rama the direction Ravana took Sita."
+    },
+    {
+      "id": "rama-q29",
+      "difficulty": "hard",
+      "q": "After fourteen years, Rama's return to Ayodhya is traditionally remembered as the origin of which festival?",
+      "options": ["Holi", "Navaratri", "Diwali", "Makar Sankranti"],
+      "answer": 2,
+      "explanation": "The people lit rows of lamps to welcome Rama home, an event remembered ever after as Diwali."
+    },
+    {
+      "id": "rama-q30",
+      "difficulty": "hard",
+      "q": "By what name is the just and prosperous reign of Rama as king of Ayodhya remembered?",
+      "options": ["Satya Yuga", "Rama Rajya", "Ashvamedha", "Dharma Chakra"],
+      "answer": 1,
+      "explanation": "Rama's ideal reign is remembered as Rama Rajya, a byword for perfect, righteous rule."
+    }
+  ]
+}

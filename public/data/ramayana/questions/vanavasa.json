@@ -1,0 +1,245 @@
+{
+  "cardId": "vanavasa",
+  "questions": [
+    {
+      "id": "vanavasa-q01",
+      "difficulty": "easy",
+      "q": "How many years was Rama's forest exile (vanavasa) to last?",
+      "options": ["Twelve years", "Fourteen years", "Ten years", "Sixteen years"],
+      "answer": 1,
+      "explanation": "Kaikeyi demanded that Rama be banished to the forest for fourteen years."
+    },
+    {
+      "id": "vanavasa-q02",
+      "difficulty": "easy",
+      "q": "Whose word did Rama uphold by accepting the exile?",
+      "options": ["His father Dasharatha's word", "Sage Vasishtha's command", "His own personal vow", "Bharata's request"],
+      "answer": 0,
+      "explanation": "Rama accepted exile to keep his father Dasharatha's promise to Kaikeyi."
+    },
+    {
+      "id": "vanavasa-q03",
+      "difficulty": "easy",
+      "q": "Who demanded that Rama be sent into exile?",
+      "options": ["Kaushalya", "Sumitra", "Kaikeyi", "Manthara"],
+      "answer": 2,
+      "explanation": "Queen Kaikeyi used her two boons to demand Rama's exile and the throne for Bharata."
+    },
+    {
+      "id": "vanavasa-q04",
+      "difficulty": "easy",
+      "q": "Which wife of Rama insisted on accompanying him into the forest?",
+      "options": ["Urmila", "Sita", "Mandavi", "Shrutakirti"],
+      "answer": 1,
+      "explanation": "Sita refused to remain in the palace and chose to share Rama's hardship in the forest."
+    },
+    {
+      "id": "vanavasa-q05",
+      "difficulty": "easy",
+      "q": "Which brother chose to accompany Rama during the vanavasa?",
+      "options": ["Bharata", "Shatrughna", "Lakshmana", "None of his brothers"],
+      "answer": 2,
+      "explanation": "Lakshmana left Ayodhya to serve and protect Rama and Sita throughout the exile."
+    },
+    {
+      "id": "vanavasa-q06",
+      "difficulty": "easy",
+      "q": "From which city was Rama exiled?",
+      "options": ["Mithila", "Lanka", "Kishkindha", "Ayodhya"],
+      "answer": 3,
+      "explanation": "Rama was the prince of Ayodhya, the capital of the Kosala kingdom, from which he was exiled."
+    },
+    {
+      "id": "vanavasa-q07",
+      "difficulty": "easy",
+      "q": "Who was to be crowned king of Ayodhya instead of Rama?",
+      "options": ["Lakshmana", "Bharata", "Shatrughna", "Kusha"],
+      "answer": 1,
+      "explanation": "Kaikeyi's second boon demanded that her son Bharata be installed as king."
+    },
+    {
+      "id": "vanavasa-q08",
+      "difficulty": "easy",
+      "q": "What central virtue is the vanavasa said to test in Rama?",
+      "options": ["Dharma (righteous duty)", "Wealth", "Military skill", "Magical power"],
+      "answer": 0,
+      "explanation": "Rama's acceptance of exile is held up as the supreme test of dharma at the heart of the epic."
+    },
+    {
+      "id": "vanavasa-q09",
+      "difficulty": "easy",
+      "q": "How did Rama react when told he must go into exile?",
+      "options": ["He raised an army to fight", "He accepted it calmly without complaint", "He fled the kingdom secretly", "He cursed Kaikeyi"],
+      "answer": 1,
+      "explanation": "Rama accepted the banishment without complaint, treating his father's word as binding."
+    },
+    {
+      "id": "vanavasa-q10",
+      "difficulty": "easy",
+      "q": "Into what kind of place was Rama banished during the vanavasa?",
+      "options": ["A distant foreign kingdom", "A prison", "The forest (vana)", "An island fortress"],
+      "answer": 2,
+      "explanation": "The word 'vanavasa' literally means 'dwelling in the forest,' the place of Rama's banishment."
+    },
+    {
+      "id": "vanavasa-q11",
+      "difficulty": "medium",
+      "q": "What two boons did Kaikeyi invoke to bring about the vanavasa?",
+      "options": ["Wealth for Bharata and a palace for herself", "The throne for Bharata and fourteen years' exile for Rama", "Rama's marriage and Bharata's coronation", "Lakshmana's exile and Rama's coronation"],
+      "answer": 1,
+      "explanation": "Kaikeyi reminded Dasharatha of two old boons, demanding Bharata's coronation and Rama's fourteen-year exile."
+    },
+    {
+      "id": "vanavasa-q12",
+      "difficulty": "medium",
+      "q": "Who poisoned Kaikeyi's mind against Rama before she made her demands?",
+      "options": ["Manthara, her hunchbacked maid", "Sumitra", "Kaushalya", "Shurpanakha"],
+      "answer": 0,
+      "explanation": "Manthara, Kaikeyi's hunchbacked servant, persuaded her to claim the boons against Rama."
+    },
+    {
+      "id": "vanavasa-q13",
+      "difficulty": "medium",
+      "q": "How did Dasharatha respond emotionally to being forced to exile Rama?",
+      "options": ["He rejoiced at the decision", "He was overcome with grief and despair", "He felt indifferent", "He approved it readily"],
+      "answer": 1,
+      "explanation": "Dasharatha was shattered with grief, bound by his word yet heartbroken at losing Rama."
+    },
+    {
+      "id": "vanavasa-q14",
+      "difficulty": "medium",
+      "q": "What clothing did Rama, Sita, and Lakshmana put on to mark their exile?",
+      "options": ["Royal silk robes", "Armor for battle", "White mourning cloth", "Garments of bark and deerskin"],
+      "answer": 3,
+      "explanation": "As ascetics in exile, they exchanged royal garments for bark cloth and deerskin."
+    },
+    {
+      "id": "vanavasa-q15",
+      "difficulty": "medium",
+      "q": "Who was the charioteer that drove Rama, Sita, and Lakshmana out of Ayodhya?",
+      "options": ["Sumantra", "Sugriva", "Guha", "Vibhishana"],
+      "answer": 0,
+      "explanation": "Sumantra, Dasharatha's trusted charioteer and minister, drove them from the city."
+    },
+    {
+      "id": "vanavasa-q16",
+      "difficulty": "medium",
+      "q": "Which friendly tribal king ferried Rama across the Ganga during the exile?",
+      "options": ["Guha, the Nishada chief", "Jatayu", "Sugriva", "Janaka"],
+      "answer": 0,
+      "explanation": "Guha, chief of the Nishada hunters and Rama's friend, helped them cross the Ganga at Shringaverapura."
+    },
+    {
+      "id": "vanavasa-q17",
+      "difficulty": "medium",
+      "q": "At whose hermitage did Rama and Sita stay early in the exile, receiving guidance on where to dwell?",
+      "options": ["Sage Bharadvaja's", "Sage Gautama's", "Sage Agastya's directly first", "Sage Valmiki's"],
+      "answer": 0,
+      "explanation": "Sage Bharadvaja at Prayaga welcomed them and directed them toward Chitrakuta to settle."
+    },
+    {
+      "id": "vanavasa-q18",
+      "difficulty": "medium",
+      "q": "On which hill did Rama, Sita, and Lakshmana first settle for a period during the exile?",
+      "options": ["Chitrakuta", "Rishyamukha", "Mount Mainaka", "Trikuta"],
+      "answer": 0,
+      "explanation": "They built a hermitage and lived for a time on Chitrakuta hill early in the exile."
+    },
+    {
+      "id": "vanavasa-q19",
+      "difficulty": "medium",
+      "q": "Why did Bharata come to the forest to meet Rama during the exile?",
+      "options": ["To beg Rama to return and rule Ayodhya", "To wage war against Rama", "To join Rama permanently in exile", "To inform Rama of a foreign invasion"],
+      "answer": 0,
+      "explanation": "Bharata, refusing the throne, traveled to Chitrakuta to plead with Rama to return as king."
+    },
+    {
+      "id": "vanavasa-q20",
+      "difficulty": "medium",
+      "q": "What did Bharata take back to Ayodhya to rule on Rama's behalf?",
+      "options": ["Rama's crown", "Rama's wooden sandals (paduka)", "Rama's bow", "A written decree from Rama"],
+      "answer": 1,
+      "explanation": "Bharata placed Rama's sandals on the throne and ruled as a regent in his name."
+    },
+    {
+      "id": "vanavasa-q21",
+      "difficulty": "medium",
+      "q": "Which event, caused by the exile, occurred in Ayodhya soon after Rama left?",
+      "options": ["The death of Dasharatha from grief", "The crowning of Lakshmana", "A war with Mithila", "The destruction of the palace"],
+      "answer": 0,
+      "explanation": "Dasharatha died of heartbreak shortly after Rama departed, unable to bear the separation."
+    },
+    {
+      "id": "vanavasa-q22",
+      "difficulty": "medium",
+      "q": "In which of the Ramayana's kandas (books) does the exile and the events leading to it primarily take place?",
+      "options": ["Bala Kanda", "Ayodhya Kanda", "Sundara Kanda", "Yuddha Kanda"],
+      "answer": 1,
+      "explanation": "The Ayodhya Kanda narrates Kaikeyi's demand and the beginning of Rama's exile."
+    },
+    {
+      "id": "vanavasa-q23",
+      "difficulty": "hard",
+      "q": "From which earlier event did Dasharatha owe Kaikeyi the two boons she used?",
+      "options": ["Her dowry agreement at marriage", "Her aid to him in a war between gods and demons", "A bet he lost to her", "A vow he made at Rama's birth"],
+      "answer": 1,
+      "explanation": "Kaikeyi had once saved Dasharatha on the battlefield against the asuras, earning the two boons he granted her."
+    },
+    {
+      "id": "vanavasa-q24",
+      "difficulty": "hard",
+      "q": "Near which river was the village of the Nishada chief Guha, where Rama spent a night before crossing?",
+      "options": ["The Sarayu at Ayodhya", "The Ganga at Shringaverapura", "The Godavari at Panchavati", "The Yamuna at Prayaga"],
+      "answer": 1,
+      "explanation": "Guha's town of Shringaverapura lay on the bank of the Ganga, where Rama rested before crossing."
+    },
+    {
+      "id": "vanavasa-q25",
+      "difficulty": "hard",
+      "q": "Which great sage of the Dandaka forest gave Rama celestial weapons during the exile?",
+      "options": ["Sage Agastya", "Sage Vishvamitra", "Sage Vasishtha", "Sage Bharadvaja"],
+      "answer": 0,
+      "explanation": "Sage Agastya gifted Rama divine weapons, including the bow of Vishnu, during his stay in the Dandaka forest."
+    },
+    {
+      "id": "vanavasa-q26",
+      "difficulty": "hard",
+      "q": "After Chitrakuta, in which forest region did Rama spend much of his exile among the ascetics?",
+      "options": ["The Naimisha forest", "The Dandaka forest", "The Khandava forest", "The Madhuvana"],
+      "answer": 1,
+      "explanation": "Rama moved into the vast Dandaka forest, visiting the hermitages of many sages there."
+    },
+    {
+      "id": "vanavasa-q27",
+      "difficulty": "hard",
+      "q": "On the advice of which sage did Rama finally settle at Panchavati during the exile?",
+      "options": ["Agastya", "Atri", "Sharabhanga", "Sutikshna"],
+      "answer": 0,
+      "explanation": "Sage Agastya advised Rama to build his hermitage at Panchavati on the Godavari river."
+    },
+    {
+      "id": "vanavasa-q28",
+      "difficulty": "hard",
+      "q": "At whose hermitage did Sita receive hospitality and counsel from the sage's devoted wife Anasuya during the exile?",
+      "options": ["Sage Atri's", "Sage Gautama's", "Sage Valmiki's", "Sage Vibhandaka's"],
+      "answer": 0,
+      "explanation": "At Sage Atri's hermitage, his wife Anasuya welcomed Sita and gave her gifts and advice on wifely devotion."
+    },
+    {
+      "id": "vanavasa-q29",
+      "difficulty": "hard",
+      "q": "Whose grief-stricken curse foreshadowed that Dasharatha too would die separated from his son, linking to the exile's outcome?",
+      "options": ["A blind ascetic couple whose son Shravana he had killed", "Sage Vishvamitra", "The demon Tataka", "King Janaka"],
+      "answer": 0,
+      "explanation": "Years earlier Dasharatha had accidentally killed the youth Shravana, whose grieving parents cursed him to die in sorrow over a son."
+    },
+    {
+      "id": "vanavasa-q30",
+      "difficulty": "hard",
+      "q": "What was the deeper significance of Rama refusing Bharata's plea to return early from exile?",
+      "options": ["He upheld dharma by honoring his father's word even after Dasharatha's death", "He distrusted Bharata's intentions", "He preferred forest life to ruling", "He feared the people of Ayodhya"],
+      "answer": 0,
+      "explanation": "Rama held that his father's word remained binding, completing the full term of exile as the highest duty of dharma."
+    }
+  ]
+}

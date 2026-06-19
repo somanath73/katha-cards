@@ -1,0 +1,245 @@
+{
+  "cardId": "kumbhakarna",
+  "questions": [
+    {
+      "id": "kumbhakarna-q01",
+      "difficulty": "easy",
+      "q": "Kumbhakarna is the brother of which demon king of Lanka?",
+      "options": ["Ravana", "Sugriva", "Vibhishana's son", "Indrajit"],
+      "answer": 0,
+      "explanation": "Kumbhakarna was the younger brother of Ravana, the ten-headed king of Lanka."
+    },
+    {
+      "id": "kumbhakarna-q02",
+      "difficulty": "easy",
+      "q": "What is Kumbhakarna best known for spending most of his time doing?",
+      "options": ["Meditating", "Sleeping", "Singing", "Farming"],
+      "answer": 1,
+      "explanation": "Kumbhakarna was famous for sleeping for months at a time due to a curse."
+    },
+    {
+      "id": "kumbhakarna-q03",
+      "difficulty": "easy",
+      "q": "Kumbhakarna is most often described as being remarkable for his enormous what?",
+      "options": ["Wealth", "Wisdom", "Size", "Speed"],
+      "answer": 2,
+      "explanation": "Kumbhakarna was a colossal giant of immense size and strength."
+    },
+    {
+      "id": "kumbhakarna-q04",
+      "difficulty": "easy",
+      "q": "In which epic does Kumbhakarna appear?",
+      "options": ["The Mahabharata", "The Ramayana", "The Bhagavata Purana", "The Rigveda"],
+      "answer": 1,
+      "explanation": "Kumbhakarna is a character in the Ramayana, the epic of Rama."
+    },
+    {
+      "id": "kumbhakarna-q05",
+      "difficulty": "easy",
+      "q": "On which island kingdom did Kumbhakarna live?",
+      "options": ["Lanka", "Kishkindha", "Ayodhya", "Mithila"],
+      "answer": 0,
+      "explanation": "Kumbhakarna lived in Lanka, the kingdom ruled by his brother Ravana."
+    },
+    {
+      "id": "kumbhakarna-q06",
+      "difficulty": "easy",
+      "q": "Who finally killed Kumbhakarna in battle?",
+      "options": ["Lakshmana", "Hanuman", "Rama", "Sugriva"],
+      "answer": 2,
+      "explanation": "Rama slew Kumbhakarna with his arrows during the war in Lanka."
+    },
+    {
+      "id": "kumbhakarna-q07",
+      "difficulty": "easy",
+      "q": "Kumbhakarna fought on which side during the war?",
+      "options": ["Rama's army", "Ravana's army", "He stayed neutral", "Vibhishana's allies"],
+      "answer": 1,
+      "explanation": "Kumbhakarna fought loyally for his brother Ravana's army of demons."
+    },
+    {
+      "id": "kumbhakarna-q08",
+      "difficulty": "easy",
+      "q": "What did Kumbhakarna do to enemy warriors on the battlefield?",
+      "options": ["Captured them politely", "Devoured them", "Healed them", "Ignored them"],
+      "answer": 1,
+      "explanation": "Kumbhakarna devoured enemy warriors by the score during the battle."
+    },
+    {
+      "id": "kumbhakarna-q09",
+      "difficulty": "easy",
+      "q": "Kumbhakarna belonged to which race of beings?",
+      "options": ["Vanaras", "Devas", "Rakshasas", "Nagas"],
+      "answer": 2,
+      "explanation": "Kumbhakarna was a rakshasa, the race of demons that ruled Lanka."
+    },
+    {
+      "id": "kumbhakarna-q10",
+      "difficulty": "easy",
+      "q": "Roughly how long would Kumbhakarna sleep at a stretch according to tradition?",
+      "options": ["A few hours", "Six months", "One day", "Ten years"],
+      "answer": 1,
+      "explanation": "By tradition Kumbhakarna slept for six months at a time before waking."
+    },
+    {
+      "id": "kumbhakarna-q11",
+      "difficulty": "medium",
+      "q": "Who were the parents of Kumbhakarna?",
+      "options": ["Vishrava and Kaikesi", "Sumali and Tataka", "Malyavan and Mandodari", "Vishrava and Ilavida"],
+      "answer": 0,
+      "explanation": "Kumbhakarna was born to the sage Vishrava and the rakshasi Kaikesi."
+    },
+    {
+      "id": "kumbhakarna-q12",
+      "difficulty": "medium",
+      "q": "When Brahma granted Kumbhakarna a boon, what did he actually ask for instead of 'Indrasana' (Indra's seat)?",
+      "options": ["Nidravasana (sleep)", "Immortality", "Endless wealth", "Invisibility"],
+      "answer": 0,
+      "explanation": "His tongue, twisted by the goddess Saraswati, made him ask for 'Nidravasana' (deep sleep) rather than 'Indrasana'."
+    },
+    {
+      "id": "kumbhakarna-q13",
+      "difficulty": "medium",
+      "q": "Which goddess influenced Kumbhakarna's tongue so that his boon request came out wrong?",
+      "options": ["Lakshmi", "Parvati", "Saraswati", "Durga"],
+      "answer": 2,
+      "explanation": "At the gods' request, Saraswati sat on his tongue so he mistakenly asked for perpetual sleep."
+    },
+    {
+      "id": "kumbhakarna-q14",
+      "difficulty": "medium",
+      "q": "How was Kumbhakarna roused from his deep sleep when Ravana needed him for war?",
+      "options": ["With a single whisper", "By a great clamor, elephants, and food", "By a magic spell from Indrajit", "He woke on his own"],
+      "answer": 1,
+      "explanation": "It took drums, trumpets, elephants trampling over him, and mountains of food to wake Kumbhakarna."
+    },
+    {
+      "id": "kumbhakarna-q15",
+      "difficulty": "medium",
+      "q": "What advice did Kumbhakarna give Ravana before going to fight?",
+      "options": ["To return Sita to Rama", "To surrender to the gods", "To flee Lanka at once", "To kill Vibhishana first"],
+      "answer": 0,
+      "explanation": "Kumbhakarna chided Ravana for abducting Sita and advised returning her, though he still fought out of loyalty."
+    },
+    {
+      "id": "kumbhakarna-q16",
+      "difficulty": "medium",
+      "q": "Which of Ravana's brothers defected to Rama's side, in contrast to the loyal Kumbhakarna?",
+      "options": ["Khara", "Vibhishana", "Dushana", "Ahiravana"],
+      "answer": 1,
+      "explanation": "Vibhishana left Ravana and joined Rama, while Kumbhakarna remained loyal to his brother."
+    },
+    {
+      "id": "kumbhakarna-q17",
+      "difficulty": "medium",
+      "q": "Which monkey hero did Kumbhakarna seize and carry off during the battle before being struck and dropped?",
+      "options": ["Angada", "Nala", "Sugriva", "Jambavan"],
+      "answer": 2,
+      "explanation": "Kumbhakarna grabbed the vanara king Sugriva, who later bit off his ear and nose to escape."
+    },
+    {
+      "id": "kumbhakarna-q18",
+      "difficulty": "medium",
+      "q": "How did Rama ultimately bring down the giant Kumbhakarna?",
+      "options": ["By burning him alive", "By severing his limbs and then beheading him with arrows", "By drowning him in the sea", "By trapping him in a net"],
+      "answer": 1,
+      "explanation": "Rama cut off Kumbhakarna's arms and legs with arrows, then beheaded him with a powerful divine shaft."
+    },
+    {
+      "id": "kumbhakarna-q19",
+      "difficulty": "medium",
+      "q": "Where did Kumbhakarna and his brothers perform the severe penance that earned them boons from Brahma?",
+      "options": ["Mount Gandhamadana", "Mount Kailash", "The forest near the Himalayas / Gokarna", "The island of Lanka"],
+      "answer": 2,
+      "explanation": "The three brothers performed long austerities in the wilderness (often placed near Gokarna/the Himalayas) to win Brahma's boons."
+    },
+    {
+      "id": "kumbhakarna-q20",
+      "difficulty": "medium",
+      "q": "What was the principal weapon Kumbhakarna wielded in battle?",
+      "options": ["A bow", "A trident or huge spear/mace", "A chakra", "A whip"],
+      "answer": 1,
+      "explanation": "Kumbhakarna fought wielding a massive spear, trident, or mace suited to his giant frame."
+    },
+    {
+      "id": "kumbhakarna-q21",
+      "difficulty": "medium",
+      "q": "Why did Brahma agree to grant the curse-like boon despite its danger?",
+      "options": ["He feared Kumbhakarna's strength would devastate the worlds if unchecked", "He owed Ravana a favor", "He was tricked by Vishnu", "He admired Kumbhakarna's wealth"],
+      "answer": 0,
+      "explanation": "The gods worried that an ever-awake Kumbhakarna would consume the three worlds, so the boon of long sleep restrained him."
+    },
+    {
+      "id": "kumbhakarna-q22",
+      "difficulty": "medium",
+      "q": "Before joining the main war, what did the freshly awakened Kumbhakarna consume in vast quantity?",
+      "options": ["Only water", "Mountains of food, meat, and pots of liquor", "Sacred herbs", "Nothing at all"],
+      "answer": 1,
+      "explanation": "Upon waking, Kumbhakarna devoured enormous heaps of food, meat, and drink to regain his strength."
+    },
+    {
+      "id": "kumbhakarna-q23",
+      "difficulty": "hard",
+      "q": "According to the boon's terms, what was the original arrangement of Kumbhakarna's sleeping and waking cycle?",
+      "options": ["Awake one day, asleep one day", "Asleep six months, awake for a single day", "Awake a year, asleep a month", "Always asleep, never waking"],
+      "answer": 1,
+      "explanation": "The boon set him to sleep for six months and remain awake for only one day before sleeping again."
+    },
+    {
+      "id": "kumbhakarna-q24",
+      "difficulty": "hard",
+      "q": "In Hindu tradition, Kumbhakarna and Ravana are said to be a cursed incarnation of which of Vishnu's gatekeepers?",
+      "options": ["Nandi and Bhringi", "Jaya and Vijaya", "Garuda and Aruna", "Hanuman and Sugriva"],
+      "answer": 1,
+      "explanation": "Tradition holds that Ravana and Kumbhakarna were the gatekeepers Jaya and Vijaya, cursed to be born as demons."
+    },
+    {
+      "id": "kumbhakarna-q25",
+      "difficulty": "hard",
+      "q": "What does the name 'Kumbhakarna' literally mean?",
+      "options": ["Pot-eared", "Iron-fisted", "Mountain-born", "Night-walker"],
+      "answer": 0,
+      "explanation": "The name Kumbhakarna translates as 'pot-eared,' from kumbha (pot) and karna (ear)."
+    },
+    {
+      "id": "kumbhakarna-q26",
+      "difficulty": "hard",
+      "q": "Which of Kumbhakarna's sons also fought and died in the war at Lanka?",
+      "options": ["Nikumbha and Kumbha", "Akshayakumara and Narantaka", "Atikaya and Trishira", "Prahasta and Mahodara"],
+      "answer": 0,
+      "explanation": "Kumbhakarna's sons Kumbha and Nikumbha fought for Ravana and were slain in the war."
+    },
+    {
+      "id": "kumbhakarna-q27",
+      "difficulty": "hard",
+      "q": "When Kumbhakarna fell, where did his colossal body crash?",
+      "options": ["Into Ravana's palace", "Into the sea, near the shore", "Onto Mount Trikuta's peak", "Into the Ashoka grove"],
+      "answer": 1,
+      "explanation": "Rama's arrow sent Kumbhakarna's severed head and body crashing down, his huge form falling into the sea by the shore."
+    },
+    {
+      "id": "kumbhakarna-q28",
+      "difficulty": "hard",
+      "q": "Besides Ravana, Kumbhakarna, and Vibhishana, which sister completed the famous siblings of this family?",
+      "options": ["Surasa", "Simhika", "Shurpanakha", "Ayomukhi"],
+      "answer": 2,
+      "explanation": "Shurpanakha, whose mutilation triggered much of the conflict, was the sister of Ravana and Kumbhakarna."
+    },
+    {
+      "id": "kumbhakarna-q29",
+      "difficulty": "hard",
+      "q": "What divine arrow or weapon did Rama invoke to finally behead the rampaging Kumbhakarna?",
+      "options": ["The Brahmastra-empowered shaft (associated with Indra/Vayu)", "The Pashupatastra", "The Sudarshana Chakra", "The Nagastra"],
+      "answer": 0,
+      "explanation": "Rama used a supremely powerful divine arrow (described as wind-swift and Brahma-empowered) to sever Kumbhakarna's head."
+    },
+    {
+      "id": "kumbhakarna-q30",
+      "difficulty": "hard",
+      "q": "What did the loyal yet doomed Kumbhakarna acknowledge about the war as he went to fight?",
+      "options": ["That victory was certain for Lanka", "That Ravana's cause was wrong but he would fight to repay his brother", "That he would switch sides at the last moment", "That the gods had promised him the throne"],
+      "answer": 1,
+      "explanation": "Kumbhakarna recognized Ravana had erred in seizing Sita, yet chose to die fighting for his brother out of duty."
+    }
+  ]
+}

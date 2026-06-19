@@ -1,0 +1,245 @@
+{
+  "cardId": "dandaka",
+  "questions": [
+    {
+      "id": "dandaka-q01",
+      "difficulty": "easy",
+      "q": "What kind of place is the Dandaka in the Ramayana?",
+      "options": ["A great forest", "A mountain palace", "An ocean city", "A desert kingdom"],
+      "answer": 0,
+      "explanation": "The Dandaka is the vast southern forest where Rama spent much of his exile."
+    },
+    {
+      "id": "dandaka-q02",
+      "difficulty": "easy",
+      "q": "During which period of Rama's life does he dwell in the Dandaka Forest?",
+      "options": ["His childhood", "His fourteen-year exile", "His coronation", "His old age"],
+      "answer": 1,
+      "explanation": "Rama, Sita, and Lakshmana entered the Dandaka while serving Rama's fourteen-year exile from Ayodhya."
+    },
+    {
+      "id": "dandaka-q03",
+      "difficulty": "easy",
+      "q": "Who accompanied Rama into the Dandaka Forest?",
+      "options": ["Bharata and Shatrughna", "Sita and Lakshmana", "Hanuman and Sugriva", "Vibhishana and Jambavan"],
+      "answer": 1,
+      "explanation": "Sita and Lakshmana journeyed with Rama through the forest of exile."
+    },
+    {
+      "id": "dandaka-q04",
+      "difficulty": "easy",
+      "q": "What sort of beings haunted the Dandaka Forest and troubled its inhabitants?",
+      "options": ["Rakshasas (demons)", "Friendly merchants", "Heavenly musicians", "Ocean serpents"],
+      "answer": 0,
+      "explanation": "The Dandaka was infested with rakshasas who terrorized the sages living there."
+    },
+    {
+      "id": "dandaka-q05",
+      "difficulty": "easy",
+      "q": "What did the Dandaka Forest contain besides demons, according to the Ramayana?",
+      "options": ["Royal courts", "Hermitages of sages", "Trading ports", "Battle fortresses"],
+      "answer": 1,
+      "explanation": "The forest was dotted with the ashrams (hermitages) of ascetic sages."
+    },
+    {
+      "id": "dandaka-q06",
+      "difficulty": "easy",
+      "q": "In which general direction from Ayodhya did the Dandaka Forest lie?",
+      "options": ["North", "South", "West across the sea", "Far east"],
+      "answer": 1,
+      "explanation": "The Dandaka is described as the great forest of the south."
+    },
+    {
+      "id": "dandaka-q07",
+      "difficulty": "easy",
+      "q": "What did Rama vow to do for the sages of the Dandaka Forest?",
+      "options": ["Protect them from rakshasas", "Build them a city", "Crown them as kings", "Lead them to the sea"],
+      "answer": 0,
+      "explanation": "Rama pledged to defend the forest's sages against the demons that tormented them."
+    },
+    {
+      "id": "dandaka-q08",
+      "difficulty": "easy",
+      "q": "From which famous demoness's encounter with Rama and Lakshmana does the war chain of events begin in the Dandaka?",
+      "options": ["Tataka", "Surpanakha", "Mandodari", "Trijata"],
+      "answer": 1,
+      "explanation": "Ravana's sister Surpanakha approached Rama in the Dandaka, setting off the events leading to Sita's abduction."
+    },
+    {
+      "id": "dandaka-q09",
+      "difficulty": "easy",
+      "q": "Which of these was a real danger faced by travelers in the Dandaka Forest?",
+      "options": ["Man-eating rakshasas", "Tax collectors", "Royal armies", "Pirate fleets"],
+      "answer": 0,
+      "explanation": "Flesh-eating rakshasas made the Dandaka a perilous wilderness."
+    },
+    {
+      "id": "dandaka-q10",
+      "difficulty": "easy",
+      "q": "What overall reputation did the Dandaka Forest have in the Ramayana?",
+      "options": ["A safe pilgrimage road", "A wild and dangerous wilderness", "A bustling capital", "A peaceful seaside resort"],
+      "answer": 1,
+      "explanation": "The Dandaka was renowned as a vast, dangerous wilderness full of demons."
+    },
+    {
+      "id": "dandaka-q11",
+      "difficulty": "medium",
+      "q": "Which fierce rakshasa seized Rama and Lakshmana in his arms early in the Dandaka and was slain and buried by them?",
+      "options": ["Viradha", "Khara", "Maricha", "Kabandha"],
+      "answer": 0,
+      "explanation": "Viradha, a rakshasa of the Dandaka, grabbed the brothers but was killed and buried in a pit."
+    },
+    {
+      "id": "dandaka-q12",
+      "difficulty": "medium",
+      "q": "At whose hermitage in the Dandaka region did Rama receive celestial weapons, including a bow, before settling deeper in the forest?",
+      "options": ["Sage Agastya", "Sage Vasishtha", "Sage Vishwamitra", "Sage Bharadwaja"],
+      "answer": 0,
+      "explanation": "The sage Agastya, the great seer of the south, gave Rama divine weapons including Vishnu's bow."
+    },
+    {
+      "id": "dandaka-q13",
+      "difficulty": "medium",
+      "q": "On the advice of which sage did Rama settle at Panchavati within the Dandaka region?",
+      "options": ["Agastya", "Atri", "Sharabhanga", "Markandeya"],
+      "answer": 0,
+      "explanation": "Agastya recommended Panchavati as a pleasant and suitable place for Rama to build a hermitage."
+    },
+    {
+      "id": "dandaka-q14",
+      "difficulty": "medium",
+      "q": "Near which river was Rama's hermitage at Panchavati, in the Dandaka, located?",
+      "options": ["The Godavari", "The Ganga", "The Yamuna", "The Sarayu"],
+      "answer": 0,
+      "explanation": "Panchavati lay on the banks of the Godavari river in the Dandaka."
+    },
+    {
+      "id": "dandaka-q15",
+      "difficulty": "medium",
+      "q": "Which rakshasa commander, brother of Surpanakha, led an army against Rama in the Dandaka and was defeated?",
+      "options": ["Khara", "Indrajit", "Kumbhakarna", "Prahasta"],
+      "answer": 0,
+      "explanation": "Khara, ruling at Janasthana in the Dandaka, attacked Rama with his host and was slain."
+    },
+    {
+      "id": "dandaka-q16",
+      "difficulty": "medium",
+      "q": "How many rakshasas did Rama reportedly destroy almost single-handedly at Janasthana in the Dandaka?",
+      "options": ["Fourteen thousand", "One hundred", "Five hundred", "One million"],
+      "answer": 0,
+      "explanation": "Rama slew Khara's force of fourteen thousand rakshasas at Janasthana."
+    },
+    {
+      "id": "dandaka-q17",
+      "difficulty": "medium",
+      "q": "Which two rakshasa brothers fought alongside Khara against Rama in the Dandaka?",
+      "options": ["Dushana and Trishira", "Vali and Sugriva", "Nala and Nila", "Mainda and Dvivida"],
+      "answer": 0,
+      "explanation": "Dushana and Trishira commanded forces with Khara and were killed by Rama."
+    },
+    {
+      "id": "dandaka-q18",
+      "difficulty": "medium",
+      "q": "Which golden deer, a disguised rakshasa, lured Rama away from his Dandaka hermitage?",
+      "options": ["Maricha", "Subahu", "Akampana", "Vidyujjihva"],
+      "answer": 0,
+      "explanation": "The rakshasa Maricha took the form of a golden deer to draw Rama away so Ravana could seize Sita."
+    },
+    {
+      "id": "dandaka-q19",
+      "difficulty": "medium",
+      "q": "From which forest hermitage was Sita abducted by Ravana?",
+      "options": ["Panchavati", "Chitrakuta", "Kishkindha", "Lanka"],
+      "answer": 0,
+      "explanation": "Sita was carried off by Ravana from Rama's hermitage at Panchavati in the Dandaka."
+    },
+    {
+      "id": "dandaka-q20",
+      "difficulty": "medium",
+      "q": "Which noble vulture-king fought Ravana while trying to rescue Sita as she was carried over the Dandaka?",
+      "options": ["Jatayu", "Sampati", "Garuda", "Kabandha"],
+      "answer": 0,
+      "explanation": "Jatayu, the aged vulture-king and friend of Dasharatha, battled Ravana to save Sita and was mortally wounded."
+    },
+    {
+      "id": "dandaka-q21",
+      "difficulty": "medium",
+      "q": "At which sage's hermitage in the Dandaka did Sita receive ornaments and a celestial garment from the sage's wife?",
+      "options": ["Atri (and Anasuya)", "Agastya (and Lopamudra)", "Gautama (and Ahalya)", "Vasishtha (and Arundhati)"],
+      "answer": 0,
+      "explanation": "At the hermitage of sage Atri, his devoted wife Anasuya gave Sita divine ornaments and unfading garments."
+    },
+    {
+      "id": "dandaka-q22",
+      "difficulty": "medium",
+      "q": "What did Rama find at one ascetic settlement in the Dandaka that revealed how rakshasas had devoured many sages?",
+      "options": ["A heap of ascetics' bones", "A ruined palace", "A buried treasure", "A magical mirror"],
+      "answer": 0,
+      "explanation": "Rama was shown a great mound of bones of hermits consumed by the rakshasas, strengthening his vow to protect them."
+    },
+    {
+      "id": "dandaka-q23",
+      "difficulty": "hard",
+      "q": "Which headless, long-armed rakshasa did Rama and Lakshmana encounter and slay in the Dandaka, freeing him from a curse?",
+      "options": ["Kabandha", "Viradha", "Maricha", "Akampana"],
+      "answer": 0,
+      "explanation": "The cursed rakshasa Kabandha was slain and cremated, regaining his celestial form and advising Rama to seek Sugriva."
+    },
+    {
+      "id": "dandaka-q24",
+      "difficulty": "hard",
+      "q": "After being freed in the Dandaka, whom did Kabandha advise Rama to seek as an ally?",
+      "options": ["Sugriva", "Vibhishana", "Vali", "Guha"],
+      "answer": 0,
+      "explanation": "Kabandha directed Rama to ally with the vanara Sugriva, who could help find Sita."
+    },
+    {
+      "id": "dandaka-q25",
+      "difficulty": "hard",
+      "q": "Which female ascetic devotee, who had long awaited Rama, did he meet in the Dandaka before leaving for Kishkindha?",
+      "options": ["Shabari", "Ahalya", "Anasuya", "Swayamprabha"],
+      "answer": 0,
+      "explanation": "Shabari, an aged devotee at Matanga's hermitage, welcomed Rama and attained liberation after meeting him."
+    },
+    {
+      "id": "dandaka-q26",
+      "difficulty": "hard",
+      "q": "Which sage of the Dandaka entered fire and ascended to heaven, satisfied after having Rama's darshan?",
+      "options": ["Sharabhanga", "Sutikshna", "Agastya", "Atri"],
+      "answer": 0,
+      "explanation": "The sage Sharabhanga, having seen Rama, gave up his body in fire and rose to Brahma's world."
+    },
+    {
+      "id": "dandaka-q27",
+      "difficulty": "hard",
+      "q": "Which devoted ascetic in the Dandaka offered to give Rama all the merit of his austerities and pointed him toward Agastya?",
+      "options": ["Sutikshna", "Sharabhanga", "Mandakarni", "Trinabindu"],
+      "answer": 0,
+      "explanation": "The sage Sutikshna, a disciple of Agastya, received Rama warmly and directed him onward in the Dandaka."
+    },
+    {
+      "id": "dandaka-q28",
+      "difficulty": "hard",
+      "q": "By what name is the specific region of the Dandaka where Khara ruled and Panchavati lay often known?",
+      "options": ["Janasthana", "Naimisha", "Kamyaka", "Dvaitavana"],
+      "answer": 0,
+      "explanation": "Janasthana was the part of the Dandaka where Khara's rakshasas held sway, near Panchavati."
+    },
+    {
+      "id": "dandaka-q29",
+      "difficulty": "hard",
+      "q": "According to tradition, the Dandaka Forest is named after Danda, a son of which solar-dynasty king?",
+      "options": ["Ikshvaku", "Dasharatha", "Sagara", "Raghu"],
+      "answer": 0,
+      "explanation": "Tradition holds the forest is named for Danda, a son of King Ikshvaku, whose realm was cursed into wilderness."
+    },
+    {
+      "id": "dandaka-q30",
+      "difficulty": "hard",
+      "q": "The Dandaka region is traditionally associated with which broad part of the Indian subcontinent?",
+      "options": ["The Deccan and central forests", "The Himalayan north", "The western coastal islands", "The eastern Gangetic delta"],
+      "answer": 0,
+      "explanation": "The Dandaka is traditionally identified with the forested central and Deccan regions of southern India."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "lanka",
+  "questions": [
+    {
+      "id": "lanka-q01",
+      "difficulty": "easy",
+      "q": "Which demon-king ruled the city of Lanka in the Ramayana?",
+      "options": ["Ravana", "Vali", "Sugriva", "Bharata"],
+      "answer": 0,
+      "explanation": "Lanka was the capital and stronghold of the ten-headed rakshasa emperor Ravana."
+    },
+    {
+      "id": "lanka-q02",
+      "difficulty": "easy",
+      "q": "Lanka is most famously described as a city gleaming with what precious material?",
+      "options": ["Iron", "Gold", "Silver", "Bronze"],
+      "answer": 1,
+      "explanation": "Lanka is celebrated in the epic as a golden city radiant with wealth."
+    },
+    {
+      "id": "lanka-q03",
+      "difficulty": "easy",
+      "q": "Lanka was surrounded on all sides by what natural barrier?",
+      "options": ["A desert", "A mountain range", "The sea", "A dense jungle"],
+      "answer": 2,
+      "explanation": "Lanka was an island-fortress ringed by the ocean, separating it from the mainland."
+    },
+    {
+      "id": "lanka-q04",
+      "difficulty": "easy",
+      "q": "Who were the demon-folk that inhabited Lanka?",
+      "options": ["Vanaras", "Gandharvas", "Yakshas", "Rakshasas"],
+      "answer": 3,
+      "explanation": "Lanka was the home of the rakshasas, the demon race over whom Ravana ruled."
+    },
+    {
+      "id": "lanka-q05",
+      "difficulty": "easy",
+      "q": "Which captive princess was held in Lanka after being abducted?",
+      "options": ["Sita", "Urmila", "Tara", "Mandodari"],
+      "answer": 0,
+      "explanation": "Ravana carried Sita to Lanka and held her captive, the act that triggered the war."
+    },
+    {
+      "id": "lanka-q06",
+      "difficulty": "easy",
+      "q": "Which devoted vanara first leapt across the ocean to reach Lanka in search of Sita?",
+      "options": ["Angada", "Hanuman", "Jambavan", "Nala"],
+      "answer": 1,
+      "explanation": "Hanuman made the great leap over the sea to Lanka to find Sita."
+    },
+    {
+      "id": "lanka-q07",
+      "difficulty": "easy",
+      "q": "In which grove within Lanka was Sita kept captive?",
+      "options": ["Panchavati", "Ashoka Vatika", "Dandaka", "Chitrakoot"],
+      "answer": 1,
+      "explanation": "Sita was confined in the Ashoka Vatika, a grove of ashoka trees in Lanka."
+    },
+    {
+      "id": "lanka-q08",
+      "difficulty": "easy",
+      "q": "Whose army crossed the sea to lay siege to Lanka?",
+      "options": ["Rama's army of vanaras", "Ravana's rakshasa army", "Indra's celestial army", "Janaka's soldiers"],
+      "answer": 0,
+      "explanation": "Rama led an army of vanaras and bears across the sea to besiege Lanka."
+    },
+    {
+      "id": "lanka-q09",
+      "difficulty": "easy",
+      "q": "What did Hanuman set on fire during his visit to Lanka?",
+      "options": ["The ocean", "Rama's bridge", "The golden city of Lanka", "The Ashoka grove only"],
+      "answer": 2,
+      "explanation": "With his burning tail, Hanuman set the golden city of Lanka ablaze before leaping home."
+    },
+    {
+      "id": "lanka-q10",
+      "difficulty": "easy",
+      "q": "Who became the new king of Lanka after Ravana was slain?",
+      "options": ["Kumbhakarna", "Indrajit", "Vibhishana", "Prahasta"],
+      "answer": 2,
+      "explanation": "Vibhishana, Ravana's righteous brother who joined Rama, was crowned king of Lanka."
+    },
+    {
+      "id": "lanka-q11",
+      "difficulty": "medium",
+      "q": "According to tradition, who was the original builder or possessor of Lanka before Ravana seized it?",
+      "options": ["Kubera", "Vishvakarma alone", "Maya", "Indra"],
+      "answer": 0,
+      "explanation": "Lanka was held by Kubera, the god of wealth, before his half-brother Ravana drove him out and took it."
+    },
+    {
+      "id": "lanka-q12",
+      "difficulty": "medium",
+      "q": "Which divine architect is traditionally credited with constructing the golden city of Lanka?",
+      "options": ["Nala", "Vishvakarma", "Maya Danava", "Brahma"],
+      "answer": 1,
+      "explanation": "The celestial craftsman Vishvakarma is said to have built the magnificent golden Lanka."
+    },
+    {
+      "id": "lanka-q13",
+      "difficulty": "medium",
+      "q": "Lanka was situated at the southern peak of which mountain in the epic's geography?",
+      "options": ["Mount Mahendra", "Mount Meru", "Mount Trikuta", "Mount Mandara"],
+      "answer": 2,
+      "explanation": "The city of Lanka stood upon the heights of Mount Trikuta, the three-peaked mountain."
+    },
+    {
+      "id": "lanka-q14",
+      "difficulty": "medium",
+      "q": "Who was the guardian deity or spirit of Lanka whom Hanuman defeated to enter the city?",
+      "options": ["Surasa", "Lankini", "Trijata", "Simhika"],
+      "answer": 1,
+      "explanation": "Lankini, the female guardian spirit of the city's gates, was struck by Hanuman as he entered Lanka."
+    },
+    {
+      "id": "lanka-q15",
+      "difficulty": "medium",
+      "q": "Which kindly rakshasi in Lanka comforted Sita with a reassuring dream of Rama's victory?",
+      "options": ["Mandodari", "Shurpanakha", "Trijata", "Tataka"],
+      "answer": 2,
+      "explanation": "Trijata, a gentle demoness among Sita's guards, told of a dream foretelling Ravana's fall."
+    },
+    {
+      "id": "lanka-q16",
+      "difficulty": "medium",
+      "q": "Who was Ravana's chief queen residing in Lanka?",
+      "options": ["Mandodari", "Tara", "Trijata", "Sulochana"],
+      "answer": 0,
+      "explanation": "Mandodari was the wise and virtuous chief queen of Ravana in Lanka."
+    },
+    {
+      "id": "lanka-q17",
+      "difficulty": "medium",
+      "q": "What token did Hanuman carry to Sita in Lanka to prove he came from Rama?",
+      "options": ["A garland", "Rama's signet ring", "A bow", "A letter"],
+      "answer": 1,
+      "explanation": "Hanuman showed Sita Rama's signet ring as proof of his mission."
+    },
+    {
+      "id": "lanka-q18",
+      "difficulty": "medium",
+      "q": "Which crest-jewel did Sita entrust to Hanuman in Lanka to carry back to Rama?",
+      "options": ["The Kaustubha", "The Syamantaka", "The Chudamani", "The Naga-mani"],
+      "answer": 2,
+      "explanation": "Sita gave Hanuman her Chudamani, a hair-jewel, as a sign she still lived."
+    },
+    {
+      "id": "lanka-q19",
+      "difficulty": "medium",
+      "q": "By what means did Rama's army finally reach the island of Lanka across the sea?",
+      "options": ["A fleet of boats", "A bridge of stones (Setu)", "Flying chariots", "An underground tunnel"],
+      "answer": 1,
+      "explanation": "The vanaras built a causeway of stones, the Setu, across the ocean to Lanka."
+    },
+    {
+      "id": "lanka-q20",
+      "difficulty": "medium",
+      "q": "Which colossal sleeping brother of Ravana was roused to defend Lanka in battle?",
+      "options": ["Vibhishana", "Kumbhakarna", "Khara", "Maricha"],
+      "answer": 1,
+      "explanation": "Kumbhakarna, cursed to sleep for long periods, was awakened to fight for Lanka."
+    },
+    {
+      "id": "lanka-q21",
+      "difficulty": "medium",
+      "q": "Which son of Ravana, a master of illusion, was a chief defender of Lanka and slain by Lakshmana?",
+      "options": ["Angada", "Indrajit", "Prahasta", "Akampana"],
+      "answer": 1,
+      "explanation": "Indrajit (Meghnad), Ravana's sorcerer-son, defended Lanka until Lakshmana killed him."
+    },
+    {
+      "id": "lanka-q22",
+      "difficulty": "medium",
+      "q": "Which of Ravana's brothers urged returning Sita and was cast out of Lanka for it?",
+      "options": ["Kumbhakarna", "Vibhishana", "Khara", "Dushana"],
+      "answer": 1,
+      "explanation": "Vibhishana counselled returning Sita, was exiled from Lanka, and joined Rama."
+    },
+    {
+      "id": "lanka-q23",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, how far across the sea was Lanka said to lie from the mainland shore?",
+      "options": ["Ten yojanas", "Fifty yojanas", "One hundred yojanas", "One thousand yojanas"],
+      "answer": 2,
+      "explanation": "Lanka was described as lying a hundred yojanas across the ocean, the span of Hanuman's leap."
+    },
+    {
+      "id": "lanka-q24",
+      "difficulty": "hard",
+      "q": "Whom did Ravana defeat to take Lanka and the Pushpaka Vimana for himself?",
+      "options": ["His half-brother Kubera", "His brother Vibhishana", "The god Varuna", "The sage Vishrava"],
+      "answer": 0,
+      "explanation": "Ravana wrested Lanka and the flying Pushpaka chariot from his half-brother Kubera."
+    },
+    {
+      "id": "lanka-q25",
+      "difficulty": "hard",
+      "q": "Who was Ravana's veteran commander-in-chief and chief minister who fell defending Lanka?",
+      "options": ["Akampana", "Prahasta", "Atikaya", "Mahaparshva"],
+      "answer": 1,
+      "explanation": "Prahasta, Ravana's seasoned general and minister, was slain by the vanaras before Lanka's walls."
+    },
+    {
+      "id": "lanka-q26",
+      "difficulty": "hard",
+      "q": "Through which gate of Lanka, in tradition, did the host commanded directly by Rama's allies make their main assault?",
+      "options": ["The eastern gate", "The northern gate", "The southern gate", "The western gate"],
+      "answer": 1,
+      "explanation": "Tradition holds the principal assault came against the northern gate, where Ravana himself often stood."
+    },
+    {
+      "id": "lanka-q27",
+      "difficulty": "hard",
+      "q": "What was the original name said to have been given to the island of Lanka when it was first the abode of Kubera?",
+      "options": ["Trikuta", "Tamraparni", "Suvarnabhumi", "Simhaladvipa"],
+      "answer": 0,
+      "explanation": "The fortress city stood on Mount Trikuta, the three-peaked mount on which golden Lanka was raised."
+    },
+    {
+      "id": "lanka-q28",
+      "difficulty": "hard",
+      "q": "Which sea-demoness, dwelling in the waters on the way to Lanka, seized creatures by their shadows and was slain by Hanuman?",
+      "options": ["Surasa", "Simhika", "Lankini", "Trijata"],
+      "answer": 1,
+      "explanation": "Simhika, the shadow-catching sea-demon, was destroyed by Hanuman during his crossing to Lanka."
+    },
+    {
+      "id": "lanka-q29",
+      "difficulty": "hard",
+      "q": "Which divine weapon did Rama finally use to slay Ravana and end the war over Lanka?",
+      "options": ["The Naga-pasha", "The Pashupatastra", "The Brahmastra", "The Vajra"],
+      "answer": 2,
+      "explanation": "Rama loosed the irresistible Brahmastra to slay Ravana and free the world of his tyranny."
+    },
+    {
+      "id": "lanka-q30",
+      "difficulty": "hard",
+      "q": "After the fall of Lanka, on which aerial chariot did Rama and Sita return to Ayodhya?",
+      "options": ["The Pushpaka Vimana", "Garuda", "Indra's chariot Matali", "The Vimana of Kubera anew"],
+      "answer": 0,
+      "explanation": "Rama, Sita, and their companions flew home to Ayodhya aboard the Pushpaka Vimana taken from Ravana."
+    }
+  ]
+}

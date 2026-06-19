@@ -1,0 +1,245 @@
+{
+  "cardId": "vali",
+  "questions": [
+    {
+      "id": "vali-q01",
+      "difficulty": "easy",
+      "q": "Vali was the king of which kingdom in the Ramayana?",
+      "options": ["Kishkindha", "Lanka", "Ayodhya", "Mithila"],
+      "answer": 0,
+      "explanation": "Vali ruled the vanara (monkey) kingdom of Kishkindha before his brother Sugriva."
+    },
+    {
+      "id": "vali-q02",
+      "difficulty": "easy",
+      "q": "What kind of being was Vali?",
+      "options": ["A rakshasa", "A vanara (monkey)", "A human king", "A naga"],
+      "answer": 1,
+      "explanation": "Vali was a mighty vanara, one of the monkey-folk of the Ramayana."
+    },
+    {
+      "id": "vali-q03",
+      "difficulty": "easy",
+      "q": "Vali was the brother of which exiled vanara who allied with Rama?",
+      "options": ["Hanuman", "Angada", "Sugriva", "Jambavan"],
+      "answer": 2,
+      "explanation": "Vali was the elder brother of Sugriva, whom he drove out of Kishkindha."
+    },
+    {
+      "id": "vali-q04",
+      "difficulty": "easy",
+      "q": "Who ultimately slew Vali in the Ramayana?",
+      "options": ["Lakshmana", "Sugriva", "Rama", "Hanuman"],
+      "answer": 2,
+      "explanation": "Rama killed Vali to restore Sugriva to the throne of Kishkindha."
+    },
+    {
+      "id": "vali-q05",
+      "difficulty": "easy",
+      "q": "Vali was famed above all for what quality?",
+      "options": ["His immense strength", "His magical illusions", "His wealth of gold", "His skill in poetry"],
+      "answer": 0,
+      "explanation": "Vali was renowned as an immensely strong vanara, nearly unbeatable in single combat."
+    },
+    {
+      "id": "vali-q06",
+      "difficulty": "easy",
+      "q": "On whose behalf did Rama kill Vali?",
+      "options": ["Lakshmana", "Sugriva", "Hanuman", "Vibhishana"],
+      "answer": 1,
+      "explanation": "Rama slew Vali to right the wrong done to Sugriva and restore his kingship."
+    },
+    {
+      "id": "vali-q07",
+      "difficulty": "easy",
+      "q": "What was the relationship between Vali and Sugriva?",
+      "options": ["Father and son", "Brothers", "Master and servant", "Cousins"],
+      "answer": 1,
+      "explanation": "Vali and Sugriva were brothers who became bitter rivals over the throne of Kishkindha."
+    },
+    {
+      "id": "vali-q08",
+      "difficulty": "easy",
+      "q": "What special boon did Vali possess when fighting an enemy face to face?",
+      "options": ["He could turn invisible", "He drained half his foe's strength", "He could not be wounded by arrows", "He could multiply into many forms"],
+      "answer": 1,
+      "explanation": "Vali was blessed so that any foe who faced him lost half their strength to him."
+    },
+    {
+      "id": "vali-q09",
+      "difficulty": "easy",
+      "q": "Vali's story unfolds in which part of Rama's life?",
+      "options": ["His childhood in Ayodhya", "His forest exile, during the search for Sita", "After his coronation as king", "Before his marriage to Sita"],
+      "answer": 1,
+      "explanation": "Rama met Sugriva and slew Vali during the exile while searching for the abducted Sita."
+    },
+    {
+      "id": "vali-q10",
+      "difficulty": "easy",
+      "q": "Who was Vali's wife, the wise queen of Kishkindha?",
+      "options": ["Tara", "Mandodari", "Ruma", "Trijata"],
+      "answer": 0,
+      "explanation": "Tara was Vali's wise and eloquent queen, famed for her counsel and her grief."
+    },
+    {
+      "id": "vali-q11",
+      "difficulty": "medium",
+      "q": "Who was Vali's valiant son, later a commander in Rama's army?",
+      "options": ["Angada", "Nala", "Nila", "Dvivida"],
+      "answer": 0,
+      "explanation": "Angada, son of Vali and Tara, became a chief vanara commander and an envoy to Ravana."
+    },
+    {
+      "id": "vali-q12",
+      "difficulty": "medium",
+      "q": "Vali was said to be the son of which deity?",
+      "options": ["Indra", "Surya", "Vayu", "Agni"],
+      "answer": 0,
+      "explanation": "Vali was traditionally regarded as the son of Indra, king of the gods."
+    },
+    {
+      "id": "vali-q13",
+      "difficulty": "medium",
+      "q": "Sugriva, Vali's brother, was traditionally said to be the son of which deity?",
+      "options": ["Varuna", "Surya (the Sun)", "Yama", "Kubera"],
+      "answer": 1,
+      "explanation": "Sugriva was regarded as the son of Surya, the sun-god, while Vali was the son of Indra."
+    },
+    {
+      "id": "vali-q14",
+      "difficulty": "medium",
+      "q": "How did Rama strike Vali during the duel between Vali and Sugriva?",
+      "options": ["In open single combat", "With an arrow shot from concealment", "By wrestling him to the ground", "With a celestial mace"],
+      "answer": 1,
+      "explanation": "Rama struck Vali with an arrow from hiding while Vali was dueling Sugriva, a deed long debated for its dharma."
+    },
+    {
+      "id": "vali-q15",
+      "difficulty": "medium",
+      "q": "Whose death was avenged when Vali was killed, in terms of restoring justice?",
+      "options": ["The wrong of Sugriva being driven from his throne and wife", "The death of Jatayu", "The abduction of Sita", "The disfiguring of Shurpanakha"],
+      "answer": 0,
+      "explanation": "Rama killed Vali to right the wrong Vali had done Sugriva, who had been exiled and robbed of his wife."
+    },
+    {
+      "id": "vali-q16",
+      "difficulty": "medium",
+      "q": "Why was Sugriva afraid to fight Vali alone before allying with Rama?",
+      "options": ["Vali commanded a vast demon army", "Vali's boon drained half of any foe's strength", "Vali wielded an indestructible bow", "Vali could not be seen by daylight"],
+      "answer": 1,
+      "explanation": "Because Vali's boon stole half the strength of anyone who faced him, Sugriva could not defeat him unaided."
+    },
+    {
+      "id": "vali-q17",
+      "difficulty": "medium",
+      "q": "What was the original cause of the quarrel between Vali and Sugriva?",
+      "options": ["A dispute over a golden deer", "A misunderstanding after Vali chased the demon Mayavi into a cave", "A contest for Tara's hand", "An argument over tribute to Ravana"],
+      "answer": 1,
+      "explanation": "Vali pursued the demon Mayavi into a cave; Sugriva, believing Vali dead, sealed it and took the throne, sparking their feud."
+    },
+    {
+      "id": "vali-q18",
+      "difficulty": "medium",
+      "q": "After Vali's death, who ascended the throne of Kishkindha?",
+      "options": ["Angada", "Sugriva", "Hanuman", "Jambavan"],
+      "answer": 1,
+      "explanation": "With Vali slain, Sugriva was restored as king of Kishkindha and allied with Rama."
+    },
+    {
+      "id": "vali-q19",
+      "difficulty": "medium",
+      "q": "Which mighty rakshasa had Vali once defeated and humbled, according to tradition?",
+      "options": ["Ravana", "Kumbhakarna", "Indrajit", "Khara"],
+      "answer": 0,
+      "explanation": "Tradition holds that Vali was so powerful he overcame and humbled even Ravana, the ten-headed king of Lanka."
+    },
+    {
+      "id": "vali-q20",
+      "difficulty": "medium",
+      "q": "What golden ornament given by Indra did Vali wear, which helped sustain him in battle?",
+      "options": ["A divine sword", "A golden necklace (chain)", "A jeweled crown", "A serpent armlet"],
+      "answer": 1,
+      "explanation": "Vali wore a golden chain or necklace given by Indra that granted him added strength in combat."
+    },
+    {
+      "id": "vali-q21",
+      "difficulty": "medium",
+      "q": "When Sugriva first challenged Vali, why did Rama fail to shoot Vali in the first duel?",
+      "options": ["Rama's bow had broken", "Vali and Sugriva looked so alike that Rama could not tell them apart", "Vali fled the field before the duel", "Lakshmana stopped Rama from shooting"],
+      "answer": 1,
+      "explanation": "The two brothers resembled each other so closely that Rama could not distinguish them, so Sugriva was sent back wearing a garland for the second duel."
+    },
+    {
+      "id": "vali-q22",
+      "difficulty": "medium",
+      "q": "How did Sugriva mark himself for the second duel so Rama could identify him against Vali?",
+      "options": ["He carried a torch", "He wore a garland of flowers around his neck", "He painted his face white", "He tied a banner to his arm"],
+      "answer": 1,
+      "explanation": "Sugriva wore a flower garland (given by Lakshmana) so Rama could tell him apart from Vali."
+    },
+    {
+      "id": "vali-q23",
+      "difficulty": "hard",
+      "q": "By what name was the cave-dwelling demon whose pursuit led to the Vali-Sugriva feud known?",
+      "options": ["Mayavi (son of Maya)", "Dundubhi alone", "Mahodara", "Akampana"],
+      "answer": 0,
+      "explanation": "Vali chased Mayavi, son of Maya, into a cave, and the events that followed split the brothers."
+    },
+    {
+      "id": "vali-q24",
+      "difficulty": "hard",
+      "q": "Which buffalo-shaped demon did Vali slay, an exploit demonstrating his great strength?",
+      "options": ["Dundubhi", "Mayavi", "Virupaksha", "Trishira"],
+      "answer": 0,
+      "explanation": "Vali killed the buffalo-demon Dundubhi and hurled his carcass a great distance, a sign of his immense power."
+    },
+    {
+      "id": "vali-q25",
+      "difficulty": "hard",
+      "q": "How did Rama justify killing Vali from concealment when Vali reproached him before dying?",
+      "options": ["He claimed Vali was an enemy of the gods", "He argued Vali had transgressed dharma by taking his brother's wife, and that men may hunt beasts thus", "He said Sugriva had ordered it", "He denied he had fired the arrow"],
+      "answer": 1,
+      "explanation": "Rama answered that Vali had sinned by seizing Sugriva's wife and that, as a king upholding dharma, he was justified in punishing him."
+    },
+    {
+      "id": "vali-q26",
+      "difficulty": "hard",
+      "q": "Whose wife had Vali taken, a transgression Rama cited to justify the slaying?",
+      "options": ["Sugriva's wife Ruma", "Tara, his own wife", "Mandodari", "Angada's mother only"],
+      "answer": 0,
+      "explanation": "Rama charged that Vali had wrongly taken Ruma, the wife of his living brother Sugriva, violating dharma."
+    },
+    {
+      "id": "vali-q27",
+      "difficulty": "hard",
+      "q": "Where did the dying Vali ask that Tara and Angada be entrusted after his death?",
+      "options": ["To Hanuman's care", "To the care and protection of Sugriva", "To exile in the forest", "To Rama himself"],
+      "answer": 1,
+      "explanation": "Before dying, Vali reconciled and entrusted his son Angada and queen Tara to Sugriva's care."
+    },
+    {
+      "id": "vali-q28",
+      "difficulty": "hard",
+      "q": "Vali was struck down on the slopes of which hill, near Sugriva's refuge?",
+      "options": ["Mount Mahendra", "Rishyamukha", "Chitrakoot", "Mount Malyavan"],
+      "answer": 1,
+      "explanation": "Sugriva sheltered at Rishyamukha, where Vali could not follow due to a curse, and the fatal duel took place near Kishkindha by that region."
+    },
+    {
+      "id": "vali-q29",
+      "difficulty": "hard",
+      "q": "Why could Vali not pursue Sugriva onto Mount Rishyamukha?",
+      "options": ["A curse from the sage Matanga forbade Vali from entering that hill", "The hill was guarded by Hanuman", "Rama's arrows ringed the hill", "Vali had sworn an oath never to climb it"],
+      "answer": 0,
+      "explanation": "The sage Matanga had cursed Vali that he would die if he set foot on Rishyamukha, so Sugriva was safe there."
+    },
+    {
+      "id": "vali-q30",
+      "difficulty": "hard",
+      "q": "What did Vali's wise queen Tara famously do as Vali went out to his final duel?",
+      "options": ["She warned him not to fight, suspecting Rama's alliance with Sugriva", "She joined the duel herself", "She fled Kishkindha with Angada", "She summoned an army of bears"],
+      "answer": 0,
+      "explanation": "Tara wisely cautioned Vali against fighting Sugriva, fearing the hidden support of Rama, but Vali ignored her counsel."
+    }
+  ]
+}

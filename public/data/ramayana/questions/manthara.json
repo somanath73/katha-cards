@@ -1,0 +1,245 @@
+{
+  "cardId": "manthara",
+  "questions": [
+    {
+      "id": "manthara-q01",
+      "difficulty": "easy",
+      "q": "Whose personal maidservant was Manthara?",
+      "options": ["Kausalya", "Kaikeyi", "Sumitra", "Sita"],
+      "answer": 1,
+      "explanation": "Manthara was the trusted hunchbacked maidservant of Queen Kaikeyi."
+    },
+    {
+      "id": "manthara-q02",
+      "difficulty": "easy",
+      "q": "What distinctive physical feature is Manthara traditionally described as having?",
+      "options": ["A hunched back", "A blind eye", "A limping leg", "A withered hand"],
+      "answer": 0,
+      "explanation": "Manthara is famously described as a hunchback, which is why she is often called the crooked maid."
+    },
+    {
+      "id": "manthara-q03",
+      "difficulty": "easy",
+      "q": "Against whose coronation did Manthara incite Kaikeyi?",
+      "options": ["Bharata", "Lakshmana", "Rama", "Shatrughna"],
+      "answer": 2,
+      "explanation": "Manthara turned Kaikeyi against the planned coronation of Rama as crown prince of Ayodhya."
+    },
+    {
+      "id": "manthara-q04",
+      "difficulty": "easy",
+      "q": "Whom did Manthara want to be made king in Rama's place?",
+      "options": ["Bharata", "Shatrughna", "Lakshmana", "Janaka"],
+      "answer": 0,
+      "explanation": "Manthara schemed to have Bharata, Kaikeyi's own son, crowned instead of Rama."
+    },
+    {
+      "id": "manthara-q05",
+      "difficulty": "easy",
+      "q": "In which city did Manthara live and carry out her scheming?",
+      "options": ["Mithila", "Lanka", "Ayodhya", "Kishkindha"],
+      "answer": 2,
+      "explanation": "Manthara lived in the royal palace of Ayodhya, the capital of King Dasharatha's kingdom."
+    },
+    {
+      "id": "manthara-q06",
+      "difficulty": "easy",
+      "q": "What news first alarmed Manthara and set her scheme in motion?",
+      "options": ["The wedding of Rama and Sita", "The preparations for Rama's coronation", "The birth of Bharata", "The arrival of Vishvamitra"],
+      "answer": 1,
+      "explanation": "Manthara grew alarmed upon learning that Ayodhya was being decorated for Rama's imminent coronation."
+    },
+    {
+      "id": "manthara-q07",
+      "difficulty": "easy",
+      "q": "How did Kaikeyi initially react when Manthara first told her of Rama's coronation?",
+      "options": ["With anger", "With joy", "With fear", "With indifference"],
+      "answer": 1,
+      "explanation": "Kaikeyi was at first delighted by the news, even rewarding Manthara, before being poisoned against it."
+    },
+    {
+      "id": "manthara-q08",
+      "difficulty": "easy",
+      "q": "Manthara is best remembered in the Ramayana as a symbol of what?",
+      "options": ["Loyal devotion", "Wise counsel", "Evil counsel and intrigue", "Selfless sacrifice"],
+      "answer": 2,
+      "explanation": "Manthara has become a byword for the malicious adviser whose poisonous counsel brings ruin."
+    },
+    {
+      "id": "manthara-q09",
+      "difficulty": "easy",
+      "q": "What was the ultimate consequence of Manthara's scheme for Rama?",
+      "options": ["His coronation as king", "His exile to the forest", "His marriage to Sita", "His victory over Ravana"],
+      "answer": 1,
+      "explanation": "Manthara's counsel led Kaikeyi to demand Rama's fourteen-year exile to the forest."
+    },
+    {
+      "id": "manthara-q10",
+      "difficulty": "easy",
+      "q": "Manthara's plotting takes place in which book (kanda) of the Ramayana?",
+      "options": ["Bala Kanda", "Ayodhya Kanda", "Aranya Kanda", "Sundara Kanda"],
+      "answer": 1,
+      "explanation": "Manthara's intrigue unfolds in the Ayodhya Kanda, which centers on events in the city of Ayodhya."
+    },
+    {
+      "id": "manthara-q11",
+      "difficulty": "medium",
+      "q": "Manthara reminded Kaikeyi of two boons that the king had once promised her. Who had granted those boons?",
+      "options": ["Vasishtha", "Dasharatha", "Janaka", "Vishvamitra"],
+      "answer": 1,
+      "explanation": "King Dasharatha had earlier promised Kaikeyi two boons, which Manthara urged her to invoke."
+    },
+    {
+      "id": "manthara-q12",
+      "difficulty": "medium",
+      "q": "What two demands did Manthara persuade Kaikeyi to make using the boons?",
+      "options": ["Bharata's crowning and Rama's exile", "Rama's death and Sita's banishment", "Lakshmana's exile and Bharata's marriage", "Dasharatha's abdication and Shatrughna's crowning"],
+      "answer": 0,
+      "explanation": "Manthara's plan was for Kaikeyi to demand Bharata be made king and Rama be sent into exile."
+    },
+    {
+      "id": "manthara-q13",
+      "difficulty": "medium",
+      "q": "How long an exile did Manthara have Kaikeyi demand for Rama?",
+      "options": ["Seven years", "Ten years", "Fourteen years", "Twelve years"],
+      "answer": 2,
+      "explanation": "At Manthara's urging, Kaikeyi demanded that Rama be banished to the forest for fourteen years."
+    },
+    {
+      "id": "manthara-q14",
+      "difficulty": "medium",
+      "q": "Into which room or chamber did Kaikeyi retreat after Manthara convinced her?",
+      "options": ["The hall of audience", "The kitchen", "The chamber of wrath (sulking chamber)", "The temple"],
+      "answer": 2,
+      "explanation": "Kaikeyi withdrew into the krodhagara, the chamber of anger, where Dasharatha found her in distress."
+    },
+    {
+      "id": "manthara-q15",
+      "difficulty": "medium",
+      "q": "Which argument did Manthara use to frighten Kaikeyi about her own future?",
+      "options": ["That Sita would poison her", "That Kausalya would become supreme queen and Kaikeyi would be reduced to servitude", "That Bharata would be killed", "That Dasharatha would banish her"],
+      "answer": 1,
+      "explanation": "Manthara warned that with Rama as king, his mother Kausalya would dominate and Kaikeyi would be made a mere servant."
+    },
+    {
+      "id": "manthara-q16",
+      "difficulty": "medium",
+      "q": "Where was Bharata when Manthara's scheme was being set in motion?",
+      "options": ["In Ayodhya at the palace", "Away at his maternal uncle's kingdom", "In exile in the forest", "Fighting in a war"],
+      "answer": 1,
+      "explanation": "Bharata was away visiting his maternal grandfather's kingdom, making the timing convenient for the plot."
+    },
+    {
+      "id": "manthara-q17",
+      "difficulty": "medium",
+      "q": "When Kaikeyi first heard the news joyfully, how did she reward Manthara?",
+      "options": ["With a piece of jewelry", "With her freedom", "With a new house", "With gold coins only"],
+      "answer": 0,
+      "explanation": "In her initial delight Kaikeyi offered Manthara an ornament, which the maid contemptuously rejected before plotting."
+    },
+    {
+      "id": "manthara-q18",
+      "difficulty": "medium",
+      "q": "According to tradition, why did Manthara harbor partiality toward Bharata over Rama?",
+      "options": ["Bharata had freed her from slavery", "She had come from Kaikeyi's father's house and was attached to Kaikeyi's line", "Rama had once insulted her", "She was secretly Bharata's nurse from birth"],
+      "answer": 1,
+      "explanation": "Manthara had come with Kaikeyi from her father Ashvapati's household and was devoted to Kaikeyi's family interests."
+    },
+    {
+      "id": "manthara-q19",
+      "difficulty": "medium",
+      "q": "How is Manthara's intervention best characterized in the narrative arc of the Ramayana?",
+      "options": ["A minor comic episode", "The trigger that sets the entire exile and forest saga in motion", "An event with no lasting consequence", "A battle that decides the war"],
+      "answer": 1,
+      "explanation": "Manthara's whispered counsel is the catalyst that launches Rama's exile and the whole subsequent epic."
+    },
+    {
+      "id": "manthara-q20",
+      "difficulty": "medium",
+      "q": "What did Manthara repeatedly emphasize that Kaikeyi must secure for political safety?",
+      "options": ["Sita's banishment", "The kingdom for her son Bharata", "Lakshmana's loyalty", "Dasharatha's death"],
+      "answer": 1,
+      "explanation": "Manthara insisted that only by securing the throne for Bharata could Kaikeyi protect her position and her son."
+    },
+    {
+      "id": "manthara-q21",
+      "difficulty": "medium",
+      "q": "How did Dasharatha react when he learned of the demands rooted in Manthara's scheme?",
+      "options": ["He rejoiced", "He was overwhelmed with grief and fainted", "He laughed it off", "He immediately had Manthara executed"],
+      "answer": 1,
+      "explanation": "Dasharatha was crushed by anguish at the demand for Rama's exile, ultimately collapsing in grief."
+    },
+    {
+      "id": "manthara-q22",
+      "difficulty": "medium",
+      "q": "In Valmiki's telling, on what occasion did Manthara learn of the coronation plans?",
+      "options": ["From a royal proclamation", "By climbing to a palace terrace and seeing the city being decorated", "From Dasharatha himself", "From a dream"],
+      "answer": 1,
+      "explanation": "Manthara climbed to a high terrace of the palace and saw Ayodhya festively adorned, then learned it was for Rama's coronation."
+    },
+    {
+      "id": "manthara-q23",
+      "difficulty": "hard",
+      "q": "From whom did Manthara first hear the explicit news that the festivities were for Rama's coronation?",
+      "options": ["A nurse of Rama", "Kausalya's attendant", "A palace gatekeeper", "Sumitra"],
+      "answer": 1,
+      "explanation": "In Valmiki's account Manthara learns the cause of the celebration from a nursemaid associated with Kausalya's household."
+    },
+    {
+      "id": "manthara-q24",
+      "difficulty": "hard",
+      "q": "When the exiled Rama left Ayodhya, what eventually became of Manthara in some traditional accounts?",
+      "options": ["She was crowned a minister", "She was seized and beaten by Shatrughna upon Bharata's return", "She was exiled with Rama", "She became Sita's maid"],
+      "answer": 1,
+      "explanation": "In several tellings, the enraged Shatrughna seized and beat Manthara when Bharata returned to find the disaster she caused."
+    },
+    {
+      "id": "manthara-q25",
+      "difficulty": "hard",
+      "q": "From which kingdom or household did Manthara originally come to Ayodhya?",
+      "options": ["Kosala", "Kekaya (Kaikeyi's birth land)", "Videha", "Kishkindha"],
+      "answer": 1,
+      "explanation": "Manthara came from the Kekaya kingdom, having attended Kaikeyi since before her marriage into Ayodhya."
+    },
+    {
+      "id": "manthara-q26",
+      "difficulty": "hard",
+      "q": "In some devotional interpretations, Manthara is regarded as an instrument of which higher purpose?",
+      "options": ["A demon sent to destroy dharma", "A divine agent whose mischief was needed so Rama would go to the forest and slay Ravana", "A reincarnation of Tataka", "An ordinary human with no cosmic role"],
+      "answer": 1,
+      "explanation": "Some traditions view Manthara as a necessary instrument of destiny, since Rama's exile enabled the killing of Ravana."
+    },
+    {
+      "id": "manthara-q27",
+      "difficulty": "hard",
+      "q": "What did Manthara argue would happen to Kaikeyi's son Bharata if Rama became king and later passed the throne to his own line?",
+      "options": ["Bharata would be honored above all", "Bharata and his descendants would be permanently shut out of the kingship", "Bharata would inherit Mithila", "Bharata would become Rama's chief minister"],
+      "answer": 1,
+      "explanation": "Manthara warned that once Rama's line held the throne, Bharata's descendants would forever be excluded from kingship."
+    },
+    {
+      "id": "manthara-q28",
+      "difficulty": "hard",
+      "q": "How does Valmiki's Ramayana generally portray Manthara's motive, as opposed to mere personal gain?",
+      "options": ["Pure greed for gold", "A twisted but real devotion to Kaikeyi's and Bharata's interests", "Romantic jealousy", "Religious fanaticism"],
+      "answer": 1,
+      "explanation": "Valmiki presents Manthara as driven by a distorted loyalty to Kaikeyi and her son rather than simple self-interest."
+    },
+    {
+      "id": "manthara-q29",
+      "difficulty": "hard",
+      "q": "Which queen did Manthara claim would triumph and gloat if Rama were crowned?",
+      "options": ["Sumitra", "Kausalya", "Sita", "Kaikeyi herself"],
+      "answer": 1,
+      "explanation": "Manthara stoked Kaikeyi's jealousy by claiming that Rama's mother Kausalya would triumph over her."
+    },
+    {
+      "id": "manthara-q30",
+      "difficulty": "hard",
+      "q": "What is the broader literary role Manthara plays as a character archetype in the epic?",
+      "options": ["The heroic warrior", "The catalyst-antagonist whose small act unleashes the central conflict", "The wise sage", "The comic relief with no plot impact"],
+      "answer": 1,
+      "explanation": "Manthara functions as the small but pivotal catalyst-antagonist whose intrigue unleashes the epic's central tragedy."
+    }
+  ]
+}

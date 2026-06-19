@@ -1,0 +1,245 @@
+{
+  "cardId": "bhakti",
+  "questions": [
+    {
+      "id": "bhakti-q01",
+      "difficulty": "easy",
+      "q": "In the Ramayana, who is the supreme exemplar of bhakti (loving devotion)?",
+      "options": ["Hanuman", "Ravana", "Vibhishana", "Sugriva"],
+      "answer": 0,
+      "explanation": "Hanuman is celebrated above all as the eternal model of selfless devotion to Rama."
+    },
+    {
+      "id": "bhakti-q02",
+      "difficulty": "easy",
+      "q": "To whom is Hanuman's loving devotion directed in the Ramayana?",
+      "options": ["Indra", "Rama", "Ravana", "Vali"],
+      "answer": 1,
+      "explanation": "Hanuman's devotion is wholly given to Rama, whom he serves selflessly."
+    },
+    {
+      "id": "bhakti-q03",
+      "difficulty": "easy",
+      "q": "Bhakti is best described as the path of what?",
+      "options": ["Ritual sacrifice", "Loving devotion", "Ascetic withdrawal", "Logical debate"],
+      "answer": 1,
+      "explanation": "Bhakti is the path of loving devotion to the divine."
+    },
+    {
+      "id": "bhakti-q04",
+      "difficulty": "easy",
+      "q": "What is Hanuman by species in the Ramayana?",
+      "options": ["A bear (riksha)", "A vanara (monkey)", "An eagle", "A demon (rakshasa)"],
+      "answer": 1,
+      "explanation": "Hanuman is a vanara, one of the monkey people who aid Rama."
+    },
+    {
+      "id": "bhakti-q05",
+      "difficulty": "easy",
+      "q": "Hanuman is famously the son of which wind deity?",
+      "options": ["Agni", "Varuna", "Vayu", "Surya"],
+      "answer": 2,
+      "explanation": "Hanuman is the son of Vayu, the wind god, and is often called Pavanaputra."
+    },
+    {
+      "id": "bhakti-q06",
+      "difficulty": "easy",
+      "q": "Hanuman crossed the ocean to find which captive of Ravana?",
+      "options": ["Sita", "Mandodari", "Tara", "Urmila"],
+      "answer": 0,
+      "explanation": "Hanuman leapt across the sea to Lanka to locate the captive Sita."
+    },
+    {
+      "id": "bhakti-q07",
+      "difficulty": "easy",
+      "q": "On which island kingdom did Hanuman find Sita held captive?",
+      "options": ["Lanka", "Kishkindha", "Ayodhya", "Mithila"],
+      "answer": 0,
+      "explanation": "Sita was held in Ravana's kingdom of Lanka, where Hanuman found her."
+    },
+    {
+      "id": "bhakti-q08",
+      "difficulty": "easy",
+      "q": "What token did Rama give Hanuman to prove to Sita that he was Rama's true messenger?",
+      "options": ["A sword", "Rama's signet ring", "A garland", "A bow"],
+      "answer": 1,
+      "explanation": "Rama gave Hanuman his signet ring to show Sita as a sign of trust."
+    },
+    {
+      "id": "bhakti-q09",
+      "difficulty": "easy",
+      "q": "Devotion like Hanuman's is centered above all on what attitude toward Rama?",
+      "options": ["Selfless service", "Demanding rewards", "Seeking the throne", "Fearful avoidance"],
+      "answer": 0,
+      "explanation": "Hanuman's bhakti is expressed through humble, selfless service to Rama."
+    },
+    {
+      "id": "bhakti-q10",
+      "difficulty": "easy",
+      "q": "Hanuman is a devoted minister and friend in the kingdom of which vanara king?",
+      "options": ["Janaka", "Dasharatha", "Sugriva", "Ravana"],
+      "answer": 2,
+      "explanation": "Hanuman serves Sugriva, the vanara king of Kishkindha, before devoting himself to Rama."
+    },
+    {
+      "id": "bhakti-q11",
+      "difficulty": "medium",
+      "q": "What is the name of the vanara kingdom where Hanuman first meets Rama?",
+      "options": ["Kishkindha", "Lanka", "Panchavati", "Janasthana"],
+      "answer": 0,
+      "explanation": "Hanuman first meets Rama and Lakshmana near Kishkindha, the vanara kingdom."
+    },
+    {
+      "id": "bhakti-q12",
+      "difficulty": "medium",
+      "q": "Which mountain did Hanuman lift and carry to bring the life-saving Sanjivani herb?",
+      "options": ["Mount Meru", "Mount Govardhana", "Mount Dronagiri", "Mount Mandara"],
+      "answer": 2,
+      "explanation": "Hanuman carried the entire Dronagiri mountain bearing the Sanjivani herb to heal Lakshmana."
+    },
+    {
+      "id": "bhakti-q13",
+      "difficulty": "medium",
+      "q": "When he first approached Rama and Lakshmana, in what guise did Hanuman appear?",
+      "options": ["A wandering ascetic (mendicant brahmin)", "A merchant", "A warrior in armor", "A child"],
+      "answer": 0,
+      "explanation": "Hanuman, sent by Sugriva, first approached Rama disguised as a humble mendicant brahmin."
+    },
+    {
+      "id": "bhakti-q14",
+      "difficulty": "medium",
+      "q": "Whom did Hanuman serve as a messenger and counselor before pledging himself to Rama?",
+      "options": ["King Sugriva", "King Janaka", "King Dasharatha", "King Bharata"],
+      "answer": 0,
+      "explanation": "Hanuman was the trusted minister of Sugriva, who sent him to assess Rama."
+    },
+    {
+      "id": "bhakti-q15",
+      "difficulty": "medium",
+      "q": "After delivering Rama's message, what did Hanuman do to Ravana's pleasure-grove in Lanka?",
+      "options": ["Planted a garden", "Destroyed the Ashoka grove", "Built a temple", "Filled it with gold"],
+      "answer": 1,
+      "explanation": "Hanuman uprooted and devastated the Ashoka grove where Sita was held to provoke the rakshasas."
+    },
+    {
+      "id": "bhakti-q16",
+      "difficulty": "medium",
+      "q": "How did Hanuman set fire to Lanka after being captured?",
+      "options": ["With a torch from the palace", "With his burning tail", "By calling down lightning", "With Rama's fiery arrow"],
+      "answer": 1,
+      "explanation": "When the rakshasas set his tail ablaze, Hanuman used it to burn much of Lanka."
+    },
+    {
+      "id": "bhakti-q17",
+      "difficulty": "medium",
+      "q": "Which sea-monster tried to swallow Hanuman during his great leap to Lanka?",
+      "options": ["Surasa", "Simhika", "Tataka", "Trijata"],
+      "answer": 1,
+      "explanation": "Simhika, a shadow-seizing demoness of the sea, tried to seize Hanuman, who slew her."
+    },
+    {
+      "id": "bhakti-q18",
+      "difficulty": "medium",
+      "q": "Which mother of the serpents tested Hanuman by demanding to swallow him during his ocean crossing?",
+      "options": ["Surasa", "Mandodari", "Kaikeyi", "Anasuya"],
+      "answer": 0,
+      "explanation": "Surasa, mother of the nagas, tested Hanuman, who outwitted her by shrinking and passing through her mouth."
+    },
+    {
+      "id": "bhakti-q19",
+      "difficulty": "medium",
+      "q": "Whom did Hanuman heal by fetching the Sanjivani herb during the war?",
+      "options": ["Lakshmana", "Sugriva", "Angada", "Jambavan"],
+      "answer": 0,
+      "explanation": "Hanuman brought the Sanjivani herb to revive the gravely wounded Lakshmana."
+    },
+    {
+      "id": "bhakti-q20",
+      "difficulty": "medium",
+      "q": "When Hanuman finally found Sita, where in Lanka was she being kept?",
+      "options": ["Ravana's throne room", "The Ashoka grove (Ashoka Vatika)", "A dungeon beneath the sea", "Mandodari's palace"],
+      "answer": 1,
+      "explanation": "Sita was held under guard in the Ashoka grove, where Hanuman discovered her."
+    },
+    {
+      "id": "bhakti-q21",
+      "difficulty": "medium",
+      "q": "Which vanara elder reminded Hanuman of his forgotten powers so he could leap to Lanka?",
+      "options": ["Jambavan", "Nala", "Nila", "Sushena"],
+      "answer": 0,
+      "explanation": "Jambavan, the wise bear-king, reawakened Hanuman to his vast strength before the leap."
+    },
+    {
+      "id": "bhakti-q22",
+      "difficulty": "medium",
+      "q": "What is a common epithet for Hanuman reflecting his parentage by the wind?",
+      "options": ["Pavanaputra", "Dasharathi", "Maithili", "Raghava"],
+      "answer": 0,
+      "explanation": "Hanuman is called Pavanaputra, meaning son of the wind (Pavana/Vayu)."
+    },
+    {
+      "id": "bhakti-q23",
+      "difficulty": "hard",
+      "q": "In the Sundara Kanda, after burning Lanka, what was Hanuman's chief worry once the flames spread?",
+      "options": ["That Sita might have been harmed by the fire", "That Rama would be angry at the delay", "That the ocean would dry up", "That Sugriva would lose his throne"],
+      "answer": 0,
+      "explanation": "Hanuman feared the fire might harm Sita, but learned she remained unburnt and safe."
+    },
+    {
+      "id": "bhakti-q24",
+      "difficulty": "hard",
+      "q": "Which book (kanda) of Valmiki's Ramayana centers on Hanuman's journey to Lanka and is named for him in praise?",
+      "options": ["Sundara Kanda", "Bala Kanda", "Aranya Kanda", "Uttara Kanda"],
+      "answer": 0,
+      "explanation": "The Sundara Kanda recounts Hanuman's leap, search for Sita, and exploits in Lanka."
+    },
+    {
+      "id": "bhakti-q25",
+      "difficulty": "hard",
+      "q": "When Ravana ordered Hanuman killed in his court, which of Ravana's brothers argued that an envoy should not be slain?",
+      "options": ["Vibhishana", "Kumbhakarna", "Khara", "Kumbha"],
+      "answer": 0,
+      "explanation": "Vibhishana counseled that killing a messenger violated dharma, so Hanuman's tail was burned instead."
+    },
+    {
+      "id": "bhakti-q26",
+      "difficulty": "hard",
+      "q": "As a child, why did the infant Hanuman leap toward the sun, according to tradition?",
+      "options": ["Mistaking it for a ripe fruit to eat", "To rescue a falling star", "To race the wind", "To bring light to Lanka"],
+      "answer": 0,
+      "explanation": "The infant Hanuman sprang at the sun thinking it a fruit, which led to Indra striking him."
+    },
+    {
+      "id": "bhakti-q27",
+      "difficulty": "hard",
+      "q": "Hanuman's very name is traditionally explained by an injury to which part of his body, struck by Indra's thunderbolt?",
+      "options": ["His jaw (hanu)", "His foot", "His tail", "His eye"],
+      "answer": 0,
+      "explanation": "The name Hanuman derives from 'hanu' (jaw), injured by Indra's vajra in childhood."
+    },
+    {
+      "id": "bhakti-q28",
+      "difficulty": "hard",
+      "q": "What boon protected Hanuman so that Brahma's weapon (Brahmastra) could bind but not truly harm him in Lanka?",
+      "options": ["Immunity granted by the gods after Indra's blow", "A shield from Sugriva", "Sita's blessing", "A potion from Jambavan"],
+      "answer": 0,
+      "explanation": "After Indra struck him, the gods granted Hanuman boons making him invulnerable to such weapons, so he submitted to the Brahmastra only to be brought before Ravana."
+    },
+    {
+      "id": "bhakti-q29",
+      "difficulty": "hard",
+      "q": "What sign did Sita give Hanuman to carry back to Rama as proof she was alive?",
+      "options": ["Her crest-jewel (chudamani)", "A lock of her hair", "Her wedding ring", "A written letter"],
+      "answer": 0,
+      "explanation": "Sita entrusted Hanuman with her chudamani (hair-jewel) as a token for Rama."
+    },
+    {
+      "id": "bhakti-q30",
+      "difficulty": "hard",
+      "q": "In the Uttara Kanda tradition, what boon did Hanuman receive that makes him a chiranjivi (immortal) devotee?",
+      "options": ["To live as long as Rama's story is told on earth", "To rule Kishkindha forever", "To never feel hunger", "To command the winds at will"],
+      "answer": 0,
+      "explanation": "Hanuman is blessed to remain deathless as long as Rama's name and story endure, embodying eternal devotion."
+    }
+  ]
+}

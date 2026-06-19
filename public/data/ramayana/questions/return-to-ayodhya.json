@@ -1,0 +1,245 @@
+{
+  "cardId": "return-to-ayodhya",
+  "questions": [
+    {
+      "id": "return-to-ayodhya-q01",
+      "difficulty": "easy",
+      "q": "To which city did Rama return after his exile?",
+      "options": ["Ayodhya", "Lanka", "Mithila", "Kishkindha"],
+      "answer": 0,
+      "explanation": "Ayodhya was Rama's home and the capital of the Kosala kingdom to which he returned."
+    },
+    {
+      "id": "return-to-ayodhya-q02",
+      "difficulty": "easy",
+      "q": "How many years did Rama spend in exile before returning to Ayodhya?",
+      "options": ["Seven years", "Ten years", "Fourteen years", "Twenty years"],
+      "answer": 2,
+      "explanation": "Rama was sentenced to fourteen years of forest exile, after which he returned home."
+    },
+    {
+      "id": "return-to-ayodhya-q03",
+      "difficulty": "easy",
+      "q": "Which festival is traditionally said to commemorate Rama's return to Ayodhya?",
+      "options": ["Holi", "Diwali", "Navaratri", "Pongal"],
+      "answer": 1,
+      "explanation": "The lighting of lamps to welcome Rama is remembered ever after as Diwali, the festival of lights."
+    },
+    {
+      "id": "return-to-ayodhya-q04",
+      "difficulty": "easy",
+      "q": "What did the people of Ayodhya light to welcome Rama home?",
+      "options": ["Bonfires", "Rows of lamps", "Torches on the walls", "Fireworks"],
+      "answer": 1,
+      "explanation": "The citizens lit rows of lamps (deepas) to welcome Rama, giving rise to the festival of lights."
+    },
+    {
+      "id": "return-to-ayodhya-q05",
+      "difficulty": "easy",
+      "q": "Who returned to Ayodhya alongside Rama?",
+      "options": ["Sita and Lakshmana", "Bharata and Shatrughna", "Dasharatha and Kausalya", "Sugriva and Angada"],
+      "answer": 0,
+      "explanation": "Rama returned with his wife Sita and his devoted brother Lakshmana, who had shared the exile with him."
+    },
+    {
+      "id": "return-to-ayodhya-q06",
+      "difficulty": "easy",
+      "q": "Which brother had ruled Ayodhya in Rama's absence and awaited his return?",
+      "options": ["Lakshmana", "Shatrughna", "Bharata", "Vibhishana"],
+      "answer": 2,
+      "explanation": "Bharata governed Ayodhya as regent during the exile, ruling in Rama's name while awaiting his return."
+    },
+    {
+      "id": "return-to-ayodhya-q07",
+      "difficulty": "easy",
+      "q": "What ceremony was held for Rama after his return to Ayodhya?",
+      "options": ["His wedding", "His coronation as king", "His naming ceremony", "His funeral rites"],
+      "answer": 1,
+      "explanation": "Rama was crowned king of Ayodhya, an event celebrated as his coronation (rajyabhisheka)."
+    },
+    {
+      "id": "return-to-ayodhya-q08",
+      "difficulty": "easy",
+      "q": "From which island kingdom was Rama returning when he came back to Ayodhya?",
+      "options": ["Lanka", "Java", "Sri Vijaya", "Hanuman's isle"],
+      "answer": 0,
+      "explanation": "Rama returned after defeating Ravana and rescuing Sita from the island kingdom of Lanka."
+    },
+    {
+      "id": "return-to-ayodhya-q09",
+      "difficulty": "easy",
+      "q": "What was Rama's mood and the city's mood upon his return?",
+      "options": ["Mournful", "Joyful and celebratory", "Fearful", "Indifferent"],
+      "answer": 1,
+      "explanation": "The homecoming was a joyful, celebratory event, with the whole city rejoicing at Rama's return."
+    },
+    {
+      "id": "return-to-ayodhya-q10",
+      "difficulty": "easy",
+      "q": "Who was the great devotee and monkey ally who accompanied Rama on the journey back?",
+      "options": ["Jatayu", "Hanuman", "Jambavan only", "Guha"],
+      "answer": 1,
+      "explanation": "Hanuman, the devoted vanara, accompanied Rama and even flew ahead to announce his coming."
+    },
+    {
+      "id": "return-to-ayodhya-q11",
+      "difficulty": "medium",
+      "q": "On what flying vehicle did Rama travel back to Ayodhya?",
+      "options": ["The eagle Garuda", "The Pushpaka Vimana", "A chariot of Indra", "The bird Sampati"],
+      "answer": 1,
+      "explanation": "Rama returned aboard the Pushpaka Vimana, the flying chariot taken from Ravana."
+    },
+    {
+      "id": "return-to-ayodhya-q12",
+      "difficulty": "medium",
+      "q": "From whom had the Pushpaka Vimana originally been seized before Ravana possessed it?",
+      "options": ["Indra", "Kubera", "Vishnu", "Varuna"],
+      "answer": 1,
+      "explanation": "The Pushpaka Vimana belonged to Kubera, the god of wealth, from whom Ravana had taken it by force."
+    },
+    {
+      "id": "return-to-ayodhya-q13",
+      "difficulty": "medium",
+      "q": "Whom did Rama send ahead to Bharata to announce his return before he himself arrived?",
+      "options": ["Sugriva", "Hanuman", "Vibhishana", "Lakshmana"],
+      "answer": 1,
+      "explanation": "Rama sent Hanuman ahead to Bharata to bring word of his return and gauge Bharata's heart."
+    },
+    {
+      "id": "return-to-ayodhya-q14",
+      "difficulty": "medium",
+      "q": "What had Bharata vowed to do if Rama did not return on the very day the exile ended?",
+      "options": ["Leave Ayodhya forever", "Enter into fire (self-immolation)", "Crown his own son", "March to Lanka"],
+      "answer": 1,
+      "explanation": "Bharata had vowed to immolate himself in fire if Rama failed to return when the fourteen years ended."
+    },
+    {
+      "id": "return-to-ayodhya-q15",
+      "difficulty": "medium",
+      "q": "Where had Bharata kept Rama's sandals during the exile as a symbol of Rama's authority?",
+      "options": ["In a temple shrine", "On the royal throne", "In the river Sarayu", "In his own chambers"],
+      "answer": 1,
+      "explanation": "Bharata placed Rama's wooden sandals (paduka) on the throne and ruled in their name, not as king himself."
+    },
+    {
+      "id": "return-to-ayodhya-q16",
+      "difficulty": "medium",
+      "q": "At which place near Ayodhya did Bharata go to meet the returning Rama?",
+      "options": ["Chitrakuta", "Nandigrama", "Panchavati", "Kishkindha"],
+      "answer": 1,
+      "explanation": "Bharata had been living at Nandigrama as an ascetic and went there and onward to receive Rama."
+    },
+    {
+      "id": "return-to-ayodhya-q17",
+      "difficulty": "medium",
+      "q": "Which allies from Lanka and the forest accompanied Rama as honored guests on the return?",
+      "options": ["Ravana and Kumbhakarna", "Vibhishana, Sugriva, and the vanara chiefs", "Tataka and Maricha", "Vali and Dundubhi"],
+      "answer": 1,
+      "explanation": "Vibhishana, Sugriva, Hanuman, and other vanara chiefs accompanied Rama to Ayodhya and witnessed his coronation."
+    },
+    {
+      "id": "return-to-ayodhya-q18",
+      "difficulty": "medium",
+      "q": "Whom did Rama ask the gods to revive before he departed Lanka, so they could share in the homecoming?",
+      "options": ["The fallen vanara and rksha warriors", "Ravana's sons", "The slain rakshasas of Lanka", "His father Dasharatha"],
+      "answer": 0,
+      "explanation": "Indra granted Rama's wish to restore the fallen monkey and bear warriors to life so they could return joyfully."
+    },
+    {
+      "id": "return-to-ayodhya-q19",
+      "difficulty": "medium",
+      "q": "During the flight home, Rama pointed out to Sita the sites of his adventures, including the bridge to Lanka. What was that bridge called?",
+      "options": ["Rama Setu (the bridge to Lanka)", "The bridge of Sarayu", "Indra's causeway", "The Ganges crossing"],
+      "answer": 0,
+      "explanation": "Rama showed Sita the Rama Setu, the great causeway his army had built across the ocean to Lanka."
+    },
+    {
+      "id": "return-to-ayodhya-q20",
+      "difficulty": "medium",
+      "q": "Which sage's hermitage did Rama visit on the way back, where Bharata's regency was confirmed?",
+      "options": ["Bharadvaja's hermitage", "Vishvamitra's hermitage", "Agastya's hermitage", "Valmiki's hermitage"],
+      "answer": 0,
+      "explanation": "Rama halted at the hermitage of the sage Bharadvaja, from where he sent Hanuman ahead to Bharata."
+    },
+    {
+      "id": "return-to-ayodhya-q21",
+      "difficulty": "medium",
+      "q": "Who performed Rama's coronation ceremony in Ayodhya?",
+      "options": ["The family priest Vasishtha", "The sage Vishvamitra", "Bharata alone", "The god Brahma in person"],
+      "answer": 0,
+      "explanation": "Vasishtha, the royal preceptor and family priest, consecrated Rama as king of Ayodhya."
+    },
+    {
+      "id": "return-to-ayodhya-q22",
+      "difficulty": "medium",
+      "q": "In tradition, the joyous reign that began with Rama's coronation is known by what name?",
+      "options": ["Kali Yuga", "Rama Rajya", "Treta Sangha", "Surya Vamsha"],
+      "answer": 1,
+      "explanation": "Rama's just and prosperous rule is celebrated as Rama Rajya, the ideal kingdom of righteousness."
+    },
+    {
+      "id": "return-to-ayodhya-q23",
+      "difficulty": "hard",
+      "q": "In Valmiki's Ramayana, in which kanda (book) does the return to Ayodhya and coronation principally occur?",
+      "options": ["Aranya Kanda", "Sundara Kanda", "Yuddha Kanda", "Bala Kanda"],
+      "answer": 2,
+      "explanation": "The return flight, reunion with Bharata, and coronation are narrated in the Yuddha Kanda, the war book that closes the original epic."
+    },
+    {
+      "id": "return-to-ayodhya-q24",
+      "difficulty": "hard",
+      "q": "Why did Rama insist on returning to Ayodhya in such haste, even by air, rather than a slow overland march?",
+      "options": ["To beat the monsoon rains", "Because the fourteen years were ending and Bharata's vow of self-immolation loomed", "To surprise Ravana's remnants", "Because Sita demanded it"],
+      "answer": 1,
+      "explanation": "The exile term was expiring and Rama hurried lest Bharata, true to his vow, immolate himself if Rama did not appear in time."
+    },
+    {
+      "id": "return-to-ayodhya-q25",
+      "difficulty": "hard",
+      "q": "After bearing Rama home, what did Rama do with the Pushpaka Vimana?",
+      "options": ["Kept it as a royal vehicle", "Returned it to its rightful owner Kubera", "Gave it to Vibhishana", "Destroyed it"],
+      "answer": 1,
+      "explanation": "Rama dismissed the Pushpaka and bade it return to Kubera, its rightful owner, honoring its dharma."
+    },
+    {
+      "id": "return-to-ayodhya-q26",
+      "difficulty": "hard",
+      "q": "Which queen-mothers of Ayodhya greeted Rama, Bharata, and the brothers upon the return?",
+      "options": ["Kausalya, Sumitra, and Kaikeyi", "Sita, Urmila, and Mandavi", "Tara, Ruma, and Mandodari", "Ahalya, Anasuya, and Shabari"],
+      "answer": 0,
+      "explanation": "Dasharatha's three widowed queens, Kausalya, Sumitra, and Kaikeyi, were present to receive the returning princes."
+    },
+    {
+      "id": "return-to-ayodhya-q27",
+      "difficulty": "hard",
+      "q": "What gesture marked Bharata formally handing the kingdom back to Rama?",
+      "options": ["He placed Rama's sandals on Rama's feet", "He crowned himself first", "He fled into the forest", "He broke the royal scepter"],
+      "answer": 0,
+      "explanation": "Bharata reverently restored Rama's sandals to his feet, surrendering the regency he had held only in trust."
+    },
+    {
+      "id": "return-to-ayodhya-q28",
+      "difficulty": "hard",
+      "q": "According to tradition, after the coronation Rama gave generous gifts and bade farewell to his allies. Who received a celestial necklace from Sita as a special token?",
+      "options": ["Sugriva", "Hanuman", "Vibhishana", "Jambavan"],
+      "answer": 1,
+      "explanation": "Sita gave Hanuman a precious pearl necklace as a mark of gratitude for his unmatched devotion and service."
+    },
+    {
+      "id": "return-to-ayodhya-q29",
+      "difficulty": "hard",
+      "q": "Before re-entering the city, Rama and his companions paused so the travel-worn could be refreshed and made fit for the capital. Where did the party first halt outside Ayodhya?",
+      "options": ["At Nandigrama with Bharata", "At Chitrakuta", "On the shore of Lanka", "At Mithila"],
+      "answer": 0,
+      "explanation": "The party halted at Nandigrama, where Bharata had dwelt, before the grand entry into Ayodhya for the coronation."
+    },
+    {
+      "id": "return-to-ayodhya-q30",
+      "difficulty": "hard",
+      "q": "In the traditional reckoning, Rama's return and coronation are said to take place in which yuga (cosmic age)?",
+      "options": ["Satya Yuga", "Treta Yuga", "Dvapara Yuga", "Kali Yuga"],
+      "answer": 1,
+      "explanation": "Rama is regarded as an avatar of Vishnu in the Treta Yuga, the age in which the events of the Ramayana unfold."
+    }
+  ]
+}

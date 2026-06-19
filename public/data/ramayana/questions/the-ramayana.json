@@ -1,0 +1,245 @@
+{
+  "cardId": "the-ramayana",
+  "questions": [
+    {
+      "id": "the-ramayana-q01",
+      "difficulty": "easy",
+      "q": "Who is the central hero of the Ramayana?",
+      "options": ["Rama", "Krishna", "Arjuna", "Bharata"],
+      "answer": 0,
+      "explanation": "The Ramayana narrates the life of Rama, prince of Ayodhya, as a model of dharma."
+    },
+    {
+      "id": "the-ramayana-q02",
+      "difficulty": "easy",
+      "q": "Who is the wife of Rama in the Ramayana?",
+      "options": ["Draupadi", "Sita", "Radha", "Kaikeyi"],
+      "answer": 1,
+      "explanation": "Sita, princess of Mithila, is the devoted wife of Rama in the epic."
+    },
+    {
+      "id": "the-ramayana-q03",
+      "difficulty": "easy",
+      "q": "Which devoted monkey deity is a key helper of Rama?",
+      "options": ["Garuda", "Nandi", "Hanuman", "Jatayu"],
+      "answer": 2,
+      "explanation": "Hanuman, the vanara devotee of Rama, plays a central role in helping rescue Sita."
+    },
+    {
+      "id": "the-ramayana-q04",
+      "difficulty": "easy",
+      "q": "Who is the demon king of Lanka who abducts Sita?",
+      "options": ["Kumbhakarna", "Vibhishana", "Ravana", "Indrajit"],
+      "answer": 2,
+      "explanation": "Ravana, the ten-headed king of Lanka, abducts Sita and is later slain by Rama."
+    },
+    {
+      "id": "the-ramayana-q05",
+      "difficulty": "easy",
+      "q": "Into how many kandas (books) is the Ramayana traditionally divided?",
+      "options": ["Five", "Six", "Seven", "Eighteen"],
+      "answer": 2,
+      "explanation": "The Valmiki Ramayana is traditionally told in seven kandas."
+    },
+    {
+      "id": "the-ramayana-q06",
+      "difficulty": "easy",
+      "q": "Which sage is credited as the author of the original Sanskrit Ramayana?",
+      "options": ["Valmiki", "Vyasa", "Vishvamitra", "Vasishtha"],
+      "answer": 0,
+      "explanation": "The sage Valmiki, revered as the Adi Kavi, composed the Ramayana in Sanskrit."
+    },
+    {
+      "id": "the-ramayana-q07",
+      "difficulty": "easy",
+      "q": "What is the name of Rama's birthplace and kingdom?",
+      "options": ["Mathura", "Hastinapura", "Ayodhya", "Lanka"],
+      "answer": 2,
+      "explanation": "Rama is the prince of Ayodhya, the capital of the Kosala kingdom."
+    },
+    {
+      "id": "the-ramayana-q08",
+      "difficulty": "easy",
+      "q": "Who is Rama's loyal younger brother who accompanies him into exile?",
+      "options": ["Shatrughna", "Bharata", "Lakshmana", "Sugriva"],
+      "answer": 2,
+      "explanation": "Lakshmana faithfully accompanies Rama and Sita throughout their forest exile."
+    },
+    {
+      "id": "the-ramayana-q09",
+      "difficulty": "easy",
+      "q": "For how many years was Rama exiled to the forest?",
+      "options": ["Twelve years", "Fourteen years", "Ten years", "Seven years"],
+      "answer": 1,
+      "explanation": "Rama was exiled to the forest for fourteen years at Kaikeyi's behest."
+    },
+    {
+      "id": "the-ramayana-q10",
+      "difficulty": "easy",
+      "q": "What core virtue does Rama exemplify throughout the Ramayana?",
+      "options": ["Dharma (righteousness)", "Artha (wealth)", "Kama (desire)", "Maya (illusion)"],
+      "answer": 0,
+      "explanation": "Rama is upheld as the ideal embodiment of dharma, righteous conduct and duty."
+    },
+    {
+      "id": "the-ramayana-q11",
+      "difficulty": "medium",
+      "q": "Which queen demanded that Rama be exiled so her own son could become king?",
+      "options": ["Kausalya", "Sumitra", "Kaikeyi", "Mandodari"],
+      "answer": 2,
+      "explanation": "Queen Kaikeyi used her boons to demand Rama's exile and the crowning of Bharata."
+    },
+    {
+      "id": "the-ramayana-q12",
+      "difficulty": "medium",
+      "q": "Which of these is NOT one of the seven kandas of the Valmiki Ramayana?",
+      "options": ["Bala Kanda", "Aranya Kanda", "Sundara Kanda", "Bhishma Kanda"],
+      "answer": 3,
+      "explanation": "Bhishma Parva belongs to the Mahabharata; the seven Ramayana kandas include Bala, Aranya, and Sundara."
+    },
+    {
+      "id": "the-ramayana-q13",
+      "difficulty": "medium",
+      "q": "Who was the father of Rama and king of Ayodhya?",
+      "options": ["Janaka", "Dasharatha", "Dhritarashtra", "Sagara"],
+      "answer": 1,
+      "explanation": "King Dasharatha of Ayodhya was the father of Rama and his three brothers."
+    },
+    {
+      "id": "the-ramayana-q14",
+      "difficulty": "medium",
+      "q": "Who was the king of Mithila and Sita's father?",
+      "options": ["Janaka", "Sugriva", "Vali", "Romapada"],
+      "answer": 0,
+      "explanation": "King Janaka of Mithila raised Sita and set the bow-bending test for her marriage."
+    },
+    {
+      "id": "the-ramayana-q15",
+      "difficulty": "medium",
+      "q": "What feat did Rama accomplish to win Sita's hand in marriage?",
+      "options": ["He stringing and breaking Shiva's great bow", "He won a chariot race", "He answered a riddle contest", "He defeated a thousand kings in battle"],
+      "answer": 0,
+      "explanation": "Rama lifted and broke the mighty bow of Shiva at Janaka's swayamvara to win Sita."
+    },
+    {
+      "id": "the-ramayana-q16",
+      "difficulty": "medium",
+      "q": "Which brother of Ravana defected to Rama's side?",
+      "options": ["Kumbhakarna", "Indrajit", "Vibhishana", "Khara"],
+      "answer": 2,
+      "explanation": "Vibhishana, Ravana's righteous brother, joined Rama after counseling Ravana in vain."
+    },
+    {
+      "id": "the-ramayana-q17",
+      "difficulty": "medium",
+      "q": "What was the golden deer that lured Rama away before Sita's abduction?",
+      "options": ["A gift from Indra", "The demon Maricha in disguise", "A real celestial animal", "Hanuman in disguise"],
+      "answer": 1,
+      "explanation": "The demon Maricha took the form of a golden deer to draw Rama away so Ravana could seize Sita."
+    },
+    {
+      "id": "the-ramayana-q18",
+      "difficulty": "medium",
+      "q": "Which vanara king allied with Rama after Rama helped him regain his throne?",
+      "options": ["Vali", "Sugriva", "Angada", "Jambavan"],
+      "answer": 1,
+      "explanation": "Rama helped Sugriva defeat his brother Vali, and Sugriva then aided the search for Sita."
+    },
+    {
+      "id": "the-ramayana-q19",
+      "difficulty": "medium",
+      "q": "Which kanda chiefly recounts Hanuman's leap to Lanka and meeting with Sita?",
+      "options": ["Kishkindha Kanda", "Sundara Kanda", "Yuddha Kanda", "Uttara Kanda"],
+      "answer": 1,
+      "explanation": "The Sundara Kanda centers on Hanuman's journey to Lanka and his meeting with Sita."
+    },
+    {
+      "id": "the-ramayana-q20",
+      "difficulty": "medium",
+      "q": "What was the great bridge built by the vanaras to reach Lanka called?",
+      "options": ["Rama Setu (Setubandha)", "Indra's causeway", "The Pamban arch", "Garuda's path"],
+      "answer": 0,
+      "explanation": "The vanara army built the Setubandha, also called Rama Setu, across the sea to Lanka."
+    },
+    {
+      "id": "the-ramayana-q21",
+      "difficulty": "medium",
+      "q": "Who was the noble vulture that tried to stop Ravana from abducting Sita?",
+      "options": ["Sampati", "Garuda", "Jatayu", "Kakabhushundi"],
+      "answer": 2,
+      "explanation": "Jatayu, the aged vulture, fought Ravana to save Sita and died of his wounds."
+    },
+    {
+      "id": "the-ramayana-q22",
+      "difficulty": "medium",
+      "q": "Who were the twin sons of Rama and Sita?",
+      "options": ["Nakula and Sahadeva", "Luva and Kusha", "Vali and Sugriva", "Mani and Mala"],
+      "answer": 1,
+      "explanation": "Luva and Kusha, the twin sons of Rama and Sita, were taught the Ramayana by Valmiki."
+    },
+    {
+      "id": "the-ramayana-q23",
+      "difficulty": "hard",
+      "q": "What is the traditional number of verses (shlokas) said to comprise the Valmiki Ramayana?",
+      "options": ["About 24,000", "About 100,000", "About 700", "About 18,000"],
+      "answer": 0,
+      "explanation": "The Valmiki Ramayana is traditionally said to contain about 24,000 verses."
+    },
+    {
+      "id": "the-ramayana-q24",
+      "difficulty": "hard",
+      "q": "According to tradition, what event inspired Valmiki to utter the first shloka of the epic?",
+      "options": ["A hunter killing one of a pair of mating krauncha birds", "A vision of the god Vishnu", "The breaking of Shiva's bow", "The burning of Lanka"],
+      "answer": 0,
+      "explanation": "Valmiki's grief at a hunter killing a krauncha bird poured out as the first shloka in the anushtubh meter."
+    },
+    {
+      "id": "the-ramayana-q25",
+      "difficulty": "hard",
+      "q": "Which kanda opens the Ramayana and recounts Rama's childhood and marriage?",
+      "options": ["Ayodhya Kanda", "Bala Kanda", "Aranya Kanda", "Uttara Kanda"],
+      "answer": 1,
+      "explanation": "The Bala Kanda is the first book, covering Rama's birth, youth, and marriage to Sita."
+    },
+    {
+      "id": "the-ramayana-q26",
+      "difficulty": "hard",
+      "q": "Who was Ravana's powerful son, a master of illusion, who nearly defeated Rama's forces?",
+      "options": ["Indrajit (Meghanada)", "Akampana", "Prahasta", "Atikaya"],
+      "answer": 0,
+      "explanation": "Indrajit, also called Meghanada, used illusory warfare and was eventually slain by Lakshmana."
+    },
+    {
+      "id": "the-ramayana-q27",
+      "difficulty": "hard",
+      "q": "Which kanda, regarded by many scholars as a later addition, narrates Sita's banishment and Rama's final days?",
+      "options": ["Sundara Kanda", "Yuddha Kanda", "Uttara Kanda", "Kishkindha Kanda"],
+      "answer": 2,
+      "explanation": "The Uttara Kanda, often viewed as a later appendix, tells of Sita's banishment and Rama's departure."
+    },
+    {
+      "id": "the-ramayana-q28",
+      "difficulty": "hard",
+      "q": "What was the name of Ravana's chief queen who urged him to return Sita?",
+      "options": ["Mandodari", "Tara", "Trijata", "Surpanakha"],
+      "answer": 0,
+      "explanation": "Mandodari, Ravana's principal queen, repeatedly counseled him to return Sita and avoid ruin."
+    },
+    {
+      "id": "the-ramayana-q29",
+      "difficulty": "hard",
+      "q": "Who was the demoness whose insult and mutilation set off the chain leading to Sita's abduction?",
+      "options": ["Tataka", "Surpanakha", "Ayomukhi", "Simhika"],
+      "answer": 1,
+      "explanation": "Surpanakha, Ravana's sister, was disfigured by Lakshmana, prompting Ravana's revenge by abducting Sita."
+    },
+    {
+      "id": "the-ramayana-q30",
+      "difficulty": "hard",
+      "q": "In which poetic meter is the bulk of the Valmiki Ramayana composed?",
+      "options": ["Anushtubh", "Trishtubh", "Gayatri", "Jagati"],
+      "answer": 0,
+      "explanation": "The Ramayana is composed chiefly in the anushtubh meter of thirty-two syllables per verse."
+    }
+  ]
+}

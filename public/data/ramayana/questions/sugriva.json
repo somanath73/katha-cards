@@ -1,0 +1,245 @@
+{
+  "cardId": "sugriva",
+  "questions": [
+    {
+      "id": "sugriva-q01",
+      "difficulty": "easy",
+      "q": "What kind of being is Sugriva in the Ramayana?",
+      "options": ["A vanara (monkey)", "A rakshasa (demon)", "A naga (serpent)", "A gandharva (celestial musician)"],
+      "answer": 0,
+      "explanation": "Sugriva is a vanara, one of the monkey-folk who allied with Rama."
+    },
+    {
+      "id": "sugriva-q02",
+      "difficulty": "easy",
+      "q": "Which kingdom did Sugriva rule?",
+      "options": ["Lanka", "Kishkindha", "Ayodhya", "Mithila"],
+      "answer": 1,
+      "explanation": "Sugriva became king of the vanara realm of Kishkindha."
+    },
+    {
+      "id": "sugriva-q03",
+      "difficulty": "easy",
+      "q": "Who was Sugriva's elder brother and rival?",
+      "options": ["Angada", "Hanuman", "Vali", "Jambavan"],
+      "answer": 2,
+      "explanation": "Sugriva's elder brother Vali drove him into exile and was his rival for the throne."
+    },
+    {
+      "id": "sugriva-q04",
+      "difficulty": "easy",
+      "q": "Which hero did Sugriva form an alliance with?",
+      "options": ["Ravana", "Bharata", "Rama", "Indrajit"],
+      "answer": 2,
+      "explanation": "Sugriva allied with Rama, who helped him regain his kingdom."
+    },
+    {
+      "id": "sugriva-q05",
+      "difficulty": "easy",
+      "q": "What did Sugriva contribute to Rama's cause?",
+      "options": ["The vanara host to search for Sita", "A flying chariot", "Shiva's bow", "The Brahmastra weapon"],
+      "answer": 0,
+      "explanation": "Sugriva lent the vast vanara army to search for the abducted Sita."
+    },
+    {
+      "id": "sugriva-q06",
+      "difficulty": "easy",
+      "q": "Why was Sugriva living in exile when Rama met him?",
+      "options": ["He had been cursed by a sage", "His brother Vali had driven him out", "Ravana had captured his city", "He had renounced the throne willingly"],
+      "answer": 1,
+      "explanation": "Vali had expelled Sugriva from Kishkindha, forcing him into exile."
+    },
+    {
+      "id": "sugriva-q07",
+      "difficulty": "easy",
+      "q": "Which devoted vanara was Sugriva's loyal minister and companion?",
+      "options": ["Sampati", "Nala", "Hanuman", "Kabandha"],
+      "answer": 2,
+      "explanation": "Hanuman was Sugriva's minister and the one who first introduced him to Rama."
+    },
+    {
+      "id": "sugriva-q08",
+      "difficulty": "easy",
+      "q": "On which mountain did Sugriva take refuge from Vali?",
+      "options": ["Mount Rishyamukha", "Mount Mahendra", "Mount Govardhana", "Mount Kailasa"],
+      "answer": 0,
+      "explanation": "Sugriva sheltered on Mount Rishyamukha, which Vali could not enter due to a curse."
+    },
+    {
+      "id": "sugriva-q09",
+      "difficulty": "easy",
+      "q": "What was Sugriva searching for on Rama's behalf?",
+      "options": ["The herb Sanjeevani", "The abducted Sita", "Shiva's bow", "The golden deer"],
+      "answer": 1,
+      "explanation": "Sugriva mobilized the vanaras to find Sita, who had been carried off by Ravana."
+    },
+    {
+      "id": "sugriva-q10",
+      "difficulty": "easy",
+      "q": "Who killed Vali so that Sugriva could reclaim his throne?",
+      "options": ["Lakshmana", "Hanuman", "Rama", "Angada"],
+      "answer": 2,
+      "explanation": "Rama slew Vali with an arrow, restoring Sugriva to the throne of Kishkindha."
+    },
+    {
+      "id": "sugriva-q11",
+      "difficulty": "medium",
+      "q": "Who was the divine father of Sugriva according to tradition?",
+      "options": ["Surya, the sun-god", "Indra, the king of gods", "Vayu, the wind-god", "Agni, the fire-god"],
+      "answer": 0,
+      "explanation": "Sugriva was said to be born of Surya, the sun-god, while Vali was born of Indra."
+    },
+    {
+      "id": "sugriva-q12",
+      "difficulty": "medium",
+      "q": "What sign did Sugriva send Hanuman to investigate when Rama and Lakshmana approached?",
+      "options": ["Two armed strangers nearing Rishyamukha", "A flying chariot in the sky", "A burning forest", "A messenger from Ravana"],
+      "answer": 0,
+      "explanation": "Fearing they were Vali's agents, Sugriva sent Hanuman to learn who the two strangers were."
+    },
+    {
+      "id": "sugriva-q13",
+      "difficulty": "medium",
+      "q": "What proof did Sugriva show Rama that Sita had passed that way?",
+      "options": ["Her crest-jewel", "A bundle of jewels and garments she dropped", "Her signet ring", "A lock of her hair"],
+      "answer": 1,
+      "explanation": "Sugriva produced ornaments Sita had cast down from Ravana's chariot as she was carried over Kishkindha."
+    },
+    {
+      "id": "sugriva-q14",
+      "difficulty": "medium",
+      "q": "How did Rama first demonstrate his strength to reassure Sugriva before their pact?",
+      "options": ["By lifting Mount Rishyamukha", "By piercing seven sal trees with a single arrow", "By draining a lake dry", "By breaking a great bow"],
+      "answer": 1,
+      "explanation": "Rama shot one arrow through seven sal trees, convincing Sugriva he could defeat Vali."
+    },
+    {
+      "id": "sugriva-q15",
+      "difficulty": "medium",
+      "q": "Why did Rama strike Vali from concealment rather than in open combat?",
+      "options": ["He feared Vali's mace", "Vali drained half the strength of any foe he faced", "Sugriva forbade a fair fight", "Vali was invisible in battle"],
+      "answer": 1,
+      "explanation": "Vali had a boon that took half an opponent's strength, so Rama struck from hiding to ensure his fall."
+    },
+    {
+      "id": "sugriva-q16",
+      "difficulty": "medium",
+      "q": "In the first duel, why did Rama fail to shoot Vali?",
+      "options": ["Vali fled before he could aim", "He could not tell Vali and Sugriva apart", "His bowstring snapped", "Lakshmana stayed his hand"],
+      "answer": 1,
+      "explanation": "The brothers looked alike, so Rama could not distinguish Sugriva from Vali in the melee."
+    },
+    {
+      "id": "sugriva-q17",
+      "difficulty": "medium",
+      "q": "What was tied around Sugriva's neck in the second duel so Rama could identify him?",
+      "options": ["A golden chain", "A garland of Gajapushpi flowers", "A red banner", "A string of bells"],
+      "answer": 1,
+      "explanation": "Lakshmana placed a garland of Gajapushpi (flowering creeper) on Sugriva to mark him out."
+    },
+    {
+      "id": "sugriva-q18",
+      "difficulty": "medium",
+      "q": "After regaining his throne, what did Sugriva initially do that angered Rama and Lakshmana?",
+      "options": ["He refused to fight Ravana", "He gave away the kingdom to Angada", "He delayed the search for Sita amid pleasures", "He demanded gold from Rama"],
+      "answer": 2,
+      "explanation": "Sugriva indulged in pleasures and forgot his promise, provoking Lakshmana's wrath until he resumed the search."
+    },
+    {
+      "id": "sugriva-q19",
+      "difficulty": "medium",
+      "q": "Who was Sugriva's chief wife and queen after he became king?",
+      "options": ["Ruma", "Tara", "Mandodari", "Trijata"],
+      "answer": 0,
+      "explanation": "Ruma was Sugriva's wife, whom Vali had earlier seized during the brothers' feud."
+    },
+    {
+      "id": "sugriva-q20",
+      "difficulty": "medium",
+      "q": "Whom did Sugriva appoint as crown prince (yuvaraja) of Kishkindha after Vali's death?",
+      "options": ["Hanuman", "Nala", "Angada, Vali's son", "Nila"],
+      "answer": 2,
+      "explanation": "Sugriva made Angada, Vali's son, the heir apparent of Kishkindha."
+    },
+    {
+      "id": "sugriva-q21",
+      "difficulty": "medium",
+      "q": "In which direction did Sugriva send the party led by Hanuman and Angada to seek Sita?",
+      "options": ["North", "East", "West", "South"],
+      "answer": 3,
+      "explanation": "Sugriva dispatched the southern search party, which ultimately learned Sita was in Lanka."
+    },
+    {
+      "id": "sugriva-q22",
+      "difficulty": "medium",
+      "q": "What deadline did Sugriva set for the vanaras to return from the search for Sita?",
+      "options": ["One month", "Seven days", "Three days", "One year"],
+      "answer": 0,
+      "explanation": "Sugriva ordered the search parties to return within one month, on pain of death for failure."
+    },
+    {
+      "id": "sugriva-q23",
+      "difficulty": "hard",
+      "q": "What was the original cause of the deadly rift between Sugriva and Vali?",
+      "options": ["A dispute over Ruma", "Vali's pursuit of the demon Mayavi into a cave", "A quarrel over the throne's succession", "An insult before the vanara court"],
+      "answer": 1,
+      "explanation": "Vali chased the demon Mayavi into a cave, and the misunderstanding over his fate split the brothers."
+    },
+    {
+      "id": "sugriva-q24",
+      "difficulty": "hard",
+      "q": "What did Sugriva do at the cave's mouth that Vali never forgave?",
+      "options": ["He sealed it with a boulder, believing Vali dead", "He set fire to the entrance", "He summoned Vali's enemies", "He stole Vali's weapons"],
+      "answer": 0,
+      "explanation": "Seeing blood and hearing no reply, Sugriva blocked the cave with a stone and returned, which Vali took as betrayal."
+    },
+    {
+      "id": "sugriva-q25",
+      "difficulty": "hard",
+      "q": "Why could Vali not enter Mount Rishyamukha to attack Sugriva?",
+      "options": ["A boon of Brahma protected the hill", "A curse of the sage Matanga barred him", "Indra had forbidden him", "The mountain was made of fire"],
+      "answer": 1,
+      "explanation": "The sage Matanga had cursed Vali to die if he set foot on Rishyamukha, making it Sugriva's refuge."
+    },
+    {
+      "id": "sugriva-q26",
+      "difficulty": "hard",
+      "q": "Which dying figure had earlier directed Rama and Lakshmana toward Sugriva?",
+      "options": ["Jatayu", "Kabandha", "Shabari", "Sampati"],
+      "answer": 1,
+      "explanation": "The slain demon Kabandha, freed from his curse, advised Rama to seek Sugriva's friendship."
+    },
+    {
+      "id": "sugriva-q27",
+      "difficulty": "hard",
+      "q": "Whose throwing of the demon Dundubhi's carcass had Vali once boasted of, prompting Rama to test his own strength against it?",
+      "options": ["Hanuman", "Vali", "Angada", "Nala"],
+      "answer": 1,
+      "explanation": "Vali had hurled the bones of the slain buffalo-demon Dundubhi, and Rama kicked the skeleton far to prove his might to Sugriva."
+    },
+    {
+      "id": "sugriva-q28",
+      "difficulty": "hard",
+      "q": "Who pleaded with Sugriva to make peace and avoid war with Vali, fearing the loss of her husband?",
+      "options": ["Ruma", "Tara", "Mandodari", "Sita"],
+      "answer": 1,
+      "explanation": "Tara, Vali's wise queen, counseled against the conflict, foreseeing the doom it would bring."
+    },
+    {
+      "id": "sugriva-q29",
+      "difficulty": "hard",
+      "q": "When Lakshmana came in anger to the palace over the delayed search, who calmed him and pacified the quarrel?",
+      "options": ["Hanuman", "Angada", "Tara", "Jambavan"],
+      "answer": 2,
+      "explanation": "Tara went out to meet the enraged Lakshmana and soothed him, allowing Sugriva to resume his duty."
+    },
+    {
+      "id": "sugriva-q30",
+      "difficulty": "hard",
+      "q": "During the final war, what notable feat did Sugriva himself perform against the rakshasas?",
+      "options": ["He slew Kumbhakarna", "He fought and wounded Ravana in single combat, tearing his crown", "He killed Indrajit", "He built the bridge to Lanka"],
+      "answer": 1,
+      "explanation": "Sugriva leapt upon Ravana, grappled with him, and tore away his crown before being thrown off."
+    }
+  ]
+}

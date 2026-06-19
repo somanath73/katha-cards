@@ -1,0 +1,245 @@
+{
+  "cardId": "sanjeevani",
+  "questions": [
+    {
+      "id": "sanjeevani-q01",
+      "difficulty": "easy",
+      "q": "What kind of object was the Sanjeevani?",
+      "options": ["A life-restoring herb", "A magical bow", "A golden chariot", "A sacred sword"],
+      "answer": 0,
+      "explanation": "The Sanjeevani was a luminous life-restoring medicinal herb."
+    },
+    {
+      "id": "sanjeevani-q02",
+      "difficulty": "easy",
+      "q": "Who was sent to fetch the Sanjeevani herb?",
+      "options": ["Rama", "Hanuman", "Sugriva", "Vibhishana"],
+      "answer": 1,
+      "explanation": "Hanuman was dispatched to bring the healing herb."
+    },
+    {
+      "id": "sanjeevani-q03",
+      "difficulty": "easy",
+      "q": "For whom was the Sanjeevani herb primarily sought during the war?",
+      "options": ["Sita", "Sugriva", "Lakshmana", "Jambavan"],
+      "answer": 2,
+      "explanation": "The herb was needed to revive the gravely wounded Lakshmana."
+    },
+    {
+      "id": "sanjeevani-q04",
+      "difficulty": "easy",
+      "q": "On what type of terrain did the Sanjeevani herb grow?",
+      "options": ["A Himalayan mountain peak", "An ocean island", "A desert plain", "A riverbank"],
+      "answer": 0,
+      "explanation": "The herb grew on a far Himalayan peak."
+    },
+    {
+      "id": "sanjeevani-q05",
+      "difficulty": "easy",
+      "q": "When Hanuman could not identify the herb, what did he do?",
+      "options": ["Returned empty-handed", "Carried back the entire mountain", "Asked Rama to come himself", "Set the mountain on fire"],
+      "answer": 1,
+      "explanation": "Unable to find the specific herb, Hanuman lifted and carried the whole mountain back."
+    },
+    {
+      "id": "sanjeevani-q06",
+      "difficulty": "easy",
+      "q": "In which war did the need for the Sanjeevani arise?",
+      "options": ["The war against Ravana in Lanka", "The churning of the ocean", "The Mahabharata war", "A war in Ayodhya"],
+      "answer": 0,
+      "explanation": "The herb was sought during Rama's war against Ravana at Lanka."
+    },
+    {
+      "id": "sanjeevani-q07",
+      "difficulty": "easy",
+      "q": "What special ability of Hanuman allowed him to carry the mountain?",
+      "options": ["Invisibility", "Immense strength and flight", "Shape-shifting into water", "Control over fire"],
+      "answer": 1,
+      "explanation": "Hanuman's tremendous strength and power of flight let him lift and fly with the mountain."
+    },
+    {
+      "id": "sanjeevani-q08",
+      "difficulty": "easy",
+      "q": "What effect did the Sanjeevani have on the wounded?",
+      "options": ["It put them to sleep", "It revived and healed them", "It made them invisible", "It granted them immortality forever"],
+      "answer": 1,
+      "explanation": "The herb restored life and healed grave battlefield wounds."
+    },
+    {
+      "id": "sanjeevani-q09",
+      "difficulty": "easy",
+      "q": "Hanuman is the son of which wind deity?",
+      "options": ["Agni", "Varuna", "Vayu", "Indra"],
+      "answer": 2,
+      "explanation": "Hanuman is the son of Vayu, the wind god, which aided his flight."
+    },
+    {
+      "id": "sanjeevani-q10",
+      "difficulty": "easy",
+      "q": "The Sanjeevani episode is most famously associated with which book of the Ramayana?",
+      "options": ["Bala Kanda", "Yuddha Kanda", "Aranya Kanda", "Kishkindha Kanda"],
+      "answer": 1,
+      "explanation": "The herb-and-mountain episode occurs during the war, narrated in the Yuddha Kanda."
+    },
+    {
+      "id": "sanjeevani-q11",
+      "difficulty": "medium",
+      "q": "Whose advice led to Hanuman being sent for the healing herbs?",
+      "options": ["The physician Sushena", "Vibhishana", "Angada", "Nala"],
+      "answer": 0,
+      "explanation": "Sushena, the vanara physician, identified the herbs needed and prescribed the remedy."
+    },
+    {
+      "id": "sanjeevani-q12",
+      "difficulty": "medium",
+      "q": "Which mountain is traditionally said to be the one Hanuman carried for the herbs?",
+      "options": ["Mount Meru", "Mount Mandara", "Dronagiri (Gandhamadana region)", "Mount Kailasa"],
+      "answer": 2,
+      "explanation": "Tradition names Dronagiri, in the Himalayan Gandhamadana region, as the mountain Hanuman bore."
+    },
+    {
+      "id": "sanjeevani-q13",
+      "difficulty": "medium",
+      "q": "Lakshmana fell gravely wounded by a powerful weapon hurled by which warrior?",
+      "options": ["Kumbhakarna", "Indrajit (Meghanada)", "Ravana", "Khara"],
+      "answer": 1,
+      "explanation": "Ravana's son Indrajit struck Lakshmana down with a deadly missile, prompting the search for the herb."
+    },
+    {
+      "id": "sanjeevani-q14",
+      "difficulty": "medium",
+      "q": "According to tradition, how many distinct healing herbs did Sushena require from the mountain?",
+      "options": ["A single herb only", "Four herbs", "Seven herbs", "Twelve herbs"],
+      "answer": 1,
+      "explanation": "Tradition holds that four great healing herbs were needed, including the Sanjeevani (Mritasanjivani)."
+    },
+    {
+      "id": "sanjeevani-q15",
+      "difficulty": "medium",
+      "q": "What made the herbs difficult for Hanuman to identify on the peak?",
+      "options": ["They were buried underground", "They glowed and looked alike, hiding themselves", "They were guarded by serpents", "They had withered away"],
+      "answer": 1,
+      "explanation": "The luminous herbs could not be singled out, so Hanuman took the whole mountain rather than guess wrong."
+    },
+    {
+      "id": "sanjeevani-q16",
+      "difficulty": "medium",
+      "q": "Whom did Hanuman encounter and battle on the way during the herb mission, according to many tellings?",
+      "options": ["Kalanemi, a demon sent by Ravana", "Maricha", "Subahu", "Tataka"],
+      "answer": 0,
+      "explanation": "Ravana sent the demon Kalanemi to delay Hanuman, but Hanuman overcame him."
+    },
+    {
+      "id": "sanjeevani-q17",
+      "difficulty": "medium",
+      "q": "Why was speed critical in retrieving the Sanjeevani?",
+      "options": ["The herb wilts at sunrise", "The cure had to be applied before daybreak", "Ravana would steal it first", "The ocean would flood Lanka"],
+      "answer": 1,
+      "explanation": "The healing had to be completed before sunrise, so Hanuman had to fly with great haste."
+    },
+    {
+      "id": "sanjeevani-q18",
+      "difficulty": "medium",
+      "q": "Who served as the vanara army's healer that applied the herbs?",
+      "options": ["Sushena", "Hanuman", "Sugriva", "Jambavan"],
+      "answer": 0,
+      "explanation": "The physician Sushena administered the herbs to revive Lakshmana."
+    },
+    {
+      "id": "sanjeevani-q19",
+      "difficulty": "medium",
+      "q": "Hanuman fetched the herbs while serving the army of which exiled monkey king?",
+      "options": ["Vali", "Sugriva", "Riksharajas", "Kesari"],
+      "answer": 1,
+      "explanation": "Hanuman served Sugriva, the vanara king allied with Rama."
+    },
+    {
+      "id": "sanjeevani-q20",
+      "difficulty": "medium",
+      "q": "In which mountain range did the Sanjeevani grow?",
+      "options": ["The Vindhyas", "The Himalayas", "The Western Ghats", "The Aravallis"],
+      "answer": 1,
+      "explanation": "The life-restoring herb grew on a peak in the far Himalayas."
+    },
+    {
+      "id": "sanjeevani-q21",
+      "difficulty": "medium",
+      "q": "What is the Sanskrit-derived meaning at the root of the name 'Sanjeevani'?",
+      "options": ["'That which scatters darkness'", "'That which restores life'", "'That which grants wealth'", "'That which brings rain'"],
+      "answer": 1,
+      "explanation": "Sanjeevani derives from roots meaning to fully revive or restore life."
+    },
+    {
+      "id": "sanjeevani-q22",
+      "difficulty": "medium",
+      "q": "After the herbs healed Lakshmana, what did Hanuman do with the mountain in many traditions?",
+      "options": ["Kept it in Lanka", "Carried it back and set it in its original place", "Threw it into the sea", "Gave it to Sugriva"],
+      "answer": 1,
+      "explanation": "Tradition holds that Hanuman returned the mountain to its rightful place in the Himalayas."
+    },
+    {
+      "id": "sanjeevani-q23",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, which two specific herbs are named among those Hanuman fetched, along with Sanjivani?",
+      "options": ["Vishalyakarani and Savarnyakarani", "Soma and Amrita", "Tulasi and Bilva", "Parijata and Kalpaka"],
+      "answer": 0,
+      "explanation": "Valmiki names Vishalyakarani (wound-closer) and Savarnyakarani (skin-color-restorer) among the herbs, alongside Sanjivani."
+    },
+    {
+      "id": "sanjeevani-q24",
+      "difficulty": "hard",
+      "q": "The herb Vishalyakarani, fetched with the Sanjeevani, was specifically meant to do what?",
+      "options": ["Restore natural skin color", "Draw out weapons and close wounds", "Revive the dead", "Restore lost memory"],
+      "answer": 1,
+      "explanation": "Vishalyakarani's function was to extract embedded weapons and heal the wounds they left."
+    },
+    {
+      "id": "sanjeevani-q25",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, on which earlier night does Lakshmana also fall, requiring Hanuman's first herb-mountain journey?",
+      "options": ["When struck by Indrajit's Brahmastra-empowered shakti weapon", "When bitten by a serpent", "When poisoned by Surpanakha", "When wounded by Kumbhakarna's mace"],
+      "answer": 0,
+      "explanation": "In Valmiki's telling Lakshmana is felled by Indrajit's mighty shakti (dart), prompting the herb mission."
+    },
+    {
+      "id": "sanjeevani-q26",
+      "difficulty": "hard",
+      "q": "Which deity, as Kalanemi's ally or in disguise, is said to have tried to deceive Hanuman during the herb mission in many regional retellings?",
+      "options": ["A false ascetic and an apsara-cursed crocodile sent by Ravana", "Indra disguised as a sage", "Yama in the form of a deer", "Kubera as a merchant"],
+      "answer": 0,
+      "explanation": "Kalanemi posed as an ascetic and used a cursed crocodile (a freed apsara) to try to trap Hanuman, who saw through the ruse."
+    },
+    {
+      "id": "sanjeevani-q27",
+      "difficulty": "hard",
+      "q": "According to the broader tradition, who was the original celestial physician credited with knowledge of such revival herbs?",
+      "options": ["Dhanvantari", "Brihaspati", "Vishvakarma", "Narada"],
+      "answer": 0,
+      "explanation": "Dhanvantari, the divine physician of the gods, is traditionally linked with such life-restoring medicine."
+    },
+    {
+      "id": "sanjeevani-q28",
+      "difficulty": "hard",
+      "q": "The mountain from which the herbs came is associated in tradition with which fragrant Himalayan region?",
+      "options": ["Gandhamadana", "Hemakuta", "Nishadha", "Trikuta"],
+      "answer": 0,
+      "explanation": "The herb-bearing peak is tied to the Gandhamadana ('intoxicating fragrance') region of the Himalayas."
+    },
+    {
+      "id": "sanjeevani-q29",
+      "difficulty": "hard",
+      "q": "Trikuta is the name associated in the Ramayana with which location, distinct from the herb mountain?",
+      "options": ["The mountain on which Ravana's Lanka stood", "The peak where the herbs grew", "Rama's birthplace", "The site of the bridge's start"],
+      "answer": 0,
+      "explanation": "Trikuta is the mountain on which the city of Lanka was built, not the Himalayan herb peak."
+    },
+    {
+      "id": "sanjeevani-q30",
+      "difficulty": "hard",
+      "q": "In Valmiki's account, after the herbs revived the fallen, what additionally happened to slain vanaras whose bodies had been cast into the sea?",
+      "options": ["They could not be revived, as their bodies were lost", "They all rose instantly from the seabed", "They turned into stars", "They were reborn as humans"],
+      "answer": 0,
+      "explanation": "Valmiki notes that vanaras whose bodies had been thrown into the ocean could not be revived by the herbs, since they were beyond reach."
+    }
+  ]
+}

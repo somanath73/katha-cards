@@ -1,0 +1,245 @@
+{
+  "cardId": "mithila",
+  "questions": [
+    {
+      "id": "mithila-q01",
+      "difficulty": "easy",
+      "q": "Mithila was the capital of which ancient kingdom?",
+      "options": ["Videha", "Kosala", "Kekaya", "Magadha"],
+      "answer": 0,
+      "explanation": "Mithila was the capital city of the Videha kingdom in the Ramayana."
+    },
+    {
+      "id": "mithila-q02",
+      "difficulty": "easy",
+      "q": "Which king ruled Mithila during the events of the Ramayana?",
+      "options": ["Dasharatha", "Janaka", "Sugriva", "Ravana"],
+      "answer": 1,
+      "explanation": "Mithila was ruled by the philosopher-king Janaka, father of Sita."
+    },
+    {
+      "id": "mithila-q03",
+      "difficulty": "easy",
+      "q": "Which heroine of the Ramayana was raised in Mithila?",
+      "options": ["Kaushalya", "Mandodari", "Sita", "Tara"],
+      "answer": 2,
+      "explanation": "Sita, the daughter of King Janaka, was raised in Mithila."
+    },
+    {
+      "id": "mithila-q04",
+      "difficulty": "easy",
+      "q": "What important ceremony for Sita was held at Mithila?",
+      "options": ["Her coronation", "Her swayamvara", "Her exile", "Her funeral"],
+      "answer": 1,
+      "explanation": "Sita's swayamvara, where her marriage was decided, was held at Mithila."
+    },
+    {
+      "id": "mithila-q05",
+      "difficulty": "easy",
+      "q": "King Janaka of Mithila is best remembered as a what kind of king?",
+      "options": ["Philosopher king", "Demon king", "Boy king", "Warrior tyrant"],
+      "answer": 0,
+      "explanation": "Janaka of Mithila is famed as a wise philosopher-king, detached and learned."
+    },
+    {
+      "id": "mithila-q06",
+      "difficulty": "easy",
+      "q": "Whose mighty bow was kept in Janaka's court at Mithila as the test for Sita's hand?",
+      "options": ["Vishnu's bow", "Indra's bow", "Shiva's bow", "Arjuna's bow"],
+      "answer": 2,
+      "explanation": "The great bow of Shiva, called Pinaka, was kept in Janaka's court at Mithila."
+    },
+    {
+      "id": "mithila-q07",
+      "difficulty": "easy",
+      "q": "Who traveled to Mithila and won Sita's hand by breaking Shiva's bow?",
+      "options": ["Rama", "Bharata", "Ravana", "Lakshmana"],
+      "answer": 0,
+      "explanation": "Rama broke Shiva's bow at Mithila and thereby won the hand of Sita."
+    },
+    {
+      "id": "mithila-q08",
+      "difficulty": "easy",
+      "q": "Sita is honored as the daughter of which element or being because of how Janaka found her?",
+      "options": ["The fire", "The earth", "The ocean", "The wind"],
+      "answer": 1,
+      "explanation": "Sita is called the daughter of the earth, found by Janaka in a furrow while ploughing."
+    },
+    {
+      "id": "mithila-q09",
+      "difficulty": "easy",
+      "q": "Which sage brought the young Rama and Lakshmana to Mithila?",
+      "options": ["Vasishtha", "Agastya", "Vishvamitra", "Narada"],
+      "answer": 2,
+      "explanation": "The sage Vishvamitra led Rama and Lakshmana to Mithila after their forest deeds."
+    },
+    {
+      "id": "mithila-q10",
+      "difficulty": "easy",
+      "q": "Mithila is described in the card as 'The City of' which king?",
+      "options": ["Janaka", "Dasharatha", "Vali", "Sugriva"],
+      "answer": 0,
+      "explanation": "The card's subtitle names Mithila 'The City of Janaka', its ruling king."
+    },
+    {
+      "id": "mithila-q11",
+      "difficulty": "medium",
+      "q": "What was the name of King Janaka of Mithila's celebrated bow that suitors had to string?",
+      "options": ["Gandiva", "Sharanga", "Pinaka", "Vijaya"],
+      "answer": 2,
+      "explanation": "The bow of Shiva at Mithila was the Pinaka, which suitors had to lift and string."
+    },
+    {
+      "id": "mithila-q12",
+      "difficulty": "medium",
+      "q": "How did King Janaka of Mithila first discover the infant Sita?",
+      "options": ["Floating in a river", "In a furrow while ploughing a field", "Inside a lotus", "On a battlefield"],
+      "answer": 1,
+      "explanation": "Janaka found the infant Sita in a furrow while ploughing a field, hence her earth-born origin."
+    },
+    {
+      "id": "mithila-q13",
+      "difficulty": "medium",
+      "q": "Whom did Rama and Lakshmana free from a curse on the road to Mithila?",
+      "options": ["Tataka", "Shurpanakha", "Ahalya", "Surasa"],
+      "answer": 2,
+      "explanation": "On the way to Mithila, Rama freed Ahalya from her curse, restoring her from stone."
+    },
+    {
+      "id": "mithila-q14",
+      "difficulty": "medium",
+      "q": "Besides Sita, which daughter of Janaka was married at Mithila to one of Rama's brothers?",
+      "options": ["Urmila", "Mandodari", "Tara", "Trijata"],
+      "answer": 0,
+      "explanation": "Urmila, daughter of Janaka, married Lakshmana at the joint wedding at Mithila."
+    },
+    {
+      "id": "mithila-q15",
+      "difficulty": "medium",
+      "q": "King Janaka of Mithila bore which patronymic title derived from his kingdom?",
+      "options": ["Maithila or Vaideha", "Kausalya", "Raghava", "Kakutstha"],
+      "answer": 0,
+      "explanation": "Janaka was titled Vaideha (of Videha) and his line was called Maithila, after Mithila."
+    },
+    {
+      "id": "mithila-q16",
+      "difficulty": "medium",
+      "q": "How many of Dasharatha's sons were married in the grand ceremony connected with Mithila?",
+      "options": ["One", "Two", "Three", "All four"],
+      "answer": 3,
+      "explanation": "All four of Dasharatha's sons were married at Mithila to Janaka's daughters and nieces."
+    },
+    {
+      "id": "mithila-q17",
+      "difficulty": "medium",
+      "q": "Which fierce sage-warrior confronted Rama soon after he broke the bow and left Mithila?",
+      "options": ["Parashurama", "Durvasa", "Bhrigu", "Kashyapa"],
+      "answer": 0,
+      "explanation": "Parashurama confronted Rama after the bow broke, challenging him as he departed Mithila."
+    },
+    {
+      "id": "mithila-q18",
+      "difficulty": "medium",
+      "q": "Why was the breaking of Shiva's bow at Mithila significant for Rama?",
+      "options": ["It revealed his more-than-mortal strength", "It made him king of Mithila", "It cursed him to exile", "It blinded the assembled kings"],
+      "answer": 0,
+      "explanation": "Breaking the colossal bow at Mithila announced Rama's more-than-mortal strength."
+    },
+    {
+      "id": "mithila-q19",
+      "difficulty": "medium",
+      "q": "What was Sita's principal epithet drawn from her upbringing in Mithila?",
+      "options": ["Maithili", "Kaikeyi", "Sumitra", "Devahuti"],
+      "answer": 0,
+      "explanation": "Sita is widely called Maithili, meaning 'of Mithila', after the city where she was raised."
+    },
+    {
+      "id": "mithila-q20",
+      "difficulty": "medium",
+      "q": "Before Rama, what was the fate of the kings who attempted to lift the bow at Mithila?",
+      "options": ["They could not even stir it", "They strung it easily", "They shattered it", "They stole it away"],
+      "answer": 0,
+      "explanation": "No king before Rama could even lift or stir the colossal bow at Mithila."
+    },
+    {
+      "id": "mithila-q21",
+      "difficulty": "medium",
+      "q": "Which messenger did Janaka send to Ayodhya to invite Dasharatha for the wedding at Mithila?",
+      "options": ["His own ministers and envoys", "Hanuman", "Sumantra", "Guha"],
+      "answer": 0,
+      "explanation": "Janaka dispatched his own ministers and envoys to Ayodhya to summon Dasharatha to Mithila."
+    },
+    {
+      "id": "mithila-q22",
+      "difficulty": "medium",
+      "q": "What was the agreed condition Janaka set for winning Sita's hand at Mithila?",
+      "options": ["Stringing or breaking Shiva's bow", "Winning a horse race", "Answering three riddles", "Slaying a forest demon"],
+      "answer": 0,
+      "explanation": "Janaka decreed that whoever could string Shiva's bow would win Sita's hand at Mithila."
+    },
+    {
+      "id": "mithila-q23",
+      "difficulty": "hard",
+      "q": "What is the name traditionally given to the dynasty or line of kings of Mithila that included Janaka?",
+      "options": ["The Janaka dynasty (Videha kings)", "The Ikshvaku dynasty", "The Pulastya line", "The Yadava clan"],
+      "answer": 0,
+      "explanation": "The rulers of Mithila were the line of Janakas, kings of Videha, distinct from Ayodhya's Ikshvakus."
+    },
+    {
+      "id": "mithila-q24",
+      "difficulty": "hard",
+      "q": "According to tradition, from which deity had the great bow at Mithila descended to Janaka's ancestors?",
+      "options": ["Shiva, who gave it after the destruction of Daksha's sacrifice", "Vishnu, after the churning of the ocean", "Indra, after defeating Vritra", "Brahma, at the world's creation"],
+      "answer": 0,
+      "explanation": "Tradition holds Shiva entrusted the bow to Janaka's ancestors after the Daksha sacrifice episode."
+    },
+    {
+      "id": "mithila-q25",
+      "difficulty": "hard",
+      "q": "Which other daughters or nieces of Janaka's house were given in marriage along with Sita and Urmila at Mithila?",
+      "options": ["Mandavi and Shrutakirti", "Tara and Mandodari", "Kaushalya and Sumitra", "Trijata and Sarama"],
+      "answer": 0,
+      "explanation": "Mandavi married Bharata and Shrutakirti married Shatrughna at the Mithila wedding."
+    },
+    {
+      "id": "mithila-q26",
+      "difficulty": "hard",
+      "q": "Janaka of Mithila is renowned in the Upanishadic tradition for a dialogue on Brahman with which sage?",
+      "options": ["Yajnavalkya", "Vishvamitra", "Vasishtha", "Bharadwaja"],
+      "answer": 0,
+      "explanation": "King Janaka is famous in the Brihadaranyaka Upanishad for his discourses with the sage Yajnavalkya."
+    },
+    {
+      "id": "mithila-q27",
+      "difficulty": "hard",
+      "q": "Shrutakirti and Mandavi, married at Mithila, were daughters of whom?",
+      "options": ["Kushadhwaja, Janaka's brother", "Dasharatha", "Vishvamitra", "Sumantra"],
+      "answer": 0,
+      "explanation": "Mandavi and Shrutakirti were daughters of Kushadhwaja, Janaka's brother, married alongside his own daughters."
+    },
+    {
+      "id": "mithila-q28",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, the events at Mithila that lead to the marriages are narrated within which kanda?",
+      "options": ["Bala Kanda", "Ayodhya Kanda", "Aranya Kanda", "Yuddha Kanda"],
+      "answer": 0,
+      "explanation": "The Mithila episode, including the bow and the weddings, is told in the Bala Kanda of Valmiki's Ramayana."
+    },
+    {
+      "id": "mithila-q29",
+      "difficulty": "hard",
+      "q": "The kingdom of Videha, whose capital was Mithila, lay in which general region relative to Ayodhya?",
+      "options": ["To the east, across the Ganga toward the Himalayan foothills", "Far to the south beyond the Vindhyas", "On an island in the western sea", "Deep within the Dandaka forest"],
+      "answer": 0,
+      "explanation": "Videha and Mithila lay to the east of Kosala, beyond the Ganga toward the northern plains."
+    },
+    {
+      "id": "mithila-q30",
+      "difficulty": "hard",
+      "q": "What special honor is associated with Janaka of Mithila that set him apart from ordinary kings?",
+      "options": ["He was a rajarshi, a royal sage detached from worldly attachment", "He could fly without a chariot", "He had ten heads like Ravana", "He was immortal and could not be slain"],
+      "answer": 0,
+      "explanation": "Janaka was esteemed as a rajarshi, a royal sage who ruled while remaining inwardly detached."
+    }
+  ]
+}

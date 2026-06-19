@@ -1,0 +1,245 @@
+{
+  "cardId": "sumitra",
+  "questions": [
+    {
+      "id": "sumitra-q01",
+      "difficulty": "easy",
+      "q": "Sumitra was one of the queens of which king of Ayodhya?",
+      "options": ["Dasharatha", "Janaka", "Rama", "Bharata"],
+      "answer": 0,
+      "explanation": "Sumitra was one of the three principal queens of King Dasharatha of Ayodhya."
+    },
+    {
+      "id": "sumitra-q02",
+      "difficulty": "easy",
+      "q": "How many sons did Sumitra give birth to?",
+      "options": ["One", "Two", "Three", "Four"],
+      "answer": 1,
+      "explanation": "Sumitra gave birth to twin sons, Lakshmana and Shatrughna."
+    },
+    {
+      "id": "sumitra-q03",
+      "difficulty": "easy",
+      "q": "Sumitra is best known as the mother of which pair of brothers?",
+      "options": ["Rama and Bharata", "Lakshmana and Shatrughna", "Rama and Lakshmana", "Bharata and Shatrughna"],
+      "answer": 1,
+      "explanation": "Sumitra was the mother of the twins Lakshmana and Shatrughna."
+    },
+    {
+      "id": "sumitra-q04",
+      "difficulty": "easy",
+      "q": "Among Dasharatha's queens, what was Sumitra's rank?",
+      "options": ["First queen", "Second queen", "Third queen", "Fourth queen"],
+      "answer": 2,
+      "explanation": "Sumitra was the third queen of Dasharatha, after Kausalya and Kaikeyi."
+    },
+    {
+      "id": "sumitra-q05",
+      "difficulty": "easy",
+      "q": "Lakshmana, one of Sumitra's sons, was the constant companion of which brother?",
+      "options": ["Rama", "Bharata", "Shatrughna", "Indrajit"],
+      "answer": 0,
+      "explanation": "Lakshmana devotedly accompanied Rama, including during the fourteen years of exile."
+    },
+    {
+      "id": "sumitra-q06",
+      "difficulty": "easy",
+      "q": "Sumitra's son Shatrughna was especially attached to which of his brothers?",
+      "options": ["Rama", "Lakshmana", "Bharata", "Vibhishana"],
+      "answer": 2,
+      "explanation": "Shatrughna served as the close companion of Bharata, just as Lakshmana served Rama."
+    },
+    {
+      "id": "sumitra-q07",
+      "difficulty": "easy",
+      "q": "Sumitra's sons were born as a result of which ritual performed by Dasharatha?",
+      "options": ["A coronation ceremony", "A son-granting sacrifice (Putrakameshti)", "A wedding ceremony", "A funeral rite"],
+      "answer": 1,
+      "explanation": "Dasharatha's sons were born after the Putrakameshti, a sacrifice performed to obtain sons."
+    },
+    {
+      "id": "sumitra-q08",
+      "difficulty": "easy",
+      "q": "In the famous tale, Dasharatha's queens received a divine substance to eat that led to the birth of the four sons. What was it?",
+      "options": ["Sacred ash", "Holy water", "Divine payasam (sweet rice pudding)", "A golden fruit"],
+      "answer": 2,
+      "explanation": "The queens consumed a divine payasam given by a being who emerged from the sacrificial fire."
+    },
+    {
+      "id": "sumitra-q09",
+      "difficulty": "easy",
+      "q": "Sumitra's son Lakshmana is remembered above all for which quality toward Rama?",
+      "options": ["Jealousy", "Unwavering loyalty and service", "Cowardice", "Greed"],
+      "answer": 1,
+      "explanation": "Lakshmana is celebrated for his unwavering loyalty and devoted service to his elder brother Rama."
+    },
+    {
+      "id": "sumitra-q10",
+      "difficulty": "easy",
+      "q": "When Rama was exiled to the forest, how did Sumitra react to her son Lakshmana going with him?",
+      "options": ["She forbade him from going", "She encouraged him to serve Rama faithfully", "She demanded he stay to rule", "She was unaware of the exile"],
+      "answer": 1,
+      "explanation": "Sumitra blessed Lakshmana and encouraged him to serve Rama and Sita devotedly in the forest."
+    },
+    {
+      "id": "sumitra-q11",
+      "difficulty": "medium",
+      "q": "Which queen received the largest single share of the divine payasam, and what did Sumitra receive?",
+      "options": ["Kausalya received half; Sumitra received a portion that gave her twins", "Kaikeyi received all; Sumitra received none", "Sumitra received half; the others received nothing", "All three received equal thirds"],
+      "answer": 0,
+      "explanation": "Kausalya received the first major portion, and Sumitra was given a share twice (according to tradition), which resulted in her twin sons."
+    },
+    {
+      "id": "sumitra-q12",
+      "difficulty": "medium",
+      "q": "Sumitra is often described in the tradition as embodying which virtue, fitting the meaning of her name?",
+      "options": ["A good friend or well-disposed one", "A fierce warrior", "A cunning schemer", "A wandering ascetic"],
+      "answer": 0,
+      "explanation": "The name 'Sumitra' means 'good friend' or 'well-disposed,' reflecting her gentle and supportive nature."
+    },
+    {
+      "id": "sumitra-q13",
+      "difficulty": "medium",
+      "q": "Unlike Kaikeyi, what was Sumitra's stance regarding Rama's exile and Bharata's coronation?",
+      "options": ["She supported Kaikeyi's demands", "She remained loyal to Rama and grieved the injustice", "She plotted with Manthara", "She demanded the throne for her own sons"],
+      "answer": 1,
+      "explanation": "Sumitra remained loyal to Rama and lamented the exile rather than seeking advantage for her own sons."
+    },
+    {
+      "id": "sumitra-q14",
+      "difficulty": "medium",
+      "q": "Which of Sumitra's sons later killed the demon Lavana and founded the city of Mathura?",
+      "options": ["Lakshmana", "Shatrughna", "Bharata", "Rama"],
+      "answer": 1,
+      "explanation": "Shatrughna slew the demon Lavana and established the city of Mathura in his region."
+    },
+    {
+      "id": "sumitra-q15",
+      "difficulty": "medium",
+      "q": "Sumitra's son Lakshmana married which princess of Mithila, a sister of Sita?",
+      "options": ["Mandavi", "Shrutakirti", "Urmila", "Ahalya"],
+      "answer": 2,
+      "explanation": "Lakshmana married Urmila, the daughter of King Janaka and a sister of Sita."
+    },
+    {
+      "id": "sumitra-q16",
+      "difficulty": "medium",
+      "q": "Sumitra's son Shatrughna married which princess, a cousin of Sita raised in Janaka's household?",
+      "options": ["Urmila", "Mandavi", "Shrutakirti", "Tara"],
+      "answer": 2,
+      "explanation": "Shatrughna married Shrutakirti, niece of King Janaka, during the joint weddings at Mithila."
+    },
+    {
+      "id": "sumitra-q17",
+      "difficulty": "medium",
+      "q": "When Dasharatha died of grief after Rama's departure, what was Sumitra's situation among the queens?",
+      "options": ["She became queen regent", "She was a grieving widow alongside Kausalya", "She left Ayodhya forever", "She was banished"],
+      "answer": 1,
+      "explanation": "After Dasharatha's death, Sumitra remained in Ayodhya as a grieving widow, sharing sorrow with Kausalya."
+    },
+    {
+      "id": "sumitra-q18",
+      "difficulty": "medium",
+      "q": "Why is Sumitra traditionally praised for the way she raised her sons?",
+      "options": ["She taught them to seek power for themselves", "She raised them to selflessly serve their elder brothers", "She kept them away from Rama and Bharata", "She trained them only in statecraft"],
+      "answer": 1,
+      "explanation": "Sumitra is praised because she raised Lakshmana and Shatrughna to serve their elder brothers with humility and devotion."
+    },
+    {
+      "id": "sumitra-q19",
+      "difficulty": "medium",
+      "q": "In the lineage of Dasharatha's house, to which dynasty did Sumitra's sons belong by birth?",
+      "options": ["The Lunar (Chandravamsha) dynasty", "The Solar (Suryavamsha / Ikshvaku) dynasty", "The Yadava dynasty", "The Kuru dynasty"],
+      "answer": 1,
+      "explanation": "As sons of Dasharatha, Sumitra's children belonged to the Solar dynasty of the Ikshvaku line."
+    },
+    {
+      "id": "sumitra-q20",
+      "difficulty": "medium",
+      "q": "What is the relationship between Sumitra and Kausalya, the chief queen?",
+      "options": ["They were rivals plotting against each other", "They were co-wives who remained mutually affectionate", "They were sisters by birth", "They never met"],
+      "answer": 1,
+      "explanation": "Sumitra and Kausalya were co-wives of Dasharatha who shared a bond of mutual affection and grief."
+    },
+    {
+      "id": "sumitra-q21",
+      "difficulty": "medium",
+      "q": "When Bharata refused the throne and went to bring Rama back, how did Sumitra's son Shatrughna participate?",
+      "options": ["He stayed behind to seize power", "He accompanied Bharata on the journey", "He opposed Bharata", "He joined Rama in exile permanently"],
+      "answer": 1,
+      "explanation": "Shatrughna accompanied his beloved brother Bharata when Bharata went to the forest to plead with Rama."
+    },
+    {
+      "id": "sumitra-q22",
+      "difficulty": "medium",
+      "q": "Sumitra is generally portrayed in the Ramayana as a queen of what temperament?",
+      "options": ["Wise, calm, and self-effacing", "Ambitious and jealous", "Wrathful and vengeful", "Indifferent to her children"],
+      "answer": 0,
+      "explanation": "Sumitra is portrayed as wise, calm, and self-effacing, placing the family's harmony above personal ambition."
+    },
+    {
+      "id": "sumitra-q23",
+      "difficulty": "hard",
+      "q": "According to the widely told version of the payasam distribution, why did Sumitra end up with twins?",
+      "options": ["She prayed twice as long", "She received shares from both Kausalya and Kaikeyi, or a double portion", "She ate the largest fruit", "She was the youngest queen"],
+      "answer": 1,
+      "explanation": "In the popular telling, Sumitra received portions passed on from the other queens (a double share), and so bore two sons."
+    },
+    {
+      "id": "sumitra-q24",
+      "difficulty": "hard",
+      "q": "In the structure of the four brothers, Sumitra's twins are traditionally paired as 'shadows' of which two brothers respectively?",
+      "options": ["Lakshmana to Bharata, Shatrughna to Rama", "Lakshmana to Rama, Shatrughna to Bharata", "Both twins to Rama", "Both twins to Bharata"],
+      "answer": 1,
+      "explanation": "Tradition pairs Lakshmana as the companion-shadow of Rama and Shatrughna as the companion-shadow of Bharata."
+    },
+    {
+      "id": "sumitra-q25",
+      "difficulty": "hard",
+      "q": "Who was the divine sage or being commonly said to have emerged from Dasharatha's sacrificial fire bearing the payasam that led to Sumitra's sons?",
+      "options": ["A being from the fire holding a golden vessel of payasam", "The god Indra in person", "The sage Vishvamitra", "A celestial swan"],
+      "answer": 0,
+      "explanation": "A divine being arose from the sacrificial fire holding a golden vessel of payasam, which was shared among the queens."
+    },
+    {
+      "id": "sumitra-q26",
+      "difficulty": "hard",
+      "q": "Which sage presided over and instructed Dasharatha in the great son-granting sacrifice that ultimately gave Sumitra her sons?",
+      "options": ["Rishyasringa", "Valmiki", "Agastya", "Durvasa"],
+      "answer": 0,
+      "explanation": "The sage Rishyasringa was invited to conduct the sacrifice that brought about the birth of Dasharatha's four sons."
+    },
+    {
+      "id": "sumitra-q27",
+      "difficulty": "hard",
+      "q": "Urmila, the wife of Sumitra's son Lakshmana, is remembered in tradition for what act of devotion during the exile?",
+      "options": ["She joined Lakshmana in the forest", "She slept on Lakshmana's behalf so he could stay awake serving Rama (Urmila's sleep)", "She ruled Ayodhya as queen", "She rejected Lakshmana"],
+      "answer": 1,
+      "explanation": "Tradition holds that Urmila accepted sleep for both herself and Lakshmana so he could remain awake guarding Rama and Sita, a tale known as Urmila's sleep (Urmila Nidra)."
+    },
+    {
+      "id": "sumitra-q28",
+      "difficulty": "hard",
+      "q": "In later tradition, after Rama's reign, Sumitra's son Shatrughna's sons were given which territory?",
+      "options": ["They ruled regions near Mathura, including Madhupura/Mathura and Vidisha", "They were given Lanka", "They inherited Kishkindha", "They received Mithila"],
+      "answer": 0,
+      "explanation": "Shatrughna's sons, Subahu and Shatrughati, were established to rule territories around Mathura (Madhupura) and Vidisha."
+    },
+    {
+      "id": "sumitra-q29",
+      "difficulty": "hard",
+      "q": "What does the consistent characterization of Sumitra reveal about her role in the moral design of the Ramayana?",
+      "options": ["She represents ambition that disrupts the family", "She embodies the selfless support that holds the brotherhood together", "She is a neutral, unimportant figure", "She is the chief antagonist of the queens"],
+      "answer": 1,
+      "explanation": "Sumitra embodies selfless support and harmony, raising sons whose service binds the four brothers together as an ideal family."
+    },
+    {
+      "id": "sumitra-q30",
+      "difficulty": "hard",
+      "q": "Compared with Kaikeyi, whose demands drove the central conflict, how does the Ramayana use Sumitra as a contrast?",
+      "options": ["Both are equally responsible for the exile", "Sumitra's selflessness highlights the danger of Kaikeyi's ambition", "Sumitra is shown as more ambitious than Kaikeyi", "There is no contrast drawn between them"],
+      "answer": 1,
+      "explanation": "Sumitra's quiet selflessness stands as a deliberate moral contrast to Kaikeyi's ambition, which precipitated Rama's exile."
+    }
+  ]
+}

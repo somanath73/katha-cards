@@ -1,0 +1,245 @@
+{
+  "cardId": "nala",
+  "questions": [
+    {
+      "id": "nala-q01",
+      "difficulty": "easy",
+      "q": "What was Nala famous for building in the Ramayana?",
+      "options": ["A flying chariot", "A bridge across the ocean to Lanka", "A golden palace in Ayodhya", "A fortress in Kishkindha"],
+      "answer": 1,
+      "explanation": "Nala is celebrated as the vanara who engineered the great causeway across the sea to Lanka."
+    },
+    {
+      "id": "nala-q02",
+      "difficulty": "easy",
+      "q": "To which race of beings did Nala belong?",
+      "options": ["Rakshasas", "Devas", "Vanaras", "Nagas"],
+      "answer": 2,
+      "explanation": "Nala was a vanara, one of the monkey-folk who served in Rama's army."
+    },
+    {
+      "id": "nala-q03",
+      "difficulty": "easy",
+      "q": "The bridge Nala built led across the sea to which island?",
+      "options": ["Lanka", "Mithila", "Kishkindha", "Ayodhya"],
+      "answer": 0,
+      "explanation": "The causeway spanned the ocean to Lanka, the island stronghold of Ravana."
+    },
+    {
+      "id": "nala-q04",
+      "difficulty": "easy",
+      "q": "Whose army was Nala a part of when he built the bridge?",
+      "options": ["Ravana's army", "Rama's army", "Indra's army", "Vali's army"],
+      "answer": 1,
+      "explanation": "Nala served in Rama's vanara host that marched against Ravana."
+    },
+    {
+      "id": "nala-q05",
+      "difficulty": "easy",
+      "q": "What special skill is Nala best known for?",
+      "options": ["Archery", "Architecture and engineering", "Singing", "Shape-shifting"],
+      "answer": 1,
+      "explanation": "Nala is the vanara architect, renowned for his engineering skill in constructing the causeway."
+    },
+    {
+      "id": "nala-q06",
+      "difficulty": "easy",
+      "q": "What materials did the vanaras use to build Nala's bridge?",
+      "options": ["Iron and bronze", "Boulders and tree-trunks", "Ice and snow", "Clay bricks"],
+      "answer": 1,
+      "explanation": "The vanara host bridged the sea with great rocks, boulders, and felled trees."
+    },
+    {
+      "id": "nala-q07",
+      "difficulty": "easy",
+      "q": "Nala was the son of which kind of figure?",
+      "options": ["A demon-king", "A divine craftsman", "A river-god", "A mortal king"],
+      "answer": 1,
+      "explanation": "Nala was the son of a divine craftsman, from whom he inherited his building talent."
+    },
+    {
+      "id": "nala-q08",
+      "difficulty": "easy",
+      "q": "Why did Rama's army need a bridge in the first place?",
+      "options": ["To cross a mountain range", "To cross the ocean separating them from Lanka", "To cross a desert", "To cross the Sarayu river"],
+      "answer": 1,
+      "explanation": "The vast ocean lay between the army on the mainland and Ravana's island of Lanka."
+    },
+    {
+      "id": "nala-q09",
+      "difficulty": "easy",
+      "q": "The bridge built by Nala is traditionally known by which name?",
+      "options": ["Rama Setu", "Lakshman Rekha", "Pushpaka", "Sanjeevani"],
+      "answer": 0,
+      "explanation": "The causeway is famously called Rama Setu, the bridge of Rama."
+    },
+    {
+      "id": "nala-q10",
+      "difficulty": "easy",
+      "q": "What was the purpose of Rama crossing the bridge to Lanka?",
+      "options": ["To trade with Ravana", "To rescue Sita from Ravana", "To attend a swayamvara", "To visit the sage Agastya"],
+      "answer": 1,
+      "explanation": "Rama crossed to Lanka to wage war on Ravana and rescue his abducted wife, Sita."
+    },
+    {
+      "id": "nala-q11",
+      "difficulty": "medium",
+      "q": "According to popular tradition, why did the stones used in the bridge float on the water?",
+      "options": ["They were made of light pumice", "The name of Rama was written upon them", "They were enchanted by Vibhishana", "They were hollow inside"],
+      "answer": 1,
+      "explanation": "Tradition holds that stones inscribed with the name of Rama floated upon the sea."
+    },
+    {
+      "id": "nala-q12",
+      "difficulty": "medium",
+      "q": "In the Valmiki Ramayana, who was the deity of the sea that the army first sought to appease before building?",
+      "options": ["Agni", "Varuna (the ocean / Samudra)", "Vayu", "Surya"],
+      "answer": 1,
+      "explanation": "Rama appealed to the lord of the ocean, Samudra (Varuna), who then advised that Nala should build the bridge."
+    },
+    {
+      "id": "nala-q13",
+      "difficulty": "medium",
+      "q": "Which divine craftsman is named in tradition as Nala's father?",
+      "options": ["Vishwakarma", "Tvashtar", "Brahma", "Maya the asura"],
+      "answer": 0,
+      "explanation": "Nala is traditionally said to be the son of Vishwakarma, the architect of the gods, which explains his skill."
+    },
+    {
+      "id": "nala-q14",
+      "difficulty": "medium",
+      "q": "How long did it take the vanaras to complete the bridge, according to the Valmiki Ramayana?",
+      "options": ["A single day", "Five days", "One month", "One year"],
+      "answer": 1,
+      "explanation": "Valmiki's Ramayana states the causeway was completed in five days by the vanara host under Nala."
+    },
+    {
+      "id": "nala-q15",
+      "difficulty": "medium",
+      "q": "Which vanara is often paired with Nala as a fellow builder of the bridge in later tradition?",
+      "options": ["Nila", "Sugriva", "Angada", "Jambavan"],
+      "answer": 0,
+      "explanation": "In many retellings Nila is named alongside Nala as a co-builder of the great causeway."
+    },
+    {
+      "id": "nala-q16",
+      "difficulty": "medium",
+      "q": "The bridge enabled which major phase of the epic to begin?",
+      "options": ["The exile of Rama", "The siege and war at Lanka", "Sita's swayamvara", "The search in Kishkindha"],
+      "answer": 1,
+      "explanation": "Once the army crossed, the war against Ravana and the siege of Lanka commenced."
+    },
+    {
+      "id": "nala-q17",
+      "difficulty": "medium",
+      "q": "Roughly how long was the bridge said to be in the Valmiki Ramayana?",
+      "options": ["Ten yojanas long", "A hundred yojanas long", "A thousand yojanas wide", "One yojana long"],
+      "answer": 1,
+      "explanation": "Valmiki describes the causeway as a hundred yojanas long and ten yojanas wide."
+    },
+    {
+      "id": "nala-q18",
+      "difficulty": "medium",
+      "q": "Which event immediately followed the army's crossing of the bridge?",
+      "options": ["The breaking of Shiva's bow", "The encampment before Lanka and the war", "The burning of Lanka by Hanuman", "The abduction of Sita"],
+      "answer": 1,
+      "explanation": "After crossing, Rama's host encamped before Lanka, leading into the great battle."
+    },
+    {
+      "id": "nala-q19",
+      "difficulty": "medium",
+      "q": "Hanuman had already reached Lanka before the bridge was built. How did he do so?",
+      "options": ["By walking on water", "By leaping across the ocean", "By using the Pushpaka chariot", "By a boat from Guha"],
+      "answer": 1,
+      "explanation": "Hanuman crossed by his mighty leap over the sea; the bridge was needed only for the whole army."
+    },
+    {
+      "id": "nala-q20",
+      "difficulty": "medium",
+      "q": "Which righteous brother of Ravana joined Rama before the bridge was built?",
+      "options": ["Kumbhakarna", "Vibhishana", "Indrajit", "Khara"],
+      "answer": 1,
+      "explanation": "Vibhishana, Ravana's virtuous brother, defected to Rama and aided the army at the shore."
+    },
+    {
+      "id": "nala-q21",
+      "difficulty": "medium",
+      "q": "What is the modern geographic feature traditionally identified with Nala's bridge?",
+      "options": ["The Palk Strait chain of shoals between India and Sri Lanka", "The Ganges delta", "The Himalayan passes", "The Thar Desert"],
+      "answer": 0,
+      "explanation": "The chain of limestone shoals between India and Sri Lanka, called Adam's Bridge, is identified with Rama Setu."
+    },
+    {
+      "id": "nala-q22",
+      "difficulty": "medium",
+      "q": "The vanaras gathered the boulders and trees for the bridge mainly from where?",
+      "options": ["The depths of the ocean", "Nearby mountains and forests", "Ravana's quarries", "The ruins of Kishkindha"],
+      "answer": 1,
+      "explanation": "The vanaras uprooted trees and tore rocks from the surrounding mountains and forests to cast into the sea."
+    },
+    {
+      "id": "nala-q23",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, the ocean-lord advised that Nala could build the bridge because of which fact about Nala?",
+      "options": ["He was the strongest vanara", "He was a son of the divine architect Vishwakarma and shared his power", "He could breathe underwater", "He owned a magical chisel"],
+      "answer": 1,
+      "explanation": "Samudra revealed that Nala, son of Vishwakarma, possessed his father's creative power and could span the sea."
+    },
+    {
+      "id": "nala-q24",
+      "difficulty": "hard",
+      "q": "What did Rama do that finally moved the ocean-deity to appear and offer help?",
+      "options": ["He threatened to dry up the sea with a fiery weapon", "He performed a hundred horse sacrifices", "He fasted for a year", "He prayed silently for a single night"],
+      "answer": 0,
+      "explanation": "When the sea ignored him, Rama took up a blazing arrow to dry the ocean, and the terrified Samudra then appeared."
+    },
+    {
+      "id": "nala-q25",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, how wide was the causeway said to be?",
+      "options": ["One yojana wide", "Ten yojanas wide", "A hundred yojanas wide", "Half a yojana wide"],
+      "answer": 1,
+      "explanation": "Valmiki gives the bridge's dimensions as a hundred yojanas long and ten yojanas wide."
+    },
+    {
+      "id": "nala-q26",
+      "difficulty": "hard",
+      "q": "According to the Valmiki Ramayana, how much of the bridge did the mighty vanaras complete on the first day?",
+      "options": ["Fourteen yojanas", "Twenty yojanas", "Five yojanas", "Fifty yojanas"],
+      "answer": 0,
+      "explanation": "Valmiki records that fourteen yojanas of the bridge were raised on the first day of work."
+    },
+    {
+      "id": "nala-q27",
+      "difficulty": "hard",
+      "q": "In the Valmiki Ramayana, when Rama directed his blazing weapon, the ocean-lord asked him to instead release the arrow upon which region of evil-doers?",
+      "options": ["A northern region called Drumakulya inhabited by sinful dwellers", "The forest of Dandaka", "The deserts of Sindh", "The peaks of the Himalayas"],
+      "answer": 0,
+      "explanation": "Samudra asked Rama to loose the arrow on Drumakulya in the north, whose wicked inhabitants troubled the sea."
+    },
+    {
+      "id": "nala-q28",
+      "difficulty": "hard",
+      "q": "Which weapon or missile was Rama about to use against the sea before Samudra relented?",
+      "options": ["The Naga-pasha", "A Brahmastra-class fiery arrow", "Shiva's bow Pinaka", "The Sudarshana chakra"],
+      "answer": 1,
+      "explanation": "Rama fitted a fearsome, blazing arrow of the Brahma weapon to his bow to dry the sea before Samudra yielded."
+    },
+    {
+      "id": "nala-q29",
+      "difficulty": "hard",
+      "q": "After the war, the Pushpaka Vimana, not Nala's bridge, was used for what journey?",
+      "options": ["Carrying Rama and Sita back home to Ayodhya", "Bringing the vanara army to Lanka", "Transporting the Sanjeevani mountain", "Ferrying Rama across the Ganga in exile"],
+      "answer": 0,
+      "explanation": "The flying chariot Pushpaka bore Rama, Sita, and their companions back to Ayodhya after Ravana's defeat."
+    },
+    {
+      "id": "nala-q30",
+      "difficulty": "hard",
+      "q": "Which of these statements about Nala's role in the epic is accurate?",
+      "options": ["He slew Ravana in single combat", "He was the chief architect who directed the building of the sea-bridge", "He was Ravana's spy", "He drew the Lakshman Rekha around Sita's hut"],
+      "answer": 1,
+      "explanation": "Nala's defining role is as the architect who led the construction of the causeway to Lanka."
+    }
+  ]
+}

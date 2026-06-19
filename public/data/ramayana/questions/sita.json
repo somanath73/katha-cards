@@ -1,0 +1,245 @@
+{
+  "cardId": "sita",
+  "questions": [
+    {
+      "id": "sita-q01",
+      "difficulty": "easy",
+      "q": "Who is Sita's father in the Ramayana?",
+      "options": ["King Janaka", "King Dasharatha", "Sage Vishvamitra", "King Sugriva"],
+      "answer": 0,
+      "explanation": "Sita is the adopted daughter of King Janaka, the ruler of Mithila."
+    },
+    {
+      "id": "sita-q02",
+      "difficulty": "easy",
+      "q": "Whom does Sita marry in the Ramayana?",
+      "options": ["Lakshmana", "Bharata", "Rama", "Ravana"],
+      "answer": 2,
+      "explanation": "Sita marries Rama, the prince of Ayodhya, after he breaks Shiva's bow."
+    },
+    {
+      "id": "sita-q03",
+      "difficulty": "easy",
+      "q": "Of which goddess is Sita considered an incarnation?",
+      "options": ["Saraswati", "Lakshmi", "Parvati", "Durga"],
+      "answer": 1,
+      "explanation": "Sita is traditionally regarded as an incarnation of the goddess Lakshmi, consort of Vishnu."
+    },
+    {
+      "id": "sita-q04",
+      "difficulty": "easy",
+      "q": "From what was Sita said to have been born?",
+      "options": ["A lotus flower", "The ocean foam", "A furrow in the earth", "A sacrificial fire"],
+      "answer": 2,
+      "explanation": "Janaka found Sita in a furrow while ploughing a field, so she is called a daughter of the earth."
+    },
+    {
+      "id": "sita-q05",
+      "difficulty": "easy",
+      "q": "Which demon-king abducts Sita from the forest?",
+      "options": ["Ravana", "Kumbhakarna", "Indrajit", "Khara"],
+      "answer": 0,
+      "explanation": "Ravana, the ten-headed king of Lanka, abducts Sita and carries her away to his island kingdom."
+    },
+    {
+      "id": "sita-q06",
+      "difficulty": "easy",
+      "q": "In which city was Sita raised before her marriage?",
+      "options": ["Ayodhya", "Lanka", "Kishkindha", "Mithila"],
+      "answer": 3,
+      "explanation": "Sita grew up in Mithila, the capital of the Videha kingdom ruled by her father Janaka."
+    },
+    {
+      "id": "sita-q07",
+      "difficulty": "easy",
+      "q": "Who accompanies Rama and Sita into exile in the forest?",
+      "options": ["Lakshmana", "Bharata", "Shatrughna", "Sumantra"],
+      "answer": 0,
+      "explanation": "Lakshmana, Rama's devoted brother, chose to follow Rama and Sita into the fourteen-year exile."
+    },
+    {
+      "id": "sita-q08",
+      "difficulty": "easy",
+      "q": "In which kingdom was Sita held captive after her abduction?",
+      "options": ["Kishkindha", "Lanka", "Kosala", "Videha"],
+      "answer": 1,
+      "explanation": "Ravana imprisoned Sita in his island kingdom of Lanka."
+    },
+    {
+      "id": "sita-q09",
+      "difficulty": "easy",
+      "q": "What is Sita most celebrated for in the epic?",
+      "options": ["Her skill in warfare", "Her devotion, purity, and endurance", "Her mastery of statecraft", "Her wealth and palaces"],
+      "answer": 1,
+      "explanation": "Sita's devotion, purity, and endurance make her the moral heart of the Ramayana."
+    },
+    {
+      "id": "sita-q10",
+      "difficulty": "easy",
+      "q": "Which vanara hero finds Sita in captivity and brings her news of Rama?",
+      "options": ["Sugriva", "Angada", "Hanuman", "Jambavan"],
+      "answer": 2,
+      "explanation": "Hanuman leaps across the ocean to Lanka, finds Sita in the Ashoka grove, and assures her of Rama's coming."
+    },
+    {
+      "id": "sita-q11",
+      "difficulty": "medium",
+      "q": "What is the kingdom over which Sita's father Janaka ruled called?",
+      "options": ["Kosala", "Videha", "Kekaya", "Magadha"],
+      "answer": 1,
+      "explanation": "Janaka ruled the kingdom of Videha, whose capital was Mithila."
+    },
+    {
+      "id": "sita-q12",
+      "difficulty": "medium",
+      "q": "What was the condition Janaka set for the marriage of Sita?",
+      "options": ["Stringing and breaking Shiva's bow", "Winning a chariot race", "Solving a riddle of the Vedas", "Defeating Janaka in single combat"],
+      "answer": 0,
+      "explanation": "Janaka declared that whoever could string Shiva's mighty bow, Pinaka, would win Sita's hand."
+    },
+    {
+      "id": "sita-q13",
+      "difficulty": "medium",
+      "q": "In which grove of Lanka was Sita kept prisoner by Ravana?",
+      "options": ["Nandana Vana", "Madhuvana", "Ashoka Vatika", "Panchavati"],
+      "answer": 2,
+      "explanation": "Sita was held in the Ashoka Vatika, a grove of ashoka trees in Lanka, guarded by rakshasis."
+    },
+    {
+      "id": "sita-q14",
+      "difficulty": "medium",
+      "q": "What lure did Ravana use to draw Rama away before abducting Sita?",
+      "options": ["A golden deer", "A talking peacock", "A magical horse", "A celestial swan"],
+      "answer": 0,
+      "explanation": "Maricha took the form of a golden deer, and at Sita's request Rama chased it, leaving her unguarded."
+    },
+    {
+      "id": "sita-q15",
+      "difficulty": "medium",
+      "q": "What token did Hanuman give Sita to prove he came from Rama?",
+      "options": ["Rama's bow", "Rama's signet ring", "Rama's crown", "Rama's sandals"],
+      "answer": 1,
+      "explanation": "Hanuman carried Rama's signet ring to Sita as proof that he was truly Rama's messenger."
+    },
+    {
+      "id": "sita-q16",
+      "difficulty": "medium",
+      "q": "What ornament did Sita give Hanuman to carry back to Rama as a sign she still lived?",
+      "options": ["Her anklet", "Her crest-jewel (Chudamani)", "Her necklace of pearls", "Her wedding bangles"],
+      "answer": 1,
+      "explanation": "Sita entrusted her hair-jewel, the Chudamani, to Hanuman as a token for Rama."
+    },
+    {
+      "id": "sita-q17",
+      "difficulty": "medium",
+      "q": "Which aged vulture fought Ravana while trying to rescue Sita during her abduction?",
+      "options": ["Sampati", "Garuda", "Jatayu", "Kakasura"],
+      "answer": 2,
+      "explanation": "Jatayu, the noble vulture and friend of Dasharatha, gave his life trying to save Sita from Ravana's chariot."
+    },
+    {
+      "id": "sita-q18",
+      "difficulty": "medium",
+      "q": "What trial did Sita undergo to prove her purity after being rescued from Lanka?",
+      "options": ["A trial by water", "A trial by fire (Agni Pariksha)", "A trial by combat", "A trial by fasting"],
+      "answer": 1,
+      "explanation": "Sita entered fire in the Agni Pariksha, and the god Agni bore her out unharmed, affirming her purity."
+    },
+    {
+      "id": "sita-q19",
+      "difficulty": "medium",
+      "q": "Which kindly rakshasi comforted Sita in captivity with a dream foretelling Rama's victory?",
+      "options": ["Shurpanakha", "Trijata", "Tataka", "Surasa"],
+      "answer": 1,
+      "explanation": "Trijata, a gentle demoness among Sita's guards, comforted her with a dream predicting Ravana's fall."
+    },
+    {
+      "id": "sita-q20",
+      "difficulty": "medium",
+      "q": "What is the name of Sita's sister who married Lakshmana?",
+      "options": ["Mandavi", "Shrutakirti", "Urmila", "Tara"],
+      "answer": 2,
+      "explanation": "Urmila, daughter of Janaka and sister of Sita, married Lakshmana and remained in Ayodhya through the exile."
+    },
+    {
+      "id": "sita-q21",
+      "difficulty": "medium",
+      "q": "Why did Rama, Sita, and Lakshmana go to live in the forest for fourteen years?",
+      "options": ["To escape a famine in Ayodhya", "Because of Kaikeyi's demanded boons", "To find a cure for Dasharatha's illness", "To wage war on a neighbouring king"],
+      "answer": 1,
+      "explanation": "Kaikeyi used two boons to demand the throne for Bharata and a fourteen-year exile for Rama, whom Sita followed."
+    },
+    {
+      "id": "sita-q22",
+      "difficulty": "medium",
+      "q": "By what epithet, reflecting her origin, is Sita often known?",
+      "options": ["Bhumija (born of the earth)", "Jalaja (born of water)", "Agnija (born of fire)", "Vayuja (born of the wind)"],
+      "answer": 0,
+      "explanation": "Because Janaka found her in the earth, Sita is called Bhumija, meaning 'daughter of the earth'."
+    },
+    {
+      "id": "sita-q23",
+      "difficulty": "hard",
+      "q": "What was the name of the sacrifice during which Janaka discovered the infant Sita?",
+      "options": ["A horse sacrifice (Ashvamedha)", "The ploughing of a field for a yajna", "A fire sacrifice for sons (Putrakameshti)", "A coronation rite (Rajasuya)"],
+      "answer": 1,
+      "explanation": "While ploughing the field to prepare ground for a yajna, Janaka's plough turned up the infant Sita from the furrow."
+    },
+    {
+      "id": "sita-q24",
+      "difficulty": "hard",
+      "q": "In which kanda (book) of Valmiki's Ramayana is Hanuman's discovery of Sita in Lanka chiefly narrated?",
+      "options": ["Bala Kanda", "Aranya Kanda", "Sundara Kanda", "Yuddha Kanda"],
+      "answer": 2,
+      "explanation": "The Sundara Kanda centres on Hanuman's leap to Lanka and his meeting with Sita in the Ashoka grove."
+    },
+    {
+      "id": "sita-q25",
+      "difficulty": "hard",
+      "q": "According to tradition, in whose hermitage did the exiled Sita give birth to her twin sons?",
+      "options": ["Sage Vishvamitra", "Sage Agastya", "Sage Valmiki", "Sage Vasishtha"],
+      "answer": 2,
+      "explanation": "After being sent away, Sita lived in Valmiki's hermitage, where she bore and raised the twins Lava and Kusha."
+    },
+    {
+      "id": "sita-q26",
+      "difficulty": "hard",
+      "q": "What are the names of the twin sons born to Rama and Sita?",
+      "options": ["Lava and Kusha", "Luv and Angada", "Kusha and Jambavan", "Lava and Shatrughna"],
+      "answer": 0,
+      "explanation": "Sita's twin sons, Lava and Kusha, were raised by Valmiki and learned the Ramayana from him."
+    },
+    {
+      "id": "sita-q27",
+      "difficulty": "hard",
+      "q": "How does Sita finally depart from the world at the end of the Valmiki Ramayana?",
+      "options": ["She ascends to heaven in a fiery chariot", "She is received back into the earth by her mother Bhumi", "She vanishes into the river Sarayu", "She turns into a stone image"],
+      "answer": 1,
+      "explanation": "Calling on her mother the Earth to receive her, Sita is taken back into the ground that bore her."
+    },
+    {
+      "id": "sita-q28",
+      "difficulty": "hard",
+      "q": "Who was the elder queen of Janaka, traditionally named as Sita's foster-mother?",
+      "options": ["Sunaina", "Kaushalya", "Sumitra", "Mandodari"],
+      "answer": 0,
+      "explanation": "Sunaina, the chief queen of Janaka, is traditionally regarded as Sita's foster-mother in Mithila."
+    },
+    {
+      "id": "sita-q29",
+      "difficulty": "hard",
+      "q": "During her captivity, what did Sita repeatedly threaten when Ravana pressed her to yield?",
+      "options": ["To curse Ravana into ash", "To take her own life", "To summon her father's army", "To call upon Agni to burn Lanka"],
+      "answer": 1,
+      "explanation": "Faithful to Rama, Sita rejected Ravana and resolved to end her own life rather than submit to him."
+    },
+    {
+      "id": "sita-q30",
+      "difficulty": "hard",
+      "q": "When Hanuman offered to carry Sita back to Rama across the sea, why did she refuse?",
+      "options": ["She feared Hanuman could not bear her weight", "She wished Rama himself to win her honour by defeating Ravana", "She did not believe Hanuman came from Rama", "She was bound by Ravana's magic and could not leave"],
+      "answer": 1,
+      "explanation": "Sita declined, wishing that Rama himself should triumph over Ravana and reclaim her with his own valour."
+    }
+  ]
+}

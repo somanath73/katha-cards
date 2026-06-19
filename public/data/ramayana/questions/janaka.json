@@ -1,0 +1,245 @@
+{
+  "cardId": "janaka",
+  "questions": [
+    {
+      "id": "janaka-q01",
+      "difficulty": "easy",
+      "q": "Of which kingdom was Janaka the king?",
+      "options": ["Mithila", "Kosala", "Lanka", "Kishkindha"],
+      "answer": 0,
+      "explanation": "Janaka was the renowned king of Mithila, the kingdom of the Videhas."
+    },
+    {
+      "id": "janaka-q02",
+      "difficulty": "easy",
+      "q": "Who was Janaka's celebrated daughter?",
+      "options": ["Sita", "Kaikeyi", "Mandodari", "Tara"],
+      "answer": 0,
+      "explanation": "Sita, the wife of Rama, was the daughter of King Janaka."
+    },
+    {
+      "id": "janaka-q03",
+      "difficulty": "easy",
+      "q": "How did Janaka discover the infant Sita?",
+      "options": ["Floating on a river", "While ploughing a field", "In a forest cave", "Inside a lotus pond"],
+      "answer": 1,
+      "explanation": "Janaka found the infant Sita in a furrow while ploughing the earth during a ritual."
+    },
+    {
+      "id": "janaka-q04",
+      "difficulty": "easy",
+      "q": "What was set as the condition for winning Sita's hand in marriage?",
+      "options": ["Winning a chariot race", "Breaking Shiva's bow", "Defeating Janaka in debate", "Slaying a demon"],
+      "answer": 1,
+      "explanation": "Janaka decreed that only the suitor who could string and break Shiva's mighty bow would marry Sita."
+    },
+    {
+      "id": "janaka-q05",
+      "difficulty": "easy",
+      "q": "Who ultimately broke Shiva's bow and won Sita's hand?",
+      "options": ["Lakshmana", "Ravana", "Rama", "Bharata"],
+      "answer": 2,
+      "explanation": "Rama lifted and broke Shiva's bow, fulfilling the condition to marry Sita."
+    },
+    {
+      "id": "janaka-q06",
+      "difficulty": "easy",
+      "q": "Janaka is best remembered as what kind of ruler?",
+      "options": ["A cruel tyrant", "A cowardly king", "A wise and detached king", "A wandering ascetic with no kingdom"],
+      "answer": 2,
+      "explanation": "Janaka is celebrated as the wise, detached philosopher-king of Mithila."
+    },
+    {
+      "id": "janaka-q07",
+      "difficulty": "easy",
+      "q": "What was the relationship of Janaka to Rama after the wedding?",
+      "options": ["Brother", "Uncle", "Grandfather", "Father-in-law"],
+      "answer": 3,
+      "explanation": "By giving his daughter Sita in marriage to Rama, Janaka became Rama's father-in-law."
+    },
+    {
+      "id": "janaka-q08",
+      "difficulty": "easy",
+      "q": "Because Sita was found in the earth and raised by Janaka, she is also known by which name?",
+      "options": ["Kausalya", "Devaki", "Janaki", "Renuka"],
+      "answer": 2,
+      "explanation": "Sita is called Janaki, meaning 'daughter of Janaka.'"
+    },
+    {
+      "id": "janaka-q09",
+      "difficulty": "easy",
+      "q": "Whose bow did the suitors attempt to lift at Sita's swayamvara?",
+      "options": ["Vishnu's bow", "Shiva's bow", "Indra's bow", "Brahma's bow"],
+      "answer": 1,
+      "explanation": "The bow at the contest was the divine bow of Shiva, kept in Janaka's treasury."
+    },
+    {
+      "id": "janaka-q10",
+      "difficulty": "easy",
+      "q": "What activity was Janaka performing when he found Sita?",
+      "options": ["Hunting", "Ploughing for a sacrifice", "Bathing in a river", "Building a temple"],
+      "answer": 1,
+      "explanation": "Janaka was ploughing the field as part of a ritual when the infant Sita emerged from the furrow."
+    },
+    {
+      "id": "janaka-q11",
+      "difficulty": "medium",
+      "q": "By what dynastic name were the kings of Mithila, including Janaka, known?",
+      "options": ["Videhas", "Ikshvakus", "Yadavas", "Kurus"],
+      "answer": 0,
+      "explanation": "The rulers of Mithila were called the Videhas, and Janaka bore this lineage title."
+    },
+    {
+      "id": "janaka-q12",
+      "difficulty": "medium",
+      "q": "Which sage brought Rama and Lakshmana to Janaka's court at Mithila?",
+      "options": ["Vasishtha", "Vishvamitra", "Agastya", "Bharadvaja"],
+      "answer": 1,
+      "explanation": "Sage Vishvamitra escorted Rama and Lakshmana to Mithila, where they saw Shiva's bow."
+    },
+    {
+      "id": "janaka-q13",
+      "difficulty": "medium",
+      "q": "Sita is also called Ayonija, which means what?",
+      "options": ["Not born from a womb", "Born of fire", "Daughter of the moon", "Princess of the sea"],
+      "answer": 0,
+      "explanation": "Ayonija means 'not born from a womb,' reflecting that Sita arose from the earth, not natural birth."
+    },
+    {
+      "id": "janaka-q14",
+      "difficulty": "medium",
+      "q": "Besides Sita, Janaka raised another daughter who married Lakshmana. What was her name?",
+      "options": ["Shrutakirti", "Urmila", "Mandavi", "Kausalya"],
+      "answer": 1,
+      "explanation": "Urmila, Janaka's daughter, was wedded to Lakshmana at the same celebration."
+    },
+    {
+      "id": "janaka-q15",
+      "difficulty": "medium",
+      "q": "Janaka's younger brother, who ruled a neighboring realm, had two daughters who also married into Dasharatha's family. What was his name?",
+      "options": ["Sumantra", "Satananda", "Kushadhvaja", "Bharadvaja"],
+      "answer": 2,
+      "explanation": "Kushadhvaja, Janaka's brother, was the father of Mandavi and Shrutakirti, who wed Bharata and Shatrughna."
+    },
+    {
+      "id": "janaka-q16",
+      "difficulty": "medium",
+      "q": "Who was the chief priest and counselor at Janaka's court in Mithila?",
+      "options": ["Vasishtha", "Jabali", "Markandeya", "Satananda"],
+      "answer": 3,
+      "explanation": "Satananda, son of the sage Gautama and Ahalya, served as the family priest of Janaka."
+    },
+    {
+      "id": "janaka-q17",
+      "difficulty": "medium",
+      "q": "From whom did Janaka's lineage originally receive Shiva's great bow?",
+      "options": ["It was forged by Janaka himself", "It was given by the gods to an ancestor of Janaka", "It was stolen from Ravana", "It was a gift from Rama"],
+      "answer": 1,
+      "explanation": "The bow of Shiva was entrusted by the gods to Janaka's ancestor Devarata and kept in Mithila for generations."
+    },
+    {
+      "id": "janaka-q18",
+      "difficulty": "medium",
+      "q": "What reaction did Janaka have on first hearing that Shiva's bow had been broken?",
+      "options": ["He demanded the bow be repaired", "He banished Rama from Mithila", "He declared war on Ayodhya", "He was overjoyed that a worthy suitor was found"],
+      "answer": 3,
+      "explanation": "Janaka rejoiced, for breaking the bow proved Rama worthy to wed Sita."
+    },
+    {
+      "id": "janaka-q19",
+      "difficulty": "medium",
+      "q": "After the bow was broken, whom did Janaka send messengers to invite for the wedding?",
+      "options": ["King Dasharatha", "Ravana", "Sugriva", "Janaka invited no one"],
+      "answer": 0,
+      "explanation": "Janaka sent envoys to Ayodhya to invite Dasharatha and his family for the marriage of Sita to Rama."
+    },
+    {
+      "id": "janaka-q20",
+      "difficulty": "medium",
+      "q": "Janaka's name became almost a title for the philosopher-kings of Mithila. What did such a king embody?",
+      "options": ["Ruthless conquest", "Royal duty combined with spiritual wisdom", "Renunciation of all kingship", "Devotion solely to wealth"],
+      "answer": 1,
+      "explanation": "Janaka exemplified a ruler who governed with detachment while pursuing the highest spiritual knowledge."
+    },
+    {
+      "id": "janaka-q21",
+      "difficulty": "medium",
+      "q": "Which strong suitors had earlier failed even to lift Shiva's bow before Rama arrived?",
+      "options": ["Only Ravana", "The gods themselves", "Many kings and princes", "No one had ever tried"],
+      "answer": 2,
+      "explanation": "Numerous kings and princes had tried and failed to lift the bow, making Rama's feat all the more remarkable."
+    },
+    {
+      "id": "janaka-q22",
+      "difficulty": "medium",
+      "q": "How is Sita's connection to the earth reflected in another of her epithets?",
+      "options": ["She is called Agniputri, daughter of fire", "She is called Vayuputri, daughter of wind", "She is called Suryaja, daughter of the sun", "She is called Bhumija, daughter of the Earth"],
+      "answer": 3,
+      "explanation": "Because Janaka found her in the soil, Sita is called Bhumija, 'daughter of the Earth.'"
+    },
+    {
+      "id": "janaka-q23",
+      "difficulty": "hard",
+      "q": "In later Upanishadic tradition, King Janaka of Mithila is famously associated with receiving teachings from which sage?",
+      "options": ["Vishvamitra", "Yajnavalkya", "Durvasa", "Parashurama"],
+      "answer": 1,
+      "explanation": "Janaka is renowned in the Brihadaranyaka Upanishad for his dialogues with the sage Yajnavalkya."
+    },
+    {
+      "id": "janaka-q24",
+      "difficulty": "hard",
+      "q": "The ritual ploughing during which Janaka found Sita was performed for what purpose?",
+      "options": ["To plant the year's first crop for profit", "To search for buried treasure", "To consecrate the field for a sacrifice", "To test a new plough"],
+      "answer": 2,
+      "explanation": "Janaka was ploughing to purify and consecrate the sacrificial ground when Sita appeared from the furrow."
+    },
+    {
+      "id": "janaka-q25",
+      "difficulty": "hard",
+      "q": "What was the personal name traditionally given to this Janaka, distinguishing him in the line of Mithila kings?",
+      "options": ["Devarata", "Nimi", "Hrasvaroma", "Seeradhwaja"],
+      "answer": 3,
+      "explanation": "This Janaka was named Seeradhwaja (Siradhvaja), meaning 'he whose emblem is the plough.'"
+    },
+    {
+      "id": "janaka-q26",
+      "difficulty": "hard",
+      "q": "How many of Dasharatha's sons were married together at Janaka's court in Mithila?",
+      "options": ["Only Rama", "All four", "Two of them", "Three of them"],
+      "answer": 1,
+      "explanation": "All four of Dasharatha's sons were wed at Mithila to Sita, Urmila, Mandavi, and Shrutakirti."
+    },
+    {
+      "id": "janaka-q27",
+      "difficulty": "hard",
+      "q": "Which fierce warrior-sage confronted Rama after the wedding party left Mithila, angered by the breaking of Shiva's bow?",
+      "options": ["Vishvamitra", "Agastya", "Parashurama", "Vasishtha"],
+      "answer": 2,
+      "explanation": "Parashurama, devotee of Shiva, challenged Rama on the road from Mithila over the broken bow."
+    },
+    {
+      "id": "janaka-q28",
+      "difficulty": "hard",
+      "q": "The name of Janaka's kingdom, 'Videha,' is often interpreted to signify what quality of its kings?",
+      "options": ["Endless wealth", "Fierce warfare", "Hatred of the gods", "Detachment from the body and worldly bonds"],
+      "answer": 3,
+      "explanation": "'Videha' suggests being unattached to the body, fitting Janaka's reputation for spiritual detachment."
+    },
+    {
+      "id": "janaka-q29",
+      "difficulty": "hard",
+      "q": "According to tradition, what motivated Janaka to set such a difficult bride-price as breaking Shiva's bow?",
+      "options": ["To avoid marrying Sita to anyone", "To ensure only a hero of supreme strength and virtue could marry Sita", "To start a war among kings", "To collect a large dowry"],
+      "answer": 1,
+      "explanation": "Janaka required the feat so that only a truly worthy and mighty suitor would be united with his extraordinary daughter."
+    },
+    {
+      "id": "janaka-q30",
+      "difficulty": "hard",
+      "q": "When Rama broke Shiva's bow, what notable phenomenon accompanied the event?",
+      "options": ["A total eclipse of the sun", "A flood swept the city", "A thunderous sound that shook the assembly", "A rain of gold fell"],
+      "answer": 2,
+      "explanation": "The bow snapped with a thunderous crash so loud that it stunned and frightened the gathered assembly."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "shabari",
+  "questions": [
+    {
+      "id": "shabari-q01",
+      "difficulty": "easy",
+      "q": "Who was Shabari in the Ramayana?",
+      "options": ["A queen of Ayodhya", "A devoted tribal ascetic", "A rakshasi of Lanka", "A vanara warrior"],
+      "answer": 1,
+      "explanation": "Shabari is celebrated as an aged tribal woman devotee who lived as an ascetic awaiting Rama."
+    },
+    {
+      "id": "shabari-q02",
+      "difficulty": "easy",
+      "q": "What did Shabari famously offer to Rama when he arrived?",
+      "options": ["Gold ornaments", "A divine weapon", "Berries", "A flying chariot"],
+      "answer": 2,
+      "explanation": "Shabari offered Rama berries that she had gathered for him in her hut."
+    },
+    {
+      "id": "shabari-q03",
+      "difficulty": "easy",
+      "q": "Why did Shabari taste the berries before giving them to Rama?",
+      "options": ["To check for poison", "To bless them with mantras", "To count how many there were", "To make sure they were sweet and not sour"],
+      "answer": 3,
+      "explanation": "Out of pure love she tasted each berry first to ensure only the sweet ones reached Rama."
+    },
+    {
+      "id": "shabari-q04",
+      "difficulty": "easy",
+      "q": "What is the best-known quality associated with Shabari?",
+      "options": ["Her selfless devotion", "Her royal wealth", "Her skill in warfare", "Her power of illusion"],
+      "answer": 0,
+      "explanation": "Shabari is revered as a model of pure, selfless bhakti or devotion to Rama."
+    },
+    {
+      "id": "shabari-q05",
+      "difficulty": "easy",
+      "q": "For how long is Shabari said to have waited to meet Rama?",
+      "options": ["A single night", "A lifetime", "Seven days", "Twelve hours"],
+      "answer": 1,
+      "explanation": "Shabari waited a lifetime in patient devotion for the day Rama would come to her."
+    },
+    {
+      "id": "shabari-q06",
+      "difficulty": "easy",
+      "q": "During which period of Rama's life does he meet Shabari?",
+      "options": ["His childhood in Ayodhya", "His coronation", "His forest exile", "His marriage at Mithila"],
+      "answer": 2,
+      "explanation": "Rama meets Shabari while wandering the forest during his fourteen-year exile, searching for Sita."
+    },
+    {
+      "id": "shabari-q07",
+      "difficulty": "easy",
+      "q": "Who accompanied Rama when he visited Shabari's hermitage?",
+      "options": ["Bharata", "Hanuman", "Sugriva", "Lakshmana"],
+      "answer": 3,
+      "explanation": "Rama was accompanied by his brother Lakshmana when they came to Shabari's dwelling."
+    },
+    {
+      "id": "shabari-q08",
+      "difficulty": "easy",
+      "q": "What kind of dwelling did Shabari live in?",
+      "options": ["A simple forest hermitage", "A golden palace", "A mountain cave fortress", "A floating chariot"],
+      "answer": 0,
+      "explanation": "Shabari lived a humble ascetic life in a hermitage in the forest."
+    },
+    {
+      "id": "shabari-q09",
+      "difficulty": "easy",
+      "q": "How did Shabari treat Rama when he arrived at her hermitage?",
+      "options": ["With fear and hostility", "With great reverence and hospitality", "With indifference", "By demanding a reward"],
+      "answer": 1,
+      "explanation": "Shabari received Rama with overflowing reverence, washing his feet and honoring him as her long-awaited lord."
+    },
+    {
+      "id": "shabari-q10",
+      "difficulty": "easy",
+      "q": "Shabari belonged to which social background in the epic?",
+      "options": ["A royal Kshatriya dynasty", "A wealthy merchant guild", "A humble tribal community", "A line of court brahmins"],
+      "answer": 2,
+      "explanation": "Shabari came from a lowly tribal background, making her devotion all the more celebrated."
+    },
+    {
+      "id": "shabari-q11",
+      "difficulty": "medium",
+      "q": "In which kanda (book) of Valmiki's Ramayana does the Shabari episode occur?",
+      "options": ["Bala Kanda", "Sundara Kanda", "Yuddha Kanda", "Aranya Kanda"],
+      "answer": 3,
+      "explanation": "Shabari appears in the Aranya Kanda, the book of the forest, near its close."
+    },
+    {
+      "id": "shabari-q12",
+      "difficulty": "medium",
+      "q": "Whose hermitage had Shabari served and waited at before meeting Rama?",
+      "options": ["Sage Matanga", "Sage Vishvamitra", "Sage Agastya", "Sage Vasishtha"],
+      "answer": 0,
+      "explanation": "Shabari had served at the ashram of the sage Matanga and his disciples on his instruction."
+    },
+    {
+      "id": "shabari-q13",
+      "difficulty": "medium",
+      "q": "Near which lake is Shabari's hermitage located in the Ramayana?",
+      "options": ["Lake Manasarovar", "Pampa Lake", "Bindusara Lake", "Lake Pushkar"],
+      "answer": 1,
+      "explanation": "Shabari's dwelling lay near Lake Pampa, close to the region of Rishyamukha and Kishkindha."
+    },
+    {
+      "id": "shabari-q14",
+      "difficulty": "medium",
+      "q": "What had Shabari's guru told her before he departed the world?",
+      "options": ["That she would become a queen", "That she must leave the forest", "That Rama would one day come to her", "That she would gain magical powers"],
+      "answer": 2,
+      "explanation": "Her guru Matanga assured her that Rama would visit, and she should await him before leaving her body."
+    },
+    {
+      "id": "shabari-q15",
+      "difficulty": "medium",
+      "q": "What was Shabari's name said to derive from?",
+      "options": ["A river she was born beside", "A boon from a god", "A city she once ruled", "Her Shabara (tribal) origin"],
+      "answer": 3,
+      "explanation": "The name Shabari reflects her belonging to the Shabara forest tribe."
+    },
+    {
+      "id": "shabari-q16",
+      "difficulty": "medium",
+      "q": "What daily task had Shabari performed at the ashram out of devotion?",
+      "options": ["Sweeping the paths and gathering fruits", "Guarding the gates with weapons", "Composing Sanskrit hymns", "Conducting fire sacrifices"],
+      "answer": 0,
+      "explanation": "She humbly swept the hermitage paths and gathered fruits and roots, serving the sages selflessly."
+    },
+    {
+      "id": "shabari-q17",
+      "difficulty": "medium",
+      "q": "After honoring Rama, what guidance did Shabari give him?",
+      "options": ["She told him to return to Ayodhya", "She directed him toward Sugriva at Rishyamukha", "She revealed Sita's exact location in Lanka", "She advised him to give up the search"],
+      "answer": 1,
+      "explanation": "Shabari pointed Rama toward Sugriva and the vanaras near Rishyamukha, advancing his search for Sita."
+    },
+    {
+      "id": "shabari-q18",
+      "difficulty": "medium",
+      "q": "How did Shabari's life end after she had received Rama?",
+      "options": ["She was slain by a demon", "She returned to rule her tribe", "She entered the sacred fire and attained liberation", "She journeyed to Lanka"],
+      "answer": 2,
+      "explanation": "Her life's wish fulfilled, Shabari entered the fire by yoga and attained moksha, ascending to the highest realm."
+    },
+    {
+      "id": "shabari-q19",
+      "difficulty": "medium",
+      "q": "What does the Shabari episode chiefly illustrate about devotion in the Ramayana?",
+      "options": ["That only kings may worship Rama", "That ritual wealth pleases Rama most", "That devotion requires great learning", "That sincere devotion outweighs birth or status"],
+      "answer": 3,
+      "explanation": "Shabari's story teaches that heartfelt devotion, not caste or status, is what truly reaches Rama."
+    },
+    {
+      "id": "shabari-q20",
+      "difficulty": "medium",
+      "q": "Whom was Rama searching for when he came upon Shabari?",
+      "options": ["Sita, who had been abducted", "Lakshmana, who was lost", "Ravana, his enemy", "Sugriva, his ally"],
+      "answer": 0,
+      "explanation": "Rama, grieving the abduction of Sita by Ravana, was wandering the forest seeking her when he met Shabari."
+    },
+    {
+      "id": "shabari-q21",
+      "difficulty": "medium",
+      "q": "How did Rama respond to the berries Shabari offered him?",
+      "options": ["He refused them as impure", "He ate them lovingly, valuing her devotion", "He gave them to Lakshmana only", "He scattered them as an offering"],
+      "answer": 1,
+      "explanation": "Rama accepted and ate the berries with affection, prizing the devotion behind the humble gift."
+    },
+    {
+      "id": "shabari-q22",
+      "difficulty": "medium",
+      "q": "Which wandering brother of Rama is often noted to have hesitated over Shabari's tasted berries in some retellings?",
+      "options": ["Bharata", "Shatrughna", "Lakshmana", "Sugriva"],
+      "answer": 2,
+      "explanation": "In popular retellings Lakshmana hesitates at the half-eaten berries, while Rama eats them joyfully out of love."
+    },
+    {
+      "id": "shabari-q23",
+      "difficulty": "hard",
+      "q": "In Valmiki's Ramayana, the food Shabari gathered is best described as which?",
+      "options": ["Mangoes grown in an orchard", "Grapes from a vineyard", "Pomegranates bought at market", "Forest fruits and roots she collected for Rama"],
+      "answer": 3,
+      "explanation": "Valmiki describes Shabari gathering various forest fruits and roots; later tradition popularized them as 'ber' berries."
+    },
+    {
+      "id": "shabari-q24",
+      "difficulty": "hard",
+      "q": "Shabari is sometimes counted among which group in later devotional tradition?",
+      "options": ["The exemplars of bhakti who transcended caste", "The seven immortals (Chiranjivi)", "The Saptarishi sages", "The Ashta-dikpalas (guardians of directions)"],
+      "answer": 0,
+      "explanation": "Devotional traditions hold up Shabari, like other lowly-born devotees, as proof that bhakti transcends caste."
+    },
+    {
+      "id": "shabari-q25",
+      "difficulty": "hard",
+      "q": "What did Shabari show Rama around her hermitage as a sign of her long preparation for him?",
+      "options": ["A throne built for his coronation", "The clean paths and gathered offerings kept ready for years", "An army assembled to aid him", "A map leading to Lanka"],
+      "answer": 1,
+      "explanation": "She showed Rama the swept groves and stores she had lovingly maintained for years in readiness for his arrival."
+    },
+    {
+      "id": "shabari-q26",
+      "difficulty": "hard",
+      "q": "Which sage's instruction is linked to Shabari being told to await Rama before leaving the world?",
+      "options": ["Durvasa", "Narada", "Matanga, her guru", "Bhrigu"],
+      "answer": 2,
+      "explanation": "It was her guru Matanga who, before his own departure, instructed her to remain and await Rama."
+    },
+    {
+      "id": "shabari-q27",
+      "difficulty": "hard",
+      "q": "After meeting Shabari, Rama proceeded toward which region where Sugriva dwelt?",
+      "options": ["Mount Mahendra", "Mount Meru", "Chitrakoot", "Rishyamukha"],
+      "answer": 3,
+      "explanation": "Following Shabari's counsel, Rama moved toward Rishyamukha, the hill where Sugriva and Hanuman were sheltering."
+    },
+    {
+      "id": "shabari-q28",
+      "difficulty": "hard",
+      "q": "Why is Shabari's act of tasting the berries seen as a violation of ritual norms yet praised in the epic?",
+      "options": ["Offering tasted (uchchhishta) food is normally forbidden, but her love sanctified it", "She used forbidden golden vessels", "She offered food before sunrise", "She fed Rama before the sages"],
+      "answer": 0,
+      "explanation": "Tasted food is ritually impure, yet her selfless love transformed the offering, and Rama honored the devotion over the rule."
+    },
+    {
+      "id": "shabari-q29",
+      "difficulty": "hard",
+      "q": "Which broader development of the Aranya Kanda does the Shabari meeting help conclude?",
+      "options": ["The breaking of Shiva's bow", "The close of Rama's forest wanderings before the alliance with the vanaras", "The building of the bridge to Lanka", "The coronation at Ayodhya"],
+      "answer": 1,
+      "explanation": "The Shabari episode comes near the end of the Aranya Kanda, bridging Rama's grief-stricken search to the vanara alliance of the Kishkindha Kanda."
+    },
+    {
+      "id": "shabari-q30",
+      "difficulty": "hard",
+      "q": "What is the deeper significance of Shabari attaining liberation immediately after serving Rama?",
+      "options": ["She was reborn as a queen", "She became a guardian deity of the forest", "Her lifelong devotion culminated in moksha through Rama's grace", "She was granted a kingdom on earth"],
+      "answer": 2,
+      "explanation": "Her single-minded devotion, fulfilled by Rama's visit, earned her immediate liberation by his grace, the goal of bhakti."
+    }
+  ]
+}
