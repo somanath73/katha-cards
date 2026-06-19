@@ -141,7 +141,6 @@ export default function Landing({ onEnter, premium, onUpgrade, progress }) {
                   <img src={cover(c.id)} alt="" loading="lazy" onError={(e) => (e.currentTarget.style.opacity = 0)} />
                   <span className="fan-emblem"><Emblem name={c.emblem} /></span>
                   <span className="fan-name">{c.name}</span>
-                  <span className="fan-count">100 cards</span>
                 </button>
               )
             })}
