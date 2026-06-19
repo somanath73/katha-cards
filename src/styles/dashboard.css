@@ -87,7 +87,7 @@
 .fan-emblem, .fan-name, .fan-count { position: relative; z-index: 2; }
 .fan-emblem { position: absolute; top: 14px; left: 0; right: 0; display: grid; place-items: center; }
 .fan-emblem svg { width: 32px; height: 32px; color: var(--accent); filter: drop-shadow(0 0 10px var(--glow)); opacity: 0.92; }
-.fan-name { position: absolute; left: 12px; right: 12px; bottom: 18px; font-family: var(--font-display); font-weight: 700; font-size: 1.02rem; text-align: center; color: #fdf7ea; text-shadow: 0 2px 12px #000, 0 1px 4px #000; line-height: 1.15; }
+.fan-name { position: absolute; left: 10px; right: 10px; bottom: 18px; font-family: var(--font-display); font-weight: 700; font-size: 0.82rem; text-align: center; color: #fdf7ea; text-shadow: 0 2px 12px #000, 0 1px 4px #000; line-height: 1.15; }
 .fan-count { position: absolute; left: 0; right: 0; bottom: 13px; text-align: center; font-size: 0.62rem; letter-spacing: 2px; text-transform: uppercase; color: var(--ink-dim); }
 .fan-card.is-active .fan-count { color: var(--accent); }
 
