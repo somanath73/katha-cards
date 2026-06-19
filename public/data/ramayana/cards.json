@@ -22,7 +22,8 @@
       "type": "concept",
       "emblem": "scroll",
       "palette": "royal",
-      "description": "One of the two great Sanskrit epics of ancient India, told in seven kandas. It narrates the life of Rama as a model of dharma, devotion, and ideal kingship."
+      "description": "One of the two great Sanskrit epics of ancient India, told in seven kandas. It narrates the life of Rama as a model of dharma, devotion, and ideal kingship.",
+      "image": "art/the-ramayana.webp"
     },
     {
       "id": "dasharatha",
@@ -76,7 +77,8 @@
       "type": "event",
       "emblem": "fire",
       "palette": "royal",
-      "description": "Childless, Dasharatha performed a great fire sacrifice for heirs. A divine being rose from the flames with sacred payasam for his queens, and four sons were born."
+      "description": "Childless, Dasharatha performed a great fire sacrifice for heirs. A divine being rose from the flames with sacred payasam for his queens, and four sons were born.",
+      "image": "art/putrakameshti.webp"
     },
     {
       "id": "rama",
@@ -163,7 +165,8 @@
       "type": "event",
       "emblem": "arrow",
       "palette": "forest",
-      "description": "At Vishvamitra's command the young Rama loosed his arrows against the demoness Tataka, freeing the forest hermitages from her terror."
+      "description": "At Vishvamitra's command the young Rama loosed his arrows against the demoness Tataka, freeing the forest hermitages from her terror.",
+      "image": "art/subduing-tataka.webp"
     },
     {
       "id": "ahalya",
@@ -184,7 +187,8 @@
       "type": "event",
       "emblem": "lotus",
       "palette": "dawn",
-      "description": "On the road to Mithila, Rama's touch broke the long curse upon Ahalya, returning her from stone to living woman — a sign of his redeeming grace."
+      "description": "On the road to Mithila, Rama's touch broke the long curse upon Ahalya, returning her from stone to living woman — a sign of his redeeming grace.",
+      "image": "art/liberation-of-ahalya.webp"
     },
     {
       "id": "mithila",
@@ -194,7 +198,8 @@
       "type": "place",
       "emblem": "palace",
       "palette": "dawn",
-      "description": "The capital of the Videha kingdom, ruled by the philosopher-king Janaka. Here Sita was raised and her swayamvara held."
+      "description": "The capital of the Videha kingdom, ruled by the philosopher-king Janaka. Here Sita was raised and her swayamvara held.",
+      "image": "art/mithila.webp"
     },
     {
       "id": "janaka",
@@ -226,7 +231,8 @@
       "type": "artifact",
       "emblem": "bow",
       "palette": "royal",
-      "description": "The colossal bow of Shiva kept in Janaka's court, which no king could even lift. Whoever could string it would win the hand of Sita."
+      "description": "The colossal bow of Shiva kept in Janaka's court, which no king could even lift. Whoever could string it would win the hand of Sita.",
+      "image": "art/pinaka.webp"
     },
     {
       "id": "breaking-the-bow",
@@ -236,7 +242,8 @@
       "type": "event",
       "emblem": "bow",
       "palette": "royal",
-      "description": "At the swayamvara Rama lifted Shiva's bow and, drawing it to string it, snapped it in two — winning Sita and announcing his more-than-mortal strength."
+      "description": "At the swayamvara Rama lifted Shiva's bow and, drawing it to string it, snapped it in two — winning Sita and announcing his more-than-mortal strength.",
+      "image": "art/breaking-the-bow.webp"
     },
     {
       "id": "marriage-of-rama-sita",
@@ -246,7 +253,8 @@
       "type": "event",
       "emblem": "lotus",
       "palette": "dawn",
-      "description": "With the bow broken, Rama wed Sita at Mithila, and his three brothers married her sister and cousins in a single grand ceremony."
+      "description": "With the bow broken, Rama wed Sita at Mithila, and his three brothers married her sister and cousins in a single grand ceremony.",
+      "image": "art/marriage-of-rama-sita.webp"
     },
     {
       "id": "urmila",
@@ -289,7 +297,8 @@
       "type": "event",
       "emblem": "crown",
       "palette": "dusk",
-      "description": "Reminding Dasharatha of two boons he had once granted, Kaikeyi demanded the crown for Bharata and fourteen years of forest exile for Rama."
+      "description": "Reminding Dasharatha of two boons he had once granted, Kaikeyi demanded the crown for Bharata and fourteen years of forest exile for Rama.",
+      "image": "art/kaikeyis-boons.webp"
     },
     {
       "id": "vanavasa",
@@ -299,7 +308,8 @@
       "type": "concept",
       "emblem": "tree",
       "palette": "dusk",
-      "description": "The long banishment to the forest that Rama accepted without complaint to keep his father's word — the test of dharma at the epic's core."
+      "description": "The long banishment to the forest that Rama accepted without complaint to keep his father's word — the test of dharma at the epic's core.",
+      "image": "art/vanavasa.webp"
     },
     {
       "id": "the-exile",
@@ -309,7 +319,8 @@
       "type": "event",
       "emblem": "tree",
       "palette": "dusk",
-      "description": "Rather than let his father break a vow, Rama left Ayodhya for the wilderness, with Sita and Lakshmana choosing to share his hardship."
+      "description": "Rather than let his father break a vow, Rama left Ayodhya for the wilderness, with Sita and Lakshmana choosing to share his hardship.",
+      "image": "art/the-exile.webp"
     },
     {
       "id": "death-of-dasharatha",
@@ -319,7 +330,8 @@
       "type": "event",
       "emblem": "throne",
       "palette": "dusk",
-      "description": "Unable to bear the loss of Rama, the old king died calling his son's name, the curse of a bereaved father at last come due."
+      "description": "Unable to bear the loss of Rama, the old king died calling his son's name, the curse of a bereaved father at last come due.",
+      "image": "art/death-of-dasharatha.webp"
     },
     {
       "id": "sumantra",
@@ -351,7 +363,8 @@
       "type": "place",
       "emblem": "mountain",
       "palette": "forest",
-      "description": "The forested hill where Rama settled in early exile and where Bharata came to plead for his return."
+      "description": "The forested hill where Rama settled in early exile and where Bharata came to plead for his return.",
+      "image": "art/chitrakoot.webp"
     },
     {
       "id": "the-paduka",
@@ -361,7 +374,8 @@
       "type": "artifact",
       "emblem": "throne",
       "palette": "royal",
-      "description": "The wooden sandals Rama gave to Bharata in place of himself. Bharata enthroned them and ruled Ayodhya in their name until Rama's return."
+      "description": "The wooden sandals Rama gave to Bharata in place of himself. Bharata enthroned them and ruled Ayodhya in their name until Rama's return.",
+      "image": "art/the-paduka.webp"
     },
     {
       "id": "bharatas-plea",
@@ -371,7 +385,8 @@
       "type": "event",
       "emblem": "throne",
       "palette": "royal",
-      "description": "Bharata journeyed to Chitrakoot begging Rama to take back the crown. Rama refused for duty's sake, and Bharata bore home only the royal sandals."
+      "description": "Bharata journeyed to Chitrakoot begging Rama to take back the crown. Rama refused for duty's sake, and Bharata bore home only the royal sandals.",
+      "image": "art/bharatas-plea.webp"
     },
     {
       "id": "dharma",
@@ -381,7 +396,8 @@
       "type": "concept",
       "emblem": "chakra",
       "palette": "royal",
-      "description": "The moral law that every figure in the epic must uphold against desire and grief. Rama's unfailing adherence to it is the spine of the story."
+      "description": "The moral law that every figure in the epic must uphold against desire and grief. Rama's unfailing adherence to it is the spine of the story.",
+      "image": "art/dharma.webp"
     },
     {
       "id": "maryada-purushottam",
@@ -391,7 +407,8 @@
       "type": "concept",
       "emblem": "lotus",
       "palette": "royal",
-      "description": "The title given to Rama as the ideal man who never transgressed the bounds of virtue, duty, and honour."
+      "description": "The title given to Rama as the ideal man who never transgressed the bounds of virtue, duty, and honour.",
+      "image": "art/maryada-purushottam.webp"
     },
     {
       "id": "dandaka",
@@ -401,7 +418,8 @@
       "type": "place",
       "emblem": "tree",
       "palette": "forest",
-      "description": "The great southern forest of exile, haunted by rakshasas and dotted with the hermitages of sages whom Rama vowed to protect."
+      "description": "The great southern forest of exile, haunted by rakshasas and dotted with the hermitages of sages whom Rama vowed to protect.",
+      "image": "art/dandaka.webp"
     },
     {
       "id": "agastya",
@@ -708,7 +726,8 @@
       "type": "place",
       "emblem": "palace",
       "palette": "flame",
-      "description": "The fabled island-fortress of the rakshasas, gleaming with gold, ruled by Ravana and ringed by the sea."
+      "description": "The fabled island-fortress of the rakshasas, gleaming with gold, ruled by Ravana and ringed by the sea.",
+      "image": "art/lanka.webp"
     },
     {
       "id": "ashoka-vatika",
@@ -926,7 +945,8 @@
       "type": "artifact",
       "emblem": "chariot",
       "palette": "dusk",
-      "description": "The self-moving aerial chariot seized by Ravana, which later bore Rama, Sita, and their companions home to Ayodhya through the sky."
+      "description": "The self-moving aerial chariot seized by Ravana, which later bore Rama, Sita, and their companions home to Ayodhya through the sky.",
+      "image": "art/pushpaka-vimana.webp"
     },
     {
       "id": "brahmastra",
@@ -936,7 +956,8 @@
       "type": "artifact",
       "emblem": "arrow",
       "palette": "flame",
-      "description": "The irresistible divine missile invoked with sacred mantras. Rama loosed it to end Ravana, striking the demon-king through the heart."
+      "description": "The irresistible divine missile invoked with sacred mantras. Rama loosed it to end Ravana, striking the demon-king through the heart.",
+      "image": "art/brahmastra.webp"
     },
     {
       "id": "slaying-of-ravana",
@@ -999,7 +1020,8 @@
       "type": "place",
       "emblem": "palace",
       "palette": "royal",
-      "description": "The ancient capital of Kosala on the Sarayu, seat of the Ikshvaku dynasty and the city to which Rama returned in triumph."
+      "description": "The ancient capital of Kosala on the Sarayu, seat of the Ikshvaku dynasty and the city to which Rama returned in triumph.",
+      "image": "art/ayodhya.webp"
     },
     {
       "id": "coronation-of-rama",
