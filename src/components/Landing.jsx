@@ -91,7 +91,7 @@ export default function Landing({ onEnter, premium, onUpgrade, progress }) {
           <a className="on">Home</a>
           <a onClick={scrollToDecks}>Decks</a>
           <a title="Coming soon" className="soon">Daily Challenge</a>
-          <a title="Coming soon" className="soon">Leaderboard</a>
+          <span className="nav-streak" title="Your daily streak">🔥 {ov.streak > 0 ? `${ov.streak} Day Streak` : 'Start a Streak'}</span>
           <a className="nav-prem" onClick={() => !premium && onUpgrade()}>
             {premium ? '👑 Premium' : '♛ Premium'}
           </a>
@@ -116,14 +116,6 @@ export default function Landing({ onEnter, premium, onUpgrade, progress }) {
           <div className="hero2-cta">
             <button className="btn-gold" onClick={() => pick(live[0])}><Ic d={I.bolt} fill /> Start Playing</button>
             <button className="btn-ghost big" onClick={scrollToDecks}><Ic d={I.grid} /> Explore Decks</button>
-          </div>
-          <div className="hero2-social">
-            <div className="avatars">{['🛕', '🏹', '🪔', '👑'].map((e, i) => <span key={i} className="ava">{e}</span>)}</div>
-            <p>
-              <b>25K+ players</b> are exploring legends
-              <br />
-              <span className="live"><i /> 12,543 playing now</span>
-            </p>
           </div>
         </div>
 
@@ -210,7 +202,6 @@ export default function Landing({ onEnter, premium, onUpgrade, progress }) {
             <div className="trend-body">
               <b>{trending.name}</b>
               <span>{trending.tagline}</span>
-              <span className="trend-players"><i /><i /><i /> 8.2K players</span>
               <span className="trend-cta">Play Now →</span>
             </div>
           </button>
