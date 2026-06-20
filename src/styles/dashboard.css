@@ -178,6 +178,70 @@
   .streak-gift { display: none; }
 }
 
+/* ---- mobile bottom tab bar (app-style nav) ---- */
+.bnav { display: none; }
+@media (max-width: 960px) {
+  .bnav {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 40;
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+    padding: 7px 4px calc(7px + env(safe-area-inset-bottom));
+    background: rgba(10, 10, 26, 0.86);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border-top: 1px solid var(--line);
+    box-shadow: 0 -10px 30px -16px #000;
+  }
+  .app {
+    padding-bottom: calc(78px + env(safe-area-inset-bottom));
+  }
+}
+.bnav-tab {
+  flex: 1;
+  min-width: 0;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+  padding: 4px 2px;
+  background: none;
+  border: 0;
+  cursor: pointer;
+  color: var(--ink-dim);
+  font-family: var(--font-ui);
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+  transition: color 0.15s, transform 0.1s;
+}
+.bnav-tab span { line-height: 1.08; text-align: center; }
+.bnav-tab.on { color: var(--gold); }
+.bnav-tab.on svg { filter: drop-shadow(0 0 8px rgba(233, 196, 106, 0.5)); }
+.bnav-tab:active { transform: scale(0.92); }
+.bnav-tab.soon { opacity: 0.55; }
+.bnav-soon {
+  position: absolute;
+  top: 1px;
+  right: 8px;
+  font-style: normal;
+  font-size: 0.46rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  color: #241a05;
+  background: var(--gold);
+  border-radius: 6px;
+  padding: 1px 4px;
+  line-height: 1.25;
+}
+
 /* ---- profile / account dropdown ---- */
 .nav-acct { position: relative; }
 .profile-menu { position: absolute; top: calc(100% + 12px); right: 0; width: 300px; max-width: calc(100vw - 28px); z-index: 50; padding: 16px; border-radius: 18px; background: linear-gradient(170deg, #16162e, #0b0b1c); border: 1px solid var(--line); box-shadow: 0 26px 60px -18px #000, 0 0 60px -30px rgba(233, 196, 106, 0.35); animation: rise 0.2s ease-out; }

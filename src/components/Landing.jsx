@@ -51,7 +51,7 @@ const Ic = ({ d, fill }) => (
   </svg>
 )
 
-export default function Landing({ onEnter, premium, onUpgrade, progress, mode, user, signIn, signOut, restore }) {
+export default function Landing({ onEnter, premium, onUpgrade, onDaily, progress, mode, user, signIn, signOut, restore }) {
   const [active, setActive] = useState(2) // Mythology centered, as in the design
   const [group, setGroup] = useState('All')
   const [q, setQ] = useState('')
@@ -134,7 +134,7 @@ export default function Landing({ onEnter, premium, onUpgrade, progress, mode, u
         <nav className="nav-links">
           <a className="on">Home</a>
           <a onClick={scrollToDecks}>Decks</a>
-          <a title="Coming soon" className="soon">Daily Challenge</a>
+          <a onClick={() => { sfx('open'); onDaily?.() }}>Daily Challenge</a>
           <span className="nav-streak" title="Your daily streak">🔥 {ov.streak > 0 ? `${ov.streak} Day Streak` : 'Start a Streak'}</span>
           <a className="nav-prem" onClick={() => !premium && onUpgrade()}>
             {premium ? '👑 Premium' : '♛ Premium'}
