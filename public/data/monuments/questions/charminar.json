@@ -1,0 +1,245 @@
+{
+  "cardId": "charminar",
+  "questions": [
+    {
+      "id": "charminar-q01",
+      "difficulty": "easy",
+      "q": "In which Indian city is the Charminar located?",
+      "options": ["Bengaluru", "Hyderabad", "Chennai", "Mumbai"],
+      "answer": 1,
+      "explanation": "The Charminar stands at the heart of the old city of Hyderabad, in present-day Telangana."
+    },
+    {
+      "id": "charminar-q02",
+      "difficulty": "easy",
+      "q": "What does the name 'Charminar' literally mean?",
+      "options": ["Four Minarets", "Great Mosque", "Royal Gate", "Stone Tower"],
+      "answer": 0,
+      "explanation": "'Char' means four and 'minar' means minaret, so Charminar means 'Four Minarets'."
+    },
+    {
+      "id": "charminar-q03",
+      "difficulty": "easy",
+      "q": "How many minarets does the Charminar have?",
+      "options": ["Two", "Three", "Four", "Six"],
+      "answer": 2,
+      "explanation": "The monument has four tall minarets, one rising from each of its corners, which give it its name."
+    },
+    {
+      "id": "charminar-q04",
+      "difficulty": "easy",
+      "q": "How many grand arches does the Charminar have?",
+      "options": ["Four", "Two", "Eight", "Six"],
+      "answer": 0,
+      "explanation": "The Charminar is built as a square structure with four monumental arches, one facing each cardinal direction."
+    },
+    {
+      "id": "charminar-q05",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state is the Charminar situated?",
+      "options": ["Andhra Pradesh", "Karnataka", "Telangana", "Maharashtra"],
+      "answer": 2,
+      "explanation": "Hyderabad, where the Charminar stands, is the capital of the state of Telangana."
+    },
+    {
+      "id": "charminar-q06",
+      "difficulty": "easy",
+      "q": "The Charminar is most closely associated with the founding of which city?",
+      "options": ["Hyderabad", "Golconda", "Warangal", "Aurangabad"],
+      "answer": 0,
+      "explanation": "The Charminar was raised in 1591 to mark the founding of the city of Hyderabad."
+    },
+    {
+      "id": "charminar-q07",
+      "difficulty": "easy",
+      "q": "Religious worship still takes place in which part of the Charminar?",
+      "options": ["A church on the roof", "A mosque on the upper floor", "A temple at the base", "A gurudwara in the courtyard"],
+      "answer": 1,
+      "explanation": "A working mosque occupies the topmost floor of the Charminar, making it both a monument and a place of worship."
+    },
+    {
+      "id": "charminar-q08",
+      "difficulty": "easy",
+      "q": "What is the main building material of the Charminar?",
+      "options": ["Marble and gold", "Granite and limestone", "Red sandstone", "Timber and brick"],
+      "answer": 1,
+      "explanation": "The Charminar is built largely of granite and lime mortar, finished with stucco ornamentation."
+    },
+    {
+      "id": "charminar-q09",
+      "difficulty": "easy",
+      "q": "The Charminar is often described as the iconic landmark or symbol of which city?",
+      "options": ["Chennai", "Hyderabad", "Pune", "Kolkata"],
+      "answer": 1,
+      "explanation": "The Charminar is the most famous landmark of Hyderabad and a widely used symbol of the city."
+    },
+    {
+      "id": "charminar-q10",
+      "difficulty": "easy",
+      "q": "The Charminar is famous for being surrounded by which bustling traditional market?",
+      "options": ["Chandni Chowk", "Laad Bazaar", "Sarojini Nagar", "Crawford Market"],
+      "answer": 1,
+      "explanation": "The Charminar is ringed by lively bazaars, most famously the Laad Bazaar, known for bangles and pearls."
+    },
+    {
+      "id": "charminar-q11",
+      "difficulty": "medium",
+      "q": "Who built the Charminar?",
+      "options": ["Muhammad Quli Qutb Shah", "Shah Jahan", "Aurangzeb", "Krishnadevaraya"],
+      "answer": 0,
+      "explanation": "The Charminar was constructed by Muhammad Quli Qutb Shah, the fifth ruler of the Qutb Shahi dynasty."
+    },
+    {
+      "id": "charminar-q12",
+      "difficulty": "medium",
+      "q": "In which year was the Charminar built?",
+      "options": ["1565", "1591", "1648", "1453"],
+      "answer": 1,
+      "explanation": "The Charminar was constructed in 1591, the same year Hyderabad was founded."
+    },
+    {
+      "id": "charminar-q13",
+      "difficulty": "medium",
+      "q": "The Charminar was built by rulers of which dynasty?",
+      "options": ["Mughal dynasty", "Kakatiya dynasty", "Qutb Shahi dynasty", "Asaf Jahi dynasty"],
+      "answer": 2,
+      "explanation": "It was built by the Qutb Shahi dynasty, who ruled the Golconda Sultanate from Hyderabad."
+    },
+    {
+      "id": "charminar-q14",
+      "difficulty": "medium",
+      "q": "Approximately how tall is the Charminar from the ground to the top of its minarets?",
+      "options": ["About 24 metres", "About 56 metres", "About 73 metres", "About 100 metres"],
+      "answer": 1,
+      "explanation": "The Charminar rises to roughly 56 metres at its full height, with each minaret reaching about 48.7 metres above its own base, making it a striking vertical landmark."
+    },
+    {
+      "id": "charminar-q15",
+      "difficulty": "medium",
+      "q": "The Charminar was built shortly after the Qutb Shahi capital was moved from where?",
+      "options": ["Bidar Fort", "Golconda Fort", "Daulatabad Fort", "Warangal Fort"],
+      "answer": 1,
+      "explanation": "The capital was shifting from the crowded Golconda Fort, and Hyderabad with the Charminar was established as the new city."
+    },
+    {
+      "id": "charminar-q16",
+      "difficulty": "medium",
+      "q": "What architectural style is the Charminar primarily built in?",
+      "options": ["Indo-Saracenic style", "Indo-Islamic (Qutb Shahi) style", "Dravidian style", "Victorian Gothic style"],
+      "answer": 1,
+      "explanation": "The Charminar exemplifies Indo-Islamic architecture under the Qutb Shahis, with strong Persian influences."
+    },
+    {
+      "id": "charminar-q17",
+      "difficulty": "medium",
+      "q": "Each side of the square Charminar measures roughly how long?",
+      "options": ["About 20 metres", "About 50 metres", "About 90 metres", "About 120 metres"],
+      "answer": 0,
+      "explanation": "The base of the Charminar is a square with each side about 20 metres long."
+    },
+    {
+      "id": "charminar-q18",
+      "difficulty": "medium",
+      "q": "How many storeys does each minaret of the Charminar have?",
+      "options": ["One", "Two", "Four", "Six"],
+      "answer": 2,
+      "explanation": "Each of the four minarets is divided into four storeys, marked by ringed balconies."
+    },
+    {
+      "id": "charminar-q19",
+      "difficulty": "medium",
+      "q": "What lies to the west inside the upper level of the Charminar, facing Mecca?",
+      "options": ["A clock tower", "A mosque with a mihrab", "A throne room", "A library"],
+      "answer": 1,
+      "explanation": "The western portion of the upper floor houses a mosque, the oldest in Hyderabad, oriented toward Mecca."
+    },
+    {
+      "id": "charminar-q20",
+      "difficulty": "medium",
+      "q": "Which famous fort, formerly the Qutb Shahi capital, lies near Hyderabad and is linked to the Charminar's history?",
+      "options": ["Gwalior Fort", "Golconda Fort", "Chittorgarh Fort", "Mehrangarh Fort"],
+      "answer": 1,
+      "explanation": "Golconda Fort was the earlier Qutb Shahi seat before Hyderabad and the Charminar were founded."
+    },
+    {
+      "id": "charminar-q21",
+      "difficulty": "medium",
+      "q": "What is the name of the historic mosque built nearby and associated with the Charminar precinct in Hyderabad?",
+      "options": ["Jama Masjid, Delhi", "Mecca Masjid", "Moti Masjid", "Quwwat-ul-Islam Mosque"],
+      "answer": 1,
+      "explanation": "The Mecca Masjid, one of India's largest mosques, stands close to the Charminar in the old city."
+    },
+    {
+      "id": "charminar-q22",
+      "difficulty": "medium",
+      "q": "Which body is responsible for the protection and maintenance of the Charminar as a heritage monument?",
+      "options": ["UNESCO directly", "Archaeological Survey of India", "The Mughal Trust", "The British Museum"],
+      "answer": 1,
+      "explanation": "The Charminar is a protected monument maintained by the Archaeological Survey of India."
+    },
+    {
+      "id": "charminar-q23",
+      "difficulty": "hard",
+      "q": "Muhammad Quli Qutb Shah was which ruler in the line of the Qutb Shahi dynasty?",
+      "options": ["The first ruler", "The third ruler", "The fifth ruler", "The seventh ruler"],
+      "answer": 2,
+      "explanation": "Muhammad Quli Qutb Shah, who built the Charminar, was the fifth sultan of the Qutb Shahi dynasty."
+    },
+    {
+      "id": "charminar-q24",
+      "difficulty": "hard",
+      "q": "According to popular tradition, why did Muhammad Quli Qutb Shah build the Charminar?",
+      "options": ["To celebrate a military victory over the Mughals", "In thanksgiving for the end of a deadly plague", "To house captured diamonds", "To mark the visit of a Persian emperor"],
+      "answer": 1,
+      "explanation": "A widely told tradition holds that the Charminar was built in gratitude for the ending of a devastating plague epidemic."
+    },
+    {
+      "id": "charminar-q25",
+      "difficulty": "hard",
+      "q": "What ornamental feature runs along the upper balustrade level of the Charminar on each face?",
+      "options": ["A row of small arches forming a screen", "A single large window", "A blank, unbroken wall", "Stained-glass panels"],
+      "answer": 0,
+      "explanation": "The Charminar's upper levels feature rows of small arches and an open gallery that lighten the massive square base."
+    },
+    {
+      "id": "charminar-q26",
+      "difficulty": "hard",
+      "q": "What feature crowns the top of each of the four minarets of the Charminar?",
+      "options": ["A flat terrace", "A bulbous dome", "A statue", "A flagpole only"],
+      "answer": 1,
+      "explanation": "Each minaret is topped by a small bulbous (onion-shaped) dome resting on a ring of petals, typical of Qutb Shahi design."
+    },
+    {
+      "id": "charminar-q27",
+      "difficulty": "hard",
+      "q": "How does one reach the upper levels of the Charminar inside the minarets?",
+      "options": ["By an external ramp", "By a spiral staircase within a minaret", "By an elevator", "By a rope ladder"],
+      "answer": 1,
+      "explanation": "A winding spiral staircase of many steps inside one of the minarets leads up to the upper floor and mosque."
+    },
+    {
+      "id": "charminar-q28",
+      "difficulty": "hard",
+      "q": "The Charminar's design is sometimes said to have planned the new city around it as a focal point at the crossing of two major roads. What was this layout meant to suggest?",
+      "options": ["A grid of identical blocks", "A ceremonial centre at the meeting of arteries", "A defensive moat", "A river crossing"],
+      "answer": 1,
+      "explanation": "Hyderabad was laid out with the Charminar at the intersection of principal roads, serving as the ceremonial heart of the new city."
+    },
+    {
+      "id": "charminar-q29",
+      "difficulty": "hard",
+      "q": "Which later dynasty, the Nizams, ruled Hyderabad after the Qutb Shahis and oversaw the city in which the Charminar stands?",
+      "options": ["The Asaf Jahi dynasty", "The Maratha dynasty", "The Hoysala dynasty", "The Pallava dynasty"],
+      "answer": 0,
+      "explanation": "After Mughal conquest, the Asaf Jahi (Nizam) dynasty ruled Hyderabad, and the Charminar remained the city's central landmark."
+    },
+    {
+      "id": "charminar-q30",
+      "difficulty": "hard",
+      "q": "The clocks added to the four sides of the Charminar were installed in which later period?",
+      "options": ["At its original construction in 1591", "In the 19th century, during Nizam rule", "By the Mughals in the 17th century", "After Indian independence in 1947"],
+      "answer": 1,
+      "explanation": "Clocks were added to the four cardinal faces of the Charminar in 1889 during the rule of the Asaf Jahi Nizams."
+    }
+  ]
+}

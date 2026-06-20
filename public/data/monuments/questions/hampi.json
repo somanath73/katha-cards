@@ -1,0 +1,245 @@
+{
+  "cardId": "hampi",
+  "questions": [
+    {
+      "id": "hampi-q01",
+      "difficulty": "easy",
+      "q": "Hampi is the site of the ruined capital of which empire?",
+      "options": ["The Mughal Empire", "The Vijayanagara Empire", "The Maratha Empire", "The Chola Empire"],
+      "answer": 1,
+      "explanation": "Hampi was the capital of the Vijayanagara Empire, one of the greatest Hindu kingdoms of southern India."
+    },
+    {
+      "id": "hampi-q02",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state is Hampi located?",
+      "options": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Maharashtra"],
+      "answer": 0,
+      "explanation": "Hampi lies in the Ballari (Bellary) region of the state of Karnataka."
+    },
+    {
+      "id": "hampi-q03",
+      "difficulty": "easy",
+      "q": "On the banks of which river do the ruins of Hampi stand?",
+      "options": ["The Kaveri", "The Krishna", "The Tungabhadra", "The Godavari"],
+      "answer": 2,
+      "explanation": "Hampi sits on the southern bank of the Tungabhadra River in Karnataka."
+    },
+    {
+      "id": "hampi-q04",
+      "difficulty": "easy",
+      "q": "What is Hampi's status with UNESCO?",
+      "options": ["A UNESCO World Heritage Site", "A UNESCO Biosphere Reserve", "It has no UNESCO listing", "A UNESCO Intangible Heritage"],
+      "answer": 0,
+      "explanation": "The Group of Monuments at Hampi was inscribed as a UNESCO World Heritage Site in 1986."
+    },
+    {
+      "id": "hampi-q05",
+      "difficulty": "easy",
+      "q": "Which famous ancient temple at Hampi remains an active place of worship today?",
+      "options": ["The Vittala Temple", "The Hazara Rama Temple", "The Virupaksha Temple", "The Achyutaraya Temple"],
+      "answer": 2,
+      "explanation": "The Virupaksha Temple, dedicated to a form of Shiva, is still a functioning pilgrimage shrine at Hampi."
+    },
+    {
+      "id": "hampi-q06",
+      "difficulty": "easy",
+      "q": "The Virupaksha Temple at Hampi is dedicated to which Hindu deity?",
+      "options": ["Vishnu", "Shiva", "Ganesha", "Surya"],
+      "answer": 1,
+      "explanation": "Virupaksha is a form of Lord Shiva, and the temple is one of Hampi's holiest shrines."
+    },
+    {
+      "id": "hampi-q07",
+      "difficulty": "easy",
+      "q": "Hampi's most iconic emblem, a small shrine shaped like a chariot, is found in which temple complex?",
+      "options": ["The Vittala Temple", "The Virupaksha Temple", "The Hazara Rama Temple", "The Krishna Temple"],
+      "answer": 0,
+      "explanation": "The celebrated Stone Chariot stands in the Vittala Temple complex at Hampi."
+    },
+    {
+      "id": "hampi-q08",
+      "difficulty": "easy",
+      "q": "What kind of place was Hampi at the height of the Vijayanagara Empire?",
+      "options": ["A small fishing village", "A wealthy imperial capital city", "A military outpost", "A monastic retreat"],
+      "answer": 1,
+      "explanation": "Hampi was the prosperous capital of Vijayanagara, famed for its temples, palaces and bustling bazaars."
+    },
+    {
+      "id": "hampi-q09",
+      "difficulty": "easy",
+      "q": "Which kind of building material dominates the temples and structures at Hampi?",
+      "options": ["White marble", "Red brick", "Granite stone", "Wood"],
+      "answer": 2,
+      "explanation": "Hampi's monuments were carved largely from the granite that is abundant in its boulder-strewn landscape."
+    },
+    {
+      "id": "hampi-q10",
+      "difficulty": "easy",
+      "q": "Hampi is famous for its dramatic natural landscape filled with what feature?",
+      "options": ["Snow-capped peaks", "Giant granite boulders", "Dense rainforest", "Coastal sand dunes"],
+      "answer": 1,
+      "explanation": "Hampi sits among an extraordinary landscape of huge granite boulders and rocky hills."
+    },
+    {
+      "id": "hampi-q11",
+      "difficulty": "medium",
+      "q": "In which century was the Vijayanagara Empire founded, establishing its capital at Hampi?",
+      "options": ["The 11th century", "The 14th century", "The 16th century", "The 9th century"],
+      "answer": 1,
+      "explanation": "The Vijayanagara Empire was founded in 1336 CE, in the 14th century, with Hampi as its capital."
+    },
+    {
+      "id": "hampi-q12",
+      "difficulty": "medium",
+      "q": "Two brothers are traditionally credited with founding the Vijayanagara Empire. Who were they?",
+      "options": ["Harihara and Bukka", "Krishna and Balarama", "Hari and Hara", "Rama and Lakshmana"],
+      "answer": 0,
+      "explanation": "Harihara I and Bukka Raya I, of the Sangama dynasty, founded the Vijayanagara Empire in 1336."
+    },
+    {
+      "id": "hampi-q13",
+      "difficulty": "medium",
+      "q": "Under which celebrated ruler did the Vijayanagara Empire reach its peak of power and prosperity?",
+      "options": ["Tipu Sultan", "Krishnadevaraya", "Raja Raja Chola", "Shivaji"],
+      "answer": 1,
+      "explanation": "Krishnadevaraya (reigned 1509-1529) presided over Vijayanagara's golden age of military and cultural greatness."
+    },
+    {
+      "id": "hampi-q14",
+      "difficulty": "medium",
+      "q": "The Vittala Temple at Hampi is dedicated to which deity?",
+      "options": ["Shiva", "A form of Vishnu", "Brahma", "Hanuman"],
+      "answer": 1,
+      "explanation": "The Vittala Temple honours Vitthala, a form of Vishnu (Krishna), widely worshipped in the Deccan."
+    },
+    {
+      "id": "hampi-q15",
+      "difficulty": "medium",
+      "q": "The Vittala Temple is famous for pillars that produce what when struck?",
+      "options": ["Bright sparks", "Musical notes", "Coloured smoke", "Flowing water"],
+      "answer": 1,
+      "explanation": "Hampi's Vittala Temple is renowned for its 'musical pillars' that resonate with musical tones when tapped."
+    },
+    {
+      "id": "hampi-q16",
+      "difficulty": "medium",
+      "q": "What is the Lotus Mahal at Hampi believed to have been?",
+      "options": ["A grain storehouse", "A pavilion in the royal women's quarters", "A temple sanctum", "A military watchtower"],
+      "answer": 1,
+      "explanation": "The Lotus Mahal was an elegant pavilion within the zenana, the secluded enclosure for the royal women."
+    },
+    {
+      "id": "hampi-q17",
+      "difficulty": "medium",
+      "q": "The large arched stone stables near the zenana at Hampi were built to house which animals?",
+      "options": ["Horses", "Elephants", "Camels", "Cattle"],
+      "answer": 1,
+      "explanation": "The Elephant Stables, a row of domed chambers, sheltered the royal ceremonial elephants of Vijayanagara."
+    },
+    {
+      "id": "hampi-q18",
+      "difficulty": "medium",
+      "q": "The towering entrance structures of Hampi's great temples are known by what South Indian term?",
+      "options": ["Gopuram", "Shikhara", "Mandapa", "Vimana"],
+      "answer": 0,
+      "explanation": "The tall, tiered temple gateway-towers in Dravidian architecture are called gopurams."
+    },
+    {
+      "id": "hampi-q19",
+      "difficulty": "medium",
+      "q": "Hampi's Krishna Temple was built by Krishnadevaraya to commemorate his victory over which kingdom?",
+      "options": ["The Bahmani Sultanate", "Kalinga (Odisha / Udayagiri)", "The Cholas", "The Pandyas"],
+      "answer": 1,
+      "explanation": "Krishnadevaraya built the Krishna Temple around 1513 to mark his conquest of Udayagiri in the Kalinga campaign."
+    },
+    {
+      "id": "hampi-q20",
+      "difficulty": "medium",
+      "q": "Which monolithic deity at Hampi is a giant statue carved from a single boulder, popularly linked to a man-lion form of Vishnu?",
+      "options": ["The Lakshmi Narasimha statue", "The Nandi bull", "The Trimurti", "The Gomateshwara"],
+      "answer": 0,
+      "explanation": "The colossal Lakshmi Narasimha statue, depicting Vishnu's man-lion avatar, is carved from one massive granite block."
+    },
+    {
+      "id": "hampi-q21",
+      "difficulty": "medium",
+      "q": "The Hazara Rama Temple at Hampi is decorated with relief carvings narrating which epic?",
+      "options": ["The Mahabharata", "The Ramayana", "The Bhagavata Purana", "The Panchatantra"],
+      "answer": 1,
+      "explanation": "The Hazara Rama Temple's walls are covered with reliefs telling the story of the Ramayana."
+    },
+    {
+      "id": "hampi-q22",
+      "difficulty": "medium",
+      "q": "Several European travellers, such as the Portuguese, described Vijayanagara as one of the world's grandest cities. What did they especially marvel at?",
+      "options": ["Its underground railways", "Its wealth, markets and size", "Its glass skyscrapers", "Its frozen canals"],
+      "answer": 1,
+      "explanation": "Visitors like Domingo Paes praised Vijayanagara's immense wealth, thriving bazaars and the scale of the city."
+    },
+    {
+      "id": "hampi-q23",
+      "difficulty": "hard",
+      "q": "The Vijayanagara Empire was decisively defeated in 1565 at which battle, leading to Hampi's sacking?",
+      "options": ["The Battle of Panipat", "The Battle of Talikota", "The Battle of Plassey", "The Battle of Raichur"],
+      "answer": 1,
+      "explanation": "At the Battle of Talikota in 1565, a coalition of Deccan sultanates crushed Vijayanagara, and Hampi was then plundered."
+    },
+    {
+      "id": "hampi-q24",
+      "difficulty": "hard",
+      "q": "Who was the powerful regent and de facto ruler of Vijayanagara killed at the Battle of Talikota in 1565?",
+      "options": ["Rama Raya", "Krishnadevaraya", "Harihara I", "Tirumala Deva Raya"],
+      "answer": 0,
+      "explanation": "Rama Raya, the aged regent who effectively ruled Vijayanagara, was captured and killed at Talikota in 1565."
+    },
+    {
+      "id": "hampi-q25",
+      "difficulty": "hard",
+      "q": "The vast monolithic Ganesha image at Hampi carved with a thin belly girdle is popularly known by what name?",
+      "options": ["Kadalekalu Ganesha", "Ugra Narasimha", "Badavilinga", "Sasivekalu Ganesha"],
+      "answer": 3,
+      "explanation": "The Sasivekalu Ganesha, named for resembling a mustard seed, is one of Hampi's huge monolithic Ganesha sculptures."
+    },
+    {
+      "id": "hampi-q26",
+      "difficulty": "hard",
+      "q": "Krishnadevaraya, Vijayanagara's greatest king, belonged to which ruling house?",
+      "options": ["The Tuluva dynasty", "The Sangama dynasty", "The Aravidu dynasty", "The Saluva dynasty"],
+      "answer": 0,
+      "explanation": "Krishnadevaraya was a ruler of the Tuluva dynasty, the third of Vijayanagara's four ruling lines."
+    },
+    {
+      "id": "hampi-q27",
+      "difficulty": "hard",
+      "q": "Which large open-water structure near the royal centre at Hampi is a stepped tank built of finely fitted black schist stone?",
+      "options": ["The Pushkarani (stepped tank)", "The Lotus Mahal pool", "The Tungabhadra dam", "The Amrit Sarovar"],
+      "answer": 0,
+      "explanation": "The Pushkarani, a symmetrical stepped tank of dark schist, served the royal enclosure's water and ritual needs."
+    },
+    {
+      "id": "hampi-q28",
+      "difficulty": "hard",
+      "q": "The wheels of Hampi's celebrated Stone Chariot were originally designed to do what?",
+      "options": ["Hold sacred fire", "Actually rotate", "Store grain", "Channel rainwater"],
+      "answer": 1,
+      "explanation": "The Stone Chariot's stone wheels were once able to turn, though they are now fixed to prevent damage."
+    },
+    {
+      "id": "hampi-q29",
+      "difficulty": "hard",
+      "q": "Hampi is traditionally identified in the Ramayana with which mythical kingdom of the vanaras (monkeys)?",
+      "options": ["Lanka", "Kishkindha", "Ayodhya", "Mithila"],
+      "answer": 1,
+      "explanation": "The Hampi region is associated with Kishkindha, the legendary monkey kingdom of Sugriva and Hanuman in the Ramayana."
+    },
+    {
+      "id": "hampi-q30",
+      "difficulty": "hard",
+      "q": "Approximately how long did the Vijayanagara Empire endure as a major power, from its founding to the fall of Hampi?",
+      "options": ["About 30 years", "About 75 years", "Over two centuries", "Nearly a thousand years"],
+      "answer": 2,
+      "explanation": "Founded in 1336 and broken at Talikota in 1565, Vijayanagara flourished for well over two centuries."
+    }
+  ]
+}

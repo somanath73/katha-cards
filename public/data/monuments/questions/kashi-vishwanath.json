@@ -1,0 +1,245 @@
+{
+  "cardId": "kashi-vishwanath",
+  "questions": [
+    {
+      "id": "kashi-vishwanath-q01",
+      "difficulty": "easy",
+      "q": "In which city is the Kashi Vishwanath Temple located?",
+      "options": ["Varanasi", "Allahabad", "Ayodhya", "Mathura"],
+      "answer": 0,
+      "explanation": "The Kashi Vishwanath Temple stands in Varanasi (Kashi), Uttar Pradesh, on the banks of the Ganga."
+    },
+    {
+      "id": "kashi-vishwanath-q02",
+      "difficulty": "easy",
+      "q": "Which Hindu deity is worshipped at the Kashi Vishwanath Temple?",
+      "options": ["Vishnu", "Shiva", "Brahma", "Ganesha"],
+      "answer": 1,
+      "explanation": "The temple is dedicated to Lord Shiva, worshipped here as Vishwanath, the 'Lord of the Universe'."
+    },
+    {
+      "id": "kashi-vishwanath-q03",
+      "difficulty": "easy",
+      "q": "On the bank of which river does the Kashi Vishwanath Temple stand?",
+      "options": ["Yamuna", "Narmada", "Ganga", "Godavari"],
+      "answer": 2,
+      "explanation": "The temple lies in Varanasi on the western bank of the sacred Ganga river."
+    },
+    {
+      "id": "kashi-vishwanath-q04",
+      "difficulty": "easy",
+      "q": "What does the name 'Vishwanath' mean?",
+      "options": ["Lord of the Universe", "Giver of Water", "Keeper of Fire", "King of Kings"],
+      "answer": 0,
+      "explanation": "'Vishwanath' translates to 'Lord of the Universe', a title of Shiva venerated at this temple."
+    },
+    {
+      "id": "kashi-vishwanath-q05",
+      "difficulty": "easy",
+      "q": "The temple's spire and dome are famously plated with which precious metal?",
+      "options": ["Silver", "Bronze", "Gold", "Copper"],
+      "answer": 2,
+      "explanation": "The temple's shikhara and dome are covered in gold, earning it the nickname the 'Golden Temple'."
+    },
+    {
+      "id": "kashi-vishwanath-q06",
+      "difficulty": "easy",
+      "q": "By what ancient name is Varanasi, the temple's city, also known?",
+      "options": ["Kashi", "Pataliputra", "Indraprastha", "Hastinapur"],
+      "answer": 0,
+      "explanation": "Varanasi is traditionally called Kashi, which is why the temple is named Kashi Vishwanath."
+    },
+    {
+      "id": "kashi-vishwanath-q07",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state is the Kashi Vishwanath Temple situated?",
+      "options": ["Bihar", "Madhya Pradesh", "Jharkhand", "Uttar Pradesh"],
+      "answer": 3,
+      "explanation": "Varanasi and its Kashi Vishwanath Temple are located in the state of Uttar Pradesh."
+    },
+    {
+      "id": "kashi-vishwanath-q08",
+      "difficulty": "easy",
+      "q": "The Kashi Vishwanath Temple is regarded as one of the holiest sites for which religion?",
+      "options": ["Jainism", "Hinduism", "Buddhism", "Sikhism"],
+      "answer": 1,
+      "explanation": "It is one of the most sacred pilgrimage sites in Hinduism, especially for devotees of Shiva."
+    },
+    {
+      "id": "kashi-vishwanath-q09",
+      "difficulty": "easy",
+      "q": "What sacred object representing Shiva is enshrined in the temple's sanctum?",
+      "options": ["A Shiva lingam (Jyotirlinga)", "A golden idol of Vishnu", "A sacred flame", "A holy relic of the Buddha"],
+      "answer": 0,
+      "explanation": "The sanctum houses a Shiva lingam venerated as one of the twelve Jyotirlingas."
+    },
+    {
+      "id": "kashi-vishwanath-q10",
+      "difficulty": "easy",
+      "q": "By what popular nickname is the Kashi Vishwanath Temple commonly known?",
+      "options": ["The White Temple", "The Golden Temple of Shiva", "The Sun Temple", "The Black Pagoda"],
+      "answer": 1,
+      "explanation": "Because of its gold-plated spire and dome, it is widely called the 'Golden Temple' of Shiva."
+    },
+    {
+      "id": "kashi-vishwanath-q11",
+      "difficulty": "medium",
+      "q": "The temple enshrines one of the twelve sacred Jyotirlingas. What is a Jyotirlinga?",
+      "options": ["A temple gateway", "A devotional shrine to Shiva represented as a 'pillar of light'", "A type of ritual lamp", "A river crossing point"],
+      "answer": 1,
+      "explanation": "A Jyotirlinga is a shrine where Shiva is worshipped as a luminous lingam, a 'pillar of light'."
+    },
+    {
+      "id": "kashi-vishwanath-q12",
+      "difficulty": "medium",
+      "q": "Which 18th-century Maratha queen rebuilt the current Kashi Vishwanath Temple in 1780?",
+      "options": ["Rani Lakshmibai", "Ahilyabai Holkar", "Tarabai", "Rani Durgavati"],
+      "answer": 1,
+      "explanation": "Maharani Ahilyabai Holkar of Indore commissioned the rebuilding of the present temple in 1780."
+    },
+    {
+      "id": "kashi-vishwanath-q13",
+      "difficulty": "medium",
+      "q": "Which Sikh ruler donated the gold used to plate the temple's spire and dome?",
+      "options": ["Maharaja Ranjit Singh", "Guru Nanak", "Banda Singh Bahadur", "Hari Singh Nalwa"],
+      "answer": 0,
+      "explanation": "Maharaja Ranjit Singh of the Sikh Empire donated the gold (around 1835) for the temple's plating."
+    },
+    {
+      "id": "kashi-vishwanath-q14",
+      "difficulty": "medium",
+      "q": "Which Mughal emperor is recorded as having demolished an earlier Kashi Vishwanath Temple in 1669?",
+      "options": ["Akbar", "Aurangzeb", "Jahangir", "Shah Jahan"],
+      "answer": 1,
+      "explanation": "The emperor Aurangzeb ordered the destruction of the earlier temple in 1669."
+    },
+    {
+      "id": "kashi-vishwanath-q15",
+      "difficulty": "medium",
+      "q": "Which large mosque stands immediately adjacent to the Kashi Vishwanath Temple?",
+      "options": ["Jama Masjid", "Gyanvapi Mosque", "Atala Masjid", "Alamgiri Mosque of Lahore"],
+      "answer": 1,
+      "explanation": "The Gyanvapi Mosque stands beside the temple on the site of the earlier structure."
+    },
+    {
+      "id": "kashi-vishwanath-q16",
+      "difficulty": "medium",
+      "q": "The name 'Gyanvapi', associated with the temple complex, refers to a sacred what?",
+      "options": ["Tree", "Well (the 'Well of Wisdom')", "Bell tower", "Cave"],
+      "answer": 1,
+      "explanation": "'Gyanvapi' means 'Well of Wisdom', a revered well within the temple precinct."
+    },
+    {
+      "id": "kashi-vishwanath-q17",
+      "difficulty": "medium",
+      "q": "Approximately how much gold did Maharaja Ranjit Singh reportedly donate for the temple's dome?",
+      "options": ["About 100 kilograms", "About 1 tonne (around 1000 kg)", "About 10 grams", "About 5 kilograms"],
+      "answer": 1,
+      "explanation": "Tradition holds that Ranjit Singh donated roughly a tonne of gold for plating the temple."
+    },
+    {
+      "id": "kashi-vishwanath-q18",
+      "difficulty": "medium",
+      "q": "A modern access corridor inaugurated in 2021 connects the temple directly to which feature?",
+      "options": ["The railway station", "The Ganga riverfront ghats", "The airport", "A nearby fort"],
+      "answer": 1,
+      "explanation": "The Kashi Vishwanath Dham corridor, opened in December 2021, links the temple to the Ganga ghats."
+    },
+    {
+      "id": "kashi-vishwanath-q19",
+      "difficulty": "medium",
+      "q": "Which ghat on the Ganga lies near the temple and is famous for Hindu cremation rituals?",
+      "options": ["Manikarnika Ghat", "Marina Beach", "Har Ki Pauri", "Elephanta steps"],
+      "answer": 0,
+      "explanation": "Manikarnika Ghat, near the temple, is among Varanasi's most sacred cremation ghats."
+    },
+    {
+      "id": "kashi-vishwanath-q20",
+      "difficulty": "medium",
+      "q": "Varanasi, the home of the temple, is widely described as one of the world's what?",
+      "options": ["Tallest cities", "Oldest continuously inhabited cities", "Newest planned cities", "Largest port cities"],
+      "answer": 1,
+      "explanation": "Varanasi is regarded as one of the world's oldest continuously inhabited cities, drawing Shiva pilgrims for millennia."
+    },
+    {
+      "id": "kashi-vishwanath-q21",
+      "difficulty": "medium",
+      "q": "Whom did Maharani Ahilyabai Holkar, the temple's rebuilder, primarily serve as a ruler?",
+      "options": ["The Maratha-ruled Malwa kingdom from Indore", "The Mughal court at Delhi", "The Vijayanagara Empire", "The Chola dynasty"],
+      "answer": 0,
+      "explanation": "Ahilyabai Holkar ruled the Malwa kingdom from Maheshwar/Indore as a Maratha Holkar queen."
+    },
+    {
+      "id": "kashi-vishwanath-q22",
+      "difficulty": "medium",
+      "q": "Which architectural element of the temple is most prominently covered in gold?",
+      "options": ["The floor", "The shikhara (spire) and dome", "The entrance steps", "The boundary wall"],
+      "answer": 1,
+      "explanation": "The temple's shikhara (spire) and dome are the gold-plated features that give it its golden glow."
+    },
+    {
+      "id": "kashi-vishwanath-q23",
+      "difficulty": "hard",
+      "q": "In which year was the present Kashi Vishwanath Temple structure rebuilt by Ahilyabai Holkar?",
+      "options": ["1669", "1780", "1835", "1947"],
+      "answer": 1,
+      "explanation": "Ahilyabai Holkar had the current temple built in 1780 near the site of the earlier shrine."
+    },
+    {
+      "id": "kashi-vishwanath-q24",
+      "difficulty": "hard",
+      "q": "Of the twelve Jyotirlingas across India, how many are enshrined at Kashi Vishwanath?",
+      "options": ["Three", "Two", "Twelve", "One"],
+      "answer": 3,
+      "explanation": "Kashi Vishwanath holds exactly one of the twelve Jyotirlingas of Shiva."
+    },
+    {
+      "id": "kashi-vishwanath-q25",
+      "difficulty": "hard",
+      "q": "Around which year did Maharaja Ranjit Singh provide the gold for the temple's plating?",
+      "options": ["1780", "1835", "1669", "1921"],
+      "answer": 1,
+      "explanation": "Ranjit Singh is recorded as having donated the gold for the temple roughly in 1835."
+    },
+    {
+      "id": "kashi-vishwanath-q26",
+      "difficulty": "hard",
+      "q": "The Kashi Vishwanath Dham corridor connecting the temple to the Ganga was inaugurated in which month and year?",
+      "options": ["August 2014", "December 2021", "January 2019", "October 2023"],
+      "answer": 1,
+      "explanation": "The Kashi Vishwanath Dham corridor was inaugurated in December 2021."
+    },
+    {
+      "id": "kashi-vishwanath-q27",
+      "difficulty": "hard",
+      "q": "An influential medieval temple at the site was reportedly constructed during Akbar's reign with the patronage of which Hindu noble?",
+      "options": ["Raja Man Singh / Raja Todar Mal", "Shivaji", "Rana Pratap", "Krishnadevaraya"],
+      "answer": 0,
+      "explanation": "A 16th-century temple here is associated with Raja Todar Mal (and Raja Man Singh) during Akbar's era."
+    },
+    {
+      "id": "kashi-vishwanath-q28",
+      "difficulty": "hard",
+      "q": "Which deity, the consort of Shiva, has a renowned temple within Varanasi closely linked to Kashi Vishwanath pilgrimage?",
+      "options": ["Annapurna", "Saraswati", "Lakshmi", "Radha"],
+      "answer": 0,
+      "explanation": "The Annapurna Devi temple, dedicated to Shiva's consort as the goddess of nourishment, adjoins the Kashi Vishwanath pilgrimage circuit."
+    },
+    {
+      "id": "kashi-vishwanath-q29",
+      "difficulty": "hard",
+      "q": "What is the approximate total weight of gold (in earlier and later donations) said to adorn the temple's spire and dome?",
+      "options": ["Under 1 kilogram", "Roughly several hundred kilograms to about a tonne", "Exactly 50 grams", "Around 100 tonnes"],
+      "answer": 1,
+      "explanation": "The gold adorning the temple is traditionally estimated in the range of several hundred kilograms up to about a tonne."
+    },
+    {
+      "id": "kashi-vishwanath-q30",
+      "difficulty": "hard",
+      "q": "Pilgrimage to Kashi Vishwanath is traditionally believed by devotees to grant what spiritual outcome?",
+      "options": ["Moksha (liberation from the cycle of rebirth)", "Worldly wealth only", "Military victory", "Eternal youth"],
+      "answer": 0,
+      "explanation": "Hindu tradition holds that worship and death in Kashi grant moksha, liberation from the cycle of rebirth."
+    }
+  ]
+}

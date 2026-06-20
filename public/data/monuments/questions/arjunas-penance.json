@@ -1,0 +1,245 @@
+{
+  "cardId": "arjunas-penance",
+  "questions": [
+    {
+      "id": "arjunas-penance-q01",
+      "difficulty": "easy",
+      "q": "In which Indian town is the bas-relief known as Arjuna's Penance located?",
+      "options": ["Mahabalipuram", "Madurai", "Thanjavur", "Kanchipuram"],
+      "answer": 0,
+      "explanation": "Arjuna's Penance is carved at Mahabalipuram (Mamallapuram) on the Coromandel Coast of Tamil Nadu."
+    },
+    {
+      "id": "arjunas-penance-q02",
+      "difficulty": "easy",
+      "q": "In which Indian state is Arjuna's Penance situated?",
+      "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
+      "answer": 2,
+      "explanation": "Mahabalipuram, where the relief stands, lies in the southern Indian state of Tamil Nadu."
+    },
+    {
+      "id": "arjunas-penance-q03",
+      "difficulty": "easy",
+      "q": "Which type of monument is Arjuna's Penance?",
+      "options": ["A free-standing temple", "A giant open-air rock relief", "A stepwell", "A palace"],
+      "answer": 1,
+      "explanation": "It is a colossal open-air bas-relief carved into the face of two large granite boulders."
+    },
+    {
+      "id": "arjunas-penance-q04",
+      "difficulty": "easy",
+      "q": "Which dynasty created Arjuna's Penance?",
+      "options": ["Chola", "Chalukya", "Pandya", "Pallava"],
+      "answer": 3,
+      "explanation": "The relief was made under the Pallava dynasty, who ruled the region from Kanchipuram."
+    },
+    {
+      "id": "arjunas-penance-q05",
+      "difficulty": "easy",
+      "q": "In which century is Arjuna's Penance generally dated?",
+      "options": ["3rd century", "7th century", "12th century", "16th century"],
+      "answer": 1,
+      "explanation": "The monument is generally dated to the 7th century CE during the Pallava period."
+    },
+    {
+      "id": "arjunas-penance-q06",
+      "difficulty": "easy",
+      "q": "What is the alternative popular name for Arjuna's Penance?",
+      "options": ["The Descent of the Ganges", "The Dance of Shiva", "The Churning of the Ocean", "The Wheel of Time"],
+      "answer": 0,
+      "explanation": "The relief is also widely known as 'The Descent of the Ganges', reflecting one interpretation of its central scene."
+    },
+    {
+      "id": "arjunas-penance-q07",
+      "difficulty": "easy",
+      "q": "From what natural material is Arjuna's Penance carved?",
+      "options": ["Sandstone", "Marble", "Granite", "Laterite brick"],
+      "answer": 2,
+      "explanation": "It is carved directly into the natural granite (rock) boulders found at Mahabalipuram."
+    },
+    {
+      "id": "arjunas-penance-q08",
+      "difficulty": "easy",
+      "q": "Arjuna's Penance is famous for being among the largest examples of which kind of artwork?",
+      "options": ["Stained-glass windows", "Open-air rock reliefs", "Bronze castings", "Cave paintings"],
+      "answer": 1,
+      "explanation": "It is celebrated as one of the largest open-air rock reliefs in the world."
+    },
+    {
+      "id": "arjunas-penance-q09",
+      "difficulty": "easy",
+      "q": "Which body of water lies near Mahabalipuram, the site of Arjuna's Penance?",
+      "options": ["Arabian Sea", "Bay of Bengal", "Indian Ocean only", "Lake Pulicat"],
+      "answer": 1,
+      "explanation": "Mahabalipuram is a coastal town on the Bay of Bengal along the Coromandel Coast."
+    },
+    {
+      "id": "arjunas-penance-q10",
+      "difficulty": "easy",
+      "q": "Which famous animals are depicted at near-life size in the Arjuna's Penance relief?",
+      "options": ["Horses", "Camels", "Tigers", "Elephants"],
+      "answer": 3,
+      "explanation": "The relief includes a celebrated family of life-sized elephants, among its most admired carvings."
+    },
+    {
+      "id": "arjunas-penance-q11",
+      "difficulty": "medium",
+      "q": "The natural cleft running down the middle of the relief is believed to have channeled what during festivals or rains?",
+      "options": ["Fire", "Smoke", "Water", "Sand"],
+      "answer": 2,
+      "explanation": "A vertical fissure between the two boulders is thought to have carried water, evoking the descent of the Ganges."
+    },
+    {
+      "id": "arjunas-penance-q12",
+      "difficulty": "medium",
+      "q": "The ascetic figure standing on one leg is interpreted either as Arjuna or as which other sage?",
+      "options": ["Bhagiratha", "Vishwamitra", "Valmiki", "Agastya"],
+      "answer": 0,
+      "explanation": "The penitent is read either as Arjuna seeking Shiva's weapon or as Bhagiratha doing penance to bring the Ganges to earth."
+    },
+    {
+      "id": "arjunas-penance-q13",
+      "difficulty": "medium",
+      "q": "Which deity appears beside the ascetic, holding a weapon, in the relief?",
+      "options": ["Vishnu", "Brahma", "Shiva", "Indra"],
+      "answer": 2,
+      "explanation": "Shiva is shown standing near the ascetic, often holding his trident, central to both narrative interpretations."
+    },
+    {
+      "id": "arjunas-penance-q14",
+      "difficulty": "medium",
+      "q": "Serpent deities (nagas and naginis) are carved within the central cleft of the relief. What do they represent?",
+      "options": ["The sea", "The waters or river flowing down", "Mountains", "The sky"],
+      "answer": 1,
+      "explanation": "The naga figures in the fissure symbolize the sacred waters, reinforcing the river/Ganges theme."
+    },
+    {
+      "id": "arjunas-penance-q15",
+      "difficulty": "medium",
+      "q": "Mahabalipuram, the site of the relief, is associated with which Pallava ruler whose title gives the town its name 'Mamallapuram'?",
+      "options": ["Mahendravarman I", "Narasimhavarman I (Mamalla)", "Nandivarman II", "Aparajitavarman"],
+      "answer": 1,
+      "explanation": "The name Mamallapuram derives from Narasimhavarman I, who bore the title 'Mamalla', meaning great wrestler."
+    },
+    {
+      "id": "arjunas-penance-q16",
+      "difficulty": "medium",
+      "q": "Under what collective UNESCO World Heritage designation is Arjuna's Penance protected?",
+      "options": ["Great Living Chola Temples", "Group of Monuments at Mahabalipuram", "Hampi Monuments", "Khajuraho Group of Monuments"],
+      "answer": 1,
+      "explanation": "It is part of the 'Group of Monuments at Mahabalipuram', inscribed as a UNESCO World Heritage Site in 1984."
+    },
+    {
+      "id": "arjunas-penance-q17",
+      "difficulty": "medium",
+      "q": "In which year were the Group of Monuments at Mahabalipuram inscribed on the UNESCO World Heritage List?",
+      "options": ["1972", "1999", "2004", "1984"],
+      "answer": 3,
+      "explanation": "The Mahabalipuram monuments, including Arjuna's Penance, were inscribed by UNESCO in 1984."
+    },
+    {
+      "id": "arjunas-penance-q18",
+      "difficulty": "medium",
+      "q": "Near the relief stands a small shrine carved into the rock at the base of the cleft. To which deity is it dedicated?",
+      "options": ["Vishnu reclining", "Shiva as a linga", "Durga", "Ganesha"],
+      "answer": 0,
+      "explanation": "A small carved shrine at the foot of the cleft depicts Vishnu, complementing the river-descent narrative."
+    },
+    {
+      "id": "arjunas-penance-q19",
+      "difficulty": "medium",
+      "q": "What architectural style does Mahabalipuram represent, of which Arjuna's Penance is a famous example?",
+      "options": ["Nagara (North Indian)", "Pallava (early Dravidian)", "Indo-Islamic", "Vesara of the Hoysalas"],
+      "answer": 1,
+      "explanation": "Mahabalipuram is a key site of the early Dravidian style developed under the Pallavas."
+    },
+    {
+      "id": "arjunas-penance-q20",
+      "difficulty": "medium",
+      "q": "Besides gods and humans, the relief is densely populated with figures of what kind?",
+      "options": ["Only abstract geometric patterns", "Animals, celestial beings and ascetics", "Foreign traders and ships", "Royal portraits of kings only"],
+      "answer": 1,
+      "explanation": "The relief teems with animals, flying celestial beings (gandharvas and kinnaras), sages and everyday figures."
+    },
+    {
+      "id": "arjunas-penance-q21",
+      "difficulty": "medium",
+      "q": "Roughly how wide is the Arjuna's Penance relief across its two boulders?",
+      "options": ["About 3 metres", "About 30 metres", "About 100 metres", "About 200 metres"],
+      "answer": 1,
+      "explanation": "The relief spans roughly 30 metres in width and about 15 metres in height across the two granite boulders."
+    },
+    {
+      "id": "arjunas-penance-q22",
+      "difficulty": "medium",
+      "q": "A humorous detail in the relief shows a cat standing on its hind legs in a posture of penance, surrounded by what?",
+      "options": ["Fish", "Mice", "Birds", "Frogs"],
+      "answer": 1,
+      "explanation": "An ascetic cat is carved mimicking penance while mice gather around, a satirical touch on false piety."
+    },
+    {
+      "id": "arjunas-penance-q23",
+      "difficulty": "hard",
+      "q": "The Pallava capital from which the dynasty ruled while creating Mahabalipuram's monuments was which city?",
+      "options": ["Kanchipuram", "Vellore", "Tiruchirappalli", "Tanjore"],
+      "answer": 0,
+      "explanation": "The Pallavas ruled from Kanchipuram, their inland capital, while developing Mahabalipuram as a port and royal art centre."
+    },
+    {
+      "id": "arjunas-penance-q24",
+      "difficulty": "hard",
+      "q": "The 'Arjuna' reading links the relief to which episode from the Mahabharata?",
+      "options": ["The dice game with the Kauravas", "Arjuna's penance to obtain the Pashupatastra from Shiva", "The Bhagavad Gita discourse", "Arjuna's marriage to Subhadra"],
+      "answer": 1,
+      "explanation": "In the Arjuna interpretation, the hero performs austerities to win Shiva's powerful Pashupata weapon."
+    },
+    {
+      "id": "arjunas-penance-q25",
+      "difficulty": "hard",
+      "q": "The 'Descent of the Ganges' reading draws on the legend of which king who brought the river to earth?",
+      "options": ["Sagara", "Bhagiratha", "Harishchandra", "Dushyanta"],
+      "answer": 1,
+      "explanation": "King Bhagiratha performed great penance to bring the Ganges down from heaven to redeem his ancestors."
+    },
+    {
+      "id": "arjunas-penance-q26",
+      "difficulty": "hard",
+      "q": "Near Arjuna's Penance is a second, unfinished relief sometimes called by the same theme. What is generally said about it?",
+      "options": ["It was completed by the Cholas", "It is an incomplete version of the same Ganges-descent scene", "It depicts a naval battle", "It is a Buddhist stupa carving"],
+      "answer": 1,
+      "explanation": "An adjacent boulder bears an unfinished relief widely regarded as a second, incomplete rendering of the same descent scene."
+    },
+    {
+      "id": "arjunas-penance-q27",
+      "difficulty": "hard",
+      "q": "The naga figures in the relief's cleft are typically shown with what distinctive feature above their human upper bodies?",
+      "options": ["Lotus crowns", "Multi-hooded serpent canopies", "Halos of fire", "Peacock feathers"],
+      "answer": 1,
+      "explanation": "Naga and nagini figures are carved with multi-hooded cobra canopies rising behind their heads, marking them as water serpents."
+    },
+    {
+      "id": "arjunas-penance-q28",
+      "difficulty": "hard",
+      "q": "Mahabalipuram flourished as a Pallava seaport especially under which 7th-century ruler associated with much of its rock-cut art?",
+      "options": ["Simhavishnu", "Narasimhavarman I", "Rajasimha (Narasimhavarman II)", "Kumaravishnu"],
+      "answer": 1,
+      "explanation": "Much of Mahabalipuram's monolithic and relief art, including Arjuna's Penance, is associated with Narasimhavarman I's 7th-century reign."
+    },
+    {
+      "id": "arjunas-penance-q29",
+      "difficulty": "hard",
+      "q": "Which agency is the principal body responsible for the conservation and protection of Arjuna's Penance today?",
+      "options": ["UNESCO field office", "Archaeological Survey of India", "National Gallery of Modern Art", "Indian Museum, Kolkata"],
+      "answer": 1,
+      "explanation": "The Archaeological Survey of India maintains and protects the Mahabalipuram monuments, including Arjuna's Penance."
+    },
+    {
+      "id": "arjunas-penance-q30",
+      "difficulty": "hard",
+      "q": "Stylistically, the relief carving technique at Mahabalipuram is best described as which type of relief?",
+      "options": ["Deeply undercut high/bas-relief into living rock", "Inlaid mosaic", "Cast metal repoussé", "Painted fresco on plaster"],
+      "answer": 0,
+      "explanation": "The figures are carved in low-to-high relief directly into the living granite, a hallmark of Pallava rock-cut sculpture."
+    }
+  ]
+}

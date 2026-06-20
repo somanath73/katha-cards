@@ -1,0 +1,245 @@
+{
+  "cardId": "hazarduari-palace",
+  "questions": [
+    {
+      "id": "hazarduari-palace-q01",
+      "difficulty": "easy",
+      "q": "What is the popular meaning of the name 'Hazarduari'?",
+      "options": ["Palace of a Thousand Doors", "House of a Hundred Pillars", "Hall of a Thousand Mirrors", "Fort of a Thousand Soldiers"],
+      "answer": 0,
+      "explanation": "'Hazarduari' literally means 'a thousand doors', which is why it is called the Palace of a Thousand Doors."
+    },
+    {
+      "id": "hazarduari-palace-q02",
+      "difficulty": "easy",
+      "q": "In which Indian state is the Hazarduari Palace located?",
+      "options": ["Bihar", "Odisha", "West Bengal", "Jharkhand"],
+      "answer": 2,
+      "explanation": "Hazarduari Palace stands in Murshidabad, in the state of West Bengal."
+    },
+    {
+      "id": "hazarduari-palace-q03",
+      "difficulty": "easy",
+      "q": "In which town is the Hazarduari Palace situated?",
+      "options": ["Murshidabad", "Malda", "Berhampore", "Krishnanagar"],
+      "answer": 0,
+      "explanation": "The palace is located in Murshidabad, the former capital of the Nawabs of Bengal."
+    },
+    {
+      "id": "hazarduari-palace-q04",
+      "difficulty": "easy",
+      "q": "Hazarduari Palace was built for which rulers?",
+      "options": ["The Mughal emperors", "The Nawabs of Bengal", "The Maratha Peshwas", "The Rajas of Cooch Behar"],
+      "answer": 1,
+      "explanation": "The palace was built for the Nawabs of Bengal, who ruled from Murshidabad."
+    },
+    {
+      "id": "hazarduari-palace-q05",
+      "difficulty": "easy",
+      "q": "In which century was the Hazarduari Palace built?",
+      "options": ["16th century", "17th century", "18th century", "19th century"],
+      "answer": 3,
+      "explanation": "Construction of the palace was carried out in the first half of the 19th century."
+    },
+    {
+      "id": "hazarduari-palace-q06",
+      "difficulty": "easy",
+      "q": "What architectural style is the Hazarduari Palace most often described as?",
+      "options": ["Italianate (European neoclassical)", "Dravidian temple style", "Indo-Saracenic temple style", "Buddhist stupa style"],
+      "answer": 0,
+      "explanation": "Hazarduari is built in an Italianate, European neoclassical style rather than a traditional Indian style."
+    },
+    {
+      "id": "hazarduari-palace-q07",
+      "difficulty": "easy",
+      "q": "What is notable about many of the thousand doors of the palace?",
+      "options": ["They are all made of solid gold", "Many of them are false doors", "They can each play music", "Each opens to a separate garden"],
+      "answer": 1,
+      "explanation": "Of the thousand doors, many are false doors painted onto the walls, intended to confuse intruders."
+    },
+    {
+      "id": "hazarduari-palace-q08",
+      "difficulty": "easy",
+      "q": "Hazarduari Palace today functions primarily as what?",
+      "options": ["An active royal residence", "A museum", "A railway station", "A university campus"],
+      "answer": 1,
+      "explanation": "The palace now serves as a museum housing the collections of the Nawabs of Bengal."
+    },
+    {
+      "id": "hazarduari-palace-q09",
+      "difficulty": "easy",
+      "q": "Murshidabad, where the palace stands, sits on the bank of which river?",
+      "options": ["Brahmaputra", "Bhagirathi (a branch of the Ganga)", "Yamuna", "Godavari"],
+      "answer": 1,
+      "explanation": "Murshidabad lies on the bank of the Bhagirathi River, a distributary of the Ganga."
+    },
+    {
+      "id": "hazarduari-palace-q10",
+      "difficulty": "easy",
+      "q": "Which agency maintains the Hazarduari Palace museum today?",
+      "options": ["Indian Railways", "Reserve Bank of India", "Archaeological Survey of India (ASI)", "Indian Space Research Organisation"],
+      "answer": 2,
+      "explanation": "The Hazarduari Palace Museum is maintained by the Archaeological Survey of India."
+    },
+    {
+      "id": "hazarduari-palace-q11",
+      "difficulty": "medium",
+      "q": "Which Nawab of Bengal commissioned the construction of the Hazarduari Palace?",
+      "options": ["Siraj ud-Daulah", "Nawab Nazim Humayun Jah", "Murshid Quli Khan", "Mir Jafar"],
+      "answer": 1,
+      "explanation": "The palace was built during the reign of Nawab Nazim Humayun Jah of Bengal."
+    },
+    {
+      "id": "hazarduari-palace-q12",
+      "difficulty": "medium",
+      "q": "Which British architect/engineer designed the Hazarduari Palace?",
+      "options": ["Colonel Duncan Macleod", "Edwin Lutyens", "Herbert Baker", "William Emerson"],
+      "answer": 0,
+      "explanation": "The palace was designed by Colonel Duncan Macleod of the Bengal Engineers."
+    },
+    {
+      "id": "hazarduari-palace-q13",
+      "difficulty": "medium",
+      "q": "During roughly which years was the Hazarduari Palace constructed?",
+      "options": ["1700s to 1710s", "1829 to 1837", "1870s to 1880s", "1901 to 1911"],
+      "answer": 1,
+      "explanation": "Construction of the palace was carried out roughly between 1829 and 1837."
+    },
+    {
+      "id": "hazarduari-palace-q14",
+      "difficulty": "medium",
+      "q": "Of the palace's roughly thousand doors, how many are commonly said to be false (not real openings)?",
+      "options": ["About 100 false", "About 900 false", "About 500 false", "None are false"],
+      "answer": 0,
+      "explanation": "The palace is popularly described as having about 1,000 doors, of which roughly 100 are false (blind) doors and about 900 are real, the false ones intended to confuse intruders."
+    },
+    {
+      "id": "hazarduari-palace-q15",
+      "difficulty": "medium",
+      "q": "Which prominent feature stands directly opposite the Hazarduari Palace within its complex?",
+      "options": ["A large Buddhist stupa", "The Nizamat Imambara", "A Jain temple", "A Mughal-era mosque tomb"],
+      "answer": 1,
+      "explanation": "The Nizamat Imambara, one of the largest imambaras in India, stands opposite the palace in the same complex."
+    },
+    {
+      "id": "hazarduari-palace-q16",
+      "difficulty": "medium",
+      "q": "How many storeys does the Hazarduari Palace have?",
+      "options": ["One storey", "Three storeys", "Five storeys", "Seven storeys"],
+      "answer": 1,
+      "explanation": "The palace is a three-storeyed building."
+    },
+    {
+      "id": "hazarduari-palace-q17",
+      "difficulty": "medium",
+      "q": "The grand entrance of the palace is approached by a prominent flight of what?",
+      "options": ["A spiral ramp", "A wide stone staircase", "A drawbridge over a moat", "An underground tunnel"],
+      "answer": 1,
+      "explanation": "The palace is entered via a broad, imposing staircase leading up to its main portico."
+    },
+    {
+      "id": "hazarduari-palace-q18",
+      "difficulty": "medium",
+      "q": "What kind of collection is the Hazarduari museum especially famous for?",
+      "options": ["Dinosaur fossils", "Antique weapons, paintings and royal artefacts of the Nawabs", "Space technology models", "Modern abstract art"],
+      "answer": 1,
+      "explanation": "The museum is renowned for its collection of antique weapons, paintings, manuscripts and other royal artefacts of the Nawabs."
+    },
+    {
+      "id": "hazarduari-palace-q19",
+      "difficulty": "medium",
+      "q": "Murshidabad, the seat of the Hazarduari Palace, was named after which Nawab?",
+      "options": ["Murshid Quli Khan", "Alivardi Khan", "Siraj ud-Daulah", "Mir Qasim"],
+      "answer": 0,
+      "explanation": "The city was named after Murshid Quli Khan, the first Nawab of Bengal to make it his capital."
+    },
+    {
+      "id": "hazarduari-palace-q20",
+      "difficulty": "medium",
+      "q": "Which major 1757 battle, decided near Murshidabad, marked the rise of British power in Bengal?",
+      "options": ["Battle of Buxar", "Battle of Plassey", "Battle of Panipat", "Battle of Wandiwash"],
+      "answer": 1,
+      "explanation": "The Battle of Plassey (1757) near Murshidabad was a turning point that established British East India Company dominance in Bengal."
+    },
+    {
+      "id": "hazarduari-palace-q21",
+      "difficulty": "medium",
+      "q": "By what earlier local name was the Hazarduari Palace also known?",
+      "options": ["Bara Kothi", "Lal Bagh", "Rang Mahal", "Sheesh Mahal"],
+      "answer": 0,
+      "explanation": "Before it came to be called Hazarduari, the building was known locally as the 'Bara Kothi' (the great mansion)."
+    },
+    {
+      "id": "hazarduari-palace-q22",
+      "difficulty": "medium",
+      "q": "Hazarduari Palace was originally built to serve mainly as what?",
+      "options": ["A military barracks", "A durbar hall and venue for official business and meetings with the British", "A grain storehouse", "A river port customs office"],
+      "answer": 1,
+      "explanation": "It was built chiefly as a durbar (assembly) hall for official business and ceremonies, including dealings with British officials."
+    },
+    {
+      "id": "hazarduari-palace-q23",
+      "difficulty": "hard",
+      "q": "Hazarduari Palace is famous for a particularly large and ornate example of which imported European fitting?",
+      "options": ["A grand chandelier", "A pipe organ", "A grandfather clock collection", "A marble fountain"],
+      "answer": 0,
+      "explanation": "The palace is noted for a huge ornate chandelier, said to be among the largest in the region, hung in its durbar hall."
+    },
+    {
+      "id": "hazarduari-palace-q24",
+      "difficulty": "hard",
+      "q": "The Hazarduari complex is located within which fortified enclosure at Murshidabad?",
+      "options": ["The Red Fort", "The Nizamat Kila (Kila Nizamat)", "The Golconda Fort", "The Chittorgarh Fort"],
+      "answer": 1,
+      "explanation": "The palace lies within the Kila Nizamat (Nizamat Fort), the fortified compound of the Nawabs at Murshidabad."
+    },
+    {
+      "id": "hazarduari-palace-q25",
+      "difficulty": "hard",
+      "q": "The Nizamat Imambara opposite the palace was built after an earlier wooden imambara was destroyed by what?",
+      "options": ["An earthquake", "A flood", "A fire", "A wartime bombardment"],
+      "answer": 2,
+      "explanation": "The present Nizamat Imambara was rebuilt by Nawab Nazim Mansur Ali Khan after the earlier wooden imambara was destroyed by fire."
+    },
+    {
+      "id": "hazarduari-palace-q26",
+      "difficulty": "hard",
+      "q": "The exterior facade of the Hazarduari Palace prominently features columns of which classical order?",
+      "options": ["Doric columns", "Corinthian columns", "Composite columns", "Tuscan columns"],
+      "answer": 0,
+      "explanation": "The palace facade is fronted by a row of large Doric columns, a hallmark of its neoclassical design."
+    },
+    {
+      "id": "hazarduari-palace-q27",
+      "difficulty": "hard",
+      "q": "Approximately how many large, lavishly decorated rooms is the Hazarduari Palace said to contain?",
+      "options": ["About 50", "About 114", "About 350", "About 700"],
+      "answer": 1,
+      "explanation": "The palace is described as having about 114 large, richly decorated rooms, including a durbar hall, banqueting hall, library and galleries."
+    },
+    {
+      "id": "hazarduari-palace-q28",
+      "difficulty": "hard",
+      "q": "Which Nawab Nazim, son of Humayun Jah, later carried out major works such as the Imambara in the Hazarduari complex?",
+      "options": ["Mir Jafar", "Feradun Jah (Mansur Ali Khan)", "Sarfaraz Khan", "Shuja-ud-Din"],
+      "answer": 1,
+      "explanation": "Nawab Nazim Feradun Jah, also known as Mansur Ali Khan, oversaw later works including the rebuilding of the Nizamat Imambara."
+    },
+    {
+      "id": "hazarduari-palace-q29",
+      "difficulty": "hard",
+      "q": "The land and city of Murshidabad were historically part of which Mughal-era province (subah)?",
+      "options": ["Subah of Awadh", "Subah of Bengal", "Subah of Gujarat", "Subah of Malwa"],
+      "answer": 1,
+      "explanation": "Murshidabad was the capital of the Mughal Subah of Bengal, which the Nawabs governed semi-independently."
+    },
+    {
+      "id": "hazarduari-palace-q30",
+      "difficulty": "hard",
+      "q": "Which of these statements about Hazarduari Palace is accurate?",
+      "options": ["It was built by Emperor Akbar in the 1500s", "It is a 19th-century palace whose museum is run by the ASI", "It is a UNESCO World Heritage Site built entirely of marble", "It was the residence of the Maratha Peshwas"],
+      "answer": 1,
+      "explanation": "Hazarduari is a 19th-century palace of the Nawabs of Bengal, and its museum is maintained by the Archaeological Survey of India."
+    }
+  ]
+}

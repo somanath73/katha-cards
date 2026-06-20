@@ -1,0 +1,245 @@
+{
+  "cardId": "kamakhya-temple",
+  "questions": [
+    {
+      "id": "kamakhya-temple-q01",
+      "difficulty": "easy",
+      "q": "In which Indian state is the Kamakhya Temple located?",
+      "options": ["West Bengal", "Assam", "Odisha", "Bihar"],
+      "answer": 1,
+      "explanation": "The Kamakhya Temple stands on Nilachal Hill in Assam, near the city of Guwahati."
+    },
+    {
+      "id": "kamakhya-temple-q02",
+      "difficulty": "easy",
+      "q": "Near which major city is the Kamakhya Temple situated?",
+      "options": ["Guwahati", "Shillong", "Dibrugarh", "Silchar"],
+      "answer": 0,
+      "explanation": "The temple is located on Nilachal Hill in Guwahati, the largest city of Assam."
+    },
+    {
+      "id": "kamakhya-temple-q03",
+      "difficulty": "easy",
+      "q": "To which deity is the Kamakhya Temple dedicated?",
+      "options": ["Lakshmi", "Saraswati", "The goddess Kamakhya", "Parvati as Annapurna"],
+      "answer": 2,
+      "explanation": "The temple is dedicated to the goddess Kamakhya, a form of the Mother Goddess (Shakti)."
+    },
+    {
+      "id": "kamakhya-temple-q04",
+      "difficulty": "easy",
+      "q": "The Kamakhya Temple is one of the most revered shrines belonging to which group of sacred sites?",
+      "options": ["Char Dham", "Shakti Peethas", "Jyotirlingas", "Sapta Puri"],
+      "answer": 1,
+      "explanation": "Kamakhya is counted among the most important Shakti Peethas, sites associated with the goddess Sati."
+    },
+    {
+      "id": "kamakhya-temple-q05",
+      "difficulty": "easy",
+      "q": "On which hill does the Kamakhya Temple stand?",
+      "options": ["Nilachal Hill", "Chamundi Hill", "Tirumala Hill", "Govardhan Hill"],
+      "answer": 0,
+      "explanation": "The temple is located atop Nilachal Hill (also called Nilshaila) overlooking Guwahati."
+    },
+    {
+      "id": "kamakhya-temple-q06",
+      "difficulty": "easy",
+      "q": "Which famous annual festival, celebrating the goddess's menstruation, is held at Kamakhya?",
+      "options": ["Bihu Mela", "Ambubachi Mela", "Pushkar Mela", "Sonepur Mela"],
+      "answer": 1,
+      "explanation": "The Ambubachi Mela, marking the goddess's annual menstruation cycle, draws huge crowds of devotees."
+    },
+    {
+      "id": "kamakhya-temple-q07",
+      "difficulty": "easy",
+      "q": "Which broad form of Hindu worship is centred on the goddess at Kamakhya?",
+      "options": ["Vaishnavism", "Shaivism", "Shaktism (Tantra)", "Smartism"],
+      "answer": 2,
+      "explanation": "Kamakhya is a major centre of Shaktism and Tantric worship of the Divine Feminine."
+    },
+    {
+      "id": "kamakhya-temple-q08",
+      "difficulty": "easy",
+      "q": "What kind of object is enshrined and worshipped in the temple's sanctum, rather than a typical idol?",
+      "options": ["A natural rock cleft (yoni) fed by a spring", "A reclining stone statue", "A crystal lingam", "A golden chariot"],
+      "answer": 0,
+      "explanation": "Instead of an image, a natural yoni-shaped rock cleft, kept moist by an underground spring, is worshipped."
+    },
+    {
+      "id": "kamakhya-temple-q09",
+      "difficulty": "easy",
+      "q": "The river flowing near Guwahati below Nilachal Hill is the:",
+      "options": ["Ganga", "Brahmaputra", "Godavari", "Yamuna"],
+      "answer": 1,
+      "explanation": "Nilachal Hill rises above the Brahmaputra River, which flows through Guwahati."
+    },
+    {
+      "id": "kamakhya-temple-q10",
+      "difficulty": "easy",
+      "q": "Kamakhya is primarily worshipped as a form of which goddess?",
+      "options": ["The Mother Goddess / Shakti (Devi)", "Ganga", "Tulsi", "Santoshi"],
+      "answer": 0,
+      "explanation": "Kamakhya is venerated as a powerful form of the Mother Goddess, Shakti or Devi."
+    },
+    {
+      "id": "kamakhya-temple-q11",
+      "difficulty": "medium",
+      "q": "In Shakti Peetha legend, which part of the goddess Sati's body is said to have fallen at Kamakhya?",
+      "options": ["Her eyes", "Her yoni (womb/genitals)", "Her tongue", "Her hands"],
+      "answer": 1,
+      "explanation": "Tradition holds that Sati's yoni fell here, which is why the goddess is worshipped in yoni form."
+    },
+    {
+      "id": "kamakhya-temple-q12",
+      "difficulty": "medium",
+      "q": "The current main temple structure is largely attributed to the rebuilding efforts of which 16th-century kingdom?",
+      "options": ["The Vijayanagara Empire", "The Koch (Cooch Behar) kingdom", "The Maratha Empire", "The Chola dynasty"],
+      "answer": 1,
+      "explanation": "The temple was rebuilt in the 16th century under the Koch kings, notably associated with Naranarayan."
+    },
+    {
+      "id": "kamakhya-temple-q13",
+      "difficulty": "medium",
+      "q": "Which Koch king is traditionally credited with the major 16th-century reconstruction of the Kamakhya Temple?",
+      "options": ["Naranarayan", "Krishnadevaraya", "Rajaraja Chola", "Prithviraj Chauhan"],
+      "answer": 0,
+      "explanation": "The Koch king Naranarayan, with his brother Chilarai, is credited with rebuilding the temple around 1565."
+    },
+    {
+      "id": "kamakhya-temple-q14",
+      "difficulty": "medium",
+      "q": "The distinctive beehive-shaped dome (shikhara) of the Kamakhya Temple is characteristic of which regional style?",
+      "options": ["Dravidian gopuram style", "Nagara hybrid 'Nilachal' style", "Indo-Saracenic style", "Kalinga rekha-deula style"],
+      "answer": 1,
+      "explanation": "The temple's hemispherical beehive shikhara is a hallmark of the distinctive Assamese Nilachal architectural style."
+    },
+    {
+      "id": "kamakhya-temple-q15",
+      "difficulty": "medium",
+      "q": "During the Ambubachi Mela, the temple's sanctum is typically:",
+      "options": ["Opened for a special grand abhishekam", "Closed for several days, then reopened", "Decorated with thousands of lamps only", "Moved temporarily to another shrine"],
+      "answer": 1,
+      "explanation": "The sanctum is closed for about three days during the goddess's symbolic menstruation, then ceremonially reopened."
+    },
+    {
+      "id": "kamakhya-temple-q16",
+      "difficulty": "medium",
+      "q": "The Kamakhya complex is associated with a group of goddess temples often described as the:",
+      "options": ["Nine Durgas", "Ten Mahavidyas", "Seven Matrikas only", "Twelve Adityas"],
+      "answer": 1,
+      "explanation": "Kamakhya is linked with the ten Mahavidyas, with several of these goddesses having shrines on Nilachal Hill."
+    },
+    {
+      "id": "kamakhya-temple-q17",
+      "difficulty": "medium",
+      "q": "Which medieval invasion is traditionally said to have damaged or destroyed an earlier temple at the site before its 16th-century rebuilding?",
+      "options": ["A campaign associated with Kalapahar/Bengal Sultanate forces", "The sack by Mahmud of Ghazni", "An attack by the Portuguese", "A raid by Timur"],
+      "answer": 0,
+      "explanation": "An earlier structure is said to have been destroyed in the medieval period, commonly attributed in tradition to Kalapahar of the Bengal Sultanate."
+    },
+    {
+      "id": "kamakhya-temple-q18",
+      "difficulty": "medium",
+      "q": "The Kamakhya Temple is known for the ritual practice of what kind of offering, common in Shakta tradition?",
+      "options": ["Strict avoidance of all offerings", "Animal sacrifice (bali)", "Offering only of gold", "Floating offerings down a river only"],
+      "answer": 1,
+      "explanation": "As a major Shakta shrine, Kamakhya is well known for the practice of animal sacrifice as an offering to the goddess."
+    },
+    {
+      "id": "kamakhya-temple-q19",
+      "difficulty": "medium",
+      "q": "The inner sanctum (garbhagriha) of Kamakhya is best described as:",
+      "options": ["A tall open hall flooded with light", "A dark cave-like chamber reached by descending steps", "A rooftop open-air shrine", "A floating pavilion on water"],
+      "answer": 1,
+      "explanation": "Devotees descend into a dark, cave-like chamber where the yoni rock and spring are located."
+    },
+    {
+      "id": "kamakhya-temple-q20",
+      "difficulty": "medium",
+      "q": "Which of these statements about Kamakhya's UNESCO status is correct?",
+      "options": ["It is a UNESCO World Heritage Site", "It is not a UNESCO World Heritage Site", "It was delisted by UNESCO in 2010", "It is a UNESCO Natural Heritage Site"],
+      "answer": 1,
+      "explanation": "The Kamakhya Temple is a major pilgrimage site but is not inscribed as a UNESCO World Heritage Site."
+    },
+    {
+      "id": "kamakhya-temple-q21",
+      "difficulty": "medium",
+      "q": "The name 'Kamakhya' is most closely connected with which concept in tradition?",
+      "options": ["Desire/love (Kama) and the goddess granting wishes", "Pure renunciation and fasting", "War and conquest", "Wealth and trade"],
+      "answer": 0,
+      "explanation": "The name is linked to Kama (desire/love); Kamakhya is revered as the goddess of desire who fulfils wishes."
+    },
+    {
+      "id": "kamakhya-temple-q22",
+      "difficulty": "medium",
+      "q": "The Kamakhya Temple is one of the principal religious centres of which historical region of Assam?",
+      "options": ["Kamarupa (ancient Pragjyotisha)", "Magadha", "Avanti", "Gandhara"],
+      "answer": 0,
+      "explanation": "The site lies in the ancient region of Kamarupa (Pragjyotisha), long renowned as a centre of goddess worship and Tantra."
+    },
+    {
+      "id": "kamakhya-temple-q23",
+      "difficulty": "hard",
+      "q": "Approximately when was the major surviving reconstruction of the Kamakhya Temple completed under the Koch kings?",
+      "options": ["Around 1565 CE", "Around 1100 CE", "Around 1750 CE", "Around 1900 CE"],
+      "answer": 0,
+      "explanation": "The Koch reconstruction associated with Naranarayan is generally dated to around 1565 CE."
+    },
+    {
+      "id": "kamakhya-temple-q24",
+      "difficulty": "hard",
+      "q": "The Kamakhya Temple's plan combines a tall sanctum with a series of chambers; the large domed sanctum sits over which structural feature?",
+      "options": ["A flat open courtyard", "A cruciform base with a beehive shikhara above the garbhagriha", "A stepped pyramid like a ziggurat", "A circular colonnade only"],
+      "answer": 1,
+      "explanation": "The temple has a cruciform base supporting the hemispherical beehive shikhara over the sanctum, a defining Nilachal feature."
+    },
+    {
+      "id": "kamakhya-temple-q25",
+      "difficulty": "hard",
+      "q": "Which Koch general, brother of king Naranarayan, is associated with patronage of the temple's reconstruction?",
+      "options": ["Chilarai", "Lachit Borphukan", "Bakhtiyar Khalji", "Man Singh"],
+      "answer": 0,
+      "explanation": "Chilarai (Shukladhwaj), the celebrated general and brother of Naranarayan, is linked to the temple's 16th-century rebuilding."
+    },
+    {
+      "id": "kamakhya-temple-q26",
+      "difficulty": "hard",
+      "q": "Besides Kamakhya herself, Nilachal Hill hosts shrines to several Mahavidyas. Which of the following is among them?",
+      "options": ["Tara", "Sita", "Radha", "Ganga"],
+      "answer": 0,
+      "explanation": "The goddess Tara is one of the Mahavidyas with a shrine on Nilachal Hill alongside Kamakhya."
+    },
+    {
+      "id": "kamakhya-temple-q27",
+      "difficulty": "hard",
+      "q": "A medieval Tantric text strongly associated with Kamakhya and Kamarupa goddess worship is the:",
+      "options": ["Kalika Purana", "Arthashastra", "Natya Shastra", "Sushruta Samhita"],
+      "answer": 0,
+      "explanation": "The Kalika Purana, composed in the Kamarupa region, glorifies the worship of Kamakhya and details her rites."
+    },
+    {
+      "id": "kamakhya-temple-q28",
+      "difficulty": "hard",
+      "q": "During the Ambubachi period, the natural spring at the sanctum is traditionally said to turn what colour, symbolising the goddess's menstruation?",
+      "options": ["Reddish", "Bright green", "Deep blue", "Golden yellow"],
+      "answer": 0,
+      "explanation": "The spring water is traditionally believed to take on a reddish tinge during Ambubachi, symbolising menstruation."
+    },
+    {
+      "id": "kamakhya-temple-q29",
+      "difficulty": "hard",
+      "q": "Which dynasty that ruled medieval Assam later extended significant patronage to the Kamakhya Temple after the Koch period?",
+      "options": ["The Ahoms", "The Mughals", "The Pallavas", "The Hoysalas"],
+      "answer": 0,
+      "explanation": "The Ahom rulers of Assam became important later patrons of the Kamakhya Temple following the Koch reconstruction."
+    },
+    {
+      "id": "kamakhya-temple-q30",
+      "difficulty": "hard",
+      "q": "The principal building material of the rebuilt Kamakhya Temple's superstructure is best described as:",
+      "options": ["Carved timber", "Stone with brick and a plastered/mortar finish", "Polished marble throughout", "Sun-dried mud brick only"],
+      "answer": 1,
+      "explanation": "The temple is built largely of stone and brick with a mortar/plaster finish, characteristic of the Nilachal style."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "agra-fort",
+  "questions": [
+    {
+      "id": "agra-fort-q01",
+      "difficulty": "easy",
+      "q": "In which Indian city is the Agra Fort located?",
+      "options": ["Delhi", "Jaipur", "Lucknow", "Agra"],
+      "answer": 3,
+      "explanation": "The Agra Fort stands in Agra, in the state of Uttar Pradesh, on the right bank of the Yamuna River."
+    },
+    {
+      "id": "agra-fort-q02",
+      "difficulty": "easy",
+      "q": "Agra Fort is most famously associated with which Indian empire?",
+      "options": ["The Maratha Empire", "The Chola Empire", "The Mughal Empire", "The Vijayanagara Empire"],
+      "answer": 2,
+      "explanation": "Agra Fort served as a principal residence of the Mughal emperors from Akbar onward."
+    },
+    {
+      "id": "agra-fort-q03",
+      "difficulty": "easy",
+      "q": "What is the dominant building material that gives Agra Fort its distinctive colour?",
+      "options": ["White marble", "Grey granite", "Red sandstone", "Black basalt"],
+      "answer": 2,
+      "explanation": "The massive walls and many structures of Agra Fort are built of red sandstone, earning it the nickname 'Red Fort of Agra'."
+    },
+    {
+      "id": "agra-fort-q04",
+      "difficulty": "easy",
+      "q": "Which Mughal emperor rebuilt Agra Fort in its present form in red sandstone starting in 1565?",
+      "options": ["Akbar", "Aurangzeb", "Babur", "Jahangir"],
+      "answer": 0,
+      "explanation": "Emperor Akbar began rebuilding the fort in red sandstone around 1565, giving it the form it largely retains today."
+    },
+    {
+      "id": "agra-fort-q05",
+      "difficulty": "easy",
+      "q": "Agra Fort holds which international designation?",
+      "options": ["Ramsar Wetland Site", "UNESCO World Heritage Site", "Biosphere Reserve", "Global Geopark"],
+      "answer": 1,
+      "explanation": "Agra Fort was inscribed as a UNESCO World Heritage Site in 1983."
+    },
+    {
+      "id": "agra-fort-q06",
+      "difficulty": "easy",
+      "q": "Along which river does Agra Fort sit?",
+      "options": ["Ganges", "Narmada", "Godavari", "Yamuna"],
+      "answer": 3,
+      "explanation": "Agra Fort overlooks the Yamuna River, the same river beside which the Taj Mahal stands."
+    },
+    {
+      "id": "agra-fort-q07",
+      "difficulty": "easy",
+      "q": "Famous monument visible from Agra Fort, built across the Yamuna, is the:",
+      "options": ["Qutub Minar", "India Gate", "Taj Mahal", "Charminar"],
+      "answer": 2,
+      "explanation": "The Taj Mahal can be seen from Agra Fort, and Shah Jahan reportedly gazed at it from there in his final years."
+    },
+    {
+      "id": "agra-fort-q08",
+      "difficulty": "easy",
+      "q": "Agra Fort is sometimes called by which alternative name?",
+      "options": ["The Red Fort of Agra", "The Golden Fort", "The Amber Palace", "The Blue Citadel"],
+      "answer": 0,
+      "explanation": "Because of its red sandstone construction it is commonly known as the 'Red Fort of Agra'."
+    },
+    {
+      "id": "agra-fort-q09",
+      "difficulty": "easy",
+      "q": "Which Mughal emperor spent his last years confined within Agra Fort?",
+      "options": ["Akbar", "Humayun", "Babur", "Shah Jahan"],
+      "answer": 3,
+      "explanation": "Shah Jahan was imprisoned in Agra Fort by his son Aurangzeb and spent his final years there."
+    },
+    {
+      "id": "agra-fort-q10",
+      "difficulty": "easy",
+      "q": "Agra Fort primarily functioned as which type of structure?",
+      "options": ["A temple complex", "A fortified imperial palace", "A trading port", "A mountain monastery"],
+      "answer": 1,
+      "explanation": "Agra Fort was a walled imperial citadel containing palaces, halls and gardens for the Mughal court."
+    },
+    {
+      "id": "agra-fort-q11",
+      "difficulty": "medium",
+      "q": "In which present-day Indian state is Agra Fort located?",
+      "options": ["Rajasthan", "Madhya Pradesh", "Haryana", "Uttar Pradesh"],
+      "answer": 3,
+      "explanation": "Agra, and therefore Agra Fort, lies in the state of Uttar Pradesh in northern India."
+    },
+    {
+      "id": "agra-fort-q12",
+      "difficulty": "medium",
+      "q": "Which son of Shah Jahan placed him under house arrest in Agra Fort?",
+      "options": ["Dara Shikoh", "Aurangzeb", "Murad Bakhsh", "Shah Shuja"],
+      "answer": 1,
+      "explanation": "Aurangzeb, after winning the war of succession, imprisoned his father Shah Jahan in Agra Fort in 1658."
+    },
+    {
+      "id": "agra-fort-q13",
+      "difficulty": "medium",
+      "q": "Which white-marble palace within Agra Fort was built by Shah Jahan?",
+      "options": ["Khas Mahal", "Panch Mahal", "Hawa Mahal", "Jal Mahal"],
+      "answer": 0,
+      "explanation": "The Khas Mahal is among the elegant white-marble palaces Shah Jahan added to Agra Fort."
+    },
+    {
+      "id": "agra-fort-q14",
+      "difficulty": "medium",
+      "q": "What is the 'Diwan-i-Aam' within Agra Fort?",
+      "options": ["A royal bathhouse", "An underground prison", "The Hall of Public Audience", "A grain storehouse"],
+      "answer": 2,
+      "explanation": "The Diwan-i-Aam was the Hall of Public Audience where the emperor heard petitions from common people."
+    },
+    {
+      "id": "agra-fort-q15",
+      "difficulty": "medium",
+      "q": "What is the 'Diwan-i-Khas' in Agra Fort?",
+      "options": ["The Hall of Private Audience", "A mosque for soldiers", "A water reservoir", "A guardhouse"],
+      "answer": 0,
+      "explanation": "The Diwan-i-Khas was the Hall of Private Audience used to receive nobles, dignitaries and special guests."
+    },
+    {
+      "id": "agra-fort-q16",
+      "difficulty": "medium",
+      "q": "The Moti Masjid, or 'Pearl Mosque', inside Agra Fort was built largely of what material?",
+      "options": ["Red sandstone", "Terracotta", "Sun-dried brick", "White marble"],
+      "answer": 3,
+      "explanation": "The Moti Masjid within Agra Fort, built under Shah Jahan, is constructed of white marble, giving it a pearly appearance."
+    },
+    {
+      "id": "agra-fort-q17",
+      "difficulty": "medium",
+      "q": "Roughly how long are the perimeter walls of Agra Fort?",
+      "options": ["About 0.5 km", "About 10 km", "About 25 km", "About 2.5 km"],
+      "answer": 3,
+      "explanation": "The fort is enclosed by massive walls about 2.5 kilometres (around 1.5 miles) in circumference."
+    },
+    {
+      "id": "agra-fort-q18",
+      "difficulty": "medium",
+      "q": "Through which gate do visitors today usually enter Agra Fort?",
+      "options": ["Lahori Gate", "Amar Singh Gate", "Buland Darwaza", "Alamgiri Gate"],
+      "answer": 1,
+      "explanation": "Although the imposing Delhi Gate was the original ceremonial entrance, tourists today enter Agra Fort through the southern Amar Singh Gate."
+    },
+    {
+      "id": "agra-fort-q19",
+      "difficulty": "medium",
+      "q": "In which century did Akbar begin the major red-sandstone construction of Agra Fort?",
+      "options": ["14th century", "18th century", "12th century", "16th century"],
+      "answer": 3,
+      "explanation": "Akbar's rebuilding of Agra Fort began in 1565, placing the major construction in the 16th century."
+    },
+    {
+      "id": "agra-fort-q20",
+      "difficulty": "medium",
+      "q": "Which architectural style is Agra Fort a prime example of?",
+      "options": ["Dravidian temple architecture", "Indo-Gothic colonial style", "Mughal architecture", "Hoysala architecture"],
+      "answer": 2,
+      "explanation": "Agra Fort is a celebrated example of Mughal architecture, blending Islamic, Persian and Indian elements."
+    },
+    {
+      "id": "agra-fort-q21",
+      "difficulty": "medium",
+      "q": "The fort changed character over generations: Akbar favoured red sandstone, while which successor introduced extensive white marble?",
+      "options": ["Babur", "Sher Shah Suri", "Bahadur Shah Zafar", "Shah Jahan"],
+      "answer": 3,
+      "explanation": "Shah Jahan, known for his love of marble, replaced or added many marble structures within the fort."
+    },
+    {
+      "id": "agra-fort-q22",
+      "difficulty": "medium",
+      "q": "Akbar's grandfather and founder of the Mughal dynasty, who first took Agra, was:",
+      "options": ["Babur", "Akbar", "Humayun", "Timur"],
+      "answer": 0,
+      "explanation": "Babur, founder of the Mughal Empire, captured Agra after the Battle of Panipat in 1526, before Akbar rebuilt the fort."
+    },
+    {
+      "id": "agra-fort-q23",
+      "difficulty": "hard",
+      "q": "In which year was Agra Fort inscribed as a UNESCO World Heritage Site?",
+      "options": ["1972", "1991", "2004", "1983"],
+      "answer": 3,
+      "explanation": "Agra Fort was added to the UNESCO World Heritage List in 1983, the same year as the nearby Taj Mahal."
+    },
+    {
+      "id": "agra-fort-q24",
+      "difficulty": "hard",
+      "q": "The octagonal tower in Agra Fort where Shah Jahan is said to have viewed the Taj Mahal is called the:",
+      "options": ["Musamman Burj", "Sheesh Mahal", "Anguri Bagh", "Nagina Masjid"],
+      "answer": 0,
+      "explanation": "The Musamman Burj, a marble octagonal tower built by Shah Jahan, overlooks the Yamuna toward the Taj Mahal."
+    },
+    {
+      "id": "agra-fort-q25",
+      "difficulty": "hard",
+      "q": "The 'Sheesh Mahal' within Agra Fort is best known for what feature?",
+      "options": ["A library of manuscripts", "A collection of cannons", "Walls inlaid with tiny mirrors", "A hanging garden"],
+      "answer": 2,
+      "explanation": "The Sheesh Mahal, or Palace of Mirrors, has walls decorated with countless small mirror pieces, likely serving as a royal bath or dressing area."
+    },
+    {
+      "id": "agra-fort-q26",
+      "difficulty": "hard",
+      "q": "Before Akbar's red-sandstone fort, the site held an earlier brick fortress associated with which dynasty?",
+      "options": ["The Lodi dynasty", "The Pallava dynasty", "The Kakatiya dynasty", "The Satavahana dynasty"],
+      "answer": 0,
+      "explanation": "An earlier brick fort known as Badalgarh, linked with the Lodi dynasty, stood on the site before Akbar's reconstruction."
+    },
+    {
+      "id": "agra-fort-q27",
+      "difficulty": "hard",
+      "q": "The 'Anguri Bagh' (Grape Garden) within Agra Fort is laid out in which classic Persian garden style?",
+      "options": ["A single open lawn", "A terraced hill garden", "A floating water garden", "A charbagh (four-part garden)"],
+      "answer": 3,
+      "explanation": "The Anguri Bagh is arranged as a charbagh, the four-quartered Persian garden plan favoured by the Mughals."
+    },
+    {
+      "id": "agra-fort-q28",
+      "difficulty": "hard",
+      "q": "During which 1857 conflict did Agra Fort serve as a refuge and stronghold for British forces?",
+      "options": ["The Third Battle of Panipat", "The Battle of Plassey", "The Anglo-Maratha War of 1818", "The Indian Rebellion of 1857"],
+      "answer": 3,
+      "explanation": "During the Indian Rebellion (or Revolt) of 1857, Agra Fort became a shelter and defensive position for British residents and troops."
+    },
+    {
+      "id": "agra-fort-q29",
+      "difficulty": "hard",
+      "q": "The Nagina Masjid, a small private mosque in Agra Fort, was built for whom under Shah Jahan?",
+      "options": ["Visiting foreign envoys", "The fort's soldiers", "The ladies of the royal harem", "Court astrologers"],
+      "answer": 2,
+      "explanation": "The marble Nagina Masjid was built as a private mosque for the ladies of the imperial harem."
+    },
+    {
+      "id": "agra-fort-q30",
+      "difficulty": "hard",
+      "q": "The Mughal capital was located at Agra during the reigns of several emperors before being shifted to which city by Shah Jahan?",
+      "options": ["Lahore", "Fatehpur Sikri", "Kabul", "Shahjahanabad (Delhi)"],
+      "answer": 3,
+      "explanation": "Shah Jahan moved the Mughal capital from Agra to his new city of Shahjahanabad (Old Delhi) around 1648."
+    }
+  ]
+}

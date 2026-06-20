@@ -1,0 +1,245 @@
+{
+  "cardId": "elephanta-caves",
+  "questions": [
+    {
+      "id": "elephanta-caves-q01",
+      "difficulty": "easy",
+      "q": "The Elephanta Caves are located on an island off the coast of which Indian city?",
+      "options": ["Chennai", "Mumbai", "Kochi", "Panaji"],
+      "answer": 1,
+      "explanation": "The Elephanta Caves lie on Elephanta Island (Gharapuri) in Mumbai Harbour, off the coast of Mumbai."
+    },
+    {
+      "id": "elephanta-caves-q02",
+      "difficulty": "easy",
+      "q": "The principal caves at Elephanta are primarily dedicated to which Hindu deity?",
+      "options": ["Vishnu", "Brahma", "Shiva", "Ganesha"],
+      "answer": 2,
+      "explanation": "The main cave complex at Elephanta is a Shaiva site dedicated chiefly to the god Shiva."
+    },
+    {
+      "id": "elephanta-caves-q03",
+      "difficulty": "easy",
+      "q": "In which Indian state are the Elephanta Caves situated?",
+      "options": ["Gujarat", "Goa", "Karnataka", "Maharashtra"],
+      "answer": 3,
+      "explanation": "The Elephanta Caves are in the state of Maharashtra, within Mumbai Harbour."
+    },
+    {
+      "id": "elephanta-caves-q04",
+      "difficulty": "easy",
+      "q": "How were the Elephanta Caves created?",
+      "options": ["Carved out of solid rock", "Built with cut stone blocks", "Constructed of brick and mortar", "Assembled from marble slabs"],
+      "answer": 0,
+      "explanation": "The caves are rock-cut, excavated directly out of the solid basalt rock of the hillside."
+    },
+    {
+      "id": "elephanta-caves-q05",
+      "difficulty": "easy",
+      "q": "The Elephanta Caves are listed as a site of what international status?",
+      "options": ["Olympic heritage site", "UNESCO World Heritage Site", "Wonder of the Ancient World", "Ramsar wetland"],
+      "answer": 1,
+      "explanation": "The Elephanta Caves were inscribed as a UNESCO World Heritage Site in 1987."
+    },
+    {
+      "id": "elephanta-caves-q06",
+      "difficulty": "easy",
+      "q": "The most famous sculpture at Elephanta is a giant three-headed image known as the Trimurti. What does it represent?",
+      "options": ["The Hindu trinity of three gods", "Three forms or aspects of Shiva", "Three Mauryan emperors", "Three sacred rivers"],
+      "answer": 1,
+      "explanation": "The colossal Trimurti depicts three aspects of Shiva carved as a single three-faced bust."
+    },
+    {
+      "id": "elephanta-caves-q07",
+      "difficulty": "easy",
+      "q": "What is the local name of the island on which the Elephanta Caves are located?",
+      "options": ["Gharapuri", "Salsette", "Diu", "Majuli"],
+      "answer": 0,
+      "explanation": "The island is known locally as Gharapuri, while 'Elephanta' is a name given by Portuguese visitors."
+    },
+    {
+      "id": "elephanta-caves-q08",
+      "difficulty": "easy",
+      "q": "How do most visitors typically travel from Mumbai to Elephanta Island?",
+      "options": ["By cable car", "By underground metro", "By ferry boat", "By footbridge"],
+      "answer": 2,
+      "explanation": "Visitors reach Elephanta Island by ferry, usually departing from the Gateway of India in Mumbai."
+    },
+    {
+      "id": "elephanta-caves-q09",
+      "difficulty": "easy",
+      "q": "The name 'Elephanta' is derived from a large statue of which animal that early European visitors saw on the island?",
+      "options": ["A lion", "A horse", "A tiger", "An elephant"],
+      "answer": 3,
+      "explanation": "The Portuguese named the island after a large stone elephant statue they found near the landing site."
+    },
+    {
+      "id": "elephanta-caves-q10",
+      "difficulty": "easy",
+      "q": "The Elephanta Caves are best described as which type of religious architecture?",
+      "options": ["Free-standing temple towers", "Rock-cut cave temples", "Stepwell shrines", "Open-air stone circles"],
+      "answer": 1,
+      "explanation": "Elephanta consists of rock-cut cave temples hewn into the basalt rock of the island hill."
+    },
+    {
+      "id": "elephanta-caves-q11",
+      "difficulty": "medium",
+      "q": "Which European colonial power gave the island the name 'Elephanta' after seeing a stone elephant statue?",
+      "options": ["The Dutch", "The Portuguese", "The French", "The British"],
+      "answer": 1,
+      "explanation": "Portuguese explorers named the island Elephanta after the stone elephant they encountered there in the 16th century."
+    },
+    {
+      "id": "elephanta-caves-q12",
+      "difficulty": "medium",
+      "q": "What type of rock were the Elephanta Caves carved into?",
+      "options": ["Granite", "Sandstone", "Basalt", "Marble"],
+      "answer": 2,
+      "explanation": "The caves were excavated from the hard volcanic basalt that forms the island's hills."
+    },
+    {
+      "id": "elephanta-caves-q13",
+      "difficulty": "medium",
+      "q": "Approximately which centuries are most commonly given for the main phase of excavation of the great Elephanta cave?",
+      "options": ["1st-2nd century BCE", "5th-8th century CE", "12th-13th century CE", "16th-17th century CE"],
+      "answer": 1,
+      "explanation": "Scholars generally date the main Shiva cave to roughly the mid-1st millennium CE, around the 5th to 8th centuries."
+    },
+    {
+      "id": "elephanta-caves-q14",
+      "difficulty": "medium",
+      "q": "The Trimurti and other panels at Elephanta primarily celebrate the legends and forms of which deity?",
+      "options": ["Vishnu", "Surya", "Shiva", "Indra"],
+      "answer": 2,
+      "explanation": "The sculptural program centers on Shiva, depicting his many forms and mythological episodes."
+    },
+    {
+      "id": "elephanta-caves-q15",
+      "difficulty": "medium",
+      "q": "Which of these famous Shaiva sculptural panels can be found in the main Elephanta cave?",
+      "options": ["Ardhanarishvara (Shiva as half-man, half-woman)", "Vishnu reclining on the serpent", "The churning of the ocean", "Krishna lifting Govardhana"],
+      "answer": 0,
+      "explanation": "The cave includes the celebrated Ardhanarishvara panel showing Shiva united with Parvati as a single half-male, half-female figure."
+    },
+    {
+      "id": "elephanta-caves-q16",
+      "difficulty": "medium",
+      "q": "In which year were the Elephanta Caves inscribed on the UNESCO World Heritage List?",
+      "options": ["1972", "1983", "1987", "2002"],
+      "answer": 2,
+      "explanation": "UNESCO inscribed the Elephanta Caves as a World Heritage Site in 1987."
+    },
+    {
+      "id": "elephanta-caves-q17",
+      "difficulty": "medium",
+      "q": "The Trimurti sculpture at Elephanta is best described in scale as which of the following?",
+      "options": ["A small relief about a metre tall", "A colossal carving several metres high", "A life-size standing figure", "A miniature panel set in the floor"],
+      "answer": 1,
+      "explanation": "The Trimurti is a monumental, colossal bust roughly six metres tall carved into the rock wall."
+    },
+    {
+      "id": "elephanta-caves-q18",
+      "difficulty": "medium",
+      "q": "Besides the Hindu Shaiva caves, what other kind of rock-cut caves also exist on Elephanta Island?",
+      "options": ["Jain caves", "Buddhist caves", "Sikh shrines", "Zoroastrian fire temples"],
+      "answer": 1,
+      "explanation": "The island also contains a small group of Buddhist rock-cut caves and a stupa mound in addition to the Hindu caves."
+    },
+    {
+      "id": "elephanta-caves-q19",
+      "difficulty": "medium",
+      "q": "From which Mumbai landmark do tourist ferries to Elephanta most commonly depart?",
+      "options": ["Marine Drive", "Gateway of India", "Haji Ali Dargah", "Chhatrapati Shivaji Terminus"],
+      "answer": 1,
+      "explanation": "Ferries to Elephanta Island typically set off from the jetty beside the Gateway of India."
+    },
+    {
+      "id": "elephanta-caves-q20",
+      "difficulty": "medium",
+      "q": "The dramatic panel showing Shiva killing the demon Andhaka is an example of which aspect of the deity portrayed at Elephanta?",
+      "options": ["His benevolent, calm aspect", "His fierce, destroying aspect", "His role as a teacher", "His role as a household god"],
+      "answer": 1,
+      "explanation": "The Andhakasura-vadha panel shows Shiva in his terrifying, destructive form slaying the demon Andhaka."
+    },
+    {
+      "id": "elephanta-caves-q21",
+      "difficulty": "medium",
+      "q": "The layout of the great Elephanta cave is notable for being organized around which feature?",
+      "options": ["A central courtyard open to the sky", "Multiple pillared halls with a sanctum (linga shrine)", "A spiral ramp ascending a tower", "A single circular domed chamber"],
+      "answer": 1,
+      "explanation": "The main cave has a pillared hall with a square shrine housing a Shiva linga, around which the sculptural panels are arranged."
+    },
+    {
+      "id": "elephanta-caves-q22",
+      "difficulty": "medium",
+      "q": "What is the standard name of the central object of worship enshrined in the sanctum of the main Elephanta cave?",
+      "options": ["A linga representing Shiva", "An image of Nataraja dancing", "A statue of Nandi the bull", "A relic casket"],
+      "answer": 0,
+      "explanation": "The square sanctum at the heart of the cave enshrines a linga, the aniconic symbol of Shiva."
+    },
+    {
+      "id": "elephanta-caves-q23",
+      "difficulty": "hard",
+      "q": "The three-headed Trimurti of Elephanta is also widely known by which Sanskrit name describing Shiva as the great lord?",
+      "options": ["Mahishasuramardini", "Sadashiva (Maheshamurti)", "Gajalakshmi", "Vamana"],
+      "answer": 1,
+      "explanation": "The Trimurti is commonly identified as Sadashiva or Maheshamurti, depicting Shiva as the supreme Great Lord."
+    },
+    {
+      "id": "elephanta-caves-q24",
+      "difficulty": "hard",
+      "q": "Many art historians attribute the patronage of the great Elephanta cave to rulers of which early western Indian dynasty?",
+      "options": ["The Kalachuris", "The Cholas", "The Palas", "The Hoysalas"],
+      "answer": 0,
+      "explanation": "A widely held scholarly view links the main cave's patronage to the Kalachuri dynasty of the 6th century."
+    },
+    {
+      "id": "elephanta-caves-q25",
+      "difficulty": "hard",
+      "q": "Several Elephanta sculptures suffered damage during the colonial period, often attributed in tradition to soldiers of which European power who controlled the island?",
+      "options": ["The Spanish", "The Danes", "The Portuguese", "The Russians"],
+      "answer": 2,
+      "explanation": "Tradition holds that Portuguese soldiers, who controlled the island, damaged several of the cave's sculptures."
+    },
+    {
+      "id": "elephanta-caves-q26",
+      "difficulty": "hard",
+      "q": "The panel depicting Shiva and Parvati's wedding at Elephanta is known by which name?",
+      "options": ["Kalyanasundara", "Tripurantaka", "Gajasurasamhara", "Bhikshatana"],
+      "answer": 0,
+      "explanation": "The Kalyanasundara panel portrays the marriage (kalyana) of Shiva and Parvati."
+    },
+    {
+      "id": "elephanta-caves-q27",
+      "difficulty": "hard",
+      "q": "One Elephanta panel shows the multi-armed demon king straining to lift the mountain where Shiva and Parvati sit. Which demon is this?",
+      "options": ["Hiranyakashipu", "Ravana", "Bali", "Mahishasura"],
+      "answer": 1,
+      "explanation": "The Ravananugraha panel depicts Ravana attempting to shake or lift Mount Kailasa beneath Shiva and Parvati."
+    },
+    {
+      "id": "elephanta-caves-q28",
+      "difficulty": "hard",
+      "q": "Which Indian government body is chiefly responsible for the protection and maintenance of the Elephanta Caves today?",
+      "options": ["Indian Navy", "Geological Survey of India", "Archaeological Survey of India", "Forest Department"],
+      "answer": 2,
+      "explanation": "The Archaeological Survey of India (ASI) manages and conserves the Elephanta Caves as a protected monument."
+    },
+    {
+      "id": "elephanta-caves-q29",
+      "difficulty": "hard",
+      "q": "A cultural festival of classical music and dance is held annually against the backdrop of the Elephanta Caves. What is it commonly called?",
+      "options": ["The Konark Festival", "The Khajuraho Dance Festival", "The Elephanta Festival", "The Hampi Utsav"],
+      "answer": 2,
+      "explanation": "The Elephanta Festival is an annual celebration of classical music and dance organized at the caves."
+    },
+    {
+      "id": "elephanta-caves-q30",
+      "difficulty": "hard",
+      "q": "The large stone elephant statue that gave the island its European name was later moved to a location in Mumbai. Where is it now displayed?",
+      "options": ["The Gateway of India lawns", "Jijamata Udyaan (Victoria Gardens / Mumbai Zoo grounds)", "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya entrance", "Marine Drive promenade"],
+      "answer": 1,
+      "explanation": "The original stone elephant was relocated to Mumbai and reassembled in the Jijamata Udyaan (the former Victoria Gardens) grounds."
+    }
+  ]
+}

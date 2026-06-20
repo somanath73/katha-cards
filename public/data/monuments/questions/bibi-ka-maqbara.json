@@ -1,0 +1,245 @@
+{
+  "cardId": "bibi-ka-maqbara",
+  "questions": [
+    {
+      "id": "bibi-ka-maqbara-q01",
+      "difficulty": "easy",
+      "q": "In which city is Bibi Ka Maqbara located?",
+      "options": ["Agra", "Aurangabad", "Hyderabad", "Bijapur"],
+      "answer": 1,
+      "explanation": "Bibi Ka Maqbara stands in Aurangabad (now Chhatrapati Sambhajinagar) in Maharashtra."
+    },
+    {
+      "id": "bibi-ka-maqbara-q02",
+      "difficulty": "easy",
+      "q": "Bibi Ka Maqbara is popularly known by which nickname?",
+      "options": ["The Taj of the Deccan", "The Pearl Mosque", "The Whispering Dome", "The Baby Taj"],
+      "answer": 0,
+      "explanation": "Because it closely resembles the Taj Mahal, it is widely called the 'Taj of the Deccan'."
+    },
+    {
+      "id": "bibi-ka-maqbara-q03",
+      "difficulty": "easy",
+      "q": "Which famous monument was Bibi Ka Maqbara modelled on?",
+      "options": ["Humayun's Tomb", "Gol Gumbaz", "Charminar", "The Taj Mahal"],
+      "answer": 3,
+      "explanation": "The mausoleum was deliberately designed to imitate the Taj Mahal at Agra, though on a smaller scale."
+    },
+    {
+      "id": "bibi-ka-maqbara-q04",
+      "difficulty": "easy",
+      "q": "Bibi Ka Maqbara is a tomb (mausoleum) associated with which Mughal emperor?",
+      "options": ["Akbar", "Jahangir", "Aurangzeb", "Shah Jahan"],
+      "answer": 2,
+      "explanation": "It was built for the wife of the Mughal emperor Aurangzeb."
+    },
+    {
+      "id": "bibi-ka-maqbara-q05",
+      "difficulty": "easy",
+      "q": "In which century was Bibi Ka Maqbara built?",
+      "options": ["15th century", "16th century", "17th century", "19th century"],
+      "answer": 2,
+      "explanation": "The mausoleum was constructed in the 17th century during Aurangzeb's reign."
+    },
+    {
+      "id": "bibi-ka-maqbara-q06",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state is Bibi Ka Maqbara situated?",
+      "options": ["Maharashtra", "Telangana", "Karnataka", "Madhya Pradesh"],
+      "answer": 0,
+      "explanation": "Aurangabad, the home of Bibi Ka Maqbara, is in the state of Maharashtra."
+    },
+    {
+      "id": "bibi-ka-maqbara-q07",
+      "difficulty": "easy",
+      "q": "What type of structure is Bibi Ka Maqbara?",
+      "options": ["A fort", "A mausoleum (tomb)", "A stepwell", "A palace"],
+      "answer": 1,
+      "explanation": "Bibi Ka Maqbara is a mausoleum built over a grave, much like the Taj Mahal."
+    },
+    {
+      "id": "bibi-ka-maqbara-q08",
+      "difficulty": "easy",
+      "q": "Compared with the Taj Mahal, Bibi Ka Maqbara is generally described as:",
+      "options": ["Much larger", "Smaller in scale", "Exactly the same size", "Twice as tall"],
+      "answer": 1,
+      "explanation": "It was built as a smaller-scale imitation of the Taj Mahal."
+    },
+    {
+      "id": "bibi-ka-maqbara-q09",
+      "difficulty": "easy",
+      "q": "What is the central feature crowning the main tomb structure of Bibi Ka Maqbara?",
+      "options": ["A clock tower", "A flat terrace", "A large central dome", "A pyramid roof"],
+      "answer": 2,
+      "explanation": "Like the Taj Mahal, the building is topped by a large bulbous central dome."
+    },
+    {
+      "id": "bibi-ka-maqbara-q10",
+      "difficulty": "easy",
+      "q": "How many minarets surround the main tomb of Bibi Ka Maqbara?",
+      "options": ["Two", "Four", "Six", "Eight"],
+      "answer": 1,
+      "explanation": "Four tall minarets stand at the corners of the platform, echoing the Taj Mahal's layout."
+    },
+    {
+      "id": "bibi-ka-maqbara-q11",
+      "difficulty": "medium",
+      "q": "For whom was Bibi Ka Maqbara built?",
+      "options": ["Aurangzeb's wife", "Aurangzeb's mother", "Aurangzeb's daughter", "Aurangzeb's sister"],
+      "answer": 0,
+      "explanation": "It was raised as the tomb of Dilras Banu Begum, Aurangzeb's first and principal wife."
+    },
+    {
+      "id": "bibi-ka-maqbara-q12",
+      "difficulty": "medium",
+      "q": "What was the name of the woman buried in Bibi Ka Maqbara?",
+      "options": ["Mumtaz Mahal", "Nur Jahan", "Dilras Banu Begum", "Jahanara Begum"],
+      "answer": 2,
+      "explanation": "Dilras Banu Begum, who was given the posthumous title Rabia-ud-Daurani, is interred there."
+    },
+    {
+      "id": "bibi-ka-maqbara-q13",
+      "difficulty": "medium",
+      "q": "By what posthumous title was Aurangzeb's wife, buried here, also known?",
+      "options": ["Rabia-ud-Daurani", "Mumtaz Mahal", "Mehr-un-Nissa", "Arjumand Banu"],
+      "answer": 0,
+      "explanation": "Dilras Banu Begum was honoured posthumously as Rabia-ud-Daurani."
+    },
+    {
+      "id": "bibi-ka-maqbara-q14",
+      "difficulty": "medium",
+      "q": "Bibi Ka Maqbara was commissioned by whom?",
+      "options": ["Emperor Aurangzeb himself", "Aurangzeb's son Azam Shah", "Shah Jahan", "Murad Bakhsh"],
+      "answer": 1,
+      "explanation": "It is generally credited to Azam Shah, Aurangzeb's son, in memory of his mother, during Aurangzeb's reign."
+    },
+    {
+      "id": "bibi-ka-maqbara-q15",
+      "difficulty": "medium",
+      "q": "Which material is used to face the central upper portion and dome of the main tomb?",
+      "options": ["Red sandstone", "Granite", "Black basalt", "Marble"],
+      "answer": 3,
+      "explanation": "Marble was used mainly for the central dome and upper part, with cheaper materials lower down."
+    },
+    {
+      "id": "bibi-ka-maqbara-q16",
+      "difficulty": "medium",
+      "q": "Why is Bibi Ka Maqbara considered less grand than the Taj Mahal in its materials?",
+      "options": ["It used only mud bricks", "Marble was used sparingly, with plaster used over much of it", "It was never finished", "It was built underground"],
+      "answer": 1,
+      "explanation": "Limited funds meant marble was reserved for the dome and key areas, with lime plaster (stucco) covering much of the rest."
+    },
+    {
+      "id": "bibi-ka-maqbara-q17",
+      "difficulty": "medium",
+      "q": "Which architect is traditionally credited with designing Bibi Ka Maqbara?",
+      "options": ["Ustad Ahmad Lahori", "Ata-ullah", "Mir Abdul Karim", "Ustad Isa"],
+      "answer": 1,
+      "explanation": "The architect is traditionally named as Ata-ullah, said to be the son of the Taj Mahal's architect Ustad Ahmad Lahori."
+    },
+    {
+      "id": "bibi-ka-maqbara-q18",
+      "difficulty": "medium",
+      "q": "The layout of Bibi Ka Maqbara is set within what kind of garden plan?",
+      "options": ["A Mughal char bagh (four-part garden)", "A terraced hill garden", "A desert oasis", "A sunken courtyard only"],
+      "answer": 0,
+      "explanation": "The tomb sits within a formal char bagh, the four-quartered Mughal garden also used at the Taj Mahal."
+    },
+    {
+      "id": "bibi-ka-maqbara-q19",
+      "difficulty": "medium",
+      "q": "Bibi Ka Maqbara was completed in roughly which period?",
+      "options": ["Around the 1450s", "Around the 1530s", "Around the 1660s-1680s", "Around the 1750s"],
+      "answer": 2,
+      "explanation": "Construction was carried out in the latter half of the 17th century, completed around the 1660s-1680s."
+    },
+    {
+      "id": "bibi-ka-maqbara-q20",
+      "difficulty": "medium",
+      "q": "What lies directly beneath the central chamber, holding the actual grave?",
+      "options": ["A sealed treasury", "A water tank", "A lower burial chamber reached by steps", "A prayer hall"],
+      "answer": 2,
+      "explanation": "The actual grave lies in a lower chamber below floor level, with an octagonal screen surrounding it, similar to the Taj."
+    },
+    {
+      "id": "bibi-ka-maqbara-q21",
+      "difficulty": "medium",
+      "q": "Which body now maintains Bibi Ka Maqbara as a protected monument?",
+      "options": ["The Archaeological Survey of India", "UNESCO directly", "The Indian Army", "A private trust only"],
+      "answer": 0,
+      "explanation": "Bibi Ka Maqbara is a protected monument under the Archaeological Survey of India (ASI)."
+    },
+    {
+      "id": "bibi-ka-maqbara-q22",
+      "difficulty": "medium",
+      "q": "Aurangabad, where Bibi Ka Maqbara stands, was historically important as a base for which campaigns of Aurangzeb?",
+      "options": ["His conquest of Bengal", "His Kabul expeditions", "His Kashmir wars", "His Deccan campaigns"],
+      "answer": 3,
+      "explanation": "Aurangabad served as a key Mughal centre during Aurangzeb's long Deccan campaigns in southern India."
+    },
+    {
+      "id": "bibi-ka-maqbara-q23",
+      "difficulty": "hard",
+      "q": "Dilras Banu Begum, buried in Bibi Ka Maqbara, belonged to which royal lineage?",
+      "options": ["The Safavid (Persian) dynasty", "The Rajput house of Amber", "The Qutb Shahi dynasty", "The Lodi dynasty"],
+      "answer": 0,
+      "explanation": "Dilras Banu Begum was a Safavid princess, daughter of Mirza Badi-uz-Zaman Safavi, a Persian noble."
+    },
+    {
+      "id": "bibi-ka-maqbara-q24",
+      "difficulty": "hard",
+      "q": "Azam Shah, who built the tomb for his mother Dilras Banu Begum, did what shortly after Aurangzeb's death in 1707?",
+      "options": ["Renounced all titles and became a hermit", "Briefly proclaimed himself Mughal emperor before being defeated", "Fled to Persia and never returned", "Was crowned a long-reigning emperor for thirty years"],
+      "answer": 1,
+      "explanation": "Muhammad Azam Shah, son of Aurangzeb and Dilras Banu Begum, proclaimed himself emperor in 1707 but was defeated and killed at the Battle of Jajau the same year."
+    },
+    {
+      "id": "bibi-ka-maqbara-q25",
+      "difficulty": "hard",
+      "q": "Compared with the Taj Mahal's pietra dura, Bibi Ka Maqbara relies more heavily on which decorative technique?",
+      "options": ["Glazed blue tilework", "Stucco (lime plaster) ornamentation", "Carved wooden panels", "Mosaic glass"],
+      "answer": 1,
+      "explanation": "Owing to a limited budget, much of the decoration is fine stucco plasterwork rather than costly inlaid marble."
+    },
+    {
+      "id": "bibi-ka-maqbara-q26",
+      "difficulty": "hard",
+      "q": "Dilras Banu Begum, for whom the tomb was built, died as a result of what?",
+      "options": ["A battlefield injury", "Complications following childbirth", "A palace fire", "A long illness in old age"],
+      "answer": 1,
+      "explanation": "She died in 1657 from complications after the birth of her son Muhammad Akbar."
+    },
+    {
+      "id": "bibi-ka-maqbara-q27",
+      "difficulty": "hard",
+      "q": "The marble used for the dome of Bibi Ka Maqbara was reportedly brought from quarries near which place?",
+      "options": ["Makrana in Rajasthan", "Jaisalmer", "Karnataka coast", "Kashmir"],
+      "answer": 0,
+      "explanation": "Marble for the structure is traditionally said to have come from the Makrana quarries of Rajasthan, the same source famed for the Taj Mahal."
+    },
+    {
+      "id": "bibi-ka-maqbara-q28",
+      "difficulty": "hard",
+      "q": "What is the approximate height of the main mausoleum building of Bibi Ka Maqbara?",
+      "options": ["About 7 metres", "About 73 metres", "About 21 metres", "About 110 metres"],
+      "answer": 2,
+      "explanation": "The mausoleum rises roughly 21 metres (about 70 feet), markedly shorter than the Taj Mahal."
+    },
+    {
+      "id": "bibi-ka-maqbara-q29",
+      "difficulty": "hard",
+      "q": "What is the UNESCO World Heritage status of Bibi Ka Maqbara itself?",
+      "options": ["It is a UNESCO World Heritage Site", "It is not a UNESCO World Heritage Site", "It is a UNESCO natural site", "It was delisted by UNESCO"],
+      "answer": 1,
+      "explanation": "Bibi Ka Maqbara is an ASI-protected monument but is not inscribed as a UNESCO World Heritage Site, unlike the nearby Ajanta and Ellora caves."
+    },
+    {
+      "id": "bibi-ka-maqbara-q30",
+      "difficulty": "hard",
+      "q": "An inscription at Bibi Ka Maqbara records the name of which superintendent/engineer involved in its construction?",
+      "options": ["Hanspat Rai", "Raja Man Singh", "Mir Jumla", "Todar Mal"],
+      "answer": 0,
+      "explanation": "An inscription names the architect Ata-ullah and the engineer Hanspat Rai as those responsible for the work."
+    }
+  ]
+}

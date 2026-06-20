@@ -1,0 +1,245 @@
+{
+  "cardId": "jallianwala-bagh",
+  "questions": [
+    {
+      "id": "jallianwala-bagh-q01",
+      "difficulty": "easy",
+      "q": "In which city is Jallianwala Bagh located?",
+      "options": ["Amritsar", "Lahore", "Lucknow", "Patna"],
+      "answer": 0,
+      "explanation": "Jallianwala Bagh is a public garden in Amritsar, in the Indian state of Punjab."
+    },
+    {
+      "id": "jallianwala-bagh-q02",
+      "difficulty": "easy",
+      "q": "In which Indian state is Jallianwala Bagh situated?",
+      "options": ["Haryana", "Rajasthan", "Himachal Pradesh", "Punjab"],
+      "answer": 3,
+      "explanation": "Jallianwala Bagh lies in Amritsar in the state of Punjab in northern India."
+    },
+    {
+      "id": "jallianwala-bagh-q03",
+      "difficulty": "easy",
+      "q": "Jallianwala Bagh is best known as the site of a massacre that took place in which year?",
+      "options": ["1857", "1905", "1919", "1942"],
+      "answer": 2,
+      "explanation": "The Jallianwala Bagh massacre took place on 13 April 1919."
+    },
+    {
+      "id": "jallianwala-bagh-q04",
+      "difficulty": "easy",
+      "q": "What kind of place is Jallianwala Bagh today?",
+      "options": ["A palace", "A public garden and memorial", "A railway station", "A mosque"],
+      "answer": 1,
+      "explanation": "Jallianwala Bagh is a walled public garden in Amritsar that now serves as a national memorial."
+    },
+    {
+      "id": "jallianwala-bagh-q05",
+      "difficulty": "easy",
+      "q": "Jallianwala Bagh is closely associated with which historic Sikh shrine located nearby?",
+      "options": ["The Golden Temple", "The Akshardham Temple", "The Lotus Temple", "The Somnath Temple"],
+      "answer": 0,
+      "explanation": "Jallianwala Bagh is situated very close to the Golden Temple (Harmandir Sahib) in Amritsar."
+    },
+    {
+      "id": "jallianwala-bagh-q06",
+      "difficulty": "easy",
+      "q": "On what occasion was the large crowd gathered at Jallianwala Bagh on the day of the massacre?",
+      "options": ["A wedding celebration", "A cricket match", "The festival of Baisakhi", "A trade fair"],
+      "answer": 2,
+      "explanation": "Many in the crowd had gathered on Baisakhi, a major Punjabi festival, on 13 April 1919."
+    },
+    {
+      "id": "jallianwala-bagh-q07",
+      "difficulty": "easy",
+      "q": "The 1919 event at Jallianwala Bagh is remembered as a turning point in which struggle?",
+      "options": ["India's freedom struggle", "The Industrial Revolution", "The partition of Bengal", "The Green Revolution"],
+      "answer": 0,
+      "explanation": "The massacre galvanised Indian public opinion and became a turning point in India's freedom struggle."
+    },
+    {
+      "id": "jallianwala-bagh-q08",
+      "difficulty": "easy",
+      "q": "Which feature of Jallianwala Bagh made escape extremely difficult during the firing?",
+      "options": ["A wide open boundary", "High walls with very few narrow exits", "A surrounding river", "A glass roof"],
+      "answer": 1,
+      "explanation": "The garden was enclosed by high walls with only a few narrow gateways, trapping the crowd."
+    },
+    {
+      "id": "jallianwala-bagh-q09",
+      "difficulty": "easy",
+      "q": "A well inside Jallianwala Bagh is remembered because many people did what to escape the bullets?",
+      "options": ["Climbed the walls", "Hid in tunnels", "Jumped into it", "Set it on fire"],
+      "answer": 2,
+      "explanation": "Many people jumped into the well inside the garden to escape the firing, and many died there."
+    },
+    {
+      "id": "jallianwala-bagh-q10",
+      "difficulty": "easy",
+      "q": "What stands at Jallianwala Bagh today to honour those who died?",
+      "options": ["A national memorial", "A shopping mall", "A film studio", "A sports stadium"],
+      "answer": 0,
+      "explanation": "A national memorial flame and monument were built at Jallianwala Bagh to honour the victims."
+    },
+    {
+      "id": "jallianwala-bagh-q11",
+      "difficulty": "medium",
+      "q": "Which British officer ordered the troops to open fire at Jallianwala Bagh?",
+      "options": ["General Charles Napier", "General Hugh Gough", "Colonel Reginald Dyer", "Lord Curzon"],
+      "answer": 2,
+      "explanation": "Colonel Reginald Dyer (acting Brigadier-General) ordered his troops to fire on the crowd."
+    },
+    {
+      "id": "jallianwala-bagh-q12",
+      "difficulty": "medium",
+      "q": "On which exact date did the Jallianwala Bagh massacre occur?",
+      "options": ["13 April 1919", "15 August 1919", "26 January 1919", "2 October 1919"],
+      "answer": 0,
+      "explanation": "The massacre took place on 13 April 1919, the day of the Baisakhi festival."
+    },
+    {
+      "id": "jallianwala-bagh-q13",
+      "difficulty": "medium",
+      "q": "The protest gathering at Jallianwala Bagh was largely against which controversial British law?",
+      "options": ["The Salt Act", "The Vernacular Press Act", "The Government of India Act", "The Rowlatt Act"],
+      "answer": 3,
+      "explanation": "Much of the unrest stemmed from opposition to the repressive Rowlatt Act of 1919."
+    },
+    {
+      "id": "jallianwala-bagh-q14",
+      "difficulty": "medium",
+      "q": "In protest against the massacre, Rabindranath Tagore renounced which honour?",
+      "options": ["His Nobel Prize", "His university degree", "His knighthood", "His parliamentary seat"],
+      "answer": 2,
+      "explanation": "Rabindranath Tagore renounced the knighthood the British had conferred on him in protest at the massacre."
+    },
+    {
+      "id": "jallianwala-bagh-q15",
+      "difficulty": "medium",
+      "q": "Which committee was set up by the British government to investigate the Jallianwala Bagh massacre?",
+      "options": ["The Simon Commission", "The Cripps Mission", "The Hunter Commission", "The Cabinet Mission"],
+      "answer": 2,
+      "explanation": "The Hunter Commission (Hunter Committee) was appointed in 1919 to inquire into the events."
+    },
+    {
+      "id": "jallianwala-bagh-q16",
+      "difficulty": "medium",
+      "q": "What military rank was Reginald Dyer acting in when he ordered the firing at Jallianwala Bagh?",
+      "options": ["Viceroy", "Field Marshal", "Acting Brigadier-General", "Governor-General"],
+      "answer": 2,
+      "explanation": "Reginald Dyer was a colonel acting in the temporary rank of brigadier-general when he ordered the firing."
+    },
+    {
+      "id": "jallianwala-bagh-q17",
+      "difficulty": "medium",
+      "q": "What had Dyer issued in Amritsar before the gathering, which the crowd was accused of defying?",
+      "options": ["A tax notice", "A curfew on shops only", "A water rationing order", "A ban on public gatherings"],
+      "answer": 3,
+      "explanation": "Dyer had issued a proclamation banning public meetings and gatherings, which the assembly was said to have violated."
+    },
+    {
+      "id": "jallianwala-bagh-q18",
+      "difficulty": "medium",
+      "q": "The Jallianwala Bagh massacre is widely cited as a key reason Mahatma Gandhi launched which movement?",
+      "options": ["The Quit India Movement", "The Non-Cooperation Movement", "The Khilafat banking reform", "The Swadeshi tariff plan"],
+      "answer": 1,
+      "explanation": "The massacre intensified anger that helped Gandhi launch the Non-Cooperation Movement in 1920-22."
+    },
+    {
+      "id": "jallianwala-bagh-q19",
+      "difficulty": "medium",
+      "q": "Which young revolutionary, who witnessed the aftermath as a child, is often linked in popular memory with avenging Jallianwala Bagh?",
+      "options": ["Chandra Shekhar Azad", "Bal Gangadhar Tilak", "Lala Hardayal", "Bhagat Singh"],
+      "answer": 3,
+      "explanation": "Bhagat Singh is popularly associated with the legacy of Jallianwala Bagh, which he is said to have visited as a youth."
+    },
+    {
+      "id": "jallianwala-bagh-q20",
+      "difficulty": "medium",
+      "q": "The official British figure given by the Hunter Commission for the dead was about how many?",
+      "options": ["Around 379", "Around 10", "Around 5,000", "Around 50"],
+      "answer": 0,
+      "explanation": "The official Hunter Commission figure was around 379 killed, though Indian estimates were considerably higher."
+    },
+    {
+      "id": "jallianwala-bagh-q21",
+      "difficulty": "medium",
+      "q": "Which leader is famously linked with renouncing his British title 'in protest' over Jallianwala Bagh, refusing to be 'silent' about it?",
+      "options": ["Motilal Nehru", "Dadabhai Naoroji", "Rabindranath Tagore", "Gopal Krishna Gokhale"],
+      "answer": 2,
+      "explanation": "Tagore wrote to the Viceroy renouncing his knighthood, stating he could not remain silent over the killings."
+    },
+    {
+      "id": "jallianwala-bagh-q22",
+      "difficulty": "medium",
+      "q": "The bullet marks still visible at Jallianwala Bagh are preserved on what part of the site?",
+      "options": ["The garden's flowers", "A fountain", "The surrounding walls", "A wooden gateway only"],
+      "answer": 2,
+      "explanation": "Bullet marks from the firing remain preserved and marked on the walls of Jallianwala Bagh."
+    },
+    {
+      "id": "jallianwala-bagh-q23",
+      "difficulty": "hard",
+      "q": "Who assassinated Michael O'Dwyer in London in 1940, in an act widely seen as revenge for Jallianwala Bagh?",
+      "options": ["Madan Lal Dhingra", "Udham Singh", "Sohan Singh Bhakna", "Kartar Singh Sarabha"],
+      "answer": 1,
+      "explanation": "Udham Singh shot Michael O'Dwyer, the former Punjab Lieutenant-Governor, in London in 1940."
+    },
+    {
+      "id": "jallianwala-bagh-q24",
+      "difficulty": "hard",
+      "q": "Michael O'Dwyer, later assassinated in connection with the massacre, held which official post in 1919?",
+      "options": ["Viceroy of India", "Lieutenant-Governor of Punjab", "Commander-in-Chief", "Secretary of State for India"],
+      "answer": 1,
+      "explanation": "Michael O'Dwyer was the Lieutenant-Governor of Punjab who endorsed Dyer's action."
+    },
+    {
+      "id": "jallianwala-bagh-q25",
+      "difficulty": "hard",
+      "q": "The flame-shaped main memorial pillar at Jallianwala Bagh is called by what name?",
+      "options": ["Amar Jawan Jyoti", "The Flame of Liberty", "Vijay Stambh", "Qutub Minar"],
+      "answer": 1,
+      "explanation": "The central red-stone memorial pillar at Jallianwala Bagh, inaugurated in 1961, is known as the Flame of Liberty."
+    },
+    {
+      "id": "jallianwala-bagh-q26",
+      "difficulty": "hard",
+      "q": "In what year was the Jallianwala Bagh National Memorial Act passed to establish the memorial trust?",
+      "options": ["1920", "1951", "1975", "1990"],
+      "answer": 1,
+      "explanation": "The Jallianwala Bagh National Memorial Act was passed in 1951 to create the trust managing the site."
+    },
+    {
+      "id": "jallianwala-bagh-q27",
+      "difficulty": "hard",
+      "q": "Brought in to fire on the crowd, Dyer's force consisted of about how many riflemen?",
+      "options": ["About 50", "About 500", "About 2,000", "About 5"],
+      "answer": 0,
+      "explanation": "Dyer marched in roughly 50 riflemen, who fired into the trapped crowd for about ten minutes."
+    },
+    {
+      "id": "jallianwala-bagh-q28",
+      "difficulty": "hard",
+      "q": "Dyer was unable to bring armoured cars with mounted machine guns into the Bagh for what reason?",
+      "options": ["They ran out of fuel", "The entrance lane was too narrow", "They were forbidden by the Viceroy", "There were no roads at all"],
+      "answer": 1,
+      "explanation": "Dyer later stated the armoured cars could not enter because the passage into the garden was too narrow."
+    },
+    {
+      "id": "jallianwala-bagh-q29",
+      "difficulty": "hard",
+      "q": "Which British politician famously condemned Dyer's action in the House of Commons as 'monstrous'?",
+      "options": ["David Lloyd George", "Neville Chamberlain", "Stanley Baldwin", "Winston Churchill"],
+      "answer": 3,
+      "explanation": "Winston Churchill, then a cabinet minister, denounced the massacre in the House of Commons as 'monstrous'."
+    },
+    {
+      "id": "jallianwala-bagh-q30",
+      "difficulty": "hard",
+      "q": "After the Hunter Commission censured him, what happened to Reginald Dyer's military career?",
+      "options": ["He was promoted to field marshal", "He was relieved of command and effectively forced to retire", "He was awarded a knighthood", "He was made Governor of Punjab"],
+      "answer": 1,
+      "explanation": "Dyer was censured, relieved of his command, and compelled to resign from the army, though some in Britain lionised him."
+    }
+  ]
+}

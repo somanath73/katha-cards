@@ -1,0 +1,245 @@
+{
+  "cardId": "qutub-minar",
+  "questions": [
+    {
+      "id": "qutub-minar-q01",
+      "difficulty": "easy",
+      "q": "In which Indian city is the Qutub Minar located?",
+      "options": ["Delhi", "Agra", "Jaipur", "Lucknow"],
+      "answer": 0,
+      "explanation": "The Qutub Minar stands in the Mehrauli area of Delhi."
+    },
+    {
+      "id": "qutub-minar-q02",
+      "difficulty": "easy",
+      "q": "What type of structure is the Qutub Minar?",
+      "options": ["A minaret (tower)", "A palace", "A temple", "A gateway"],
+      "answer": 0,
+      "explanation": "The Qutub Minar is a tall minaret, a soaring victory tower."
+    },
+    {
+      "id": "qutub-minar-q03",
+      "difficulty": "easy",
+      "q": "Roughly how tall is the Qutub Minar?",
+      "options": ["About 30 metres", "About 50 metres", "About 73 metres", "About 120 metres"],
+      "answer": 2,
+      "explanation": "The Qutub Minar rises about 73 metres, making it one of the tallest brick minarets in the world."
+    },
+    {
+      "id": "qutub-minar-q04",
+      "difficulty": "easy",
+      "q": "Who began the construction of the Qutub Minar?",
+      "options": ["Akbar", "Shah Jahan", "Qutb-ud-din Aibak", "Ashoka"],
+      "answer": 2,
+      "explanation": "Qutb-ud-din Aibak began building the Qutub Minar in 1199."
+    },
+    {
+      "id": "qutub-minar-q05",
+      "difficulty": "easy",
+      "q": "The Qutub Minar is widely known by which nickname?",
+      "options": ["The Tower of Victory", "The Tower of Silence", "The Crystal Tower", "The Tower of Bells"],
+      "answer": 0,
+      "explanation": "It is celebrated as 'The Tower of Victory,' marking the founding of the Delhi Sultanate."
+    },
+    {
+      "id": "qutub-minar-q06",
+      "difficulty": "easy",
+      "q": "What is the primary building material of the Qutub Minar?",
+      "options": ["White marble", "Red and buff sandstone", "Granite blocks", "Polished limestone"],
+      "answer": 1,
+      "explanation": "The minaret is built mainly of red and buff sandstone, with marble in upper portions."
+    },
+    {
+      "id": "qutub-minar-q07",
+      "difficulty": "easy",
+      "q": "The Qutub Minar marks the founding of which empire in India?",
+      "options": ["The Maurya Empire", "The Vijayanagara Empire", "The Delhi Sultanate", "The Maratha Empire"],
+      "answer": 2,
+      "explanation": "It was raised to commemorate the founding of the Delhi Sultanate around the turn of the 13th century."
+    },
+    {
+      "id": "qutub-minar-q08",
+      "difficulty": "easy",
+      "q": "What is the international heritage status of the Qutub Minar complex?",
+      "options": ["A UNESCO World Heritage Site", "A Wonder of the Ancient World", "A Ramsar wetland site", "Not internationally recognised"],
+      "answer": 0,
+      "explanation": "The Qutub Minar and its monuments were inscribed as a UNESCO World Heritage Site in 1993."
+    },
+    {
+      "id": "qutub-minar-q09",
+      "difficulty": "easy",
+      "q": "In which century did construction of the Qutub Minar begin?",
+      "options": ["12th-13th century CE", "16th century CE", "18th century CE", "3rd century BCE"],
+      "answer": 0,
+      "explanation": "Work began in 1199 CE, at the turn of the 12th to 13th century."
+    },
+    {
+      "id": "qutub-minar-q10",
+      "difficulty": "easy",
+      "q": "What is the general shape of the Qutub Minar as it rises?",
+      "options": ["A perfect cylinder of equal width", "A tower that tapers as it rises", "A pyramid", "A square block"],
+      "answer": 1,
+      "explanation": "The minaret tapers from a broad base to a narrow top across its storeys."
+    },
+    {
+      "id": "qutub-minar-q11",
+      "difficulty": "medium",
+      "q": "How many storeys (stages) make up the Qutub Minar?",
+      "options": ["Three", "Seven", "Nine", "Five"],
+      "answer": 3,
+      "explanation": "The Qutub Minar is built in five distinct storeys, each marked by a projecting balcony."
+    },
+    {
+      "id": "qutub-minar-q12",
+      "difficulty": "medium",
+      "q": "Which ruler completed the Qutub Minar after Qutb-ud-din Aibak?",
+      "options": ["Balban", "Alauddin Khalji", "Iltutmish", "Muhammad bin Tughlaq"],
+      "answer": 2,
+      "explanation": "Aibak's successor and son-in-law Iltutmish completed the upper storeys of the minar."
+    },
+    {
+      "id": "qutub-minar-q13",
+      "difficulty": "medium",
+      "q": "The mosque built beside the Qutub Minar is known by what name?",
+      "options": ["Quwwat-ul-Islam Mosque", "Jama Masjid", "Moti Masjid", "Sidi Saiyyed Mosque"],
+      "answer": 0,
+      "explanation": "The adjoining Quwwat-ul-Islam ('Might of Islam') Mosque is among the earliest mosques in India."
+    },
+    {
+      "id": "qutub-minar-q14",
+      "difficulty": "medium",
+      "q": "What ancient metal object famous for not rusting stands within the Qutub complex?",
+      "options": ["The Bronze Lamp of Mehrauli", "The Iron Pillar of Delhi", "The Copper Drum", "The Silver Mast"],
+      "answer": 1,
+      "explanation": "The rust-resistant Iron Pillar, dating to the Gupta era, stands in the Quwwat-ul-Islam courtyard."
+    },
+    {
+      "id": "qutub-minar-q15",
+      "difficulty": "medium",
+      "q": "Which feature decorates the surface of the Qutub Minar's lower storeys?",
+      "options": ["Glazed blue tiles", "Alternating fluted angular and rounded ribs with carved bands", "Painted frescoes", "Mirror mosaic work"],
+      "answer": 1,
+      "explanation": "The lower storeys carry distinctive fluting with alternating angular and rounded ribs and inscribed bands."
+    },
+    {
+      "id": "qutub-minar-q16",
+      "difficulty": "medium",
+      "q": "What kind of inscriptions cover the bands of the Qutub Minar?",
+      "options": ["Sanskrit shlokas", "Persian love poetry only", "Tamil epigraphs", "Arabic and Quranic calligraphy"],
+      "answer": 3,
+      "explanation": "Ornamental bands bear Arabic Quranic verses and historical inscriptions in Kufic and Naskh scripts."
+    },
+    {
+      "id": "qutub-minar-q17",
+      "difficulty": "medium",
+      "q": "Which architectural style does the Qutub Minar exemplify?",
+      "options": ["Indo-Islamic (early Indo-Islamic) architecture", "Dravidian temple architecture", "Gothic Revival", "Greco-Roman classical"],
+      "answer": 0,
+      "explanation": "It is a landmark example of early Indo-Islamic architecture combining Islamic forms with Indian craftsmanship."
+    },
+    {
+      "id": "qutub-minar-q18",
+      "difficulty": "medium",
+      "q": "What is the unfinished tower nearby, intended to be twice the height of the Qutub Minar?",
+      "options": ["Chand Minar", "Alai Minar", "Fateh Burj", "Hiran Minar"],
+      "answer": 1,
+      "explanation": "The Alai Minar, begun by Alauddin Khalji, was abandoned after its first storey and remains a stump."
+    },
+    {
+      "id": "qutub-minar-q19",
+      "difficulty": "medium",
+      "q": "Who built the ornate Alai Darwaza gateway in the Qutub complex?",
+      "options": ["Alauddin Khalji", "Qutb-ud-din Aibak", "Firoz Shah Tughlaq", "Sher Shah Suri"],
+      "answer": 0,
+      "explanation": "Alauddin Khalji added the Alai Darwaza in 1311 as a southern gateway to the mosque."
+    },
+    {
+      "id": "qutub-minar-q20",
+      "difficulty": "medium",
+      "q": "Which natural event has historically damaged the Qutub Minar, prompting repairs?",
+      "options": ["Volcanic eruptions", "Floods from the Yamuna", "Lightning strikes and earthquakes", "Sandstorms"],
+      "answer": 2,
+      "explanation": "Lightning and earthquakes damaged the top over the centuries, leading to repairs by later rulers."
+    },
+    {
+      "id": "qutub-minar-q21",
+      "difficulty": "medium",
+      "q": "Approximately how many steps lead up the spiral staircase inside the Qutub Minar?",
+      "options": ["About 100", "About 379", "About 700", "About 1,000"],
+      "answer": 1,
+      "explanation": "A spiral staircase of about 379 steps climbs the interior of the minaret."
+    },
+    {
+      "id": "qutub-minar-q22",
+      "difficulty": "medium",
+      "q": "Public access to the top of the Qutub Minar was permanently closed after which type of incident?",
+      "options": ["A fire", "A structural collapse", "A bombing", "A stampede during a power failure"],
+      "answer": 3,
+      "explanation": "After a 1981 stampede in the dark stairwell killed many visitors, interior access was closed to the public."
+    },
+    {
+      "id": "qutub-minar-q23",
+      "difficulty": "hard",
+      "q": "After whom is the Qutub Minar most commonly said to be named?",
+      "options": ["The poet Amir Khusrau", "Founder Qutb-ud-din Aibak (and the saint Qutbuddin Bakhtiar Kaki)", "Emperor Qutb Shah", "General Qutlugh Khan"],
+      "answer": 1,
+      "explanation": "The name is linked to its founder Qutb-ud-din Aibak and the revered Sufi saint Qutbuddin Bakhtiar Kaki."
+    },
+    {
+      "id": "qutub-minar-q24",
+      "difficulty": "hard",
+      "q": "The Quwwat-ul-Islam Mosque was famously constructed using materials from what earlier structures?",
+      "options": ["Imported Persian stone", "Demolished Hindu and Jain temples", "Recycled Roman columns", "Local clay bricks only"],
+      "answer": 1,
+      "explanation": "The mosque was built reusing carved columns and stone from numerous dismantled Hindu and Jain temples on the site."
+    },
+    {
+      "id": "qutub-minar-q25",
+      "difficulty": "hard",
+      "q": "Which ruler is credited with rebuilding the top storeys after lightning damage, adding a marble cupola in the 14th century?",
+      "options": ["Firoz Shah Tughlaq", "Babur", "Aurangzeb", "Sikandar Lodi"],
+      "answer": 0,
+      "explanation": "Firoz Shah Tughlaq repaired the upper storeys after lightning damage in 1368 and added marble facing."
+    },
+    {
+      "id": "qutub-minar-q26",
+      "difficulty": "hard",
+      "q": "Who added a small cupola atop the minar in 1828 that was later removed and now sits in the garden, nicknamed 'Smith's Folly'?",
+      "options": ["Major Robert Smith", "Lord Curzon", "William Sleeman", "James Prinsep"],
+      "answer": 0,
+      "explanation": "British engineer Major Robert Smith placed a Bengali-style cupola in 1828; it was removed and is now called Smith's Folly."
+    },
+    {
+      "id": "qutub-minar-q27",
+      "difficulty": "hard",
+      "q": "Roughly what is the diameter of the Qutub Minar at its base?",
+      "options": ["About 4.5 metres", "About 9 metres", "About 14.3 metres", "About 25 metres"],
+      "answer": 2,
+      "explanation": "The base diameter is about 14.3 metres, tapering to roughly 2.7 metres at the top."
+    },
+    {
+      "id": "qutub-minar-q28",
+      "difficulty": "hard",
+      "q": "The upper two storeys of the Qutub Minar are faced largely with which material, contrasting the lower sandstone?",
+      "options": ["Terracotta", "Marble (and sandstone)", "Slate", "Basalt"],
+      "answer": 1,
+      "explanation": "The upper storeys, rebuilt by Firoz Shah Tughlaq, use marble together with sandstone."
+    },
+    {
+      "id": "qutub-minar-q29",
+      "difficulty": "hard",
+      "q": "Which Sufi saint's association is reflected in the popular naming of the Qutub Minar?",
+      "options": ["Khwaja Moinuddin Chishti", "Qutbuddin Bakhtiar Kaki", "Nizamuddin Auliya", "Baba Farid"],
+      "answer": 1,
+      "explanation": "Many accounts connect the tower's name to the Chishti Sufi saint Khwaja Qutbuddin Bakhtiar Kaki of Mehrauli."
+    },
+    {
+      "id": "qutub-minar-q30",
+      "difficulty": "hard",
+      "q": "In what year was the Qutub Minar complex inscribed on the UNESCO World Heritage List?",
+      "options": ["1983", "2004", "1993", "2014"],
+      "answer": 2,
+      "explanation": "The Qutub Minar and its monuments were added to the UNESCO World Heritage List in 1993."
+    }
+  ]
+}

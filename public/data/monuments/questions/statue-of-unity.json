@@ -1,0 +1,245 @@
+{
+  "cardId": "statue-of-unity",
+  "questions": [
+    {
+      "id": "statue-of-unity-q01",
+      "difficulty": "easy",
+      "q": "Which leader does the Statue of Unity depict?",
+      "options": ["Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Mahatma Gandhi", "B. R. Ambedkar"],
+      "answer": 1,
+      "explanation": "The Statue of Unity portrays Sardar Vallabhbhai Patel, India's first Deputy Prime Minister and Home Minister."
+    },
+    {
+      "id": "statue-of-unity-q02",
+      "difficulty": "easy",
+      "q": "What is the Statue of Unity famous for being?",
+      "options": ["The world's tallest statue", "The oldest statue in India", "The heaviest building in the world", "The first temple of Gujarat"],
+      "answer": 0,
+      "explanation": "At 182 metres, the Statue of Unity is the world's tallest statue."
+    },
+    {
+      "id": "statue-of-unity-q03",
+      "difficulty": "easy",
+      "q": "In which Indian state is the Statue of Unity located?",
+      "options": ["Maharashtra", "Rajasthan", "Gujarat", "Madhya Pradesh"],
+      "answer": 2,
+      "explanation": "The Statue of Unity stands in the state of Gujarat in western India."
+    },
+    {
+      "id": "statue-of-unity-q04",
+      "difficulty": "easy",
+      "q": "Approximately how tall is the Statue of Unity?",
+      "options": ["93 metres", "120 metres", "150 metres", "182 metres"],
+      "answer": 3,
+      "explanation": "The Statue of Unity rises to a height of 182 metres."
+    },
+    {
+      "id": "statue-of-unity-q05",
+      "difficulty": "easy",
+      "q": "On the bank of which river does the Statue of Unity stand?",
+      "options": ["Narmada", "Ganga", "Yamuna", "Godavari"],
+      "answer": 0,
+      "explanation": "The statue overlooks the Narmada River in Gujarat, near the Sardar Sarovar Dam."
+    },
+    {
+      "id": "statue-of-unity-q06",
+      "difficulty": "easy",
+      "q": "In which year was the Statue of Unity unveiled?",
+      "options": ["2010", "2014", "2018", "2021"],
+      "answer": 2,
+      "explanation": "The Statue of Unity was inaugurated on 31 October 2018."
+    },
+    {
+      "id": "statue-of-unity-q07",
+      "difficulty": "easy",
+      "q": "Sardar Patel, whom the statue honours, is popularly remembered as the of India.",
+      "options": ["Iron Man", "Father of the Nation", "Frontier Gandhi", "Nightingale"],
+      "answer": 0,
+      "explanation": "Vallabhbhai Patel is widely known as the 'Iron Man of India' for unifying the princely states."
+    },
+    {
+      "id": "statue-of-unity-q08",
+      "difficulty": "easy",
+      "q": "What does the name 'Statue of Unity' chiefly commemorate about Sardar Patel?",
+      "options": ["His role in writing the Constitution", "His unification of India's princely states", "His leadership of the Indian Army", "His founding of a university"],
+      "answer": 1,
+      "explanation": "The name reflects Patel's role in integrating over 500 princely states into a unified India after independence."
+    },
+    {
+      "id": "statue-of-unity-q09",
+      "difficulty": "easy",
+      "q": "Which Indian Prime Minister inaugurated the Statue of Unity in 2018?",
+      "options": ["Manmohan Singh", "Atal Bihari Vajpayee", "Narendra Modi", "Rajiv Gandhi"],
+      "answer": 2,
+      "explanation": "Prime Minister Narendra Modi unveiled the statue on 31 October 2018, Patel's birth anniversary."
+    },
+    {
+      "id": "statue-of-unity-q10",
+      "difficulty": "easy",
+      "q": "Near which major dam is the Statue of Unity situated?",
+      "options": ["Bhakra Nangal Dam", "Hirakud Dam", "Tehri Dam", "Sardar Sarovar Dam"],
+      "answer": 3,
+      "explanation": "The statue stands a few kilometres downstream of the Sardar Sarovar Dam on the Narmada River."
+    },
+    {
+      "id": "statue-of-unity-q11",
+      "difficulty": "medium",
+      "q": "On which river islet/hillock in the Narmada does the Statue of Unity itself stand?",
+      "options": ["Sadhu Bet", "Majuli", "Elephanta", "Divar"],
+      "answer": 0,
+      "explanation": "The statue is built on the Sadhu Bet hillock, a rocky islet in the Narmada connected to the mainland by a bridge, and it faces the Sardar Sarovar Dam."
+    },
+    {
+      "id": "statue-of-unity-q12",
+      "difficulty": "medium",
+      "q": "Who was the lead sculptor of the Statue of Unity?",
+      "options": ["Nandalal Bose", "Ram V. Sutar", "Anish Kapoor", "Satish Gujral"],
+      "answer": 1,
+      "explanation": "The renowned Indian sculptor Ram V. Sutar designed and led the sculpting of the Statue of Unity."
+    },
+    {
+      "id": "statue-of-unity-q13",
+      "difficulty": "medium",
+      "q": "The outer skin of the Statue of Unity is largely clad in which material?",
+      "options": ["Marble", "Sandstone", "Bronze cladding", "Glass"],
+      "answer": 2,
+      "explanation": "The statue's exterior is covered with bronze cladding panels over a steel and reinforced-concrete core."
+    },
+    {
+      "id": "statue-of-unity-q14",
+      "difficulty": "medium",
+      "q": "Which Indian construction company built the Statue of Unity?",
+      "options": ["Tata Projects", "Larsen & Toubro", "Shapoorji Pallonji", "GMR Group"],
+      "answer": 1,
+      "explanation": "Larsen & Toubro (L&T) was the engineering and construction firm that executed the project."
+    },
+    {
+      "id": "statue-of-unity-q15",
+      "difficulty": "medium",
+      "q": "On which date each year, marking Patel's birthday, was the statue inaugurated and is celebrated?",
+      "options": ["15 August", "26 January", "2 October", "31 October"],
+      "answer": 3,
+      "explanation": "Patel was born on 31 October 1875, observed as Rashtriya Ekta Diwas (National Unity Day)."
+    },
+    {
+      "id": "statue-of-unity-q16",
+      "difficulty": "medium",
+      "q": "What national observance, instituted to honour Patel, falls on the statue's inauguration date?",
+      "options": ["Constitution Day", "Rashtriya Ekta Diwas (National Unity Day)", "Republic Day", "Martyrs' Day"],
+      "answer": 1,
+      "explanation": "31 October is celebrated as Rashtriya Ekta Diwas, the National Unity Day commemorating Sardar Patel."
+    },
+    {
+      "id": "statue-of-unity-q17",
+      "difficulty": "medium",
+      "q": "The Statue of Unity features a viewing gallery for visitors located at approximately what height?",
+      "options": ["Around 153 metres, at the statue's chest level", "At the very feet of the statue", "Inside the underground basement only", "On the head of the statue"],
+      "answer": 0,
+      "explanation": "A visitor viewing gallery sits at about 153 metres, near the chest, offering views over the Narmada valley."
+    },
+    {
+      "id": "statue-of-unity-q18",
+      "difficulty": "medium",
+      "q": "Roughly how much taller is the Statue of Unity than the Statue of Liberty's figure?",
+      "options": ["About the same height", "Less than half as tall", "Roughly twice the height of the Statue of Liberty's figure", "Ten times taller"],
+      "answer": 2,
+      "explanation": "At 182 metres the statue is roughly double the Statue of Liberty's ground-to-torch height of about 93 metres (which includes its pedestal)."
+    },
+    {
+      "id": "statue-of-unity-q19",
+      "difficulty": "medium",
+      "q": "Which campaign collected iron from farmers across India as a symbolic contribution to the project?",
+      "options": ["Swachh Bharat drive", "Statue of Unity / 'Loha' (iron) collection campaign", "Make in India tour", "Beti Bachao initiative"],
+      "answer": 1,
+      "explanation": "An iron-collection campaign gathered farm implements from villages nationwide as a symbolic tribute to the 'Iron Man'."
+    },
+    {
+      "id": "statue-of-unity-q20",
+      "difficulty": "medium",
+      "q": "What political office did Sardar Patel hold in independent India's first government?",
+      "options": ["President", "Chief Justice", "Deputy Prime Minister and Home Minister", "Speaker of the Lok Sabha"],
+      "answer": 2,
+      "explanation": "Patel served as the first Deputy Prime Minister and Home Minister of independent India."
+    },
+    {
+      "id": "statue-of-unity-q21",
+      "difficulty": "medium",
+      "q": "The area around the Statue of Unity has been developed as a major what?",
+      "options": ["Tourist destination", "Military cantonment", "Mining zone", "Space launch centre"],
+      "answer": 0,
+      "explanation": "The site has been developed into a large tourism complex with gardens, museum and attractions drawing many visitors."
+    },
+    {
+      "id": "statue-of-unity-q22",
+      "difficulty": "medium",
+      "q": "The statue is located near which town/tehsil in the Narmada district of Gujarat?",
+      "options": ["Dwarka", "Kevadia (Ekta Nagar)", "Somnath", "Porbandar"],
+      "answer": 1,
+      "explanation": "The statue stands near Kevadia, since renamed Ekta Nagar, in the Narmada district of Gujarat."
+    },
+    {
+      "id": "statue-of-unity-q23",
+      "difficulty": "hard",
+      "q": "Which title did the Statue of Unity claim from a previous record-holder upon completion?",
+      "options": ["Tallest statue, surpassing the Spring Temple Buddha", "Largest dam in Asia", "Oldest monument in India", "Tallest building in the world"],
+      "answer": 0,
+      "explanation": "On completion it overtook China's Spring Temple Buddha (about 128 m) to become the world's tallest statue."
+    },
+    {
+      "id": "statue-of-unity-q24",
+      "difficulty": "hard",
+      "q": "Approximately how long did construction of the Statue of Unity take?",
+      "options": ["About 6 months", "About 33 months (roughly 3 years)", "About 10 years", "About 20 years"],
+      "answer": 1,
+      "explanation": "The statue was built in roughly 33 months, an unusually fast pace for a monument of its scale."
+    },
+    {
+      "id": "statue-of-unity-q25",
+      "difficulty": "hard",
+      "q": "The Statue of Unity is engineered to withstand strong winds and seismic activity using what core structural system?",
+      "options": ["Solid stone masonry throughout", "A reinforced-concrete core with steel framing and bronze cladding", "An inflatable air-supported shell", "Pure cast bronze with no internal frame"],
+      "answer": 1,
+      "explanation": "It uses a reinforced-concrete and steel core supporting an outer bronze cladding, designed to resist high winds and earthquakes."
+    },
+    {
+      "id": "statue-of-unity-q26",
+      "difficulty": "hard",
+      "q": "In which key portfolio did Patel personally oversee the accession of princely states after 1947?",
+      "options": ["Ministry of Finance", "Ministry of External Affairs", "Ministry of Home Affairs (States Department)", "Ministry of Defence"],
+      "answer": 2,
+      "explanation": "As Home Minister, Patel headed the States Department that negotiated the integration of the princely states."
+    },
+    {
+      "id": "statue-of-unity-q27",
+      "difficulty": "hard",
+      "q": "Which posthumous honour, India's highest civilian award, was conferred on Sardar Patel in 1991?",
+      "options": ["Padma Shri", "Param Vir Chakra", "Bharat Ratna", "Padma Bhushan"],
+      "answer": 2,
+      "explanation": "Sardar Vallabhbhai Patel was awarded the Bharat Ratna posthumously in 1991."
+    },
+    {
+      "id": "statue-of-unity-q28",
+      "difficulty": "hard",
+      "q": "The Statue of Unity pedestal/base section is designed to also house which visitor facility?",
+      "options": ["A swimming pool", "A museum and exhibition hall on Patel's life", "A working railway depot", "A sports stadium"],
+      "answer": 1,
+      "explanation": "The base of the statue contains a museum, exhibition hall and memorial garden documenting Patel's life and legacy."
+    },
+    {
+      "id": "statue-of-unity-q29",
+      "difficulty": "hard",
+      "q": "Roughly how tall is the Statue of Unity compared with the Spring Temple Buddha it surpassed?",
+      "options": ["About 54 metres taller", "Shorter by 30 metres", "Exactly the same", "Twice the height"],
+      "answer": 0,
+      "explanation": "At 182 m versus about 128 m, the Statue of Unity is roughly 54 metres taller than the Spring Temple Buddha."
+    },
+    {
+      "id": "statue-of-unity-q30",
+      "difficulty": "hard",
+      "q": "Which engineering challenge most influenced the statue's design near the Narmada River?",
+      "options": ["Extreme cold and snowfall", "High wind speeds and seismic stability requirements", "Frequent volcanic eruptions", "Lack of any water source"],
+      "answer": 1,
+      "explanation": "The riverside, open setting required engineering for high wind loads and earthquake resistance for the tall structure."
+    }
+  ]
+}

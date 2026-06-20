@@ -1,0 +1,245 @@
+{
+  "cardId": "taj-mahal",
+  "questions": [
+    {
+      "id": "taj-mahal-q01",
+      "difficulty": "easy",
+      "q": "In which Indian city is the Taj Mahal located?",
+      "options": ["Delhi", "Agra", "Jaipur", "Lucknow"],
+      "answer": 1,
+      "explanation": "The Taj Mahal stands on the south bank of the Yamuna River in Agra, Uttar Pradesh."
+    },
+    {
+      "id": "taj-mahal-q02",
+      "difficulty": "easy",
+      "q": "Which Mughal emperor built the Taj Mahal?",
+      "options": ["Akbar", "Aurangzeb", "Shah Jahan", "Babur"],
+      "answer": 2,
+      "explanation": "Emperor Shah Jahan commissioned the Taj Mahal as a mausoleum for his wife."
+    },
+    {
+      "id": "taj-mahal-q03",
+      "difficulty": "easy",
+      "q": "For whom was the Taj Mahal built?",
+      "options": ["Mumtaz Mahal", "Nur Jahan", "Jodha Bai", "Roshanara Begum"],
+      "answer": 0,
+      "explanation": "Shah Jahan built the Taj Mahal as a tomb for his beloved wife Mumtaz Mahal."
+    },
+    {
+      "id": "taj-mahal-q04",
+      "difficulty": "easy",
+      "q": "What is the primary building material of the Taj Mahal's main structure?",
+      "options": ["Red sandstone", "Granite", "White marble", "Limestone"],
+      "answer": 2,
+      "explanation": "The Taj Mahal's central mausoleum is built of gleaming white marble."
+    },
+    {
+      "id": "taj-mahal-q05",
+      "difficulty": "easy",
+      "q": "What type of building is the Taj Mahal?",
+      "options": ["A palace", "A mausoleum (tomb)", "A fort", "A mosque only"],
+      "answer": 1,
+      "explanation": "The Taj Mahal is a mausoleum, built to hold the tomb of Mumtaz Mahal."
+    },
+    {
+      "id": "taj-mahal-q06",
+      "difficulty": "easy",
+      "q": "Beside which river does the Taj Mahal stand?",
+      "options": ["Yamuna", "Ganges", "Narmada", "Godavari"],
+      "answer": 0,
+      "explanation": "The Taj Mahal is situated on the bank of the Yamuna River in Agra."
+    },
+    {
+      "id": "taj-mahal-q07",
+      "difficulty": "easy",
+      "q": "The Taj Mahal is widely regarded as a symbol of what?",
+      "options": ["War and conquest", "Trade and commerce", "Love", "Religious conversion"],
+      "answer": 2,
+      "explanation": "Built by Shah Jahan in memory of his wife, the Taj Mahal is celebrated as a monument to love."
+    },
+    {
+      "id": "taj-mahal-q08",
+      "difficulty": "easy",
+      "q": "The Taj Mahal is featured on which prestigious international list?",
+      "options": ["UNESCO World Heritage Sites", "Olympic venues", "Fortune 500", "Nobel landmarks"],
+      "answer": 0,
+      "explanation": "The Taj Mahal was inscribed as a UNESCO World Heritage Site in 1983."
+    },
+    {
+      "id": "taj-mahal-q09",
+      "difficulty": "easy",
+      "q": "What crowns the central chamber of the Taj Mahal?",
+      "options": ["A spire", "A flat terrace", "A clock tower", "A large white marble dome"],
+      "answer": 3,
+      "explanation": "A large bulbous white marble dome (the onion dome) crowns the central mausoleum."
+    },
+    {
+      "id": "taj-mahal-q10",
+      "difficulty": "easy",
+      "q": "How many tall towers (minarets) stand at the corners of the Taj Mahal's plinth?",
+      "options": ["Two", "Six", "Four", "Eight"],
+      "answer": 2,
+      "explanation": "Four minarets frame the marble platform, one at each corner of the plinth."
+    },
+    {
+      "id": "taj-mahal-q11",
+      "difficulty": "medium",
+      "q": "In which Indian state is the Taj Mahal located?",
+      "options": ["Rajasthan", "Madhya Pradesh", "Uttar Pradesh", "Bihar"],
+      "answer": 2,
+      "explanation": "Agra, the home of the Taj Mahal, lies in the state of Uttar Pradesh."
+    },
+    {
+      "id": "taj-mahal-q12",
+      "difficulty": "medium",
+      "q": "Construction of the Taj Mahal began in which century?",
+      "options": ["15th century", "16th century", "17th century", "18th century"],
+      "answer": 2,
+      "explanation": "Construction began around 1632 in the 17th century, after Mumtaz Mahal's death in 1631."
+    },
+    {
+      "id": "taj-mahal-q13",
+      "difficulty": "medium",
+      "q": "To which architectural style does the Taj Mahal belong?",
+      "options": ["Dravidian", "Gothic", "Greco-Roman", "Mughal architecture"],
+      "answer": 3,
+      "explanation": "The Taj Mahal is the supreme example of Mughal architecture, blending Persian, Islamic and Indian styles."
+    },
+    {
+      "id": "taj-mahal-q14",
+      "difficulty": "medium",
+      "q": "The Taj Mahal was completed in approximately which year?",
+      "options": ["1605", "1707", "1653", "1750"],
+      "answer": 2,
+      "explanation": "The Taj Mahal complex was largely completed around 1653, roughly two decades after work began."
+    },
+    {
+      "id": "taj-mahal-q15",
+      "difficulty": "medium",
+      "q": "What decorative technique uses inlaid semi-precious stones in patterns on the Taj Mahal's marble?",
+      "options": ["Fresco", "Pietra dura (parchin kari)", "Mosaic tiling", "Stucco molding"],
+      "answer": 1,
+      "explanation": "The Taj Mahal is famed for pietra dura, inlay of semi-precious stones forming floral and calligraphic designs."
+    },
+    {
+      "id": "taj-mahal-q16",
+      "difficulty": "medium",
+      "q": "What is inscribed in elegant calligraphy on the great gateway and arches of the Taj Mahal?",
+      "options": ["Mughal military victories", "Sanskrit hymns", "Trade ledgers", "Verses from the Quran"],
+      "answer": 3,
+      "explanation": "Passages from the Quran are inlaid in black marble calligraphy on the entrance and facades."
+    },
+    {
+      "id": "taj-mahal-q17",
+      "difficulty": "medium",
+      "q": "What lies symmetrically in front of the mausoleum, mirroring its image?",
+      "options": ["A large reflecting pool and garden", "A marketplace", "A graveyard", "A military parade ground"],
+      "answer": 0,
+      "explanation": "A long reflecting watercourse runs through the charbagh garden, mirroring the marble facade."
+    },
+    {
+      "id": "taj-mahal-q18",
+      "difficulty": "medium",
+      "q": "The formal garden layout of the Taj Mahal follows which classic Persian design?",
+      "options": ["Zen rock garden", "Terraced vineyard", "Charbagh (four-part garden)", "Hanging garden"],
+      "answer": 2,
+      "explanation": "The grounds use the charbagh, a quartered Persian garden divided by walkways and water channels."
+    },
+    {
+      "id": "taj-mahal-q19",
+      "difficulty": "medium",
+      "q": "A red sandstone mosque stands on which side of the Taj Mahal mausoleum?",
+      "options": ["East", "West", "North", "South"],
+      "answer": 1,
+      "explanation": "The mosque sits to the west of the mausoleum, facing Mecca, balanced by a matching jawab on the east."
+    },
+    {
+      "id": "taj-mahal-q20",
+      "difficulty": "medium",
+      "q": "The building on the east side that mirrors the mosque (but is not used for prayer) is called the:",
+      "options": ["Diwan-i-Khas", "Naubat Khana", "Sheesh Mahal", "Jawab"],
+      "answer": 3,
+      "explanation": "The jawab ('answer') mirrors the mosque to preserve the complex's perfect symmetry."
+    },
+    {
+      "id": "taj-mahal-q21",
+      "difficulty": "medium",
+      "q": "Besides Mumtaz Mahal, whose tomb was later placed inside the Taj Mahal?",
+      "options": ["Akbar", "Aurangzeb", "Jahangir", "Shah Jahan"],
+      "answer": 3,
+      "explanation": "Shah Jahan was later entombed beside Mumtaz Mahal, the only element that breaks the building's symmetry."
+    },
+    {
+      "id": "taj-mahal-q22",
+      "difficulty": "medium",
+      "q": "Why are the four minarets of the Taj Mahal built tilting slightly outward?",
+      "options": ["A construction error", "To save material", "So they would fall away from the tomb in an earthquake", "For better acoustics"],
+      "answer": 2,
+      "explanation": "The minarets lean slightly outward so that, if they collapsed, they would fall away from the central tomb."
+    },
+    {
+      "id": "taj-mahal-q23",
+      "difficulty": "hard",
+      "q": "In which year was Mumtaz Mahal's death, which prompted the building of the Taj Mahal?",
+      "options": ["1612", "1648", "1631", "1666"],
+      "answer": 2,
+      "explanation": "Mumtaz Mahal died in 1631 while giving birth to her fourteenth child, prompting Shah Jahan's grief and the monument."
+    },
+    {
+      "id": "taj-mahal-q24",
+      "difficulty": "hard",
+      "q": "Which architect is most often credited as the chief designer of the Taj Mahal?",
+      "options": ["Mir Abd-ul Karim", "Ismail Afandi", "Makramat Khan", "Ustad Ahmad Lahauri"],
+      "answer": 3,
+      "explanation": "Ustad Ahmad Lahauri is generally regarded as the principal architect of the Taj Mahal."
+    },
+    {
+      "id": "taj-mahal-q25",
+      "difficulty": "hard",
+      "q": "From where did the white marble used to build the Taj Mahal mainly come?",
+      "options": ["Makrana in Rajasthan", "Carrara in Italy", "Jaisalmer", "Kashmir"],
+      "answer": 0,
+      "explanation": "The marble was quarried at Makrana in Rajasthan and transported to Agra for the construction."
+    },
+    {
+      "id": "taj-mahal-q26",
+      "difficulty": "hard",
+      "q": "What event brought Shah Jahan's reign to a close while the Taj Mahal era continued?",
+      "options": ["He abdicated voluntarily", "He died in battle", "He was deposed and imprisoned by his son Aurangzeb", "He was exiled to Persia"],
+      "answer": 2,
+      "explanation": "Shah Jahan was deposed by his son Aurangzeb and held captive in Agra Fort until his death in 1666."
+    },
+    {
+      "id": "taj-mahal-q27",
+      "difficulty": "hard",
+      "q": "From his confinement, Shah Jahan is said to have viewed the Taj Mahal from which place?",
+      "options": ["Fatehpur Sikri", "Sikandra", "The Red Fort in Delhi", "Agra Fort"],
+      "answer": 3,
+      "explanation": "Imprisoned by Aurangzeb in Agra Fort, Shah Jahan could see the distant Taj Mahal across the Yamuna."
+    },
+    {
+      "id": "taj-mahal-q28",
+      "difficulty": "hard",
+      "q": "Which large red sandstone gateway forms the grand entrance to the Taj Mahal complex?",
+      "options": ["The Buland Darwaza", "The India Gate", "The Darwaza-i Rauza (Great Gate)", "The Lahori Gate"],
+      "answer": 2,
+      "explanation": "The Darwaza-i Rauza, the monumental red sandstone Great Gate, serves as the main entrance to the complex."
+    },
+    {
+      "id": "taj-mahal-q29",
+      "difficulty": "hard",
+      "q": "What environmental threat has notably contributed to yellowing and discoloration of the Taj Mahal's marble?",
+      "options": ["Volcanic ash", "Salt spray from the sea", "Excessive snowfall", "Air pollution and acid rain"],
+      "answer": 3,
+      "explanation": "Air pollution and acid rain in the Agra region have stained the marble, prompting protective measures like the Taj Trapezium Zone."
+    },
+    {
+      "id": "taj-mahal-q30",
+      "difficulty": "hard",
+      "q": "Atop the main dome of the Taj Mahal sits a finial that combines Islamic and Hindu motifs; which feature does it include?",
+      "options": ["A cross", "A lotus throne", "A crescent moon with horns shaped like a trident", "A wheel of dharma"],
+      "answer": 2,
+      "explanation": "The gilded finial bears a crescent moon whose upturned horns evoke a trident, blending Islamic and Indian symbolism."
+    }
+  ]
+}

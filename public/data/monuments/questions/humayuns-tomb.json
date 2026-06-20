@@ -1,0 +1,245 @@
+{
+  "cardId": "humayuns-tomb",
+  "questions": [
+    {
+      "id": "humayuns-tomb-q01",
+      "difficulty": "easy",
+      "q": "In which Indian city is Humayun's Tomb located?",
+      "options": ["Agra", "Delhi", "Jaipur", "Lucknow"],
+      "answer": 1,
+      "explanation": "Humayun's Tomb stands in Delhi, in the Nizamuddin area near the Yamuna river."
+    },
+    {
+      "id": "humayuns-tomb-q02",
+      "difficulty": "easy",
+      "q": "Humayun's Tomb is the mausoleum of a ruler of which dynasty?",
+      "options": ["Maurya", "Gupta", "Mughal", "Chola"],
+      "answer": 2,
+      "explanation": "Humayun was the second Mughal emperor, and the tomb was built for him."
+    },
+    {
+      "id": "humayuns-tomb-q03",
+      "difficulty": "easy",
+      "q": "Humayun's Tomb is often called the subcontinent's first great example of what type of tomb?",
+      "options": ["Cave tomb", "Garden-tomb", "Rock-cut tomb", "Floating tomb"],
+      "answer": 1,
+      "explanation": "It was the first major garden-tomb in the Indian subcontinent, set within a formal char-bagh garden."
+    },
+    {
+      "id": "humayuns-tomb-q04",
+      "difficulty": "easy",
+      "q": "Humayun's Tomb is widely regarded as a forerunner of which famous later monument?",
+      "options": ["Qutub Minar", "Taj Mahal", "Charminar", "Gateway of India"],
+      "answer": 1,
+      "explanation": "Its design and garden setting strongly influenced the later Taj Mahal at Agra."
+    },
+    {
+      "id": "humayuns-tomb-q05",
+      "difficulty": "easy",
+      "q": "In which century was Humayun's Tomb built?",
+      "options": ["12th century", "14th century", "16th century", "19th century"],
+      "answer": 2,
+      "explanation": "The tomb was constructed in the mid-16th century, in the years after Humayun's death in 1556."
+    },
+    {
+      "id": "humayuns-tomb-q06",
+      "difficulty": "easy",
+      "q": "What international heritage recognition has Humayun's Tomb received?",
+      "options": ["UNESCO World Heritage Site", "New Seven Wonders of the World", "Olympic Heritage Site", "Ramsar Site"],
+      "answer": 0,
+      "explanation": "Humayun's Tomb was inscribed as a UNESCO World Heritage Site in 1993."
+    },
+    {
+      "id": "humayuns-tomb-q07",
+      "difficulty": "easy",
+      "q": "Humayun's Tomb is set in a formal garden divided into quarters. What is this garden layout called?",
+      "options": ["Char-bagh", "Zen garden", "Terrace farm", "Maze garden"],
+      "answer": 0,
+      "explanation": "The tomb sits within a char-bagh, a Persian four-part garden divided by water channels and walkways."
+    },
+    {
+      "id": "humayuns-tomb-q08",
+      "difficulty": "easy",
+      "q": "Which prominent feature crowns the top of Humayun's Tomb?",
+      "options": ["A flat terrace", "A large white marble dome", "A clock tower", "A spire of iron"],
+      "answer": 1,
+      "explanation": "The structure is topped by a large double dome clad in white marble."
+    },
+    {
+      "id": "humayuns-tomb-q09",
+      "difficulty": "easy",
+      "q": "What is the dominant building stone that gives Humayun's Tomb its reddish color?",
+      "options": ["Red sandstone", "Granite", "Black basalt", "Limestone"],
+      "answer": 0,
+      "explanation": "The tomb is built mainly of red sandstone, accented with white and black marble."
+    },
+    {
+      "id": "humayuns-tomb-q10",
+      "difficulty": "easy",
+      "q": "Humayun's Tomb was built primarily as what kind of structure?",
+      "options": ["A fort", "A mosque", "A mausoleum", "A palace for living"],
+      "answer": 2,
+      "explanation": "It is a mausoleum, built to house the grave of Emperor Humayun."
+    },
+    {
+      "id": "humayuns-tomb-q11",
+      "difficulty": "medium",
+      "q": "Who is most commonly credited with commissioning the construction of Humayun's Tomb?",
+      "options": ["Humayun himself", "His widow, Empress Bega Begum (Haji Begum)", "Emperor Akbar's mother", "Shah Jahan"],
+      "answer": 1,
+      "explanation": "The tomb is traditionally said to have been commissioned by Humayun's widow, Bega Begum, also known as Haji Begum."
+    },
+    {
+      "id": "humayuns-tomb-q12",
+      "difficulty": "medium",
+      "q": "Which architect is credited with designing Humayun's Tomb?",
+      "options": ["Ustad Ahmad Lahori", "Mirak Mirza Ghiyas", "Ustad Isa", "Le Corbusier"],
+      "answer": 1,
+      "explanation": "The Persian architect Mirak Mirza Ghiyas (Mirak Mirza Ghiyath) is credited with the tomb's design."
+    },
+    {
+      "id": "humayuns-tomb-q13",
+      "difficulty": "medium",
+      "q": "Humayun's Tomb is built in a style that blends Indian craft with the architecture of which other region?",
+      "options": ["Chinese", "Persian", "Roman", "Egyptian"],
+      "answer": 1,
+      "explanation": "The tomb fuses Persian (Timurid) architectural ideas with Indian materials and craftsmanship."
+    },
+    {
+      "id": "humayuns-tomb-q14",
+      "difficulty": "medium",
+      "q": "In which year did Emperor Humayun die, prompting the eventual construction of his tomb?",
+      "options": ["1526", "1556", "1605", "1658"],
+      "answer": 1,
+      "explanation": "Humayun died in 1556 after falling down the steps of his library in Delhi."
+    },
+    {
+      "id": "humayuns-tomb-q15",
+      "difficulty": "medium",
+      "q": "Construction of Humayun's Tomb is generally dated to roughly which period?",
+      "options": ["1300s", "1450s", "1560s to 1570s", "1700s"],
+      "answer": 2,
+      "explanation": "The tomb was built over several years in the 1560s and completed around 1570 during Akbar's reign."
+    },
+    {
+      "id": "humayuns-tomb-q16",
+      "difficulty": "medium",
+      "q": "Humayun's Tomb is described as having a 'double dome.' What does this mean?",
+      "options": ["Two domes side by side", "An outer shell and an inner shell forming the dome", "A dome made of two colors only", "A dome that can rotate"],
+      "answer": 1,
+      "explanation": "A double dome has a high outer shell and a lower inner shell, a Persian technique used to balance exterior height with interior proportion."
+    },
+    {
+      "id": "humayuns-tomb-q17",
+      "difficulty": "medium",
+      "q": "On which side of the Yamuna river area of Delhi does Humayun's Tomb stand, near a famous Sufi shrine?",
+      "options": ["Near the shrine of Nizamuddin Auliya", "Near the Lotus Temple", "Near Akshardham", "Near the Qutub complex"],
+      "answer": 0,
+      "explanation": "The tomb lies close to the dargah of the Sufi saint Nizamuddin Auliya in Delhi."
+    },
+    {
+      "id": "humayuns-tomb-q18",
+      "difficulty": "medium",
+      "q": "Because so many Mughal family members are buried there, Humayun's Tomb is sometimes nicknamed what?",
+      "options": ["The Mughal mint", "The dormitory of the Mughals", "The garden of war", "The hall of mirrors"],
+      "answer": 1,
+      "explanation": "Many Mughals were interred in its chambers, earning it the nickname the 'dormitory of the Mughals.'"
+    },
+    {
+      "id": "humayuns-tomb-q19",
+      "difficulty": "medium",
+      "q": "The tomb building is raised on a large platform. What is this kind of elevated podium typically called?",
+      "options": ["Minaret", "Plinth (terrace platform)", "Iwan", "Chhatri"],
+      "answer": 1,
+      "explanation": "The mausoleum sits atop a high arcaded plinth, a podium that lifts and frames the tomb chamber."
+    },
+    {
+      "id": "humayuns-tomb-q20",
+      "difficulty": "medium",
+      "q": "Which architectural feature, common in Mughal buildings, decorates the roofline of Humayun's Tomb as small domed kiosks?",
+      "options": ["Gargoyles", "Chhatris", "Flying buttresses", "Steeples"],
+      "answer": 1,
+      "explanation": "Small domed pavilions called chhatris surround the central white dome on the roof."
+    },
+    {
+      "id": "humayuns-tomb-q21",
+      "difficulty": "medium",
+      "q": "A major conservation and garden restoration of the Humayun's Tomb complex in the 2000s was led with support from which philanthropic trust?",
+      "options": ["The Ford Foundation", "The Aga Khan Trust for Culture", "The Rockefeller Foundation", "The Wellcome Trust"],
+      "answer": 1,
+      "explanation": "The Aga Khan Trust for Culture led a landmark restoration of the gardens and tomb in partnership with Indian authorities."
+    },
+    {
+      "id": "humayuns-tomb-q22",
+      "difficulty": "medium",
+      "q": "The ground plan of the tomb's main chamber is based on which symmetrical arrangement?",
+      "options": ["A simple square room", "An irregular pentagon", "A radially symmetrical plan with chambers around a central hall", "A long rectangular hall"],
+      "answer": 2,
+      "explanation": "The tomb has a symmetrical plan with octagonal and connected chambers arranged around the central domed hall."
+    },
+    {
+      "id": "humayuns-tomb-q23",
+      "difficulty": "hard",
+      "q": "During which Mughal emperor's reign was Humayun's Tomb completed?",
+      "options": ["Babur", "Akbar", "Jahangir", "Aurangzeb"],
+      "answer": 1,
+      "explanation": "Though begun after Humayun's death, the tomb was completed during the reign of his son Akbar."
+    },
+    {
+      "id": "humayuns-tomb-q24",
+      "difficulty": "hard",
+      "q": "Which Mughal ruler took refuge at Humayun's Tomb and was captured by the British there during the 1857 uprising?",
+      "options": ["Dara Shikoh", "Bahadur Shah Zafar", "Murad Bakhsh", "Khusrau Mirza"],
+      "answer": 1,
+      "explanation": "The last Mughal emperor, Bahadur Shah Zafar, took refuge at and was captured at Humayun's Tomb in 1857."
+    },
+    {
+      "id": "humayuns-tomb-q25",
+      "difficulty": "hard",
+      "q": "The architect of Humayun's Tomb was brought to India from which region, reflecting the tomb's Persian character?",
+      "options": ["Bukhara in Central Asia", "Herat / Persia (Iran region)", "Anatolia (Turkey)", "Andalusia (Spain)"],
+      "answer": 1,
+      "explanation": "Mirak Mirza Ghiyas was a Persian architect from the Herat region, bringing Timurid-Persian design to the project."
+    },
+    {
+      "id": "humayuns-tomb-q26",
+      "difficulty": "hard",
+      "q": "Within the char-bagh, the four quarters are separated by water channels meeting at the center. What broader Islamic concept does this layout evoke?",
+      "options": ["A battlefield", "A paradise garden", "A marketplace", "A celestial observatory"],
+      "answer": 1,
+      "explanation": "The four-part garden with flowing water symbolizes the Quranic paradise garden, a recurring Mughal theme."
+    },
+    {
+      "id": "humayuns-tomb-q27",
+      "difficulty": "hard",
+      "q": "Which earlier structure within the wider Humayun's Tomb complex predates the main tomb and houses the grave of a noble of the Lodi-Sur period?",
+      "options": ["Isa Khan's Tomb", "Safdarjung's Tomb", "Sikandar Lodi's Tomb", "Adham Khan's Tomb"],
+      "answer": 0,
+      "explanation": "The octagonal tomb of Isa Khan Niyazi, built in the 1540s, lies within the complex and predates Humayun's Tomb."
+    },
+    {
+      "id": "humayuns-tomb-q28",
+      "difficulty": "hard",
+      "q": "The high outer dome of Humayun's Tomb is finished in white marble, contrasting with which decorative detailing in the sandstone facades?",
+      "options": ["Gold leaf mosaics", "Inlaid white and black marble patterns", "Painted frescoes", "Glazed blue tiles only"],
+      "answer": 1,
+      "explanation": "The red sandstone exterior is patterned with inlaid white and black marble, a hallmark of early Mughal stonework."
+    },
+    {
+      "id": "humayuns-tomb-q29",
+      "difficulty": "hard",
+      "q": "Humayun's Tomb introduced to India the monumental arched recess centered in each facade. What is this Persian feature called?",
+      "options": ["Iwan (pishtaq)", "Pylon", "Loggia", "Clerestory"],
+      "answer": 0,
+      "explanation": "Each facade features a tall central arched portal, an iwan within a pishtaq frame, a key Persian element later seen in the Taj Mahal."
+    },
+    {
+      "id": "humayuns-tomb-q30",
+      "difficulty": "hard",
+      "q": "The Humayun's Tomb complex was among the early monuments protected and later jointly conserved with which Indian government body responsible for heritage sites?",
+      "options": ["Indian Space Research Organisation", "Archaeological Survey of India", "National Disaster Management Authority", "Geological Survey of India"],
+      "answer": 1,
+      "explanation": "The Archaeological Survey of India is the custodian of the monument and partnered in its conservation."
+    }
+  ]
+}

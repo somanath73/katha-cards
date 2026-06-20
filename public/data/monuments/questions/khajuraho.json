@@ -1,0 +1,245 @@
+{
+  "cardId": "khajuraho",
+  "questions": [
+    {
+      "id": "khajuraho-q01",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state are the Khajuraho temples located?",
+      "options": ["Rajasthan", "Uttar Pradesh", "Odisha", "Madhya Pradesh"],
+      "answer": 3,
+      "explanation": "The Khajuraho group of monuments stands in the Chhatarpur district of Madhya Pradesh."
+    },
+    {
+      "id": "khajuraho-q02",
+      "difficulty": "easy",
+      "q": "The Khajuraho temples are most famous for which feature?",
+      "options": ["Underground tunnels", "Sensuous and intricate sculpture", "Floating domes", "Mirror-glass interiors"],
+      "answer": 1,
+      "explanation": "Khajuraho is renowned worldwide for its richly detailed and sensuous stone sculpture."
+    },
+    {
+      "id": "khajuraho-q03",
+      "difficulty": "easy",
+      "q": "Which dynasty built the Khajuraho temples?",
+      "options": ["The Cholas", "The Chandelas", "The Mughals", "The Mauryas"],
+      "answer": 1,
+      "explanation": "The temples were built by rulers of the Chandela dynasty of central India."
+    },
+    {
+      "id": "khajuraho-q04",
+      "difficulty": "easy",
+      "q": "During roughly which centuries were the Khajuraho temples built?",
+      "options": ["3rd and 4th centuries", "10th and 11th centuries", "16th and 17th centuries", "18th and 19th centuries"],
+      "answer": 1,
+      "explanation": "Most of the temples were constructed between roughly 950 and 1050 CE, in the 10th and 11th centuries."
+    },
+    {
+      "id": "khajuraho-q05",
+      "difficulty": "easy",
+      "q": "What international recognition do the Khajuraho monuments hold?",
+      "options": ["UNESCO World Heritage Site", "New Seven Wonders winner", "Ramsar wetland site", "UNESCO Intangible Heritage"],
+      "answer": 0,
+      "explanation": "The Khajuraho Group of Monuments was inscribed as a UNESCO World Heritage Site in 1986."
+    },
+    {
+      "id": "khajuraho-q06",
+      "difficulty": "easy",
+      "q": "What is the primary purpose of the Khajuraho structures?",
+      "options": ["Royal palaces", "Temples", "Forts", "Tombs"],
+      "answer": 1,
+      "explanation": "The Khajuraho monuments are a group of Hindu and Jain temples."
+    },
+    {
+      "id": "khajuraho-q07",
+      "difficulty": "easy",
+      "q": "Besides Hindu temples, which other religion's temples are also found at Khajuraho?",
+      "options": ["Buddhism", "Jainism", "Sikhism", "Zoroastrianism"],
+      "answer": 1,
+      "explanation": "Khajuraho includes a group of Jain temples alongside its Hindu temples."
+    },
+    {
+      "id": "khajuraho-q08",
+      "difficulty": "easy",
+      "q": "What is the main building material of the Khajuraho temples?",
+      "options": ["Marble", "Red sandstone", "Brick and mortar", "Granite blocks"],
+      "answer": 1,
+      "explanation": "The temples were built largely from fine-grained sandstone, much of it warm-toned."
+    },
+    {
+      "id": "khajuraho-q09",
+      "difficulty": "easy",
+      "q": "The poetic phrase often used to describe Khajuraho's artistry is best captured as which of these?",
+      "options": ["Poetry in stone", "City of lakes", "Gateway of the east", "Crown of palaces"],
+      "answer": 0,
+      "explanation": "Khajuraho is widely celebrated as 'poetry in stone' for its lyrical sculptural detail."
+    },
+    {
+      "id": "khajuraho-q10",
+      "difficulty": "easy",
+      "q": "Which is the largest and most famous temple at Khajuraho?",
+      "options": ["Lakshmana Temple", "Chausath Yogini Temple", "Kandariya Mahadeva Temple", "Parsvanatha Temple"],
+      "answer": 2,
+      "explanation": "The Kandariya Mahadeva Temple is the largest and most ornate of the Khajuraho temples."
+    },
+    {
+      "id": "khajuraho-q11",
+      "difficulty": "medium",
+      "q": "To which principal deity is the Kandariya Mahadeva Temple dedicated?",
+      "options": ["Vishnu", "Shiva", "Brahma", "Surya"],
+      "answer": 1,
+      "explanation": "The Kandariya Mahadeva Temple is dedicated to Shiva, with a linga in its sanctum."
+    },
+    {
+      "id": "khajuraho-q12",
+      "difficulty": "medium",
+      "q": "The towering spire over a Khajuraho temple's sanctum is known by which term?",
+      "options": ["Gopuram", "Shikhara", "Stupa", "Minar"],
+      "answer": 1,
+      "explanation": "The curvilinear spire rising above the sanctum is called the shikhara in North Indian (Nagara) architecture."
+    },
+    {
+      "id": "khajuraho-q13",
+      "difficulty": "medium",
+      "q": "Khajuraho temples are a classic example of which broad architectural tradition?",
+      "options": ["Dravida (South Indian) style", "Indo-Saracenic style", "Vesara hybrid style", "Nagara (North Indian) style"],
+      "answer": 3,
+      "explanation": "Khajuraho exemplifies the Nagara style of North Indian temple architecture."
+    },
+    {
+      "id": "khajuraho-q14",
+      "difficulty": "medium",
+      "q": "The Khajuraho temples are conventionally divided into how many main geographic groups?",
+      "options": ["Two", "Three", "Five", "Seven"],
+      "answer": 1,
+      "explanation": "The temples are grouped into three clusters: the Western, Eastern, and Southern groups."
+    },
+    {
+      "id": "khajuraho-q15",
+      "difficulty": "medium",
+      "q": "Which group of Khajuraho temples is the largest and contains the most celebrated temples?",
+      "options": ["Eastern group", "Southern group", "Western group", "Northern group"],
+      "answer": 2,
+      "explanation": "The Western group is the largest and includes Kandariya Mahadeva and Lakshmana temples."
+    },
+    {
+      "id": "khajuraho-q16",
+      "difficulty": "medium",
+      "q": "The Lakshmana Temple at Khajuraho is dedicated to which deity?",
+      "options": ["Shiva", "Vishnu (Vaikuntha form)", "Ganesha", "Hanuman"],
+      "answer": 1,
+      "explanation": "The Lakshmana Temple is dedicated to Vishnu, enshrining a Vaikuntha (multi-headed) image."
+    },
+    {
+      "id": "khajuraho-q17",
+      "difficulty": "medium",
+      "q": "Approximately how many temples are believed to have originally existed at Khajuraho?",
+      "options": ["About 25", "About 85", "About 200", "About 500"],
+      "answer": 1,
+      "explanation": "Historical accounts suggest around 85 temples were built, of which about 20-25 survive."
+    },
+    {
+      "id": "khajuraho-q18",
+      "difficulty": "medium",
+      "q": "Roughly how many temples at Khajuraho survive today?",
+      "options": ["About 20-25", "About 50", "About 70", "All 85"],
+      "answer": 0,
+      "explanation": "Only about 20 to 25 of the original temples remain standing today."
+    },
+    {
+      "id": "khajuraho-q19",
+      "difficulty": "medium",
+      "q": "The famous erotic carvings make up roughly what share of the total sculpture at Khajuraho?",
+      "options": ["The vast majority", "A small minority", "Exactly half", "None at all"],
+      "answer": 1,
+      "explanation": "Erotic figures are only a small fraction; most sculptures depict gods, dancers, musicians, and daily life."
+    },
+    {
+      "id": "khajuraho-q20",
+      "difficulty": "medium",
+      "q": "Which Chandela ruler is traditionally credited with building the Lakshmana Temple?",
+      "options": ["Dhanga", "Yashovarman (Lakshavarman)", "Vidyadhara", "Kirtivarman"],
+      "answer": 1,
+      "explanation": "The Lakshmana Temple is generally attributed to the Chandela king Yashovarman, also called Lakshavarman."
+    },
+    {
+      "id": "khajuraho-q21",
+      "difficulty": "medium",
+      "q": "Which medieval traveller's account is an important early reference to Khajuraho?",
+      "options": ["Marco Polo", "Fa-Hien", "Megasthenes", "Ibn Battuta"],
+      "answer": 3,
+      "explanation": "The 14th-century traveller Ibn Battuta recorded a visit to Khajuraho and its temples."
+    },
+    {
+      "id": "khajuraho-q22",
+      "difficulty": "medium",
+      "q": "What is the carved ceremonial entrance porch of a Khajuraho temple called?",
+      "options": ["Garbhagriha", "Ardhamandapa", "Mandapa", "Antarala"],
+      "answer": 1,
+      "explanation": "The entrance porch at the front of the temple is the ardhamandapa ('half-hall'), which leads into the larger mandapa and then the sanctum."
+    },
+    {
+      "id": "khajuraho-q23",
+      "difficulty": "hard",
+      "q": "What was the meaning of the word from which the name 'Khajuraho' is derived?",
+      "options": ["Place of lions", "Date palms", "Sacred river", "Golden hill"],
+      "answer": 1,
+      "explanation": "The name is linked to 'khajur', the date palm, which gave the area its name (Khajura-vahaka)."
+    },
+    {
+      "id": "khajuraho-q24",
+      "difficulty": "hard",
+      "q": "The inner sanctum housing the temple's main image is known by which Sanskrit term?",
+      "options": ["Garbhagriha", "Jagati", "Shikhara", "Toranas"],
+      "answer": 0,
+      "explanation": "The garbhagriha ('womb chamber') is the sacred sanctum holding the principal deity."
+    },
+    {
+      "id": "khajuraho-q25",
+      "difficulty": "hard",
+      "q": "British engineer T. S. Burt is credited with bringing Khajuraho to wider attention in which century?",
+      "options": ["17th century", "18th century", "19th century", "20th century"],
+      "answer": 2,
+      "explanation": "T. S. Burt drew attention to the overgrown temples in 1838, in the 19th century."
+    },
+    {
+      "id": "khajuraho-q26",
+      "difficulty": "hard",
+      "q": "The Chausath Yogini Temple at Khajuraho is notable for being which of the following?",
+      "options": ["The tallest temple", "One of the oldest surviving temples, built of granite", "Dedicated to the Buddha", "A Mughal-era addition"],
+      "answer": 1,
+      "explanation": "The Chausath Yogini Temple is among the oldest at the site and is built of granite rather than sandstone."
+    },
+    {
+      "id": "khajuraho-q27",
+      "difficulty": "hard",
+      "q": "The Parsvanatha Temple, the largest in the Eastern group, belongs to which religious tradition?",
+      "options": ["Shaiva Hindu", "Vaishnava Hindu", "Jain", "Buddhist"],
+      "answer": 2,
+      "explanation": "The Parsvanatha Temple is a Jain temple and the largest of the Eastern group."
+    },
+    {
+      "id": "khajuraho-q28",
+      "difficulty": "hard",
+      "q": "What was the approximate height of the towering shikhara of the Kandariya Mahadeva Temple?",
+      "options": ["About 6 metres", "About 70 metres", "About 31 metres", "About 100 metres"],
+      "answer": 2,
+      "explanation": "The Kandariya Mahadeva's shikhara rises about 31 metres (roughly 102 feet) above the base."
+    },
+    {
+      "id": "khajuraho-q29",
+      "difficulty": "hard",
+      "q": "The clustered miniature spires that rise around a Khajuraho temple's main shikhara are called what?",
+      "options": ["Gavakshas", "Amalakas", "Urushringas", "Kalashas"],
+      "answer": 2,
+      "explanation": "The smaller subsidiary spires clustered around the main shikhara are known as urushringas."
+    },
+    {
+      "id": "khajuraho-q30",
+      "difficulty": "hard",
+      "q": "After the decline of the Chandelas, Khajuraho's remote location largely helped the temples to do what?",
+      "options": ["Become a major pilgrimage market", "Survive widespread destruction by being forgotten in dense forest", "Be converted into a fort", "Be rebuilt in marble"],
+      "answer": 1,
+      "explanation": "Their remoteness and jungle cover helped many temples survive, hidden until rediscovery in the 19th century."
+    }
+  ]
+}

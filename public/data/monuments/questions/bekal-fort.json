@@ -1,0 +1,245 @@
+{
+  "cardId": "bekal-fort",
+  "questions": [
+    {
+      "id": "bekal-fort-q01",
+      "difficulty": "easy",
+      "q": "In which Indian state is Bekal Fort located?",
+      "options": ["Kerala", "Karnataka", "Goa", "Tamil Nadu"],
+      "answer": 0,
+      "explanation": "Bekal Fort stands on the coast of the Kasaragod district in the northern part of Kerala."
+    },
+    {
+      "id": "bekal-fort-q02",
+      "difficulty": "easy",
+      "q": "Bekal Fort overlooks which body of water?",
+      "options": ["Bay of Bengal", "Indian Ocean", "Arabian Sea", "Laccadive Lagoon"],
+      "answer": 2,
+      "explanation": "The fort sits on a headland projecting into the Arabian Sea along Kerala's western coast."
+    },
+    {
+      "id": "bekal-fort-q03",
+      "difficulty": "easy",
+      "q": "What distinctive shape is Bekal Fort famous for?",
+      "options": ["Star shape", "Triangle shape", "Keyhole shape", "Circular ring"],
+      "answer": 2,
+      "explanation": "Bekal Fort is renowned for its large keyhole-shaped layout when viewed from above."
+    },
+    {
+      "id": "bekal-fort-q04",
+      "difficulty": "easy",
+      "q": "What is the primary building material of Bekal Fort?",
+      "options": ["Laterite", "White marble", "Red sandstone", "Granite blocks"],
+      "answer": 0,
+      "explanation": "The fort is built largely from laterite, a reddish stone abundant in coastal Kerala."
+    },
+    {
+      "id": "bekal-fort-q05",
+      "difficulty": "easy",
+      "q": "Bekal Fort is located in which district of Kerala?",
+      "options": ["Kannur", "Kozhikode", "Kasaragod", "Wayanad"],
+      "answer": 2,
+      "explanation": "Bekal Fort lies in the Kasaragod district, the northernmost district of Kerala."
+    },
+    {
+      "id": "bekal-fort-q06",
+      "difficulty": "easy",
+      "q": "What is the most prominent surviving structure inside Bekal Fort?",
+      "options": ["A grand palace", "A clock tower", "A lighthouse beacon", "A tall observation tower"],
+      "answer": 3,
+      "explanation": "A large circular observation tower is the fort's most prominent feature, offering sweeping views of the sea."
+    },
+    {
+      "id": "bekal-fort-q07",
+      "difficulty": "easy",
+      "q": "Bekal Fort is best described as which type of fort?",
+      "options": ["A hill fort deep inland", "A desert fort", "A coastal sea fort", "A forest fort"],
+      "answer": 2,
+      "explanation": "Bekal is a coastal fort built on a rocky headland to guard the Arabian Sea shoreline."
+    },
+    {
+      "id": "bekal-fort-q08",
+      "difficulty": "easy",
+      "q": "Bekal Fort is considered one of the largest forts in which region of India?",
+      "options": ["North India", "Rajasthan", "Northeast India", "Kerala"],
+      "answer": 3,
+      "explanation": "Bekal is among the largest and best-preserved forts in Kerala."
+    },
+    {
+      "id": "bekal-fort-q09",
+      "difficulty": "easy",
+      "q": "Which feature of Bekal Fort allowed defenders to spot approaching ships and threats?",
+      "options": ["Underground tunnels", "A moated drawbridge", "The observation tower", "Glass windows"],
+      "answer": 2,
+      "explanation": "The observation tower gave a commanding lookout over the surrounding sea and land."
+    },
+    {
+      "id": "bekal-fort-q10",
+      "difficulty": "easy",
+      "q": "What color is Bekal Fort's stonework, owing to its laterite construction?",
+      "options": ["Pure white", "Reddish-brown", "Jet black", "Bright blue"],
+      "answer": 1,
+      "explanation": "Laterite gives the fort its characteristic reddish-brown hue."
+    },
+    {
+      "id": "bekal-fort-q11",
+      "difficulty": "medium",
+      "q": "Which ruler is most credited with building Bekal Fort in its present form in the 17th century?",
+      "options": ["Tipu Sultan", "Shivaji Bhonsle", "Krishnadevaraya", "Shivappa Nayaka of Bednore (Keladi)"],
+      "answer": 3,
+      "explanation": "Bekal Fort is generally attributed to Shivappa Nayaka of the Keladi (Bednore) Nayaka dynasty around the mid-17th century."
+    },
+    {
+      "id": "bekal-fort-q12",
+      "difficulty": "medium",
+      "q": "The Keladi Nayakas who built Bekal Fort were originally feudatories of which empire?",
+      "options": ["The Vijayanagara Empire", "The Mughal Empire", "The Maratha Empire", "The Chola Empire"],
+      "answer": 0,
+      "explanation": "The Keladi (Nayaka) rulers began as governors under the Vijayanagara Empire before becoming independent."
+    },
+    {
+      "id": "bekal-fort-q13",
+      "difficulty": "medium",
+      "q": "In which century did Bekal Fort take its present form?",
+      "options": ["12th century", "19th century", "17th century", "20th century"],
+      "answer": 2,
+      "explanation": "The fort as it stands today was constructed in the mid-17th century by the Keladi Nayakas."
+    },
+    {
+      "id": "bekal-fort-q14",
+      "difficulty": "medium",
+      "q": "After the Keladi Nayakas, which Mysore rulers gained control of Bekal Fort in the late 18th century?",
+      "options": ["The Wadiyars", "The Peshwas", "The Nizams of Hyderabad", "Hyder Ali and Tipu Sultan"],
+      "answer": 3,
+      "explanation": "Bekal Fort came under the control of Hyder Ali and later his son Tipu Sultan of Mysore."
+    },
+    {
+      "id": "bekal-fort-q15",
+      "difficulty": "medium",
+      "q": "After the defeat of Tipu Sultan in 1799, control of Bekal Fort passed to whom?",
+      "options": ["The Portuguese", "The Dutch", "The British East India Company", "The French"],
+      "answer": 2,
+      "explanation": "Following Tipu Sultan's fall in 1799, the fort came under British East India Company control."
+    },
+    {
+      "id": "bekal-fort-q16",
+      "difficulty": "medium",
+      "q": "A small mosque located near Bekal Fort is associated by tradition with which Mysore ruler?",
+      "options": ["Aurangzeb", "Akbar", "Tipu Sultan", "Babur"],
+      "answer": 2,
+      "explanation": "A mosque near the fort is traditionally linked to Tipu Sultan, who is said to have had it built during his time in the region."
+    },
+    {
+      "id": "bekal-fort-q17",
+      "difficulty": "medium",
+      "q": "Which Hindu temple stands just outside the entrance of Bekal Fort?",
+      "options": ["Anjaneya (Hanuman) temple", "Padmanabhaswamy temple", "Guruvayur temple", "Sabarimala shrine"],
+      "answer": 0,
+      "explanation": "An old Anjaneya (Hanuman) temple stands near the fort's entrance, predating much of the present structure."
+    },
+    {
+      "id": "bekal-fort-q18",
+      "difficulty": "medium",
+      "q": "Holes in the fort's outer walls served what defensive purpose?",
+      "options": ["Drainage of rainwater only", "Ventilation for stables", "Decorative carving", "Slots for cannon and musket fire"],
+      "answer": 3,
+      "explanation": "The walls feature openings designed for firing cannons and muskets at attackers approaching by land or sea."
+    },
+    {
+      "id": "bekal-fort-q19",
+      "difficulty": "medium",
+      "q": "Bekal Fort and its surrounding beach were popularized in Indian cinema by a famous song sequence from which 1990s Mani Ratnam film?",
+      "options": ["Roja", "Bombay", "Dil Se", "Guru"],
+      "answer": 1,
+      "explanation": "The song 'Uyire' (Tu Hi Re) from the 1995 film Bombay was famously shot at Bekal Fort beach."
+    },
+    {
+      "id": "bekal-fort-q20",
+      "difficulty": "medium",
+      "q": "Which government agency is primarily responsible for the protection of Bekal Fort as a monument of national importance?",
+      "options": ["UNESCO", "The Forest Department of Kerala", "The Archaeological Survey of India", "The Indian Navy"],
+      "answer": 2,
+      "explanation": "Bekal Fort is a centrally protected monument maintained by the Archaeological Survey of India."
+    },
+    {
+      "id": "bekal-fort-q21",
+      "difficulty": "medium",
+      "q": "Why was the observation tower at Bekal built with thick walls and a wide base?",
+      "options": ["To store grain only", "To serve as a royal bedroom", "To collect rainwater", "To mount cannons and withstand artillery"],
+      "answer": 3,
+      "explanation": "The robust, thick-walled tower was designed to mount artillery and serve as a strong defensive lookout."
+    },
+    {
+      "id": "bekal-fort-q22",
+      "difficulty": "medium",
+      "q": "Which feature near Bekal Fort connected the interior to the sea, aiding escape or supply?",
+      "options": ["A cable car", "A tunnel/passage believed to lead toward the sea", "A railway track", "A canal lock"],
+      "answer": 1,
+      "explanation": "The fort is associated with a tunnel-like passage said to lead toward the sea, a common defensive feature."
+    },
+    {
+      "id": "bekal-fort-q23",
+      "difficulty": "hard",
+      "q": "The name of the dynasty most associated with building Bekal Fort, the Keladi Nayakas, is also known by which alternative name?",
+      "options": ["The Ikkeri/Bednore Nayakas", "The Madurai Nayakas", "The Thanjavur Nayakas", "The Gingee Nayakas"],
+      "answer": 0,
+      "explanation": "The Keladi Nayakas are also called the Ikkeri or Bednore Nayakas, after their later capitals."
+    },
+    {
+      "id": "bekal-fort-q24",
+      "difficulty": "hard",
+      "q": "Before the Keladi Nayakas fortified Bekal, the area had been under the influence of which local Kerala dynasty?",
+      "options": ["The Zamorins of Calicut", "The Kolathiri (Chirakkal) rajas", "The Travancore royal family", "The Cochin royal family"],
+      "answer": 1,
+      "explanation": "The Bekal region had been part of the domain of the Kolathiri (Chirakkal) rajas before the Nayaka conquest."
+    },
+    {
+      "id": "bekal-fort-q25",
+      "difficulty": "hard",
+      "q": "Bekal Fort lies close to which small town that shares part of its name with the fort?",
+      "options": ["Pallikkara", "Bekal town", "Nileshwaram", "Kanhangad"],
+      "answer": 1,
+      "explanation": "The fort sits beside the village of Bekal, from which it takes its name, near Pallikkara in Kasaragod."
+    },
+    {
+      "id": "bekal-fort-q26",
+      "difficulty": "hard",
+      "q": "Which feature of Bekal's design reflects its purpose as a purely military and strategic structure rather than a residential palace?",
+      "options": ["Lavish marble halls and gardens", "Absence of grand palatial residences within the walls", "A large pleasure lake", "Ornate mirror-work ceilings"],
+      "answer": 1,
+      "explanation": "Bekal lacks elaborate palaces inside, underscoring that it was built chiefly for defense and observation."
+    },
+    {
+      "id": "bekal-fort-q27",
+      "difficulty": "hard",
+      "q": "Bekal Fort has been developed as a flagship project under which tourism initiative in Kerala?",
+      "options": ["The Bekal Resorts Development Corporation (BRDC)", "Incredible India trust fund", "The Kerala Backwaters Authority", "The Spice Route Project only"],
+      "answer": 0,
+      "explanation": "The Bekal Resorts Development Corporation (BRDC) was set up by the Kerala government to develop the fort and surrounding area as a tourism hub."
+    },
+    {
+      "id": "bekal-fort-q28",
+      "difficulty": "hard",
+      "q": "What strategic advantage did the headland location of Bekal Fort provide to its rulers?",
+      "options": ["Control over inland mountain passes", "Command of coastal maritime trade and sea approaches", "Access to gold mines", "Proximity to the Mughal capital"],
+      "answer": 1,
+      "explanation": "Perched on a sea-facing headland, the fort commanded coastal trade routes and guarded against seaborne attack."
+    },
+    {
+      "id": "bekal-fort-q29",
+      "difficulty": "hard",
+      "q": "Why is laterite considered a particularly suitable building material for a coastal fort like Bekal?",
+      "options": ["It is transparent and lightweight", "It is soft when quarried and hardens on exposure to air", "It floats on water", "It conducts electricity"],
+      "answer": 1,
+      "explanation": "Laterite can be cut easily when freshly quarried and hardens durably on exposure to air, making it ideal for thick fort walls."
+    },
+    {
+      "id": "bekal-fort-q30",
+      "difficulty": "hard",
+      "q": "The approximate area enclosed by Bekal Fort makes it notable for which reason among Kerala's forts?",
+      "options": ["It is the smallest fort in Kerala", "It is one of the largest forts in Kerala by area", "It is an entirely underwater fort", "It is a fort made of timber"],
+      "answer": 1,
+      "explanation": "Covering roughly 40 acres, Bekal is one of the largest forts in Kerala."
+    }
+  ]
+}

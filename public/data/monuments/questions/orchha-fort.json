@@ -1,0 +1,245 @@
+{
+  "cardId": "orchha-fort",
+  "questions": [
+    {
+      "id": "orchha-fort-q01",
+      "difficulty": "easy",
+      "q": "In which Indian state is Orchha Fort located?",
+      "options": ["Madhya Pradesh", "Rajasthan", "Uttar Pradesh", "Gujarat"],
+      "answer": 0,
+      "explanation": "Orchha and its fort complex lie in the Niwari district of Madhya Pradesh."
+    },
+    {
+      "id": "orchha-fort-q02",
+      "difficulty": "easy",
+      "q": "On the banks of which river does the Orchha Fort complex stand?",
+      "options": ["Narmada", "Chambal", "Betwa", "Tapti"],
+      "answer": 2,
+      "explanation": "The fort-palace and royal cenotaphs of Orchha are set along the Betwa River."
+    },
+    {
+      "id": "orchha-fort-q03",
+      "difficulty": "easy",
+      "q": "Which dynasty built and ruled from Orchha Fort?",
+      "options": ["Bundela", "Chauhan", "Chola", "Pala"],
+      "answer": 0,
+      "explanation": "Orchha was the capital of the Bundela Rajput kings who built the fort complex."
+    },
+    {
+      "id": "orchha-fort-q04",
+      "difficulty": "easy",
+      "q": "The most famous palace within Orchha Fort is named after which Mughal emperor?",
+      "options": ["Akbar", "Shah Jahan", "Jahangir", "Aurangzeb"],
+      "answer": 2,
+      "explanation": "The Jahangir Mahal was built in honour of Mughal emperor Jahangir."
+    },
+    {
+      "id": "orchha-fort-q05",
+      "difficulty": "easy",
+      "q": "What type of monument is Orchha Fort best described as?",
+      "options": ["A rock-cut cave temple", "A freestanding minaret", "A stepwell", "A fort-palace complex"],
+      "answer": 3,
+      "explanation": "Orchha Fort is a complex of fortified palaces and temples rather than a single structure."
+    },
+    {
+      "id": "orchha-fort-q06",
+      "difficulty": "easy",
+      "q": "Roughly in which century was the town of Orchha founded and its fort begun?",
+      "options": ["16th century", "8th century", "19th century", "12th century"],
+      "answer": 0,
+      "explanation": "Orchha was founded by the Bundelas in the early 16th century."
+    },
+    {
+      "id": "orchha-fort-q07",
+      "difficulty": "easy",
+      "q": "The riverside memorial structures of the Bundela kings at Orchha are known as what?",
+      "options": ["Cenotaphs (chhatris)", "Stupas", "Pagodas", "Ziggurats"],
+      "answer": 0,
+      "explanation": "Rows of domed cenotaphs, or chhatris, line the Betwa as royal memorials."
+    },
+    {
+      "id": "orchha-fort-q08",
+      "difficulty": "easy",
+      "q": "Which broad architectural tradition does Orchha Fort represent?",
+      "options": ["Gothic Revival", "Rajput-Mughal (Bundela) architecture", "Greco-Roman", "Dravidian temple architecture"],
+      "answer": 1,
+      "explanation": "Orchha blends Rajput and Mughal elements in the distinctive Bundela style."
+    },
+    {
+      "id": "orchha-fort-q09",
+      "difficulty": "easy",
+      "q": "Orchha Fort is most closely associated with the worship of which deity in its town temples?",
+      "options": ["Rama", "Shiva", "Surya", "Ganesha"],
+      "answer": 0,
+      "explanation": "Orchha is famous for its devotion to Lord Rama, worshipped as a king at the Ram Raja Temple."
+    },
+    {
+      "id": "orchha-fort-q10",
+      "difficulty": "easy",
+      "q": "What was Orchha to the Bundela kingdom?",
+      "options": ["Its capital", "A border watchtower only", "A trading port", "A pilgrimage rest house"],
+      "answer": 0,
+      "explanation": "Orchha served as the capital of the Bundela kingdom for centuries."
+    },
+    {
+      "id": "orchha-fort-q11",
+      "difficulty": "medium",
+      "q": "Which Bundela ruler is credited with founding Orchha in the early 16th century?",
+      "options": ["Bir Singh Deo", "Madhukar Shah", "Rudra Pratap Singh", "Hardaul"],
+      "answer": 2,
+      "explanation": "Rudra Pratap Singh founded Orchha around 1501 and began its fortification."
+    },
+    {
+      "id": "orchha-fort-q12",
+      "difficulty": "medium",
+      "q": "Who built the Jahangir Mahal to commemorate the Mughal emperor's visit to Orchha?",
+      "options": ["Rudra Pratap Singh", "Raja Bir Singh Deo", "Chhatrasal", "Madhukar Shah"],
+      "answer": 1,
+      "explanation": "Raja Bir Singh Deo, a close ally of Jahangir, built the palace in his honour."
+    },
+    {
+      "id": "orchha-fort-q13",
+      "difficulty": "medium",
+      "q": "The Jahangir Mahal was built to mark which event?",
+      "options": ["The defeat of the Marathas", "A state visit by Emperor Jahangir to Orchha", "The signing of a trade treaty with the British", "The completion of the Betwa canal"],
+      "answer": 1,
+      "explanation": "It was constructed to welcome Jahangir on his visit to Orchha in the early 17th century."
+    },
+    {
+      "id": "orchha-fort-q14",
+      "difficulty": "medium",
+      "q": "Which older palace within the Orchha Fort complex is known for its vivid Bundela wall paintings?",
+      "options": ["Hawa Mahal", "Sheesh Mahal of Amber", "Raja Mahal", "Rang Mahal of Delhi"],
+      "answer": 2,
+      "explanation": "The Raja Mahal is celebrated for its richly painted interior murals of gods and court scenes."
+    },
+    {
+      "id": "orchha-fort-q15",
+      "difficulty": "medium",
+      "q": "The Sheesh Mahal at Orchha Fort today functions primarily as what?",
+      "options": ["A military barracks", "A grain warehouse", "A railway station", "A heritage hotel"],
+      "answer": 3,
+      "explanation": "A portion of the fort, the Sheesh Mahal, was converted into a heritage hotel."
+    },
+    {
+      "id": "orchha-fort-q16",
+      "difficulty": "medium",
+      "q": "Which towering temple near the fort was begun under Raja Madhukar Shah and his queen to house an idol of Rama?",
+      "options": ["Kandariya Mahadeva", "Chaturbhuj Temple", "Brihadeeswarar Temple", "Dilwara Temple"],
+      "answer": 1,
+      "explanation": "The lofty Chaturbhuj Temple was built to enshrine Rama, though the idol ultimately stayed at the palace."
+    },
+    {
+      "id": "orchha-fort-q17",
+      "difficulty": "medium",
+      "q": "Why is Orchha's Ram Raja Temple considered unusual among Hindu temples?",
+      "options": ["It has no roof", "Rama is worshipped there as a king rather than only as a deity", "It admits no visitors", "It was built underground"],
+      "answer": 1,
+      "explanation": "At Orchha, Rama is venerated as the reigning king, receiving royal honours like a guard of honour."
+    },
+    {
+      "id": "orchha-fort-q18",
+      "difficulty": "medium",
+      "q": "What primary building material gives the Orchha palaces their warm appearance?",
+      "options": ["White marble", "Local sandstone and lime plaster", "Red granite", "Polished basalt"],
+      "answer": 1,
+      "explanation": "The palaces were largely built of local sandstone finished with lime plaster and painted decoration."
+    },
+    {
+      "id": "orchha-fort-q19",
+      "difficulty": "medium",
+      "q": "The royal cenotaphs of Orchha are clustered at which spot along the river?",
+      "options": ["Dashashwamedh Ghat", "Kanchana Ghat on the Betwa", "Har Ki Pauri", "Manikarnika Ghat"],
+      "answer": 1,
+      "explanation": "The chhatris stand at Kanchana Ghat on the banks of the Betwa near Orchha."
+    },
+    {
+      "id": "orchha-fort-q20",
+      "difficulty": "medium",
+      "q": "Which legendary Bundela prince of Orchha is remembered for sacrificing his life and is revered locally?",
+      "options": ["Prithviraj", "Bappa Rawal", "Suraj Mal", "Hardaul"],
+      "answer": 3,
+      "explanation": "Lal Hardaul, a Bundela prince, is honoured in local folklore and shrines around Orchha."
+    },
+    {
+      "id": "orchha-fort-q21",
+      "difficulty": "medium",
+      "q": "Reaching the Jahangir Mahal and Raja Mahal from the town requires crossing what feature?",
+      "options": ["A cable car", "A tunnel under the river", "A multi-arched stone causeway/bridge", "A floating pontoon only"],
+      "answer": 2,
+      "explanation": "An arched stone causeway connects the riverside town to the elevated fort island."
+    },
+    {
+      "id": "orchha-fort-q22",
+      "difficulty": "medium",
+      "q": "What kind of layout characterizes the Jahangir Mahal's design?",
+      "options": ["A circular amphitheatre", "A single long colonnade", "An octagonal tower only", "A symmetrical square plan with corner domes and a central courtyard"],
+      "answer": 3,
+      "explanation": "The Jahangir Mahal has a symmetrical square plan with domed corner pavilions around a courtyard."
+    },
+    {
+      "id": "orchha-fort-q23",
+      "difficulty": "hard",
+      "q": "Which Bundela king of Orchha, ruling in Akbar's era, famously refused the emperor's demand to remove his Vaishnava forehead mark, giving rise to the 'Madhukar Shahi' tilak?",
+      "options": ["Chhatrasal", "Madhukar Shah", "Rudra Pratap Singh", "Bir Singh Deo"],
+      "answer": 1,
+      "explanation": "Raja Madhukar Shah ruled Orchha in Akbar's era and his refusal to remove his tilak made the 'Madhukar Shahi' tilak famous."
+    },
+    {
+      "id": "orchha-fort-q24",
+      "difficulty": "hard",
+      "q": "Raja Bir Singh Deo of Orchha rose to power partly through his association with which Mughal prince, who later became emperor?",
+      "options": ["Prince Khurram (later Shah Jahan)", "Prince Murad", "Prince Salim (later Jahangir)", "Prince Dara Shikoh"],
+      "answer": 2,
+      "explanation": "Bir Singh Deo allied with Prince Salim, and his fortunes rose when Salim became Emperor Jahangir."
+    },
+    {
+      "id": "orchha-fort-q25",
+      "difficulty": "hard",
+      "q": "Bir Singh Deo's loyalty to Prince Salim is famously linked to the killing of which Mughal court figure and historian?",
+      "options": ["Birbal", "Todar Mal", "Faizi", "Abul Fazl"],
+      "answer": 3,
+      "explanation": "On Salim's instigation, Bir Singh Deo ambushed and killed Akbar's minister-historian Abul Fazl."
+    },
+    {
+      "id": "orchha-fort-q26",
+      "difficulty": "hard",
+      "q": "What is the heritage status of the Orchha group of monuments?",
+      "options": ["Inscribed UNESCO World Heritage Site since 1983", "On UNESCO's Tentative List, not yet inscribed", "A natural World Heritage Site", "Delisted from UNESCO"],
+      "answer": 1,
+      "explanation": "Orchha's monuments are on India's UNESCO Tentative List but have not been formally inscribed."
+    },
+    {
+      "id": "orchha-fort-q27",
+      "difficulty": "hard",
+      "q": "After the Bundelas declined, around which 18th-century period was the Orchha state weakened by conflict with which rising power?",
+      "options": ["The Portuguese", "The Marathas", "The Sikhs", "The Ahoms"],
+      "answer": 1,
+      "explanation": "Orchha and the Bundelas faced pressure from the expanding Maratha power in the 18th century."
+    },
+    {
+      "id": "orchha-fort-q28",
+      "difficulty": "hard",
+      "q": "The idol intended for the towering Chaturbhuj Temple ended up enshrined where instead, giving Orchha its unique royal cult of Rama?",
+      "options": ["In a riverside cenotaph", "In the Jahangir Mahal", "In the queen's palace, which became the Ram Raja Temple", "It was never installed anywhere"],
+      "answer": 2,
+      "explanation": "The Rama idol could not be moved from the queen's palace, which became the Ram Raja Temple."
+    },
+    {
+      "id": "orchha-fort-q29",
+      "difficulty": "hard",
+      "q": "A notable architectural feature distinguishing the Jahangir Mahal is its extensive use of what decorative finish on domes and brackets?",
+      "options": ["Stained-glass windows", "Gold-leaf onion domes", "Mirror-mosaic ceilings only", "Glazed blue tilework and projecting chhajja eaves"],
+      "answer": 3,
+      "explanation": "The palace features glazed blue tile accents and overhanging chhajjas typical of Bundela Mughal-influenced design."
+    },
+    {
+      "id": "orchha-fort-q30",
+      "difficulty": "hard",
+      "q": "Which later Bundela hero, born in the Orchha lineage, is renowned for resisting the Mughals under Aurangzeb and founding a separate Bundela state?",
+      "options": ["Hardaul", "Rudra Pratap Singh", "Madhukar Shah", "Chhatrasal"],
+      "answer": 3,
+      "explanation": "Maharaja Chhatrasal, of Bundela descent, fought Aurangzeb and carved out an independent Bundela kingdom."
+    }
+  ]
+}

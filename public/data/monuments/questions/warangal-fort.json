@@ -1,0 +1,245 @@
+{
+  "cardId": "warangal-fort",
+  "questions": [
+    {
+      "id": "warangal-fort-q01",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state is Warangal Fort located?",
+      "options": ["Telangana", "Karnataka", "Andhra Pradesh", "Maharashtra"],
+      "answer": 0,
+      "explanation": "Warangal Fort lies in the city of Warangal in the state of Telangana, in southern India."
+    },
+    {
+      "id": "warangal-fort-q02",
+      "difficulty": "easy",
+      "q": "Warangal Fort was the capital of which medieval dynasty?",
+      "options": ["The Chola dynasty", "The Hoysala dynasty", "The Pallava dynasty", "The Kakatiya dynasty"],
+      "answer": 3,
+      "explanation": "Warangal served as the capital of the Kakatiya dynasty, which ruled much of the Telugu country from there."
+    },
+    {
+      "id": "warangal-fort-q03",
+      "difficulty": "easy",
+      "q": "What is the famous set of carved gateways at Warangal Fort called?",
+      "options": ["Buland Darwaza", "Charminar", "Kakatiya Kala Thoranam", "Rumi Darwaza"],
+      "answer": 2,
+      "explanation": "The ornate carved gateways are known as the Kakatiya Kala Thoranam, or Warangal Gateways."
+    },
+    {
+      "id": "warangal-fort-q04",
+      "difficulty": "easy",
+      "q": "Warangal Fort today is best described as which of the following?",
+      "options": ["A fully intact royal palace", "A ruined fort complex", "An active military base", "A modern museum building"],
+      "answer": 1,
+      "explanation": "Warangal Fort survives as an extensive ruined complex of gateways, walls and scattered stone remains."
+    },
+    {
+      "id": "warangal-fort-q05",
+      "difficulty": "easy",
+      "q": "The carved gateways of Warangal have been adopted as the official emblem of which Indian state?",
+      "options": ["Tamil Nadu", "Kerala", "Telangana", "Odisha"],
+      "answer": 2,
+      "explanation": "The Kakatiya Kala Thoranam features in the official emblem of the state of Telangana."
+    },
+    {
+      "id": "warangal-fort-q06",
+      "difficulty": "easy",
+      "q": "What was the historic name by which the Kakatiya capital city was also known?",
+      "options": ["Hampi", "Tanjavur", "Madurai", "Orugallu"],
+      "answer": 3,
+      "explanation": "The city was historically known as Orugallu (also Ekashila), meaning 'single stone', from which the name Warangal derives."
+    },
+    {
+      "id": "warangal-fort-q07",
+      "difficulty": "easy",
+      "q": "The Kakatiya rulers of Warangal were principally devotees of which Hindu deity?",
+      "options": ["Shiva", "Vishnu", "Brahma", "Surya"],
+      "answer": 0,
+      "explanation": "The Kakatiyas were ardent worshippers of Shiva, and Shaivite temples were central to their capital."
+    },
+    {
+      "id": "warangal-fort-q08",
+      "difficulty": "easy",
+      "q": "How many of the great carved stone gateways (toranas) form the iconic central monument at Warangal Fort?",
+      "options": ["Two", "Four", "Six", "Eight"],
+      "answer": 1,
+      "explanation": "Four grand free-standing stone gateways mark the four cardinal directions at the heart of the fort."
+    },
+    {
+      "id": "warangal-fort-q09",
+      "difficulty": "easy",
+      "q": "Warangal Fort is most closely associated with which other nearby Kakatiya UNESCO-listed monument?",
+      "options": ["The Sun Temple at Konark", "The Ramappa (Rudreshwara) Temple", "The Brihadeeswarar Temple", "The Sanchi Stupa"],
+      "answer": 1,
+      "explanation": "The nearby Ramappa (Rudreshwara) Temple is another celebrated Kakatiya monument and a UNESCO World Heritage Site."
+    },
+    {
+      "id": "warangal-fort-q10",
+      "difficulty": "easy",
+      "q": "What is the primary material of the famous Warangal gateways and the great Shiva temple they once enclosed?",
+      "options": ["Fired brick", "Timber", "White marble", "Carved stone"],
+      "answer": 3,
+      "explanation": "The toranas and the central temple were built and richly carved in stone, the hallmark of Kakatiya craftsmanship."
+    },
+    {
+      "id": "warangal-fort-q11",
+      "difficulty": "medium",
+      "q": "In which century did the Kakatiya dynasty build the major stone structures of Warangal Fort?",
+      "options": ["8th century", "16th century", "13th century", "18th century"],
+      "answer": 2,
+      "explanation": "The great gateways and the Swayambhu temple were largely built in the 13th century under the Kakatiyas."
+    },
+    {
+      "id": "warangal-fort-q12",
+      "difficulty": "medium",
+      "q": "Which Kakatiya ruler, a famous queen, is strongly associated with strengthening and expanding the capital at Warangal?",
+      "options": ["Razia Sultana", "Ahilyabai Holkar", "Rani Lakshmibai", "Rani Rudrama Devi"],
+      "answer": 3,
+      "explanation": "Rudrama Devi, one of the few women to rule a major Indian kingdom, governed from Warangal and consolidated the Kakatiya realm."
+    },
+    {
+      "id": "warangal-fort-q13",
+      "difficulty": "medium",
+      "q": "Which Kakatiya king is generally credited with beginning the fortification of the new capital at Warangal?",
+      "options": ["Krishnadevaraya", "Ganapatideva (Ganapati Deva)", "Raja Raja Chola", "Prithviraj Chauhan"],
+      "answer": 1,
+      "explanation": "Ganapatideva, the long-reigning Kakatiya monarch, shifted and developed the capital at Warangal in the 13th century."
+    },
+    {
+      "id": "warangal-fort-q14",
+      "difficulty": "medium",
+      "q": "Warangal Fort is notable for its defensive layout consisting of how many concentric circuits of walls?",
+      "options": ["A single wall", "Seven concentric walls", "Three concentric walls", "No walls at all"],
+      "answer": 2,
+      "explanation": "The fort was defended by three concentric circular ramparts, an inner stone wall and outer earthen ramparts with a moat."
+    },
+    {
+      "id": "warangal-fort-q15",
+      "difficulty": "medium",
+      "q": "The great temple that once stood at the centre of the four gateways was dedicated to which form of the deity?",
+      "options": ["Venkateshwara", "Jagannath", "Swayambhu Shiva", "Ranganatha"],
+      "answer": 2,
+      "explanation": "The central shrine was the Swayambhu (self-manifested) Shiva temple, the spiritual heart of the Kakatiya capital."
+    },
+    {
+      "id": "warangal-fort-q16",
+      "difficulty": "medium",
+      "q": "Under which Kakatiya ruler did the kingdom, centred on Warangal, reach its greatest territorial extent in the early 14th century?",
+      "options": ["Samudragupta", "Bukka Raya", "Harsha", "Prataparudra II"],
+      "answer": 3,
+      "explanation": "Prataparudra II ruled at the dynasty's peak before the kingdom fell to the Delhi Sultanate's invasions."
+    },
+    {
+      "id": "warangal-fort-q17",
+      "difficulty": "medium",
+      "q": "Which northern sultanate's armies conquered Warangal and ended Kakatiya rule in 1323?",
+      "options": ["The Bahmani Sultanate", "The Mughal Empire", "The Maratha Confederacy", "The Delhi Sultanate (Tughlaqs)"],
+      "answer": 3,
+      "explanation": "Forces of the Delhi Sultanate under the Tughlaqs captured Warangal in 1323, ending the Kakatiya dynasty."
+    },
+    {
+      "id": "warangal-fort-q18",
+      "difficulty": "medium",
+      "q": "What does the historic name 'Ekashila Nagaram' for the Kakatiya capital refer to?",
+      "options": ["A river city", "The single-stone (rock) city", "A city of a thousand pillars", "A coastal port"],
+      "answer": 1,
+      "explanation": "Ekashila means 'single stone', referring to the large rock outcrop associated with the city, echoed in the name Orugallu."
+    },
+    {
+      "id": "warangal-fort-q19",
+      "difficulty": "medium",
+      "q": "The carved Warangal gateways are described as 'kirti toranas', a term meaning gateways of what?",
+      "options": ["Mourning", "Trade", "Glory or fame", "Defence"],
+      "answer": 2,
+      "explanation": "Kirti torana means a 'gateway of glory/fame', a ceremonial ornamental arch celebrating the dynasty's achievements."
+    },
+    {
+      "id": "warangal-fort-q20",
+      "difficulty": "medium",
+      "q": "Besides Warangal, the Kakatiya engineering legacy includes large irrigation works of what kind across their realm?",
+      "options": ["Sea harbours", "Tanks and reservoirs (cheruvus)", "Mountain tunnels", "Canals to the Himalayas"],
+      "answer": 1,
+      "explanation": "The Kakatiyas built an extensive network of irrigation tanks and reservoirs, several of which still serve Telangana today."
+    },
+    {
+      "id": "warangal-fort-q21",
+      "difficulty": "medium",
+      "q": "Within the Warangal Fort precincts stands a well-known later temple complex dedicated to which goddess?",
+      "options": ["Meenakshi", "Kamakhya", "Bhadrakali", "Vaishno Devi"],
+      "answer": 2,
+      "explanation": "The Bhadrakali Temple near the fort area is a renowned shrine long associated with the Warangal region."
+    },
+    {
+      "id": "warangal-fort-q22",
+      "difficulty": "medium",
+      "q": "The Kakatiya craftsmen of Warangal also produced which other famous nearby monument celebrated for its dancing-figure carvings?",
+      "options": ["The Khajuraho temples", "The Ramappa Temple's carved brackets", "The Ellora Kailasa", "The Dilwara temples"],
+      "answer": 1,
+      "explanation": "The same Kakatiya artistic tradition produced the Ramappa Temple, famous for its black-stone bracket figures of dancers."
+    },
+    {
+      "id": "warangal-fort-q23",
+      "difficulty": "hard",
+      "q": "The Kakatiya Kala Thoranam gateways stylistically influenced the entrance arches of which later South Indian empire's temples?",
+      "options": ["The Gupta Empire", "The Satavahana dynasty", "The Sena dynasty", "The Vijayanagara Empire"],
+      "answer": 3,
+      "explanation": "Scholars note the Warangal toranas influenced ornamental gateway design later seen in Vijayanagara temple architecture."
+    },
+    {
+      "id": "warangal-fort-q24",
+      "difficulty": "hard",
+      "q": "Which Kakatiya ruler is traditionally credited as the dynasty's effective founder who first asserted independence in the 12th century?",
+      "options": ["Prola II / Rudradeva", "Pulakeshin II", "Mahendravarman", "Vishnuvardhana"],
+      "answer": 0,
+      "explanation": "Prola II and his successor Rudradeva are credited with establishing Kakatiya sovereignty in the 12th century."
+    },
+    {
+      "id": "warangal-fort-q25",
+      "difficulty": "hard",
+      "q": "The Kakatiyas of Warangal had earlier been feudatories of which imperial dynasty before becoming independent?",
+      "options": ["The Mauryas", "The Western Chalukyas of Kalyani", "The Cheras", "The Pandyas"],
+      "answer": 1,
+      "explanation": "The Kakatiyas began as subordinates of the Western (Kalyani) Chalukyas before asserting their own rule."
+    },
+    {
+      "id": "warangal-fort-q26",
+      "difficulty": "hard",
+      "q": "After the 1323 conquest, what name did the Delhi Sultanate give to the captured city of Warangal?",
+      "options": ["Daulatabad", "Firozabad", "Sultanpur", "Jahanpanah"],
+      "answer": 2,
+      "explanation": "Following its capture, the Delhi Sultanate renamed Warangal as Sultanpur in honour of the ruling sultan."
+    },
+    {
+      "id": "warangal-fort-q27",
+      "difficulty": "hard",
+      "q": "The famed Koh-i-Noor diamond is, by one widely cited tradition, linked to which dynasty's treasury at Warangal?",
+      "options": ["The Maurya dynasty", "The Pala dynasty", "The Chera dynasty", "The Kakatiya dynasty"],
+      "answer": 3,
+      "explanation": "A persistent tradition holds that the Koh-i-Noor came from the Kakatiya treasury and was surrendered after Warangal's fall."
+    },
+    {
+      "id": "warangal-fort-q28",
+      "difficulty": "hard",
+      "q": "Each of the four great Warangal gateways is crowned by a carved feature in the form of what symbolic element?",
+      "options": ["A Mughal dome", "A Gothic spire", "A lotus-and-makara ornamented arch with finials", "A clock tower"],
+      "answer": 2,
+      "explanation": "The toranas are richly carved with lotus motifs, mythical makaras and finials in classic Kakatiya decorative style."
+    },
+    {
+      "id": "warangal-fort-q29",
+      "difficulty": "hard",
+      "q": "The architecture of the Warangal central temple and gateways belongs broadly to which regional temple-building tradition?",
+      "options": ["The Deccan Vesara / Kakatiya-Chalukyan style", "The Nagara style of Odisha", "The Dravida style of Tamil Nadu only", "The Indo-Saracenic style"],
+      "answer": 0,
+      "explanation": "Kakatiya architecture is a Deccan tradition blending Chalukyan (Vesara) features with distinctive local innovations."
+    },
+    {
+      "id": "warangal-fort-q30",
+      "difficulty": "hard",
+      "q": "Which monument associated with the Kakatiyas, found near Warangal at Hanamkonda, preserves inscriptions recording the dynasty's patronage?",
+      "options": ["The Ashokan rock edicts", "The Thousand Pillar Temple", "The Aihole inscription", "The Allahabad pillar"],
+      "answer": 1,
+      "explanation": "The Kakatiya Thousand Pillar Temple at nearby Hanamkonda preserves inscriptions documenting the dynasty's patronage."
+    }
+  ]
+}

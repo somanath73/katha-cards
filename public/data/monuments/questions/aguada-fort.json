@@ -1,0 +1,245 @@
+{
+  "cardId": "aguada-fort",
+  "questions": [
+    {
+      "id": "aguada-fort-q01",
+      "difficulty": "easy",
+      "q": "In which Indian state is Fort Aguada located?",
+      "options": ["Kerala", "Maharashtra", "Karnataka", "Goa"],
+      "answer": 3,
+      "explanation": "Fort Aguada stands on the coast of Goa, on India's western seaboard."
+    },
+    {
+      "id": "aguada-fort-q02",
+      "difficulty": "easy",
+      "q": "Which European colonial power built Fort Aguada?",
+      "options": ["The British", "The French", "The Portuguese", "The Dutch"],
+      "answer": 2,
+      "explanation": "Fort Aguada was built by the Portuguese, who ruled Goa for over four centuries."
+    },
+    {
+      "id": "aguada-fort-q03",
+      "difficulty": "easy",
+      "q": "In which century was Fort Aguada constructed?",
+      "options": ["The 15th century", "The 13th century", "The 19th century", "The 17th century"],
+      "answer": 3,
+      "explanation": "Construction of Fort Aguada began in 1612, making it a 17th-century structure."
+    },
+    {
+      "id": "aguada-fort-q04",
+      "difficulty": "easy",
+      "q": "The river mouth that Fort Aguada was built to guard is that of which river?",
+      "options": ["The Mandovi River", "The Krishna River", "The Godavari River", "The Zuari River"],
+      "answer": 0,
+      "explanation": "Fort Aguada guards the mouth of the Mandovi River, a key approach to Old Goa."
+    },
+    {
+      "id": "aguada-fort-q05",
+      "difficulty": "easy",
+      "q": "Fort Aguada is most famous as a coastal fort and what other type of structure?",
+      "options": ["A palace", "A temple", "A lighthouse", "A railway station"],
+      "answer": 2,
+      "explanation": "Fort Aguada is renowned for housing a lighthouse alongside its defensive fortifications."
+    },
+    {
+      "id": "aguada-fort-q06",
+      "difficulty": "easy",
+      "q": "What does the Portuguese name 'Aguada' refer to?",
+      "options": ["A battle", "A saint", "A king", "A watering place or water source"],
+      "answer": 3,
+      "explanation": "'Aguada' comes from the Portuguese word for water; the fort had a freshwater spring used to replenish passing ships."
+    },
+    {
+      "id": "aguada-fort-q07",
+      "difficulty": "easy",
+      "q": "Fort Aguada overlooks which body of water?",
+      "options": ["The Bay of Bengal", "The Indian Ocean off the east coast", "The Arabian Sea", "Chilika Lake"],
+      "answer": 2,
+      "explanation": "Fort Aguada sits on Goa's west coast, overlooking the Arabian Sea."
+    },
+    {
+      "id": "aguada-fort-q08",
+      "difficulty": "easy",
+      "q": "Which two enemy forces was Fort Aguada chiefly built to defend Goa against?",
+      "options": ["The British and the French", "The Mughals and the Sikhs", "The Cholas and the Pandyas", "The Dutch and the Marathas"],
+      "answer": 3,
+      "explanation": "The fort was raised primarily to protect Portuguese Goa from the Dutch and the Marathas."
+    },
+    {
+      "id": "aguada-fort-q09",
+      "difficulty": "easy",
+      "q": "What was the main practical service that ships received at Aguada, giving the fort its name?",
+      "options": ["Refuelling with coal", "Repairing sails", "Replenishing fresh water", "Loading spices"],
+      "answer": 2,
+      "explanation": "Passing ships stopped at Aguada to take on fresh drinking water, the activity that gave the fort its name."
+    },
+    {
+      "id": "aguada-fort-q10",
+      "difficulty": "easy",
+      "q": "Fort Aguada is located near which popular beach belt of North Goa?",
+      "options": ["The Sinquerim and Candolim area", "The Palolem area", "The Colva area", "The Agonda area"],
+      "answer": 0,
+      "explanation": "Fort Aguada lies on the headland near Sinquerim and Candolim beaches in North Goa."
+    },
+    {
+      "id": "aguada-fort-q11",
+      "difficulty": "medium",
+      "q": "In which year did construction of Fort Aguada begin?",
+      "options": ["1565", "1700", "1498", "1612"],
+      "answer": 3,
+      "explanation": "Work on Fort Aguada started in 1612 under the Portuguese administration of Goa."
+    },
+    {
+      "id": "aguada-fort-q12",
+      "difficulty": "medium",
+      "q": "Which locally quarried stone forms the bulk of Fort Aguada's walls?",
+      "options": ["White marble", "Granite", "Limestone blocks imported from Europe", "Laterite"],
+      "answer": 3,
+      "explanation": "The fort is built mainly of reddish laterite stone, which is abundant in coastal Goa."
+    },
+    {
+      "id": "aguada-fort-q13",
+      "difficulty": "medium",
+      "q": "The four-storey lighthouse at Fort Aguada, built in 1864, is notable as one of the oldest of its kind in which region?",
+      "options": ["Europe", "Africa", "Asia", "The Americas"],
+      "answer": 2,
+      "explanation": "Erected in 1864, the Aguada lighthouse is regarded as one of the oldest of its kind in Asia."
+    },
+    {
+      "id": "aguada-fort-q14",
+      "difficulty": "medium",
+      "q": "Fort Aguada is divided into two main parts: an upper fort and what?",
+      "options": ["A lower fort and bastion by the sea", "An island temple", "A floating dock", "A hill palace"],
+      "answer": 0,
+      "explanation": "The complex comprises an upper fort on the hill and a lower fort with a bastion serving as a safe berth near the sea."
+    },
+    {
+      "id": "aguada-fort-q15",
+      "difficulty": "medium",
+      "q": "A large freshwater reservoir inside Fort Aguada was important for what reason during sieges?",
+      "options": ["It powered mills", "It was used for boat races", "It cooled cannons", "It stored enough drinking water for the garrison and ships"],
+      "answer": 3,
+      "explanation": "The fort's reservoir could hold a vast quantity of fresh water, vital for the garrison and for resupplying ships."
+    },
+    {
+      "id": "aguada-fort-q16",
+      "difficulty": "medium",
+      "q": "Part of the Fort Aguada complex was used in the 20th century for what purpose?",
+      "options": ["A university", "A spice warehouse", "A central jail (prison)", "A monastery"],
+      "answer": 2,
+      "explanation": "The lower fort area long served as the Aguada Jail, one of Goa's central prisons."
+    },
+    {
+      "id": "aguada-fort-q17",
+      "difficulty": "medium",
+      "q": "During the Portuguese era, Fort Aguada served chiefly as a defence for the approach to which settlement?",
+      "options": ["Mumbai (Bombay)", "Mangalore", "Old Goa (the capital)", "Surat"],
+      "answer": 2,
+      "explanation": "The fort defended the seaward approach up the Mandovi to Old Goa, then the Portuguese capital in the East."
+    },
+    {
+      "id": "aguada-fort-q18",
+      "difficulty": "medium",
+      "q": "Which feature allowed cannon at Fort Aguada to command a wide field of fire over the sea?",
+      "options": ["Underground tunnels", "A retractable bridge to the mainland", "A glass observation dome", "Bastions and a moat with gun positions along the ramparts"],
+      "answer": 3,
+      "explanation": "Sturdy bastions, a dry moat, and numerous gun emplacements along the ramparts gave the fort a commanding field of fire."
+    },
+    {
+      "id": "aguada-fort-q19",
+      "difficulty": "medium",
+      "q": "Fort Aguada is generally regarded as which kind of fortification?",
+      "options": ["A purely inland hill fort", "A small wooden stockade", "A British naval base", "One of the largest and best-preserved Portuguese coastal forts in Goa"],
+      "answer": 3,
+      "explanation": "It is considered among the largest and most intact Portuguese bastioned coastal forts surviving in Goa."
+    },
+    {
+      "id": "aguada-fort-q20",
+      "difficulty": "medium",
+      "q": "Why was the location at the tip of the headland chosen for Fort Aguada?",
+      "options": ["It had gold mines nearby", "It was the highest mountain in Goa", "It commanded the entrance to the Mandovi estuary", "It was the only flat land available"],
+      "answer": 2,
+      "explanation": "The promontory was chosen because it dominates the narrow entrance to the Mandovi estuary, the gateway to Goa's harbour."
+    },
+    {
+      "id": "aguada-fort-q21",
+      "difficulty": "medium",
+      "q": "The lighthouse and fort at Aguada today function primarily as what?",
+      "options": ["An active military missile base", "A working spice exchange", "A functioning royal residence", "A heritage and tourist attraction"],
+      "answer": 3,
+      "explanation": "Fort Aguada is now a major heritage site and tourist attraction overlooking the Goan coast."
+    },
+    {
+      "id": "aguada-fort-q22",
+      "difficulty": "medium",
+      "q": "Which broader category of architecture does Fort Aguada belong to?",
+      "options": ["Mughal garden architecture", "Dravidian temple architecture", "European-style military/bastion fort architecture", "Buddhist rock-cut architecture"],
+      "answer": 2,
+      "explanation": "The fort follows European military engineering principles, with angled bastions typical of post-Renaissance coastal forts."
+    },
+    {
+      "id": "aguada-fort-q23",
+      "difficulty": "hard",
+      "q": "Fort Aguada's freshwater spring was famous for supplying water to ships travelling along which trade route?",
+      "options": ["The Silk Road overland route", "The trans-Saharan caravan route", "The Grand Trunk Road", "The sea route between Europe and the East Indies"],
+      "answer": 3,
+      "explanation": "Aguada's spring replenished European ships plying the maritime route between Portugal and its eastern possessions."
+    },
+    {
+      "id": "aguada-fort-q24",
+      "difficulty": "hard",
+      "q": "The lighthouse at Fort Aguada was first lit in 1864 and originally used what method to display its light?",
+      "options": ["Electric bulbs from the start", "A laser beam", "A rotating mirror powered by steam", "An oil lamp that was later modernised"],
+      "answer": 3,
+      "explanation": "The 1864 lighthouse began with an oil-burning lamp, with its illumination upgraded in later decades."
+    },
+    {
+      "id": "aguada-fort-q25",
+      "difficulty": "hard",
+      "q": "Portuguese rule over Goa, during which Fort Aguada was built and held, finally ended in which year?",
+      "options": ["1947", "1956", "1961", "1971"],
+      "answer": 2,
+      "explanation": "Portuguese rule in Goa, including its forts, ended in 1961 when Goa was incorporated into India."
+    },
+    {
+      "id": "aguada-fort-q26",
+      "difficulty": "hard",
+      "q": "Which design element of Fort Aguada reflects the angled, star-shaped 'bastion fort' style used by Europeans against artillery?",
+      "options": ["Onion domes", "Projecting angular bastions at the corners", "Pagoda-style tiered roofs", "Carved temple gopurams"],
+      "answer": 1,
+      "explanation": "Projecting angular bastions allowed defenders to cover the walls with crossfire, a hallmark of European artillery-era forts."
+    },
+    {
+      "id": "aguada-fort-q27",
+      "difficulty": "hard",
+      "q": "Apart from defending against naval attack, what secondary strategic role did Fort Aguada play for the Portuguese?",
+      "options": ["A frontier post against attacks from the south and a refuge for ships", "A summer palace for viceroys", "A diamond-cutting workshop", "A pilgrimage centre"],
+      "answer": 0,
+      "explanation": "The fort also acted as a strongpoint against southern threats and provided a sheltered anchorage and refuge for Portuguese ships."
+    },
+    {
+      "id": "aguada-fort-q28",
+      "difficulty": "hard",
+      "q": "The lower fort of Aguada, with its bastion reaching the water, was specifically designed to serve as what?",
+      "options": ["A drydock for building ships", "A floating market", "A customs house only", "A protected berth and safe harbour for Portuguese vessels"],
+      "answer": 3,
+      "explanation": "The lower fort's seaside bastion enclosed a protected berth where Portuguese ships could shelter safely."
+    },
+    {
+      "id": "aguada-fort-q29",
+      "difficulty": "hard",
+      "q": "Goa, where Fort Aguada stands, was the centre of Portuguese power in the East under the administration known as what?",
+      "options": ["The Estado da India (State of India)", "The Raj", "The Sultanate of the Deccan", "The Dominion of Ceylon"],
+      "answer": 0,
+      "explanation": "Portuguese Goa was the capital of the Estado da India, Portugal's network of eastern possessions, which the fort helped guard."
+    },
+    {
+      "id": "aguada-fort-q30",
+      "difficulty": "hard",
+      "q": "What naturally limited an enemy fleet's ability to bombard Fort Aguada from close range?",
+      "options": ["A constant fog that never lifted", "An electric fence around the walls", "Its elevated headland position and surrounding shoals commanding the river mouth", "A chain stretched fully across the Arabian Sea"],
+      "answer": 2,
+      "explanation": "Perched on a high headland dominating the narrow river mouth, the fort could fire down on approaching ships before they closed in."
+    }
+  ]
+}

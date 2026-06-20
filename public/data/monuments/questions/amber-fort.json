@@ -1,0 +1,245 @@
+{
+  "cardId": "amber-fort",
+  "questions": [
+    {
+      "id": "amber-fort-q01",
+      "difficulty": "easy",
+      "q": "In which Indian state is Amber Fort located?",
+      "options": ["Gujarat", "Rajasthan", "Madhya Pradesh", "Haryana"],
+      "answer": 1,
+      "explanation": "Amber Fort stands on a hill in Amer, a town in the Indian state of Rajasthan."
+    },
+    {
+      "id": "amber-fort-q02",
+      "difficulty": "easy",
+      "q": "Amber Fort is located near which major city?",
+      "options": ["Jodhpur", "Udaipur", "Bikaner", "Jaipur"],
+      "answer": 3,
+      "explanation": "Amber Fort lies in the town of Amer, about 11 km from Jaipur, the capital of Rajasthan."
+    },
+    {
+      "id": "amber-fort-q03",
+      "difficulty": "easy",
+      "q": "Amber Fort is best known as an example of which type of monument?",
+      "options": ["A Buddhist stupa", "A fort-palace", "A mosque", "A stepwell"],
+      "answer": 1,
+      "explanation": "Amber Fort is famous as a hilltop fort-palace combining defensive ramparts with royal residential palaces."
+    },
+    {
+      "id": "amber-fort-q04",
+      "difficulty": "easy",
+      "q": "Which lake lies below Amber Fort?",
+      "options": ["Pichola Lake", "Pushkar Lake", "Nakki Lake", "Maota Lake"],
+      "answer": 3,
+      "explanation": "Amber Fort overlooks Maota Lake, which served as the main source of water for the fort."
+    },
+    {
+      "id": "amber-fort-q05",
+      "difficulty": "easy",
+      "q": "Which dynasty's rulers built and ruled from Amber Fort?",
+      "options": ["The Mughals", "The Kachhwaha Rajputs", "The Marathas", "The Cholas"],
+      "answer": 1,
+      "explanation": "Amber was the capital of the Kachhwaha (Kachwaha) Rajput rulers before they moved to Jaipur."
+    },
+    {
+      "id": "amber-fort-q06",
+      "difficulty": "easy",
+      "q": "Amber Fort blends Rajput architecture with which other major style?",
+      "options": ["Gothic", "Mughal", "Dravidian", "Colonial"],
+      "answer": 1,
+      "explanation": "Amber Fort is celebrated for its fusion of Rajput and Mughal architectural styles."
+    },
+    {
+      "id": "amber-fort-q07",
+      "difficulty": "easy",
+      "q": "Which animal rides are famously offered to tourists climbing up to Amber Fort?",
+      "options": ["Camels", "Horses", "Elephants", "Donkeys"],
+      "answer": 2,
+      "explanation": "Amber Fort is well known for elephant rides that carry visitors up the hill to the main gate."
+    },
+    {
+      "id": "amber-fort-q08",
+      "difficulty": "easy",
+      "q": "What is the predominant building material that gives Amber Fort its warm tones?",
+      "options": ["White marble only", "Red sandstone and marble", "Granite blocks", "Baked brick"],
+      "answer": 1,
+      "explanation": "Amber Fort is built largely of red sandstone and marble, giving it warm amber and pale hues."
+    },
+    {
+      "id": "amber-fort-q09",
+      "difficulty": "easy",
+      "q": "Amber Fort served as the capital before the rulers shifted to which planned city?",
+      "options": ["Jaipur", "Ajmer", "Kota", "Alwar"],
+      "answer": 0,
+      "explanation": "The Kachhwaha rulers governed from Amber until Sawai Jai Singh II founded the new capital of Jaipur in 1727."
+    },
+    {
+      "id": "amber-fort-q10",
+      "difficulty": "easy",
+      "q": "The town around Amber Fort is most commonly spelled in which way?",
+      "options": ["Amer", "Ambar Nagar", "Ambala", "Ambli"],
+      "answer": 0,
+      "explanation": "The town is spelled Amer, and the fort is also commonly called Amer Fort or Amber Fort."
+    },
+    {
+      "id": "amber-fort-q11",
+      "difficulty": "medium",
+      "q": "Which Kachhwaha ruler is credited with beginning the construction of the present Amber Fort in 1592?",
+      "options": ["Sawai Jai Singh II", "Mirza Raja Jai Singh I", "Raja Man Singh I", "Bharmal"],
+      "answer": 2,
+      "explanation": "Raja Man Singh I, a leading general of Emperor Akbar, began building the present Amber Fort in 1592."
+    },
+    {
+      "id": "amber-fort-q12",
+      "difficulty": "medium",
+      "q": "Raja Man Singh I, who began Amber Fort, served as a trusted general for which Mughal emperor?",
+      "options": ["Babur", "Akbar", "Aurangzeb", "Shah Jahan"],
+      "answer": 1,
+      "explanation": "Raja Man Singh I was one of the Navaratnas (nine gems) and a top military commander in the court of Akbar."
+    },
+    {
+      "id": "amber-fort-q13",
+      "difficulty": "medium",
+      "q": "Which dazzling hall of mirrors inside Amber Fort is famous for its inlaid glass and mirror work?",
+      "options": ["Diwan-i-Aam", "Ganesh Pol", "Sukh Niwas", "Sheesh Mahal"],
+      "answer": 3,
+      "explanation": "The Sheesh Mahal (Mirror Palace) is covered with thousands of tiny mirrors that glitter when light enters."
+    },
+    {
+      "id": "amber-fort-q14",
+      "difficulty": "medium",
+      "q": "Which ornate, painted gateway in Amber Fort is dedicated to the elephant-headed god Ganesha?",
+      "options": ["Suraj Pol", "Chand Pol", "Ganesh Pol", "Jaleb Chowk"],
+      "answer": 2,
+      "explanation": "The Ganesh Pol is a richly painted gate, named after Lord Ganesha, leading to the private royal quarters."
+    },
+    {
+      "id": "amber-fort-q15",
+      "difficulty": "medium",
+      "q": "What is the name of the large open courtyard where elephant riders typically arrive at Amber Fort?",
+      "options": ["Jaleb Chowk", "Anguri Bagh", "Diwan-i-Khas", "Zenana"],
+      "answer": 0,
+      "explanation": "Jaleb Chowk is the main entry courtyard where troops once assembled and where visitors now arrive."
+    },
+    {
+      "id": "amber-fort-q16",
+      "difficulty": "medium",
+      "q": "Which cooling summer pavilion in Amber Fort used channels of flowing water for natural air-conditioning?",
+      "options": ["Sheesh Mahal", "Diwan-i-Aam", "Sukh Niwas", "Sila Devi temple"],
+      "answer": 2,
+      "explanation": "The Sukh Niwas (Hall of Pleasure) used water cascades and channels to keep the rooms cool in hot weather."
+    },
+    {
+      "id": "amber-fort-q17",
+      "difficulty": "medium",
+      "q": "Amber Fort is inscribed on the UNESCO World Heritage List as part of which group of sites?",
+      "options": ["Mountain Railways of India", "Group of Monuments at Hampi", "Western Ghats", "Hill Forts of Rajasthan"],
+      "answer": 3,
+      "explanation": "Amber Fort was inscribed in 2013 under the serial UNESCO World Heritage Site 'Hill Forts of Rajasthan'."
+    },
+    {
+      "id": "amber-fort-q18",
+      "difficulty": "medium",
+      "q": "In which year was Amber Fort inscribed as a UNESCO World Heritage Site within the Hill Forts of Rajasthan?",
+      "options": ["1983", "2002", "2013", "2019"],
+      "answer": 2,
+      "explanation": "The Hill Forts of Rajasthan, including Amber Fort, were inscribed by UNESCO in 2013."
+    },
+    {
+      "id": "amber-fort-q19",
+      "difficulty": "medium",
+      "q": "The hall where the ruler met the general public at Amber Fort is known by which name?",
+      "options": ["Diwan-i-Aam", "Diwan-i-Khas", "Sheesh Mahal", "Anguri Bagh"],
+      "answer": 0,
+      "explanation": "The Diwan-i-Aam (Hall of Public Audience) was where the ruler heard petitions from common people."
+    },
+    {
+      "id": "amber-fort-q20",
+      "difficulty": "medium",
+      "q": "A temple inside Amber Fort is dedicated to which goddess, worshipped by the Kachhwaha rulers?",
+      "options": ["Saraswati", "Lakshmi", "Sila Devi (a form of Kali/Durga)", "Meenakshi"],
+      "answer": 2,
+      "explanation": "The Sila Devi temple, dedicated to a form of Kali/Durga, was a key shrine for the Amber rulers."
+    },
+    {
+      "id": "amber-fort-q21",
+      "difficulty": "medium",
+      "q": "The geometric char bagh style garden set within a courtyard of Amber Fort is called what?",
+      "options": ["Mughal Bagh", "Anguri Bagh", "Shalimar Bagh", "Nishat Bagh"],
+      "answer": 1,
+      "explanation": "Anguri Bagh is a charbagh-style garden laid out between the palaces inside Amber Fort."
+    },
+    {
+      "id": "amber-fort-q22",
+      "difficulty": "medium",
+      "q": "Amber Fort is connected by ramparts and a passage to which fort that overlooks it from a higher hill?",
+      "options": ["Mehrangarh Fort", "Chittorgarh Fort", "Golconda Fort", "Jaigarh Fort"],
+      "answer": 3,
+      "explanation": "Jaigarh Fort stands above Amber on the Cheel ka Teela hill and is linked to it by fortified passages."
+    },
+    {
+      "id": "amber-fort-q23",
+      "difficulty": "hard",
+      "q": "Construction of the Amber Fort palace complex continued and expanded over roughly how long under successive rulers?",
+      "options": ["A few months", "Around 1,000 years", "About 150 years", "Less than ten years"],
+      "answer": 2,
+      "explanation": "Begun in 1592 by Man Singh I, the palace was expanded by later rulers such as Jai Singh I over roughly a century and a half."
+    },
+    {
+      "id": "amber-fort-q24",
+      "difficulty": "hard",
+      "q": "Which later Kachhwaha ruler substantially expanded Amber's palaces, adding structures like the Diwan-i-Aam in the 17th century?",
+      "options": ["Mirza Raja Jai Singh I", "Maharana Pratap", "Sawai Madho Singh", "Prithviraj Chauhan"],
+      "answer": 0,
+      "explanation": "Mirza Raja Jai Singh I (ruled 1621-1667) greatly expanded the palace complex, including the Diwan-i-Aam."
+    },
+    {
+      "id": "amber-fort-q25",
+      "difficulty": "hard",
+      "q": "Before the present 16th-century fort, the Amber site had earlier been associated with which earlier ruling clan?",
+      "options": ["The Meenas", "The Pallavas", "The Hoysalas", "The Satavahanas"],
+      "answer": 0,
+      "explanation": "The Amber region was earlier held by the Meena (Mina) people before the Kachhwahas established their stronghold there."
+    },
+    {
+      "id": "amber-fort-q26",
+      "difficulty": "hard",
+      "q": "A single carved marble panel near the Sukh Niwas at Amber is admired because it depicts what hidden image depending on the viewing angle?",
+      "options": ["A two-headed elephant", "A flower that doubles as a scorpion/cobra hood", "A self-portrait of the king", "A map of Jaipur"],
+      "answer": 1,
+      "explanation": "A famous marble relief at Amber is carved so a flower also reveals other forms such as a cobra's hood and a scorpion when viewed differently."
+    },
+    {
+      "id": "amber-fort-q27",
+      "difficulty": "hard",
+      "q": "Raja Man Singh I, the founder of Amber Fort, is also linked to a major Mughal campaign in which eastern region?",
+      "options": ["Bengal and the east", "Kerala", "Sri Lanka", "Tibet"],
+      "answer": 0,
+      "explanation": "As an Akbari general, Man Singh I served as a governor and led campaigns in Bengal and other eastern regions."
+    },
+    {
+      "id": "amber-fort-q28",
+      "difficulty": "hard",
+      "q": "The Sheesh Mahal at Amber is said to be designed so that the light of how many sources could illuminate the room?",
+      "options": ["Hundreds of electric bulbs", "A single skylight only", "No light at all", "Just a few candles reflected by countless mirrors"],
+      "answer": 3,
+      "explanation": "The Sheesh Mahal's thousands of tiny mirrors were arranged so that the flames of a couple of candles would light up the whole hall."
+    },
+    {
+      "id": "amber-fort-q29",
+      "difficulty": "hard",
+      "q": "The fortified town and palace of Amber takes its name that some link to which association?",
+      "options": ["The colour amber gemstone trade", "Amba/Ambikeshwar, a form of the mother goddess", "An English word brought by traders", "A nearby amber forest"],
+      "answer": 1,
+      "explanation": "The name Amer/Amber is traditionally linked to Amba (Ambikeshwar), a form of the goddess and Lord Shiva, rather than the gemstone."
+    },
+    {
+      "id": "amber-fort-q30",
+      "difficulty": "hard",
+      "q": "Which architectural feature of Amber Fort reflects Rajput defensive planning by controlling the steep approach from Maota Lake?",
+      "options": ["A series of fortified gateways and zigzag ramps", "A moat filled with crocodiles", "A drawbridge over the sea", "Underground tunnels to Delhi"],
+      "answer": 0,
+      "explanation": "Amber's approach is guarded by a sequence of fortified gates and ramps that control and slow any ascent up the hill."
+    }
+  ]
+}

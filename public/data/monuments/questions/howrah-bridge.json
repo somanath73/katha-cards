@@ -1,0 +1,245 @@
+{
+  "cardId": "howrah-bridge",
+  "questions": [
+    {
+      "id": "howrah-bridge-q01",
+      "difficulty": "easy",
+      "q": "Over which river does the Howrah Bridge stand?",
+      "options": ["Ganga (main channel)", "Damodar", "Brahmaputra", "Hooghly"],
+      "answer": 3,
+      "explanation": "The Howrah Bridge spans the Hooghly River, a distributary of the Ganga in West Bengal."
+    },
+    {
+      "id": "howrah-bridge-q02",
+      "difficulty": "easy",
+      "q": "The Howrah Bridge connects Howrah to which major Indian city?",
+      "options": ["Kolkata", "Mumbai", "Chennai", "Patna"],
+      "answer": 0,
+      "explanation": "The bridge links the city of Howrah with Kolkata across the Hooghly River."
+    },
+    {
+      "id": "howrah-bridge-q03",
+      "difficulty": "easy",
+      "q": "In which Indian state is the Howrah Bridge located?",
+      "options": ["Bihar", "Odisha", "West Bengal", "Jharkhand"],
+      "answer": 2,
+      "explanation": "The Howrah Bridge is in West Bengal, joining the twin cities of Howrah and Kolkata."
+    },
+    {
+      "id": "howrah-bridge-q04",
+      "difficulty": "easy",
+      "q": "What type of bridge is the Howrah Bridge?",
+      "options": ["Suspension bridge", "Cantilever bridge", "Arch bridge", "Floating pontoon bridge"],
+      "answer": 1,
+      "explanation": "The Howrah Bridge is a steel cantilever bridge, one of the longest of its type in the world."
+    },
+    {
+      "id": "howrah-bridge-q05",
+      "difficulty": "easy",
+      "q": "In which decade was the Howrah Bridge opened to traffic?",
+      "options": ["1900s", "1920s", "1940s", "1960s"],
+      "answer": 2,
+      "explanation": "The bridge was opened in 1943, during the 1940s."
+    },
+    {
+      "id": "howrah-bridge-q06",
+      "difficulty": "easy",
+      "q": "What is the primary construction material of the Howrah Bridge?",
+      "options": ["Reinforced concrete", "Steel", "Stone masonry", "Cast iron and timber"],
+      "answer": 1,
+      "explanation": "The Howrah Bridge was built largely of steel, much of it high-tensile steel."
+    },
+    {
+      "id": "howrah-bridge-q07",
+      "difficulty": "easy",
+      "q": "A remarkable feature of the Howrah Bridge is that it has no pier in the river. What does this mean?",
+      "options": ["It floats on the water", "It has no support columns standing in the river", "It is made entirely of wood", "It can be raised and lowered"],
+      "answer": 1,
+      "explanation": "The cantilever design carries the deck without any support pier in the river itself."
+    },
+    {
+      "id": "howrah-bridge-q08",
+      "difficulty": "easy",
+      "q": "The Howrah Bridge is often described as the gateway to which city?",
+      "options": ["Kolkata", "Delhi", "Hyderabad", "Bengaluru"],
+      "answer": 0,
+      "explanation": "Located beside Howrah Station, the bridge is popularly called the gateway to Kolkata."
+    },
+    {
+      "id": "howrah-bridge-q09",
+      "difficulty": "easy",
+      "q": "The Howrah Bridge is famous for carrying which of the following in huge numbers every day?",
+      "options": ["Aircraft", "Ships passing over it", "Pedestrians and vehicles", "Trains only"],
+      "answer": 2,
+      "explanation": "The bridge carries vast daily crowds of pedestrians and road vehicles between Howrah and Kolkata."
+    },
+    {
+      "id": "howrah-bridge-q10",
+      "difficulty": "easy",
+      "q": "Near which famous railway station does the Howrah Bridge stand?",
+      "options": ["Sealdah Station", "Howrah Junction", "Chennai Central", "Old Delhi Station"],
+      "answer": 1,
+      "explanation": "The bridge stands beside Howrah Junction, one of India's busiest railway stations."
+    },
+    {
+      "id": "howrah-bridge-q11",
+      "difficulty": "medium",
+      "q": "In what year was the Howrah Bridge officially opened to traffic?",
+      "options": ["1937", "1929", "1951", "1943"],
+      "answer": 3,
+      "explanation": "The bridge opened to traffic in 1943, replacing an earlier pontoon bridge."
+    },
+    {
+      "id": "howrah-bridge-q12",
+      "difficulty": "medium",
+      "q": "What structure did the Howrah Bridge replace at that crossing of the Hooghly?",
+      "options": ["A stone arch bridge", "A pontoon (floating) bridge", "A railway tunnel", "A ferry-only crossing"],
+      "answer": 1,
+      "explanation": "It replaced an older floating pontoon bridge that had served the crossing since 1874."
+    },
+    {
+      "id": "howrah-bridge-q13",
+      "difficulty": "medium",
+      "q": "By what official name is the Howrah Bridge known today?",
+      "options": ["Vidyasagar Setu", "Vivekananda Setu", "Nivedita Setu", "Rabindra Setu"],
+      "answer": 3,
+      "explanation": "In 1965 the bridge was renamed Rabindra Setu in honour of Rabindranath Tagore."
+    },
+    {
+      "id": "howrah-bridge-q14",
+      "difficulty": "medium",
+      "q": "After whom was the Howrah Bridge renamed Rabindra Setu in 1965?",
+      "options": ["Subhas Chandra Bose", "Rabindranath Tagore", "Ishwar Chandra Vidyasagar", "Swami Vivekananda"],
+      "answer": 1,
+      "explanation": "It was renamed Rabindra Setu after the poet Rabindranath Tagore."
+    },
+    {
+      "id": "howrah-bridge-q15",
+      "difficulty": "medium",
+      "q": "Which authority owns and operates the Howrah Bridge?",
+      "options": ["Indian Railways", "Kolkata Port Trust / Syama Prasad Mookerjee Port", "Archaeological Survey of India", "National Highways Authority of India"],
+      "answer": 1,
+      "explanation": "The bridge is owned and maintained by the Kolkata Port Trust (now Syama Prasad Mookerjee Port)."
+    },
+    {
+      "id": "howrah-bridge-q16",
+      "difficulty": "medium",
+      "q": "Roughly how long is the main span of the Howrah Bridge between its two main towers?",
+      "options": ["About 150 metres", "About 800 metres", "About 1,200 metres", "About 457 metres"],
+      "answer": 3,
+      "explanation": "The central suspended span between the main towers is about 457 metres (1,500 feet)."
+    },
+    {
+      "id": "howrah-bridge-q17",
+      "difficulty": "medium",
+      "q": "How is the roadway deck of the Howrah Bridge held up?",
+      "options": ["By cables from a single central tower", "By suspender hangers from the cantilever arms", "By floating pontoons beneath it", "By stone arches from the riverbed"],
+      "answer": 1,
+      "explanation": "The suspended central span hangs from the cantilever arms by vertical suspender members."
+    },
+    {
+      "id": "howrah-bridge-q18",
+      "difficulty": "medium",
+      "q": "During which global event was the Howrah Bridge constructed and completed?",
+      "options": ["First World War", "Second World War", "The Great Depression only", "The Indian independence struggle of the 1920s"],
+      "answer": 1,
+      "explanation": "The bridge was built between 1936 and 1942 and opened in 1943, during the Second World War."
+    },
+    {
+      "id": "howrah-bridge-q19",
+      "difficulty": "medium",
+      "q": "Which famous high-tensile steel was used in large quantities for the Howrah Bridge?",
+      "options": ["Damascus steel", "Stainless steel", "Tiscrom (Tata steel)", "Wootz steel"],
+      "answer": 2,
+      "explanation": "A large portion of the steel was Tiscrom, a high-tensile alloy supplied by Tata Iron and Steel (TISCO)."
+    },
+    {
+      "id": "howrah-bridge-q20",
+      "difficulty": "medium",
+      "q": "Why was a cantilever design chosen rather than placing piers in the Hooghly River?",
+      "options": ["To allow river navigation and avoid disrupting the busy waterway", "Because steel was cheaper than stone", "To make the bridge able to open for ships", "Because the river was too shallow for piers"],
+      "answer": 0,
+      "explanation": "A clear central span without river piers kept the busy Hooghly navigable for shipping."
+    },
+    {
+      "id": "howrah-bridge-q21",
+      "difficulty": "medium",
+      "q": "Approximately how many vehicles is the Howrah Bridge estimated to carry on a typical day?",
+      "options": ["A few hundred", "Around 5,000", "Over 100,000", "Exactly 1,000,000"],
+      "answer": 2,
+      "explanation": "The bridge carries well over 100,000 vehicles and far more pedestrians daily, making it extremely busy."
+    },
+    {
+      "id": "howrah-bridge-q22",
+      "difficulty": "medium",
+      "q": "What gives the Howrah Bridge its distinctive lattice appearance?",
+      "options": ["Carved marble screens", "A network of riveted steel trusses", "Painted concrete panels", "Glass curtain walls"],
+      "answer": 1,
+      "explanation": "Its silhouette comes from a dense network of riveted steel trusses forming the cantilever structure."
+    },
+    {
+      "id": "howrah-bridge-q23",
+      "difficulty": "hard",
+      "q": "Between which years was the Howrah Bridge primarily constructed?",
+      "options": ["1908-1915", "1936-1942", "1948-1955", "1925-1930"],
+      "answer": 1,
+      "explanation": "Construction ran from 1936 to 1942, with the bridge opening to traffic in 1943."
+    },
+    {
+      "id": "howrah-bridge-q24",
+      "difficulty": "hard",
+      "q": "Which firm fabricated and erected the steelwork of the Howrah Bridge?",
+      "options": ["Brunel & Sons", "Vickers Aviation", "Bombay Bridge Works", "The Braithwaite, Burn & Jessop Construction Company"],
+      "answer": 3,
+      "explanation": "The Braithwaite, Burn & Jessop Construction Company carried out the fabrication and erection of the bridge's steel structure."
+    },
+    {
+      "id": "howrah-bridge-q25",
+      "difficulty": "hard",
+      "q": "Approximately how much steel was used in building the Howrah Bridge?",
+      "options": ["About 2,600 tonnes", "About 26,500 tonnes", "About 100,000 tonnes", "About 500 tonnes"],
+      "answer": 1,
+      "explanation": "Roughly 26,500 tonnes of steel went into the bridge, a large share of it high-tensile Tiscrom."
+    },
+    {
+      "id": "howrah-bridge-q26",
+      "difficulty": "hard",
+      "q": "How are the main spans of the Howrah Bridge joined, distinguishing it as a 'suspension-type balanced cantilever'?",
+      "options": ["By a riveted central suspended span hung between two cantilever arms", "By welded box girders resting on a mid-river pier", "By steel cables anchored to the riverbanks only", "By a hinged drawbridge in the middle"],
+      "answer": 0,
+      "explanation": "Two anchor-and-cantilever arms reach toward each other and carry a central suspended span between them."
+    },
+    {
+      "id": "howrah-bridge-q27",
+      "difficulty": "hard",
+      "q": "About how tall are the two main towers of the Howrah Bridge above the road level?",
+      "options": ["About 27 metres", "About 90 metres", "About 200 metres", "About 12 metres"],
+      "answer": 1,
+      "explanation": "Each main tower rises roughly 90 metres (about 280 feet) above the roadway."
+    },
+    {
+      "id": "howrah-bridge-q28",
+      "difficulty": "hard",
+      "q": "Which design and consulting engineers were associated with the Howrah Bridge project?",
+      "options": ["Rendel, Palmer & Tritton", "John A. Roebling's Sons", "Eiffel et Compagnie", "Maillart & Cie"],
+      "answer": 0,
+      "explanation": "The London firm Rendel, Palmer & Tritton acted as consulting engineers for the bridge."
+    },
+    {
+      "id": "howrah-bridge-q29",
+      "difficulty": "hard",
+      "q": "What notable fact is true about the opening day traffic on the Howrah Bridge in 1943?",
+      "options": ["It opened quietly without fanfare, partly due to wartime conditions", "It was inaugurated by Queen Victoria", "Its first crosser was a steam locomotive", "It opened with a grand naval parade on the river"],
+      "answer": 0,
+      "explanation": "Because of wartime conditions, the bridge opened with little ceremony; a tram was among the first to cross."
+    },
+    {
+      "id": "howrah-bridge-q30",
+      "difficulty": "hard",
+      "q": "Which environmental problem has notably damaged the steel of the Howrah Bridge over the decades?",
+      "options": ["Earthquake cracking", "Corrosion worsened by spitting (gutka/pan) and pollution", "Flooding of the deck", "Lightning strikes melting the steel"],
+      "answer": 1,
+      "explanation": "Acidic spit from pan and gutka, along with pollution, has corroded the bridge's steel hood-casings, prompting protective measures."
+    }
+  ]
+}

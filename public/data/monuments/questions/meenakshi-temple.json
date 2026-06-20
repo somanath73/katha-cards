@@ -1,0 +1,245 @@
+{
+  "cardId": "meenakshi-temple",
+  "questions": [
+    {
+      "id": "meenakshi-temple-q01",
+      "difficulty": "easy",
+      "q": "In which Indian city is the Meenakshi Amman Temple located?",
+      "options": ["Chennai", "Madurai", "Coimbatore", "Tiruchirappalli"],
+      "answer": 1,
+      "explanation": "The Meenakshi Amman Temple stands in the heart of the old city of Madurai in Tamil Nadu."
+    },
+    {
+      "id": "meenakshi-temple-q02",
+      "difficulty": "easy",
+      "q": "In which Indian state is the Meenakshi Temple situated?",
+      "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
+      "answer": 2,
+      "explanation": "Madurai, the home of the temple, lies in the southern state of Tamil Nadu."
+    },
+    {
+      "id": "meenakshi-temple-q03",
+      "difficulty": "easy",
+      "q": "The Meenakshi Temple is dedicated primarily to which goddess?",
+      "options": ["Goddess Meenakshi", "Goddess Kali", "Goddess Saraswati", "Goddess Lakshmi"],
+      "answer": 0,
+      "explanation": "The temple is dedicated to Meenakshi, a form of the goddess Parvati, alongside her consort."
+    },
+    {
+      "id": "meenakshi-temple-q04",
+      "difficulty": "easy",
+      "q": "Goddess Meenakshi is worshipped together with which male deity at the temple?",
+      "options": ["Vishnu", "Sundareswarar (Shiva)", "Murugan", "Ganesha"],
+      "answer": 1,
+      "explanation": "Meenakshi's consort at the temple is Sundareswarar, a form of Lord Shiva."
+    },
+    {
+      "id": "meenakshi-temple-q05",
+      "difficulty": "easy",
+      "q": "What are the towering, colourfully sculpted gateway towers of the Meenakshi Temple called?",
+      "options": ["Stupas", "Minarets", "Gopurams", "Shikharas"],
+      "answer": 2,
+      "explanation": "The tall, pyramidal gateway towers covered in painted figures are known as gopurams in South Indian temple architecture."
+    },
+    {
+      "id": "meenakshi-temple-q06",
+      "difficulty": "easy",
+      "q": "Sundareswarar, the consort of Meenakshi, is a form of which god?",
+      "options": ["Brahma", "Indra", "Shiva", "Surya"],
+      "answer": 2,
+      "explanation": "Sundareswarar ('the handsome lord') is a manifestation of Lord Shiva."
+    },
+    {
+      "id": "meenakshi-temple-q07",
+      "difficulty": "easy",
+      "q": "The architectural style of the Meenakshi Temple is best described as which of the following?",
+      "options": ["Indo-Islamic", "Dravidian", "Gothic", "Mughal"],
+      "answer": 1,
+      "explanation": "The temple is a classic example of South Indian Dravidian temple architecture."
+    },
+    {
+      "id": "meenakshi-temple-q08",
+      "difficulty": "easy",
+      "q": "The Meenakshi Temple's gopurams are famous for being covered in thousands of what?",
+      "options": ["Glass mosaics", "Brightly painted sculpted figures", "Gold plates", "Marble inlays"],
+      "answer": 1,
+      "explanation": "Each gopuram is densely covered with thousands of vividly painted stucco figures of gods, demons and animals."
+    },
+    {
+      "id": "meenakshi-temple-q09",
+      "difficulty": "easy",
+      "q": "The river that flows through the city of Madurai, near the temple, is the:",
+      "options": ["Kaveri", "Vaigai", "Tamiraparani", "Palar"],
+      "answer": 1,
+      "explanation": "Madurai is situated on the banks of the Vaigai River in Tamil Nadu."
+    },
+    {
+      "id": "meenakshi-temple-q10",
+      "difficulty": "easy",
+      "q": "The annual festival celebrating the celestial wedding of Meenakshi and Sundareswarar is called the:",
+      "options": ["Pongal", "Chithirai Festival", "Onam", "Navaratri Golu"],
+      "answer": 1,
+      "explanation": "The Chithirai Festival in Madurai celebrates the divine marriage of Meenakshi and Sundareswarar."
+    },
+    {
+      "id": "meenakshi-temple-q11",
+      "difficulty": "medium",
+      "q": "The present temple complex was largely expanded and rebuilt under which dynasty?",
+      "options": ["Chola dynasty", "Nayak (Nayaka) rulers", "Pallava dynasty", "Hoysala dynasty"],
+      "answer": 1,
+      "explanation": "The Madurai Nayak rulers, especially in the 16th and 17th centuries, were responsible for much of the present complex."
+    },
+    {
+      "id": "meenakshi-temple-q12",
+      "difficulty": "medium",
+      "q": "Which Nayak king is especially credited with major expansion of the Meenakshi Temple in the 17th century?",
+      "options": ["Krishnadevaraya", "Tirumala Nayak (Thirumalai Nayakkar)", "Raja Raja Chola", "Mahendravarman"],
+      "answer": 1,
+      "explanation": "Tirumala Nayak, who ruled Madurai in the 17th century, undertook major additions to the temple complex."
+    },
+    {
+      "id": "meenakshi-temple-q13",
+      "difficulty": "medium",
+      "q": "Approximately how many gopurams (gateway towers) does the Meenakshi Temple complex have?",
+      "options": ["Four", "Around fourteen", "Around fifty", "Just one"],
+      "answer": 1,
+      "explanation": "The complex has around fourteen gopurams, including the four tall outer towers and several inner ones."
+    },
+    {
+      "id": "meenakshi-temple-q14",
+      "difficulty": "medium",
+      "q": "Which is the tallest gopuram of the Meenakshi Temple complex?",
+      "options": ["The eastern gopuram", "The southern gopuram", "The northern gopuram", "The western gopuram"],
+      "answer": 1,
+      "explanation": "The southern gopuram is the tallest of the temple's towers, rising to roughly 52 metres."
+    },
+    {
+      "id": "meenakshi-temple-q15",
+      "difficulty": "medium",
+      "q": "The famous pillared hall in the complex with around a thousand carved columns is known as the:",
+      "options": ["Hall of Mirrors", "Ayirakkal Mandapam (Thousand Pillar Hall)", "Diwan-i-Aam", "Sun Hall"],
+      "answer": 1,
+      "explanation": "The Ayirakkal Mandapam, or Thousand Pillar Hall, is renowned for its many intricately sculpted columns."
+    },
+    {
+      "id": "meenakshi-temple-q16",
+      "difficulty": "medium",
+      "q": "The sacred temple tank within the Meenakshi complex is called the:",
+      "options": ["Pushkarini of Hampi", "Golden Lotus Tank (Porthamarai Kulam)", "Ganga Sagar", "Brahma Sarovar"],
+      "answer": 1,
+      "explanation": "The Porthamarai Kulam, or Golden Lotus Tank, is the temple's sacred bathing tank."
+    },
+    {
+      "id": "meenakshi-temple-q17",
+      "difficulty": "medium",
+      "q": "According to temple legend, the deity Meenakshi was born with an unusual feature. What was it?",
+      "options": ["Three eyes", "Three breasts", "Four arms only", "Golden skin from birth"],
+      "answer": 1,
+      "explanation": "Legend says Meenakshi was born with three breasts, the third disappearing when she met Sundareswarar, her destined consort."
+    },
+    {
+      "id": "meenakshi-temple-q18",
+      "difficulty": "medium",
+      "q": "The name 'Meenakshi' is commonly interpreted to mean which of the following?",
+      "options": ["Lotus-born", "Fish-eyed (one with eyes shaped like a fish)", "Moon-faced", "Lion-hearted"],
+      "answer": 1,
+      "explanation": "'Meenakshi' derives from 'meen' (fish) and 'akshi' (eyes), meaning the goddess with fish-shaped eyes."
+    },
+    {
+      "id": "meenakshi-temple-q19",
+      "difficulty": "medium",
+      "q": "The main idol of Meenakshi in the sanctum is traditionally depicted with which characteristic colour?",
+      "options": ["Green (emerald-like)", "Blue", "White marble", "Red"],
+      "answer": 0,
+      "explanation": "The Meenakshi idol is traditionally shown with a green or emerald-like complexion."
+    },
+    {
+      "id": "meenakshi-temple-q20",
+      "difficulty": "medium",
+      "q": "Madurai, where the temple stands, is often called by which nickname?",
+      "options": ["The Pink City", "The Temple City / Athens of the East", "The City of Lakes", "The Silicon City"],
+      "answer": 1,
+      "explanation": "Madurai is widely known as the 'Temple City' and has been called the 'Athens of the East' for its antiquity."
+    },
+    {
+      "id": "meenakshi-temple-q21",
+      "difficulty": "medium",
+      "q": "Roughly how many sculpted figures are estimated to adorn the temple's gopurams in total?",
+      "options": ["A few dozen", "Tens of thousands", "Exactly one hundred", "About five hundred"],
+      "answer": 1,
+      "explanation": "The temple's gopurams together carry an estimated tens of thousands of sculpted stucco figures."
+    },
+    {
+      "id": "meenakshi-temple-q22",
+      "difficulty": "medium",
+      "q": "The Meenakshi Temple was a nominee in a 2010s global campaign to identify which honour?",
+      "options": ["New Seven Wonders of the World", "Tallest building list", "Largest stadium list", "Longest bridge list"],
+      "answer": 0,
+      "explanation": "The temple was among the nominees in the New Seven Wonders of the World campaign, reflecting its global fame."
+    },
+    {
+      "id": "meenakshi-temple-q23",
+      "difficulty": "hard",
+      "q": "While the present structure is mainly Nayak-era, the original temple site is traditionally associated with which ancient Tamil dynasty that ruled Madurai?",
+      "options": ["Pandya dynasty", "Satavahana dynasty", "Maurya dynasty", "Gupta dynasty"],
+      "answer": 0,
+      "explanation": "Madurai was the historic capital of the Pandya dynasty, with whom the temple's early history is associated."
+    },
+    {
+      "id": "meenakshi-temple-q24",
+      "difficulty": "hard",
+      "q": "The temple's gopurams are periodically repainted and renovated in a ritual ceremony known as:",
+      "options": ["Abhishekam", "Kumbhabhishekam", "Aarti", "Homam"],
+      "answer": 1,
+      "explanation": "Kumbhabhishekam is the consecration ceremony, performed roughly every twelve years, during which the towers are renovated and repainted."
+    },
+    {
+      "id": "meenakshi-temple-q25",
+      "difficulty": "hard",
+      "q": "The southern gopuram, the tallest tower of the complex, rises to approximately what height?",
+      "options": ["About 12 metres", "About 25 metres", "About 52 metres", "About 100 metres"],
+      "answer": 2,
+      "explanation": "The southern gopuram reaches roughly 52 metres, making it the tallest tower in the complex."
+    },
+    {
+      "id": "meenakshi-temple-q26",
+      "difficulty": "hard",
+      "q": "A celebrated colonnaded hall near the eastern entrance, built by a 17th-century Nayak king, is known as the:",
+      "options": ["Pudhu Mandapam (New Hall)", "Sheesh Mahal", "Anguri Bagh", "Rang Mahal"],
+      "answer": 0,
+      "explanation": "The Pudhu Mandapam, or 'New Hall', was built by Tirumala Nayak near the temple's eastern gopuram."
+    },
+    {
+      "id": "meenakshi-temple-q27",
+      "difficulty": "hard",
+      "q": "Which feature inside the Thousand Pillar Hall is famous for producing musical notes when struck?",
+      "options": ["The golden flagstaff", "The musical pillars", "A bronze bell", "A stone drum"],
+      "answer": 1,
+      "explanation": "The hall contains 'musical pillars' that emit distinct musical notes when tapped."
+    },
+    {
+      "id": "meenakshi-temple-q28",
+      "difficulty": "hard",
+      "q": "The two principal sanctums of the temple are dedicated, respectively, to Meenakshi and to:",
+      "options": ["Vishnu", "Sundareswarar", "Lord Murugan", "Nandi"],
+      "answer": 1,
+      "explanation": "The complex centres on two main shrines, one for Meenakshi and one for her consort Sundareswarar."
+    },
+    {
+      "id": "meenakshi-temple-q29",
+      "difficulty": "hard",
+      "q": "The Meenakshi Temple complex is built on a plan with concentric enclosures (prakarams) covering an area of roughly:",
+      "options": ["About 1 hectare", "About 6 hectares (around 14 acres)", "About 50 hectares", "About 200 hectares"],
+      "answer": 1,
+      "explanation": "The walled complex covers roughly 6 hectares (about 14 acres) with nested rectangular enclosures."
+    },
+    {
+      "id": "meenakshi-temple-q30",
+      "difficulty": "hard",
+      "q": "In the temple's mythology, Sundareswarar (Shiva) is believed to have come to Madurai to do what?",
+      "options": ["Defeat a demon king", "Marry Meenakshi", "Recover a stolen relic", "Found a new city"],
+      "answer": 1,
+      "explanation": "According to legend, Shiva took the form of Sundareswarar and came to Madurai to wed the warrior-queen Meenakshi."
+    }
+  ]
+}

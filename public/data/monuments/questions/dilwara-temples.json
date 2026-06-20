@@ -1,0 +1,245 @@
+{
+  "cardId": "dilwara-temples",
+  "questions": [
+    {
+      "id": "dilwara-temples-q01",
+      "difficulty": "easy",
+      "q": "In which Indian state are the Dilwara Temples located?",
+      "options": ["Gujarat", "Rajasthan", "Madhya Pradesh", "Maharashtra"],
+      "answer": 1,
+      "explanation": "The Dilwara Temples are located at Mount Abu in the Sirohi district of Rajasthan."
+    },
+    {
+      "id": "dilwara-temples-q02",
+      "difficulty": "easy",
+      "q": "The Dilwara Temples are situated at which famous hill station?",
+      "options": ["Mount Abu", "Shimla", "Darjeeling", "Ooty"],
+      "answer": 0,
+      "explanation": "The temples stand at Mount Abu, the only hill station in Rajasthan, in the Aravalli Range."
+    },
+    {
+      "id": "dilwara-temples-q03",
+      "difficulty": "easy",
+      "q": "The Dilwara Temples are sacred to followers of which religion?",
+      "options": ["Buddhism", "Sikhism", "Jainism", "Hinduism"],
+      "answer": 2,
+      "explanation": "The Dilwara Temples are a renowned group of Jain temples dedicated to the Tirthankaras."
+    },
+    {
+      "id": "dilwara-temples-q04",
+      "difficulty": "easy",
+      "q": "What material is the Dilwara Temples' famous carving primarily made from?",
+      "options": ["Red sandstone", "White marble", "Black granite", "Terracotta"],
+      "answer": 1,
+      "explanation": "The temples are celebrated for their astonishingly intricate carving in white marble."
+    },
+    {
+      "id": "dilwara-temples-q05",
+      "difficulty": "easy",
+      "q": "The Dilwara Temples are most famous for which artistic quality?",
+      "options": ["Towering height", "Intricate marble carving", "Gold-plated domes", "Painted murals"],
+      "answer": 1,
+      "explanation": "The temples are world-famous for their delicate, lace-like marble carving and ornamentation."
+    },
+    {
+      "id": "dilwara-temples-q06",
+      "difficulty": "easy",
+      "q": "Mount Abu, where the Dilwara Temples stand, lies within which mountain range?",
+      "options": ["The Himalayas", "The Western Ghats", "The Vindhya Range", "The Aravalli Range"],
+      "answer": 3,
+      "explanation": "Mount Abu is the highest peak of the Aravalli Range in western India."
+    },
+    {
+      "id": "dilwara-temples-q07",
+      "difficulty": "easy",
+      "q": "Roughly during which centuries were the Dilwara Temples built?",
+      "options": ["The 5th to 7th centuries", "The 11th to 13th centuries", "The 16th to 18th centuries", "The 19th to 20th centuries"],
+      "answer": 1,
+      "explanation": "The five Dilwara temples were built between the 11th and 13th centuries CE."
+    },
+    {
+      "id": "dilwara-temples-q08",
+      "difficulty": "easy",
+      "q": "How many main temples make up the Dilwara group?",
+      "options": ["Two", "Five", "Nine", "Twelve"],
+      "answer": 1,
+      "explanation": "The Dilwara complex comprises five marble temples, each dedicated to a Jain Tirthankara."
+    },
+    {
+      "id": "dilwara-temples-q09",
+      "difficulty": "easy",
+      "q": "The figures worshipped in the Dilwara Temples, the Tirthankaras, are central to which faith?",
+      "options": ["Jainism", "Zoroastrianism", "Christianity", "Islam"],
+      "answer": 0,
+      "explanation": "Tirthankaras are the supreme spiritual teachers of Jainism, to whom the Dilwara shrines are dedicated."
+    },
+    {
+      "id": "dilwara-temples-q10",
+      "difficulty": "easy",
+      "q": "What is a common nickname for the Dilwara Temples' delicate stonework?",
+      "options": ["Marble lacework", "Iron filigree", "Sandstone fretwork", "Bronze tracery"],
+      "answer": 0,
+      "explanation": "The translucent, finely cut marble is often described as 'marble lacework' for its lace-like delicacy."
+    },
+    {
+      "id": "dilwara-temples-q11",
+      "difficulty": "medium",
+      "q": "The oldest of the Dilwara Temples, the Vimal Vasahi, is dedicated to which Tirthankara?",
+      "options": ["Mahavira", "Adinatha (Rishabhanatha)", "Parshvanatha", "Neminatha"],
+      "answer": 1,
+      "explanation": "The Vimal Vasahi, the earliest Dilwara temple, is dedicated to Adinatha, the first Jain Tirthankara."
+    },
+    {
+      "id": "dilwara-temples-q12",
+      "difficulty": "medium",
+      "q": "In which century was the Vimal Vasahi temple, the oldest at Dilwara, built?",
+      "options": ["The 9th century", "The 11th century", "The 14th century", "The 17th century"],
+      "answer": 1,
+      "explanation": "The Vimal Vasahi was built in 1031 CE, making it the earliest of the Dilwara temples."
+    },
+    {
+      "id": "dilwara-temples-q13",
+      "difficulty": "medium",
+      "q": "Who commissioned the Vimal Vasahi, the oldest Dilwara temple?",
+      "options": ["Emperor Ashoka", "Vimal Shah, a minister of the Solanki rulers", "Maharana Pratap", "Raja Man Singh"],
+      "answer": 1,
+      "explanation": "The Vimal Vasahi was built by Vimal Shah, a minister and general of the Chaulukya (Solanki) kings of Gujarat."
+    },
+    {
+      "id": "dilwara-temples-q14",
+      "difficulty": "medium",
+      "q": "The Luna Vasahi (Luniga Vasahi) temple at Dilwara is dedicated to which Tirthankara?",
+      "options": ["Adinatha", "Mahavira", "Neminatha (Neminath)", "Shantinatha"],
+      "answer": 2,
+      "explanation": "The Luna Vasahi temple is dedicated to Neminatha, the 22nd Jain Tirthankara."
+    },
+    {
+      "id": "dilwara-temples-q15",
+      "difficulty": "medium",
+      "q": "Who funded the Luna Vasahi temple at Dilwara?",
+      "options": ["The merchant-minister brothers Vastupala and Tejpala", "The Mughal emperor Akbar", "The British East India Company", "The Peshwa Baji Rao"],
+      "answer": 0,
+      "explanation": "The Luna Vasahi was built in 1230 CE by the wealthy brothers Vastupala and Tejpala, ministers of the Vaghela rulers."
+    },
+    {
+      "id": "dilwara-temples-q16",
+      "difficulty": "medium",
+      "q": "A celebrated feature of the Dilwara Temples is the ornate ceiling supported by elaborately carved pillars in which hall?",
+      "options": ["The granary", "The Rang Mandapa (central dome hall)", "The royal stables", "The watchtower"],
+      "answer": 1,
+      "explanation": "The Rang Mandapa, a domed central hall, is famed for its intricately carved ceiling and ring of ornate pillars."
+    },
+    {
+      "id": "dilwara-temples-q17",
+      "difficulty": "medium",
+      "q": "Surrounding the main shrine of each Dilwara temple is a corridor lined with numerous small cells, each containing what?",
+      "options": ["A water well", "A Tirthankara image", "A grain store", "A soldier's barracks"],
+      "answer": 1,
+      "explanation": "The temples have a cloistered courtyard of small cells (devakulikas), each housing an idol of a Tirthankara."
+    },
+    {
+      "id": "dilwara-temples-q18",
+      "difficulty": "medium",
+      "q": "The Vimal Vasahi temple was built under the patronage of which dynasty of Gujarat?",
+      "options": ["The Chola dynasty", "The Chaulukya (Solanki) dynasty", "The Tughlaq dynasty", "The Maratha confederacy"],
+      "answer": 1,
+      "explanation": "Vimal Shah served the Chaulukya (Solanki) rulers of Gujarat, under whose era the temple was constructed."
+    },
+    {
+      "id": "dilwara-temples-q19",
+      "difficulty": "medium",
+      "q": "What is notably understated about the Dilwara Temples' exterior compared to their interiors?",
+      "options": ["The plain, simple exterior hides lavishly carved interiors", "The exterior is gilded while interiors are bare", "The exterior is taller than any temple in India", "The exterior is built of glass"],
+      "answer": 0,
+      "explanation": "The temples have deliberately plain exteriors, concealing the extraordinarily ornate marble carving within."
+    },
+    {
+      "id": "dilwara-temples-q20",
+      "difficulty": "medium",
+      "q": "From roughly how far away was the marble transported to build the Dilwara Temples on Mount Abu?",
+      "options": ["From quarries hauled up the mountain by elephants", "From Italy by sea", "From the Himalayas by river", "It was made of artificial cast stone"],
+      "answer": 0,
+      "explanation": "Marble was quarried in the plains and laboriously hauled up Mount Abu, traditionally said to be carried by elephants."
+    },
+    {
+      "id": "dilwara-temples-q21",
+      "difficulty": "medium",
+      "q": "Which of these is one of the five Dilwara Temples?",
+      "options": ["Kandariya Mahadeva temple", "Pittalhar temple", "Brihadeeswarar temple", "Lingaraja temple"],
+      "answer": 1,
+      "explanation": "The Pittalhar temple, named for its brass (pittal) Tirthankara image, is one of the five Dilwara temples."
+    },
+    {
+      "id": "dilwara-temples-q22",
+      "difficulty": "medium",
+      "q": "The Pittalhar temple at Dilwara takes its name from a large idol cast in which material?",
+      "options": ["Solid gold", "Brass (an alloy of copper and zinc)", "Pure silver", "Carved ivory"],
+      "answer": 1,
+      "explanation": "The name Pittalhar comes from 'pittal' (brass), referring to its massive metal image of Adinatha."
+    },
+    {
+      "id": "dilwara-temples-q23",
+      "difficulty": "hard",
+      "q": "In which exact year was the Vimal Vasahi temple completed?",
+      "options": ["1031 CE", "1150 CE", "1230 CE", "1459 CE"],
+      "answer": 0,
+      "explanation": "The Vimal Vasahi, the oldest Dilwara temple, is dated to 1031 CE."
+    },
+    {
+      "id": "dilwara-temples-q24",
+      "difficulty": "hard",
+      "q": "Vastupala and Tejpala, builders of the Luna Vasahi, served as ministers under which dynasty?",
+      "options": ["The Pratihara emperors", "The Bahmani sultans", "The Pallava kings", "The Vaghela rulers"],
+      "answer": 3,
+      "explanation": "The brothers Vastupala and Tejpala were ministers of the Vaghela rulers of Gujarat in the 13th century."
+    },
+    {
+      "id": "dilwara-temples-q25",
+      "difficulty": "hard",
+      "q": "The Luna Vasahi temple is especially admired for an exquisitely carved central dome featuring what motif?",
+      "options": ["A lotus-like pendant carved hanging from the dome", "A row of marching soldiers", "A painted zodiac", "A mirror mosaic"],
+      "answer": 0,
+      "explanation": "The Luna Vasahi dome is renowned for an intricately carved central pendant resembling a lotus suspended from the ceiling."
+    },
+    {
+      "id": "dilwara-temples-q26",
+      "difficulty": "hard",
+      "q": "Which Dilwara temple is dedicated to Parshvanatha and is the tallest of the group?",
+      "options": ["Vimal Vasahi", "Luna Vasahi", "Khartar Vasahi (Parshvanatha temple)", "Pittalhar"],
+      "answer": 2,
+      "explanation": "The Khartar Vasahi, dedicated to Parshvanatha, is the tallest of the five Dilwara temples."
+    },
+    {
+      "id": "dilwara-temples-q27",
+      "difficulty": "hard",
+      "q": "A distinctive technique behind Dilwara's lace-like effect was that artisans were reportedly paid based on what?",
+      "options": ["The number of pillars erected", "The amount of marble dust scraped away", "The weight of finished idols", "The hours they worked"],
+      "answer": 1,
+      "explanation": "Tradition holds that carvers were paid by the weight of marble dust they removed, encouraging ever finer, deeper carving."
+    },
+    {
+      "id": "dilwara-temples-q28",
+      "difficulty": "hard",
+      "q": "The Sirohi district, home of the Dilwara Temples, borders which neighbouring state?",
+      "options": ["Punjab", "Gujarat", "Uttar Pradesh", "Bihar"],
+      "answer": 1,
+      "explanation": "Sirohi district lies in southwestern Rajasthan, adjoining the state of Gujarat near Mount Abu."
+    },
+    {
+      "id": "dilwara-temples-q29",
+      "difficulty": "hard",
+      "q": "The Vimal Vasahi temple includes an open pavilion outside the main hall featuring stone elephants, known as the:",
+      "options": ["Hathishala (Elephant Cell)", "Naubat Khana", "Sheesh Mahal", "Diwan-i-Khas"],
+      "answer": 0,
+      "explanation": "The Hathishala, or elephant cell, is a pavilion in the Vimal Vasahi with a row of finely carved marble elephants."
+    },
+    {
+      "id": "dilwara-temples-q30",
+      "difficulty": "hard",
+      "q": "The Dilwara Temples' style of richly ornamented marble temple architecture is most associated with which broad architectural tradition?",
+      "options": ["Indo-Saracenic", "Maru-Gurjara (Solanki) temple architecture", "Dravidian gopuram style", "Gothic Revival"],
+      "answer": 1,
+      "explanation": "Dilwara exemplifies the Maru-Gurjara (Solanki) style of western Indian temple architecture, noted for its profuse marble carving."
+    }
+  ]
+}

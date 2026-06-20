@@ -1,0 +1,245 @@
+{
+  "cardId": "kumbhalgarh-fort",
+  "questions": [
+    {
+      "id": "kumbhalgarh-fort-q01",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state is Kumbhalgarh Fort located?",
+      "options": ["Gujarat", "Madhya Pradesh", "Maharashtra", "Rajasthan"],
+      "answer": 3,
+      "explanation": "Kumbhalgarh Fort stands in the Aravalli hills of Rajasthan, in the Rajsamand district."
+    },
+    {
+      "id": "kumbhalgarh-fort-q02",
+      "difficulty": "easy",
+      "q": "Kumbhalgarh is most famous for its enormous perimeter wall, which has earned it what popular nickname?",
+      "options": ["The Great Wall of India", "The Pink Wall", "The Iron Fort", "The Wall of Gold"],
+      "answer": 0,
+      "explanation": "Its roughly 36-km-long perimeter wall is often called the Great Wall of India."
+    },
+    {
+      "id": "kumbhalgarh-fort-q03",
+      "difficulty": "easy",
+      "q": "Approximately how long is the perimeter wall of Kumbhalgarh Fort?",
+      "options": ["About 5 kilometres", "About 12 kilometres", "About 36 kilometres", "About 100 kilometres"],
+      "answer": 2,
+      "explanation": "The fort's outer wall runs roughly 36 kilometres, among the longest continuous walls in the world."
+    },
+    {
+      "id": "kumbhalgarh-fort-q04",
+      "difficulty": "easy",
+      "q": "Kumbhalgarh Fort was a major stronghold of which Rajput kingdom?",
+      "options": ["Marwar (Jodhpur)", "Amber (Jaipur)", "Mewar", "Bikaner"],
+      "answer": 2,
+      "explanation": "Kumbhalgarh was one of the principal forts of the kingdom of Mewar."
+    },
+    {
+      "id": "kumbhalgarh-fort-q05",
+      "difficulty": "easy",
+      "q": "Which famous Mewar warrior-king was born at Kumbhalgarh Fort?",
+      "options": ["Prithviraj Chauhan", "Shivaji", "Rana Sanga", "Maharana Pratap"],
+      "answer": 3,
+      "explanation": "Maharana Pratap, the legendary ruler of Mewar, was born at Kumbhalgarh in 1540."
+    },
+    {
+      "id": "kumbhalgarh-fort-q06",
+      "difficulty": "easy",
+      "q": "In which century was Kumbhalgarh Fort principally built?",
+      "options": ["9th century", "12th century", "15th century", "18th century"],
+      "answer": 2,
+      "explanation": "The fort was built during the 15th century under Mewar ruler Rana Kumbha."
+    },
+    {
+      "id": "kumbhalgarh-fort-q07",
+      "difficulty": "easy",
+      "q": "Kumbhalgarh Fort is built on the ranges of which mountain system?",
+      "options": ["The Himalayas", "The Western Ghats", "The Aravalli Range", "The Vindhya Range"],
+      "answer": 2,
+      "explanation": "The fort sits on a hilltop in the Aravalli Range of western India."
+    },
+    {
+      "id": "kumbhalgarh-fort-q08",
+      "difficulty": "easy",
+      "q": "What type of structure is Kumbhalgarh?",
+      "options": ["A riverside temple", "A hill fort", "A royal tomb", "A stepwell"],
+      "answer": 1,
+      "explanation": "Kumbhalgarh is a hill fort, perched high in the Aravalli hills of Rajasthan."
+    },
+    {
+      "id": "kumbhalgarh-fort-q09",
+      "difficulty": "easy",
+      "q": "Kumbhalgarh is part of a UNESCO World Heritage listing covering forts of which group?",
+      "options": ["Hill Forts of Rajasthan", "Mughal Monuments of Agra", "Group of Monuments at Hampi", "Western Ghats Forts"],
+      "answer": 0,
+      "explanation": "Kumbhalgarh is one of the six forts inscribed as the 'Hill Forts of Rajasthan' by UNESCO."
+    },
+    {
+      "id": "kumbhalgarh-fort-q10",
+      "difficulty": "easy",
+      "q": "The fort is named 'Kumbhalgarh' after which ruler?",
+      "options": ["Rana Sanga", "Rana Kumbha", "Maharana Pratap", "Udai Singh"],
+      "answer": 1,
+      "explanation": "The fort takes its name from Rana Kumbha, the Mewar ruler who built it."
+    },
+    {
+      "id": "kumbhalgarh-fort-q11",
+      "difficulty": "medium",
+      "q": "Which Mewar ruler commissioned the construction of Kumbhalgarh Fort?",
+      "options": ["Maharana Pratap", "Maharana Udai Singh II", "Rana Hammir", "Rana Kumbha"],
+      "answer": 3,
+      "explanation": "Rana Kumbha (Maharana Kumbhakarna) of Mewar built the fort in the 15th century."
+    },
+    {
+      "id": "kumbhalgarh-fort-q12",
+      "difficulty": "medium",
+      "q": "Kumbhalgarh's perimeter wall is said to be so broad in places that several of which could ride side by side along the top?",
+      "options": ["Bullock carts", "Horses", "Boats", "Trains"],
+      "answer": 1,
+      "explanation": "The ramparts are famously wide enough that several horses (often said to be about eight) could ride abreast along the top."
+    },
+    {
+      "id": "kumbhalgarh-fort-q13",
+      "difficulty": "medium",
+      "q": "Which architect is traditionally credited with designing Kumbhalgarh Fort for Rana Kumbha?",
+      "options": ["Mandan", "Mirak Mirza Ghiyas", "Ustad Ahmad Lahori", "Vidyadhar Bhattacharya"],
+      "answer": 0,
+      "explanation": "The architect Mandan is traditionally credited with designing Kumbhalgarh, and he wrote treatises on architecture."
+    },
+    {
+      "id": "kumbhalgarh-fort-q14",
+      "difficulty": "medium",
+      "q": "The highest building within the fort, a palace from which the ruler's surroundings could be viewed, is known by what name?",
+      "options": ["Badal Mahal", "Sheesh Mahal", "Hawa Mahal", "Jag Mandir"],
+      "answer": 0,
+      "explanation": "The Badal Mahal (Palace of Clouds) crowns the fort at its highest point."
+    },
+    {
+      "id": "kumbhalgarh-fort-q15",
+      "difficulty": "medium",
+      "q": "Roughly how many temples are said to lie within the walls of Kumbhalgarh Fort?",
+      "options": ["About 12", "Just 1", "Over 300", "Exactly 100"],
+      "answer": 2,
+      "explanation": "The fort is said to enclose more than 300 ancient temples, both Hindu and Jain."
+    },
+    {
+      "id": "kumbhalgarh-fort-q16",
+      "difficulty": "medium",
+      "q": "When the infant Udai Singh II was smuggled to safety, Kumbhalgarh served as his refuge, protected by which loyal nursemaid of legend?",
+      "options": ["Panna Dai", "Mirabai", "Rani Padmini", "Hadi Rani"],
+      "answer": 0,
+      "explanation": "Panna Dai is remembered for protecting the young prince Udai Singh, who was kept safe at Kumbhalgarh."
+    },
+    {
+      "id": "kumbhalgarh-fort-q17",
+      "difficulty": "medium",
+      "q": "Kumbhalgarh's hilltop location gives it a commanding altitude of roughly how high above sea level?",
+      "options": ["About 300 metres", "About 1,100 metres", "About 2,500 metres", "About 4,000 metres"],
+      "answer": 1,
+      "explanation": "The fort stands at roughly 1,100 metres above sea level on a ridge of the Aravallis."
+    },
+    {
+      "id": "kumbhalgarh-fort-q18",
+      "difficulty": "medium",
+      "q": "Within Mewar's defensive history, Kumbhalgarh is regarded as second in importance only to which other great fort?",
+      "options": ["Mehrangarh", "Chittorgarh", "Jaisalmer Fort", "Ranthambore Fort"],
+      "answer": 1,
+      "explanation": "Kumbhalgarh was considered the second most important fort of Mewar after Chittorgarh."
+    },
+    {
+      "id": "kumbhalgarh-fort-q19",
+      "difficulty": "medium",
+      "q": "The main entrance gate to the fort complex is commonly known by which name?",
+      "options": ["Buland Darwaza", "Charminar Gate", "India Gate", "Ram Pol"],
+      "answer": 3,
+      "explanation": "Ram Pol (Ram Gate) is the principal entrance into the fort."
+    },
+    {
+      "id": "kumbhalgarh-fort-q20",
+      "difficulty": "medium",
+      "q": "The fort's massive walls and bastions were primarily constructed using which material?",
+      "options": ["Red sandstone bricks", "Stone and rubble masonry", "White marble", "Reinforced concrete"],
+      "answer": 1,
+      "explanation": "The walls were built largely of stone and rubble masonry quarried from the surrounding hills."
+    },
+    {
+      "id": "kumbhalgarh-fort-q21",
+      "difficulty": "medium",
+      "q": "Today the area surrounding Kumbhalgarh Fort is protected as what kind of conservation area?",
+      "options": ["A wildlife sanctuary", "A marine national park", "A desert biosphere", "A bird-only reserve"],
+      "answer": 0,
+      "explanation": "The fort is surrounded by the Kumbhalgarh Wildlife Sanctuary, home to wolves, leopards and other fauna."
+    },
+    {
+      "id": "kumbhalgarh-fort-q22",
+      "difficulty": "medium",
+      "q": "In which year were the Hill Forts of Rajasthan, including Kumbhalgarh, inscribed on the UNESCO World Heritage List?",
+      "options": ["1983", "2007", "2013", "2019"],
+      "answer": 2,
+      "explanation": "The Hill Forts of Rajasthan were inscribed by UNESCO in 2013."
+    },
+    {
+      "id": "kumbhalgarh-fort-q23",
+      "difficulty": "hard",
+      "q": "Rana Kumbha is said to have largely built Kumbhalgarh over which approximate period?",
+      "options": ["c. 1443 to 1458", "c. 1300 to 1320", "c. 1556 to 1605", "c. 1700 to 1750"],
+      "answer": 0,
+      "explanation": "Rana Kumbha is generally credited with building the fort over roughly the 1440s and 1450s."
+    },
+    {
+      "id": "kumbhalgarh-fort-q24",
+      "difficulty": "hard",
+      "q": "Rana Kumbha is credited with constructing or repairing a large share of Mewar's forts. Roughly how many of the region's forts does tradition attribute to him?",
+      "options": ["About 2", "About 12", "About 32", "About 200"],
+      "answer": 2,
+      "explanation": "Tradition holds that Rana Kumbha built or restored around 32 forts in Mewar, of which Kumbhalgarh is the grandest."
+    },
+    {
+      "id": "kumbhalgarh-fort-q25",
+      "difficulty": "hard",
+      "q": "In 1577-78, in the years following the Battle of Haldighati, Kumbhalgarh was besieged and captured by the forces of which Mughal emperor?",
+      "options": ["Babur", "Akbar", "Shah Jahan", "Aurangzeb"],
+      "answer": 1,
+      "explanation": "Akbar's Mughal forces, led by Shahbaz Khan, besieged and captured Kumbhalgarh around 1577-78, after the Battle of Haldighati (1576)."
+    },
+    {
+      "id": "kumbhalgarh-fort-q26",
+      "difficulty": "hard",
+      "q": "A famous legend says the fort wall's first attempts kept collapsing until what act, advised by a holy man, allowed building to succeed?",
+      "options": ["A diamond was buried in the foundation", "A voluntary human sacrifice was made", "The wall was rebuilt only at night", "A river was diverted around the hill"],
+      "answer": 1,
+      "explanation": "Legend holds that construction succeeded only after a voluntary human sacrifice, with a shrine marking the spot where the head fell."
+    },
+    {
+      "id": "kumbhalgarh-fort-q27",
+      "difficulty": "hard",
+      "q": "Rana Kumbha was a noted patron of the arts; which musical-architectural treatise tradition associates with his court or name?",
+      "options": ["The Sangita Raja", "The Ain-i-Akbari", "The Arthashastra", "The Natyashastra"],
+      "answer": 0,
+      "explanation": "Rana Kumbha was a scholar-king associated with works such as the Sangita Raja, reflecting his patronage of music and learning."
+    },
+    {
+      "id": "kumbhalgarh-fort-q28",
+      "difficulty": "hard",
+      "q": "A defining feature of Kumbhalgarh's defences is that the fort is enclosed by how many fortified gateways along its approaches?",
+      "options": ["A single gate", "Seven great gates", "Forty gates", "No gates, only a moat"],
+      "answer": 1,
+      "explanation": "The fort is defended by a series of seven great fortified gateways guarding its approaches."
+    },
+    {
+      "id": "kumbhalgarh-fort-q29",
+      "difficulty": "hard",
+      "q": "Within the fort stands an early shrine notable for being one of the oldest Hindu temples there, dedicated to which deity associated with Mewar?",
+      "options": ["The Neelkanth Mahadev (Shiva) temple", "A temple to Saturn", "A temple to Surya alone", "A Buddhist stupa"],
+      "answer": 0,
+      "explanation": "The Neelkanth Mahadev temple, dedicated to Shiva, is among the most important and ancient shrines inside the fort."
+    },
+    {
+      "id": "kumbhalgarh-fort-q30",
+      "difficulty": "hard",
+      "q": "The frontier marked by Kumbhalgarh historically separated the territories of Mewar from which neighbouring Rajput kingdom?",
+      "options": ["Marwar", "Bundi", "Kota", "Dungarpur"],
+      "answer": 0,
+      "explanation": "Kumbhalgarh guarded the frontier between Mewar and the neighbouring kingdom of Marwar (Jodhpur)."
+    }
+  ]
+}

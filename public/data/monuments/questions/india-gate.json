@@ -1,0 +1,245 @@
+{
+  "cardId": "india-gate",
+  "questions": [
+    {
+      "id": "india-gate-q01",
+      "difficulty": "easy",
+      "q": "In which city is India Gate located?",
+      "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"],
+      "answer": 0,
+      "explanation": "India Gate stands on the eastern end of the Rajpath (now Kartavya Path) ceremonial axis in New Delhi."
+    },
+    {
+      "id": "india-gate-q02",
+      "difficulty": "easy",
+      "q": "What kind of monument is India Gate?",
+      "options": ["A royal palace", "A war memorial", "A place of worship", "A railway station"],
+      "answer": 1,
+      "explanation": "India Gate is a war memorial honouring soldiers of the British Indian Army who died in the First World War and the Third Anglo-Afghan War."
+    },
+    {
+      "id": "india-gate-q03",
+      "difficulty": "easy",
+      "q": "What is the overall architectural form of India Gate?",
+      "options": ["A dome", "A pyramid", "A triumphal arch", "A minaret"],
+      "answer": 2,
+      "explanation": "India Gate is designed as a triumphal arch, in the tradition of memorial arches such as the Arc de Triomphe."
+    },
+    {
+      "id": "india-gate-q04",
+      "difficulty": "easy",
+      "q": "India Gate primarily commemorates Indian soldiers who died in which conflict?",
+      "options": ["The Second World War", "The 1971 Indo-Pak War", "The Kargil War", "The First World War"],
+      "answer": 3,
+      "explanation": "It chiefly honours the soldiers of the British Indian Army who died in the First World War (1914-1918) and the Third Anglo-Afghan War."
+    },
+    {
+      "id": "india-gate-q05",
+      "difficulty": "easy",
+      "q": "Approximately how tall is India Gate?",
+      "options": ["12 metres", "42 metres", "73 metres", "100 metres"],
+      "answer": 1,
+      "explanation": "India Gate rises about 42 metres (roughly 138 feet) high."
+    },
+    {
+      "id": "india-gate-q06",
+      "difficulty": "easy",
+      "q": "What is the main building material of India Gate?",
+      "options": ["White marble", "Granite only", "Red and pale sandstone", "Brick and concrete only"],
+      "answer": 2,
+      "explanation": "India Gate is built mainly of red and pale (buff) sandstone, with granite at its base."
+    },
+    {
+      "id": "india-gate-q07",
+      "difficulty": "easy",
+      "q": "India Gate sits at the eastern end of which ceremonial avenue?",
+      "options": ["Marine Drive", "Mall Road", "Brigade Road", "Rajpath, now called Kartavya Path"],
+      "answer": 3,
+      "explanation": "India Gate anchors the eastern end of the ceremonial avenue formerly called Rajpath and renamed Kartavya Path in 2022."
+    },
+    {
+      "id": "india-gate-q08",
+      "difficulty": "easy",
+      "q": "What single nation's name is inscribed prominently across the top of the arch?",
+      "options": ["INDIA", "BHARAT", "DELHI", "EMPIRE"],
+      "answer": 0,
+      "explanation": "The word 'INDIA', flanked by the dates of the First World War, is inscribed across the arch above the names of the fallen soldiers."
+    },
+    {
+      "id": "india-gate-q09",
+      "difficulty": "easy",
+      "q": "India Gate is a centrepiece of which planned imperial-era district of the capital?",
+      "options": ["Shahjahanabad", "Lutyens' Delhi", "Salt Lake", "Cyberabad"],
+      "answer": 1,
+      "explanation": "India Gate is a centrepiece of Lutyens' Delhi, the imperial capital district planned in the early 20th century."
+    },
+    {
+      "id": "india-gate-q10",
+      "difficulty": "easy",
+      "q": "A war flame called the Amar Jawan Jyoti once burned beneath India Gate. What did it honour?",
+      "options": ["Freedom fighters of 1857", "Victims of the Bengal famine", "Fallen soldiers, as a tomb of the unknown soldier", "Indian astronauts"],
+      "answer": 2,
+      "explanation": "The Amar Jawan Jyoti, an eternal flame installed in 1972, served as India's tomb of the unknown soldier honouring the war dead."
+    },
+    {
+      "id": "india-gate-q11",
+      "difficulty": "medium",
+      "q": "Who designed India Gate?",
+      "options": ["Herbert Baker", "Sir Edwin Lutyens", "Robert Tor Russell", "Walter George"],
+      "answer": 1,
+      "explanation": "India Gate was designed by Sir Edwin Lutyens, the principal architect of New Delhi."
+    },
+    {
+      "id": "india-gate-q12",
+      "difficulty": "medium",
+      "q": "In which year was the foundation stone of India Gate laid?",
+      "options": ["1911", "1921", "1931", "1947"],
+      "answer": 1,
+      "explanation": "The foundation stone of the All India War Memorial was laid in 1921 by the Duke of Connaught."
+    },
+    {
+      "id": "india-gate-q13",
+      "difficulty": "medium",
+      "q": "In which year was India Gate completed and formally inaugurated?",
+      "options": ["1919", "1925", "1931", "1947"],
+      "answer": 2,
+      "explanation": "India Gate was completed and inaugurated in 1931, around the period New Delhi became the capital."
+    },
+    {
+      "id": "india-gate-q14",
+      "difficulty": "medium",
+      "q": "What was the original official name of India Gate?",
+      "options": ["The All India War Memorial", "The Delhi Memorial Arch", "The Imperial War Gate", "The Connaught Memorial"],
+      "answer": 0,
+      "explanation": "India Gate was originally named the All India War Memorial."
+    },
+    {
+      "id": "india-gate-q15",
+      "difficulty": "medium",
+      "q": "Roughly how many soldiers' names are inscribed on India Gate?",
+      "options": ["About 1,300", "About 13,300", "About 70,000", "About 250,000"],
+      "answer": 1,
+      "explanation": "The names of about 13,300 servicemen are inscribed on India Gate; although the memorial commemorates roughly 70,000-90,000 dead, only around 13,300 individual names are actually carved on it."
+    },
+    {
+      "id": "india-gate-q16",
+      "difficulty": "medium",
+      "q": "Which annual national event is held on the avenue in front of India Gate?",
+      "options": ["The Independence Day flag hoisting", "The Republic Day parade", "The Gandhi Jayanti march", "The Diwali fireworks display"],
+      "answer": 1,
+      "explanation": "The Republic Day parade on 26 January proceeds along the avenue past India Gate each year."
+    },
+    {
+      "id": "india-gate-q17",
+      "difficulty": "medium",
+      "q": "Which monument is the most direct stylistic inspiration for India Gate's arch form?",
+      "options": ["The Gateway of India in Mumbai", "The Brandenburg Gate in Berlin", "The Arc de Triomphe in Paris", "The Marble Arch in London"],
+      "answer": 2,
+      "explanation": "India Gate's triumphal-arch form is most often compared to and inspired by the Arc de Triomphe in Paris."
+    },
+    {
+      "id": "india-gate-q18",
+      "difficulty": "medium",
+      "q": "Besides World War I, India Gate also commemorates soldiers who fell in which specific war?",
+      "options": ["The Anglo-Sikh War", "The Anglo-Burmese War", "The Boer War", "The Third Anglo-Afghan War of 1919"],
+      "answer": 3,
+      "explanation": "India Gate also honours soldiers who died in the Third Anglo-Afghan War of 1919."
+    },
+    {
+      "id": "india-gate-q19",
+      "difficulty": "medium",
+      "q": "A canopy once standing behind India Gate originally sheltered a statue of whom?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "King George V", "Queen Victoria"],
+      "answer": 2,
+      "explanation": "The cupola behind India Gate originally held a statue of King George V, later removed after independence."
+    },
+    {
+      "id": "india-gate-q20",
+      "difficulty": "medium",
+      "q": "What kind of public setting surrounds India Gate, popular with visitors in the evenings?",
+      "options": ["A walled fort courtyard", "Lawns and gardens with water channels", "A covered shopping arcade", "A railway concourse"],
+      "answer": 1,
+      "explanation": "India Gate is set within expansive lawns and gardens framed by ornamental water channels, a popular evening gathering spot."
+    },
+    {
+      "id": "india-gate-q21",
+      "difficulty": "medium",
+      "q": "In 1972, what was added beneath the arch of India Gate to mark a more recent conflict?",
+      "options": ["A bronze relief of the Mahabharata", "A museum of weapons", "The Amar Jawan Jyoti eternal flame", "A fountain"],
+      "answer": 2,
+      "explanation": "The Amar Jawan Jyoti was installed in 1972 following the 1971 Indo-Pakistan War to honour the fallen."
+    },
+    {
+      "id": "india-gate-q22",
+      "difficulty": "medium",
+      "q": "Whose statue was installed in 2022 in the canopy behind India Gate after years of it standing empty?",
+      "options": ["Subhas Chandra Bose", "Mahatma Gandhi", "B. R. Ambedkar", "Sardar Patel"],
+      "answer": 0,
+      "explanation": "In 2022 a black granite statue of Netaji Subhas Chandra Bose was installed in the long-empty canopy behind India Gate."
+    },
+    {
+      "id": "india-gate-q23",
+      "difficulty": "hard",
+      "q": "Which body, with which Lutyens worked extensively, oversaw imperial war memorials like India Gate?",
+      "options": ["The Royal Institute of British Architects", "The Archaeological Survey of India", "The Imperial War Graves Commission", "The Indian National Congress"],
+      "answer": 2,
+      "explanation": "Memorials such as India Gate were associated with the Imperial War Graves Commission, with which Lutyens worked extensively."
+    },
+    {
+      "id": "india-gate-q24",
+      "difficulty": "hard",
+      "q": "Who laid the foundation stone of India Gate in 1921?",
+      "options": ["Lord Irwin", "The Duke of Connaught", "Lord Mountbatten", "King George VI"],
+      "answer": 1,
+      "explanation": "The foundation stone of the All India War Memorial was laid by the Duke of Connaught in February 1921."
+    },
+    {
+      "id": "india-gate-q25",
+      "difficulty": "hard",
+      "q": "In January 2022, the Amar Jawan Jyoti flame was merged with the flame at which nearby memorial?",
+      "options": ["Raj Ghat", "Jallianwala Bagh", "The National War Memorial", "Rajghat Samadhi"],
+      "answer": 2,
+      "explanation": "In January 2022 the Amar Jawan Jyoti was merged with the flame at the nearby National War Memorial."
+    },
+    {
+      "id": "india-gate-q26",
+      "difficulty": "hard",
+      "q": "Which dedication appears on India Gate along with the names of the dead?",
+      "options": ["A tribute to British viceroys", "An honouring of the British Indian Army's dead", "A verse from the national anthem", "The architect's signature"],
+      "answer": 1,
+      "explanation": "The arch bears a dedication to the soldiers of the British Indian Army who gave their lives, with their names inscribed below."
+    },
+    {
+      "id": "india-gate-q27",
+      "difficulty": "hard",
+      "q": "India Gate's design reflects which broad architectural approach Lutyens used in New Delhi?",
+      "options": ["Pure Gothic Revival", "Art Deco", "Brutalism", "Classical forms blended with Indian decorative elements"],
+      "answer": 3,
+      "explanation": "Lutyens blended European classical forms with Indian motifs in New Delhi, an approach reflected in India Gate's restrained classicism."
+    },
+    {
+      "id": "india-gate-q28",
+      "difficulty": "hard",
+      "q": "The shallow domed bowl atop India Gate was designed to be filled with what on ceremonial occasions?",
+      "options": ["Rose petals", "Burning oil to create a flame", "Holy water", "Sand from battlefields"],
+      "answer": 1,
+      "explanation": "The shallow bowl crowning the arch was intended to be filled with burning oil on anniversaries and special occasions."
+    },
+    {
+      "id": "india-gate-q29",
+      "difficulty": "hard",
+      "q": "India Gate forms a grand vista terminating at the western end with which government complex?",
+      "options": ["The Red Fort", "Connaught Place", "Rashtrapati Bhavan on Raisina Hill", "The Supreme Court of India"],
+      "answer": 2,
+      "explanation": "The ceremonial axis runs from India Gate westward up to Rashtrapati Bhavan, the former Viceroy's House, on Raisina Hill."
+    },
+    {
+      "id": "india-gate-q30",
+      "difficulty": "hard",
+      "q": "Which pair of dates is inscribed on India Gate marking the span of the First World War period it honours?",
+      "options": ["1857 and 1859", "1939 and 1945", "1914 and 1919", "1905 and 1911"],
+      "answer": 2,
+      "explanation": "The dates 1914 and 1919 are inscribed on India Gate, bracketing the First World War and its formal close."
+    }
+  ]
+}
