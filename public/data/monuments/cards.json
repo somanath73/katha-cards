@@ -1,0 +1,1007 @@
+{
+  "category": "monuments",
+  "name": "Monuments of India",
+  "questionsPerCard": 30,
+  "cards": [
+    {
+      "id": "qutub-minar",
+      "order": 1,
+      "title": "Qutub Minar",
+      "subtitle": "The Tower of Victory",
+      "type": "place",
+      "emblem": "spear",
+      "palette": "flame",
+      "description": "Delhi's soaring 73-metre fluted sandstone minaret, begun by Qutb-ud-din Aibak in 1199 to mark the founding of the Delhi Sultanate."
+    },
+    {
+      "id": "iron-pillar-delhi",
+      "order": 2,
+      "title": "The Iron Pillar",
+      "subtitle": "The Rustless Wonder",
+      "type": "artifact",
+      "emblem": "spear",
+      "palette": "dusk",
+      "description": "A 4th-century Gupta-era iron column in the Qutb complex, famous for resisting rust for over 1,600 years."
+    },
+    {
+      "id": "red-fort",
+      "order": 3,
+      "title": "Red Fort",
+      "subtitle": "Lal Qila",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "flame",
+      "description": "Shah Jahan's vast red-sandstone fortress-palace in Delhi, completed in 1648; the Prime Minister addresses the nation from its ramparts each Independence Day."
+    },
+    {
+      "id": "humayuns-tomb",
+      "order": 4,
+      "title": "Humayun's Tomb",
+      "subtitle": "The First Garden-Tomb",
+      "type": "place",
+      "emblem": "crown",
+      "palette": "dawn",
+      "description": "The mid-16th-century Mughal mausoleum in Delhi, the subcontinent's first great garden-tomb and a forerunner of the Taj Mahal."
+    },
+    {
+      "id": "jama-masjid-delhi",
+      "order": 5,
+      "title": "Jama Masjid",
+      "subtitle": "The Friday Mosque",
+      "type": "place",
+      "emblem": "moon",
+      "palette": "flame",
+      "description": "Shah Jahan's grand red-sandstone and marble mosque in Old Delhi, completed in 1656 and among the largest in India."
+    },
+    {
+      "id": "india-gate",
+      "order": 6,
+      "title": "India Gate",
+      "subtitle": "The War Memorial",
+      "type": "place",
+      "emblem": "shield",
+      "palette": "dusk",
+      "description": "The 42-metre sandstone arch on Delhi's central vista, honouring the Indian soldiers who died in the First World War and the Third Anglo-Afghan War."
+    },
+    {
+      "id": "lotus-temple",
+      "order": 7,
+      "title": "Lotus Temple",
+      "subtitle": "The Bahai House of Worship",
+      "type": "place",
+      "emblem": "lotus",
+      "palette": "dawn",
+      "description": "Delhi's marble Bahai temple, opened in 1986, shaped like a half-open lotus of twenty-seven petals and open to all faiths."
+    },
+    {
+      "id": "purana-qila",
+      "order": 8,
+      "title": "Purana Qila",
+      "subtitle": "The Old Fort",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "forest",
+      "description": "Delhi's oldest fort, raised by Sher Shah Suri and Humayun on a site long linked with the legendary Indraprastha."
+    },
+    {
+      "id": "taj-mahal",
+      "order": 9,
+      "title": "Taj Mahal",
+      "subtitle": "A Teardrop in Marble",
+      "type": "place",
+      "emblem": "crown",
+      "palette": "dawn",
+      "description": "The white-marble mausoleum at Agra built by Shah Jahan for his wife Mumtaz Mahal, completed around 1653 and the most famous monument in India."
+    },
+    {
+      "id": "agra-fort",
+      "order": 10,
+      "title": "Agra Fort",
+      "subtitle": "The Red Fort of Agra",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "flame",
+      "description": "The great red-sandstone Mughal fort at Agra, residence of emperors from Akbar onward, where Shah Jahan spent his last years gazing at the Taj."
+    },
+    {
+      "id": "fatehpur-sikri",
+      "order": 11,
+      "title": "Fatehpur Sikri",
+      "subtitle": "Akbar's Abandoned Capital",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "flame",
+      "description": "The red-sandstone city built by Akbar in the 1570s as his capital, crowned by the towering Buland Darwaza, soon abandoned for want of water."
+    },
+    {
+      "id": "itimad-ud-daulah",
+      "order": 12,
+      "title": "Itimad-ud-Daulah",
+      "subtitle": "The Baby Taj",
+      "type": "place",
+      "emblem": "crown",
+      "palette": "dawn",
+      "description": "The exquisite Agra tomb built by Nur Jahan for her father, the first Mughal monument faced entirely in white marble with inlaid stone."
+    },
+    {
+      "id": "bara-imambara",
+      "order": 13,
+      "title": "Bara Imambara",
+      "subtitle": "The Maze of Lucknow",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "dusk",
+      "description": "The grand 1784 Lucknow complex built by Nawab Asaf-ud-Daula, famed for its vast pillarless hall and the Bhulbhulaiya labyrinth."
+    },
+    {
+      "id": "dhamek-stupa",
+      "order": 14,
+      "title": "Dhamek Stupa",
+      "subtitle": "Where the Wheel Turned",
+      "type": "place",
+      "emblem": "chakra",
+      "palette": "dusk",
+      "description": "The massive cylindrical stupa at Sarnath marking the spot where the Buddha gave his first sermon, setting the wheel of dharma in motion."
+    },
+    {
+      "id": "lion-capital-sarnath",
+      "order": 15,
+      "title": "The Lion Capital",
+      "subtitle": "Ashoka's Pillar at Sarnath",
+      "type": "artifact",
+      "emblem": "chakra",
+      "palette": "flame",
+      "description": "The Mauryan sandstone capital of four addorsed lions raised by Ashoka at Sarnath, adopted as the State Emblem of India."
+    },
+    {
+      "id": "kashi-vishwanath",
+      "order": 16,
+      "title": "Kashi Vishwanath Temple",
+      "subtitle": "The Golden Temple of Shiva",
+      "type": "place",
+      "emblem": "trident",
+      "palette": "royal",
+      "description": "The revered Shiva temple on the Ganga at Varanasi, its spire and dome plated in gold gifted by Maharaja Ranjit Singh."
+    },
+    {
+      "id": "dashashwamedh-ghat",
+      "order": 17,
+      "title": "Dashashwamedh Ghat",
+      "subtitle": "The Steps of the Ganga",
+      "type": "place",
+      "emblem": "river",
+      "palette": "ocean",
+      "description": "The most famous riverfront ghat at Varanasi, where the grand evening Ganga Aarti is performed before crowds of pilgrims."
+    },
+    {
+      "id": "jhansi-fort",
+      "order": 18,
+      "title": "Jhansi Fort",
+      "subtitle": "Rani Lakshmibai's Stronghold",
+      "type": "place",
+      "emblem": "shield",
+      "palette": "forest",
+      "description": "The hilltop fort in Bundelkhand defended by Rani Lakshmibai during the 1857 uprising against the British."
+    },
+    {
+      "id": "amber-fort",
+      "order": 19,
+      "title": "Amber Fort",
+      "subtitle": "The Amber Palace",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "dawn",
+      "description": "The hilltop fort-palace near Jaipur begun by Raja Man Singh in 1592, blending Rajput and Mughal styles above Maota Lake."
+    },
+    {
+      "id": "hawa-mahal",
+      "order": 20,
+      "title": "Hawa Mahal",
+      "subtitle": "The Palace of Winds",
+      "type": "place",
+      "emblem": "crown",
+      "palette": "flame",
+      "description": "Jaipur's pink-sandstone façade of 1799, a honeycomb of 953 latticed windows from which royal women watched the street unseen."
+    },
+    {
+      "id": "city-palace-jaipur",
+      "order": 21,
+      "title": "City Palace, Jaipur",
+      "subtitle": "Seat of the Maharajas",
+      "type": "place",
+      "emblem": "throne",
+      "palette": "royal",
+      "description": "The sprawling palace complex at the heart of Jaipur, begun by Sawai Jai Singh II and still home to the city's royal family."
+    },
+    {
+      "id": "jantar-mantar-jaipur",
+      "order": 22,
+      "title": "Jantar Mantar",
+      "subtitle": "The Stone Observatory",
+      "type": "place",
+      "emblem": "star",
+      "palette": "dusk",
+      "description": "Sawai Jai Singh II's 18th-century Jaipur observatory of giant masonry instruments, including the world's largest stone sundial."
+    },
+    {
+      "id": "mehrangarh-fort",
+      "order": 23,
+      "title": "Mehrangarh Fort",
+      "subtitle": "The Citadel of Jodhpur",
+      "type": "place",
+      "emblem": "shield",
+      "palette": "dawn",
+      "description": "The mighty fort rising 120 metres above the blue city of Jodhpur, founded by Rao Jodha in 1459 and lined with carved palaces."
+    },
+    {
+      "id": "jaisalmer-fort",
+      "order": 24,
+      "title": "Jaisalmer Fort",
+      "subtitle": "The Golden Fort",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "dawn",
+      "description": "The 'Sonar Quila' of yellow sandstone rising from the Thar Desert, founded in 1156 and one of the world's few still-inhabited living forts."
+    },
+    {
+      "id": "chittorgarh-fort",
+      "order": 25,
+      "title": "Chittorgarh Fort",
+      "subtitle": "The Pride of Mewar",
+      "type": "place",
+      "emblem": "shield",
+      "palette": "flame",
+      "description": "The vast hill fort of Mewar, scene of legendary Rajput sieges and jauhar, crowned by the Vijay Stambha tower of victory."
+    },
+    {
+      "id": "kumbhalgarh-fort",
+      "order": 26,
+      "title": "Kumbhalgarh Fort",
+      "subtitle": "The Great Wall of India",
+      "type": "place",
+      "emblem": "shield",
+      "palette": "forest",
+      "description": "The 15th-century Mewar fort whose perimeter wall runs some 36 kilometres, among the longest in the world; birthplace of Maharana Pratap."
+    },
+    {
+      "id": "city-palace-udaipur",
+      "order": 27,
+      "title": "City Palace, Udaipur",
+      "subtitle": "The Palace on Lake Pichola",
+      "type": "place",
+      "emblem": "throne",
+      "palette": "ocean",
+      "description": "The grand lakeside palace complex of Mewar at Udaipur, begun by Udai Singh II, overlooking the island Lake Palace."
+    },
+    {
+      "id": "dilwara-temples",
+      "order": 28,
+      "title": "Dilwara Temples",
+      "subtitle": "Marble Lacework",
+      "type": "place",
+      "emblem": "lotus",
+      "palette": "dawn",
+      "description": "The Jain temples at Mount Abu, built between the 11th and 13th centuries, renowned for astonishingly intricate white-marble carving."
+    },
+    {
+      "id": "ranakpur-temple",
+      "order": 29,
+      "title": "Ranakpur Jain Temple",
+      "subtitle": "The Temple of 1,444 Pillars",
+      "type": "place",
+      "emblem": "lotus",
+      "palette": "dawn",
+      "description": "The 15th-century marble Jain temple in Rajasthan dedicated to Adinatha, supported by 1,444 uniquely carved pillars."
+    },
+    {
+      "id": "junagarh-fort",
+      "order": 30,
+      "title": "Junagarh Fort",
+      "subtitle": "The Fort of Bikaner",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "flame",
+      "description": "The fort at Bikaner raised by Raja Rai Singh in the 1590s, never conquered, holding opulent palaces within its walls."
+    },
+    {
+      "id": "khajuraho",
+      "order": 31,
+      "title": "Khajuraho Temples",
+      "subtitle": "Poetry in Stone",
+      "type": "place",
+      "emblem": "conch",
+      "palette": "dusk",
+      "description": "The Chandela temples of the 10th and 11th centuries in Madhya Pradesh, famed for their sensuous and intricate sculpture."
+    },
+    {
+      "id": "sanchi-stupa",
+      "order": 32,
+      "title": "Sanchi Stupa",
+      "subtitle": "The Great Stupa",
+      "type": "place",
+      "emblem": "chakra",
+      "palette": "forest",
+      "description": "The hemispherical Buddhist stupa commissioned by Ashoka in the 3rd century BCE, ringed by elaborately carved gateways (toranas)."
+    },
+    {
+      "id": "gwalior-fort",
+      "order": 33,
+      "title": "Gwalior Fort",
+      "subtitle": "The Gibraltar of India",
+      "type": "place",
+      "emblem": "shield",
+      "palette": "forest",
+      "description": "The hilltop fortress dominating Gwalior, prized for centuries and adorned with the blue-tiled Man Mandir palace."
+    },
+    {
+      "id": "orchha-fort",
+      "order": 34,
+      "title": "Orchha Fort",
+      "subtitle": "Bundela Splendour",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "dawn",
+      "description": "The riverside fort-palace of the Bundela kings at Orchha, with the soaring Jahangir Mahal and royal cenotaphs along the Betwa."
+    },
+    {
+      "id": "jahaz-mahal",
+      "order": 35,
+      "title": "Jahaz Mahal",
+      "subtitle": "The Ship Palace",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "ocean",
+      "description": "The 'ship palace' of Mandu, seeming to float between two lakes, built for the court of Sultan Ghiyas-ud-din Khalji."
+    },
+    {
+      "id": "bhimbetka",
+      "order": 36,
+      "title": "Bhimbetka Rock Shelters",
+      "subtitle": "India's Oldest Canvas",
+      "type": "place",
+      "emblem": "mountain",
+      "palette": "dusk",
+      "description": "The rock shelters of Madhya Pradesh whose cave paintings span many thousands of years, among the earliest traces of human life in India."
+    },
+    {
+      "id": "bhojeshwar-temple",
+      "order": 37,
+      "title": "Bhojeshwar Temple",
+      "subtitle": "The Unfinished Shiva Temple",
+      "type": "place",
+      "emblem": "trident",
+      "palette": "forest",
+      "description": "The 11th-century temple at Bhojpur housing one of India's largest single-stone Shiva lingams, left unfinished by King Bhoja."
+    },
+    {
+      "id": "rani-ki-vav",
+      "order": 38,
+      "title": "Rani ki Vav",
+      "subtitle": "The Queen's Stepwell",
+      "type": "place",
+      "emblem": "river",
+      "palette": "dawn",
+      "description": "The 11th-century stepwell at Patan, built as a memorial by Queen Udayamati, descending in carved terraces of over 500 sculptures."
+    },
+    {
+      "id": "modhera-sun-temple",
+      "order": 39,
+      "title": "Modhera Sun Temple",
+      "subtitle": "Temple of the Sun",
+      "type": "place",
+      "emblem": "sun",
+      "palette": "dawn",
+      "description": "The 11th-century Solanki temple to Surya at Modhera, aligned so the rising sun lights the sanctum at the equinoxes."
+    },
+    {
+      "id": "somnath-temple",
+      "order": 40,
+      "title": "Somnath Temple",
+      "subtitle": "The Eternal Shrine",
+      "type": "place",
+      "emblem": "trident",
+      "palette": "ocean",
+      "description": "The Shiva temple on the Gujarat coast, first of the twelve jyotirlingas, destroyed and rebuilt many times across the centuries."
+    },
+    {
+      "id": "dwarkadhish-temple",
+      "order": 41,
+      "title": "Dwarkadhish Temple",
+      "subtitle": "The Abode of Krishna",
+      "type": "place",
+      "emblem": "conch",
+      "palette": "ocean",
+      "description": "The towering five-storey temple to Krishna at Dwarka, one of the Char Dham pilgrimage sites, flying a great flag changed daily."
+    },
+    {
+      "id": "adalaj-stepwell",
+      "order": 42,
+      "title": "Adalaj Stepwell",
+      "subtitle": "A Well of Carved Light",
+      "type": "place",
+      "emblem": "river",
+      "palette": "dusk",
+      "description": "The five-storey 1498 stepwell near Ahmedabad, blending Hindu and Islamic motifs in cool carved galleries below ground."
+    },
+    {
+      "id": "dholavira",
+      "order": 43,
+      "title": "Dholavira",
+      "subtitle": "A Harappan City",
+      "type": "place",
+      "emblem": "vessel",
+      "palette": "dawn",
+      "description": "The Harappan city in the Kutch desert, over 4,500 years old, with sophisticated water reservoirs and an ancient signboard."
+    },
+    {
+      "id": "statue-of-unity",
+      "order": 44,
+      "title": "Statue of Unity",
+      "subtitle": "The World's Tallest Statue",
+      "type": "artifact",
+      "emblem": "mountain",
+      "palette": "dawn",
+      "description": "The 182-metre statue of Sardar Vallabhbhai Patel on the Narmada, unveiled in 2018 as the tallest statue in the world."
+    },
+    {
+      "id": "sabarmati-ashram",
+      "order": 45,
+      "title": "Sabarmati Ashram",
+      "subtitle": "Gandhi's Home",
+      "type": "place",
+      "emblem": "scroll",
+      "palette": "dawn",
+      "description": "Mahatma Gandhi's riverside ashram at Ahmedabad, from which he set out on the 1930 Salt March to Dandi."
+    },
+    {
+      "id": "ajanta-caves",
+      "order": 46,
+      "title": "Ajanta Caves",
+      "subtitle": "The Painted Caves",
+      "type": "place",
+      "emblem": "mountain",
+      "palette": "dusk",
+      "description": "The rock-cut Buddhist caves of Maharashtra, carved from the 2nd century BCE, celebrated for their ancient murals of the Buddha's lives."
+    },
+    {
+      "id": "ellora-caves",
+      "order": 47,
+      "title": "Ellora Caves",
+      "subtitle": "The Kailasa Temple",
+      "type": "place",
+      "emblem": "mountain",
+      "palette": "dusk",
+      "description": "The cave complex near Aurangabad where the colossal Kailasa temple was carved top-down from a single rock, spanning Buddhist, Hindu and Jain faiths."
+    },
+    {
+      "id": "elephanta-caves",
+      "order": 48,
+      "title": "Elephanta Caves",
+      "subtitle": "The Cave of Shiva",
+      "type": "place",
+      "emblem": "trident",
+      "palette": "ocean",
+      "description": "The rock-cut Shiva caves on an island off Mumbai, dominated by the great three-headed Trimurti sculpture."
+    },
+    {
+      "id": "gateway-of-india",
+      "order": 49,
+      "title": "Gateway of India",
+      "subtitle": "The Arch of Mumbai",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "ocean",
+      "description": "The basalt triumphal arch on Mumbai's waterfront, completed in 1924, through which the last British troops departed India in 1948."
+    },
+    {
+      "id": "cst-mumbai",
+      "order": 50,
+      "title": "Chhatrapati Shivaji Terminus",
+      "subtitle": "A Victorian Gothic Marvel",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "dusk",
+      "description": "Mumbai's grand 1888 railway terminus, an exuberant fusion of Victorian Gothic and Indian styles designed by F. W. Stevens."
+    },
+    {
+      "id": "bibi-ka-maqbara",
+      "order": 51,
+      "title": "Bibi Ka Maqbara",
+      "subtitle": "The Taj of the Deccan",
+      "type": "place",
+      "emblem": "crown",
+      "palette": "dawn",
+      "description": "The 17th-century Aurangabad mausoleum built for Aurangzeb's wife, modelled on the Taj Mahal at smaller scale."
+    },
+    {
+      "id": "raigad-fort",
+      "order": 52,
+      "title": "Raigad Fort",
+      "subtitle": "Shivaji's Capital",
+      "type": "place",
+      "emblem": "shield",
+      "palette": "forest",
+      "description": "The hill fort in the Sahyadris where Shivaji was crowned Chhatrapati in 1674, capital of the Maratha kingdom."
+    },
+    {
+      "id": "daulatabad-fort",
+      "order": 53,
+      "title": "Daulatabad Fort",
+      "subtitle": "The Hill of Devagiri",
+      "type": "place",
+      "emblem": "shield",
+      "palette": "forest",
+      "description": "The formidable conical hill fort near Aurangabad, once Muhammad bin Tughlaq's short-lived imperial capital."
+    },
+    {
+      "id": "hampi",
+      "order": 54,
+      "title": "Hampi",
+      "subtitle": "The Ruins of Vijayanagara",
+      "type": "place",
+      "emblem": "crown",
+      "palette": "dusk",
+      "description": "The vast ruined capital of the Vijayanagara Empire on the Tungabhadra, strewn with temples, bazaars and the great Virupaksha shrine."
+    },
+    {
+      "id": "stone-chariot-hampi",
+      "order": 55,
+      "title": "The Stone Chariot",
+      "subtitle": "Hampi's Vittala Temple",
+      "type": "artifact",
+      "emblem": "chariot",
+      "palette": "dusk",
+      "description": "The iconic stone chariot shrine in Hampi's Vittala Temple complex, an emblem of Karnataka whose wheels were once able to turn."
+    },
+    {
+      "id": "mysore-palace",
+      "order": 56,
+      "title": "Mysore Palace",
+      "subtitle": "The Wodeyar Seat",
+      "type": "place",
+      "emblem": "throne",
+      "palette": "royal",
+      "description": "The opulent Indo-Saracenic palace of the Wodeyar kings at Mysuru, dazzlingly illuminated during the Dasara festival."
+    },
+    {
+      "id": "gol-gumbaz",
+      "order": 57,
+      "title": "Gol Gumbaz",
+      "subtitle": "The Whispering Dome",
+      "type": "place",
+      "emblem": "crown",
+      "palette": "forest",
+      "description": "The 17th-century tomb of Sultan Mohammed Adil Shah at Bijapur, crowned by one of the world's largest domes and a famous whispering gallery."
+    },
+    {
+      "id": "hoysaleswara-temple",
+      "order": 58,
+      "title": "Hoysaleswara Temple",
+      "subtitle": "The Halebidu Masterpiece",
+      "type": "place",
+      "emblem": "trident",
+      "palette": "dusk",
+      "description": "The 12th-century Hoysala twin Shiva temple at Halebidu, its soapstone walls covered in friezes of unmatched detail."
+    },
+    {
+      "id": "chennakeshava-temple",
+      "order": 59,
+      "title": "Chennakeshava Temple",
+      "subtitle": "The Belur Jewel",
+      "type": "place",
+      "emblem": "conch",
+      "palette": "dusk",
+      "description": "The 12th-century Hoysala temple to Vishnu at Belur, built by King Vishnuvardhana and renowned for its sculpted bracket figures."
+    },
+    {
+      "id": "gomateshwara",
+      "order": 60,
+      "title": "Gomateshwara",
+      "subtitle": "The Colossus of Shravanabelagola",
+      "type": "artifact",
+      "emblem": "lotus",
+      "palette": "dawn",
+      "description": "The 17-metre monolithic statue of the Jain saint Bahubali, carved around 981 CE and anointed in the grand Mahamastakabhisheka."
+    },
+    {
+      "id": "badami-caves",
+      "order": 61,
+      "title": "Badami Cave Temples",
+      "subtitle": "Chalukyan Rock Art",
+      "type": "place",
+      "emblem": "mountain",
+      "palette": "flame",
+      "description": "The 6th-century rock-cut cave temples of the early Chalukyas at Badami, hewn from red sandstone cliffs above Agastya Lake."
+    },
+    {
+      "id": "pattadakal",
+      "order": 62,
+      "title": "Pattadakal",
+      "subtitle": "A Cradle of Temple Building",
+      "type": "place",
+      "emblem": "conch",
+      "palette": "dusk",
+      "description": "The Chalukyan temple complex in Karnataka where northern and southern temple styles met, a UNESCO World Heritage Site."
+    },
+    {
+      "id": "brihadeeswarar-temple",
+      "order": 63,
+      "title": "Brihadeeswarar Temple",
+      "subtitle": "The Great Chola Temple",
+      "type": "place",
+      "emblem": "trident",
+      "palette": "royal",
+      "description": "Raja Raja Chola's towering granite Shiva temple at Thanjavur, completed in 1010, its vimana among the tallest in the world."
+    },
+    {
+      "id": "meenakshi-temple",
+      "order": 64,
+      "title": "Meenakshi Amman Temple",
+      "subtitle": "The Temple of Madurai",
+      "type": "place",
+      "emblem": "lotus",
+      "palette": "flame",
+      "description": "The vast Madurai temple to Meenakshi and Sundareswarar, its towering gopurams covered in thousands of brightly painted figures."
+    },
+    {
+      "id": "shore-temple",
+      "order": 65,
+      "title": "Shore Temple",
+      "subtitle": "The Temple by the Sea",
+      "type": "place",
+      "emblem": "trident",
+      "palette": "ocean",
+      "description": "The early-8th-century Pallava temple at Mahabalipuram standing against the Bay of Bengal, one of the oldest stone temples in South India."
+    },
+    {
+      "id": "pancha-rathas",
+      "order": 66,
+      "title": "Pancha Rathas",
+      "subtitle": "The Five Chariots",
+      "type": "artifact",
+      "emblem": "chariot",
+      "palette": "dawn",
+      "description": "The five monolithic Pallava shrines at Mahabalipuram, each carved as a 'ratha' from a single rock in the 7th century."
+    },
+    {
+      "id": "arjunas-penance",
+      "order": 67,
+      "title": "Arjuna's Penance",
+      "subtitle": "The Descent of the Ganges",
+      "type": "artifact",
+      "emblem": "river",
+      "palette": "dawn",
+      "description": "The giant 7th-century Pallava bas-relief at Mahabalipuram, among the largest open-air rock reliefs in the world."
+    },
+    {
+      "id": "airavatesvara-temple",
+      "order": 68,
+      "title": "Airavatesvara Temple",
+      "subtitle": "The Chariot of Darasuram",
+      "type": "place",
+      "emblem": "chariot",
+      "palette": "dusk",
+      "description": "The 12th-century Chola temple at Darasuram, shaped as a great stone chariot and famed for its musical stone steps."
+    },
+    {
+      "id": "ramanathaswamy-temple",
+      "order": 69,
+      "title": "Ramanathaswamy Temple",
+      "subtitle": "The Corridor of Rameswaram",
+      "type": "place",
+      "emblem": "conch",
+      "palette": "ocean",
+      "description": "The island temple at Rameswaram with the longest pillared corridor of any Hindu temple, both a Char Dham and a jyotirlinga site."
+    },
+    {
+      "id": "rock-fort-trichy",
+      "order": 70,
+      "title": "Rockfort Temple",
+      "subtitle": "The Rock of Tiruchirappalli",
+      "type": "place",
+      "emblem": "mountain",
+      "palette": "flame",
+      "description": "The temple complex perched atop an ancient rock outcrop at Tiruchirappalli, reached by hundreds of steps cut into the stone."
+    },
+    {
+      "id": "charminar",
+      "order": 71,
+      "title": "Charminar",
+      "subtitle": "The Four Minarets",
+      "type": "place",
+      "emblem": "moon",
+      "palette": "flame",
+      "description": "Hyderabad's 1591 monument of four grand arches and minarets, raised by Muhammad Quli Qutb Shah at the founding of the city."
+    },
+    {
+      "id": "golconda-fort",
+      "order": 72,
+      "title": "Golconda Fort",
+      "subtitle": "The Citadel of Diamonds",
+      "type": "place",
+      "emblem": "shield",
+      "palette": "dusk",
+      "description": "The great granite fort of the Qutb Shahis near Hyderabad, once the centre of the world's diamond trade, with remarkable acoustics."
+    },
+    {
+      "id": "qutb-shahi-tombs",
+      "order": 73,
+      "title": "Qutb Shahi Tombs",
+      "subtitle": "The Royal Necropolis",
+      "type": "place",
+      "emblem": "crown",
+      "palette": "dusk",
+      "description": "The domed tombs of the Qutb Shahi sultans set in gardens near Golconda, blending Persian, Pathan and Hindu styles."
+    },
+    {
+      "id": "ramappa-temple",
+      "order": 74,
+      "title": "Ramappa Temple",
+      "subtitle": "The Floating-Brick Temple",
+      "type": "place",
+      "emblem": "trident",
+      "palette": "forest",
+      "description": "The 13th-century Kakatiya Shiva temple in Telangana, built with bricks light enough to float; a UNESCO World Heritage Site."
+    },
+    {
+      "id": "warangal-fort",
+      "order": 75,
+      "title": "Warangal Fort",
+      "subtitle": "The Kakatiya Capital",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "dusk",
+      "description": "The ruined fort of the Kakatiya dynasty at Warangal, famed for its ornate carved gateways, the Kakatiya Kala Thoranam."
+    },
+    {
+      "id": "lepakshi-temple",
+      "order": 76,
+      "title": "Lepakshi Temple",
+      "subtitle": "The Hanging Pillar",
+      "type": "place",
+      "emblem": "conch",
+      "palette": "flame",
+      "description": "The 16th-century Vijayanagara temple in Andhra Pradesh, known for its hanging pillar, giant monolithic Nandi and ceiling murals."
+    },
+    {
+      "id": "padmanabhaswamy-temple",
+      "order": 77,
+      "title": "Padmanabhaswamy Temple",
+      "subtitle": "The Reclining Vishnu",
+      "type": "place",
+      "emblem": "conch",
+      "palette": "dawn",
+      "description": "The Thiruvananthapuram temple to Vishnu reclining on the serpent Anantha, famed for its carved gopuram and legendary vaults."
+    },
+    {
+      "id": "mattancherry-palace",
+      "order": 78,
+      "title": "Mattancherry Palace",
+      "subtitle": "The Dutch Palace",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "forest",
+      "description": "The Kochi palace built by the Portuguese and renovated by the Dutch, lined with some of India's finest Hindu murals."
+    },
+    {
+      "id": "bekal-fort",
+      "order": 79,
+      "title": "Bekal Fort",
+      "subtitle": "The Keyhole by the Sea",
+      "type": "place",
+      "emblem": "shield",
+      "palette": "ocean",
+      "description": "The large keyhole-shaped laterite fort on the Kerala coast, its observation tower looking out over the Arabian Sea."
+    },
+    {
+      "id": "bom-jesus-basilica",
+      "order": 80,
+      "title": "Basilica of Bom Jesus",
+      "subtitle": "The Shrine of Old Goa",
+      "type": "place",
+      "emblem": "star",
+      "palette": "dawn",
+      "description": "The 16th-century baroque basilica in Old Goa holding the relics of St Francis Xavier; a UNESCO World Heritage Site."
+    },
+    {
+      "id": "se-cathedral-goa",
+      "order": 81,
+      "title": "Sé Cathedral",
+      "subtitle": "The Great Church of Goa",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "dawn",
+      "description": "One of Asia's largest churches, raised by the Portuguese in Old Goa and home to the famed Golden Bell."
+    },
+    {
+      "id": "aguada-fort",
+      "order": 82,
+      "title": "Fort Aguada",
+      "subtitle": "The Watchtower of Goa",
+      "type": "place",
+      "emblem": "shield",
+      "palette": "ocean",
+      "description": "The 17th-century Portuguese coastal fort and lighthouse guarding the mouth of the Mandovi against the Dutch and Marathas."
+    },
+    {
+      "id": "victoria-memorial",
+      "order": 83,
+      "title": "Victoria Memorial",
+      "subtitle": "The Marble Hall of Kolkata",
+      "type": "place",
+      "emblem": "crown",
+      "palette": "dawn",
+      "description": "The grand white-marble memorial to Queen Victoria in Kolkata, completed in 1921 and now a museum of the Raj era."
+    },
+    {
+      "id": "howrah-bridge",
+      "order": 84,
+      "title": "Howrah Bridge",
+      "subtitle": "The Gateway to Kolkata",
+      "type": "place",
+      "emblem": "river",
+      "palette": "ocean",
+      "description": "The great cantilever bridge over the Hooghly, opened in 1943, carrying vast daily crowds without a single pier in the river."
+    },
+    {
+      "id": "dakshineswar-temple",
+      "order": 85,
+      "title": "Dakshineswar Kali Temple",
+      "subtitle": "Ramakrishna's Shrine",
+      "type": "place",
+      "emblem": "trident",
+      "palette": "ocean",
+      "description": "The 19th-century Kali temple on the Hooghly near Kolkata, founded by Rani Rashmoni and linked to the saint Ramakrishna."
+    },
+    {
+      "id": "konark-sun-temple",
+      "order": 86,
+      "title": "Konark Sun Temple",
+      "subtitle": "The Chariot of the Sun",
+      "type": "place",
+      "emblem": "sun",
+      "palette": "flame",
+      "description": "The 13th-century Odisha temple to Surya built as a colossal stone chariot with twelve pairs of carved wheels drawn by seven horses."
+    },
+    {
+      "id": "jagannath-temple-puri",
+      "order": 87,
+      "title": "Jagannath Temple",
+      "subtitle": "The Lord of the Universe",
+      "type": "place",
+      "emblem": "chakra",
+      "palette": "flame",
+      "description": "The great 12th-century temple at Puri to Jagannath, whose deities ride out each year on towering chariots in the Rath Yatra."
+    },
+    {
+      "id": "lingaraja-temple",
+      "order": 88,
+      "title": "Lingaraja Temple",
+      "subtitle": "The Heart of Bhubaneswar",
+      "type": "place",
+      "emblem": "trident",
+      "palette": "dusk",
+      "description": "The 11th-century Kalinga-style Shiva temple dominating Bhubaneswar, the ancient 'temple city' of Odisha."
+    },
+    {
+      "id": "udayagiri-caves-odisha",
+      "order": 89,
+      "title": "Udayagiri Caves",
+      "subtitle": "The Jain Hermitage",
+      "type": "place",
+      "emblem": "mountain",
+      "palette": "forest",
+      "description": "The rock-cut caves near Bhubaneswar carved for Jain monks under King Kharavela, bearing the famous Hathigumpha inscription."
+    },
+    {
+      "id": "hazarduari-palace",
+      "order": 90,
+      "title": "Hazarduari Palace",
+      "subtitle": "The Palace of a Thousand Doors",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "dawn",
+      "description": "The 19th-century Italianate palace at Murshidabad, built for the Nawabs of Bengal, with its thousand doors, many of them false."
+    },
+    {
+      "id": "mahabodhi-temple",
+      "order": 91,
+      "title": "Mahabodhi Temple",
+      "subtitle": "Where the Buddha Awoke",
+      "type": "place",
+      "emblem": "tree",
+      "palette": "forest",
+      "description": "The temple at Bodh Gaya beside the Bodhi tree under which the Buddha attained enlightenment, among Buddhism's holiest sites."
+    },
+    {
+      "id": "nalanda",
+      "order": 92,
+      "title": "Nalanda Mahavihara",
+      "subtitle": "The Ancient University",
+      "type": "place",
+      "emblem": "scroll",
+      "palette": "forest",
+      "description": "The ruins of the great Buddhist monastic university in Bihar, a centre of learning from the 5th century until its destruction around 1200."
+    },
+    {
+      "id": "golghar-patna",
+      "order": 93,
+      "title": "Golghar",
+      "subtitle": "The Great Granary",
+      "type": "place",
+      "emblem": "vessel",
+      "palette": "dawn",
+      "description": "The beehive-shaped colonial granary built at Patna in 1786 after a famine, climbed by two sweeping spiral stairways."
+    },
+    {
+      "id": "golden-temple",
+      "order": 94,
+      "title": "Golden Temple",
+      "subtitle": "Harmandir Sahib",
+      "type": "place",
+      "emblem": "lotus",
+      "palette": "dawn",
+      "description": "The holiest shrine of Sikhism at Amritsar, its gilded sanctum set in the sacred Amrit Sarovar pool and open on all four sides."
+    },
+    {
+      "id": "jallianwala-bagh",
+      "order": 95,
+      "title": "Jallianwala Bagh",
+      "subtitle": "A Garden of Memory",
+      "type": "place",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "The walled Amritsar garden where troops fired on a peaceful gathering in 1919, a turning point in India's freedom struggle."
+    },
+    {
+      "id": "leh-palace",
+      "order": 96,
+      "title": "Leh Palace",
+      "subtitle": "The Roof of Ladakh",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "dusk",
+      "description": "The nine-storey 17th-century royal palace overlooking Leh, built by King Sengge Namgyal in the manner of Tibet's Potala."
+    },
+    {
+      "id": "thiksey-monastery",
+      "order": 97,
+      "title": "Thiksey Monastery",
+      "subtitle": "The Little Potala",
+      "type": "place",
+      "emblem": "chakra",
+      "palette": "ocean",
+      "description": "The hilltop Buddhist gompa near Leh, resembling the Potala Palace, home to a giant statue of the future Buddha Maitreya."
+    },
+    {
+      "id": "key-monastery",
+      "order": 98,
+      "title": "Key Monastery",
+      "subtitle": "The Fort of Spiti",
+      "type": "place",
+      "emblem": "mountain",
+      "palette": "forest",
+      "description": "The thousand-year-old Tibetan Buddhist monastery perched on a crag high in the Spiti Valley of Himachal Pradesh."
+    },
+    {
+      "id": "kamakhya-temple",
+      "order": 99,
+      "title": "Kamakhya Temple",
+      "subtitle": "The Shakti Shrine of Assam",
+      "type": "place",
+      "emblem": "trident",
+      "palette": "flame",
+      "description": "The hilltop temple near Guwahati to the goddess Kamakhya, among the most revered Shakti Peethas and centre of the Ambubachi Mela."
+    },
+    {
+      "id": "rang-ghar",
+      "order": 100,
+      "title": "Rang Ghar",
+      "subtitle": "The Colosseum of the East",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "forest",
+      "description": "The two-storey 18th-century Ahom pavilion near Sivasagar in Assam, one of Asia's oldest surviving amphitheatres."
+    }
+  ]
+}
