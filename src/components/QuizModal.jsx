@@ -12,7 +12,7 @@ import { BACKEND } from '../lib/supabase'
 
 const DIFF_TABS = ['all', 'easy', 'medium', 'hard']
 
-export default function QuizModal({ card, categoryId, progress, premium, onUpgrade, onClose }) {
+export default function QuizModal({ card, categoryId, progress, premium, onUpgrade, onClose, daily = false, deckName }) {
   const pal = paletteFor(card.palette)
   const imgSrc = card.image ? withV(`${import.meta.env.BASE_URL}data/${categoryId}/${card.image}`) : null
   const [bank, setBank] = useState(null)
@@ -23,7 +23,7 @@ export default function QuizModal({ card, categoryId, progress, premium, onUpgra
   const [qi, setQi] = useState(0)
   const [picked, setPicked] = useState(null)
   const [score, setScore] = useState(0)
-  const [difficulty, setDifficulty] = useState(premium ? 'all' : 'easy')
+  const [difficulty, setDifficulty] = useState(daily ? 'hard' : premium ? 'all' : 'easy')
   const [premiumQs, setPremiumQs] = useState(null) // medium/hard from the server (accounts mode)
   const [loadingPremium, setLoadingPremium] = useState(false)
   const retryRef = useRef(null)
@@ -59,8 +59,10 @@ export default function QuizModal({ card, categoryId, progress, premium, onUpgra
   }, [card.id, categoryId])
 
   const begin = async () => {
-    const diff = premium ? difficulty : 'easy'
-    const limited = !premium && BACKEND && FREE_DAILY_DRAWS > 0
+    const diff = daily ? 'hard' : premium ? difficulty : 'easy'
+    // The daily challenge is its own free round — it doesn't count against the
+    // free-play limit.
+    const limited = !daily && !premium && BACKEND && FREE_DAILY_DRAWS > 0
     if (limited && freeDrawsLeft() <= 0) {
       sfx('locked')
       setStage('limit')
@@ -69,7 +71,7 @@ export default function QuizModal({ card, categoryId, progress, premium, onUpgra
     let pool = bank
     // Content protection: in accounts mode the static bank holds only easy
     // questions — fetch the protected medium/hard set from the server.
-    if (BACKEND && premium && diff !== 'easy') {
+    if (BACKEND && diff !== 'easy' && (premium || daily)) {
       let pq = premiumQs
       if (pq === null) {
         setLoadingPremium(true)
@@ -79,7 +81,9 @@ export default function QuizModal({ card, categoryId, progress, premium, onUpgra
       }
       pool = [...bank, ...pq]
     }
-    setQs(drawQuestions(pool, 3, progress.seenFor(card.id), { difficulty: diff, premium }))
+    // premium:true forces a real difficulty-filtered draw — the daily challenge
+    // serves Hard to everyone, regardless of the player's plan.
+    setQs(drawQuestions(pool, 3, progress.seenFor(card.id), { difficulty: diff, premium: premium || daily }))
     if (limited) noteFreeDraw()
     sfx('flip')
     setStage('quiz')
@@ -173,7 +177,12 @@ export default function QuizModal({ card, categoryId, progress, premium, onUpgra
             <p className="reveal-desc">{card.description}</p>
             {bank ? (
               <>
-                <div className="diff-pick" role="group" aria-label="Question difficulty">
+                {daily && (
+                  <div className="daily-banner">
+                    🗓️ Daily Challenge{deckName ? ` · ${deckName}` : ''} · <b>Hard</b>
+                  </div>
+                )}
+                <div className="diff-pick" role="group" aria-label="Question difficulty" hidden={daily}>
                   {DIFF_TABS.map((d) => {
                     const locked = !premium && d !== 'easy'
                     const on = (premium ? difficulty : 'easy') === d
@@ -195,9 +204,11 @@ export default function QuizModal({ card, categoryId, progress, premium, onUpgra
                 <button className="btn-gold pulse" onClick={begin} disabled={loadingPremium}>
                   {loadingPremium
                     ? 'Summoning questions…'
-                    : `Draw 3 ${premium ? (difficulty === 'all' ? '' : `${difficulty} `) : 'easy '}questions`}
+                    : daily
+                      ? "Begin today's challenge"
+                      : `Draw 3 ${premium ? (difficulty === 'all' ? '' : `${difficulty} `) : 'easy '}questions`}
                 </button>
-                {!premium && (
+                {!premium && !daily && (
                   <button className="reveal-upsell linklike" onClick={() => onUpgrade()}>
                     Free plan · easy questions only. <b>Go Premium</b> for medium, hard &amp; fresh draws →
                   </button>

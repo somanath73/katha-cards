@@ -3,8 +3,10 @@ import Landing from './components/Landing'
 import Deck from './components/Deck'
 import Paywall from './components/Paywall'
 import BottomNav from './components/BottomNav'
+import QuizModal from './components/QuizModal'
 import { useProgress } from './hooks/useProgress'
 import { usePremium } from './lib/premium'
+import { pickDailyChallenge } from './lib/daily'
 import * as account from './lib/account'
 
 export default function App() {
@@ -13,11 +15,26 @@ export default function App() {
   const { setSync, mergeRemote } = progress
   const { mode, premium, user, justUpgraded, clearUpgraded, upgrade, restore, signIn, signOut } = usePremium()
   const [paywall, setPaywall] = useState(null) // null | reason string
+  const [daily, setDaily] = useState(null) // null | { categoryId, deckName, card, key }
+  const [dailyLoading, setDailyLoading] = useState(false)
 
   const requestUpgrade = useCallback(
     (reason) => setPaywall(reason || 'Unlock every difficulty and a fresh draw of questions every time.'),
     [],
   )
+
+  // Daily Challenge: a deterministic random card for today, played on Hard.
+  const openDaily = useCallback(async () => {
+    setDailyLoading(true)
+    try {
+      const d = await pickDailyChallenge(import.meta.env.BASE_URL)
+      if (d) setDaily(d)
+    } catch {
+      /* daily data not ready yet */
+    } finally {
+      setDailyLoading(false)
+    }
+  }, [])
 
   // Bottom-nav (mobile) destinations.
   const goHome = () => {
@@ -84,6 +101,7 @@ export default function App() {
           onEnter={setCategory}
           premium={premium}
           onUpgrade={requestUpgrade}
+          onDaily={openDaily}
           progress={progress}
           mode={mode}
           user={user}
@@ -112,11 +130,27 @@ export default function App() {
         </div>
       )}
 
+      {daily && (
+        <QuizModal
+          key={`daily-${daily.key}-${daily.card.id}`}
+          card={daily.card}
+          categoryId={daily.categoryId}
+          deckName={daily.deckName}
+          daily
+          progress={progress}
+          premium={premium}
+          onUpgrade={requestUpgrade}
+          onClose={() => setDaily(null)}
+        />
+      )}
+
       <BottomNav
         active={category ? 'decks' : 'home'}
         premium={premium}
+        dailyLoading={dailyLoading}
         onHome={goHome}
         onDecks={goDecks}
+        onDaily={openDaily}
         onPremium={() => requestUpgrade()}
       />
     </div>

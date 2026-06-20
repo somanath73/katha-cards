@@ -1279,6 +1279,22 @@ button {
   gap: 8px;
   margin: 6px 0 16px;
 }
+.daily-banner {
+  margin: 8px auto 16px;
+  padding: 9px 16px;
+  border-radius: 999px;
+  text-align: center;
+  font-size: 0.86rem;
+  font-weight: 600;
+  color: var(--gold);
+  background: rgba(233, 196, 106, 0.1);
+  border: 1px solid rgba(233, 196, 106, 0.4);
+}
+.daily-banner b {
+  color: var(--gold-2);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
 .diff-tab {
   padding: 8px 16px;
   border-radius: 999px;

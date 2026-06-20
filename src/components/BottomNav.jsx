@@ -27,12 +27,12 @@ function Tab({ id, label, on, soon, onClick }) {
   )
 }
 
-export default function BottomNav({ active, premium, onHome, onDecks, onPremium }) {
+export default function BottomNav({ active, premium, dailyLoading, onHome, onDecks, onDaily, onPremium }) {
   return (
     <nav className="bnav" aria-label="Primary">
       <Tab id="home" label="Home" on={active === 'home'} onClick={() => { sfx('nav'); onHome() }} />
       <Tab id="decks" label="Decks" on={active === 'decks'} onClick={() => { sfx('nav'); onDecks() }} />
-      <Tab id="daily" label="Daily Challenge" soon onClick={() => sfx('locked')} />
+      <Tab id="daily" label="Daily Challenge" on={dailyLoading} onClick={() => { sfx('open'); onDaily() }} />
       <Tab
         id="premium"
         label="Premium"
