@@ -1,0 +1,245 @@
+{
+  "cardId": "mahabodhi-temple",
+  "questions": [
+    {
+      "id": "mahabodhi-temple-q01",
+      "difficulty": "easy",
+      "q": "In which town is the Mahabodhi Temple located?",
+      "options": ["Bodh Gaya", "Sarnath", "Kushinagar", "Lumbini"],
+      "answer": 0,
+      "explanation": "The Mahabodhi Temple stands at Bodh Gaya, in the Indian state of Bihar."
+    },
+    {
+      "id": "mahabodhi-temple-q02",
+      "difficulty": "easy",
+      "q": "The Mahabodhi Temple is sacred to which religion?",
+      "options": ["Jainism", "Sikhism", "Buddhism", "Zoroastrianism"],
+      "answer": 2,
+      "explanation": "It marks the spot where the Buddha attained enlightenment, making it one of Buddhism's holiest sites."
+    },
+    {
+      "id": "mahabodhi-temple-q03",
+      "difficulty": "easy",
+      "q": "What famous tree is associated with the Mahabodhi Temple?",
+      "options": ["The Bodhi tree", "A banyan grove", "A sal tree", "A mango orchard"],
+      "answer": 0,
+      "explanation": "The temple stands beside the Bodhi tree, under which the Buddha is said to have attained enlightenment."
+    },
+    {
+      "id": "mahabodhi-temple-q04",
+      "difficulty": "easy",
+      "q": "In which Indian state is the Mahabodhi Temple located?",
+      "options": ["Uttar Pradesh", "West Bengal", "Jharkhand", "Bihar"],
+      "answer": 3,
+      "explanation": "Bodh Gaya and the Mahabodhi Temple are located in Bihar."
+    },
+    {
+      "id": "mahabodhi-temple-q05",
+      "difficulty": "easy",
+      "q": "What major event in the Buddha's life is the Mahabodhi Temple believed to commemorate?",
+      "options": ["His first sermon", "His birth", "His death", "His enlightenment"],
+      "answer": 3,
+      "explanation": "The site commemorates the Buddha's attainment of enlightenment (Bodhi) under the Bodhi tree."
+    },
+    {
+      "id": "mahabodhi-temple-q06",
+      "difficulty": "easy",
+      "q": "What kind of monument is the Mahabodhi Temple?",
+      "options": ["A royal palace", "A Buddhist temple", "A military fort", "A stepwell"],
+      "answer": 1,
+      "explanation": "It is a Buddhist temple complex centered on the place of the Buddha's enlightenment."
+    },
+    {
+      "id": "mahabodhi-temple-q07",
+      "difficulty": "easy",
+      "q": "The Mahabodhi Temple is part of which prestigious international heritage designation?",
+      "options": ["UNESCO World Heritage Site", "Seven Wonders of the World", "Ramsar Site", "Global Geopark"],
+      "answer": 0,
+      "explanation": "The Mahabodhi Temple Complex was inscribed as a UNESCO World Heritage Site in 2002."
+    },
+    {
+      "id": "mahabodhi-temple-q08",
+      "difficulty": "easy",
+      "q": "Which ancient Indian emperor is traditionally credited with building the first shrine at Bodh Gaya?",
+      "options": ["Akbar", "Ashoka", "Harsha", "Chandragupta II"],
+      "answer": 1,
+      "explanation": "The Mauryan emperor Ashoka is traditionally credited with establishing the first shrine at the site in the 3rd century BCE."
+    },
+    {
+      "id": "mahabodhi-temple-q09",
+      "difficulty": "easy",
+      "q": "What is the dominant feature of the Mahabodhi Temple's silhouette?",
+      "options": ["A large dome", "A tall pyramidal tower", "A minaret", "A flat terrace"],
+      "answer": 1,
+      "explanation": "The temple is dominated by a tall, pyramidal spire (shikhara) rising above the main shrine."
+    },
+    {
+      "id": "mahabodhi-temple-q10",
+      "difficulty": "easy",
+      "q": "Who is the central religious figure linked to the Mahabodhi Temple?",
+      "options": ["Mahavira", "Guru Nanak", "Gautama Buddha", "Adi Shankara"],
+      "answer": 2,
+      "explanation": "The temple is dedicated to and commemorates Gautama Buddha's enlightenment."
+    },
+    {
+      "id": "mahabodhi-temple-q11",
+      "difficulty": "medium",
+      "q": "In which year was the Mahabodhi Temple Complex inscribed as a UNESCO World Heritage Site?",
+      "options": ["1983", "1993", "2002", "2014"],
+      "answer": 2,
+      "explanation": "The Mahabodhi Temple Complex was inscribed on the UNESCO World Heritage List in 2002."
+    },
+    {
+      "id": "mahabodhi-temple-q12",
+      "difficulty": "medium",
+      "q": "The species of the Bodhi tree at Bodh Gaya is which kind of fig?",
+      "options": ["Ficus religiosa (sacred fig)", "Ficus benghalensis (banyan)", "Ficus carica (common fig)", "Ficus elastica (rubber fig)"],
+      "answer": 0,
+      "explanation": "The Bodhi tree is a sacred fig, Ficus religiosa, also known as the pipal tree."
+    },
+    {
+      "id": "mahabodhi-temple-q13",
+      "difficulty": "medium",
+      "q": "The main tower of the present Mahabodhi Temple rises to roughly what height?",
+      "options": ["About 15 metres", "About 30 metres", "About 90 metres", "About 50 metres"],
+      "answer": 3,
+      "explanation": "The central tower of the Mahabodhi Temple rises to approximately 50 metres in height."
+    },
+    {
+      "id": "mahabodhi-temple-q14",
+      "difficulty": "medium",
+      "q": "The present grand structure of the Mahabodhi Temple is generally dated to which period?",
+      "options": ["The Mauryan period", "The Gupta period (around the 5th-6th century CE)", "The Mughal period", "The British colonial period"],
+      "answer": 1,
+      "explanation": "The surviving brick temple in its essential form is dated to the Gupta period, around the 5th-6th century CE."
+    },
+    {
+      "id": "mahabodhi-temple-q15",
+      "difficulty": "medium",
+      "q": "What is the primary building material of the present Mahabodhi Temple?",
+      "options": ["Marble", "Brick", "Granite blocks", "Wood"],
+      "answer": 1,
+      "explanation": "The Mahabodhi Temple is one of the earliest and largest Buddhist temples built entirely of brick still standing in India."
+    },
+    {
+      "id": "mahabodhi-temple-q16",
+      "difficulty": "medium",
+      "q": "The early polished sandstone railing fragments preserved at the site are stylistically linked to which period?",
+      "options": ["The Chola period", "The Shunga period", "The Rashtrakuta period", "The Vijayanagara period"],
+      "answer": 1,
+      "explanation": "Some of the early stone railings around the temple are attributed to the Shunga period, around the 1st century BCE."
+    },
+    {
+      "id": "mahabodhi-temple-q17",
+      "difficulty": "medium",
+      "q": "Which Chinese pilgrim left a detailed account of Bodh Gaya after visiting in the 7th century CE?",
+      "options": ["Faxian", "Zhang Qian", "Xuanzang", "Yijing"],
+      "answer": 2,
+      "explanation": "Xuanzang (Hsuan-tsang) visited Bodh Gaya in the 7th century and described the temple in his travel records."
+    },
+    {
+      "id": "mahabodhi-temple-q18",
+      "difficulty": "medium",
+      "q": "The slab marking the exact spot of the Buddha's enlightenment beside the tree is known as the:",
+      "options": ["Vajrasana (Diamond Throne)", "Dharmachakra", "Stupa of Relics", "Ashoka Pillar"],
+      "answer": 0,
+      "explanation": "The Vajrasana, or Diamond Throne, is the stone seat marking where the Buddha sat in meditation when he attained enlightenment."
+    },
+    {
+      "id": "mahabodhi-temple-q19",
+      "difficulty": "medium",
+      "q": "The four smaller corner towers of the Mahabodhi Temple echo what feature?",
+      "options": ["Islamic minarets", "Gothic spires", "Buddhist prayer wheels", "The central main tower"],
+      "answer": 3,
+      "explanation": "Four smaller towers stand at the corners, repeating the design of the tall central spire."
+    },
+    {
+      "id": "mahabodhi-temple-q20",
+      "difficulty": "medium",
+      "q": "Which British archaeologist led major documentation and restoration efforts at the Mahabodhi Temple in the 19th century?",
+      "options": ["John Marshall", "Mortimer Wheeler", "James Prinsep", "Alexander Cunningham"],
+      "answer": 3,
+      "explanation": "Alexander Cunningham, founder of the Archaeological Survey of India, undertook extensive survey and restoration work at the temple."
+    },
+    {
+      "id": "mahabodhi-temple-q21",
+      "difficulty": "medium",
+      "q": "The present Bodhi tree at Bodh Gaya is believed to descend from the original through a famous offshoot grown in:",
+      "options": ["Lumbini, Nepal", "Anuradhapura, Sri Lanka", "Lhasa, Tibet", "Bagan, Myanmar"],
+      "answer": 1,
+      "explanation": "The sacred fig at Anuradhapura, Sri Lanka, was grown from a cutting of the original Bodhi tree and itself served as a source for replanting at Bodh Gaya."
+    },
+    {
+      "id": "mahabodhi-temple-q22",
+      "difficulty": "medium",
+      "q": "Which reformer founded the Maha Bodhi Society in 1891 to restore Buddhist links to the temple?",
+      "options": ["Anagarika Dharmapala", "B. R. Ambedkar", "Swami Vivekananda", "Rahul Sankrityayan"],
+      "answer": 0,
+      "explanation": "The Sri Lankan reformer Anagarika Dharmapala founded the Maha Bodhi Society in 1891 to campaign for the restoration of Bodh Gaya as a Buddhist site."
+    },
+    {
+      "id": "mahabodhi-temple-q23",
+      "difficulty": "hard",
+      "q": "The seven sacred spots marking the weeks the Buddha spent after enlightenment are located:",
+      "options": ["Across several countries", "Within or near the Mahabodhi Temple complex", "Only at Sarnath", "Inside a single shrine room"],
+      "answer": 1,
+      "explanation": "The seven spots commemorating the seven weeks the Buddha spent in the vicinity after his enlightenment are found within and around the Mahabodhi Temple complex."
+    },
+    {
+      "id": "mahabodhi-temple-q24",
+      "difficulty": "hard",
+      "q": "The 'Animisalochana' spot in the complex commemorates which post-enlightenment act of the Buddha?",
+      "options": ["His first bath", "Gazing at the Bodhi tree without blinking for a week", "His first meal", "His departure for Sarnath"],
+      "answer": 1,
+      "explanation": "The Animisalochana Chaitya marks where the Buddha is said to have stood gazing at the Bodhi tree in gratitude for a full week without blinking."
+    },
+    {
+      "id": "mahabodhi-temple-q25",
+      "difficulty": "hard",
+      "q": "The 'Ratnachakrama' or Jewel Walk in the complex is a raised platform marking where the Buddha:",
+      "options": ["Delivered a sermon", "Practiced walking meditation", "Cut his hair", "Crossed a river"],
+      "answer": 1,
+      "explanation": "The Ratnachakrama is a raised stone platform with carved lotuses marking the path where the Buddha is said to have walked in meditation."
+    },
+    {
+      "id": "mahabodhi-temple-q26",
+      "difficulty": "hard",
+      "q": "Buddhist missions from which distant kingdom are recorded as having sponsored repairs at Bodh Gaya in the medieval and later periods?",
+      "options": ["Japan", "Persia", "Egypt", "Myanmar (Burma)"],
+      "answer": 3,
+      "explanation": "Burmese (Myanmar) Buddhist missions are recorded as having sponsored repairs and restorations at the Mahabodhi Temple over the centuries."
+    },
+    {
+      "id": "mahabodhi-temple-q27",
+      "difficulty": "hard",
+      "q": "Which dynasty, ruling eastern India from the 8th to 12th centuries, was a major patron of Buddhism that supported Bodh Gaya?",
+      "options": ["The Chalukya dynasty", "The Pratihara dynasty", "The Pala dynasty", "The Hoysala dynasty"],
+      "answer": 2,
+      "explanation": "The Pala dynasty of Bengal and Bihar were notable patrons of Buddhism and supported sites including Bodh Gaya."
+    },
+    {
+      "id": "mahabodhi-temple-q28",
+      "difficulty": "hard",
+      "q": "The legislation that established a management committee for the temple, the Bodh Gaya Temple Act, was passed in:",
+      "options": ["1909", "1949", "1972", "1991"],
+      "answer": 1,
+      "explanation": "The Bodh Gaya Temple Act of 1949 created a management committee to oversee the temple's administration."
+    },
+    {
+      "id": "mahabodhi-temple-q29",
+      "difficulty": "hard",
+      "q": "Architecturally, the tall straight-edged pyramidal spire of the Mahabodhi Temple is significant as an early form of which tower type?",
+      "options": ["The Dravidian vimana", "A curvilinear Nagara dome", "A straight-sided shikhara antecedent to later North Indian temple towers", "An Indo-Saracenic dome"],
+      "answer": 2,
+      "explanation": "The temple's tall, straight-sided tapering tower is considered an important early form influencing later North Indian temple superstructures."
+    },
+    {
+      "id": "mahabodhi-temple-q30",
+      "difficulty": "hard",
+      "q": "A famous replica of the Mahabodhi Temple's distinctive form was built in which distant Buddhist city?",
+      "options": ["Bagan, Myanmar", "Kyoto, Japan", "Lhasa, Tibet", "Borobudur, Indonesia"],
+      "answer": 0,
+      "explanation": "The Mahabodhi Temple of Bagan in Myanmar was modeled on the Bodh Gaya original, reflecting its wide influence."
+    }
+  ]
+}

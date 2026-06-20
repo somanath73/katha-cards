@@ -1,0 +1,245 @@
+{
+  "cardId": "chittorgarh-fort",
+  "questions": [
+    {
+      "id": "chittorgarh-fort-q01",
+      "difficulty": "easy",
+      "q": "In which Indian state is Chittorgarh Fort located?",
+      "options": ["Gujarat", "Rajasthan", "Madhya Pradesh", "Maharashtra"],
+      "answer": 1,
+      "explanation": "Chittorgarh Fort stands in the town of Chittorgarh in the state of Rajasthan."
+    },
+    {
+      "id": "chittorgarh-fort-q02",
+      "difficulty": "easy",
+      "q": "Chittorgarh Fort was historically the capital of which Rajput kingdom?",
+      "options": ["Marwar", "Amber", "Mewar", "Bundi"],
+      "answer": 2,
+      "explanation": "Chittorgarh served as the capital of the kingdom of Mewar for centuries before the capital shifted to Udaipur."
+    },
+    {
+      "id": "chittorgarh-fort-q03",
+      "difficulty": "easy",
+      "q": "What type of fort is Chittorgarh?",
+      "options": ["A hill fort", "A coastal sea fort", "An island fort", "A desert sand fort"],
+      "answer": 0,
+      "explanation": "Chittorgarh is a vast hill fort, sprawling across a plateau atop a hill that rises above the surrounding plain."
+    },
+    {
+      "id": "chittorgarh-fort-q04",
+      "difficulty": "easy",
+      "q": "The famous tower of victory inside Chittorgarh Fort is called the:",
+      "options": ["Qutb Minar", "Vijay Stambha", "Charminar", "Jaya Stambha of Delhi"],
+      "answer": 1,
+      "explanation": "The Vijay Stambha (Tower of Victory) is the most iconic monument crowning Chittorgarh Fort."
+    },
+    {
+      "id": "chittorgarh-fort-q05",
+      "difficulty": "easy",
+      "q": "Chittorgarh Fort is inscribed on the UNESCO World Heritage List as part of which group?",
+      "options": ["Hill Forts of Rajasthan", "Mountain Railways of India", "Group of Monuments at Hampi", "Western Ghats"],
+      "answer": 0,
+      "explanation": "Chittorgarh is one of the six sites included in the 2013 UNESCO World Heritage listing 'Hill Forts of Rajasthan'."
+    },
+    {
+      "id": "chittorgarh-fort-q06",
+      "difficulty": "easy",
+      "q": "The ritual mass self-immolation performed by Rajput women at Chittorgarh to avoid capture is known as:",
+      "options": ["Sati", "Jauhar", "Haldi", "Tilak"],
+      "answer": 1,
+      "explanation": "Chittorgarh is famed for the practice of jauhar, the collective self-immolation by women when defeat was imminent."
+    },
+    {
+      "id": "chittorgarh-fort-q07",
+      "difficulty": "easy",
+      "q": "The Vijay Stambha at Chittorgarh is built primarily of which material?",
+      "options": ["Red brick", "Stone", "Marble tiles only", "Timber"],
+      "answer": 1,
+      "explanation": "The Vijay Stambha is a multi-storeyed sandstone tower richly carved with sculptures."
+    },
+    {
+      "id": "chittorgarh-fort-q08",
+      "difficulty": "easy",
+      "q": "Which legendary Rajput queen is most closely associated with the jauhar at Chittorgarh?",
+      "options": ["Rani Padmini", "Razia Sultana", "Ahilyabai Holkar", "Rani Durgavati"],
+      "answer": 0,
+      "explanation": "Rani Padmini (Padmavati) is the queen most famously linked to the jauhar legend at Chittorgarh."
+    },
+    {
+      "id": "chittorgarh-fort-q09",
+      "difficulty": "easy",
+      "q": "Chittorgarh Fort is best described as one of the:",
+      "options": ["Smallest forts in India", "Largest forts in India", "Only underwater forts", "Newest forts built in the 1900s"],
+      "answer": 1,
+      "explanation": "Spread over a large plateau, Chittorgarh is among the largest forts in India."
+    },
+    {
+      "id": "chittorgarh-fort-q10",
+      "difficulty": "easy",
+      "q": "The Vijay Stambha was built to commemorate a:",
+      "options": ["Wedding", "Military victory", "Harvest festival", "Trade agreement"],
+      "answer": 1,
+      "explanation": "The Vijay Stambha (Tower of Victory) was raised to celebrate a military triumph of the Mewar rulers."
+    },
+    {
+      "id": "chittorgarh-fort-q11",
+      "difficulty": "medium",
+      "q": "The Vijay Stambha was commissioned by which Mewar ruler?",
+      "options": ["Rana Kumbha", "Rana Sanga", "Maharana Pratap", "Bappa Rawal"],
+      "answer": 0,
+      "explanation": "Rana Kumbha had the Vijay Stambha erected in the 15th century to mark his victory over rival forces."
+    },
+    {
+      "id": "chittorgarh-fort-q12",
+      "difficulty": "medium",
+      "q": "Rana Kumbha built the Vijay Stambha to commemorate his victory over which adversary?",
+      "options": ["The Mughals", "The Sultanate forces of Malwa and Gujarat", "The Marathas", "The British"],
+      "answer": 1,
+      "explanation": "The Vijay Stambha celebrates Rana Kumbha's victory, traditionally over the combined armies of Malwa and Gujarat around 1440s."
+    },
+    {
+      "id": "chittorgarh-fort-q13",
+      "difficulty": "medium",
+      "q": "Approximately how many storeys tall is the Vijay Stambha?",
+      "options": ["Three storeys", "Five storeys", "Nine storeys", "Twenty storeys"],
+      "answer": 2,
+      "explanation": "The Vijay Stambha rises about nine storeys (roughly 37 metres) and can be climbed via an internal staircase."
+    },
+    {
+      "id": "chittorgarh-fort-q14",
+      "difficulty": "medium",
+      "q": "Besides the Vijay Stambha, which other tower stands within Chittorgarh Fort?",
+      "options": ["Kirti Stambha (Tower of Fame)", "Qutb Minar", "Chand Minar", "Fateh Burj"],
+      "answer": 0,
+      "explanation": "The Kirti Stambha (Tower of Fame), a Jain tower predating the Vijay Stambha, also stands inside the fort."
+    },
+    {
+      "id": "chittorgarh-fort-q15",
+      "difficulty": "medium",
+      "q": "The Kirti Stambha at Chittorgarh is dedicated to which religion?",
+      "options": ["Buddhism", "Jainism", "Sikhism", "Zoroastrianism"],
+      "answer": 1,
+      "explanation": "The Kirti Stambha is a Jain tower, dedicated to Adinath, the first Jain Tirthankara."
+    },
+    {
+      "id": "chittorgarh-fort-q16",
+      "difficulty": "medium",
+      "q": "The first major siege of Chittorgarh in 1303 was carried out by which ruler?",
+      "options": ["Akbar", "Bahadur Shah of Gujarat", "Alauddin Khalji", "Timur"],
+      "answer": 2,
+      "explanation": "Alauddin Khalji of the Delhi Sultanate besieged and captured Chittorgarh in 1303, the first of the fort's legendary sieges."
+    },
+    {
+      "id": "chittorgarh-fort-q17",
+      "difficulty": "medium",
+      "q": "The final and most devastating sack of Chittorgarh in 1568 was led by which Mughal emperor?",
+      "options": ["Babur", "Akbar", "Jahangir", "Aurangzeb"],
+      "answer": 1,
+      "explanation": "Emperor Akbar besieged and captured Chittorgarh in 1567 to 1568, the third and final great siege of the fort."
+    },
+    {
+      "id": "chittorgarh-fort-q18",
+      "difficulty": "medium",
+      "q": "After the fall of Chittorgarh, the Mewar capital was eventually shifted to which city?",
+      "options": ["Jaipur", "Jodhpur", "Udaipur", "Ajmer"],
+      "answer": 2,
+      "explanation": "Following the loss of Chittorgarh, the Mewar rulers moved their capital to the new city of Udaipur."
+    },
+    {
+      "id": "chittorgarh-fort-q19",
+      "difficulty": "medium",
+      "q": "Which Mewar warrior-king, famed for resisting Akbar, was born in Chittorgarh's lineage of Mewar?",
+      "options": ["Prithviraj Chauhan", "Maharana Pratap", "Shivaji", "Hemu"],
+      "answer": 1,
+      "explanation": "Maharana Pratap of Mewar, renowned for his resistance against Akbar, belonged to the Sisodia dynasty associated with Chittorgarh."
+    },
+    {
+      "id": "chittorgarh-fort-q20",
+      "difficulty": "medium",
+      "q": "The Padmini Palace within Chittorgarh is associated with which feature in its lore?",
+      "options": ["A glimpse of the queen seen via a mirror/reflection in water", "An underground vault of gold", "A hidden cannon foundry", "A royal printing press"],
+      "answer": 0,
+      "explanation": "Legend holds that Alauddin Khalji was allowed only to see Rani Padmini's reflection, a story tied to the Padmini Palace beside its lotus pool."
+    },
+    {
+      "id": "chittorgarh-fort-q21",
+      "difficulty": "medium",
+      "q": "Roughly how many gateways (pols) guard the steep ascent to Chittorgarh Fort?",
+      "options": ["A single gate", "Seven main gates", "Twenty-five gates", "No gates at all"],
+      "answer": 1,
+      "explanation": "The winding climb to Chittorgarh passes through a series of seven main fortified gateways known as pols."
+    },
+    {
+      "id": "chittorgarh-fort-q22",
+      "difficulty": "medium",
+      "q": "Which devotional saint-poetess of the Bhakti movement is traditionally linked to Chittorgarh's royal family?",
+      "options": ["Mirabai", "Andal", "Lal Ded", "Akka Mahadevi"],
+      "answer": 0,
+      "explanation": "Mirabai, the celebrated Krishna-devotee and poetess, is traditionally associated with the Mewar royal household at Chittorgarh."
+    },
+    {
+      "id": "chittorgarh-fort-q23",
+      "difficulty": "hard",
+      "q": "The Sisodia rulers of Mewar based at Chittorgarh traced their ancestry to which legendary founder?",
+      "options": ["Bappa Rawal", "Raja Man Singh", "Jai Singh II", "Rao Jodha"],
+      "answer": 0,
+      "explanation": "The Guhila/Sisodia line of Mewar traditionally traces its origin to Bappa Rawal, an early ruler linked to Chittorgarh."
+    },
+    {
+      "id": "chittorgarh-fort-q24",
+      "difficulty": "hard",
+      "q": "During Akbar's 1568 sack of Chittorgarh, which two defenders are remembered for their heroic last stand?",
+      "options": ["Hammir and Ratan Singh", "Jaimal and Patta", "Udai Singh and Amar Singh", "Sanga and Kumbha"],
+      "answer": 1,
+      "explanation": "Jaimal of Bednor and Patta (Fateh Singh) led the desperate defence and are commemorated for their valour during Akbar's siege."
+    },
+    {
+      "id": "chittorgarh-fort-q25",
+      "difficulty": "hard",
+      "q": "The Vijay Stambha is dedicated chiefly to which Hindu deity, whose name appears atop the tower?",
+      "options": ["Shiva", "Vishnu", "Ganesha", "Surya"],
+      "answer": 1,
+      "explanation": "The Vijay Stambha is dedicated to Vishnu, and its sculptural program is largely devoted to him and other deities of the Hindu pantheon."
+    },
+    {
+      "id": "chittorgarh-fort-q26",
+      "difficulty": "hard",
+      "q": "Which Mewar ruler led the defence during Bahadur Shah of Gujarat's siege of Chittorgarh in 1535, the second great jauhar?",
+      "options": ["Rani Karnavati's leadership during Vikramaditya's reign", "Rana Sanga personally", "Maharana Pratap", "Rana Kumbha"],
+      "answer": 0,
+      "explanation": "The 1535 siege by Bahadur Shah of Gujarat occurred during the turbulent reign of Vikramaditya, with Rani Karnavati prominent in the defence before the jauhar."
+    },
+    {
+      "id": "chittorgarh-fort-q27",
+      "difficulty": "hard",
+      "q": "Approximately how tall is the Vijay Stambha?",
+      "options": ["About 12 metres", "About 22 metres", "About 37 metres", "About 73 metres"],
+      "answer": 2,
+      "explanation": "The Vijay Stambha stands roughly 37 metres (about 122 feet) tall over its nine storeys."
+    },
+    {
+      "id": "chittorgarh-fort-q28",
+      "difficulty": "hard",
+      "q": "The Kirti Stambha (Tower of Fame) at Chittorgarh is generally dated to which period relative to the Vijay Stambha?",
+      "options": ["It was built after the Vijay Stambha in the 16th century", "It predates the Vijay Stambha, around the 12th century", "Both towers were built the same year", "It was built by the British in the 19th century"],
+      "answer": 1,
+      "explanation": "The Jain Kirti Stambha is the older of the two towers, generally dated to about the 12th century, well before Rana Kumbha's Vijay Stambha."
+    },
+    {
+      "id": "chittorgarh-fort-q29",
+      "difficulty": "hard",
+      "q": "Which large temple within Chittorgarh Fort is dedicated to Vishnu and was patronised in the era of Rana Kumbha?",
+      "options": ["Kumbha Shyam Temple", "Dilwara Temple", "Brihadeeswarar Temple", "Konark Sun Temple"],
+      "answer": 0,
+      "explanation": "The Kumbha Shyam (Meera) temple complex within Chittorgarh is a Vishnu temple associated with the period of Rana Kumbha."
+    },
+    {
+      "id": "chittorgarh-fort-q30",
+      "difficulty": "hard",
+      "q": "In total, how many great jauhars are traditionally said to have occurred at Chittorgarh?",
+      "options": ["One", "Two", "Three", "Five"],
+      "answer": 2,
+      "explanation": "Tradition records three great jauhars at Chittorgarh, in 1303, 1535, and 1568, during its successive sieges."
+    }
+  ]
+}

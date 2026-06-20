@@ -1,0 +1,245 @@
+{
+  "cardId": "shore-temple",
+  "questions": [
+    {
+      "id": "shore-temple-q01",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state is the Shore Temple located?",
+      "options": ["Kerala", "Tamil Nadu", "Andhra Pradesh", "Karnataka"],
+      "answer": 1,
+      "explanation": "The Shore Temple stands at Mamallapuram (Mahabalipuram) in the Chengalpattu district of Tamil Nadu."
+    },
+    {
+      "id": "shore-temple-q02",
+      "difficulty": "easy",
+      "q": "On the shore of which body of water does the Shore Temple stand?",
+      "options": ["Bay of Bengal", "Arabian Sea", "Indian Ocean", "Gulf of Mannar"],
+      "answer": 0,
+      "explanation": "The temple sits on the coast of the Bay of Bengal, which gives it its name."
+    },
+    {
+      "id": "shore-temple-q03",
+      "difficulty": "easy",
+      "q": "The Shore Temple is part of the famous monuments at which town?",
+      "options": ["Thanjavur", "Madurai", "Mahabalipuram", "Kanchipuram"],
+      "answer": 2,
+      "explanation": "The Shore Temple is one of the Group of Monuments at Mahabalipuram (Mamallapuram)."
+    },
+    {
+      "id": "shore-temple-q04",
+      "difficulty": "easy",
+      "q": "Which dynasty built the Shore Temple?",
+      "options": ["Chola dynasty", "Pallava dynasty", "Vijayanagara dynasty", "Chalukya dynasty"],
+      "answer": 1,
+      "explanation": "The Shore Temple was built by the Pallava dynasty, who ruled this part of South India."
+    },
+    {
+      "id": "shore-temple-q05",
+      "difficulty": "easy",
+      "q": "The Shore Temple is primarily dedicated to which Hindu deity?",
+      "options": ["Vishnu", "Brahma", "Shiva", "Ganesha"],
+      "answer": 2,
+      "explanation": "Its main shrines are dedicated to Shiva, with an additional shrine to Vishnu."
+    },
+    {
+      "id": "shore-temple-q06",
+      "difficulty": "easy",
+      "q": "What international recognition does the Shore Temple hold as part of Mahabalipuram?",
+      "options": ["UNESCO World Heritage Site", "New7Wonders of the World", "Ramsar wetland site", "Olympic heritage venue"],
+      "answer": 0,
+      "explanation": "The Group of Monuments at Mahabalipuram, including the Shore Temple, is a UNESCO World Heritage Site."
+    },
+    {
+      "id": "shore-temple-q07",
+      "difficulty": "easy",
+      "q": "Roughly in which century was the Shore Temple built?",
+      "options": ["Early 8th century CE", "12th century CE", "16th century CE", "3rd century BCE"],
+      "answer": 0,
+      "explanation": "The Shore Temple was built in the early 8th century CE, making it one of South India's oldest stone temples."
+    },
+    {
+      "id": "shore-temple-q08",
+      "difficulty": "easy",
+      "q": "The Shore Temple is notable for being one of the oldest examples in South India of temples built from what?",
+      "options": ["Wood", "Sun-dried brick", "Structural cut stone", "Reinforced concrete"],
+      "answer": 2,
+      "explanation": "It is among the earliest structural (cut-stone) temples in South India, unlike the region's earlier rock-cut shrines."
+    },
+    {
+      "id": "shore-temple-q09",
+      "difficulty": "easy",
+      "q": "What is the most distinctive feature crowning the Shore Temple?",
+      "options": ["A flat terrace roof", "Tall pyramidal towers (vimanas)", "A central dome", "A minaret"],
+      "answer": 1,
+      "explanation": "The temple is crowned by tall, tapering pyramidal towers known as vimanas in Dravidian style."
+    },
+    {
+      "id": "shore-temple-q10",
+      "difficulty": "easy",
+      "q": "Mahabalipuram, where the Shore Temple stands, was a major what for the Pallavas?",
+      "options": ["Mountain fortress", "Seaport", "Desert caravan stop", "Pilgrimage cave"],
+      "answer": 1,
+      "explanation": "Mahabalipuram was an important Pallava seaport on the Coromandel Coast."
+    },
+    {
+      "id": "shore-temple-q11",
+      "difficulty": "medium",
+      "q": "Which Pallava king is traditionally credited with building the Shore Temple?",
+      "options": ["Mahendravarman I", "Narasimhavarman II (Rajasimha)", "Simhavishnu", "Nandivarman III"],
+      "answer": 1,
+      "explanation": "The Shore Temple is generally attributed to Narasimhavarman II, also known as Rajasimha."
+    },
+    {
+      "id": "shore-temple-q12",
+      "difficulty": "medium",
+      "q": "From what type of stone is the Shore Temple chiefly built?",
+      "options": ["Marble", "Sandstone", "Laterite brick", "Granite"],
+      "answer": 3,
+      "explanation": "The Shore Temple is constructed mainly of locally quarried granite blocks."
+    },
+    {
+      "id": "shore-temple-q13",
+      "difficulty": "medium",
+      "q": "The Shore Temple complex is unusual because it houses shrines to which two deities together?",
+      "options": ["Shiva and Vishnu", "Brahma and Surya", "Ganesha and Murugan", "Devi and Indra"],
+      "answer": 0,
+      "explanation": "It contains two Shiva shrines facing east and west and a shrine to the reclining Vishnu (Anantashayana) between them."
+    },
+    {
+      "id": "shore-temple-q14",
+      "difficulty": "medium",
+      "q": "What is the architectural style of the Shore Temple?",
+      "options": ["Nagara (North Indian)", "Indo-Saracenic", "Vesara hybrid", "Dravidian (South Indian)"],
+      "answer": 3,
+      "explanation": "The Shore Temple is an early and influential example of the Dravidian style of South Indian temple architecture."
+    },
+    {
+      "id": "shore-temple-q15",
+      "difficulty": "medium",
+      "q": "The reclining Vishnu image at the Shore Temple is shown in which famous posture?",
+      "options": ["Anantashayana (reclining on the serpent)", "Vamana (dwarf)", "Trivikrama (striding)", "Garuda-vahana (riding the eagle)"],
+      "answer": 0,
+      "explanation": "A pre-existing rock-cut sculpture shows Vishnu as Anantashayana, reclining on the cosmic serpent Ananta."
+    },
+    {
+      "id": "shore-temple-q16",
+      "difficulty": "medium",
+      "q": "Rows of which sculpted animals top the boundary wall around the Shore Temple?",
+      "options": ["Elephants", "Nandi bulls", "Horses", "Peacocks"],
+      "answer": 1,
+      "explanation": "The temple's enclosure wall is surmounted by rows of seated Nandi (bull) sculptures, the mount of Shiva."
+    },
+    {
+      "id": "shore-temple-q17",
+      "difficulty": "medium",
+      "q": "Which other site at Mahabalipuram is famous as a giant open-air rock relief?",
+      "options": ["Descent of the Ganga (Arjuna's Penance)", "The Sun Temple", "The Iron Pillar", "The Hanging Gardens"],
+      "answer": 0,
+      "explanation": "Mahabalipuram also features the massive open-air relief known as the Descent of the Ganga or Arjuna's Penance."
+    },
+    {
+      "id": "shore-temple-q18",
+      "difficulty": "medium",
+      "q": "What is the alternative spelling/name of the town that honours the Pallava king Narasimhavarman I 'Mamalla'?",
+      "options": ["Mamallapuram", "Mahendrapuram", "Rajarajapuram", "Vishnupuram"],
+      "answer": 0,
+      "explanation": "The town's name Mamallapuram derives from Narasimhavarman I's title 'Mamalla' (great wrestler)."
+    },
+    {
+      "id": "shore-temple-q19",
+      "difficulty": "medium",
+      "q": "Why does the Shore Temple face the sea in a way that catches the first light?",
+      "options": ["Its main shrine is oriented to the east toward the rising sun", "It faces north toward the Himalayas", "It is oriented to the setting sun in the west", "It deliberately faces away from sunlight"],
+      "answer": 0,
+      "explanation": "The principal Shiva shrine faces east toward the Bay of Bengal, catching the rising sun's first rays."
+    },
+    {
+      "id": "shore-temple-q20",
+      "difficulty": "medium",
+      "q": "What major ongoing natural threat has long endangered the Shore Temple?",
+      "options": ["Volcanic ash", "Sea erosion and salt-laden winds", "Earthquakes from a nearby fault", "Annual river flooding"],
+      "answer": 1,
+      "explanation": "Its seaside location exposes the granite to centuries of erosion from waves, salt spray, and wind."
+    },
+    {
+      "id": "shore-temple-q21",
+      "difficulty": "medium",
+      "q": "Which organisation is responsible for conserving and protecting the Shore Temple today?",
+      "options": ["Indian Navy", "Forest Department of Tamil Nadu", "Reserve Bank of India", "Archaeological Survey of India"],
+      "answer": 3,
+      "explanation": "The Archaeological Survey of India maintains the Shore Temple as a protected monument."
+    },
+    {
+      "id": "shore-temple-q22",
+      "difficulty": "medium",
+      "q": "The Shore Temple's small Vishnu shrine and twin Shiva towers make it an example of which kind of temple plan?",
+      "options": ["A single-deity shrine", "A multi-shrine complex within one enclosure", "A subterranean cave temple", "A purely monolithic rock-cut chariot"],
+      "answer": 1,
+      "explanation": "It is a complex of three shrines—two Shiva vimanas and one Vishnu cell—within a single enclosure."
+    },
+    {
+      "id": "shore-temple-q23",
+      "difficulty": "hard",
+      "q": "The Pallava capital, from which the rulers who built the Shore Temple governed, was which inland city?",
+      "options": ["Kanchipuram", "Vellore", "Tiruchirappalli", "Vijayawada"],
+      "answer": 0,
+      "explanation": "Kanchipuram was the Pallava capital, while Mahabalipuram served as their coastal port."
+    },
+    {
+      "id": "shore-temple-q24",
+      "difficulty": "hard",
+      "q": "The Shore Temple is sometimes linked to a local legend about how many temples once standing on the coast?",
+      "options": ["Three temples", "Five temples", "Seven Pagodas", "Twelve shrines"],
+      "answer": 2,
+      "explanation": "European sailors called the site the 'Seven Pagodas,' a legend of seven temples of which the Shore Temple is said to be the survivor."
+    },
+    {
+      "id": "shore-temple-q25",
+      "difficulty": "hard",
+      "q": "What is the tall, tapering tower over the sanctum of a Dravidian temple like the Shore Temple called?",
+      "options": ["Shikhara", "Vimana", "Gopuram", "Mandapa"],
+      "answer": 1,
+      "explanation": "In Dravidian architecture the tower rising over the sanctum is the vimana; the gateway tower is the gopuram."
+    },
+    {
+      "id": "shore-temple-q26",
+      "difficulty": "hard",
+      "q": "The Shore Temple's design is considered a transition from earlier Pallava work of what kind?",
+      "options": ["Brick stupas", "Rock-cut cave temples and monolithic rathas", "Mud-brick palaces", "Wooden pavilions"],
+      "answer": 1,
+      "explanation": "It marks the move from the Pallavas' earlier rock-cut caves and monolithic rathas to fully structural stone temples."
+    },
+    {
+      "id": "shore-temple-q27",
+      "difficulty": "hard",
+      "q": "After the December 2004 Indian Ocean tsunami, the receding waters near the Shore Temple briefly revealed what?",
+      "options": ["A buried Mughal fort", "Submerged rock structures and sculptures offshore", "A natural gold deposit", "Ancient Roman coins on the beach"],
+      "answer": 1,
+      "explanation": "The 2004 tsunami's receding sea briefly exposed offshore rock formations and carvings, fuelling the Seven Pagodas legend."
+    },
+    {
+      "id": "shore-temple-q28",
+      "difficulty": "hard",
+      "q": "Which title of the Pallava king Rajasimha is reflected in inscriptions associated with his temple-building?",
+      "options": ["Rajasimheshvara", "Lokeshvara", "Chakravartin", "Samudragupta"],
+      "answer": 0,
+      "explanation": "Narasimhavarman II's title Rajasimha is echoed in the name of the larger Shiva shrine, often called Rajasimheshvara."
+    },
+    {
+      "id": "shore-temple-q29",
+      "difficulty": "hard",
+      "q": "To shield the Shore Temple from the sea, conservators have notably planted and installed what along the shore?",
+      "options": ["Concrete domes over the temple", "Rows of casuarina trees and breakwaters", "A glass enclosure around the temple", "An artificial sand dune painted gold"],
+      "answer": 1,
+      "explanation": "Casuarina plantations and rock breakwaters were added to reduce wind and wave erosion at the site."
+    },
+    {
+      "id": "shore-temple-q30",
+      "difficulty": "hard",
+      "q": "The Shore Temple's enclosure includes a small tank near a shrine that depicts which durga-related image?",
+      "options": ["A seated Durga with a lion", "A reclining Buddha", "A Jain Tirthankara", "A standing Surya in his chariot"],
+      "answer": 0,
+      "explanation": "Among the Shore Temple's carvings is an image of Durga seated with her lion mount, reflecting Pallava devotion to the goddess."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "somnath-temple",
+  "questions": [
+    {
+      "id": "somnath-temple-q01",
+      "difficulty": "easy",
+      "q": "In which Indian state is the Somnath Temple located?",
+      "options": ["Maharashtra", "Gujarat", "Rajasthan", "Kerala"],
+      "answer": 1,
+      "explanation": "The Somnath Temple stands on the coast of Saurashtra in the state of Gujarat."
+    },
+    {
+      "id": "somnath-temple-q02",
+      "difficulty": "easy",
+      "q": "To which Hindu deity is the Somnath Temple dedicated?",
+      "options": ["Vishnu", "Brahma", "Shiva", "Ganesha"],
+      "answer": 2,
+      "explanation": "The Somnath Temple is dedicated to Lord Shiva, worshipped here in the form of a jyotirlinga."
+    },
+    {
+      "id": "somnath-temple-q03",
+      "difficulty": "easy",
+      "q": "The Somnath Temple is renowned as the first of how many jyotirlingas of Shiva?",
+      "options": ["Twelve", "Seven", "Eighteen", "Four"],
+      "answer": 0,
+      "explanation": "Somnath is traditionally regarded as the first among the twelve sacred jyotirlingas of Shiva in India."
+    },
+    {
+      "id": "somnath-temple-q04",
+      "difficulty": "easy",
+      "q": "Beside which body of water does the Somnath Temple stand?",
+      "options": ["Bay of Bengal", "Arabian Sea", "Indian Ocean", "Lake Pichola"],
+      "answer": 1,
+      "explanation": "The temple sits on the shore of the Arabian Sea on Gujarat's western coast."
+    },
+    {
+      "id": "somnath-temple-q05",
+      "difficulty": "easy",
+      "q": "What does the name 'Somnath' mean?",
+      "options": ["Lord of the Sun", "Lord of the Sea", "Lord of the Moon", "Lord of Fire"],
+      "answer": 2,
+      "explanation": "'Somnath' means 'Lord of the Moon' (Soma being the Moon god), referring to Shiva as protector of the Moon."
+    },
+    {
+      "id": "somnath-temple-q06",
+      "difficulty": "easy",
+      "q": "The Somnath Temple is best known throughout history for being repeatedly subjected to what?",
+      "options": ["Flooding", "Destruction and rebuilding", "Relocation", "Abandonment"],
+      "answer": 1,
+      "explanation": "Somnath was destroyed by invaders and rebuilt many times across the centuries, earning it the name 'the eternal shrine'."
+    },
+    {
+      "id": "somnath-temple-q07",
+      "difficulty": "easy",
+      "q": "In which coastal town of Gujarat is the Somnath Temple situated?",
+      "options": ["Dwarka", "Porbandar", "Veraval (Prabhas Patan)", "Bhavnagar"],
+      "answer": 2,
+      "explanation": "The temple is located at Prabhas Patan near Veraval in the Gir Somnath district of Gujarat."
+    },
+    {
+      "id": "somnath-temple-q08",
+      "difficulty": "easy",
+      "q": "The sacred object enshrined at Somnath is a jyotirlinga, which represents Shiva as what?",
+      "options": ["A pillar of light", "A dancing figure", "A coiled serpent", "A seated yogi"],
+      "answer": 0,
+      "explanation": "A jyotirlinga symbolizes Shiva as an infinite pillar of light, of which Somnath is counted the first."
+    },
+    {
+      "id": "somnath-temple-q09",
+      "difficulty": "easy",
+      "q": "Somnath is one of the most important sites of which major Indian religion?",
+      "options": ["Jainism", "Buddhism", "Sikhism", "Hinduism"],
+      "answer": 3,
+      "explanation": "Somnath is one of the holiest Hindu pilgrimage sites, sacred especially to devotees of Shiva."
+    },
+    {
+      "id": "somnath-temple-q10",
+      "difficulty": "easy",
+      "q": "The present Somnath Temple was rebuilt after which country gained independence?",
+      "options": ["India", "Pakistan", "Bangladesh", "Sri Lanka"],
+      "answer": 0,
+      "explanation": "The current temple was reconstructed soon after India's independence in 1947."
+    },
+    {
+      "id": "somnath-temple-q11",
+      "difficulty": "medium",
+      "q": "Which famous Central Asian invader sacked and looted the Somnath Temple in 1025-1026 CE?",
+      "options": ["Genghis Khan", "Mahmud of Ghazni", "Timur", "Nadir Shah"],
+      "answer": 1,
+      "explanation": "Mahmud of Ghazni raided Somnath in 1025-1026 CE, plundering its wealth and destroying the temple."
+    },
+    {
+      "id": "somnath-temple-q12",
+      "difficulty": "medium",
+      "q": "Which Indian leader and statesman is credited with driving the rebuilding of the modern Somnath Temple after 1947?",
+      "options": ["Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "B. R. Ambedkar", "Subhas Chandra Bose"],
+      "answer": 1,
+      "explanation": "Sardar Vallabhbhai Patel, India's first Home Minister, took the initiative to reconstruct the Somnath Temple."
+    },
+    {
+      "id": "somnath-temple-q13",
+      "difficulty": "medium",
+      "q": "In what architectural style is the present Somnath Temple built?",
+      "options": ["Indo-Saracenic", "Dravidian", "Chalukya (Maru-Gurjara/Solanki) style", "Indo-Gothic"],
+      "answer": 2,
+      "explanation": "The reconstructed temple was built in the Chalukya or Maru-Gurjara style associated with Gujarat's temple architecture."
+    },
+    {
+      "id": "somnath-temple-q14",
+      "difficulty": "medium",
+      "q": "Which President of India inaugurated the installation of the jyotirlinga at the rebuilt Somnath Temple in 1951?",
+      "options": ["Rajendra Prasad", "S. Radhakrishnan", "Zakir Husain", "V. V. Giri"],
+      "answer": 0,
+      "explanation": "Dr. Rajendra Prasad, India's first President, performed the installation ceremony of the jyotirlinga in 1951."
+    },
+    {
+      "id": "somnath-temple-q15",
+      "difficulty": "medium",
+      "q": "The tall ornate tower above the sanctum of the present Somnath Temple is known by which term?",
+      "options": ["Gopuram", "Shikhara", "Minaret", "Stupa"],
+      "answer": 1,
+      "explanation": "The soaring tower rising above the sanctum in North Indian Nagara-style temples like Somnath is called the shikhara."
+    },
+    {
+      "id": "somnath-temple-q16",
+      "difficulty": "medium",
+      "q": "The pillar at Somnath known as the 'Baan Stambh' (Arrow Pillar) symbolically points across the sea claiming what?",
+      "options": ["An unobstructed path to the South Pole", "The nearest port", "A trade route to Africa", "The location of a sunken temple"],
+      "answer": 0,
+      "explanation": "The Baan Stambh marks that there is no land in a straight line from that point to Antarctica across the ocean."
+    },
+    {
+      "id": "somnath-temple-q17",
+      "difficulty": "medium",
+      "q": "The legend of Somnath links its founding to which celestial figure of Hindu mythology?",
+      "options": ["Surya the Sun", "Soma the Moon", "Indra the rain god", "Agni the fire god"],
+      "answer": 1,
+      "explanation": "Legend holds that Soma, the Moon god, built the first shrine to Shiva here in gratitude for being freed from a curse."
+    },
+    {
+      "id": "somnath-temple-q18",
+      "difficulty": "medium",
+      "q": "The Prabhas Patan area where Somnath stands is also associated in tradition with the final days of which deity?",
+      "options": ["Rama", "Krishna", "Hanuman", "Parashurama"],
+      "answer": 1,
+      "explanation": "Hindu tradition associates nearby Bhalka Tirth at Prabhas with the place where Lord Krishna left his mortal body."
+    },
+    {
+      "id": "somnath-temple-q19",
+      "difficulty": "medium",
+      "q": "Construction of the modern Somnath Temple was overseen by which trust set up for the purpose?",
+      "options": ["Archaeological Survey of India", "Shree Somnath Trust", "Gujarat Tourism Board", "Kashi Vishwanath Trust"],
+      "answer": 1,
+      "explanation": "The Shree Somnath Trust was formed to manage the reconstruction and administration of the temple."
+    },
+    {
+      "id": "somnath-temple-q20",
+      "difficulty": "medium",
+      "q": "Which Delhi Sultanate ruler is recorded as having attacked and damaged the Somnath Temple in the late 13th-early 14th century?",
+      "options": ["Iltutmish", "Alauddin Khalji's forces", "Razia Sultana", "Bahlul Lodi"],
+      "answer": 1,
+      "explanation": "The forces of Alauddin Khalji's Delhi Sultanate attacked Somnath during their campaigns into Gujarat around 1299."
+    },
+    {
+      "id": "somnath-temple-q21",
+      "difficulty": "medium",
+      "q": "Sardar Patel reportedly made his vow to rebuild Somnath while visiting the ruined site in which year?",
+      "options": ["1937", "1947", "1957", "1925"],
+      "answer": 1,
+      "explanation": "Patel resolved to reconstruct the temple during a visit to the ruins in 1947, the year of India's independence."
+    },
+    {
+      "id": "somnath-temple-q22",
+      "difficulty": "medium",
+      "q": "The temple's location is significant because it lies on the sacred convergence of three rivers known as the Triveni Sangam at Prabhas, including which famous river?",
+      "options": ["Ganga", "Saraswati", "Yamuna", "Godavari"],
+      "answer": 1,
+      "explanation": "Prabhas Patan is revered as a Triveni Sangam where the Hiran, Kapila, and the mythical Saraswati are said to meet before reaching the sea."
+    },
+    {
+      "id": "somnath-temple-q23",
+      "difficulty": "hard",
+      "q": "What was the approximate height of the central spire (shikhara) of the present Somnath Temple?",
+      "options": ["About 15 metres", "About 50 metres", "About 100 metres", "About 5 metres"],
+      "answer": 1,
+      "explanation": "The reconstructed temple's main shikhara rises to roughly 50 metres (about 155 feet) above the ground."
+    },
+    {
+      "id": "somnath-temple-q24",
+      "difficulty": "hard",
+      "q": "The kalash (finial pot) crowning the shikhara of the present Somnath Temple is reported to weigh approximately how much?",
+      "options": ["About 10 kilograms", "About 100 kilograms", "About 1 tonne", "About 10 tonnes"],
+      "answer": 3,
+      "explanation": "The kalash crowning the spire of the rebuilt Somnath Temple is reported to weigh roughly 10 tonnes."
+    },
+    {
+      "id": "somnath-temple-q25",
+      "difficulty": "hard",
+      "q": "Mahmud of Ghazni's 1025 raid on Somnath is famously associated with a sandalwood gateway dispute later raised over gates kept at which Afghan city's tomb?",
+      "options": ["Kabul", "Kandahar", "Ghazni", "Herat"],
+      "answer": 2,
+      "explanation": "The so-called 'Gates of Somnath' were said to have been taken to Mahmud's tomb at Ghazni, a story revived by the British in 1842."
+    },
+    {
+      "id": "somnath-temple-q26",
+      "difficulty": "hard",
+      "q": "The medieval Somnath Temple was reconstructed in 1169 CE under the patronage of which Chalukya (Solanki) ruler of Gujarat?",
+      "options": ["Bhima I", "Kumarapala", "Mularaja", "Karna"],
+      "answer": 1,
+      "explanation": "The Chalukya king Kumarapala rebuilt the Somnath Temple in stone in the 12th century after earlier destruction."
+    },
+    {
+      "id": "somnath-temple-q27",
+      "difficulty": "hard",
+      "q": "Which architect-builder community/style guide informed the traditional plan of the rebuilt Somnath Temple, drawing on the work of Prabhashankar Sompura?",
+      "options": ["Mughal court architects", "The Sompura temple-builder tradition", "British colonial engineers", "Portuguese Jesuit designers"],
+      "answer": 1,
+      "explanation": "Architect Prabhashankar Sompura of the hereditary Sompura temple-builder tradition designed the modern Somnath Temple."
+    },
+    {
+      "id": "somnath-temple-q28",
+      "difficulty": "hard",
+      "q": "Before Mahmud of Ghazni's raid, the wealthy temple was supported by an elaborate system that included revenue from many villages and large numbers of which temple servants?",
+      "options": ["Soldiers", "Sailors", "Priests and devadasis (temple attendants)", "Merchants"],
+      "answer": 2,
+      "explanation": "Contemporary accounts describe the pre-1025 temple as immensely rich, maintained by numerous priests and temple attendants supported by village endowments."
+    },
+    {
+      "id": "somnath-temple-q29",
+      "difficulty": "hard",
+      "q": "The present Somnath Temple is positioned so that, according to the Baan Stambh inscription, no land lies between it and which continent directly across the ocean?",
+      "options": ["Australia", "Antarctica", "Africa", "South America"],
+      "answer": 1,
+      "explanation": "The Baan Stambh records that a straight southward line from the temple meets no land until Antarctica (the South Pole)."
+    },
+    {
+      "id": "somnath-temple-q30",
+      "difficulty": "hard",
+      "q": "The reconstruction of the modern Somnath Temple's main structure was completed and the temple consecrated in which year?",
+      "options": ["1947", "1951", "1965", "1995"],
+      "answer": 1,
+      "explanation": "The jyotirlinga was installed and the temple consecrated in 1951, with later phases of construction finishing in subsequent years."
+    }
+  ]
+}

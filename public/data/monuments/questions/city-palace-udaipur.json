@@ -1,0 +1,245 @@
+{
+  "cardId": "city-palace-udaipur",
+  "questions": [
+    {
+      "id": "city-palace-udaipur-q01",
+      "difficulty": "easy",
+      "q": "In which Indian city is the City Palace located?",
+      "options": ["Jaipur", "Udaipur", "Jodhpur", "Jaisalmer"],
+      "answer": 1,
+      "explanation": "The City Palace is the grand royal complex of Mewar located in Udaipur, Rajasthan."
+    },
+    {
+      "id": "city-palace-udaipur-q02",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state is the City Palace of Udaipur situated?",
+      "options": ["Gujarat", "Madhya Pradesh", "Rajasthan", "Maharashtra"],
+      "answer": 2,
+      "explanation": "Udaipur and its City Palace lie in the state of Rajasthan in western India."
+    },
+    {
+      "id": "city-palace-udaipur-q03",
+      "difficulty": "easy",
+      "q": "On the banks of which lake does the City Palace of Udaipur stand?",
+      "options": ["Lake Pichola", "Dal Lake", "Sambhar Lake", "Pushkar Lake"],
+      "answer": 0,
+      "explanation": "The City Palace rises along the eastern shore of Lake Pichola in Udaipur."
+    },
+    {
+      "id": "city-palace-udaipur-q04",
+      "difficulty": "easy",
+      "q": "Which ruler is credited with founding the City Palace and the city of Udaipur?",
+      "options": ["Rana Sanga", "Maharana Pratap", "Udai Singh II", "Rana Kumbha"],
+      "answer": 2,
+      "explanation": "Maharana Udai Singh II founded Udaipur and began the City Palace in the mid-16th century."
+    },
+    {
+      "id": "city-palace-udaipur-q05",
+      "difficulty": "easy",
+      "q": "The City Palace was the seat of the rulers of which kingdom?",
+      "options": ["Marwar", "Mewar", "Amber", "Bundi"],
+      "answer": 1,
+      "explanation": "The City Palace served as the principal residence of the Sisodia rulers of Mewar."
+    },
+    {
+      "id": "city-palace-udaipur-q06",
+      "difficulty": "easy",
+      "q": "The title held by the rulers of Mewar who built and lived in the City Palace was:",
+      "options": ["Nawab", "Maharana", "Sultan", "Peshwa"],
+      "answer": 1,
+      "explanation": "The Mewar sovereigns used the distinctive title 'Maharana' rather than Maharaja."
+    },
+    {
+      "id": "city-palace-udaipur-q07",
+      "difficulty": "easy",
+      "q": "What is the primary building material of the City Palace's walls and structures?",
+      "options": ["Mud brick", "Granite and marble", "Timber", "Laterite"],
+      "answer": 1,
+      "explanation": "The City Palace is built largely of granite and marble in the local Rajput tradition."
+    },
+    {
+      "id": "city-palace-udaipur-q08",
+      "difficulty": "easy",
+      "q": "Which famous luxury hotel sits on an island in Lake Pichola, viewed from the City Palace?",
+      "options": ["Lake Palace (Jag Niwas)", "Rambagh Palace", "Umaid Bhawan", "Falaknuma Palace"],
+      "answer": 0,
+      "explanation": "The island Lake Palace, originally Jag Niwas, floats in Lake Pichola opposite the City Palace."
+    },
+    {
+      "id": "city-palace-udaipur-q09",
+      "difficulty": "easy",
+      "q": "The City Palace today functions partly as which kind of public attraction?",
+      "options": ["A railway station", "A museum", "A university", "A military barracks"],
+      "answer": 1,
+      "explanation": "A large portion of the City Palace is now a museum open to visitors."
+    },
+    {
+      "id": "city-palace-udaipur-q10",
+      "difficulty": "easy",
+      "q": "Udaipur, home of the City Palace, is popularly nicknamed the City of:",
+      "options": ["Forts", "Lakes", "Deserts", "Temples"],
+      "answer": 1,
+      "explanation": "Udaipur is famously known as the 'City of Lakes', set among Pichola and other lakes."
+    },
+    {
+      "id": "city-palace-udaipur-q11",
+      "difficulty": "medium",
+      "q": "In which century did Maharana Udai Singh II begin construction of the City Palace?",
+      "options": ["14th century", "16th century", "18th century", "19th century"],
+      "answer": 1,
+      "explanation": "Construction began in the mid-16th century, around the founding of Udaipur in 1559."
+    },
+    {
+      "id": "city-palace-udaipur-q12",
+      "difficulty": "medium",
+      "q": "The architectural character of the City Palace is best described as a fusion of which styles?",
+      "options": ["Gothic and Baroque", "Rajput and Mughal", "Dravidian and Hoysala", "Indo-Saracenic and Art Deco"],
+      "answer": 1,
+      "explanation": "The complex blends Rajput (Rajasthani) architecture with Mughal influences."
+    },
+    {
+      "id": "city-palace-udaipur-q13",
+      "difficulty": "medium",
+      "q": "The City Palace is notable for being not a single building but a:",
+      "options": ["Single tall tower", "Complex of interconnected palaces", "Underground cave system", "Floating structure"],
+      "answer": 1,
+      "explanation": "It is a sprawling complex of several palaces built and added by successive Maharanas over centuries."
+    },
+    {
+      "id": "city-palace-udaipur-q14",
+      "difficulty": "medium",
+      "q": "Which royal dynasty of Mewar built and expanded the City Palace?",
+      "options": ["Rathore", "Sisodia", "Kachhwaha", "Chauhan"],
+      "answer": 1,
+      "explanation": "The Sisodia Rajput dynasty of Mewar were the builders and custodians of the City Palace."
+    },
+    {
+      "id": "city-palace-udaipur-q15",
+      "difficulty": "medium",
+      "q": "Approximately how long did successive Maharanas keep adding to the City Palace complex?",
+      "options": ["About 50 years", "Nearly 400 years", "Exactly 10 years", "Over 1,000 years"],
+      "answer": 1,
+      "explanation": "The palace grew through additions over roughly four centuries from the 16th century onward."
+    },
+    {
+      "id": "city-palace-udaipur-q16",
+      "difficulty": "medium",
+      "q": "Why did Udai Singh II move the Mewar capital and found Udaipur with its City Palace?",
+      "options": ["To be nearer the sea", "Because Chittorgarh was vulnerable to Mughal attack", "To escape a flood", "To be closer to Delhi"],
+      "answer": 1,
+      "explanation": "He shifted from the exposed hill fort of Chittorgarh to a more defensible lakeside site after Mughal pressure."
+    },
+    {
+      "id": "city-palace-udaipur-q17",
+      "difficulty": "medium",
+      "q": "The earlier Mewar capital that Udai Singh II left for Udaipur was:",
+      "options": ["Chittorgarh", "Bikaner", "Ajmer", "Mandu"],
+      "answer": 0,
+      "explanation": "Chittorgarh (Chittor) was the old capital of Mewar before the move to Udaipur."
+    },
+    {
+      "id": "city-palace-udaipur-q18",
+      "difficulty": "medium",
+      "q": "The City Palace complex is entered from the city side through a grand gateway. Such triple-arched ceremonial gates are commonly called:",
+      "options": ["Pol", "Ghat", "Chowk", "Stupa"],
+      "answer": 0,
+      "explanation": "Gateways in the complex, such as the Tripolia, use the term 'pol' for a fortified gate."
+    },
+    {
+      "id": "city-palace-udaipur-q19",
+      "difficulty": "medium",
+      "q": "The City Palace museum is renowned for its richly decorated interior courtyards and rooms featuring:",
+      "options": ["Neon lighting", "Mirror work, mosaics and colored glass", "Steel girders", "Plastic murals"],
+      "answer": 1,
+      "explanation": "Its interiors are famed for mirror work, glass mosaics, frescoes and inlaid decoration."
+    },
+    {
+      "id": "city-palace-udaipur-q20",
+      "difficulty": "medium",
+      "q": "Lake Pichola, beside the City Palace, was originally created as a:",
+      "options": ["Natural ocean inlet", "Man-made reservoir", "Volcanic crater lake", "Glacial lake"],
+      "answer": 1,
+      "explanation": "Lake Pichola is an artificial freshwater lake whose dam predates and was enlarged around Udaipur's founding."
+    },
+    {
+      "id": "city-palace-udaipur-q21",
+      "difficulty": "medium",
+      "q": "The City Palace overlooks not only Lake Pichola but a second royal island palace built for pleasure, the:",
+      "options": ["Jag Mandir", "Hawa Mahal", "Sheesh Mahal of Agra", "Buland Darwaza"],
+      "answer": 0,
+      "explanation": "Jag Mandir is another island palace in Lake Pichola, distinct from the Lake Palace (Jag Niwas)."
+    },
+    {
+      "id": "city-palace-udaipur-q22",
+      "difficulty": "medium",
+      "q": "Mewar's rulers traced their lineage to a solar dynasty and revered which deity as their guardian, reflected in palace shrines?",
+      "options": ["Eklingji (Shiva)", "Jagannath only", "Surya alone", "Hanuman alone"],
+      "answer": 0,
+      "explanation": "The Mewar rulers regarded Eklingji, a form of Shiva, as the true sovereign of the kingdom."
+    },
+    {
+      "id": "city-palace-udaipur-q23",
+      "difficulty": "hard",
+      "q": "In which year is Udaipur generally said to have been founded by Udai Singh II?",
+      "options": ["1303", "1559", "1638", "1727"],
+      "answer": 1,
+      "explanation": "Udaipur was founded around 1559 CE, with the City Palace begun soon after."
+    },
+    {
+      "id": "city-palace-udaipur-q24",
+      "difficulty": "hard",
+      "q": "Maharana Pratap, the famed warrior who resisted Akbar, was the son of which founder of the City Palace?",
+      "options": ["Rana Kumbha", "Rana Sanga", "Udai Singh II", "Amar Singh II"],
+      "answer": 2,
+      "explanation": "Maharana Pratap was the son and successor of Udai Singh II, founder of Udaipur."
+    },
+    {
+      "id": "city-palace-udaipur-q25",
+      "difficulty": "hard",
+      "q": "A prominent tower-like palace within the complex offering panoramic views over the lake and city is the:",
+      "options": ["Amar Vilas / Badi Mahal", "Qutb Minar", "Char Minar", "Jantar Mantar"],
+      "answer": 0,
+      "explanation": "The Badi Mahal (Amar Vilas) is a raised garden-palace high within the complex with sweeping views."
+    },
+    {
+      "id": "city-palace-udaipur-q26",
+      "difficulty": "hard",
+      "q": "Which courtyard in the City Palace is celebrated for its brilliant ceramic and glass peacock mosaics?",
+      "options": ["Mor Chowk (Peacock Courtyard)", "Diwan-i-Aam of Delhi", "Anguri Bagh", "Sheesh Mahal of Lahore"],
+      "answer": 0,
+      "explanation": "Mor Chowk, the Peacock Courtyard, is famed for its inlaid glass-and-tile peacock figures."
+    },
+    {
+      "id": "city-palace-udaipur-q27",
+      "difficulty": "hard",
+      "q": "The City Palace and the surrounding cultural landscape of Udaipur are associated with which UNESCO recognition status?",
+      "options": ["Inscribed World Heritage Site since 1983", "On India's tentative list, not yet inscribed", "Removed from the list", "A natural World Heritage Site"],
+      "answer": 1,
+      "explanation": "Udaipur's lake-palace landscape is on UNESCO's tentative list and has not been formally inscribed."
+    },
+    {
+      "id": "city-palace-udaipur-q28",
+      "difficulty": "hard",
+      "q": "Part of the City Palace complex is managed by a trust that also preserves Mewar's heritage, founded by the present custodian's family. It is generally known as the:",
+      "options": ["Archaeological Survey of India", "Maharana of Mewar Charitable Foundation", "Indian National Trust only", "Ministry of Tourism"],
+      "answer": 1,
+      "explanation": "The Maharana of Mewar Charitable Foundation manages much of the palace and its museum."
+    },
+    {
+      "id": "city-palace-udaipur-q29",
+      "difficulty": "hard",
+      "q": "The City Palace's lakeside setting and opulent interiors have made it a frequent location for which kind of production?",
+      "options": ["Deep-sea documentaries", "Films, including international cinema", "Space-launch broadcasts", "Winter ski events"],
+      "answer": 1,
+      "explanation": "The palace and Lake Pichola have featured in numerous Indian and international films."
+    },
+    {
+      "id": "city-palace-udaipur-q30",
+      "difficulty": "hard",
+      "q": "Which feature best explains the City Palace's commanding strategic and scenic position?",
+      "options": ["It sits in a deep underground cavern", "It is built on a ridge above Lake Pichola", "It floats entirely on water", "It stands in open desert with no water nearby"],
+      "answer": 1,
+      "explanation": "The palace was raised on a granite ridge along Lake Pichola, giving both defense and panoramic views."
+    }
+  ]
+}

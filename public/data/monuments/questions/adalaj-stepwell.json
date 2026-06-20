@@ -1,0 +1,245 @@
+{
+  "cardId": "adalaj-stepwell",
+  "questions": [
+    {
+      "id": "adalaj-stepwell-q01",
+      "difficulty": "easy",
+      "q": "The Adalaj Stepwell is located in which Indian state?",
+      "options": ["Rajasthan", "Gujarat", "Maharashtra", "Madhya Pradesh"],
+      "answer": 1,
+      "explanation": "The Adalaj Stepwell stands in the village of Adalaj in the state of Gujarat in western India."
+    },
+    {
+      "id": "adalaj-stepwell-q02",
+      "difficulty": "easy",
+      "q": "Adalaj is a type of which kind of structure?",
+      "options": ["A stepwell", "A fort", "A mosque", "A palace"],
+      "answer": 0,
+      "explanation": "Adalaj is a stepwell, a water structure with descending steps leading down to the water table, known locally as a 'vav'."
+    },
+    {
+      "id": "adalaj-stepwell-q03",
+      "difficulty": "easy",
+      "q": "In which year was the Adalaj Stepwell built?",
+      "options": ["1632", "1750", "1498", "1206"],
+      "answer": 2,
+      "explanation": "The Adalaj Stepwell was completed in 1498, as recorded in inscriptions at the site."
+    },
+    {
+      "id": "adalaj-stepwell-q04",
+      "difficulty": "easy",
+      "q": "Adalaj Stepwell is located close to which major Gujarati city?",
+      "options": ["Surat", "Vadodara", "Rajkot", "Ahmedabad"],
+      "answer": 3,
+      "explanation": "The stepwell lies in Adalaj village a short distance north of Ahmedabad, near Gandhinagar."
+    },
+    {
+      "id": "adalaj-stepwell-q05",
+      "difficulty": "easy",
+      "q": "How many storeys deep does the Adalaj Stepwell descend?",
+      "options": ["Two storeys", "Five storeys", "Eight storeys", "Ten storeys"],
+      "answer": 1,
+      "explanation": "The Adalaj Stepwell descends five storeys below ground level toward the water."
+    },
+    {
+      "id": "adalaj-stepwell-q06",
+      "difficulty": "easy",
+      "q": "What is the local Gujarati word for a stepwell like Adalaj?",
+      "options": ["Vav", "Ghat", "Mahal", "Burj"],
+      "answer": 0,
+      "explanation": "Stepwells are called 'vav' in Gujarati (and 'baoli' or 'baori' in other parts of India)."
+    },
+    {
+      "id": "adalaj-stepwell-q07",
+      "difficulty": "easy",
+      "q": "What was the primary practical purpose of the Adalaj Stepwell?",
+      "options": ["A defensive watchtower", "A storehouse for grain", "A water source and cool resting place", "A royal tomb"],
+      "answer": 2,
+      "explanation": "Stepwells like Adalaj provided water and a cool, shaded retreat for travellers during the hot, dry months."
+    },
+    {
+      "id": "adalaj-stepwell-q08",
+      "difficulty": "easy",
+      "q": "The Adalaj Stepwell is celebrated for blending the artistic motifs of which two traditions?",
+      "options": ["Hindu and Islamic", "Buddhist and Christian", "Sikh and Jain", "Greek and Roman"],
+      "answer": 0,
+      "explanation": "Adalaj is famous for combining Hindu and Islamic decorative motifs in a single Indo-Islamic design."
+    },
+    {
+      "id": "adalaj-stepwell-q09",
+      "difficulty": "easy",
+      "q": "What is the dominant building material of the Adalaj Stepwell?",
+      "options": ["White marble", "Red brick", "Sandstone", "Black granite"],
+      "answer": 2,
+      "explanation": "The stepwell is built and intricately carved from sandstone."
+    },
+    {
+      "id": "adalaj-stepwell-q10",
+      "difficulty": "easy",
+      "q": "Compared with the surface above, the lower galleries of the stepwell are notably what?",
+      "options": ["Much hotter", "Much cooler", "Completely flooded", "Always brightly lit"],
+      "answer": 1,
+      "explanation": "The deep underground galleries stay several degrees cooler than the surface, offering relief from the heat."
+    },
+    {
+      "id": "adalaj-stepwell-q11",
+      "difficulty": "medium",
+      "q": "The Adalaj Stepwell is most closely associated with which queen who had it built?",
+      "options": ["Rani Rudabai", "Rani Padmini", "Rani Durgavati", "Rani Lakshmibai"],
+      "answer": 0,
+      "explanation": "The stepwell was commissioned in memory and honour of Rana Veer Singh by his widow, Queen Rudabai (Rudadevi)."
+    },
+    {
+      "id": "adalaj-stepwell-q12",
+      "difficulty": "medium",
+      "q": "Queen Rudabai was the widow of a ruler from which dynasty?",
+      "options": ["The Chauhan dynasty", "The Vaghela dynasty", "The Tomar dynasty", "The Sisodia dynasty"],
+      "answer": 1,
+      "explanation": "Rudabai was the queen of Rana Veer Singh of the Vaghela dynasty, who ruled the small kingdom of Dandai Desh."
+    },
+    {
+      "id": "adalaj-stepwell-q13",
+      "difficulty": "medium",
+      "q": "What is the geometric plan of the central well shaft and many platforms at Adalaj?",
+      "options": ["Circular", "Octagonal", "Triangular", "Hexagonal"],
+      "answer": 1,
+      "explanation": "Adalaj is distinctive for its octagonal plan at the landings, with carved pillars supporting the platforms."
+    },
+    {
+      "id": "adalaj-stepwell-q14",
+      "difficulty": "medium",
+      "q": "How many entrance stairways lead down into the Adalaj Stepwell?",
+      "options": ["One", "Two", "Three", "Six"],
+      "answer": 2,
+      "explanation": "Three stepped entrances from different directions descend and meet at the first underground storey, an unusual feature."
+    },
+    {
+      "id": "adalaj-stepwell-q15",
+      "difficulty": "medium",
+      "q": "The construction of the Adalaj Stepwell was begun under whose initiative before Rudabai completed it?",
+      "options": ["Her son Karan Singh", "Her father", "Her husband Rana Veer Singh", "A Mughal governor"],
+      "answer": 2,
+      "explanation": "Rana Veer Singh had started the project, and after his death in battle it was finished, with the stepwell named for his widow Queen Rudabai."
+    },
+    {
+      "id": "adalaj-stepwell-q16",
+      "difficulty": "medium",
+      "q": "According to tradition, the region of Adalaj at the time was being contested with a Muslim ruler of Gujarat known as what?",
+      "options": ["Sher Shah Suri", "Mahmud Begada", "Tipu Sultan", "Hyder Ali"],
+      "answer": 1,
+      "explanation": "Legend links the stepwell's completion to the period of Mahmud Begada, the Sultan of Gujarat who controlled the area."
+    },
+    {
+      "id": "adalaj-stepwell-q17",
+      "difficulty": "medium",
+      "q": "Which carved motif depicting a 'tree of life' is found in the ornamentation of Adalaj?",
+      "options": ["Kalpavriksha", "Bodhi tree", "Banyan crest", "Lotus pillar"],
+      "answer": 0,
+      "explanation": "The carvings include the Kalpavriksha, the wish-fulfilling tree of life, among Adalaj's celebrated decorative themes."
+    },
+    {
+      "id": "adalaj-stepwell-q18",
+      "difficulty": "medium",
+      "q": "A famous carving at Adalaj shows the 'Ami Khumbor', which represents what?",
+      "options": ["A war elephant", "A pot containing the water of life", "A royal throne", "A sacred cow"],
+      "answer": 1,
+      "explanation": "The Ami Khumbor is a carved pot symbolising the water of life, reflecting the well's life-giving role."
+    },
+    {
+      "id": "adalaj-stepwell-q19",
+      "difficulty": "medium",
+      "q": "The carved galleries of Adalaj depict scenes of which kind of subject matter?",
+      "options": ["Modern industrial machines", "Everyday life, dancers, musicians and animals", "European naval battles", "Maps of distant continents"],
+      "answer": 1,
+      "explanation": "The friezes show everyday scenes such as women churning buttermilk, dancers, musicians and animals, alongside floral patterns."
+    },
+    {
+      "id": "adalaj-stepwell-q20",
+      "difficulty": "medium",
+      "q": "Why does the carved decoration of Adalaj generally avoid large human or deity figures on the deepest, most sacred levels in the Islamic-influenced areas?",
+      "options": ["Islamic tradition discouraged figural depiction, favouring geometric and floral patterns", "The stone was too soft to carve figures", "The carvers ran out of time", "It was forbidden by the British"],
+      "answer": 0,
+      "explanation": "Islamic artistic tradition favoured geometric, floral and calligraphic ornament over figural imagery, which influenced parts of Adalaj's decoration."
+    },
+    {
+      "id": "adalaj-stepwell-q21",
+      "difficulty": "medium",
+      "q": "Stepwells such as Adalaj were built mainly to cope with which climatic challenge of the region?",
+      "options": ["Frequent earthquakes", "Heavy snowfall", "Long dry seasons and scarce water", "Coastal flooding"],
+      "answer": 2,
+      "explanation": "In Gujarat's arid climate with long dry seasons, stepwells stored water and made it accessible year-round."
+    },
+    {
+      "id": "adalaj-stepwell-q22",
+      "difficulty": "medium",
+      "q": "Roughly how deep is the Adalaj Stepwell from the surface down to the water level?",
+      "options": ["About 5 metres", "About 70 metres", "About 20 metres", "About 100 metres"],
+      "answer": 2,
+      "explanation": "Descending five storeys, the stepwell reaches a depth of roughly 20 metres to the water."
+    },
+    {
+      "id": "adalaj-stepwell-q23",
+      "difficulty": "hard",
+      "q": "The kingdom ruled by Rana Veer Singh, for whom Adalaj was begun, is traditionally named in the legend as what?",
+      "options": ["Dandai Desh", "Marwar", "Mewar", "Malwa"],
+      "answer": 0,
+      "explanation": "Rana Veer Singh is described in the legend as the Vaghela ruler of the small kingdom of Dandai Desh."
+    },
+    {
+      "id": "adalaj-stepwell-q24",
+      "difficulty": "hard",
+      "q": "In the popular legend, what tragic fate is said to have befallen Queen Rudabai after the stepwell was completed?",
+      "options": ["She was exiled to Delhi", "She jumped into the well to her death rather than marry the conquering sultan", "She fled to Rajasthan", "She became a Buddhist nun"],
+      "answer": 1,
+      "explanation": "Legend holds that Rudabai, having been promised in marriage to the sultan in exchange for finishing the well, threw herself into it to escape the union."
+    },
+    {
+      "id": "adalaj-stepwell-q25",
+      "difficulty": "hard",
+      "q": "The architectural style of Adalaj, drawing on the Solanki-era temple tradition of the region, is broadly known by which name?",
+      "options": ["Dravidian style", "Maru-Gurjara (Solanki) style", "Indo-Saracenic colonial style", "Kalinga style"],
+      "answer": 1,
+      "explanation": "The carving tradition follows the Maru-Gurjara (Solanki) style of western India, fused here with Islamic ornamental elements."
+    },
+    {
+      "id": "adalaj-stepwell-q26",
+      "difficulty": "hard",
+      "q": "Inscriptions at Adalaj recording its construction are written primarily in which language?",
+      "options": ["Persian", "Sanskrit", "Tamil", "Pali"],
+      "answer": 1,
+      "explanation": "A Sanskrit inscription at the site records the year 1498 and the patronage associated with the stepwell."
+    },
+    {
+      "id": "adalaj-stepwell-q27",
+      "difficulty": "hard",
+      "q": "An unusual social and architectural feature of Adalaj is that its three stairways converge at which point?",
+      "options": ["At the very bottom near the water", "At the first underground storey forming a single platform", "At a rooftop pavilion", "At separate isolated chambers"],
+      "answer": 1,
+      "explanation": "The three entrance stairs meet at a large platform on the first storey underground, a layout rare among Indian stepwells."
+    },
+    {
+      "id": "adalaj-stepwell-q28",
+      "difficulty": "hard",
+      "q": "Which body is responsible for protecting and maintaining the Adalaj Stepwell as a monument today?",
+      "options": ["UNESCO directly", "The Archaeological Survey of India / state heritage authorities", "The Indian Navy", "A private hotel chain"],
+      "answer": 1,
+      "explanation": "Adalaj is a protected heritage monument cared for under the Archaeological Survey of India and state heritage authorities."
+    },
+    {
+      "id": "adalaj-stepwell-q29",
+      "difficulty": "hard",
+      "q": "Beyond supplying water, stepwells such as Adalaj also served what important social and spiritual function?",
+      "options": ["A site for naval drills", "A gathering and resting place with religious significance for travellers and women", "A royal mint for coins", "A prison for captives"],
+      "answer": 1,
+      "explanation": "Stepwells were communal gathering places of social and religious importance, especially for women who came to fetch water and offer prayers."
+    },
+    {
+      "id": "adalaj-stepwell-q30",
+      "difficulty": "hard",
+      "q": "Another famous Gujarat stepwell, often compared with Adalaj and inscribed as a UNESCO World Heritage Site, is which one?",
+      "options": ["Rani ki Vav at Patan", "Chand Baori at Abhaneri", "Agrasen ki Baoli in Delhi", "Toorji ka Jhalra in Jodhpur"],
+      "answer": 0,
+      "explanation": "Rani ki Vav at Patan in Gujarat, a UNESCO World Heritage Site, is the most celebrated stepwell often compared with Adalaj."
+    }
+  ]
+}

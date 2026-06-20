@@ -1,0 +1,245 @@
+{
+  "cardId": "mysore-palace",
+  "questions": [
+    {
+      "id": "mysore-palace-q01",
+      "difficulty": "easy",
+      "q": "In which Indian state is Mysore Palace located?",
+      "options": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"],
+      "answer": 1,
+      "explanation": "Mysore Palace stands in the city of Mysuru (Mysore) in the southern Indian state of Karnataka."
+    },
+    {
+      "id": "mysore-palace-q02",
+      "difficulty": "easy",
+      "q": "Mysore Palace was the seat of which royal family?",
+      "options": ["The Mughals", "The Marathas", "The Cholas", "The Wodeyar dynasty"],
+      "answer": 3,
+      "explanation": "Mysore Palace served as the official residence and seat of the Wodeyar dynasty, the royal family of the Kingdom of Mysore."
+    },
+    {
+      "id": "mysore-palace-q03",
+      "difficulty": "easy",
+      "q": "Mysore Palace is most famous for being illuminated during which festival?",
+      "options": ["Diwali", "Holi", "Dasara (Dussehra)", "Pongal"],
+      "answer": 2,
+      "explanation": "During the Dasara festival the palace is lit with tens of thousands of bulbs, a tradition that draws crowds from across the world."
+    },
+    {
+      "id": "mysore-palace-q04",
+      "difficulty": "easy",
+      "q": "In which city is Mysore Palace located?",
+      "options": ["Bengaluru", "Mangaluru", "Mysuru", "Hubballi"],
+      "answer": 2,
+      "explanation": "The palace is located in Mysuru (Mysore), historically the cultural capital of Karnataka."
+    },
+    {
+      "id": "mysore-palace-q05",
+      "difficulty": "easy",
+      "q": "What type of monument is Mysore Palace?",
+      "options": ["A Buddhist stupa", "A stepwell", "A royal palace", "A fortified mosque"],
+      "answer": 2,
+      "explanation": "Mysore Palace is a royal palace, the grand residence of the Wodeyar kings of Mysore."
+    },
+    {
+      "id": "mysore-palace-q06",
+      "difficulty": "easy",
+      "q": "Mysore Palace is one of the most visited tourist attractions in India. What broadly draws visitors to it?",
+      "options": ["Its hot springs", "Its opulent architecture and Dasara illumination", "Its underground river", "Its ski slopes"],
+      "answer": 1,
+      "explanation": "Visitors are drawn by the palace's opulent interiors, ornate halls, and the spectacular Dasara lighting."
+    },
+    {
+      "id": "mysore-palace-q07",
+      "difficulty": "easy",
+      "q": "The lavish nighttime lighting of Mysore Palace is created using what?",
+      "options": ["Laser projectors", "Thousands of light bulbs", "Oil lamps only", "Neon signs"],
+      "answer": 1,
+      "explanation": "The palace facade is outlined by roughly a hundred thousand light bulbs that switch on during Dasara and on special occasions."
+    },
+    {
+      "id": "mysore-palace-q08",
+      "difficulty": "easy",
+      "q": "Mysore Palace is also commonly known by which name?",
+      "options": ["Hawa Mahal", "Amba Vilas Palace", "Rang Mahal", "Sheesh Mahal"],
+      "answer": 1,
+      "explanation": "The palace is formally known as Amba Vilas Palace, after the goddess Amba (Chamundeshwari) revered by the royal family."
+    },
+    {
+      "id": "mysore-palace-q09",
+      "difficulty": "easy",
+      "q": "Mysore Palace overlooks which sacred hill associated with the city?",
+      "options": ["Tirumala Hill", "Chamundi Hill", "Nandi Hill", "Brahmagiri Hill"],
+      "answer": 1,
+      "explanation": "The palace faces the Chamundi Hill, home to the Chamundeshwari Temple, the guardian deity of the Wodeyars."
+    },
+    {
+      "id": "mysore-palace-q10",
+      "difficulty": "easy",
+      "q": "Mysore Palace is best described as an example of which broad category of Indian heritage?",
+      "options": ["Ancient cave architecture", "Prehistoric rock shelters", "Tomb architecture", "Princely-era palace architecture"],
+      "answer": 3,
+      "explanation": "The present palace is an early 20th-century royal building, a prime example of grand princely-era palace architecture."
+    },
+    {
+      "id": "mysore-palace-q11",
+      "difficulty": "medium",
+      "q": "The present Mysore Palace is built in which predominant architectural style?",
+      "options": ["Dravidian", "Indo-Saracenic", "Gothic Revival", "Mughal"],
+      "answer": 1,
+      "explanation": "The palace is a celebrated example of the Indo-Saracenic style, blending Hindu, Islamic, Rajput, and Gothic elements."
+    },
+    {
+      "id": "mysore-palace-q12",
+      "difficulty": "medium",
+      "q": "Which British architect designed the present Mysore Palace?",
+      "options": ["Edwin Lutyens", "Henry Irwin", "Frederick Stevens", "Robert Chisholm"],
+      "answer": 1,
+      "explanation": "The current palace was designed by the British architect Henry Irwin and completed in the early 20th century."
+    },
+    {
+      "id": "mysore-palace-q13",
+      "difficulty": "medium",
+      "q": "Why was the present Mysore Palace built in the early 1900s?",
+      "options": ["It replaced an earlier palace destroyed by fire", "It was built for a Mughal emperor", "It was a British military barracks", "It was originally a temple complex"],
+      "answer": 0,
+      "explanation": "The earlier wooden palace was largely destroyed by fire in 1897, and the present stone palace was built to replace it."
+    },
+    {
+      "id": "mysore-palace-q14",
+      "difficulty": "medium",
+      "q": "Construction of the present Mysore Palace was completed in which year?",
+      "options": ["1857", "1912", "1947", "1975"],
+      "answer": 1,
+      "explanation": "The reconstruction of the palace was completed in 1912 under the rule of Maharaja Krishnaraja Wodeyar IV."
+    },
+    {
+      "id": "mysore-palace-q15",
+      "difficulty": "medium",
+      "q": "Under which Maharaja was the present Mysore Palace constructed?",
+      "options": ["Tipu Sultan", "Krishnaraja Wodeyar IV", "Hyder Ali", "Chamaraja Wodeyar X"],
+      "answer": 1,
+      "explanation": "The palace was commissioned during the reign of Maharaja Krishnaraja Wodeyar IV, whose mother oversaw much of the rebuilding."
+    },
+    {
+      "id": "mysore-palace-q16",
+      "difficulty": "medium",
+      "q": "The grand Durbar Hall and Kalyana Mantapa are notable interior spaces of which kind in the palace?",
+      "options": ["Stables and granaries", "Ceremonial and assembly halls", "Prison cells", "Boat docks"],
+      "answer": 1,
+      "explanation": "The Durbar Hall (royal audience hall) and the Kalyana Mantapa (marriage pavilion) are among the palace's grandest ceremonial spaces."
+    },
+    {
+      "id": "mysore-palace-q17",
+      "difficulty": "medium",
+      "q": "The Kalyana Mantapa of Mysore Palace is especially famous for which feature?",
+      "options": ["An underground tunnel", "A floating marble platform", "A stained-glass domed ceiling with peacock motifs", "A row of cannons"],
+      "answer": 2,
+      "explanation": "The octagonal Kalyana Mantapa is crowned by a stunning stained-glass dome decorated with peacock motifs."
+    },
+    {
+      "id": "mysore-palace-q18",
+      "difficulty": "medium",
+      "q": "The famous golden throne kept at Mysore Palace is displayed publicly mainly during which occasion?",
+      "options": ["Republic Day", "The Dasara festival", "Christmas", "Independence Day"],
+      "answer": 1,
+      "explanation": "The royal golden throne (the Chinnada Simhasana) is assembled and displayed during the Dasara celebrations."
+    },
+    {
+      "id": "mysore-palace-q19",
+      "difficulty": "medium",
+      "q": "What event during Mysore Dasara features a richly decorated elephant procession?",
+      "options": ["The Jamboo Savari procession", "The Rath Yatra", "The Pushkaram", "The Kumbh Mela"],
+      "answer": 0,
+      "explanation": "The Jamboo Savari, in which a caparisoned elephant carries the idol of Chamundeshwari, is the highlight of Mysore Dasara."
+    },
+    {
+      "id": "mysore-palace-q20",
+      "difficulty": "medium",
+      "q": "Mysore Palace stands within a fortified enclosure that also contains several temples. What does this reflect?",
+      "options": ["Its origin as a Portuguese fort", "Its use as a colonial warehouse", "The Wodeyars' devotion and the palace's role as a royal-religious complex", "Its design as a purely military citadel"],
+      "answer": 2,
+      "explanation": "The palace complex is enclosed by a fort and includes several temples, reflecting the Wodeyars' religious devotion and the site's royal-ceremonial role."
+    },
+    {
+      "id": "mysore-palace-q21",
+      "difficulty": "medium",
+      "q": "The materials used in the present Mysore Palace prominently include which of the following?",
+      "options": ["Bamboo and thatch", "Fine grey granite with domes and marble", "Sun-dried mud brick only", "Sandstone and timber only"],
+      "answer": 1,
+      "explanation": "The palace was built largely of fine grey granite with deep pink marble domes, giving it a durable and ornate finish."
+    },
+    {
+      "id": "mysore-palace-q22",
+      "difficulty": "medium",
+      "q": "Mysore Palace is today maintained and managed by which kind of body?",
+      "options": ["A private hotel chain", "A government-administered board (the Mysore Palace Board)", "The Archaeological Survey of Pakistan", "A foreign embassy"],
+      "answer": 1,
+      "explanation": "The palace is administered by the Mysore Palace Board under the Karnataka government, with parts open as a museum to the public."
+    },
+    {
+      "id": "mysore-palace-q23",
+      "difficulty": "hard",
+      "q": "The original Mysore fort and earlier palace site is historically linked to the founding rulers of the Wodeyar dynasty in which century?",
+      "options": ["The 8th century", "The 14th century", "The 18th century", "The 20th century"],
+      "answer": 1,
+      "explanation": "The Wodeyar dynasty rose to prominence around the 14th century, and a palace has stood on the site through successive rebuildings since then."
+    },
+    {
+      "id": "mysore-palace-q24",
+      "difficulty": "hard",
+      "q": "During the late 18th century, control of Mysore passed for a time to rulers other than the Wodeyars. Who were they?",
+      "options": ["Hyder Ali and Tipu Sultan", "The Peshwas", "The Nizams of Hyderabad", "The Nawabs of Arcot"],
+      "answer": 0,
+      "explanation": "Hyder Ali and his son Tipu Sultan ruled Mysore in the late 18th century before the Wodeyars were restored by the British in 1799."
+    },
+    {
+      "id": "mysore-palace-q25",
+      "difficulty": "hard",
+      "q": "The princely regent who oversaw much of the early reconstruction of the present palace was which royal figure?",
+      "options": ["Maharani Vani Vilas Sannidhana (Kempananjammanni)", "Rani Lakshmibai", "Begum Hazrat Mahal", "Ahilyabai Holkar"],
+      "answer": 0,
+      "explanation": "Maharani Vani Vilas Sannidhana (Kempananjammanni), regent during the minority of Krishnaraja Wodeyar IV, played a key role in commissioning the rebuilding."
+    },
+    {
+      "id": "mysore-palace-q26",
+      "difficulty": "hard",
+      "q": "The Indo-Saracenic style of Mysore Palace is characterized by what combination of features?",
+      "options": ["Flying buttresses and pointed Gothic spires only", "Plain whitewashed Bauhaus minimalism", "Pyramidal Mayan terraces", "Domes, arches, and turrets blended with Indian temple motifs"],
+      "answer": 3,
+      "explanation": "Indo-Saracenic architecture combines Islamic-style domes, arches, and turrets with Hindu and Rajput decorative elements, all visible at Mysore Palace."
+    },
+    {
+      "id": "mysore-palace-q27",
+      "difficulty": "hard",
+      "q": "The tall central tower of Mysore Palace is crowned by a gilded dome of roughly what height above the ground?",
+      "options": ["About 145 feet (44 metres)", "About 10 feet (3 metres)", "About 500 feet (152 metres)", "About 800 feet (244 metres)"],
+      "answer": 0,
+      "explanation": "The palace's five-storey central tower rises to about 145 feet, topped by a gilded dome that dominates the skyline."
+    },
+    {
+      "id": "mysore-palace-q28",
+      "difficulty": "hard",
+      "q": "Which deity, worshipped by the Wodeyars, gives the palace its formal name Amba Vilas?",
+      "options": ["Lord Venkateshwara", "Lord Jagannath", "Goddess Meenakshi", "Goddess Chamundeshwari (Amba)"],
+      "answer": 3,
+      "explanation": "The palace is named Amba Vilas after Amba, a form of the goddess Chamundeshwari, the tutelary deity of the Wodeyar kings."
+    },
+    {
+      "id": "mysore-palace-q29",
+      "difficulty": "hard",
+      "q": "A celebrated artistic feature inside Mysore Palace is a large collection of paintings depicting which subject?",
+      "options": ["European naval battles", "The Mysore Dasara procession and royal life", "Ancient Egyptian myths", "Mughal hunting scenes only"],
+      "answer": 1,
+      "explanation": "The palace houses a famous series of paintings, including detailed depictions of the Mysore Dasara procession and royal ceremonies."
+    },
+    {
+      "id": "mysore-palace-q30",
+      "difficulty": "hard",
+      "q": "After India's independence, what became of Mysore Palace and the Wodeyar royal status?",
+      "options": ["It was demolished for a railway station", "The palace became a state-managed heritage site while the family retained part as residence", "It was sold to a foreign government", "It was converted entirely into a military fort"],
+      "answer": 1,
+      "explanation": "Following the integration of princely states, much of the palace became a government-administered heritage and museum site, while the royal family retained a portion as residence."
+    }
+  ]
+}

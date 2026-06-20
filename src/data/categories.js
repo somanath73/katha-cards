@@ -64,7 +64,7 @@ export const CATEGORIES = [
     tagline: 'Temples, forts and timeless wonders',
     emblem: 'palace',
     palette: 'dawn',
-    live: false,
+    live: true,
   },
   {
     id: 'science',

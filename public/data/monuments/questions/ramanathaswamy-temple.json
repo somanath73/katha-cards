@@ -1,0 +1,245 @@
+{
+  "cardId": "ramanathaswamy-temple",
+  "questions": [
+    {
+      "id": "ramanathaswamy-temple-q01",
+      "difficulty": "easy",
+      "q": "On which island is the Ramanathaswamy Temple located?",
+      "options": ["Rameswaram", "Sriharikota", "Majuli", "Elephanta"],
+      "answer": 0,
+      "explanation": "The Ramanathaswamy Temple stands on Rameswaram Island, off the south-eastern coast of the Indian peninsula."
+    },
+    {
+      "id": "ramanathaswamy-temple-q02",
+      "difficulty": "easy",
+      "q": "In which Indian state is the Ramanathaswamy Temple situated?",
+      "options": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh"],
+      "answer": 0,
+      "explanation": "Rameswaram and its Ramanathaswamy Temple lie in the state of Tamil Nadu in southern India."
+    },
+    {
+      "id": "ramanathaswamy-temple-q03",
+      "difficulty": "easy",
+      "q": "To which Hindu deity is the Ramanathaswamy Temple primarily dedicated?",
+      "options": ["Vishnu", "Shiva", "Ganesha", "Surya"],
+      "answer": 1,
+      "explanation": "The temple is dedicated to the god Shiva, worshipped here in the form of a lingam called Ramanathaswamy."
+    },
+    {
+      "id": "ramanathaswamy-temple-q04",
+      "difficulty": "easy",
+      "q": "The Ramanathaswamy Temple is famous for having the longest example of what feature among Hindu temples?",
+      "options": ["Pillared corridor", "Gold dome", "Reflecting pool", "Bell tower"],
+      "answer": 0,
+      "explanation": "The temple has the longest pillared corridor of any Hindu temple, running along its outer enclosures."
+    },
+    {
+      "id": "ramanathaswamy-temple-q05",
+      "difficulty": "easy",
+      "q": "Ramanathaswamy Temple is counted among which set of four major Hindu pilgrimage sites?",
+      "options": ["Sapta Puri", "Pancha Bhoota", "Char Dham", "Ashta Vinayaka"],
+      "answer": 2,
+      "explanation": "Rameswaram is one of the Char Dham, the four sacred abodes that devout Hindus aspire to visit."
+    },
+    {
+      "id": "ramanathaswamy-temple-q06",
+      "difficulty": "easy",
+      "q": "The principal lingam of the temple is regarded as one of the twelve what?",
+      "options": ["Shakti Peethas", "Divya Desams", "Kumbh sites", "Jyotirlingas"],
+      "answer": 3,
+      "explanation": "The Shiva lingam at Rameswaram is venerated as one of the twelve Jyotirlingas, the most sacred shrines of Shiva."
+    },
+    {
+      "id": "ramanathaswamy-temple-q07",
+      "difficulty": "easy",
+      "q": "Which epic hero is traditionally believed to have worshipped Shiva at Rameswaram?",
+      "options": ["Arjuna", "Bhima", "Rama", "Krishna"],
+      "answer": 2,
+      "explanation": "Hindu tradition holds that Rama installed and worshipped the lingam at Rameswaram, giving the temple its name."
+    },
+    {
+      "id": "ramanathaswamy-temple-q08",
+      "difficulty": "easy",
+      "q": "Rameswaram lies close to which narrow chain of shoals linking India toward Sri Lanka?",
+      "options": ["Rama Setu (Adam's Bridge)", "Palk Strait Bridge", "Pamban Reef", "Mannar Causeway"],
+      "answer": 0,
+      "explanation": "Rameswaram is near Rama Setu, also called Adam's Bridge, a chain of shoals stretching toward Sri Lanka."
+    },
+    {
+      "id": "ramanathaswamy-temple-q09",
+      "difficulty": "easy",
+      "q": "What is a notable feature pilgrims experience inside the Ramanathaswamy Temple?",
+      "options": ["A glass floor", "Sacred water wells (theerthams)", "A suspended bell", "An ice chamber"],
+      "answer": 1,
+      "explanation": "The temple is renowned for its many sacred water wells, the theerthams, where pilgrims take ritual baths."
+    },
+    {
+      "id": "ramanathaswamy-temple-q10",
+      "difficulty": "easy",
+      "q": "Which broad architectural tradition does the Ramanathaswamy Temple belong to?",
+      "options": ["Indo-Saracenic", "Nagara (North Indian)", "Dravidian (South Indian)", "Gothic"],
+      "answer": 2,
+      "explanation": "The temple is built in the Dravidian style characteristic of South Indian temple architecture."
+    },
+    {
+      "id": "ramanathaswamy-temple-q11",
+      "difficulty": "medium",
+      "q": "The name 'Ramanathaswamy' for the lingam essentially means it is the lord of whom?",
+      "options": ["Of Rama", "Of Ravana", "Of Hanuman", "Of Lakshmana"],
+      "answer": 0,
+      "explanation": "Ramanatha means 'lord of Rama', referring to the lingam Rama worshipped on the island."
+    },
+    {
+      "id": "ramanathaswamy-temple-q12",
+      "difficulty": "medium",
+      "q": "Tradition says Hanuman was sent to fetch a lingam from which mountain for the worship at Rameswaram?",
+      "options": ["Mount Govardhan", "Mount Abu", "Mount Kailash", "Mount Girnar"],
+      "answer": 2,
+      "explanation": "Legend holds Hanuman was sent to bring a lingam from Mount Kailash, the abode of Shiva."
+    },
+    {
+      "id": "ramanathaswamy-temple-q13",
+      "difficulty": "medium",
+      "q": "Because Hanuman was delayed, Sita is said to have fashioned a lingam from what material so the worship could begin?",
+      "options": ["Gold", "Bronze", "Crystal", "Sand"],
+      "answer": 3,
+      "explanation": "When Hanuman was late, Sita made a lingam of sand (the Ramalingam) so the worship could proceed at the auspicious hour."
+    },
+    {
+      "id": "ramanathaswamy-temple-q14",
+      "difficulty": "medium",
+      "q": "Approximately how long is the temple's famous third (outermost) corridor, the longest of its kind?",
+      "options": ["About 50 metres", "About 200 metres", "Roughly 200 yards of total run only", "Around 1,200 metres in total length"],
+      "answer": 3,
+      "explanation": "The combined pillared corridors stretch well over a kilometre, the longest temple corridor in India."
+    },
+    {
+      "id": "ramanathaswamy-temple-q15",
+      "difficulty": "medium",
+      "q": "Roughly how many carved pillars line the temple's celebrated corridors?",
+      "options": ["About 120", "Exactly 64", "Over 1,000", "About 300"],
+      "answer": 2,
+      "explanation": "The corridors are supported by more than a thousand ornately carved granite pillars."
+    },
+    {
+      "id": "ramanathaswamy-temple-q16",
+      "difficulty": "medium",
+      "q": "The towering gateways over the temple's entrances are known by which term?",
+      "options": ["Gopurams", "Minarets", "Shikharas", "Chhatris"],
+      "answer": 0,
+      "explanation": "Tall pyramidal gateway towers called gopurams mark the entrances of the Dravidian-style temple."
+    },
+    {
+      "id": "ramanathaswamy-temple-q17",
+      "difficulty": "medium",
+      "q": "Patronage that expanded the temple into its present grand form came largely from which dynasty?",
+      "options": ["Mughal emperors", "Maratha Peshwas", "Setupati rulers of Ramnad", "Mysore Wodeyars"],
+      "answer": 2,
+      "explanation": "The Setupati rulers of Ramnad were major patrons who funded much of the temple's corridors and expansion."
+    },
+    {
+      "id": "ramanathaswamy-temple-q18",
+      "difficulty": "medium",
+      "q": "Pilgrims traditionally combine a visit to Rameswaram with which other major holy site to complete a famous journey?",
+      "options": ["Varanasi (Kashi)", "Bodh Gaya", "Amritsar", "Pushkar"],
+      "answer": 0,
+      "explanation": "It is traditional to bring Ganga water from Varanasi to Rameswaram, linking the two pilgrimages."
+    },
+    {
+      "id": "ramanathaswamy-temple-q19",
+      "difficulty": "medium",
+      "q": "Rameswaram Island is connected to the Indian mainland chiefly by which historic crossing?",
+      "options": ["The Howrah Bridge", "The Bandra-Worli Sea Link", "The Vembanad Rail Bridge", "The Pamban Bridge"],
+      "answer": 3,
+      "explanation": "The Pamban Bridge across the Palk Strait connects Rameswaram Island to the mainland town of Mandapam."
+    },
+    {
+      "id": "ramanathaswamy-temple-q20",
+      "difficulty": "medium",
+      "q": "Within the wider Hindu tradition, why is bathing in the temple's theerthams considered significant?",
+      "options": ["It is believed to cleanse sins and confer merit", "It is purely decorative", "It marks the start of harvest", "It is required to enter Tamil Nadu"],
+      "answer": 0,
+      "explanation": "Pilgrims bathe in the sacred wells believing the ritual washes away sins and bestows spiritual merit."
+    },
+    {
+      "id": "ramanathaswamy-temple-q21",
+      "difficulty": "medium",
+      "q": "Two principal lingams are worshipped in the sanctum; which is given precedence in worship per tradition?",
+      "options": ["The sand lingam (Ramalingam) made by Sita", "The Kailash lingam brought by Hanuman (Vishwalingam)", "A gold lingam gifted by kings", "A lingam from the sea"],
+      "answer": 1,
+      "explanation": "To honour Hanuman's devotion, Rama decreed that the Vishwalingam he brought from Kailash be worshipped before Sita's Ramalingam, a custom still followed."
+    },
+    {
+      "id": "ramanathaswamy-temple-q22",
+      "difficulty": "medium",
+      "q": "The body of water on whose shore Rameswaram sits, separating India from Sri Lanka, is called what?",
+      "options": ["Gulf of Khambhat", "Gulf of Kutch", "Palk Strait", "Coromandel Gulf"],
+      "answer": 2,
+      "explanation": "Rameswaram lies by the Palk Strait, the body of water between south-eastern India and Sri Lanka."
+    },
+    {
+      "id": "ramanathaswamy-temple-q23",
+      "difficulty": "hard",
+      "q": "The present temple complex was developed over centuries beginning largely in which period?",
+      "options": ["The 3rd century BCE", "From around the 12th century CE onward", "The 19th century CE only", "The 1st century CE"],
+      "answer": 1,
+      "explanation": "The stone temple as seen today was built and expanded from roughly the 12th century CE over later centuries."
+    },
+    {
+      "id": "ramanathaswamy-temple-q24",
+      "difficulty": "hard",
+      "q": "The corridors and much of the temple's masonry are constructed primarily from what material?",
+      "options": ["Marble", "Red sandstone", "Granite", "Laterite brick"],
+      "answer": 2,
+      "explanation": "The pillars and corridors are built largely of granite, a hard stone typical of South Indian temples."
+    },
+    {
+      "id": "ramanathaswamy-temple-q25",
+      "difficulty": "hard",
+      "q": "Counting its inner and outer prakaras, the temple is enclosed by how many concentric corridor circuits?",
+      "options": ["A single circuit", "Seven circuits", "Three corridor circuits (prakaras)", "Twelve circuits"],
+      "answer": 2,
+      "explanation": "The temple has three concentric pillared corridor enclosures, the outermost being the longest."
+    },
+    {
+      "id": "ramanathaswamy-temple-q26",
+      "difficulty": "hard",
+      "q": "Approximately how many sacred theerthams (water bodies) are associated with the Rameswaram pilgrimage?",
+      "options": ["Around 22", "Exactly 4", "Around 108", "Just 1"],
+      "answer": 0,
+      "explanation": "Tradition counts about 22 theerthams at Rameswaram where pilgrims bathe for spiritual benefit."
+    },
+    {
+      "id": "ramanathaswamy-temple-q27",
+      "difficulty": "hard",
+      "q": "Which famous Indian scientist and former President was born in the town of Rameswaram near the temple?",
+      "options": ["C. V. Raman", "Homi Bhabha", "A. P. J. Abdul Kalam", "Vikram Sarabhai"],
+      "answer": 2,
+      "explanation": "A. P. J. Abdul Kalam, the missile scientist and 11th President of India, was born in Rameswaram in 1931."
+    },
+    {
+      "id": "ramanathaswamy-temple-q28",
+      "difficulty": "hard",
+      "q": "What is the correct status of the Ramanathaswamy Temple regarding UNESCO World Heritage listing?",
+      "options": ["It is a UNESCO World Heritage Site", "It is not a UNESCO World Heritage Site", "It was delisted in 2000", "It is a UNESCO natural site"],
+      "answer": 1,
+      "explanation": "The Ramanathaswamy Temple is a celebrated living temple but is not a UNESCO World Heritage Site."
+    },
+    {
+      "id": "ramanathaswamy-temple-q29",
+      "difficulty": "hard",
+      "q": "In the Ramayana tradition, why is Rama said to have worshipped Shiva at Rameswaram?",
+      "options": ["To celebrate his coronation", "To atone for killing Ravana, a Brahmin", "To begin building the bridge", "To honour his birth"],
+      "answer": 1,
+      "explanation": "Rama is said to have worshipped Shiva to expiate the sin of slaying Ravana, who was of Brahmin descent."
+    },
+    {
+      "id": "ramanathaswamy-temple-q30",
+      "difficulty": "hard",
+      "q": "The outermost corridor is especially noted by visitors for which striking visual quality?",
+      "options": ["Its glowing neon arches", "Its floating glass walkway", "Its painted ceiling of constellations", "Its long perspective of evenly aligned pillars"],
+      "answer": 3,
+      "explanation": "The third corridor is famed for the dramatic perspective created by its long rows of precisely aligned pillars."
+    }
+  ]
+}

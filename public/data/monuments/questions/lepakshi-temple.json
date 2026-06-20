@@ -1,0 +1,245 @@
+{
+  "cardId": "lepakshi-temple",
+  "questions": [
+    {
+      "id": "lepakshi-temple-q01",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state is the Lepakshi Temple located?",
+      "options": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Telangana"],
+      "answer": 2,
+      "explanation": "Lepakshi is in the Anantapur district of Andhra Pradesh, close to the border with Karnataka."
+    },
+    {
+      "id": "lepakshi-temple-q02",
+      "difficulty": "easy",
+      "q": "The Lepakshi Temple is most famous for which architectural curiosity?",
+      "options": ["A hanging pillar", "A leaning tower", "An underground chamber", "A floating dome"],
+      "answer": 0,
+      "explanation": "Lepakshi is renowned for its 'hanging pillar', a column that does not fully rest on the ground."
+    },
+    {
+      "id": "lepakshi-temple-q03",
+      "difficulty": "easy",
+      "q": "To which principal Hindu deity is the Lepakshi Temple dedicated?",
+      "options": ["Vishnu", "Ganesha", "Surya", "Shiva (as Veerabhadra)"],
+      "answer": 3,
+      "explanation": "The temple is dedicated to Veerabhadra, a fierce form of Shiva, and is known as the Veerabhadra Temple."
+    },
+    {
+      "id": "lepakshi-temple-q04",
+      "difficulty": "easy",
+      "q": "During which empire's rule was the Lepakshi Temple built?",
+      "options": ["Mughal Empire", "Maratha Empire", "Vijayanagara Empire", "Maurya Empire"],
+      "answer": 2,
+      "explanation": "The temple was built in the 16th century during the era of the Vijayanagara Empire."
+    },
+    {
+      "id": "lepakshi-temple-q05",
+      "difficulty": "easy",
+      "q": "In which century was the Lepakshi Temple constructed?",
+      "options": ["11th century", "13th century", "16th century", "18th century"],
+      "answer": 2,
+      "explanation": "Lepakshi was built in the 16th century under Vijayanagara patronage."
+    },
+    {
+      "id": "lepakshi-temple-q06",
+      "difficulty": "easy",
+      "q": "Lepakshi is famous for a giant monolithic statue of which animal sacred to Shiva?",
+      "options": ["Elephant", "Lion", "Peacock", "Nandi the bull"],
+      "answer": 3,
+      "explanation": "A huge monolithic Nandi (Shiva's bull) carved from a single granite block stands near the temple."
+    },
+    {
+      "id": "lepakshi-temple-q07",
+      "difficulty": "easy",
+      "q": "What kind of artwork covers the ceilings of the Lepakshi Temple?",
+      "options": ["Stained glass windows", "Mosaic tiles", "Painted murals (frescoes)", "Mirror inlay"],
+      "answer": 2,
+      "explanation": "Lepakshi is celebrated for its richly painted ceiling murals depicting deities and mythological scenes."
+    },
+    {
+      "id": "lepakshi-temple-q08",
+      "difficulty": "easy",
+      "q": "From which material is the great Nandi at Lepakshi carved?",
+      "options": ["Marble", "Sandstone", "Granite", "Wood"],
+      "answer": 2,
+      "explanation": "The colossal Nandi is carved from a single block of granite, the dominant building stone of the region."
+    },
+    {
+      "id": "lepakshi-temple-q09",
+      "difficulty": "easy",
+      "q": "The Lepakshi Temple complex sits on or beside a low rocky hill known by what name?",
+      "options": ["Kurmasaila (tortoise hill)", "Govardhan hill", "Chamundi hill", "Arunachala"],
+      "answer": 0,
+      "explanation": "The temple stands on a low hillock called Kurmasaila, named for its resemblance to a tortoise."
+    },
+    {
+      "id": "lepakshi-temple-q10",
+      "difficulty": "easy",
+      "q": "The Lepakshi Temple is primarily a place of which function?",
+      "options": ["A royal palace", "A Hindu temple of worship", "A military fort", "A trading post"],
+      "answer": 1,
+      "explanation": "Lepakshi is a working Hindu temple dedicated to Veerabhadra, a fierce aspect of Shiva."
+    },
+    {
+      "id": "lepakshi-temple-q11",
+      "difficulty": "medium",
+      "q": "According to popular tradition, which two brothers built the Lepakshi Temple?",
+      "options": ["Harihara and Bukka", "Krishna and Balarama", "Vema and Anavema", "Virupanna and Viranna"],
+      "answer": 3,
+      "explanation": "Tradition credits the brothers Virupanna and Viranna, officials under the Vijayanagara kings, with building the temple."
+    },
+    {
+      "id": "lepakshi-temple-q12",
+      "difficulty": "medium",
+      "q": "Under which Vijayanagara ruler are Virupanna and Viranna traditionally said to have served?",
+      "options": ["Harihara I", "Achyuta Deva Raya", "Tirumala Deva Raya", "Sadasiva Raya"],
+      "answer": 1,
+      "explanation": "The brothers served as officers under Achyuta Deva Raya (reigned 1529-1542), in whose reign the temple's main construction took place; the legend of the misused treasury is also tied to him."
+    },
+    {
+      "id": "lepakshi-temple-q13",
+      "difficulty": "medium",
+      "q": "The architectural style of the Lepakshi Temple belongs to which broad South Indian tradition?",
+      "options": ["Nagara (North Indian)", "Indo-Saracenic", "Kalinga", "Dravidian (Vijayanagara style)"],
+      "answer": 3,
+      "explanation": "Lepakshi is built in the Dravidian style as developed by Vijayanagara architects."
+    },
+    {
+      "id": "lepakshi-temple-q14",
+      "difficulty": "medium",
+      "q": "A famous unfinished feature on a rock near Lepakshi is associated with a wedding hall called the Kalyana Mandapa. What does the legend say about it?",
+      "options": ["It was destroyed by floods", "Its construction was left incomplete", "It was buried in sand", "It was moved to Hampi"],
+      "answer": 1,
+      "explanation": "The Kalyana Mandapa (marriage hall) was left unfinished, a feature tied to the legend of the builder's downfall."
+    },
+    {
+      "id": "lepakshi-temple-q15",
+      "difficulty": "medium",
+      "q": "Which large painted ceiling mural at Lepakshi is often cited as among the biggest of any single figure in Indian fresco art?",
+      "options": ["A reclining Vishnu", "A dancing Ganesha", "Veerabhadra", "Surya on his chariot"],
+      "answer": 2,
+      "explanation": "The ceiling above the antechamber features an enormous painted figure of Veerabhadra, a highlight of the murals."
+    },
+    {
+      "id": "lepakshi-temple-q16",
+      "difficulty": "medium",
+      "q": "The name 'Lepakshi' is popularly linked to a phrase from which Hindu epic?",
+      "options": ["The Mahabharata", "The Ramayana", "The Bhagavata Purana", "The Skanda Purana"],
+      "answer": 1,
+      "explanation": "Tradition connects the name to the Ramayana, where Rama is said to have addressed the wounded bird Jatayu as 'Le Pakshi' (rise, bird)."
+    },
+    {
+      "id": "lepakshi-temple-q17",
+      "difficulty": "medium",
+      "q": "In the Lepakshi legend, the words 'Le Pakshi' ('rise, bird') were spoken to which mythological creature?",
+      "options": ["Garuda", "Hamsa the swan", "Sampati", "Jatayu the vulture"],
+      "answer": 3,
+      "explanation": "The phrase is associated with Jatayu, the bird who fought Ravana and fell, in the Ramayana tradition."
+    },
+    {
+      "id": "lepakshi-temple-q18",
+      "difficulty": "medium",
+      "q": "A large image carved into the rock near the temple depicts which multi-hooded serpent sheltering a lingam?",
+      "options": ["A single-hooded cobra", "The seven-hooded Naga (serpent)", "A two-headed snake", "Vasuki tied to a mountain"],
+      "answer": 1,
+      "explanation": "Lepakshi has a famous monolithic carving of a giant multi-hooded Naga coiled to shelter a Shiva lingam."
+    },
+    {
+      "id": "lepakshi-temple-q19",
+      "difficulty": "medium",
+      "q": "The hanging pillar of Lepakshi is notable because:",
+      "options": ["It is made of pure gold", "It rotates on its base", "It does not rest firmly on the ground, so cloth can pass beneath it", "It glows in the dark"],
+      "answer": 2,
+      "explanation": "The pillar is slightly dislodged from the floor, and visitors traditionally pass cloth or paper under its base."
+    },
+    {
+      "id": "lepakshi-temple-q20",
+      "difficulty": "medium",
+      "q": "The murals of Lepakshi are especially praised for their use of which feature?",
+      "options": ["Pietra dura inlay", "Gold leaf gilding", "Glass mosaic", "Detailed costumes and earthy natural pigments"],
+      "answer": 3,
+      "explanation": "The frescoes are admired for their intricate depiction of costumes, ornaments, and use of natural mineral and vegetable pigments."
+    },
+    {
+      "id": "lepakshi-temple-q21",
+      "difficulty": "medium",
+      "q": "Lepakshi temple is located closest to which major nearby city used as a travel hub?",
+      "options": ["Hyderabad", "Bengaluru", "Chennai", "Visakhapatnam"],
+      "answer": 1,
+      "explanation": "Lepakshi lies near the Andhra-Karnataka border and is most easily reached from Bengaluru, roughly 120 km away."
+    },
+    {
+      "id": "lepakshi-temple-q22",
+      "difficulty": "medium",
+      "q": "Which feature carved on the temple grounds is sometimes called a 'footprint' tied to a goddess and is said to remain perpetually moist?",
+      "options": ["A footprint linked to Sita / a goddess", "A handprint of Hanuman", "A footprint of the Buddha", "A footprint of Rama's brother Lakshmana"],
+      "answer": 0,
+      "explanation": "A large footprint at Lepakshi is associated with a goddess (often called Sita's footprint) and is locally said to stay damp."
+    },
+    {
+      "id": "lepakshi-temple-q23",
+      "difficulty": "hard",
+      "q": "The Lepakshi inscriptions and traditions place the temple's main construction in roughly which decade range?",
+      "options": ["1140s-1150s", "1720s-1730s", "1530s-1540s", "1620s-1630s"],
+      "answer": 2,
+      "explanation": "The temple is generally dated to the mid-16th century (around the 1530s-1540s) within Vijayanagara rule."
+    },
+    {
+      "id": "lepakshi-temple-q24",
+      "difficulty": "hard",
+      "q": "Virupanna, the temple's traditional builder, is said to have held what kind of position under the Vijayanagara state?",
+      "options": ["A wandering ascetic", "A royal treasurer/governor (administrative officer)", "A foreign trader", "A temple sculptor by trade"],
+      "answer": 1,
+      "explanation": "Virupanna is remembered as a treasurer or governor (an administrative officer) of the Vijayanagara kingdom in the region."
+    },
+    {
+      "id": "lepakshi-temple-q25",
+      "difficulty": "hard",
+      "q": "According to the legend, the Kalyana Mandapa was left unfinished because Virupanna was accused of what?",
+      "options": ["Treason against a rival empire", "Spending royal treasury funds on the temple without authorization", "Stealing temple idols", "Failing to win a battle"],
+      "answer": 1,
+      "explanation": "Legend says Virupanna was accused of using state treasury money for the temple, leading to his downfall and the hall left incomplete."
+    },
+    {
+      "id": "lepakshi-temple-q26",
+      "difficulty": "hard",
+      "q": "The Lepakshi Veerabhadra Temple's plan centres on a sanctum with which standard South Indian temple components arranged in sequence?",
+      "options": ["Garbhagriha, antarala and mandapas", "Stupa, harmika and vedika", "Iwan, dome and minaret", "Baoli, pavilion and chhatri"],
+      "answer": 0,
+      "explanation": "Like other Dravidian temples, Lepakshi has a garbhagriha (sanctum), antarala (vestibule) and pillared mandapas (halls)."
+    },
+    {
+      "id": "lepakshi-temple-q27",
+      "difficulty": "hard",
+      "q": "Besides Veerabhadra, shrines within the Lepakshi complex are dedicated to other deities including which of the following?",
+      "options": ["Allah and Sufi saints", "Jain Tirthankaras", "Sikh Gurus", "Papanatheswara/Raghunatha and the goddess (Bhadrakali/Durga forms)"],
+      "answer": 3,
+      "explanation": "The complex also houses shrines to other forms of Shiva (such as Papanatheswara) and to goddess and Vishnu forms."
+    },
+    {
+      "id": "lepakshi-temple-q28",
+      "difficulty": "hard",
+      "q": "The Lepakshi ceiling murals are considered important survivals of which specific phase of Indian painting?",
+      "options": ["Mughal miniature painting", "Vijayanagara mural painting", "Pahari painting", "Tanjore (glass-and-gold) painting"],
+      "answer": 1,
+      "explanation": "Lepakshi preserves some of the finest examples of Vijayanagara-period mural painting in India."
+    },
+    {
+      "id": "lepakshi-temple-q29",
+      "difficulty": "hard",
+      "q": "Which statement about Lepakshi's heritage status is accurate?",
+      "options": ["It is a UNESCO World Heritage Site since 1984", "It is a protected monument noted on UNESCO's tentative list but not yet a full World Heritage Site", "It was delisted by UNESCO in 2010", "It is a UNESCO Natural World Heritage Site"],
+      "answer": 1,
+      "explanation": "Lepakshi is a protected heritage monument and has featured on India's UNESCO tentative list, but it is not (yet) an inscribed World Heritage Site."
+    },
+    {
+      "id": "lepakshi-temple-q30",
+      "difficulty": "hard",
+      "q": "The Lepakshi hanging pillar is one of about how many ornately carved pillars in the temple's main hall, a hallmark of Vijayanagara pillared halls?",
+      "options": ["Around a dozen", "Exactly 1,000 pillars", "Around 70 pillars", "More than 5,000 pillars"],
+      "answer": 2,
+      "explanation": "The temple's hall contains around seventy intricately carved pillars, one of which is the celebrated hanging pillar."
+    }
+  ]
+}

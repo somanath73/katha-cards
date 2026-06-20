@@ -1,0 +1,245 @@
+{
+  "cardId": "badami-caves",
+  "questions": [
+    {
+      "id": "badami-caves-q01",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state are the Badami Cave Temples located?",
+      "options": ["Maharashtra", "Tamil Nadu", "Telangana", "Karnataka"],
+      "answer": 3,
+      "explanation": "Badami is a town in the Bagalkot district of northern Karnataka."
+    },
+    {
+      "id": "badami-caves-q02",
+      "difficulty": "easy",
+      "q": "How were the Badami caves created?",
+      "options": ["Built up with brick and lime mortar", "Carved out of solid sandstone cliffs", "Assembled from cut stone blocks", "Cast in concrete"],
+      "answer": 1,
+      "explanation": "The temples are rock-cut, hewn directly out of the red sandstone cliffs at Badami."
+    },
+    {
+      "id": "badami-caves-q03",
+      "difficulty": "easy",
+      "q": "Which royal dynasty created the Badami cave temples?",
+      "options": ["The Cholas", "The Mughals", "The early Chalukyas", "The Mauryas"],
+      "answer": 2,
+      "explanation": "Badami was the capital of the early (Badami) Chalukyas, who excavated the caves."
+    },
+    {
+      "id": "badami-caves-q04",
+      "difficulty": "easy",
+      "q": "From what type of rock are the Badami caves carved?",
+      "options": ["Black basalt", "Red sandstone", "White marble", "Grey granite"],
+      "answer": 1,
+      "explanation": "The caves are cut from the distinctive red sandstone cliffs that surround the town."
+    },
+    {
+      "id": "badami-caves-q05",
+      "difficulty": "easy",
+      "q": "In roughly which century were the main Badami caves excavated?",
+      "options": ["6th century CE", "12th century CE", "18th century CE", "1st century BCE"],
+      "answer": 0,
+      "explanation": "The cave temples date primarily to the 6th century CE under the early Chalukyas."
+    },
+    {
+      "id": "badami-caves-q06",
+      "difficulty": "easy",
+      "q": "Beside which water body do the Badami caves overlook?",
+      "options": ["Chilika Lake", "Agastya Lake (Agastya Tirtha)", "Pushkar Lake", "Loktak Lake"],
+      "answer": 1,
+      "explanation": "The caves are carved into cliffs rising above the man-made Agastya Lake."
+    },
+    {
+      "id": "badami-caves-q07",
+      "difficulty": "easy",
+      "q": "How many principal rock-cut cave temples form the famous Badami group?",
+      "options": ["Two", "Four", "Ten", "Twenty"],
+      "answer": 1,
+      "explanation": "The well-known complex consists of four numbered cave temples cut into the cliff."
+    },
+    {
+      "id": "badami-caves-q08",
+      "difficulty": "easy",
+      "q": "The Badami caves are best known as examples of which kind of architecture?",
+      "options": ["Indo-Saracenic palaces", "Cave (rock-cut) temple architecture", "Colonial Gothic", "Wooden stilt houses"],
+      "answer": 1,
+      "explanation": "Badami is celebrated as an early masterpiece of Indian rock-cut cave temple architecture."
+    },
+    {
+      "id": "badami-caves-q09",
+      "difficulty": "easy",
+      "q": "Cave 4 at Badami is dedicated to which religion?",
+      "options": ["Christianity", "Jainism", "Sikhism", "Zoroastrianism"],
+      "answer": 1,
+      "explanation": "Cave 4 is a Jain cave, showing Badami's religious diversity alongside Hindu caves."
+    },
+    {
+      "id": "badami-caves-q10",
+      "difficulty": "easy",
+      "q": "Badami was the early Chalukyas' what?",
+      "options": ["Burial ground", "Naval port", "Royal capital", "Trading colony"],
+      "answer": 2,
+      "explanation": "Badami, then called Vatapi, served as the capital of the early Chalukya kingdom."
+    },
+    {
+      "id": "badami-caves-q11",
+      "difficulty": "medium",
+      "q": "By what ancient name was Badami known when it was the Chalukya capital?",
+      "options": ["Kanchipuram", "Pataliputra", "Dwarasamudra", "Vatapi"],
+      "answer": 3,
+      "explanation": "The town was historically called Vatapi, the capital of the Badami Chalukyas."
+    },
+    {
+      "id": "badami-caves-q12",
+      "difficulty": "medium",
+      "q": "Three of the four Badami caves are Hindu; to which deity are caves 2 and 3 mainly dedicated?",
+      "options": ["Surya and Indra", "Vishnu (caves 2 and 3)", "Brahma alone", "Ganesha alone"],
+      "answer": 1,
+      "explanation": "Caves 2 and 3 are devoted to Vishnu, while Cave 1 is largely dedicated to Shiva."
+    },
+    {
+      "id": "badami-caves-q13",
+      "difficulty": "medium",
+      "q": "Cave 1 at Badami is famous for a large relief of Shiva in which form?",
+      "options": ["Sleeping Vishnu", "Nataraja, the dancing Shiva", "Buddha in meditation", "Mahavira seated"],
+      "answer": 1,
+      "explanation": "Cave 1 contains a striking 18-armed Nataraja relief depicting Shiva dancing."
+    },
+    {
+      "id": "badami-caves-q14",
+      "difficulty": "medium",
+      "q": "Which early Chalukya king is associated with the dedicatory inscription in Cave 3 (dated 578 CE)?",
+      "options": ["Krishnadevaraya", "Mangalesha", "Ashoka", "Rajaraja Chola"],
+      "answer": 1,
+      "explanation": "Cave 3 carries an inscription of the Chalukya ruler Mangalesha dated to 578 CE."
+    },
+    {
+      "id": "badami-caves-q15",
+      "difficulty": "medium",
+      "q": "Cave 3, the largest at Badami, is particularly admired for what feature?",
+      "options": ["Stained glass", "Carved ceiling panels and large Vishnu sculptures", "Iron pillars", "Mosaic floors"],
+      "answer": 1,
+      "explanation": "Cave 3 is renowned for its rich ceiling panels and monumental Vishnu reliefs."
+    },
+    {
+      "id": "badami-caves-q16",
+      "difficulty": "medium",
+      "q": "Badami forms part of a famous cluster of Chalukyan sites; which is NOT one of its neighbours?",
+      "options": ["Aihole", "Pattadakal", "Hampi", "Mahakuta"],
+      "answer": 2,
+      "explanation": "Aihole, Pattadakal and Mahakuta are nearby Chalukyan sites; Hampi is the later Vijayanagara capital."
+    },
+    {
+      "id": "badami-caves-q17",
+      "difficulty": "medium",
+      "q": "Which seated Vishnu image is a celebrated sculpture in Cave 3 at Badami?",
+      "options": ["Vishnu riding an elephant", "Vishnu seated on the coils of the serpent Ananta (Shesha)", "Vishnu as a child", "Vishnu in a chariot"],
+      "answer": 1,
+      "explanation": "Cave 3 features a famous relief of Vishnu seated upon the coils of the serpent Ananta."
+    },
+    {
+      "id": "badami-caves-q18",
+      "difficulty": "medium",
+      "q": "Architecturally, each Badami cave generally consists of which sequence of spaces?",
+      "options": ["A single sealed chamber only", "Verandah, columned hall (mandapa) and an inner sanctum", "Open courtyard with no roof", "A spiral ramp leading underground"],
+      "answer": 1,
+      "explanation": "Each cave typically has a pillared verandah, a hall, and a small sanctum carved into the rock."
+    },
+    {
+      "id": "badami-caves-q19",
+      "difficulty": "medium",
+      "q": "Which fierce Vishnu avatar appears as a large relief in Cave 3 at Badami?",
+      "options": ["Kurma, the tortoise", "Matsya, the fish", "Narasimha, the man-lion", "Vamana, the dwarf"],
+      "answer": 2,
+      "explanation": "Cave 3 includes a powerful relief of Narasimha, Vishnu's man-lion incarnation."
+    },
+    {
+      "id": "badami-caves-q20",
+      "difficulty": "medium",
+      "q": "The Badami caves overlook a lake flanked by what other historic structures?",
+      "options": ["Lighthouses", "The Bhutanatha temple group and a hilltop fort", "Wind turbines", "Roman aqueducts"],
+      "answer": 1,
+      "explanation": "Across Agastya Lake stand the Bhutanatha temples, with old forts crowning the surrounding hills."
+    },
+    {
+      "id": "badami-caves-q21",
+      "difficulty": "medium",
+      "q": "Which Chalukya king is generally credited with founding the capital at Vatapi (Badami) in the 6th century?",
+      "options": ["Samudragupta", "Harsha", "Kanishka", "Pulakeshin I"],
+      "answer": 3,
+      "explanation": "Pulakeshin I established Vatapi as the Chalukya capital in the mid-6th century CE."
+    },
+    {
+      "id": "badami-caves-q22",
+      "difficulty": "medium",
+      "q": "Which agency is primarily responsible for maintaining the Badami cave temples today?",
+      "options": ["Indian Space Research Organisation", "Archaeological Survey of India (ASI)", "Indian Railways", "Reserve Bank of India"],
+      "answer": 1,
+      "explanation": "The caves are protected monuments under the care of the Archaeological Survey of India."
+    },
+    {
+      "id": "badami-caves-q23",
+      "difficulty": "hard",
+      "q": "The Cave 3 inscription dated 578 CE (Saka 500) is significant for being one of the earliest dated records of what dynasty?",
+      "options": ["Pallava", "Early (Badami) Chalukya", "Rashtrakuta", "Hoysala"],
+      "answer": 1,
+      "explanation": "Mangalesha's 578 CE inscription is a key early dated record of the Badami Chalukyas."
+    },
+    {
+      "id": "badami-caves-q24",
+      "difficulty": "hard",
+      "q": "Besides the four main caves, a later Vaishnava cave was discovered at Badami in 2015; how is it usually counted?",
+      "options": ["Cave 5", "Cave 12", "Cave 0", "Cave 100"],
+      "answer": 0,
+      "explanation": "A fifth, Vaishnava cave reported in 2015 is sometimes referred to as Cave 5 at Badami."
+    },
+    {
+      "id": "badami-caves-q25",
+      "difficulty": "hard",
+      "q": "In 642 CE Vatapi (Badami) was famously sacked by which rival dynasty?",
+      "options": ["The Mughals under Akbar", "The British East India Company", "The Pallavas under Narasimhavarman I", "The Marathas under Shivaji"],
+      "answer": 2,
+      "explanation": "The Pallava king Narasimhavarman I captured and sacked Vatapi around 642 CE."
+    },
+    {
+      "id": "badami-caves-q26",
+      "difficulty": "hard",
+      "q": "Cave 1 at Badami includes an early depiction of which composite Shaiva form?",
+      "options": ["Trimurti only", "Buddha and Mahavira combined", "Surya with seven horses", "Harihara (half Shiva, half Vishnu)"],
+      "answer": 3,
+      "explanation": "Cave 1 contains a notable Harihara image fusing Shiva and Vishnu in one figure."
+    },
+    {
+      "id": "badami-caves-q27",
+      "difficulty": "hard",
+      "q": "The Badami Chalukya rival who sacked Vatapi adopted which victory title afterward?",
+      "options": ["Vatapikonda (conqueror of Vatapi)", "Gangaikonda", "Madhurantaka", "Kadaram-konda"],
+      "answer": 0,
+      "explanation": "Narasimhavarman I took the title Vatapikonda, meaning conqueror of Vatapi (Badami)."
+    },
+    {
+      "id": "badami-caves-q28",
+      "difficulty": "hard",
+      "q": "Which Chalukya ruler later decisively defeated the northern emperor Harshavardhana, marking the dynasty's peak after Badami's founding?",
+      "options": ["Pulakeshin II", "Vikramaditya VI", "Govinda III", "Vishnuvardhana"],
+      "answer": 0,
+      "explanation": "Pulakeshin II of the Badami Chalukyas famously checked Harshavardhana's southward advance."
+    },
+    {
+      "id": "badami-caves-q29",
+      "difficulty": "hard",
+      "q": "The Jain cave (Cave 4) at Badami prominently features sculptures of which figures?",
+      "options": ["The Christian apostles", "Greek gods", "Tirthankaras such as Parshvanatha and Mahavira", "Sufi saints"],
+      "answer": 2,
+      "explanation": "Cave 4 depicts Jain Tirthankaras including Parshvanatha and Mahavira, plus Bahubali."
+    },
+    {
+      "id": "badami-caves-q30",
+      "difficulty": "hard",
+      "q": "Badami's monuments are studied with nearby Aihole and Pattadakal because together they document what?",
+      "options": ["The history of Mughal gardens", "The evolution of early Chalukyan temple architecture", "Colonial railway engineering", "Indus Valley town planning"],
+      "answer": 1,
+      "explanation": "Badami, Aihole and Pattadakal together trace the development of early Chalukyan temple architecture."
+    }
+  ]
+}

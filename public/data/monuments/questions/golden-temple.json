@@ -1,0 +1,245 @@
+{
+  "cardId": "golden-temple",
+  "questions": [
+    {
+      "id": "golden-temple-q01",
+      "difficulty": "easy",
+      "q": "In which Indian city is the Golden Temple located?",
+      "options": ["Lahore", "Amritsar", "Ludhiana", "Jalandhar"],
+      "answer": 1,
+      "explanation": "The Golden Temple stands in the city of Amritsar in the state of Punjab."
+    },
+    {
+      "id": "golden-temple-q02",
+      "difficulty": "easy",
+      "q": "The Golden Temple is the holiest shrine of which religion?",
+      "options": ["Jainism", "Buddhism", "Sikhism", "Hinduism"],
+      "answer": 2,
+      "explanation": "Harmandir Sahib is the most sacred gurdwara and the spiritual centre of Sikhism."
+    },
+    {
+      "id": "golden-temple-q03",
+      "difficulty": "easy",
+      "q": "By what name is the Golden Temple also formally known?",
+      "options": ["Harmandir Sahib", "Akal Takht", "Anandpur Sahib", "Hazur Sahib"],
+      "answer": 0,
+      "explanation": "The shrine's formal name is Harmandir Sahib, also called Darbar Sahib, meaning the abode of God."
+    },
+    {
+      "id": "golden-temple-q04",
+      "difficulty": "easy",
+      "q": "In which Indian state is the Golden Temple situated?",
+      "options": ["Haryana", "Himachal Pradesh", "Rajasthan", "Punjab"],
+      "answer": 3,
+      "explanation": "The Golden Temple is located in Amritsar, in the state of Punjab in north-western India."
+    },
+    {
+      "id": "golden-temple-q05",
+      "difficulty": "easy",
+      "q": "The Golden Temple sits in the middle of a sacred pool. What is this pool called?",
+      "options": ["Amrit Sarovar", "Pushkar", "Mansarovar", "Bindu Sagar"],
+      "answer": 0,
+      "explanation": "The temple is set in the Amrit Sarovar, the 'pool of nectar' that gives Amritsar its name."
+    },
+    {
+      "id": "golden-temple-q06",
+      "difficulty": "easy",
+      "q": "Why is the temple commonly called the 'Golden' Temple?",
+      "options": ["It is lit by golden lamps", "Its upper levels are covered in gold", "It was built by a king named Golden", "It is painted yellow"],
+      "answer": 1,
+      "explanation": "The upper floors and dome of the sanctum are covered in gold leaf and gilded copper, giving it its golden appearance."
+    },
+    {
+      "id": "golden-temple-q07",
+      "difficulty": "easy",
+      "q": "How many entrances does the Golden Temple's sanctum have, opening on all sides?",
+      "options": ["One", "Two", "Four", "Eight"],
+      "answer": 2,
+      "explanation": "The sanctum is open on all four sides, symbolising that the shrine welcomes people from every direction and background."
+    },
+    {
+      "id": "golden-temple-q08",
+      "difficulty": "easy",
+      "q": "What does the open, four-sided design of the Golden Temple symbolise?",
+      "options": ["The four seasons", "Openness to people of all backgrounds", "The four Vedas", "The four directions of trade"],
+      "answer": 1,
+      "explanation": "The four open doors express that the gurdwara is open to all people regardless of caste, creed or origin."
+    },
+    {
+      "id": "golden-temple-q09",
+      "difficulty": "easy",
+      "q": "What free communal meal, served to all visitors, is a famous tradition at the Golden Temple?",
+      "options": ["Prasad", "Langar", "Bhog", "Iftar"],
+      "answer": 1,
+      "explanation": "The Golden Temple runs a langar, a free community kitchen that serves vegetarian meals to tens of thousands of people every day."
+    },
+    {
+      "id": "golden-temple-q10",
+      "difficulty": "easy",
+      "q": "Which holy book of the Sikhs is installed in the sanctum of the Golden Temple?",
+      "options": ["The Vedas", "The Tripitaka", "The Guru Granth Sahib", "The Bhagavad Gita"],
+      "answer": 2,
+      "explanation": "The Guru Granth Sahib, the central Sikh scripture, is enshrined and read in the Golden Temple's sanctum."
+    },
+    {
+      "id": "golden-temple-q11",
+      "difficulty": "medium",
+      "q": "Which Sikh Guru is credited with founding the city of Amritsar and excavating the sacred pool?",
+      "options": ["Guru Nanak", "Guru Ram Das", "Guru Gobind Singh", "Guru Tegh Bahadur"],
+      "answer": 1,
+      "explanation": "Guru Ram Das, the fourth Sikh Guru, founded the settlement around the sacred tank in the late 16th century."
+    },
+    {
+      "id": "golden-temple-q12",
+      "difficulty": "medium",
+      "q": "Which Sikh Guru oversaw the building of the Harmandir Sahib temple itself?",
+      "options": ["Guru Arjan", "Guru Hargobind", "Guru Angad", "Guru Amar Das"],
+      "answer": 0,
+      "explanation": "Guru Arjan, the fifth Guru, had the temple constructed and installed the first Adi Granth there in 1604."
+    },
+    {
+      "id": "golden-temple-q13",
+      "difficulty": "medium",
+      "q": "Approximately when was the Harmandir Sahib temple completed and the scripture first installed?",
+      "options": ["Around 1604", "Around 1750", "Around 1850", "Around 1920"],
+      "answer": 0,
+      "explanation": "The temple was completed in the early 1600s, with the Adi Granth installed by Guru Arjan in 1604."
+    },
+    {
+      "id": "golden-temple-q14",
+      "difficulty": "medium",
+      "q": "Which Sikh ruler is famous for adorning the temple's upper levels with gold in the early 19th century?",
+      "options": ["Banda Singh Bahadur", "Maharaja Ranjit Singh", "Jassa Singh Ahluwalia", "Hari Singh Nalwa"],
+      "answer": 1,
+      "explanation": "Maharaja Ranjit Singh, ruler of the Sikh Empire, had the upper structure covered in gold and marble in the early 1800s."
+    },
+    {
+      "id": "golden-temple-q15",
+      "difficulty": "medium",
+      "q": "Unlike most temples set on raised platforms, the Golden Temple was built at a lower level. What does this symbolise?",
+      "options": ["Defensive strategy", "Humility before God", "Lack of building materials", "Protection from floods"],
+      "answer": 1,
+      "explanation": "Worshippers descend steps to reach the temple, a design meant to teach humility before God."
+    },
+    {
+      "id": "golden-temple-q16",
+      "difficulty": "medium",
+      "q": "The throne of Sikh temporal authority faces the Golden Temple across the complex. What is it called?",
+      "options": ["Akal Takht", "Baba Atal", "Darshani Deori", "Manji Sahib"],
+      "answer": 0,
+      "explanation": "The Akal Takht, the highest seat of Sikh temporal authority, stands opposite the sanctum within the complex."
+    },
+    {
+      "id": "golden-temple-q17",
+      "difficulty": "medium",
+      "q": "What is the name of the causeway that connects the entrance to the sanctum across the pool?",
+      "options": ["Guru ka Bagh", "The Golden Bridge", "The Causeway (Darshani Deori path)", "The Pul Sirat"],
+      "answer": 2,
+      "explanation": "A marble causeway leads from the Darshani Deori archway across the Amrit Sarovar to the central sanctum."
+    },
+    {
+      "id": "golden-temple-q18",
+      "difficulty": "medium",
+      "q": "What does the name 'Amritsar', the city of the Golden Temple, mean?",
+      "options": ["City of Gold", "Pool of Nectar", "Place of Worship", "Land of the Gurus"],
+      "answer": 1,
+      "explanation": "Amritsar means 'pool of the nectar of immortality', referring to the sacred Amrit Sarovar around the temple."
+    },
+    {
+      "id": "golden-temple-q19",
+      "difficulty": "medium",
+      "q": "The architecture of the Golden Temple is noted for blending which two styles?",
+      "options": ["Gothic and Dravidian", "Mughal and Hindu (Rajput) styles", "Colonial and Buddhist", "Persian and Chinese"],
+      "answer": 1,
+      "explanation": "The temple fuses Mughal and Hindu architectural elements into a distinctive Sikh style with a domed sanctum."
+    },
+    {
+      "id": "golden-temple-q20",
+      "difficulty": "medium",
+      "q": "What is the principal precious material used to gild the temple's dome and upper walls?",
+      "options": ["Gold", "Silver", "Brass", "Bronze"],
+      "answer": 0,
+      "explanation": "Gold leaf over gilded copper covers the dome and upper portions, giving the shrine its gleaming surface."
+    },
+    {
+      "id": "golden-temple-q21",
+      "difficulty": "medium",
+      "q": "What is the white stone of which the lower walls and surrounding plaza are largely built?",
+      "options": ["Granite", "Sandstone", "Marble", "Limestone"],
+      "answer": 2,
+      "explanation": "White marble forms much of the lower walls and the broad parikrama (walkway) around the pool."
+    },
+    {
+      "id": "golden-temple-q22",
+      "difficulty": "medium",
+      "q": "Which musical tradition is continuously performed at the Golden Temple as part of worship?",
+      "options": ["Qawwali", "Kirtan (hymn singing)", "Bhajan competitions", "Carnatic recitals"],
+      "answer": 1,
+      "explanation": "Kirtan, the devotional singing of hymns from the Guru Granth Sahib, is performed almost continuously at the shrine."
+    },
+    {
+      "id": "golden-temple-q23",
+      "difficulty": "hard",
+      "q": "According to tradition, who is said to have laid the foundation stone of the Harmandir Sahib?",
+      "options": ["Emperor Akbar", "The Sufi saint Mian Mir", "Guru Nanak", "Maharaja Ranjit Singh"],
+      "answer": 1,
+      "explanation": "By tradition the Muslim Sufi saint Mian Mir of Lahore laid the foundation stone, reflecting the shrine's inclusive ethos."
+    },
+    {
+      "id": "golden-temple-q24",
+      "difficulty": "hard",
+      "q": "The scripture installed in 1604 by Guru Arjan was originally known by which name?",
+      "options": ["The Dasam Granth", "The Adi Granth", "The Janam Sakhi", "The Sarbloh Granth"],
+      "answer": 1,
+      "explanation": "Guru Arjan compiled and installed the Adi Granth, the early version of what later became the Guru Granth Sahib."
+    },
+    {
+      "id": "golden-temple-q25",
+      "difficulty": "hard",
+      "q": "The Golden Temple complex was extensively damaged during which 1762 event involving an Afghan invader?",
+      "options": ["The sack by Ahmad Shah Abdali", "The Battle of Plassey", "The siege by Babur", "The Anglo-Sikh War"],
+      "answer": 0,
+      "explanation": "Afghan invader Ahmad Shah Abdali (Durrani) blew up and desecrated the temple in 1762, after which the Sikhs rebuilt it."
+    },
+    {
+      "id": "golden-temple-q26",
+      "difficulty": "hard",
+      "q": "The shrine within the complex housing a smaller tower associated with Guru Hargobind's young son is known as?",
+      "options": ["Baba Atal", "Dukh Bhanjani Beri", "Ramgarhia Bunga", "Ath Sath Tirath"],
+      "answer": 0,
+      "explanation": "Baba Atal Sahib, a tall tower-gurdwara near the complex, commemorates Atal Rai, the son of Guru Hargobind."
+    },
+    {
+      "id": "golden-temple-q27",
+      "difficulty": "hard",
+      "q": "In June 1984 the Golden Temple complex was the site of which Indian Army operation?",
+      "options": ["Operation Vijay", "Operation Polo", "Operation Blue Star", "Operation Cactus"],
+      "answer": 2,
+      "explanation": "Operation Blue Star was the Indian Army action at the complex in June 1984, which damaged the Akal Takht."
+    },
+    {
+      "id": "golden-temple-q28",
+      "difficulty": "hard",
+      "q": "The fourth Guru, who founded Amritsar, obtained the land for the tank during whose reign as Mughal emperor?",
+      "options": ["Aurangzeb", "Akbar", "Jahangir", "Shah Jahan"],
+      "answer": 1,
+      "explanation": "The site was developed during the reign of Akbar, who was a contemporary and reportedly favourable to the Sikh Gurus."
+    },
+    {
+      "id": "golden-temple-q29",
+      "difficulty": "hard",
+      "q": "The lotus-shaped inverted dome of the Golden Temple is most often described in which form?",
+      "options": ["A pointed Gothic spire", "An inverted lotus topped by a finial", "A stepped pyramid", "A flat terrace roof"],
+      "answer": 1,
+      "explanation": "The sanctum is crowned by a gilded dome shaped like an inverted lotus, a hallmark of its distinctive silhouette."
+    },
+    {
+      "id": "golden-temple-q30",
+      "difficulty": "hard",
+      "q": "The body of water around the Golden Temple is fed by a channel drawing from which major Punjab river system?",
+      "options": ["The Yamuna", "The Ganga", "The Ravi (via canal from the upper rivers)", "The Narmada"],
+      "answer": 2,
+      "explanation": "The Amrit Sarovar is supplied by a canal channel connected to Punjab's river system, historically associated with the Ravi."
+    }
+  ]
+}

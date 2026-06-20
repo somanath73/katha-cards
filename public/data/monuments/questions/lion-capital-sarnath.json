@@ -1,0 +1,245 @@
+{
+  "cardId": "lion-capital-sarnath",
+  "questions": [
+    {
+      "id": "lion-capital-sarnath-q01",
+      "difficulty": "easy",
+      "q": "Which ruler is credited with raising the Lion Capital at Sarnath?",
+      "options": ["Ashoka", "Akbar", "Chandragupta II", "Harsha"],
+      "answer": 0,
+      "explanation": "The Lion Capital was erected by the Mauryan emperor Ashoka in the 3rd century BCE."
+    },
+    {
+      "id": "lion-capital-sarnath-q02",
+      "difficulty": "easy",
+      "q": "How many lions are depicted in the Lion Capital of Sarnath?",
+      "options": ["Two", "Three", "Four", "Six"],
+      "answer": 2,
+      "explanation": "The capital features four addorsed (back-to-back) lions facing the four directions."
+    },
+    {
+      "id": "lion-capital-sarnath-q03",
+      "difficulty": "easy",
+      "q": "The Lion Capital was adopted as what symbol of independent India?",
+      "options": ["The National Flag", "The National Anthem", "The State Emblem", "The National Flower"],
+      "answer": 2,
+      "explanation": "The Lion Capital of Ashoka was adopted as the State Emblem of India in 1950."
+    },
+    {
+      "id": "lion-capital-sarnath-q04",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state is Sarnath located?",
+      "options": ["Bihar", "Madhya Pradesh", "Uttar Pradesh", "Maharashtra"],
+      "answer": 2,
+      "explanation": "Sarnath lies in Uttar Pradesh, near the city of Varanasi."
+    },
+    {
+      "id": "lion-capital-sarnath-q05",
+      "difficulty": "easy",
+      "q": "The Lion Capital originally crowned what kind of structure?",
+      "options": ["A pillar", "A temple dome", "A city gate", "A bridge"],
+      "answer": 0,
+      "explanation": "The capital sat atop a tall monolithic pillar erected by Ashoka at Sarnath."
+    },
+    {
+      "id": "lion-capital-sarnath-q06",
+      "difficulty": "easy",
+      "q": "The wheel that appears on India's national flag is derived from a feature of the Lion Capital. What is this wheel called?",
+      "options": ["Surya Chakra", "Kala Chakra", "Vishnu Chakra", "Ashoka Chakra"],
+      "answer": 3,
+      "explanation": "The Ashoka Chakra on the Indian flag is taken from the Dharmachakra carved on the capital's abacus."
+    },
+    {
+      "id": "lion-capital-sarnath-q07",
+      "difficulty": "easy",
+      "q": "What material is the Lion Capital of Sarnath made from?",
+      "options": ["Marble", "Bronze", "Polished sandstone", "Granite"],
+      "answer": 2,
+      "explanation": "The capital is carved from a single block of polished Chunar sandstone."
+    },
+    {
+      "id": "lion-capital-sarnath-q08",
+      "difficulty": "easy",
+      "q": "Sarnath is significant in which religion as the site of the Buddha's first sermon?",
+      "options": ["Jainism", "Buddhism", "Sikhism", "Hinduism"],
+      "answer": 1,
+      "explanation": "Sarnath is where the Buddha delivered his first sermon, setting the wheel of dharma in motion, making it sacred in Buddhism."
+    },
+    {
+      "id": "lion-capital-sarnath-q09",
+      "difficulty": "easy",
+      "q": "The Lion Capital is today preserved and displayed in which museum?",
+      "options": ["National Museum, New Delhi", "Indian Museum, Kolkata", "Sarnath Museum", "Salar Jung Museum"],
+      "answer": 2,
+      "explanation": "The original Lion Capital is housed in the Sarnath Museum (the Archaeological Museum at Sarnath)."
+    },
+    {
+      "id": "lion-capital-sarnath-q10",
+      "difficulty": "easy",
+      "q": "The animals carved on the abacus of the Lion Capital include the lion, bull, horse and which other animal?",
+      "options": ["Tiger", "Elephant", "Deer", "Peacock"],
+      "answer": 1,
+      "explanation": "The abacus depicts four animals: a lion, a bull, a horse and an elephant, each separated by a wheel."
+    },
+    {
+      "id": "lion-capital-sarnath-q11",
+      "difficulty": "medium",
+      "q": "To which dynasty did Ashoka, who raised the Lion Capital, belong?",
+      "options": ["Gupta dynasty", "Kushan dynasty", "Maurya dynasty", "Shunga dynasty"],
+      "answer": 2,
+      "explanation": "Ashoka was an emperor of the Maurya dynasty, which ruled much of the Indian subcontinent in the 3rd century BCE."
+    },
+    {
+      "id": "lion-capital-sarnath-q12",
+      "difficulty": "medium",
+      "q": "In roughly which century BCE was the Lion Capital created?",
+      "options": ["5th century BCE", "1st century BCE", "3rd century CE", "3rd century BCE"],
+      "answer": 3,
+      "explanation": "The capital dates to about the 3rd century BCE, during Ashoka's reign around 250 BCE."
+    },
+    {
+      "id": "lion-capital-sarnath-q13",
+      "difficulty": "medium",
+      "q": "The four animals on the abacus are separated by carvings of what?",
+      "options": ["Lotus flowers", "Twenty-four-spoked wheels", "Flames", "Snakes"],
+      "answer": 1,
+      "explanation": "Between the four animals are four small twenty-four-spoked wheels (chakras) carved in relief."
+    },
+    {
+      "id": "lion-capital-sarnath-q14",
+      "difficulty": "medium",
+      "q": "How many spokes does the Ashoka Chakra (the wheel on the abacus and the national flag) have?",
+      "options": ["24", "12", "16", "32"],
+      "answer": 0,
+      "explanation": "The Ashoka Chakra has 24 spokes, representing the wheel of dharma."
+    },
+    {
+      "id": "lion-capital-sarnath-q15",
+      "difficulty": "medium",
+      "q": "The motto inscribed below the State Emblem of India, 'Satyameva Jayate', is taken from which ancient text?",
+      "options": ["Rigveda", "Mundaka Upanishad", "Bhagavad Gita", "Arthashastra"],
+      "answer": 1,
+      "explanation": "'Satyameva Jayate' (Truth alone triumphs) is a phrase from the Mundaka Upanishad, added beneath the emblem."
+    },
+    {
+      "id": "lion-capital-sarnath-q16",
+      "difficulty": "medium",
+      "q": "What inverted shape forms the bell-like base directly beneath the abacus of the Lion Capital?",
+      "options": ["An inverted lotus", "A coiled serpent", "A drum", "A pyramid"],
+      "answer": 0,
+      "explanation": "The capital rests on a bell-shaped inverted lotus, a characteristic motif of Mauryan pillar capitals."
+    },
+    {
+      "id": "lion-capital-sarnath-q17",
+      "difficulty": "medium",
+      "q": "Inscriptions on many of Ashoka's pillars are written chiefly in which script?",
+      "options": ["Devanagari", "Grantha", "Brahmi", "Sharada"],
+      "answer": 2,
+      "explanation": "Ashoka's edicts on his pillars were inscribed mainly in the Brahmi script."
+    },
+    {
+      "id": "lion-capital-sarnath-q18",
+      "difficulty": "medium",
+      "q": "Sarnath, the site of the Lion Capital, lies close to which major holy city on the Ganges?",
+      "options": ["Allahabad (Prayagraj)", "Haridwar", "Varanasi", "Patna"],
+      "answer": 2,
+      "explanation": "Sarnath is located just a few kilometres from Varanasi (Banaras), one of India's holiest cities."
+    },
+    {
+      "id": "lion-capital-sarnath-q19",
+      "difficulty": "medium",
+      "q": "Which event in the Buddha's life is most closely associated with Sarnath?",
+      "options": ["His birth", "His enlightenment", "His first sermon", "His death (parinirvana)"],
+      "answer": 2,
+      "explanation": "Sarnath is where the Buddha preached his first sermon, the 'turning of the wheel of dharma'."
+    },
+    {
+      "id": "lion-capital-sarnath-q20",
+      "difficulty": "medium",
+      "q": "In which year was the Lion Capital formally adopted as the State Emblem of the Republic of India?",
+      "options": ["1947", "1952", "1962", "1950"],
+      "answer": 3,
+      "explanation": "The Lion Capital was adopted as the State Emblem of India on 26 January 1950, when the Republic was established."
+    },
+    {
+      "id": "lion-capital-sarnath-q21",
+      "difficulty": "medium",
+      "q": "In the State Emblem of India, how many lions are visible from the front view?",
+      "options": ["Two", "Three", "Four", "One"],
+      "answer": 1,
+      "explanation": "In the two-dimensional state emblem, only three of the four lions are visible, the fourth being hidden behind."
+    },
+    {
+      "id": "lion-capital-sarnath-q22",
+      "difficulty": "medium",
+      "q": "What is the broad name for the great wheel that the four addorsed lions originally supported above them?",
+      "options": ["Dharmachakra", "Sudarshana", "Kalachakra", "Manichakra"],
+      "answer": 0,
+      "explanation": "The lions are believed to have supported a large stone Dharmachakra (Wheel of Law), now broken and only partly surviving."
+    },
+    {
+      "id": "lion-capital-sarnath-q23",
+      "difficulty": "hard",
+      "q": "The polished sandstone of the Lion Capital is typically sourced from quarries near which place?",
+      "options": ["Makrana", "Chunar", "Karauli", "Jaisalmer"],
+      "answer": 1,
+      "explanation": "Mauryan sculptures like the Lion Capital used fine sandstone from the Chunar quarries near Mirzapur."
+    },
+    {
+      "id": "lion-capital-sarnath-q24",
+      "difficulty": "hard",
+      "q": "Approximately how tall is the surviving Lion Capital sculpture (the capital alone, without the shaft)?",
+      "options": ["About 0.5 metres", "About 2.1 metres", "About 5 metres", "About 10 metres"],
+      "answer": 1,
+      "explanation": "The capital itself stands roughly 2.1 metres (about 7 feet) tall."
+    },
+    {
+      "id": "lion-capital-sarnath-q25",
+      "difficulty": "hard",
+      "q": "The lustrous sheen seen on the Lion Capital is characteristic of which feature of Mauryan stone art?",
+      "options": ["Gold leaf gilding", "The 'Mauryan polish'", "Lacquer coating", "Glass inlay"],
+      "answer": 1,
+      "explanation": "Mauryan sculptures are noted for a distinctive high mirror-like 'Mauryan polish' applied to the stone surface."
+    },
+    {
+      "id": "lion-capital-sarnath-q26",
+      "difficulty": "hard",
+      "q": "In which year was the Lion Capital excavated and brought to light at Sarnath?",
+      "options": ["1904", "1837", "1862", "1921"],
+      "answer": 0,
+      "explanation": "The Lion Capital was uncovered during archaeological excavations at Sarnath in 1904-1905."
+    },
+    {
+      "id": "lion-capital-sarnath-q27",
+      "difficulty": "hard",
+      "q": "The bull on the abacus of the Lion Capital is most commonly interpreted as a symbol associated with which direction or sign?",
+      "options": ["South", "West", "North", "East"],
+      "answer": 1,
+      "explanation": "In the common interpretation linking the four animals to the cardinal directions, the bull represents the west."
+    },
+    {
+      "id": "lion-capital-sarnath-q28",
+      "difficulty": "hard",
+      "q": "The Lion Capital at Sarnath is part of which set of monuments Ashoka erected across his empire?",
+      "options": ["The Ashokan pillars (edict pillars)", "The Barabar caves", "The Sanchi gateways", "The Ajanta caves"],
+      "answer": 0,
+      "explanation": "It is one of the carved capitals crowning Ashoka's series of monolithic pillars erected throughout the Mauryan empire."
+    },
+    {
+      "id": "lion-capital-sarnath-q29",
+      "difficulty": "hard",
+      "q": "The pillar that bore the Lion Capital at Sarnath also carried an edict warning against what kind of conflict?",
+      "options": ["War with neighbouring kingdoms", "Schism or division within the Buddhist monastic order", "Trade disputes", "Disputes over land"],
+      "answer": 1,
+      "explanation": "The Sarnath pillar bears Ashoka's 'Schism Edict', warning against causing division within the Buddhist sangha (monastic community)."
+    },
+    {
+      "id": "lion-capital-sarnath-q30",
+      "difficulty": "hard",
+      "q": "Sarnath is traditionally also known by which ancient name connected with the Buddha's deer-park sermon?",
+      "options": ["Lumbini", "Isipatana (Mrigadava)", "Kushinagar", "Rajagriha"],
+      "answer": 1,
+      "explanation": "Sarnath was anciently called Isipatana or Mrigadava, the 'deer park' where the Buddha gave his first teaching."
+    }
+  ]
+}

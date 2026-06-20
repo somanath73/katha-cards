@@ -1,0 +1,245 @@
+{
+  "cardId": "golghar-patna",
+  "questions": [
+    {
+      "id": "golghar-patna-q01",
+      "difficulty": "easy",
+      "q": "In which Indian city is the Golghar located?",
+      "options": ["Lucknow", "Ranchi", "Bhagalpur", "Patna"],
+      "answer": 3,
+      "explanation": "The Golghar stands in Patna, on the southern bank of the Ganges River."
+    },
+    {
+      "id": "golghar-patna-q02",
+      "difficulty": "easy",
+      "q": "Golghar is located in which present-day Indian state?",
+      "options": ["Bihar", "Uttar Pradesh", "Jharkhand", "West Bengal"],
+      "answer": 0,
+      "explanation": "Patna, the home of the Golghar, is the capital of the state of Bihar."
+    },
+    {
+      "id": "golghar-patna-q03",
+      "difficulty": "easy",
+      "q": "What was the Golghar originally built to be used as?",
+      "options": ["A watchtower", "A royal palace", "A temple", "A granary for storing grain"],
+      "answer": 3,
+      "explanation": "The Golghar was constructed as a large granary to store grain, chiefly wheat, as a famine-relief reserve."
+    },
+    {
+      "id": "golghar-patna-q04",
+      "difficulty": "easy",
+      "q": "What is the distinctive overall shape of the Golghar?",
+      "options": ["A tall square tower", "A flat circular disc", "A beehive or dome-like structure", "A pyramid"],
+      "answer": 2,
+      "explanation": "The Golghar has a rounded, beehive-like (stupa-shaped) form, which gives it its striking silhouette."
+    },
+    {
+      "id": "golghar-patna-q05",
+      "difficulty": "easy",
+      "q": "How many staircases spiral up the outside of the Golghar?",
+      "options": ["One", "Four", "Two", "Six"],
+      "answer": 2,
+      "explanation": "Two spiral stairways wind up the exterior of the Golghar, allowing porters to climb up and pour grain in from the top."
+    },
+    {
+      "id": "golghar-patna-q06",
+      "difficulty": "easy",
+      "q": "During which broad historical period was the Golghar built?",
+      "options": ["The Mauryan period", "The Mughal heyday", "The British colonial period", "The Gupta period"],
+      "answer": 2,
+      "explanation": "The Golghar was built during the British colonial era, under the administration of the East India Company."
+    },
+    {
+      "id": "golghar-patna-q07",
+      "difficulty": "easy",
+      "q": "What does the name 'Golghar' literally describe about the building?",
+      "options": ["Its golden colour", "Its round house shape", "Its great height", "Its riverside location"],
+      "answer": 1,
+      "explanation": "'Golghar' means 'round house', referring to its circular, dome-like form."
+    },
+    {
+      "id": "golghar-patna-q08",
+      "difficulty": "easy",
+      "q": "The Golghar overlooks which major Indian river?",
+      "options": ["The Yamuna", "The Godavari", "The Ganges", "The Narmada"],
+      "answer": 2,
+      "explanation": "The Golghar is situated near the bank of the Ganges River in Patna."
+    },
+    {
+      "id": "golghar-patna-q09",
+      "difficulty": "easy",
+      "q": "What is the main building material of the Golghar?",
+      "options": ["Brick and stucco", "White marble", "Wood", "Steel and glass"],
+      "answer": 0,
+      "explanation": "The Golghar is a massive masonry structure built primarily of brick with a plaster (stucco) finish."
+    },
+    {
+      "id": "golghar-patna-q10",
+      "difficulty": "easy",
+      "q": "Today, the Golghar is best known as which kind of site?",
+      "options": ["An active grain warehouse", "A historic monument and tourist attraction", "A working temple", "A military base"],
+      "answer": 1,
+      "explanation": "The Golghar is now a popular heritage monument and tourist landmark in Patna, valued for its history and panoramic views."
+    },
+    {
+      "id": "golghar-patna-q11",
+      "difficulty": "medium",
+      "q": "In which year was the Golghar completed?",
+      "options": ["1764", "1803", "1857", "1786"],
+      "answer": 3,
+      "explanation": "The Golghar was completed in 1786 under the engineer Captain John Garstin."
+    },
+    {
+      "id": "golghar-patna-q12",
+      "difficulty": "medium",
+      "q": "The construction of the Golghar was a response to which disaster?",
+      "options": ["A major flood of the Ganges", "An outbreak of plague", "A devastating famine", "A great fire in Patna"],
+      "answer": 2,
+      "explanation": "The Golghar was built as a grain store to guard against famine, prompted by the catastrophic Bengal famine that struck the region."
+    },
+    {
+      "id": "golghar-patna-q13",
+      "difficulty": "medium",
+      "q": "Which engineer designed and oversaw the building of the Golghar?",
+      "options": ["Captain John Garstin", "Sir Edwin Lutyens", "Robert Clive", "William Emerson"],
+      "answer": 0,
+      "explanation": "The Golghar was designed by Captain John Garstin of the Bengal Engineers."
+    },
+    {
+      "id": "golghar-patna-q14",
+      "difficulty": "medium",
+      "q": "Under which East India Company Governor-General's administration was the Golghar built?",
+      "options": ["Lord Dalhousie", "Lord Cornwallis", "Warren Hastings", "Lord Wellesley"],
+      "answer": 2,
+      "explanation": "The granary scheme was undertaken during the governor-generalship of Warren Hastings."
+    },
+    {
+      "id": "golghar-patna-q15",
+      "difficulty": "medium",
+      "q": "Approximately how tall is the Golghar?",
+      "options": ["About 8 metres", "About 60 metres", "About 100 metres", "About 29 metres"],
+      "answer": 3,
+      "explanation": "The Golghar rises roughly 29 metres (about 96 feet) high."
+    },
+    {
+      "id": "golghar-patna-q16",
+      "difficulty": "medium",
+      "q": "Why does the Golghar have a flight of steps on each of its two sides?",
+      "options": ["To support the dome structurally only", "So porters could carry grain to the top and pour it in", "Purely for decorative symmetry", "To allow soldiers to defend it"],
+      "answer": 1,
+      "explanation": "The twin spiral staircases were built so labourers could climb up one side, empty grain through the top opening, and descend the other side."
+    },
+    {
+      "id": "golghar-patna-q17",
+      "difficulty": "medium",
+      "q": "What notable claim is famously made about the Golghar's interior?",
+      "options": ["It contains a hidden temple", "It produces a strong echo", "It was lined with gold", "It holds an underground river"],
+      "answer": 1,
+      "explanation": "The hollow interior of the Golghar is renowned for its remarkable echo."
+    },
+    {
+      "id": "golghar-patna-q18",
+      "difficulty": "medium",
+      "q": "What is the approximate circumference of the Golghar at its base?",
+      "options": ["About 25 metres", "About 300 metres", "About 10 metres", "About 125 metres"],
+      "answer": 3,
+      "explanation": "The Golghar measures roughly 125 metres around at its base (a base diameter of about 35 metres), with walls some 3.6 metres thick at the bottom."
+    },
+    {
+      "id": "golghar-patna-q19",
+      "difficulty": "medium",
+      "q": "Which architectural tradition most clearly influenced the Golghar's rounded, dome-like form?",
+      "options": ["Gothic cathedral design", "The Buddhist stupa form", "Greek temple design", "Art Deco styling"],
+      "answer": 1,
+      "explanation": "The Golghar's solid, beehive-like dome echoes the form of the ancient Buddhist stupa."
+    },
+    {
+      "id": "golghar-patna-q20",
+      "difficulty": "medium",
+      "q": "Which Patna neighbourhood is the Golghar located in?",
+      "options": ["Gulzarbagh", "Bankipore (Bankipur)", "Phulwari Sharif", "Danapur"],
+      "answer": 1,
+      "explanation": "The Golghar stands in the Bankipore (Bankipur) area of Patna."
+    },
+    {
+      "id": "golghar-patna-q21",
+      "difficulty": "medium",
+      "q": "What is true about how the Golghar was actually used after completion?",
+      "options": ["It was filled to capacity within a year", "It was never filled to its full capacity", "It was immediately converted to a fort", "It was used as a palace by the Nawab"],
+      "answer": 1,
+      "explanation": "The Golghar was never filled to its intended capacity and largely went unused as a granary."
+    },
+    {
+      "id": "golghar-patna-q22",
+      "difficulty": "medium",
+      "q": "Visitors climbing the Golghar's stairs are mainly rewarded with what today?",
+      "options": ["A view of stored grain", "A panoramic view of Patna and the Ganges", "Access to a museum inside", "A rooftop garden"],
+      "answer": 1,
+      "explanation": "From the top of the Golghar visitors enjoy a sweeping panorama of Patna city and the Ganges River."
+    },
+    {
+      "id": "golghar-patna-q23",
+      "difficulty": "hard",
+      "q": "The famine that prompted the Golghar's construction is generally identified as which event?",
+      "options": ["The Great Bengal Famine of 1770", "The Deccan Famine of 1630", "The Madras Famine of 1877", "The Bengal Famine of 1943"],
+      "answer": 0,
+      "explanation": "The granary scheme arose from the memory of the devastating Bengal famine of 1770, which killed millions."
+    },
+    {
+      "id": "golghar-patna-q24",
+      "difficulty": "hard",
+      "q": "The Golghar was designed to hold roughly how much grain at full capacity?",
+      "options": ["About 140,000 tons", "About 100 tons", "About 500 tons", "About 5,000 tons"],
+      "answer": 0,
+      "explanation": "The granary was designed with a capacity to store on the order of 140,000 tons of grain, though it was never filled to that level."
+    },
+    {
+      "id": "golghar-patna-q25",
+      "difficulty": "hard",
+      "q": "A persistent design flaw said to plague the Golghar's intended use concerns its top opening and doors. What is it?",
+      "options": ["The doors were too narrow for carts", "The doors were built to open inward, so they could not open once grain filled the chamber", "There was no opening at the top", "The staircases collapsed under weight"],
+      "answer": 1,
+      "explanation": "The Golghar's doors were designed to open inward, meaning a full granary would have jammed them shut, a flaw that became part of its lore."
+    },
+    {
+      "id": "golghar-patna-q26",
+      "difficulty": "hard",
+      "q": "Captain John Garstin, the Golghar's designer, served in which branch of the East India Company's forces?",
+      "options": ["The Bengal Engineers", "The Royal Navy", "The Madras Cavalry", "The Bombay Artillery"],
+      "answer": 0,
+      "explanation": "John Garstin was a military engineer of the Bengal Engineers (Bengal Army engineering corps)."
+    },
+    {
+      "id": "golghar-patna-q27",
+      "difficulty": "hard",
+      "q": "At the time the Golghar was built, Patna was part of which colonial administrative region?",
+      "options": ["The Bombay Presidency", "The Madras Presidency", "The Bengal Presidency", "The Punjab Province"],
+      "answer": 2,
+      "explanation": "In 1786 Patna lay within the Bengal Presidency of British India; the separate province of Bihar was formed only much later."
+    },
+    {
+      "id": "golghar-patna-q28",
+      "difficulty": "hard",
+      "q": "Approximately how thick are the walls at the base of the Golghar?",
+      "options": ["About 3.6 metres (12 feet)", "About 0.3 metres (1 foot)", "About 15 metres (50 feet)", "About 1 metre (3 feet)"],
+      "answer": 0,
+      "explanation": "The Golghar's walls are extremely massive, about 3.6 metres (around 12 feet) thick at the base, tapering upward."
+    },
+    {
+      "id": "golghar-patna-q29",
+      "difficulty": "hard",
+      "q": "The Golghar was conceived as part of a wider plan for what kind of network?",
+      "options": ["A chain of state granaries to prevent future famines", "A line of coastal forts", "A series of riverside temples", "A network of railway depots"],
+      "answer": 0,
+      "explanation": "The granary was intended as part of a broader plan for a series of state grain stores to stave off future famines, though most were never built."
+    },
+    {
+      "id": "golghar-patna-q30",
+      "difficulty": "hard",
+      "q": "Which of these statements about the Golghar's status is accurate?",
+      "options": ["It is a UNESCO World Heritage Site", "It is one of the New Seven Wonders of the World", "It is a protected historic monument but not a UNESCO World Heritage Site", "It was demolished in the 20th century"],
+      "answer": 2,
+      "explanation": "The Golghar is a recognised and protected heritage monument in Patna, but it is not inscribed as a UNESCO World Heritage Site."
+    }
+  ]
+}

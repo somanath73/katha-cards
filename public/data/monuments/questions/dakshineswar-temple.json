@@ -1,0 +1,245 @@
+{
+  "cardId": "dakshineswar-temple",
+  "questions": [
+    {
+      "id": "dakshineswar-temple-q01",
+      "difficulty": "easy",
+      "q": "To which goddess is the Dakshineswar Temple primarily dedicated?",
+      "options": ["Durga", "Kali", "Lakshmi", "Saraswati"],
+      "answer": 1,
+      "explanation": "The Dakshineswar Temple is dedicated to the goddess Kali, worshipped there in the form of Bhavatarini."
+    },
+    {
+      "id": "dakshineswar-temple-q02",
+      "difficulty": "easy",
+      "q": "On the bank of which river does the Dakshineswar Kali Temple stand?",
+      "options": ["Ganga (Hooghly)", "Yamuna", "Brahmaputra", "Godavari"],
+      "answer": 0,
+      "explanation": "The temple sits on the eastern bank of the Hooghly River, a distributary of the Ganga, near Kolkata."
+    },
+    {
+      "id": "dakshineswar-temple-q03",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state is the Dakshineswar Temple located?",
+      "options": ["Bihar", "Odisha", "West Bengal", "Jharkhand"],
+      "answer": 2,
+      "explanation": "Dakshineswar is in West Bengal, just north of the city of Kolkata."
+    },
+    {
+      "id": "dakshineswar-temple-q04",
+      "difficulty": "easy",
+      "q": "Who founded the Dakshineswar Kali Temple?",
+      "options": ["Rani Rashmoni", "Rani Lakshmibai", "Begum Hazrat Mahal", "Ahilyabai Holkar"],
+      "answer": 0,
+      "explanation": "The temple was founded by Rani Rashmoni, a wealthy and philanthropic widow of Kolkata."
+    },
+    {
+      "id": "dakshineswar-temple-q05",
+      "difficulty": "easy",
+      "q": "Which famous 19th-century saint served as a priest at the Dakshineswar Temple?",
+      "options": ["Swami Vivekananda", "Sri Ramakrishna", "Sri Chaitanya", "Sri Aurobindo"],
+      "answer": 1,
+      "explanation": "Sri Ramakrishna Paramahamsa served as a priest of the Kali temple and lived much of his life there."
+    },
+    {
+      "id": "dakshineswar-temple-q06",
+      "difficulty": "easy",
+      "q": "In which century was the Dakshineswar Temple built?",
+      "options": ["17th century", "18th century", "19th century", "20th century"],
+      "answer": 2,
+      "explanation": "The temple complex was completed in the mid-19th century, opening in 1855."
+    },
+    {
+      "id": "dakshineswar-temple-q07",
+      "difficulty": "easy",
+      "q": "The temple complex is located near which major Indian metropolis?",
+      "options": ["Chennai", "Mumbai", "Kolkata", "Hyderabad"],
+      "answer": 2,
+      "explanation": "Dakshineswar lies just north of Kolkata, the capital of West Bengal."
+    },
+    {
+      "id": "dakshineswar-temple-q08",
+      "difficulty": "easy",
+      "q": "The Dakshineswar Temple is associated with which religion?",
+      "options": ["Buddhism", "Hinduism", "Jainism", "Sikhism"],
+      "answer": 1,
+      "explanation": "It is a Hindu temple, a major center of Shakti (goddess) worship."
+    },
+    {
+      "id": "dakshineswar-temple-q09",
+      "difficulty": "easy",
+      "q": "The main temple is built in which broad regional architectural style?",
+      "options": ["Bengal (Navaratna) style", "Dravidian gopuram style", "Indo-Saracenic style", "Gothic Revival style"],
+      "answer": 0,
+      "explanation": "The main shrine is built in the traditional Bengali Navaratna (nine-spired) temple style."
+    },
+    {
+      "id": "dakshineswar-temple-q10",
+      "difficulty": "easy",
+      "q": "Sri Ramakrishna is best known as the guru of which influential disciple?",
+      "options": ["Mahatma Gandhi", "Swami Vivekananda", "Rabindranath Tagore", "Subhas Chandra Bose"],
+      "answer": 1,
+      "explanation": "Swami Vivekananda was the foremost disciple of Sri Ramakrishna at Dakshineswar."
+    },
+    {
+      "id": "dakshineswar-temple-q11",
+      "difficulty": "medium",
+      "q": "In which year was the Dakshineswar Temple consecrated and opened for worship?",
+      "options": ["1814", "1835", "1855", "1875"],
+      "answer": 2,
+      "explanation": "The temple was consecrated on 31 May 1855 after several years of construction."
+    },
+    {
+      "id": "dakshineswar-temple-q12",
+      "difficulty": "medium",
+      "q": "The principal Kali idol at Dakshineswar is worshipped under which specific name?",
+      "options": ["Bhavatarini", "Dakshinakali Vimala", "Kamakhya", "Chamunda"],
+      "answer": 0,
+      "explanation": "The Kali idol is known as Bhavatarini, meaning 'she who liberates from the ocean of existence'."
+    },
+    {
+      "id": "dakshineswar-temple-q13",
+      "difficulty": "medium",
+      "q": "Rani Rashmoni belonged to which non-Brahmin Bengali community, a fact that initially complicated finding priests for her temple?",
+      "options": ["Kayastha", "Mahishya", "Brahmin", "Baidya"],
+      "answer": 1,
+      "explanation": "Rani Rashmoni came from the Mahishya (Kaivarta) community, a non-Brahmin group; because she was not a Brahmin, orthodox priests at first hesitated to serve at her temple."
+    },
+    {
+      "id": "dakshineswar-temple-q14",
+      "difficulty": "medium",
+      "q": "How many smaller Shiva temples line the riverfront of the Dakshineswar complex?",
+      "options": ["Six", "Nine", "Twelve", "Twenty-four"],
+      "answer": 2,
+      "explanation": "Twelve identical Shiva temples in the Aatchala Bengali style stand in a row facing the river."
+    },
+    {
+      "id": "dakshineswar-temple-q15",
+      "difficulty": "medium",
+      "q": "Besides the main Kali shrine and Shiva temples, the complex also has a temple dedicated to which deity?",
+      "options": ["Radha-Krishna (Vishnu)", "Ganesha", "Surya", "Hanuman"],
+      "answer": 0,
+      "explanation": "The courtyard includes a temple to Radha-Krishna, called the Vishnu or Radhakanta temple."
+    },
+    {
+      "id": "dakshineswar-temple-q16",
+      "difficulty": "medium",
+      "q": "According to tradition, what inspired Rani Rashmoni to build the temple?",
+      "options": ["A royal land grant from the British", "A vision/dream of the goddess Kali before a pilgrimage to Kashi", "A victory in battle", "An astrologer's prediction of wealth"],
+      "answer": 1,
+      "explanation": "Tradition holds that the goddess Kali appeared to Rani Rashmoni in a dream, directing her to build a temple on the Ganga instead of going on her planned pilgrimage to Kashi (Varanasi)."
+    },
+    {
+      "id": "dakshineswar-temple-q17",
+      "difficulty": "medium",
+      "q": "Who was Rani Rashmoni's son-in-law that managed the temple's affairs and became a great patron of Sri Ramakrishna?",
+      "options": ["Mathur Babu (Mathuranath Biswas)", "Keshab Chandra Sen", "Ishwar Chandra Vidyasagar", "Debendranath Tagore"],
+      "answer": 0,
+      "explanation": "Mathuranath Biswas, known as Mathur Babu, was married to Rani Rashmoni's daughter and, as manager of the temple, was a great patron of Sri Ramakrishna."
+    },
+    {
+      "id": "dakshineswar-temple-q18",
+      "difficulty": "medium",
+      "q": "Sri Ramakrishna's wife and spiritual companion, who also lived at Dakshineswar, was known by what name?",
+      "options": ["Sister Nivedita", "Sarada Devi (the Holy Mother)", "Gauri Ma", "Rani Rashmoni"],
+      "answer": 1,
+      "explanation": "Sarada Devi, revered as the Holy Mother, was Sri Ramakrishna's wife and lived in the Nahabat at Dakshineswar."
+    },
+    {
+      "id": "dakshineswar-temple-q19",
+      "difficulty": "medium",
+      "q": "The main Bhavatarini idol stands upon a reclining figure of which deity?",
+      "options": ["Vishnu", "Shiva", "Brahma", "Yama"],
+      "answer": 1,
+      "explanation": "Following Kali iconography, the goddess stands on the chest of a reclining Lord Shiva, both placed on a silver lotus."
+    },
+    {
+      "id": "dakshineswar-temple-q20",
+      "difficulty": "medium",
+      "q": "Roughly how tall is the main Navaratna Kali temple at Dakshineswar?",
+      "options": ["About 10 metres (33 ft)", "About 30 metres (100 ft)", "About 60 metres (200 ft)", "About 90 metres (300 ft)"],
+      "answer": 1,
+      "explanation": "The main temple rises to roughly 30 metres (about 100 feet) on a high raised platform."
+    },
+    {
+      "id": "dakshineswar-temple-q21",
+      "difficulty": "medium",
+      "q": "Which prominent Brahmo Samaj leader visited Dakshineswar and helped spread Sri Ramakrishna's fame among Kolkata's educated classes?",
+      "options": ["Raja Ram Mohan Roy", "Keshab Chandra Sen", "Dayananda Saraswati", "Bipin Chandra Pal"],
+      "answer": 1,
+      "explanation": "Keshab Chandra Sen, a leader of the Brahmo Samaj, met Sri Ramakrishna and publicized his teachings in the 1870s."
+    },
+    {
+      "id": "dakshineswar-temple-q22",
+      "difficulty": "medium",
+      "q": "What is the name of the room near the temple where Sri Ramakrishna lived and received visitors?",
+      "options": ["The Nahabat", "The Panchavati grove", "His room at the north-west corner of the courtyard", "The Kuthi bungalow"],
+      "answer": 2,
+      "explanation": "Sri Ramakrishna lived in a room at the north-western corner of the temple courtyard, now a pilgrimage site."
+    },
+    {
+      "id": "dakshineswar-temple-q23",
+      "difficulty": "hard",
+      "q": "Because Rani Rashmoni was not a Brahmin, who agreed to serve as the temple's first head priest, resolving the caste objection?",
+      "options": ["Ramkumar Chattopadhyay (Sri Ramakrishna's elder brother)", "An official of the British East India Company", "Swami Vivekananda", "Keshab Chandra Sen"],
+      "answer": 0,
+      "explanation": "After scholars devised a way around the caste objection, Ramkumar Chattopadhyay, Sri Ramakrishna's elder brother, agreed to serve and became the temple's first head priest in 1855."
+    },
+    {
+      "id": "dakshineswar-temple-q24",
+      "difficulty": "hard",
+      "q": "Sri Ramakrishna's birth name, before he became known by his monastic title, was what?",
+      "options": ["Narendranath Datta", "Gadadhar Chattopadhyay", "Mathuranath Biswas", "Tarak Nath Ghoshal"],
+      "answer": 1,
+      "explanation": "Sri Ramakrishna was born Gadadhar Chattopadhyay in 1836 in Kamarpukur, Bengal."
+    },
+    {
+      "id": "dakshineswar-temple-q25",
+      "difficulty": "hard",
+      "q": "The grove of trees at Dakshineswar where Sri Ramakrishna practiced intense meditation is known as the?",
+      "options": ["Panchavati", "Brindavan", "Tapovan", "Nandanvan"],
+      "answer": 0,
+      "explanation": "The Panchavati, a grove of five sacred trees planted near the temple, was where Sri Ramakrishna performed many of his spiritual disciplines."
+    },
+    {
+      "id": "dakshineswar-temple-q26",
+      "difficulty": "hard",
+      "q": "Approximately how large is the entire Dakshineswar temple compound?",
+      "options": ["About 2 acres", "About 8 acres", "About 25 acres", "About 100 acres"],
+      "answer": 2,
+      "explanation": "Rani Rashmoni acquired about 20 acres of land and the walled temple complex spans roughly 20 to 25 acres, including the courtyard, riverside ghats and subsidiary shrines."
+    },
+    {
+      "id": "dakshineswar-temple-q27",
+      "difficulty": "hard",
+      "q": "Rani Rashmoni had to overcome a major practical obstacle to import the deity and labour; what was she famous for opposing against the British?",
+      "options": ["A tax on fishing rights in the river / oppressive levies on the poor", "The salt tax march", "The partition of Bengal", "The indigo plantation system only"],
+      "answer": 0,
+      "explanation": "Rani Rashmoni was known for protecting poor fishermen, famously opposing British attempts to impose taxes/restrictions on fishing in the Hooghly."
+    },
+    {
+      "id": "dakshineswar-temple-q28",
+      "difficulty": "hard",
+      "q": "After Sri Ramakrishna's death in 1886, his disciples founded which organization that carries his name worldwide?",
+      "options": ["The Ramakrishna Mission", "The Arya Samaj", "The Theosophical Society", "The Prarthana Samaj"],
+      "answer": 0,
+      "explanation": "Swami Vivekananda founded the Ramakrishna Mission in 1897 to continue his master's spiritual and humanitarian work."
+    },
+    {
+      "id": "dakshineswar-temple-q29",
+      "difficulty": "hard",
+      "q": "Which architectural feature gives the Navaratna ('nine-jewel') style its name at the main Kali temple?",
+      "options": ["Nine entrance gates", "Nine spires/towers (one central and eight surrounding)", "Nine carved idols", "Nine flights of stairs"],
+      "answer": 1,
+      "explanation": "Navaratna refers to the nine spires, a large central shikhara surrounded by eight smaller towers on the upper storeys."
+    },
+    {
+      "id": "dakshineswar-temple-q30",
+      "difficulty": "hard",
+      "q": "Roughly how long did construction of the Dakshineswar temple complex take before its 1855 opening?",
+      "options": ["About one year", "About eight years", "About twenty years", "About forty years"],
+      "answer": 1,
+      "explanation": "Construction began around 1847 and the temple was consecrated in 1855, taking roughly eight years."
+    }
+  ]
+}

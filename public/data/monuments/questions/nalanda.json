@@ -1,0 +1,245 @@
+{
+  "cardId": "nalanda",
+  "questions": [
+    {
+      "id": "nalanda-q01",
+      "difficulty": "easy",
+      "q": "In which Indian state are the ruins of Nalanda Mahavihara located?",
+      "options": ["Bihar", "West Bengal", "Uttar Pradesh", "Odisha"],
+      "answer": 0,
+      "explanation": "Nalanda Mahavihara lies in the present-day state of Bihar in eastern India."
+    },
+    {
+      "id": "nalanda-q02",
+      "difficulty": "easy",
+      "q": "What kind of institution was Nalanda Mahavihara?",
+      "options": ["A Buddhist monastic university", "A royal palace", "A trading port", "A military fortress"],
+      "answer": 0,
+      "explanation": "Nalanda was a great Buddhist monastery and centre of learning, often described as one of the world's earliest residential universities."
+    },
+    {
+      "id": "nalanda-q03",
+      "difficulty": "easy",
+      "q": "With which religion was Nalanda Mahavihara primarily associated?",
+      "options": ["Jainism", "Sikhism", "Buddhism", "Zoroastrianism"],
+      "answer": 2,
+      "explanation": "Nalanda was a renowned Buddhist monastic university that drew students and monks from across Asia."
+    },
+    {
+      "id": "nalanda-q04",
+      "difficulty": "easy",
+      "q": "Nalanda is best known today as the ruins of an ancient what?",
+      "options": ["Lighthouse", "Aqueduct", "Mint", "University"],
+      "answer": 3,
+      "explanation": "Nalanda Mahavihara is celebrated as one of the most famous ancient universities of the world."
+    },
+    {
+      "id": "nalanda-q05",
+      "difficulty": "easy",
+      "q": "From around which century did Nalanda flourish as a centre of learning?",
+      "options": ["From the 20th century onward", "From the 15th century onward", "From the 5th century onward", "From the 18th century onward"],
+      "answer": 2,
+      "explanation": "Nalanda flourished as a major centre of learning from about the 5th century CE."
+    },
+    {
+      "id": "nalanda-q06",
+      "difficulty": "easy",
+      "q": "In which broad region of India is Nalanda situated?",
+      "options": ["Western India", "Eastern India", "Far southern tip of India", "The northwestern desert"],
+      "answer": 1,
+      "explanation": "Located in Bihar, Nalanda lies in the eastern part of India."
+    },
+    {
+      "id": "nalanda-q07",
+      "difficulty": "easy",
+      "q": "What is the main building material seen in the surviving Nalanda ruins?",
+      "options": ["Polished white marble", "Red sandstone slabs", "Baked red brick", "Black granite blocks"],
+      "answer": 2,
+      "explanation": "The monasteries and temples of Nalanda were built largely of baked red brick, which still defines the ruins today."
+    },
+    {
+      "id": "nalanda-q08",
+      "difficulty": "easy",
+      "q": "What largely happened to Nalanda Mahavihara, bringing its life as a centre of learning to an end?",
+      "options": ["It was abandoned after an earthquake in modern times", "It was destroyed around 1200 CE", "It was peacefully converted into a temple in the 1700s", "It was flooded by the sea"],
+      "answer": 1,
+      "explanation": "Nalanda was sacked and largely destroyed around 1200 CE, ending its long career as a great university."
+    },
+    {
+      "id": "nalanda-q09",
+      "difficulty": "easy",
+      "q": "Nalanda Mahavihara was an example of what type of complex?",
+      "options": ["A naval dockyard", "A hilltop fort", "A monastic complex", "A stepwell"],
+      "answer": 2,
+      "explanation": "Nalanda was a vast Buddhist monastic complex, combining residence halls (viharas) and temples (chaityas)."
+    },
+    {
+      "id": "nalanda-q10",
+      "difficulty": "easy",
+      "q": "Students and monks who studied at Nalanda came mainly from which part of the world?",
+      "options": ["Only from southern Africa", "Only from western Europe", "Only from the Americas", "Across Asia"],
+      "answer": 3,
+      "explanation": "Nalanda attracted scholars from many parts of Asia, including China, Korea, Tibet and Southeast Asia."
+    },
+    {
+      "id": "nalanda-q11",
+      "difficulty": "medium",
+      "q": "Under which imperial dynasty was Nalanda founded and given its first great patronage?",
+      "options": ["The Guptas", "The Mauryas", "The Cholas", "The Mughals"],
+      "answer": 0,
+      "explanation": "Nalanda was founded and richly endowed by the Gupta emperors in around the 5th century CE."
+    },
+    {
+      "id": "nalanda-q12",
+      "difficulty": "medium",
+      "q": "Which famous Chinese Buddhist pilgrim studied at Nalanda in the 7th century and left a detailed account of it?",
+      "options": ["Xuanzang", "Faxian", "Marco Polo", "Ibn Battuta"],
+      "answer": 0,
+      "explanation": "The Chinese monk Xuanzang (Hsuan-tsang) studied at Nalanda in the 7th century and described it vividly in his travelogue."
+    },
+    {
+      "id": "nalanda-q13",
+      "difficulty": "medium",
+      "q": "Which later dynasty, devoted patrons of Buddhism, continued to support Nalanda after the Guptas?",
+      "options": ["The Rashtrakutas", "The Pallavas", "The Palas", "The Tughlaqs"],
+      "answer": 2,
+      "explanation": "The Pala dynasty of Bengal and Bihar were major patrons of Nalanda in the later centuries of its existence."
+    },
+    {
+      "id": "nalanda-q14",
+      "difficulty": "medium",
+      "q": "Another famous Chinese monk who studied at Nalanda and wrote about Indian Buddhism in the 7th century was:",
+      "options": ["Confucius", "Bodhidharma", "Yijing (I-tsing)", "Laozi"],
+      "answer": 2,
+      "explanation": "Yijing (I-tsing) visited and studied at Nalanda in the late 7th century and recorded its monastic life and curriculum."
+    },
+    {
+      "id": "nalanda-q15",
+      "difficulty": "medium",
+      "q": "Besides Buddhist scriptures, what other subjects were taught at Nalanda?",
+      "options": ["Only military tactics", "Subjects such as logic, grammar, medicine and astronomy", "Only seafaring and navigation", "Only law and taxation"],
+      "answer": 1,
+      "explanation": "Nalanda offered a broad curriculum including logic, grammar, medicine, mathematics and astronomy alongside Buddhist philosophy."
+    },
+    {
+      "id": "nalanda-q16",
+      "difficulty": "medium",
+      "q": "In 2016, the archaeological ruins of Nalanda Mahavihara received which international recognition?",
+      "options": ["They were inscribed as a UNESCO World Heritage Site", "They became a Formula One circuit", "They were declared a free trade zone", "They were turned into a national wildlife park"],
+      "answer": 0,
+      "explanation": "The archaeological site of Nalanda Mahavihara was inscribed on the UNESCO World Heritage List in 2016."
+    },
+    {
+      "id": "nalanda-q17",
+      "difficulty": "medium",
+      "q": "Which Turkic military commander is traditionally blamed for the sacking and destruction of Nalanda around 1200 CE?",
+      "options": ["Mahmud of Ghazni", "Bakhtiyar Khalji", "Timur", "Babur"],
+      "answer": 1,
+      "explanation": "The general Bakhtiyar Khalji is traditionally held responsible for sacking Nalanda and its monasteries around 1200 CE."
+    },
+    {
+      "id": "nalanda-q18",
+      "difficulty": "medium",
+      "q": "The word 'Mahavihara' in the name Nalanda Mahavihara essentially means:",
+      "options": ["Royal treasury", "Sacred river", "Victory tower", "Great monastery"],
+      "answer": 3,
+      "explanation": "'Mahavihara' means 'great monastery', reflecting Nalanda's status as a vast residential monastic complex."
+    },
+    {
+      "id": "nalanda-q19",
+      "difficulty": "medium",
+      "q": "Visitors to the Nalanda ruins typically see rows of which two main structure types?",
+      "options": ["Lighthouses and piers", "Monasteries (viharas) and temples (chaityas/stupas)", "Windmills and granaries", "Forts and moats"],
+      "answer": 1,
+      "explanation": "The excavated site is laid out as a series of monastery buildings (viharas) facing a line of temples and stupas (chaityas)."
+    },
+    {
+      "id": "nalanda-q20",
+      "difficulty": "medium",
+      "q": "Roughly how long did Nalanda function as an important centre of learning before its destruction?",
+      "options": ["About a few decades", "Around seven to eight centuries", "Only a single century", "More than three thousand years"],
+      "answer": 1,
+      "explanation": "Nalanda flourished from about the 5th century until around 1200 CE, a span of roughly seven to eight centuries."
+    },
+    {
+      "id": "nalanda-q21",
+      "difficulty": "medium",
+      "q": "Which modern educational institution was established near the ruins to revive Nalanda's legacy?",
+      "options": ["Nalanda University", "Indian Institute of Technology Bombay", "Banaras Hindu University", "Aligarh Muslim University"],
+      "answer": 0,
+      "explanation": "A modern Nalanda University was set up near the historic site to revive the ancient seat of learning, reopening to students in 2014."
+    },
+    {
+      "id": "nalanda-q22",
+      "difficulty": "medium",
+      "q": "Which agency is responsible for the conservation of the excavated Nalanda ruins in India?",
+      "options": ["Indian Space Research Organisation", "Archaeological Survey of India", "Reserve Bank of India", "Border Roads Organisation"],
+      "answer": 1,
+      "explanation": "The Archaeological Survey of India maintains and conserves the excavated remains of Nalanda Mahavihara."
+    },
+    {
+      "id": "nalanda-q23",
+      "difficulty": "hard",
+      "q": "Which Gupta emperor is most commonly credited in tradition with founding Nalanda Mahavihara?",
+      "options": ["Kumaragupta I", "Chandragupta Maurya", "Ashoka", "Harshavardhana"],
+      "answer": 0,
+      "explanation": "Tradition and inscriptional evidence credit the Gupta ruler Kumaragupta I with founding Nalanda in the 5th century CE."
+    },
+    {
+      "id": "nalanda-q24",
+      "difficulty": "hard",
+      "q": "Xuanzang reported that Nalanda housed a great library complex famously known by which name?",
+      "options": ["Bibliotheca", "Takshashila", "Dharmaganja", "Vikramashila"],
+      "answer": 2,
+      "explanation": "Nalanda's celebrated library complex was known as the Dharmaganja, said to comprise several multi-storeyed buildings."
+    },
+    {
+      "id": "nalanda-q25",
+      "difficulty": "hard",
+      "q": "According to tradition, three of the library buildings at Nalanda bore evocative names; which set below is associated with them?",
+      "options": ["Lal Qila, Agra and Sikri", "Ananda, Bhakti and Jnana", "Surya, Chandra and Tara", "Ratnasagara, Ratnodadhi and Ratnaranjaka"],
+      "answer": 3,
+      "explanation": "Tradition names the three library buildings as Ratnasagara, Ratnodadhi and Ratnaranjaka, evocatively rendered as 'Ocean of Jewels', 'Sea of Jewels' and 'Jewel-Adorned'."
+    },
+    {
+      "id": "nalanda-q26",
+      "difficulty": "hard",
+      "q": "Which renowned Buddhist scholar associated with the Madhyamaka school is traditionally linked with Nalanda's intellectual heritage?",
+      "options": ["Panini", "Charaka", "Nagarjuna", "Aryabhata"],
+      "answer": 2,
+      "explanation": "Nagarjuna, the great Madhyamaka philosopher, is among the eminent scholars traditionally associated with Nalanda's lineage of learning."
+    },
+    {
+      "id": "nalanda-q27",
+      "difficulty": "hard",
+      "q": "The most imposing surviving structure at Nalanda, a large stepped brick monument, is usually called:",
+      "options": ["Sarai Mound", "The Great Stupa of Sariputra (Stupa No. 3)", "The Qutb Minar", "The Iron Pillar"],
+      "answer": 1,
+      "explanation": "The towering brick monument known as Stupa No. 3, associated with the disciple Sariputra, is Nalanda's most prominent surviving structure."
+    },
+    {
+      "id": "nalanda-q28",
+      "difficulty": "hard",
+      "q": "Which 19th-century surveyor played a key role in identifying the Nalanda ruins using Xuanzang's travel accounts?",
+      "options": ["William Jones", "Alexander Cunningham", "John Marshall", "Mortimer Wheeler"],
+      "answer": 1,
+      "explanation": "Alexander Cunningham, founder of the Archaeological Survey of India, helped identify Nalanda in the 19th century using the Chinese pilgrims' records."
+    },
+    {
+      "id": "nalanda-q29",
+      "difficulty": "hard",
+      "q": "Nalanda lay in the ancient kingdom of Magadha, close to which other major Buddhist pilgrimage town?",
+      "options": ["Mathura", "Ujjain", "Kanchipuram", "Rajgir (Rajagriha)"],
+      "answer": 3,
+      "explanation": "Nalanda is situated in ancient Magadha, near Rajgir (Rajagriha), an important early Buddhist and royal centre."
+    },
+    {
+      "id": "nalanda-q30",
+      "difficulty": "hard",
+      "q": "Admission to study at Nalanda was famously selective, reportedly involving what?",
+      "options": ["Payment of a large gold fee only", "A rigorous oral examination by gatekeeper scholars", "A lottery open to anyone", "Membership of the royal family"],
+      "answer": 1,
+      "explanation": "Accounts describe that aspiring students had to pass demanding oral examinations posed by learned gatekeepers before being admitted to Nalanda."
+    }
+  ]
+}

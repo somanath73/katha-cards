@@ -1,0 +1,245 @@
+{
+  "cardId": "jahaz-mahal",
+  "questions": [
+    {
+      "id": "jahaz-mahal-q01",
+      "difficulty": "easy",
+      "q": "By what English nickname is the Jahaz Mahal popularly known?",
+      "options": ["The Ship Palace", "The Cloud Palace", "The Mirror Palace", "The Wind Palace"],
+      "answer": 0,
+      "explanation": "Jahaz Mahal translates to 'Ship Palace' because its long, narrow form appears to float like a ship between two lakes."
+    },
+    {
+      "id": "jahaz-mahal-q02",
+      "difficulty": "easy",
+      "q": "In which historic city is the Jahaz Mahal located?",
+      "options": ["Orchha", "Gwalior", "Chanderi", "Mandu"],
+      "answer": 3,
+      "explanation": "The Jahaz Mahal is one of the most famous monuments of the medieval fortress city of Mandu."
+    },
+    {
+      "id": "jahaz-mahal-q03",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state does the Jahaz Mahal stand?",
+      "options": ["Rajasthan", "Gujarat", "Madhya Pradesh", "Maharashtra"],
+      "answer": 2,
+      "explanation": "Mandu, and therefore the Jahaz Mahal, is located in the Malwa region of Madhya Pradesh."
+    },
+    {
+      "id": "jahaz-mahal-q04",
+      "difficulty": "easy",
+      "q": "Why is the Jahaz Mahal said to resemble a ship?",
+      "options": ["It is shaped like a sail", "It is built on a boat-shaped platform of stone", "It is a long, narrow building set between two lakes", "It has a prow carved at one end"],
+      "answer": 2,
+      "explanation": "The long and narrow palace sits on a strip of land between two lakes, making it look like a ship floating on water."
+    },
+    {
+      "id": "jahaz-mahal-q05",
+      "difficulty": "easy",
+      "q": "Between how many lakes is the Jahaz Mahal situated?",
+      "options": ["Two", "One", "Three", "Four"],
+      "answer": 0,
+      "explanation": "The palace stands on a narrow strip of land between two lakes, the Munj Talao and the Kapur Talao."
+    },
+    {
+      "id": "jahaz-mahal-q06",
+      "difficulty": "easy",
+      "q": "During which broad period of Indian history was the Jahaz Mahal built?",
+      "options": ["The Gupta period", "The medieval Sultanate period", "The British colonial period", "The Maurya period"],
+      "answer": 1,
+      "explanation": "The Jahaz Mahal was built during the medieval period under the Malwa Sultanate."
+    },
+    {
+      "id": "jahaz-mahal-q07",
+      "difficulty": "easy",
+      "q": "The Jahaz Mahal is most associated with the court of which sultan?",
+      "options": ["Akbar", "Sher Shah Suri", "Mahmud of Ghazni", "Ghiyas-ud-din Khalji"],
+      "answer": 3,
+      "explanation": "The Jahaz Mahal is traditionally linked to Sultan Ghiyas-ud-din Khalji of Malwa, for whose court it served."
+    },
+    {
+      "id": "jahaz-mahal-q08",
+      "difficulty": "easy",
+      "q": "What is the primary building material of the Jahaz Mahal?",
+      "options": ["Sandstone and stone masonry", "Timber and bamboo", "Marble and glass", "Mud brick and thatch"],
+      "answer": 0,
+      "explanation": "Like most of Mandu's monuments, the Jahaz Mahal is built of local stone masonry."
+    },
+    {
+      "id": "jahaz-mahal-q09",
+      "difficulty": "easy",
+      "q": "What kind of structure is the Jahaz Mahal?",
+      "options": ["A tomb", "A mosque", "A palace", "A stepwell"],
+      "answer": 2,
+      "explanation": "The Jahaz Mahal is a palace, built as part of the royal complex at Mandu."
+    },
+    {
+      "id": "jahaz-mahal-q10",
+      "difficulty": "easy",
+      "q": "Mandu, where the Jahaz Mahal stands, lies in which historic region of central India?",
+      "options": ["Bundelkhand", "Marwar", "Konkan", "Malwa"],
+      "answer": 3,
+      "explanation": "Mandu is the famous hilltop fortress city of the Malwa region in central India."
+    },
+    {
+      "id": "jahaz-mahal-q11",
+      "difficulty": "medium",
+      "q": "Between which two artificial lakes does the Jahaz Mahal lie?",
+      "options": ["Pichola and Fateh Sagar", "Hauz Khas and Anasagar", "Mansarovar and Bindu Sagar", "Munj Talao and Kapur Talao"],
+      "answer": 3,
+      "explanation": "The Jahaz Mahal sits on the narrow neck of land between the Munj Talao and the Kapur Talao at Mandu."
+    },
+    {
+      "id": "jahaz-mahal-q12",
+      "difficulty": "medium",
+      "q": "Roughly how long is the Jahaz Mahal, contributing to its elongated 'ship' appearance?",
+      "options": ["About 120 metres", "About 12 metres", "About 500 metres", "About 30 metres"],
+      "answer": 0,
+      "explanation": "The palace is around 120 metres long but only about 15 metres wide, giving it its distinctive ship-like proportions."
+    },
+    {
+      "id": "jahaz-mahal-q13",
+      "difficulty": "medium",
+      "q": "Approximately how many storeys does the Jahaz Mahal have?",
+      "options": ["Five storeys", "Two storeys", "Seven storeys", "One storey"],
+      "answer": 1,
+      "explanation": "The Jahaz Mahal is a double-storeyed palace, with open pavilions and terraces above."
+    },
+    {
+      "id": "jahaz-mahal-q14",
+      "difficulty": "medium",
+      "q": "To which ruling dynasty of Malwa did Ghiyas-ud-din Khalji, builder of the Jahaz Mahal's court, belong?",
+      "options": ["The Tughlaq dynasty", "The Lodi dynasty", "The Khalji (Khilji) dynasty of Malwa", "The Slave (Mamluk) dynasty"],
+      "answer": 2,
+      "explanation": "Ghiyas-ud-din Khalji belonged to the Khalji dynasty that ruled the independent Sultanate of Malwa from Mandu."
+    },
+    {
+      "id": "jahaz-mahal-q15",
+      "difficulty": "medium",
+      "q": "The Jahaz Mahal is traditionally said to have been built to house what?",
+      "options": ["A treasury of gold", "A large royal harem and women of the court", "A military garrison", "A school of astronomy"],
+      "answer": 1,
+      "explanation": "The palace is traditionally described as a pleasure retreat housing the large harem of Sultan Ghiyas-ud-din Khalji's court."
+    },
+    {
+      "id": "jahaz-mahal-q16",
+      "difficulty": "medium",
+      "q": "In which century is the Jahaz Mahal generally dated to its construction?",
+      "options": ["The 11th century", "The 18th century", "The 13th century", "The 15th century"],
+      "answer": 3,
+      "explanation": "The Jahaz Mahal was built in the latter half of the 15th century during the reign of Ghiyas-ud-din Khalji."
+    },
+    {
+      "id": "jahaz-mahal-q17",
+      "difficulty": "medium",
+      "q": "Which feature crowns the rooftop terrace of the Jahaz Mahal, giving it a graceful skyline?",
+      "options": ["Open domed pavilions (kiosks)", "A tall clock tower", "A row of factory chimneys", "A single conical spire"],
+      "answer": 0,
+      "explanation": "Airy domed pavilions and kiosks crown the terrace, where the court could enjoy breezes and views over the lakes."
+    },
+    {
+      "id": "jahaz-mahal-q18",
+      "difficulty": "medium",
+      "q": "Water management was central to the Jahaz Mahal's design. Which of these is a genuine feature of the palace?",
+      "options": ["A floating wooden deck", "An underground river tunnel to the Narmada", "A glass-bottomed observation hall", "Cisterns, channels and ornamental pools fed with water"],
+      "answer": 3,
+      "explanation": "The palace featured cisterns, water channels and pools, including a notable spiral channel, reflecting Mandu's sophisticated water engineering."
+    },
+    {
+      "id": "jahaz-mahal-q19",
+      "difficulty": "medium",
+      "q": "The architecture of the Jahaz Mahal is an example of which regional style?",
+      "options": ["Dravidian temple architecture", "Mughal Charbagh architecture", "Colonial Indo-Gothic architecture", "Provincial Malwa Sultanate (Indo-Islamic) architecture"],
+      "answer": 3,
+      "explanation": "The Jahaz Mahal exemplifies the austere yet elegant provincial Indo-Islamic architecture of the Malwa Sultanate at Mandu."
+    },
+    {
+      "id": "jahaz-mahal-q20",
+      "difficulty": "medium",
+      "q": "Which body is responsible for the protection and conservation of the Jahaz Mahal today?",
+      "options": ["The Archaeological Survey of India", "The Indian Railways", "The Geological Survey of India", "The Reserve Bank of India"],
+      "answer": 0,
+      "explanation": "The Jahaz Mahal, as part of the Mandu monuments, is a protected site under the Archaeological Survey of India."
+    },
+    {
+      "id": "jahaz-mahal-q21",
+      "difficulty": "medium",
+      "q": "The Jahaz Mahal is part of the royal enclave at Mandu, which also includes which neighbouring palace?",
+      "options": ["The Hawa Mahal of Jaipur", "The Diwan-i-Khas of Delhi", "The Sheesh Mahal of Agra", "The Hindola Mahal"],
+      "answer": 3,
+      "explanation": "The Jahaz Mahal stands close to the Hindola Mahal (the 'Swinging Palace') within Mandu's royal complex."
+    },
+    {
+      "id": "jahaz-mahal-q22",
+      "difficulty": "medium",
+      "q": "What gives the Jahaz Mahal its illusion of floating, especially during the monsoon?",
+      "options": ["Mirrors set into the walls", "The lakes on either side filling with water", "Hidden hydraulic lifts", "A coating of reflective paint"],
+      "answer": 1,
+      "explanation": "When the flanking lakes fill during the rains, the long palace appears to float like a ship upon the water."
+    },
+    {
+      "id": "jahaz-mahal-q23",
+      "difficulty": "hard",
+      "q": "What was the contemporary name of Mandu during the Sultanate period?",
+      "options": ["Shahjahanabad", "Shadiabad ('City of Joy')", "Fatehpur", "Daulatabad"],
+      "answer": 1,
+      "explanation": "Mandu was known as Shadiabad, meaning the 'City of Joy', a name given during the Malwa Sultanate."
+    },
+    {
+      "id": "jahaz-mahal-q24",
+      "difficulty": "hard",
+      "q": "Ghiyas-ud-din Khalji, linked to the Jahaz Mahal, was the son and successor of which Malwa sultan?",
+      "options": ["Hoshang Shah", "Baz Bahadur", "Mahmud Khalji I", "Dilawar Khan"],
+      "answer": 2,
+      "explanation": "Ghiyas-ud-din Khalji succeeded his father Mahmud Khalji I (Mahmud Shah I) as sultan of Malwa."
+    },
+    {
+      "id": "jahaz-mahal-q25",
+      "difficulty": "hard",
+      "q": "Mandu's later romance, often associated with its monuments in popular memory, involves which sultan and his beloved?",
+      "options": ["Akbar and Jodha", "Baz Bahadur and Rani Roopmati", "Shah Jahan and Mumtaz", "Salim and Anarkali"],
+      "answer": 1,
+      "explanation": "Mandu is famed for the legend of Sultan Baz Bahadur and the singer-queen Rani Roopmati, central to the city's romantic lore."
+    },
+    {
+      "id": "jahaz-mahal-q26",
+      "difficulty": "hard",
+      "q": "The Munj Talao lake beside the Jahaz Mahal is traditionally named after which Paramara king of Malwa?",
+      "options": ["Raja Bhoj", "Raja Munja", "Raja Vakpati", "Raja Udayaditya"],
+      "answer": 1,
+      "explanation": "The Munj Talao is associated by tradition with Munja, a celebrated Paramara king of Malwa from before the Sultanate era."
+    },
+    {
+      "id": "jahaz-mahal-q27",
+      "difficulty": "hard",
+      "q": "A distinctive water feature near the Jahaz Mahal is a spiral channel known by what descriptive name?",
+      "options": ["The serpentine or spiral water channel", "The waterfall of mirrors", "The fountain of forty pillars", "The river of seven steps"],
+      "answer": 0,
+      "explanation": "The palace complex includes a winding spiral (serpentine) water channel that carried water through the terraces and pools."
+    },
+    {
+      "id": "jahaz-mahal-q28",
+      "difficulty": "hard",
+      "q": "Mandu, the home of the Jahaz Mahal, is situated on a plateau that is a spur of which mountain range?",
+      "options": ["The Aravalli Range", "The Vindhya Range", "The Western Ghats", "The Satpura Range"],
+      "answer": 1,
+      "explanation": "Mandu sits atop a plateau of the Vindhya Range overlooking the Nimar plains and the Narmada valley."
+    },
+    {
+      "id": "jahaz-mahal-q29",
+      "difficulty": "hard",
+      "q": "The independent Sultanate of Malwa, which built the Jahaz Mahal, broke away from which larger northern sultanate?",
+      "options": ["The Bahmani Sultanate", "The Delhi Sultanate", "The Bengal Sultanate", "The Gujarat Sultanate"],
+      "answer": 1,
+      "explanation": "Malwa became an independent sultanate in the early 15th century as the authority of the Delhi Sultanate weakened after Timur's invasion."
+    },
+    {
+      "id": "jahaz-mahal-q30",
+      "difficulty": "hard",
+      "q": "Which Mughal emperor, who visited Mandu, recorded admiration for the monuments and water palaces of the city?",
+      "options": ["Babur", "Jahangir", "Aurangzeb", "Bahadur Shah Zafar"],
+      "answer": 1,
+      "explanation": "Emperor Jahangir stayed at Mandu and described its palaces and lakes in his memoirs, helping preserve the city's fame."
+    }
+  ]
+}

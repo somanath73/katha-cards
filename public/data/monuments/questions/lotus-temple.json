@@ -1,0 +1,245 @@
+{
+  "cardId": "lotus-temple",
+  "questions": [
+    {
+      "id": "lotus-temple-q01",
+      "difficulty": "easy",
+      "q": "In which Indian city is the Lotus Temple located?",
+      "options": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+      "answer": 1,
+      "explanation": "The Lotus Temple stands in New Delhi, in the Bahapur area of the national capital."
+    },
+    {
+      "id": "lotus-temple-q02",
+      "difficulty": "easy",
+      "q": "The Lotus Temple is a house of worship for which faith?",
+      "options": ["Hinduism", "Sikhism", "The Bahai Faith", "Jainism"],
+      "answer": 2,
+      "explanation": "It is a Bahai House of Worship, one of several major Bahai temples around the world."
+    },
+    {
+      "id": "lotus-temple-q03",
+      "difficulty": "easy",
+      "q": "What flower is the shape of the Lotus Temple based on?",
+      "options": ["Lotus", "Rose", "Marigold", "Jasmine"],
+      "answer": 0,
+      "explanation": "The building is designed to resemble a half-open lotus flower, giving it its popular name."
+    },
+    {
+      "id": "lotus-temple-q04",
+      "difficulty": "easy",
+      "q": "In what year was the Lotus Temple opened to the public?",
+      "options": ["1976", "2006", "1996", "1986"],
+      "answer": 3,
+      "explanation": "The Lotus Temple was completed and dedicated in 1986."
+    },
+    {
+      "id": "lotus-temple-q05",
+      "difficulty": "easy",
+      "q": "How many petals make up the structure of the Lotus Temple?",
+      "options": ["Nine", "Twenty-seven", "Twelve", "Forty"],
+      "answer": 1,
+      "explanation": "The temple is formed of 27 free-standing marble-clad petals arranged in clusters of three."
+    },
+    {
+      "id": "lotus-temple-q06",
+      "difficulty": "easy",
+      "q": "Who is welcome to enter and pray inside the Lotus Temple?",
+      "options": ["Only Bahais", "Only Indian citizens", "People of all faiths", "Only registered members"],
+      "answer": 2,
+      "explanation": "Like all Bahai Houses of Worship, the Lotus Temple is open to people of every religion and background."
+    },
+    {
+      "id": "lotus-temple-q07",
+      "difficulty": "easy",
+      "q": "What is the main material used for the exterior cladding of the Lotus Temple?",
+      "options": ["White marble", "Red sandstone", "Granite", "Glass"],
+      "answer": 0,
+      "explanation": "The petals are clad in white marble, giving the temple its luminous appearance."
+    },
+    {
+      "id": "lotus-temple-q08",
+      "difficulty": "easy",
+      "q": "The Lotus Temple is often grouped with other Bahai temples around the world known by what collective term?",
+      "options": ["Bahai cathedrals", "Bahai monasteries", "Bahai Houses of Worship", "Bahai shrines"],
+      "answer": 2,
+      "explanation": "Bahai temples are formally called Houses of Worship, and the Lotus Temple is one of them."
+    },
+    {
+      "id": "lotus-temple-q09",
+      "difficulty": "easy",
+      "q": "What kind of activity primarily takes place inside the central hall of the Lotus Temple?",
+      "options": ["Animal sacrifice", "Prayer and meditation", "Market trading", "Sporting events"],
+      "answer": 1,
+      "explanation": "The central prayer hall is used for quiet prayer, meditation, and the reading of scriptures from various faiths."
+    },
+    {
+      "id": "lotus-temple-q10",
+      "difficulty": "easy",
+      "q": "Which of these is true about the colour scheme of the Lotus Temple?",
+      "options": ["It is mostly bright red", "It is painted gold", "It is black marble", "It is predominantly white"],
+      "answer": 3,
+      "explanation": "The temple is famous for its pristine white marble petals set amid green gardens and pools."
+    },
+    {
+      "id": "lotus-temple-q11",
+      "difficulty": "medium",
+      "q": "Which architect designed the Lotus Temple?",
+      "options": ["Le Corbusier", "Fariborz Sahba", "Charles Correa", "B. V. Doshi"],
+      "answer": 1,
+      "explanation": "The Iranian-Canadian architect Fariborz Sahba designed the Lotus Temple."
+    },
+    {
+      "id": "lotus-temple-q12",
+      "difficulty": "medium",
+      "q": "Bahai Houses of Worship are required to have how many sides or entrances symbolically?",
+      "options": ["Four", "Seven", "Nine", "Twelve"],
+      "answer": 2,
+      "explanation": "Bahai temples are nine-sided, and the Lotus Temple has nine doors opening onto a central hall."
+    },
+    {
+      "id": "lotus-temple-q13",
+      "difficulty": "medium",
+      "q": "How many pools surround the Lotus Temple, echoing the lotus floating on water?",
+      "options": ["Three", "Six", "Nine", "Twelve"],
+      "answer": 2,
+      "explanation": "Nine reflecting pools surround the temple, suggesting the floating leaves of a lotus."
+    },
+    {
+      "id": "lotus-temple-q14",
+      "difficulty": "medium",
+      "q": "The 27 petals of the Lotus Temple are arranged in clusters of how many?",
+      "options": ["Two", "Three", "Four", "Five"],
+      "answer": 1,
+      "explanation": "The 27 petals are grouped into nine clusters of three, forming the outer leaves, entrance petals, and inner petals."
+    },
+    {
+      "id": "lotus-temple-q15",
+      "difficulty": "medium",
+      "q": "Roughly how many people can the central prayer hall of the Lotus Temple seat?",
+      "options": ["About 200", "About 1,300", "About 5,000", "About 10,000"],
+      "answer": 1,
+      "explanation": "The central hall can accommodate around 1,300 people."
+    },
+    {
+      "id": "lotus-temple-q16",
+      "difficulty": "medium",
+      "q": "Which sacred number recurs throughout the Lotus Temple's design (sides, doors, pools)?",
+      "options": ["Seven", "Five", "Eleven", "Nine"],
+      "answer": 3,
+      "explanation": "The number nine, significant in the Bahai Faith, appears in the nine sides, nine doors, and nine pools."
+    },
+    {
+      "id": "lotus-temple-q17",
+      "difficulty": "medium",
+      "q": "The white marble used to clad the Lotus Temple's petals was imported from which country?",
+      "options": ["Egypt", "Greece", "China", "Brazil"],
+      "answer": 1,
+      "explanation": "The petals are clad in white Pentelic marble imported from Greece, set on the concrete shells."
+    },
+    {
+      "id": "lotus-temple-q18",
+      "difficulty": "medium",
+      "q": "Bahai Houses of Worship are dedicated to the unity of what?",
+      "options": ["A single nation", "A royal dynasty", "God and all religions and humanity", "A trade guild"],
+      "answer": 2,
+      "explanation": "Bahai temples express the principle of the oneness of God, religion, and humanity, welcoming all people."
+    },
+    {
+      "id": "lotus-temple-q19",
+      "difficulty": "medium",
+      "q": "What feature is notably absent from worship inside the Lotus Temple, as in all Bahai temples?",
+      "options": ["Prayer and scripture", "Idols, pictures, and clergy-led ritual", "Visitors", "Silence"],
+      "answer": 1,
+      "explanation": "Bahai worship has no idols, images, pulpit-based sermons, or ritual ceremonies; only scriptures are read or chanted."
+    },
+    {
+      "id": "lotus-temple-q20",
+      "difficulty": "medium",
+      "q": "Approximately how tall is the Lotus Temple structure?",
+      "options": ["About 5 metres", "About 10 metres", "About 34 metres", "About 100 metres"],
+      "answer": 2,
+      "explanation": "The temple rises to roughly 34 metres in height from the base to the top of the inner petals."
+    },
+    {
+      "id": "lotus-temple-q21",
+      "difficulty": "medium",
+      "q": "The Lotus Temple has become famous partly for what visitor-related distinction?",
+      "options": ["Being the smallest temple in India", "Being among the most-visited buildings in the world", "Charging the highest entry fee", "Being closed to the public"],
+      "answer": 1,
+      "explanation": "It has drawn enormous numbers of visitors, making it one of the most-visited buildings in the world."
+    },
+    {
+      "id": "lotus-temple-q22",
+      "difficulty": "medium",
+      "q": "What is the regional role of the Lotus Temple within the Bahai Faith?",
+      "options": ["It is the mother temple of Africa", "It serves as the Bahai House of Worship for the Indian subcontinent", "It is located in South America", "It is in Europe"],
+      "answer": 1,
+      "explanation": "The Lotus Temple serves as the Bahai House of Worship for the Indian subcontinent."
+    },
+    {
+      "id": "lotus-temple-q23",
+      "difficulty": "hard",
+      "q": "In which decade was the Lotus Temple built before its 1986 completion?",
+      "options": ["The 1960s", "The 1970s and early 1980s", "The 1950s", "The 1990s"],
+      "answer": 1,
+      "explanation": "Planning and construction spanned the late 1970s into the early 1980s, culminating in the temple's 1986 dedication."
+    },
+    {
+      "id": "lotus-temple-q24",
+      "difficulty": "hard",
+      "q": "Which structural approach was used for the petals of the Lotus Temple?",
+      "options": ["A simple flat slab roof", "Reinforced-concrete shells clad in marble", "A wooden truss roof", "An inflatable membrane"],
+      "answer": 1,
+      "explanation": "The petals are reinforced-concrete shells engineered into a self-supporting form, then clad with white marble."
+    },
+    {
+      "id": "lotus-temple-q25",
+      "difficulty": "hard",
+      "q": "Which UK firm of consulting engineers was associated with the structural engineering of the Lotus Temple?",
+      "options": ["Skidmore, Owings and Merrill", "Flint and Neill", "No engineers were involved", "Gensler"],
+      "answer": 1,
+      "explanation": "The UK firm Flint and Neill served as structural consultants for the temple's complex shell geometry."
+    },
+    {
+      "id": "lotus-temple-q26",
+      "difficulty": "hard",
+      "q": "The three sets of petals in the Lotus Temple are commonly described by which names?",
+      "options": ["North, south, and east wings", "Upper, middle, and basement floors", "Entrance, outer, and inner leaves", "Red, white, and blue tiers"],
+      "answer": 2,
+      "explanation": "The petals are grouped as entrance leaves, outer leaves, and inner leaves, each cluster of nine forming the lotus shape."
+    },
+    {
+      "id": "lotus-temple-q27",
+      "difficulty": "hard",
+      "q": "For what was the Lotus Temple notably recognised by architecture and engineering bodies?",
+      "options": ["Winning an Olympic medal", "Its innovative structural and architectural design", "Winning a Grammy Award", "Being the cheapest building of its era"],
+      "answer": 1,
+      "explanation": "The temple won several architecture and engineering honours, including recognition for its innovative structural design."
+    },
+    {
+      "id": "lotus-temple-q28",
+      "difficulty": "hard",
+      "q": "The Lotus Temple is sometimes compared to the Sydney Opera House because both are known for what?",
+      "options": ["Being underground", "Sculptural shell-like roof forms inspired by nature", "Being made entirely of glass", "Being the tallest buildings on their continents"],
+      "answer": 1,
+      "explanation": "Both are celebrated for expressive, sculptural shell forms; the Lotus Temple's petals echo a flower as the Opera House's shells evoke sails."
+    },
+    {
+      "id": "lotus-temple-q29",
+      "difficulty": "hard",
+      "q": "Energy and sustainability efforts at the Lotus Temple have included which notable installation?",
+      "options": ["A coal power plant", "An oil refinery", "Solar power panels to supply part of its electricity", "A nuclear reactor"],
+      "answer": 2,
+      "explanation": "The temple installed solar panels, making it one of the early major Indian landmarks to generate part of its own electricity from solar power."
+    },
+    {
+      "id": "lotus-temple-q30",
+      "difficulty": "hard",
+      "q": "What is the architectural significance of the Lotus Temple's curved petal shells lacking straight load-bearing walls?",
+      "options": ["It makes the building unstable", "It means the roof is removable", "It required no foundations", "The curved shells themselves carry the loads, a hallmark of shell architecture"],
+      "answer": 3,
+      "explanation": "The doubly curved marble-clad concrete shells act as the structure, exemplifying mid-to-late 20th-century shell and expressionist architecture."
+    }
+  ]
+}

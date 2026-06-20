@@ -1,0 +1,245 @@
+{
+  "cardId": "jhansi-fort",
+  "questions": [
+    {
+      "id": "jhansi-fort-q01",
+      "difficulty": "easy",
+      "q": "In which Indian state is Jhansi Fort located?",
+      "options": ["Madhya Pradesh", "Uttar Pradesh", "Rajasthan", "Bihar"],
+      "answer": 1,
+      "explanation": "Jhansi Fort stands in the city of Jhansi in the Bundelkhand region of Uttar Pradesh."
+    },
+    {
+      "id": "jhansi-fort-q02",
+      "difficulty": "easy",
+      "q": "Jhansi Fort is most famously associated with which queen?",
+      "options": ["Razia Sultana", "Rani Durgavati", "Ahilyabai Holkar", "Rani Lakshmibai"],
+      "answer": 3,
+      "explanation": "Rani Lakshmibai, the queen of Jhansi, defended the fort during the 1857 uprising against the British."
+    },
+    {
+      "id": "jhansi-fort-q03",
+      "difficulty": "easy",
+      "q": "During which major historical event did Rani Lakshmibai defend Jhansi Fort?",
+      "options": ["The Battle of Plassey", "The Third Battle of Panipat", "The 1857 uprising against the British", "The Anglo-Maratha Wars"],
+      "answer": 2,
+      "explanation": "Rani Lakshmibai defended Jhansi Fort during the Revolt of 1857, India's first major uprising against British rule."
+    },
+    {
+      "id": "jhansi-fort-q04",
+      "difficulty": "easy",
+      "q": "On what type of terrain is Jhansi Fort built?",
+      "options": ["A river island", "A rocky hill", "A coastal cliff", "A flat plain"],
+      "answer": 1,
+      "explanation": "Jhansi Fort is a hilltop fortress built on a rocky hill (Bangira) overlooking the city."
+    },
+    {
+      "id": "jhansi-fort-q05",
+      "difficulty": "easy",
+      "q": "Jhansi Fort lies in which historical region of central India?",
+      "options": ["Malwa", "Marwar", "Bundelkhand", "Konkan"],
+      "answer": 2,
+      "explanation": "Jhansi is part of the Bundelkhand region spanning parts of Uttar Pradesh and Madhya Pradesh."
+    },
+    {
+      "id": "jhansi-fort-q06",
+      "difficulty": "easy",
+      "q": "Which empire annexed Jhansi using the Doctrine of Lapse, sparking the queen's resistance?",
+      "options": ["The Mughal Empire", "The British East India Company", "The Maratha Empire", "The Portuguese Empire"],
+      "answer": 1,
+      "explanation": "The British East India Company annexed Jhansi in 1853 under the Doctrine of Lapse after the raja died without a natural heir."
+    },
+    {
+      "id": "jhansi-fort-q07",
+      "difficulty": "easy",
+      "q": "What is the primary building material of Jhansi Fort's massive walls?",
+      "options": ["Marble", "Granite and stone", "Red sandstone tiles", "Baked clay bricks"],
+      "answer": 1,
+      "explanation": "The fort's thick ramparts were built mainly of granite and stone to withstand cannon fire and sieges."
+    },
+    {
+      "id": "jhansi-fort-q08",
+      "difficulty": "easy",
+      "q": "Rani Lakshmibai is celebrated in India primarily as a symbol of what?",
+      "options": ["Religious devotion", "Trade and commerce", "Courage and freedom struggle", "Classical music"],
+      "answer": 2,
+      "explanation": "Rani Lakshmibai is honoured as a heroine of India's freedom struggle and a symbol of valour and resistance."
+    },
+    {
+      "id": "jhansi-fort-q09",
+      "difficulty": "easy",
+      "q": "What kind of structure is Jhansi Fort?",
+      "options": ["A temple complex", "A military fortress", "A royal pleasure garden", "A trading port"],
+      "answer": 1,
+      "explanation": "Jhansi Fort is a fortified military stronghold built for defence, with thick walls, gates and bastions."
+    },
+    {
+      "id": "jhansi-fort-q10",
+      "difficulty": "easy",
+      "q": "Which dynasty originally built Jhansi Fort in the 17th century?",
+      "options": ["The Cholas", "The Tughlaqs", "The Bundela Rajputs", "The Pallavas"],
+      "answer": 2,
+      "explanation": "Jhansi Fort was built by the Bundela Rajput rulers, who dominated the Bundelkhand region."
+    },
+    {
+      "id": "jhansi-fort-q11",
+      "difficulty": "medium",
+      "q": "Which Bundela ruler is credited with building Jhansi Fort in 1613?",
+      "options": ["Chhatrasal Bundela", "Bir Singh Deo (Bir Singh Ju Deo)", "Hardev Shah", "Madhukar Shah"],
+      "answer": 1,
+      "explanation": "Raja Bir Singh Deo (Bir Singh Ju Deo) of the Orchha-based Bundela dynasty built Jhansi Fort around 1613."
+    },
+    {
+      "id": "jhansi-fort-q12",
+      "difficulty": "medium",
+      "q": "On which hill in Jhansi was the fort constructed?",
+      "options": ["Bangira hill", "Chitorgarh hill", "Gwalior rock", "Aravalli ridge"],
+      "answer": 0,
+      "explanation": "Jhansi Fort was built on Bangira, a large rocky hill that dominates the surrounding plains."
+    },
+    {
+      "id": "jhansi-fort-q13",
+      "difficulty": "medium",
+      "q": "What was Rani Lakshmibai's birth name before she became queen of Jhansi?",
+      "options": ["Jhalkari Bai", "Manikarnika (Manu)", "Kasturba", "Savitribai"],
+      "answer": 1,
+      "explanation": "Rani Lakshmibai was born Manikarnika, called Manu, and took the name Lakshmibai after marrying the Raja of Jhansi."
+    },
+    {
+      "id": "jhansi-fort-q14",
+      "difficulty": "medium",
+      "q": "British policy used to annex Jhansi after the raja's death was known as the:",
+      "options": ["Subsidiary Alliance", "Permanent Settlement", "Doctrine of Lapse", "Treaty of Bassein"],
+      "answer": 2,
+      "explanation": "Lord Dalhousie's Doctrine of Lapse refused to recognise the adopted heir, leading to the annexation of Jhansi in 1853."
+    },
+    {
+      "id": "jhansi-fort-q15",
+      "difficulty": "medium",
+      "q": "Who was Rani Lakshmibai's husband, the ruler of Jhansi?",
+      "options": ["Baji Rao II", "Gangadhar Rao Newalkar", "Nana Sahib", "Tatya Tope"],
+      "answer": 1,
+      "explanation": "Rani Lakshmibai was married to Maharaja Gangadhar Rao Newalkar, the Raja of Jhansi, who died in 1853."
+    },
+    {
+      "id": "jhansi-fort-q16",
+      "difficulty": "medium",
+      "q": "Which famous phrase is attributed to Rani Lakshmibai in defiance of the British?",
+      "options": ["\"Do or die\"", "\"Main apni Jhansi nahi doongi\" (I will not give up my Jhansi)", "\"Swaraj is my birthright\"", "\"Quit India\""],
+      "answer": 1,
+      "explanation": "The defiant words \"Main apni Jhansi nahi doongi\" are popularly attributed to Rani Lakshmibai's resistance against British annexation."
+    },
+    {
+      "id": "jhansi-fort-q17",
+      "difficulty": "medium",
+      "q": "British forces under which commander besieged Jhansi Fort in March 1858?",
+      "options": ["Robert Clive", "Warren Hastings", "Charles Napier", "Sir Hugh Rose"],
+      "answer": 3,
+      "explanation": "General Sir Hugh Rose led the British siege of Jhansi in March 1858 during the campaign to crush the revolt."
+    },
+    {
+      "id": "jhansi-fort-q18",
+      "difficulty": "medium",
+      "q": "After fleeing Jhansi, Rani Lakshmibai died fighting near which city in June 1858?",
+      "options": ["Kanpur", "Gwalior", "Lucknow", "Agra"],
+      "answer": 1,
+      "explanation": "Rani Lakshmibai died in battle near Gwalior in June 1858 while resisting the British advance."
+    },
+    {
+      "id": "jhansi-fort-q19",
+      "difficulty": "medium",
+      "q": "A loyal woman soldier who is said to have disguised herself as the queen to help her escape Jhansi was:",
+      "options": ["Jhalkari Bai", "Begum Hazrat Mahal", "Uda Devi", "Avantibai"],
+      "answer": 0,
+      "explanation": "Jhalkari Bai, a soldier in the queen's army, is celebrated for impersonating Rani Lakshmibai to aid her escape from the fort."
+    },
+    {
+      "id": "jhansi-fort-q20",
+      "difficulty": "medium",
+      "q": "Within Jhansi Fort, a temple dedicated to which deity is associated with the queen's worship?",
+      "options": ["Lord Shiva", "Goddess Lakshmi (and a Ganesh shrine)", "Lord Vishnu", "Lord Hanuman only"],
+      "answer": 1,
+      "explanation": "The fort contains shrines including one linked to the goddess Lakshmi and a Ganesh temple where the queen is said to have prayed."
+    },
+    {
+      "id": "jhansi-fort-q21",
+      "difficulty": "medium",
+      "q": "The dramatic feat attributed to Rani Lakshmibai during her escape from Jhansi Fort was that she:",
+      "options": ["Leapt from the fort walls on horseback with her adopted son tied to her back", "Tunnelled out through a secret passage", "Swam across a moat", "Disguised herself as a British officer"],
+      "answer": 0,
+      "explanation": "Legend holds that Rani Lakshmibai leapt from the fort ramparts on her horse with her young adopted son bound to her back to escape the siege."
+    },
+    {
+      "id": "jhansi-fort-q22",
+      "difficulty": "medium",
+      "q": "How many gates does Jhansi Fort traditionally have for access?",
+      "options": ["A single gate", "Ten gates", "Twenty-five gates", "No gates, only ladders"],
+      "answer": 1,
+      "explanation": "Jhansi Fort is traditionally said to have ten gates, several of which still survive, such as Khanderao Gate and Datia Darwaza."
+    },
+    {
+      "id": "jhansi-fort-q23",
+      "difficulty": "hard",
+      "q": "What is the name of the large cannon traditionally associated with Jhansi Fort's defence?",
+      "options": ["Jaivana", "Malik-e-Maidan", "Kadak Bijli", "Dhul Ghora"],
+      "answer": 2,
+      "explanation": "Kadak Bijli is the famous cannon said to have been used in the defence of Jhansi Fort during the 1857 revolt."
+    },
+    {
+      "id": "jhansi-fort-q24",
+      "difficulty": "hard",
+      "q": "After the Bundelas, which power controlled Jhansi before it passed effectively under the East India Company?",
+      "options": ["The Sikhs", "The Nizam of Hyderabad", "The Portuguese", "The Marathas"],
+      "answer": 3,
+      "explanation": "Jhansi came under Maratha control in the 18th century, with the Newalkar family governing as subedars before the Company's involvement."
+    },
+    {
+      "id": "jhansi-fort-q25",
+      "difficulty": "hard",
+      "q": "Approximately in which decade did Jhansi rise as a Maratha administrative centre under a subedar?",
+      "options": ["The 1500s", "The 1730s", "The 1880s", "The 1920s"],
+      "answer": 1,
+      "explanation": "In the early-to-mid 18th century (around the 1730s onward) the Marathas established Jhansi as a base, appointing a subedar to govern Bundelkhand."
+    },
+    {
+      "id": "jhansi-fort-q26",
+      "difficulty": "hard",
+      "q": "What is the name of the adopted son in whose name Rani Lakshmibai claimed the throne of Jhansi?",
+      "options": ["Nana Rao", "Rao Sahib", "Damodar Rao", "Bala Sahib"],
+      "answer": 2,
+      "explanation": "Rani Lakshmibai sought recognition for her adopted son Damodar Rao as heir, which the British refused under the Doctrine of Lapse."
+    },
+    {
+      "id": "jhansi-fort-q27",
+      "difficulty": "hard",
+      "q": "Which leader joined forces with Rani Lakshmibai and captured Gwalior fort with her in 1858?",
+      "options": ["Mangal Pandey", "Bahadur Shah Zafar", "Kunwar Singh", "Tatya Tope"],
+      "answer": 3,
+      "explanation": "The Maratha general Tatya Tope allied with Rani Lakshmibai, and together they seized Gwalior shortly before her final battle."
+    },
+    {
+      "id": "jhansi-fort-q28",
+      "difficulty": "hard",
+      "q": "The Hindi poem immortalising Rani Lakshmibai with the line 'Khoob ladi mardani woh to Jhansi wali rani thi' was written by:",
+      "options": ["Subhadra Kumari Chauhan", "Mahadevi Verma", "Sumitranandan Pant", "Suryakant Tripathi Nirala"],
+      "answer": 0,
+      "explanation": "Subhadra Kumari Chauhan wrote the celebrated poem 'Jhansi Ki Rani', whose refrain praises the queen of Jhansi who fought valiantly."
+    },
+    {
+      "id": "jhansi-fort-q29",
+      "difficulty": "hard",
+      "q": "Within the fort grounds stands a memorial board / structure marking events of the revolt; the fort today is maintained by which body?",
+      "options": ["The Indian Railways", "The Archaeological Survey of India", "The Botanical Survey of India", "The Reserve Bank of India"],
+      "answer": 1,
+      "explanation": "Jhansi Fort is a protected monument under the care of the Archaeological Survey of India (ASI)."
+    },
+    {
+      "id": "jhansi-fort-q30",
+      "difficulty": "hard",
+      "q": "Roughly how high is the rocky hill on which Jhansi Fort sits above the surrounding city?",
+      "options": ["Several metres only, barely a mound", "Tens of metres, a prominent rocky elevation", "Over 1,000 metres like a mountain peak", "Below the level of the plain"],
+      "answer": 1,
+      "explanation": "The fort crowns Bangira hill, a prominent rocky elevation rising tens of metres above the city, giving it a commanding defensive position."
+    }
+  ]
+}

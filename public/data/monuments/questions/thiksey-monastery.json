@@ -1,0 +1,245 @@
+{
+  "cardId": "thiksey-monastery",
+  "questions": [
+    {
+      "id": "thiksey-monastery-q01",
+      "difficulty": "easy",
+      "q": "In which Indian union territory is Thiksey Monastery located?",
+      "options": ["Sikkim", "Ladakh", "Himachal Pradesh", "Arunachal Pradesh"],
+      "answer": 1,
+      "explanation": "Thiksey Monastery is situated in the Ladakh region, which became a union territory of India in 2019."
+    },
+    {
+      "id": "thiksey-monastery-q02",
+      "difficulty": "easy",
+      "q": "Thiksey Monastery lies near which town, the historic capital of Ladakh?",
+      "options": ["Kargil", "Leh", "Shimla", "Gangtok"],
+      "answer": 1,
+      "explanation": "Thiksey is located about 19 km east of Leh, the main town of the Ladakh region."
+    },
+    {
+      "id": "thiksey-monastery-q03",
+      "difficulty": "easy",
+      "q": "Thiksey Monastery is a centre of which religion?",
+      "options": ["Jainism", "Hinduism", "Buddhism", "Sikhism"],
+      "answer": 2,
+      "explanation": "Thiksey is a Tibetan Buddhist monastery, known locally as a gompa."
+    },
+    {
+      "id": "thiksey-monastery-q04",
+      "difficulty": "easy",
+      "q": "Thiksey Monastery is famous for resembling which Tibetan landmark, earning it a popular nickname?",
+      "options": ["The Potala Palace", "The Jokhang Temple", "Mount Kailash", "The Taj Mahal"],
+      "answer": 0,
+      "explanation": "Its tiered, terraced structure on a hilltop resembles the Potala Palace in Lhasa, giving it the nickname 'Mini Potala' or 'Little Potala'."
+    },
+    {
+      "id": "thiksey-monastery-q05",
+      "difficulty": "easy",
+      "q": "Thiksey Monastery houses a giant statue of which future Buddha?",
+      "options": ["Amitabha", "Vairochana", "Maitreya", "Akshobhya"],
+      "answer": 2,
+      "explanation": "Thiksey is renowned for its large statue of Maitreya, the future Buddha."
+    },
+    {
+      "id": "thiksey-monastery-q06",
+      "difficulty": "easy",
+      "q": "On what kind of terrain is Thiksey Monastery built?",
+      "options": ["On a hilltop", "On a riverbank island", "Underground in caves", "On a desert plain"],
+      "answer": 0,
+      "explanation": "Thiksey is built on a hill, with its buildings rising in tiers up the slope above the Indus valley."
+    },
+    {
+      "id": "thiksey-monastery-q07",
+      "difficulty": "easy",
+      "q": "Thiksey Monastery overlooks the valley of which major river?",
+      "options": ["The Ganga", "The Yamuna", "The Indus", "The Brahmaputra"],
+      "answer": 2,
+      "explanation": "Thiksey stands above the floodplain of the Indus River as it flows through Ladakh."
+    },
+    {
+      "id": "thiksey-monastery-q08",
+      "difficulty": "easy",
+      "q": "What is a Tibetan Buddhist monastery like Thiksey commonly called?",
+      "options": ["Vihara", "Gompa", "Mandir", "Gurudwara"],
+      "answer": 1,
+      "explanation": "Tibetan Buddhist monasteries such as Thiksey are known as gompas."
+    },
+    {
+      "id": "thiksey-monastery-q09",
+      "difficulty": "easy",
+      "q": "Thiksey Monastery is a popular site for which kind of visitor activity?",
+      "options": ["Surfing", "Tourism and pilgrimage", "Skiing competitions", "Wildlife safaris"],
+      "answer": 1,
+      "explanation": "As one of Ladakh's largest and most picturesque gompas, Thiksey is a major destination for tourists and Buddhist pilgrims."
+    },
+    {
+      "id": "thiksey-monastery-q10",
+      "difficulty": "easy",
+      "q": "The Maitreya statue at Thiksey was installed to commemorate a visit by which religious leader?",
+      "options": ["The Pope", "The Dalai Lama", "The Shankaracharya", "The Sikh Guru"],
+      "answer": 1,
+      "explanation": "The two-storey Maitreya statue was built to mark a visit by the 14th Dalai Lama to Thiksey."
+    },
+    {
+      "id": "thiksey-monastery-q11",
+      "difficulty": "medium",
+      "q": "To which order, or school, of Tibetan Buddhism does Thiksey Monastery belong?",
+      "options": ["Nyingma", "Sakya", "Gelug (Yellow Hat)", "Kagyu"],
+      "answer": 2,
+      "explanation": "Thiksey belongs to the Gelug or 'Yellow Hat' order, the school headed by the Dalai Lama."
+    },
+    {
+      "id": "thiksey-monastery-q12",
+      "difficulty": "medium",
+      "q": "Roughly how many storeys tall is the Maitreya Buddha statue at Thiksey?",
+      "options": ["About 15 metres, spanning two storeys", "About 1 metre", "Over 100 metres", "Exactly 50 metres"],
+      "answer": 0,
+      "explanation": "The seated Maitreya statue is about 15 metres (around 49 feet) high, rising through two storeys of the building."
+    },
+    {
+      "id": "thiksey-monastery-q13",
+      "difficulty": "medium",
+      "q": "In which century was Thiksey Monastery founded?",
+      "options": ["8th century", "15th century", "19th century", "20th century"],
+      "answer": 1,
+      "explanation": "Thiksey gompa was established in the 15th century, in the 1430s."
+    },
+    {
+      "id": "thiksey-monastery-q14",
+      "difficulty": "medium",
+      "q": "Thiksey Monastery is closely associated with the lineage of which other famous Gelug monastery near Leh?",
+      "options": ["Hemis", "Spituk", "Alchi", "Lamayuru"],
+      "answer": 1,
+      "explanation": "Of the options, only Spituk is a Gelug (Yellow Hat) monastery near Leh, like Thiksey; both were established on the right bank of the Indus and Thiksey came to supervise Spituk and other Gelug gompas in central Ladakh. (Hemis and Lamayuru are Kagyu.)"
+    },
+    {
+      "id": "thiksey-monastery-q15",
+      "difficulty": "medium",
+      "q": "The colourful annual festival held at Thiksey, featuring masked dances, is known as what?",
+      "options": ["Gustor", "Holi", "Onam", "Pongal"],
+      "answer": 0,
+      "explanation": "Thiksey hosts the Gustor festival, where monks perform sacred masked 'cham' dances."
+    },
+    {
+      "id": "thiksey-monastery-q16",
+      "difficulty": "medium",
+      "q": "What is the masked ritual dance performed by monks during Thiksey's festival called?",
+      "options": ["Cham", "Kathak", "Bhangra", "Garba"],
+      "answer": 0,
+      "explanation": "Monks perform the 'cham', a ritual masked dance enacting the triumph of good over evil."
+    },
+    {
+      "id": "thiksey-monastery-q17",
+      "difficulty": "medium",
+      "q": "Approximately at what elevation does Thiksey Monastery sit?",
+      "options": ["Around sea level", "Around 500 metres", "Around 3,600 metres", "Around 8,000 metres"],
+      "answer": 2,
+      "explanation": "Thiksey stands at roughly 3,600 metres above sea level in the high-altitude Ladakh region."
+    },
+    {
+      "id": "thiksey-monastery-q18",
+      "difficulty": "medium",
+      "q": "Which of these structures is a prominent feature of the Thiksey complex?",
+      "options": ["A Mughal-style charbagh garden", "A multi-storey Maitreya temple", "A Gothic cathedral spire", "A stepwell"],
+      "answer": 1,
+      "explanation": "A defining feature of Thiksey is its dedicated multi-storey temple housing the giant Maitreya statue."
+    },
+    {
+      "id": "thiksey-monastery-q19",
+      "difficulty": "medium",
+      "q": "Besides monks, who else traditionally lives within the Thiksey monastic complex?",
+      "options": ["Nuns in an associated convent", "A royal family", "British soldiers", "Hindu priests"],
+      "answer": 0,
+      "explanation": "Thiksey includes an associated nunnery, so Buddhist nuns also live as part of the wider complex."
+    },
+    {
+      "id": "thiksey-monastery-q20",
+      "difficulty": "medium",
+      "q": "What kind of imagery covers the interior walls of Thiksey's prayer halls?",
+      "options": ["Mughal miniature hunting scenes", "Buddhist murals and thangka paintings", "Christian frescoes", "Abstract modern art"],
+      "answer": 1,
+      "explanation": "The halls are decorated with Buddhist murals, statues, and thangka (cloth scroll) paintings of deities and lamas."
+    },
+    {
+      "id": "thiksey-monastery-q21",
+      "difficulty": "medium",
+      "q": "What is the predominant colour scheme of Thiksey's tiered buildings?",
+      "options": ["All black marble", "White, ochre/red and dark-red bands", "Bright blue glass", "Plain grey concrete"],
+      "answer": 1,
+      "explanation": "Like the Potala it resembles, Thiksey's buildings are washed in white with ochre and deep-red bands typical of Tibetan gompas."
+    },
+    {
+      "id": "thiksey-monastery-q22",
+      "difficulty": "medium",
+      "q": "What does a 'gompa' such as Thiksey primarily function as?",
+      "options": ["A trading post", "A fortified monastery and place of learning", "A royal tomb", "A water reservoir"],
+      "answer": 1,
+      "explanation": "A gompa is a fortified Tibetan Buddhist monastery that serves as a centre of worship, learning, and community life."
+    },
+    {
+      "id": "thiksey-monastery-q23",
+      "difficulty": "hard",
+      "q": "The Maitreya statue at Thiksey was completed and consecrated in which decade?",
+      "options": ["The 1810s", "The 1900s", "The 1980s", "The 2010s"],
+      "answer": 2,
+      "explanation": "Built to commemorate the 14th Dalai Lama's 1970 visit, the giant Maitreya statue and its temple were completed and consecrated in 1980, in the 1980s."
+    },
+    {
+      "id": "thiksey-monastery-q24",
+      "difficulty": "hard",
+      "q": "Thiksey Monastery is traditionally said to have been founded by a disciple of which Tibetan Buddhist reformer?",
+      "options": ["Padmasambhava", "Tsongkhapa", "Milarepa", "Atisha"],
+      "answer": 1,
+      "explanation": "Thiksey belongs to the Gelug school founded by the reformer Je Tsongkhapa, and its founders were within his lineage."
+    },
+    {
+      "id": "thiksey-monastery-q25",
+      "difficulty": "hard",
+      "q": "In which posture is the famous Maitreya statue at Thiksey depicted?",
+      "options": ["Reclining", "Seated", "Standing on one leg", "Lying face-down"],
+      "answer": 1,
+      "explanation": "The Maitreya at Thiksey is shown seated, rising through two storeys of its specially built temple."
+    },
+    {
+      "id": "thiksey-monastery-q26",
+      "difficulty": "hard",
+      "q": "Which protective female deity has a dedicated shrine (a 'Tara' temple) within Thiksey?",
+      "options": ["Saraswati", "Tara", "Lakshmi", "Kali"],
+      "answer": 1,
+      "explanation": "Thiksey contains a temple dedicated to the goddess Tara, with images of her many emanations."
+    },
+    {
+      "id": "thiksey-monastery-q27",
+      "difficulty": "hard",
+      "q": "How many storeys does the main hilltop complex of Thiksey rise to, by common description?",
+      "options": ["Two storeys", "Around twelve storeys", "Around fifty storeys", "A single storey"],
+      "answer": 1,
+      "explanation": "Thiksey's complex is commonly described as rising about twelve storeys up the hillside, mirroring the Potala's tiered form."
+    },
+    {
+      "id": "thiksey-monastery-q28",
+      "difficulty": "hard",
+      "q": "Thiksey is generally regarded as the largest gompa in which part of Ladakh?",
+      "options": ["The Nubra Valley", "Central Ladakh / the Leh district", "The Zanskar valley only", "The Kargil district"],
+      "answer": 1,
+      "explanation": "Thiksey is often cited as the largest gompa in central Ladakh, in the area around Leh."
+    },
+    {
+      "id": "thiksey-monastery-q29",
+      "difficulty": "hard",
+      "q": "What sacred objects are kept at Thiksey that visitors may turn while circumambulating?",
+      "options": ["Prayer wheels", "Cannon balls", "Sundials", "Hourglasses"],
+      "answer": 0,
+      "explanation": "Like other Tibetan gompas, Thiksey has rows of prayer wheels inscribed with mantras that devotees spin clockwise."
+    },
+    {
+      "id": "thiksey-monastery-q30",
+      "difficulty": "hard",
+      "q": "Which feature of Thiksey allows monks to begin the day with rituals, music and the blowing of long horns?",
+      "options": ["A morning prayer assembly in the dukhang (assembly hall)", "A daily marketplace", "A military parade", "A boat procession on the Indus"],
+      "answer": 0,
+      "explanation": "Thiksey's monks gather at dawn in the dukhang (main assembly hall) for prayers accompanied by drums, cymbals and long horns (dungchen)."
+    }
+  ]
+}

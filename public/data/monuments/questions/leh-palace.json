@@ -1,0 +1,245 @@
+{
+  "cardId": "leh-palace",
+  "questions": [
+    {
+      "id": "leh-palace-q01",
+      "difficulty": "easy",
+      "q": "In which town does Leh Palace stand?",
+      "options": ["Srinagar", "Jammu", "Kargil", "Leh"],
+      "answer": 3,
+      "explanation": "Leh Palace overlooks the town of Leh, the historic capital of the Ladakh region."
+    },
+    {
+      "id": "leh-palace-q02",
+      "difficulty": "easy",
+      "q": "In which present-day Union Territory is Leh Palace located?",
+      "options": ["Ladakh", "Himachal Pradesh", "Jammu and Kashmir", "Uttarakhand"],
+      "answer": 0,
+      "explanation": "Leh lies in Ladakh, which became a separate Union Territory of India in 2019."
+    },
+    {
+      "id": "leh-palace-q03",
+      "difficulty": "easy",
+      "q": "How many storeys tall is Leh Palace?",
+      "options": ["Five", "Seven", "Nine", "Twelve"],
+      "answer": 2,
+      "explanation": "Leh Palace is a nine-storey structure, one of the tallest buildings of its era in the region."
+    },
+    {
+      "id": "leh-palace-q04",
+      "difficulty": "easy",
+      "q": "In which century was Leh Palace built?",
+      "options": ["13th century", "15th century", "17th century", "19th century"],
+      "answer": 2,
+      "explanation": "Leh Palace was constructed in the 17th century, in the early 1600s."
+    },
+    {
+      "id": "leh-palace-q05",
+      "difficulty": "easy",
+      "q": "Which famous Tibetan building is Leh Palace said to resemble?",
+      "options": ["The Jokhang Temple", "The Tashilhunpo Monastery", "The Sera Monastery", "The Potala Palace in Lhasa"],
+      "answer": 3,
+      "explanation": "Leh Palace is often described as a smaller model of the Potala Palace in Lhasa, Tibet."
+    },
+    {
+      "id": "leh-palace-q06",
+      "difficulty": "easy",
+      "q": "Leh Palace was built as a royal residence for the rulers of which kingdom?",
+      "options": ["The Kingdom of Sikkim", "The Kingdom of Mustang", "The Kingdom of Ladakh", "The Kingdom of Bhutan"],
+      "answer": 2,
+      "explanation": "It served as the royal palace of the kings of Ladakh, the Namgyal dynasty."
+    },
+    {
+      "id": "leh-palace-q07",
+      "difficulty": "easy",
+      "q": "What kind of structure is Leh Palace?",
+      "options": ["A temple", "A modern hotel", "A military barracks", "A former royal palace"],
+      "answer": 3,
+      "explanation": "Leh Palace is a former royal palace of the Ladakhi kings, now a heritage monument."
+    },
+    {
+      "id": "leh-palace-q08",
+      "difficulty": "easy",
+      "q": "Leh Palace is built on the slope of which hill above the town?",
+      "options": ["Tsemo (Namgyal) hill", "Khardung hill", "Stok hill", "Spituk hill"],
+      "answer": 0,
+      "explanation": "The palace sits on Tsemo hill, also called Namgyal hill, rising above old Leh."
+    },
+    {
+      "id": "leh-palace-q09",
+      "difficulty": "easy",
+      "q": "Which Indian government body is responsible for the conservation of Leh Palace?",
+      "options": ["UNESCO", "The Indian Army", "The Archaeological Survey of India (ASI)", "The Forest Department"],
+      "answer": 2,
+      "explanation": "The Archaeological Survey of India maintains and restores Leh Palace as a protected monument."
+    },
+    {
+      "id": "leh-palace-q10",
+      "difficulty": "easy",
+      "q": "Leh Palace lies along which historic trade network?",
+      "options": ["The Grand Trunk Road", "The Spice Route of Kerala", "The Coromandel Coast route", "The Silk Road trade routes"],
+      "answer": 3,
+      "explanation": "Leh was a key trading hub on caravan routes linking the Silk Road, with goods passing between India, Tibet, and Central Asia."
+    },
+    {
+      "id": "leh-palace-q11",
+      "difficulty": "medium",
+      "q": "Which Ladakhi king is credited with building Leh Palace?",
+      "options": ["Jamyang Namgyal", "Deldan Namgyal", "Tashi Namgyal", "Sengge Namgyal"],
+      "answer": 3,
+      "explanation": "Leh Palace was built by King Sengge Namgyal, one of the most powerful rulers of the Namgyal dynasty."
+    },
+    {
+      "id": "leh-palace-q12",
+      "difficulty": "medium",
+      "q": "To which ruling dynasty did the builder of Leh Palace belong?",
+      "options": ["The Namgyal dynasty", "The Dogra dynasty", "The Kushan dynasty", "The Maurya dynasty"],
+      "answer": 0,
+      "explanation": "Sengge Namgyal belonged to the Namgyal dynasty, which ruled Ladakh from the 15th to the 19th century."
+    },
+    {
+      "id": "leh-palace-q13",
+      "difficulty": "medium",
+      "q": "Sengge Namgyal, builder of Leh Palace, is sometimes given which epithet?",
+      "options": ["The Lion King of Ladakh", "The Sun King", "The Desert Fox", "The Great Mughal"],
+      "answer": 0,
+      "explanation": "Sengge means 'lion' in Tibetan, and he is often called the 'Lion King' of Ladakh."
+    },
+    {
+      "id": "leh-palace-q14",
+      "difficulty": "medium",
+      "q": "What are the thick walls of Leh Palace primarily made of?",
+      "options": ["Marble and granite", "Red sandstone", "Reinforced concrete", "Stone, mud-brick, and timber"],
+      "answer": 3,
+      "explanation": "The palace was built using locally available stone, sun-dried mud bricks, and wood, typical of Tibetan-Himalayan architecture."
+    },
+    {
+      "id": "leh-palace-q15",
+      "difficulty": "medium",
+      "q": "Why did the Ladakhi royal family eventually abandon Leh Palace?",
+      "options": ["A great fire destroyed it", "They were defeated and forced to leave by Dogra forces in the 19th century", "It sank into the ground", "It was sold to traders"],
+      "answer": 1,
+      "explanation": "The royal family abandoned the palace in the 19th century after the Dogra conquest of Ladakh under Zorawar Singh."
+    },
+    {
+      "id": "leh-palace-q16",
+      "difficulty": "medium",
+      "q": "After leaving Leh Palace, the Ladakhi royal family relocated to a palace in which nearby village?",
+      "options": ["Hemis", "Alchi", "Nubra", "Stok"],
+      "answer": 3,
+      "explanation": "The Namgyal family moved to Stok Palace, across the Indus, which remains associated with the family today."
+    },
+    {
+      "id": "leh-palace-q17",
+      "difficulty": "medium",
+      "q": "What can visitors enjoy from the upper floors and roof of Leh Palace?",
+      "options": ["A view of the sea", "Sweeping views of Leh town and the surrounding mountains", "A view of the Taj Mahal", "Underground caverns"],
+      "answer": 1,
+      "explanation": "Its hilltop position gives panoramic views over Leh and the distant Stok Kangri and Zanskar ranges."
+    },
+    {
+      "id": "leh-palace-q18",
+      "difficulty": "medium",
+      "q": "Which broad architectural tradition does Leh Palace belong to?",
+      "options": ["Mughal architecture", "Tibetan (Himalayan Buddhist) architecture", "Dravidian temple architecture", "Indo-Saracenic colonial style"],
+      "answer": 1,
+      "explanation": "Leh Palace reflects medieval Tibetan architecture, with sloping walls, flat roofs, and tiered storeys."
+    },
+    {
+      "id": "leh-palace-q19",
+      "difficulty": "medium",
+      "q": "What does Leh Palace house today after restoration?",
+      "options": ["A working royal court", "A railway station", "A shopping mall", "A museum displaying artefacts, paintings, and royal objects"],
+      "answer": 3,
+      "explanation": "The restored palace functions as a museum, showing thangkas, old paintings, jewellery, and ceremonial items."
+    },
+    {
+      "id": "leh-palace-q20",
+      "difficulty": "medium",
+      "q": "Leh Palace is overlooked from above by which older fortified structure on the hilltop?",
+      "options": ["The Red Fort", "Tsemo (Namgyal) Fort and its monastery", "Golconda Fort", "Jaisalmer Fort"],
+      "answer": 1,
+      "explanation": "Higher up on the same ridge stand the older Tsemo Fort and the Namgyal Tsemo Gompa."
+    },
+    {
+      "id": "leh-palace-q21",
+      "difficulty": "medium",
+      "q": "What is the dominant religion historically reflected in Leh Palace and its surrounding monuments?",
+      "options": ["Tibetan Buddhism", "Jainism", "Zoroastrianism", "Sikhism"],
+      "answer": 0,
+      "explanation": "Ladakh has long been a centre of Tibetan Buddhism, reflected in the palace's prayer rooms and nearby gompas."
+    },
+    {
+      "id": "leh-palace-q22",
+      "difficulty": "medium",
+      "q": "Approximately at what altitude does Leh, the setting of the palace, lie?",
+      "options": ["Around 500 metres", "Around 1,500 metres", "Around 3,500 metres", "Around 6,000 metres"],
+      "answer": 2,
+      "explanation": "Leh sits at roughly 3,500 metres above sea level, making the palace one of the highest in India."
+    },
+    {
+      "id": "leh-palace-q23",
+      "difficulty": "hard",
+      "q": "Around which years was Leh Palace constructed?",
+      "options": ["The 1340s", "The 1550s", "The early 1600s", "The 1750s"],
+      "answer": 2,
+      "explanation": "Construction is generally dated to the early seventeenth century, around the 1600s to 1620s, during Sengge Namgyal's reign."
+    },
+    {
+      "id": "leh-palace-q24",
+      "difficulty": "hard",
+      "q": "Which monastery, also linked to Sengge Namgyal's patronage, became the largest in Ladakh?",
+      "options": ["Hemis Monastery", "Tabo Monastery", "Rumtek Monastery", "Tawang Monastery"],
+      "answer": 0,
+      "explanation": "Sengge Namgyal was a great patron of Buddhism and is associated with Hemis Monastery, the largest gompa in Ladakh."
+    },
+    {
+      "id": "leh-palace-q25",
+      "difficulty": "hard",
+      "q": "Who was the father of Sengge Namgyal, the king who built Leh Palace?",
+      "options": ["Jamyang Namgyal", "Deldan Namgyal", "Nyima Namgyal", "Tsewang Namgyal"],
+      "answer": 0,
+      "explanation": "Sengge Namgyal was the son of King Jamyang Namgyal of the Namgyal dynasty."
+    },
+    {
+      "id": "leh-palace-q26",
+      "difficulty": "hard",
+      "q": "The Dogra general who conquered Ladakh and helped end royal use of Leh Palace was named?",
+      "options": ["Zorawar Singh", "Gulab Singh", "Hari Singh", "Ranjit Singh"],
+      "answer": 0,
+      "explanation": "General Zorawar Singh led the Dogra conquest of Ladakh in the 1830s-1840s, ending Namgyal rule from Leh."
+    },
+    {
+      "id": "leh-palace-q27",
+      "difficulty": "hard",
+      "q": "Which design feature helped Leh Palace withstand the region's earthquakes and harsh climate?",
+      "options": ["Steel reinforcement", "Tapered (inward-sloping) thick walls", "Floating foundations", "Glass curtain walls"],
+      "answer": 1,
+      "explanation": "Like the Potala, its massive walls taper inward as they rise, giving stability against tremors and the cold desert climate."
+    },
+    {
+      "id": "leh-palace-q28",
+      "difficulty": "hard",
+      "q": "What was the historic role of Leh, the town below the palace, in regional commerce?",
+      "options": ["A coastal fishing port", "A major caravan trading centre between India, Tibet, and Central Asia", "A diamond-mining settlement", "A tea-plantation hub"],
+      "answer": 1,
+      "explanation": "Leh was a thriving caravan crossroads where traders exchanged pashmina, salt, grain, and goods across the Himalayas."
+    },
+    {
+      "id": "leh-palace-q29",
+      "difficulty": "hard",
+      "q": "Which river valley does the Leh region, home to the palace, sit within?",
+      "options": ["The Ganges valley", "The Indus valley", "The Brahmaputra valley", "The Narmada valley"],
+      "answer": 1,
+      "explanation": "Leh lies in the upper Indus river valley, with the Indus flowing through Ladakh near the town."
+    },
+    {
+      "id": "leh-palace-q30",
+      "difficulty": "hard",
+      "q": "What status does Leh Palace hold with respect to UNESCO World Heritage listing?",
+      "options": ["It is a UNESCO World Heritage Site", "It is a protected ASI monument but not a UNESCO World Heritage Site", "It was delisted by UNESCO in 2010", "It is jointly listed with the Taj Mahal"],
+      "answer": 1,
+      "explanation": "Leh Palace is a nationally protected monument under the ASI but has not been inscribed as a UNESCO World Heritage Site."
+    }
+  ]
+}

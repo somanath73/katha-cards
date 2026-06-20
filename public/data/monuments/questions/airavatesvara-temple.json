@@ -1,0 +1,245 @@
+{
+  "cardId": "airavatesvara-temple",
+  "questions": [
+    {
+      "id": "airavatesvara-temple-q01",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state is the Airavatesvara Temple located?",
+      "options": ["Karnataka", "Tamil Nadu", "Kerala", "Andhra Pradesh"],
+      "answer": 1,
+      "explanation": "The Airavatesvara Temple stands at Darasuram in the Thanjavur district of Tamil Nadu."
+    },
+    {
+      "id": "airavatesvara-temple-q02",
+      "difficulty": "easy",
+      "q": "To which Hindu deity is the Airavatesvara Temple dedicated?",
+      "options": ["Vishnu", "Surya", "Shiva", "Ganesha"],
+      "answer": 2,
+      "explanation": "It is a Shaiva temple dedicated to Lord Shiva, worshipped here as Airavatesvara."
+    },
+    {
+      "id": "airavatesvara-temple-q03",
+      "difficulty": "easy",
+      "q": "In which town or village is the Airavatesvara Temple situated?",
+      "options": ["Darasuram", "Chidambaram", "Madurai", "Srirangam"],
+      "answer": 0,
+      "explanation": "The temple is located at Darasuram, a small town near Kumbakonam in Tamil Nadu."
+    },
+    {
+      "id": "airavatesvara-temple-q04",
+      "difficulty": "easy",
+      "q": "Which ruling dynasty built the Airavatesvara Temple?",
+      "options": ["Pallava", "Pandya", "Hoysala", "Chola"],
+      "answer": 3,
+      "explanation": "The temple was built by the Chola dynasty, master temple-builders of medieval Tamil Nadu."
+    },
+    {
+      "id": "airavatesvara-temple-q05",
+      "difficulty": "easy",
+      "q": "In which century was the Airavatesvara Temple built?",
+      "options": ["12th century", "8th century", "16th century", "18th century"],
+      "answer": 0,
+      "explanation": "The temple was constructed in the 12th century CE during the later Chola period."
+    },
+    {
+      "id": "airavatesvara-temple-q06",
+      "difficulty": "easy",
+      "q": "The Airavatesvara Temple is famously designed in the form of what?",
+      "options": ["A great ship", "A lotus flower", "A giant chariot", "A pyramid"],
+      "answer": 2,
+      "explanation": "The temple's mandapa is shaped like a grand stone chariot, giving it the nickname 'the chariot of Darasuram.'"
+    },
+    {
+      "id": "airavatesvara-temple-q07",
+      "difficulty": "easy",
+      "q": "Which large international heritage organization lists the Airavatesvara Temple as a World Heritage Site?",
+      "options": ["WWF", "UNESCO", "NATO", "WHO"],
+      "answer": 1,
+      "explanation": "The temple is inscribed on the UNESCO World Heritage List as part of the Great Living Chola Temples."
+    },
+    {
+      "id": "airavatesvara-temple-q08",
+      "difficulty": "easy",
+      "q": "The name 'Airavatesvara' is linked to Airavata, the famous white elephant of which deity?",
+      "options": ["Yama", "Agni", "Varuna", "Indra"],
+      "answer": 3,
+      "explanation": "Airavata is the white elephant of Indra, who according to legend worshipped Shiva here, giving the temple its name."
+    },
+    {
+      "id": "airavatesvara-temple-q09",
+      "difficulty": "easy",
+      "q": "The Airavatesvara Temple is built primarily from which material?",
+      "options": ["Stone", "Brick and plaster", "Wood", "Marble inlay"],
+      "answer": 0,
+      "explanation": "Like other Chola temples, it is constructed mainly of stone, chiefly granite and finely carved hard stone."
+    },
+    {
+      "id": "airavatesvara-temple-q10",
+      "difficulty": "easy",
+      "q": "The Airavatesvara Temple is grouped under which collective UNESCO heritage title?",
+      "options": ["The Hill Forts of Rajasthan", "The Group of Monuments at Hampi", "The Great Living Chola Temples", "The Western Ghats"],
+      "answer": 2,
+      "explanation": "It is one of the three Great Living Chola Temples recognized together by UNESCO."
+    },
+    {
+      "id": "airavatesvara-temple-q11",
+      "difficulty": "medium",
+      "q": "Which Chola king is credited with building the Airavatesvara Temple?",
+      "options": ["Rajaraja Chola I", "Rajaraja Chola II", "Rajendra Chola I", "Kulottunga Chola III"],
+      "answer": 1,
+      "explanation": "The temple was built by Rajaraja Chola II in the 12th century."
+    },
+    {
+      "id": "airavatesvara-temple-q12",
+      "difficulty": "medium",
+      "q": "Darasuram, where the temple stands, lies near which historic town famous for temples and brassware?",
+      "options": ["Kanchipuram", "Kumbakonam", "Tirunelveli", "Vellore"],
+      "answer": 1,
+      "explanation": "Darasuram is located close to Kumbakonam, a major temple town in the Thanjavur region."
+    },
+    {
+      "id": "airavatesvara-temple-q13",
+      "difficulty": "medium",
+      "q": "Besides Airavatesvara, which other two temples make up the Great Living Chola Temples?",
+      "options": ["Meenakshi Temple and Ranganathaswamy Temple", "Kailasanathar Temple and Shore Temple", "Brihadisvara Temple at Thanjavur and Brihadisvara Temple at Gangaikonda Cholapuram", "Ekambareswarar Temple and Varadaraja Temple"],
+      "answer": 2,
+      "explanation": "The trio comprises the Brihadisvara temples at Thanjavur and Gangaikonda Cholapuram along with Airavatesvara at Darasuram."
+    },
+    {
+      "id": "airavatesvara-temple-q14",
+      "difficulty": "medium",
+      "q": "What unique acoustic feature is the Airavatesvara Temple celebrated for?",
+      "options": ["A whispering gallery in the dome", "Musical steps that produce sounds when struck", "Echoing wells beneath the floor", "Bells that ring with the wind"],
+      "answer": 1,
+      "explanation": "A short flight of stone steps at the temple is said to produce musical notes, earning the name 'singing steps.'"
+    },
+    {
+      "id": "airavatesvara-temple-q15",
+      "difficulty": "medium",
+      "q": "In which broad architectural tradition was the Airavatesvara Temple built?",
+      "options": ["Nagara (North Indian)", "Dravidian (South Indian)", "Indo-Saracenic", "Kalinga"],
+      "answer": 1,
+      "explanation": "The temple is a refined example of Dravidian architecture characteristic of the Chola dynasty."
+    },
+    {
+      "id": "airavatesvara-temple-q16",
+      "difficulty": "medium",
+      "q": "Approximately how tall is the main vimana (tower over the sanctum) of the Airavatesvara Temple?",
+      "options": ["About 24 metres", "About 66 metres", "About 100 metres", "About 5 metres"],
+      "answer": 0,
+      "explanation": "The vimana rises to roughly 24 metres, more modest in scale than the towering Brihadisvara temples but exquisitely detailed."
+    },
+    {
+      "id": "airavatesvara-temple-q17",
+      "difficulty": "medium",
+      "q": "The temple's front mandapa is sculpted as a chariot drawn by which animals?",
+      "options": ["Lions", "Bulls", "Horses and elephants", "Peacocks"],
+      "answer": 2,
+      "explanation": "The chariot-shaped mandapa is depicted as being drawn by carved horses with elephants flanking the steps."
+    },
+    {
+      "id": "airavatesvara-temple-q18",
+      "difficulty": "medium",
+      "q": "According to legend reflected in the temple's name, who worshipped Shiva here to be cured of a curse?",
+      "options": ["The sun god Surya", "Airavata, the white elephant", "The serpent Vasuki", "The sage Agastya"],
+      "answer": 1,
+      "explanation": "Legend says Airavata, Indra's white elephant, worshipped Shiva here to regain its lost white colour."
+    },
+    {
+      "id": "airavatesvara-temple-q19",
+      "difficulty": "medium",
+      "q": "Which river valley's fertile delta region is the Airavatesvara Temple located in?",
+      "options": ["Krishna", "Godavari", "Kaveri (Cauvery)", "Vaigai"],
+      "answer": 2,
+      "explanation": "Darasuram lies in the Kaveri delta, the heartland of Chola power in Tamil Nadu."
+    },
+    {
+      "id": "airavatesvara-temple-q20",
+      "difficulty": "medium",
+      "q": "The Airavatesvara Temple was added to the UNESCO World Heritage list as an extension in which year?",
+      "options": ["1987", "1995", "2004", "2014"],
+      "answer": 2,
+      "explanation": "It was added in 2004, extending the Great Living Chola Temples site originally inscribed in 1987."
+    },
+    {
+      "id": "airavatesvara-temple-q21",
+      "difficulty": "medium",
+      "q": "What is the name of the consort goddess shrine associated with the Airavatesvara Temple complex?",
+      "options": ["Periya Nayaki (Deivanayaki)", "Meenakshi", "Kamakshi", "Akhilandeswari"],
+      "answer": 0,
+      "explanation": "The goddess is worshipped here as Periya Nayaki Amman (Deivanayaki), housed in a separate shrine."
+    },
+    {
+      "id": "airavatesvara-temple-q22",
+      "difficulty": "medium",
+      "q": "The Airavatesvara Temple is renowned for its intricate carvings of dancers and musicians illustrating which art?",
+      "options": ["Yoga postures", "Bharatanatyam dance poses", "Martial arts", "Astronomy"],
+      "answer": 1,
+      "explanation": "Its panels depict classical dance poses, an important visual record of South Indian dance traditions."
+    },
+    {
+      "id": "airavatesvara-temple-q23",
+      "difficulty": "hard",
+      "q": "Rajaraja Chola II, the temple's builder, was the son of which Chola monarch?",
+      "options": ["Kulottunga Chola I", "Kulottunga Chola II", "Rajendra Chola II", "Athirajendra Chola"],
+      "answer": 1,
+      "explanation": "Rajaraja Chola II was the son of Kulottunga Chola II (and grandson of Vikrama Chola), continuing the dynasty's temple-building tradition."
+    },
+    {
+      "id": "airavatesvara-temple-q24",
+      "difficulty": "hard",
+      "q": "Darasuram, the temple's location, was historically also known by which royal-sounding name?",
+      "options": ["Rajarajapuram", "Gangaikondacholapuram", "Rajarajan Pere", "Pazhaiyarai"],
+      "answer": 0,
+      "explanation": "The settlement was known as Rajarajapuram (or Palaiyarai-area) during the Chola era, linked to royal patronage."
+    },
+    {
+      "id": "airavatesvara-temple-q25",
+      "difficulty": "hard",
+      "q": "A notable carved feature of the temple shows a single sculptural panel that can be read as two different animals depending on the angle. What pairing is this?",
+      "options": ["A lion and a deer", "An elephant and a bull", "A peacock and a snake", "A horse and a fish"],
+      "answer": 1,
+      "explanation": "A famous composite carving at the temple reads as both an elephant and a bull (rishabha) depending on the viewing angle."
+    },
+    {
+      "id": "airavatesvara-temple-q26",
+      "difficulty": "hard",
+      "q": "The 63 Nayanmars (Shaiva saints) are depicted in a notable series at Darasuram. What were the Nayanmars?",
+      "options": ["Chola military generals", "Devotee-saints of Shiva", "Court astronomers", "Temple architects"],
+      "answer": 1,
+      "explanation": "The Nayanmars were 63 revered devotee-saints of Shiva, and their stories are illustrated in carved panels at the temple."
+    },
+    {
+      "id": "airavatesvara-temple-q27",
+      "difficulty": "hard",
+      "q": "The Airavatesvara Temple represents the later Chola style, contrasting with the colossal scale of which earlier Chola temple?",
+      "options": ["Kailasanathar Temple, Kanchipuram", "Brihadisvara Temple, Thanjavur", "Nataraja Temple, Chidambaram", "Shore Temple, Mahabalipuram"],
+      "answer": 1,
+      "explanation": "While the Brihadisvara Temple at Thanjavur emphasizes grand scale, Darasuram showcases delicate, ornate refinement."
+    },
+    {
+      "id": "airavatesvara-temple-q28",
+      "difficulty": "hard",
+      "q": "The temple's main mandapa, carved as a chariot, is specifically known by which Tamil/Sanskrit term for such a hall?",
+      "options": ["Gopuram", "Rajagambhiran tirumandapam", "Garbhagriha", "Pradakshina"],
+      "answer": 1,
+      "explanation": "The chariot-shaped front hall is known as the Rajagambhiran tirumandapam."
+    },
+    {
+      "id": "airavatesvara-temple-q29",
+      "difficulty": "hard",
+      "q": "Which Tamil Nadu state agency, along with the ASI, is involved in the conservation of such Chola temples?",
+      "options": ["Tamil Nadu Hindu Religious and Charitable Endowments Department", "Tamil Nadu Forest Department", "Tamil Nadu Pollution Control Board", "Tamil Nadu Tourism Development Corporation"],
+      "answer": 0,
+      "explanation": "Living temples like Airavatesvara are administered with the Hindu Religious and Charitable Endowments (HR&CE) Department while ASI handles heritage protection."
+    },
+    {
+      "id": "airavatesvara-temple-q30",
+      "difficulty": "hard",
+      "q": "The temple is famed for stone pillars and miniature carvings so fine they are sometimes compared to work in which other medium?",
+      "options": ["Ivory or metalwork", "Glass", "Paper", "Bamboo"],
+      "answer": 0,
+      "explanation": "The exceptionally delicate miniature stone carvings at Darasuram are often likened to intricate ivory or metal craftsmanship."
+    }
+  ]
+}

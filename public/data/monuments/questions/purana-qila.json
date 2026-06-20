@@ -1,0 +1,395 @@
+{
+  "cardId": "purana-qila",
+  "questions": [
+    {
+      "id": "purana-qila-q01",
+      "difficulty": "easy",
+      "q": "In which Indian city does Purana Qila stand?",
+      "options": [
+        "Agra",
+        "Delhi",
+        "Lucknow",
+        "Jaipur"
+      ],
+      "answer": 1,
+      "explanation": "Purana Qila is one of the oldest forts in Delhi, the national capital of India."
+    },
+    {
+      "id": "purana-qila-q02",
+      "difficulty": "easy",
+      "q": "What does the name 'Purana Qila' mean in English?",
+      "options": [
+        "Old Fort",
+        "Red Fort",
+        "Royal Fort",
+        "River Fort"
+      ],
+      "answer": 0,
+      "explanation": "'Purana Qila' literally translates to 'Old Fort', reflecting its status as Delhi's oldest fort."
+    },
+    {
+      "id": "purana-qila-q03",
+      "difficulty": "easy",
+      "q": "Purana Qila is most closely associated with which legendary ancient city believed to have stood on its site?",
+      "options": [
+        "Hastinapura",
+        "Pataliputra",
+        "Ujjain",
+        "Indraprastha"
+      ],
+      "answer": 3,
+      "explanation": "The site of Purana Qila has long been linked with Indraprastha, the legendary capital of the Pandavas from the Mahabharata."
+    },
+    {
+      "id": "purana-qila-q04",
+      "difficulty": "easy",
+      "q": "Which Afghan ruler is credited with much of Purana Qila's construction?",
+      "options": [
+        "Ibrahim Lodi",
+        "Bahlul Lodi",
+        "Sher Shah Suri",
+        "Mahmud of Ghazni"
+      ],
+      "answer": 2,
+      "explanation": "Sher Shah Suri, founder of the Sur dynasty, raised much of the fort during his short reign."
+    },
+    {
+      "id": "purana-qila-q05",
+      "difficulty": "easy",
+      "q": "Which Mughal emperor began work at the Purana Qila site before being driven from power?",
+      "options": [
+        "Humayun",
+        "Akbar",
+        "Babur",
+        "Shah Jahan"
+      ],
+      "answer": 0,
+      "explanation": "Humayun started building on the site, naming his city Dinpanah, before Sher Shah Suri ousted him."
+    },
+    {
+      "id": "purana-qila-q06",
+      "difficulty": "easy",
+      "q": "What was the principal building material used for the walls and gateways of Purana Qila?",
+      "options": [
+        "Sandstone",
+        "White marble",
+        "Baked clay bricks only",
+        "Granite blocks"
+      ],
+      "answer": 0,
+      "explanation": "The fort's massive walls and gates were built largely of sandstone, with some marble inlay accents."
+    },
+    {
+      "id": "purana-qila-q07",
+      "difficulty": "easy",
+      "q": "What name did Humayun give to the city he founded at the Purana Qila site?",
+      "options": [
+        "Dinpanah",
+        "Shahjahanabad",
+        "Tughlaqabad",
+        "Siri"
+      ],
+      "answer": 0,
+      "explanation": "Humayun called his planned city Dinpanah, meaning 'refuge of faith' or 'sanctuary of religion'."
+    },
+    {
+      "id": "purana-qila-q08",
+      "difficulty": "easy",
+      "q": "Which body of water historically bordered Purana Fort, forming part of its defences?",
+      "options": [
+        "The River Ganga",
+        "The Arabian Sea",
+        "The River Yamuna",
+        "Lake Pichola"
+      ],
+      "answer": 2,
+      "explanation": "The fort originally stood beside the Yamuna, whose waters fed its moat and protected its eastern flank."
+    },
+    {
+      "id": "purana-qila-q09",
+      "difficulty": "easy",
+      "q": "The mosque inside Purana Qila built by Sher Shah Suri is known by what name?",
+      "options": [
+        "Jama Masjid",
+        "Moti Masjid",
+        "Qila-i-Kuhna Mosque",
+        "Quwwat-ul-Islam Mosque"
+      ],
+      "answer": 2,
+      "explanation": "The Qila-i-Kuhna Masjid, built by Sher Shah Suri, is the principal mosque within Purana Qila."
+    },
+    {
+      "id": "purana-qila-q10",
+      "difficulty": "easy",
+      "q": "Roughly how many large gateways give access to Purana Qila?",
+      "options": [
+        "Three",
+        "One",
+        "Seven",
+        "Twelve"
+      ],
+      "answer": 0,
+      "explanation": "The fort has three main double-storeyed gateways: the Bara Darwaza, the Humayun Gate, and the Talaqi Gate."
+    },
+    {
+      "id": "purana-qila-q11",
+      "difficulty": "medium",
+      "q": "What is the name of the octagonal tower at Purana Qila linked to Humayun's death?",
+      "options": [
+        "Chand Minar",
+        "Sher Mandal",
+        "Qutb Minar",
+        "Hawa Mahal"
+      ],
+      "answer": 1,
+      "explanation": "The Sher Mandal, a red sandstone octagonal tower, is said to have served as Humayun's library and the place of his fatal fall."
+    },
+    {
+      "id": "purana-qila-q12",
+      "difficulty": "medium",
+      "q": "How is the Mughal emperor Humayun believed to have died at Purana Qila?",
+      "options": [
+        "Poisoned at a banquet",
+        "Killed in battle",
+        "Fell down the steps of the Sher Mandal",
+        "Drowned in the moat"
+      ],
+      "answer": 2,
+      "explanation": "Humayun is said to have stumbled and fallen down the stairs of the Sher Mandal, dying of his injuries in 1556."
+    },
+    {
+      "id": "purana-qila-q13",
+      "difficulty": "medium",
+      "q": "The Qila-i-Kuhna Mosque is an early example of which architectural style?",
+      "options": [
+        "Indo-Islamic (Mughal-Afghan) style",
+        "Dravidian temple style",
+        "Indo-Saracenic colonial style",
+        "Greco-Roman style"
+      ],
+      "answer": 0,
+      "explanation": "The mosque blends Afghan and emerging Mughal elements, an Indo-Islamic style noted for its fine arches and inlay."
+    },
+    {
+      "id": "purana-qila-q14",
+      "difficulty": "medium",
+      "q": "Which main gate of Purana Qila is the one used by visitors today?",
+      "options": [
+        "Talaqi Gate",
+        "Bara Darwaza",
+        "Humayun Gate",
+        "Lahori Gate"
+      ],
+      "answer": 1,
+      "explanation": "The Bara Darwaza, or 'Big Gate', on the western side is the entrance used by visitors."
+    },
+    {
+      "id": "purana-qila-q15",
+      "difficulty": "medium",
+      "q": "The Talaqi Darwaza of Purana Qila is popularly translated as which 'forbidden' gate?",
+      "options": [
+        "Gate of Victory",
+        "Gate of Mercy",
+        "Forbidden Gate",
+        "Gate of the Dead"
+      ],
+      "answer": 2,
+      "explanation": "Talaqi Darwaza is commonly rendered as the 'Forbidden Gate', though the origin of the name is uncertain."
+    },
+    {
+      "id": "purana-qila-q16",
+      "difficulty": "medium",
+      "q": "Archaeological excavations at Purana Qila have unearthed Painted Grey Ware, a pottery associated with which period?",
+      "options": [
+        "The Indus Valley Civilization",
+        "The British colonial era",
+        "The Gupta golden age",
+        "The early Vedic / iron-age period"
+      ],
+      "answer": 3,
+      "explanation": "Painted Grey Ware found here points to an iron-age settlement, lending support to the site's deep antiquity."
+    },
+    {
+      "id": "purana-qila-q17",
+      "difficulty": "medium",
+      "q": "During the 1947 Partition, Purana Qila was used for what purpose?",
+      "options": [
+        "A military airbase",
+        "A royal palace",
+        "A prison for freedom fighters",
+        "A refugee camp"
+      ],
+      "answer": 3,
+      "explanation": "After Partition, the fort sheltered thousands of Muslim refugees awaiting migration to Pakistan."
+    },
+    {
+      "id": "purana-qila-q18",
+      "difficulty": "medium",
+      "q": "Which national agency is responsible for the conservation of Purana Qila?",
+      "options": [
+        "The Indian Army",
+        "UNESCO directly",
+        "The Delhi Metro",
+        "The Archaeological Survey of India"
+      ],
+      "answer": 3,
+      "explanation": "The Archaeological Survey of India (ASI) maintains and conserves Purana Qila as a protected monument."
+    },
+    {
+      "id": "purana-qila-q19",
+      "difficulty": "medium",
+      "q": "Sher Shah Suri, the chief builder of Purana Qila, is also famous for which major infrastructure achievement?",
+      "options": [
+        "Building the Taj Mahal",
+        "Founding the city of Jaipur",
+        "Reviving and extending the Grand Trunk Road",
+        "Digging the Suez Canal"
+      ],
+      "answer": 2,
+      "explanation": "Sher Shah Suri is renowned for restoring and extending the Grand Trunk Road and for administrative reforms like the rupiya coin."
+    },
+    {
+      "id": "purana-qila-q20",
+      "difficulty": "medium",
+      "q": "What feature surrounded the walls of Purana Qila for added defence?",
+      "options": [
+        "A dry desert belt",
+        "A water-filled moat",
+        "A wall of thorn hedges",
+        "A ring of watchtowers only"
+      ],
+      "answer": 1,
+      "explanation": "A wide moat, once fed by the Yamuna, ringed the fort's walls as a defensive barrier."
+    },
+    {
+      "id": "purana-qila-q21",
+      "difficulty": "medium",
+      "q": "Approximately how long are the perimeter walls of Purana Qila?",
+      "options": [
+        "About 1.5 kilometres",
+        "About 200 metres",
+        "About 10 kilometres",
+        "About 50 kilometres"
+      ],
+      "answer": 0,
+      "explanation": "The fort's massive ramparts run for roughly 1.5 kilometres around its irregular oblong plan."
+    },
+    {
+      "id": "purana-qila-q22",
+      "difficulty": "medium",
+      "q": "After ousting Humayun, Sher Shah Suri renamed the citadel and his city by what name?",
+      "options": [
+        "Fatehpur",
+        "Shergarh",
+        "Daulatabad",
+        "Jahanpanah"
+      ],
+      "answer": 1,
+      "explanation": "Sher Shah Suri called his new city Shergarh, building over and around Humayun's Dinpanah."
+    },
+    {
+      "id": "purana-qila-q23",
+      "difficulty": "hard",
+      "q": "The Qila-i-Kuhna Mosque is notable for its prayer hall featuring how many arched bays (mihrab arches)?",
+      "options": [
+        "Three",
+        "Seven",
+        "Nine",
+        "Five"
+      ],
+      "answer": 3,
+      "explanation": "The single-aisle prayer hall of the Qila-i-Kuhna Masjid is fronted by five elegant arched openings."
+    },
+    {
+      "id": "purana-qila-q24",
+      "difficulty": "hard",
+      "q": "In which year is Sher Shah Suri generally recorded to have died, leaving Purana Qila partly unfinished?",
+      "options": [
+        "1545",
+        "1526",
+        "1556",
+        "1605"
+      ],
+      "answer": 0,
+      "explanation": "Sher Shah Suri died in 1545 at the siege of Kalinjar, and the fort works were continued by his successors."
+    },
+    {
+      "id": "purana-qila-q25",
+      "difficulty": "hard",
+      "q": "Humayun first occupied the Dinpanah site around which year before losing it to Sher Shah Suri?",
+      "options": [
+        "1498",
+        "1533",
+        "1571",
+        "1602"
+      ],
+      "answer": 1,
+      "explanation": "Humayun laid out Dinpanah around 1533, but Sher Shah Suri drove him out of Delhi within a few years."
+    },
+    {
+      "id": "purana-qila-q26",
+      "difficulty": "hard",
+      "q": "The colour palette of the Qila-i-Kuhna Mosque is admired for combining red sandstone with inlays of which contrasting stones?",
+      "options": [
+        "Green jade and turquoise",
+        "Blue lapis and gold",
+        "Pink quartz and onyx",
+        "Black and white marble"
+      ],
+      "answer": 3,
+      "explanation": "The mosque's arches are richly decorated with red sandstone set off by white and black marble inlay."
+    },
+    {
+      "id": "purana-qila-q27",
+      "difficulty": "hard",
+      "q": "The lake beside Purana Qila, popular for boating today, was originally part of which historical feature?",
+      "options": [
+        "A natural hot spring",
+        "A Mughal pleasure garden pool",
+        "The fort's moat",
+        "A British-era reservoir"
+      ],
+      "answer": 2,
+      "explanation": "The boating lake along the western wall is a surviving stretch of the fort's old defensive moat."
+    },
+    {
+      "id": "purana-qila-q28",
+      "difficulty": "hard",
+      "q": "The Sher Mandal, where Humayun fell, is most often described as having which geometric ground plan?",
+      "options": [
+        "Circular",
+        "Octagonal",
+        "Square",
+        "Cruciform"
+      ],
+      "answer": 1,
+      "explanation": "The Sher Mandal is a two-storeyed octagonal tower of red sandstone topped by an octagonal pavilion."
+    },
+    {
+      "id": "purana-qila-q29",
+      "difficulty": "hard",
+      "q": "Excavations at Purana Qila have revealed a continuous human occupation traced back roughly how many centuries?",
+      "options": [
+        "About 2 centuries",
+        "About 5 centuries",
+        "Only since 1500 CE",
+        "Over 20 centuries"
+      ],
+      "answer": 3,
+      "explanation": "Layers at the site indicate occupation stretching back more than two thousand years, well into the pre-Mauryan era."
+    },
+    {
+      "id": "purana-qila-q30",
+      "difficulty": "hard",
+      "q": "What is the correct status of Purana Qila with respect to UNESCO World Heritage listing?",
+      "options": [
+        "A UNESCO World Heritage Site since 1983",
+        "An ASI-protected monument that is not a UNESCO World Heritage Site",
+        "A UNESCO Natural Heritage Site",
+        "Delisted from UNESCO in 2010"
+      ],
+      "answer": 1,
+      "explanation": "Purana Qila is a nationally protected ASI monument but, unlike Delhi's Red Fort, Qutb Minar, and Humayun's Tomb, it is not on the UNESCO World Heritage list."
+    }
+  ]
+}

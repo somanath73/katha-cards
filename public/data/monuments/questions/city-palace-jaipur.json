@@ -1,0 +1,245 @@
+{
+  "cardId": "city-palace-jaipur",
+  "questions": [
+    {
+      "id": "city-palace-jaipur-q01",
+      "difficulty": "easy",
+      "q": "In which city is the City Palace located?",
+      "options": ["Jodhpur", "Jaipur", "Udaipur", "Bikaner"],
+      "answer": 1,
+      "explanation": "The City Palace complex lies at the heart of Jaipur, the capital of Rajasthan."
+    },
+    {
+      "id": "city-palace-jaipur-q02",
+      "difficulty": "easy",
+      "q": "In which Indian state is the City Palace, Jaipur situated?",
+      "options": ["Gujarat", "Madhya Pradesh", "Rajasthan", "Haryana"],
+      "answer": 2,
+      "explanation": "Jaipur is the capital of the state of Rajasthan in northwestern India."
+    },
+    {
+      "id": "city-palace-jaipur-q03",
+      "difficulty": "easy",
+      "q": "Which ruler began the construction of the City Palace, Jaipur?",
+      "options": ["Sawai Jai Singh II", "Maharana Pratap", "Man Singh I", "Sawai Ram Singh II"],
+      "answer": 0,
+      "explanation": "Sawai Jai Singh II, the founder of Jaipur, began building the City Palace in the early 18th century."
+    },
+    {
+      "id": "city-palace-jaipur-q04",
+      "difficulty": "easy",
+      "q": "The City Palace served as the seat of which kind of ruler?",
+      "options": ["The Maharajas of Jaipur", "The Mughal emperors", "The Nizams of Hyderabad", "The Peshwas"],
+      "answer": 0,
+      "explanation": "The palace was the royal residence and seat of the Maharajas of Jaipur."
+    },
+    {
+      "id": "city-palace-jaipur-q05",
+      "difficulty": "easy",
+      "q": "Jaipur is popularly known by which colour-based nickname?",
+      "options": ["The Blue City", "The Golden City", "The Pink City", "The White City"],
+      "answer": 2,
+      "explanation": "Jaipur is famously called the 'Pink City' for the pink-hued buildings of its old walled town, where the City Palace stands."
+    },
+    {
+      "id": "city-palace-jaipur-q06",
+      "difficulty": "easy",
+      "q": "What does the City Palace primarily function as today, besides being a royal residence?",
+      "options": ["A railway station", "A museum and tourist attraction", "A hospital", "A military barracks"],
+      "answer": 1,
+      "explanation": "A large part of the City Palace is now a museum open to visitors, while the royal family still occupies part of it."
+    },
+    {
+      "id": "city-palace-jaipur-q07",
+      "difficulty": "easy",
+      "q": "The City Palace complex is located near which other famous Jaipur landmark, an astronomical observatory?",
+      "options": ["Jantar Mantar", "Charminar", "Gateway of India", "Victoria Memorial"],
+      "answer": 0,
+      "explanation": "The Jantar Mantar observatory, also built by Jai Singh II, stands right beside the City Palace."
+    },
+    {
+      "id": "city-palace-jaipur-q08",
+      "difficulty": "easy",
+      "q": "Which family is still associated with living in part of the City Palace?",
+      "options": ["The Jaipur royal family", "The Wadiyar family", "The Scindia family", "The Holkar family"],
+      "answer": 0,
+      "explanation": "The erstwhile royal family of Jaipur continues to reside in a portion of the City Palace, such as the Chandra Mahal."
+    },
+    {
+      "id": "city-palace-jaipur-q09",
+      "difficulty": "easy",
+      "q": "The City Palace is broadly built in a style blending Rajput architecture with which other tradition?",
+      "options": ["Mughal", "Gothic", "Byzantine", "Dravidian"],
+      "answer": 0,
+      "explanation": "The complex blends Rajput, Mughal and later European influences in its design."
+    },
+    {
+      "id": "city-palace-jaipur-q10",
+      "difficulty": "easy",
+      "q": "Roughly in which century did construction of the City Palace begin?",
+      "options": ["12th century", "15th century", "18th century", "20th century"],
+      "answer": 2,
+      "explanation": "Construction began in the early 18th century, around the time Jai Singh II founded Jaipur in 1727."
+    },
+    {
+      "id": "city-palace-jaipur-q11",
+      "difficulty": "medium",
+      "q": "In which year is Jaipur generally said to have been founded by Sawai Jai Singh II?",
+      "options": ["1638", "1727", "1799", "1857"],
+      "answer": 1,
+      "explanation": "Sawai Jai Singh II founded Jaipur in 1727, shifting his capital from the older hill fort of Amber."
+    },
+    {
+      "id": "city-palace-jaipur-q12",
+      "difficulty": "medium",
+      "q": "The seven-storey palace within the City Palace complex that houses the royal family is called what?",
+      "options": ["Chandra Mahal", "Hawa Mahal", "Sheesh Mahal", "Rang Mahal"],
+      "answer": 0,
+      "explanation": "The Chandra Mahal ('Moon Palace') is the seven-storey building still occupied by the royal family."
+    },
+    {
+      "id": "city-palace-jaipur-q13",
+      "difficulty": "medium",
+      "q": "What is the name of the public audience hall in the City Palace that displays art and manuscripts?",
+      "options": ["Diwan-i-Aam", "Buland Darwaza", "Sheesh Mahal", "Jharokha"],
+      "answer": 0,
+      "explanation": "The Diwan-i-Aam (Hall of Public Audience) now serves as an art gallery within the palace museum."
+    },
+    {
+      "id": "city-palace-jaipur-q14",
+      "difficulty": "medium",
+      "q": "The City Palace's Diwan-i-Khas is famous for holding two of the world's largest objects of what kind?",
+      "options": ["Bronze cannons", "Sterling silver vessels", "Marble columns", "Gold thrones"],
+      "answer": 1,
+      "explanation": "The Diwan-i-Khas houses two giant silver urns (gangajalis), among the largest silver vessels in the world."
+    },
+    {
+      "id": "city-palace-jaipur-q15",
+      "difficulty": "medium",
+      "q": "Which maharaja reportedly had the giant silver urns made to carry Ganges water to England?",
+      "options": ["Sawai Madho Singh II", "Sawai Jai Singh II", "Man Singh I", "Sawai Pratap Singh"],
+      "answer": 0,
+      "explanation": "Sawai Madho Singh II is said to have had the silver urns made to carry sacred Ganges water for his 1902 voyage to England."
+    },
+    {
+      "id": "city-palace-jaipur-q16",
+      "difficulty": "medium",
+      "q": "Which inner courtyard of the City Palace is famous for its four decorated 'season' gates?",
+      "options": ["Tripolia Gate", "Pritam Niwas Chowk", "Naqqar Khana", "Sireh Deorhi"],
+      "answer": 1,
+      "explanation": "Pritam Niwas Chowk is the inner courtyard with four ornate gates representing the seasons, such as the famous Peacock Gate."
+    },
+    {
+      "id": "city-palace-jaipur-q17",
+      "difficulty": "medium",
+      "q": "The celebrated Peacock Gate in the City Palace's inner courtyard is dedicated to which deity?",
+      "options": ["Shiva", "Vishnu", "Ganesha", "Surya"],
+      "answer": 1,
+      "explanation": "The Peacock Gate, with its vivid peacock motifs, is associated with Lord Vishnu among the four seasonal gates."
+    },
+    {
+      "id": "city-palace-jaipur-q18",
+      "difficulty": "medium",
+      "q": "Before founding Jaipur, the rulers had their capital at which nearby fortified town?",
+      "options": ["Amber (Amer)", "Chittorgarh", "Mehrangarh", "Ranthambore"],
+      "answer": 0,
+      "explanation": "The Kachhwaha rulers moved their capital from Amber (Amer) to the new planned city of Jaipur."
+    },
+    {
+      "id": "city-palace-jaipur-q19",
+      "difficulty": "medium",
+      "q": "Which royal dynasty (clan) did the builders of the City Palace belong to?",
+      "options": ["Sisodia Rajputs", "Kachhwaha Rajputs", "Rathore Rajputs", "Chauhan Rajputs"],
+      "answer": 1,
+      "explanation": "The rulers of Jaipur belonged to the Kachhwaha clan of Rajputs."
+    },
+    {
+      "id": "city-palace-jaipur-q20",
+      "difficulty": "medium",
+      "q": "Sawai Jai Singh II is credited with planning Jaipur according to principles from which ancient Indian treatise?",
+      "options": ["Arthashastra", "Vastu Shastra", "Natya Shastra", "Kama Sutra"],
+      "answer": 1,
+      "explanation": "Jaipur was laid out on a grid based on Vastu Shastra principles of town planning."
+    },
+    {
+      "id": "city-palace-jaipur-q21",
+      "difficulty": "medium",
+      "q": "An architect often credited with helping plan Jaipur and its palace was a Bengali scholar named what?",
+      "options": ["Vidyadhar Bhattacharya", "Mirza Ismail", "Ustad Ahmad Lahori", "Hamida Banu"],
+      "answer": 0,
+      "explanation": "Vidyadhar Bhattacharya is traditionally credited as the chief planner of Jaipur's grid layout and palace."
+    },
+    {
+      "id": "city-palace-jaipur-q22",
+      "difficulty": "medium",
+      "q": "The City Palace's textile and costume museum displays garments belonging to which famously large 18th-century maharaja?",
+      "options": ["Sawai Madho Singh I", "Sawai Jai Singh II", "Sawai Ram Singh II", "Sawai Man Singh II"],
+      "answer": 0,
+      "explanation": "The museum displays the enormous robes of Sawai Madho Singh I, who was said to be of very large stature."
+    },
+    {
+      "id": "city-palace-jaipur-q23",
+      "difficulty": "hard",
+      "q": "The walled city of Jaipur, which contains the City Palace, was inscribed as a UNESCO World Heritage Site in which year?",
+      "options": ["1985", "2004", "2013", "2019"],
+      "answer": 3,
+      "explanation": "The historic walled 'Pink City' of Jaipur was inscribed on the UNESCO World Heritage List in 2019."
+    },
+    {
+      "id": "city-palace-jaipur-q24",
+      "difficulty": "hard",
+      "q": "The honorific 'Sawai' adopted by the Jaipur rulers is said to have been granted by which Mughal emperor to Jai Singh II?",
+      "options": ["Akbar", "Aurangzeb", "Shah Jahan", "Jahangir"],
+      "answer": 1,
+      "explanation": "Tradition holds that the title 'Sawai' (one and a quarter) was conferred on Jai Singh II by the Mughal emperor Aurangzeb."
+    },
+    {
+      "id": "city-palace-jaipur-q25",
+      "difficulty": "hard",
+      "q": "The two enormous silver urns of the City Palace hold the record (per Guinness) as the largest objects of what material?",
+      "options": ["Cast iron objects", "Sterling silver objects", "Hand-blown glass objects", "Solid brass objects"],
+      "answer": 1,
+      "explanation": "Each urn weighs around 340 kg and they are recognised as the world's largest sterling silver vessels."
+    },
+    {
+      "id": "city-palace-jaipur-q26",
+      "difficulty": "hard",
+      "q": "The City Palace gate flanked by a Naqqar Khana (drum house) and leading toward the inner palace is known by which name?",
+      "options": ["Virendra Pol / Sireh Deorhi area", "Buland Darwaza", "Charbagh Gate", "Lahori Gate"],
+      "answer": 0,
+      "explanation": "The main approach passes through gateways such as the Sireh Deorhi and Virendra Pol, near the drum house (Naqqar Khana)."
+    },
+    {
+      "id": "city-palace-jaipur-q27",
+      "difficulty": "hard",
+      "q": "The art gallery in the City Palace is especially noted for a collection of miniature paintings from which school?",
+      "options": ["Rajput and Mughal miniatures", "Tanjore glass painting", "Madhubani folk painting", "Warli tribal painting"],
+      "answer": 0,
+      "explanation": "The palace museum holds a fine collection of Rajput and Mughal miniature paintings and illustrated manuscripts."
+    },
+    {
+      "id": "city-palace-jaipur-q28",
+      "difficulty": "hard",
+      "q": "The Maharaja Sawai Man Singh II Museum, housed in the City Palace, is named after a ruler who later became the first what of Rajasthan?",
+      "options": ["Chief Minister", "Rajpramukh (constitutional head)", "Governor-General", "Speaker"],
+      "answer": 1,
+      "explanation": "Sawai Man Singh II became the Rajpramukh, the constitutional head of the newly formed state of Rajasthan, after 1949."
+    },
+    {
+      "id": "city-palace-jaipur-q29",
+      "difficulty": "hard",
+      "q": "The City Palace armoury (Sileh Khana / Maharani Palace) is famous for displaying a large collection of what?",
+      "options": ["Ancient coins", "Historic weapons and armour", "Royal carriages", "Musical instruments"],
+      "answer": 1,
+      "explanation": "The armoury houses one of the finest collections of historic weapons, swords, daggers and armour in India."
+    },
+    {
+      "id": "city-palace-jaipur-q30",
+      "difficulty": "hard",
+      "q": "Sawai Jai Singh II, who began the City Palace, was renowned not only as a ruler but also as a what?",
+      "options": ["Astronomer and mathematician", "Naval admiral", "Buddhist monk", "Sufi poet"],
+      "answer": 0,
+      "explanation": "Jai Singh II was a noted astronomer and mathematician who built the Jantar Mantar observatories alongside his palace."
+    }
+  ]
+}

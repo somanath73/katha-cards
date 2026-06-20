@@ -1,0 +1,245 @@
+{
+  "cardId": "gwalior-fort",
+  "questions": [
+    {
+      "id": "gwalior-fort-q01",
+      "difficulty": "easy",
+      "q": "In which Indian state is Gwalior Fort located?",
+      "options": ["Rajasthan", "Uttar Pradesh", "Madhya Pradesh", "Maharashtra"],
+      "answer": 2,
+      "explanation": "Gwalior Fort sits above the city of Gwalior in the central Indian state of Madhya Pradesh."
+    },
+    {
+      "id": "gwalior-fort-q02",
+      "difficulty": "easy",
+      "q": "On what kind of terrain is Gwalior Fort built?",
+      "options": ["A river island", "A sandstone hill", "A coastal cliff", "A flat plain"],
+      "answer": 1,
+      "explanation": "The fort crowns a steep, isolated sandstone hill (Gopachal) that rises sharply above the surrounding plain."
+    },
+    {
+      "id": "gwalior-fort-q03",
+      "difficulty": "easy",
+      "q": "By what nickname is Gwalior Fort often known?",
+      "options": ["The Gibraltar of India", "The Golden Fort", "The Pink Fort", "The Sea Fort"],
+      "answer": 0,
+      "explanation": "Because of its formidable, nearly impregnable hilltop position, Gwalior Fort has been called 'the Gibraltar of India'."
+    },
+    {
+      "id": "gwalior-fort-q04",
+      "difficulty": "easy",
+      "q": "Which famous palace inside Gwalior Fort is decorated with blue tiles?",
+      "options": ["Sheesh Mahal", "Diwan-i-Aam", "Rang Mahal", "Man Mandir"],
+      "answer": 3,
+      "explanation": "The Man Mandir palace, built by Raja Man Singh Tomar, is renowned for its bright blue glazed-tile decoration."
+    },
+    {
+      "id": "gwalior-fort-q05",
+      "difficulty": "easy",
+      "q": "Gwalior Fort is best described as which type of structure?",
+      "options": ["A temple complex", "A hilltop fortress", "A royal tomb", "A stepwell"],
+      "answer": 1,
+      "explanation": "Gwalior Fort is a large hilltop fortress containing palaces, temples and water tanks within its walls."
+    },
+    {
+      "id": "gwalior-fort-q06",
+      "difficulty": "easy",
+      "q": "Which Hindu king of the Tomar dynasty built the Man Mandir palace at Gwalior?",
+      "options": ["Raja Man Singh Tomar", "Maharana Pratap", "Prithviraj Chauhan", "Shivaji"],
+      "answer": 0,
+      "explanation": "Raja Man Singh Tomar of the Tomar dynasty built the celebrated Man Mandir palace in the late 15th to early 16th century."
+    },
+    {
+      "id": "gwalior-fort-q07",
+      "difficulty": "easy",
+      "q": "What is the dominant building material of Gwalior Fort's walls and palaces?",
+      "options": ["White marble", "Sandstone", "Red brick", "Black granite"],
+      "answer": 1,
+      "explanation": "The fort and its palaces are built largely of sandstone quarried from the very hill on which it stands."
+    },
+    {
+      "id": "gwalior-fort-q08",
+      "difficulty": "easy",
+      "q": "Inside Gwalior Fort, the Sas Bahu temples are dedicated to which deity?",
+      "options": ["Shiva", "Vishnu", "Surya", "Ganesha"],
+      "answer": 1,
+      "explanation": "The 11th-century Sas Bahu (Sahastrabahu) temples within the fort are dedicated to Vishnu."
+    },
+    {
+      "id": "gwalior-fort-q09",
+      "difficulty": "easy",
+      "q": "Which royal family ruled Gwalior in the 18th to 20th centuries and is closely linked with the fort?",
+      "options": ["The Scindia (Sindhia) family", "The Wadiyar family", "The Holkar family", "The Gaekwad family"],
+      "answer": 0,
+      "explanation": "The Scindia (Sindhia) Maratha rulers governed Gwalior state and held the fort until the modern era."
+    },
+    {
+      "id": "gwalior-fort-q10",
+      "difficulty": "easy",
+      "q": "What feature gives the Man Mandir palace its distinctive colourful appearance?",
+      "options": ["Gold leaf", "Glazed coloured tiles", "Stained glass", "Painted frescoes only"],
+      "answer": 1,
+      "explanation": "Glazed tiles in blue, green and yellow, including motifs of ducks and elephants, decorate the Man Mandir's facade."
+    },
+    {
+      "id": "gwalior-fort-q11",
+      "difficulty": "medium",
+      "q": "Which dynasty did Raja Man Singh, builder of the Man Mandir, belong to?",
+      "options": ["Chandela dynasty", "Pratihara dynasty", "Tomar dynasty", "Kachhwaha dynasty"],
+      "answer": 2,
+      "explanation": "Raja Man Singh, who built the Man Mandir palace, was a ruler of the Tomar (Tomara) dynasty of Gwalior."
+    },
+    {
+      "id": "gwalior-fort-q12",
+      "difficulty": "medium",
+      "q": "The towering Teli Ka Mandir inside Gwalior Fort is notable for what architectural feature?",
+      "options": ["A white marble dome", "A barrel-vaulted Dravidian-style roof", "A leaning minaret", "A glass facade"],
+      "answer": 1,
+      "explanation": "The Teli Ka Mandir is famous for its tall, barrel-vaulted (wagon-roof) shikhara blending North and South Indian styles."
+    },
+    {
+      "id": "gwalior-fort-q13",
+      "difficulty": "medium",
+      "q": "Which Mughal emperor seized Gwalior Fort and used it as a state prison?",
+      "options": ["Akbar", "Aurangzeb", "Shah Jahan", "Babur"],
+      "answer": 1,
+      "explanation": "Gwalior Fort came under Mughal control and was used as a prison; Aurangzeb notably had prisoners, including his brother Murad, held and executed there."
+    },
+    {
+      "id": "gwalior-fort-q14",
+      "difficulty": "medium",
+      "q": "The earliest known inscription mentioning the numeral 'zero' as a written symbol is found in a temple inside which fort?",
+      "options": ["Chittorgarh Fort", "Gwalior Fort", "Golconda Fort", "Daulatabad Fort"],
+      "answer": 1,
+      "explanation": "A 9th-century inscription in the Chaturbhuj temple at Gwalior Fort contains one of the oldest known written uses of zero as a symbol."
+    },
+    {
+      "id": "gwalior-fort-q15",
+      "difficulty": "medium",
+      "q": "Which Sikh Guru was imprisoned at Gwalior Fort and later released, an event commemorated by Sikhs?",
+      "options": ["Guru Nanak", "Guru Hargobind", "Guru Gobind Singh", "Guru Tegh Bahadur"],
+      "answer": 1,
+      "explanation": "Guru Hargobind was held at Gwalior Fort by Jahangir; his release is commemorated by Sikhs, linked with Bandi Chhor Divas."
+    },
+    {
+      "id": "gwalior-fort-q16",
+      "difficulty": "medium",
+      "q": "A gurudwara built inside Gwalior Fort honours which Sikh Guru's captivity there?",
+      "options": ["Guru Hargobind (Data Bandi Chhor)", "Guru Arjan Dev", "Guru Amar Das", "Guru Angad"],
+      "answer": 0,
+      "explanation": "The Gurudwara Data Bandi Chhor inside the fort marks the place where Guru Hargobind was imprisoned and freed."
+    },
+    {
+      "id": "gwalior-fort-q17",
+      "difficulty": "medium",
+      "q": "Which 1857 rebellion leader fought her final battle near Gwalior and died in the area?",
+      "options": ["Begum Hazrat Mahal", "Rani Avantibai", "Begum Zeenat Mahal", "Rani Lakshmibai of Jhansi"],
+      "answer": 3,
+      "explanation": "Rani Lakshmibai of Jhansi captured Gwalior during the 1857 uprising and was killed fighting British forces near the fort."
+    },
+    {
+      "id": "gwalior-fort-q18",
+      "difficulty": "medium",
+      "q": "The Sas Bahu temples in Gwalior Fort were built during which period?",
+      "options": ["Around the 11th century CE", "Around the 17th century CE", "Around the 3rd century BCE", "Around the 19th century CE"],
+      "answer": 0,
+      "explanation": "The Sas Bahu (Sahastrabahu) temples date to roughly the 11th century CE, built under the Kachchhapaghata rulers."
+    },
+    {
+      "id": "gwalior-fort-q19",
+      "difficulty": "medium",
+      "q": "What are the large rock-cut figures carved into the cliffs around Gwalior Fort?",
+      "options": ["Buddhist stupas", "Jain Tirthankara statues", "Hindu Nataraja reliefs", "Mughal calligraphy panels"],
+      "answer": 1,
+      "explanation": "The fort hill is famous for colossal rock-cut Jain Tirthankara statues carved into the cliff faces (the Gopachal and Siddhachal groups)."
+    },
+    {
+      "id": "gwalior-fort-q20",
+      "difficulty": "medium",
+      "q": "Which legendary king is traditionally credited with founding Gwalior and giving it its name?",
+      "options": ["Suraj Sen (Suraj Pal)", "Harshavardhana", "Samudragupta", "Bimbisara"],
+      "answer": 0,
+      "explanation": "Local legend credits King Suraj Sen, cured by the sage Gwalipa, with founding the fort and naming the city Gwalior."
+    },
+    {
+      "id": "gwalior-fort-q21",
+      "difficulty": "medium",
+      "q": "The Gujari Mahal within Gwalior Fort was built by Raja Man Singh for his queen and now serves as what?",
+      "options": ["A military barracks", "An archaeological museum", "A railway station", "A working temple"],
+      "answer": 1,
+      "explanation": "The Gujari Mahal, built for Queen Mrignayani, today houses an archaeological museum displaying sculptures and antiquities."
+    },
+    {
+      "id": "gwalior-fort-q22",
+      "difficulty": "medium",
+      "q": "Approximately how tall do the sandstone walls and ramparts of Gwalior Fort rise above the plain at the hill's edge?",
+      "options": ["About 3 metres", "About 35 metres or more", "About 200 metres", "About 500 metres"],
+      "answer": 1,
+      "explanation": "The fort sits atop sheer cliffs, with walls and the rock face rising tens of metres (roughly 35 m and more) above the plain."
+    },
+    {
+      "id": "gwalior-fort-q23",
+      "difficulty": "hard",
+      "q": "For which queen did Raja Man Singh Tomar build the Gujari Mahal?",
+      "options": ["Mumtaz Mahal", "Mrignayani", "Jodha Bai", "Noor Jahan"],
+      "answer": 1,
+      "explanation": "Raja Man Singh Tomar (reigned 1486-1516) built the Gujari Mahal for his beloved Gujar queen, Mrignayani."
+    },
+    {
+      "id": "gwalior-fort-q24",
+      "difficulty": "hard",
+      "q": "The famous inscription with one of the earliest recorded zeros at Gwalior Fort dates to roughly which year?",
+      "options": ["Around 876 CE", "Around 1200 CE", "Around 1526 CE", "Around 320 BCE"],
+      "answer": 0,
+      "explanation": "The Chaturbhuj temple inscription, recording a garden's dimensions with the symbol for zero, is dated to about 876 CE."
+    },
+    {
+      "id": "gwalior-fort-q25",
+      "difficulty": "hard",
+      "q": "Which dynasty is generally credited with constructing the Sas Bahu temples at Gwalior?",
+      "options": ["Tughlaq dynasty", "Maurya dynasty", "Kachchhapaghata dynasty", "Satavahana dynasty"],
+      "answer": 2,
+      "explanation": "The Sas Bahu temples were built in the 11th century under the Kachchhapaghata rulers of the Gwalior region."
+    },
+    {
+      "id": "gwalior-fort-q26",
+      "difficulty": "hard",
+      "q": "Mughal emperor Babur, in his memoirs, objected to and ordered the partial defacing of which features at Gwalior?",
+      "options": ["The blue tiles of Man Mandir", "The colossal Jain rock-cut statues", "The Sas Bahu carvings", "The Teli Ka Mandir roof"],
+      "answer": 1,
+      "explanation": "Babur recorded the great naked Jain rock idols at Gwalior in the Baburnama, objected to them, and ordered some of them defaced."
+    },
+    {
+      "id": "gwalior-fort-q27",
+      "difficulty": "hard",
+      "q": "The Teli Ka Mandir at Gwalior is dedicated primarily to which deity?",
+      "options": ["Surya", "Durga", "Brahma", "Vishnu"],
+      "answer": 3,
+      "explanation": "The Teli Ka Mandir, the tallest structure in the fort, is generally regarded as a temple dedicated to Vishnu."
+    },
+    {
+      "id": "gwalior-fort-q28",
+      "difficulty": "hard",
+      "q": "Roughly how tall is the Teli Ka Mandir, the tallest building inside Gwalior Fort?",
+      "options": ["About 10 metres", "About 30 metres", "About 60 metres", "About 90 metres"],
+      "answer": 1,
+      "explanation": "The Teli Ka Mandir rises to about 30 metres (roughly 100 feet), making it the tallest structure in the fort."
+    },
+    {
+      "id": "gwalior-fort-q29",
+      "difficulty": "hard",
+      "q": "After capturing Gwalior in 1857, the rebel leaders proclaimed which Maratha figure as their Peshwa?",
+      "options": ["Tatya Tope", "Nana Sahib", "Bahadur Shah Zafar", "Kunwar Singh"],
+      "answer": 1,
+      "explanation": "When the 1857 rebels took Gwalior, they declared Nana Sahib as Peshwa before the British recaptured the fort."
+    },
+    {
+      "id": "gwalior-fort-q30",
+      "difficulty": "hard",
+      "q": "The 16th-century musician Tansen, one of the 'navaratnas' of Akbar's court, is associated with which city tied to Gwalior Fort?",
+      "options": ["Gwalior", "Agra", "Delhi", "Fatehpur Sikri"],
+      "answer": 0,
+      "explanation": "The legendary musician Tansen hailed from Gwalior, whose musical tradition flourished under the Tomar kings of the fort, and his tomb stands in the city."
+    }
+  ]
+}

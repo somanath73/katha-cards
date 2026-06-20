@@ -1,0 +1,245 @@
+{
+  "cardId": "gateway-of-india",
+  "questions": [
+    {
+      "id": "gateway-of-india-q01",
+      "difficulty": "easy",
+      "q": "In which city is the Gateway of India located?",
+      "options": ["Mumbai", "Delhi", "Chennai", "Kolkata"],
+      "answer": 0,
+      "explanation": "The Gateway of India stands on the waterfront at Apollo Bunder in Mumbai (formerly Bombay)."
+    },
+    {
+      "id": "gateway-of-india-q02",
+      "difficulty": "easy",
+      "q": "What is the overall architectural form of the Gateway of India?",
+      "options": ["A dome", "A minaret", "A triumphal arch", "A pyramid"],
+      "answer": 2,
+      "explanation": "The Gateway of India is a large triumphal arch built overlooking the Arabian Sea."
+    },
+    {
+      "id": "gateway-of-india-q03",
+      "difficulty": "easy",
+      "q": "In which Indian state is the Gateway of India situated?",
+      "options": ["Gujarat", "Maharashtra", "Goa", "Karnataka"],
+      "answer": 1,
+      "explanation": "Mumbai, where the Gateway of India is located, is the capital of the state of Maharashtra."
+    },
+    {
+      "id": "gateway-of-india-q04",
+      "difficulty": "easy",
+      "q": "The Gateway of India overlooks which body of water?",
+      "options": ["The Bay of Bengal", "Lake Pichola", "The Ganges River", "The Arabian Sea"],
+      "answer": 3,
+      "explanation": "The Gateway of India faces the harbour on the Arabian Sea along Mumbai's southern waterfront."
+    },
+    {
+      "id": "gateway-of-india-q05",
+      "difficulty": "easy",
+      "q": "In which year was the Gateway of India completed?",
+      "options": ["1857", "1911", "1947", "1924"],
+      "answer": 3,
+      "explanation": "The monument was completed in 1924, although its foundation had been laid years earlier."
+    },
+    {
+      "id": "gateway-of-india-q06",
+      "difficulty": "easy",
+      "q": "During which period of Indian history was the Gateway of India built?",
+      "options": ["The Mughal Empire", "The Maurya Empire", "British colonial rule", "The Maratha Empire"],
+      "answer": 2,
+      "explanation": "The Gateway of India was erected during the British colonial period in the early 20th century."
+    },
+    {
+      "id": "gateway-of-india-q07",
+      "difficulty": "easy",
+      "q": "The Gateway of India is famous as the point through which the last British troops did what in 1948?",
+      "options": ["Arrived in India", "Departed from India", "Built a new fort", "Signed a treaty"],
+      "answer": 1,
+      "explanation": "In 1948 the last British troops departed independent India by sea through the Gateway of India."
+    },
+    {
+      "id": "gateway-of-india-q08",
+      "difficulty": "easy",
+      "q": "A famous luxury hotel stands directly opposite the Gateway of India. Which one?",
+      "options": ["The Taj Mahal Palace Hotel", "The Imperial Hotel", "The Oberoi Grand", "The Ashok Hotel"],
+      "answer": 0,
+      "explanation": "The Taj Mahal Palace Hotel sits across from the Gateway of India and shares the same iconic Mumbai waterfront."
+    },
+    {
+      "id": "gateway-of-india-q09",
+      "difficulty": "easy",
+      "q": "What is the main building material of the Gateway of India?",
+      "options": ["White marble", "Red sandstone", "Granite blocks", "Yellow basalt stone"],
+      "answer": 3,
+      "explanation": "The Gateway of India is built largely of yellow Kharodi basalt stone, a local volcanic rock."
+    },
+    {
+      "id": "gateway-of-india-q10",
+      "difficulty": "easy",
+      "q": "The Gateway of India is best described as which kind of landmark?",
+      "options": ["A religious temple", "A monument and tourist attraction", "An active military base", "A national parliament"],
+      "answer": 1,
+      "explanation": "Today the Gateway of India is one of Mumbai's most visited monuments and a major tourist attraction."
+    },
+    {
+      "id": "gateway-of-india-q11",
+      "difficulty": "medium",
+      "q": "The Gateway of India was originally built to commemorate the 1911 visit of which royal couple?",
+      "options": ["Queen Victoria and Prince Albert", "King George V and Queen Mary", "King Edward VII and Queen Alexandra", "King George VI and Queen Elizabeth"],
+      "answer": 1,
+      "explanation": "It was built to commemorate the landing of King-Emperor George V and Queen Mary at Bombay in December 1911 for the Delhi Durbar."
+    },
+    {
+      "id": "gateway-of-india-q12",
+      "difficulty": "medium",
+      "q": "Who was the British architect who designed the Gateway of India?",
+      "options": ["Edwin Lutyens", "Herbert Baker", "George Wittet", "Frederick Stevens"],
+      "answer": 2,
+      "explanation": "The Scottish architect George Wittet designed the Gateway of India, completing it in 1924."
+    },
+    {
+      "id": "gateway-of-india-q13",
+      "difficulty": "medium",
+      "q": "The Gateway of India's design is primarily based on which architectural style?",
+      "options": ["Gothic Revival", "Indo-Saracenic, drawing on Gujarati 16th-century forms", "Art Deco", "Classical Greek"],
+      "answer": 1,
+      "explanation": "George Wittet designed it in the Indo-Saracenic style, incorporating elements of 16th-century Gujarati architecture."
+    },
+    {
+      "id": "gateway-of-india-q14",
+      "difficulty": "medium",
+      "q": "Approximately how tall is the central arch of the Gateway of India?",
+      "options": ["About 5 metres", "About 26 metres", "About 73 metres", "About 120 metres"],
+      "answer": 1,
+      "explanation": "The Gateway of India rises to a height of about 26 metres (roughly 85 feet)."
+    },
+    {
+      "id": "gateway-of-india-q15",
+      "difficulty": "medium",
+      "q": "In which Mumbai locality is the Gateway of India situated?",
+      "options": ["Bandra", "Colaba / Apollo Bunder", "Andheri", "Dadar"],
+      "answer": 1,
+      "explanation": "The Gateway of India stands at Apollo Bunder in the Colaba area of South Mumbai."
+    },
+    {
+      "id": "gateway-of-india-q16",
+      "difficulty": "medium",
+      "q": "Before the final stone monument was built, what marked the spot for the 1911 royal visit?",
+      "options": ["A temporary cardboard structure", "A marble fountain", "An iron tower", "A wooden bridge"],
+      "answer": 0,
+      "explanation": "Only a cardboard model of the gateway was ready when King George V visited in 1911; the permanent stone structure came later."
+    },
+    {
+      "id": "gateway-of-india-q17",
+      "difficulty": "medium",
+      "q": "In what year was the foundation stone of the Gateway of India laid?",
+      "options": ["1903", "1911", "1913", "1920"],
+      "answer": 2,
+      "explanation": "The foundation stone was laid in 1913, and the monument was finally completed in 1924."
+    },
+    {
+      "id": "gateway-of-india-q18",
+      "difficulty": "medium",
+      "q": "An equestrian statue of which Maratha king now stands near the Gateway of India?",
+      "options": ["Maharana Pratap", "Chhatrapati Shivaji", "Prithviraj Chauhan", "Krishnadevaraya"],
+      "answer": 1,
+      "explanation": "A statue of the Maratha founder Chhatrapati Shivaji Maharaj was later installed in the plaza beside the Gateway of India."
+    },
+    {
+      "id": "gateway-of-india-q19",
+      "difficulty": "medium",
+      "q": "From the Gateway of India, ferries regularly take visitors to which nearby UNESCO World Heritage site?",
+      "options": ["Ajanta Caves", "Ellora Caves", "Elephanta Caves", "Hampi"],
+      "answer": 2,
+      "explanation": "Boats depart from the Gateway of India to Elephanta Island, home of the rock-cut Elephanta Caves."
+    },
+    {
+      "id": "gateway-of-india-q20",
+      "difficulty": "medium",
+      "q": "Which statesman is associated with another statue placed at the Gateway of India site?",
+      "options": ["Mahatma Gandhi", "Swami Vivekananda", "Jawaharlal Nehru", "B. R. Ambedkar"],
+      "answer": 1,
+      "explanation": "A statue of Swami Vivekananda was also installed near the Gateway of India alongside that of Chhatrapati Shivaji."
+    },
+    {
+      "id": "gateway-of-india-q21",
+      "difficulty": "medium",
+      "q": "What was Mumbai called at the time the Gateway of India was built?",
+      "options": ["Bombay", "Calcutta", "Madras", "Surat"],
+      "answer": 0,
+      "explanation": "The city was officially known as Bombay until it was renamed Mumbai in 1995."
+    },
+    {
+      "id": "gateway-of-india-q22",
+      "difficulty": "medium",
+      "q": "How many turrets crown the top of the Gateway of India?",
+      "options": ["Two", "Four", "Six", "Eight"],
+      "answer": 1,
+      "explanation": "The monument is topped by four turrets, with the large central dome dominating the structure."
+    },
+    {
+      "id": "gateway-of-india-q23",
+      "difficulty": "hard",
+      "q": "What is the approximate diameter of the central dome of the Gateway of India?",
+      "options": ["About 5 metres", "About 15 metres", "About 30 metres", "About 50 metres"],
+      "answer": 1,
+      "explanation": "The large central dome is about 15 metres (roughly 48 feet) in diameter."
+    },
+    {
+      "id": "gateway-of-india-q24",
+      "difficulty": "hard",
+      "q": "The Gateway of India's foundation stone was laid by which colonial official in 1913?",
+      "options": ["Lord Curzon", "Sir George Sydenham Clarke, Governor of Bombay", "Lord Mountbatten", "Sir John Lawrence"],
+      "answer": 1,
+      "explanation": "The foundation stone was laid in 1913 by Sir George Sydenham Clarke, then Governor of Bombay."
+    },
+    {
+      "id": "gateway-of-india-q25",
+      "difficulty": "hard",
+      "q": "The last British regiment to leave India through the Gateway in 1948 was associated with which famous group?",
+      "options": ["The First Battalion of the Somerset Light Infantry", "The Royal Welch Fusiliers", "The Black Watch", "The Coldstream Guards"],
+      "answer": 0,
+      "explanation": "The First Battalion of the Somerset Light Infantry was among the last British troops to depart India through the Gateway in February 1948."
+    },
+    {
+      "id": "gateway-of-india-q26",
+      "difficulty": "hard",
+      "q": "George Wittet, designer of the Gateway, also designed which other major Mumbai institution?",
+      "options": ["The Chhatrapati Shivaji Terminus", "The Prince of Wales Museum (now Chhatrapati Shivaji Maharaj Vastu Sangrahalaya)", "The Bombay High Court", "The Asiatic Society Library"],
+      "answer": 1,
+      "explanation": "George Wittet also designed the Prince of Wales Museum, now the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, in the same Indo-Saracenic style."
+    },
+    {
+      "id": "gateway-of-india-q27",
+      "difficulty": "hard",
+      "q": "The decorative latticework and details of the Gateway draw especially on the architecture of which Indian region?",
+      "options": ["Bengal", "Kerala", "Gujarat", "Kashmir"],
+      "answer": 2,
+      "explanation": "Wittet drew on 16th-century Gujarati architectural motifs, giving the arch its Indo-Saracenic character."
+    },
+    {
+      "id": "gateway-of-india-q28",
+      "difficulty": "hard",
+      "q": "The Gateway of India's central arch was intended to function symbolically as what for arriving dignitaries?",
+      "options": ["A lighthouse", "A ceremonial entry point to India by sea", "A customs house", "A clock tower"],
+      "answer": 1,
+      "explanation": "It was conceived as a grand ceremonial gateway through which viceroys and important visitors would first set foot in India by sea."
+    },
+    {
+      "id": "gateway-of-india-q29",
+      "difficulty": "hard",
+      "q": "Roughly how long did construction of the Gateway take from foundation stone to completion?",
+      "options": ["About 1 year", "About 3 years", "About 11 years", "About 25 years"],
+      "answer": 2,
+      "explanation": "Construction spanned roughly 11 years, from the laying of the foundation stone in 1913 to completion in 1924."
+    },
+    {
+      "id": "gateway-of-india-q30",
+      "difficulty": "hard",
+      "q": "What was a major reason the road behind the Gateway, meant to lead inland, was never fully built as planned?",
+      "options": ["A devastating earthquake", "Lack of funds, so the grand approach avenue was never completed", "A change of capital to Delhi", "Objections from local temples"],
+      "answer": 1,
+      "explanation": "The planned grand approach road leading from the Gateway into the city was never fully realised, largely due to funding limitations."
+    }
+  ]
+}

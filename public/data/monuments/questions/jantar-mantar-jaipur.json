@@ -1,0 +1,245 @@
+{
+  "cardId": "jantar-mantar-jaipur",
+  "questions": [
+    {
+      "id": "jantar-mantar-jaipur-q01",
+      "difficulty": "easy",
+      "q": "In which Indian city is the Jantar Mantar observatory located?",
+      "options": ["Jaipur", "Jodhpur", "Udaipur", "Bikaner"],
+      "answer": 0,
+      "explanation": "The Jantar Mantar described here is the large astronomical observatory in Jaipur, Rajasthan."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q02",
+      "difficulty": "easy",
+      "q": "What kind of structure is the Jantar Mantar?",
+      "options": ["A royal palace", "An astronomical observatory", "A temple complex", "A military fort"],
+      "answer": 1,
+      "explanation": "The Jantar Mantar is an observatory made up of large masonry instruments for measuring time and tracking celestial bodies."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q03",
+      "difficulty": "easy",
+      "q": "Who built the Jantar Mantar in Jaipur?",
+      "options": ["Akbar", "Shah Jahan", "Sawai Jai Singh II", "Maharana Pratap"],
+      "answer": 2,
+      "explanation": "The Jaipur observatory was built by Maharaja Sawai Jai Singh II, the founder of Jaipur."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q04",
+      "difficulty": "easy",
+      "q": "In which Indian state is the Jantar Mantar of Jaipur located?",
+      "options": ["Gujarat", "Madhya Pradesh", "Punjab", "Rajasthan"],
+      "answer": 3,
+      "explanation": "Jaipur, home of the observatory, is the capital city of the state of Rajasthan."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q05",
+      "difficulty": "easy",
+      "q": "The Jantar Mantar in Jaipur is famous for housing the world's largest example of which instrument?",
+      "options": ["Stone sundial", "Telescope", "Water clock", "Pendulum clock"],
+      "answer": 0,
+      "explanation": "The Samrat Yantra at Jaipur is the world's largest stone sundial."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q06",
+      "difficulty": "easy",
+      "q": "What were the Jantar Mantar instruments primarily used to study?",
+      "options": ["Ocean currents", "Astronomy and timekeeping", "Plant biology", "Mineral mining"],
+      "answer": 1,
+      "explanation": "The instruments were designed to observe the positions of celestial bodies, predict eclipses, and tell time."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q07",
+      "difficulty": "easy",
+      "q": "From which century does the Jaipur Jantar Mantar date?",
+      "options": ["15th century", "18th century", "20th century", "12th century"],
+      "answer": 1,
+      "explanation": "The observatory was completed in the early 18th century, around 1734."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q08",
+      "difficulty": "easy",
+      "q": "What does the name 'Jantar Mantar' broadly refer to?",
+      "options": ["Garden of flowers", "Calculating instruments", "Hall of mirrors", "House of worship"],
+      "answer": 1,
+      "explanation": "'Jantar Mantar' derives from terms meaning instruments and calculation/formulae, fitting its role as a calculating observatory."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q09",
+      "difficulty": "easy",
+      "q": "Which international body has recognized the Jaipur Jantar Mantar as a World Heritage Site?",
+      "options": ["WHO", "NATO", "UNESCO", "OPEC"],
+      "answer": 2,
+      "explanation": "UNESCO inscribed the Jaipur Jantar Mantar on its World Heritage List in 2010."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q10",
+      "difficulty": "easy",
+      "q": "Jantar Mantar's giant instruments are mainly constructed from which type of material?",
+      "options": ["Wood and bamboo", "Glass and steel", "Masonry (stone and plaster)", "Bronze castings"],
+      "answer": 2,
+      "explanation": "Unlike small brass instruments, these were built as large fixed masonry structures of stone and plaster."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q11",
+      "difficulty": "medium",
+      "q": "The founder of the Jaipur observatory built how many Jantar Mantar observatories across northern India?",
+      "options": ["Two", "Five", "Ten", "One"],
+      "answer": 1,
+      "explanation": "Sawai Jai Singh II built five Jantar Mantar observatories, at Jaipur, Delhi, Ujjain, Mathura, and Varanasi."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q12",
+      "difficulty": "medium",
+      "q": "What is the name of the world's largest stone sundial at the Jaipur Jantar Mantar?",
+      "options": ["Jai Prakash Yantra", "Ram Yantra", "Samrat Yantra", "Misra Yantra"],
+      "answer": 2,
+      "explanation": "The Samrat Yantra (Supreme Instrument) is the giant equinoctial sundial and the largest of its kind in the world."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q13",
+      "difficulty": "medium",
+      "q": "Around what height does the gnomon (the great triangular wall) of the Samrat Yantra rise?",
+      "options": ["About 27 metres (around 88 feet)", "About 5 metres", "About 100 metres", "About 2 metres"],
+      "answer": 0,
+      "explanation": "The Samrat Yantra's triangular gnomon stands roughly 27 metres (about 88 feet) tall, making it a towering structure."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q14",
+      "difficulty": "medium",
+      "q": "The Samrat Yantra sundial can measure time with an accuracy of about which interval?",
+      "options": ["Within a few hours", "Within about two seconds", "Within one minute only", "Within a day"],
+      "answer": 1,
+      "explanation": "Despite being made of stone, the Samrat Yantra can indicate local time to an accuracy of roughly two seconds."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q15",
+      "difficulty": "medium",
+      "q": "Which Jantar Mantar instrument consists of bowl-shaped sundials with markings on concave hemispheres?",
+      "options": ["Chakra Yantra", "Jai Prakash Yantra", "Digamsha Yantra", "Dhruva Yantra"],
+      "answer": 1,
+      "explanation": "The Jai Prakash Yantra uses hollowed hemispherical bowls with coordinate markings to map the position of the sun."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q16",
+      "difficulty": "medium",
+      "q": "Which set of twelve instruments at the Jaipur observatory is dedicated to the signs of the zodiac?",
+      "options": ["Rashivalaya Yantra", "Unnatamsha Yantra", "Kapali Yantra", "Nadivalaya Yantra"],
+      "answer": 0,
+      "explanation": "The Rashivalaya Yantra comprises twelve instruments, one for each zodiac sign, used for astrological observations."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q17",
+      "difficulty": "medium",
+      "q": "Sawai Jai Singh II, the builder, was a ruler of which kingdom?",
+      "options": ["Marwar (Jodhpur)", "Mewar (Udaipur)", "Amber/Jaipur (the Kachhwaha kingdom)", "Bundi"],
+      "answer": 2,
+      "explanation": "Jai Singh II was the Kachhwaha Rajput ruler of Amber, who founded and ruled the new capital of Jaipur."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q18",
+      "difficulty": "medium",
+      "q": "Under which Mughal emperor's reign did Sawai Jai Singh II begin his observatory projects?",
+      "options": ["Babur", "Muhammad Shah", "Aurangzeb", "Humayun"],
+      "answer": 1,
+      "explanation": "Jai Singh II undertook his astronomical work during the reign of the Mughal emperor Muhammad Shah."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q19",
+      "difficulty": "medium",
+      "q": "The Jaipur Jantar Mantar is located close to which other famous Jaipur royal landmark?",
+      "options": ["Mehrangarh Fort", "City Palace", "Charminar", "Gateway of India"],
+      "answer": 1,
+      "explanation": "The observatory sits adjacent to the City Palace complex in the heart of old Jaipur."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q20",
+      "difficulty": "medium",
+      "q": "Which instrument at the observatory is used to determine the altitude of celestial objects?",
+      "options": ["Unnatamsha Yantra", "Samrat Yantra", "Rashivalaya Yantra", "Jai Prakash Yantra"],
+      "answer": 0,
+      "explanation": "The Unnatamsha Yantra, a large metal ring instrument, is used to measure the altitude of the sun, moon, and stars."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q21",
+      "difficulty": "medium",
+      "q": "The Jaipur Jantar Mantar is the largest and best preserved of Jai Singh's observatories. What is its astronomical tradition primarily based on?",
+      "options": ["European optical telescopes", "Naked-eye positional astronomy", "Radio astronomy", "Satellite imaging"],
+      "answer": 1,
+      "explanation": "The instruments were designed for precise naked-eye observation of celestial positions, not telescopic viewing."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q22",
+      "difficulty": "medium",
+      "q": "One purpose the instruments served was the compilation of astronomical tables. What were such tables historically called?",
+      "options": ["Almanacs/ephemerides (zij)", "Cadastres", "Manifests", "Ledgers"],
+      "answer": 0,
+      "explanation": "Jai Singh used the observations to prepare astronomical tables, of the type known in the Islamic tradition as a zij or ephemeris."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q23",
+      "difficulty": "hard",
+      "q": "The Jaipur Jantar Mantar was inscribed on the UNESCO World Heritage List in which year?",
+      "options": ["1985", "2010", "1999", "2021"],
+      "answer": 1,
+      "explanation": "UNESCO added the Jaipur Jantar Mantar to the World Heritage List in 2010."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q24",
+      "difficulty": "hard",
+      "q": "Construction of the Jaipur observatory was largely completed by approximately which year?",
+      "options": ["1556", "1632", "1734", "1857"],
+      "answer": 2,
+      "explanation": "The Jaipur Jantar Mantar was built between roughly 1724 and 1734 under Sawai Jai Singh II."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q25",
+      "difficulty": "hard",
+      "q": "How many major astronomical instruments are generally recognized at the Jaipur Jantar Mantar?",
+      "options": ["About 19", "Exactly 3", "Over 100", "Exactly 7"],
+      "answer": 0,
+      "explanation": "The Jaipur observatory contains around nineteen principal architectural and astronomical instruments."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q26",
+      "difficulty": "hard",
+      "q": "Which pair of cylindrical instruments at Jaipur is used to find the altitude and azimuth, and was useful for observations after sunset?",
+      "options": ["Ram Yantra", "Chakra Yantra", "Nadivalaya Yantra", "Kapali Yantra"],
+      "answer": 0,
+      "explanation": "The two Ram Yantra structures are open cylindrical instruments used to measure the altitude and azimuth of celestial objects."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q27",
+      "difficulty": "hard",
+      "q": "Jai Singh II reportedly sent scholarly missions abroad and studied which European astronomer's tables before building his observatories?",
+      "options": ["Galileo Galilei", "Philippe de La Hire", "Tycho Brahe", "Edmond Halley"],
+      "answer": 1,
+      "explanation": "Jai Singh consulted European astronomical tables, including those of Philippe de La Hire, in his quest for accurate data."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q28",
+      "difficulty": "hard",
+      "q": "Besides Jaipur, Jai Singh II built another Jantar Mantar observatory in which city, where the Prime Minister has also been known to address rallies nearby?",
+      "options": ["Mumbai", "Chennai", "Delhi", "Kolkata"],
+      "answer": 2,
+      "explanation": "Jai Singh II also built a Jantar Mantar in Delhi; its giant masonry instruments stand near a square long used for public gatherings and protests."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q29",
+      "difficulty": "hard",
+      "q": "Which instrument at Jaipur is aligned with the celestial axis to indicate sidereal time and the declination of celestial bodies?",
+      "options": ["Nadivalaya Yantra", "Digamsha Yantra", "Disha Yantra", "Palbha Yantra"],
+      "answer": 0,
+      "explanation": "The Nadivalaya Yantra has two circular dials parallel to the equatorial plane, indicating time and the declination of the sun."
+    },
+    {
+      "id": "jantar-mantar-jaipur-q30",
+      "difficulty": "hard",
+      "q": "Under UNESCO criteria, the Jaipur Jantar Mantar is celebrated chiefly as an outstanding example of what?",
+      "options": ["A Mughal military fortification", "A monumental astronomical observatory of its period", "A Hindu pilgrimage temple", "A colonial-era railway hub"],
+      "answer": 1,
+      "explanation": "UNESCO recognizes it as the most significant, comprehensive, and best-preserved monumental observatory of the early modern period."
+    }
+  ]
+}

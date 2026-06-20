@@ -1,0 +1,245 @@
+{
+  "cardId": "hoysaleswara-temple",
+  "questions": [
+    {
+      "id": "hoysaleswara-temple-q01",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state is the Hoysaleswara Temple located?",
+      "options": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"],
+      "answer": 1,
+      "explanation": "The Hoysaleswara Temple stands at Halebidu in the Hassan district of Karnataka."
+    },
+    {
+      "id": "hoysaleswara-temple-q02",
+      "difficulty": "easy",
+      "q": "The Hoysaleswara Temple is dedicated to which Hindu deity?",
+      "options": ["Vishnu", "Brahma", "Shiva", "Surya"],
+      "answer": 2,
+      "explanation": "It is a Shaiva temple dedicated to Lord Shiva, worshipped here as Hoysaleswara."
+    },
+    {
+      "id": "hoysaleswara-temple-q03",
+      "difficulty": "easy",
+      "q": "In which town is the Hoysaleswara Temple situated?",
+      "options": ["Halebidu", "Belur", "Hampi", "Badami"],
+      "answer": 0,
+      "explanation": "The temple is located in Halebidu, the former Hoysala capital once known as Dwarasamudra."
+    },
+    {
+      "id": "hoysaleswara-temple-q04",
+      "difficulty": "easy",
+      "q": "Which ruling dynasty built the Hoysaleswara Temple?",
+      "options": ["Chola", "Vijayanagara", "Chalukya", "Hoysala"],
+      "answer": 3,
+      "explanation": "The temple was built by the Hoysala dynasty, after whom it is named."
+    },
+    {
+      "id": "hoysaleswara-temple-q05",
+      "difficulty": "easy",
+      "q": "In which century was the Hoysaleswara Temple constructed?",
+      "options": ["8th century", "12th century", "15th century", "18th century"],
+      "answer": 1,
+      "explanation": "Construction began in the 12th century during the reign of the Hoysala kings."
+    },
+    {
+      "id": "hoysaleswara-temple-q06",
+      "difficulty": "easy",
+      "q": "What is a distinctive feature of the Hoysaleswara Temple's design?",
+      "options": ["It is a twin temple with two main shrines", "It is a single circular tower", "It is a cave cut into rock", "It is a freestanding minaret"],
+      "answer": 0,
+      "explanation": "It is a twin temple, housing two linked shrines side by side, each with its own Shiva linga."
+    },
+    {
+      "id": "hoysaleswara-temple-q07",
+      "difficulty": "easy",
+      "q": "What is the Hoysaleswara Temple most famous for?",
+      "options": ["Stained-glass windows", "Intricately carved stone friezes and sculptures", "Gold-plated domes", "Underground tunnels"],
+      "answer": 1,
+      "explanation": "The temple is celebrated for its dense, finely detailed sculptural friezes covering its walls."
+    },
+    {
+      "id": "hoysaleswara-temple-q08",
+      "difficulty": "easy",
+      "q": "Which large guardian animal is depicted in famous monolithic statues at the temple?",
+      "options": ["Elephant", "Lion", "Nandi the bull", "Horse"],
+      "answer": 2,
+      "explanation": "Two large Nandi (bull) statues, the mount of Shiva, face the temple's twin shrines."
+    },
+    {
+      "id": "hoysaleswara-temple-q09",
+      "difficulty": "easy",
+      "q": "Halebidu, where the temple stands, served as what during the Hoysala period?",
+      "options": ["A port city", "The dynasty's capital", "A pilgrimage rest stop only", "A military fort with no temples"],
+      "answer": 1,
+      "explanation": "Halebidu, then called Dwarasamudra, was the capital of the Hoysala kingdom."
+    },
+    {
+      "id": "hoysaleswara-temple-q10",
+      "difficulty": "easy",
+      "q": "The Hoysaleswara Temple is an example of which broad architectural tradition?",
+      "options": ["Indo-Islamic architecture", "Gothic architecture", "Hoysala temple architecture", "Colonial architecture"],
+      "answer": 2,
+      "explanation": "It is a prime example of the distinctive Hoysala style of temple architecture."
+    },
+    {
+      "id": "hoysaleswara-temple-q11",
+      "difficulty": "medium",
+      "q": "What stone was primarily used to carve the Hoysaleswara Temple?",
+      "options": ["Red sandstone", "White marble", "Chlorite schist (soapstone)", "Granite"],
+      "answer": 2,
+      "explanation": "Hoysala temples were carved from soft chlorite schist, or soapstone, which allowed extremely fine detail."
+    },
+    {
+      "id": "hoysaleswara-temple-q12",
+      "difficulty": "medium",
+      "q": "During whose reign was construction of the Hoysaleswara Temple begun?",
+      "options": ["King Vishnuvardhana", "Krishnadevaraya", "Rajaraja Chola", "Pulakeshin II"],
+      "answer": 0,
+      "explanation": "The temple was begun during the reign of the Hoysala king Vishnuvardhana in the 12th century."
+    },
+    {
+      "id": "hoysaleswara-temple-q13",
+      "difficulty": "medium",
+      "q": "By what earlier name was Halebidu known when it was the Hoysala capital?",
+      "options": ["Vijayanagara", "Dwarasamudra", "Pataliputra", "Kanchipuram"],
+      "answer": 1,
+      "explanation": "Halebidu was historically known as Dwarasamudra (also Dorasamudra), the Hoysala capital."
+    },
+    {
+      "id": "hoysaleswara-temple-q14",
+      "difficulty": "medium",
+      "q": "The name 'Halebidu' is commonly understood to mean what in Kannada?",
+      "options": ["City of temples", "Old or ruined capital", "Holy river crossing", "New fort"],
+      "answer": 1,
+      "explanation": "'Halebidu' translates roughly as 'old capital' or 'ruined city', reflecting its decline after invasions."
+    },
+    {
+      "id": "hoysaleswara-temple-q15",
+      "difficulty": "medium",
+      "q": "The two shrines of the twin temple are dedicated to Shiva under which two names?",
+      "options": ["Nataraja and Bhairava", "Hoysaleswara and Shantaleswara", "Somnath and Mallikarjuna", "Kedareswara and Virupaksha"],
+      "answer": 1,
+      "explanation": "The shrines are named Hoysaleswara and Shantaleswara, the latter associated with Queen Shantala Devi."
+    },
+    {
+      "id": "hoysaleswara-temple-q16",
+      "difficulty": "medium",
+      "q": "Hoysala temples like Hoysaleswara typically stand on what kind of base platform?",
+      "options": ["A flat ground-level floor", "A raised star-shaped (stellate) platform called jagati", "A floating wooden deck", "A stepped pyramid of bricks"],
+      "answer": 1,
+      "explanation": "Hoysala temples are raised on a jagati, a wide platform that often follows a star-shaped plan."
+    },
+    {
+      "id": "hoysaleswara-temple-q17",
+      "difficulty": "medium",
+      "q": "What kind of subjects fill the horizontal bands of friezes wrapping the temple walls?",
+      "options": ["Geometric patterns only", "Maps of the kingdom", "Rows of elephants, lions, horsemen, and scenes from epics", "Portraits of European traders"],
+      "answer": 2,
+      "explanation": "Continuous friezes depict elephants, lions, horsemen, and narrative scenes from Hindu epics and mythology."
+    },
+    {
+      "id": "hoysaleswara-temple-q18",
+      "difficulty": "medium",
+      "q": "Roughly how many richly carved smaller sculptures decorate the Hoysaleswara Temple?",
+      "options": ["About a dozen", "Several thousand", "Exactly one hundred", "None; it is plain"],
+      "answer": 1,
+      "explanation": "The temple bears thousands of detailed sculptures, making its walls among the most densely carved in India."
+    },
+    {
+      "id": "hoysaleswara-temple-q19",
+      "difficulty": "medium",
+      "q": "Which Hoysala-style architectural feature is the temple's tower or superstructure called?",
+      "options": ["Gopuram", "Shikhara (vimana)", "Minaret", "Stupa"],
+      "answer": 1,
+      "explanation": "The shrine's superstructure is a shikhara or vimana, though the towers of Hoysaleswara are now largely missing."
+    },
+    {
+      "id": "hoysaleswara-temple-q20",
+      "difficulty": "medium",
+      "q": "The Hoysala capital at Halebidu was sacked in the 14th century by armies of which sultanate?",
+      "options": ["Mughal Empire", "Delhi Sultanate", "Bahmani Sultanate", "Maratha Confederacy"],
+      "answer": 1,
+      "explanation": "Dwarasamudra was plundered by the Delhi Sultanate armies in the early 14th century, leading to the city's ruin."
+    },
+    {
+      "id": "hoysaleswara-temple-q21",
+      "difficulty": "medium",
+      "q": "Lathe-turned, bell-shaped columns are a hallmark of which architectural tradition seen in the temple's mandapa?",
+      "options": ["Hoysala architecture", "Dravidian Pallava architecture", "Nagara North Indian architecture", "Indo-Saracenic architecture"],
+      "answer": 0,
+      "explanation": "Polished, lathe-turned pillars in the pillared hall are a signature element of Hoysala craftsmanship."
+    },
+    {
+      "id": "hoysaleswara-temple-q22",
+      "difficulty": "medium",
+      "q": "Hoysala temples such as Hoysaleswara are closely associated with which famous nearby temple at Belur?",
+      "options": ["Meenakshi Temple", "Chennakeshava Temple", "Brihadeeswarar Temple", "Lingaraja Temple"],
+      "answer": 1,
+      "explanation": "The Chennakeshava Temple at Belur is a sister Hoysala monument built in the same era and style."
+    },
+    {
+      "id": "hoysaleswara-temple-q23",
+      "difficulty": "hard",
+      "q": "Which Hoysala official and general is traditionally credited with commissioning the Hoysaleswara Temple?",
+      "options": ["Tej Singh", "Ketamalla", "Man Singh", "Todar Mal"],
+      "answer": 1,
+      "explanation": "Inscriptions credit Ketamalla, an officer in Vishnuvardhana's court, with sponsoring the temple around 1121 CE."
+    },
+    {
+      "id": "hoysaleswara-temple-q24",
+      "difficulty": "hard",
+      "q": "Queen Shantala Devi, linked to one of the twin shrines, was the consort of which Hoysala king?",
+      "options": ["Ballala II", "Vishnuvardhana", "Narasimha I", "Someswara"],
+      "answer": 1,
+      "explanation": "Shantala Devi was the chief queen of King Vishnuvardhana, and the Shantaleswara shrine honors her."
+    },
+    {
+      "id": "hoysaleswara-temple-q25",
+      "difficulty": "hard",
+      "q": "What status do Hoysaleswara and other Hoysala temples hold with UNESCO?",
+      "options": ["A declared World Heritage Site since 2023", "Removed from all lists", "An ancient cave designation", "Never recognised by UNESCO"],
+      "answer": 0,
+      "explanation": "The 'Sacred Ensembles of the Hoysalas', including Halebidu, were inscribed as a UNESCO World Heritage Site in 2023."
+    },
+    {
+      "id": "hoysaleswara-temple-q26",
+      "difficulty": "hard",
+      "q": "A famous detailed sculpture at the temple depicts Shiva slaying which demon?",
+      "options": ["Mahishasura", "Ravana", "Gajasura (the elephant demon)", "Hiranyakashipu"],
+      "answer": 2,
+      "explanation": "One celebrated panel shows Shiva as Gajasurasamhara, dancing on the slain elephant-demon Gajasura."
+    },
+    {
+      "id": "hoysaleswara-temple-q27",
+      "difficulty": "hard",
+      "q": "The Hoysaleswara Temple's plan is often described as which shape?",
+      "options": ["Perfectly circular", "Star-shaped (stellate)", "Octagonal with a central dome", "A long basilica rectangle"],
+      "answer": 1,
+      "explanation": "Hoysala temples use a stellate (star-shaped) plan formed by rotating squares, multiplying the carved wall surface."
+    },
+    {
+      "id": "hoysaleswara-temple-q28",
+      "difficulty": "hard",
+      "q": "Why are the soapstone friezes of Hoysaleswara so exceptionally detailed compared to many other temples?",
+      "options": ["The stone was painted not carved", "Soapstone is soft when quarried and hardens with exposure, allowing fine carving", "Iron tools were never used", "The carvings were machine-made"],
+      "answer": 1,
+      "explanation": "Chlorite schist is relatively soft when freshly quarried, letting artisans carve minute detail before it hardened over time."
+    },
+    {
+      "id": "hoysaleswara-temple-q29",
+      "difficulty": "hard",
+      "q": "Which body administers and protects the Hoysaleswara Temple as a monument of national importance?",
+      "options": ["Archaeological Survey of India (ASI)", "Indian Railways", "Forest Department", "Reserve Bank of India"],
+      "answer": 0,
+      "explanation": "The temple is a protected monument under the care of the Archaeological Survey of India."
+    },
+    {
+      "id": "hoysaleswara-temple-q30",
+      "difficulty": "hard",
+      "q": "Hoysala friezes uniquely sometimes include the signatures or names of which group?",
+      "options": ["Visiting foreign kings", "The sculptors and artisans who carved them", "Future archaeologists", "Tax collectors"],
+      "answer": 1,
+      "explanation": "Many Hoysala carvings bear the inscribed names of the individual sculptors, a rare practice celebrating the artists."
+    }
+  ]
+}

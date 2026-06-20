@@ -1,0 +1,245 @@
+{
+  "cardId": "daulatabad-fort",
+  "questions": [
+    {
+      "id": "daulatabad-fort-q01",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state is Daulatabad Fort located?",
+      "options": ["Gujarat", "Maharashtra", "Karnataka", "Madhya Pradesh"],
+      "answer": 1,
+      "explanation": "Daulatabad Fort stands near Aurangabad (Chhatrapati Sambhajinagar) in the state of Maharashtra."
+    },
+    {
+      "id": "daulatabad-fort-q02",
+      "difficulty": "easy",
+      "q": "Daulatabad Fort is built on a hill historically known by what earlier name?",
+      "options": ["Devagiri", "Golconda", "Chittor", "Mandu"],
+      "answer": 0,
+      "explanation": "The fort was originally called Devagiri, meaning 'Hill of the Gods', before being renamed Daulatabad."
+    },
+    {
+      "id": "daulatabad-fort-q03",
+      "difficulty": "easy",
+      "q": "Daulatabad Fort sits closest to which major city of Maharashtra?",
+      "options": ["Pune", "Nagpur", "Aurangabad (Chhatrapati Sambhajinagar)", "Nashik"],
+      "answer": 2,
+      "explanation": "The fort lies about 15 km from Aurangabad, now officially renamed Chhatrapati Sambhajinagar."
+    },
+    {
+      "id": "daulatabad-fort-q04",
+      "difficulty": "easy",
+      "q": "What distinctive natural shape characterizes the central hill of Daulatabad Fort?",
+      "options": ["A flat plateau", "A conical (cone-shaped) hill", "A long ridge", "A coastal cliff"],
+      "answer": 1,
+      "explanation": "Daulatabad is famous for its steep, conical hill, which made the citadel exceptionally hard to storm."
+    },
+    {
+      "id": "daulatabad-fort-q05",
+      "difficulty": "easy",
+      "q": "Which type of monument is Daulatabad best described as?",
+      "options": ["A hill fort", "A river dam", "A seaside lighthouse", "A garden tomb"],
+      "answer": 0,
+      "explanation": "Daulatabad is a formidable hill fort, long regarded as one of the most powerful fortresses in the Deccan."
+    },
+    {
+      "id": "daulatabad-fort-q06",
+      "difficulty": "easy",
+      "q": "The name 'Daulatabad' broadly translates to which of the following?",
+      "options": ["City of Water", "City of Fortune/Prosperity", "City of Temples", "City of Soldiers"],
+      "answer": 1,
+      "explanation": "Daulatabad means 'Abode of Wealth' or 'City of Fortune', a name given when it was made an imperial capital."
+    },
+    {
+      "id": "daulatabad-fort-q07",
+      "difficulty": "easy",
+      "q": "Which Delhi Sultanate ruler famously made Daulatabad his capital?",
+      "options": ["Babur", "Akbar", "Sher Shah Suri", "Muhammad bin Tughlaq"],
+      "answer": 3,
+      "explanation": "Sultan Muhammad bin Tughlaq shifted his capital from Delhi to Daulatabad in the 14th century."
+    },
+    {
+      "id": "daulatabad-fort-q08",
+      "difficulty": "easy",
+      "q": "Daulatabad Fort is best known as a defensive structure rather than a place of what use?",
+      "options": ["Military defence", "A bustling pilgrimage shrine", "An ocean trading port", "A royal hunting lodge"],
+      "answer": 0,
+      "explanation": "The fort's reputation rests on its military strength, with concentric walls and natural defences."
+    },
+    {
+      "id": "daulatabad-fort-q09",
+      "difficulty": "easy",
+      "q": "Within the Daulatabad complex stands a tall victory tower called the Chand Minar. What is it?",
+      "options": ["A minaret/tower", "A water tank", "A stone bridge", "An underground prison"],
+      "answer": 0,
+      "explanation": "The Chand Minar is a soaring minaret within the fort, a prominent landmark of the complex."
+    },
+    {
+      "id": "daulatabad-fort-q10",
+      "difficulty": "easy",
+      "q": "Daulatabad Fort lies in which broad geographical region of India?",
+      "options": ["The Himalayas", "The Deccan Plateau", "The Thar Desert", "The Sundarbans delta"],
+      "answer": 1,
+      "explanation": "The fort is situated on the Deccan Plateau, a strategic crossroads of medieval Indian power."
+    },
+    {
+      "id": "daulatabad-fort-q11",
+      "difficulty": "medium",
+      "q": "Devagiri rose to prominence as the capital of which Deccan dynasty before the Sultanate era?",
+      "options": ["The Cholas", "The Yadavas (Seuna)", "The Pallavas", "The Hoysalas"],
+      "answer": 1,
+      "explanation": "Devagiri was the capital of the Yadava (Seuna) dynasty before it fell to the Delhi Sultanate."
+    },
+    {
+      "id": "daulatabad-fort-q12",
+      "difficulty": "medium",
+      "q": "Muhammad bin Tughlaq's transfer of his capital to Daulatabad took place in roughly which decade?",
+      "options": ["The 1120s", "The 1230s", "The 1320s-1330s", "The 1520s"],
+      "answer": 2,
+      "explanation": "The capital shift occurred around 1327, in the early years of Muhammad bin Tughlaq's reign."
+    },
+    {
+      "id": "daulatabad-fort-q13",
+      "difficulty": "medium",
+      "q": "Why is Muhammad bin Tughlaq's capital shift to Daulatabad remembered as a failure?",
+      "options": ["The fort collapsed in an earthquake", "The move caused great hardship and the capital was soon shifted back to Delhi", "The Mongols captured the city", "The site flooded every monsoon"],
+      "answer": 1,
+      "explanation": "The forced migration from Delhi caused enormous suffering, and within a few years the capital reverted to Delhi."
+    },
+    {
+      "id": "daulatabad-fort-q14",
+      "difficulty": "medium",
+      "q": "Which Yadava ruler was reigning at Devagiri when Alauddin Khalji first raided it in 1296?",
+      "options": ["Ramachandra (Ramadeva)", "Krishnadevaraya", "Prithviraj Chauhan", "Harihara I"],
+      "answer": 0,
+      "explanation": "Alauddin Khalji's celebrated 1296 raid struck Devagiri during the reign of the Yadava king Ramachandra."
+    },
+    {
+      "id": "daulatabad-fort-q15",
+      "difficulty": "medium",
+      "q": "The Chand Minar at Daulatabad is generally attributed to which Deccan sultanate?",
+      "options": ["The Mughal Empire", "The Bahmani Sultanate", "The Maratha Confederacy", "The Vijayanagara Empire"],
+      "answer": 1,
+      "explanation": "The Chand Minar is traditionally credited to the Bahmani ruler Alauddin Bahman Shah's successors in the 15th century."
+    },
+    {
+      "id": "daulatabad-fort-q16",
+      "difficulty": "medium",
+      "q": "A famous defensive feature of Daulatabad is a dark, winding passage cut into the rock. What is it designed to do?",
+      "options": ["Store grain", "Channel rainwater to fields", "Serve as a royal bedroom", "Confuse and trap attackers approaching the citadel"],
+      "answer": 3,
+      "explanation": "The labyrinthine, pitch-dark passage was built to disorient and trap enemies trying to reach the upper fort."
+    },
+    {
+      "id": "daulatabad-fort-q17",
+      "difficulty": "medium",
+      "q": "Around the base of the conical citadel, attackers also had to cross what additional obstacle?",
+      "options": ["A deep moat", "A glass wall", "A row of windmills", "A salt marsh"],
+      "answer": 0,
+      "explanation": "A deep moat carved around the hill formed part of the fort's layered defences."
+    },
+    {
+      "id": "daulatabad-fort-q18",
+      "difficulty": "medium",
+      "q": "Daulatabad Fort is notable for having multiple lines of defence arranged in what pattern?",
+      "options": ["A single straight wall", "Concentric rings of fortification walls", "Scattered isolated towers", "Walls only on the river side"],
+      "answer": 1,
+      "explanation": "The fort is protected by several concentric circuits of walls, gates, and bastions surrounding the central hill."
+    },
+    {
+      "id": "daulatabad-fort-q19",
+      "difficulty": "medium",
+      "q": "Which empire controlled Daulatabad before it eventually came under Mughal authority in the Deccan?",
+      "options": ["The Ahmadnagar (Nizam Shahi) Sultanate", "The British East India Company", "The Gupta Empire", "The Kushan Empire"],
+      "answer": 0,
+      "explanation": "Daulatabad served as a stronghold of the Ahmadnagar (Nizam Shahi) Sultanate before falling to the Mughals."
+    },
+    {
+      "id": "daulatabad-fort-q20",
+      "difficulty": "medium",
+      "q": "Daulatabad's strategic value in the medieval Deccan came mainly from its control over what?",
+      "options": ["Sea trade routes", "Important inland routes through the Deccan", "Himalayan mountain passes", "The Ganga river crossings"],
+      "answer": 1,
+      "explanation": "Sitting on the Deccan Plateau, the fort commanded key overland routes, making it a coveted prize for rival powers."
+    },
+    {
+      "id": "daulatabad-fort-q21",
+      "difficulty": "medium",
+      "q": "What was a primary building material used for the formidable walls and bastions of Daulatabad Fort?",
+      "options": ["Marble and ivory", "Stone (locally quarried rock)", "Bamboo and thatch", "Glazed porcelain tiles"],
+      "answer": 1,
+      "explanation": "The fort's massive walls and bastions were built largely of locally quarried stone, exploiting the rocky hill."
+    },
+    {
+      "id": "daulatabad-fort-q22",
+      "difficulty": "medium",
+      "q": "The dynasty associated with the original Devagiri capital is also called by which alternative name?",
+      "options": ["Seuna", "Solanki", "Rashtrakuta", "Chandela"],
+      "answer": 0,
+      "explanation": "The Yadavas of Devagiri are also known as the Seuna dynasty."
+    },
+    {
+      "id": "daulatabad-fort-q23",
+      "difficulty": "hard",
+      "q": "Alauddin Khalji's 1296 raid on Devagiri was launched while he held what position?",
+      "options": ["He was already Sultan of Delhi", "He was governor of Kara, before becoming Sultan", "He was a Mongol envoy", "He was a Yadava prince"],
+      "answer": 1,
+      "explanation": "Alauddin raided Devagiri as the ambitious governor of Kara, using its wealth to seize the Delhi throne soon after."
+    },
+    {
+      "id": "daulatabad-fort-q24",
+      "difficulty": "hard",
+      "q": "The lower fortified town spreading out from the citadel at Daulatabad is sometimes called by what name?",
+      "options": ["Ambarkot", "Lal Qila", "Rang Mahal", "Jama Mahal"],
+      "answer": 0,
+      "explanation": "The outermost fortified enclosure of the town is known as the Ambarkot, encircling the wider settlement."
+    },
+    {
+      "id": "daulatabad-fort-q25",
+      "difficulty": "hard",
+      "q": "Within the Daulatabad complex stands a Sultanate-era congregational mosque built by reusing Hindu and Jain temple pillars, later converted into a Bharat Mata temple. By what name is it known?",
+      "options": ["Bharat Mata Mandir (former Jama Masjid)", "Quwwat-ul-Islam Mosque", "Moti Masjid", "Sidi Saiyyed Mosque"],
+      "answer": 0,
+      "explanation": "The fort's 14th-century Jama Masjid, raised with pillars taken from earlier temples, was converted into a Bharat Mata temple after 1947; the Quwwat-ul-Islam, Moti Masjid and Sidi Saiyyed mosques are elsewhere in India."
+    },
+    {
+      "id": "daulatabad-fort-q26",
+      "difficulty": "hard",
+      "q": "A large cannon mounted at Daulatabad, sometimes bearing inscriptions, reflects the fort's use of artillery during which broad period?",
+      "options": ["The Mauryan era", "The Indus Valley period", "The medieval to early-modern Deccan sultanate/Mughal period", "The Vedic age"],
+      "answer": 2,
+      "explanation": "Heavy cannon were installed on the bastions during the sultanate and Mughal era, when gunpowder artillery dominated Deccan warfare."
+    },
+    {
+      "id": "daulatabad-fort-q27",
+      "difficulty": "hard",
+      "q": "After the Mughal decline, Daulatabad and the surrounding region eventually fell under the control of which power?",
+      "options": ["The Nizams of Hyderabad (Asaf Jahi dynasty)", "The Sikh Empire", "The Travancore kingdom", "The Portuguese at Goa"],
+      "answer": 0,
+      "explanation": "The fort passed to the Nizams of Hyderabad (Asaf Jahi dynasty), who held the Deccan region until India's independence era."
+    },
+    {
+      "id": "daulatabad-fort-q28",
+      "difficulty": "hard",
+      "q": "Daulatabad's defensive design is admired because the steep citadel could only be reached by what?",
+      "options": ["A wide carriage road", "A single narrow, easily defended approach", "A network of escalators", "An open grassy slope on all sides"],
+      "answer": 1,
+      "explanation": "The summit was accessible only through a narrow, heavily fortified single approach, including the famous dark tunnel."
+    },
+    {
+      "id": "daulatabad-fort-q29",
+      "difficulty": "hard",
+      "q": "Devagiri's strategic importance grew because it lay near the boundary between the north and which cultural-political sphere?",
+      "options": ["The Tibetan plateau", "The Deccan/southern peninsular polities", "The Central Asian steppe", "The Bay of Bengal islands"],
+      "answer": 1,
+      "explanation": "Devagiri/Daulatabad sat at the gateway between northern India and the Deccan, making it pivotal for any power expanding southward."
+    },
+    {
+      "id": "daulatabad-fort-q30",
+      "difficulty": "hard",
+      "q": "Today, Daulatabad Fort is officially protected and maintained primarily by which body?",
+      "options": ["The Archaeological Survey of India (ASI)", "The World Wildlife Fund", "The Indian Railways", "A private hotel chain"],
+      "answer": 0,
+      "explanation": "Daulatabad Fort is a protected monument under the care of the Archaeological Survey of India (ASI)."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "jagannath-temple-puri",
+  "questions": [
+    {
+      "id": "jagannath-temple-puri-q01",
+      "difficulty": "easy",
+      "q": "In which Indian state is the Jagannath Temple located?",
+      "options": ["West Bengal", "Bihar", "Andhra Pradesh", "Odisha"],
+      "answer": 3,
+      "explanation": "The Jagannath Temple stands in the coastal town of Puri in the state of Odisha."
+    },
+    {
+      "id": "jagannath-temple-puri-q02",
+      "difficulty": "easy",
+      "q": "In which town is the Jagannath Temple situated?",
+      "options": ["Puri", "Cuttack", "Bhubaneswar", "Konark"],
+      "answer": 0,
+      "explanation": "The temple is the central landmark of the pilgrimage town of Puri on the Bay of Bengal coast."
+    },
+    {
+      "id": "jagannath-temple-puri-q03",
+      "difficulty": "easy",
+      "q": "The temple is dedicated chiefly to which deity?",
+      "options": ["Shiva", "Surya", "Jagannath, a form of Vishnu", "Ganesha"],
+      "answer": 2,
+      "explanation": "Jagannath, meaning 'Lord of the Universe,' is worshipped as a form of Vishnu or Krishna."
+    },
+    {
+      "id": "jagannath-temple-puri-q04",
+      "difficulty": "easy",
+      "q": "What does the name 'Jagannath' literally mean?",
+      "options": ["Lord of the Universe", "Lord of the Dance", "Lord of the Mountain", "Lord of the Ocean"],
+      "answer": 0,
+      "explanation": "'Jagannath' combines 'jagat' (universe) and 'nath' (lord), meaning Lord of the Universe."
+    },
+    {
+      "id": "jagannath-temple-puri-q05",
+      "difficulty": "easy",
+      "q": "Which famous annual chariot festival is associated with the Jagannath Temple?",
+      "options": ["Pongal", "Onam", "Rath Yatra", "Bihu"],
+      "answer": 2,
+      "explanation": "The Rath Yatra, or chariot festival, sees the deities carried out on towering wooden chariots each year."
+    },
+    {
+      "id": "jagannath-temple-puri-q06",
+      "difficulty": "easy",
+      "q": "During the Rath Yatra, how are the deities carried through Puri?",
+      "options": ["On elephants", "By boat", "On palanquins of silver", "On enormous wooden chariots"],
+      "answer": 3,
+      "explanation": "The deities ride out on three colossal wooden chariots pulled by devotees through the streets of Puri."
+    },
+    {
+      "id": "jagannath-temple-puri-q07",
+      "difficulty": "easy",
+      "q": "The English word 'juggernaut' is derived from the name of which temple's deity?",
+      "options": ["Tirupati", "Somnath", "Jagannath", "Kashi Vishwanath"],
+      "answer": 2,
+      "explanation": "The word 'juggernaut' came from 'Jagannath,' inspired by the unstoppable chariots of the Rath Yatra."
+    },
+    {
+      "id": "jagannath-temple-puri-q08",
+      "difficulty": "easy",
+      "q": "Jagannath is worshipped alongside two siblings. Who are they?",
+      "options": ["Rama and Sita", "Balabhadra and Subhadra", "Lakshmi and Saraswati", "Ganesha and Kartikeya"],
+      "answer": 1,
+      "explanation": "Jagannath is enshrined with his elder brother Balabhadra and his sister Subhadra."
+    },
+    {
+      "id": "jagannath-temple-puri-q09",
+      "difficulty": "easy",
+      "q": "Roughly in which century was the present great temple at Puri built?",
+      "options": ["8th century", "16th century", "12th century", "19th century"],
+      "answer": 2,
+      "explanation": "The present Jagannath Temple dates to the 12th century under the Eastern Ganga dynasty."
+    },
+    {
+      "id": "jagannath-temple-puri-q10",
+      "difficulty": "easy",
+      "q": "Puri's Jagannath Temple is counted among which group of four major Hindu pilgrimage sites?",
+      "options": ["The Sapta Puri", "The Panch Kedar", "The Ashta Vinayaka", "The Char Dham"],
+      "answer": 3,
+      "explanation": "Puri is one of the Char Dham, the four sacred abodes that devout Hindus aspire to visit."
+    },
+    {
+      "id": "jagannath-temple-puri-q11",
+      "difficulty": "medium",
+      "q": "Which dynasty is credited with building the present Jagannath Temple?",
+      "options": ["The Chola dynasty", "The Pala dynasty", "The Chalukya dynasty", "The Eastern Ganga dynasty"],
+      "answer": 3,
+      "explanation": "The temple was built by the Eastern Ganga rulers who governed Odisha in the medieval period."
+    },
+    {
+      "id": "jagannath-temple-puri-q12",
+      "difficulty": "medium",
+      "q": "Which Eastern Ganga king is traditionally credited with beginning construction of the present temple?",
+      "options": ["Narasimhadeva I", "Kapilendra Deva", "Anantavarman Chodaganga Deva", "Mukunda Deva"],
+      "answer": 2,
+      "explanation": "Anantavarman Chodaganga Deva is traditionally credited with starting the present temple's construction in the 12th century."
+    },
+    {
+      "id": "jagannath-temple-puri-q13",
+      "difficulty": "medium",
+      "q": "To which regional school of temple architecture does the Jagannath Temple belong?",
+      "options": ["Dravidian (Tamil) style", "Hoysala style", "Vesara style", "Kalinga (Odishan) style"],
+      "answer": 3,
+      "explanation": "The temple is a classic example of Kalinga architecture, the temple tradition of Odisha."
+    },
+    {
+      "id": "jagannath-temple-puri-q14",
+      "difficulty": "medium",
+      "q": "What is the towering curvilinear main spire of a Kalinga temple like Jagannath called?",
+      "options": ["Gopuram", "Vimana", "Deula (rekha deula)", "Shikhara of the Nagara fluted type only"],
+      "answer": 2,
+      "explanation": "The tall curvilinear sanctuary tower in Kalinga architecture is known as the rekha deula."
+    },
+    {
+      "id": "jagannath-temple-puri-q15",
+      "difficulty": "medium",
+      "q": "Unusually, the deities of the Jagannath Temple are made primarily of what material?",
+      "options": ["Black granite", "White marble", "Bronze", "Carved and painted wood"],
+      "answer": 3,
+      "explanation": "The Jagannath, Balabhadra and Subhadra idols are carved from wood and ceremonially renewed."
+    },
+    {
+      "id": "jagannath-temple-puri-q16",
+      "difficulty": "medium",
+      "q": "What is the periodic ritual called in which the wooden deities are replaced with newly carved ones?",
+      "options": ["Nabakalebara", "Mahabhishekam", "Brahmotsavam", "Kumbhabhishekam"],
+      "answer": 0,
+      "explanation": "Nabakalebara, meaning 'new body,' is the rare ceremony in which the wooden idols are renewed."
+    },
+    {
+      "id": "jagannath-temple-puri-q17",
+      "difficulty": "medium",
+      "q": "The temple complex has four gates. Which one is the main entrance facing east?",
+      "options": ["Hathi Dwara (Elephant Gate)", "Vyaghra Dwara (Tiger Gate)", "Singha Dwara (Lion Gate)", "Ashwa Dwara (Horse Gate)"],
+      "answer": 2,
+      "explanation": "The eastern main entrance is the Singha Dwara or Lion Gate, flanked by stone lions."
+    },
+    {
+      "id": "jagannath-temple-puri-q18",
+      "difficulty": "medium",
+      "q": "The temple's enormous kitchen is famous for serving food known by what name?",
+      "options": ["Prasadam called Mahaprasad", "Langar", "Annadanam", "Bhog of Tirupati"],
+      "answer": 0,
+      "explanation": "The temple kitchen prepares Mahaprasad, the sanctified food offered to Jagannath and shared with pilgrims."
+    },
+    {
+      "id": "jagannath-temple-puri-q19",
+      "difficulty": "medium",
+      "q": "Where is the Mahaprasad traditionally sold and distributed within the temple complex?",
+      "options": ["Ratha Yatra ground", "Singha Dwara steps", "Ananda Bazaar", "Narendra Tank"],
+      "answer": 2,
+      "explanation": "The Ananda Bazaar inside the complex is the marketplace where Mahaprasad is distributed to devotees."
+    },
+    {
+      "id": "jagannath-temple-puri-q20",
+      "difficulty": "medium",
+      "q": "Atop the main spire of the Jagannath Temple stands the Nilachakra together with what other emblem?",
+      "options": ["A trident", "A conch finial only", "A lotus disk", "A flag (Patita Pavana flag)"],
+      "answer": 3,
+      "explanation": "A flag is hoisted daily above the spire beside the Nilachakra wheel, a striking ritual of the temple."
+    },
+    {
+      "id": "jagannath-temple-puri-q21",
+      "difficulty": "medium",
+      "q": "What is the wheel-shaped emblem mounted at the very top of the temple's tower called?",
+      "options": ["Sudarshana", "Dharmachakra", "Nilachakra", "Kalachakra"],
+      "answer": 2,
+      "explanation": "The Nilachakra, a sacred eight-spoked metal wheel, crowns the summit of the main tower."
+    },
+    {
+      "id": "jagannath-temple-puri-q22",
+      "difficulty": "medium",
+      "q": "Approximately how tall is the main tower of the Jagannath Temple?",
+      "options": ["About 20 metres", "About 120 metres", "About 65 metres", "About 180 metres"],
+      "answer": 2,
+      "explanation": "The towering main spire rises to roughly 65 metres, dominating the skyline of Puri."
+    },
+    {
+      "id": "jagannath-temple-puri-q23",
+      "difficulty": "hard",
+      "q": "In the Rath Yatra, the deities travel to which temple and stay there for several days?",
+      "options": ["Lingaraja Temple", "Konark Sun Temple", "Gundicha Temple", "Lokanatha Temple"],
+      "answer": 2,
+      "explanation": "During the Rath Yatra the deities journey to the Gundicha Temple, where they reside for about a week."
+    },
+    {
+      "id": "jagannath-temple-puri-q24",
+      "difficulty": "hard",
+      "q": "What is the name of Jagannath's chariot in the Rath Yatra?",
+      "options": ["Taladhwaja", "Darpadalana", "Garuda Ratha", "Nandighosha"],
+      "answer": 3,
+      "explanation": "Jagannath rides the chariot named Nandighosha, while Balabhadra and Subhadra have their own chariots."
+    },
+    {
+      "id": "jagannath-temple-puri-q25",
+      "difficulty": "hard",
+      "q": "The main structure stands within an outer enclosing wall known by what name?",
+      "options": ["Antarvedi", "Bhitara Bedha only", "Prakara Gopura", "Meghanada Pacheri"],
+      "answer": 3,
+      "explanation": "The temple is surrounded by a high outer boundary wall called the Meghanada Pacheri."
+    },
+    {
+      "id": "jagannath-temple-puri-q26",
+      "difficulty": "hard",
+      "q": "Which audience hall, used for music and dance, was added in front of the temple in later centuries?",
+      "options": ["Mukhashala only", "Natamandira (dancing hall)", "Bhadra Deula", "Snana Mandapa"],
+      "answer": 1,
+      "explanation": "The Natamandira, a hall for ritual dance and music, was added to the temple's frontal structures."
+    },
+    {
+      "id": "jagannath-temple-puri-q27",
+      "difficulty": "hard",
+      "q": "The classical four-part Kalinga temple plan at Puri includes the sanctum, the jagamohana, the natamandira, and which fourth hall?",
+      "options": ["Kalyana Mandapa", "Garbha Mandapa", "Bhoga Mandapa (hall of offerings)", "Ranga Mandapa"],
+      "answer": 2,
+      "explanation": "The Bhoga Mandapa, the hall of food offerings, completes the four aligned structures of the temple."
+    },
+    {
+      "id": "jagannath-temple-puri-q28",
+      "difficulty": "hard",
+      "q": "A monolithic pillar standing before the Singha Dwara was relocated from which other Odisha temple?",
+      "options": ["Lingaraja Temple", "Konark Sun Temple", "Mukteshwar Temple", "Rajarani Temple"],
+      "answer": 1,
+      "explanation": "The Aruna Stambha pillar at the Lion Gate was brought to Puri from the Konark Sun Temple."
+    },
+    {
+      "id": "jagannath-temple-puri-q29",
+      "difficulty": "hard",
+      "q": "The 16th-century Odia poet famous for his devotional 'Bhagavata' linked to Jagannath worship was who?",
+      "options": ["Jayadeva", "Jagannatha Dasa", "Sarala Dasa", "Upendra Bhanja"],
+      "answer": 1,
+      "explanation": "Jagannatha Dasa, one of the Panchasakha poets, composed the Odia Bhagavata associated with Jagannath devotion."
+    },
+    {
+      "id": "jagannath-temple-puri-q30",
+      "difficulty": "hard",
+      "q": "Which dynasty's king Prataparudra Deva decreed by temple inscription that only Jayadeva's 'Gita Govinda' be sung during Jagannath's evening worship?",
+      "options": ["The Suryavamsi Gajapati dynasty", "The Bhaumakara dynasty", "The Somavamsi dynasty", "The Eastern Ganga dynasty"],
+      "answer": 0,
+      "explanation": "Prataparudra Deva of the Suryavamsi Gajapati dynasty issued a c.1500 CE inscription ordaining that only the Gita Govinda be sung in the temple's evening service."
+    }
+  ]
+}

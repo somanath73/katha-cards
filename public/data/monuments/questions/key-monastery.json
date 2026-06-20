@@ -1,0 +1,245 @@
+{
+  "cardId": "key-monastery",
+  "questions": [
+    {
+      "id": "key-monastery-q01",
+      "difficulty": "easy",
+      "q": "In which Indian state is Key Monastery located?",
+      "options": ["Uttarakhand", "Himachal Pradesh", "Sikkim", "Arunachal Pradesh"],
+      "answer": 1,
+      "explanation": "Key Monastery sits in the Spiti Valley of Himachal Pradesh in the western Himalayas."
+    },
+    {
+      "id": "key-monastery-q02",
+      "difficulty": "easy",
+      "q": "Key Monastery is a monastery of which religion?",
+      "options": ["Hinduism", "Jainism", "Tibetan Buddhism", "Sikhism"],
+      "answer": 2,
+      "explanation": "Key (Kye) Gompa is a Tibetan Buddhist monastery and the largest in the Spiti Valley."
+    },
+    {
+      "id": "key-monastery-q03",
+      "difficulty": "easy",
+      "q": "In which valley is Key Monastery situated?",
+      "options": ["Spiti Valley", "Nubra Valley", "Kullu Valley", "Zanskar Valley"],
+      "answer": 0,
+      "explanation": "The monastery overlooks the Spiti Valley in the cold desert region of Himachal Pradesh."
+    },
+    {
+      "id": "key-monastery-q04",
+      "difficulty": "easy",
+      "q": "Key Monastery is famously perched on top of what kind of landform?",
+      "options": ["A lakeside meadow", "A coastal cliff", "A river island", "A conical hilltop crag"],
+      "answer": 3,
+      "explanation": "The gompa rises in tiers up a conical hilltop crag above the Spiti River."
+    },
+    {
+      "id": "key-monastery-q05",
+      "difficulty": "easy",
+      "q": "Approximately how old is Key Monastery said to be?",
+      "options": ["About a thousand years", "About a hundred years", "About fifty years", "About three hundred years"],
+      "answer": 0,
+      "explanation": "Key Monastery is traditionally regarded as roughly a thousand years old, founded in the 11th century."
+    },
+    {
+      "id": "key-monastery-q06",
+      "difficulty": "easy",
+      "q": "Which river flows through the valley below Key Monastery?",
+      "options": ["Beas River", "Spiti River", "Sutlej River", "Chenab River"],
+      "answer": 1,
+      "explanation": "Key Monastery overlooks the Spiti River, which gives the valley its name."
+    },
+    {
+      "id": "key-monastery-q07",
+      "difficulty": "easy",
+      "q": "Key Monastery is the largest monastery in which valley?",
+      "options": ["Lahaul Valley", "Parvati Valley", "Spiti Valley", "Sangla Valley"],
+      "answer": 2,
+      "explanation": "Key Gompa is the biggest monastery in the Spiti Valley and a major center of Buddhist learning there."
+    },
+    {
+      "id": "key-monastery-q08",
+      "difficulty": "easy",
+      "q": "Which monks are trained and live at Key Monastery?",
+      "options": ["Hindu sadhus", "Buddhist lamas (monks)", "Jain munis", "Sikh granthis"],
+      "answer": 1,
+      "explanation": "Key Monastery serves as a religious training center where Buddhist lamas study and reside."
+    },
+    {
+      "id": "key-monastery-q09",
+      "difficulty": "easy",
+      "q": "Key Monastery is located at a high altitude. Roughly how high above sea level is it?",
+      "options": ["Around 4,100 metres", "Around 500 metres", "Around 1,200 metres", "Around 8,000 metres"],
+      "answer": 0,
+      "explanation": "Key Monastery stands at roughly 4,100 metres (about 13,600 feet) above sea level."
+    },
+    {
+      "id": "key-monastery-q10",
+      "difficulty": "easy",
+      "q": "Key Monastery's appearance, with buildings stacked up a hill, has led people to compare it to a what?",
+      "options": ["A floating temple", "A fort or fortress", "A lighthouse", "A pyramid"],
+      "answer": 1,
+      "explanation": "Its tiered, defensive-looking layout has earned it the nickname of a fort, fitting the 'Fort of Spiti' tag."
+    },
+    {
+      "id": "key-monastery-q11",
+      "difficulty": "medium",
+      "q": "Key Monastery is also commonly spelled in which of these ways?",
+      "options": ["Kye or Ki Gompa", "Kaza Gompa", "Tabo Gompa", "Dhankar Gompa"],
+      "answer": 0,
+      "explanation": "The monastery is variously spelled Key, Kye, Ki, or Kee Gompa, all referring to the same site."
+    },
+    {
+      "id": "key-monastery-q12",
+      "difficulty": "medium",
+      "q": "Key Monastery is traditionally said to have been founded by Dromtön, who was a disciple of which famous teacher?",
+      "options": ["Adi Shankara", "Guru Nanak", "Atisha", "Tsongkhapa"],
+      "answer": 2,
+      "explanation": "Tradition attributes its founding to Dromtön, a chief disciple of the Bengali master Atisha, in the 11th century."
+    },
+    {
+      "id": "key-monastery-q13",
+      "difficulty": "medium",
+      "q": "To which order (school) of Tibetan Buddhism does Key Monastery belong today?",
+      "options": ["Nyingma", "Gelug (Gelugpa)", "Kagyu", "Sakya"],
+      "answer": 1,
+      "explanation": "Key Monastery belongs to the Gelugpa (Yellow Hat) order, the school of the Dalai Lama."
+    },
+    {
+      "id": "key-monastery-q14",
+      "difficulty": "medium",
+      "q": "The nearest town to Key Monastery, and the administrative subdivision headquarters of Spiti, is which place?",
+      "options": ["Manali", "Reckong Peo", "Kaza", "Keylong"],
+      "answer": 2,
+      "explanation": "Kaza, the largest town of Spiti, lies a short distance from Key Monastery."
+    },
+    {
+      "id": "key-monastery-q15",
+      "difficulty": "medium",
+      "q": "Key Monastery's haphazard box-like rooms and irregular stacking reflect what about its history?",
+      "options": ["It was built in a single year", "It was repeatedly damaged and rebuilt over centuries", "It was designed by a European architect", "It was carved from a single rock"],
+      "answer": 1,
+      "explanation": "Centuries of raids, fires, and earthquakes forced repeated rebuilding, giving it an irregular, fortress-like form."
+    },
+    {
+      "id": "key-monastery-q16",
+      "difficulty": "medium",
+      "q": "Which art form is Key Monastery especially noted for preserving?",
+      "options": ["Mughal miniature paintings", "Ancient murals, thangkas and Buddhist scriptures", "Chola bronze sculptures", "Gandhara stone friezes"],
+      "answer": 1,
+      "explanation": "The monastery houses old murals, thangka paintings, manuscripts, and Buddhist images of great value."
+    },
+    {
+      "id": "key-monastery-q17",
+      "difficulty": "medium",
+      "q": "During the 19th century, Key Monastery suffered repeated attacks. Which forces are recorded among its raiders?",
+      "options": ["Portuguese traders", "Mongol and later Dogra/Sikh armies", "British East India Company navy", "Maratha cavalry"],
+      "answer": 1,
+      "explanation": "Mongol raids and later Dogra and Sikh military campaigns repeatedly plundered and damaged the monastery."
+    },
+    {
+      "id": "key-monastery-q18",
+      "difficulty": "medium",
+      "q": "Spiti, where Key Monastery lies, is often described by which geographic term?",
+      "options": ["Tropical rainforest", "Cold mountain desert", "Coastal wetland", "Alpine grassland plateau of the south"],
+      "answer": 1,
+      "explanation": "Spiti is a high-altitude cold desert with sparse vegetation, sitting in the Himalayan rain shadow."
+    },
+    {
+      "id": "key-monastery-q19",
+      "difficulty": "medium",
+      "q": "What is the primary function of Key Monastery besides being a place of worship?",
+      "options": ["A trading post", "A monastic school for training young monks", "A royal summer palace", "A military garrison"],
+      "answer": 1,
+      "explanation": "Key Gompa is a major monastic college where young monks receive their religious education."
+    },
+    {
+      "id": "key-monastery-q20",
+      "difficulty": "medium",
+      "q": "Which annual Buddhist festival, featuring masked Cham dances, is celebrated at Key Monastery?",
+      "options": ["Pongal", "Bihu", "Chaam (Gustor) festival", "Onam"],
+      "answer": 2,
+      "explanation": "Key Monastery hosts a Chaam festival with sacred masked dances performed by the monks."
+    },
+    {
+      "id": "key-monastery-q21",
+      "difficulty": "medium",
+      "q": "Key Monastery lies relatively close to which other ancient Spiti monastery, one of the oldest in the Himalayas?",
+      "options": ["Hemis Monastery", "Tabo Monastery", "Rumtek Monastery", "Tawang Monastery"],
+      "answer": 1,
+      "explanation": "Tabo Monastery, also in Spiti and over a thousand years old, is one of Key's notable neighbours."
+    },
+    {
+      "id": "key-monastery-q22",
+      "difficulty": "medium",
+      "q": "In which century is Key Monastery generally believed to have been originally founded?",
+      "options": ["6th century", "11th century", "15th century", "18th century"],
+      "answer": 1,
+      "explanation": "Most accounts date its founding to the 11th century, consistent with its 'thousand-year-old' reputation."
+    },
+    {
+      "id": "key-monastery-q23",
+      "difficulty": "hard",
+      "q": "The 14th Dalai Lama visited Key Monastery in 2000 and conducted what major teaching event there?",
+      "options": ["A coronation", "The Kalachakra initiation/teachings", "A film screening", "A military review"],
+      "answer": 1,
+      "explanation": "The Dalai Lama led Kalachakra ceremonies in the Spiti region around 2000, drawing thousands of pilgrims."
+    },
+    {
+      "id": "key-monastery-q24",
+      "difficulty": "hard",
+      "q": "Key Monastery's tightly clustered, multi-storey form is sometimes cited as an example of which type of Tibetan monastic architecture?",
+      "options": ["Pagoda style", "Stepwell style", "Fortified, fort-like monastery (dzong-like) style", "Open courtyard pavilion style"],
+      "answer": 2,
+      "explanation": "Its agglomerated, fortress-like layering reflects a defensive, fort-like monastic style suited to a contested frontier."
+    },
+    {
+      "id": "key-monastery-q25",
+      "difficulty": "hard",
+      "q": "Which historic spelling/name is NOT a recognized variant used for Key Monastery?",
+      "options": ["Ki Gompa", "Kye Gompa", "Kee Monastery", "Hemis Gompa"],
+      "answer": 3,
+      "explanation": "Hemis is a separate monastery in Ladakh; Key is variously spelled Ki, Kye, Kee, or Key."
+    },
+    {
+      "id": "key-monastery-q26",
+      "difficulty": "hard",
+      "q": "The murals and scrolls at Key Monastery reflect which broader cultural sphere?",
+      "options": ["Dravidian temple tradition", "Indo-Tibetan Buddhist tradition", "Persian Safavid tradition", "Greco-Roman tradition"],
+      "answer": 1,
+      "explanation": "Its art belongs to the Indo-Tibetan Buddhist tradition shared across the western Himalayan monasteries."
+    },
+    {
+      "id": "key-monastery-q27",
+      "difficulty": "hard",
+      "q": "Key Monastery's lower chambers and prayer halls store collections of which sacred objects?",
+      "options": ["Ancient weapons and shields only", "Buddhist scriptures, weapons used in past defense, and ritual instruments", "Mughal coins", "Roman pottery"],
+      "answer": 1,
+      "explanation": "The gompa preserves scriptures, ritual instruments, and even old weapons reflecting its turbulent defensive past."
+    },
+    {
+      "id": "key-monastery-q28",
+      "difficulty": "hard",
+      "q": "Because of its location, Key Monastery is accessible by road mainly during which part of the year?",
+      "options": ["Year-round with no closures", "Only the monsoon weeks", "The warmer months, with winter access cut by heavy snow", "Only during winter"],
+      "answer": 2,
+      "explanation": "High Himalayan passes into Spiti are snowbound in winter, so road access is reliable mainly in the warmer months."
+    },
+    {
+      "id": "key-monastery-q29",
+      "difficulty": "hard",
+      "q": "Key Monastery is administratively part of which district of Himachal Pradesh?",
+      "options": ["Kullu district", "Lahaul and Spiti district", "Kinnaur district", "Shimla district"],
+      "answer": 1,
+      "explanation": "The monastery lies within the Lahaul and Spiti district of Himachal Pradesh."
+    },
+    {
+      "id": "key-monastery-q30",
+      "difficulty": "hard",
+      "q": "What does the tiered, stacked construction of Key Monastery practically provide its monastic community?",
+      "options": ["Protection from raiders plus expandable living and prayer space", "A natural swimming pool", "An underground railway", "A harbour for boats"],
+      "answer": 0,
+      "explanation": "The fortress-like tiers offered defense against raiders while allowing the complex to grow as rooms were added over time."
+    }
+  ]
+}

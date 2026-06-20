@@ -1,0 +1,245 @@
+{
+  "cardId": "gol-gumbaz",
+  "questions": [
+    {
+      "id": "gol-gumbaz-q01",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state is the Gol Gumbaz located?",
+      "options": ["Maharashtra", "Karnataka", "Telangana", "Andhra Pradesh"],
+      "answer": 1,
+      "explanation": "Gol Gumbaz stands in Bijapur (Vijayapura), which lies in the state of Karnataka."
+    },
+    {
+      "id": "gol-gumbaz-q02",
+      "difficulty": "easy",
+      "q": "What type of structure is the Gol Gumbaz?",
+      "options": ["A palace", "A mosque", "A mausoleum (tomb)", "A fort"],
+      "answer": 2,
+      "explanation": "The Gol Gumbaz is a mausoleum, built as the tomb of Sultan Mohammed Adil Shah."
+    },
+    {
+      "id": "gol-gumbaz-q03",
+      "difficulty": "easy",
+      "q": "Whose tomb is the Gol Gumbaz?",
+      "options": ["Mohammed Adil Shah", "Akbar", "Tipu Sultan", "Shivaji"],
+      "answer": 0,
+      "explanation": "The Gol Gumbaz was built as the tomb of Mohammed Adil Shah, the seventh ruler of the Adil Shahi dynasty of Bijapur."
+    },
+    {
+      "id": "gol-gumbaz-q04",
+      "difficulty": "easy",
+      "q": "The Gol Gumbaz is most famous for being crowned by what feature?",
+      "options": ["A tall minaret", "A golden spire", "A reflecting pool", "An enormous dome"],
+      "answer": 3,
+      "explanation": "Gol Gumbaz is renowned for its huge hemispherical dome, one of the largest in the world."
+    },
+    {
+      "id": "gol-gumbaz-q05",
+      "difficulty": "easy",
+      "q": "The acoustic feature inside the Gol Gumbaz where even a whisper carries across the dome is known as the what?",
+      "options": ["Echo chamber", "Sound vault", "Whispering Gallery", "Voice tunnel"],
+      "answer": 2,
+      "explanation": "The circular gallery beneath the dome is famous as the Whispering Gallery, where whispers can be heard across its width."
+    },
+    {
+      "id": "gol-gumbaz-q06",
+      "difficulty": "easy",
+      "q": "In which city is the Gol Gumbaz situated?",
+      "options": ["Bijapur (Vijayapura)", "Hampi", "Mysuru", "Hyderabad"],
+      "answer": 0,
+      "explanation": "Gol Gumbaz is located in the city of Bijapur, officially renamed Vijayapura, in Karnataka."
+    },
+    {
+      "id": "gol-gumbaz-q07",
+      "difficulty": "easy",
+      "q": "In which century was the Gol Gumbaz built?",
+      "options": ["13th century", "15th century", "17th century", "19th century"],
+      "answer": 2,
+      "explanation": "The Gol Gumbaz was constructed in the 17th century, completed around 1656."
+    },
+    {
+      "id": "gol-gumbaz-q08",
+      "difficulty": "easy",
+      "q": "The name 'Gol Gumbaz' broadly refers to what?",
+      "options": ["Royal garden", "Sacred well", "Tall tower", "Round/circular dome"],
+      "answer": 3,
+      "explanation": "The name derives from terms meaning a round or circular dome, referring to its great hemispherical dome."
+    },
+    {
+      "id": "gol-gumbaz-q09",
+      "difficulty": "easy",
+      "q": "The Gol Gumbaz is associated with which broad style of architecture?",
+      "options": ["Dravidian temple architecture", "Gothic architecture", "Colonial Victorian architecture", "Indo-Islamic (Deccani) architecture"],
+      "answer": 3,
+      "explanation": "Gol Gumbaz is a prime example of Indo-Islamic architecture in the Deccani style of the Adil Shahi sultanate."
+    },
+    {
+      "id": "gol-gumbaz-q10",
+      "difficulty": "easy",
+      "q": "How many towers or turrets stand at the corners of the Gol Gumbaz?",
+      "options": ["Two", "Four", "Six", "Eight"],
+      "answer": 1,
+      "explanation": "The cube-shaped tomb has four octagonal multi-storey towers, one at each corner."
+    },
+    {
+      "id": "gol-gumbaz-q11",
+      "difficulty": "medium",
+      "q": "To which Deccan sultanate dynasty did the builder of the Gol Gumbaz belong?",
+      "options": ["The Bahmani dynasty", "The Qutb Shahi dynasty", "The Adil Shahi dynasty", "The Nizam Shahi dynasty"],
+      "answer": 2,
+      "explanation": "Mohammed Adil Shah belonged to the Adil Shahi dynasty, which ruled the Sultanate of Bijapur."
+    },
+    {
+      "id": "gol-gumbaz-q12",
+      "difficulty": "medium",
+      "q": "The Gol Gumbaz was the capital monument of which Deccan sultanate?",
+      "options": ["Sultanate of Golconda", "Sultanate of Bijapur", "Sultanate of Ahmadnagar", "Sultanate of Berar"],
+      "answer": 1,
+      "explanation": "Bijapur was the seat of the Adil Shahi sultanate, and the Gol Gumbaz is its grandest monument."
+    },
+    {
+      "id": "gol-gumbaz-q13",
+      "difficulty": "medium",
+      "q": "The internal diameter of the Gol Gumbaz dome is approximately which of the following?",
+      "options": ["About 12 metres", "About 38 metres", "About 75 metres", "About 100 metres"],
+      "answer": 1,
+      "explanation": "The dome spans an internal diameter of roughly 38 metres (about 124 feet), making it one of the largest masonry domes in the world."
+    },
+    {
+      "id": "gol-gumbaz-q14",
+      "difficulty": "medium",
+      "q": "The Gol Gumbaz dome is often described as one of the largest of its kind in the world, second among such single-chamber domes mainly behind which famous structure?",
+      "options": ["The Pantheon in Rome / St. Peter's Basilica", "The Taj Mahal", "The Hagia Sophia minarets", "The Qutb Minar"],
+      "answer": 0,
+      "explanation": "Its dome is frequently compared to and ranked just after great domes such as the Pantheon and St. Peter's Basilica as one of the largest masonry domes."
+    },
+    {
+      "id": "gol-gumbaz-q15",
+      "difficulty": "medium",
+      "q": "What architectural device supports the great dome and creates the famous acoustics inside the Gol Gumbaz?",
+      "options": ["Flying buttresses", "Iron tension rings", "Wooden trusses", "Intersecting (interlocking) pendentive arches"],
+      "answer": 3,
+      "explanation": "The dome rests on a system of intersecting pendentive arches that transfer its weight to the walls and shape the whispering gallery's acoustics."
+    },
+    {
+      "id": "gol-gumbaz-q16",
+      "difficulty": "medium",
+      "q": "Roughly in which year was construction of the Gol Gumbaz completed?",
+      "options": ["1356", "1456", "1656", "1756"],
+      "answer": 2,
+      "explanation": "The mausoleum was completed around 1656, in the mid-17th century."
+    },
+    {
+      "id": "gol-gumbaz-q17",
+      "difficulty": "medium",
+      "q": "The basic plan of the Gol Gumbaz tomb chamber is in the shape of what?",
+      "options": ["A circle", "A cube (square plan)", "A cross", "An octagon"],
+      "answer": 1,
+      "explanation": "The tomb is essentially a large cube—a square-plan hall—surmounted by the hemispherical dome."
+    },
+    {
+      "id": "gol-gumbaz-q18",
+      "difficulty": "medium",
+      "q": "Which architect is traditionally credited with designing the Gol Gumbaz?",
+      "options": ["Ustad Ahmad Lahori", "Yaqut of Dabul", "Mirak Mirza Ghiyas", "Malik Sandal"],
+      "answer": 1,
+      "explanation": "The Gol Gumbaz is traditionally attributed to the architect Yaqut of Dabul, who served the Adil Shahi court."
+    },
+    {
+      "id": "gol-gumbaz-q19",
+      "difficulty": "medium",
+      "q": "Which government body is responsible for protecting and maintaining the Gol Gumbaz today?",
+      "options": ["The Karnataka Tourism Board only", "UNESCO directly", "The Waqf Board only", "The Archaeological Survey of India (ASI)"],
+      "answer": 3,
+      "explanation": "The Gol Gumbaz is a centrally protected monument under the Archaeological Survey of India."
+    },
+    {
+      "id": "gol-gumbaz-q20",
+      "difficulty": "medium",
+      "q": "Besides Mohammed Adil Shah himself, the Gol Gumbaz also contains the graves of which people?",
+      "options": ["Only Mughal generals", "Members of his family including wives and relatives", "Bahmani sultans", "British colonial officers"],
+      "answer": 1,
+      "explanation": "The tomb's central platform holds the graves of Mohammed Adil Shah along with members of his family, such as his wives and other relatives."
+    },
+    {
+      "id": "gol-gumbaz-q21",
+      "difficulty": "medium",
+      "q": "What is the primary building material of the Gol Gumbaz?",
+      "options": ["White marble", "Red sandstone", "Fired brick alone", "Dark grey basalt / stone masonry with mortar"],
+      "answer": 3,
+      "explanation": "Gol Gumbaz is built largely of the dark grey-green basalt stone of the Deccan, set with mortar, rather than marble."
+    },
+    {
+      "id": "gol-gumbaz-q22",
+      "difficulty": "medium",
+      "q": "Which UNESCO recognition status best describes the Gol Gumbaz?",
+      "options": ["A full UNESCO World Heritage Site since 1983", "An ASI-protected Monument of National Importance, included on India's UNESCO Tentative List", "A UNESCO Natural Heritage Site", "Removed from all heritage lists"],
+      "answer": 1,
+      "explanation": "Gol Gumbaz is an ASI Monument of National Importance and the monuments of Bijapur feature on India's UNESCO World Heritage Tentative List rather than as an inscribed site."
+    },
+    {
+      "id": "gol-gumbaz-q23",
+      "difficulty": "hard",
+      "q": "Mohammed Adil Shah, for whom the Gol Gumbaz was built, was which ruler in the line of the Adil Shahi dynasty?",
+      "options": ["Its founder", "Its second ruler", "Its seventh ruler", "Its last ruler"],
+      "answer": 2,
+      "explanation": "Mohammed Adil Shah was the seventh sultan of the Adil Shahi dynasty of Bijapur."
+    },
+    {
+      "id": "gol-gumbaz-q24",
+      "difficulty": "hard",
+      "q": "In the Whispering Gallery of the Gol Gumbaz, sounds are famously said to echo approximately how many times?",
+      "options": ["About 2 times", "Exactly once", "About 7–10 times", "Over 50 times"],
+      "answer": 2,
+      "explanation": "Guides commonly note that a sound in the Whispering Gallery can echo about seven to ten times due to the dome's acoustics."
+    },
+    {
+      "id": "gol-gumbaz-q25",
+      "difficulty": "hard",
+      "q": "Within the four corner towers of the Gol Gumbaz, how does one typically reach the Whispering Gallery at the base of the dome?",
+      "options": ["By an external elevator", "By a ramp on the roof", "By climbing spiral staircases inside the corner towers", "Access is impossible"],
+      "answer": 2,
+      "explanation": "Each of the four octagonal corner towers contains a staircase, and visitors climb these to reach the gallery encircling the dome's interior."
+    },
+    {
+      "id": "gol-gumbaz-q26",
+      "difficulty": "hard",
+      "q": "Which Mughal emperor was a contemporary adversary against whose empire Mohammed Adil Shah's Bijapur sultanate had to contend in the Deccan?",
+      "options": ["Babur", "Humayun", "Shah Jahan (and later Aurangzeb)", "Bahadur Shah Zafar"],
+      "answer": 2,
+      "explanation": "Bijapur under Mohammed Adil Shah was pressured by the Mughals under Shah Jahan, and the sultanate was finally annexed by Aurangzeb in 1686."
+    },
+    {
+      "id": "gol-gumbaz-q27",
+      "difficulty": "hard",
+      "q": "The Gol Gumbaz complex also includes which associated structure within its grounds?",
+      "options": ["A Buddhist stupa", "A Christian cathedral", "A Jain basadi", "A mosque and a gateway/Naqqar Khana (now a museum)"],
+      "answer": 3,
+      "explanation": "The complex includes a mosque and a gateway building, the Naqqar Khana, which now houses an archaeological museum."
+    },
+    {
+      "id": "gol-gumbaz-q28",
+      "difficulty": "hard",
+      "q": "The unsupported single chamber beneath the Gol Gumbaz dome is celebrated as one of the largest of its kind. What makes this especially notable?",
+      "options": ["It uses no walls at all", "It is one of the largest single chambers covered by a dome without intermediate supporting pillars", "It floats above the ground", "It is entirely underground"],
+      "answer": 1,
+      "explanation": "The hall is famed as one of the world's largest single chambers spanned by a dome with no internal supporting pillars."
+    },
+    {
+      "id": "gol-gumbaz-q29",
+      "difficulty": "hard",
+      "q": "The dome of the Gol Gumbaz rests on a circular drum that springs from the walls; the transition from the square hall to the circular dome base is achieved chiefly by what?",
+      "options": ["Squinches and intersecting pendentive arches", "Steel girders", "Layered timber rings", "A separate floating shell"],
+      "answer": 0,
+      "explanation": "The square-to-circle transition is managed by squinch-like intersecting pendentive arches, a hallmark of Deccani dome construction."
+    },
+    {
+      "id": "gol-gumbaz-q30",
+      "difficulty": "hard",
+      "q": "The Adil Shahi dynasty that built the Gol Gumbaz traced its origins to a founder of what background?",
+      "options": ["A local Deccani Hindu chieftain", "Yusuf Adil Shah, of Persian/Turkic origin who founded Bijapur's independence from the Bahmanis", "A Portuguese settler", "A Mughal prince"],
+      "answer": 1,
+      "explanation": "The Adil Shahi dynasty was founded by Yusuf Adil Shah, of Persian/Turkic origin, who established Bijapur's independence as the Bahmani Sultanate fragmented."
+    }
+  ]
+}

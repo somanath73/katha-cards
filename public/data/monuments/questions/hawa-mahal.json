@@ -1,0 +1,245 @@
+{
+  "cardId": "hawa-mahal",
+  "questions": [
+    {
+      "id": "hawa-mahal-q01",
+      "difficulty": "easy",
+      "q": "In which Indian city does the Hawa Mahal stand?",
+      "options": ["Udaipur", "Jaipur", "Jodhpur", "Jaisalmer"],
+      "answer": 1,
+      "explanation": "The Hawa Mahal is one of the best-known landmarks of Jaipur, the capital of Rajasthan."
+    },
+    {
+      "id": "hawa-mahal-q02",
+      "difficulty": "easy",
+      "q": "What is the popular English meaning of the name 'Hawa Mahal'?",
+      "options": ["Palace of Winds", "Palace of Mirrors", "Palace of Gold", "Palace of Flowers"],
+      "answer": 0,
+      "explanation": "'Hawa Mahal' translates as 'Palace of Winds', named for the breeze that flows through its many windows."
+    },
+    {
+      "id": "hawa-mahal-q03",
+      "difficulty": "easy",
+      "q": "Which Indian state is the Hawa Mahal located in?",
+      "options": ["Gujarat", "Madhya Pradesh", "Rajasthan", "Uttar Pradesh"],
+      "answer": 2,
+      "explanation": "The Hawa Mahal is in Jaipur, which is the capital of the state of Rajasthan."
+    },
+    {
+      "id": "hawa-mahal-q04",
+      "difficulty": "easy",
+      "q": "What is the predominant colour of the Hawa Mahal's facade?",
+      "options": ["White", "Pink", "Blue", "Yellow"],
+      "answer": 1,
+      "explanation": "The Hawa Mahal is built of pink sandstone, in keeping with Jaipur's famous 'Pink City' look."
+    },
+    {
+      "id": "hawa-mahal-q05",
+      "difficulty": "easy",
+      "q": "What is the main building material of the Hawa Mahal?",
+      "options": ["Marble", "Granite", "Sandstone", "Laterite"],
+      "answer": 2,
+      "explanation": "The Hawa Mahal is constructed of pink and red sandstone."
+    },
+    {
+      "id": "hawa-mahal-q06",
+      "difficulty": "easy",
+      "q": "Jaipur, where the Hawa Mahal stands, is popularly nicknamed which 'colour' city?",
+      "options": ["The Blue City", "The Golden City", "The White City", "The Pink City"],
+      "answer": 3,
+      "explanation": "Jaipur is famously called the 'Pink City' for the rosy hue of many of its buildings, including the Hawa Mahal."
+    },
+    {
+      "id": "hawa-mahal-q07",
+      "difficulty": "easy",
+      "q": "The Hawa Mahal is best known as a striking example of what part of a building?",
+      "options": ["A grand dome", "A latticed facade of windows", "An underground vault", "A massive gateway tower"],
+      "answer": 1,
+      "explanation": "The Hawa Mahal is essentially a tall, honeycombed facade studded with hundreds of latticed windows."
+    },
+    {
+      "id": "hawa-mahal-q08",
+      "difficulty": "easy",
+      "q": "The small latticed windows of the Hawa Mahal are known by which term?",
+      "options": ["Jharokhas", "Minars", "Toranas", "Gopurams"],
+      "answer": 0,
+      "explanation": "The projecting latticed windows of Rajput architecture, seen across the Hawa Mahal, are called jharokhas."
+    },
+    {
+      "id": "hawa-mahal-q09",
+      "difficulty": "easy",
+      "q": "For whom was the Hawa Mahal primarily designed to allow viewing of the street below?",
+      "options": ["Foreign ambassadors", "Royal women of the palace", "City merchants", "Temple priests"],
+      "answer": 1,
+      "explanation": "Its screened windows let the royal women observe street life and festivals without being seen, in keeping with purdah."
+    },
+    {
+      "id": "hawa-mahal-q10",
+      "difficulty": "easy",
+      "q": "The Hawa Mahal forms part of the larger complex of which Jaipur landmark?",
+      "options": ["The City Palace", "The Amber Fort", "The Jantar Mantar gardens", "Nahargarh Fort"],
+      "answer": 0,
+      "explanation": "The Hawa Mahal was built on the edge of the City Palace complex and is connected to it."
+    },
+    {
+      "id": "hawa-mahal-q11",
+      "difficulty": "medium",
+      "q": "In which year was the Hawa Mahal built?",
+      "options": ["1727", "1799", "1856", "1876"],
+      "answer": 1,
+      "explanation": "The Hawa Mahal was constructed in 1799."
+    },
+    {
+      "id": "hawa-mahal-q12",
+      "difficulty": "medium",
+      "q": "Which Kachhwaha ruler commissioned the Hawa Mahal?",
+      "options": ["Sawai Jai Singh II", "Maharaja Sawai Pratap Singh", "Maharaja Man Singh II", "Maharaja Ram Singh II"],
+      "answer": 1,
+      "explanation": "The Hawa Mahal was built in 1799 by Maharaja Sawai Pratap Singh of the Kachhwaha dynasty."
+    },
+    {
+      "id": "hawa-mahal-q13",
+      "difficulty": "medium",
+      "q": "How many windows (jharokhas) does the Hawa Mahal famously have?",
+      "options": ["365", "953", "1008", "1444"],
+      "answer": 1,
+      "explanation": "The Hawa Mahal's facade is a honeycomb of 953 small latticed windows."
+    },
+    {
+      "id": "hawa-mahal-q14",
+      "difficulty": "medium",
+      "q": "How many storeys tall is the Hawa Mahal?",
+      "options": ["Three", "Four", "Five", "Seven"],
+      "answer": 2,
+      "explanation": "The Hawa Mahal rises five storeys high on its street-facing side."
+    },
+    {
+      "id": "hawa-mahal-q15",
+      "difficulty": "medium",
+      "q": "The five-storey silhouette of the Hawa Mahal is said to resemble the crown of which Hindu deity?",
+      "options": ["Lord Shiva", "Lord Vishnu", "Lord Krishna", "Lord Ganesha"],
+      "answer": 2,
+      "explanation": "Its tiered, crown-like form is traditionally said to evoke the mukut (crown) of Lord Krishna."
+    },
+    {
+      "id": "hawa-mahal-q16",
+      "difficulty": "medium",
+      "q": "Who is credited as the architect/designer of the Hawa Mahal?",
+      "options": ["Lal Chand Ustad", "Vidyadhar Bhattacharya", "Mirza Ismail", "Samuel Swinton Jacob"],
+      "answer": 0,
+      "explanation": "The Hawa Mahal was designed by the architect Lal Chand Ustad."
+    },
+    {
+      "id": "hawa-mahal-q17",
+      "difficulty": "medium",
+      "q": "What architectural styles are blended in the Hawa Mahal's design?",
+      "options": ["Gothic and Baroque", "Rajput and Mughal", "Dravidian and Nagara", "Indo-Saracenic and Art Deco"],
+      "answer": 1,
+      "explanation": "The Hawa Mahal fuses Rajput architecture with Mughal elements such as its arches and filigree screens."
+    },
+    {
+      "id": "hawa-mahal-q18",
+      "difficulty": "medium",
+      "q": "How were the upper floors of the Hawa Mahal designed to be reached, given the building has no straight staircases?",
+      "options": ["By spiral staircases", "By a central elevator shaft", "By gently sloping ramps", "By external ladders"],
+      "answer": 2,
+      "explanation": "Instead of stairs, gently sloping ramps connect the storeys, making them easy to climb."
+    },
+    {
+      "id": "hawa-mahal-q19",
+      "difficulty": "medium",
+      "q": "The intricate latticework (jali) on the windows served a practical climate function. What was it?",
+      "options": ["It kept out monsoon rain", "It cooled interiors through the Venturi effect of passing air", "It blocked all sunlight to keep rooms dark", "It trapped heat for cold desert nights"],
+      "answer": 1,
+      "explanation": "Air passing through the small jali openings created a cooling breeze, an early form of natural air conditioning."
+    },
+    {
+      "id": "hawa-mahal-q20",
+      "difficulty": "medium",
+      "q": "The Hawa Mahal's grand, multi-windowed facade overlooks which feature of Jaipur?",
+      "options": ["The Maota Lake", "The main bazaar street", "The Man Sagar lake", "The royal gardens of Sisodia Rani"],
+      "answer": 1,
+      "explanation": "The ornate facade faces one of Jaipur's main bazaar streets, which the royal women could watch unseen."
+    },
+    {
+      "id": "hawa-mahal-q21",
+      "difficulty": "medium",
+      "q": "The main entrance to the Hawa Mahal is located in an unexpected place. Where is it?",
+      "options": ["At the top of the building", "Through the famous front facade", "From the rear, via the City Palace side", "Through an underground tunnel"],
+      "answer": 2,
+      "explanation": "The celebrated facade has no street entrance; visitors enter from the rear courtyard on the City Palace side."
+    },
+    {
+      "id": "hawa-mahal-q22",
+      "difficulty": "medium",
+      "q": "Which Jaipur ruler is credited with founding the city of Jaipur itself, decades before the Hawa Mahal was built?",
+      "options": ["Sawai Pratap Singh", "Sawai Jai Singh II", "Mirza Raja Jai Singh I", "Sawai Madho Singh I"],
+      "answer": 1,
+      "explanation": "Jaipur was founded in 1727 by Sawai Jai Singh II; the Hawa Mahal came later, in 1799."
+    },
+    {
+      "id": "hawa-mahal-q23",
+      "difficulty": "hard",
+      "q": "Maharaja Sawai Pratap Singh, who built the Hawa Mahal, was a devotee of which deity, reflected in the building's form?",
+      "options": ["Krishna", "Surya", "Hanuman", "Durga"],
+      "answer": 0,
+      "explanation": "Sawai Pratap Singh was a devotee of Lord Krishna, and the palace's crown-like shape honours the deity."
+    },
+    {
+      "id": "hawa-mahal-q24",
+      "difficulty": "hard",
+      "q": "The Hawa Mahal is comparatively shallow for its height. Roughly how thick is the famous facade in terms of its depth?",
+      "options": ["It is a deep multi-roomed block", "It is essentially a thin screen-like wall of rooms", "It is hollow with no rooms", "It is solid stone with no interior"],
+      "answer": 1,
+      "explanation": "Despite its imposing height, the Hawa Mahal is essentially a thin, screen-like facade only a few rooms deep."
+    },
+    {
+      "id": "hawa-mahal-q25",
+      "difficulty": "hard",
+      "q": "Which named storey of the Hawa Mahal is famed for its coloured glass that bathes interiors in jewel-like light?",
+      "options": ["Sharad Mandir", "Ratan Mandir", "Vichitra Mandir", "Hawa Mandir"],
+      "answer": 1,
+      "explanation": "The second storey, Ratan Mandir (from 'ratan', meaning jewel), is noted for its delicate coloured glass that glows like jewels in the sunlight."
+    },
+    {
+      "id": "hawa-mahal-q26",
+      "difficulty": "hard",
+      "q": "The topmost floors of the Hawa Mahal carry distinctive names. Which of these is one of its storeys?",
+      "options": ["Diwan-i-Khas", "Hawa Mandir", "Rang Mahal", "Anguri Bagh"],
+      "answer": 1,
+      "explanation": "The fifth and topmost storey of the Hawa Mahal is known as the Hawa Mandir."
+    },
+    {
+      "id": "hawa-mahal-q27",
+      "difficulty": "hard",
+      "q": "The Hawa Mahal is constructed in the form associated with which religious tradition's iconography of a crown?",
+      "options": ["Jain Tirthankara imagery", "Lord Krishna's crown and flute imagery", "Buddhist stupa form", "Islamic minaret form"],
+      "answer": 1,
+      "explanation": "Its pyramidal, tiered profile was conceived to resemble the crown (mukut) of Lord Krishna."
+    },
+    {
+      "id": "hawa-mahal-q28",
+      "difficulty": "hard",
+      "q": "Which broader heritage area, listed by UNESCO, encompasses the part of Jaipur where the Hawa Mahal stands?",
+      "options": ["Jaipur City, a World Heritage Site since 2019", "Hill Forts of Rajasthan", "Mountain Railways of India", "Western Ghats"],
+      "answer": 0,
+      "explanation": "The walled Jaipur City, which contains the Hawa Mahal, was inscribed as a UNESCO World Heritage Site in 2019."
+    },
+    {
+      "id": "hawa-mahal-q29",
+      "difficulty": "hard",
+      "q": "Roughly how tall is the Hawa Mahal from its base to the top?",
+      "options": ["About 15 metres", "About 50 metres", "About 73 metres", "About 100 metres"],
+      "answer": 0,
+      "explanation": "The Hawa Mahal stands roughly 15 metres (about 50 feet) high from its base."
+    },
+    {
+      "id": "hawa-mahal-q30",
+      "difficulty": "hard",
+      "q": "Why does the Hawa Mahal lack the grand front gate typical of Rajput palaces, with its showpiece being only the facade?",
+      "options": ["It was left unfinished by its builder", "It was designed mainly as a screened extension of the women's quarters", "It was originally a temple converted later", "Its gate collapsed in an earthquake"],
+      "answer": 1,
+      "explanation": "The Hawa Mahal was built as a screened wing for the royal women, so its purpose was the viewing facade rather than a ceremonial gateway."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "ellora-caves",
+  "questions": [
+    {
+      "id": "ellora-caves-q01",
+      "difficulty": "easy",
+      "q": "In which Indian state are the Ellora Caves located?",
+      "options": ["Karnataka", "Maharashtra", "Madhya Pradesh", "Gujarat"],
+      "answer": 1,
+      "explanation": "The Ellora Caves are in Maharashtra, near the city of Aurangabad (Chhatrapati Sambhajinagar)."
+    },
+    {
+      "id": "ellora-caves-q02",
+      "difficulty": "easy",
+      "q": "What type of monument is Ellora?",
+      "options": ["A rock-cut cave complex", "A Mughal tomb", "A hilltop fort", "A floating palace"],
+      "answer": 0,
+      "explanation": "Ellora is a complex of rock-cut caves and temples carved into a basalt cliff."
+    },
+    {
+      "id": "ellora-caves-q03",
+      "difficulty": "easy",
+      "q": "The most famous monument at Ellora is the temple dedicated to which Hindu deity?",
+      "options": ["Vishnu", "Brahma", "Shiva", "Ganesha"],
+      "answer": 2,
+      "explanation": "The Kailasa temple at Ellora is dedicated to Lord Shiva and represents Mount Kailash."
+    },
+    {
+      "id": "ellora-caves-q04",
+      "difficulty": "easy",
+      "q": "What is the name of Ellora's colossal rock-cut temple?",
+      "options": ["Kailasa Temple", "Brihadisvara Temple", "Lingaraja Temple", "Meenakshi Temple"],
+      "answer": 0,
+      "explanation": "The Kailasa (Kailasanatha) temple is Ellora's most celebrated monument."
+    },
+    {
+      "id": "ellora-caves-q05",
+      "difficulty": "easy",
+      "q": "What international status does Ellora hold?",
+      "options": ["Seven Wonders of the World", "New7Wonders of Nature", "Ramsar Wetland Site", "UNESCO World Heritage Site"],
+      "answer": 3,
+      "explanation": "Ellora was inscribed as a UNESCO World Heritage Site in 1983."
+    },
+    {
+      "id": "ellora-caves-q06",
+      "difficulty": "easy",
+      "q": "The caves at Ellora represent how many different religions?",
+      "options": ["One", "Two", "Three", "Five"],
+      "answer": 2,
+      "explanation": "Ellora's caves belong to three faiths: Buddhism, Hinduism and Jainism."
+    },
+    {
+      "id": "ellora-caves-q07",
+      "difficulty": "easy",
+      "q": "Which three religions are represented among the Ellora caves?",
+      "options": ["Hindu, Buddhist and Jain", "Hindu, Sikh and Jain", "Buddhist, Jain and Christian", "Hindu, Buddhist and Islamic"],
+      "answer": 0,
+      "explanation": "Ellora uniquely combines Buddhist, Hindu and Jain rock-cut monuments at one site."
+    },
+    {
+      "id": "ellora-caves-q08",
+      "difficulty": "easy",
+      "q": "The Kailasa temple was carved out of what kind of material?",
+      "options": ["Marble blocks", "Sandstone bricks", "A single mass of rock", "Granite slabs"],
+      "answer": 2,
+      "explanation": "The Kailasa temple was carved from a single massive rock of the basalt cliff."
+    },
+    {
+      "id": "ellora-caves-q09",
+      "difficulty": "easy",
+      "q": "How were the Ellora monuments created?",
+      "options": ["Built up with stacked stone", "Cast in concrete", "Excavated and carved into rock", "Assembled from timber"],
+      "answer": 2,
+      "explanation": "The monuments were excavated and sculpted directly out of the living rock of the hillside."
+    },
+    {
+      "id": "ellora-caves-q10",
+      "difficulty": "easy",
+      "q": "Ellora is located near which other famous group of rock-cut caves in Maharashtra?",
+      "options": ["Ajanta Caves", "Badami Caves", "Bagh Caves", "Karla Caves"],
+      "answer": 0,
+      "explanation": "The Ajanta Caves lie not far from Ellora in the same region of Maharashtra."
+    },
+    {
+      "id": "ellora-caves-q11",
+      "difficulty": "medium",
+      "q": "Which royal dynasty is credited with commissioning the great Kailasa temple at Ellora?",
+      "options": ["Chola dynasty", "Rashtrakuta dynasty", "Gupta dynasty", "Maratha dynasty"],
+      "answer": 1,
+      "explanation": "The Kailasa temple was commissioned under the Rashtrakuta dynasty."
+    },
+    {
+      "id": "ellora-caves-q12",
+      "difficulty": "medium",
+      "q": "The Kailasa temple is traditionally attributed to which Rashtrakuta king?",
+      "options": ["Amoghavarsha I", "Govinda III", "Dantidurga", "Krishna I"],
+      "answer": 3,
+      "explanation": "The Kailasa temple is generally credited to the Rashtrakuta king Krishna I in the 8th century."
+    },
+    {
+      "id": "ellora-caves-q13",
+      "difficulty": "medium",
+      "q": "In roughly which century was the Kailasa temple created?",
+      "options": ["3rd century BCE", "8th century CE", "12th century CE", "16th century CE"],
+      "answer": 1,
+      "explanation": "The Kailasa temple was carved in the 8th century CE under Rashtrakuta patronage."
+    },
+    {
+      "id": "ellora-caves-q14",
+      "difficulty": "medium",
+      "q": "What is especially remarkable about how the Kailasa temple was carved?",
+      "options": ["It was carved from the top downward", "It was carved underwater", "It was carved from the bottom upward", "It was carved horizontally into a plain"],
+      "answer": 0,
+      "explanation": "The Kailasa temple was excavated top-down, beginning at the roof and working downward into the rock."
+    },
+    {
+      "id": "ellora-caves-q15",
+      "difficulty": "medium",
+      "q": "Approximately how many major caves make up the Ellora complex?",
+      "options": ["About 34", "About 5", "About 100", "About 250"],
+      "answer": 0,
+      "explanation": "Ellora comprises roughly 34 major rock-cut caves across the Buddhist, Hindu and Jain groups."
+    },
+    {
+      "id": "ellora-caves-q16",
+      "difficulty": "medium",
+      "q": "Which mountain is the Kailasa temple designed to symbolically represent?",
+      "options": ["Mount Everest", "Mount Meru", "Mount Kailash", "Mount Abu"],
+      "answer": 2,
+      "explanation": "The Kailasa temple represents Mount Kailash, the Himalayan abode of Lord Shiva."
+    },
+    {
+      "id": "ellora-caves-q17",
+      "difficulty": "medium",
+      "q": "Cave 16, the Kailasa temple, is famous for being the world's largest example of what?",
+      "options": ["A monolithic rock-cut structure", "A brick-built ziggurat", "A timber-framed shrine", "A marble mausoleum"],
+      "answer": 0,
+      "explanation": "The Kailasa temple is considered the largest single monolithic rock excavation in the world."
+    },
+    {
+      "id": "ellora-caves-q18",
+      "difficulty": "medium",
+      "q": "The Ellora caves are carved into which type of volcanic rock?",
+      "options": ["Granite", "Basalt", "Limestone", "Marble"],
+      "answer": 1,
+      "explanation": "Ellora is carved into the basalt of the Charanandri (Deccan) hills."
+    },
+    {
+      "id": "ellora-caves-q19",
+      "difficulty": "medium",
+      "q": "Why is Ellora often cited as a symbol of religious harmony in ancient India?",
+      "options": ["It was built by a single religious order", "Buddhist, Hindu and Jain shrines coexist side by side", "It was never used for worship", "It blends Islamic and Christian art"],
+      "answer": 1,
+      "explanation": "Monuments of three faiths were created next to one another, reflecting the era's religious tolerance."
+    },
+    {
+      "id": "ellora-caves-q20",
+      "difficulty": "medium",
+      "q": "Ellora lies along an important historic route connecting the Deccan interior to which region?",
+      "options": ["The western seaports of the Deccan", "The Himalayan passes", "The Bengal delta", "The Thar desert"],
+      "answer": 0,
+      "explanation": "Ellora sat on an ancient trade route linking the Deccan to the western coastal ports, aiding its prosperity."
+    },
+    {
+      "id": "ellora-caves-q21",
+      "difficulty": "medium",
+      "q": "The Buddhist group at Ellora includes a famous multi-storey prayer (chaitya) hall known as the 'Carpenter's Cave.' What is its other name?",
+      "options": ["Vishvakarma Cave", "Indra Sabha", "Dashavatara Cave", "Rameshwar Cave"],
+      "answer": 0,
+      "explanation": "Cave 10, the Vishvakarma Cave, is a Buddhist chaitya hall nicknamed the Carpenter's Cave for its ribbed, timber-like ceiling."
+    },
+    {
+      "id": "ellora-caves-q22",
+      "difficulty": "medium",
+      "q": "Which group of Ellora caves features the elaborate shrine known as the Indra Sabha?",
+      "options": ["The Buddhist caves", "The Hindu caves", "The Jain caves", "The Sikh caves"],
+      "answer": 2,
+      "explanation": "The Indra Sabha is the most elaborate of Ellora's Jain caves, richly carved in the later phase of the site."
+    },
+    {
+      "id": "ellora-caves-q23",
+      "difficulty": "hard",
+      "q": "An estimated how much rock was removed to create the Kailasa temple?",
+      "options": ["About 2,000 tonnes", "About 20,000 tonnes", "About 200,000 tonnes", "About 2 million tonnes"],
+      "answer": 2,
+      "explanation": "Excavating the Kailasa temple is estimated to have removed on the order of 200,000 tonnes of rock."
+    },
+    {
+      "id": "ellora-caves-q24",
+      "difficulty": "hard",
+      "q": "The Kailasa temple is identified as which numbered cave at Ellora?",
+      "options": ["Cave 10", "Cave 16", "Cave 29", "Cave 32"],
+      "answer": 1,
+      "explanation": "The Kailasa temple is designated Cave 16 in the Ellora numbering system."
+    },
+    {
+      "id": "ellora-caves-q25",
+      "difficulty": "hard",
+      "q": "The Kailasa temple's architectural style most closely follows which south Indian temple tradition?",
+      "options": ["Nagara (north Indian)", "Dravidian (south Indian)", "Indo-Saracenic", "Kalinga"],
+      "answer": 1,
+      "explanation": "The Kailasa temple was modelled on the Dravidian (south Indian) style of temple architecture."
+    },
+    {
+      "id": "ellora-caves-q26",
+      "difficulty": "hard",
+      "q": "A striking sculpted panel at the Kailasa temple depicts which demon-king shaking Mount Kailash?",
+      "options": ["Mahishasura", "Hiranyakashipu", "Ravana", "Bali"],
+      "answer": 2,
+      "explanation": "A celebrated relief shows the demon-king Ravana attempting to lift and shake Mount Kailash beneath Shiva."
+    },
+    {
+      "id": "ellora-caves-q27",
+      "difficulty": "hard",
+      "q": "How many overall phases of construction are generally recognized across the three religious groups at Ellora?",
+      "options": ["Three broad periods (Buddhist, Hindu, Jain)", "A single short period", "Seven distinct dynasties", "Two Mughal phases"],
+      "answer": 0,
+      "explanation": "Ellora's caves were developed across roughly three broad phases corresponding to its Buddhist, Hindu and Jain monuments."
+    },
+    {
+      "id": "ellora-caves-q28",
+      "difficulty": "hard",
+      "q": "The modern city closest to Ellora, long used as its access point, has historically been called what?",
+      "options": ["Pune", "Nashik", "Aurangabad", "Solapur"],
+      "answer": 2,
+      "explanation": "Ellora lies near Aurangabad (now also known as Chhatrapati Sambhajinagar) in Maharashtra."
+    },
+    {
+      "id": "ellora-caves-q29",
+      "difficulty": "hard",
+      "q": "Within the Hindu group, Cave 21 at Ellora is known by which name?",
+      "options": ["Rameshwar Cave", "Vishvakarma Cave", "Indra Sabha", "Jagannath Sabha"],
+      "answer": 0,
+      "explanation": "Cave 21, the Rameshwar Cave, is a Hindu cave noted for its finely carved river-goddess and amorous couple figures."
+    },
+    {
+      "id": "ellora-caves-q30",
+      "difficulty": "hard",
+      "q": "The Rashtrakuta dynasty that patronized Ellora had its early power base in which part of India?",
+      "options": ["The Gangetic plains", "The Deccan plateau", "The Punjab region", "The Coromandel coast"],
+      "answer": 1,
+      "explanation": "The Rashtrakutas ruled from the Deccan plateau, the region where Ellora itself is situated."
+    }
+  ]
+}

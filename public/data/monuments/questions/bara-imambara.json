@@ -1,0 +1,245 @@
+{
+  "cardId": "bara-imambara",
+  "questions": [
+    {
+      "id": "bara-imambara-q01",
+      "difficulty": "easy",
+      "q": "In which city is the Bara Imambara located?",
+      "options": ["Lucknow", "Hyderabad", "Agra", "Bhopal"],
+      "answer": 0,
+      "explanation": "The Bara Imambara is a famous landmark in Lucknow, the capital of Uttar Pradesh."
+    },
+    {
+      "id": "bara-imambara-q02",
+      "difficulty": "easy",
+      "q": "In which Indian state is the Bara Imambara situated?",
+      "options": ["Madhya Pradesh", "Uttar Pradesh", "Bihar", "Rajasthan"],
+      "answer": 1,
+      "explanation": "The Bara Imambara stands in Lucknow, which is in the state of Uttar Pradesh."
+    },
+    {
+      "id": "bara-imambara-q03",
+      "difficulty": "easy",
+      "q": "Who commissioned the building of the Bara Imambara?",
+      "options": ["Shah Jahan", "Akbar", "Nawab Asaf-ud-Daula", "Wajid Ali Shah"],
+      "answer": 2,
+      "explanation": "The Bara Imambara was built by Nawab Asaf-ud-Daula, the ruler of Awadh."
+    },
+    {
+      "id": "bara-imambara-q04",
+      "difficulty": "easy",
+      "q": "In which year was construction of the Bara Imambara begun?",
+      "options": ["1784", "1632", "1857", "1911"],
+      "answer": 0,
+      "explanation": "Construction of the Bara Imambara began in 1784 under Nawab Asaf-ud-Daula."
+    },
+    {
+      "id": "bara-imambara-q05",
+      "difficulty": "easy",
+      "q": "The Bara Imambara is famous for its labyrinth of winding passages. What is this maze called?",
+      "options": ["Sheesh Mahal", "Bhulbhulaiya", "Diwan-i-Khas", "Charbagh"],
+      "answer": 1,
+      "explanation": "The maze of interconnected corridors at the Bara Imambara is known as the Bhulbhulaiya."
+    },
+    {
+      "id": "bara-imambara-q06",
+      "difficulty": "easy",
+      "q": "The central hall of the Bara Imambara is notable for being built without which structural feature?",
+      "options": ["Doors", "Windows", "Supporting pillars or beams", "Arches"],
+      "answer": 2,
+      "explanation": "The grand central hall is renowned as one of the largest arched halls built without any supporting pillars or beams."
+    },
+    {
+      "id": "bara-imambara-q07",
+      "difficulty": "easy",
+      "q": "What does the word 'Imambara' broadly refer to?",
+      "options": ["A royal garden", "A congregation hall used for Shia commemorations", "A military fort", "A market square"],
+      "answer": 1,
+      "explanation": "An imambara is a hall used by Shia Muslims for congregations, especially during the mourning rituals of Muharram."
+    },
+    {
+      "id": "bara-imambara-q08",
+      "difficulty": "easy",
+      "q": "The word 'Bara' in 'Bara Imambara' means what?",
+      "options": ["Big", "Old", "Holy", "New"],
+      "answer": 0,
+      "explanation": "'Bara' means big or great, distinguishing it from the nearby smaller Chota (small) Imambara."
+    },
+    {
+      "id": "bara-imambara-q09",
+      "difficulty": "easy",
+      "q": "The Bara Imambara was built by a ruler of which kingdom?",
+      "options": ["Mysore", "Awadh (Oudh)", "Marwar", "Travancore"],
+      "answer": 1,
+      "explanation": "Asaf-ud-Daula was the Nawab of Awadh, the kingdom centred on Lucknow and Faizabad."
+    },
+    {
+      "id": "bara-imambara-q10",
+      "difficulty": "easy",
+      "q": "The Bara Imambara complex is most associated with which religious community's rituals?",
+      "options": ["Jain", "Sikh", "Shia Muslim", "Buddhist"],
+      "answer": 2,
+      "explanation": "As an imambara, the complex is a centre for Shia Muslim mourning ceremonies, particularly during Muharram."
+    },
+    {
+      "id": "bara-imambara-q11",
+      "difficulty": "medium",
+      "q": "A famous gateway built by Asaf-ud-Daula and located near the Bara Imambara is known as what?",
+      "options": ["Buland Darwaza", "Rumi Darwaza", "India Gate", "Delhi Gate"],
+      "answer": 1,
+      "explanation": "The Rumi Darwaza, an imposing ornamental gateway, was built by Asaf-ud-Daula near the Bara Imambara complex."
+    },
+    {
+      "id": "bara-imambara-q12",
+      "difficulty": "medium",
+      "q": "One major reason Asaf-ud-Daula undertook the construction of the Bara Imambara was to provide what?",
+      "options": ["A trade route to Delhi", "Famine relief through employment", "A summer palace for visitors", "A new mint for coins"],
+      "answer": 1,
+      "explanation": "The project was launched as a famine-relief effort, employing thousands of people during a devastating famine in the 1780s."
+    },
+    {
+      "id": "bara-imambara-q13",
+      "difficulty": "medium",
+      "q": "The architect commonly credited with designing the Bara Imambara was named what?",
+      "options": ["Ustad Ahmad Lahori", "Kifayatullah", "Mirza Ghalib", "Lutyens"],
+      "answer": 1,
+      "explanation": "The architect Kifayatullah designed the Bara Imambara and is himself buried within its central hall."
+    },
+    {
+      "id": "bara-imambara-q14",
+      "difficulty": "medium",
+      "q": "A mosque located within the Bara Imambara complex is known by which name?",
+      "options": ["Asfi Mosque", "Jama Masjid", "Moti Masjid", "Mecca Masjid"],
+      "answer": 0,
+      "explanation": "The Asfi Mosque (Asafi Masjid), named after Asaf-ud-Daula, stands within the Bara Imambara complex."
+    },
+    {
+      "id": "bara-imambara-q15",
+      "difficulty": "medium",
+      "q": "The Bara Imambara complex also includes a historic stepwell. What is it called?",
+      "options": ["Chand Baori", "Rani ki Vav", "Shahi Baoli", "Agrasen ki Baoli"],
+      "answer": 2,
+      "explanation": "The Shahi Baoli, a multi-storey stepwell connected to the Gomti river, is part of the Bara Imambara complex."
+    },
+    {
+      "id": "bara-imambara-q16",
+      "difficulty": "medium",
+      "q": "The architectural style of the Bara Imambara is best described as belonging to which tradition?",
+      "options": ["Indo-Saracenic colonial", "Awadhi (a late Mughal Lucknow style)", "Dravidian temple", "Gothic revival"],
+      "answer": 1,
+      "explanation": "The Bara Imambara reflects the Awadhi style, a late Mughal idiom that flourished under the Nawabs of Lucknow."
+    },
+    {
+      "id": "bara-imambara-q17",
+      "difficulty": "medium",
+      "q": "Whose tomb is located inside the great central hall of the Bara Imambara?",
+      "options": ["The British Resident", "Asaf-ud-Daula and his architect", "Wajid Ali Shah", "Emperor Aurangzeb"],
+      "answer": 1,
+      "explanation": "The graves of Nawab Asaf-ud-Daula and his architect Kifayatullah lie within the central hall."
+    },
+    {
+      "id": "bara-imambara-q18",
+      "difficulty": "medium",
+      "q": "The Bhulbhulaiya labyrinth is located in which part of the Bara Imambara?",
+      "options": ["The underground cellars", "The upper levels above the central hall", "The garden pavilions", "The entrance courtyard"],
+      "answer": 1,
+      "explanation": "The Bhulbhulaiya is a maze of passages built into the upper levels above and around the central hall."
+    },
+    {
+      "id": "bara-imambara-q19",
+      "difficulty": "medium",
+      "q": "A smaller imambara built later in Lucknow, often contrasted with the Bara Imambara, is known as what?",
+      "options": ["Chota Imambara", "Hazratganj Imambara", "Dilkusha Imambara", "Charbagh Imambara"],
+      "answer": 0,
+      "explanation": "The Chota (Hussainabad) Imambara was built later by Nawab Muhammad Ali Shah and is the smaller counterpart."
+    },
+    {
+      "id": "bara-imambara-q20",
+      "difficulty": "medium",
+      "q": "The Bara Imambara was constructed primarily using which combination of materials?",
+      "options": ["Marble and granite", "Bricks and lime mortar (lakhauri brick and lime plaster)", "Steel and concrete", "Sandstone blocks and iron beams"],
+      "answer": 1,
+      "explanation": "The building was raised with small lakhauri bricks and lime mortar/plaster rather than stone or iron framing."
+    },
+    {
+      "id": "bara-imambara-q21",
+      "difficulty": "medium",
+      "q": "The river that flows through Lucknow near the Bara Imambara, and to which its stepwell is connected, is the:",
+      "options": ["Yamuna", "Gomti", "Sarayu", "Betwa"],
+      "answer": 1,
+      "explanation": "Lucknow lies on the Gomti river, to which the complex's Shahi Baoli is linked."
+    },
+    {
+      "id": "bara-imambara-q22",
+      "difficulty": "medium",
+      "q": "In which century was the Bara Imambara built?",
+      "options": ["16th century", "17th century", "18th century", "19th century"],
+      "answer": 2,
+      "explanation": "Begun in 1784, the Bara Imambara is an 18th-century structure."
+    },
+    {
+      "id": "bara-imambara-q23",
+      "difficulty": "hard",
+      "q": "The Bara Imambara's central vaulted hall is often cited as one of the largest of its kind for being arched without external support. The hall is sometimes said to measure roughly how long?",
+      "options": ["About 15 metres", "About 50 metres", "About 200 metres", "About 400 metres"],
+      "answer": 1,
+      "explanation": "The grand hall is around 50 metres (about 160 feet) long, an exceptional span achieved without supporting beams."
+    },
+    {
+      "id": "bara-imambara-q24",
+      "difficulty": "hard",
+      "q": "The Bhulbhulaiya owes its existence partly to a structural technique. Its labyrinth of passages was created largely to:",
+      "options": ["Hide treasure vaults", "Distribute and support the weight of the enormous roof above the central hall", "Provide servant quarters", "Store grain during famine"],
+      "answer": 1,
+      "explanation": "The honeycomb of interconnecting passages helps bear and balance the load of the massive roof over the pillarless hall."
+    },
+    {
+      "id": "bara-imambara-q25",
+      "difficulty": "hard",
+      "q": "Asaf-ud-Daula moved the capital of Awadh to Lucknow shortly before commissioning the Bara Imambara. From which earlier capital did he shift it?",
+      "options": ["Kanpur", "Faizabad", "Allahabad", "Varanasi"],
+      "answer": 1,
+      "explanation": "Asaf-ud-Daula shifted the Awadh capital from Faizabad to Lucknow, which then flourished under his patronage."
+    },
+    {
+      "id": "bara-imambara-q26",
+      "difficulty": "hard",
+      "q": "A well-known proverb in Lucknow celebrates the generosity of the Nawab who built the Bara Imambara. It runs roughly as 'Jisko na de Maula, usko de...':",
+      "options": ["Asaf-ud-Daula", "Wajid Ali Shah", "Saadat Khan", "Shuja-ud-Daula"],
+      "answer": 0,
+      "explanation": "The saying 'Jisko na de Maula, usko de Asaf-ud-Daula' praises his charity, recalling the famine-relief building project."
+    },
+    {
+      "id": "bara-imambara-q27",
+      "difficulty": "hard",
+      "q": "The Rumi Darwaza near the Bara Imambara is said to be modelled on a gateway in which historic city?",
+      "options": ["Cairo", "Constantinople (Istanbul)", "Baghdad", "Isfahan"],
+      "answer": 1,
+      "explanation": "The Rumi Darwaza is often said to be inspired by a gate of Constantinople, the seat of the Roman ('Rum') and later Ottoman rulers."
+    },
+    {
+      "id": "bara-imambara-q28",
+      "difficulty": "hard",
+      "q": "Is the Bara Imambara a UNESCO World Heritage Site?",
+      "options": ["Yes, inscribed in 1983", "Yes, inscribed in 2004", "No, it is not a UNESCO World Heritage Site", "Yes, jointly with the Taj Mahal"],
+      "answer": 2,
+      "explanation": "Despite its fame, the Bara Imambara is not a UNESCO World Heritage Site; it is a protected national monument."
+    },
+    {
+      "id": "bara-imambara-q29",
+      "difficulty": "hard",
+      "q": "During the Indian Rebellion of 1857, the Bara Imambara and surrounding area in Lucknow were notably:",
+      "options": ["Left entirely untouched by the conflict", "Sites of fighting and later occupied by British forces", "Demolished and rebuilt afterward", "Converted permanently into a church"],
+      "answer": 1,
+      "explanation": "Lucknow was a major centre of the 1857 uprising, and the Imambara area saw conflict and was occupied by British forces during and after the siege."
+    },
+    {
+      "id": "bara-imambara-q30",
+      "difficulty": "hard",
+      "q": "The Bara Imambara's design avoids the use of iron and timber girders for its roof, relying instead on what?",
+      "options": ["Reinforced concrete slabs", "Interlocking brickwork and finely engineered arches and vaults", "Suspended steel cables", "Stacked stone lintels"],
+      "answer": 1,
+      "explanation": "Its roof is held up by carefully engineered arches, vaults and interlocking brickwork rather than iron or wooden beams."
+    }
+  ]
+}
