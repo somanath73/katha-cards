@@ -1,0 +1,245 @@
+{
+  "cardId": "saha-equation",
+  "questions": [
+    {
+      "id": "saha-equation-q01",
+      "difficulty": "easy",
+      "q": "Which Indian scientist is credited with formulating the Saha equation?",
+      "options": ["Satyendra Nath Bose", "C. V. Raman", "Meghnad Saha", "Homi Bhabha"],
+      "answer": 2,
+      "explanation": "The Saha equation was formulated by the Indian astrophysicist Meghnad Saha in 1920."
+    },
+    {
+      "id": "saha-equation-q02",
+      "difficulty": "easy",
+      "q": "The Saha equation is fundamental to which branch of astronomy?",
+      "options": ["Radio astronomy", "Stellar spectroscopy", "Planetary geology", "Cosmic ray detection"],
+      "answer": 1,
+      "explanation": "The Saha equation laid the foundation of stellar spectroscopy by explaining how stellar spectra depend on temperature."
+    },
+    {
+      "id": "saha-equation-q03",
+      "difficulty": "easy",
+      "q": "The Saha equation relates the ionisation of a gas primarily to which two physical quantities?",
+      "options": ["Mass and velocity", "Temperature and pressure", "Charge and distance", "Volume and color"],
+      "answer": 1,
+      "explanation": "The Saha equation links the degree of ionisation of a gas to its temperature and pressure (or electron density)."
+    },
+    {
+      "id": "saha-equation-q04",
+      "difficulty": "easy",
+      "q": "In which decade did Meghnad Saha publish his famous ionisation equation?",
+      "options": ["1900s", "1920s", "1940s", "1960s"],
+      "answer": 1,
+      "explanation": "Saha published his theory of thermal ionisation in 1920, during the 1920s."
+    },
+    {
+      "id": "saha-equation-q05",
+      "difficulty": "easy",
+      "q": "The Saha equation helps explain the spectra of which celestial objects?",
+      "options": ["Comets", "Stars", "Black holes", "Asteroids"],
+      "answer": 1,
+      "explanation": "The equation explains why stellar spectra differ, providing the chemistry behind the light from stars."
+    },
+    {
+      "id": "saha-equation-q06",
+      "difficulty": "easy",
+      "q": "Meghnad Saha was a scientist from which country?",
+      "options": ["Russia", "Germany", "United States", "India"],
+      "answer": 3,
+      "explanation": "Meghnad Saha was an Indian astrophysicist, born in Bengal in British India."
+    },
+    {
+      "id": "saha-equation-q07",
+      "difficulty": "easy",
+      "q": "Ionisation, the process at the heart of the Saha equation, involves an atom doing what?",
+      "options": ["Splitting its nucleus", "Emitting neutrinos", "Changing its mass number", "Losing or gaining electrons"],
+      "answer": 3,
+      "explanation": "Ionisation is the process by which atoms gain or lose electrons, which the Saha equation quantifies for hot gases."
+    },
+    {
+      "id": "saha-equation-q08",
+      "difficulty": "easy",
+      "q": "According to the Saha equation, what generally happens to the ionisation of a gas as its temperature increases?",
+      "options": ["Ionisation decreases", "Ionisation increases", "Ionisation stays constant", "The gas freezes"],
+      "answer": 1,
+      "explanation": "Higher temperature provides more thermal energy, increasing the fraction of ionised atoms as the Saha equation predicts."
+    },
+    {
+      "id": "saha-equation-q09",
+      "difficulty": "easy",
+      "q": "The Saha equation is sometimes also called the:",
+      "options": ["Saha gravitation law", "Saha refraction law", "Saha ionisation equation", "Saha decay equation"],
+      "answer": 2,
+      "explanation": "It is commonly known as the Saha ionisation equation because it describes thermal ionisation of a gas."
+    },
+    {
+      "id": "saha-equation-q10",
+      "difficulty": "easy",
+      "q": "The hot ionised gas described by the Saha equation in stars is best described as a:",
+      "options": ["Solid crystal", "Plasma", "Liquid metal", "Frozen lattice"],
+      "answer": 1,
+      "explanation": "A gas that is significantly ionised, as in a star's atmosphere, forms a plasma, the state the Saha equation models."
+    },
+    {
+      "id": "saha-equation-q11",
+      "difficulty": "medium",
+      "q": "Before the Saha equation, the differences among stellar spectra were largely attributed to differences in composition. What did Saha show was the dominant cause instead?",
+      "options": ["The star's age", "The star's temperature", "The star's distance", "The star's rotation"],
+      "answer": 1,
+      "explanation": "Saha showed that differences in stellar spectra are mainly due to temperature controlling ionisation, not chemical composition."
+    },
+    {
+      "id": "saha-equation-q12",
+      "difficulty": "medium",
+      "q": "The Saha equation is derived using principles from which area of physics?",
+      "options": ["General relativity", "Statistical mechanics and thermodynamics", "Quantum field theory", "Fluid dynamics"],
+      "answer": 1,
+      "explanation": "Saha applied statistical mechanics and thermodynamic equilibrium ideas to ionisation, treating it like a chemical reaction."
+    },
+    {
+      "id": "saha-equation-q13",
+      "difficulty": "medium",
+      "q": "In which approximate year is Meghnad Saha's pioneering ionisation paper dated?",
+      "options": ["1905", "1920", "1935", "1947"],
+      "answer": 1,
+      "explanation": "Saha's landmark papers on thermal ionisation appeared in 1920."
+    },
+    {
+      "id": "saha-equation-q14",
+      "difficulty": "medium",
+      "q": "Astronomers used the Saha equation to provide a physical basis for which classification system of stars?",
+      "options": ["The Hubble galaxy classification", "The Harvard stellar spectral classification", "The Bortle scale", "The Richter scale"],
+      "answer": 1,
+      "explanation": "The Saha equation explained the temperature sequence behind the Harvard spectral classes (O, B, A, F, G, K, M)."
+    },
+    {
+      "id": "saha-equation-q15",
+      "difficulty": "medium",
+      "q": "Which institution did Meghnad Saha help establish, reflecting his interest in nuclear physics?",
+      "options": ["Indian Institute of Science", "Saha Institute of Nuclear Physics", "Tata Institute of Fundamental Research", "Bhabha Atomic Research Centre"],
+      "answer": 1,
+      "explanation": "Saha founded the institute in Kolkata that was later named the Saha Institute of Nuclear Physics in his honour."
+    },
+    {
+      "id": "saha-equation-q16",
+      "difficulty": "medium",
+      "q": "Besides temperature, increasing which quantity tends to suppress ionisation according to the Saha equation?",
+      "options": ["Magnetic field strength", "The speed of light", "Electron pressure (or density)", "Gravitational redshift"],
+      "answer": 2,
+      "explanation": "Higher electron pressure or density favours recombination, lowering the ionised fraction in the Saha equation."
+    },
+    {
+      "id": "saha-equation-q17",
+      "difficulty": "medium",
+      "q": "Meghnad Saha was a contemporary and peer of which other famous Indian physicist known for quantum statistics?",
+      "options": ["Satyendra Nath Bose", "Vikram Sarabhai", "Jagadish Chandra Bose", "Salim Ali"],
+      "answer": 0,
+      "explanation": "Saha and Satyendra Nath Bose were classmates and colleagues, both pioneers of modern physics in India."
+    },
+    {
+      "id": "saha-equation-q18",
+      "difficulty": "medium",
+      "q": "The Saha equation treats ionisation analogously to what kind of process, applying equilibrium ideas to it?",
+      "options": ["An elastic collision", "A radioactive decay chain", "A gravitational orbit", "A chemical reaction/dissociation equilibrium"],
+      "answer": 3,
+      "explanation": "Saha modelled ionisation like a reversible chemical reaction in thermal equilibrium between atoms, ions, and electrons."
+    },
+    {
+      "id": "saha-equation-q19",
+      "difficulty": "medium",
+      "q": "In later life, Meghnad Saha also became involved in which area of public service in India?",
+      "options": ["Member of the Indian Parliament", "Chief Justice of India", "Governor of Bengal", "Cricket administration"],
+      "answer": 0,
+      "explanation": "Saha was elected to the Indian Parliament (Lok Sabha) and worked on river planning and scientific policy."
+    },
+    {
+      "id": "saha-equation-q20",
+      "difficulty": "medium",
+      "q": "Why do hydrogen Balmer lines weaken in very hot O- and B-type stars, as explained via the Saha equation?",
+      "options": ["Hydrogen is absent in hot stars", "Hydrogen is largely ionised, leaving few neutral atoms to absorb", "The lines shift out of the visible range", "Hot stars have no atmospheres"],
+      "answer": 1,
+      "explanation": "At very high temperatures hydrogen is mostly ionised, so few neutral atoms remain to produce Balmer absorption lines."
+    },
+    {
+      "id": "saha-equation-q21",
+      "difficulty": "medium",
+      "q": "The work of which astronomer, refining Saha's ideas, helped show that stars are composed overwhelmingly of hydrogen?",
+      "options": ["Edwin Hubble", "Henrietta Leavitt", "Cecilia Payne-Gaposchkin", "Annie Jump Cannon"],
+      "answer": 2,
+      "explanation": "Cecilia Payne-Gaposchkin applied the Saha ionisation theory to stellar spectra and concluded stars are mostly hydrogen."
+    },
+    {
+      "id": "saha-equation-q22",
+      "difficulty": "medium",
+      "q": "Meghnad Saha did important work and teaching at universities in which two Indian cities, among others?",
+      "options": ["Mumbai and Chennai", "Allahabad and Kolkata (Calcutta)", "Delhi and Bengaluru", "Hyderabad and Pune"],
+      "answer": 1,
+      "explanation": "Saha held professorships at Allahabad University and the University of Calcutta during his career."
+    },
+    {
+      "id": "saha-equation-q23",
+      "difficulty": "hard",
+      "q": "The Saha equation's exponential temperature dependence is governed by which quantity in the exponent?",
+      "options": ["The gravitational potential", "The fine-structure constant", "The Hubble constant", "The ionisation energy divided by kT"],
+      "answer": 3,
+      "explanation": "The Saha equation contains a Boltzmann factor with the ionisation energy over kT, giving its strong temperature sensitivity."
+    },
+    {
+      "id": "saha-equation-q24",
+      "difficulty": "hard",
+      "q": "Saha's theory built upon thermal ionisation ideas and the broader equilibrium framework, which is closely related to which fundamental distribution?",
+      "options": ["The Gaussian noise distribution", "The Maxwell-Boltzmann/Boltzmann distribution", "The Poisson distribution of decays", "The Planck mass distribution"],
+      "answer": 1,
+      "explanation": "The Saha equation rests on Boltzmann statistics, distributing atoms among ionisation states according to thermal equilibrium."
+    },
+    {
+      "id": "saha-equation-q25",
+      "difficulty": "hard",
+      "q": "In which year was Meghnad Saha born?",
+      "options": ["1872", "1893", "1910", "1925"],
+      "answer": 1,
+      "explanation": "Meghnad Saha was born on 6 October 1893 in Shaoratoli, in present-day Bangladesh."
+    },
+    {
+      "id": "saha-equation-q26",
+      "difficulty": "hard",
+      "q": "The Saha equation includes a factor with the ratio of the partition functions of which species?",
+      "options": ["Protons and neutrons", "Photons and gravitons", "The ion and the neutral atom", "Two different stars"],
+      "answer": 2,
+      "explanation": "The Saha equation contains the partition functions of the ion and the neutral atom, encoding their internal energy states."
+    },
+    {
+      "id": "saha-equation-q27",
+      "difficulty": "hard",
+      "q": "Saha's ionisation factor also includes a term proportional to T raised to which power, arising from the electron's thermal motion?",
+      "options": ["T to the 3/2 power", "T squared", "T to the -1 power", "T to the 1/2 power"],
+      "answer": 0,
+      "explanation": "The Saha equation contains a T^(3/2) factor coming from the translational partition function of the free electrons."
+    },
+    {
+      "id": "saha-equation-q28",
+      "difficulty": "hard",
+      "q": "Saha's 1920 work was historically significant partly because it was among the first to apply atomic and quantum-era physics to what?",
+      "options": ["Designing radio telescopes", "Predicting earthquakes", "Mapping the cosmic microwave background", "Quantitative analysis of astrophysical spectra"],
+      "answer": 3,
+      "explanation": "Saha pioneered the quantitative application of atomic physics to interpret stellar spectra, founding theoretical astrophysics in this area."
+    },
+    {
+      "id": "saha-equation-q29",
+      "difficulty": "hard",
+      "q": "Meghnad Saha was nominated several times for, but never received, which prestigious prize?",
+      "options": ["The Fields Medal", "The Nobel Prize", "The Turing Award", "The Abel Prize"],
+      "answer": 1,
+      "explanation": "Despite being nominated multiple times, Saha was never awarded the Nobel Prize, though his work was hugely influential."
+    },
+    {
+      "id": "saha-equation-q30",
+      "difficulty": "hard",
+      "q": "The Saha equation is valid under the assumption that the gas is in what kind of state?",
+      "options": ["Permanent free fall", "Complete vacuum", "Superconducting transition", "Local thermodynamic equilibrium (LTE)"],
+      "answer": 3,
+      "explanation": "The Saha equation assumes local thermodynamic equilibrium, where ionisation and recombination balance at a single temperature."
+    }
+  ]
+}

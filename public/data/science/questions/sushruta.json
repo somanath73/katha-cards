@@ -1,0 +1,245 @@
+{
+  "cardId": "sushruta",
+  "questions": [
+    {
+      "id": "sushruta-q01",
+      "difficulty": "easy",
+      "q": "Sushruta is most commonly honoured with which title?",
+      "options": ["The Father of Surgery", "The Father of Astronomy", "The Father of Algebra", "The Father of Chemistry"],
+      "answer": 0,
+      "explanation": "Sushruta is widely regarded as the 'Father of Surgery' for his detailed surgical treatise."
+    },
+    {
+      "id": "sushruta-q02",
+      "difficulty": "easy",
+      "q": "Which ancient medical text is attributed to Sushruta?",
+      "options": ["Charaka Samhita", "Ashtanga Hridaya", "Brihat Samhita", "Sushruta Samhita"],
+      "answer": 3,
+      "explanation": "The treatise attributed to Sushruta is the Sushruta Samhita."
+    },
+    {
+      "id": "sushruta-q03",
+      "difficulty": "easy",
+      "q": "Sushruta is a foundational figure in which ancient Indian system of medicine?",
+      "options": ["Homeopathy", "Unani", "Siddha", "Ayurveda"],
+      "answer": 3,
+      "explanation": "The Sushruta Samhita is one of the foundational texts of Ayurveda."
+    },
+    {
+      "id": "sushruta-q04",
+      "difficulty": "easy",
+      "q": "Sushruta is especially famous for pioneering which type of surgery?",
+      "options": ["Heart bypass surgery", "Reconstructive nose surgery (rhinoplasty)", "Brain tumour removal", "Laser eye surgery"],
+      "answer": 1,
+      "explanation": "Sushruta described reconstructive nose surgery (rhinoplasty), making him a pioneer of plastic surgery."
+    },
+    {
+      "id": "sushruta-q05",
+      "difficulty": "easy",
+      "q": "The Sushruta Samhita describes a surgical procedure for which eye condition?",
+      "options": ["Glaucoma", "Cataract", "Colour blindness", "Pink eye"],
+      "answer": 1,
+      "explanation": "Sushruta described an early surgical technique for treating cataracts."
+    },
+    {
+      "id": "sushruta-q06",
+      "difficulty": "easy",
+      "q": "Besides operations, the Sushruta Samhita is notable for describing many surgical what?",
+      "options": ["Instruments", "Songs", "Coins", "Maps"],
+      "answer": 0,
+      "explanation": "The text catalogues hundreds of operations and a large array of surgical instruments."
+    },
+    {
+      "id": "sushruta-q07",
+      "difficulty": "easy",
+      "q": "In which broad field did Sushruta make his greatest contributions?",
+      "options": ["Astronomy", "Medicine and surgery", "Mathematics", "Metallurgy"],
+      "answer": 1,
+      "explanation": "Sushruta's contributions were in medicine and especially surgery."
+    },
+    {
+      "id": "sushruta-q08",
+      "difficulty": "easy",
+      "q": "Sushruta is traditionally remembered as a physician of which ancient land?",
+      "options": ["Ancient Greece", "Ancient Egypt", "Ancient India", "Ancient China"],
+      "answer": 2,
+      "explanation": "Sushruta was an ancient Indian surgeon and physician."
+    },
+    {
+      "id": "sushruta-q09",
+      "difficulty": "easy",
+      "q": "The reconstructive nose surgery described by Sushruta makes him a forerunner of which modern speciality?",
+      "options": ["Cardiology", "Plastic surgery", "Radiology", "Dentistry"],
+      "answer": 1,
+      "explanation": "His rhinoplasty techniques make him a forerunner of modern plastic and reconstructive surgery."
+    },
+    {
+      "id": "sushruta-q10",
+      "difficulty": "easy",
+      "q": "Roughly how many distinct operations are described in the Sushruta Samhita?",
+      "options": ["About five", "Just one", "Hundreds", "None"],
+      "answer": 2,
+      "explanation": "The Sushruta Samhita describes hundreds of surgical operations."
+    },
+    {
+      "id": "sushruta-q11",
+      "difficulty": "medium",
+      "q": "The Sushruta Samhita is written primarily in which language?",
+      "options": ["Pali", "Tamil", "Sanskrit", "Prakrit"],
+      "answer": 2,
+      "explanation": "The Sushruta Samhita is composed in Sanskrit."
+    },
+    {
+      "id": "sushruta-q12",
+      "difficulty": "medium",
+      "q": "Sushruta is traditionally said to have taught and practised in which ancient city associated with learning?",
+      "options": ["Pataliputra", "Varanasi (Kashi)", "Ujjain", "Madurai"],
+      "answer": 1,
+      "explanation": "Tradition associates Sushruta with the ancient city of Varanasi (Kashi)."
+    },
+    {
+      "id": "sushruta-q13",
+      "difficulty": "medium",
+      "q": "Sushruta's rhinoplasty technique reconstructed the nose using a flap of skin taken from where?",
+      "options": ["The forearm", "The thigh", "The cheek or forehead", "The earlobe"],
+      "answer": 2,
+      "explanation": "He used a pedicle flap of skin from the cheek or forehead to reconstruct the nose."
+    },
+    {
+      "id": "sushruta-q14",
+      "difficulty": "medium",
+      "q": "Which of these surgical concepts is described in the Sushruta Samhita?",
+      "options": ["Antibiotic dosing", "Classification of surgical instruments and procedures", "X-ray imaging", "Blood typing"],
+      "answer": 1,
+      "explanation": "The text systematically classifies surgical instruments (yantras and shastras) and procedures."
+    },
+    {
+      "id": "sushruta-q15",
+      "difficulty": "medium",
+      "q": "Sushruta is traditionally regarded as a disciple or student of which sage-physician?",
+      "options": ["Patanjali", "Kanada", "Dhanvantari", "Vagbhata"],
+      "answer": 2,
+      "explanation": "Tradition holds that Sushruta learned surgery from Dhanvantari, the divine physician."
+    },
+    {
+      "id": "sushruta-q16",
+      "difficulty": "medium",
+      "q": "The Sushruta Samhita recommends that surgical training include practice on what?",
+      "options": ["Living patients only", "Models such as fruits, gourds and animal carcasses", "Wax tablets", "No practice at all"],
+      "answer": 1,
+      "explanation": "Sushruta advised trainees to practise incisions and procedures on fruits, vegetables, hides and dead animals before operating on patients."
+    },
+    {
+      "id": "sushruta-q17",
+      "difficulty": "medium",
+      "q": "Approximately how many surgical instruments (yantras and shastras) does the Sushruta Samhita describe?",
+      "options": ["About a dozen", "Over a hundred", "Exactly three", "None"],
+      "answer": 1,
+      "explanation": "The text describes more than a hundred surgical instruments, including blunt and sharp instruments."
+    },
+    {
+      "id": "sushruta-q18",
+      "difficulty": "medium",
+      "q": "Sushruta's rhinoplasty method became known to later European surgeons partly because it was practised and reported from which region?",
+      "options": ["Northern India", "Scandinavia", "West Africa", "Siberia"],
+      "answer": 0,
+      "explanation": "The 'Indian method' of nose reconstruction was reported from India and influenced 18th-19th century European surgery."
+    },
+    {
+      "id": "sushruta-q19",
+      "difficulty": "medium",
+      "q": "In addition to surgery, the Sushruta Samhita covers detailed knowledge of which subject useful for operating?",
+      "options": ["Astrology charts", "Human anatomy", "Coin minting", "Shipbuilding"],
+      "answer": 1,
+      "explanation": "The text contains detailed descriptions of human anatomy, important for surgical practice."
+    },
+    {
+      "id": "sushruta-q20",
+      "difficulty": "medium",
+      "q": "The Sushruta Samhita advised studying anatomy through which method, unusual for its time?",
+      "options": ["Reading poetry", "Stargazing", "Listening to music", "Examination of cadavers"],
+      "answer": 3,
+      "explanation": "Sushruta recommended studying the human body through observation of cadavers."
+    },
+    {
+      "id": "sushruta-q21",
+      "difficulty": "medium",
+      "q": "Which broad category of disease management is given major emphasis in the Sushruta Samhita compared with other Ayurvedic texts?",
+      "options": ["Surgery (Shalya)", "Veterinary care", "Mining medicine", "Agriculture"],
+      "answer": 0,
+      "explanation": "The Sushruta Samhita places its greatest emphasis on surgery, known as Shalya tantra."
+    },
+    {
+      "id": "sushruta-q22",
+      "difficulty": "medium",
+      "q": "Which other ancient Indian medical text is most often paired with the Sushruta Samhita as a classical Ayurvedic treatise?",
+      "options": ["The Charaka Samhita", "The Arthashastra", "The Natya Shastra", "The Manusmriti"],
+      "answer": 0,
+      "explanation": "The Charaka Samhita and Sushruta Samhita are the two great classical foundations of Ayurveda."
+    },
+    {
+      "id": "sushruta-q23",
+      "difficulty": "hard",
+      "q": "Sushruta is traditionally believed to have lived around which period?",
+      "options": ["Around the 1st millennium BCE (often placed circa 6th century BCE)", "The 16th century CE", "The 19th century CE", "The 12th century CE"],
+      "answer": 0,
+      "explanation": "Sushruta is traditionally dated to the 1st millennium BCE, with many scholars placing him around the 6th century BCE."
+    },
+    {
+      "id": "sushruta-q24",
+      "difficulty": "hard",
+      "q": "In Ayurvedic classification, surgery as taught by Sushruta is referred to by which term?",
+      "options": ["Kayachikitsa", "Shalya tantra", "Rasayana", "Bhuta vidya"],
+      "answer": 1,
+      "explanation": "Surgery in Ayurveda is called Shalya tantra, the branch in which Sushruta specialised."
+    },
+    {
+      "id": "sushruta-q25",
+      "difficulty": "hard",
+      "q": "Sushruta's account of nose reconstruction was brought to wider European attention after a description appeared in 1794 in which publication?",
+      "options": ["The Lancet", "The Gentleman's Magazine", "Nature", "Encyclopaedia Britannica"],
+      "answer": 1,
+      "explanation": "An account of the Indian nose-reconstruction method was published in the Gentleman's Magazine in 1794, helping spread the technique to Europe."
+    },
+    {
+      "id": "sushruta-q26",
+      "difficulty": "hard",
+      "q": "The Sushruta Samhita classifies sharp surgical instruments and blunt instruments under which broad Sanskrit terms respectively?",
+      "options": ["Shastra and yantra", "Mantra and tantra", "Dhatu and mala", "Dosha and guna"],
+      "answer": 0,
+      "explanation": "Sharp cutting instruments are called shastra and blunt instruments are called yantra in the Sushruta Samhita."
+    },
+    {
+      "id": "sushruta-q27",
+      "difficulty": "hard",
+      "q": "The Sushruta Samhita describes a method of intentionally using which creatures to help drain and clean wounds?",
+      "options": ["Bees", "Spiders", "Ants", "Leeches"],
+      "answer": 3,
+      "explanation": "Sushruta described the medicinal use of leeches (leech therapy) in wound management."
+    },
+    {
+      "id": "sushruta-q28",
+      "difficulty": "hard",
+      "q": "Sushruta described eight major kinds of which surgical operation, forming a classic eightfold classification?",
+      "options": ["Types of suturing thread", "Types of surgical operation (incision, excision, scarification, puncturing, probing, extraction, evacuation, suturing)", "Types of bandage colour", "Types of hospital building"],
+      "answer": 1,
+      "explanation": "Sushruta classified surgical procedures into eight kinds: incision, excision, scarification, puncturing, probing, extraction, draining/evacuation, and suturing."
+    },
+    {
+      "id": "sushruta-q29",
+      "difficulty": "hard",
+      "q": "The Sushruta Samhita is traditionally divided into a main body plus a later supplementary section known as what?",
+      "options": ["Uttara Tantra", "Adi Parva", "Purva Mimamsa", "Sama Veda"],
+      "answer": 0,
+      "explanation": "The Sushruta Samhita includes a supplementary final section called the Uttara Tantra."
+    },
+    {
+      "id": "sushruta-q30",
+      "difficulty": "hard",
+      "q": "For pain relief during surgery, the Sushruta Samhita suggests giving the patient what?",
+      "options": ["Strong herbal preparations and wine to dull pain", "Modern general anaesthetic gas", "Nothing, surgery was always painless", "An electric shock"],
+      "answer": 0,
+      "explanation": "Long before modern anaesthesia, Sushruta recommended wine and herbal preparations to help dull the patient's pain during operations."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "aryabhata",
+  "questions": [
+    {
+      "id": "aryabhata-q01",
+      "difficulty": "easy",
+      "q": "In which century did Aryabhata live and work?",
+      "options": ["3rd century BCE", "12th century CE", "8th century BCE", "5th century CE"],
+      "answer": 3,
+      "explanation": "Aryabhata was a 5th-century CE mathematician-astronomer, born in 476 CE."
+    },
+    {
+      "id": "aryabhata-q02",
+      "difficulty": "easy",
+      "q": "What is the name of Aryabhata's most famous work?",
+      "options": ["Lilavati", "Brahmasphutasiddhanta", "Surya Siddhanta", "Aryabhatiya"],
+      "answer": 3,
+      "explanation": "Aryabhata's principal surviving work is the Aryabhatiya, composed when he was 23 years old."
+    },
+    {
+      "id": "aryabhata-q03",
+      "difficulty": "easy",
+      "q": "Aryabhata was primarily known as a mathematician and which other kind of scientist?",
+      "options": ["Chemist", "Astronomer", "Biologist", "Geologist"],
+      "answer": 1,
+      "explanation": "Aryabhata was a mathematician-astronomer whose Aryabhatiya covers both mathematics and astronomy."
+    },
+    {
+      "id": "aryabhata-q04",
+      "difficulty": "easy",
+      "q": "What revolutionary idea about the Earth did Aryabhata propose?",
+      "options": ["The Earth is flat and stationary", "The Earth is at the center of the universe and motionless", "The Earth has no atmosphere", "The Earth rotates on its own axis"],
+      "answer": 3,
+      "explanation": "Aryabhata proposed that the Earth rotates on its axis, explaining the apparent daily motion of the stars."
+    },
+    {
+      "id": "aryabhata-q05",
+      "difficulty": "easy",
+      "q": "Aryabhata gave a famous approximation for which mathematical constant?",
+      "options": ["The square root of 2", "The golden ratio", "Euler's number e", "Pi (the ratio of a circle's circumference to its diameter)"],
+      "answer": 3,
+      "explanation": "Aryabhata gave an accurate approximation of pi, stating it as approximately 3.1416."
+    },
+    {
+      "id": "aryabhata-q06",
+      "difficulty": "easy",
+      "q": "India's first satellite, launched in 1975, was named after which scientist?",
+      "options": ["Brahmagupta", "Bhaskara", "Aryabhata", "Varahamihira"],
+      "answer": 2,
+      "explanation": "India's first satellite, launched in 1975, was named Aryabhata in his honor."
+    },
+    {
+      "id": "aryabhata-q07",
+      "difficulty": "easy",
+      "q": "Which numeral system feature is associated with the Indian mathematics tradition Aryabhata worked within?",
+      "options": ["Roman numerals", "Tally marks", "Hieroglyphic numbers", "The place-value (positional) system"],
+      "answer": 3,
+      "explanation": "Aryabhata's work reflects the Indian place-value system that underlies modern decimal notation."
+    },
+    {
+      "id": "aryabhata-q08",
+      "difficulty": "easy",
+      "q": "Aryabhata is regarded as one of the great scientists of which ancient civilization?",
+      "options": ["Ancient Greece", "Ancient Egypt", "Ancient/classical India", "Ancient China"],
+      "answer": 2,
+      "explanation": "Aryabhata is celebrated as a leading figure of classical Indian mathematics and astronomy."
+    },
+    {
+      "id": "aryabhata-q09",
+      "difficulty": "easy",
+      "q": "What did Aryabhata correctly identify as the cause of eclipses?",
+      "options": ["A demon swallowing the Sun or Moon", "Shadows cast by the Earth and Moon", "Clouds blocking the Sun", "The Sun cooling down temporarily"],
+      "answer": 1,
+      "explanation": "Aryabhata explained eclipses scientifically as shadows: the Moon's shadow in solar eclipses and the Earth's shadow in lunar eclipses."
+    },
+    {
+      "id": "aryabhata-q10",
+      "difficulty": "easy",
+      "q": "Aryabhata explained that the Moon and planets shine because of what?",
+      "options": ["Their own internal fire", "Reflected sunlight", "Burning gases on their surface", "Glowing minerals"],
+      "answer": 1,
+      "explanation": "Aryabhata stated that the Moon and planets shine by reflecting sunlight rather than by their own light."
+    },
+    {
+      "id": "aryabhata-q11",
+      "difficulty": "medium",
+      "q": "In what year was Aryabhata born?",
+      "options": ["476 CE", "598 CE", "1114 CE", "350 CE"],
+      "answer": 0,
+      "explanation": "Aryabhata states in the Aryabhatiya that he was 23 years old in 499 CE, placing his birth in 476 CE."
+    },
+    {
+      "id": "aryabhata-q12",
+      "difficulty": "medium",
+      "q": "The Aryabhatiya is traditionally said to have been composed in or around which year?",
+      "options": ["628 CE", "499 CE", "1150 CE", "150 CE"],
+      "answer": 1,
+      "explanation": "Aryabhata wrote that he was 23 in the year corresponding to 499 CE, the date associated with the Aryabhatiya."
+    },
+    {
+      "id": "aryabhata-q13",
+      "difficulty": "medium",
+      "q": "Which city, an ancient center of learning, is strongly associated with Aryabhata's life and work?",
+      "options": ["Ujjain", "Taxila", "Varanasi", "Kusumapura (near Pataliputra, modern Patna)"],
+      "answer": 3,
+      "explanation": "Aryabhata is associated with Kusumapura, near Pataliputra (modern Patna), a major center of learning at the time."
+    },
+    {
+      "id": "aryabhata-q14",
+      "difficulty": "medium",
+      "q": "Approximately what value of pi did Aryabhata give in the Aryabhatiya?",
+      "options": ["3.0", "22/7 exactly", "3.1416", "3.16228"],
+      "answer": 2,
+      "explanation": "Aryabhata described a procedure yielding pi as approximately 3.1416, remarkably accurate for the period."
+    },
+    {
+      "id": "aryabhata-q15",
+      "difficulty": "medium",
+      "q": "Aryabhata's description of pi famously hinted at which property of the constant?",
+      "options": ["That it equals exactly 3", "That it is a whole number", "That it changes for different circles", "That it is 'approximate' (asanna), suggesting it is not an exact ratio"],
+      "answer": 3,
+      "explanation": "Aryabhata called his value of pi 'approximate' (asanna), which some scholars see as an early hint of its irrationality."
+    },
+    {
+      "id": "aryabhata-q16",
+      "difficulty": "medium",
+      "q": "The four sections (padas) of the Aryabhatiya include the Ganitapada, which deals with what?",
+      "options": ["Mathematics", "Astronomy of the planets", "Religious rituals", "Medicine"],
+      "answer": 0,
+      "explanation": "The Ganitapada is the mathematics section of the Aryabhatiya, covering arithmetic, algebra, and geometry."
+    },
+    {
+      "id": "aryabhata-q17",
+      "difficulty": "medium",
+      "q": "Aryabhata's work contains an important early table of which trigonometric quantity?",
+      "options": ["Logarithms", "Tangents only", "Sine (jya) values", "Common fractions"],
+      "answer": 2,
+      "explanation": "Aryabhata produced a table of sine (jya) values, foundational to the development of trigonometry."
+    },
+    {
+      "id": "aryabhata-q18",
+      "difficulty": "medium",
+      "q": "The English word 'sine' is generally traced back, via Arabic, to which Sanskrit term used by Aryabhata?",
+      "options": ["Kona", "Bhuja", "Karna", "Jya (or jiva)"],
+      "answer": 3,
+      "explanation": "The Sanskrit 'jya/jiva' was transliterated into Arabic and later mistranslated into Latin as 'sinus', giving 'sine'."
+    },
+    {
+      "id": "aryabhata-q19",
+      "difficulty": "medium",
+      "q": "Aryabhata gave correct formulas for the sum of which mathematical series?",
+      "options": ["Only geometric series", "Prime numbers", "Squares and cubes of the natural numbers", "Fibonacci numbers"],
+      "answer": 2,
+      "explanation": "Aryabhata gave formulas for summing series of natural numbers and their squares and cubes."
+    },
+    {
+      "id": "aryabhata-q20",
+      "difficulty": "medium",
+      "q": "Aryabhata used a unique alphabetic notation to represent large numbers. What is this system commonly called?",
+      "options": ["Katapayadi system", "The Aryabhata numeration (alphabetic place-value notation)", "Brahmi tally system", "Sexagesimal cuneiform"],
+      "answer": 1,
+      "explanation": "Aryabhata devised an alphabetic system of numeration assigning numerical values to Sanskrit syllables for compact representation."
+    },
+    {
+      "id": "aryabhata-q21",
+      "difficulty": "medium",
+      "q": "Aryabhata's value for the length of the sidereal day (one rotation relative to the stars) was notably close to which modern figure?",
+      "options": ["About 30 hours", "About 23 hours 56 minutes", "About 25 hours", "Exactly 24 hours 0 minutes"],
+      "answer": 1,
+      "explanation": "Aryabhata's estimate of the sidereal day (about 23 hours 56 minutes) is remarkably close to the modern value."
+    },
+    {
+      "id": "aryabhata-q22",
+      "difficulty": "medium",
+      "q": "Which later Indian mathematician wrote an influential commentary (Aryabhatiya Bhasya) on Aryabhata's work?",
+      "options": ["Bhaskara I", "Euclid", "Al-Khwarizmi", "Ptolemy"],
+      "answer": 0,
+      "explanation": "Bhaskara I, a 7th-century mathematician, wrote a major commentary on the Aryabhatiya and helped spread its ideas."
+    },
+    {
+      "id": "aryabhata-q23",
+      "difficulty": "hard",
+      "q": "Aryabhata gave a general method for solving which type of equation, foundational to Indian algebra?",
+      "options": ["Quadratic equations only", "Differential equations", "Cubic equations by radicals", "Indeterminate linear (first-degree) equations, via the kuttaka method"],
+      "answer": 3,
+      "explanation": "Aryabhata's kuttaka ('pulverizer') method solves indeterminate linear equations, a key contribution to number theory and algebra."
+    },
+    {
+      "id": "aryabhata-q24",
+      "difficulty": "hard",
+      "q": "Aryabhata's astronomical model explained the apparent daily westward motion of the stars by attributing motion to what?",
+      "options": ["The rotating sphere of fixed stars", "The Sun dragging the sky", "Winds in the upper atmosphere", "The rotation of the Earth itself"],
+      "answer": 3,
+      "explanation": "Aryabhata reasoned that the Earth's rotation, not a moving heaven, produces the apparent daily motion of the stars."
+    },
+    {
+      "id": "aryabhata-q25",
+      "difficulty": "hard",
+      "q": "Roughly what value did Aryabhata give for the circumference of the Earth?",
+      "options": ["About 4,967 yojanas (close to the true value)", "About 100 yojanas", "About 1,000,000 yojanas", "He gave no estimate of Earth's size"],
+      "answer": 0,
+      "explanation": "Aryabhata's Earth circumference of about 4,967 yojanas converts to a value close to the modern measurement."
+    },
+    {
+      "id": "aryabhata-q26",
+      "difficulty": "hard",
+      "q": "Which pada of the Aryabhatiya, named for the 'reckoning of time', gives methods for finding planetary positions for a given day and handling the intercalary month?",
+      "options": ["Ganitapada", "Gitikapada (Dasagitika)", "Kalakriyapada", "Golapada"],
+      "answer": 2,
+      "explanation": "The Kalakriyapada ('reckoning of time') covers everyday units of time, the calculation of planetary positions for a given day, and the intercalary month."
+    },
+    {
+      "id": "aryabhata-q27",
+      "difficulty": "hard",
+      "q": "The Golapada section of the Aryabhatiya is devoted to which subject?",
+      "options": ["Pure arithmetic", "Grammar", "Agriculture", "The celestial sphere and spherical astronomy"],
+      "answer": 3,
+      "explanation": "The Golapada ('on the sphere') treats the celestial sphere, spherical trigonometry, and the geometry of the heavens."
+    },
+    {
+      "id": "aryabhata-q28",
+      "difficulty": "hard",
+      "q": "Aryabhata's astronomical ideas influenced scholars in the Islamic world after his works were translated into which language?",
+      "options": ["Greek", "Arabic", "Latin first, then Arabic", "Chinese"],
+      "answer": 1,
+      "explanation": "Aryabhata's astronomy reached the Islamic world through Arabic translations, influencing later mathematics and astronomy."
+    },
+    {
+      "id": "aryabhata-q29",
+      "difficulty": "hard",
+      "q": "Aryabhata's planetary model is sometimes described as containing an early form of which concept used to explain planetary motion?",
+      "options": ["Heliocentrism with elliptical orbits", "Epicycles (and eccentrics)", "Gravitational fields", "Quantum orbitals"],
+      "answer": 1,
+      "explanation": "Aryabhata's geometric planetary model used epicycles and eccentrics to account for the observed motions of the planets."
+    },
+    {
+      "id": "aryabhata-q30",
+      "difficulty": "hard",
+      "q": "The opening section of the Aryabhatiya, which compactly lists astronomical constants in verse, is known by which name?",
+      "options": ["Gitikapada (Dasagitika)", "Lilavati", "Bijaganita", "Siddhanta Shiromani"],
+      "answer": 0,
+      "explanation": "The Gitikapada, also called Dasagitika, opens the Aryabhatiya with a concise set of astronomical parameters in verse."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "raman-effect",
+  "questions": [
+    {
+      "id": "raman-effect-q01",
+      "difficulty": "easy",
+      "q": "Which Indian scientist discovered the Raman Effect?",
+      "options": ["Satyendra Nath Bose", "C. V. Raman", "Homi J. Bhabha", "Meghnad Saha"],
+      "answer": 1,
+      "explanation": "Chandrasekhara Venkata Raman (C. V. Raman) discovered the effect that now bears his name."
+    },
+    {
+      "id": "raman-effect-q02",
+      "difficulty": "easy",
+      "q": "The Raman Effect involves the scattering of what?",
+      "options": ["Sound", "Light", "Heat alone", "Electricity"],
+      "answer": 1,
+      "explanation": "The Raman Effect is the inelastic scattering of light by molecules."
+    },
+    {
+      "id": "raman-effect-q03",
+      "difficulty": "easy",
+      "q": "For his discovery, C. V. Raman won which Nobel Prize in 1930?",
+      "options": ["Chemistry", "Medicine", "Physics", "Peace"],
+      "answer": 2,
+      "explanation": "C. V. Raman received the 1930 Nobel Prize in Physics for his work on light scattering."
+    },
+    {
+      "id": "raman-effect-q04",
+      "difficulty": "easy",
+      "q": "C. V. Raman was the first person of which background to win a Nobel Prize in the sciences?",
+      "options": ["European", "American", "Asian", "African"],
+      "answer": 2,
+      "explanation": "Raman was the first Asian and first non-white person to receive a Nobel Prize in a scientific field."
+    },
+    {
+      "id": "raman-effect-q05",
+      "difficulty": "easy",
+      "q": "According to popular accounts, what natural observation inspired Raman to study light scattering?",
+      "options": ["The redness of a sunset", "The blue colour of the sea and sky", "The green of leaves", "The white of clouds"],
+      "answer": 1,
+      "explanation": "Raman was famously inspired by questioning why the Mediterranean Sea appeared deep blue during a voyage."
+    },
+    {
+      "id": "raman-effect-q06",
+      "difficulty": "easy",
+      "q": "The Raman Effect is widely used today as a tool for what purpose?",
+      "options": ["Identifying materials and molecules", "Generating electricity", "Cooling engines", "Measuring rainfall"],
+      "answer": 0,
+      "explanation": "Raman scattering provides a molecular fingerprint, making it a key technique for identifying materials."
+    },
+    {
+      "id": "raman-effect-q07",
+      "difficulty": "easy",
+      "q": "The analytical technique based on the Raman Effect is called what?",
+      "options": ["Chromatography", "Raman spectroscopy", "Titration", "Calorimetry"],
+      "answer": 1,
+      "explanation": "Raman spectroscopy analyses scattered light to determine molecular structure and composition."
+    },
+    {
+      "id": "raman-effect-q08",
+      "difficulty": "easy",
+      "q": "In which country was C. V. Raman born?",
+      "options": ["India", "Sri Lanka", "England", "Bangladesh"],
+      "answer": 0,
+      "explanation": "C. V. Raman was born in 1888 in Tiruchirappalli (Trichinopoly), in present-day Tamil Nadu, India."
+    },
+    {
+      "id": "raman-effect-q09",
+      "difficulty": "easy",
+      "q": "National Science Day in India is celebrated each year on 28 February to mark what?",
+      "options": ["India's first satellite launch", "The discovery of the Raman Effect", "The founding of ISRO", "The birth of Homi Bhabha"],
+      "answer": 1,
+      "explanation": "India celebrates National Science Day on 28 February to commemorate Raman's discovery of the effect in 1928."
+    },
+    {
+      "id": "raman-effect-q10",
+      "difficulty": "easy",
+      "q": "In the Raman Effect, the scattered light has a frequency that is generally what compared to the incident light?",
+      "options": ["Exactly the same", "Changed (shifted)", "Always zero", "Always doubled"],
+      "answer": 1,
+      "explanation": "Because the scattering is inelastic, a small fraction of scattered light has a shifted (different) frequency."
+    },
+    {
+      "id": "raman-effect-q11",
+      "difficulty": "medium",
+      "q": "In which year did C. V. Raman announce his discovery of the effect?",
+      "options": ["1922", "1925", "1928", "1932"],
+      "answer": 2,
+      "explanation": "Raman discovered and announced the effect in 1928, with the famous experiment on 28 February."
+    },
+    {
+      "id": "raman-effect-q12",
+      "difficulty": "medium",
+      "q": "At which institution was C. V. Raman working when he discovered the Raman Effect?",
+      "options": ["University of Calcutta / IACS, Calcutta", "Indian Institute of Science, Bangalore", "Aligarh Muslim University", "Banaras Hindu University"],
+      "answer": 0,
+      "explanation": "Raman made the discovery in Calcutta, associated with the University of Calcutta and the Indian Association for the Cultivation of Science (IACS)."
+    },
+    {
+      "id": "raman-effect-q13",
+      "difficulty": "medium",
+      "q": "Raman collaborated closely on the 1928 experiments with which of his students?",
+      "options": ["K. S. Krishnan", "S. Chandrasekhar", "Vikram Sarabhai", "G. N. Ramachandran"],
+      "answer": 0,
+      "explanation": "K. S. Krishnan worked with Raman and co-authored the announcement of the new scattering phenomenon."
+    },
+    {
+      "id": "raman-effect-q14",
+      "difficulty": "medium",
+      "q": "When a molecule gains energy and the scattered photon loses energy (shifts to lower frequency), the band is called what?",
+      "options": ["Rayleigh line", "Anti-Stokes line", "Stokes line", "Compton line"],
+      "answer": 2,
+      "explanation": "Stokes lines appear at lower frequency because the molecule absorbs some of the photon's energy."
+    },
+    {
+      "id": "raman-effect-q15",
+      "difficulty": "medium",
+      "q": "Elastic scattering of light, where the frequency does NOT change, is known as what?",
+      "options": ["Raman scattering", "Rayleigh scattering", "Brillouin scattering", "Mie absorption"],
+      "answer": 1,
+      "explanation": "Rayleigh scattering is the dominant, elastic scattering in which the scattered light keeps the same frequency."
+    },
+    {
+      "id": "raman-effect-q16",
+      "difficulty": "medium",
+      "q": "Roughly what fraction of scattered photons undergo the inelastic Raman scattering?",
+      "options": ["About half", "About one in ten", "A very tiny fraction (about one in a million)", "All of them"],
+      "answer": 2,
+      "explanation": "Raman scattering is extremely weak, with only about one in a million photons being inelastically scattered."
+    },
+    {
+      "id": "raman-effect-q17",
+      "difficulty": "medium",
+      "q": "Modern Raman spectroscopy commonly uses which light source to provide intense, monochromatic light?",
+      "options": ["Candle flame", "Laser", "Incandescent bulb", "Fluorescent tube"],
+      "answer": 1,
+      "explanation": "Lasers provide the intense monochromatic light needed to make the weak Raman signal practical to measure."
+    },
+    {
+      "id": "raman-effect-q18",
+      "difficulty": "medium",
+      "q": "The light source Raman originally used for his classic 1928 experiment was concentrated light from what?",
+      "options": ["A mercury arc lamp / sunlight", "A helium-neon laser", "An LED array", "A nuclear reactor"],
+      "answer": 0,
+      "explanation": "Lasers did not exist in 1928; Raman used filtered sunlight and later mercury arc lamps as monochromatic sources."
+    },
+    {
+      "id": "raman-effect-q19",
+      "difficulty": "medium",
+      "q": "The shift in frequency observed in Raman scattering corresponds to what property of the molecule?",
+      "options": ["Its electrical charge", "Its vibrational (or rotational) energy levels", "Its mass number", "Its boiling point"],
+      "answer": 1,
+      "explanation": "The Raman shift equals the energy of molecular vibrational or rotational transitions, giving structural information."
+    },
+    {
+      "id": "raman-effect-q20",
+      "difficulty": "medium",
+      "q": "Besides the Raman Effect, C. V. Raman is also known for fundamental studies in which field?",
+      "options": ["Acoustics (the physics of musical instruments)", "Genetics", "Plate tectonics", "Organic synthesis"],
+      "answer": 0,
+      "explanation": "Raman did pioneering work on the acoustics of Indian musical instruments such as the violin, veena and mridangam."
+    },
+    {
+      "id": "raman-effect-q21",
+      "difficulty": "medium",
+      "q": "Which Indian institute did C. V. Raman lead as director, and where he later founded his own research institute?",
+      "options": ["IIT Madras", "Indian Institute of Science, Bangalore", "Tata Institute of Fundamental Research", "Physical Research Laboratory"],
+      "answer": 1,
+      "explanation": "Raman served as director of the Indian Institute of Science in Bangalore and later founded the Raman Research Institute there."
+    },
+    {
+      "id": "raman-effect-q22",
+      "difficulty": "medium",
+      "q": "What is India's highest civilian award that was conferred on C. V. Raman in 1954?",
+      "options": ["Padma Shri", "Param Vir Chakra", "Bharat Ratna", "Arjuna Award"],
+      "answer": 2,
+      "explanation": "C. V. Raman was among the first recipients of the Bharat Ratna, India's highest civilian honour, in 1954."
+    },
+    {
+      "id": "raman-effect-q23",
+      "difficulty": "hard",
+      "q": "When a molecule is already in an excited state and the scattered photon gains energy (shifts to higher frequency), the resulting band is called what?",
+      "options": ["Stokes line", "Anti-Stokes line", "Rayleigh line", "Ghost line"],
+      "answer": 1,
+      "explanation": "Anti-Stokes lines occur at higher frequency because the molecule transfers vibrational energy to the photon."
+    },
+    {
+      "id": "raman-effect-q24",
+      "difficulty": "hard",
+      "q": "At ordinary temperatures, why are Stokes lines typically more intense than anti-Stokes lines?",
+      "options": ["Most molecules start in the ground vibrational state (Boltzmann distribution)", "Anti-Stokes lines are absorbed by the detector", "Stokes lines have higher frequency", "The laser only produces Stokes photons"],
+      "answer": 0,
+      "explanation": "By the Boltzmann distribution, far more molecules occupy the ground state, so Stokes (upward) transitions dominate."
+    },
+    {
+      "id": "raman-effect-q25",
+      "difficulty": "hard",
+      "q": "A Russian/Soviet pair, Landsberg and Mandelstam, independently observed Raman scattering in 1928 in what material?",
+      "options": ["Liquid benzene", "Quartz crystals", "Water vapour", "Metallic sodium"],
+      "answer": 1,
+      "explanation": "Landsberg and Mandelstam observed the same combinational scattering of light in quartz crystals at nearly the same time."
+    },
+    {
+      "id": "raman-effect-q26",
+      "difficulty": "hard",
+      "q": "The selection rule for Raman activity requires a change in which molecular property during a vibration?",
+      "options": ["Dipole moment", "Polarizability", "Magnetic moment", "Atomic number"],
+      "answer": 1,
+      "explanation": "A vibration is Raman-active only if it produces a change in the molecule's polarizability."
+    },
+    {
+      "id": "raman-effect-q27",
+      "difficulty": "hard",
+      "q": "Raman spectroscopy is often described as complementary to which other vibrational spectroscopy technique?",
+      "options": ["X-ray diffraction", "Infrared (IR) absorption spectroscopy", "Mass spectrometry", "NMR spectroscopy"],
+      "answer": 1,
+      "explanation": "Raman and IR spectroscopy are complementary because their selection rules (polarizability vs dipole change) differ."
+    },
+    {
+      "id": "raman-effect-q28",
+      "difficulty": "hard",
+      "q": "The Raman shift, the difference between incident and scattered light, is conventionally expressed in what units?",
+      "options": ["Nanometres", "Wavenumbers (cm⁻¹)", "Joules", "Degrees Celsius"],
+      "answer": 1,
+      "explanation": "Raman shifts are reported in wavenumbers (cm⁻¹) because the shift in this unit is independent of the excitation wavelength."
+    },
+    {
+      "id": "raman-effect-q29",
+      "difficulty": "hard",
+      "q": "Which enhanced variant of the technique boosts the normally weak Raman signal by adsorbing molecules on roughened metal (e.g. silver or gold) surfaces?",
+      "options": ["FT-IR", "SERS (Surface-Enhanced Raman Spectroscopy)", "GC-MS", "ICP-OES"],
+      "answer": 1,
+      "explanation": "Surface-Enhanced Raman Spectroscopy (SERS) dramatically amplifies the signal using nanostructured metal surfaces."
+    },
+    {
+      "id": "raman-effect-q30",
+      "difficulty": "hard",
+      "q": "C. V. Raman shared a noted family scientific legacy: which Nobel laureate astrophysicist was his nephew?",
+      "options": ["Subrahmanyan Chandrasekhar", "Har Gobind Khorana", "Venkatraman Ramakrishnan", "Abdus Salam"],
+      "answer": 0,
+      "explanation": "Subrahmanyan Chandrasekhar, who won the 1983 Nobel Prize in Physics, was C. V. Raman's nephew."
+    }
+  ]
+}

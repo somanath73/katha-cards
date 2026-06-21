@@ -1,0 +1,245 @@
+{
+  "cardId": "ayurveda",
+  "questions": [
+    {
+      "id": "ayurveda-q01",
+      "difficulty": "easy",
+      "q": "What does the Sanskrit word 'Ayurveda' broadly mean?",
+      "options": ["Science of war", "Science of life", "Science of stars", "Science of numbers"],
+      "answer": 1,
+      "explanation": "Ayurveda combines 'ayur' (life) and 'veda' (knowledge or science), meaning the science or knowledge of life."
+    },
+    {
+      "id": "ayurveda-q02",
+      "difficulty": "easy",
+      "q": "Ayurveda originated in which country?",
+      "options": ["China", "Greece", "India", "Egypt"],
+      "answer": 2,
+      "explanation": "Ayurveda is a traditional system of medicine that originated in the Indian subcontinent thousands of years ago."
+    },
+    {
+      "id": "ayurveda-q03",
+      "difficulty": "easy",
+      "q": "In Ayurveda, the three fundamental bodily energies are collectively called what?",
+      "options": ["Chakras", "Nadis", "Doshas", "Gunas"],
+      "answer": 2,
+      "explanation": "The three doshas (Vata, Pitta and Kapha) are the central concept of balance in Ayurvedic physiology."
+    },
+    {
+      "id": "ayurveda-q04",
+      "difficulty": "easy",
+      "q": "Which of the following is one of the three doshas?",
+      "options": ["Vata", "Mantra", "Tantra", "Yantra"],
+      "answer": 0,
+      "explanation": "Vata, along with Pitta and Kapha, is one of the three doshas in Ayurveda."
+    },
+    {
+      "id": "ayurveda-q05",
+      "difficulty": "easy",
+      "q": "Ayurveda is traditionally regarded as connected to which group of ancient Indian scriptures?",
+      "options": ["The Puranas", "The Vedas", "The Sutras of Patanjali", "The Tripitaka"],
+      "answer": 1,
+      "explanation": "Ayurveda is traditionally linked to the Vedas, and is often associated as an upaveda (supplementary knowledge) of the Atharvaveda."
+    },
+    {
+      "id": "ayurveda-q06",
+      "difficulty": "easy",
+      "q": "Which classical Ayurvedic text is primarily associated with internal medicine and is attributed to Charaka?",
+      "options": ["Sushruta Samhita", "Ashtanga Hridaya", "Charaka Samhita", "Brihat Samhita"],
+      "answer": 2,
+      "explanation": "The Charaka Samhita is the foundational Ayurvedic text on internal medicine, named after the physician Charaka."
+    },
+    {
+      "id": "ayurveda-q07",
+      "difficulty": "easy",
+      "q": "Which classical text is especially renowned for its detailed descriptions of surgery in Ayurveda?",
+      "options": ["Charaka Samhita", "Rig Veda", "Sushruta Samhita", "Yoga Sutras"],
+      "answer": 2,
+      "explanation": "The Sushruta Samhita, attributed to Sushruta, is famous for its detailed treatment of surgical techniques and instruments."
+    },
+    {
+      "id": "ayurveda-q08",
+      "difficulty": "easy",
+      "q": "Besides herbs and treatments, Ayurveda places major emphasis on which everyday factors for health?",
+      "options": ["Diet and lifestyle", "Gambling and trade", "Architecture and sculpture", "Warfare and strategy"],
+      "answer": 0,
+      "explanation": "Ayurveda strongly emphasizes diet, daily routine and lifestyle as central to maintaining health and balance among the doshas."
+    },
+    {
+      "id": "ayurveda-q09",
+      "difficulty": "easy",
+      "q": "Ayurveda is best described as which of the following?",
+      "options": ["A modern pharmaceutical company", "One of the world's oldest systems of medicine", "A branch of astronomy", "A style of classical dance"],
+      "answer": 1,
+      "explanation": "Ayurveda is one of the world's oldest continuously practised systems of medicine."
+    },
+    {
+      "id": "ayurveda-q10",
+      "difficulty": "easy",
+      "q": "In modern India, which government ministry oversees Ayurveda and other traditional systems of medicine?",
+      "options": ["Ministry of Defence", "Ministry of Railways", "Ministry of Finance", "Ministry of AYUSH"],
+      "answer": 3,
+      "explanation": "The Ministry of AYUSH oversees Ayurveda, Yoga, Unani, Siddha and Homoeopathy in India."
+    },
+    {
+      "id": "ayurveda-q11",
+      "difficulty": "medium",
+      "q": "Which dosha is primarily associated with the elements of air and space (ether) and governs movement?",
+      "options": ["Pitta", "Kapha", "Vata", "Rasa"],
+      "answer": 2,
+      "explanation": "Vata is associated with air and ether (space) and is considered to govern movement and the nervous functions in Ayurveda."
+    },
+    {
+      "id": "ayurveda-q12",
+      "difficulty": "medium",
+      "q": "Which dosha is chiefly associated with fire and governs digestion and metabolism?",
+      "options": ["Vata", "Kapha", "Pitta", "Ojas"],
+      "answer": 2,
+      "explanation": "Pitta is associated with fire (and water) and is considered to govern digestion, metabolism and transformation."
+    },
+    {
+      "id": "ayurveda-q13",
+      "difficulty": "medium",
+      "q": "Kapha dosha is primarily associated with which pair of elements?",
+      "options": ["Fire and air", "Earth and water", "Air and ether", "Fire and ether"],
+      "answer": 1,
+      "explanation": "Kapha is associated with the earth and water elements and is linked to structure, stability and lubrication in the body."
+    },
+    {
+      "id": "ayurveda-q14",
+      "difficulty": "medium",
+      "q": "The classical Ayurvedic detoxification and purification therapy is known by what name?",
+      "options": ["Pranayama", "Surya Namaskar", "Panchakarma", "Abhyanga"],
+      "answer": 2,
+      "explanation": "Panchakarma ('five actions') is the classical Ayurvedic set of purification and detoxification procedures."
+    },
+    {
+      "id": "ayurveda-q15",
+      "difficulty": "medium",
+      "q": "The 'tridosha' theory of Ayurveda refers to the balance among which three?",
+      "options": ["Sattva, Rajas, Tamas", "Vata, Pitta, Kapha", "Body, mind, soul", "Earth, water, fire"],
+      "answer": 1,
+      "explanation": "The tridosha theory describes health as the proper balance among the three doshas: Vata, Pitta and Kapha."
+    },
+    {
+      "id": "ayurveda-q16",
+      "difficulty": "medium",
+      "q": "Sushruta, an ancient figure central to Ayurvedic surgery, is often honoured with which title?",
+      "options": ["Father of Astronomy", "Father of Surgery", "Father of Algebra", "Father of Chemistry"],
+      "answer": 1,
+      "explanation": "Sushruta is widely honoured as the Father of Surgery for the surgical knowledge recorded in the Sushruta Samhita."
+    },
+    {
+      "id": "ayurveda-q17",
+      "difficulty": "medium",
+      "q": "The Sushruta Samhita is especially noted for early descriptions of which reconstructive procedure?",
+      "options": ["Heart transplant", "Rhinoplasty (nose reconstruction)", "Laser eye surgery", "Hip replacement"],
+      "answer": 1,
+      "explanation": "The Sushruta Samhita describes early techniques of rhinoplasty, reconstructing the nose using a flap of skin."
+    },
+    {
+      "id": "ayurveda-q18",
+      "difficulty": "medium",
+      "q": "In Ayurveda, an individual's unique inherent constitution or mind-body type is referred to as their what?",
+      "options": ["Karma", "Maya", "Dharma", "Prakriti"],
+      "answer": 3,
+      "explanation": "Prakriti refers to a person's natural constitution, determined by the proportion of the doshas at birth."
+    },
+    {
+      "id": "ayurveda-q19",
+      "difficulty": "medium",
+      "q": "Which trio forms the classical 'Brihat Trayi' (Great Three) texts of Ayurveda?",
+      "options": ["Rig, Sama, Yajur Veda", "Charaka Samhita, Sushruta Samhita, Ashtanga Hridaya", "Yoga Sutras, Bhagavad Gita, Upanishads", "Arthashastra, Manusmriti, Natyashastra"],
+      "answer": 1,
+      "explanation": "The Brihat Trayi consists of the Charaka Samhita, the Sushruta Samhita and the Ashtanga Hridaya (of Vagbhata)."
+    },
+    {
+      "id": "ayurveda-q20",
+      "difficulty": "medium",
+      "q": "The Ashtanga Hridaya, one of Ayurveda's classical texts, is traditionally attributed to which author?",
+      "options": ["Patanjali", "Vagbhata", "Aryabhata", "Panini"],
+      "answer": 1,
+      "explanation": "The Ashtanga Hridaya is attributed to Vagbhata and is one of the three great classical texts of Ayurveda."
+    },
+    {
+      "id": "ayurveda-q21",
+      "difficulty": "medium",
+      "q": "In Ayurvedic theory, the universe and body are made of five basic elements known as the Pancha Mahabhuta. Which is NOT one of them?",
+      "options": ["Earth (Prithvi)", "Water (Jala)", "Metal (Loha)", "Air (Vayu)"],
+      "answer": 2,
+      "explanation": "The Pancha Mahabhuta are earth, water, fire, air and ether (space); metal is not among them."
+    },
+    {
+      "id": "ayurveda-q22",
+      "difficulty": "medium",
+      "q": "In Ayurveda, 'Agni' is a key concept referring to which bodily function?",
+      "options": ["Blood circulation", "The digestive fire and metabolism", "Eyesight", "Bone formation"],
+      "answer": 1,
+      "explanation": "Agni in Ayurveda refers to the digestive fire responsible for digestion, absorption and metabolism."
+    },
+    {
+      "id": "ayurveda-q23",
+      "difficulty": "hard",
+      "q": "In Ayurveda, the metabolic and toxic waste residue believed to accumulate from poor digestion is called what?",
+      "options": ["Ojas", "Tejas", "Ama", "Prana"],
+      "answer": 2,
+      "explanation": "Ama refers to undigested or toxic residue thought to accumulate when digestion (agni) is impaired, contributing to disease."
+    },
+    {
+      "id": "ayurveda-q24",
+      "difficulty": "hard",
+      "q": "Ayurveda is classically organized into how many major branches or specialties?",
+      "options": ["Three", "Five", "Eight", "Twelve"],
+      "answer": 2,
+      "explanation": "Classical Ayurveda is organized into eight branches, collectively known as Ashtanga Ayurveda (the eight limbs)."
+    },
+    {
+      "id": "ayurveda-q25",
+      "difficulty": "hard",
+      "q": "In Ayurveda, the branch dealing with toxicology, poisons and their antidotes is known as what?",
+      "options": ["Agada Tantra", "Kayachikitsa", "Shalya Tantra", "Rasayana"],
+      "answer": 0,
+      "explanation": "Agada Tantra is the Ayurvedic branch concerned with toxicology, the treatment of poisons and bites."
+    },
+    {
+      "id": "ayurveda-q26",
+      "difficulty": "hard",
+      "q": "Within Ayurveda, the specialty of 'Rasayana' is concerned primarily with what?",
+      "options": ["Surgery and incisions", "Eye and ear disorders", "Childbirth and obstetrics", "Rejuvenation, vitality and longevity"],
+      "answer": 3,
+      "explanation": "Rasayana is the Ayurvedic branch dealing with rejuvenation therapies aimed at promoting vitality, immunity and longevity."
+    },
+    {
+      "id": "ayurveda-q27",
+      "difficulty": "hard",
+      "q": "In Ayurveda, 'Dhatu' refers to which of the following?",
+      "options": ["The seven fundamental bodily tissues", "The three doshas", "Daily routine practices", "Surgical instruments"],
+      "answer": 0,
+      "explanation": "The seven Dhatus are the fundamental bodily tissues (such as rasa, rakta, mamsa and others) that sustain the body."
+    },
+    {
+      "id": "ayurveda-q28",
+      "difficulty": "hard",
+      "q": "Sushruta's surgical text classically describes roughly how many types of surgical instruments (yantra and shastra)?",
+      "options": ["About 10", "About 30", "Over 100", "Exactly 5"],
+      "answer": 2,
+      "explanation": "The Sushruta Samhita describes over a hundred surgical instruments, including blunt instruments (yantra) and sharp ones (shastra)."
+    },
+    {
+      "id": "ayurveda-q29",
+      "difficulty": "hard",
+      "q": "The branch of Ayurveda known as 'Kaumarabhritya' deals with which area of medicine?",
+      "options": ["General surgery", "Mental disorders", "Pediatrics and child care", "Skin diseases"],
+      "answer": 2,
+      "explanation": "Kaumarabhritya is the Ayurvedic branch dealing with pediatrics, child care and related obstetric matters."
+    },
+    {
+      "id": "ayurveda-q30",
+      "difficulty": "hard",
+      "q": "In Ayurveda, the subtle essence considered the basis of immunity, strength and vitality is called what?",
+      "options": ["Ama", "Mala", "Srotas", "Ojas"],
+      "answer": 3,
+      "explanation": "Ojas is regarded in Ayurveda as the subtle vital essence that underlies immunity, strength and overall vitality."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "aadhaar",
+  "questions": [
+    {
+      "id": "aadhaar-q01",
+      "difficulty": "easy",
+      "q": "What does Aadhaar primarily provide to a resident of India?",
+      "options": [
+        "A unique 12-digit identity number",
+        "A driving licence",
+        "A bank loan",
+        "A passport"
+      ],
+      "answer": 0,
+      "explanation": "Aadhaar gives each enrolled resident a unique 12-digit identification number linked to their demographic and biometric data."
+    },
+    {
+      "id": "aadhaar-q02",
+      "difficulty": "easy",
+      "q": "Which authority issues Aadhaar numbers in India?",
+      "options": [
+        "Reserve Bank of India (RBI)",
+        "Unique Identification Authority of India (UIDAI)",
+        "Election Commission of India",
+        "Central Bureau of Investigation"
+      ],
+      "answer": 1,
+      "explanation": "The Unique Identification Authority of India (UIDAI) is the statutory body that issues Aadhaar numbers."
+    },
+    {
+      "id": "aadhaar-q03",
+      "difficulty": "easy",
+      "q": "Aadhaar is often described as the world's largest system of what kind?",
+      "options": [
+        "Postal delivery",
+        "Tax collection",
+        "Biometric digital identity",
+        "Public transport"
+      ],
+      "answer": 2,
+      "explanation": "Aadhaar is the largest biometric digital identity programme in the world, covering over a billion residents."
+    },
+    {
+      "id": "aadhaar-q04",
+      "difficulty": "easy",
+      "q": "How many digits does an Aadhaar number contain?",
+      "options": [
+        "10",
+        "12",
+        "16",
+        "8"
+      ],
+      "answer": 1,
+      "explanation": "An Aadhaar number is a 12-digit random number assigned to each resident."
+    },
+    {
+      "id": "aadhaar-q05",
+      "difficulty": "easy",
+      "q": "Which of the following biometrics is captured during Aadhaar enrolment?",
+      "options": [
+        "DNA samples",
+        "Voice recordings",
+        "Fingerprints and iris scans",
+        "Blood type"
+      ],
+      "answer": 2,
+      "explanation": "Aadhaar enrolment records ten fingerprints, both iris scans, and a facial photograph."
+    },
+    {
+      "id": "aadhaar-q06",
+      "difficulty": "easy",
+      "q": "Aadhaar is a programme run by which country?",
+      "options": [
+        "India",
+        "Bangladesh",
+        "Sri Lanka",
+        "Nepal"
+      ],
+      "answer": 0,
+      "explanation": "Aadhaar is India's national biometric identity programme."
+    },
+    {
+      "id": "aadhaar-q07",
+      "difficulty": "easy",
+      "q": "Who is generally eligible to enrol for an Aadhaar number?",
+      "options": [
+        "Only Indian citizens",
+        "Only government employees",
+        "Any resident of India",
+        "Only people above 60 years of age"
+      ],
+      "answer": 2,
+      "explanation": "Aadhaar is available to any resident of India, and is a proof of identity, not of citizenship."
+    },
+    {
+      "id": "aadhaar-q08",
+      "difficulty": "easy",
+      "q": "What does the word 'Aadhaar' literally mean?",
+      "options": [
+        "Number",
+        "Foundation or base",
+        "Security",
+        "Citizen"
+      ],
+      "answer": 1,
+      "explanation": "'Aadhaar' is a Hindi word meaning foundation or base, reflecting its role as a foundational identity."
+    },
+    {
+      "id": "aadhaar-q09",
+      "difficulty": "easy",
+      "q": "Roughly how many people are enrolled in Aadhaar, making it the largest of its kind?",
+      "options": [
+        "About 10 million",
+        "About 100 million",
+        "Over a billion",
+        "About 50 million"
+      ],
+      "answer": 2,
+      "explanation": "More than a billion residents have been enrolled in Aadhaar, making it the world's largest biometric ID system."
+    },
+    {
+      "id": "aadhaar-q10",
+      "difficulty": "easy",
+      "q": "Aadhaar can be used by residents primarily as a proof of which of the following?",
+      "options": [
+        "Income tax already paid",
+        "Identity and address",
+        "Educational degrees",
+        "Property ownership"
+      ],
+      "answer": 1,
+      "explanation": "Aadhaar serves as a widely accepted proof of identity and address across India."
+    },
+    {
+      "id": "aadhaar-q11",
+      "difficulty": "medium",
+      "q": "In which year was the UIDAI established to oversee the Aadhaar project?",
+      "options": [
+        "2005",
+        "2009",
+        "2014",
+        "2000"
+      ],
+      "answer": 1,
+      "explanation": "The UIDAI was established in January 2009 under the Planning Commission to implement the Aadhaar project."
+    },
+    {
+      "id": "aadhaar-q12",
+      "difficulty": "medium",
+      "q": "Who was the founding Chairman of the UIDAI when it began the Aadhaar project?",
+      "options": [
+        "Nandan Nilekani",
+        "Raghuram Rajan",
+        "Sam Pitroda",
+        "N. R. Narayana Murthy"
+      ],
+      "answer": 0,
+      "explanation": "Nandan Nilekani, co-founder of Infosys, served as the first Chairman of the UIDAI."
+    },
+    {
+      "id": "aadhaar-q13",
+      "difficulty": "medium",
+      "q": "When was the very first Aadhaar number issued?",
+      "options": [
+        "2016",
+        "2010",
+        "2008",
+        "2013"
+      ],
+      "answer": 1,
+      "explanation": "The first Aadhaar number was issued in September 2010 to a resident of Maharashtra."
+    },
+    {
+      "id": "aadhaar-q14",
+      "difficulty": "medium",
+      "q": "Which law gave Aadhaar its statutory backing?",
+      "options": [
+        "The Information Technology Act, 2000",
+        "The Aadhaar Act, 2016",
+        "The Right to Information Act, 2005",
+        "The Companies Act, 2013"
+      ],
+      "answer": 1,
+      "explanation": "The Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act was passed in 2016."
+    },
+    {
+      "id": "aadhaar-q15",
+      "difficulty": "medium",
+      "q": "The Aadhaar Act, 2016 was notably passed in Parliament as which type of bill?",
+      "options": [
+        "An ordinary bill",
+        "A constitutional amendment bill",
+        "A money bill",
+        "A private member's bill"
+      ],
+      "answer": 2,
+      "explanation": "The Aadhaar Act, 2016 was introduced and passed as a money bill, a move that was later challenged in court."
+    },
+    {
+      "id": "aadhaar-q16",
+      "difficulty": "medium",
+      "q": "Aadhaar enables KYC and benefit transfers chiefly through what kind of verification service?",
+      "options": [
+        "Postal address checks",
+        "Online biometric and demographic authentication",
+        "In-person interviews only",
+        "Handwriting analysis"
+      ],
+      "answer": 1,
+      "explanation": "UIDAI provides online authentication that verifies a person's biometric or demographic details against the Aadhaar database."
+    },
+    {
+      "id": "aadhaar-q17",
+      "difficulty": "medium",
+      "q": "Aadhaar is widely linked to which payments innovation for direct benefit transfers?",
+      "options": [
+        "Aadhaar-enabled bank accounts and DBT",
+        "Cryptocurrency mining",
+        "Stock market trading",
+        "Toll collection only"
+      ],
+      "answer": 0,
+      "explanation": "Aadhaar underpins Direct Benefit Transfer (DBT), routing subsidies straight into Aadhaar-linked bank accounts."
+    },
+    {
+      "id": "aadhaar-q18",
+      "difficulty": "medium",
+      "q": "Under which government ministry does the UIDAI currently function?",
+      "options": [
+        "Ministry of Home Affairs",
+        "Ministry of Electronics and Information Technology",
+        "Ministry of Finance",
+        "Ministry of Defence"
+      ],
+      "answer": 1,
+      "explanation": "The UIDAI now operates under the Ministry of Electronics and Information Technology (MeitY)."
+    },
+    {
+      "id": "aadhaar-q19",
+      "difficulty": "medium",
+      "q": "Which of these is a paperless offline form of Aadhaar that protects privacy?",
+      "options": [
+        "Masked Aadhaar / virtual ID",
+        "A physical metal token",
+        "A barcode tattoo",
+        "A printed cheque book"
+      ],
+      "answer": 0,
+      "explanation": "UIDAI offers masked Aadhaar and a Virtual ID (VID) so users can authenticate without revealing the full Aadhaar number."
+    },
+    {
+      "id": "aadhaar-q20",
+      "difficulty": "medium",
+      "q": "The JAM trinity, a key plank of Indian welfare delivery, combines Aadhaar with which two others?",
+      "options": [
+        "Jan Dhan accounts and Mobile numbers",
+        "Judiciary and Media",
+        "Jute industry and Manufacturing",
+        "Justice and Migration"
+      ],
+      "answer": 0,
+      "explanation": "JAM stands for Jan Dhan bank accounts, Aadhaar, and Mobile numbers, used together for direct benefit transfers."
+    },
+    {
+      "id": "aadhaar-q21",
+      "difficulty": "medium",
+      "q": "Aadhaar data is stored and matched at UIDAI's central system, often referred to as the:",
+      "options": [
+        "Central Identities Data Repository (CIDR)",
+        "National Crime Records Bureau",
+        "Reserve Bank vault",
+        "Census archive"
+      ],
+      "answer": 0,
+      "explanation": "The Central Identities Data Repository (CIDR) is UIDAI's centralised database that stores Aadhaar records and performs authentication."
+    },
+    {
+      "id": "aadhaar-q22",
+      "difficulty": "medium",
+      "q": "Which document does UIDAI issue to a resident after successful enrolment?",
+      "options": [
+        "A voter ID card",
+        "An Aadhaar letter or card carrying the number",
+        "A ration card",
+        "A PAN card"
+      ],
+      "answer": 1,
+      "explanation": "After enrolment, UIDAI sends an Aadhaar letter (and offers e-Aadhaar) bearing the resident's Aadhaar number."
+    },
+    {
+      "id": "aadhaar-q23",
+      "difficulty": "hard",
+      "q": "In the 2018 Puttaswamy (Aadhaar) judgment, the Supreme Court of India broadly upheld Aadhaar but struck down which provision?",
+      "options": [
+        "The 12-digit number format",
+        "Mandatory Aadhaar linking by private companies under Section 57",
+        "The use of fingerprints",
+        "The existence of the UIDAI"
+      ],
+      "answer": 1,
+      "explanation": "The Court upheld Aadhaar's constitutionality but read down Section 57, barring private entities from compelling Aadhaar authentication."
+    },
+    {
+      "id": "aadhaar-q24",
+      "difficulty": "hard",
+      "q": "The 2017 Supreme Court ruling that strongly shaped Aadhaar's limits declared which fundamental right?",
+      "options": [
+        "Right to free education",
+        "Right to privacy as a fundamental right",
+        "Right to property",
+        "Right to strike"
+      ],
+      "answer": 1,
+      "explanation": "In K. S. Puttaswamy v. Union of India (2017), a nine-judge bench held that the right to privacy is a fundamental right."
+    },
+    {
+      "id": "aadhaar-q25",
+      "difficulty": "hard",
+      "q": "Before the Aadhaar Act of 2016, the UIDAI initially operated under which body?",
+      "options": [
+        "The Planning Commission of India",
+        "The Supreme Court",
+        "The Election Commission",
+        "The Comptroller and Auditor General"
+      ],
+      "answer": 0,
+      "explanation": "The UIDAI was first set up in 2009 as an attached office under the Planning Commission of India."
+    },
+    {
+      "id": "aadhaar-q26",
+      "difficulty": "hard",
+      "q": "Aadhaar's identification approach relies on de-duplication to ensure uniqueness. What technology makes this possible at scale?",
+      "options": [
+        "Manual clerk verification",
+        "Biometric de-duplication matching every new record against all existing ones",
+        "Random sampling of 1% of records",
+        "Checking surnames only"
+      ],
+      "answer": 1,
+      "explanation": "UIDAI runs large-scale biometric de-duplication, comparing each enrolment's fingerprints and iris against the whole database to prevent duplicates."
+    },
+    {
+      "id": "aadhaar-q27",
+      "difficulty": "hard",
+      "q": "Which earlier scheme did Aadhaar's design draw upon or seek to complement for resident identification?",
+      "options": [
+        "The National Population Register (NPR)",
+        "The Goods and Services Tax Network",
+        "The Indian Railways reservation system",
+        "The Employees' Provident Fund alone"
+      ],
+      "answer": 0,
+      "explanation": "Aadhaar's identity effort ran alongside the National Population Register, both aiming to build a resident database, though they remained distinct."
+    },
+    {
+      "id": "aadhaar-q28",
+      "difficulty": "hard",
+      "q": "Aadhaar authentication for banking and SIM cards commonly uses which standardised mechanism?",
+      "options": [
+        "e-KYC via biometric or OTP-based verification",
+        "Faxed photocopies",
+        "Notarised affidavits only",
+        "Telegram messages"
+      ],
+      "answer": 0,
+      "explanation": "Aadhaar e-KYC lets service providers verify identity instantly using fingerprint, iris, or a one-time password sent to the registered mobile."
+    },
+    {
+      "id": "aadhaar-q29",
+      "difficulty": "hard",
+      "q": "What is the Virtual ID (VID) introduced by UIDAI designed to do?",
+      "options": [
+        "Replace the bank account number",
+        "Act as a revocable temporary number used in place of the Aadhaar number for authentication",
+        "Store medical records",
+        "Serve as a permanent passport number"
+      ],
+      "answer": 1,
+      "explanation": "The Virtual ID is a temporary, revocable 16-digit number a user can generate to authenticate without sharing the actual Aadhaar number."
+    },
+    {
+      "id": "aadhaar-q30",
+      "difficulty": "hard",
+      "q": "A landmark consequence of Aadhaar-enabled DBT in subsidy delivery was widely cited as:",
+      "options": [
+        "Elimination of all taxes",
+        "Reduction of leakages by removing duplicate and ghost beneficiaries",
+        "Closure of all banks",
+        "An increase in paper-based records"
+      ],
+      "answer": 1,
+      "explanation": "By verifying unique identities, Aadhaar-linked Direct Benefit Transfer helped weed out duplicate and ghost beneficiaries, reducing subsidy leakages."
+    }
+  ]
+}

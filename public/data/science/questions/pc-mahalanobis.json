@@ -1,0 +1,245 @@
+{
+  "cardId": "pc-mahalanobis",
+  "questions": [
+    {
+      "id": "pc-mahalanobis-q01",
+      "difficulty": "easy",
+      "q": "P. C. Mahalanobis is regarded as the founder of which scientific discipline in India?",
+      "options": ["Chemistry", "Statistics", "Astronomy", "Botany"],
+      "answer": 1,
+      "explanation": "Prasanta Chandra Mahalanobis is widely regarded as the father of modern statistics in India."
+    },
+    {
+      "id": "pc-mahalanobis-q02",
+      "difficulty": "easy",
+      "q": "Which famous research institute did P. C. Mahalanobis found?",
+      "options": ["Tata Institute of Fundamental Research", "Indian Institute of Science", "Physical Research Laboratory", "Indian Statistical Institute"],
+      "answer": 3,
+      "explanation": "Mahalanobis founded the Indian Statistical Institute (ISI), which became a world centre for statistics."
+    },
+    {
+      "id": "pc-mahalanobis-q03",
+      "difficulty": "easy",
+      "q": "A widely used statistical measure of distance is named after Mahalanobis. What does it measure?",
+      "options": ["The distance between two cities", "How far a point lies from a distribution", "The speed of a chemical reaction", "The brightness of a star"],
+      "answer": 1,
+      "explanation": "The Mahalanobis distance measures how many standard deviations away a point is from the mean of a distribution, accounting for correlations."
+    },
+    {
+      "id": "pc-mahalanobis-q04",
+      "difficulty": "easy",
+      "q": "In which Indian city is the Indian Statistical Institute, founded by Mahalanobis, headquartered?",
+      "options": ["Mumbai", "Chennai", "Kolkata", "Delhi"],
+      "answer": 2,
+      "explanation": "The Indian Statistical Institute is headquartered in Kolkata (then Calcutta), where Mahalanobis established it."
+    },
+    {
+      "id": "pc-mahalanobis-q05",
+      "difficulty": "easy",
+      "q": "Mahalanobis played a major role in shaping which aspect of independent India?",
+      "options": ["The space programme", "The nuclear weapons programme", "National economic planning", "The railway network"],
+      "answer": 2,
+      "explanation": "Mahalanobis was a key architect of India's economic planning, especially the Second Five-Year Plan."
+    },
+    {
+      "id": "pc-mahalanobis-q06",
+      "difficulty": "easy",
+      "q": "What does the abbreviation 'ISI', the institute Mahalanobis founded, stand for?",
+      "options": ["Indian Science Institute", "Institute of Statistical India", "Indian Statistical Institute", "International Statistics Institute"],
+      "answer": 2,
+      "explanation": "ISI stands for the Indian Statistical Institute, founded by Mahalanobis in 1931."
+    },
+    {
+      "id": "pc-mahalanobis-q07",
+      "difficulty": "easy",
+      "q": "The Mahalanobis distance is a concept primarily used in which field today?",
+      "options": ["Marine biology", "Architecture", "Music theory", "Statistics and data science"],
+      "answer": 3,
+      "explanation": "The Mahalanobis distance is widely used in statistics, data science and machine learning for tasks like outlier detection and classification."
+    },
+    {
+      "id": "pc-mahalanobis-q08",
+      "difficulty": "easy",
+      "q": "P. C. Mahalanobis was originally trained as a scientist in which subject before turning to statistics?",
+      "options": ["Geology", "Zoology", "Physics", "Economics"],
+      "answer": 2,
+      "explanation": "Mahalanobis studied physics at Cambridge and worked in physics before devoting himself to statistics."
+    },
+    {
+      "id": "pc-mahalanobis-q09",
+      "difficulty": "easy",
+      "q": "India observes National Statistics Day on 29 June each year to honour which scientist?",
+      "options": ["C. V. Raman", "P. C. Mahalanobis", "Homi Bhabha", "Srinivasa Ramanujan"],
+      "answer": 1,
+      "explanation": "National Statistics Day is celebrated on 29 June, the birth anniversary of P. C. Mahalanobis."
+    },
+    {
+      "id": "pc-mahalanobis-q10",
+      "difficulty": "easy",
+      "q": "Which technique pioneered by Mahalanobis is used to estimate quantities like crop yields by surveying a small fraction of an area?",
+      "options": ["Spectroscopy", "Carbon dating", "Genetic sequencing", "Large-scale sample surveys"],
+      "answer": 3,
+      "explanation": "Mahalanobis pioneered the use of large-scale sample surveys, applying them to estimate crop acreage and yields across India."
+    },
+    {
+      "id": "pc-mahalanobis-q11",
+      "difficulty": "medium",
+      "q": "In which year did Mahalanobis formally found the Indian Statistical Institute?",
+      "options": ["1909", "1931", "1947", "1956"],
+      "answer": 1,
+      "explanation": "The Indian Statistical Institute was founded in 1931, growing out of the Statistical Laboratory at Presidency College, Calcutta."
+    },
+    {
+      "id": "pc-mahalanobis-q12",
+      "difficulty": "medium",
+      "q": "At which English university did Mahalanobis study, an experience that introduced him to statistics?",
+      "options": ["Oxford", "Cambridge", "Edinburgh", "Manchester"],
+      "answer": 1,
+      "explanation": "Mahalanobis studied at King's College, Cambridge, where he encountered the journal Biometrika that sparked his interest in statistics."
+    },
+    {
+      "id": "pc-mahalanobis-q13",
+      "difficulty": "medium",
+      "q": "The Mahalanobis distance differs from ordinary Euclidean distance chiefly because it accounts for what?",
+      "options": ["The colour of the data points", "The correlations and variances among the variables", "The time of measurement", "The cost of collecting data"],
+      "answer": 1,
+      "explanation": "Unlike Euclidean distance, the Mahalanobis distance incorporates the covariance structure, scaling and correlations of the variables."
+    },
+    {
+      "id": "pc-mahalanobis-q14",
+      "difficulty": "medium",
+      "q": "The economic strategy associated with Mahalanobis in India's Second Five-Year Plan emphasized which priority?",
+      "options": ["Consumer goods and exports", "Heavy industry and capital goods", "Tourism and services", "Agriculture above all else"],
+      "answer": 1,
+      "explanation": "The Mahalanobis model underpinning the Second Five-Year Plan (1956) emphasized rapid development of heavy industry and capital goods."
+    },
+    {
+      "id": "pc-mahalanobis-q15",
+      "difficulty": "medium",
+      "q": "Mahalanobis originally developed his distance measure while analysing data from which field?",
+      "options": ["Stellar spectroscopy", "Crystallography", "Anthropometry (human physical measurements)", "Economics of trade"],
+      "answer": 2,
+      "explanation": "Mahalanobis introduced his distance while studying anthropometric measurements to compare and classify population groups."
+    },
+    {
+      "id": "pc-mahalanobis-q16",
+      "difficulty": "medium",
+      "q": "Mahalanobis founded a major statistics journal in 1933. What is it called?",
+      "options": ["Biometrika", "Sankhya", "The Annals of Statistics", "Current Science"],
+      "answer": 1,
+      "explanation": "Mahalanobis founded Sankhya, The Indian Journal of Statistics, in 1933; 'sankhya' is a Sanskrit word for number."
+    },
+    {
+      "id": "pc-mahalanobis-q17",
+      "difficulty": "medium",
+      "q": "Which national survey organisation, created to collect socio-economic data across India, owes much to Mahalanobis's methods?",
+      "options": ["Geological Survey of India", "Botanical Survey of India", "Zoological Survey of India", "National Sample Survey"],
+      "answer": 3,
+      "explanation": "Mahalanobis was instrumental in establishing the National Sample Survey (NSS) in 1950 to gather socio-economic data."
+    },
+    {
+      "id": "pc-mahalanobis-q18",
+      "difficulty": "medium",
+      "q": "Mahalanobis was a member of which body that drafted India's Five-Year Plans?",
+      "options": ["The Reserve Bank board", "The Atomic Energy Commission", "The Planning Commission", "The University Grants Commission"],
+      "answer": 2,
+      "explanation": "Mahalanobis served as a member of the Planning Commission of India and was its leading statistical adviser."
+    },
+    {
+      "id": "pc-mahalanobis-q19",
+      "difficulty": "medium",
+      "q": "In what year was P. C. Mahalanobis born, an anniversary now marked as Statistics Day?",
+      "options": ["1901", "1888", "1910", "1893"],
+      "answer": 3,
+      "explanation": "Mahalanobis was born on 29 June 1893 in Calcutta; his birthday is observed as National Statistics Day."
+    },
+    {
+      "id": "pc-mahalanobis-q20",
+      "difficulty": "medium",
+      "q": "Which of India's highest civilian honours was awarded to Mahalanobis in 1968?",
+      "options": ["Bharat Ratna", "Padma Vibhushan", "Param Vir Chakra", "Ashoka Chakra"],
+      "answer": 1,
+      "explanation": "Mahalanobis was awarded the Padma Vibhushan, one of India's highest civilian honours, in 1968."
+    },
+    {
+      "id": "pc-mahalanobis-q21",
+      "difficulty": "medium",
+      "q": "Mahalanobis introduced an idea for estimating sampling error by repeatedly using sub-samples. What is this technique often called?",
+      "options": ["Interpenetrating samples", "Random walks", "Monte Carlo integration", "Fourier sampling"],
+      "answer": 0,
+      "explanation": "Mahalanobis devised 'interpenetrating samples' (interpenetrating network of subsamples) to estimate and control survey errors."
+    },
+    {
+      "id": "pc-mahalanobis-q22",
+      "difficulty": "medium",
+      "q": "Which renowned statistician worked closely with Mahalanobis at the Indian Statistical Institute early in his career?",
+      "options": ["Ronald Fisher", "Karl Pearson", "John Tukey", "C. R. Rao"],
+      "answer": 3,
+      "explanation": "C. R. Rao was a leading statistician mentored at and associated with the Indian Statistical Institute under Mahalanobis."
+    },
+    {
+      "id": "pc-mahalanobis-q23",
+      "difficulty": "hard",
+      "q": "The Mahalanobis distance for a point x from a distribution with mean μ uses which matrix in its formula?",
+      "options": ["The identity matrix", "The inverse of the covariance matrix", "The Hessian matrix", "A rotation matrix"],
+      "answer": 1,
+      "explanation": "The Mahalanobis distance is defined using the inverse of the covariance matrix: D = sqrt((x-μ)ᵀ S⁻¹ (x-μ))."
+    },
+    {
+      "id": "pc-mahalanobis-q24",
+      "difficulty": "hard",
+      "q": "In which year did Mahalanobis first publish his statistical distance measure?",
+      "options": ["1950", "1925", "1936", "1962"],
+      "answer": 2,
+      "explanation": "Mahalanobis published his formulation of the distance, 'On the generalized distance in statistics', in 1936."
+    },
+    {
+      "id": "pc-mahalanobis-q25",
+      "difficulty": "hard",
+      "q": "Mahalanobis was elected a Fellow of which prestigious British scientific body in 1945?",
+      "options": ["The British Academy", "The Royal Astronomical Society", "The Linnean Society", "The Royal Society"],
+      "answer": 3,
+      "explanation": "Mahalanobis was elected a Fellow of the Royal Society (FRS) of London in 1945 for his contributions to statistics."
+    },
+    {
+      "id": "pc-mahalanobis-q26",
+      "difficulty": "hard",
+      "q": "The two-sector growth model Mahalanobis built for India's Second Plan is mathematically related to which earlier economist's work?",
+      "options": ["Adam Smith", "David Ricardo", "G. A. Feldman", "Alfred Marshall"],
+      "answer": 2,
+      "explanation": "The Mahalanobis model closely parallels the earlier Soviet growth model of G. A. Feldman, emphasizing investment in capital goods."
+    },
+    {
+      "id": "pc-mahalanobis-q27",
+      "difficulty": "hard",
+      "q": "Before turning fully to statistics, Mahalanobis briefly taught and conducted research in physics at which Calcutta college?",
+      "options": ["Scottish Church College", "St. Xavier's College", "Bethune College", "Presidency College"],
+      "answer": 3,
+      "explanation": "Mahalanobis taught physics at Presidency College, Calcutta, where he also set up a statistical laboratory that grew into the ISI."
+    },
+    {
+      "id": "pc-mahalanobis-q28",
+      "difficulty": "hard",
+      "q": "When all variables are uncorrelated and have unit variance, the Mahalanobis distance reduces to which familiar distance?",
+      "options": ["Manhattan distance", "Euclidean distance", "Hamming distance", "Chebyshev distance"],
+      "answer": 1,
+      "explanation": "If the covariance matrix is the identity matrix, the Mahalanobis distance simplifies exactly to the ordinary Euclidean distance."
+    },
+    {
+      "id": "pc-mahalanobis-q29",
+      "difficulty": "hard",
+      "q": "The Indian Statistical Institute was recognised by a special Act of Parliament in 1959 that allowed it to do what?",
+      "options": ["Issue currency", "Run a stock exchange", "Award its own degrees", "Launch satellites"],
+      "answer": 2,
+      "explanation": "The Indian Statistical Institute Act of 1959 declared it an institution of national importance and empowered it to grant degrees."
+    },
+    {
+      "id": "pc-mahalanobis-q30",
+      "difficulty": "hard",
+      "q": "Mahalanobis applied statistical sampling to a famous practical problem early on. What was it?",
+      "options": ["Predicting eclipses", "Designing aircraft wings", "Counting stars in galaxies", "Estimating jute and rice crop yields in Bengal"],
+      "answer": 3,
+      "explanation": "Mahalanobis applied large-scale sample surveys to estimate crop acreage and yields, including jute and rice in Bengal."
+    }
+  ]
+}

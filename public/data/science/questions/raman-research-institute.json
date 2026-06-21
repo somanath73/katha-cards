@@ -1,0 +1,245 @@
+{
+  "cardId": "raman-research-institute",
+  "questions": [
+    {
+      "id": "raman-research-institute-q01",
+      "difficulty": "easy",
+      "q": "Who founded the Raman Research Institute?",
+      "options": ["Homi Bhabha", "Satyendra Nath Bose", "C. V. Raman", "Vikram Sarabhai"],
+      "answer": 2,
+      "explanation": "The Raman Research Institute was founded by the Nobel laureate physicist Sir C. V. Raman."
+    },
+    {
+      "id": "raman-research-institute-q02",
+      "difficulty": "easy",
+      "q": "In which Indian city is the Raman Research Institute located?",
+      "options": ["Bengaluru", "Chennai", "Mumbai", "Kolkata"],
+      "answer": 0,
+      "explanation": "The Raman Research Institute is located in Bengaluru, Karnataka."
+    },
+    {
+      "id": "raman-research-institute-q03",
+      "difficulty": "easy",
+      "q": "In which year was the Raman Research Institute founded?",
+      "options": ["1928", "1935", "1948", "1957"],
+      "answer": 2,
+      "explanation": "C. V. Raman founded the institute in 1948."
+    },
+    {
+      "id": "raman-research-institute-q04",
+      "difficulty": "easy",
+      "q": "What is the main field of research pursued at the Raman Research Institute?",
+      "options": ["Agricultural science", "Fundamental physics", "Medical surgery", "Marine biology"],
+      "answer": 1,
+      "explanation": "The institute was established to pursue fundamental research in physics."
+    },
+    {
+      "id": "raman-research-institute-q05",
+      "difficulty": "easy",
+      "q": "C. V. Raman is most famous for discovering which phenomenon?",
+      "options": ["The Raman effect", "The photoelectric effect", "Superconductivity", "Nuclear fission"],
+      "answer": 0,
+      "explanation": "C. V. Raman discovered the scattering of light known as the Raman effect."
+    },
+    {
+      "id": "raman-research-institute-q06",
+      "difficulty": "easy",
+      "q": "For which discovery did C. V. Raman win the Nobel Prize?",
+      "options": ["Radioactivity", "X-ray crystallography", "The structure of DNA", "Scattering of light"],
+      "answer": 3,
+      "explanation": "Raman won the 1930 Nobel Prize in Physics for his work on the scattering of light and the effect named after him."
+    },
+    {
+      "id": "raman-research-institute-q07",
+      "difficulty": "easy",
+      "q": "In which year did C. V. Raman win the Nobel Prize in Physics?",
+      "options": ["1930", "1921", "1945", "1954"],
+      "answer": 0,
+      "explanation": "Raman received the Nobel Prize in Physics in 1930."
+    },
+    {
+      "id": "raman-research-institute-q08",
+      "difficulty": "easy",
+      "q": "C. V. Raman was the first person of which background to win a Nobel Prize in a science?",
+      "options": ["First African", "First Asian", "First South American", "First Australian"],
+      "answer": 1,
+      "explanation": "Raman was the first Asian to win a Nobel Prize in any of the sciences."
+    },
+    {
+      "id": "raman-research-institute-q09",
+      "difficulty": "easy",
+      "q": "What everyday phenomenon did C. V. Raman famously study that reportedly inspired his light-scattering work?",
+      "options": ["The fall of an apple", "The colour of the sea and sky", "The boiling of water", "The growth of crystals"],
+      "answer": 1,
+      "explanation": "Raman's curiosity about the blue colour of the sea led to his investigations of light scattering."
+    },
+    {
+      "id": "raman-research-institute-q10",
+      "difficulty": "easy",
+      "q": "C. V. Raman received which of India's highest civilian honours in 1954?",
+      "options": ["Padma Shri", "Bharat Ratna", "Param Vir Chakra", "Arjuna Award"],
+      "answer": 1,
+      "explanation": "Raman was among the first recipients of the Bharat Ratna, India's highest civilian award, in 1954."
+    },
+    {
+      "id": "raman-research-institute-q11",
+      "difficulty": "medium",
+      "q": "On which date is National Science Day celebrated in India, marking the announcement of Raman's discovery?",
+      "options": ["15 August", "2 October", "28 February", "14 November"],
+      "answer": 2,
+      "explanation": "National Science Day is observed on 28 February, commemorating Raman's discovery of the Raman effect in 1928."
+    },
+    {
+      "id": "raman-research-institute-q12",
+      "difficulty": "medium",
+      "q": "In which year did Raman first announce his discovery of the Raman effect?",
+      "options": ["1925", "1928", "1932", "1937"],
+      "answer": 1,
+      "explanation": "Raman announced his discovery of the inelastic scattering of light in 1928."
+    },
+    {
+      "id": "raman-research-institute-q13",
+      "difficulty": "medium",
+      "q": "The Raman effect involves what kind of scattering of light?",
+      "options": ["Inelastic scattering", "Elastic scattering", "Total internal reflection", "Diffraction only"],
+      "answer": 0,
+      "explanation": "The Raman effect is the inelastic scattering of light, in which scattered photons gain or lose energy."
+    },
+    {
+      "id": "raman-research-institute-q14",
+      "difficulty": "medium",
+      "q": "Which organisation primarily funds and administers the Raman Research Institute today?",
+      "options": ["Department of Science and Technology", "Indian Space Research Organisation", "Ministry of Defence", "Reserve Bank of India"],
+      "answer": 0,
+      "explanation": "The Raman Research Institute is now an autonomous institute funded by the Department of Science and Technology, Government of India."
+    },
+    {
+      "id": "raman-research-institute-q15",
+      "difficulty": "medium",
+      "q": "Before founding the Raman Research Institute, C. V. Raman did much of his prize-winning work in which city?",
+      "options": ["Delhi", "Hyderabad", "Pune", "Kolkata (Calcutta)"],
+      "answer": 3,
+      "explanation": "Raman carried out his famous light-scattering research in Calcutta at the Indian Association for the Cultivation of Science."
+    },
+    {
+      "id": "raman-research-institute-q16",
+      "difficulty": "medium",
+      "q": "C. V. Raman served as the first Indian director of which Bengaluru institution before establishing his own institute?",
+      "options": ["National Institute of Mental Health", "Indian Institute of Science", "Indian Institute of Technology", "National Aerospace Laboratories"],
+      "answer": 1,
+      "explanation": "Raman was the first Indian director of the Indian Institute of Science (IISc) in Bengaluru."
+    },
+    {
+      "id": "raman-research-institute-q17",
+      "difficulty": "medium",
+      "q": "The Raman effect is the basis for which widely used analytical technique?",
+      "options": ["Mass spectrometry", "Gas chromatography", "Electron microscopy", "Raman spectroscopy"],
+      "answer": 3,
+      "explanation": "Raman spectroscopy, used to identify molecules by their vibrational signatures, is based on the Raman effect."
+    },
+    {
+      "id": "raman-research-institute-q18",
+      "difficulty": "medium",
+      "q": "Which young physicist collaborated with C. V. Raman in the experiments confirming the Raman effect?",
+      "options": ["Meghnad Saha", "S. N. Bose", "K. S. Krishnan", "G. N. Ramachandran"],
+      "answer": 2,
+      "explanation": "K. S. Krishnan worked closely with Raman during the experiments that revealed the Raman effect."
+    },
+    {
+      "id": "raman-research-institute-q19",
+      "difficulty": "medium",
+      "q": "What kind of light source did Raman primarily use in his original light-scattering experiments?",
+      "options": ["A laser", "A neon lamp", "An X-ray tube", "Sunlight focused with lenses"],
+      "answer": 3,
+      "explanation": "Raman initially used filtered sunlight focused by lenses; lasers had not yet been invented in 1928."
+    },
+    {
+      "id": "raman-research-institute-q20",
+      "difficulty": "medium",
+      "q": "The Raman Research Institute is known for research in which of these areas in addition to optics?",
+      "options": ["Veterinary medicine", "Astronomy and astrophysics", "Civil engineering", "Constitutional law"],
+      "answer": 1,
+      "explanation": "The institute conducts research in fields such as astronomy and astrophysics alongside light and matter physics."
+    },
+    {
+      "id": "raman-research-institute-q21",
+      "difficulty": "medium",
+      "q": "C. V. Raman was the uncle of which other Nobel Prize-winning physicist?",
+      "options": ["Abdus Salam", "Hans Bethe", "Subrahmanyan Chandrasekhar", "Hideki Yukawa"],
+      "answer": 2,
+      "explanation": "Subrahmanyan Chandrasekhar, who won the 1983 Nobel Prize in Physics, was C. V. Raman's nephew."
+    },
+    {
+      "id": "raman-research-institute-q22",
+      "difficulty": "medium",
+      "q": "What is the full name behind the initials 'C. V.' in C. V. Raman?",
+      "options": ["Chandra Vijay", "Chetan Vasudev", "Chinnaswamy Venkataraman", "Chandrasekhara Venkata"],
+      "answer": 3,
+      "explanation": "C. V. Raman stood for Chandrasekhara Venkata Raman."
+    },
+    {
+      "id": "raman-research-institute-q23",
+      "difficulty": "hard",
+      "q": "In Raman spectroscopy, scattered light shifted to lower energy than the incident light produces which lines?",
+      "options": ["Anti-Stokes lines", "Stokes lines", "Fraunhofer lines", "Balmer lines"],
+      "answer": 1,
+      "explanation": "Stokes lines arise when scattered photons lose energy to the molecule, appearing at lower frequency than the incident light."
+    },
+    {
+      "id": "raman-research-institute-q24",
+      "difficulty": "hard",
+      "q": "Which European scientist had theoretically predicted such inelastic light scattering before Raman observed it experimentally?",
+      "options": ["Niels Bohr", "Erwin Schrodinger", "Adolf Smekal", "Max Born"],
+      "answer": 2,
+      "explanation": "Adolf Smekal predicted the inelastic scattering of light in 1923, several years before Raman's experimental confirmation."
+    },
+    {
+      "id": "raman-research-institute-q25",
+      "difficulty": "hard",
+      "q": "Soviet physicists Landsberg and Mandelstam independently observed inelastic light scattering in 1928 in which material?",
+      "options": ["Liquid benzene", "Water vapour", "Diamond films", "Quartz crystals"],
+      "answer": 3,
+      "explanation": "Grigory Landsberg and Leonid Mandelstam observed the effect in quartz crystals around the same time as Raman."
+    },
+    {
+      "id": "raman-research-institute-q26",
+      "difficulty": "hard",
+      "q": "Besides light scattering, C. V. Raman did notable acoustical research on which family of instruments?",
+      "options": ["Brass trumpets", "Indian drums and stringed instruments", "Pipe organs", "Electric synthesizers"],
+      "answer": 1,
+      "explanation": "Early in his career Raman studied the acoustics of musical instruments such as the violin, tabla and mridangam."
+    },
+    {
+      "id": "raman-research-institute-q27",
+      "difficulty": "hard",
+      "q": "Which scientific society, closely tied to Raman's early career, did he lead, and whose journal he edited?",
+      "options": ["Royal Society of London", "American Physical Society", "Max Planck Society", "Indian Academy of Sciences"],
+      "answer": 3,
+      "explanation": "Raman founded the Indian Academy of Sciences in 1934 and served as its president, basing it in Bengaluru."
+    },
+    {
+      "id": "raman-research-institute-q28",
+      "difficulty": "hard",
+      "q": "C. V. Raman was elected a Fellow of which prestigious British scientific body in 1924?",
+      "options": ["The Royal Institution", "The Royal Society", "The British Academy", "The Royal Astronomical Society"],
+      "answer": 1,
+      "explanation": "Raman was elected a Fellow of the Royal Society (FRS) in 1924, before his Nobel-winning discovery."
+    },
+    {
+      "id": "raman-research-institute-q29",
+      "difficulty": "hard",
+      "q": "Later in life at his institute, Raman studied the optical properties and colours of which gemstones in detail?",
+      "options": ["Pearls only", "Synthetic plastics", "Diamonds and other crystals", "Coloured glass bottles"],
+      "answer": 2,
+      "explanation": "At the Raman Research Institute, Raman extensively studied the optics, structure and colours of diamonds and other crystals and minerals."
+    },
+    {
+      "id": "raman-research-institute-q30",
+      "difficulty": "hard",
+      "q": "What magnitude order is the intensity of Raman-scattered light compared with the much stronger elastic scattering of light?",
+      "options": ["Exactly equal in intensity", "Always stronger than elastic scattering", "Completely absent in liquids", "Vastly weaker, only a tiny fraction of scattered photons"],
+      "answer": 3,
+      "explanation": "Raman scattering is extremely weak, typically involving only about one in a million scattered photons, which made its detection a remarkable achievement."
+    }
+  ]
+}

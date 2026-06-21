@@ -1,0 +1,245 @@
+{
+  "cardId": "record-104-satellites",
+  "questions": [
+    {
+      "id": "record-104-satellites-q01",
+      "difficulty": "easy",
+      "q": "How many satellites did the record-setting Indian mission launch in a single flight in 2017?",
+      "options": ["104", "37", "88", "10"],
+      "answer": 0,
+      "explanation": "On 15 February 2017 ISRO launched a record 104 satellites in a single mission."
+    },
+    {
+      "id": "record-104-satellites-q02",
+      "difficulty": "easy",
+      "q": "Which Indian space agency carried out the 104-satellite launch?",
+      "options": ["NASA", "DRDO", "ESA", "ISRO"],
+      "answer": 3,
+      "explanation": "The Indian Space Research Organisation (ISRO) conducted the mission."
+    },
+    {
+      "id": "record-104-satellites-q03",
+      "difficulty": "easy",
+      "q": "Which family of rockets was used to launch the 104 satellites?",
+      "options": ["GSLV", "SLV-3", "PSLV", "ASLV"],
+      "answer": 2,
+      "explanation": "The mission used the Polar Satellite Launch Vehicle (PSLV)."
+    },
+    {
+      "id": "record-104-satellites-q04",
+      "difficulty": "easy",
+      "q": "In what year did the 104-satellite single-mission launch take place?",
+      "options": ["2013", "2017", "2019", "2008"],
+      "answer": 1,
+      "explanation": "The launch occurred in February 2017."
+    },
+    {
+      "id": "record-104-satellites-q05",
+      "difficulty": "easy",
+      "q": "What did the 104-satellite launch set at the time it was achieved?",
+      "options": ["A world record", "The first crewed flight", "The first Moon landing", "The first reusable rocket flight"],
+      "answer": 0,
+      "explanation": "It set a world record for the most satellites launched in a single mission."
+    },
+    {
+      "id": "record-104-satellites-q06",
+      "difficulty": "easy",
+      "q": "From which Indian spaceport was the 104-satellite mission launched?",
+      "options": ["Thumba, Kerala", "Sriharikota (Satish Dhawan Space Centre)", "Bengaluru", "Wheeler Island"],
+      "answer": 1,
+      "explanation": "It was launched from the Satish Dhawan Space Centre at Sriharikota."
+    },
+    {
+      "id": "record-104-satellites-q07",
+      "difficulty": "easy",
+      "q": "What does the 'P' in PSLV stand for?",
+      "options": ["Payload", "Polar", "Precision", "Primary"],
+      "answer": 1,
+      "explanation": "PSLV stands for Polar Satellite Launch Vehicle."
+    },
+    {
+      "id": "record-104-satellites-q08",
+      "difficulty": "easy",
+      "q": "The 104 satellites were placed into what kind of orbit?",
+      "options": ["Geostationary orbit", "Sun-synchronous (polar) orbit", "Lunar orbit", "Interplanetary trajectory"],
+      "answer": 1,
+      "explanation": "The satellites were injected into a sun-synchronous polar orbit, typical for PSLV missions."
+    },
+    {
+      "id": "record-104-satellites-q09",
+      "difficulty": "easy",
+      "q": "What was the primary Indian satellite carried on the 104-satellite mission?",
+      "options": ["Chandrayaan-1", "Mangalyaan", "Cartosat-2 series satellite", "Aryabhata"],
+      "answer": 2,
+      "explanation": "The main payload was a Cartosat-2 series Earth-observation satellite."
+    },
+    {
+      "id": "record-104-satellites-q10",
+      "difficulty": "easy",
+      "q": "Most of the 104 satellites belonged to which category?",
+      "options": ["Large communication satellites", "Small/nano satellites", "Crewed capsules", "Lunar landers"],
+      "answer": 1,
+      "explanation": "The vast majority were small nanosatellites from foreign customers."
+    },
+    {
+      "id": "record-104-satellites-q11",
+      "difficulty": "medium",
+      "q": "What was the specific designation of the PSLV flight that launched the 104 satellites?",
+      "options": ["PSLV-C25", "PSLV-C37", "PSLV-C11", "PSLV-C40"],
+      "answer": 1,
+      "explanation": "The mission was flight PSLV-C37."
+    },
+    {
+      "id": "record-104-satellites-q12",
+      "difficulty": "medium",
+      "q": "Which previous record did ISRO's 104-satellite launch surpass?",
+      "options": ["NASA's 29-satellite launch", "Russia's 37-satellite launch", "China's 20-satellite launch", "ESA's 64-satellite launch"],
+      "answer": 1,
+      "explanation": "It beat the earlier record of 37 satellites set by a Russian Dnepr launch in 2014."
+    },
+    {
+      "id": "record-104-satellites-q13",
+      "difficulty": "medium",
+      "q": "How many of the 104 satellites were from the United States?",
+      "options": ["3", "96", "104", "48"],
+      "answer": 1,
+      "explanation": "Of the 104 satellites, 96 belonged to U.S. companies, the largest national share."
+    },
+    {
+      "id": "record-104-satellites-q14",
+      "difficulty": "medium",
+      "q": "A large block of the foreign nanosatellites came from which US company's Earth-imaging constellation?",
+      "options": ["SpaceX", "Planet (Planet Labs)", "Blue Origin", "Boeing"],
+      "answer": 1,
+      "explanation": "The mission carried 88 'Dove' satellites for Planet (then Planet Labs)."
+    },
+    {
+      "id": "record-104-satellites-q15",
+      "difficulty": "medium",
+      "q": "Which PSLV configuration variant flew the PSLV-C37 mission?",
+      "options": ["PSLV-CA (Core Alone)", "PSLV-XL", "PSLV-DL", "PSLV-QL"],
+      "answer": 1,
+      "explanation": "PSLV-C37 flew in the powerful PSLV-XL configuration with six strap-on boosters."
+    },
+    {
+      "id": "record-104-satellites-q16",
+      "difficulty": "medium",
+      "q": "Who was the Chairman of ISRO at the time of the 104-satellite launch in 2017?",
+      "options": ["K. Sivan", "A. S. Kiran Kumar", "G. Madhavan Nair", "K. Radhakrishnan"],
+      "answer": 1,
+      "explanation": "A. S. Kiran Kumar was ISRO Chairman in February 2017."
+    },
+    {
+      "id": "record-104-satellites-q17",
+      "difficulty": "medium",
+      "q": "Including the primary satellite, the 104 total comprised how many co-passenger satellites?",
+      "options": ["101", "96", "103", "88"],
+      "answer": 2,
+      "explanation": "There was 1 primary Cartosat-2 series satellite plus 103 co-passenger satellites."
+    },
+    {
+      "id": "record-104-satellites-q18",
+      "difficulty": "medium",
+      "q": "Two of the 103 co-passengers were ISRO's own nanosatellites named what?",
+      "options": ["INS-1A and INS-1B", "IRNSS-1A and 1B", "GSAT-1 and GSAT-2", "RISAT-1 and RISAT-2"],
+      "answer": 0,
+      "explanation": "ISRO included its INS-1A and INS-1B Indian Nano Satellites on the flight."
+    },
+    {
+      "id": "record-104-satellites-q19",
+      "difficulty": "medium",
+      "q": "Why is releasing 104 satellites from one rocket technically challenging?",
+      "options": ["The satellites must be deployed without colliding with each other", "The rocket must reach the Moon", "Each satellite needs its own crew", "The satellites must re-enter immediately"],
+      "answer": 0,
+      "explanation": "Deploying so many satellites in quick succession requires precise sequencing and velocity changes to avoid collisions."
+    },
+    {
+      "id": "record-104-satellites-q20",
+      "difficulty": "medium",
+      "q": "The Cartosat-2 series satellite on PSLV-C37 is primarily used for what purpose?",
+      "options": ["Weather forecasting only", "High-resolution Earth observation/remote sensing", "Telecommunications broadcasting", "Deep-space astronomy"],
+      "answer": 1,
+      "explanation": "Cartosat-2 series satellites provide high-resolution imagery for Earth observation and mapping."
+    },
+    {
+      "id": "record-104-satellites-q21",
+      "difficulty": "medium",
+      "q": "ISRO's commercial arm that arranged the foreign satellite launches at the time was known as what?",
+      "options": ["Antrix Corporation", "NewSpace India Limited only", "RevenueCat", "Arianespace"],
+      "answer": 0,
+      "explanation": "Antrix Corporation handled ISRO's commercial launch contracts in 2017."
+    },
+    {
+      "id": "record-104-satellites-q22",
+      "difficulty": "medium",
+      "q": "Roughly how long did the deployment of all 104 satellites take after the rocket reached orbit?",
+      "options": ["Several days", "About 5 hours", "Instantly, all at once", "About 12 minutes"],
+      "answer": 3,
+      "explanation": "After reaching orbit, all 104 satellites separated from the PSLV fourth stage in rapid sequence over about 12 minutes."
+    },
+    {
+      "id": "record-104-satellites-q23",
+      "difficulty": "hard",
+      "q": "The 104-satellite world record was later surpassed in 2021 by a launch from which company?",
+      "options": ["SpaceX (Transporter-1, 143 satellites)", "Roscosmos", "ISRO again", "Rocket Lab"],
+      "answer": 0,
+      "explanation": "SpaceX's Transporter-1 mission in January 2021 deployed 143 satellites, breaking ISRO's record."
+    },
+    {
+      "id": "record-104-satellites-q24",
+      "difficulty": "hard",
+      "q": "On what exact date was the PSLV-C37 104-satellite mission launched?",
+      "options": ["15 February 2017", "22 July 2017", "5 January 2017", "28 April 2017"],
+      "answer": 0,
+      "explanation": "PSLV-C37 lifted off on 15 February 2017."
+    },
+    {
+      "id": "record-104-satellites-q25",
+      "difficulty": "hard",
+      "q": "Besides the US and India, which countries had satellites on the PSLV-C37 flight?",
+      "options": ["Netherlands, Switzerland, Israel, Kazakhstan and UAE", "Only Japan and China", "Brazil and Argentina only", "Australia and Canada only"],
+      "answer": 0,
+      "explanation": "Customer satellites also came from the Netherlands, Switzerland, Israel, Kazakhstan and the UAE."
+    },
+    {
+      "id": "record-104-satellites-q26",
+      "difficulty": "hard",
+      "q": "The PSLV is notable for which fuel arrangement among its stages?",
+      "options": ["All stages use cryogenic fuel", "It alternates solid and liquid propellant stages", "It uses only solid propellant throughout", "It uses nuclear propulsion"],
+      "answer": 1,
+      "explanation": "The PSLV is a four-stage rocket that alternates between solid and liquid propulsion stages."
+    },
+    {
+      "id": "record-104-satellites-q27",
+      "difficulty": "hard",
+      "q": "Into approximately what altitude orbit were the PSLV-C37 satellites primarily injected?",
+      "options": ["About 505 km sun-synchronous orbit", "About 36,000 km geostationary orbit", "About 384,000 km lunar orbit", "About 50 km suborbital"],
+      "answer": 0,
+      "explanation": "The satellites were placed into a sun-synchronous polar orbit at roughly 505 km altitude."
+    },
+    {
+      "id": "record-104-satellites-q28",
+      "difficulty": "hard",
+      "q": "Why did ISRO use the PSLV rather than the GSLV for the 104-satellite mission?",
+      "options": ["The GSLV cannot reach orbit", "PSLV is well suited for small satellites in polar/sun-synchronous orbits", "The GSLV was retired in 2017", "PSLV is the only Indian rocket"],
+      "answer": 1,
+      "explanation": "The PSLV is ISRO's reliable workhorse for placing small and medium satellites into polar and sun-synchronous orbits."
+    },
+    {
+      "id": "record-104-satellites-q29",
+      "difficulty": "hard",
+      "q": "What feature of the PSLV's upper stage made deploying 104 satellites in sequence feasible?",
+      "options": ["Its restartable liquid-fueled fourth stage allowing controlled deployments", "A crewed control room aboard", "An onboard refuelling depot", "A parachute recovery system"],
+      "answer": 0,
+      "explanation": "The PSLV's liquid-fueled fourth stage provided the controlled platform from which satellites were sequentially ejected."
+    },
+    {
+      "id": "record-104-satellites-q30",
+      "difficulty": "hard",
+      "q": "The 104-satellite mission reinforced ISRO's reputation in what global market?",
+      "options": ["Crewed deep-space exploration", "Low-cost commercial satellite launch services", "Lunar mining", "Military missile exports"],
+      "answer": 1,
+      "explanation": "The mission strengthened ISRO's standing as a cost-effective provider of commercial small-satellite launches."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "apj-abdul-kalam",
+  "questions": [
+    {
+      "id": "apj-abdul-kalam-q01",
+      "difficulty": "easy",
+      "q": "By what popular nickname is A. P. J. Abdul Kalam best known in India?",
+      "options": ["The Missile Man of India", "The Father of the Indian Constitution", "The Satellite Man", "The Father of the Indian Nuclear Programme"],
+      "answer": 0,
+      "explanation": "Kalam earned the title 'Missile Man of India' for his leadership of the country's missile development programmes."
+    },
+    {
+      "id": "apj-abdul-kalam-q02",
+      "difficulty": "easy",
+      "q": "Which high constitutional office did A. P. J. Abdul Kalam hold from 2002 to 2007?",
+      "options": ["Prime Minister of India", "Vice President of India", "President of India", "Chief Justice of India"],
+      "answer": 2,
+      "explanation": "Kalam served as the 11th President of India from 2002 to 2007."
+    },
+    {
+      "id": "apj-abdul-kalam-q03",
+      "difficulty": "easy",
+      "q": "What was A. P. J. Abdul Kalam's profession before he entered public life as President?",
+      "options": ["Medical doctor", "Aerospace engineer and scientist", "Lawyer", "Economist"],
+      "answer": 1,
+      "explanation": "Kalam trained as an aerospace engineer and spent decades as a scientist in India's space and defence programmes."
+    },
+    {
+      "id": "apj-abdul-kalam-q04",
+      "difficulty": "easy",
+      "q": "In which Indian state was A. P. J. Abdul Kalam born?",
+      "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
+      "answer": 2,
+      "explanation": "Kalam was born in Rameswaram, in the southern state of Tamil Nadu, in 1931."
+    },
+    {
+      "id": "apj-abdul-kalam-q05",
+      "difficulty": "easy",
+      "q": "Kalam is closely associated with which Indian space launch vehicle, India's first successful satellite launcher?",
+      "options": ["PSLV", "GSLV", "SLV-III", "Saturn V"],
+      "answer": 2,
+      "explanation": "Kalam was the project director for the SLV-III, which in 1980 made India able to launch its own satellite into orbit."
+    },
+    {
+      "id": "apj-abdul-kalam-q06",
+      "difficulty": "easy",
+      "q": "What is the highest civilian award of India, which Kalam received in 1997?",
+      "options": ["Padma Shri", "Bharat Ratna", "Param Vir Chakra", "Padma Bhushan"],
+      "answer": 1,
+      "explanation": "Kalam was conferred the Bharat Ratna, India's highest civilian honour, in 1997."
+    },
+    {
+      "id": "apj-abdul-kalam-q07",
+      "difficulty": "easy",
+      "q": "Kalam was widely admired for his connection with which group of people?",
+      "options": ["Stock traders", "Film actors", "Students and young people", "Professional athletes"],
+      "answer": 2,
+      "explanation": "Kalam was a beloved teacher who devoted much of his life to inspiring students and young people across India."
+    },
+    {
+      "id": "apj-abdul-kalam-q08",
+      "difficulty": "easy",
+      "q": "Two Indian organisations Kalam worked closely with were ISRO and which defence research agency?",
+      "options": ["DRDO", "ISI", "NASA", "CERN"],
+      "answer": 0,
+      "explanation": "Kalam led major projects at the Defence Research and Development Organisation (DRDO), as well as at ISRO."
+    },
+    {
+      "id": "apj-abdul-kalam-q09",
+      "difficulty": "easy",
+      "q": "In which year did A. P. J. Abdul Kalam pass away?",
+      "options": ["2002", "2010", "2015", "2020"],
+      "answer": 2,
+      "explanation": "Kalam died on 27 July 2015 after collapsing while delivering a lecture in Shillong."
+    },
+    {
+      "id": "apj-abdul-kalam-q10",
+      "difficulty": "easy",
+      "q": "Which of these is a famous autobiographical book written by A. P. J. Abdul Kalam?",
+      "options": ["The Discovery of India", "Wings of Fire", "My Experiments with Truth", "A Brief History of Time"],
+      "answer": 1,
+      "explanation": "'Wings of Fire' is Kalam's well-known autobiography, co-written with Arun Tiwari."
+    },
+    {
+      "id": "apj-abdul-kalam-q11",
+      "difficulty": "medium",
+      "q": "What does the full name 'A. P. J.' in A. P. J. Abdul Kalam stand for?",
+      "options": ["Avul Pakir Jainulabdeen", "Anand Prasad Joshi", "Ashok Pranav Jagannath", "Abdul Pir Jamal"],
+      "answer": 0,
+      "explanation": "His full name was Avul Pakir Jainulabdeen Abdul Kalam, often abbreviated to A. P. J. Abdul Kalam."
+    },
+    {
+      "id": "apj-abdul-kalam-q12",
+      "difficulty": "medium",
+      "q": "Kalam was the chief architect of which integrated programme that developed missiles like Agni and Prithvi?",
+      "options": ["Integrated Guided Missile Development Programme (IGMDP)", "Light Combat Aircraft Programme", "National Space Programme", "Strategic Forces Command"],
+      "answer": 0,
+      "explanation": "Kalam led the Integrated Guided Missile Development Programme (IGMDP), which produced missiles such as Agni and Prithvi."
+    },
+    {
+      "id": "apj-abdul-kalam-q13",
+      "difficulty": "medium",
+      "q": "Kalam played a key organisational role in which 1998 series of nuclear tests conducted by India?",
+      "options": ["Smiling Buddha (1974)", "Pokhran-II", "Operation Shakti only at sea", "Trinity tests"],
+      "answer": 1,
+      "explanation": "Kalam was a central figure in the 1998 Pokhran-II nuclear tests, which India also called Operation Shakti."
+    },
+    {
+      "id": "apj-abdul-kalam-q14",
+      "difficulty": "medium",
+      "q": "Before becoming President, what scientific advisory role to the Government of India did Kalam hold?",
+      "options": ["Cabinet Secretary", "Principal Scientific Adviser to the Government", "Governor of the Reserve Bank", "Chairman of the Planning Commission"],
+      "answer": 1,
+      "explanation": "Kalam served as Principal Scientific Adviser to the Government of India, with cabinet rank, before his presidency."
+    },
+    {
+      "id": "apj-abdul-kalam-q15",
+      "difficulty": "medium",
+      "q": "Kalam's SLV-III placed which satellite into orbit in July 1980?",
+      "options": ["Aryabhata", "INSAT-1A", "Rohini (RS-1)", "Chandrayaan-1"],
+      "answer": 2,
+      "explanation": "The SLV-III successfully placed the Rohini (RS-1) satellite into orbit in July 1980 with Kalam as project director."
+    },
+    {
+      "id": "apj-abdul-kalam-q16",
+      "difficulty": "medium",
+      "q": "Kalam co-authored a visionary book outlining a roadmap for India to become a developed nation. What is it called?",
+      "options": ["India 2020: A Vision for the New Millennium", "India Unbound", "Imagining India", "The Argumentative Indian"],
+      "answer": 0,
+      "explanation": "Kalam co-wrote 'India 2020: A Vision for the New Millennium', laying out a roadmap for national development."
+    },
+    {
+      "id": "apj-abdul-kalam-q17",
+      "difficulty": "medium",
+      "q": "Kalam earned his degree in aeronautical engineering from which institution in Chennai?",
+      "options": ["Indian Institute of Science, Bangalore", "Madras Institute of Technology (MIT), Chennai", "IIT Madras", "Anna University"],
+      "answer": 1,
+      "explanation": "Kalam studied aeronautical engineering at the Madras Institute of Technology (MIT) in Chennai."
+    },
+    {
+      "id": "apj-abdul-kalam-q18",
+      "difficulty": "medium",
+      "q": "The Agni missile, developed under Kalam's leadership, belongs to which class of missiles?",
+      "options": ["Anti-aircraft surface-to-air missile", "Ballistic missile", "Cruise anti-ship missile", "Air-to-air missile"],
+      "answer": 1,
+      "explanation": "Agni is a ballistic missile, while Prithvi (also from the IGMDP) is a short-range surface-to-surface ballistic missile."
+    },
+    {
+      "id": "apj-abdul-kalam-q19",
+      "difficulty": "medium",
+      "q": "Kalam is often described as the 'People's President' because of which trait of his term?",
+      "options": ["He refused to live in the presidential palace", "His accessibility and popularity, especially with ordinary citizens and youth", "He held no public appearances", "He had no prior public service"],
+      "answer": 1,
+      "explanation": "Kalam was nicknamed the 'People's President' for his accessibility and his enormous popularity with citizens and youth."
+    },
+    {
+      "id": "apj-abdul-kalam-q20",
+      "difficulty": "medium",
+      "q": "In which city did Kalam collapse and die in 2015 while delivering a lecture to students?",
+      "options": ["New Delhi", "Rameswaram", "Shillong", "Chennai"],
+      "answer": 2,
+      "explanation": "Kalam suffered a cardiac arrest and died while lecturing at the Indian Institute of Management Shillong in 2015."
+    },
+    {
+      "id": "apj-abdul-kalam-q21",
+      "difficulty": "medium",
+      "q": "Kalam contributed to a low-cost coronary stent and a lightweight caliper. These showcase his interest in applying defence technology to which field?",
+      "options": ["Agriculture", "Healthcare and affordable medical devices", "Banking", "Telecommunications"],
+      "answer": 1,
+      "explanation": "Kalam promoted spin-off uses of aerospace technology in healthcare, including a low-cost coronary stent and a lightweight calliper."
+    },
+    {
+      "id": "apj-abdul-kalam-q22",
+      "difficulty": "medium",
+      "q": "What was the approximate year Kalam joined India's space research effort, working under leaders such as Vikram Sarabhai?",
+      "options": ["The 1990s", "The 1960s", "The 1920s", "The 2000s"],
+      "answer": 1,
+      "explanation": "Kalam joined India's nascent space programme in the 1960s, working under pioneers including Vikram Sarabhai."
+    },
+    {
+      "id": "apj-abdul-kalam-q23",
+      "difficulty": "hard",
+      "q": "Early in his career at the DRDO's predecessor, Kalam led the design of a small hovercraft. What was it named?",
+      "options": ["Nandi", "Nishant", "Akash", "Trishul"],
+      "answer": 0,
+      "explanation": "One of Kalam's earliest projects was designing a small indigenous hovercraft named Nandi."
+    },
+    {
+      "id": "apj-abdul-kalam-q24",
+      "difficulty": "hard",
+      "q": "Kalam's exact year and place of birth are:",
+      "options": ["1931, Rameswaram", "1929, Madurai", "1935, Tiruchirappalli", "1927, Thanjavur"],
+      "answer": 0,
+      "explanation": "Kalam was born on 15 October 1931 in the temple town of Rameswaram, Tamil Nadu."
+    },
+    {
+      "id": "apj-abdul-kalam-q25",
+      "difficulty": "hard",
+      "q": "Kalam's birthday, 15 October, is observed in India as which themed day?",
+      "options": ["National Science Day", "World Students' Day", "National Technology Day", "Engineers' Day"],
+      "answer": 1,
+      "explanation": "In India, Kalam's birthday, 15 October, is observed as World Students' Day in recognition of his lifelong work with students and youth."
+    },
+    {
+      "id": "apj-abdul-kalam-q26",
+      "difficulty": "hard",
+      "q": "Which DRDO surface-to-air missile system developed under the IGMDP shares its name with the Sanskrit word for 'sky'?",
+      "options": ["Nag", "Trishul", "Akash", "Prithvi"],
+      "answer": 2,
+      "explanation": "Akash, meaning 'sky', was one of the missiles developed under the IGMDP that Kalam directed."
+    },
+    {
+      "id": "apj-abdul-kalam-q27",
+      "difficulty": "hard",
+      "q": "Kalam belonged to which Indian political affiliation when elected President in 2002?",
+      "options": ["He was the Indian National Congress nominee", "He was an independent backed across party lines", "He was a Bharatiya Janata Party member of parliament", "He was a member of the Communist Party"],
+      "answer": 1,
+      "explanation": "Kalam was a non-partisan scientist who won the presidency with broad cross-party support rather than as a party politician."
+    },
+    {
+      "id": "apj-abdul-kalam-q28",
+      "difficulty": "hard",
+      "q": "After his presidency, Kalam became a visiting professor and was associated with launching which youth-focused mission?",
+      "options": ["A mission to colonise Mars", "The 'What Can I Give' movement to fight corruption", "A nationwide cricket league", "A stock-market literacy drive"],
+      "answer": 1,
+      "explanation": "In his later years Kalam championed the 'What Can I Give Movement', encouraging youth to fight corruption through individual contribution."
+    },
+    {
+      "id": "apj-abdul-kalam-q29",
+      "difficulty": "hard",
+      "q": "Wheeler Island off the Odisha coast, a key missile-testing site, was renamed in Kalam's honour. What is its current name?",
+      "options": ["Sriharikota Island", "Abdul Kalam Island", "Rameswaram Island", "Agni Island"],
+      "answer": 1,
+      "explanation": "In 2015 the missile-testing site Wheeler Island, off Odisha, was renamed Abdul Kalam Island in his memory."
+    },
+    {
+      "id": "apj-abdul-kalam-q30",
+      "difficulty": "hard",
+      "q": "Besides the Bharat Ratna, Kalam received the Padma Vibhushan and which other top civilian award earlier in his career?",
+      "options": ["Padma Shri only", "Padma Bhushan", "Param Vir Chakra", "Ashoka Chakra"],
+      "answer": 1,
+      "explanation": "Kalam was awarded the Padma Bhushan in 1981 and the Padma Vibhushan in 1990, before receiving the Bharat Ratna in 1997."
+    }
+  ]
+}

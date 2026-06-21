@@ -1,0 +1,245 @@
+{
+  "cardId": "raj-reddy",
+  "questions": [
+    {
+      "id": "raj-reddy-q01",
+      "difficulty": "easy",
+      "q": "In which field is Raj Reddy a recognized pioneer?",
+      "options": ["Civil engineering", "Molecular biology", "Artificial intelligence", "Astrophysics"],
+      "answer": 2,
+      "explanation": "Raj Reddy is a pioneering computer scientist known for his foundational work in artificial intelligence."
+    },
+    {
+      "id": "raj-reddy-q02",
+      "difficulty": "easy",
+      "q": "Which prestigious award, often called the 'Nobel Prize of Computing', did Raj Reddy receive?",
+      "options": ["The Fields Medal", "The Turing Award", "The Abel Prize", "The Bharat Ratna"],
+      "answer": 1,
+      "explanation": "Raj Reddy won the ACM Turing Award, computing's most prestigious honor, in 1994."
+    },
+    {
+      "id": "raj-reddy-q03",
+      "difficulty": "easy",
+      "q": "Raj Reddy is best known for pioneering which technology that lets computers understand the spoken word?",
+      "options": ["Image compression", "Speech recognition", "Database indexing", "Web search"],
+      "answer": 1,
+      "explanation": "Reddy was a pioneer of large-scale, continuous speech recognition systems."
+    },
+    {
+      "id": "raj-reddy-q04",
+      "difficulty": "easy",
+      "q": "In which country was Raj Reddy born?",
+      "options": ["India", "United States", "United Kingdom", "Canada"],
+      "answer": 0,
+      "explanation": "Raj Reddy was born in India, in the village of Katur in present-day Andhra Pradesh."
+    },
+    {
+      "id": "raj-reddy-q05",
+      "difficulty": "easy",
+      "q": "At which U.S. university did Raj Reddy spend most of his career as a professor of computer science?",
+      "options": ["Harvard University", "Princeton University", "Yale University", "Carnegie Mellon University"],
+      "answer": 3,
+      "explanation": "Raj Reddy has been a longtime faculty member at Carnegie Mellon University in Pittsburgh."
+    },
+    {
+      "id": "raj-reddy-q06",
+      "difficulty": "easy",
+      "q": "Raj Reddy was one of the first people of which heritage to win the Turing Award?",
+      "options": ["Japanese", "Asian (of Indian origin)", "Brazilian", "Australian"],
+      "answer": 1,
+      "explanation": "Reddy was the first person of Asian origin, and of Indian descent, to receive the Turing Award."
+    },
+    {
+      "id": "raj-reddy-q07",
+      "difficulty": "easy",
+      "q": "The systems Raj Reddy worked on aimed to let humans interact with computers using what?",
+      "options": ["Punch cards only", "Natural human speech", "Magnetic tape", "Telegraph signals"],
+      "answer": 1,
+      "explanation": "His research focused on enabling computers to understand and respond to natural spoken language."
+    },
+    {
+      "id": "raj-reddy-q08",
+      "difficulty": "easy",
+      "q": "Which of these best describes Raj Reddy's profession?",
+      "options": ["Cardiologist", "Economist", "Computer scientist", "Geologist"],
+      "answer": 2,
+      "explanation": "Raj Reddy is a computer scientist specializing in artificial intelligence and human-computer interaction."
+    },
+    {
+      "id": "raj-reddy-q09",
+      "difficulty": "easy",
+      "q": "Raj Reddy's pioneering work helped lay the foundations for which everyday technology used in voice assistants?",
+      "options": ["Spell-checking", "Speech recognition", "GPS navigation", "Bluetooth pairing"],
+      "answer": 1,
+      "explanation": "His early speech recognition research underpins the voice technologies used in modern digital assistants."
+    },
+    {
+      "id": "raj-reddy-q10",
+      "difficulty": "easy",
+      "q": "What is Raj Reddy's nickname or subtitle in the context of his contributions to computing?",
+      "options": ["The Father of the Internet", "A pioneer of AI", "The Calculus King", "The Quantum Sage"],
+      "answer": 1,
+      "explanation": "Raj Reddy is celebrated as a pioneer of artificial intelligence."
+    },
+    {
+      "id": "raj-reddy-q11",
+      "difficulty": "medium",
+      "q": "In what year did Raj Reddy receive the Turing Award?",
+      "options": ["1984", "1994", "2004", "1974"],
+      "answer": 1,
+      "explanation": "Raj Reddy received the ACM Turing Award in 1994, sharing it with Edward Feigenbaum."
+    },
+    {
+      "id": "raj-reddy-q12",
+      "difficulty": "medium",
+      "q": "Raj Reddy shared his 1994 Turing Award with which other AI researcher?",
+      "options": ["Marvin Minsky", "Edward Feigenbaum", "John McCarthy", "Allen Newell"],
+      "answer": 1,
+      "explanation": "The 1994 Turing Award was jointly given to Raj Reddy and Edward Feigenbaum for their work in large-scale AI systems."
+    },
+    {
+      "id": "raj-reddy-q13",
+      "difficulty": "medium",
+      "q": "For what broad contribution were Reddy and Feigenbaum cited in their Turing Award?",
+      "options": ["Designing relational databases", "Pioneering the design of large-scale artificial intelligence systems", "Inventing the transistor", "Creating the World Wide Web"],
+      "answer": 1,
+      "explanation": "Their Turing Award recognized pioneering work on the design and construction of large-scale AI systems demonstrating its practical importance."
+    },
+    {
+      "id": "raj-reddy-q14",
+      "difficulty": "medium",
+      "q": "Which famous early speech-understanding system at Carnegie Mellon is associated with Raj Reddy's group?",
+      "options": ["Deep Blue", "Hearsay (Hearsay-II)", "ENIAC", "Mosaic"],
+      "answer": 1,
+      "explanation": "Reddy's group developed the Hearsay-II speech-understanding system, a landmark in AI research."
+    },
+    {
+      "id": "raj-reddy-q15",
+      "difficulty": "medium",
+      "q": "Before joining Carnegie Mellon, Raj Reddy was a faculty member at which California university?",
+      "options": ["UCLA", "UC Berkeley", "Caltech", "Stanford University"],
+      "answer": 3,
+      "explanation": "Reddy was on the faculty at Stanford University before moving to Carnegie Mellon in 1969."
+    },
+    {
+      "id": "raj-reddy-q16",
+      "difficulty": "medium",
+      "q": "Raj Reddy was a founding director of which influential institute at Carnegie Mellon?",
+      "options": ["The Media Lab", "The Robotics Institute", "The Broad Institute", "The Allen Institute"],
+      "answer": 1,
+      "explanation": "Reddy was the founding director of the Robotics Institute at Carnegie Mellon University in 1979."
+    },
+    {
+      "id": "raj-reddy-q17",
+      "difficulty": "medium",
+      "q": "Where did Raj Reddy earn his Ph.D. in computer science?",
+      "options": ["MIT", "Stanford University", "Cambridge University", "IIT Madras"],
+      "answer": 1,
+      "explanation": "Reddy earned his Ph.D. in computer science from Stanford University in 1966."
+    },
+    {
+      "id": "raj-reddy-q18",
+      "difficulty": "medium",
+      "q": "Raj Reddy served as dean of which school at Carnegie Mellon during the 1990s?",
+      "options": ["The School of Drama", "The School of Architecture", "The School of Computer Science", "The Tepper School of Business"],
+      "answer": 2,
+      "explanation": "Reddy served as dean of Carnegie Mellon's School of Computer Science from 1991 to 1999."
+    },
+    {
+      "id": "raj-reddy-q19",
+      "difficulty": "medium",
+      "q": "Which major U.S. science honor did Raj Reddy receive in 2006 for lifetime contributions and statesmanship in science?",
+      "options": ["The Presidential Medal of Freedom", "The Vannevar Bush Award", "The Nobel Prize in Physics", "The Wolf Prize"],
+      "answer": 1,
+      "explanation": "In 2006 Reddy received the Vannevar Bush Award from the U.S. National Science Board for lifetime contributions to science and long-standing statesmanship on its behalf."
+    },
+    {
+      "id": "raj-reddy-q20",
+      "difficulty": "medium",
+      "q": "Which Indian civilian honor was conferred on Raj Reddy by the Government of India in 2001?",
+      "options": ["Bharat Ratna", "Padma Bhushan", "Param Vir Chakra", "Ashoka Chakra"],
+      "answer": 1,
+      "explanation": "Raj Reddy was awarded the Padma Bhushan, one of India's highest civilian honors, in 2001."
+    },
+    {
+      "id": "raj-reddy-q21",
+      "difficulty": "medium",
+      "q": "Raj Reddy co-founded an Indian university aimed at engineering and IT education in Hyderabad. Which is it?",
+      "options": ["International Institute of Information Technology, Hyderabad (IIIT-H)", "Indian Institute of Science", "Jawaharlal Nehru University", "Banaras Hindu University"],
+      "answer": 0,
+      "explanation": "Reddy played a key role in founding the International Institute of Information Technology, Hyderabad (IIIT-H)."
+    },
+    {
+      "id": "raj-reddy-q22",
+      "difficulty": "medium",
+      "q": "Raj Reddy was a co-chair of which U.S. President's advisory committee on information technology in the late 1990s?",
+      "options": ["PCAST", "PITAC (President's Information Technology Advisory Committee)", "NASA Advisory Council", "The Federal Reserve Board"],
+      "answer": 1,
+      "explanation": "Reddy co-chaired the President's Information Technology Advisory Committee (PITAC) under President Bill Clinton."
+    },
+    {
+      "id": "raj-reddy-q23",
+      "difficulty": "hard",
+      "q": "Which DARPA-funded program of the 1970s, focused on understanding connected speech, was a major focus of Reddy's research?",
+      "options": ["The Apollo Guidance program", "The ARPA Speech Understanding Research (SUR) program", "The Internet Engineering Task Force", "The Manhattan Project"],
+      "answer": 1,
+      "explanation": "Reddy led work under DARPA's Speech Understanding Research (SUR) program, producing systems like Harpy and Hearsay-II."
+    },
+    {
+      "id": "raj-reddy-q24",
+      "difficulty": "hard",
+      "q": "The Harpy speech recognition system from Reddy's lab is notable for introducing which search technique?",
+      "options": ["The QR algorithm", "The beam search method", "The fast Fourier transform", "Dijkstra's shortest path"],
+      "answer": 1,
+      "explanation": "Harpy popularized beam search, an efficient heuristic for navigating large speech-recognition search spaces."
+    },
+    {
+      "id": "raj-reddy-q25",
+      "difficulty": "hard",
+      "q": "The Hearsay-II system introduced an influential AI software architecture known by what name?",
+      "options": ["The von Neumann architecture", "The client-server model", "The RISC architecture", "The blackboard architecture"],
+      "answer": 3,
+      "explanation": "Hearsay-II pioneered the blackboard architecture, where independent knowledge sources cooperate via a shared data structure."
+    },
+    {
+      "id": "raj-reddy-q26",
+      "difficulty": "hard",
+      "q": "In which Indian village was Raj Reddy born in 1937?",
+      "options": ["Anand", "Pamarru", "Katur", "Thumkur"],
+      "answer": 2,
+      "explanation": "Raj Reddy was born on 13 June 1937 in the village of Katur in the Madras Presidency, now in Andhra Pradesh."
+    },
+    {
+      "id": "raj-reddy-q27",
+      "difficulty": "hard",
+      "q": "Reddy championed the idea of making computing accessible to non-literate users, an initiative he promoted under what broad theme?",
+      "options": ["Quantum supremacy", "Information and communication technologies for development (the 'PCtvt' / digital divide work)", "Cryptocurrency mining", "Genome sequencing"],
+      "answer": 1,
+      "explanation": "Reddy long advocated bridging the digital divide, including projects like a low-cost networked PC (PCtvt) for rural and non-literate communities."
+    },
+    {
+      "id": "raj-reddy-q28",
+      "difficulty": "hard",
+      "q": "From which university did Raj Reddy receive his master's degree before his doctorate?",
+      "options": ["University of Oxford", "ETH Zurich", "University of Tokyo", "University of New South Wales (Australia)"],
+      "answer": 3,
+      "explanation": "Reddy earned a master's degree from the University of New South Wales in Australia before his Ph.D. at Stanford."
+    },
+    {
+      "id": "raj-reddy-q29",
+      "difficulty": "hard",
+      "q": "Reddy was made an Officer of the French Legion of Honour in which decade?",
+      "options": ["The 1980s", "The 1990s", "The 2010s", "The 1960s"],
+      "answer": 0,
+      "explanation": "Raj Reddy was made an Officer of the French Legion of Honour in 1984, awarded by French President Francois Mitterrand."
+    },
+    {
+      "id": "raj-reddy-q30",
+      "difficulty": "hard",
+      "q": "Reddy and Feigenbaum's Turing citation emphasized AI systems built around which approach to capturing human expertise?",
+      "options": ["Pure brute-force computation", "Knowledge-based (expert) systems", "Analog circuitry", "Mechanical relays"],
+      "answer": 1,
+      "explanation": "Their award highlighted large-scale knowledge-based AI systems that encode domain expertise to solve real-world problems."
+    }
+  ]
+}

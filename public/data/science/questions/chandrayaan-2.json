@@ -1,0 +1,395 @@
+{
+  "cardId": "chandrayaan-2",
+  "questions": [
+    {
+      "id": "chandrayaan-2-q01",
+      "difficulty": "easy",
+      "q": "Which space agency launched the Chandrayaan-2 mission?",
+      "options": [
+        "NASA",
+        "ISRO",
+        "Roscosmos",
+        "JAXA"
+      ],
+      "answer": 1,
+      "explanation": "Chandrayaan-2 was developed and launched by the Indian Space Research Organisation (ISRO)."
+    },
+    {
+      "id": "chandrayaan-2-q02",
+      "difficulty": "easy",
+      "q": "Chandrayaan-2 was a mission to which celestial body?",
+      "options": [
+        "Mars",
+        "Venus",
+        "The Moon",
+        "An asteroid"
+      ],
+      "answer": 2,
+      "explanation": "Chandrayaan-2, like the other Chandrayaan missions, was a lunar (Moon) mission."
+    },
+    {
+      "id": "chandrayaan-2-q03",
+      "difficulty": "easy",
+      "q": "In which year was Chandrayaan-2 launched?",
+      "options": [
+        "2008",
+        "2014",
+        "2019",
+        "2023"
+      ],
+      "answer": 2,
+      "explanation": "Chandrayaan-2 was launched in July 2019."
+    },
+    {
+      "id": "chandrayaan-2-q04",
+      "difficulty": "easy",
+      "q": "Chandrayaan-2 consisted of three main components. Which set correctly lists them?",
+      "options": [
+        "Orbiter, lander and rover",
+        "Capsule, probe and balloon",
+        "Telescope, antenna and battery",
+        "Booster, capsule and parachute"
+      ],
+      "answer": 0,
+      "explanation": "Chandrayaan-2 comprised an orbiter, a lander and a rover."
+    },
+    {
+      "id": "chandrayaan-2-q05",
+      "difficulty": "easy",
+      "q": "What was the name of the Chandrayaan-2 lander?",
+      "options": [
+        "Pragyan",
+        "Aryabhata",
+        "Bhaskara",
+        "Vikram"
+      ],
+      "answer": 3,
+      "explanation": "The lander was named Vikram, after Vikram Sarabhai, the father of the Indian space programme."
+    },
+    {
+      "id": "chandrayaan-2-q06",
+      "difficulty": "easy",
+      "q": "What was the name of the Chandrayaan-2 rover?",
+      "options": [
+        "Vikram",
+        "Sarabhai",
+        "Pragyan",
+        "Rohini"
+      ],
+      "answer": 2,
+      "explanation": "The rover was named Pragyan, a Sanskrit word meaning 'wisdom'."
+    },
+    {
+      "id": "chandrayaan-2-q07",
+      "difficulty": "easy",
+      "q": "The Chandrayaan-2 lander was named 'Vikram' in honour of which person?",
+      "options": [
+        "Vikram Sarabhai",
+        "A. P. J. Abdul Kalam",
+        "Homi Bhabha",
+        "Satish Dhawan"
+      ],
+      "answer": 0,
+      "explanation": "The lander honours Vikram Sarabhai, widely regarded as the father of the Indian space programme."
+    },
+    {
+      "id": "chandrayaan-2-q08",
+      "difficulty": "easy",
+      "q": "Which region of the Moon was Chandrayaan-2's landing targeted near?",
+      "options": [
+        "The lunar equator",
+        "The south polar region",
+        "The far side highlands",
+        "The Sea of Tranquility"
+      ],
+      "answer": 1,
+      "explanation": "Chandrayaan-2 aimed to land near the Moon's south polar region, an unexplored area of scientific interest."
+    },
+    {
+      "id": "chandrayaan-2-q09",
+      "difficulty": "easy",
+      "q": "What ultimately happened to the Vikram lander of Chandrayaan-2?",
+      "options": [
+        "It landed safely and deployed the rover",
+        "It crashed during its attempted landing",
+        "It never separated from the orbiter",
+        "It was returned to Earth"
+      ],
+      "answer": 1,
+      "explanation": "Vikram lost communication and crashed during its descent, so it did not survive touchdown."
+    },
+    {
+      "id": "chandrayaan-2-q10",
+      "difficulty": "easy",
+      "q": "Which part of Chandrayaan-2 continued to operate successfully around the Moon after the landing attempt?",
+      "options": [
+        "The rover",
+        "The lander",
+        "The orbiter",
+        "None of the components"
+      ],
+      "answer": 2,
+      "explanation": "The orbiter continued functioning and studying the Moon from lunar orbit."
+    },
+    {
+      "id": "chandrayaan-2-q11",
+      "difficulty": "medium",
+      "q": "Which launch vehicle carried Chandrayaan-2 into space?",
+      "options": [
+        "PSLV-C11",
+        "GSLV Mk III (LVM3)",
+        "SLV-3",
+        "GSLV Mk II"
+      ],
+      "answer": 1,
+      "explanation": "Chandrayaan-2 was launched on the GSLV Mk III (now called LVM3), India's most powerful rocket at the time."
+    },
+    {
+      "id": "chandrayaan-2-q12",
+      "difficulty": "medium",
+      "q": "From which spaceport was Chandrayaan-2 launched?",
+      "options": [
+        "Satish Dhawan Space Centre, Sriharikota",
+        "Vikram Sarabhai Space Centre, Thiruvananthapuram",
+        "Baikonur Cosmodrome",
+        "Kennedy Space Center"
+      ],
+      "answer": 0,
+      "explanation": "Chandrayaan-2 lifted off from the Satish Dhawan Space Centre at Sriharikota, Andhra Pradesh."
+    },
+    {
+      "id": "chandrayaan-2-q13",
+      "difficulty": "medium",
+      "q": "Who was the Chairman of ISRO during the Chandrayaan-2 mission in 2019?",
+      "options": [
+        "S. Somanath",
+        "A. S. Kiran Kumar",
+        "K. Radhakrishnan",
+        "K. Sivan"
+      ],
+      "answer": 3,
+      "explanation": "K. Sivan was the ISRO Chairman at the time of the Chandrayaan-2 launch and landing attempt in 2019."
+    },
+    {
+      "id": "chandrayaan-2-q14",
+      "difficulty": "medium",
+      "q": "Chandrayaan-2 was the second lunar mission in the series. Which mission preceded it?",
+      "options": [
+        "Mangalyaan",
+        "Chandrayaan-3",
+        "Chandrayaan-1",
+        "Aditya-L1"
+      ],
+      "answer": 2,
+      "explanation": "Chandrayaan-1, launched in 2008, was India's first lunar mission and the predecessor of Chandrayaan-2."
+    },
+    {
+      "id": "chandrayaan-2-q15",
+      "difficulty": "medium",
+      "q": "What was a key scientific objective of Chandrayaan-2?",
+      "options": [
+        "Returning lunar soil samples to Earth",
+        "Studying lunar water and surface composition, especially near the south pole",
+        "Landing humans on the Moon",
+        "Building a permanent Moon base"
+      ],
+      "answer": 1,
+      "explanation": "A central goal was to study the Moon's surface, mineralogy and water signatures, focusing on the south polar region."
+    },
+    {
+      "id": "chandrayaan-2-q16",
+      "difficulty": "medium",
+      "q": "Roughly how heavy was the Pragyan rover carried by Chandrayaan-2?",
+      "options": [
+        "About 27 kilograms",
+        "About 300 kilograms",
+        "About 900 kilograms",
+        "About 2,000 kilograms"
+      ],
+      "answer": 0,
+      "explanation": "The small Pragyan rover weighed about 27 kg and was designed to operate near the landing site."
+    },
+    {
+      "id": "chandrayaan-2-q17",
+      "difficulty": "medium",
+      "q": "How was the Pragyan rover intended to move across the lunar surface?",
+      "options": [
+        "On caterpillar tracks",
+        "On six wheels",
+        "By hopping with thrusters",
+        "On a single rolling ball"
+      ],
+      "answer": 1,
+      "explanation": "Pragyan was a six-wheeled rover designed to roll across the lunar surface."
+    },
+    {
+      "id": "chandrayaan-2-q18",
+      "difficulty": "medium",
+      "q": "During which month of 2019 did the Vikram lander attempt its landing on the Moon?",
+      "options": [
+        "July 2019",
+        "September 2019",
+        "December 2019",
+        "March 2019"
+      ],
+      "answer": 1,
+      "explanation": "The Vikram lander attempted its descent in the early hours of 7 September 2019."
+    },
+    {
+      "id": "chandrayaan-2-q19",
+      "difficulty": "medium",
+      "q": "What was the primary power source for the Chandrayaan-2 orbiter and rover?",
+      "options": [
+        "Nuclear reactors",
+        "Chemical combustion engines",
+        "Solar panels",
+        "Wind turbines"
+      ],
+      "answer": 2,
+      "explanation": "Like most ISRO spacecraft, Chandrayaan-2's orbiter and rover were powered by solar panels."
+    },
+    {
+      "id": "chandrayaan-2-q20",
+      "difficulty": "medium",
+      "q": "Chandrayaan-2 was notable as the first Indian mission to attempt what?",
+      "options": [
+        "A soft landing on the Moon",
+        "A flyby of Mars",
+        "A crewed orbital flight",
+        "A landing on Venus"
+      ],
+      "answer": 0,
+      "explanation": "Chandrayaan-2 was India's first attempt at a soft landing on the lunar surface."
+    },
+    {
+      "id": "chandrayaan-2-q21",
+      "difficulty": "medium",
+      "q": "The Chandrayaan-2 orbiter carried a high-resolution camera. Why was this significant?",
+      "options": [
+        "It was the first colour camera flown to the Moon",
+        "It was among the highest-resolution cameras ever sent to lunar orbit",
+        "It could see through the Moon's crust",
+        "It photographed only the Earth, not the Moon"
+      ],
+      "answer": 1,
+      "explanation": "The orbiter's Orbiter High Resolution Camera (OHRC) was one of the highest-resolution cameras ever sent to lunar orbit."
+    },
+    {
+      "id": "chandrayaan-2-q22",
+      "difficulty": "medium",
+      "q": "What does the word 'Pragyan', the name of the rover, mean?",
+      "options": [
+        "Light",
+        "Courage",
+        "Wisdom",
+        "Victory"
+      ],
+      "answer": 2,
+      "explanation": "'Pragyan' is a Sanskrit word meaning 'wisdom'."
+    },
+    {
+      "id": "chandrayaan-2-q23",
+      "difficulty": "hard",
+      "q": "On what date in 2019 was Chandrayaan-2 launched?",
+      "options": [
+        "15 August 2019",
+        "22 July 2019",
+        "7 September 2019",
+        "2 January 2019"
+      ],
+      "answer": 1,
+      "explanation": "Chandrayaan-2 was launched on 22 July 2019 aboard the GSLV Mk III."
+    },
+    {
+      "id": "chandrayaan-2-q24",
+      "difficulty": "hard",
+      "q": "At approximately what altitude above the lunar surface did the Vikram lander lose contact during descent?",
+      "options": [
+        "About 50 kilometres",
+        "About 2 kilometres",
+        "About 100 metres",
+        "About 500 kilometres"
+      ],
+      "answer": 1,
+      "explanation": "Vikram lost communication when it was roughly 2 kilometres above the lunar surface during its final descent."
+    },
+    {
+      "id": "chandrayaan-2-q25",
+      "difficulty": "hard",
+      "q": "Which planned design life was set for the Chandrayaan-2 orbiter at launch?",
+      "options": [
+        "About one week",
+        "About one year",
+        "About ten years",
+        "About one month"
+      ],
+      "answer": 1,
+      "explanation": "The orbiter was designed for a mission life of about one year, though it carried fuel to operate much longer."
+    },
+    {
+      "id": "chandrayaan-2-q26",
+      "difficulty": "hard",
+      "q": "How did Chandrayaan-2 reach the Moon to conserve fuel rather than going on a direct trajectory?",
+      "options": [
+        "By gradually raising its Earth orbit before a lunar transfer",
+        "By using a solar sail",
+        "By being towed by another spacecraft",
+        "By a single direct burn straight to the Moon"
+      ],
+      "answer": 0,
+      "explanation": "ISRO progressively raised the spacecraft's Earth orbit through several manoeuvres before sending it on a lunar transfer trajectory."
+    },
+    {
+      "id": "chandrayaan-2-q27",
+      "difficulty": "hard",
+      "q": "Approximately how long was the Vikram lander and Pragyan rover designed to operate on the surface?",
+      "options": [
+        "About one lunar day (around 14 Earth days)",
+        "About one Earth year",
+        "About ten Earth years",
+        "Just a few hours"
+      ],
+      "answer": 0,
+      "explanation": "The surface mission was planned to last one lunar day, roughly 14 Earth days, the period of continuous sunlight at the site."
+    },
+    {
+      "id": "chandrayaan-2-q28",
+      "difficulty": "hard",
+      "q": "Which earlier ISRO interplanetary success preceded Chandrayaan-2 and demonstrated India's deep-space capability?",
+      "options": [
+        "The Mars Orbiter Mission (Mangalyaan)",
+        "The Aditya-L1 solar mission",
+        "The Gaganyaan crewed mission",
+        "The Shukrayaan Venus mission"
+      ],
+      "answer": 0,
+      "explanation": "The Mars Orbiter Mission (Mangalyaan), which reached Mars in 2014, preceded Chandrayaan-2 and showcased ISRO's deep-space ability."
+    },
+    {
+      "id": "chandrayaan-2-q29",
+      "difficulty": "hard",
+      "q": "Which follow-up mission later succeeded in soft-landing near the lunar south pole after Chandrayaan-2's lander failed?",
+      "options": [
+        "Chandrayaan-1",
+        "Mangalyaan",
+        "Aditya-L1",
+        "Chandrayaan-3"
+      ],
+      "answer": 3,
+      "explanation": "Chandrayaan-3 achieved a successful soft landing near the Moon's south pole in 2023, completing the goal Chandrayaan-2 had attempted."
+    },
+    {
+      "id": "chandrayaan-2-q30",
+      "difficulty": "hard",
+      "q": "A scientific instrument on the Chandrayaan-2 orbiter detected and mapped what on the Moon?",
+      "options": [
+        "Active volcanoes",
+        "Signatures of water/hydroxyl and surface minerals",
+        "Liquid oceans",
+        "Earth-like vegetation"
+      ],
+      "answer": 1,
+      "explanation": "The orbiter's instruments mapped lunar surface composition, including water/hydroxyl signatures and minerals."
+    }
+  ]
+}

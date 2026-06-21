@@ -1,0 +1,395 @@
+{
+  "cardId": "iit",
+  "questions": [
+    {
+      "id": "iit-q01",
+      "difficulty": "easy",
+      "q": "What does the abbreviation 'IIT' stand for?",
+      "options": [
+        "Indian Institute of Trade",
+        "Indian Institutes of Technology",
+        "International Institute of Technology",
+        "Institute of Indian Technocrats"
+      ],
+      "answer": 1,
+      "explanation": "IIT stands for the Indian Institutes of Technology, India's premier engineering and technology institutes."
+    },
+    {
+      "id": "iit-q02",
+      "difficulty": "easy",
+      "q": "Which was the first IIT to be established?",
+      "options": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Kharagpur",
+        "IIT Madras"
+      ],
+      "answer": 2,
+      "explanation": "IIT Kharagpur, established in 1951, was the first of the Indian Institutes of Technology."
+    },
+    {
+      "id": "iit-q03",
+      "difficulty": "easy",
+      "q": "In which year was the first IIT founded?",
+      "options": [
+        "1947",
+        "1961",
+        "1971",
+        "1951"
+      ],
+      "answer": 3,
+      "explanation": "IIT Kharagpur, the first IIT, was founded in 1951."
+    },
+    {
+      "id": "iit-q04",
+      "difficulty": "easy",
+      "q": "The IITs are best known primarily as institutes of which field?",
+      "options": [
+        "Medicine",
+        "Law",
+        "Engineering and technology",
+        "Fine arts"
+      ],
+      "answer": 2,
+      "explanation": "The IITs are India's elite engineering and technology institutes."
+    },
+    {
+      "id": "iit-q05",
+      "difficulty": "easy",
+      "q": "In which Indian state is the original IIT Kharagpur located?",
+      "options": [
+        "West Bengal",
+        "Maharashtra",
+        "Tamil Nadu",
+        "Uttar Pradesh"
+      ],
+      "answer": 0,
+      "explanation": "IIT Kharagpur is located in the town of Kharagpur in West Bengal."
+    },
+    {
+      "id": "iit-q06",
+      "difficulty": "easy",
+      "q": "The IITs are public institutes funded primarily by which entity?",
+      "options": [
+        "Private corporations",
+        "Foreign universities",
+        "State lotteries",
+        "The Government of India"
+      ],
+      "answer": 3,
+      "explanation": "The IITs are autonomous public institutions funded by the Government of India."
+    },
+    {
+      "id": "iit-q07",
+      "difficulty": "easy",
+      "q": "IIT Bombay is located in which Indian city?",
+      "options": [
+        "Pune",
+        "Nagpur",
+        "Mumbai",
+        "Surat"
+      ],
+      "answer": 2,
+      "explanation": "IIT Bombay is located in Mumbai (formerly Bombay), Maharashtra."
+    },
+    {
+      "id": "iit-q08",
+      "difficulty": "easy",
+      "q": "Which highly competitive examination is the main route for undergraduate admission to the IITs?",
+      "options": [
+        "NEET",
+        "CAT",
+        "JEE (Joint Entrance Examination)",
+        "GATE"
+      ],
+      "answer": 2,
+      "explanation": "Undergraduate admission to the IITs is primarily through the Joint Entrance Examination (JEE), specifically JEE Advanced."
+    },
+    {
+      "id": "iit-q09",
+      "difficulty": "easy",
+      "q": "The IITs are widely regarded as a global byword for what?",
+      "options": [
+        "Cheap manufacturing",
+        "Talent and rigorous education",
+        "Tourism",
+        "Agriculture"
+      ],
+      "answer": 1,
+      "explanation": "The IITs are globally recognized as a byword for talent and high-quality technical education."
+    },
+    {
+      "id": "iit-q10",
+      "difficulty": "easy",
+      "q": "Which type of academic degree is most associated with IIT undergraduate programmes?",
+      "options": [
+        "Bachelor of Technology (B.Tech)",
+        "Bachelor of Medicine",
+        "Bachelor of Laws",
+        "Bachelor of Fine Arts"
+      ],
+      "answer": 0,
+      "explanation": "The flagship undergraduate degree at the IITs is the Bachelor of Technology (B.Tech)."
+    },
+    {
+      "id": "iit-q11",
+      "difficulty": "medium",
+      "q": "IIT Kharagpur was set up on the site of a former British detention camp known by what name?",
+      "options": [
+        "Cellular Jail",
+        "Hijli Detention Camp",
+        "Alipore Jail",
+        "Yerwada Camp"
+      ],
+      "answer": 1,
+      "explanation": "IIT Kharagpur's first campus occupied the buildings of the Hijli Detention Camp, a former British prison."
+    },
+    {
+      "id": "iit-q12",
+      "difficulty": "medium",
+      "q": "Which special law gives the IITs their distinctive status as 'Institutes of National Importance'?",
+      "options": [
+        "The University Grants Commission Act",
+        "The Institutes of Technology Act, 1961",
+        "The Right to Education Act",
+        "The Companies Act"
+      ],
+      "answer": 1,
+      "explanation": "The Institutes of Technology Act, 1961 declares the IITs Institutes of National Importance and governs them."
+    },
+    {
+      "id": "iit-q13",
+      "difficulty": "medium",
+      "q": "Which IIT was established with assistance from the former Soviet Union (USSR)?",
+      "options": [
+        "IIT Madras",
+        "IIT Kanpur",
+        "IIT Delhi",
+        "IIT Bombay"
+      ],
+      "answer": 3,
+      "explanation": "IIT Bombay, founded in 1958, was set up with technical and financial assistance from the Soviet Union, channelled through UNESCO."
+    },
+    {
+      "id": "iit-q14",
+      "difficulty": "medium",
+      "q": "Which country provided significant assistance, through a consortium of universities, in establishing IIT Kanpur?",
+      "options": [
+        "United Kingdom",
+        "West Germany",
+        "United States",
+        "Japan"
+      ],
+      "answer": 2,
+      "explanation": "IIT Kanpur was established with help from a consortium of nine leading American universities under the Kanpur Indo-American Programme."
+    },
+    {
+      "id": "iit-q15",
+      "difficulty": "medium",
+      "q": "Which IIT was set up with collaboration from West Germany?",
+      "options": [
+        "IIT Madras",
+        "IIT Kharagpur",
+        "IIT Delhi",
+        "IIT Kanpur"
+      ],
+      "answer": 0,
+      "explanation": "IIT Madras, founded in 1959, was established with technical and financial collaboration from West Germany."
+    },
+    {
+      "id": "iit-q16",
+      "difficulty": "medium",
+      "q": "Co-founder of Sun Microsystems and a celebrated IIT alumnus, Vinod Khosla graduated from which IIT?",
+      "options": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Kanpur",
+        "IIT Madras"
+      ],
+      "answer": 1,
+      "explanation": "Vinod Khosla, co-founder of Sun Microsystems, earned his undergraduate degree at IIT Delhi."
+    },
+    {
+      "id": "iit-q17",
+      "difficulty": "medium",
+      "q": "Sundar Pichai, CEO of Alphabet (Google), completed his undergraduate engineering degree at which IIT?",
+      "options": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Kharagpur",
+        "IIT Madras"
+      ],
+      "answer": 2,
+      "explanation": "Sundar Pichai earned his degree in metallurgical engineering at IIT Kharagpur."
+    },
+    {
+      "id": "iit-q18",
+      "difficulty": "medium",
+      "q": "The five 'original' IITs founded between 1951 and 1961 were Kharagpur, Bombay, Madras, Kanpur and which other?",
+      "options": [
+        "IIT Roorkee",
+        "IIT Delhi",
+        "IIT Guwahati",
+        "IIT Hyderabad"
+      ],
+      "answer": 1,
+      "explanation": "IIT Delhi, founded in 1961, completes the group of five original IITs alongside Kharagpur, Bombay, Madras and Kanpur."
+    },
+    {
+      "id": "iit-q19",
+      "difficulty": "medium",
+      "q": "IIT Roorkee traces its origins to a 19th-century college, making its lineage among the oldest. What was it earlier known as?",
+      "options": [
+        "Thomason College of Civil Engineering",
+        "Presidency College",
+        "Banaras Hindu University",
+        "Elphinstone College"
+      ],
+      "answer": 0,
+      "explanation": "IIT Roorkee evolved from the Thomason College of Civil Engineering (later University of Roorkee), founded in 1847, and became an IIT in 2001."
+    },
+    {
+      "id": "iit-q20",
+      "difficulty": "medium",
+      "q": "Which examination is primarily used for admission to IIT postgraduate (M.Tech) programmes and PSU recruitment?",
+      "options": [
+        "JEE Advanced",
+        "GATE (Graduate Aptitude Test in Engineering)",
+        "NEET-PG",
+        "UPSC CSE"
+      ],
+      "answer": 1,
+      "explanation": "GATE, the Graduate Aptitude Test in Engineering, is the main gateway to IIT postgraduate programmes and is widely used for PSU hiring."
+    },
+    {
+      "id": "iit-q21",
+      "difficulty": "medium",
+      "q": "Approximately how many IITs operate across India today (as of the mid-2020s)?",
+      "options": [
+        "About 7",
+        "About 23",
+        "About 50",
+        "About 100"
+      ],
+      "answer": 1,
+      "explanation": "There are 23 IITs across India as of the mid-2020s, expanded greatly from the original handful."
+    },
+    {
+      "id": "iit-q22",
+      "difficulty": "medium",
+      "q": "Which IIT is located in the northeastern region of India?",
+      "options": [
+        "IIT Guwahati",
+        "IIT Gandhinagar",
+        "IIT Goa",
+        "IIT Jodhpur"
+      ],
+      "answer": 0,
+      "explanation": "IIT Guwahati, in Assam, established in 1994, is the major IIT serving northeastern India."
+    },
+    {
+      "id": "iit-q23",
+      "difficulty": "hard",
+      "q": "Who served as the first Director of IIT Kharagpur?",
+      "options": [
+        "Homi J. Bhabha",
+        "J. C. Ghosh",
+        "Vikram Sarabhai",
+        "Satish Dhawan"
+      ],
+      "answer": 1,
+      "explanation": "Jnan Chandra (J. C.) Ghosh, a distinguished chemist, was the first Director of IIT Kharagpur."
+    },
+    {
+      "id": "iit-q24",
+      "difficulty": "hard",
+      "q": "The Sarkar Committee, whose 1940s recommendations led to the IITs, was named after its chairman. Who was he?",
+      "options": [
+        "B. C. Roy",
+        "Maulana Azad",
+        "Nalini Ranjan Sarkar",
+        "Shanti Swarup Bhatnagar"
+      ],
+      "answer": 2,
+      "explanation": "The committee chaired by Nalini Ranjan Sarkar recommended establishing higher technical institutions, leading to the IITs."
+    },
+    {
+      "id": "iit-q25",
+      "difficulty": "hard",
+      "q": "In which year was IIT Kanpur formally established?",
+      "options": [
+        "1951",
+        "1958",
+        "1959",
+        "1963"
+      ],
+      "answer": 2,
+      "explanation": "IIT Kanpur was established in 1959, the same year as IIT Madras."
+    },
+    {
+      "id": "iit-q26",
+      "difficulty": "hard",
+      "q": "The first computer science program in India was pioneered at IIT Kanpur in the 1960s with the installation of which early computer?",
+      "options": [
+        "ENIAC",
+        "An IBM 1620",
+        "TIFRAC",
+        "PARAM 8000"
+      ],
+      "answer": 1,
+      "explanation": "IIT Kanpur installed an IBM 1620 in 1963 and ran pioneering computer-science courses, helping launch formal computing education in India."
+    },
+    {
+      "id": "iit-q27",
+      "difficulty": "hard",
+      "q": "Raghuram Rajan, former Governor of the Reserve Bank of India and IMF chief economist, is an alumnus of which IIT?",
+      "options": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "IIT Kharagpur"
+      ],
+      "answer": 1,
+      "explanation": "Raghuram Rajan earned his undergraduate engineering degree at IIT Delhi before pursuing economics."
+    },
+    {
+      "id": "iit-q28",
+      "difficulty": "hard",
+      "q": "The IIT Council, the apex body coordinating all the IITs, is chaired ex officio by which official?",
+      "options": [
+        "The President of India",
+        "The Union Minister of Education",
+        "The Prime Minister",
+        "The Chief Justice of India"
+      ],
+      "answer": 1,
+      "explanation": "The IIT Council is chaired by the Union Minister of Education (formerly Human Resource Development), who coordinates the IITs."
+    },
+    {
+      "id": "iit-q29",
+      "difficulty": "hard",
+      "q": "Nandan Nilekani, co-founder of Infosys and architect of India's Aadhaar system, graduated from which IIT?",
+      "options": [
+        "IIT Madras",
+        "IIT Kanpur",
+        "IIT Bombay",
+        "IIT Kharagpur"
+      ],
+      "answer": 2,
+      "explanation": "Nandan Nilekani, Infosys co-founder and Aadhaar architect, is an electrical engineering graduate of IIT Bombay."
+    },
+    {
+      "id": "iit-q30",
+      "difficulty": "hard",
+      "q": "IIT Madras runs a celebrated technology business incubator that has produced many startups. By what well-known name is its incubation cell known?",
+      "options": [
+        "STEP",
+        "IIT Madras Research Park / Incubation Cell",
+        "iSPIRT",
+        "NASSCOM 10000 Startups"
+      ],
+      "answer": 1,
+      "explanation": "IIT Madras Research Park and its associated incubation cell are renowned for nurturing deep-tech startups."
+    }
+  ]
+}

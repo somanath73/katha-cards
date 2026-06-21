@@ -1,0 +1,245 @@
+{
+  "cardId": "varahamihira",
+  "questions": [
+    {
+      "id": "varahamihira-q01",
+      "difficulty": "easy",
+      "q": "In which century did the astronomer-polymath Varahamihira live and work?",
+      "options": ["3rd century CE", "6th century CE", "9th century CE", "12th century CE"],
+      "answer": 1,
+      "explanation": "Varahamihira flourished in the 6th century CE, working largely around the city of Ujjain."
+    },
+    {
+      "id": "varahamihira-q02",
+      "difficulty": "easy",
+      "q": "Varahamihira is most strongly associated with which ancient Indian city, a major center of astronomy?",
+      "options": ["Ujjain", "Nalanda", "Taxila", "Pataliputra"],
+      "answer": 0,
+      "explanation": "Varahamihira is celebrated as the polymath of Ujjain, a renowned center of astronomy in ancient India."
+    },
+    {
+      "id": "varahamihira-q03",
+      "difficulty": "easy",
+      "q": "Which of these subjects was a major focus of Varahamihira's work?",
+      "options": ["Naval engineering", "Astronomy and astrology", "Marine biology", "Metallurgical smelting only"],
+      "answer": 1,
+      "explanation": "Varahamihira is best known for compiling astronomy and astrology alongside other natural sciences."
+    },
+    {
+      "id": "varahamihira-q04",
+      "difficulty": "easy",
+      "q": "The Pancha-Siddhantika by Varahamihira is a treatise on which subject?",
+      "options": ["Grammar", "Astronomy", "Medicine", "Poetry"],
+      "answer": 1,
+      "explanation": "The Pancha-Siddhantika is Varahamihira's astronomical treatise summarizing five earlier astronomical schools."
+    },
+    {
+      "id": "varahamihira-q05",
+      "difficulty": "easy",
+      "q": "The title 'Pancha-Siddhantika' refers to a summary of how many earlier astronomical treatises (siddhantas)?",
+      "options": ["Three", "Five", "Seven", "Ten"],
+      "answer": 1,
+      "explanation": "'Pancha' means five, and the work summarizes five earlier siddhantas (astronomical canons)."
+    },
+    {
+      "id": "varahamihira-q06",
+      "difficulty": "easy",
+      "q": "Which encyclopedic work by Varahamihira covers astronomy, astrology and natural science?",
+      "options": ["Brihat Samhita", "Lilavati", "Aryabhatiya", "Surya Siddhanta"],
+      "answer": 0,
+      "explanation": "The Brihat Samhita is Varahamihira's wide-ranging compendium covering astronomy, astrology and many natural phenomena."
+    },
+    {
+      "id": "varahamihira-q07",
+      "difficulty": "easy",
+      "q": "Varahamihira is described as a 'polymath.' What does that term mean?",
+      "options": ["A wandering monk", "A person of wide-ranging knowledge", "A royal tax collector", "A temple sculptor"],
+      "answer": 1,
+      "explanation": "A polymath is someone with expertise spanning many fields, which fits Varahamihira's broad output."
+    },
+    {
+      "id": "varahamihira-q08",
+      "difficulty": "easy",
+      "q": "In which broad region did Varahamihira live?",
+      "options": ["China", "Persia", "The Indian subcontinent", "Egypt"],
+      "answer": 2,
+      "explanation": "Varahamihira was an Indian astronomer who worked in the region of Ujjain on the Indian subcontinent."
+    },
+    {
+      "id": "varahamihira-q09",
+      "difficulty": "easy",
+      "q": "The Brihat Samhita is best categorized as which kind of text?",
+      "options": ["A single-topic algebra textbook", "An encyclopedic compendium of many topics", "A collection of love poems", "A military strategy manual"],
+      "answer": 1,
+      "explanation": "The Brihat Samhita is an encyclopedic work touching on astronomy, weather, agriculture, gemology and much more."
+    },
+    {
+      "id": "varahamihira-q10",
+      "difficulty": "easy",
+      "q": "Varahamihira's works are written primarily in which language?",
+      "options": ["Sanskrit", "Tamil", "Persian", "Greek"],
+      "answer": 0,
+      "explanation": "Like most classical Indian scientific texts of his era, Varahamihira wrote in Sanskrit."
+    },
+    {
+      "id": "varahamihira-q11",
+      "difficulty": "medium",
+      "q": "The Pancha-Siddhantika notably preserves a version of which influential astronomical text?",
+      "options": ["The Surya Siddhanta", "Euclid's Elements", "The Almagest of Ptolemy", "The Lilavati"],
+      "answer": 0,
+      "explanation": "The Pancha-Siddhantika preserves a summary of the older Surya Siddhanta among the five siddhantas it covers."
+    },
+    {
+      "id": "varahamihira-q12",
+      "difficulty": "medium",
+      "q": "One of the five siddhantas summarized by Varahamihira shows strong influence from which foreign tradition?",
+      "options": ["Chinese astronomy", "Greek (Hellenistic) astronomy", "Mayan astronomy", "Babylonian omen lists only"],
+      "answer": 1,
+      "explanation": "The Romaka and Paulisa siddhantas reflect Greek/Hellenistic astronomical influence transmitted to India."
+    },
+    {
+      "id": "varahamihira-q13",
+      "difficulty": "medium",
+      "q": "Varahamihira is traditionally counted among the Navaratnas (Nine Gems) said to be at whose court?",
+      "options": ["King Ashoka", "Emperor Akbar", "A Vikramaditya ruler", "Harsha of Kannauj"],
+      "answer": 2,
+      "explanation": "Tradition places Varahamihira among the nine gems associated with the legendary court of Vikramaditya."
+    },
+    {
+      "id": "varahamihira-q14",
+      "difficulty": "medium",
+      "q": "Besides astronomy, the Brihat Samhita famously includes a chapter on which practical subject?",
+      "options": ["Naval cannon design", "Hydrology and finding underground water", "Steam engines", "Printing presses"],
+      "answer": 1,
+      "explanation": "The Brihat Samhita includes a well-known treatment of dakargala, the science of locating underground water sources."
+    },
+    {
+      "id": "varahamihira-q15",
+      "difficulty": "medium",
+      "q": "Varahamihira's work on the science of gemstones and pearls falls under which broad field covered in the Brihat Samhita?",
+      "options": ["Ratna-shastra (gemology)", "Naval architecture", "Cryptography", "Numismatics only"],
+      "answer": 0,
+      "explanation": "The Brihat Samhita contains material on gems and pearls, part of the gemological knowledge (ratna-shastra) of the era."
+    },
+    {
+      "id": "varahamihira-q16",
+      "difficulty": "medium",
+      "q": "Varahamihira lived shortly after which earlier great Indian astronomer-mathematician, whose ideas influenced him?",
+      "options": ["Aryabhata", "Ramanujan", "Bhaskara II", "Madhava of Sangamagrama"],
+      "answer": 0,
+      "explanation": "Aryabhata (born 476 CE) preceded Varahamihira, and his astronomy influenced the 6th-century traditions Varahamihira compiled."
+    },
+    {
+      "id": "varahamihira-q17",
+      "difficulty": "medium",
+      "q": "The Brihat Jataka, attributed to Varahamihira, is a foundational text in which field?",
+      "options": ["Horoscopic astrology (jyotisha)", "Surgical anatomy", "Civil architecture", "Phonetics"],
+      "answer": 0,
+      "explanation": "The Brihat Jataka is a classic text on horoscopic astrology within the jyotisha tradition."
+    },
+    {
+      "id": "varahamihira-q18",
+      "difficulty": "medium",
+      "q": "Within Indian astronomical tradition, jyotisha originally encompassed which combination of disciplines?",
+      "options": ["Only modern chemistry", "Astronomy together with astrology and calendar science", "Only music theory", "Only land surveying"],
+      "answer": 1,
+      "explanation": "Jyotisha covered mathematical astronomy, calendrical computation and astrology, all of which Varahamihira addressed."
+    },
+    {
+      "id": "varahamihira-q19",
+      "difficulty": "medium",
+      "q": "Varahamihira's contributions in the Pancha-Siddhantika include work on which mathematical tool central to astronomy?",
+      "options": ["Logarithm tables", "Trigonometric sine values", "Calculus integrals", "Complex numbers"],
+      "answer": 1,
+      "explanation": "The Pancha-Siddhantika contains rules and values for sines, essential for computing planetary positions."
+    },
+    {
+      "id": "varahamihira-q20",
+      "difficulty": "medium",
+      "q": "Why is the Pancha-Siddhantika especially valuable to historians of science?",
+      "options": ["It is written in Latin", "It preserves the content of older astronomical texts that are otherwise lost", "It contains the first map of the Americas", "It records sports results"],
+      "answer": 1,
+      "explanation": "By summarizing five earlier siddhantas, Varahamihira's work preserves knowledge of texts that have not survived independently."
+    },
+    {
+      "id": "varahamihira-q21",
+      "difficulty": "medium",
+      "q": "The 'sun' emblem often associated with Varahamihira reflects his deep engagement with which body of knowledge?",
+      "options": ["Celestial and solar astronomy", "Deep-sea navigation", "Forestry management", "Coin minting"],
+      "answer": 0,
+      "explanation": "His astronomical work centered on the heavens, including solar and planetary motions, fitting a solar emblem."
+    },
+    {
+      "id": "varahamihira-q22",
+      "difficulty": "medium",
+      "q": "Varahamihira's name 'Varaha' is connected by tradition to which symbolic association?",
+      "options": ["A reference to the boar avatar / a title", "A type of warship", "A musical instrument", "A unit of currency"],
+      "answer": 0,
+      "explanation": "Tradition links 'Varaha' (boar) to legends about him, and the name became part of his honored identity."
+    },
+    {
+      "id": "varahamihira-q23",
+      "difficulty": "hard",
+      "q": "The five siddhantas summarized in the Pancha-Siddhantika include the Paulisa, Romaka, Vasishtha, Saura, and which fifth?",
+      "options": ["Paitamaha", "Brahmagupta", "Lilavati", "Karanakutuhala"],
+      "answer": 0,
+      "explanation": "The five siddhantas are the Paulisa, Romaka, Vasishtha, Saura (Surya), and Paitamaha (Brahma) Siddhantas."
+    },
+    {
+      "id": "varahamihira-q24",
+      "difficulty": "hard",
+      "q": "The name 'Romaka Siddhanta,' one of Varahamihira's five canons, derives from a word indicating influence from where?",
+      "options": ["Rome / the Roman (Byzantine) world", "Rajasthan", "Sri Lanka", "Tibet"],
+      "answer": 0,
+      "explanation": "'Romaka' refers to Rome, signaling Greco-Roman (Hellenistic) astronomical influence on that siddhanta."
+    },
+    {
+      "id": "varahamihira-q25",
+      "difficulty": "hard",
+      "q": "Varahamihira's death is traditionally dated to approximately which year?",
+      "options": ["About 587 CE", "About 250 CE", "About 800 CE", "About 1114 CE"],
+      "answer": 0,
+      "explanation": "Varahamihira is traditionally said to have died around 587 CE, consistent with his 6th-century activity."
+    },
+    {
+      "id": "varahamihira-q26",
+      "difficulty": "hard",
+      "q": "In the Pancha-Siddhantika, Varahamihira used which calendrical era as a reference epoch for his calculations?",
+      "options": ["The Saka era", "The Gregorian calendar", "The Hijri era", "The Buddhist Nirvana era"],
+      "answer": 0,
+      "explanation": "Varahamihira's astronomical computations in the Pancha-Siddhantika are referenced to the Saka era."
+    },
+    {
+      "id": "varahamihira-q27",
+      "difficulty": "hard",
+      "q": "Varahamihira's mathematical work includes an early treatment of which combinatorial-style construction?",
+      "options": ["A version of the binomial-style triangle of coefficients", "Non-Euclidean geometry", "Fourier analysis", "Group theory"],
+      "answer": 0,
+      "explanation": "Varahamihira discussed combinatorial computations related to the array of binomial coefficients (the 'Meru' / Pascal-type triangle)."
+    },
+    {
+      "id": "varahamihira-q28",
+      "difficulty": "hard",
+      "q": "The Brihat Samhita's breadth means it is often cited by historians as a source on Gupta-era which of the following?",
+      "options": ["Social customs, architecture and natural phenomena", "Transoceanic trade routes to the Americas", "Gunpowder weapons", "Modern banking law"],
+      "answer": 0,
+      "explanation": "Because it surveys so many topics, the Brihat Samhita is a key window into Gupta-era customs, architecture and natural science."
+    },
+    {
+      "id": "varahamihira-q29",
+      "difficulty": "hard",
+      "q": "Varahamihira's astrological writings helped systematize which branch dealing with the casting of birth charts?",
+      "options": ["Hora / jataka (natal astrology)", "Numerology of music", "Alchemical transmutation", "Naval timekeeping"],
+      "answer": 0,
+      "explanation": "His Brihat Jataka systematized hora (jataka), the natal astrology of casting and interpreting birth horoscopes."
+    },
+    {
+      "id": "varahamihira-q30",
+      "difficulty": "hard",
+      "q": "Which statement best captures Varahamihira's lasting significance in the history of science?",
+      "options": ["He invented the telescope", "He compiled and transmitted astronomical, astrological and natural-science knowledge of his age", "He proved Fermat's Last Theorem", "He discovered the circulation of blood"],
+      "answer": 1,
+      "explanation": "Varahamihira's enduring importance lies in compiling and preserving the astronomy, astrology and natural science of 6th-century India."
+    }
+  ]
+}

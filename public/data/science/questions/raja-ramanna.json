@@ -1,0 +1,245 @@
+{
+  "cardId": "raja-ramanna",
+  "questions": [
+    {
+      "id": "raja-ramanna-q01",
+      "difficulty": "easy",
+      "q": "Raja Ramanna is best remembered for leading the team behind which milestone event?",
+      "options": ["India's first satellite launch", "India's first nuclear test", "India's first supercomputer", "India's first space mission to the Moon"],
+      "answer": 1,
+      "explanation": "Ramanna led the team that carried out India's first nuclear test in 1974."
+    },
+    {
+      "id": "raja-ramanna-q02",
+      "difficulty": "easy",
+      "q": "In which scientific field did Raja Ramanna primarily work?",
+      "options": ["Botany", "Economics", "Nuclear physics", "Marine biology"],
+      "answer": 2,
+      "explanation": "Ramanna was a nuclear physicist who specialised in nuclear fission and reactor research."
+    },
+    {
+      "id": "raja-ramanna-q03",
+      "difficulty": "easy",
+      "q": "What was the codename of India's first nuclear test that Ramanna helped lead?",
+      "options": ["Smiling Buddha", "Operation Shakti", "Pokhran Star", "Trishul"],
+      "answer": 0,
+      "explanation": "India's first nuclear test in 1974 was codenamed 'Smiling Buddha'."
+    },
+    {
+      "id": "raja-ramanna-q04",
+      "difficulty": "easy",
+      "q": "In which year did India conduct its first nuclear test under Ramanna's leadership?",
+      "options": ["1962", "1969", "1974", "1981"],
+      "answer": 2,
+      "explanation": "The Smiling Buddha test was conducted on 18 May 1974."
+    },
+    {
+      "id": "raja-ramanna-q05",
+      "difficulty": "easy",
+      "q": "At which site in Rajasthan was India's 1974 nuclear test conducted?",
+      "options": ["Sriharikota", "Chandipur", "Pokhran", "Thumba"],
+      "answer": 2,
+      "explanation": "The 1974 test was carried out at the Pokhran test range in Rajasthan."
+    },
+    {
+      "id": "raja-ramanna-q06",
+      "difficulty": "easy",
+      "q": "In which country was Raja Ramanna born?",
+      "options": ["India", "Pakistan", "Sri Lanka", "Nepal"],
+      "answer": 0,
+      "explanation": "Raja Ramanna was born in India, in Tumkur, in the present-day state of Karnataka."
+    },
+    {
+      "id": "raja-ramanna-q07",
+      "difficulty": "easy",
+      "q": "Besides being a physicist, Raja Ramanna was also an accomplished performer of which art?",
+      "options": ["Classical dance", "Piano music", "Painting", "Sculpture"],
+      "answer": 1,
+      "explanation": "Ramanna was a talented pianist and a noted lover of Western classical music."
+    },
+    {
+      "id": "raja-ramanna-q08",
+      "difficulty": "easy",
+      "q": "Raja Ramanna spent much of his career at which Indian nuclear research centre at Trombay?",
+      "options": ["ISRO", "CSIR", "DRDO headquarters", "Bhabha Atomic Research Centre (BARC)"],
+      "answer": 3,
+      "explanation": "Ramanna worked at and later directed the Bhabha Atomic Research Centre (BARC) at Trombay."
+    },
+    {
+      "id": "raja-ramanna-q09",
+      "difficulty": "easy",
+      "q": "The 1974 Pokhran test was officially described by the Indian government as what kind of explosion?",
+      "options": ["A weapons test", "A peaceful nuclear explosion", "An accidental detonation", "A military missile test"],
+      "answer": 1,
+      "explanation": "India officially described the 1974 test as a 'peaceful nuclear explosion'."
+    },
+    {
+      "id": "raja-ramanna-q10",
+      "difficulty": "easy",
+      "q": "Which prominent earlier Indian physicist mentored Ramanna and built India's atomic energy programme?",
+      "options": ["C. V. Raman", "Satyendra Nath Bose", "Homi J. Bhabha", "Meghnad Saha"],
+      "answer": 2,
+      "explanation": "Homi Bhabha, founder of India's nuclear programme, recruited and mentored Ramanna at TIFR and Trombay."
+    },
+    {
+      "id": "raja-ramanna-q11",
+      "difficulty": "medium",
+      "q": "In which present-day Indian state was Raja Ramanna born in 1925?",
+      "options": ["Tamil Nadu", "Maharashtra", "Karnataka", "Kerala"],
+      "answer": 2,
+      "explanation": "Ramanna was born on 28 January 1925 in Tumkur, Karnataka."
+    },
+    {
+      "id": "raja-ramanna-q12",
+      "difficulty": "medium",
+      "q": "Ramanna earned his doctorate in physics from which university?",
+      "options": ["University of Cambridge", "University of Oxford", "University of Manchester", "King's College London"],
+      "answer": 3,
+      "explanation": "Ramanna received his PhD in nuclear physics from King's College London in 1949."
+    },
+    {
+      "id": "raja-ramanna-q13",
+      "difficulty": "medium",
+      "q": "Which civilian government post did Ramanna briefly hold in the late 1980s?",
+      "options": ["Minister of State for Defence", "President of India", "Chief Election Commissioner", "Governor of the Reserve Bank"],
+      "answer": 0,
+      "explanation": "Ramanna served as India's Minister of State for Defence in 1990."
+    },
+    {
+      "id": "raja-ramanna-q14",
+      "difficulty": "medium",
+      "q": "Ramanna served as Director of which institution for several years during his career?",
+      "options": ["Indian Institute of Science", "Tata Institute of Fundamental Research", "Bhabha Atomic Research Centre (BARC)", "Physical Research Laboratory"],
+      "answer": 2,
+      "explanation": "Ramanna was Director of BARC, a role central to India's nuclear research efforts."
+    },
+    {
+      "id": "raja-ramanna-q15",
+      "difficulty": "medium",
+      "q": "Which of India's highest civilian honours was conferred on Raja Ramanna?",
+      "options": ["Bharat Ratna", "Padma Vibhushan", "Param Vir Chakra", "Ashoka Chakra"],
+      "answer": 1,
+      "explanation": "Ramanna was awarded the Padma Vibhushan, India's second-highest civilian honour, in 1975."
+    },
+    {
+      "id": "raja-ramanna-q16",
+      "difficulty": "medium",
+      "q": "Who was the Prime Minister of India at the time of the 1974 Pokhran nuclear test?",
+      "options": ["Jawaharlal Nehru", "Morarji Desai", "Indira Gandhi", "Rajiv Gandhi"],
+      "answer": 2,
+      "explanation": "Indira Gandhi was Prime Minister and authorised the 1974 Smiling Buddha test."
+    },
+    {
+      "id": "raja-ramanna-q17",
+      "difficulty": "medium",
+      "q": "Which fundamental nuclear process is central to the device tested at Pokhran in 1974?",
+      "options": ["Chemical combustion", "Nuclear fission", "Nuclear fusion of hydrogen", "Radioactive decay only"],
+      "answer": 1,
+      "explanation": "The 1974 device was a fission bomb, relying on the splitting of heavy nuclei such as plutonium."
+    },
+    {
+      "id": "raja-ramanna-q18",
+      "difficulty": "medium",
+      "q": "Ramanna later served as the founding head of which advanced studies institution in Bengaluru?",
+      "options": ["DRDO", "Indian Space Research Organisation", "Indian Institute of Astrophysics", "National Institute of Advanced Studies (NIAS)"],
+      "answer": 3,
+      "explanation": "Ramanna was the founding director of the National Institute of Advanced Studies (NIAS) in Bangalore."
+    },
+    {
+      "id": "raja-ramanna-q19",
+      "difficulty": "medium",
+      "q": "Ramanna's early reactor work at Trombay centred on India's first research reactor, named what?",
+      "options": ["Apsara", "Dhruva", "Cirus", "Purnima"],
+      "answer": 0,
+      "explanation": "Apsara, commissioned in 1956, was Asia's first research reactor, and Ramanna contributed to its development."
+    },
+    {
+      "id": "raja-ramanna-q20",
+      "difficulty": "medium",
+      "q": "Which fissile material was the core of the device used in India's 1974 nuclear test?",
+      "options": ["Highly enriched uranium", "Thorium-232", "Plutonium", "Deuterium"],
+      "answer": 2,
+      "explanation": "The 1974 Smiling Buddha device used plutonium produced in India's reactors as its fissile core."
+    },
+    {
+      "id": "raja-ramanna-q21",
+      "difficulty": "medium",
+      "q": "Raja Ramanna also held a seat in which house of the Indian Parliament?",
+      "options": ["Lok Sabha", "State Legislative Assembly", "Rajya Sabha", "He never sat in Parliament"],
+      "answer": 2,
+      "explanation": "Ramanna was nominated as a member of the Rajya Sabha, the upper house of Parliament."
+    },
+    {
+      "id": "raja-ramanna-q22",
+      "difficulty": "medium",
+      "q": "Ramanna's autobiography reflecting on science and his life was titled what?",
+      "options": ["Wings of Fire", "The Test of Time", "Years of Pilgrimage", "A Brief History of Atoms"],
+      "answer": 2,
+      "explanation": "Ramanna's autobiography is titled 'Years of Pilgrimage'."
+    },
+    {
+      "id": "raja-ramanna-q23",
+      "difficulty": "hard",
+      "q": "Roughly what was the officially stated yield of India's 1974 Pokhran nuclear test?",
+      "options": ["Around 1 kiloton", "Around 100 kilotons", "Around 12 kilotons", "Around 1 megaton"],
+      "answer": 2,
+      "explanation": "India officially stated a yield of about 12 kilotons of TNT for the 1974 test, though independent estimates varied."
+    },
+    {
+      "id": "raja-ramanna-q24",
+      "difficulty": "hard",
+      "q": "The plutonium for the 1974 test was produced using which reactor at Trombay?",
+      "options": ["Apsara", "Cirus", "Dhruva", "Kamini"],
+      "answer": 1,
+      "explanation": "Plutonium for Smiling Buddha was reprocessed from spent fuel of the Canada-supplied Cirus reactor."
+    },
+    {
+      "id": "raja-ramanna-q25",
+      "difficulty": "hard",
+      "q": "On what exact date was India's first nuclear test conducted?",
+      "options": ["18 May 1974", "15 August 1974", "26 January 1975", "2 October 1973"],
+      "answer": 0,
+      "explanation": "The Smiling Buddha test took place on 18 May 1974, coinciding with Buddha Purnima."
+    },
+    {
+      "id": "raja-ramanna-q26",
+      "difficulty": "hard",
+      "q": "Which early national science prize did Ramanna win in 1963 for his research?",
+      "options": ["Shanti Swarup Bhatnagar Prize", "Nobel Prize in Physics", "Fields Medal", "Turing Award"],
+      "answer": 0,
+      "explanation": "Ramanna received the Shanti Swarup Bhatnagar Prize for Science and Technology in 1963 for his work in physics."
+    },
+    {
+      "id": "raja-ramanna-q27",
+      "difficulty": "hard",
+      "q": "Before joining the atomic energy establishment, Ramanna's doctoral research focused on which area of physics?",
+      "options": ["Nuclear physics and scattering", "Crystallography", "Plasma astrophysics", "Solid-state semiconductors"],
+      "answer": 0,
+      "explanation": "Ramanna's PhD work in London was in nuclear physics, the field that defined his later career."
+    },
+    {
+      "id": "raja-ramanna-q28",
+      "difficulty": "hard",
+      "q": "Ramanna chaired which national advisory body on atomic energy during his career?",
+      "options": ["The Atomic Energy Commission of India", "The University Grants Commission", "The Planning Commission", "The Election Commission"],
+      "answer": 0,
+      "explanation": "Ramanna served as Chairman of the Atomic Energy Commission of India."
+    },
+    {
+      "id": "raja-ramanna-q29",
+      "difficulty": "hard",
+      "q": "In what year did Raja Ramanna pass away?",
+      "options": ["1998", "2004", "2010", "2015"],
+      "answer": 1,
+      "explanation": "Raja Ramanna died on 24 September 2004."
+    },
+    {
+      "id": "raja-ramanna-q30",
+      "difficulty": "hard",
+      "q": "The team that built the 1974 device kept it deliberately small; what colloquial name did insiders give the assembled device?",
+      "options": ["The Buddha", "The Smiling Buddha", "Little Boy", "Trinity"],
+      "answer": 1,
+      "explanation": "The device and the test alike were nicknamed 'Smiling Buddha', the codename by which the operation is remembered."
+    }
+  ]
+}

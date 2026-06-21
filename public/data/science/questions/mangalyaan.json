@@ -1,0 +1,245 @@
+{
+  "cardId": "mangalyaan",
+  "questions": [
+    {
+      "id": "mangalyaan-q01",
+      "difficulty": "easy",
+      "q": "What is the formal English name of the mission popularly known as Mangalyaan?",
+      "options": ["Mars Surface Mission", "Mars Orbiter Mission", "Mars Lander Mission", "Mars Sample Return Mission"],
+      "answer": 1,
+      "explanation": "Mangalyaan is the popular name for the Mars Orbiter Mission (MOM), an orbiter sent to study Mars from orbit."
+    },
+    {
+      "id": "mangalyaan-q02",
+      "difficulty": "easy",
+      "q": "Which space agency built and operated the Mars Orbiter Mission?",
+      "options": ["NASA", "ESA", "ISRO", "Roscosmos"],
+      "answer": 2,
+      "explanation": "The Mars Orbiter Mission was developed and operated by the Indian Space Research Organisation (ISRO)."
+    },
+    {
+      "id": "mangalyaan-q03",
+      "difficulty": "easy",
+      "q": "What does the Hindi-derived name 'Mangalyaan' literally mean?",
+      "options": ["Mars-craft", "Moon-craft", "Sky-craft", "Star-craft"],
+      "answer": 0,
+      "explanation": "'Mangal' means Mars and 'yaan' means craft or vehicle, so Mangalyaan means 'Mars-craft'."
+    },
+    {
+      "id": "mangalyaan-q04",
+      "difficulty": "easy",
+      "q": "In which year was the Mars Orbiter Mission launched?",
+      "options": ["2008", "2011", "2013", "2016"],
+      "answer": 2,
+      "explanation": "The Mars Orbiter Mission was launched on 5 November 2013."
+    },
+    {
+      "id": "mangalyaan-q05",
+      "difficulty": "easy",
+      "q": "What major 'first' did India achieve with the Mars Orbiter Mission?",
+      "options": ["First country to land a rover on Mars", "First country to reach Mars orbit on its very first attempt", "First country to send humans to Mars", "First country to return a sample from Mars"],
+      "answer": 1,
+      "explanation": "India became the first country to successfully reach Mars orbit on its very first attempt."
+    },
+    {
+      "id": "mangalyaan-q06",
+      "difficulty": "easy",
+      "q": "Which planet did Mangalyaan travel to and orbit?",
+      "options": ["Venus", "Jupiter", "Saturn", "Mars"],
+      "answer": 3,
+      "explanation": "Mangalyaan (Mars Orbiter Mission) was sent to orbit and study the planet Mars."
+    },
+    {
+      "id": "mangalyaan-q07",
+      "difficulty": "easy",
+      "q": "Was the Mars Orbiter Mission an orbiter, a lander, or a rover?",
+      "options": ["A rover", "A lander", "An orbiter", "A crewed spacecraft"],
+      "answer": 2,
+      "explanation": "Mangalyaan was an orbiter, designed to circle Mars and observe it from orbit rather than land on the surface."
+    },
+    {
+      "id": "mangalyaan-q08",
+      "difficulty": "easy",
+      "q": "One of the most celebrated features of the Mars Orbiter Mission was that it was:",
+      "options": ["Extremely low cost compared with other Mars missions", "Crewed by Indian astronauts", "The largest spacecraft ever built", "The fastest spacecraft ever launched"],
+      "answer": 0,
+      "explanation": "The mission was widely praised for its remarkably low cost compared with other nations' Mars missions."
+    },
+    {
+      "id": "mangalyaan-q09",
+      "difficulty": "easy",
+      "q": "Reaching Mars made India the first nation in which continent's region to do so?",
+      "options": ["Europe", "Asia", "Africa", "South America"],
+      "answer": 1,
+      "explanation": "India became the first Asian nation to successfully reach Mars orbit."
+    },
+    {
+      "id": "mangalyaan-q10",
+      "difficulty": "easy",
+      "q": "The Mars Orbiter Mission was primarily described as what kind of mission?",
+      "options": ["A commercial satellite mission", "A technology demonstration and science mission", "A human spaceflight mission", "A military reconnaissance mission"],
+      "answer": 1,
+      "explanation": "ISRO designed MOM mainly as a technology demonstrator for interplanetary travel, with a secondary science component."
+    },
+    {
+      "id": "mangalyaan-q11",
+      "difficulty": "medium",
+      "q": "On what date did the Mars Orbiter Mission successfully enter orbit around Mars?",
+      "options": ["5 November 2013", "1 December 2013", "24 September 2014", "14 February 2015"],
+      "answer": 2,
+      "explanation": "Mangalyaan was successfully inserted into Mars orbit on 24 September 2014."
+    },
+    {
+      "id": "mangalyaan-q12",
+      "difficulty": "medium",
+      "q": "Which launch vehicle carried the Mars Orbiter Mission into space?",
+      "options": ["GSLV Mk III", "PSLV-C25", "SLV-3", "ASLV"],
+      "answer": 1,
+      "explanation": "The mission was launched aboard a Polar Satellite Launch Vehicle, designated PSLV-C25."
+    },
+    {
+      "id": "mangalyaan-q13",
+      "difficulty": "medium",
+      "q": "From which launch site was the Mars Orbiter Mission launched?",
+      "options": ["Thumba Equatorial Rocket Launching Station", "Satish Dhawan Space Centre, Sriharikota", "Vikram Sarabhai Space Centre, Thiruvananthapuram", "Baikonur Cosmodrome"],
+      "answer": 1,
+      "explanation": "Mangalyaan lifted off from the Satish Dhawan Space Centre at Sriharikota in Andhra Pradesh."
+    },
+    {
+      "id": "mangalyaan-q14",
+      "difficulty": "medium",
+      "q": "Roughly how much did the Mars Orbiter Mission cost, a figure often cited to highlight its frugality?",
+      "options": ["About 45 crore rupees (about 7 million USD)", "About 450 crore rupees (about 74 million USD)", "About 4,500 crore rupees (about 740 million USD)", "About 45,000 crore rupees"],
+      "answer": 1,
+      "explanation": "The mission cost about 450 crore rupees (roughly 74 million US dollars), far less than comparable Mars missions."
+    },
+    {
+      "id": "mangalyaan-q15",
+      "difficulty": "medium",
+      "q": "Why did the spacecraft initially orbit Earth for several weeks before heading to Mars?",
+      "options": ["To test its landing gear", "To gradually raise its orbit using engine burns before the trans-Mars injection", "To wait for a crew to dock with it", "To collect lunar samples first"],
+      "answer": 1,
+      "explanation": "ISRO used a series of orbit-raising burns around Earth to build up speed before the trans-Mars injection toward Mars."
+    },
+    {
+      "id": "mangalyaan-q16",
+      "difficulty": "medium",
+      "q": "Approximately how long did the journey from Earth to Mars take for the orbiter?",
+      "options": ["About 1 week", "About 1 month", "About 10 months", "About 5 years"],
+      "answer": 2,
+      "explanation": "The spacecraft cruised for roughly ten months between its November 2013 launch and its September 2014 Mars arrival."
+    },
+    {
+      "id": "mangalyaan-q17",
+      "difficulty": "medium",
+      "q": "Which of these was one of the scientific instruments carried aboard the Mars Orbiter Mission?",
+      "options": ["A drill for collecting rock cores", "A Methane Sensor for Mars (MSM)", "A seismometer planted on the surface", "A nuclear power reactor"],
+      "answer": 1,
+      "explanation": "The orbiter carried a Methane Sensor for Mars (MSM) among its five scientific payloads."
+    },
+    {
+      "id": "mangalyaan-q18",
+      "difficulty": "medium",
+      "q": "Approximately how many scientific instruments (payloads) did the Mars Orbiter Mission carry?",
+      "options": ["1", "5", "15", "30"],
+      "answer": 1,
+      "explanation": "MOM carried five scientific payloads with a total mass of about 15 kilograms."
+    },
+    {
+      "id": "mangalyaan-q19",
+      "difficulty": "medium",
+      "q": "Which camera aboard the orbiter returned widely shared colour images of the full disc of Mars?",
+      "options": ["Mars Colour Camera (MCC)", "Mars Surface Imager", "High Resolution Mapping Camera", "Wide Angle Lunar Camera"],
+      "answer": 0,
+      "explanation": "The Mars Colour Camera (MCC) captured striking full-disc colour images of Mars that were widely circulated."
+    },
+    {
+      "id": "mangalyaan-q20",
+      "difficulty": "medium",
+      "q": "Who was the Chairman of ISRO at the time of the Mars Orbiter Mission's successful Mars orbit insertion in 2014?",
+      "options": ["K. Sivan", "S. Somanath", "K. Radhakrishnan", "U. R. Rao"],
+      "answer": 2,
+      "explanation": "K. Radhakrishnan was the ISRO Chairman when Mangalyaan successfully entered Mars orbit in September 2014."
+    },
+    {
+      "id": "mangalyaan-q21",
+      "difficulty": "medium",
+      "q": "What was the originally planned design lifetime of the Mars Orbiter Mission in orbit?",
+      "options": ["About 5 years", "About 20 years", "Just a few days", "About 6 months"],
+      "answer": 3,
+      "explanation": "The orbiter was designed for a mission life of about six months, though it ended up operating far longer."
+    },
+    {
+      "id": "mangalyaan-q22",
+      "difficulty": "medium",
+      "q": "Photographs from mission control featured prominently in news coverage; what was notable about the Mars Orbiter Mission team?",
+      "options": ["It included many women scientists and engineers", "It was made up entirely of foreign experts", "It consisted of only three people", "It worked entirely remotely from abroad"],
+      "answer": 0,
+      "explanation": "Photographs of the mission's women scientists and engineers celebrating became iconic symbols of the mission."
+    },
+    {
+      "id": "mangalyaan-q23",
+      "difficulty": "hard",
+      "q": "The Mars Orbiter Mission was launched during a particularly favourable alignment that occurs roughly every:",
+      "options": ["26 months", "26 days", "26 years", "260 days"],
+      "answer": 0,
+      "explanation": "Favourable Earth-Mars launch windows recur roughly every 26 months, when the planets are well positioned for transfer."
+    },
+    {
+      "id": "mangalyaan-q24",
+      "difficulty": "hard",
+      "q": "Which liquid-fuel engine performed the critical Mars Orbit Insertion burn for Mangalyaan?",
+      "options": ["A Vikas engine cluster", "The 440-newton Liquid Apogee Motor (LAM)", "A cryogenic upper-stage engine", "A solid rocket booster"],
+      "answer": 1,
+      "explanation": "The spacecraft's 440-newton Liquid Apogee Motor (LAM) fired to slow the craft into Mars orbit."
+    },
+    {
+      "id": "mangalyaan-q25",
+      "difficulty": "hard",
+      "q": "Before the orbit insertion burn, the main engine had been idle for many months and was test-fired shortly beforehand. About how long had it been dormant?",
+      "options": ["A few hours", "About 300 days", "About 10 years", "It was never idle"],
+      "answer": 1,
+      "explanation": "The Liquid Apogee Motor had been dormant for around 300 days of cruise and was test-fired before the critical insertion burn."
+    },
+    {
+      "id": "mangalyaan-q26",
+      "difficulty": "hard",
+      "q": "The Mars Orbiter Mission was placed into what kind of orbit around Mars?",
+      "options": ["A perfectly circular equatorial orbit", "A highly elliptical orbit", "A geostationary orbit", "A polar orbit grazing the surface"],
+      "answer": 1,
+      "explanation": "Mangalyaan was placed in a highly elliptical orbit, ranging from a few hundred kilometres to tens of thousands of kilometres from Mars."
+    },
+    {
+      "id": "mangalyaan-q27",
+      "difficulty": "hard",
+      "q": "Approximately how much did the Mars Orbiter spacecraft weigh at launch (including fuel)?",
+      "options": ["About 50 kg", "About 1,350 kg", "About 10,000 kg", "About 100,000 kg"],
+      "answer": 1,
+      "explanation": "The spacecraft had a launch mass of roughly 1,350 kilograms, most of which was propellant."
+    },
+    {
+      "id": "mangalyaan-q28",
+      "difficulty": "hard",
+      "q": "Which of these scientific goals was a key objective of the Mars Orbiter Mission's instruments?",
+      "options": ["Searching the Martian atmosphere for methane", "Drilling boreholes into Martian rock", "Returning soil samples to Earth", "Establishing a permanent base"],
+      "answer": 0,
+      "explanation": "Studying the Martian atmosphere, including searching for methane, was a central scientific objective of the orbiter."
+    },
+    {
+      "id": "mangalyaan-q29",
+      "difficulty": "hard",
+      "q": "ISRO finally lost communication with the long-lived orbiter and declared it had ended around which year, after far exceeding its planned life?",
+      "options": ["2014", "2015", "2022", "2030"],
+      "answer": 2,
+      "explanation": "After operating for about eight years, ISRO indicated the orbiter had run out of propellant and lost contact, with the mission considered over around 2022."
+    },
+    {
+      "id": "mangalyaan-q30",
+      "difficulty": "hard",
+      "q": "Mangalyaan's success placed India among an exclusive group; which entities had reached Mars before India?",
+      "options": ["Only the United States, the Soviet Union/Russia, and Europe (ESA)", "Only China and Japan", "No one had ever reached Mars before", "Only private companies"],
+      "answer": 0,
+      "explanation": "Before India, only the United States, the Soviet Union/Russia, and the European Space Agency had succeeded in reaching Mars."
+    }
+  ]
+}

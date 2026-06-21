@@ -1,0 +1,245 @@
+{
+  "cardId": "iisc-bangalore",
+  "questions": [
+    {
+      "id": "iisc-bangalore-q01",
+      "difficulty": "easy",
+      "q": "In which Indian city is the Indian Institute of Science (IISc) located?",
+      "options": ["Mumbai", "Bengaluru", "Chennai", "Kolkata"],
+      "answer": 1,
+      "explanation": "IISc is located in Bengaluru (Bangalore), Karnataka."
+    },
+    {
+      "id": "iisc-bangalore-q02",
+      "difficulty": "easy",
+      "q": "Which Indian industrialist's vision led to the founding of IISc?",
+      "options": ["G. D. Birla", "Jamsetji Tata", "Dhirubhai Ambani", "J. R. D. Tata"],
+      "answer": 1,
+      "explanation": "IISc was founded through the vision and philanthropy of Jamsetji Tata, which is why it is also called the Tata Institute."
+    },
+    {
+      "id": "iisc-bangalore-q03",
+      "difficulty": "easy",
+      "q": "In which year was the Indian Institute of Science established?",
+      "options": ["1909", "1947", "1875", "1969"],
+      "answer": 0,
+      "explanation": "IISc was established in 1909 in Bengaluru."
+    },
+    {
+      "id": "iisc-bangalore-q04",
+      "difficulty": "easy",
+      "q": "IISc is widely regarded as India's premier institute for which area of work?",
+      "options": ["Commercial banking", "Scientific research", "Film production", "Sports training"],
+      "answer": 1,
+      "explanation": "IISc is India's foremost institute for advanced scientific and technological research."
+    },
+    {
+      "id": "iisc-bangalore-q05",
+      "difficulty": "easy",
+      "q": "By what nickname is IISc commonly known among students and locals?",
+      "options": ["The Hill", "The Tank", "The Yard", "Tata Institute"],
+      "answer": 3,
+      "explanation": "Because of its origins in Jamsetji Tata's endowment, IISc is popularly called the Tata Institute."
+    },
+    {
+      "id": "iisc-bangalore-q06",
+      "difficulty": "easy",
+      "q": "Which famous physicist who discovered a light-scattering effect served as Director of IISc?",
+      "options": ["Satyendra Nath Bose", "Homi J. Bhabha", "Meghnad Saha", "C. V. Raman"],
+      "answer": 3,
+      "explanation": "Nobel laureate C. V. Raman, discoverer of the Raman effect, was the first Indian Director of IISc."
+    },
+    {
+      "id": "iisc-bangalore-q07",
+      "difficulty": "easy",
+      "q": "What type of institution is IISc primarily?",
+      "options": ["A primary school", "A research and higher-education institute", "A hospital", "A manufacturing company"],
+      "answer": 1,
+      "explanation": "IISc is a deemed university focused on graduate education and research in science and engineering."
+    },
+    {
+      "id": "iisc-bangalore-q08",
+      "difficulty": "easy",
+      "q": "The royal family of which princely state donated land for IISc's campus?",
+      "options": ["Hyderabad", "Mysore", "Travancore", "Jaipur"],
+      "answer": 1,
+      "explanation": "The Maharaja of Mysore donated land in Bengaluru that became the IISc campus."
+    },
+    {
+      "id": "iisc-bangalore-q09",
+      "difficulty": "easy",
+      "q": "IISc primarily offers programs at which level?",
+      "options": ["Pre-school", "Postgraduate and doctoral", "Only undergraduate diplomas", "Vocational trade certificates"],
+      "answer": 1,
+      "explanation": "IISc has historically focused on master's, doctoral, and advanced research programs, later adding an undergraduate science program."
+    },
+    {
+      "id": "iisc-bangalore-q10",
+      "difficulty": "easy",
+      "q": "In which Indian state is IISc situated?",
+      "options": ["Maharashtra", "Tamil Nadu", "Karnataka", "Telangana"],
+      "answer": 2,
+      "explanation": "Bengaluru, where IISc is located, is the capital of Karnataka."
+    },
+    {
+      "id": "iisc-bangalore-q11",
+      "difficulty": "medium",
+      "q": "Who was the first Director of the Indian Institute of Science when it opened?",
+      "options": ["Morris Travers", "C. V. Raman", "Alfred Bourne", "Martin Forster"],
+      "answer": 0,
+      "explanation": "British chemist Morris W. Travers served as the first Director of IISc from 1909."
+    },
+    {
+      "id": "iisc-bangalore-q12",
+      "difficulty": "medium",
+      "q": "C. V. Raman became the first Indian Director of IISc in which decade?",
+      "options": ["1900s", "1910s", "1930s", "1950s"],
+      "answer": 2,
+      "explanation": "C. V. Raman was appointed the first Indian Director of IISc in 1933."
+    },
+    {
+      "id": "iisc-bangalore-q13",
+      "difficulty": "medium",
+      "q": "Which aerospace pioneer, later a key figure in India's space program, was associated with IISc and founded its aeronautics activity?",
+      "options": ["Vikram Sarabhai", "Satish Dhawan", "A. P. J. Abdul Kalam", "K. Sivan"],
+      "answer": 1,
+      "explanation": "Satish Dhawan, who later led ISRO, was a long-serving Director of IISc and built up its aerospace engineering work."
+    },
+    {
+      "id": "iisc-bangalore-q14",
+      "difficulty": "medium",
+      "q": "Apart from a government grant, IISc's founding was supported by an endowment from which source?",
+      "options": ["The British East India Company", "The Tata family endowment", "The United Nations", "The Rockefeller Foundation"],
+      "answer": 1,
+      "explanation": "The Tata family's endowment, set up from Jamsetji Tata's bequest, was central to founding IISc."
+    },
+    {
+      "id": "iisc-bangalore-q15",
+      "difficulty": "medium",
+      "q": "Which historic landmark building stands at the centre of the IISc main campus?",
+      "options": ["The Main Building with its central tower and dome", "The Gateway of India", "The Vidhana Soudha", "The Charminar"],
+      "answer": 0,
+      "explanation": "The IISc Main Building, with its distinctive tower, is the iconic centrepiece of the campus."
+    },
+    {
+      "id": "iisc-bangalore-q16",
+      "difficulty": "medium",
+      "q": "C. V. Raman won the Nobel Prize in Physics for his work, which he was continuing around the time he joined IISc. In which year did he win it?",
+      "options": ["1921", "1930", "1945", "1956"],
+      "answer": 1,
+      "explanation": "C. V. Raman won the 1930 Nobel Prize in Physics for the discovery of the Raman effect."
+    },
+    {
+      "id": "iisc-bangalore-q17",
+      "difficulty": "medium",
+      "q": "IISc holds the status of which kind of academic institution under Indian law?",
+      "options": ["A private coaching centre", "A deemed-to-be university", "A polytechnic", "A research wing of a single company"],
+      "answer": 1,
+      "explanation": "IISc is a deemed-to-be university, giving it autonomy to award its own degrees."
+    },
+    {
+      "id": "iisc-bangalore-q18",
+      "difficulty": "medium",
+      "q": "Which of these fields is a major research strength at IISc?",
+      "options": ["Aerospace engineering", "Theology", "Classical dance", "Hotel management"],
+      "answer": 0,
+      "explanation": "Aerospace engineering is one of IISc's flagship departments, with deep links to India's space and aviation programs."
+    },
+    {
+      "id": "iisc-bangalore-q19",
+      "difficulty": "medium",
+      "q": "IISc is frequently ranked as the top institute in India in which category of higher-education rankings?",
+      "options": ["Law colleges", "Universities/research institutions", "Medical hospitals", "Management schools only"],
+      "answer": 1,
+      "explanation": "IISc regularly tops national rankings such as NIRF in the university and research-institution categories."
+    },
+    {
+      "id": "iisc-bangalore-q20",
+      "difficulty": "medium",
+      "q": "Which engineer-statesman is historically credited with helping plan and locate IISc on the Bengaluru site?",
+      "options": ["M. Visvesvaraya", "Jawaharlal Nehru", "Sardar Patel", "Lord Curzon"],
+      "answer": 0,
+      "explanation": "The engineer and Diwan of Mysore M. Visvesvaraya was closely involved in IISc's early development; Lord Curzon as Viceroy also supported the founding."
+    },
+    {
+      "id": "iisc-bangalore-q21",
+      "difficulty": "medium",
+      "q": "An undergraduate program at IISc, introduced in the 21st century, primarily awards which degree?",
+      "options": ["Bachelor of Science (Research)", "Bachelor of Laws", "Bachelor of Commerce", "Bachelor of Arts"],
+      "answer": 0,
+      "explanation": "IISc launched a four-year Bachelor of Science (Research) program in 2011 to admit students after school."
+    },
+    {
+      "id": "iisc-bangalore-q22",
+      "difficulty": "medium",
+      "q": "The early teaching at IISc began with departments in which two foundational subjects?",
+      "options": ["History and Geography", "General and Applied Chemistry, and Electrical Technology", "Music and Painting", "Accountancy and Banking"],
+      "answer": 1,
+      "explanation": "IISc opened with departments in general and applied chemistry and in electrical technology."
+    },
+    {
+      "id": "iisc-bangalore-q23",
+      "difficulty": "hard",
+      "q": "The discovery of the Raman effect, by IISc's famous director, falls in which branch of physics?",
+      "options": ["Spectroscopy of light scattering", "Nuclear fission", "Plate tectonics", "Quantum gravity"],
+      "answer": 0,
+      "explanation": "The Raman effect concerns the inelastic scattering of light, a foundational result in spectroscopy."
+    },
+    {
+      "id": "iisc-bangalore-q24",
+      "difficulty": "hard",
+      "q": "Satish Dhawan, an IISc Director, later headed ISRO. The Indian launch site at Sriharikota is named in his honour as the:",
+      "options": ["Vikram Sarabhai Space Centre", "Satish Dhawan Space Centre", "Bhabha Atomic Research Centre", "Raman Research Institute"],
+      "answer": 1,
+      "explanation": "Sriharikota's launch complex is named the Satish Dhawan Space Centre after the former IISc Director and ISRO chairman."
+    },
+    {
+      "id": "iisc-bangalore-q25",
+      "difficulty": "hard",
+      "q": "IISc has played a major role in establishing which national high-performance computing or supercomputing-related initiatives in India?",
+      "options": ["Centre for high-performance and supercomputing research", "A national chain of cinemas", "A stock exchange", "A railway manufacturing plant"],
+      "answer": 0,
+      "explanation": "IISc hosts leading supercomputing and high-performance computing facilities supporting national research."
+    },
+    {
+      "id": "iisc-bangalore-q26",
+      "difficulty": "hard",
+      "q": "The viceroy whose support during his tenure helped formalise the founding scheme of IISc in the 1900s was:",
+      "options": ["Lord Curzon", "Lord Mountbatten", "Lord Dalhousie", "Lord Ripon"],
+      "answer": 0,
+      "explanation": "Lord Curzon's administration was instrumental in approving the scheme that established IISc."
+    },
+    {
+      "id": "iisc-bangalore-q27",
+      "difficulty": "hard",
+      "q": "Which renowned solid-state and materials chemist served as Director of IISc and was awarded the Bharat Ratna?",
+      "options": ["C. N. R. Rao", "Har Gobind Khorana", "Venkatraman Ramakrishnan", "Subrahmanyan Chandrasekhar"],
+      "answer": 0,
+      "explanation": "C. N. R. Rao, a leading solid-state and materials chemist, was Director of IISc from 1984 to 1994 and received the Bharat Ratna in 2013."
+    },
+    {
+      "id": "iisc-bangalore-q28",
+      "difficulty": "hard",
+      "q": "IISc's department long known for materials work is historically called the Department of:",
+      "options": ["Metallurgy (now Materials Engineering)", "Veterinary Science", "Sanskrit Studies", "Marine Biology"],
+      "answer": 0,
+      "explanation": "IISc's metallurgy department, now materials engineering, is among its oldest and most distinguished."
+    },
+    {
+      "id": "iisc-bangalore-q29",
+      "difficulty": "hard",
+      "q": "Which biotechnology and biological-sciences strength is IISc particularly noted for?",
+      "options": ["Molecular biophysics and biochemistry research", "Coal mining engineering", "Petroleum refining only", "Textile weaving"],
+      "answer": 0,
+      "explanation": "IISc is renowned for molecular biophysics, biochemistry, and the biological sciences."
+    },
+    {
+      "id": "iisc-bangalore-q30",
+      "difficulty": "hard",
+      "q": "IISc's founding required cooperation among three principal parties. Which set best describes them?",
+      "options": ["The Tatas, the Government of India, and the Maharaja of Mysore", "The United Nations, NASA, and Oxford", "Three private banks", "Three film studios"],
+      "answer": 0,
+      "explanation": "IISc was founded through the partnership of the Tata endowment, the Government of India, and the Maharaja of Mysore who provided land."
+    }
+  ]
+}

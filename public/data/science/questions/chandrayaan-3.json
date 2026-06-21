@@ -1,0 +1,245 @@
+{
+  "cardId": "chandrayaan-3",
+  "questions": [
+    {
+      "id": "chandrayaan-3-q01",
+      "difficulty": "easy",
+      "q": "Which space agency carried out the Chandrayaan-3 mission?",
+      "options": ["NASA", "ISRO", "ESA", "Roscosmos"],
+      "answer": 1,
+      "explanation": "Chandrayaan-3 was developed and operated by the Indian Space Research Organisation (ISRO)."
+    },
+    {
+      "id": "chandrayaan-3-q02",
+      "difficulty": "easy",
+      "q": "In which year did Chandrayaan-3 successfully land on the Moon?",
+      "options": ["2019", "2021", "2023", "2024"],
+      "answer": 2,
+      "explanation": "Chandrayaan-3's lander touched down on the Moon on 23 August 2023."
+    },
+    {
+      "id": "chandrayaan-3-q03",
+      "difficulty": "easy",
+      "q": "Near which region of the Moon did Chandrayaan-3 make its historic landing?",
+      "options": ["The south pole", "The north pole", "The Sea of Tranquility", "The far-side equator"],
+      "answer": 0,
+      "explanation": "Chandrayaan-3 landed near the lunar south pole, the first mission ever to do so."
+    },
+    {
+      "id": "chandrayaan-3-q04",
+      "difficulty": "easy",
+      "q": "Chandrayaan-3 made India the first country to land near the Moon's south pole. Which milestone did it achieve for soft-landing on the Moon overall?",
+      "options": ["The first nation to soft-land", "The second nation to soft-land", "The third nation to soft-land", "The fourth nation to soft-land"],
+      "answer": 3,
+      "explanation": "India became the fourth nation to achieve a soft landing on the Moon, after the USSR, the USA and China."
+    },
+    {
+      "id": "chandrayaan-3-q05",
+      "difficulty": "easy",
+      "q": "What was the name of the Chandrayaan-3 lander?",
+      "options": ["Pragyan", "Vikram", "Aryabhata", "Bhaskara"],
+      "answer": 1,
+      "explanation": "The lander was named Vikram, after Vikram Sarabhai, the founder of the Indian space programme."
+    },
+    {
+      "id": "chandrayaan-3-q06",
+      "difficulty": "easy",
+      "q": "What was the name of the rover deployed by Chandrayaan-3?",
+      "options": ["Pragyan", "Vikram", "Sarabhai", "Rohini"],
+      "answer": 0,
+      "explanation": "The six-wheeled rover was named Pragyan, a Sanskrit word meaning 'wisdom'."
+    },
+    {
+      "id": "chandrayaan-3-q07",
+      "difficulty": "easy",
+      "q": "After whom was the Chandrayaan-3 lander 'Vikram' named?",
+      "options": ["Vikram Batra", "Vikram Sarabhai", "Homi Bhabha", "Satish Dhawan"],
+      "answer": 1,
+      "explanation": "The lander honoured Vikram Sarabhai, widely regarded as the father of the Indian space programme."
+    },
+    {
+      "id": "chandrayaan-3-q08",
+      "difficulty": "easy",
+      "q": "What does the word 'Chandrayaan' broadly mean?",
+      "options": ["Sun craft", "Moon craft", "Star ship", "Sky temple"],
+      "answer": 1,
+      "explanation": "'Chandrayaan' translates roughly to 'Moon craft' or 'Moon vehicle' in Sanskrit and Hindi."
+    },
+    {
+      "id": "chandrayaan-3-q09",
+      "difficulty": "easy",
+      "q": "Chandrayaan-3 was launched from which Indian spaceport?",
+      "options": ["Satish Dhawan Space Centre, Sriharikota", "Vikram Sarabhai Space Centre, Thiruvananthapuram", "ISRO Headquarters, Bengaluru", "Wheeler Island, Odisha"],
+      "answer": 0,
+      "explanation": "The mission lifted off from the Satish Dhawan Space Centre on Sriharikota island."
+    },
+    {
+      "id": "chandrayaan-3-q10",
+      "difficulty": "easy",
+      "q": "Which earlier Indian mission was Chandrayaan-3 a follow-up to, aiming to complete its soft-landing goal?",
+      "options": ["Chandrayaan-1", "Chandrayaan-2", "Mangalyaan", "Aditya-L1"],
+      "answer": 1,
+      "explanation": "Chandrayaan-3 was a successor to Chandrayaan-2, whose lander had crashed in 2019."
+    },
+    {
+      "id": "chandrayaan-3-q11",
+      "difficulty": "medium",
+      "q": "On what date did the Vikram lander touch down on the Moon?",
+      "options": ["14 July 2023", "23 August 2023", "6 September 2019", "22 October 2008"],
+      "answer": 1,
+      "explanation": "Vikram soft-landed on 23 August 2023, a date India later declared as National Space Day."
+    },
+    {
+      "id": "chandrayaan-3-q12",
+      "difficulty": "medium",
+      "q": "Which launch vehicle carried Chandrayaan-3 into space?",
+      "options": ["PSLV-C45", "GSLV Mk II", "LVM3 (GSLV Mk III)", "SLV-3"],
+      "answer": 2,
+      "explanation": "Chandrayaan-3 was launched on the LVM3 (also known as GSLV Mk III), ISRO's heaviest launcher."
+    },
+    {
+      "id": "chandrayaan-3-q13",
+      "difficulty": "medium",
+      "q": "On what date was Chandrayaan-3 launched?",
+      "options": ["14 July 2023", "23 August 2023", "22 July 2019", "5 November 2013"],
+      "answer": 0,
+      "explanation": "Chandrayaan-3 was launched on 14 July 2023 and reached the Moon about six weeks later."
+    },
+    {
+      "id": "chandrayaan-3-q14",
+      "difficulty": "medium",
+      "q": "Unlike Chandrayaan-2, Chandrayaan-3 did NOT include which component?",
+      "options": ["A lander", "A rover", "A dedicated orbiter", "A propulsion module"],
+      "answer": 2,
+      "explanation": "Chandrayaan-3 carried a propulsion module instead of a full science orbiter, since Chandrayaan-2's orbiter was still functioning."
+    },
+    {
+      "id": "chandrayaan-3-q15",
+      "difficulty": "medium",
+      "q": "What name did India give to the landing site of Chandrayaan-3 on the Moon?",
+      "options": ["Tiranga Point", "Shiv Shakti Point", "Vikram Point", "Bharat Point"],
+      "answer": 1,
+      "explanation": "Prime Minister Narendra Modi announced the landing site would be called 'Shiv Shakti' Point."
+    },
+    {
+      "id": "chandrayaan-3-q16",
+      "difficulty": "medium",
+      "q": "Following the landing, India designated 23 August as which national observance?",
+      "options": ["National Science Day", "National Technology Day", "National Space Day", "ISRO Foundation Day"],
+      "answer": 2,
+      "explanation": "The government declared 23 August as National Space Day to mark the Chandrayaan-3 landing."
+    },
+    {
+      "id": "chandrayaan-3-q17",
+      "difficulty": "medium",
+      "q": "Who was the Chairman of ISRO who led the organisation during the Chandrayaan-3 landing?",
+      "options": ["K. Sivan", "S. Somanath", "A. S. Kiran Kumar", "K. Radhakrishnan"],
+      "answer": 1,
+      "explanation": "S. Somanath was the ISRO Chairman at the time of Chandrayaan-3's successful landing."
+    },
+    {
+      "id": "chandrayaan-3-q18",
+      "difficulty": "medium",
+      "q": "Roughly how long was the planned surface operating duration of the Vikram lander and Pragyan rover?",
+      "options": ["About one Earth day", "About one lunar day (around 14 Earth days)", "About six Earth months", "About one full year"],
+      "answer": 1,
+      "explanation": "The lander and rover were designed to operate for one lunar daytime, roughly 14 Earth days, before lunar night."
+    },
+    {
+      "id": "chandrayaan-3-q19",
+      "difficulty": "medium",
+      "q": "Which instrument on the Pragyan rover analysed the chemical composition of the lunar soil?",
+      "options": ["ChaSTE", "APXS (Alpha Particle X-ray Spectrometer)", "RAMBHA", "ILSA"],
+      "answer": 1,
+      "explanation": "The Alpha Particle X-ray Spectrometer (APXS) on Pragyan measured the elemental composition of the lunar surface."
+    },
+    {
+      "id": "chandrayaan-3-q20",
+      "difficulty": "medium",
+      "q": "The ChaSTE instrument aboard Vikram measured what property of the Moon's surface?",
+      "options": ["Magnetic field strength", "Thermal conductivity and temperature", "Radiation dose", "Seismic activity"],
+      "answer": 1,
+      "explanation": "ChaSTE (Chandra's Surface Thermophysical Experiment) probed the near-surface temperature and thermal conductivity of the lunar soil."
+    },
+    {
+      "id": "chandrayaan-3-q21",
+      "difficulty": "medium",
+      "q": "Which element's presence near the south pole was confirmed in situ by Chandrayaan-3, alongside others?",
+      "options": ["Sulphur", "Gold", "Helium-3", "Nitrogen"],
+      "answer": 0,
+      "explanation": "The APXS and LIBS instruments confirmed sulphur in the lunar soil near the south pole, along with aluminium, iron and other elements."
+    },
+    {
+      "id": "chandrayaan-3-q22",
+      "difficulty": "medium",
+      "q": "What was the approximate launch mass of the Chandrayaan-3 spacecraft (propulsion module plus lander and rover)?",
+      "options": ["About 320 kg", "About 1,750 kg", "About 3,900 kg", "About 8,200 kg"],
+      "answer": 2,
+      "explanation": "The total Chandrayaan-3 stack had a launch mass of roughly 3,900 kilograms."
+    },
+    {
+      "id": "chandrayaan-3-q23",
+      "difficulty": "hard",
+      "q": "What was the chief reason given for the failure of Chandrayaan-2's lander that Chandrayaan-3 was designed to overcome?",
+      "options": ["A launch vehicle malfunction", "A software glitch and thrust anomaly during the final descent", "A solar panel failure in orbit", "A communications blackout at launch"],
+      "answer": 1,
+      "explanation": "Chandrayaan-2's Vikram crashed due to anomalies during powered descent, so Chandrayaan-3 was built with more robust descent guidance and software."
+    },
+    {
+      "id": "chandrayaan-3-q24",
+      "difficulty": "hard",
+      "q": "Which LIBS-based instrument on the Pragyan rover detected sulphur and other elements using laser pulses?",
+      "options": ["APXS", "LIBS (Laser-Induced Breakdown Spectroscope)", "ChaSTE", "ILSA"],
+      "answer": 1,
+      "explanation": "The Laser-Induced Breakdown Spectroscope (LIBS) on Pragyan vaporised soil with laser pulses to identify its elemental makeup."
+    },
+    {
+      "id": "chandrayaan-3-q25",
+      "difficulty": "hard",
+      "q": "The ILSA instrument carried on the Vikram lander was designed to record what?",
+      "options": ["Lunar dust charge", "Seismic activity (moonquakes)", "Surface temperature", "Plasma density"],
+      "answer": 1,
+      "explanation": "ILSA (Instrument for Lunar Seismic Activity) was meant to detect seismic events near the landing site."
+    },
+    {
+      "id": "chandrayaan-3-q26",
+      "difficulty": "hard",
+      "q": "The Vikram lander carried a NASA-provided passive instrument for precise distance measurement. What was it?",
+      "options": ["A laser retroreflector array (LRA)", "A radio beacon", "A radioisotope heater", "A magnetometer"],
+      "answer": 0,
+      "explanation": "NASA contributed a Laser Retroreflector Array (LRA) to Vikram for long-term lunar ranging studies."
+    },
+    {
+      "id": "chandrayaan-3-q27",
+      "difficulty": "hard",
+      "q": "After landing, Vikram performed an unplanned demonstration manoeuvre on the Moon. What was it?",
+      "options": ["A short drive of the lander", "A 'hop' experiment, firing engines to lift and relocate", "Deploying a second rover", "Launching a return sample capsule"],
+      "answer": 1,
+      "explanation": "ISRO conducted a successful 'hop' experiment in which Vikram fired its engines to rise and set down a short distance away."
+    },
+    {
+      "id": "chandrayaan-3-q28",
+      "difficulty": "hard",
+      "q": "The Chandrayaan-3 propulsion module carried a science payload to study Earth from lunar orbit. What was it called?",
+      "options": ["SHAPE", "RAMBHA-LP", "DFSAR", "TMC-2"],
+      "answer": 0,
+      "explanation": "SHAPE (Spectro-polarimetry of HAbitable Planet Earth) studied Earth's spectral signature as a template for finding exoplanets."
+    },
+    {
+      "id": "chandrayaan-3-q29",
+      "difficulty": "hard",
+      "q": "Why was Chandrayaan-3 unable to re-establish contact with Vikram and Pragyan after the first lunar night?",
+      "options": ["A meteorite strike destroyed them", "Their electronics likely could not survive the extreme cold of the lunar night", "They ran out of rocket fuel", "They were buried by a dust storm"],
+      "answer": 1,
+      "explanation": "The lander and rover were not designed to endure the roughly minus-200 C lunar night, and did not wake up afterward."
+    },
+    {
+      "id": "chandrayaan-3-q30",
+      "difficulty": "hard",
+      "q": "Approximately how many days after launch did Chandrayaan-3 achieve its lunar soft landing?",
+      "options": ["About 5 days", "About 12 days", "About 40 days", "About 100 days"],
+      "answer": 2,
+      "explanation": "Launched on 14 July and landing on 23 August 2023, the journey took roughly 40 days using a fuel-efficient phased trajectory."
+    }
+  ]
+}

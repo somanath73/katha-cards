@@ -1,0 +1,395 @@
+{
+  "cardId": "gslv",
+  "questions": [
+    {
+      "id": "gslv-q01",
+      "difficulty": "easy",
+      "q": "What does the acronym GSLV stand for?",
+      "options": [
+        "Geosynchronous Satellite Launch Vehicle",
+        "Global Space Launch Vehicle",
+        "Geostationary Space Lift Vehicle",
+        "General Satellite Launching Vessel"
+      ],
+      "answer": 0,
+      "explanation": "GSLV stands for Geosynchronous Satellite Launch Vehicle, designed to place satellites into geosynchronous transfer orbit."
+    },
+    {
+      "id": "gslv-q02",
+      "difficulty": "easy",
+      "q": "Which Indian organisation develops and operates the GSLV?",
+      "options": [
+        "DRDO",
+        "ISRO",
+        "BARC",
+        "HAL"
+      ],
+      "answer": 1,
+      "explanation": "The GSLV is developed and operated by the Indian Space Research Organisation (ISRO)."
+    },
+    {
+      "id": "gslv-q03",
+      "difficulty": "easy",
+      "q": "What type of engine technology is the GSLV best known for mastering?",
+      "options": [
+        "Solid-fuel boosters",
+        "Ramjet propulsion",
+        "Cryogenic engine technology",
+        "Ion thrusters"
+      ],
+      "answer": 2,
+      "explanation": "The GSLV is famous for mastering the difficult indigenous cryogenic engine, used in its upper stage."
+    },
+    {
+      "id": "gslv-q04",
+      "difficulty": "easy",
+      "q": "What kind of orbit is the GSLV primarily designed to deliver satellites to?",
+      "options": [
+        "Low Earth orbit only",
+        "Geosynchronous transfer orbit",
+        "Lunar transfer orbit",
+        "Sun-synchronous polar orbit"
+      ],
+      "answer": 1,
+      "explanation": "The GSLV is primarily designed to place communication satellites into geosynchronous transfer orbit (GTO)."
+    },
+    {
+      "id": "gslv-q05",
+      "difficulty": "easy",
+      "q": "Cryogenic engines use propellants that are stored at which temperature condition?",
+      "options": [
+        "Extremely high (hot) temperatures",
+        "Room temperature",
+        "Extremely low (very cold) temperatures",
+        "Boiling water temperature"
+      ],
+      "answer": 2,
+      "explanation": "Cryogenic engines use propellants such as liquid hydrogen and liquid oxygen stored at extremely low temperatures."
+    },
+    {
+      "id": "gslv-q06",
+      "difficulty": "easy",
+      "q": "From which spaceport are GSLV rockets launched?",
+      "options": [
+        "Satish Dhawan Space Centre, Sriharikota",
+        "Thumba, Kerala",
+        "Wheeler Island, Odisha",
+        "Cape Canaveral, USA"
+      ],
+      "answer": 0,
+      "explanation": "GSLV rockets are launched from the Satish Dhawan Space Centre at Sriharikota, ISRO's main spaceport."
+    },
+    {
+      "id": "gslv-q07",
+      "difficulty": "easy",
+      "q": "The GSLV was developed mainly to launch which category of Indian satellites?",
+      "options": [
+        "Remote-sensing imaging satellites",
+        "Heavy communication satellites",
+        "Tiny student CubeSats",
+        "Weather balloons"
+      ],
+      "answer": 1,
+      "explanation": "The GSLV was developed mainly to launch India's heavy INSAT/GSAT communication satellites into geosynchronous orbit."
+    },
+    {
+      "id": "gslv-q08",
+      "difficulty": "easy",
+      "q": "Which ISRO rocket is often nicknamed the 'workhorse' that complements the heavier-lift GSLV?",
+      "options": [
+        "GSLV Mk III",
+        "PSLV",
+        "SLV-3",
+        "ASLV"
+      ],
+      "answer": 1,
+      "explanation": "The PSLV is known as ISRO's reliable 'workhorse', while the GSLV handles heavier geosynchronous launches."
+    },
+    {
+      "id": "gslv-q09",
+      "difficulty": "easy",
+      "q": "What does the word 'indigenous' emphasise about ISRO's GSLV cryogenic engine?",
+      "options": [
+        "It was purchased ready-made from the United States",
+        "It was developed within India by Indian scientists",
+        "It runs on solid fuel",
+        "It was never actually flown"
+      ],
+      "answer": 1,
+      "explanation": "Indigenous means the cryogenic engine was designed and developed within India by ISRO scientists rather than imported."
+    },
+    {
+      "id": "gslv-q10",
+      "difficulty": "easy",
+      "q": "Cryogenic upper-stage engines are valued because, compared to other chemical engines, they generally offer higher what?",
+      "options": [
+        "Specific impulse (fuel efficiency)",
+        "Air resistance",
+        "Storage temperature",
+        "Engine weight"
+      ],
+      "answer": 0,
+      "explanation": "Cryogenic engines provide higher specific impulse (greater fuel efficiency), which is why they are prized for upper stages."
+    },
+    {
+      "id": "gslv-q11",
+      "difficulty": "medium",
+      "q": "Which pair of propellants is used in the GSLV's cryogenic upper stage?",
+      "options": [
+        "Kerosene and nitrogen tetroxide",
+        "Liquid hydrogen and liquid oxygen",
+        "Solid HTPB and ammonium perchlorate",
+        "Methane and liquid air"
+      ],
+      "answer": 1,
+      "explanation": "The GSLV cryogenic upper stage burns liquid hydrogen (fuel) with liquid oxygen (oxidiser)."
+    },
+    {
+      "id": "gslv-q12",
+      "difficulty": "medium",
+      "q": "In which year did the GSLV make its first developmental flight (GSLV-D1)?",
+      "options": [
+        "1994",
+        "2001",
+        "2008",
+        "2014"
+      ],
+      "answer": 1,
+      "explanation": "The GSLV's first developmental flight, GSLV-D1, took place in April 2001."
+    },
+    {
+      "id": "gslv-q13",
+      "difficulty": "medium",
+      "q": "Early GSLV flights used a cryogenic upper stage sourced from which country before India's own engine flew?",
+      "options": [
+        "France",
+        "United States",
+        "Russia",
+        "Japan"
+      ],
+      "answer": 2,
+      "explanation": "Early GSLV flights used Russian-supplied cryogenic stages while ISRO developed its own indigenous engine."
+    },
+    {
+      "id": "gslv-q14",
+      "difficulty": "medium",
+      "q": "What is the name of India's indigenous cryogenic upper-stage engine used on the GSLV Mk II?",
+      "options": [
+        "CE-7.5",
+        "Vikas",
+        "S200",
+        "RD-180"
+      ],
+      "answer": 0,
+      "explanation": "The GSLV Mk II uses ISRO's indigenous CE-7.5 cryogenic upper-stage engine."
+    },
+    {
+      "id": "gslv-q15",
+      "difficulty": "medium",
+      "q": "In January 2014, ISRO achieved a major milestone when which flight first successfully used the indigenous cryogenic stage?",
+      "options": [
+        "GSLV-F02",
+        "GSLV-D5",
+        "GSLV-D1",
+        "PSLV-C11"
+      ],
+      "answer": 1,
+      "explanation": "GSLV-D5, launched in January 2014, was the first fully successful flight using India's indigenous cryogenic upper stage."
+    },
+    {
+      "id": "gslv-q16",
+      "difficulty": "medium",
+      "q": "Roughly how many propulsion stages does the GSLV Mk II have?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Five"
+      ],
+      "answer": 2,
+      "explanation": "The GSLV Mk II is a three-stage rocket: a solid first stage, a liquid second stage, and a cryogenic upper stage."
+    },
+    {
+      "id": "gslv-q17",
+      "difficulty": "medium",
+      "q": "The liquid-fuelled engine powering the GSLV's second stage and strap-on boosters is known by which name?",
+      "options": [
+        "Vikas engine",
+        "Merlin engine",
+        "Raptor engine",
+        "Vulcain engine"
+      ],
+      "answer": 0,
+      "explanation": "The GSLV's lower liquid stages use the Vikas engine, developed by ISRO from the licensed French Viking engine technology."
+    },
+    {
+      "id": "gslv-q18",
+      "difficulty": "medium",
+      "q": "Why are cryogenic engines considered technically very difficult to build?",
+      "options": [
+        "They require handling and pumping propellants at extremely low temperatures",
+        "They cannot produce any thrust in vacuum",
+        "They use radioactive fuel",
+        "They must be assembled underwater"
+      ],
+      "answer": 0,
+      "explanation": "Cryogenic engines are hard because they must store, pump and combust propellants kept at extremely low temperatures."
+    },
+    {
+      "id": "gslv-q19",
+      "difficulty": "medium",
+      "q": "Which class of Indian satellites has frequently been launched by the GSLV?",
+      "options": [
+        "GSAT communication satellites",
+        "Cartosat imaging satellites",
+        "Astrosat space telescopes",
+        "Oceansat ocean monitors"
+      ],
+      "answer": 0,
+      "explanation": "The GSLV has launched several GSAT-series communication satellites into geosynchronous transfer orbit."
+    },
+    {
+      "id": "gslv-q20",
+      "difficulty": "medium",
+      "q": "Approximately what payload mass can the GSLV Mk II place into geosynchronous transfer orbit?",
+      "options": [
+        "Around 250 kg",
+        "Around 2,000–2,500 kg",
+        "Around 10,000 kg",
+        "Around 50,000 kg"
+      ],
+      "answer": 1,
+      "explanation": "The GSLV Mk II can place roughly 2,000–2,500 kg into geosynchronous transfer orbit."
+    },
+    {
+      "id": "gslv-q21",
+      "difficulty": "medium",
+      "q": "The GSLV's first stage uses what type of propellant motor?",
+      "options": [
+        "Cryogenic motor",
+        "Large solid-propellant motor",
+        "Hybrid water rocket",
+        "Electric ion motor"
+      ],
+      "answer": 1,
+      "explanation": "The GSLV's core first stage is a large solid-propellant motor, with liquid strap-on boosters around it."
+    },
+    {
+      "id": "gslv-q22",
+      "difficulty": "medium",
+      "q": "Mastering the cryogenic engine was strategically important for India largely because of what?",
+      "options": [
+        "Technology-denial restrictions had limited foreign cryogenic supply",
+        "Cryogenic engines are cheaper than paper",
+        "India had banned all rocket launches",
+        "No other country had cryogenic engines"
+      ],
+      "answer": 0,
+      "explanation": "Foreign technology-denial pressures pushed India to develop its own cryogenic engine for self-reliance."
+    },
+    {
+      "id": "gslv-q23",
+      "difficulty": "hard",
+      "q": "The heavy-lift variant developed in the GSLV programme line, used for Chandrayaan-2 and Gaganyaan, is now formally designated as what?",
+      "options": [
+        "GSLV Mk II",
+        "LVM3 (GSLV Mk III)",
+        "PSLV-XL",
+        "ASLV-D4"
+      ],
+      "answer": 1,
+      "explanation": "The heavy-lift GSLV Mk III has been redesignated LVM3 and was used for Chandrayaan-2 and is planned for Gaganyaan."
+    },
+    {
+      "id": "gslv-q24",
+      "difficulty": "hard",
+      "q": "What is the name of the cryogenic engine that powers the upper stage of the LVM3 (GSLV Mk III)?",
+      "options": [
+        "CE-7.5",
+        "CE-20",
+        "Vikas-2",
+        "S200"
+      ],
+      "answer": 1,
+      "explanation": "The LVM3 (GSLV Mk III) uses the higher-thrust indigenous CE-20 cryogenic upper-stage engine, distinct from the Mk II's CE-7.5."
+    },
+    {
+      "id": "gslv-q25",
+      "difficulty": "hard",
+      "q": "The large solid strap-on boosters flanking the LVM3 (GSLV Mk III) core are designated as what?",
+      "options": [
+        "S139",
+        "S200",
+        "L110",
+        "C25"
+      ],
+      "answer": 1,
+      "explanation": "The LVM3 uses two large S200 solid boosters; L110 is its liquid core and C25 its cryogenic upper stage."
+    },
+    {
+      "id": "gslv-q26",
+      "difficulty": "hard",
+      "q": "In ISRO's stage nomenclature, the 'C25' designation on the GSLV Mk III/LVM3 refers to what?",
+      "options": [
+        "A 25-tonne-propellant cryogenic stage",
+        "A 25-metre solid booster",
+        "The 25th flight of the rocket",
+        "A 25-degree launch inclination"
+      ],
+      "answer": 0,
+      "explanation": "C25 denotes a cryogenic ('C') stage carrying about 25 tonnes of propellant on the LVM3."
+    },
+    {
+      "id": "gslv-q27",
+      "difficulty": "hard",
+      "q": "The GSLV-F10 mission in August 2021, intended to launch the EOS-03 satellite, ended how?",
+      "options": [
+        "A complete success",
+        "A failure due to a cryogenic upper-stage anomaly",
+        "It was never launched",
+        "It reached the Moon"
+      ],
+      "answer": 1,
+      "explanation": "The GSLV-F10 (EOS-03) flight failed in August 2021 after a performance anomaly in the cryogenic upper stage."
+    },
+    {
+      "id": "gslv-q28",
+      "difficulty": "hard",
+      "q": "Before reliable Indian cryogenic flights, the GSLV programme suffered notable setbacks; what happened on the April 2010 GSLV-D3 flight, the first to fly India's indigenous cryogenic stage?",
+      "options": [
+        "It placed a satellite in orbit flawlessly",
+        "The indigenous cryogenic stage failed and the mission did not succeed",
+        "It carried astronauts",
+        "It used a Russian stage"
+      ],
+      "answer": 1,
+      "explanation": "GSLV-D3 in April 2010 was the maiden flight of India's indigenous cryogenic stage, but it malfunctioned and the mission failed."
+    },
+    {
+      "id": "gslv-q29",
+      "difficulty": "hard",
+      "q": "Which interplanetary or lunar mission was launched on the heavy-lift GSLV Mk III (LVM3) line in 2019?",
+      "options": [
+        "Mangalyaan (Mars Orbiter Mission)",
+        "Chandrayaan-2",
+        "Aditya-L1",
+        "Aryabhata"
+      ],
+      "answer": 1,
+      "explanation": "Chandrayaan-2 was launched in July 2019 aboard the heavy-lift GSLV Mk III (LVM3)."
+    },
+    {
+      "id": "gslv-q30",
+      "difficulty": "hard",
+      "q": "Compared with the GSLV Mk II, the GSLV Mk III (LVM3) offered roughly what improvement in geosynchronous transfer orbit payload capacity?",
+      "options": [
+        "About the same capacity",
+        "Roughly double, to around 4,000 kg to GTO",
+        "A tenfold decrease",
+        "No payload capacity at all"
+      ],
+      "answer": 1,
+      "explanation": "The GSLV Mk III (LVM3) can carry about 4,000 kg to GTO, roughly double the GSLV Mk II's capacity."
+    }
+  ]
+}

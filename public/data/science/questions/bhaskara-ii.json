@@ -1,0 +1,245 @@
+{
+  "cardId": "bhaskara-ii",
+  "questions": [
+    {
+      "id": "bhaskara-ii-q01",
+      "difficulty": "easy",
+      "q": "In which century did the mathematician Bhaskara II live and work?",
+      "options": ["9th century", "15th century", "12th century", "17th century"],
+      "answer": 2,
+      "explanation": "Bhaskara II was a 12th-century mathematician and astronomer, born in 1114 CE."
+    },
+    {
+      "id": "bhaskara-ii-q02",
+      "difficulty": "easy",
+      "q": "By what honorific title is Bhaskara II also widely known?",
+      "options": ["Bhaskaracharya", "Aryabhatta", "Brahmagupta", "Madhavacharya"],
+      "answer": 0,
+      "explanation": "He is commonly called Bhaskaracharya, meaning 'Bhaskara the teacher'."
+    },
+    {
+      "id": "bhaskara-ii-q03",
+      "difficulty": "easy",
+      "q": "What was Bhaskara II's primary field of expertise?",
+      "options": ["Medicine", "Mathematics and astronomy", "Architecture", "Grammar"],
+      "answer": 1,
+      "explanation": "Bhaskara II was renowned as both a mathematician and an astronomer."
+    },
+    {
+      "id": "bhaskara-ii-q04",
+      "difficulty": "easy",
+      "q": "Which famous mathematical treatise by Bhaskara II is often named after a woman?",
+      "options": ["Aryabhatiya", "Lilavati", "Brahmasphutasiddhanta", "Ganitasarasangraha"],
+      "answer": 1,
+      "explanation": "Lilavati is Bhaskara II's celebrated treatise on arithmetic and algebra."
+    },
+    {
+      "id": "bhaskara-ii-q05",
+      "difficulty": "easy",
+      "q": "Bhaskara II's major work Siddhanta Shiromani belongs to which broad subject?",
+      "options": ["Poetry", "Law", "Music theory", "Mathematics and astronomy"],
+      "answer": 3,
+      "explanation": "The Siddhanta Shiromani is a comprehensive treatise on mathematics and astronomy."
+    },
+    {
+      "id": "bhaskara-ii-q06",
+      "difficulty": "easy",
+      "q": "Anticipating ideas of which branch of mathematics is Bhaskara II especially credited with?",
+      "options": ["Topology", "Calculus", "Set theory", "Statistics"],
+      "answer": 1,
+      "explanation": "Bhaskara II anticipated several ideas of calculus, including the derivative, centuries before Europe."
+    },
+    {
+      "id": "bhaskara-ii-q07",
+      "difficulty": "easy",
+      "q": "In which present-day country did Bhaskara II live and work?",
+      "options": ["China", "Persia", "India", "Greece"],
+      "answer": 2,
+      "explanation": "Bhaskara II was an Indian mathematician and astronomer."
+    },
+    {
+      "id": "bhaskara-ii-q08",
+      "difficulty": "easy",
+      "q": "Bhaskara II built on the work of which earlier Indian mathematician famous for rules involving zero?",
+      "options": ["Brahmagupta", "Euclid", "Pythagoras", "Al-Khwarizmi"],
+      "answer": 0,
+      "explanation": "Bhaskara II extended the algebraic tradition of Brahmagupta, who set out rules for zero and negative numbers."
+    },
+    {
+      "id": "bhaskara-ii-q09",
+      "difficulty": "easy",
+      "q": "Lilavati is best known as a treatise on which subject?",
+      "options": ["Geometry of temples", "Arithmetic and algebra", "Calendar reform", "Optics"],
+      "answer": 1,
+      "explanation": "Lilavati deals primarily with arithmetic, mensuration, and elementary algebra."
+    },
+    {
+      "id": "bhaskara-ii-q10",
+      "difficulty": "easy",
+      "q": "Roughly how many centuries before European calculus did Bhaskara II explore related ideas?",
+      "options": ["About one century", "About five centuries", "He worked after European calculus", "At the same time as Newton"],
+      "answer": 1,
+      "explanation": "Working in the 12th century, Bhaskara II preceded Newton and Leibniz's calculus by roughly five centuries."
+    },
+    {
+      "id": "bhaskara-ii-q11",
+      "difficulty": "medium",
+      "q": "In which year is Bhaskara II generally said to have been born?",
+      "options": ["598 CE", "1340 CE", "1450 CE", "1114 CE"],
+      "answer": 3,
+      "explanation": "Bhaskara II was born in 1114 CE, as he himself noted in his writings."
+    },
+    {
+      "id": "bhaskara-ii-q12",
+      "difficulty": "medium",
+      "q": "The Siddhanta Shiromani is traditionally divided into how many main parts?",
+      "options": ["Two", "Four", "Six", "Ten"],
+      "answer": 1,
+      "explanation": "The Siddhanta Shiromani has four parts: Lilavati, Bijaganita, Grahaganita, and Goladhyaya."
+    },
+    {
+      "id": "bhaskara-ii-q13",
+      "difficulty": "medium",
+      "q": "Which part of the Siddhanta Shiromani is devoted to algebra?",
+      "options": ["Lilavati", "Goladhyaya", "Bijaganita", "Grahaganita"],
+      "answer": 2,
+      "explanation": "Bijaganita is the algebra section of the Siddhanta Shiromani."
+    },
+    {
+      "id": "bhaskara-ii-q14",
+      "difficulty": "medium",
+      "q": "Which section of the Siddhanta Shiromani deals with the sphere and spherical astronomy?",
+      "options": ["Goladhyaya", "Lilavati", "Bijaganita", "Karanakutuhala"],
+      "answer": 0,
+      "explanation": "Goladhyaya is the part of the Siddhanta Shiromani concerning the celestial sphere."
+    },
+    {
+      "id": "bhaskara-ii-q15",
+      "difficulty": "medium",
+      "q": "Bhaskara II is associated with leading the observatory at which famous center of astronomy?",
+      "options": ["Nalanda", "Ujjain", "Taxila", "Varanasi"],
+      "answer": 1,
+      "explanation": "He is traditionally linked to the astronomical observatory at Ujjain, a major center of Indian astronomy."
+    },
+    {
+      "id": "bhaskara-ii-q16",
+      "difficulty": "medium",
+      "q": "Which infinitesimal idea, central to calculus, did Bhaskara II employ in his astronomical work?",
+      "options": ["The instantaneous motion of planets", "Non-Euclidean geometry", "Matrix inversion", "Fourier analysis"],
+      "answer": 0,
+      "explanation": "He used a concept akin to the instantaneous rate of change (the derivative) when computing planetary motion."
+    },
+    {
+      "id": "bhaskara-ii-q17",
+      "difficulty": "medium",
+      "q": "Bhaskara II stated a result closely related to which idea later known in calculus?",
+      "options": ["Rolle's theorem (a mean-value type result)", "The fundamental theorem of arithmetic", "The binomial theorem of Newton", "The Pythagorean theorem only"],
+      "answer": 0,
+      "explanation": "His treatment of planetary positions reflects a form of the mean value / Rolle's theorem idea."
+    },
+    {
+      "id": "bhaskara-ii-q18",
+      "difficulty": "medium",
+      "q": "In Lilavati, Bhaskara II discusses operations involving which special number whose division he addressed?",
+      "options": ["The square root of negative one", "Pi to a thousand digits", "Zero", "Imaginary units"],
+      "answer": 2,
+      "explanation": "Lilavati and Bijaganita discuss arithmetic with zero, including division involving zero."
+    },
+    {
+      "id": "bhaskara-ii-q19",
+      "difficulty": "medium",
+      "q": "Bhaskara II's father, who was also his teacher, was named:",
+      "options": ["Mahesvara", "Varahamihira", "Aryabhata", "Bhattotpala"],
+      "answer": 0,
+      "explanation": "His father Mahesvara (Maheshwara) was an astrologer-astronomer who taught him mathematics."
+    },
+    {
+      "id": "bhaskara-ii-q20",
+      "difficulty": "medium",
+      "q": "Which of these number-theory problems did Bhaskara II advance the solution of?",
+      "options": ["Fermat's Last Theorem", "The Riemann hypothesis", "Pell's equation (Nx^2 + 1 = y^2)", "Goldbach's conjecture"],
+      "answer": 2,
+      "explanation": "He refined the chakravala (cyclic) method for solving Pell's equation, an indeterminate quadratic equation."
+    },
+    {
+      "id": "bhaskara-ii-q21",
+      "difficulty": "medium",
+      "q": "The cyclic algorithm Bhaskara II used and refined for indeterminate equations is called:",
+      "options": ["Sieve of Eratosthenes", "Newton-Raphson method", "Gaussian elimination", "Chakravala method"],
+      "answer": 3,
+      "explanation": "The chakravala (cyclic) method solves indeterminate quadratic equations such as Pell's equation."
+    },
+    {
+      "id": "bhaskara-ii-q22",
+      "difficulty": "medium",
+      "q": "Approximately when did Bhaskara II die?",
+      "options": ["Around 950 CE", "Around 1185 CE", "Around 1500 CE", "Around 1650 CE"],
+      "answer": 1,
+      "explanation": "Bhaskara II is generally believed to have died around 1185 CE."
+    },
+    {
+      "id": "bhaskara-ii-q23",
+      "difficulty": "hard",
+      "q": "Bhaskara II composed which shorter astronomical handbook intended as a practical almanac-style text?",
+      "options": ["Aryabhatiya", "Surya Siddhanta", "Karanakutuhala", "Vateshwara Siddhanta"],
+      "answer": 2,
+      "explanation": "Karanakutuhala (c. 1183) is Bhaskara II's practical astronomical handbook for computing positions."
+    },
+    {
+      "id": "bhaskara-ii-q24",
+      "difficulty": "hard",
+      "q": "In Bijaganita, Bhaskara II discussed which counterintuitive quantity that he sometimes called 'khahara'?",
+      "options": ["A perfect number", "A quantity divided by zero (infinity)", "A transcendental number", "A complex root"],
+      "answer": 1,
+      "explanation": "He treated a finite quantity divided by zero as an unbounded ('khahara', infinite) quantity."
+    },
+    {
+      "id": "bhaskara-ii-q25",
+      "difficulty": "hard",
+      "q": "Bhaskara II gave an early statement of which differential result for the sine function?",
+      "options": ["The integral of sine equals sine", "The derivative of sine relates to the cosine", "Sine has no rate of change", "The sine equals its own second derivative"],
+      "answer": 1,
+      "explanation": "He expressed the instantaneous change of sine in terms of cosine, an early form of d(sin)/dx = cos."
+    },
+    {
+      "id": "bhaskara-ii-q26",
+      "difficulty": "hard",
+      "q": "Which name is given to the section of the Siddhanta Shiromani dealing with planetary mathematics and computation?",
+      "options": ["Lilavati", "Bijaganita", "Grahaganita", "Goladhyaya"],
+      "answer": 2,
+      "explanation": "Grahaganita is the part covering mathematical (planetary) astronomy and computation of planetary positions."
+    },
+    {
+      "id": "bhaskara-ii-q27",
+      "difficulty": "hard",
+      "q": "Bhaskara II provided multiple proofs of which classical geometric theorem in his works?",
+      "options": ["Thales' theorem", "Heron's formula", "The Pythagorean theorem", "Ptolemy's theorem"],
+      "answer": 2,
+      "explanation": "He gave elegant dissection-based demonstrations of the Pythagorean theorem."
+    },
+    {
+      "id": "bhaskara-ii-q28",
+      "difficulty": "hard",
+      "q": "Which astronomical idea did Bhaskara II uphold, consistent with the earlier Indian tradition of Aryabhata?",
+      "options": ["A flat, motionless Earth", "A roughly accurate length for the sidereal year", "Heliocentric orbits with elliptical paths", "That comets are made of ice"],
+      "answer": 1,
+      "explanation": "Bhaskara II computed a sidereal year close to the modern value, building on Aryabhata's astronomy."
+    },
+    {
+      "id": "bhaskara-ii-q29",
+      "difficulty": "hard",
+      "q": "What does the term 'Bijaganita', the title of his algebra text, literally refer to?",
+      "options": ["Star measurement", "Temple geometry", "Calendar arithmetic", "Seed-counting, i.e., the analysis of unknowns ('seeds')"],
+      "answer": 3,
+      "explanation": "Bijaganita means 'mathematics of seeds (bija)', treating unknown quantities as algebraic seeds."
+    },
+    {
+      "id": "bhaskara-ii-q30",
+      "difficulty": "hard",
+      "q": "Bhaskara II's work shows an understanding that a positive number has how many square roots?",
+      "options": ["Exactly one, always positive", "Two, one positive and one negative", "Infinitely many", "None for any number"],
+      "answer": 1,
+      "explanation": "He recognized that a positive number has two square roots, one positive and one negative."
+    }
+  ]
+}

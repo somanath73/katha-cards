@@ -1,0 +1,245 @@
+{
+  "cardId": "brahmos",
+  "questions": [
+    {
+      "id": "brahmos-q01",
+      "difficulty": "easy",
+      "q": "BrahMos is a missile jointly developed by India and which other country?",
+      "options": ["United States", "France", "Russia", "Israel"],
+      "answer": 2,
+      "explanation": "BrahMos is a joint venture between India's DRDO and Russia's NPO Mashinostroyeniya."
+    },
+    {
+      "id": "brahmos-q02",
+      "difficulty": "easy",
+      "q": "What type of missile is BrahMos?",
+      "options": ["Intercontinental ballistic missile", "Anti-aircraft missile", "Air-to-air missile", "Supersonic cruise missile"],
+      "answer": 3,
+      "explanation": "BrahMos is a supersonic cruise missile, among the fastest of its kind in service."
+    },
+    {
+      "id": "brahmos-q03",
+      "difficulty": "easy",
+      "q": "The name 'BrahMos' is a combination of the names of which two rivers?",
+      "options": ["Ganga and Volga", "Brahmaputra and Moskva", "Indus and Don", "Yamuna and Neva"],
+      "answer": 1,
+      "explanation": "The name BrahMos is formed from the Brahmaputra River of India and the Moskva River of Russia."
+    },
+    {
+      "id": "brahmos-q04",
+      "difficulty": "easy",
+      "q": "Which Indian organisation partners with Russia's NPO Mashinostroyeniya to make BrahMos?",
+      "options": ["ISRO", "HAL", "DRDO", "BARC"],
+      "answer": 2,
+      "explanation": "India's Defence Research and Development Organisation (DRDO) is the Indian partner in the BrahMos joint venture."
+    },
+    {
+      "id": "brahmos-q05",
+      "difficulty": "easy",
+      "q": "Roughly what top speed does the BrahMos missile reach?",
+      "options": ["Around Mach 0.8 (subsonic)", "Around Mach 10 (hypersonic)", "Around Mach 3 (supersonic)", "Around Mach 25"],
+      "answer": 2,
+      "explanation": "BrahMos cruises at roughly Mach 2.8 to 3, making it one of the fastest cruise missiles in service."
+    },
+    {
+      "id": "brahmos-q06",
+      "difficulty": "easy",
+      "q": "BrahMos is designed to be launched from which of the following platforms?",
+      "options": ["Only land", "Only ships", "Land, sea, air, and submarine", "Only aircraft"],
+      "answer": 2,
+      "explanation": "BrahMos is a versatile missile capable of being launched from land, sea, air, and submarine platforms."
+    },
+    {
+      "id": "brahmos-q07",
+      "difficulty": "easy",
+      "q": "What is the primary purpose of the BrahMos missile?",
+      "options": ["Weather observation", "Precision strike against surface and naval targets", "Satellite launch", "Communications relay"],
+      "answer": 1,
+      "explanation": "BrahMos is a precision-strike cruise missile used against land and ship targets."
+    },
+    {
+      "id": "brahmos-q08",
+      "difficulty": "easy",
+      "q": "The company that produces the missile is named what?",
+      "options": ["Bharat Dynamics", "Rosoboronexport", "Tata Advanced Systems", "BrahMos Aerospace"],
+      "answer": 3,
+      "explanation": "BrahMos Aerospace is the India-Russia joint venture company that develops and produces the missile."
+    },
+    {
+      "id": "brahmos-q09",
+      "difficulty": "easy",
+      "q": "Being 'supersonic' means BrahMos travels faster than what?",
+      "options": ["The speed of light", "The speed of sound", "Escape velocity", "Orbital velocity"],
+      "answer": 1,
+      "explanation": "Supersonic means a speed greater than the speed of sound (Mach 1)."
+    },
+    {
+      "id": "brahmos-q10",
+      "difficulty": "easy",
+      "q": "Which branch of the Indian armed forces was the first to induct BrahMos?",
+      "options": ["Indian Air Force", "Indian Army", "Indian Navy", "Coast Guard"],
+      "answer": 2,
+      "explanation": "The Indian Navy was the first service to induct BrahMos, deploying it on warships from 2005."
+    },
+    {
+      "id": "brahmos-q11",
+      "difficulty": "medium",
+      "q": "BrahMos is largely derived from which Russian cruise missile?",
+      "options": ["Kh-55", "Kalibr", "Kh-22", "P-800 Oniks (Yakhont)"],
+      "answer": 3,
+      "explanation": "BrahMos is based on the Russian P-800 Oniks (Yakhont) anti-ship cruise missile."
+    },
+    {
+      "id": "brahmos-q12",
+      "difficulty": "medium",
+      "q": "In which year was the BrahMos Aerospace joint venture formally established?",
+      "options": ["2004", "2010", "1991", "1998"],
+      "answer": 3,
+      "explanation": "BrahMos Aerospace was established in 1998 through an inter-governmental agreement between India and Russia."
+    },
+    {
+      "id": "brahmos-q13",
+      "difficulty": "medium",
+      "q": "BrahMos uses a two-stage propulsion system. What kind of engine powers its cruise (sustainer) phase?",
+      "options": ["Turbofan", "Ramjet", "Liquid-fuel rocket", "Pulse-jet"],
+      "answer": 1,
+      "explanation": "A solid-propellant booster gets it airborne, after which a liquid-fuelled ramjet sustains supersonic cruise."
+    },
+    {
+      "id": "brahmos-q14",
+      "difficulty": "medium",
+      "q": "The original land and naval BrahMos had an operational range of approximately how far?",
+      "options": ["About 50 km", "About 1500 km", "About 290 km", "About 5000 km"],
+      "answer": 2,
+      "explanation": "The original BrahMos had a range of about 290 km, kept under MTCR limits before India joined the regime."
+    },
+    {
+      "id": "brahmos-q15",
+      "difficulty": "medium",
+      "q": "After India joined the Missile Technology Control Regime (MTCR) in 2016, the range of BrahMos could be extended toward roughly what figure?",
+      "options": ["100 km", "150 km", "Up to about 450-500 km", "10,000 km"],
+      "answer": 2,
+      "explanation": "India's 2016 MTCR membership allowed the range to be extended toward about 450-500 km and beyond in later variants."
+    },
+    {
+      "id": "brahmos-q16",
+      "difficulty": "medium",
+      "q": "What flight profile capability lets BrahMos evade detection late in its approach to a target?",
+      "options": ["High-altitude loitering", "Sea-skimming (very low-altitude) terminal flight", "Vertical re-entry from space", "Geostationary hover"],
+      "answer": 1,
+      "explanation": "BrahMos can descend to a sea-skimming altitude of just a few metres in its terminal phase to evade radar."
+    },
+    {
+      "id": "brahmos-q17",
+      "difficulty": "medium",
+      "q": "Which aircraft was integrated to carry the air-launched BrahMos-A variant?",
+      "options": ["MiG-21", "Tejas Mk1", "Su-30MKI", "Jaguar"],
+      "answer": 2,
+      "explanation": "The air-launched BrahMos-A was integrated onto the Indian Air Force's Su-30MKI fighter."
+    },
+    {
+      "id": "brahmos-q18",
+      "difficulty": "medium",
+      "q": "BrahMos typically carries which kind of warhead?",
+      "options": ["Nuclear-only warhead", "Conventional high-explosive warhead", "No warhead (kinetic only)", "Chemical warhead"],
+      "answer": 1,
+      "explanation": "BrahMos carries a conventional high-explosive warhead and is a conventional, not nuclear, weapon."
+    },
+    {
+      "id": "brahmos-q19",
+      "difficulty": "medium",
+      "q": "Which guidance principle does BrahMos use in its terminal phase to home onto targets?",
+      "options": ["Wire guidance", "Active radar homing seeker", "Heat-seeking infrared only", "Manual remote control"],
+      "answer": 1,
+      "explanation": "BrahMos uses inertial navigation mid-course and an active radar seeker for terminal homing."
+    },
+    {
+      "id": "brahmos-q20",
+      "difficulty": "medium",
+      "q": "Why does BrahMos deliver greater kinetic impact than a typical subsonic cruise missile?",
+      "options": ["It is slower and lighter", "Its high supersonic speed gives much greater impact energy", "It has no kinetic advantage", "It relies only on its small size"],
+      "answer": 1,
+      "explanation": "Its high supersonic speed gives BrahMos far greater kinetic impact energy than slow subsonic cruise missiles."
+    },
+    {
+      "id": "brahmos-q21",
+      "difficulty": "medium",
+      "q": "Which country became the first foreign customer to sign a major deal to buy the BrahMos missile?",
+      "options": ["Vietnam", "Indonesia", "The Philippines", "Egypt"],
+      "answer": 2,
+      "explanation": "The Philippines, in 2022, became the first export customer for BrahMos, ordering it for coastal defence."
+    },
+    {
+      "id": "brahmos-q22",
+      "difficulty": "medium",
+      "q": "What does the 'cruise' in 'cruise missile' refer to?",
+      "options": ["It floats on water", "It flies a sustained, self-propelled, mostly level powered flight to its target", "It orbits the Earth", "It is carried by a ship only"],
+      "answer": 1,
+      "explanation": "A cruise missile flies a sustained, self-propelled, aerodynamically supported flight to its target, unlike a ballistic missile."
+    },
+    {
+      "id": "brahmos-q23",
+      "difficulty": "hard",
+      "q": "The first successful test launch of the BrahMos missile took place in which year?",
+      "options": ["1998", "2001", "2007", "2012"],
+      "answer": 1,
+      "explanation": "BrahMos made its first successful test flight in 2001 from a test range on India's coast."
+    },
+    {
+      "id": "brahmos-q24",
+      "difficulty": "hard",
+      "q": "What does the suffix in the designation 'P-800 Oniks', the missile BrahMos is based on, broadly indicate about its role?",
+      "options": ["Air-defence interceptor", "Anti-ship cruise missile", "Space launch vehicle", "Ballistic missile"],
+      "answer": 1,
+      "explanation": "The P-800 Oniks is a Russian anti-ship cruise missile, the design lineage from which BrahMos was developed."
+    },
+    {
+      "id": "brahmos-q25",
+      "difficulty": "hard",
+      "q": "The MTCR threshold that originally capped the exportable BrahMos range was tied to which payload/range combination?",
+      "options": ["500 kg payload over 300 km", "10 kg over 50 km", "2000 kg over 1000 km", "1 kg over 10 km"],
+      "answer": 0,
+      "explanation": "MTCR Category I restricts systems able to deliver a 500 kg payload to at least 300 km, which shaped BrahMos's original 290 km range."
+    },
+    {
+      "id": "brahmos-q26",
+      "difficulty": "hard",
+      "q": "What is the name of the lighter, smaller next-generation variant of BrahMos being developed for wider platform integration?",
+      "options": ["BrahMos-NG (Next Generation)", "BrahMos-X", "BrahMos Heavy", "BrahMos Orbital"],
+      "answer": 0,
+      "explanation": "BrahMos-NG (Next Generation) is a smaller, lighter variant intended for a broader range of launch platforms."
+    },
+    {
+      "id": "brahmos-q27",
+      "difficulty": "hard",
+      "q": "A hypersonic successor under study, intended to fly much faster than the current missile, is generally referred to as what?",
+      "options": ["BrahMos-II (hypersonic)", "BrahMos Mini", "BrahMos Lite", "BrahMos Subsonic"],
+      "answer": 0,
+      "explanation": "BrahMos-II is a proposed hypersonic version aimed at speeds well above the current Mach-3 missile."
+    },
+    {
+      "id": "brahmos-q28",
+      "difficulty": "hard",
+      "q": "The air-launched BrahMos-A first achieved a successful firing from a Su-30MKI in which year?",
+      "options": ["2003", "2017", "2022", "2010"],
+      "answer": 1,
+      "explanation": "The first successful air-launch of BrahMos from a Su-30MKI took place in November 2017."
+    },
+    {
+      "id": "brahmos-q29",
+      "difficulty": "hard",
+      "q": "Compared with the standard ground variant, the air-launched BrahMos-A was modified primarily in which way?",
+      "options": ["It was made heavier with a larger warhead", "Its launch booster was reduced/altered and it was lightened for air carriage", "It was given a nuclear warhead", "It was converted to subsonic flight"],
+      "answer": 1,
+      "explanation": "The air-launched variant was lightened and had its booster modified since the aircraft provides initial speed and altitude."
+    },
+    {
+      "id": "brahmos-q30",
+      "difficulty": "hard",
+      "q": "Which feature most distinguishes a cruise missile like BrahMos from a ballistic missile such as Agni?",
+      "options": ["It is unguided", "It flies a powered, aerodynamic, low-altitude path rather than a high ballistic arc", "It can only be launched from space", "It carries no warhead"],
+      "answer": 1,
+      "explanation": "Unlike a ballistic missile's high arcing trajectory, BrahMos flies a continuously powered, aerodynamic, mostly low-altitude path."
+    }
+  ]
+}

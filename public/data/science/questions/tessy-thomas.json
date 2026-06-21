@@ -1,0 +1,245 @@
+{
+  "cardId": "tessy-thomas",
+  "questions": [
+    {
+      "id": "tessy-thomas-q01",
+      "difficulty": "easy",
+      "q": "Tessy Thomas is popularly known by which nickname?",
+      "options": ["The Rocket Lady", "The Missile Woman", "The Iron Lady of Space", "The Agni Queen"],
+      "answer": 1,
+      "explanation": "Tessy Thomas earned the nickname 'The Missile Woman of India' for her leading role in the country's missile programme."
+    },
+    {
+      "id": "tessy-thomas-q02",
+      "difficulty": "easy",
+      "q": "Tessy Thomas is associated with which family of Indian missiles?",
+      "options": ["Agni", "Akash", "Prithvi", "BrahMos"],
+      "answer": 0,
+      "explanation": "She is best known for directing India's long-range Agni ballistic missile programme."
+    },
+    {
+      "id": "tessy-thomas-q03",
+      "difficulty": "easy",
+      "q": "What notable 'first' is Tessy Thomas credited with in the Indian missile programme?",
+      "options": ["First woman astronaut of India", "First woman to head ISRO", "First woman Nobel laureate in physics from India", "First woman to lead an Indian missile project"],
+      "answer": 3,
+      "explanation": "She became the first woman scientist to head a missile project in India."
+    },
+    {
+      "id": "tessy-thomas-q04",
+      "difficulty": "easy",
+      "q": "Tessy Thomas spent the bulk of her career working for which Indian defence organisation?",
+      "options": ["ISRO", "DRDO", "BARC", "HAL"],
+      "answer": 1,
+      "explanation": "She is a scientist with the Defence Research and Development Organisation (DRDO)."
+    },
+    {
+      "id": "tessy-thomas-q05",
+      "difficulty": "easy",
+      "q": "In which Indian state was Tessy Thomas born?",
+      "options": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"],
+      "answer": 0,
+      "explanation": "Tessy Thomas was born in Alappuzha (Alleppey), Kerala, in 1963."
+    },
+    {
+      "id": "tessy-thomas-q06",
+      "difficulty": "easy",
+      "q": "Tessy Thomas served as the Project Director for which specific Agni missile variant?",
+      "options": ["Agni-I", "Agni-V", "Agni-IV", "Agni-VI"],
+      "answer": 2,
+      "explanation": "She served as Project Director for Agni-IV, a key long-range variant of the Agni series."
+    },
+    {
+      "id": "tessy-thomas-q07",
+      "difficulty": "easy",
+      "q": "Agni missiles are primarily designed for which role?",
+      "options": ["Air-to-air combat", "Anti-submarine warfare", "Surface-to-surface ballistic strikes", "Satellite launch"],
+      "answer": 2,
+      "explanation": "The Agni series consists of surface-to-surface ballistic missiles for strategic deterrence."
+    },
+    {
+      "id": "tessy-thomas-q08",
+      "difficulty": "easy",
+      "q": "Tessy Thomas's professional field is best described as which discipline?",
+      "options": ["Marine biology", "Pharmacology", "Aerospace engineering and missile technology", "Theoretical economics"],
+      "answer": 2,
+      "explanation": "She is an aerospace scientist specialising in missile guidance and systems."
+    },
+    {
+      "id": "tessy-thomas-q09",
+      "difficulty": "easy",
+      "q": "Which legendary Indian scientist, who launched the integrated missile programme, was a key mentor figure for the Agni missile work Tessy Thomas joined?",
+      "options": ["Homi Bhabha", "C. V. Raman", "Vikram Sarabhai", "A. P. J. Abdul Kalam"],
+      "answer": 3,
+      "explanation": "A. P. J. Abdul Kalam led the Integrated Guided Missile Development Programme under which the Agni work began."
+    },
+    {
+      "id": "tessy-thomas-q10",
+      "difficulty": "easy",
+      "q": "Tessy Thomas is celebrated as a role model for which group in Indian science?",
+      "options": ["Women in science and engineering", "Retired military generals", "Foreign-trained economists", "Classical musicians"],
+      "answer": 0,
+      "explanation": "As the first woman to head an Indian missile project, she is widely seen as a role model for women in STEM."
+    },
+    {
+      "id": "tessy-thomas-q11",
+      "difficulty": "medium",
+      "q": "In which year was Tessy Thomas born?",
+      "options": ["1955", "1963", "1970", "1948"],
+      "answer": 1,
+      "explanation": "Tessy Thomas was born on 6 April 1963 in Alappuzha, Kerala."
+    },
+    {
+      "id": "tessy-thomas-q12",
+      "difficulty": "medium",
+      "q": "It is often noted that Tessy Thomas was named after which historical figure?",
+      "options": ["Marie Curie", "Indira Gandhi", "Mother Teresa", "Florence Nightingale"],
+      "answer": 2,
+      "explanation": "Her name is commonly said to have been inspired by Mother Teresa."
+    },
+    {
+      "id": "tessy-thomas-q13",
+      "difficulty": "medium",
+      "q": "Tessy Thomas earned her undergraduate engineering degree in which branch?",
+      "options": ["Civil engineering", "Chemical engineering", "Mechanical engineering", "Electrical engineering"],
+      "answer": 3,
+      "explanation": "She graduated in electrical engineering before specialising in guided-missile work."
+    },
+    {
+      "id": "tessy-thomas-q14",
+      "difficulty": "medium",
+      "q": "Tessy Thomas pursued a postgraduate (M.Tech) specialisation closely tied to missile work in which area?",
+      "options": ["Food technology", "Textile engineering", "Hydraulics", "Guided missiles"],
+      "answer": 3,
+      "explanation": "She completed an M.Tech with a specialisation in guided-missile technology from the Institute of Armament Technology, Pune."
+    },
+    {
+      "id": "tessy-thomas-q15",
+      "difficulty": "medium",
+      "q": "The Agni-IV missile, whose project Tessy Thomas directed, falls into which range category?",
+      "options": ["Short-range tactical (under 200 km)", "Intermediate/long-range ballistic", "Air-launched cruise", "Anti-ballistic interceptor only"],
+      "answer": 1,
+      "explanation": "Agni-IV is an intermediate-to-long-range ballistic missile capable of reaching several thousand kilometres."
+    },
+    {
+      "id": "tessy-thomas-q16",
+      "difficulty": "medium",
+      "q": "Tessy Thomas was associated with the development and testing of the guidance systems for Agni missiles in roughly which decade she joined the programme?",
+      "options": ["1960s", "2000s only", "1980s", "2010s only"],
+      "answer": 2,
+      "explanation": "She joined the DRDO missile programme in the late 1980s, early in the Agni development effort."
+    },
+    {
+      "id": "tessy-thomas-q17",
+      "difficulty": "medium",
+      "q": "Tessy Thomas later took on a senior leadership role as Director General of which DRDO cluster?",
+      "options": ["Naval Systems", "Life Sciences", "Aeronautical Systems", "Armaments and Combat Engineering"],
+      "answer": 2,
+      "explanation": "She was appointed Director General of Aeronautical Systems at DRDO."
+    },
+    {
+      "id": "tessy-thomas-q18",
+      "difficulty": "medium",
+      "q": "Which agency built the Agni missiles that Tessy Thomas worked on, distinguishing them from civilian space launch vehicles?",
+      "options": ["A civilian space agency for satellite launches", "A defence research organisation for strategic weapons", "A private commercial rocket startup", "An international consortium"],
+      "answer": 1,
+      "explanation": "Agni is a strategic weapons programme of DRDO, distinct from ISRO's civilian satellite launch vehicles."
+    },
+    {
+      "id": "tessy-thomas-q19",
+      "difficulty": "medium",
+      "q": "What is the literal meaning of 'Agni', the name of the missile series Tessy Thomas led?",
+      "options": ["Wind", "Water", "Fire", "Sky"],
+      "answer": 2,
+      "explanation": "'Agni' is the Sanskrit word for fire, also the name of the Hindu fire deity."
+    },
+    {
+      "id": "tessy-thomas-q20",
+      "difficulty": "medium",
+      "q": "Tessy Thomas's career is most often cited as breaking which kind of barrier in Indian defence science?",
+      "options": ["A language barrier", "A gender barrier in a male-dominated field", "An age barrier for retirees", "A geographic barrier between states"],
+      "answer": 1,
+      "explanation": "She broke a major gender barrier by leading a high-profile missile project in a traditionally male-dominated domain."
+    },
+    {
+      "id": "tessy-thomas-q21",
+      "difficulty": "medium",
+      "q": "Within missile engineering, Tessy Thomas's core technical expertise is most closely associated with which subsystem?",
+      "options": ["Warhead chemistry", "Cockpit ergonomics", "Naval propulsion", "Guidance and navigation"],
+      "answer": 3,
+      "explanation": "Her expertise centres on missile guidance and navigation systems."
+    },
+    {
+      "id": "tessy-thomas-q22",
+      "difficulty": "medium",
+      "q": "The Agni programme that Tessy Thomas advanced is central to which national capability?",
+      "options": ["Weather forecasting", "Strategic nuclear deterrence delivery", "Commercial aviation", "Deep-sea exploration"],
+      "answer": 1,
+      "explanation": "The Agni ballistic missiles form a key part of India's strategic deterrence and delivery capability."
+    },
+    {
+      "id": "tessy-thomas-q23",
+      "difficulty": "hard",
+      "q": "From which Pune-based institution did Tessy Thomas complete her guided-missile postgraduate studies?",
+      "options": ["Institute of Armament Technology (now DIAT)", "National Defence Academy", "Film and Television Institute of India", "Armed Forces Medical College"],
+      "answer": 0,
+      "explanation": "She studied guided missiles at the Institute of Armament Technology, Pune, now the Defence Institute of Advanced Technology (DIAT)."
+    },
+    {
+      "id": "tessy-thomas-q24",
+      "difficulty": "hard",
+      "q": "Tessy Thomas is reported to have completed doctoral-level study (PhD) in a field connected to which technical area?",
+      "options": ["Marine archaeology", "Missile guidance / operations management area", "Sanskrit linguistics", "Plant genetics"],
+      "answer": 1,
+      "explanation": "She pursued doctoral studies tied to her missile and systems work rather than any unrelated field."
+    },
+    {
+      "id": "tessy-thomas-q25",
+      "difficulty": "hard",
+      "q": "Before directing Agni-IV, Tessy Thomas notably contributed to the propulsion/guidance design work of which earlier long-range Agni variant?",
+      "options": ["Agni-III", "Prithvi-II", "Nag", "Astra"],
+      "answer": 0,
+      "explanation": "She worked on the Agni-III guidance system before becoming Project Director for Agni-IV."
+    },
+    {
+      "id": "tessy-thomas-q26",
+      "difficulty": "hard",
+      "q": "The Agni-IV missile led by Tessy Thomas's team is notable for being a two-stage system using which propellant type?",
+      "options": ["Liquid propellant only", "Solid propellant", "Hybrid cryogenic", "Air-breathing ramjet"],
+      "answer": 1,
+      "explanation": "Agni-IV is a two-stage, solid-propellant ballistic missile."
+    },
+    {
+      "id": "tessy-thomas-q27",
+      "difficulty": "hard",
+      "q": "Tessy Thomas's leadership of a strategic missile project is frequently compared to the legacy of which mentor whom she described as a major influence?",
+      "options": ["Satyendra Nath Bose", "Jagadish Chandra Bose", "A. P. J. Abdul Kalam", "Har Gobind Khorana"],
+      "answer": 2,
+      "explanation": "She has repeatedly credited A. P. J. Abdul Kalam, architect of India's missile programme, as her key mentor and inspiration."
+    },
+    {
+      "id": "tessy-thomas-q28",
+      "difficulty": "hard",
+      "q": "Which statement best captures why Tessy Thomas's appointment as an Agni project director was historically significant?",
+      "options": ["She was the first foreign-born project director", "She was the first woman to lead a missile project in India", "She was the youngest person ever to join DRDO", "She was the first non-engineer to lead a missile project"],
+      "answer": 1,
+      "explanation": "Her significance lies in being the first woman to head a missile project in India, a landmark in the country's defence science."
+    },
+    {
+      "id": "tessy-thomas-q29",
+      "difficulty": "hard",
+      "q": "The Agni missile family that Tessy Thomas advanced originated as part of which broader 1980s Indian programme?",
+      "options": ["Integrated Guided Missile Development Programme (IGMDP)", "Light Combat Aircraft Programme", "Indian Space Research Programme", "National Solar Mission"],
+      "answer": 0,
+      "explanation": "The Agni series emerged from the Integrated Guided Missile Development Programme (IGMDP) launched in the 1980s."
+    },
+    {
+      "id": "tessy-thomas-q30",
+      "difficulty": "hard",
+      "q": "Tessy Thomas's career trajectory from guidance engineer to Director General of Aeronautical Systems illustrates which broader theme in Indian science?",
+      "options": ["Decline of indigenous defence R&D", "Rise of women into senior strategic technology leadership", "Privatisation of the missile programme", "Shift from defence to agriculture research"],
+      "answer": 1,
+      "explanation": "Her rise to a Director General role exemplifies the growing presence of women in senior strategic-technology leadership in India."
+    }
+  ]
+}

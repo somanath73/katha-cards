@@ -1,0 +1,245 @@
+{
+  "cardId": "yellapragada-subbarow",
+  "questions": [
+    {
+      "id": "yellapragada-subbarow-q01",
+      "difficulty": "easy",
+      "q": "In which field did Yellapragada Subbarow primarily work?",
+      "options": ["Astronomy", "Biochemistry", "Geology", "Civil engineering"],
+      "answer": 1,
+      "explanation": "Subbarow was a biochemist whose work shaped the chemistry of cellular energy and anticancer drugs."
+    },
+    {
+      "id": "yellapragada-subbarow-q02",
+      "difficulty": "easy",
+      "q": "Yellapragada Subbarow was born in which country?",
+      "options": ["India", "United States", "United Kingdom", "Sri Lanka"],
+      "answer": 0,
+      "explanation": "Subbarow was born in India before moving to the United States to pursue his scientific career."
+    },
+    {
+      "id": "yellapragada-subbarow-q03",
+      "difficulty": "easy",
+      "q": "Subbarow's research helped establish the role of which molecule as the cell's energy currency?",
+      "options": ["DNA", "Glucose", "ATP (adenosine triphosphate)", "Hemoglobin"],
+      "answer": 2,
+      "explanation": "His work on phosphorus compounds in muscle helped reveal ATP and phosphocreatine as central to cellular energy."
+    },
+    {
+      "id": "yellapragada-subbarow-q04",
+      "difficulty": "easy",
+      "q": "Which widely used cancer drug is associated with Subbarow's research?",
+      "options": ["Aspirin", "Methotrexate", "Insulin", "Penicillin"],
+      "answer": 1,
+      "explanation": "Subbarow's folic acid antagonist research led to methotrexate, a foundational chemotherapy drug."
+    },
+    {
+      "id": "yellapragada-subbarow-q05",
+      "difficulty": "easy",
+      "q": "Subbarow is credited with the first synthesis of which essential vitamin?",
+      "options": ["Vitamin C", "Folic acid", "Vitamin D", "Vitamin B12"],
+      "answer": 1,
+      "explanation": "Subbarow led the team that first synthesized folic acid, a B-vitamin vital for cell growth."
+    },
+    {
+      "id": "yellapragada-subbarow-q06",
+      "difficulty": "easy",
+      "q": "To which country did Subbarow emigrate to carry out most of his scientific career?",
+      "options": ["United States", "Germany", "France", "Australia"],
+      "answer": 0,
+      "explanation": "Subbarow moved to the United States in the 1920s, where he conducted his major research."
+    },
+    {
+      "id": "yellapragada-subbarow-q07",
+      "difficulty": "easy",
+      "q": "Subbarow's famous early method measured the amount of which element in body tissues?",
+      "options": ["Iron", "Phosphorus", "Calcium", "Sodium"],
+      "answer": 1,
+      "explanation": "The Fiske–Subbarow method was a sensitive technique for measuring phosphorus in biological samples."
+    },
+    {
+      "id": "yellapragada-subbarow-q08",
+      "difficulty": "easy",
+      "q": "Methotrexate, linked to Subbarow's work, is mainly used to treat what kind of disease?",
+      "options": ["Diabetes", "Cancer", "Tuberculosis", "Malaria"],
+      "answer": 1,
+      "explanation": "Methotrexate is an anticancer (and later anti-inflammatory) drug derived from folic acid antagonist research."
+    },
+    {
+      "id": "yellapragada-subbarow-q09",
+      "difficulty": "easy",
+      "q": "What is the common name for adenosine triphosphate, central to Subbarow's findings?",
+      "options": ["ATP", "RNA", "ADP only", "GTP"],
+      "answer": 0,
+      "explanation": "Adenosine triphosphate is abbreviated ATP, the universal energy carrier in living cells."
+    },
+    {
+      "id": "yellapragada-subbarow-q10",
+      "difficulty": "easy",
+      "q": "Subbarow is best remembered as a pioneer who developed important new what?",
+      "options": ["Bridges", "Medicines and biochemical methods", "Telescopes", "Crop varieties"],
+      "answer": 1,
+      "explanation": "He is celebrated for developing key drugs and biochemical analytical methods."
+    },
+    {
+      "id": "yellapragada-subbarow-q11",
+      "difficulty": "medium",
+      "q": "The analytical method co-developed by Subbarow for measuring phosphorus is named after him and which collaborator?",
+      "options": ["Folin", "Fiske", "Folkman", "Farber"],
+      "answer": 1,
+      "explanation": "The Fiske–Subbarow method, devised with Cyrus Fiske, measured inorganic phosphate colorimetrically."
+    },
+    {
+      "id": "yellapragada-subbarow-q12",
+      "difficulty": "medium",
+      "q": "At which institution did Subbarow do his foundational work on ATP and phosphocreatine?",
+      "options": ["Harvard Medical School", "MIT", "Caltech", "Johns Hopkins"],
+      "answer": 0,
+      "explanation": "Subbarow worked in the biochemistry department at Harvard Medical School in the 1920s and early 1930s."
+    },
+    {
+      "id": "yellapragada-subbarow-q13",
+      "difficulty": "medium",
+      "q": "Subbarow identified which phosphorus-containing compound that stores energy in muscle?",
+      "options": ["Phospholipid", "Phosphoric acid", "Triphosphate ester of starch", "Phosphocreatine (creatine phosphate)"],
+      "answer": 3,
+      "explanation": "He helped discover phosphocreatine, an energy-storing phosphate compound in muscle tissue."
+    },
+    {
+      "id": "yellapragada-subbarow-q14",
+      "difficulty": "medium",
+      "q": "Which pharmaceutical company did Subbarow join, where he later directed major drug research?",
+      "options": ["Pfizer", "Lederle Laboratories", "Merck", "Eli Lilly"],
+      "answer": 1,
+      "explanation": "Subbarow joined Lederle Laboratories (a division of American Cyanamid), leading its research programs."
+    },
+    {
+      "id": "yellapragada-subbarow-q15",
+      "difficulty": "medium",
+      "q": "Subbarow's team developed the first effective folic acid antagonist used against childhood leukemia. What class of drug is this?",
+      "options": ["Antibiotic", "Antifolate (antimetabolite)", "Beta-blocker", "Statin"],
+      "answer": 1,
+      "explanation": "Antifolates like aminopterin and methotrexate block folate metabolism, halting cancer cell growth."
+    },
+    {
+      "id": "yellapragada-subbarow-q16",
+      "difficulty": "medium",
+      "q": "Aminopterin, developed under Subbarow's direction, was famously used by Sidney Farber to achieve what milestone?",
+      "options": ["First vaccine for polio", "First temporary remissions in childhood leukemia", "First antibiotic cure", "First organ transplant"],
+      "answer": 1,
+      "explanation": "Farber used aminopterin to induce the first remissions in children with acute leukemia in 1947–48."
+    },
+    {
+      "id": "yellapragada-subbarow-q17",
+      "difficulty": "medium",
+      "q": "Subbarow's lab also produced an early antifilarial drug effective against the parasitic disease elephantiasis. What is the drug?",
+      "options": ["Quinine", "Chloroquine", "Diethylcarbamazine (Hetrazan)", "Ivermectin"],
+      "answer": 2,
+      "explanation": "Diethylcarbamazine, marketed as Hetrazan, came from Subbarow's program and is used against filariasis."
+    },
+    {
+      "id": "yellapragada-subbarow-q18",
+      "difficulty": "medium",
+      "q": "Subbarow's group also worked on isolating and developing which broad-spectrum antibiotic family?",
+      "options": ["Penicillins", "Cephalosporins", "Tetracyclines (e.g., Aureomycin)", "Macrolides"],
+      "answer": 2,
+      "explanation": "Lederle under Subbarow developed Aureomycin (chlortetracycline), the first tetracycline antibiotic."
+    },
+    {
+      "id": "yellapragada-subbarow-q19",
+      "difficulty": "medium",
+      "q": "In which decade was folic acid first synthesized by Subbarow's team?",
+      "options": ["1910s", "1940s", "1960s", "1980s"],
+      "answer": 1,
+      "explanation": "Subbarow's team achieved the first synthesis of folic acid in the mid-1940s."
+    },
+    {
+      "id": "yellapragada-subbarow-q20",
+      "difficulty": "medium",
+      "q": "Despite his landmark contributions, Subbarow notably did NOT receive which recognition often cited as an oversight?",
+      "options": ["A U.S. patent", "The Nobel Prize", "A doctoral degree", "Employment in industry"],
+      "answer": 1,
+      "explanation": "Subbarow never received a Nobel Prize, and his contributions were long underrecognized in his lifetime."
+    },
+    {
+      "id": "yellapragada-subbarow-q21",
+      "difficulty": "medium",
+      "q": "Subbarow earned an advanced graduate degree in biochemistry from which prestigious institution?",
+      "options": ["Harvard", "Oxford", "Cambridge", "Yale"],
+      "answer": 0,
+      "explanation": "Subbarow obtained his PhD in biochemistry from Harvard, where he also conducted early research."
+    },
+    {
+      "id": "yellapragada-subbarow-q22",
+      "difficulty": "hard",
+      "q": "The Fiske–Subbarow method detects inorganic phosphate by producing a colored complex measured how?",
+      "options": ["By weighing a precipitate", "Colorimetrically (light absorbance)", "By measuring radioactivity", "By counting crystals under a microscope"],
+      "answer": 1,
+      "explanation": "The method reduces a phosphomolybdate complex to a blue color whose absorbance indicates phosphate concentration."
+    },
+    {
+      "id": "yellapragada-subbarow-q23",
+      "difficulty": "hard",
+      "q": "Subbarow's discovery of phosphocreatine and ATP overturned which earlier view of muscle energy?",
+      "options": ["That lactic acid alone powered contraction", "That muscles burned pure glucose only", "That oxygen was unnecessary", "That nerves not muscles stored energy"],
+      "answer": 0,
+      "explanation": "His work showed phosphate compounds, not just lactic acid, were central to muscle energy metabolism."
+    },
+    {
+      "id": "yellapragada-subbarow-q24",
+      "difficulty": "hard",
+      "q": "Aminopterin and methotrexate work by inhibiting which enzyme in folate metabolism?",
+      "options": ["DNA polymerase", "RNA polymerase", "Topoisomerase", "Dihydrofolate reductase (DHFR)"],
+      "answer": 3,
+      "explanation": "Antifolates block dihydrofolate reductase, depriving rapidly dividing cells of reduced folate for DNA synthesis."
+    },
+    {
+      "id": "yellapragada-subbarow-q25",
+      "difficulty": "hard",
+      "q": "Subbarow initially studied to enter which profession in India before turning to research?",
+      "options": ["Law", "Medicine", "Engineering", "Teaching"],
+      "answer": 1,
+      "explanation": "Subbarow trained in medicine in India, earning a medical qualification before pursuing biochemistry abroad."
+    },
+    {
+      "id": "yellapragada-subbarow-q26",
+      "difficulty": "medium",
+      "q": "In what year did Yellapragada Subbarow die?",
+      "options": ["1962", "1970", "1948", "1955"],
+      "answer": 2,
+      "explanation": "Subbarow died in 1948, at the height of his contributions to drug development."
+    },
+    {
+      "id": "yellapragada-subbarow-q27",
+      "difficulty": "hard",
+      "q": "The antibiotic Aureomycin developed at Subbarow's lab was isolated from which kind of organism?",
+      "options": ["A soil bacterium (Streptomyces)", "A fungus", "A blue-green alga", "A virus"],
+      "answer": 0,
+      "explanation": "Aureomycin (chlortetracycline) was isolated from the soil bacterium Streptomyces aureofaciens."
+    },
+    {
+      "id": "yellapragada-subbarow-q28",
+      "difficulty": "hard",
+      "q": "Why is methotrexate considered more clinically enduring than its predecessor aminopterin?",
+      "options": ["It is cheaper to make only", "It had a more favorable therapeutic profile and broader uses", "It is not an antifolate", "It was discovered before aminopterin"],
+      "answer": 1,
+      "explanation": "Methotrexate proved safer and more versatile, becoming a mainstay in cancer and autoimmune therapy."
+    },
+    {
+      "id": "yellapragada-subbarow-q29",
+      "difficulty": "hard",
+      "q": "Subbarow's early career in the U.S. was marked by hardship partly because he initially lacked what?",
+      "options": ["English fluency", "A recognized full medical license and steady funding", "Any laboratory training", "Interest in chemistry"],
+      "answer": 1,
+      "explanation": "He arrived with limited means and credentials not fully recognized, taking menial jobs before establishing his research."
+    },
+    {
+      "id": "yellapragada-subbarow-q30",
+      "difficulty": "hard",
+      "q": "Which statement best captures Subbarow's overall scientific legacy?",
+      "options": ["He invented the electron microscope", "His work underpinned ATP energy chemistry and yielded folic acid and methotrexate", "He mapped the human genome", "He discovered penicillin"],
+      "answer": 1,
+      "explanation": "Subbarow's discoveries spanned cellular energy chemistry and pioneering drugs like folic acid and methotrexate."
+    }
+  ]
+}

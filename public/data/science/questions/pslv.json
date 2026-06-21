@@ -1,0 +1,395 @@
+{
+  "cardId": "pslv",
+  "questions": [
+    {
+      "id": "pslv-q01",
+      "difficulty": "easy",
+      "q": "What does the abbreviation PSLV stand for?",
+      "options": [
+        "Polar Satellite Launch Vehicle",
+        "Primary Space Launch Vehicle",
+        "Payload Satellite Lift Vehicle",
+        "Planetary Survey Launch Vehicle"
+      ],
+      "answer": 0,
+      "explanation": "PSLV stands for Polar Satellite Launch Vehicle, ISRO's expendable medium-lift rocket."
+    },
+    {
+      "id": "pslv-q02",
+      "difficulty": "easy",
+      "q": "Which space agency developed and operates the PSLV?",
+      "options": [
+        "NASA",
+        "DRDO",
+        "ISRO",
+        "Roscosmos"
+      ],
+      "answer": 2,
+      "explanation": "The PSLV was designed, built and is operated by the Indian Space Research Organisation (ISRO)."
+    },
+    {
+      "id": "pslv-q03",
+      "difficulty": "easy",
+      "q": "The PSLV is famously nicknamed which of the following?",
+      "options": [
+        "The Cryogenic Giant",
+        "The Workhorse of ISRO",
+        "The Moon Rocket",
+        "The Heavy Lifter"
+      ],
+      "answer": 1,
+      "explanation": "Because of its reliability and many missions, the PSLV is widely called 'the Workhorse of ISRO'."
+    },
+    {
+      "id": "pslv-q04",
+      "difficulty": "easy",
+      "q": "What is the primary purpose of the PSLV?",
+      "options": [
+        "Carrying humans to the Moon",
+        "Launching satellites into orbit",
+        "Conducting underwater research",
+        "Generating nuclear power"
+      ],
+      "answer": 1,
+      "explanation": "The PSLV is a launch vehicle whose job is to place satellites into orbit around Earth."
+    },
+    {
+      "id": "pslv-q05",
+      "difficulty": "easy",
+      "q": "The PSLV was especially designed to deliver satellites into what kind of orbit?",
+      "options": [
+        "Geostationary orbit only",
+        "Sun-synchronous (polar) orbit",
+        "Interplanetary trajectory only",
+        "Suborbital trajectory"
+      ],
+      "answer": 1,
+      "explanation": "As its name suggests, the PSLV was built primarily to place remote-sensing satellites into Sun-synchronous polar orbits."
+    },
+    {
+      "id": "pslv-q06",
+      "difficulty": "easy",
+      "q": "Which country built the PSLV?",
+      "options": [
+        "China",
+        "Japan",
+        "France",
+        "India"
+      ],
+      "answer": 3,
+      "explanation": "The PSLV is an indigenous Indian rocket developed by ISRO."
+    },
+    {
+      "id": "pslv-q07",
+      "difficulty": "easy",
+      "q": "The PSLV is best described as which type of rocket?",
+      "options": [
+        "A single-use (expendable) launch vehicle",
+        "A fully reusable spaceplane",
+        "A crewed capsule",
+        "An air-launched missile"
+      ],
+      "answer": 0,
+      "explanation": "The PSLV is an expendable launch vehicle, meaning its stages are not recovered and reused."
+    },
+    {
+      "id": "pslv-q08",
+      "difficulty": "easy",
+      "q": "From which Indian spaceport are PSLV rockets launched?",
+      "options": [
+        "Thumba near Thiruvananthapuram",
+        "Satish Dhawan Space Centre, Sriharikota",
+        "Wheeler Island, Odisha",
+        "Ahmedabad, Gujarat"
+      ],
+      "answer": 1,
+      "explanation": "PSLV missions lift off from the Satish Dhawan Space Centre at Sriharikota in Andhra Pradesh."
+    },
+    {
+      "id": "pslv-q09",
+      "difficulty": "easy",
+      "q": "The PSLV has launched satellites for India and for which other group?",
+      "options": [
+        "Only India",
+        "Many foreign and commercial customers",
+        "Only the United States",
+        "Only military satellites"
+      ],
+      "answer": 1,
+      "explanation": "The PSLV has launched hundreds of satellites including many foreign and commercial payloads from numerous countries."
+    },
+    {
+      "id": "pslv-q10",
+      "difficulty": "easy",
+      "q": "Roughly how many stages does the standard PSLV have?",
+      "options": [
+        "Two stages",
+        "Four stages",
+        "Six stages",
+        "One stage"
+      ],
+      "answer": 1,
+      "explanation": "The PSLV is a four-stage rocket that alternates solid and liquid propulsion stages."
+    },
+    {
+      "id": "pslv-q11",
+      "difficulty": "medium",
+      "q": "In which year did the PSLV achieve its first fully successful launch?",
+      "options": [
+        "1980",
+        "1994",
+        "2001",
+        "2008"
+      ],
+      "answer": 1,
+      "explanation": "After a failed maiden flight in 1993, the PSLV's first fully successful launch came in October 1994 with PSLV-D2."
+    },
+    {
+      "id": "pslv-q12",
+      "difficulty": "medium",
+      "q": "The PSLV is distinctive for alternating which two types of propulsion in its stages?",
+      "options": [
+        "Solid and liquid propellant stages",
+        "Nuclear and electric stages",
+        "Cryogenic and ion stages",
+        "Hybrid and air-breathing stages"
+      ],
+      "answer": 0,
+      "explanation": "The PSLV uses an alternating arrangement of solid-propellant and liquid-propellant stages across its four stages."
+    },
+    {
+      "id": "pslv-q13",
+      "difficulty": "medium",
+      "q": "Which famous lunar mission was launched by a PSLV?",
+      "options": [
+        "Chandrayaan-2",
+        "Chandrayaan-3",
+        "Apollo 11",
+        "Chandrayaan-1"
+      ],
+      "answer": 3,
+      "explanation": "Chandrayaan-1, India's first lunar mission, was launched in 2008 by a PSLV (the PSLV-XL variant)."
+    },
+    {
+      "id": "pslv-q14",
+      "difficulty": "medium",
+      "q": "Which interplanetary mission was launched by a PSLV in 2013?",
+      "options": [
+        "Aditya-L1",
+        "Gaganyaan",
+        "Mangalyaan (Mars Orbiter Mission)",
+        "Chandrayaan-3"
+      ],
+      "answer": 2,
+      "explanation": "India's Mars Orbiter Mission, Mangalyaan, was launched by a PSLV-XL in November 2013."
+    },
+    {
+      "id": "pslv-q15",
+      "difficulty": "medium",
+      "q": "In February 2017, a single PSLV set a world record by launching how many satellites in one flight?",
+      "options": [
+        "37 satellites",
+        "104 satellites",
+        "10 satellites",
+        "250 satellites"
+      ],
+      "answer": 1,
+      "explanation": "On 15 February 2017 PSLV-C37 launched a then-record 104 satellites in a single mission."
+    },
+    {
+      "id": "pslv-q16",
+      "difficulty": "medium",
+      "q": "What is the name of the heavier, strap-on enhanced version of the PSLV?",
+      "options": [
+        "PSLV-XL",
+        "PSLV-Mega",
+        "PSLV-Heavy",
+        "PSLV-Turbo"
+      ],
+      "answer": 0,
+      "explanation": "The PSLV-XL uses larger, more powerful strap-on boosters to carry heavier payloads, as used for Chandrayaan-1 and Mangalyaan."
+    },
+    {
+      "id": "pslv-q17",
+      "difficulty": "medium",
+      "q": "Solid-propellant strap-on boosters are clustered around the first stage of which PSLV variant?",
+      "options": [
+        "PSLV-CA (Core Alone)",
+        "The standard PSLV and PSLV-XL",
+        "All variants use no strap-ons",
+        "Only the upper-stage variants"
+      ],
+      "answer": 1,
+      "explanation": "The standard PSLV and PSLV-XL use six strap-on solid boosters, while the PSLV-CA ('Core Alone') variant flies without strap-ons."
+    },
+    {
+      "id": "pslv-q18",
+      "difficulty": "medium",
+      "q": "The PSLV's first stage uses what kind of motor that is among the largest of its type?",
+      "options": [
+        "A large solid-propellant motor",
+        "A cryogenic engine",
+        "An ion thruster",
+        "A nuclear thermal engine"
+      ],
+      "answer": 0,
+      "explanation": "The PSLV first stage (PS1) is powered by one of the world's largest solid-propellant rocket motors."
+    },
+    {
+      "id": "pslv-q19",
+      "difficulty": "medium",
+      "q": "Which navigation satellites for India's regional system (NavIC/IRNSS) were largely launched by the PSLV?",
+      "options": [
+        "GPS satellites",
+        "IRNSS series satellites",
+        "GLONASS satellites",
+        "Galileo satellites"
+      ],
+      "answer": 1,
+      "explanation": "Most satellites of India's IRNSS/NavIC regional navigation constellation were placed in orbit by the PSLV."
+    },
+    {
+      "id": "pslv-q20",
+      "difficulty": "medium",
+      "q": "Which Indian space telescope/astronomy satellite was launched by a PSLV in 2015?",
+      "options": [
+        "Hubble",
+        "AstroSat",
+        "Aryabhata",
+        "INSAT-1A"
+      ],
+      "answer": 1,
+      "explanation": "AstroSat, India's first dedicated multi-wavelength space observatory, was launched by a PSLV in September 2015."
+    },
+    {
+      "id": "pslv-q21",
+      "difficulty": "medium",
+      "q": "The PSLV's third stage is powered by what type of propellant?",
+      "options": [
+        "Cryogenic liquid hydrogen",
+        "Hypergolic only",
+        "Solid propellant",
+        "Compressed air"
+      ],
+      "answer": 2,
+      "explanation": "The PSLV's third stage (PS3) is a solid-propellant motor, part of its alternating solid-liquid stage design."
+    },
+    {
+      "id": "pslv-q22",
+      "difficulty": "medium",
+      "q": "Approximately what mass can the standard PSLV deliver to a Sun-synchronous polar orbit?",
+      "options": [
+        "About 1,000 to 1,750 kg",
+        "About 50 kg",
+        "About 20,000 kg",
+        "About 100,000 kg"
+      ],
+      "answer": 0,
+      "explanation": "The PSLV can typically deliver roughly 1,000-1,750 kg to a Sun-synchronous polar orbit, depending on the variant."
+    },
+    {
+      "id": "pslv-q23",
+      "difficulty": "hard",
+      "q": "What designation was given to the first, partially failed developmental flight of the PSLV in 1993?",
+      "options": [
+        "PSLV-D1",
+        "PSLV-C1",
+        "PSLV-G1",
+        "PSLV-XL1"
+      ],
+      "answer": 0,
+      "explanation": "The maiden developmental flight in 1993, designated PSLV-D1, failed to reach orbit due to a control/software issue."
+    },
+    {
+      "id": "pslv-q24",
+      "difficulty": "hard",
+      "q": "The fourth stage (PS4) of the PSLV is powered by what kind of engines?",
+      "options": [
+        "Twin liquid-propellant engines",
+        "A single solid motor",
+        "A cryogenic engine",
+        "Electric ion thrusters"
+      ],
+      "answer": 0,
+      "explanation": "The PSLV fourth stage (PS4) uses twin Earth-storable liquid-propellant engines for precise orbital insertion."
+    },
+    {
+      "id": "pslv-q25",
+      "difficulty": "hard",
+      "q": "What experimental capability did ISRO add to the PS4 stage, demonstrated as the 'PS4 Orbital Platform' (POEM)?",
+      "options": [
+        "Reusable booster recovery",
+        "Using the spent fourth stage as an in-orbit experiment platform",
+        "Carrying a human crew",
+        "Refuelling other satellites"
+      ],
+      "answer": 1,
+      "explanation": "ISRO turned the spent PS4 stage into an orbital platform (POEM) to host experiments after its primary payloads are deployed."
+    },
+    {
+      "id": "pslv-q26",
+      "difficulty": "hard",
+      "q": "Which PSLV variant launched the record 104-satellite mission and Mangalyaan, distinguished by its larger strap-ons?",
+      "options": [
+        "PSLV-CA",
+        "PSLV-XL",
+        "PSLV-DL",
+        "PSLV-QL"
+      ],
+      "answer": 1,
+      "explanation": "The PSLV-XL, with its extended (larger) strap-on boosters, launched both Mangalyaan and the 104-satellite PSLV-C37 mission."
+    },
+    {
+      "id": "pslv-q27",
+      "difficulty": "hard",
+      "q": "Newer PSLV variants such as PSLV-DL and PSLV-QL differ mainly in what respect?",
+      "options": [
+        "The number of strap-on boosters used",
+        "Adding a cryogenic upper stage",
+        "Being crew-rated",
+        "Using nuclear propulsion"
+      ],
+      "answer": 0,
+      "explanation": "PSLV-DL flies with two strap-on boosters and PSLV-QL with four, configurations tailored to different payload needs."
+    },
+    {
+      "id": "pslv-q28",
+      "difficulty": "hard",
+      "q": "ISRO's first satellite to study the Sun, launched by a PSLV in September 2023, was named what?",
+      "options": [
+        "Aditya-L1",
+        "AstroSat",
+        "Mangalyaan",
+        "Chandrayaan-3"
+      ],
+      "answer": 0,
+      "explanation": "Aditya-L1, India's first solar observation mission, was launched aboard a PSLV-XL in September 2023."
+    },
+    {
+      "id": "pslv-q29",
+      "difficulty": "hard",
+      "q": "Apart from a 1993 failure, the PSLV's reliability was briefly interrupted by which later mission's heat-shield problem?",
+      "options": [
+        "PSLV-C39 in 2017",
+        "PSLV-C37 in 2017",
+        "PSLV-C11 in 2008",
+        "PSLV-C25 in 2013"
+      ],
+      "answer": 0,
+      "explanation": "The PSLV-C39 mission in August 2017 failed when the payload fairing (heat shield) did not separate, trapping the satellite."
+    },
+    {
+      "id": "pslv-q30",
+      "difficulty": "hard",
+      "q": "The PSLV's success was crucial in advancing which broader Indian space capability?",
+      "options": [
+        "Building a self-reliant satellite launch and remote-sensing program",
+        "Manufacturing commercial airliners",
+        "Developing submarine technology",
+        "Producing solar panels for export"
+      ],
+      "answer": 0,
+      "explanation": "By reliably orbiting remote-sensing, navigation and scientific satellites, the PSLV underpinned India's self-reliant space program."
+    }
+  ]
+}

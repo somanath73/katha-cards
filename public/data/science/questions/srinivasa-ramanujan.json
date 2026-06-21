@@ -1,0 +1,245 @@
+{
+  "cardId": "srinivasa-ramanujan",
+  "questions": [
+    {
+      "id": "srinivasa-ramanujan-q01",
+      "difficulty": "easy",
+      "q": "In which field of mathematics did Srinivasa Ramanujan make his most famous contributions?",
+      "options": ["Geometry", "Number theory", "Statistics", "Topology"],
+      "answer": 1,
+      "explanation": "Ramanujan is celebrated above all for his deep results in number theory, including partitions and infinite series."
+    },
+    {
+      "id": "srinivasa-ramanujan-q02",
+      "difficulty": "easy",
+      "q": "Srinivasa Ramanujan was a citizen of which country?",
+      "options": ["India", "Pakistan", "Sri Lanka", "Bangladesh"],
+      "answer": 0,
+      "explanation": "Ramanujan was an Indian mathematician, born in the Madras Presidency of British India."
+    },
+    {
+      "id": "srinivasa-ramanujan-q03",
+      "difficulty": "easy",
+      "q": "Which famous English mathematician became Ramanujan's mentor and collaborator at Cambridge?",
+      "options": ["Bertrand Russell", "Isaac Newton", "Alan Turing", "G. H. Hardy"],
+      "answer": 3,
+      "explanation": "G. H. Hardy invited Ramanujan to Cambridge after recognising his genius from a letter Ramanujan sent in 1913."
+    },
+    {
+      "id": "srinivasa-ramanujan-q04",
+      "difficulty": "easy",
+      "q": "Ramanujan is often described as a mathematician who was largely:",
+      "options": ["Trained at Oxford", "A professor for decades", "Self-taught", "A military officer"],
+      "answer": 2,
+      "explanation": "Ramanujan was essentially self-taught, developing much of his mathematics with almost no formal higher training."
+    },
+    {
+      "id": "srinivasa-ramanujan-q05",
+      "difficulty": "easy",
+      "q": "At which English university did Ramanujan work alongside G. H. Hardy?",
+      "options": ["Oxford", "Edinburgh", "Cambridge", "Manchester"],
+      "answer": 2,
+      "explanation": "Ramanujan came to Trinity College, Cambridge, in 1914 to work with Hardy."
+    },
+    {
+      "id": "srinivasa-ramanujan-q06",
+      "difficulty": "easy",
+      "q": "Ramanujan's life is famously short, ending when he died at around what age?",
+      "options": ["32", "52", "67", "45"],
+      "answer": 0,
+      "explanation": "Ramanujan died in 1920 at the age of 32, cutting short an extraordinarily productive career."
+    },
+    {
+      "id": "srinivasa-ramanujan-q07",
+      "difficulty": "easy",
+      "q": "A famous anecdote involves a taxicab numbered 1729. What is special about 1729?",
+      "options": ["It is a prime number", "It is a perfect number", "It is the smallest number expressible as a sum of two cubes in two different ways", "It cannot be written as any sum of cubes"],
+      "answer": 2,
+      "explanation": "Ramanujan noted 1729 is the smallest number expressible as the sum of two positive cubes in two distinct ways (1+1728 and 729+1000)."
+    },
+    {
+      "id": "srinivasa-ramanujan-q08",
+      "difficulty": "easy",
+      "q": "The 2015 biographical film about Ramanujan shares its title with a famous book about him. What is that title?",
+      "options": ["A Beautiful Mind", "The Man Who Knew Infinity", "The Imitation Game", "Good Will Hunting"],
+      "answer": 1,
+      "explanation": "Robert Kanigel's biography and the 2015 film are both titled 'The Man Who Knew Infinity.'"
+    },
+    {
+      "id": "srinivasa-ramanujan-q09",
+      "difficulty": "easy",
+      "q": "Ramanujan was elected a Fellow of which prestigious British scientific society in 1918?",
+      "options": ["The Royal Society", "The Royal Academy of Arts", "The British Academy", "The Royal Geographical Society"],
+      "answer": 0,
+      "explanation": "In 1918 Ramanujan became one of the youngest Fellows of the Royal Society, honoured for his work in number theory."
+    },
+    {
+      "id": "srinivasa-ramanujan-q10",
+      "difficulty": "easy",
+      "q": "Much of Ramanujan's early original mathematics was recorded by him in personal documents known as his:",
+      "options": ["Textbooks", "Notebooks", "Newspaper columns", "Diaries of travel"],
+      "answer": 1,
+      "explanation": "Ramanujan filled several notebooks with thousands of results, which mathematicians have studied for decades."
+    },
+    {
+      "id": "srinivasa-ramanujan-q11",
+      "difficulty": "medium",
+      "q": "In which year did Ramanujan write the famous first letter to G. H. Hardy that launched their collaboration?",
+      "options": ["1903", "1913", "1923", "1893"],
+      "answer": 1,
+      "explanation": "Ramanujan's letter, dated 16 January 1913, contained startling results that convinced Hardy of his genius."
+    },
+    {
+      "id": "srinivasa-ramanujan-q12",
+      "difficulty": "medium",
+      "q": "In which city was Ramanujan born in 1887?",
+      "options": ["Madras (Chennai)", "Erode", "Bombay (Mumbai)", "Bangalore"],
+      "answer": 1,
+      "explanation": "Ramanujan was born on 22 December 1887 in Erode, in present-day Tamil Nadu."
+    },
+    {
+      "id": "srinivasa-ramanujan-q13",
+      "difficulty": "medium",
+      "q": "Ramanujan and Hardy are jointly credited with a famous asymptotic formula for which quantity?",
+      "options": ["The distribution of prime numbers", "The roots of polynomials", "The number of partitions of an integer", "The area under a curve"],
+      "answer": 2,
+      "explanation": "The Hardy–Ramanujan asymptotic formula gives the approximate number of partitions of a large integer n."
+    },
+    {
+      "id": "srinivasa-ramanujan-q14",
+      "difficulty": "medium",
+      "q": "Before going to Cambridge, Ramanujan worked as a clerk at which Indian institution?",
+      "options": ["The Madras Port Trust", "The Reserve Bank of India", "Indian Railways headquarters", "The Indian Statistical Institute"],
+      "answer": 0,
+      "explanation": "Ramanujan held a clerk's post at the Madras Port Trust, where supporters recognised and encouraged his talent."
+    },
+    {
+      "id": "srinivasa-ramanujan-q15",
+      "difficulty": "medium",
+      "q": "India's National Mathematics Day is observed on 22 December in honour of Ramanujan because that date is his:",
+      "options": ["Death anniversary", "Wedding day", "Day of arrival in England", "Birthday"],
+      "answer": 3,
+      "explanation": "National Mathematics Day in India marks Ramanujan's birthday, 22 December 1887."
+    },
+    {
+      "id": "srinivasa-ramanujan-q16",
+      "difficulty": "medium",
+      "q": "Which special functions, central to modern work on modular forms, did Ramanujan describe in his final 1920 letter to Hardy?",
+      "options": ["Mock theta functions", "Bessel functions", "Gamma functions", "Legendre polynomials"],
+      "answer": 0,
+      "explanation": "Ramanujan introduced the 'mock theta functions' in his last letter to Hardy, anticipating a field developed much later."
+    },
+    {
+      "id": "srinivasa-ramanujan-q17",
+      "difficulty": "medium",
+      "q": "Hardy famously devised an informal scale of mathematical talent. On a scale of 100, how did he reportedly rate Ramanujan?",
+      "options": ["25", "60", "80", "100"],
+      "answer": 3,
+      "explanation": "Hardy rated himself 25 and Ramanujan 100, calling their collaboration the one romantic incident of his life."
+    },
+    {
+      "id": "srinivasa-ramanujan-q18",
+      "difficulty": "medium",
+      "q": "Numbers like 1729 that are the smallest expressible as a sum of two cubes in n distinct ways are now sometimes called:",
+      "options": ["Taxicab numbers", "Fermat numbers", "Mersenne numbers", "Carmichael numbers"],
+      "answer": 0,
+      "explanation": "Inspired by the 1729 anecdote, such numbers are called 'taxicab numbers' in number theory."
+    },
+    {
+      "id": "srinivasa-ramanujan-q19",
+      "difficulty": "medium",
+      "q": "Ramanujan is well known for producing remarkable rapidly converging infinite series for which mathematical constant?",
+      "options": ["The constant e", "The golden ratio", "Euler's gamma constant", "Pi (π)"],
+      "answer": 3,
+      "explanation": "Ramanujan found infinite series for 1/π that converge extremely fast and underlie modern algorithms for computing π."
+    },
+    {
+      "id": "srinivasa-ramanujan-q20",
+      "difficulty": "medium",
+      "q": "In which year did Ramanujan first arrive in England to begin his work at Cambridge?",
+      "options": ["1914", "1909", "1920", "1918"],
+      "answer": 0,
+      "explanation": "Ramanujan sailed to England and arrived in 1914, beginning roughly five intense years of collaboration with Hardy."
+    },
+    {
+      "id": "srinivasa-ramanujan-q21",
+      "difficulty": "medium",
+      "q": "Ramanujan was elected a Fellow of Trinity College in 1918, making him one of the first:",
+      "options": ["Students under 18 to be elected", "Indians elected to a Trinity College fellowship", "People to refuse the honour", "Fellows to specialise in geometry"],
+      "answer": 1,
+      "explanation": "Ramanujan was among the first Indians to be elected a Fellow of Trinity College, Cambridge."
+    },
+    {
+      "id": "srinivasa-ramanujan-q22",
+      "difficulty": "medium",
+      "q": "Which English mathematician, besides Hardy, frequently collaborated with Ramanujan at Cambridge?",
+      "options": ["J. E. Littlewood", "Alan Turing", "Andrew Wiles", "George Boole"],
+      "answer": 0,
+      "explanation": "J. E. Littlewood worked closely with Hardy and helped assess and develop Ramanujan's results."
+    },
+    {
+      "id": "srinivasa-ramanujan-q23",
+      "difficulty": "hard",
+      "q": "A 'lost notebook' of Ramanujan's later results was famously rediscovered in 1976 by which mathematician?",
+      "options": ["George Andrews", "Paul Erdős", "Atle Selberg", "John Conway"],
+      "answer": 0,
+      "explanation": "George Andrews discovered the 'lost notebook' among papers in the Wren Library at Trinity College in 1976."
+    },
+    {
+      "id": "srinivasa-ramanujan-q24",
+      "difficulty": "hard",
+      "q": "The Hardy–Ramanujan theorem concerns the number of distinct prime factors of a typical integer n. What is its 'normal order'?",
+      "options": ["About √n", "About log log n", "About n / log n", "About log n"],
+      "answer": 1,
+      "explanation": "The Hardy–Ramanujan theorem shows that a typical integer n has about log log n distinct prime factors."
+    },
+    {
+      "id": "srinivasa-ramanujan-q25",
+      "difficulty": "hard",
+      "q": "Which arithmetic function, important in the theory of modular forms, did Ramanujan introduce and study, leading to a famous conjecture later proved by Pierre Deligne?",
+      "options": ["The Möbius function", "The Ramanujan tau function", "Euler's totient function", "The Liouville function"],
+      "answer": 1,
+      "explanation": "Ramanujan's tau function arises from the modular discriminant, and the Ramanujan conjecture about it was proved by Deligne in 1974."
+    },
+    {
+      "id": "srinivasa-ramanujan-q26",
+      "difficulty": "hard",
+      "q": "Ramanujan discovered striking congruences for the partition function p(n), including that p(5n+4) is always divisible by:",
+      "options": ["3", "5", "2", "11"],
+      "answer": 1,
+      "explanation": "One of Ramanujan's celebrated partition congruences states that p(5n + 4) is divisible by 5 for all n."
+    },
+    {
+      "id": "srinivasa-ramanujan-q27",
+      "difficulty": "hard",
+      "q": "Hardy and Ramanujan's partition asymptotics relied on a powerful analytic technique later refined by Hans Rademacher into an exact formula. This method is known as the:",
+      "options": ["Circle method", "Sieve of Eratosthenes", "Newton's method", "Gaussian elimination"],
+      "answer": 0,
+      "explanation": "The Hardy–Ramanujan (and Hardy–Littlewood) circle method underlies the asymptotic and later exact formulas for partitions."
+    },
+    {
+      "id": "srinivasa-ramanujan-q28",
+      "difficulty": "hard",
+      "q": "Ramanujan's work on highly composite numbers studied integers that have more divisors than any:",
+      "options": ["Prime number smaller than them", "Smaller positive integer", "Perfect square", "Multiple of ten"],
+      "answer": 1,
+      "explanation": "A highly composite number, studied in Ramanujan's 1915 paper, has more divisors than any smaller positive integer."
+    },
+    {
+      "id": "srinivasa-ramanujan-q29",
+      "difficulty": "hard",
+      "q": "Several elegant identities for sums of certain hypergeometric-type series, such as Ramanujan's identities for continued fractions, are linked to which named continued fraction?",
+      "options": ["The Rogers–Ramanujan continued fraction", "The Stern–Brocot fraction", "The Engel expansion", "The Gauss continued fraction"],
+      "answer": 0,
+      "explanation": "The Rogers–Ramanujan continued fraction and identities are among Ramanujan's deepest contributions to q-series."
+    },
+    {
+      "id": "srinivasa-ramanujan-q30",
+      "difficulty": "hard",
+      "q": "Ramanujan's illness in England was long attributed to tuberculosis, but later medical analysis suggested a more likely diagnosis of:",
+      "options": ["Malaria", "Hepatic amoebiasis (an amoebic liver infection)", "Typhoid fever", "Cholera"],
+      "answer": 1,
+      "explanation": "Later reassessment by physician D. A. B. Young suggested Ramanujan more likely suffered from hepatic amoebiasis, a treatable amoebic liver infection."
+    }
+  ]
+}

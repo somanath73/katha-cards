@@ -1,0 +1,245 @@
+{
+  "cardId": "tejas",
+  "questions": [
+    {
+      "id": "tejas-q01",
+      "difficulty": "easy",
+      "q": "What kind of vehicle is the Tejas?",
+      "options": ["A fighter aircraft", "A submarine", "A main battle tank", "A spacecraft"],
+      "answer": 0,
+      "explanation": "Tejas is India's indigenous lightweight multirole fighter jet."
+    },
+    {
+      "id": "tejas-q02",
+      "difficulty": "easy",
+      "q": "Which Indian company is the principal manufacturer of the Tejas?",
+      "options": ["Tata Motors", "Bharat Electronics Limited", "Mahindra Aerospace", "Hindustan Aeronautics Limited (HAL)"],
+      "answer": 3,
+      "explanation": "The Tejas is built by Hindustan Aeronautics Limited (HAL), a state-owned aerospace company."
+    },
+    {
+      "id": "tejas-q03",
+      "difficulty": "easy",
+      "q": "Under what programme name was the Tejas developed?",
+      "options": ["Heavy Combat Aircraft", "Advanced Bomber Project", "Maritime Patrol Aircraft", "Light Combat Aircraft (LCA)"],
+      "answer": 3,
+      "explanation": "Tejas emerged from India's Light Combat Aircraft (LCA) programme, hence its subtitle."
+    },
+    {
+      "id": "tejas-q04",
+      "difficulty": "easy",
+      "q": "Which armed force is the primary operator of the Tejas?",
+      "options": ["Indian Coast Guard", "Indian Army", "Indian Air Force", "Border Security Force"],
+      "answer": 2,
+      "explanation": "The Tejas was inducted into and is primarily flown by the Indian Air Force."
+    },
+    {
+      "id": "tejas-q05",
+      "difficulty": "easy",
+      "q": "What does the word 'Tejas' mean in Sanskrit?",
+      "options": ["Thunder", "Eagle", "Radiance or brilliance", "Victory"],
+      "answer": 2,
+      "explanation": "'Tejas' is a Sanskrit word meaning radiance or brilliance."
+    },
+    {
+      "id": "tejas-q06",
+      "difficulty": "easy",
+      "q": "The Tejas is best described as which type of fighter?",
+      "options": ["A heavy strategic bomber", "A reconnaissance glider", "A lightweight multirole fighter", "A cargo transport"],
+      "answer": 2,
+      "explanation": "Tejas is a lightweight, single-engine multirole combat aircraft."
+    },
+    {
+      "id": "tejas-q07",
+      "difficulty": "easy",
+      "q": "How many engines does the standard Tejas fighter have?",
+      "options": ["One", "Two", "Three", "Four"],
+      "answer": 0,
+      "explanation": "The Tejas is a single-engine fighter aircraft."
+    },
+    {
+      "id": "tejas-q08",
+      "difficulty": "easy",
+      "q": "What is a key emphasis of the Tejas programme highlighted by India?",
+      "options": ["Foreign ownership", "Being the world's heaviest jet", "Being a passenger airliner", "Indigenous (self-reliant) design and manufacture"],
+      "answer": 3,
+      "explanation": "Tejas is celebrated as an indigenous fighter, central to India's self-reliance in defence."
+    },
+    {
+      "id": "tejas-q09",
+      "difficulty": "easy",
+      "q": "Roughly how long did the Tejas take to go from programme start to induction?",
+      "options": ["A few months", "About one year", "Several decades", "Over a century"],
+      "answer": 2,
+      "explanation": "The Tejas was developed over decades before being inducted into the air force."
+    },
+    {
+      "id": "tejas-q10",
+      "difficulty": "easy",
+      "q": "In which country is the Tejas designed and produced?",
+      "options": ["Russia", "France", "India", "United States"],
+      "answer": 2,
+      "explanation": "Tejas is India's own indigenous fighter, designed and built domestically."
+    },
+    {
+      "id": "tejas-q11",
+      "difficulty": "medium",
+      "q": "Which Indian government agency is responsible for the overall design and development of the LCA Tejas?",
+      "options": ["Indian Space Research Organisation", "Atomic Energy Commission", "Council of Scientific and Industrial Research", "Aeronautical Development Agency (ADA)"],
+      "answer": 3,
+      "explanation": "The Aeronautical Development Agency (ADA) manages the design and development of the LCA Tejas programme."
+    },
+    {
+      "id": "tejas-q12",
+      "difficulty": "medium",
+      "q": "In which decade was India's Light Combat Aircraft programme formally launched?",
+      "options": ["1980s", "1960s", "2000s", "2010s"],
+      "answer": 0,
+      "explanation": "The LCA programme was sanctioned in the 1980s to replace ageing MiG-21 fighters."
+    },
+    {
+      "id": "tejas-q13",
+      "difficulty": "medium",
+      "q": "Which ageing fleet was the Tejas primarily intended to replace in the Indian Air Force?",
+      "options": ["Sukhoi Su-30MKI", "Rafale", "MiG-21", "C-17 Globemaster"],
+      "answer": 2,
+      "explanation": "The LCA programme aimed to replace the IAF's ageing Soviet-origin MiG-21 fighters."
+    },
+    {
+      "id": "tejas-q14",
+      "difficulty": "medium",
+      "q": "What distinctive wing configuration does the Tejas use?",
+      "options": ["Variable-sweep wing", "Straight high-aspect wing", "Tailless compound delta wing", "Biplane wings"],
+      "answer": 2,
+      "explanation": "The Tejas features a tailless compound delta wing for agility and low drag."
+    },
+    {
+      "id": "tejas-q15",
+      "difficulty": "medium",
+      "q": "Who gave the aircraft the name 'Tejas' when it was christened?",
+      "options": ["Jawaharlal Nehru", "Atal Bihari Vajpayee", "Indira Gandhi", "Rajiv Gandhi"],
+      "answer": 1,
+      "explanation": "Prime Minister Atal Bihari Vajpayee christened the LCA as 'Tejas' in 2003."
+    },
+    {
+      "id": "tejas-q16",
+      "difficulty": "medium",
+      "q": "The Tejas made its maiden flight in which year?",
+      "options": ["1991", "2001", "2011", "2016"],
+      "answer": 1,
+      "explanation": "The first Tejas technology demonstrator made its maiden flight on 4 January 2001."
+    },
+    {
+      "id": "tejas-q17",
+      "difficulty": "medium",
+      "q": "Which engine powers the production Tejas Mk1 aircraft?",
+      "options": ["Rolls-Royce Adour", "Saturn AL-31", "General Electric F404", "Snecma M88"],
+      "answer": 2,
+      "explanation": "The Tejas Mk1 is powered by the American General Electric F404 turbofan engine."
+    },
+    {
+      "id": "tejas-q18",
+      "difficulty": "medium",
+      "q": "What was the name of the first Indian Air Force squadron to operate the Tejas?",
+      "options": ["No. 1 Squadron 'Tigers'", "No. 17 Squadron 'Golden Arrows'", "No. 7 Squadron 'Battle Axes'", "No. 45 Squadron 'Flying Daggers'"],
+      "answer": 3,
+      "explanation": "No. 45 Squadron, the 'Flying Daggers', was the first IAF unit to fly the Tejas."
+    },
+    {
+      "id": "tejas-q19",
+      "difficulty": "medium",
+      "q": "What is a notable structural feature of the Tejas that helps keep its weight low?",
+      "options": ["Solid cast-iron frame", "Extensive use of carbon-fibre composite materials", "All-wooden fuselage", "Lead-lined cockpit"],
+      "answer": 1,
+      "explanation": "The Tejas makes extensive use of carbon-fibre composites, reducing weight and radar signature."
+    },
+    {
+      "id": "tejas-q20",
+      "difficulty": "medium",
+      "q": "Which control system does the Tejas rely on to remain stable in flight?",
+      "options": ["Purely mechanical cables", "A digital fly-by-wire flight control system", "Steam-driven actuators", "Manual hand-cranks"],
+      "answer": 1,
+      "explanation": "The Tejas uses a digital fly-by-wire system because its relaxed-stability design needs constant computer correction."
+    },
+    {
+      "id": "tejas-q21",
+      "difficulty": "medium",
+      "q": "A naval version of the Tejas was developed to operate from what platform?",
+      "options": ["Submarines", "Aircraft carriers", "Hovercraft", "River barges"],
+      "answer": 1,
+      "explanation": "A carrier-capable naval variant of the Tejas was developed for the Indian Navy's aircraft carriers."
+    },
+    {
+      "id": "tejas-q22",
+      "difficulty": "medium",
+      "q": "Which of these is a role the multirole Tejas is designed to perform?",
+      "options": ["Deep-sea mining", "Air-to-air combat and ground attack", "Weather forecasting only", "Passenger transport"],
+      "answer": 1,
+      "explanation": "As a multirole fighter, the Tejas can perform both air-to-air combat and air-to-ground strike missions."
+    },
+    {
+      "id": "tejas-q23",
+      "difficulty": "hard",
+      "q": "When did the Tejas first receive its Initial Operational Clearance (IOC), allowing limited service use?",
+      "options": ["2008", "2011", "2016", "2019"],
+      "answer": 1,
+      "explanation": "The Tejas achieved Initial Operational Clearance in January 2011."
+    },
+    {
+      "id": "tejas-q24",
+      "difficulty": "hard",
+      "q": "In which year did the Tejas achieve Final Operational Clearance (FOC) for the Indian Air Force?",
+      "options": ["2013", "2016", "2019", "2022"],
+      "answer": 2,
+      "explanation": "The Tejas Mk1 received Final Operational Clearance in early 2019."
+    },
+    {
+      "id": "tejas-q25",
+      "difficulty": "hard",
+      "q": "The more capable upgraded variant developed from the Tejas is designated which of the following?",
+      "options": ["Tejas Z9", "Tejas Mk1A", "Tejas Super", "Tejas Hyper"],
+      "answer": 1,
+      "explanation": "The Tejas Mk1A is an upgraded variant with improved radar, electronic warfare and more weapons."
+    },
+    {
+      "id": "tejas-q26",
+      "difficulty": "hard",
+      "q": "Which South American country did India actively court as a prospective export customer for the Tejas?",
+      "options": ["Chile", "Peru", "Argentina", "Colombia"],
+      "answer": 2,
+      "explanation": "India promoted the Tejas to Argentina as a prospective export buyer, though Argentina ultimately chose second-hand Danish F-16s instead."
+    },
+    {
+      "id": "tejas-q27",
+      "difficulty": "hard",
+      "q": "The first technology-demonstrator Tejas was given which designation?",
+      "options": ["PV-1", "TD-1", "LSP-1", "SP-1"],
+      "answer": 1,
+      "explanation": "The first technology demonstrator that flew in 2001 was designated TD-1."
+    },
+    {
+      "id": "tejas-q28",
+      "difficulty": "hard",
+      "q": "An indigenous engine, intended (but not used in production Mk1) to power the Tejas, was named what?",
+      "options": ["Shakti", "Saraswati", "Garuda", "Kaveri"],
+      "answer": 3,
+      "explanation": "India's GTRE Kaveri engine was developed for the Tejas, but production aircraft use the GE F404 instead."
+    },
+    {
+      "id": "tejas-q29",
+      "difficulty": "hard",
+      "q": "Which advanced radar type is fitted to the upgraded Tejas Mk1A for improved detection?",
+      "options": ["Mechanically scanned dish radar", "Active Electronically Scanned Array (AESA) radar", "Doppler weather radar", "No radar at all"],
+      "answer": 1,
+      "explanation": "The Tejas Mk1A is equipped with an AESA radar, a significant capability upgrade over the original."
+    },
+    {
+      "id": "tejas-q30",
+      "difficulty": "hard",
+      "q": "Approximately what is the maximum speed of the Tejas, reflecting its supersonic capability?",
+      "options": ["Around Mach 0.8 (subsonic)", "Around Mach 1.6 to 1.8", "Around Mach 5 (hypersonic)", "Around Mach 10"],
+      "answer": 1,
+      "explanation": "The Tejas is a supersonic fighter with a top speed of roughly Mach 1.6 to 1.8."
+    }
+  ]
+}

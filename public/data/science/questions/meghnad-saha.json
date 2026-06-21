@@ -1,0 +1,245 @@
+{
+  "cardId": "meghnad-saha",
+  "questions": [
+    {
+      "id": "meghnad-saha-q01",
+      "difficulty": "easy",
+      "q": "In which field of science is Meghnad Saha most celebrated?",
+      "options": ["Astrophysics", "Marine biology", "Geology", "Organic chemistry"],
+      "answer": 0,
+      "explanation": "Meghnad Saha was an Indian astrophysicist best known for his work on the physics of stars."
+    },
+    {
+      "id": "meghnad-saha-q02",
+      "difficulty": "easy",
+      "q": "Meghnad Saha is most famous for which scientific result?",
+      "options": ["The uncertainty principle", "The Saha ionization equation", "The theory of relativity", "The periodic table"],
+      "answer": 1,
+      "explanation": "The Saha ionization equation, which he derived in 1920, bears his name."
+    },
+    {
+      "id": "meghnad-saha-q03",
+      "difficulty": "easy",
+      "q": "The Saha equation helped scientists understand the properties of what?",
+      "options": ["Ocean currents", "Earthquakes", "Stars", "Volcanoes"],
+      "answer": 2,
+      "explanation": "His equation linked the spectra of stars to their temperature, transforming stellar astrophysics."
+    },
+    {
+      "id": "meghnad-saha-q04",
+      "difficulty": "easy",
+      "q": "Meghnad Saha was a scientist of which nationality?",
+      "options": ["British", "American", "German", "Indian"],
+      "answer": 3,
+      "explanation": "Saha was an Indian astrophysicist, one of the pioneers of modern science in India."
+    },
+    {
+      "id": "meghnad-saha-q05",
+      "difficulty": "easy",
+      "q": "The Saha ionization equation relates the ionization state of a gas to which two physical quantities?",
+      "options": ["Mass and volume", "Temperature and pressure", "Colour and density", "Sound and light"],
+      "answer": 1,
+      "explanation": "His equation links the ionisation of a gas to its temperature and pressure (electron density)."
+    },
+    {
+      "id": "meghnad-saha-q06",
+      "difficulty": "easy",
+      "q": "Saha's work made it possible to determine a key property of stars from their light. What property?",
+      "options": ["Their age in days", "Their surface temperature", "Their distance in metres", "Their exact mass in kilograms by eye"],
+      "answer": 1,
+      "explanation": "By interpreting stellar spectra, the Saha equation lets astronomers estimate a star's surface temperature."
+    },
+    {
+      "id": "meghnad-saha-q07",
+      "difficulty": "easy",
+      "q": "Meghnad Saha studied the splitting of stellar light into a spectrum. This branch of science is called what?",
+      "options": ["Cartography", "Spectroscopy", "Taxonomy", "Cryptography"],
+      "answer": 1,
+      "explanation": "Spectroscopy is the study of how matter interacts with light, central to Saha's stellar work."
+    },
+    {
+      "id": "meghnad-saha-q08",
+      "difficulty": "easy",
+      "q": "Ionization, the key process in Saha's equation, means an atom does what?",
+      "options": ["Splits its nucleus", "Changes colour permanently", "Gains or loses electrons to become charged", "Turns into a different element by decay"],
+      "answer": 2,
+      "explanation": "Ionization is the process by which atoms gain or lose electrons and become electrically charged."
+    },
+    {
+      "id": "meghnad-saha-q09",
+      "difficulty": "easy",
+      "q": "Which celestial object's spectrum is most directly explained by the Saha equation?",
+      "options": ["A comet's tail", "A planet's rings", "A star such as the Sun", "A meteor crater"],
+      "answer": 2,
+      "explanation": "The Saha equation explains how a star's temperature shapes the ionization seen in its spectrum."
+    },
+    {
+      "id": "meghnad-saha-q10",
+      "difficulty": "easy",
+      "q": "Meghnad Saha is sometimes described by which nickname reflecting his stellar studies?",
+      "options": ["The Birdman", "The Milkman", "Reader of the Stars", "The Missile Man"],
+      "answer": 2,
+      "explanation": "He is celebrated as a 'Reader of the Stars' for decoding stellar spectra through his equation."
+    },
+    {
+      "id": "meghnad-saha-q11",
+      "difficulty": "medium",
+      "q": "In approximately which year did Saha publish his ionization equation?",
+      "options": ["1880", "1900", "1920", "1955"],
+      "answer": 2,
+      "explanation": "Saha published his theory of thermal ionization around 1920, while working in his late twenties."
+    },
+    {
+      "id": "meghnad-saha-q12",
+      "difficulty": "medium",
+      "q": "The Saha equation is essentially an application of which broader area of physics?",
+      "options": ["Newtonian planetary orbits", "Thermal (statistical) physics and chemical equilibrium", "Fluid dynamics of rivers", "Acoustics of musical instruments"],
+      "answer": 1,
+      "explanation": "It applies statistical/thermal physics and the idea of chemical equilibrium to the ionization of gases."
+    },
+    {
+      "id": "meghnad-saha-q13",
+      "difficulty": "medium",
+      "q": "Saha's equation helped explain why stars of different temperatures show different patterns of what in their spectra?",
+      "options": ["Magnetic poles", "Surface craters", "Radio static", "Spectral lines"],
+      "answer": 3,
+      "explanation": "It explained the appearance and disappearance of spectral lines as a function of stellar temperature."
+    },
+    {
+      "id": "meghnad-saha-q14",
+      "difficulty": "medium",
+      "q": "Saha's theory of thermal ionization provided a physical basis for which classification used by astronomers?",
+      "options": ["The Richter earthquake scale", "The spectral classification of stars", "The Beaufort wind scale", "The Mohs hardness scale"],
+      "answer": 1,
+      "explanation": "It gave a physical explanation for the stellar spectral sequence (the O, B, A, F, G, K, M classes)."
+    },
+    {
+      "id": "meghnad-saha-q15",
+      "difficulty": "medium",
+      "q": "Besides astrophysics, Saha took a strong interest in the planning of which kind of public works in India?",
+      "options": ["River and flood control / hydro projects", "Opera houses", "Postage stamp design", "Horse racing tracks"],
+      "answer": 0,
+      "explanation": "Saha championed river planning and flood control, contributing notably to the Damodar Valley project idea."
+    },
+    {
+      "id": "meghnad-saha-q16",
+      "difficulty": "medium",
+      "q": "Meghnad Saha founded a major research institute in Kolkata (Calcutta). Which one?",
+      "options": ["The Indian Institute of Science", "The Physical Research Laboratory", "The Institute of Nuclear Physics (later named after him)", "The Raman Research Institute"],
+      "answer": 2,
+      "explanation": "He founded the Institute of Nuclear Physics in Calcutta, later renamed the Saha Institute of Nuclear Physics."
+    },
+    {
+      "id": "meghnad-saha-q17",
+      "difficulty": "medium",
+      "q": "Saha's ionization equation is widely used in which present-day discipline beyond stars?",
+      "options": ["Veterinary medicine", "Architecture", "Linguistics", "Plasma physics"],
+      "answer": 3,
+      "explanation": "The equation is fundamental in plasma physics wherever thermal ionization of gases must be calculated."
+    },
+    {
+      "id": "meghnad-saha-q18",
+      "difficulty": "medium",
+      "q": "In the later part of his life, Saha entered public life as a member of which body?",
+      "options": ["The British House of Lords", "India's Parliament (Lok Sabha)", "The United Nations Security Council", "The Royal Navy"],
+      "answer": 1,
+      "explanation": "Saha was elected to the Indian Parliament (Lok Sabha) as an independent member in the 1950s."
+    },
+    {
+      "id": "meghnad-saha-q19",
+      "difficulty": "medium",
+      "q": "Saha was elected a Fellow of which prestigious British scientific society?",
+      "options": ["The Royal Geographical Society", "The Royal Academy of Music", "The Royal Society of London", "The Royal Horticultural Society"],
+      "answer": 2,
+      "explanation": "He was elected a Fellow of the Royal Society (FRS) in 1927 in recognition of his scientific work."
+    },
+    {
+      "id": "meghnad-saha-q20",
+      "difficulty": "medium",
+      "q": "Saha was a contemporary and associate of which other famous Indian physicist, with whom he shared an academic environment in Calcutta?",
+      "options": ["Srinivasa Ramanujan", "Homi Bhabha", "Vikram Sarabhai", "Satyendra Nath Bose"],
+      "answer": 3,
+      "explanation": "Saha and Satyendra Nath Bose were classmates and colleagues, both pioneers of modern physics in India."
+    },
+    {
+      "id": "meghnad-saha-q21",
+      "difficulty": "medium",
+      "q": "Saha helped found which long-running Indian science journal?",
+      "options": ["Nature", "Science and Culture", "The Lancet", "Scientific American"],
+      "answer": 1,
+      "explanation": "He founded the journal 'Science and Culture' to promote scientific thinking and policy in India."
+    },
+    {
+      "id": "meghnad-saha-q22",
+      "difficulty": "medium",
+      "q": "Saha played a leading role in reforming which national instrument related to timekeeping in India?",
+      "options": ["The metric ruler", "The school examination clock", "The railway whistle code", "The Indian national calendar"],
+      "answer": 3,
+      "explanation": "Saha chaired the committee that produced India's reformed national (Saka) calendar."
+    },
+    {
+      "id": "meghnad-saha-q23",
+      "difficulty": "hard",
+      "q": "Saha derived his ionization equation by adapting the dissociation theory of which chemist/physicist to ionization?",
+      "options": ["Mendeleev's periodic law", "The Nernst (thermal) equation framework", "Faraday's law of induction", "Boyle's gas law alone"],
+      "answer": 1,
+      "explanation": "He adapted the thermodynamic dissociation framework (Nernst's thermal/chemical equilibrium approach) to atomic ionization."
+    },
+    {
+      "id": "meghnad-saha-q24",
+      "difficulty": "hard",
+      "q": "Saha completed his higher education and early research primarily at which university?",
+      "options": ["University of Oxford", "Harvard University", "University of Calcutta", "University of Tokyo"],
+      "answer": 2,
+      "explanation": "He studied and began his academic career at the University of Calcutta before later working in Allahabad."
+    },
+    {
+      "id": "meghnad-saha-q25",
+      "difficulty": "hard",
+      "q": "After Calcutta, Saha held a long professorship and built a physics department at which university?",
+      "options": ["University of Madras", "Banaras Hindu University", "University of Bombay", "University of Allahabad"],
+      "answer": 3,
+      "explanation": "Saha was professor and built up the physics department at the University of Allahabad in the 1920s and 1930s."
+    },
+    {
+      "id": "meghnad-saha-q26",
+      "difficulty": "hard",
+      "q": "During his European travels Saha worked in the laboratory of which scientist studying spectra and atomic physics?",
+      "options": ["Marie Curie on radium", "Alfred Fowler (and later Walther Nernst's circle)", "Ernest Lawrence on cyclotrons", "Niels Bohr on superconductivity"],
+      "answer": 1,
+      "explanation": "Saha worked with the spectroscopist Alfred Fowler in London and in Nernst's laboratory in Berlin in the early 1920s."
+    },
+    {
+      "id": "meghnad-saha-q27",
+      "difficulty": "hard",
+      "q": "Saha's ionization work is often credited with launching which sub-field of astrophysics?",
+      "options": ["Galactic archaeology", "Exoplanet transit photometry", "Stellar atmospheres / astrophysical spectroscopy", "Gravitational-wave astronomy"],
+      "answer": 2,
+      "explanation": "His equation is regarded as the foundation of the theory of stellar atmospheres and astrophysical spectroscopy."
+    },
+    {
+      "id": "meghnad-saha-q28",
+      "difficulty": "hard",
+      "q": "The institute Saha founded is today a leading Indian centre for research in which area?",
+      "options": ["Tropical agriculture", "Maritime law", "Classical music", "Nuclear and atomic physics"],
+      "answer": 3,
+      "explanation": "The Saha Institute of Nuclear Physics remains a major centre for nuclear, atomic and condensed-matter physics."
+    },
+    {
+      "id": "meghnad-saha-q29",
+      "difficulty": "hard",
+      "q": "In what decade was Meghnad Saha born, in what is now Bangladesh?",
+      "options": ["The 1850s", "The 1890s", "The 1920s", "The 1940s"],
+      "answer": 1,
+      "explanation": "Saha was born in 1893 in a village near Dhaka (then in Bengal, now Bangladesh)."
+    },
+    {
+      "id": "meghnad-saha-q30",
+      "difficulty": "hard",
+      "q": "Saha's equation is frequently compared in importance to the work of which astronomer who applied physics to stellar spectra at Harvard, building on his theory?",
+      "options": ["Edwin Hubble", "Percival Lowell", "Cecilia Payne-Gaposchkin", "Caroline Herschel"],
+      "answer": 2,
+      "explanation": "Cecilia Payne-Gaposchkin used Saha's ionization theory to show that stars are made mostly of hydrogen."
+    }
+  ]
+}

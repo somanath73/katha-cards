@@ -1,0 +1,245 @@
+{
+  "cardId": "kerala-school",
+  "questions": [
+    {
+      "id": "kerala-school-q01",
+      "difficulty": "easy",
+      "q": "The Kerala School is most famous for developing the foundations of which branch of mathematics centuries before Newton and Leibniz?",
+      "options": ["Calculus", "Algebra", "Number theory", "Topology"],
+      "answer": 0,
+      "explanation": "The Kerala School developed infinite series and ideas of calculus, such as series for pi and trigonometric functions, long before Newton and Leibniz."
+    },
+    {
+      "id": "kerala-school-q02",
+      "difficulty": "easy",
+      "q": "Who is regarded as the founder of the Kerala School of mathematics and astronomy?",
+      "options": ["Aryabhata", "Brahmagupta", "Bhaskara II", "Madhava of Sangamagrama"],
+      "answer": 3,
+      "explanation": "Madhava of Sangamagrama, active around 1340-1425, is regarded as the founder of the Kerala School."
+    },
+    {
+      "id": "kerala-school-q03",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state did the Kerala School flourish?",
+      "options": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"],
+      "answer": 2,
+      "explanation": "As its name indicates, the school flourished in the region of Kerala in southern India."
+    },
+    {
+      "id": "kerala-school-q04",
+      "difficulty": "easy",
+      "q": "The Kerala School is best known for finding infinite series for which famous mathematical constant?",
+      "options": ["e", "The golden ratio", "Pi", "The square root of two"],
+      "answer": 2,
+      "explanation": "The school discovered infinite series that converge to pi, a key achievement attributed to Madhava."
+    },
+    {
+      "id": "kerala-school-q05",
+      "difficulty": "easy",
+      "q": "Roughly during which centuries was the Kerala School active?",
+      "options": ["14th to 16th centuries", "1st to 3rd centuries", "18th to 19th centuries", "8th to 9th centuries"],
+      "answer": 0,
+      "explanation": "The Kerala School flourished from about the 14th to the 16th centuries CE."
+    },
+    {
+      "id": "kerala-school-q06",
+      "difficulty": "easy",
+      "q": "Besides mathematics, the Kerala School was also strongly devoted to which field?",
+      "options": ["Astronomy", "Chemistry", "Medicine", "Architecture"],
+      "answer": 0,
+      "explanation": "It is properly called the Kerala School of astronomy and mathematics, as its scholars studied both subjects deeply."
+    },
+    {
+      "id": "kerala-school-q07",
+      "difficulty": "easy",
+      "q": "The infinite series for the arctangent function found by the Kerala School is often named after which mathematician?",
+      "options": ["Madhava", "Euclid", "Pythagoras", "Diophantus"],
+      "answer": 0,
+      "explanation": "The arctangent series is commonly called the Madhava-Gregory series, after Madhava who found it first."
+    },
+    {
+      "id": "kerala-school-q08",
+      "difficulty": "easy",
+      "q": "The Kerala School developed accurate infinite series expansions for which pair of trigonometric functions?",
+      "options": ["Secant and cosecant", "Sine and cosine", "Tangent and cotangent", "None of these"],
+      "answer": 1,
+      "explanation": "Madhava and his successors derived the power series for sine and cosine, equivalent to the modern Taylor series."
+    },
+    {
+      "id": "kerala-school-q09",
+      "difficulty": "easy",
+      "q": "What was the primary written language of the Kerala School's mathematical and astronomical texts?",
+      "options": ["Tamil", "Persian", "Sanskrit", "Latin"],
+      "answer": 2,
+      "explanation": "The school's treatises were composed in Sanskrit, often in verse form following Indian scholarly tradition."
+    },
+    {
+      "id": "kerala-school-q10",
+      "difficulty": "easy",
+      "q": "The Kerala School's series for pi is essentially the same as which later European series?",
+      "options": ["The Leibniz series", "The harmonic series", "The Fibonacci sequence", "The geometric series"],
+      "answer": 0,
+      "explanation": "Madhava's series for pi is equivalent to the Leibniz series, discovered in Europe roughly three centuries later."
+    },
+    {
+      "id": "kerala-school-q11",
+      "difficulty": "medium",
+      "q": "Nilakantha Somayaji, a major Kerala School astronomer, wrote which influential astronomical treatise?",
+      "options": ["Lilavati", "Tantrasangraha", "Brahmasphutasiddhanta", "Surya Siddhanta"],
+      "answer": 1,
+      "explanation": "Nilakantha Somayaji composed the Tantrasangraha around 1500, a key work of the Kerala School."
+    },
+    {
+      "id": "kerala-school-q12",
+      "difficulty": "medium",
+      "q": "The text Yuktibhasha, which gives detailed proofs of Kerala School results, was written in which language?",
+      "options": ["Sanskrit", "Malayalam", "Telugu", "Kannada"],
+      "answer": 1,
+      "explanation": "Jyeshthadeva's Yuktibhasha was written in Malayalam, making it notable for presenting demonstrations in a regional language."
+    },
+    {
+      "id": "kerala-school-q13",
+      "difficulty": "medium",
+      "q": "Who is credited with composing the Yuktibhasha, regarded by some as an early text on calculus?",
+      "options": ["Jyeshthadeva", "Madhava", "Parameshvara", "Sankara Variyar"],
+      "answer": 0,
+      "explanation": "Jyeshthadeva wrote the Yuktibhasha around 1530, giving the rationale and proofs behind earlier results."
+    },
+    {
+      "id": "kerala-school-q14",
+      "difficulty": "medium",
+      "q": "Nilakantha Somayaji proposed a partially heliocentric model in which the inner planets orbit what?",
+      "options": ["The Moon", "The Sun", "A fixed point", "Jupiter"],
+      "answer": 1,
+      "explanation": "In the Tantrasangraha, Nilakantha had Mercury and Venus orbit the Sun, while the Sun orbits the Earth, anticipating Tycho Brahe's model."
+    },
+    {
+      "id": "kerala-school-q15",
+      "difficulty": "medium",
+      "q": "Madhava is credited with one of the first uses of which mathematical idea, central to calculus?",
+      "options": ["Matrix inversion", "The limit and infinite series summation", "Complex numbers", "The decimal point"],
+      "answer": 1,
+      "explanation": "Madhava worked with infinite series and limiting processes, ideas that lie at the heart of calculus."
+    },
+    {
+      "id": "kerala-school-q16",
+      "difficulty": "medium",
+      "q": "Madhava's series for pi included correction terms that greatly improved its convergence. What did these terms achieve?",
+      "options": ["They diverged the series", "They made the series finite", "They gave faster, more accurate approximations of pi", "They removed pi entirely"],
+      "answer": 2,
+      "explanation": "Madhava added end-correction terms to the slowly converging series, yielding remarkably accurate values of pi."
+    },
+    {
+      "id": "kerala-school-q17",
+      "difficulty": "medium",
+      "q": "Parameshvara, a member of the Kerala School lineage, is especially noted for developing what kind of astronomical model?",
+      "options": ["A flat-Earth model", "The drgganita system based on observation", "A purely heliocentric model", "A geocentric Big Bang model"],
+      "answer": 1,
+      "explanation": "Parameshvara developed the Drgganita system, revising astronomical parameters to better match observations."
+    },
+    {
+      "id": "kerala-school-q18",
+      "difficulty": "medium",
+      "q": "Madhava is sometimes regarded by historians as a forerunner of which mathematical concept named for a later mathematician?",
+      "options": ["Pascal's triangle", "Cramer's rule", "The Newton-Raphson method", "The Taylor series"],
+      "answer": 3,
+      "explanation": "His power series for sine and cosine are essentially the Taylor (Maclaurin) series, derived centuries before Brook Taylor."
+    },
+    {
+      "id": "kerala-school-q19",
+      "difficulty": "medium",
+      "q": "Which Kerala School text by Sankara Variyar serves as a commentary explaining the Tantrasangraha?",
+      "options": ["Kriyakramakari", "Yuktidipika (Tantrasangraha-vyakhya)", "Aryabhatiya", "Ganita Kaumudi"],
+      "answer": 1,
+      "explanation": "Sankara Variyar wrote the Yuktidipika, a commentary on Nilakantha's Tantrasangraha."
+    },
+    {
+      "id": "kerala-school-q20",
+      "difficulty": "medium",
+      "q": "The Kerala School represents a continuation of the mathematical tradition of which earlier Indian astronomer-mathematician?",
+      "options": ["Mahavira", "Sridhara", "Pingala", "Aryabhata"],
+      "answer": 3,
+      "explanation": "The school built on the work of Aryabhata, and Nilakantha even wrote an important commentary on the Aryabhatiya."
+    },
+    {
+      "id": "kerala-school-q21",
+      "difficulty": "medium",
+      "q": "How many decimal places of pi could be obtained from Madhava's most accurate value?",
+      "options": ["About 2", "About 11", "About 50", "About 100"],
+      "answer": 1,
+      "explanation": "Madhava's best value of pi is accurate to about 11 decimal places, an extraordinary achievement for his era."
+    },
+    {
+      "id": "kerala-school-q22",
+      "difficulty": "medium",
+      "q": "Most of Madhava's original mathematical works are lost, and his results are known mainly through what?",
+      "options": ["Coins and inscriptions", "Writings of his successors and commentators", "European manuscripts", "Temple carvings"],
+      "answer": 1,
+      "explanation": "Madhava's discoveries survive chiefly through citations by later Kerala School scholars such as Nilakantha and Jyeshthadeva."
+    },
+    {
+      "id": "kerala-school-q23",
+      "difficulty": "hard",
+      "q": "The Madhava-Newton style power series for the sine function is expressed in terms of powers of which quantity?",
+      "options": ["The arc (angle)", "The radius squared", "The chord length", "The area of the sector"],
+      "answer": 0,
+      "explanation": "Madhava expressed the sine as an infinite series in powers of the arc, equivalent to the modern sine power series."
+    },
+    {
+      "id": "kerala-school-q24",
+      "difficulty": "hard",
+      "q": "Parameshvara, an early figure linked to the school, is recorded as having made systematic observations over roughly how long a period?",
+      "options": ["A few months", "About fifty-five years", "Five years", "Two centuries"],
+      "answer": 1,
+      "explanation": "Parameshvara is noted for carrying out astronomical observations over an unusually long span, reported as a period of about fifty-five years."
+    },
+    {
+      "id": "kerala-school-q25",
+      "difficulty": "hard",
+      "q": "Which lineage best reflects the teacher-student succession within the Kerala School?",
+      "options": ["Madhava to Parameshvara to Nilakantha", "Aryabhata to Madhava to Euler", "Bhaskara to Newton to Madhava", "Brahmagupta to Jyeshthadeva to Gauss"],
+      "answer": 0,
+      "explanation": "The transmission ran roughly from Madhava to Parameshvara to Damodara to Nilakantha, preserving the school's results."
+    },
+    {
+      "id": "kerala-school-q26",
+      "difficulty": "hard",
+      "q": "The Kerala School's results on summing series effectively used what mathematical technique foundational to integral calculus?",
+      "options": ["Term-by-term summation approaching an integral", "Gaussian elimination", "Modular arithmetic", "The sieve of Eratosthenes"],
+      "answer": 0,
+      "explanation": "They summed series of powers and passed to limiting sums, a procedure equivalent to early integration."
+    },
+    {
+      "id": "kerala-school-q27",
+      "difficulty": "hard",
+      "q": "The hypothesis that Kerala School ideas may have reached Europe often points to contact through whom?",
+      "options": ["Mongol traders", "Jesuit missionaries in the 16th-17th centuries", "Roman merchants", "Norse explorers"],
+      "answer": 1,
+      "explanation": "Some historians have proposed, though it remains unproven, that Jesuit missionaries could have transmitted Kerala results to Europe."
+    },
+    {
+      "id": "kerala-school-q28",
+      "difficulty": "hard",
+      "q": "Madhava's mnemonic verse for pi gives a value associated with which approximate figure?",
+      "options": ["3.14159265359", "3.1428", "3.16", "3.12"],
+      "answer": 0,
+      "explanation": "Madhava's encoded value of pi corresponds to approximately 3.14159265359, correct to about eleven digits."
+    },
+    {
+      "id": "kerala-school-q29",
+      "difficulty": "hard",
+      "q": "Nilakantha's correction to the lunar and planetary equations of center reflected his use of what?",
+      "options": ["A computer", "Improved geometric models and observations", "Algebraic symbols", "Logarithm tables"],
+      "answer": 1,
+      "explanation": "Nilakantha refined planetary models using better geometry and observational corrections in the Tantrasangraha."
+    },
+    {
+      "id": "kerala-school-q30",
+      "difficulty": "hard",
+      "q": "Why is the Kerala School historically significant in the global history of mathematics?",
+      "options": ["It invented the abacus", "It anticipated key results of calculus and infinite series before Europe", "It first used Roman numerals", "It proved Fermat's Last Theorem"],
+      "answer": 1,
+      "explanation": "The school anticipated infinite series, power series for trigonometric functions, and ideas of calculus centuries before their European discovery."
+    }
+  ]
+}

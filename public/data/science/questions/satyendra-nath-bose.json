@@ -1,0 +1,245 @@
+{
+  "cardId": "satyendra-nath-bose",
+  "questions": [
+    {
+      "id": "satyendra-nath-bose-q01",
+      "difficulty": "easy",
+      "q": "Satyendra Nath Bose is best known as the namesake of which class of particles?",
+      "options": ["Leptons", "Hadrons", "Fermions", "Bosons"],
+      "answer": 3,
+      "explanation": "The class of particles that obey Bose-Einstein statistics is named bosons in honour of Satyendra Nath Bose."
+    },
+    {
+      "id": "satyendra-nath-bose-q02",
+      "difficulty": "easy",
+      "q": "Bose's pioneering work on quantum statistics was developed in collaboration with which famous physicist?",
+      "options": ["Niels Bohr", "Max Planck", "Werner Heisenberg", "Albert Einstein"],
+      "answer": 3,
+      "explanation": "Bose's idea was extended by Albert Einstein, leading to what is now called Bose-Einstein statistics."
+    },
+    {
+      "id": "satyendra-nath-bose-q03",
+      "difficulty": "easy",
+      "q": "What was Satyendra Nath Bose's nationality?",
+      "options": ["British", "German", "American", "Indian"],
+      "answer": 3,
+      "explanation": "Satyendra Nath Bose was an Indian physicist, born in Calcutta in 1894."
+    },
+    {
+      "id": "satyendra-nath-bose-q04",
+      "difficulty": "easy",
+      "q": "The statistics named after Bose and Einstein describe the behaviour of which kind of particles?",
+      "options": ["Particles with half-integer spin", "Particles with integer spin", "Only charged particles", "Only massless particles"],
+      "answer": 1,
+      "explanation": "Bose-Einstein statistics describe particles with integer spin, known as bosons."
+    },
+    {
+      "id": "satyendra-nath-bose-q05",
+      "difficulty": "easy",
+      "q": "Bose's famous 1924 paper provided a new derivation of which physical law?",
+      "options": ["Planck's law of black-body radiation", "Newton's law of gravitation", "Ohm's law", "Boyle's law"],
+      "answer": 0,
+      "explanation": "Bose derived Planck's black-body radiation law purely from the statistics of light quanta, without classical electrodynamics."
+    },
+    {
+      "id": "satyendra-nath-bose-q06",
+      "difficulty": "easy",
+      "q": "In which city was Satyendra Nath Bose born?",
+      "options": ["Mumbai", "Delhi", "Calcutta (Kolkata)", "Madras (Chennai)"],
+      "answer": 2,
+      "explanation": "Bose was born in Calcutta (present-day Kolkata) on 1 January 1894."
+    },
+    {
+      "id": "satyendra-nath-bose-q07",
+      "difficulty": "easy",
+      "q": "The particles called 'bosons' are named after Bose. What is the corresponding class named after Enrico Fermi?",
+      "options": ["Mesons", "Baryons", "Fermions", "Photons"],
+      "answer": 2,
+      "explanation": "Particles with half-integer spin obey Fermi-Dirac statistics and are called fermions."
+    },
+    {
+      "id": "satyendra-nath-bose-q08",
+      "difficulty": "easy",
+      "q": "Bose's subtitle in this deck calls him the 'Father of the' what?",
+      "options": ["Boson", "Atom", "Laser", "Transistor"],
+      "answer": 0,
+      "explanation": "Because the boson particle class is named after him, Bose is often called the 'Father of the Boson'."
+    },
+    {
+      "id": "satyendra-nath-bose-q09",
+      "difficulty": "easy",
+      "q": "Bose was primarily a scientist in which field?",
+      "options": ["Chemistry", "Physics", "Botany", "Astronomy"],
+      "answer": 1,
+      "explanation": "Satyendra Nath Bose was a theoretical physicist renowned for his work in quantum mechanics."
+    },
+    {
+      "id": "satyendra-nath-bose-q10",
+      "difficulty": "easy",
+      "q": "The exotic state of matter predicted to arise from Bose-Einstein statistics at very low temperatures is called a:",
+      "options": ["Bose-Einstein condensate", "Plasma", "Neutron star", "Superalloy"],
+      "answer": 0,
+      "explanation": "Bose-Einstein statistics predict that bosons can collapse into a single quantum state called a Bose-Einstein condensate."
+    },
+    {
+      "id": "satyendra-nath-bose-q11",
+      "difficulty": "medium",
+      "q": "In what year did Bose send his landmark paper on the derivation of Planck's law to Einstein?",
+      "options": ["1905", "1924", "1935", "1947"],
+      "answer": 1,
+      "explanation": "Bose sent his paper to Einstein in 1924, asking for help getting it published."
+    },
+    {
+      "id": "satyendra-nath-bose-q12",
+      "difficulty": "medium",
+      "q": "What was the title of Bose's 1924 paper that Einstein helped publish?",
+      "options": ["On the Theory of Relativity", "Planck's Law and the Hypothesis of Light Quanta", "The Structure of the Atom", "A Dynamical Theory of the Electromagnetic Field"],
+      "answer": 1,
+      "explanation": "Bose's paper, 'Planck's Law and the Hypothesis of Light Quanta', founded what became Bose-Einstein statistics."
+    },
+    {
+      "id": "satyendra-nath-bose-q13",
+      "difficulty": "medium",
+      "q": "Einstein personally did what with Bose's manuscript to get it published in a German journal?",
+      "options": ["Rejected it as incorrect", "Translated it into German and recommended it", "Rewrote it entirely under his own name", "Sent it to a British journal"],
+      "answer": 1,
+      "explanation": "Einstein recognised the importance of the work, translated it into German, and arranged for its publication in Zeitschrift für Physik."
+    },
+    {
+      "id": "satyendra-nath-bose-q14",
+      "difficulty": "medium",
+      "q": "At which two Bengal universities did Bose serve as a professor during his career?",
+      "options": ["Bombay and Pune", "Dhaka and Calcutta", "Delhi and Aligarh", "Madras and Mysore"],
+      "answer": 1,
+      "explanation": "Bose taught at the University of Dhaka and later at the University of Calcutta."
+    },
+    {
+      "id": "satyendra-nath-bose-q15",
+      "difficulty": "medium",
+      "q": "Bose's key statistical insight involved a new way of counting what?",
+      "options": ["The wavelengths of sound", "Indistinguishable photons (light quanta) in phase space", "The number of electrons in an atom", "Planetary orbits"],
+      "answer": 1,
+      "explanation": "Bose treated photons as indistinguishable and counted their states in phase space, a radical departure from classical statistics."
+    },
+    {
+      "id": "satyendra-nath-bose-q16",
+      "difficulty": "medium",
+      "q": "Which prestigious British scientific society made Bose a Fellow (FRS) in 1958?",
+      "options": ["The Royal Society", "The British Academy", "The Linnean Society", "The Royal Astronomical Society"],
+      "answer": 0,
+      "explanation": "Bose was elected a Fellow of the Royal Society of London in 1958."
+    },
+    {
+      "id": "satyendra-nath-bose-q17",
+      "difficulty": "medium",
+      "q": "Which high civilian honour did the Government of India award to Bose in 1954?",
+      "options": ["Bharat Ratna", "Padma Vibhushan", "Param Vir Chakra", "Ashoka Chakra"],
+      "answer": 1,
+      "explanation": "Bose was awarded the Padma Vibhushan, one of India's highest civilian honours, in 1954."
+    },
+    {
+      "id": "satyendra-nath-bose-q18",
+      "difficulty": "medium",
+      "q": "Despite his monumental contribution, which major prize did Bose never receive?",
+      "options": ["The Nobel Prize", "The Padma Vibhushan", "Fellowship of the Royal Society", "An Indian National Professorship"],
+      "answer": 0,
+      "explanation": "Bose never won the Nobel Prize, even though several later prizes were awarded for work building on Bose-Einstein statistics."
+    },
+    {
+      "id": "satyendra-nath-bose-q19",
+      "difficulty": "medium",
+      "q": "Alongside fellow Bengali physicist Meghnad Saha, Bose helped produce an early English collection of which scientist's papers?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Michael Faraday"],
+      "answer": 1,
+      "explanation": "Bose and Meghnad Saha translated and compiled Einstein's papers on relativity into English in the 1920s."
+    },
+    {
+      "id": "satyendra-nath-bose-q20",
+      "difficulty": "medium",
+      "q": "Which fundamental particle, the carrier of the electromagnetic force, is itself a boson?",
+      "options": ["Electron", "Photon", "Quark", "Neutrino"],
+      "answer": 1,
+      "explanation": "The photon, a spin-1 particle, is a boson and was central to Bose's original analysis of light quanta."
+    },
+    {
+      "id": "satyendra-nath-bose-q21",
+      "difficulty": "medium",
+      "q": "Bose was made a National Professor of India in which decade, the country's highest honour for a scholar?",
+      "options": ["1920s", "1950s", "1940s", "1980s"],
+      "answer": 1,
+      "explanation": "Bose was appointed National Professor of India in 1958, the highest honour for a scholar in the country."
+    },
+    {
+      "id": "satyendra-nath-bose-q22",
+      "difficulty": "medium",
+      "q": "Besides physics, Bose was a noted enthusiast and contributor in which other area?",
+      "options": ["Bengali literature and language", "Olympic athletics", "Classical sculpture", "Naval engineering"],
+      "answer": 0,
+      "explanation": "Bose was deeply interested in literature and promoted science education and writing in the Bengali language."
+    },
+    {
+      "id": "satyendra-nath-bose-q23",
+      "difficulty": "hard",
+      "q": "In which German physics journal did Einstein arrange for Bose's 1924 paper to appear?",
+      "options": ["Annalen der Physik", "Zeitschrift für Physik", "Physical Review", "Nature"],
+      "answer": 1,
+      "explanation": "Einstein had Bose's paper published in the journal Zeitschrift für Physik."
+    },
+    {
+      "id": "satyendra-nath-bose-q24",
+      "difficulty": "hard",
+      "q": "Bose's derivation worked because he treated photons as indistinguishable, which changed the counting of microstates. This conflicted with which earlier assumption of classical statistics?",
+      "options": ["That particles are distinguishable (Maxwell-Boltzmann statistics)", "That energy is quantized", "That light travels in straight lines", "That atoms have a nucleus"],
+      "answer": 0,
+      "explanation": "Classical Maxwell-Boltzmann statistics assume distinguishable particles, whereas Bose required photons to be treated as indistinguishable."
+    },
+    {
+      "id": "satyendra-nath-bose-q25",
+      "difficulty": "hard",
+      "q": "Before his 1924 breakthrough, Bose and Meghnad Saha co-authored an influential paper on the equation of state for which kind of gas?",
+      "options": ["A real (non-ideal) gas", "A monatomic noble gas only", "A gas of neutrons", "An interstellar plasma"],
+      "answer": 0,
+      "explanation": "Bose and Saha published early work on the equation of state of real gases before Bose's quantum statistics paper."
+    },
+    {
+      "id": "satyendra-nath-bose-q26",
+      "difficulty": "hard",
+      "q": "Roughly how many years after Bose's death was the first Bose-Einstein condensate created experimentally (in 1995)?",
+      "options": ["About 5 years", "About 21 years", "Within his own lifetime", "Over 100 years"],
+      "answer": 1,
+      "explanation": "Bose died in 1974, and the first gaseous Bose-Einstein condensate was produced in 1995, about 21 years later."
+    },
+    {
+      "id": "satyendra-nath-bose-q27",
+      "difficulty": "hard",
+      "q": "The 2013 Nobel Prize in Physics recognised the theory of the Higgs mechanism. The associated particle's name 'Higgs boson' uses 'boson' in honour of Bose because the Higgs particle has what spin?",
+      "options": ["Spin 1/2", "Spin 0 (integer)", "Spin 3/2", "It has no spin and no mass"],
+      "answer": 1,
+      "explanation": "The Higgs boson has spin 0, an integer value, making it a boson and thus carrying Bose's name."
+    },
+    {
+      "id": "satyendra-nath-bose-q28",
+      "difficulty": "hard",
+      "q": "After receiving Bose's letter and paper, Einstein extended the statistics from photons to a gas of which kind of particles?",
+      "options": ["Massless particles only", "Massive material particles (atoms)", "Electrons exclusively", "Magnetic monopoles"],
+      "answer": 1,
+      "explanation": "Einstein generalised Bose's statistics to a quantum ideal gas of massive atoms, predicting condensation at low temperatures."
+    },
+    {
+      "id": "satyendra-nath-bose-q29",
+      "difficulty": "hard",
+      "q": "Bose obtained his master's degree in mixed (applied) mathematics from which institution, topping the examinations?",
+      "options": ["University of Cambridge", "University of Calcutta", "Imperial College London", "University of Göttingen"],
+      "answer": 1,
+      "explanation": "Bose earned his MSc in mixed mathematics from the University of Calcutta, standing first in his class."
+    },
+    {
+      "id": "satyendra-nath-bose-q30",
+      "difficulty": "hard",
+      "q": "Which statement best captures why Bose's 1924 work was revolutionary?",
+      "options": ["It derived Planck's radiation law from pure statistics of indistinguishable quanta, without invoking classical electromagnetism", "It proved that light is a classical wave", "It disproved the existence of the photon", "It introduced the concept of the atomic nucleus"],
+      "answer": 0,
+      "explanation": "Bose derived Planck's law using only the statistical counting of indistinguishable light quanta, a foundational step for quantum statistics."
+    }
+  ]
+}

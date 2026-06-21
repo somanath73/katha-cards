@@ -1,0 +1,245 @@
+{
+  "cardId": "crescograph",
+  "questions": [
+    {
+      "id": "crescograph-q01",
+      "difficulty": "easy",
+      "q": "The crescograph was an instrument designed to measure what in plants?",
+      "options": ["Their color", "Their weight", "Their growth", "Their smell"],
+      "answer": 2,
+      "explanation": "The crescograph was built to measure and record the very small, slow growth of plants."
+    },
+    {
+      "id": "crescograph-q02",
+      "difficulty": "easy",
+      "q": "Which Indian scientist invented the crescograph?",
+      "options": ["C. V. Raman", "Homi Bhabha", "Meghnad Saha", "Jagadish Chandra Bose"],
+      "answer": 3,
+      "explanation": "The crescograph was invented by the polymath Jagadish Chandra Bose."
+    },
+    {
+      "id": "crescograph-q03",
+      "difficulty": "easy",
+      "q": "What did the crescograph mainly do to a plant's tiny movements so they could be observed?",
+      "options": ["Magnified them greatly", "Cooled them down", "Coloured them", "Erased them"],
+      "answer": 0,
+      "explanation": "The crescograph magnified the minute movements of plant growth enormously so they could be seen and recorded."
+    },
+    {
+      "id": "crescograph-q04",
+      "difficulty": "easy",
+      "q": "The crescograph is associated with the study of which kingdom of living things?",
+      "options": ["Animals", "Plants", "Fungi only", "Bacteria only"],
+      "answer": 1,
+      "explanation": "The crescograph was a tool of plant physiology, used to study how plants grow and respond."
+    },
+    {
+      "id": "crescograph-q05",
+      "difficulty": "easy",
+      "q": "In what broad field of science is the crescograph an important early instrument?",
+      "options": ["Astronomy", "Geology", "Biophysics", "Nuclear physics"],
+      "answer": 2,
+      "explanation": "By applying physical measurement to living plants, the crescograph is a landmark of biophysics."
+    },
+    {
+      "id": "crescograph-q06",
+      "difficulty": "easy",
+      "q": "Bose used the crescograph to argue that plants do what in response to their surroundings?",
+      "options": ["Stay completely still", "Respond to stimuli", "Glow in the dark", "Reproduce instantly"],
+      "answer": 1,
+      "explanation": "Bose used the crescograph to show plants respond to stimuli such as light, temperature, and touch."
+    },
+    {
+      "id": "crescograph-q07",
+      "difficulty": "easy",
+      "q": "Why was an instrument like the crescograph needed to study plant growth directly?",
+      "options": ["Plant growth is far too fast to see", "Plant growth is normally too slow to see directly", "Plants do not grow at all", "Plants only grow at night"],
+      "answer": 1,
+      "explanation": "Ordinary plant growth is so slow that it cannot be seen directly, so the crescograph magnified it to make it visible."
+    },
+    {
+      "id": "crescograph-q08",
+      "difficulty": "easy",
+      "q": "The word 'crescograph' relates to which idea?",
+      "options": ["Growth or increase", "Sound", "Heat", "Light only"],
+      "answer": 0,
+      "explanation": "'Cresco' comes from the Latin for 'to grow,' and '-graph' means 'to record,' so it is a growth recorder."
+    },
+    {
+      "id": "crescograph-q09",
+      "difficulty": "easy",
+      "q": "In which country did Bose carry out his crescograph and plant-response research?",
+      "options": ["Japan", "India", "Brazil", "Egypt"],
+      "answer": 1,
+      "explanation": "Bose did his crescograph research in India, mainly in Calcutta (Kolkata)."
+    },
+    {
+      "id": "crescograph-q10",
+      "difficulty": "easy",
+      "q": "The crescograph helped record not only growth but also a plant's response to which everyday factor?",
+      "options": ["The phases of the Moon", "The price of seeds", "Light", "Human language"],
+      "answer": 2,
+      "explanation": "Bose used the crescograph to record how plant growth changed in response to light, among other stimuli."
+    },
+    {
+      "id": "crescograph-q11",
+      "difficulty": "medium",
+      "q": "In roughly which period did Bose develop and demonstrate the crescograph?",
+      "options": ["The 1650s", "Around the early 1900s", "The 1850s", "The 1980s"],
+      "answer": 1,
+      "explanation": "Bose developed his plant-response instruments, including the crescograph, around the turn of the 20th century."
+    },
+    {
+      "id": "crescograph-q12",
+      "difficulty": "medium",
+      "q": "Bose's high-magnification crescograph was reported to magnify plant movement by a factor on the order of which value?",
+      "options": ["About 10 times", "Exactly 100 times", "About 2 times", "About a million times or more"],
+      "answer": 3,
+      "explanation": "Bose's most refined crescograph could magnify the minute growth movements of a plant on the order of a million times or more."
+    },
+    {
+      "id": "crescograph-q13",
+      "difficulty": "medium",
+      "q": "How did the basic crescograph make slow plant growth visible to an observer?",
+      "options": ["By using a system of levers and a moving record", "By burning the plant", "By weighing the plant on a balance", "By freezing the plant solid"],
+      "answer": 0,
+      "explanation": "The crescograph attached the plant tip to a magnifying lever system that traced its movement onto a moving recording surface."
+    },
+    {
+      "id": "crescograph-q14",
+      "difficulty": "medium",
+      "q": "Bose used the crescograph and related instruments to claim that plants possess what animal-like feature?",
+      "options": ["A beating heart", "Lungs for breathing air", "A bony skeleton", "Electrical signalling like a nervous system"],
+      "answer": 3,
+      "explanation": "Bose argued plants show electrical responses resembling a nervous system, recording their reactions to stimuli."
+    },
+    {
+      "id": "crescograph-q15",
+      "difficulty": "medium",
+      "q": "In which city did Bose later found a research institute where such plant studies continued?",
+      "options": ["Mumbai", "Calcutta (Kolkata)", "Chennai", "Delhi"],
+      "answer": 1,
+      "explanation": "Bose founded the Bose Institute in Calcutta in 1917, where his plant-physiology research carried on."
+    },
+    {
+      "id": "crescograph-q16",
+      "difficulty": "medium",
+      "q": "Bose presented his plant-response findings to which prestigious scientific body in London?",
+      "options": ["The Flat Earth Society", "The Royal Geographical Society", "The Royal Society", "The British Film Institute"],
+      "answer": 2,
+      "explanation": "Bose demonstrated and discussed his plant work before the Royal Society and other leading scientific institutions in London."
+    },
+    {
+      "id": "crescograph-q17",
+      "difficulty": "medium",
+      "q": "Besides ordinary growth, the crescograph could be used to study the effect of which on plants?",
+      "options": ["Radio station frequencies", "Stock prices", "Musical lyrics", "Drugs and chemicals"],
+      "answer": 3,
+      "explanation": "Bose used crescograph recordings to study how chemicals, drugs, and poisons altered plant growth and response."
+    },
+    {
+      "id": "crescograph-q18",
+      "difficulty": "medium",
+      "q": "Bose's broader theme, supported by the crescograph, was the similarity in response between living tissue and what?",
+      "options": ["The Sun and stars", "Ocean tides", "Certain non-living materials", "Printed books"],
+      "answer": 2,
+      "explanation": "Bose argued that plants, animal tissue, and even some non-living materials showed comparable response and fatigue curves."
+    },
+    {
+      "id": "crescograph-q19",
+      "difficulty": "medium",
+      "q": "What did Bose generally do with his inventions, including instruments like the crescograph?",
+      "options": ["Aggressively patented them for profit", "Was reluctant to patent and shared his work freely", "Kept them entirely secret", "Sold them to a single company"],
+      "answer": 1,
+      "explanation": "Bose was famously reluctant to patent his inventions, preferring to share his discoveries openly."
+    },
+    {
+      "id": "crescograph-q20",
+      "difficulty": "medium",
+      "q": "The crescograph belongs to a family of sensitive recording instruments Bose built to measure what in plants?",
+      "options": ["Extremely small movements and responses", "Their genetic code", "Their exact age in years", "Their market value"],
+      "answer": 0,
+      "explanation": "Bose designed a suite of ultra-sensitive instruments to detect and record the tiny movements and electrical responses of plants."
+    },
+    {
+      "id": "crescograph-q21",
+      "difficulty": "medium",
+      "q": "Bose received which honour from the British Crown during the era of his plant research?",
+      "options": ["Appointment as Prime Minister", "A Nobel Prize", "Poet Laureate", "A knighthood"],
+      "answer": 3,
+      "explanation": "Bose was knighted in 1917, becoming Sir Jagadish Chandra Bose."
+    },
+    {
+      "id": "crescograph-q22",
+      "difficulty": "medium",
+      "q": "Before his plant work, Bose was already famous as a pioneer of what other technology?",
+      "options": ["Steam engines", "Short radio (microwave) waves", "Photography", "Printing presses"],
+      "answer": 1,
+      "explanation": "Bose first gained fame as a pioneer of very short radio waves before turning to plant physiology and the crescograph."
+    },
+    {
+      "id": "crescograph-q23",
+      "difficulty": "hard",
+      "q": "Bose advanced the crescograph idea into a version that recorded growth automatically. What is this refined instrument often called?",
+      "options": ["The radio crescograph", "The high-magnification or magnetic crescograph", "The thermal crescograph", "The nuclear crescograph"],
+      "answer": 1,
+      "explanation": "Bose developed an extremely sensitive, high-magnification crescograph (sometimes described as a magnetic crescograph) that traced growth automatically."
+    },
+    {
+      "id": "crescograph-q24",
+      "difficulty": "hard",
+      "q": "Crescograph records typically displayed plant growth as what, plotted against time?",
+      "options": ["A spoken audio file", "A colour photograph", "A traced curve or series of marks", "A three-dimensional sculpture"],
+      "answer": 2,
+      "explanation": "The crescograph produced a graphical trace, a curve or series of marks, showing how the plant grew over time."
+    },
+    {
+      "id": "crescograph-q25",
+      "difficulty": "hard",
+      "q": "Bose's crescograph experiments led him to report that growth could be momentarily affected by stimuli in what way?",
+      "options": ["Growth was completely unaffected by anything", "Growth only occurred once per year", "Growth reversed direction permanently", "Growth could be sped up or slowed by stimulation"],
+      "answer": 3,
+      "explanation": "Bose reported that stimuli such as electric shock, drugs, or temperature could temporarily accelerate or retard a plant's growth rate."
+    },
+    {
+      "id": "crescograph-q26",
+      "difficulty": "hard",
+      "q": "Bose published influential books on plant response. Which subject best describes their focus?",
+      "options": ["The structure of the atom", "Plant irritability and response to stimuli", "Celestial mechanics", "The chemistry of metals only"],
+      "answer": 1,
+      "explanation": "Bose authored works such as 'Plant Response' and 'Researches on Irritability of Plants' detailing his crescograph-based findings."
+    },
+    {
+      "id": "crescograph-q27",
+      "difficulty": "hard",
+      "q": "A key principle behind the crescograph's enormous magnification was the use of which mechanical approach?",
+      "options": ["A nuclear reactor core", "A laser beam interferometer", "Compound levers and optical or mechanical amplification", "A simple kitchen scale"],
+      "answer": 2,
+      "explanation": "The crescograph used compounded levers and amplification to turn a microscopic growth increment into a large, recordable motion."
+    },
+    {
+      "id": "crescograph-q28",
+      "difficulty": "hard",
+      "q": "Bose's claim that plants 'feel' and respond, supported by the crescograph, was received how by the scientific community of his time?",
+      "options": ["Instantly accepted by everyone", "Met with skepticism and debate", "Ignored completely with no discussion", "Awarded a Nobel Prize at once"],
+      "answer": 1,
+      "explanation": "Bose's bold claims about plant sensitivity drew considerable skepticism and debate among contemporary scientists."
+    },
+    {
+      "id": "crescograph-q29",
+      "difficulty": "hard",
+      "q": "The crescograph is best categorised as which kind of historical scientific object?",
+      "options": ["A naturally occurring mineral", "A mathematical theorem", "A scientific instrument or apparatus", "A species of plant"],
+      "answer": 2,
+      "explanation": "The crescograph is a scientific instrument, an apparatus engineered to measure and record plant growth."
+    },
+    {
+      "id": "crescograph-q30",
+      "difficulty": "hard",
+      "q": "Bose's crescograph work is celebrated today chiefly because it pioneered which broader idea?",
+      "options": ["That plants are made of metal", "That plants do not need water", "That plants can speak human languages", "Applying precise physical measurement to living organisms"],
+      "answer": 3,
+      "explanation": "The crescograph pioneered the use of precise physical instruments to quantify the behaviour of living organisms, a foundation of modern biophysics."
+    }
+  ]
+}

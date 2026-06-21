@@ -1,0 +1,245 @@
+{
+  "cardId": "kanada",
+  "questions": [
+    {
+      "id": "kanada-q01",
+      "difficulty": "easy",
+      "q": "Kanada is best remembered for proposing an early version of which scientific concept?",
+      "options": ["The theory of gravity", "Atomic theory", "The theory of evolution", "Heliocentrism"],
+      "answer": 1,
+      "explanation": "Kanada proposed that all matter is composed of indivisible particles, an early form of atomic theory."
+    },
+    {
+      "id": "kanada-q02",
+      "difficulty": "easy",
+      "q": "Which school of Indian philosophy did Kanada found?",
+      "options": ["Nyaya", "Samkhya", "Vaisheshika", "Mimamsa"],
+      "answer": 2,
+      "explanation": "Kanada is traditionally credited as the founder of the Vaisheshika school of philosophy."
+    },
+    {
+      "id": "kanada-q03",
+      "difficulty": "easy",
+      "q": "What term did Kanada use for the indivisible particles that make up all matter?",
+      "options": ["Anu", "Guna", "Dravya", "Karma"],
+      "answer": 0,
+      "explanation": "Kanada called the indivisible particles 'anu', often translated as atom."
+    },
+    {
+      "id": "kanada-q04",
+      "difficulty": "easy",
+      "q": "Kanada is described as 'The Atom Philosopher' because he argued that matter is fundamentally:",
+      "options": ["Continuous and infinitely divisible", "Made of indivisible particles", "An illusion with no real substance", "Composed only of fire"],
+      "answer": 1,
+      "explanation": "He held that matter cannot be divided forever and is ultimately made of indivisible atoms (anu)."
+    },
+    {
+      "id": "kanada-q05",
+      "difficulty": "easy",
+      "q": "The foundational text attributed to Kanada is the:",
+      "options": ["Charaka Samhita", "Vaisheshika Sutra", "Sushruta Samhita", "Arthashastra"],
+      "answer": 1,
+      "explanation": "Kanada is credited with composing the Vaisheshika Sutra, the core text of the Vaisheshika system."
+    },
+    {
+      "id": "kanada-q06",
+      "difficulty": "easy",
+      "q": "Kanada is regarded as a figure from which civilization's intellectual tradition?",
+      "options": ["Ancient Greece", "Ancient Egypt", "Ancient India", "Ancient China"],
+      "answer": 2,
+      "explanation": "Kanada was an ancient Indian sage and philosopher."
+    },
+    {
+      "id": "kanada-q07",
+      "difficulty": "easy",
+      "q": "According to Kanada, larger physical objects are formed when atoms:",
+      "options": ["Dissolve into pure energy", "Combine together", "Remain forever separate", "Turn into light"],
+      "answer": 1,
+      "explanation": "Kanada taught that atoms combine to form larger aggregates and ultimately the objects we perceive."
+    },
+    {
+      "id": "kanada-q08",
+      "difficulty": "easy",
+      "q": "Vaisheshika, the school Kanada founded, is best classified as a system of:",
+      "options": ["Astronomy", "Philosophy", "Music", "Architecture"],
+      "answer": 1,
+      "explanation": "Vaisheshika is one of the classical schools (darshanas) of Indian philosophy."
+    },
+    {
+      "id": "kanada-q09",
+      "difficulty": "easy",
+      "q": "Kanada's central claim about dividing matter was that the process of division:",
+      "options": ["Can continue without any limit", "Eventually reaches an indivisible unit", "Is forbidden by nature", "Produces only water"],
+      "answer": 1,
+      "explanation": "He argued that dividing matter cannot go on endlessly and must end at the indivisible anu."
+    },
+    {
+      "id": "kanada-q10",
+      "difficulty": "easy",
+      "q": "Which of these is another name commonly associated with the sage Kanada?",
+      "options": ["Kashyapa", "Patanjali", "Aryabhata", "Bhaskara"],
+      "answer": 0,
+      "explanation": "Kanada is also known by names such as Kashyapa (and Uluka) in the tradition."
+    },
+    {
+      "id": "kanada-q11",
+      "difficulty": "medium",
+      "q": "The Vaisheshika system is traditionally paired and later integrated with which other school of Indian philosophy?",
+      "options": ["Yoga", "Nyaya", "Vedanta", "Charvaka"],
+      "answer": 1,
+      "explanation": "Vaisheshika became closely allied with the Nyaya school, eventually forming the combined Nyaya-Vaisheshika tradition."
+    },
+    {
+      "id": "kanada-q12",
+      "difficulty": "medium",
+      "q": "In Kanada's Vaisheshika, the world is analyzed in terms of categories called:",
+      "options": ["Padarthas", "Sutras", "Mantras", "Vargas"],
+      "answer": 0,
+      "explanation": "Vaisheshika organizes reality into categories known as padarthas, such as substance, quality and action."
+    },
+    {
+      "id": "kanada-q13",
+      "difficulty": "medium",
+      "q": "How does Kanada's atomism compare in time to the atomism of Greek thinkers like Democritus?",
+      "options": ["It came many centuries after Newton", "It belongs to a comparably ancient period of antiquity", "It was developed only in the 1800s", "It dates to the modern era"],
+      "answer": 1,
+      "explanation": "Kanada's atomic ideas belong to ancient antiquity, comparable in era to early Greek atomists."
+    },
+    {
+      "id": "kanada-q14",
+      "difficulty": "medium",
+      "q": "Which of the following is one of the substances (dravya) recognized in Kanada's Vaisheshika system?",
+      "options": ["Electricity", "Earth (prithvi)", "Plasma", "Magnetism"],
+      "answer": 1,
+      "explanation": "Vaisheshika lists substances including earth (prithvi), water, fire, air, ether, time, space, self and mind."
+    },
+    {
+      "id": "kanada-q15",
+      "difficulty": "medium",
+      "q": "In Vaisheshika thought, the smallest stable combination of atoms is often described as a:",
+      "options": ["Dyad (combination of atoms)", "Single point of light", "Wave", "Vacuum"],
+      "answer": 0,
+      "explanation": "Vaisheshika describes atoms first joining into dyads (and triads), which build up larger bodies."
+    },
+    {
+      "id": "kanada-q16",
+      "difficulty": "medium",
+      "q": "Kanada held that the individual atom itself is:",
+      "options": ["Created and destroyed daily", "Eternal and indestructible", "Made of smaller atoms", "Visible to the naked eye"],
+      "answer": 1,
+      "explanation": "Kanada regarded the atom (anu) as eternal, indestructible and the ultimate unit of matter."
+    },
+    {
+      "id": "kanada-q17",
+      "difficulty": "medium",
+      "q": "Which property does Vaisheshika treat as one of the fundamental categories alongside substance?",
+      "options": ["Quality (guna)", "Profit", "Melody", "Climate"],
+      "answer": 0,
+      "explanation": "Quality (guna) is a core padartha in Vaisheshika, distinct from substance (dravya) and action (karma)."
+    },
+    {
+      "id": "kanada-q18",
+      "difficulty": "medium",
+      "q": "Kanada's atomic theory is significant in the history of science mainly because it was:",
+      "options": ["A confirmed laboratory experiment", "An early philosophical model of matter being made of discrete units", "A description of the periodic table", "A method for splitting the nucleus"],
+      "answer": 1,
+      "explanation": "Its significance lies in being an early conceptual model that matter is built from discrete, indivisible units."
+    },
+    {
+      "id": "kanada-q19",
+      "difficulty": "medium",
+      "q": "The word 'Vaisheshika' is connected to which key concept emphasized by the school?",
+      "options": ["Vishesha, meaning particularity or distinctness", "Vishnu, meaning a deity", "Visha, meaning poison", "Vesha, meaning costume"],
+      "answer": 0,
+      "explanation": "The name derives from 'vishesha', the category of particularity that distinguishes individual things."
+    },
+    {
+      "id": "kanada-q20",
+      "difficulty": "medium",
+      "q": "Kanada is traditionally counted among the founders of the six orthodox (astika) schools of Indian philosophy. Vaisheshika is one of these because it:",
+      "options": ["Rejected all sacred texts", "Accepted the authority of the Vedas", "Was a foreign import", "Worshipped no concepts at all"],
+      "answer": 1,
+      "explanation": "Vaisheshika is an astika (orthodox) school because it accepts the authority of the Vedas."
+    },
+    {
+      "id": "kanada-q21",
+      "difficulty": "medium",
+      "q": "According to the Vaisheshika view, the qualities of a compound object arise from:",
+      "options": ["Pure randomness with no cause", "The atoms and their arrangements that compose it", "Words spoken about it", "The observer's imagination alone"],
+      "answer": 1,
+      "explanation": "The properties of composite objects are explained by the constituent atoms and how they are arranged."
+    },
+    {
+      "id": "kanada-q22",
+      "difficulty": "medium",
+      "q": "Which statement best reflects Kanada's reasoning for why atoms must exist?",
+      "options": ["Because matter glows in the dark", "Because endless division is impossible, there must be a smallest indivisible part", "Because gods declared it", "Because the sky is blue"],
+      "answer": 1,
+      "explanation": "Kanada argued that division cannot proceed infinitely, so there must be a final, indivisible particle."
+    },
+    {
+      "id": "kanada-q23",
+      "difficulty": "hard",
+      "q": "In the Vaisheshika atomic model, three dyads are said to combine to form the smallest perceptible unit, traditionally called a:",
+      "options": ["Trasarenu (triad)", "Parardha", "Yojana", "Kalpa"],
+      "answer": 0,
+      "explanation": "The trasarenu, a triad of dyads, is described as the smallest visible mote of matter in Vaisheshika."
+    },
+    {
+      "id": "kanada-q24",
+      "difficulty": "hard",
+      "q": "Kanada's Vaisheshika enumerates a number of fundamental categories (padarthas). The earliest classical formulation listed how many primary padarthas?",
+      "options": ["Three", "Six", "Twelve", "Twenty"],
+      "answer": 1,
+      "explanation": "The original Vaisheshika system listed six padarthas: substance, quality, action, generality, particularity and inherence."
+    },
+    {
+      "id": "kanada-q25",
+      "difficulty": "hard",
+      "q": "Which padartha in Vaisheshika expresses the relation by which a quality permanently belongs to a substance?",
+      "options": ["Samavaya (inherence)", "Karma (action)", "Samanya (generality)", "Vishesha (particularity)"],
+      "answer": 0,
+      "explanation": "Samavaya, or inherence, is the inseparable relation linking qualities and parts to their substances."
+    },
+    {
+      "id": "kanada-q26",
+      "difficulty": "hard",
+      "q": "A major later commentator who systematized Vaisheshika in the Padartha-dharma-sangraha was:",
+      "options": ["Prashastapada", "Kapila", "Gautama (Akshapada)", "Jaimini"],
+      "answer": 0,
+      "explanation": "Prashastapada wrote the influential Padartha-dharma-sangraha, a key commentary that developed Vaisheshika."
+    },
+    {
+      "id": "kanada-q27",
+      "difficulty": "hard",
+      "q": "In Kanada's scheme, earth, water, fire and air are made of atoms. Which substance is instead treated as all-pervading and non-atomic?",
+      "options": ["Earth", "Water", "Ether (akasha)", "Fire"],
+      "answer": 2,
+      "explanation": "Ether (akasha), along with time and space, is treated as ubiquitous and non-atomic, unlike the atomic substances earth, water, fire and air."
+    },
+    {
+      "id": "kanada-q28",
+      "difficulty": "hard",
+      "q": "Vaisheshika holds that perceptible objects are non-eternal, yet their constituent atoms are eternal. This combination reflects the school's view that the universe undergoes:",
+      "options": ["No change whatsoever", "Cycles of combination and dissolution of atoms", "A single one-time creation only", "Continuous infinite division with no atoms"],
+      "answer": 1,
+      "explanation": "Vaisheshika describes a cosmos where eternal atoms repeatedly combine and dissolve, while composites come and go."
+    },
+    {
+      "id": "kanada-q29",
+      "difficulty": "hard",
+      "q": "The Vaisheshika and Nyaya schools merged largely because they shared which broad orientation?",
+      "options": ["A devotional bhakti focus", "A realist, analytical approach to knowledge and the categories of reality", "A purely ritualistic focus on sacrifice", "A rejection of logic"],
+      "answer": 1,
+      "explanation": "Both were realist and analytical, so Nyaya's logic merged naturally with Vaisheshika's categories of reality."
+    },
+    {
+      "id": "kanada-q30",
+      "difficulty": "hard",
+      "q": "Which statement most accurately characterizes the historical significance of Kanada's atomism within the history of science?",
+      "options": ["It experimentally measured atomic mass", "It was an early speculative, philosophical atomism rather than a quantitative empirical theory", "It directly led to the modern Standard Model", "It denied that matter could be divided at all"],
+      "answer": 1,
+      "explanation": "Kanada's atomism was a pioneering philosophical model of discrete matter, not a quantitative experimental theory."
+    }
+  ]
+}

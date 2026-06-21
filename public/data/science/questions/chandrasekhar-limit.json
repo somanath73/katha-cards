@@ -1,0 +1,245 @@
+{
+  "cardId": "chandrasekhar-limit",
+  "questions": [
+    {
+      "id": "chandrasekhar-limit-q01",
+      "difficulty": "easy",
+      "q": "The Chandrasekhar Limit is the maximum mass that which kind of star can have before it collapses?",
+      "options": ["A red giant", "A white dwarf", "A main-sequence star", "A protostar"],
+      "answer": 1,
+      "explanation": "The Chandrasekhar limit is the maximum mass a white dwarf can have while remaining stable against gravitational collapse."
+    },
+    {
+      "id": "chandrasekhar-limit-q02",
+      "difficulty": "easy",
+      "q": "Approximately how many times the mass of the Sun is the Chandrasekhar Limit?",
+      "options": ["About 1.4 times", "About 5 times", "About 10 times", "About 0.5 times"],
+      "answer": 0,
+      "explanation": "The Chandrasekhar limit is roughly 1.4 solar masses."
+    },
+    {
+      "id": "chandrasekhar-limit-q03",
+      "difficulty": "easy",
+      "q": "After whom is the Chandrasekhar Limit named?",
+      "options": ["Meghnad Saha", "Satyendra Nath Bose", "Subrahmanyan Chandrasekhar", "Homi Bhabha"],
+      "answer": 2,
+      "explanation": "The limit is named after the Indian-American astrophysicist Subrahmanyan Chandrasekhar."
+    },
+    {
+      "id": "chandrasekhar-limit-q04",
+      "difficulty": "easy",
+      "q": "Subrahmanyan Chandrasekhar was born in which country?",
+      "options": ["United Kingdom", "United States", "India", "Sri Lanka"],
+      "answer": 2,
+      "explanation": "Chandrasekhar was born in 1910 in Lahore, then in British India."
+    },
+    {
+      "id": "chandrasekhar-limit-q05",
+      "difficulty": "easy",
+      "q": "Which major prize did Chandrasekhar win in 1983?",
+      "options": ["The Fields Medal", "The Nobel Prize in Physics", "The Turing Award", "The Abel Prize"],
+      "answer": 1,
+      "explanation": "Chandrasekhar shared the 1983 Nobel Prize in Physics for his studies of the structure and evolution of stars."
+    },
+    {
+      "id": "chandrasekhar-limit-q06",
+      "difficulty": "easy",
+      "q": "A white dwarf is held up against gravity mainly by what?",
+      "options": ["Electron degeneracy pressure", "Nuclear fusion in its core", "Magnetic fields", "Radiation from sunspots"],
+      "answer": 0,
+      "explanation": "White dwarfs are supported by electron degeneracy pressure, a quantum-mechanical effect, not by ongoing fusion."
+    },
+    {
+      "id": "chandrasekhar-limit-q07",
+      "difficulty": "easy",
+      "q": "If a white dwarf's mass exceeds the Chandrasekhar Limit, what is the likely outcome?",
+      "options": ["It cools into a planet", "It collapses into a neutron star or black hole", "It becomes a main-sequence star again", "It stays unchanged forever"],
+      "answer": 1,
+      "explanation": "Above the limit, degeneracy pressure fails and the star collapses into a neutron star or black hole."
+    },
+    {
+      "id": "chandrasekhar-limit-q08",
+      "difficulty": "easy",
+      "q": "Chandrasekhar was related to which other Nobel laureate?",
+      "options": ["His father", "His uncle C. V. Raman", "His brother", "His grandfather"],
+      "answer": 1,
+      "explanation": "Chandrasekhar was a nephew of C. V. Raman, who won the Nobel Prize in Physics in 1930."
+    },
+    {
+      "id": "chandrasekhar-limit-q09",
+      "difficulty": "easy",
+      "q": "The Chandrasekhar Limit applies to a star that has run out of what?",
+      "options": ["Nuclear fuel for fusion", "Hydrogen on its surface only", "Dark matter", "Gravity"],
+      "answer": 0,
+      "explanation": "A white dwarf is the remnant of a star that has exhausted its nuclear fuel and no longer fuses elements in its core."
+    },
+    {
+      "id": "chandrasekhar-limit-q10",
+      "difficulty": "easy",
+      "q": "Chandrasekhar spent most of his academic career at which university?",
+      "options": ["University of Chicago", "Harvard University", "University of Calcutta", "University of Oxford"],
+      "answer": 0,
+      "explanation": "Chandrasekhar joined the University of Chicago in 1937 and remained there for the rest of his career."
+    },
+    {
+      "id": "chandrasekhar-limit-q11",
+      "difficulty": "medium",
+      "q": "Chandrasekhar first worked out the mass limit during a voyage to England in which year?",
+      "options": ["1910", "1930", "1947", "1962"],
+      "answer": 1,
+      "explanation": "Chandrasekhar famously developed his ideas on the limit in 1930 while sailing from India to England to study at Cambridge."
+    },
+    {
+      "id": "chandrasekhar-limit-q12",
+      "difficulty": "medium",
+      "q": "Which key physical effect did Chandrasekhar combine with degeneracy to derive the mass limit?",
+      "options": ["Special relativity for the electrons", "Newtonian gravity only", "Chemical bonding", "Thermal convection"],
+      "answer": 0,
+      "explanation": "He realized that at high densities electrons move relativistically, which softens degeneracy pressure and produces a finite maximum mass."
+    },
+    {
+      "id": "chandrasekhar-limit-q13",
+      "difficulty": "medium",
+      "q": "Which famous astronomer publicly ridiculed Chandrasekhar's result at a 1935 Royal Astronomical Society meeting?",
+      "options": ["Edwin Hubble", "Arthur Eddington", "Fred Hoyle", "Harlow Shapley"],
+      "answer": 1,
+      "explanation": "Sir Arthur Eddington famously dismissed Chandrasekhar's collapse result, a clash that delayed acceptance for years."
+    },
+    {
+      "id": "chandrasekhar-limit-q14",
+      "difficulty": "medium",
+      "q": "The exclusion principle underlying electron degeneracy pressure is named after which physicist?",
+      "options": ["Niels Bohr", "Wolfgang Pauli", "Werner Heisenberg", "Erwin Schrodinger"],
+      "answer": 1,
+      "explanation": "Electron degeneracy pressure arises from the Pauli exclusion principle, which forbids identical fermions from occupying the same quantum state."
+    },
+    {
+      "id": "chandrasekhar-limit-q15",
+      "difficulty": "medium",
+      "q": "Which type of supernova is triggered when a white dwarf approaches the Chandrasekhar Limit by accreting matter?",
+      "options": ["Type II", "Type Ia", "Type Ib", "A gamma-ray burst"],
+      "answer": 1,
+      "explanation": "A Type Ia supernova results when a white dwarf nears the Chandrasekhar limit, igniting runaway carbon fusion."
+    },
+    {
+      "id": "chandrasekhar-limit-q16",
+      "difficulty": "medium",
+      "q": "Because Type Ia supernovae explode at a near-fixed mass, they are valuable to astronomers as what?",
+      "options": ["Standard candles for measuring distance", "Sources of neutrino beams", "Sources of dark matter", "Cosmic ray accelerators only"],
+      "answer": 0,
+      "explanation": "Their consistent peak brightness, set by the Chandrasekhar mass, makes Type Ia supernovae reliable standard candles for cosmic distances."
+    },
+    {
+      "id": "chandrasekhar-limit-q17",
+      "difficulty": "medium",
+      "q": "With whom did Chandrasekhar share the 1983 Nobel Prize in Physics?",
+      "options": ["William Fowler", "Hans Bethe", "Subramanyan Anand", "John Bardeen"],
+      "answer": 0,
+      "explanation": "He shared the 1983 prize with William A. Fowler, who was honored for work on nucleosynthesis in stars."
+    },
+    {
+      "id": "chandrasekhar-limit-q18",
+      "difficulty": "medium",
+      "q": "At which English university did Chandrasekhar earn his PhD as a research student?",
+      "options": ["Oxford", "Cambridge", "Manchester", "Edinburgh"],
+      "answer": 1,
+      "explanation": "Chandrasekhar completed his doctorate at the University of Cambridge, working at Trinity College."
+    },
+    {
+      "id": "chandrasekhar-limit-q19",
+      "difficulty": "medium",
+      "q": "Roughly what is the size of a typical white dwarf, despite holding up to about a solar mass?",
+      "options": ["About the size of the Earth", "About the size of Jupiter", "About the size of the Sun", "About the size of the Moon"],
+      "answer": 0,
+      "explanation": "A white dwarf packs up to about 1.4 solar masses into a body roughly the size of the Earth."
+    },
+    {
+      "id": "chandrasekhar-limit-q20",
+      "difficulty": "medium",
+      "q": "Which NASA space telescope, launched in 1999, is named in Chandrasekhar's honor?",
+      "options": ["The Hubble Space Telescope", "The Chandra X-ray Observatory", "The Spitzer Space Telescope", "The Compton Gamma Ray Observatory"],
+      "answer": 1,
+      "explanation": "NASA's Chandra X-ray Observatory, launched in 1999, was named after Chandrasekhar, who was nicknamed Chandra."
+    },
+    {
+      "id": "chandrasekhar-limit-q21",
+      "difficulty": "medium",
+      "q": "Chandrasekhar's mass limit shows that degeneracy pressure becomes less effective at supporting a star as which quantity increases?",
+      "options": ["Electron temperature", "The star's mass and density", "Surface area", "Rotation period"],
+      "answer": 1,
+      "explanation": "As mass and density rise, electrons turn relativistic and degeneracy pressure grows too slowly to resist gravity, defining the limit."
+    },
+    {
+      "id": "chandrasekhar-limit-q22",
+      "difficulty": "medium",
+      "q": "Chandrasekhar served for nearly two decades as managing editor of which influential journal?",
+      "options": ["Nature", "The Astrophysical Journal", "Physical Review Letters", "Science"],
+      "answer": 1,
+      "explanation": "Chandrasekhar was the long-serving managing editor of The Astrophysical Journal from 1952 to 1971."
+    },
+    {
+      "id": "chandrasekhar-limit-q23",
+      "difficulty": "hard",
+      "q": "The Chandrasekhar mass depends inversely on the square of which composition-dependent quantity?",
+      "options": ["The mean molecular weight per electron", "The total stellar luminosity", "The metallicity index", "The opacity coefficient"],
+      "answer": 0,
+      "explanation": "The limit scales as the inverse square of the mean molecular weight per electron, so composition affects the exact value."
+    },
+    {
+      "id": "chandrasekhar-limit-q24",
+      "difficulty": "hard",
+      "q": "In the relativistic limit, the equation of state of degenerate electrons behaves as a polytrope with which index?",
+      "options": ["A polytropic index n equal to 3", "A polytropic index n equal to 1", "An isothermal index", "A polytropic index n equal to 0"],
+      "answer": 0,
+      "explanation": "Ultra-relativistic degenerate gas follows a polytrope of index n = 3, the case that yields a unique limiting mass."
+    },
+    {
+      "id": "chandrasekhar-limit-q25",
+      "difficulty": "hard",
+      "q": "Chandrasekhar's limiting mass is mathematically expressed in terms of which fundamental constants?",
+      "options": ["Planck's constant, the speed of light, and the gravitational constant", "Only Newton's gravitational constant", "The Boltzmann constant and Avogadro's number alone", "The fine-structure constant only"],
+      "answer": 0,
+      "explanation": "The limit combines the Planck constant, the speed of light, and the gravitational constant, with the proton mass, into a single mass scale."
+    },
+    {
+      "id": "chandrasekhar-limit-q26",
+      "difficulty": "hard",
+      "q": "Around the same time as Chandrasekhar, which Soviet physicist independently derived a similar maximum mass for degenerate stars?",
+      "options": ["Lev Landau", "Pyotr Kapitsa", "Andrei Sakharov", "Igor Tamm"],
+      "answer": 0,
+      "explanation": "Lev Landau independently arrived at comparable conclusions about a limiting mass for degenerate stellar matter in the early 1930s."
+    },
+    {
+      "id": "chandrasekhar-limit-q27",
+      "difficulty": "hard",
+      "q": "Earlier work that introduced relativistic corrections to white dwarf structure, foreshadowing the limit, was done by whom?",
+      "options": ["Wilhelm Anderson and Edmund Stoner", "James Jeans and Karl Schwarzschild", "Henry Russell and Annie Cannon", "George Gamow and Ralph Alpher"],
+      "answer": 0,
+      "explanation": "Edmund Stoner and Wilhelm Anderson had earlier estimated a limiting mass using relativistic degeneracy, which Chandrasekhar treated rigorously."
+    },
+    {
+      "id": "chandrasekhar-limit-q28",
+      "difficulty": "hard",
+      "q": "For a typical carbon-oxygen white dwarf with mean molecular weight per electron near 2, the limit comes out to about what value?",
+      "options": ["About 1.4 solar masses", "About 3.0 solar masses", "About 0.6 solar masses", "About 2.5 solar masses"],
+      "answer": 0,
+      "explanation": "With a mean molecular weight per electron of about 2, the Chandrasekhar mass works out to roughly 1.4 solar masses."
+    },
+    {
+      "id": "chandrasekhar-limit-q29",
+      "difficulty": "hard",
+      "q": "Beyond stellar structure, Chandrasekhar made landmark contributions to the theory of which random-motion process?",
+      "options": ["Stochastic and Brownian dynamics in astrophysics", "Quantum chromodynamics", "Plate tectonics", "Genetic drift"],
+      "answer": 0,
+      "explanation": "Chandrasekhar's celebrated 1943 review on stochastic problems brought Brownian-motion methods into dynamical astronomy."
+    },
+    {
+      "id": "chandrasekhar-limit-q30",
+      "difficulty": "hard",
+      "q": "Late in his career, Chandrasekhar published a detailed mathematical study of which subject in general relativity?",
+      "options": ["The mathematical theory of black holes", "The expansion rate of the universe", "The cosmic microwave background", "Stellar nucleosynthesis rates"],
+      "answer": 0,
+      "explanation": "His 1983 monograph, The Mathematical Theory of Black Holes, was a major treatise on black-hole spacetimes."
+    }
+  ]
+}

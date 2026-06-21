@@ -1,0 +1,395 @@
+{
+  "cardId": "barc",
+  "questions": [
+    {
+      "id": "barc-q01",
+      "difficulty": "easy",
+      "q": "What does the abbreviation BARC stand for?",
+      "options": [
+        "Bharat Atomic Reactor Complex",
+        "Bhabha Atomic Research Centre",
+        "Bombay Advanced Research Council",
+        "Bhabha Applied Research Cell"
+      ],
+      "answer": 1,
+      "explanation": "BARC stands for the Bhabha Atomic Research Centre, named after physicist Homi J. Bhabha."
+    },
+    {
+      "id": "barc-q02",
+      "difficulty": "easy",
+      "q": "BARC is named after which Indian physicist?",
+      "options": [
+        "C. V. Raman",
+        "Vikram Sarabhai",
+        "Homi J. Bhabha",
+        "Satyendra Nath Bose"
+      ],
+      "answer": 2,
+      "explanation": "The centre was renamed in honour of Homi J. Bhabha, the founder of India's nuclear programme, after his death in 1966."
+    },
+    {
+      "id": "barc-q03",
+      "difficulty": "easy",
+      "q": "In which city is BARC's main campus located?",
+      "options": [
+        "Mumbai (Trombay)",
+        "Chennai",
+        "Hyderabad",
+        "Bengaluru"
+      ],
+      "answer": 0,
+      "explanation": "BARC's principal campus is at Trombay in Mumbai, Maharashtra."
+    },
+    {
+      "id": "barc-q04",
+      "difficulty": "easy",
+      "q": "BARC is primarily a research centre for which field?",
+      "options": [
+        "Space launch vehicles",
+        "Nuclear science and atomic energy",
+        "Agricultural cooperatives",
+        "Telecommunications"
+      ],
+      "answer": 1,
+      "explanation": "BARC is India's premier nuclear research facility, central to its atomic energy programme."
+    },
+    {
+      "id": "barc-q05",
+      "difficulty": "easy",
+      "q": "Under which national body does BARC primarily operate?",
+      "options": [
+        "Indian Space Research Organisation",
+        "Council of Scientific and Industrial Research",
+        "Department of Atomic Energy",
+        "Defence Research and Development Organisation"
+      ],
+      "answer": 2,
+      "explanation": "BARC functions under India's Department of Atomic Energy (DAE)."
+    },
+    {
+      "id": "barc-q06",
+      "difficulty": "easy",
+      "q": "What was BARC originally called when it was founded in 1954?",
+      "options": [
+        "Indian Nuclear Laboratory",
+        "Atomic Energy Establishment, Trombay (AEET)",
+        "Bhabha Nuclear Institute",
+        "Trombay Reactor Centre"
+      ],
+      "answer": 1,
+      "explanation": "It was established in 1954 as the Atomic Energy Establishment, Trombay (AEET), and renamed BARC in 1967."
+    },
+    {
+      "id": "barc-q07",
+      "difficulty": "easy",
+      "q": "Apsara, commissioned at Trombay in 1956, holds what distinction?",
+      "options": [
+        "India's first satellite",
+        "The first nuclear research reactor in Asia",
+        "India's first supercomputer",
+        "The world's largest particle accelerator"
+      ],
+      "answer": 1,
+      "explanation": "Apsara was the first nuclear research reactor in Asia, built at Trombay and inaugurated in 1956."
+    },
+    {
+      "id": "barc-q08",
+      "difficulty": "easy",
+      "q": "Which type of facilities is BARC best known for housing?",
+      "options": [
+        "Wind tunnels",
+        "Astronomical telescopes",
+        "Nuclear research reactors",
+        "Oil refineries"
+      ],
+      "answer": 2,
+      "explanation": "BARC is home to several of India's research reactors, such as Apsara, CIRUS, Dhruva and Purnima."
+    },
+    {
+      "id": "barc-q09",
+      "difficulty": "easy",
+      "q": "BARC played a central role in which historic 1974 event?",
+      "options": [
+        "India's first nuclear test (Smiling Buddha)",
+        "The launch of Aryabhata satellite",
+        "The Mars Orbiter Mission",
+        "The first IIT opening"
+      ],
+      "answer": 0,
+      "explanation": "Scientists at BARC developed the device for Smiling Buddha, India's first nuclear test at Pokhran in 1974."
+    },
+    {
+      "id": "barc-q10",
+      "difficulty": "easy",
+      "q": "In which year was the Atomic Energy Establishment, Trombay (later BARC) founded?",
+      "options": [
+        "1947",
+        "1954",
+        "1969",
+        "1980"
+      ],
+      "answer": 1,
+      "explanation": "The establishment that became BARC was founded in 1954."
+    },
+    {
+      "id": "barc-q11",
+      "difficulty": "medium",
+      "q": "In which year was the Atomic Energy Establishment, Trombay formally renamed Bhabha Atomic Research Centre?",
+      "options": [
+        "1956",
+        "1962",
+        "1967",
+        "1974"
+      ],
+      "answer": 2,
+      "explanation": "It was renamed BARC in 1967, a year after Homi Bhabha's death in 1966."
+    },
+    {
+      "id": "barc-q12",
+      "difficulty": "medium",
+      "q": "Which BARC reactor, commissioned in 1960, was a Canada-India cooperative reactor whose plutonium was linked to the 1974 test?",
+      "options": [
+        "Dhruva",
+        "CIRUS",
+        "Apsara",
+        "Purnima"
+      ],
+      "answer": 1,
+      "explanation": "CIRUS, a 40 MW reactor built with Canadian help and US heavy water, supplied plutonium associated with the 1974 test."
+    },
+    {
+      "id": "barc-q13",
+      "difficulty": "medium",
+      "q": "Dhruva, BARC's largest indigenous research reactor, was commissioned in which decade?",
+      "options": [
+        "The 1950s",
+        "The 1960s",
+        "The 1980s",
+        "The 2000s"
+      ],
+      "answer": 2,
+      "explanation": "Dhruva, a 100 MW indigenously designed reactor, achieved criticality in 1985."
+    },
+    {
+      "id": "barc-q14",
+      "difficulty": "medium",
+      "q": "What does the reactor name 'CIRUS' principally signify?",
+      "options": [
+        "Central Indian Reactor Unit System",
+        "Canada-India Reactor, U.S. (later styled Canada-India-Research-U.S.)",
+        "Critical Indian Research Uranium Setup",
+        "Combined Isotope Reactor for Uranium Studies"
+      ],
+      "answer": 1,
+      "explanation": "CIRUS reflected the Canada-India reactor that used heavy water supplied by the United States."
+    },
+    {
+      "id": "barc-q15",
+      "difficulty": "medium",
+      "q": "Apsara, India's first reactor, was famously named by whom?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Homi Bhabha",
+        "Vikram Sarabhai",
+        "Indira Gandhi"
+      ],
+      "answer": 1,
+      "explanation": "Homi Bhabha named the reactor Apsara, after the celestial nymphs of Indian mythology."
+    },
+    {
+      "id": "barc-q16",
+      "difficulty": "medium",
+      "q": "Which BARC research reactor's name means 'complete' or 'full' and was a small plutonium-fuelled reactor used for fast-reactor studies?",
+      "options": [
+        "Purnima",
+        "Zerlina",
+        "Kamini",
+        "Apsara"
+      ],
+      "answer": 0,
+      "explanation": "Purnima was a small plutonium-fuelled research reactor at BARC used for fast-reactor physics studies."
+    },
+    {
+      "id": "barc-q17",
+      "difficulty": "medium",
+      "q": "BARC has championed which fuel cycle, suited to India's large reserves of a particular element?",
+      "options": [
+        "The lithium fusion cycle",
+        "The thorium-based fuel cycle",
+        "The plutonium-only cycle",
+        "The deuterium-tritium cycle"
+      ],
+      "answer": 1,
+      "explanation": "Given India's abundant thorium reserves, BARC and DAE have pursued a long-term thorium-based three-stage nuclear programme."
+    },
+    {
+      "id": "barc-q18",
+      "difficulty": "medium",
+      "q": "The 1998 Pokhran-II nuclear tests, in which BARC was deeply involved, were conducted under which operation name?",
+      "options": [
+        "Operation Vijay",
+        "Operation Shakti",
+        "Operation Trishul",
+        "Operation Brahma"
+      ],
+      "answer": 1,
+      "explanation": "Pokhran-II in 1998 was carried out as Operation Shakti, establishing India as a declared nuclear power."
+    },
+    {
+      "id": "barc-q19",
+      "difficulty": "medium",
+      "q": "Beyond power and weapons, BARC has developed irradiation technology widely used for which civilian purpose?",
+      "options": [
+        "Generating wind energy",
+        "Food preservation and medical isotope production",
+        "Desalinating seawater by reverse osmosis only",
+        "Manufacturing semiconductors"
+      ],
+      "answer": 1,
+      "explanation": "BARC applies nuclear technology to food irradiation and the production of radioisotopes for medicine and industry."
+    },
+    {
+      "id": "barc-q20",
+      "difficulty": "medium",
+      "q": "Homi Bhabha proposed a three-stage nuclear power programme for India. What is the intended fuel of the third stage?",
+      "options": [
+        "Natural uranium",
+        "Enriched uranium",
+        "Thorium (uranium-233 bred from thorium)",
+        "Plutonium only"
+      ],
+      "answer": 2,
+      "explanation": "Bhabha's three-stage plan culminates in thorium-based reactors using uranium-233 bred from thorium."
+    },
+    {
+      "id": "barc-q21",
+      "difficulty": "medium",
+      "q": "BARC operates a training school whose graduates form a major part of India's nuclear workforce. What is it commonly called?",
+      "options": [
+        "The BARC Training School",
+        "The Trombay Defence Academy",
+        "The Nuclear Pilots' Institute",
+        "The Bhabha Flying College"
+      ],
+      "answer": 0,
+      "explanation": "The BARC Training School trains young scientists and engineers who go on to staff the DAE's institutions."
+    },
+    {
+      "id": "barc-q22",
+      "difficulty": "medium",
+      "q": "Who served as the first head of the Atomic Energy Establishment, Trombay, the body that became BARC?",
+      "options": [
+        "Raja Ramanna",
+        "Homi J. Bhabha",
+        "Vikram Sarabhai",
+        "Anil Kakodkar"
+      ],
+      "answer": 1,
+      "explanation": "Homi Bhabha founded and first headed the establishment at Trombay that later became BARC."
+    },
+    {
+      "id": "barc-q23",
+      "difficulty": "hard",
+      "q": "Which physicist, later a BARC director, led the team that designed the device for the 1974 Smiling Buddha test?",
+      "options": [
+        "P. K. Iyengar",
+        "Raja Ramanna",
+        "Anil Kakodkar",
+        "M. R. Srinivasan"
+      ],
+      "answer": 1,
+      "explanation": "Raja Ramanna led the team behind India's first nuclear test, Smiling Buddha, in 1974."
+    },
+    {
+      "id": "barc-q24",
+      "difficulty": "hard",
+      "q": "KAMINI, a low-power research reactor designed jointly by BARC and IGCAR, is notable for being fuelled by which isotope tied to India's thorium fuel cycle?",
+      "options": [
+        "Plutonium-239",
+        "Uranium-235",
+        "Uranium-233",
+        "Thorium-232"
+      ],
+      "answer": 2,
+      "explanation": "KAMINI is fuelled by uranium-233 bred from thorium, reflecting India's thorium fuel-cycle ambitions; it was for years the only operating U-233 reactor in the world."
+    },
+    {
+      "id": "barc-q25",
+      "difficulty": "hard",
+      "q": "After CIRUS was permanently shut down (around 2010), which long-running BARC reactor remained the workhorse for radioisotope production and research?",
+      "options": [
+        "Apsara",
+        "Purnima",
+        "Dhruva",
+        "Zerlina"
+      ],
+      "answer": 2,
+      "explanation": "Dhruva became the principal high-flux reactor for isotope production and research after CIRUS was decommissioned."
+    },
+    {
+      "id": "barc-q26",
+      "difficulty": "hard",
+      "q": "An upgraded version of India's first reactor, 'Apsara-U' (Apsara Upgraded), was made critical in which year?",
+      "options": [
+        "1985",
+        "1998",
+        "2009",
+        "2018"
+      ],
+      "answer": 3,
+      "explanation": "Apsara-U, a higher-power upgraded version of the original Apsara, attained criticality in 2018."
+    },
+    {
+      "id": "barc-q27",
+      "difficulty": "hard",
+      "q": "Which nuclear scientist, who rose to head BARC and the Atomic Energy Commission, was a key figure in the 1998 Pokhran-II tests and championed the thorium programme?",
+      "options": [
+        "Anil Kakodkar",
+        "Satish Dhawan",
+        "U. R. Rao",
+        "G. N. Ramachandran"
+      ],
+      "answer": 0,
+      "explanation": "Anil Kakodkar, a former BARC director and AEC chairman, was central to Pokhran-II and India's thorium efforts."
+    },
+    {
+      "id": "barc-q28",
+      "difficulty": "hard",
+      "q": "BARC's earliest small reactors included a heavy-water-moderated zero-energy reactor used for lattice studies. What was its name?",
+      "options": [
+        "Zerlina",
+        "Kalpakkam",
+        "Tarapur",
+        "Narora"
+      ],
+      "answer": 0,
+      "explanation": "Zerlina was a zero-energy, heavy-water reactor at Trombay used to study reactor lattice arrangements."
+    },
+    {
+      "id": "barc-q29",
+      "difficulty": "hard",
+      "q": "BARC has also contributed to high-performance computing for nuclear simulations through a homegrown supercomputer series. What is that series called?",
+      "options": [
+        "PARAM",
+        "Anupam",
+        "SAGA",
+        "EKA"
+      ],
+      "answer": 1,
+      "explanation": "BARC developed the Anupam series of parallel supercomputers for its scientific and nuclear computing needs."
+    },
+    {
+      "id": "barc-q30",
+      "difficulty": "hard",
+      "q": "Which broad description best captures BARC's role within India's nuclear ecosystem?",
+      "options": [
+        "Solely a commercial nuclear power plant operator",
+        "A multidisciplinary R&D centre spanning reactors, fuel cycle, isotopes and strategic programmes",
+        "A purely academic university granting nuclear degrees",
+        "An export agency selling reactors abroad"
+      ],
+      "answer": 1,
+      "explanation": "BARC is a multidisciplinary research centre covering reactor design, fuel-cycle technology, isotopes, materials and strategic programmes, not a power-plant operator."
+    }
+  ]
+}

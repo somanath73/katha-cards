@@ -1,0 +1,245 @@
+{
+  "cardId": "upi",
+  "questions": [
+    {
+      "id": "upi-q01",
+      "difficulty": "easy",
+      "q": "What does the abbreviation UPI stand for?",
+      "options": ["Universal Payment Index", "Unified Payments Interface", "United Payment Infrastructure", "Unique Payment Identifier"],
+      "answer": 1,
+      "explanation": "UPI stands for Unified Payments Interface, India's real-time mobile payment system."
+    },
+    {
+      "id": "upi-q02",
+      "difficulty": "easy",
+      "q": "Which organisation built and operates UPI in India?",
+      "options": ["Reserve Bank of India", "SEBI", "TRAI", "National Payments Corporation of India (NPCI)"],
+      "answer": 3,
+      "explanation": "UPI was developed and is operated by the National Payments Corporation of India (NPCI)."
+    },
+    {
+      "id": "upi-q03",
+      "difficulty": "easy",
+      "q": "In which year was UPI officially launched?",
+      "options": ["2010", "2014", "2016", "2019"],
+      "answer": 2,
+      "explanation": "UPI was launched by NPCI in 2016."
+    },
+    {
+      "id": "upi-q04",
+      "difficulty": "easy",
+      "q": "What is the main purpose of UPI?",
+      "options": ["Filing income tax returns", "Issuing national identity cards", "Real-time transfer of money between bank accounts via mobile", "Tracking stock market prices"],
+      "answer": 2,
+      "explanation": "UPI lets users instantly transfer money between bank accounts through a mobile phone."
+    },
+    {
+      "id": "upi-q05",
+      "difficulty": "easy",
+      "q": "Which of these is a popular way to make a UPI payment in a shop?",
+      "options": ["Scanning a QR code", "Mailing a cheque", "Sending a fax", "Swiping a metro token"],
+      "answer": 0,
+      "explanation": "Scanning a QR code is one of the most common ways to pay merchants via UPI."
+    },
+    {
+      "id": "upi-q06",
+      "difficulty": "easy",
+      "q": "A simple address like 'name@bank' used to send or receive money on UPI is called a what?",
+      "options": ["IFSC code", "Virtual Payment Address (UPI ID)", "PAN number", "SWIFT code"],
+      "answer": 1,
+      "explanation": "A UPI ID, or Virtual Payment Address, lets users transact without sharing bank account numbers."
+    },
+    {
+      "id": "upi-q07",
+      "difficulty": "easy",
+      "q": "Which of the following is a well-known UPI app?",
+      "options": ["Microsoft Word", "Adobe Reader", "Google Pay", "WhatsApp Status"],
+      "answer": 2,
+      "explanation": "Google Pay is one of the major apps that operate on the UPI network in India."
+    },
+    {
+      "id": "upi-q08",
+      "difficulty": "easy",
+      "q": "How quickly are UPI transactions typically settled between users?",
+      "options": ["In about 30 days", "Only at the end of the month", "Only on bank working days at noon", "In real time, within seconds"],
+      "answer": 3,
+      "explanation": "UPI transfers happen in real time, usually completing within a few seconds, around the clock."
+    },
+    {
+      "id": "upi-q09",
+      "difficulty": "easy",
+      "q": "On how many days a week and hours a day does UPI generally operate?",
+      "options": ["Only weekdays, 9 to 5", "24 hours a day, 7 days a week, including holidays", "Only on bank holidays", "Only during daytime hours"],
+      "answer": 1,
+      "explanation": "UPI is designed to run 24x7, every day of the year, including weekends and holidays."
+    },
+    {
+      "id": "upi-q10",
+      "difficulty": "easy",
+      "q": "UPI is widely cited as an example of what kind of national infrastructure?",
+      "options": ["Defence weaponry", "Digital public infrastructure (DPI)", "Highway construction", "Mining technology"],
+      "answer": 1,
+      "explanation": "UPI is a flagship example of India's digital public infrastructure built for population scale."
+    },
+    {
+      "id": "upi-q11",
+      "difficulty": "medium",
+      "q": "NPCI, the operator of UPI, was set up as a not-for-profit organisation under the guidance of which two bodies?",
+      "options": ["SEBI and the stock exchanges", "The Reserve Bank of India and the Indian Banks' Association", "The Election Commission and TRAI", "The Income Tax Department and SEBI"],
+      "answer": 1,
+      "explanation": "NPCI was established by the Reserve Bank of India and the Indian Banks' Association as an umbrella organisation for retail payments."
+    },
+    {
+      "id": "upi-q12",
+      "difficulty": "medium",
+      "q": "UPI was built as a layer on top of which earlier NPCI instant-transfer system?",
+      "options": ["NEFT", "RTGS", "SWIFT", "Immediate Payment Service (IMPS)"],
+      "answer": 3,
+      "explanation": "UPI builds upon the Immediate Payment Service (IMPS) infrastructure also created by NPCI."
+    },
+    {
+      "id": "upi-q13",
+      "difficulty": "medium",
+      "q": "Which person, as a former chairman of UIDAI and tech adviser, is widely associated with championing India's digital public infrastructure including UPI's vision?",
+      "options": ["Nandan Nilekani", "Ratan Tata", "Sundar Pichai", "Raghuram Rajan"],
+      "answer": 0,
+      "explanation": "Nandan Nilekani has been a leading advocate of India Stack and digital public infrastructure underpinning UPI."
+    },
+    {
+      "id": "upi-q14",
+      "difficulty": "medium",
+      "q": "NPCI's own UPI app, used to send and receive money directly, is called what?",
+      "options": ["DigiLocker", "BHIM", "UMANG", "mAadhaar"],
+      "answer": 1,
+      "explanation": "BHIM (Bharat Interface for Money) is NPCI's official UPI app, launched in 2016."
+    },
+    {
+      "id": "upi-q15",
+      "difficulty": "medium",
+      "q": "What does the user typically enter to authenticate and authorise a UPI payment?",
+      "options": ["A one-time fingerprint scan at the bank", "Their full bank account password mailed by post", "A physical token from the branch", "A secret UPI PIN set for their account"],
+      "answer": 3,
+      "explanation": "UPI transactions are authorised by entering a UPI PIN that the user sets for their linked bank account."
+    },
+    {
+      "id": "upi-q16",
+      "difficulty": "medium",
+      "q": "Which feature lets a payee request money from a payer, who then approves it on their app?",
+      "options": ["Collect request", "Standing instruction only", "Cheque truncation", "Demand draft"],
+      "answer": 0,
+      "explanation": "UPI supports 'collect' or request-money flows where the payer approves an incoming request."
+    },
+    {
+      "id": "upi-q17",
+      "difficulty": "medium",
+      "q": "By the early 2020s, UPI was processing roughly what scale of transactions, making India a global leader in real-time payments?",
+      "options": ["A few thousand per year", "Only a few lakh per decade", "Billions of transactions per month", "Hundreds total since launch"],
+      "answer": 2,
+      "explanation": "UPI grew to process billions of transactions every month, making India the world's largest real-time payments market."
+    },
+    {
+      "id": "upi-q18",
+      "difficulty": "medium",
+      "q": "Which broad set of open digital systems, including identity, payments and data layers, is UPI considered a key part of?",
+      "options": ["The India Stack", "The Aadhaar Wall", "The Bharat Grid", "The Digital Highway"],
+      "answer": 0,
+      "explanation": "UPI is a core component of 'India Stack', a set of open APIs and digital public goods."
+    },
+    {
+      "id": "upi-q19",
+      "difficulty": "medium",
+      "q": "A major advantage of UPI's design is that it is interoperable. What does this mean?",
+      "options": ["It works only with one specific bank", "It only works abroad", "It requires a new SIM card for each payment", "Users on different apps and banks can pay each other seamlessly"],
+      "answer": 3,
+      "explanation": "UPI's interoperability lets users transact across different apps and banks on a single common network."
+    },
+    {
+      "id": "upi-q20",
+      "difficulty": "medium",
+      "q": "Which government push around 2016, involving withdrawal of high-value currency notes, is often credited with accelerating UPI adoption?",
+      "options": ["Demonetisation", "Privatisation of railways", "The Green Revolution", "Operation Flood"],
+      "answer": 0,
+      "explanation": "The 2016 demonetisation drive spurred a shift toward digital payments, boosting UPI adoption."
+    },
+    {
+      "id": "upi-q21",
+      "difficulty": "medium",
+      "q": "UPI typically links payments directly to what, rather than to a separate stored-value wallet?",
+      "options": ["A user's bank account", "A prepaid phone balance", "A cryptocurrency exchange", "A postal savings stamp"],
+      "answer": 0,
+      "explanation": "UPI moves money directly from the payer's bank account to the payee's, without needing a separate wallet."
+    },
+    {
+      "id": "upi-q22",
+      "difficulty": "hard",
+      "q": "UPI is built on which programming-style architecture that lets third-party apps plug into the payment rails?",
+      "options": ["A closed proprietary system with no external access", "An open API (application programming interface) architecture", "A purely paper-based ledger system", "A satellite-only communication system"],
+      "answer": 1,
+      "explanation": "UPI exposes open APIs that allow banks and third-party apps to build payment services on the common rails."
+    },
+    {
+      "id": "upi-q23",
+      "difficulty": "hard",
+      "q": "Who was serving as the founding Managing Director and CEO of NPCI during UPI's development and 2016 launch period?",
+      "options": ["A. P. Hota", "Urjit Patel", "K. V. Kamath", "Vishwanathan Anand"],
+      "answer": 0,
+      "explanation": "A. P. Hota was the founding MD and CEO of NPCI and led the organisation through UPI's launch."
+    },
+    {
+      "id": "upi-q24",
+      "difficulty": "hard",
+      "q": "UPI allows a single mobile app to do which of the following that older systems struggled with?",
+      "options": ["Connect to multiple bank accounts of the user at once", "Print physical currency", "Replace the user's Aadhaar number", "Function only with one merchant"],
+      "answer": 0,
+      "explanation": "A single UPI app can link and operate several of a user's bank accounts together."
+    },
+    {
+      "id": "upi-q25",
+      "difficulty": "hard",
+      "q": "Which feature, introduced to UPI, lets users approve a one-time mandate so that money is debited automatically on a future date or recurring schedule?",
+      "options": ["UPI AutoPay (recurring mandates)", "UPI Demonetisation", "UPI Hard Reset", "UPI Cold Storage"],
+      "answer": 0,
+      "explanation": "UPI AutoPay enables recurring payments via e-mandates for subscriptions and bills."
+    },
+    {
+      "id": "upi-q26",
+      "difficulty": "hard",
+      "q": "To use UPI internationally and link with other countries, NPCI set up a dedicated subsidiary called what?",
+      "options": ["NPCI International Payments Limited (NIPL)", "RBI Global Bank", "SEBI Foreign Wing", "Aadhaar Overseas Ltd"],
+      "answer": 0,
+      "explanation": "NPCI International Payments Limited (NIPL) was created to take UPI and RuPay to global markets."
+    },
+    {
+      "id": "upi-q27",
+      "difficulty": "hard",
+      "q": "Which neighbouring country was among the first to formally adopt and link UPI for cross-border payments with India?",
+      "options": ["Bhutan", "Argentina", "Iceland", "South Africa"],
+      "answer": 0,
+      "explanation": "Bhutan was among the first countries to adopt UPI, with formal linkage announced for cross-border payments."
+    },
+    {
+      "id": "upi-q28",
+      "difficulty": "hard",
+      "q": "A notable design choice of UPI is that small person-to-person transfers generally carry what cost to the user?",
+      "options": ["A flat fee of several hundred rupees", "Effectively free or zero merchant-style charges for users", "A mandatory 18% tax per transaction", "A daily subscription charge"],
+      "answer": 1,
+      "explanation": "UPI person-to-person and most small payments have generally been free for users, aiding mass adoption."
+    },
+    {
+      "id": "upi-q29",
+      "difficulty": "hard",
+      "q": "UPI's success is often contrasted with closed payment networks because it is built as which kind of good?",
+      "options": ["A proprietary good owned by a single foreign company", "A public good / open platform serving the whole ecosystem", "A military-only secure channel", "A luxury service for high-net-worth users only"],
+      "answer": 1,
+      "explanation": "UPI is regarded as a digital public good, an open platform that any bank or app can build on."
+    },
+    {
+      "id": "upi-q30",
+      "difficulty": "medium",
+      "q": "What is the chief reason UPI is described as having turned India into a 'world leader in digital payments'?",
+      "options": ["It is the only payment system on Earth", "It enabled the largest volume of real-time retail transactions of any country", "It replaced all of India's banks", "It made cash illegal in India"],
+      "answer": 1,
+      "explanation": "UPI drove India to the world's highest volume of real-time digital retail transactions, a global benchmark for such systems."
+    }
+  ]
+}

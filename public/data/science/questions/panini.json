@@ -1,0 +1,245 @@
+{
+  "cardId": "panini",
+  "questions": [
+    {
+      "id": "panini-q01",
+      "difficulty": "easy",
+      "q": "Panini is best remembered as a master of which field?",
+      "options": ["Astronomy", "Grammar", "Surgery", "Metallurgy"],
+      "answer": 1,
+      "explanation": "Panini was an ancient grammarian, famous for his rigorous formal description of the Sanskrit language."
+    },
+    {
+      "id": "panini-q02",
+      "difficulty": "easy",
+      "q": "What is the title of Panini's celebrated grammatical treatise?",
+      "options": ["Ashtadhyayi", "Aryabhatiya", "Charaka Samhita", "Sulba Sutras"],
+      "answer": 0,
+      "explanation": "Panini's work is the Ashtadhyayi, the foundational treatise on Sanskrit grammar."
+    },
+    {
+      "id": "panini-q03",
+      "difficulty": "easy",
+      "q": "Which language did Panini formally describe in his work?",
+      "options": ["Tamil", "Pali", "Sanskrit", "Prakrit"],
+      "answer": 2,
+      "explanation": "The Ashtadhyayi is a grammar of the Sanskrit language."
+    },
+    {
+      "id": "panini-q04",
+      "difficulty": "easy",
+      "q": "Roughly how many rules does Panini's Ashtadhyayi contain?",
+      "options": ["About 400", "About 4,000", "About 40,000", "About 40"],
+      "answer": 1,
+      "explanation": "The Ashtadhyayi describes Sanskrit with nearly 4,000 concise formal rules."
+    },
+    {
+      "id": "panini-q05",
+      "difficulty": "easy",
+      "q": "The name 'Ashtadhyayi' literally refers to the text being organised into how many chapters?",
+      "options": ["Three", "Eight", "Twelve", "Twenty"],
+      "answer": 1,
+      "explanation": "'Ashtadhyayi' means 'eight chapters' (ashta = eight, adhyaya = chapter)."
+    },
+    {
+      "id": "panini-q06",
+      "difficulty": "easy",
+      "q": "Panini's system of grammar is often praised as an early forerunner of which modern field?",
+      "options": ["Computer science", "Geology", "Genetics", "Oceanography"],
+      "answer": 0,
+      "explanation": "Panini's rule-based formalism is widely admired as anticipating ideas in computer science and formal language theory."
+    },
+    {
+      "id": "panini-q07",
+      "difficulty": "easy",
+      "q": "Panini's rules are best described as which kind of statements about language?",
+      "options": ["Poetic praises", "Historical anecdotes", "Formal grammatical rules", "Religious hymns"],
+      "answer": 2,
+      "explanation": "The Ashtadhyayi consists of terse, formal rules that systematically generate correct Sanskrit forms."
+    },
+    {
+      "id": "panini-q08",
+      "difficulty": "easy",
+      "q": "Panini is generally regarded as a figure of which era?",
+      "options": ["The modern colonial era", "Ancient India", "The 19th century", "The medieval Mughal period"],
+      "answer": 1,
+      "explanation": "Panini was an ancient Indian scholar, traditionally dated to roughly the 4th century BCE."
+    },
+    {
+      "id": "panini-q09",
+      "difficulty": "easy",
+      "q": "A single rule in Panini's Ashtadhyayi is traditionally called a what?",
+      "options": ["Sutra", "Shloka", "Mantra", "Veda"],
+      "answer": 0,
+      "explanation": "Each compact rule in the Ashtadhyayi is called a sutra, an aphoristic statement."
+    },
+    {
+      "id": "panini-q10",
+      "difficulty": "easy",
+      "q": "Why is Panini's grammar considered remarkable for its time?",
+      "options": ["It was written entirely in English", "It systematically derived word forms from a small set of rules", "It used printed type", "It was based on computer simulations"],
+      "answer": 1,
+      "explanation": "Its power lies in deriving the whole language from a compact, ordered set of formal rules."
+    },
+    {
+      "id": "panini-q11",
+      "difficulty": "medium",
+      "q": "Panini is traditionally associated with which region of the ancient world?",
+      "options": ["Kerala in the south", "The Gandhara region in the northwest of the subcontinent", "Sri Lanka", "Bengal"],
+      "answer": 1,
+      "explanation": "Panini is traditionally connected with the northwestern region of Gandhara, often linked to the town of Shalatula near present-day Pakistan."
+    },
+    {
+      "id": "panini-q12",
+      "difficulty": "medium",
+      "q": "Panini's Ashtadhyayi makes heavy use of which compositional technique to keep its rules extremely short?",
+      "options": ["Long narrative explanations", "Abbreviation symbols and technical metalanguage", "Musical notation", "Pictorial diagrams"],
+      "answer": 1,
+      "explanation": "Panini devised a dense technical metalanguage with abbreviations and markers (anubandhas) to compress his rules."
+    },
+    {
+      "id": "panini-q13",
+      "difficulty": "medium",
+      "q": "The set of phonological sound classes listed at the start of Panini's system is traditionally known as the what?",
+      "options": ["Shiva Sutras (Maheshvara Sutras)", "Brahma Sutras", "Yoga Sutras", "Kama Sutras"],
+      "answer": 0,
+      "explanation": "The fourteen Shiva Sutras (Maheshvara Sutras) list the sounds of Sanskrit and underpin Panini's abbreviation system."
+    },
+    {
+      "id": "panini-q14",
+      "difficulty": "medium",
+      "q": "Panini's compact abbreviations formed from the Shiva Sutras, used to denote groups of sounds, are called what?",
+      "options": ["Pratyahara", "Purana", "Pramana", "Prasada"],
+      "answer": 0,
+      "explanation": "A pratyahara is a shorthand that names a contiguous set of sounds, central to Panini's economy of expression."
+    },
+    {
+      "id": "panini-q15",
+      "difficulty": "medium",
+      "q": "Panini's grammar is often described as 'generative' because it does what?",
+      "options": ["Generates electricity", "Produces correct word forms by applying ordered rules", "Randomly creates new words", "Translates Sanskrit into Greek"],
+      "answer": 1,
+      "explanation": "Like a modern generative grammar, Panini's rules produce valid Sanskrit forms from roots and affixes by ordered derivation."
+    },
+    {
+      "id": "panini-q16",
+      "difficulty": "medium",
+      "q": "Which later scholar wrote the 'Mahabhashya', a great commentary on Panini's grammar?",
+      "options": ["Patanjali", "Kalidasa", "Chanakya", "Vyasa"],
+      "answer": 0,
+      "explanation": "Patanjali's Mahabhashya is the famous 'great commentary' that expounds and defends Panini's rules."
+    },
+    {
+      "id": "panini-q17",
+      "difficulty": "medium",
+      "q": "Katyayana is known in the Sanskrit grammatical tradition for composing what kind of supplement to Panini?",
+      "options": ["A new alphabet", "The Varttikas, critical notes on Panini's rules", "A dictionary of Greek", "A book of astronomy"],
+      "answer": 1,
+      "explanation": "Katyayana wrote the Varttikas, concise critical notes refining and correcting Panini's rules."
+    },
+    {
+      "id": "panini-q18",
+      "difficulty": "medium",
+      "q": "Panini, Katyayana, and Patanjali are together honoured in tradition as the three great what?",
+      "options": ["Astronomers", "Sages (munis) of grammar", "Kings", "Poets of love"],
+      "answer": 1,
+      "explanation": "These three are revered as the 'trimuni', the three sages who founded and shaped the Sanskrit grammatical tradition."
+    },
+    {
+      "id": "panini-q19",
+      "difficulty": "medium",
+      "q": "Why do computer scientists find Panini's work especially interesting?",
+      "options": ["He used binary numbers", "His rule system resembles a formal grammar like those used to define programming languages", "He invented the transistor", "He built a mechanical calculator"],
+      "answer": 1,
+      "explanation": "The Ashtadhyayi's ordered, recursive rule system parallels the formal grammars used to specify computer languages."
+    },
+    {
+      "id": "panini-q20",
+      "difficulty": "medium",
+      "q": "A meta-rule in Panini's grammar that governs how other rules are applied is traditionally called a what?",
+      "options": ["Paribhasha", "Pradakshina", "Prarthana", "Pravachana"],
+      "answer": 0,
+      "explanation": "Paribhasha rules are interpretive meta-rules that tell the reader how to apply Panini's other sutras."
+    },
+    {
+      "id": "panini-q21",
+      "difficulty": "medium",
+      "q": "Panini's notion that a more specific rule can override a more general one closely parallels which modern computing idea?",
+      "options": ["Garbage collection", "Exception handling or priority/specificity in rule application", "Floating-point arithmetic", "Network routing"],
+      "answer": 1,
+      "explanation": "Panini's principle that specific rules take precedence over general ones mirrors rule-priority and exception handling in formal systems."
+    },
+    {
+      "id": "panini-q22",
+      "difficulty": "medium",
+      "q": "The Ashtadhyayi primarily aims to describe which register of Sanskrit?",
+      "options": ["Only spoken slang", "The standardized literary and learned language", "A secret cipher", "A pidgin trade tongue"],
+      "answer": 1,
+      "explanation": "Panini codified the standardized, cultivated form of Sanskrit, the 'bhasha' of educated speakers and learned texts."
+    },
+    {
+      "id": "panini-q23",
+      "difficulty": "hard",
+      "q": "Panini's grammar derives words from basic verbal roots known by which Sanskrit term?",
+      "options": ["Dhatu", "Sandhi", "Samasa", "Karaka"],
+      "answer": 0,
+      "explanation": "A dhatu is a verbal root, and Panini's system derives inflected forms by attaching affixes to such roots."
+    },
+    {
+      "id": "panini-q24",
+      "difficulty": "hard",
+      "q": "Panini's framework of 'karakas' deals with what aspect of language?",
+      "options": ["Musical rhythm", "The semantic-syntactic roles of words in a sentence (such as agent and object)", "Star positions", "Coinage and currency"],
+      "answer": 1,
+      "explanation": "The karaka system classifies the grammatical-semantic roles (like agent, object, instrument) that words play, an early case-role theory."
+    },
+    {
+      "id": "panini-q25",
+      "difficulty": "hard",
+      "q": "Which 20th-century linguist famously brought wide attention to the formal, generative nature of Panini's grammar?",
+      "options": ["William Jones", "Leonard Bloomfield", "Ferdinand de Saussure", "Max Muller"],
+      "answer": 1,
+      "explanation": "Leonard Bloomfield praised the Ashtadhyayi as one of the greatest monuments of human intelligence and a model of descriptive rigor."
+    },
+    {
+      "id": "panini-q26",
+      "difficulty": "hard",
+      "q": "Panini's use of an empty grammatical element (a marker with no sound, dropped after triggering a rule) anticipates which modern concept?",
+      "options": ["The null or zero element used in formal grammars", "The integral sign", "Public-key encryption", "The decimal point"],
+      "answer": 0,
+      "explanation": "Panini employed 'it' markers and a notion of zero/null elements (lopa), conceptually akin to the empty symbol in formal language theory."
+    },
+    {
+      "id": "panini-q27",
+      "difficulty": "hard",
+      "q": "The phenomenon of euphonic sound combination at word junctions, systematically treated by Panini, is called what?",
+      "options": ["Sandhi", "Sutra", "Samhita", "Shastra"],
+      "answer": 0,
+      "explanation": "Sandhi rules govern how adjacent sounds merge or change at word and morpheme boundaries, a major part of Panini's system."
+    },
+    {
+      "id": "panini-q28",
+      "difficulty": "hard",
+      "q": "Panini's grammar is sometimes likened to a 'machine' because, given roots and affixes, it does what?",
+      "options": ["Mechanically applies rules to output every valid word form", "Prints books automatically", "Composes original poetry on its own", "Calculates planetary orbits"],
+      "answer": 0,
+      "explanation": "Treated as a kind of algorithm, the Ashtadhyayi mechanically derives correct Sanskrit forms by applying its ordered rules, earning Panini the nickname 'the grammar machine'."
+    },
+    {
+      "id": "panini-q29",
+      "difficulty": "hard",
+      "q": "The 'Dhatupatha' associated with the Paninian tradition is essentially what?",
+      "options": ["A list of verbal roots used by the grammar", "A star catalogue", "A medical formulary", "A book of legal codes"],
+      "answer": 0,
+      "explanation": "The Dhatupatha is a catalogue of Sanskrit verbal roots (dhatus) that supplies the raw material for Panini's derivations."
+    },
+    {
+      "id": "panini-q30",
+      "difficulty": "hard",
+      "q": "The supplementary list of nominal stems and word groups that accompanies Panini's grammar is known as the what?",
+      "options": ["Ganapatha", "Suryasiddhanta", "Lilavati", "Rigveda"],
+      "answer": 0,
+      "explanation": "The Ganapatha is the list of word-groups (ganas) referenced by Panini's rules, complementing the Dhatupatha of roots."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "seamless-celestial-globe",
+  "questions": [
+    {
+      "id": "seamless-celestial-globe-q01",
+      "difficulty": "easy",
+      "q": "What kind of object is the famous \"seamless celestial globe\" of Mughal India?",
+      "options": [
+        "A hollow metal sphere showing the stars and constellations",
+        "A glass bottle blown in one piece",
+        "A stone carving of the Earth",
+        "A wooden model of the Sun"
+      ],
+      "answer": 0,
+      "explanation": "It is a hollow metal globe depicting the celestial sphere with stars and constellations engraved on its surface."
+    },
+    {
+      "id": "seamless-celestial-globe-q02",
+      "difficulty": "easy",
+      "q": "Why are these globes called \"seamless\"?",
+      "options": [
+        "They were carved from a single block of marble",
+        "They were cast as a single hollow piece with no joints or welds",
+        "They were riveted together so neatly the rivets disappear",
+        "They were painted to hide the gaps"
+      ],
+      "answer": 1,
+      "explanation": "Each globe was cast hollow in one continuous piece, with no seams, soldering or welding joining separate halves."
+    },
+    {
+      "id": "seamless-celestial-globe-q03",
+      "difficulty": "easy",
+      "q": "A celestial globe shows the positions of the stars as seen on which surface?",
+      "options": [
+        "The surface of the Moon",
+        "The bottom of the ocean",
+        "The imaginary sphere of the sky",
+        "The interior of the Earth"
+      ],
+      "answer": 2,
+      "explanation": "A celestial globe maps the apparent dome of the heavens, plotting stars and constellations on the imaginary celestial sphere."
+    },
+    {
+      "id": "seamless-celestial-globe-q04",
+      "difficulty": "easy",
+      "q": "Cities such as Kashmir, Lahore and Sialkot, associated with these globes, lie in which broad region?",
+      "options": [
+        "The Indian subcontinent / South Asia",
+        "Central Africa",
+        "Scandinavia",
+        "Southeast China"
+      ],
+      "answer": 0,
+      "explanation": "Kashmir, Lahore and Sialkot are all centres in the Indian subcontinent (South Asia) where these globes were produced."
+    },
+    {
+      "id": "seamless-celestial-globe-q05",
+      "difficulty": "easy",
+      "q": "During which Indian empire were the famous seamless celestial globes chiefly made?",
+      "options": [
+        "The Maurya Empire",
+        "The Gupta Empire",
+        "The Mughal Empire",
+        "The Chola Empire"
+      ],
+      "answer": 2,
+      "explanation": "These globes were produced by metalworkers of the Mughal era, beginning in the late 16th century."
+    },
+    {
+      "id": "seamless-celestial-globe-q06",
+      "difficulty": "easy",
+      "q": "The metalworking method used to create the seamless globes is a form of which casting technique?",
+      "options": [
+        "3D printing",
+        "Lost-wax casting",
+        "Injection moulding",
+        "Glass blowing"
+      ],
+      "answer": 1,
+      "explanation": "The globes were produced using the lost-wax (cire perdue) casting method to form a single hollow sphere."
+    },
+    {
+      "id": "seamless-celestial-globe-q07",
+      "difficulty": "easy",
+      "q": "What metal alloy were the seamless celestial globes typically made of?",
+      "options": [
+        "Pure gold",
+        "Stainless steel",
+        "Aluminium",
+        "Bronze or brass (copper alloy)"
+      ],
+      "answer": 3,
+      "explanation": "The globes were cast from copper alloys such as bronze or brass, sometimes inlaid with silver."
+    },
+    {
+      "id": "seamless-celestial-globe-q08",
+      "difficulty": "easy",
+      "q": "What did metalworkers and historians long believe about making a hollow metal globe in one seamless piece?",
+      "options": [
+        "That it was cheap and easy",
+        "That it was technically impossible",
+        "That only children could do it",
+        "That it required electricity"
+      ],
+      "answer": 1,
+      "explanation": "Casting a hollow sphere with no seam was long thought impossible, which is why these globes are celebrated as a metallurgical marvel."
+    },
+    {
+      "id": "seamless-celestial-globe-q09",
+      "difficulty": "easy",
+      "q": "What are typically engraved across the surface of a seamless celestial globe?",
+      "options": [
+        "Recipes and cooking instructions",
+        "Portraits of emperors",
+        "Maps of trade routes on Earth",
+        "Stars, constellations and coordinate circles"
+      ],
+      "answer": 3,
+      "explanation": "The globes are engraved with stars, the figures of constellations, and reference circles such as the ecliptic and equator."
+    },
+    {
+      "id": "seamless-celestial-globe-q10",
+      "difficulty": "easy",
+      "q": "Roughly how many such seamless celestial globes are known to survive in collections today?",
+      "options": [
+        "Around two dozen",
+        "Several million",
+        "Exactly one",
+        "None at all"
+      ],
+      "answer": 0,
+      "explanation": "Only about twenty-odd seamless celestial globes are known to survive in museums and private collections worldwide."
+    },
+    {
+      "id": "seamless-celestial-globe-q11",
+      "difficulty": "medium",
+      "q": "Which metalworker is credited with casting the first known seamless celestial globe, in 1589–90?",
+      "options": [
+        "Ali Kashmiri ibn Luqman",
+        "Aryabhata",
+        "Mirza Ghalib",
+        "Ramanujan"
+      ],
+      "answer": 0,
+      "explanation": "Ali Kashmiri ibn Luqman cast the earliest known seamless celestial globe in AH 998 (1589–90 CE) at Lahore."
+    },
+    {
+      "id": "seamless-celestial-globe-q12",
+      "difficulty": "medium",
+      "q": "Under which Mughal emperor's reign was the first seamless celestial globe produced?",
+      "options": [
+        "Babur",
+        "Akbar",
+        "Aurangzeb",
+        "Bahadur Shah Zafar"
+      ],
+      "answer": 1,
+      "explanation": "Ali Kashmiri made the first seamless globe in 1589–90, during the reign of the emperor Akbar."
+    },
+    {
+      "id": "seamless-celestial-globe-q13",
+      "difficulty": "medium",
+      "q": "Which city in present-day Pakistan became the main centre producing these seamless globes over several generations?",
+      "options": [
+        "Karachi",
+        "Peshawar",
+        "Lahore",
+        "Multan"
+      ],
+      "answer": 2,
+      "explanation": "Lahore was the principal centre where a dynasty of metalworkers produced seamless celestial globes for generations."
+    },
+    {
+      "id": "seamless-celestial-globe-q14",
+      "difficulty": "medium",
+      "q": "The constellation figures and star positions on the globes follow which earlier astronomical tradition?",
+      "options": [
+        "The Mayan calendar",
+        "The Greco-Islamic tradition descended from Ptolemy",
+        "Modern satellite catalogues",
+        "Norse mythology"
+      ],
+      "answer": 1,
+      "explanation": "The globes follow the Greco-Islamic astronomical tradition, with constellations and star catalogues ultimately deriving from Ptolemy's Almagest."
+    },
+    {
+      "id": "seamless-celestial-globe-q15",
+      "difficulty": "medium",
+      "q": "Star positions are commonly inlaid on the globes using which contrasting metal?",
+      "options": [
+        "Silver",
+        "Lead",
+        "Tin",
+        "Iron"
+      ],
+      "answer": 0,
+      "explanation": "The fixed stars were often marked with inlaid silver points so they would stand out against the bronze or brass surface."
+    },
+    {
+      "id": "seamless-celestial-globe-q16",
+      "difficulty": "medium",
+      "q": "The number 1,018 sometimes associated with these globes refers to what?",
+      "options": [
+        "The weight of a globe in kilograms",
+        "The year the technique was invented",
+        "The number of stars engraved, following the Ptolemaic catalogue",
+        "The price in rupees"
+      ],
+      "answer": 2,
+      "explanation": "Many globes plot the classical catalogue of 1,018 fixed stars inherited from the Ptolemaic / Greco-Islamic tradition."
+    },
+    {
+      "id": "seamless-celestial-globe-q17",
+      "difficulty": "medium",
+      "q": "Why is the inside of a hollow casting so difficult to make seamless using the lost-wax method?",
+      "options": [
+        "The wax is too heavy to melt",
+        "Metal cannot be melted in India",
+        "An internal clay core must be supported and then removed through tiny openings",
+        "Spheres always crack when cooled"
+      ],
+      "answer": 2,
+      "explanation": "A hollow sphere needs an internal clay core held in place by pins; producing a thin, even shell with no seam and clearing the core was the great technical challenge."
+    },
+    {
+      "id": "seamless-celestial-globe-q18",
+      "difficulty": "medium",
+      "q": "Modern scholarly study of these globes is closely associated with which historian of Islamic science?",
+      "options": [
+        "Emilie Savage-Smith",
+        "Marie Curie",
+        "Carl Sagan",
+        "Edwin Hubble"
+      ],
+      "answer": 0,
+      "explanation": "Historian Emilie Savage-Smith catalogued and analysed Islamicate celestial globes, documenting the seamless casting tradition."
+    },
+    {
+      "id": "seamless-celestial-globe-q19",
+      "difficulty": "medium",
+      "q": "Besides being scientific instruments, the globes were also valued as what?",
+      "options": [
+        "Cooking vessels",
+        "Prized works of art and status objects",
+        "Coins for everyday trade",
+        "Weapons of war"
+      ],
+      "answer": 1,
+      "explanation": "Beyond their astronomical function, the finely engraved globes were prized as luxury art objects and symbols of learning and status."
+    },
+    {
+      "id": "seamless-celestial-globe-q20",
+      "difficulty": "medium",
+      "q": "A celestial globe differs from a terrestrial globe in that a celestial globe shows the heavens as if viewed from where?",
+      "options": [
+        "From outside the celestial sphere looking in, so constellations appear mirror-reversed",
+        "From a passing comet",
+        "From the Sun's surface",
+        "From the bottom of a well"
+      ],
+      "answer": 0,
+      "explanation": "A celestial globe presents the sky from an external (god's-eye) viewpoint, outside the celestial sphere, so the constellation figures appear mirror-reversed compared with the naked-eye view from Earth."
+    },
+    {
+      "id": "seamless-celestial-globe-q21",
+      "difficulty": "medium",
+      "q": "Within which broader scientific instrument-making tradition do these seamless globes belong?",
+      "options": [
+        "Indo-Islamic astronomical instrument making, alongside astrolabes",
+        "European clockmaking",
+        "Chinese porcelain manufacture",
+        "Roman road building"
+      ],
+      "answer": 0,
+      "explanation": "The globes are part of the rich Indo-Islamic tradition of astronomical instruments, made alongside astrolabes and other devices."
+    },
+    {
+      "id": "seamless-celestial-globe-q22",
+      "difficulty": "medium",
+      "q": "The inscriptions and labels on most of these globes are written in which language and script?",
+      "options": [
+        "Latin",
+        "Arabic / Persian script",
+        "Greek",
+        "Tamil"
+      ],
+      "answer": 1,
+      "explanation": "Star names and inscriptions on the globes are typically engraved in Arabic and Persian, the scholarly languages of the Mughal court."
+    },
+    {
+      "id": "seamless-celestial-globe-q23",
+      "difficulty": "hard",
+      "q": "The family workshop in Lahore that produced many seamless globes is often referred to in scholarship as which dynasty of instrument makers?",
+      "options": [
+        "The Lahore family of astrolabists / globe makers",
+        "The Tata family",
+        "The Wright brothers' workshop",
+        "The Medici workshop"
+      ],
+      "answer": 0,
+      "explanation": "A hereditary Lahore family of instrument makers, descended from the tradition of Ali Kashmiri, produced astrolabes and seamless globes across generations."
+    },
+    {
+      "id": "seamless-celestial-globe-q24",
+      "difficulty": "hard",
+      "q": "Two great reference circles engraved on a celestial globe are the celestial equator and which other key circle?",
+      "options": [
+        "The ecliptic",
+        "The Tropic of Capricorn on Earth",
+        "The Greenwich meridian",
+        "The Arctic Circle of Mars"
+      ],
+      "answer": 0,
+      "explanation": "The ecliptic, the Sun's apparent yearly path through the zodiac, is engraved along with the celestial equator on these globes."
+    },
+    {
+      "id": "seamless-celestial-globe-q25",
+      "difficulty": "hard",
+      "q": "Maker Diya' al-Din Muhammad of Lahore, who signed several surviving globes, worked mainly in which century?",
+      "options": [
+        "The 12th century CE",
+        "The 17th century CE",
+        "The 20th century CE",
+        "The 5th century BCE"
+      ],
+      "answer": 1,
+      "explanation": "Diya' al-Din Muhammad of Lahore was a prolific 17th-century maker who signed numerous astrolabes and seamless celestial globes."
+    },
+    {
+      "id": "seamless-celestial-globe-q26",
+      "difficulty": "hard",
+      "q": "Studies suggest the seamless globes were produced over roughly what span of time before the technique was lost?",
+      "options": [
+        "A few days",
+        "Around five thousand years",
+        "Just a single year",
+        "About two centuries, into the 18th century"
+      ],
+      "answer": 3,
+      "explanation": "The seamless-casting tradition flourished from the late 16th into the 18th century, after which knowledge of the technique faded."
+    },
+    {
+      "id": "seamless-celestial-globe-q27",
+      "difficulty": "hard",
+      "q": "On a celestial globe the stars are grouped into the 48 classical constellations defined originally by whom?",
+      "options": [
+        "Isaac Newton",
+        "Ptolemy in the Almagest",
+        "Galileo Galilei",
+        "Brahmagupta"
+      ],
+      "answer": 1,
+      "explanation": "The 48 classical constellations engraved on the globes derive from Ptolemy's 2nd-century Almagest, transmitted through Islamic astronomy."
+    },
+    {
+      "id": "seamless-celestial-globe-q28",
+      "difficulty": "hard",
+      "q": "Which feature of the casting most directly proves to modern scholars that a globe was made in one piece rather than joined?",
+      "options": [
+        "Its bright colour",
+        "The price written on it",
+        "The presence of two clear hemispheres bolted together",
+        "The complete absence of any seam line or solder joint on inner and outer surfaces"
+      ],
+      "answer": 3,
+      "explanation": "Examination shows no seam, solder, or join on either surface, confirming the sphere was cast as a single hollow shell."
+    },
+    {
+      "id": "seamless-celestial-globe-q29",
+      "difficulty": "hard",
+      "q": "Globes typically sat in a stand fitted with a graduated metal ring representing which structure of the sky?",
+      "options": [
+        "The horizon and meridian rings of the celestial sphere",
+        "A clock face",
+        "A compass rose for ships",
+        "A ruler for measuring cloth"
+      ],
+      "answer": 0,
+      "explanation": "A celestial globe was mounted in a frame with horizon and meridian rings, letting it model the sky for any latitude and time."
+    },
+    {
+      "id": "seamless-celestial-globe-q30",
+      "difficulty": "hard",
+      "q": "What is the broader scientific significance attributed to these seamless globes today?",
+      "options": [
+        "They prove the Earth is flat",
+        "They demonstrate advanced metallurgical and astronomical skill in Mughal-era South Asia",
+        "They were the first telescopes",
+        "They were used to generate electricity"
+      ],
+      "answer": 1,
+      "explanation": "The globes stand as evidence of sophisticated lost-wax metallurgy combined with astronomical learning in Mughal-era South Asia."
+    }
+  ]
+}

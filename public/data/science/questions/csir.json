@@ -1,0 +1,245 @@
+{
+  "cardId": "csir",
+  "questions": [
+    {
+      "id": "csir-q01",
+      "difficulty": "easy",
+      "q": "What does the acronym CSIR stand for?",
+      "options": ["Central Society for Industrial Research", "Council of Scientific & Industrial Research", "Committee of Science and Innovation Research", "Centre for Strategic and Industrial Research"],
+      "answer": 1,
+      "explanation": "CSIR stands for the Council of Scientific & Industrial Research, India's premier industrial and applied research organisation."
+    },
+    {
+      "id": "csir-q02",
+      "difficulty": "easy",
+      "q": "In which year was CSIR established?",
+      "options": ["1942", "1956", "1969", "1935"],
+      "answer": 0,
+      "explanation": "CSIR was established in 1942, during the period of British rule in India."
+    },
+    {
+      "id": "csir-q03",
+      "difficulty": "easy",
+      "q": "CSIR is best described as which kind of organisation?",
+      "options": ["A single university", "A network of national research laboratories", "A private corporation", "A military academy"],
+      "answer": 1,
+      "explanation": "CSIR is a vast network of national laboratories and institutes spread across India focused on industrial and applied science."
+    },
+    {
+      "id": "csir-q04",
+      "difficulty": "easy",
+      "q": "CSIR primarily focuses on which type of research?",
+      "options": ["Purely theoretical philosophy", "Industrial and applied science research", "Religious studies", "Fine arts and literature"],
+      "answer": 1,
+      "explanation": "CSIR's mandate is to drive India's industrial and applied scientific research for national benefit."
+    },
+    {
+      "id": "csir-q05",
+      "difficulty": "easy",
+      "q": "In which country does CSIR operate?",
+      "options": ["India", "United Kingdom", "United States", "Australia"],
+      "answer": 0,
+      "explanation": "CSIR is India's largest publicly funded research and development organisation."
+    },
+    {
+      "id": "csir-q06",
+      "difficulty": "easy",
+      "q": "CSIR's headquarters is located in which city?",
+      "options": ["Mumbai", "New Delhi", "Bengaluru", "Kolkata"],
+      "answer": 1,
+      "explanation": "CSIR is headquartered in New Delhi, the capital of India."
+    },
+    {
+      "id": "csir-q07",
+      "difficulty": "easy",
+      "q": "Roughly how many decades has CSIR been operating, given it was founded in 1942?",
+      "options": ["About one decade", "About two decades", "More than eight decades", "Less than five years"],
+      "answer": 2,
+      "explanation": "Founded in 1942, CSIR has been operating for more than eight decades as of the 2020s."
+    },
+    {
+      "id": "csir-q08",
+      "difficulty": "easy",
+      "q": "CSIR functions under which broad area of the Indian government?",
+      "options": ["Defence and the armed forces", "Science and technology", "Agriculture and farming", "Foreign affairs"],
+      "answer": 1,
+      "explanation": "CSIR operates in the domain of science and technology, under the umbrella of India's Ministry of Science and Technology."
+    },
+    {
+      "id": "csir-q09",
+      "difficulty": "easy",
+      "q": "Which of these is a well-known CSIR laboratory?",
+      "options": ["National Physical Laboratory (NPL)", "National Stock Exchange", "National Highways Authority", "National Book Trust"],
+      "answer": 0,
+      "explanation": "The National Physical Laboratory (CSIR-NPL) in New Delhi is one of CSIR's flagship laboratories and India's national measurement standards lab."
+    },
+    {
+      "id": "csir-q10",
+      "difficulty": "easy",
+      "q": "What is the primary aim of CSIR's research network?",
+      "options": ["To organise sporting events", "To advance India's industrial and scientific development", "To manage national parks", "To run public transport"],
+      "answer": 1,
+      "explanation": "CSIR was created to drive India's industrial and applied science research and support national development."
+    },
+    {
+      "id": "csir-q11",
+      "difficulty": "medium",
+      "q": "Who serves as the ex-officio President of CSIR?",
+      "options": ["The President of India", "The Prime Minister of India", "The Chief Justice of India", "The Vice-President of India"],
+      "answer": 1,
+      "explanation": "The Prime Minister of India is the ex-officio President of CSIR."
+    },
+    {
+      "id": "csir-q12",
+      "difficulty": "medium",
+      "q": "CSIR is registered under which Indian law?",
+      "options": ["The Companies Act", "The Societies Registration Act, 1860", "The Indian Penal Code", "The Reserve Bank of India Act"],
+      "answer": 1,
+      "explanation": "CSIR is an autonomous body registered under the Societies Registration Act, 1860."
+    },
+    {
+      "id": "csir-q13",
+      "difficulty": "medium",
+      "q": "Approximately how many national laboratories make up the CSIR network?",
+      "options": ["Around 3", "Around 38", "Around 200", "Exactly 5"],
+      "answer": 1,
+      "explanation": "CSIR comprises around 37-38 national laboratories and institutes along with associated outreach and innovation centres."
+    },
+    {
+      "id": "csir-q14",
+      "difficulty": "medium",
+      "q": "Which CSIR laboratory is famous for genomics and molecular biology research?",
+      "options": ["CSIR-IGIB (Institute of Genomics and Integrative Biology)", "CSIR-CRRI (Central Road Research Institute)", "CSIR-CGCRI (Central Glass and Ceramic Research Institute)", "CSIR-CMERI (Central Mechanical Engineering Research Institute)"],
+      "answer": 0,
+      "explanation": "CSIR-IGIB in Delhi specialises in genomics and integrative biology, including human genome and disease genetics work."
+    },
+    {
+      "id": "csir-q15",
+      "difficulty": "medium",
+      "q": "The CSIR-National Aerospace Laboratories (NAL) is located in which city?",
+      "options": ["Hyderabad", "Bengaluru", "Pune", "Chennai"],
+      "answer": 1,
+      "explanation": "CSIR-NAL, India's leading civil aerospace research lab, is based in Bengaluru."
+    },
+    {
+      "id": "csir-q16",
+      "difficulty": "medium",
+      "q": "Which CSIR laboratory developed the well-known Saras light transport aircraft programme?",
+      "options": ["CSIR-NAL (National Aerospace Laboratories)", "CSIR-NPL (National Physical Laboratory)", "CSIR-CFTRI (Central Food Technological Research Institute)", "CSIR-NEERI (National Environmental Engineering Research Institute)"],
+      "answer": 0,
+      "explanation": "The Saras civil aircraft was developed by CSIR-National Aerospace Laboratories in Bengaluru."
+    },
+    {
+      "id": "csir-q17",
+      "difficulty": "medium",
+      "q": "The CSIR-Central Drug Research Institute (CDRI), known for pharmaceutical research, is located in which city?",
+      "options": ["Lucknow", "Jaipur", "Bhopal", "Nagpur"],
+      "answer": 0,
+      "explanation": "CSIR-CDRI, a major drug discovery and development institute, is based in Lucknow."
+    },
+    {
+      "id": "csir-q18",
+      "difficulty": "medium",
+      "q": "The CSIR-Central Food Technological Research Institute (CFTRI) is located in which city?",
+      "options": ["Mysuru (Mysore)", "Chandigarh", "Bhubaneswar", "Guwahati"],
+      "answer": 0,
+      "explanation": "CSIR-CFTRI, focused on food science and technology, is located in Mysuru (Mysore), Karnataka."
+    },
+    {
+      "id": "csir-q19",
+      "difficulty": "medium",
+      "q": "What is the highest Indian science award administered by CSIR for scientists under 45?",
+      "options": ["Bharat Ratna", "Shanti Swarup Bhatnagar Prize for Science and Technology", "Padma Vibhushan", "Dadasaheb Phalke Award"],
+      "answer": 1,
+      "explanation": "CSIR administers the Shanti Swarup Bhatnagar Prize, India's premier science award for researchers under the age of 45."
+    },
+    {
+      "id": "csir-q20",
+      "difficulty": "medium",
+      "q": "CSIR-NEERI, which works on pollution control and water treatment, is headquartered in which city?",
+      "options": ["Surat", "Kanpur", "Nagpur", "Visakhapatnam"],
+      "answer": 2,
+      "explanation": "The CSIR-National Environmental Engineering Research Institute (NEERI) is headquartered in Nagpur."
+    },
+    {
+      "id": "csir-q21",
+      "difficulty": "medium",
+      "q": "BGR-34, an Ayurvedic drug developed by CSIR laboratories and launched in 2016, is used to manage which condition?",
+      "options": ["Type 2 diabetes", "Malaria", "High blood pressure", "Tuberculosis"],
+      "answer": 0,
+      "explanation": "BGR-34, a herbal anti-diabetic drug for type 2 diabetes, was developed by the CSIR labs NBRI and CIMAP and commercialised in 2016."
+    },
+    {
+      "id": "csir-q22",
+      "difficulty": "medium",
+      "q": "CSIR played a key role in India's response to COVID-19 mainly through which kind of contribution?",
+      "options": ["Building fighter jets", "Genome sequencing, diagnostics and drug repurposing research", "Running national elections", "Designing currency notes"],
+      "answer": 1,
+      "explanation": "CSIR labs such as IGIB and others contributed to COVID-19 genome sequencing, testing kits and drug repurposing efforts."
+    },
+    {
+      "id": "csir-q23",
+      "difficulty": "hard",
+      "q": "Who was the founding scientist widely regarded as the architect and first Director-General of CSIR?",
+      "options": ["Homi J. Bhabha", "Shanti Swarup Bhatnagar", "Vikram Sarabhai", "C. V. Raman"],
+      "answer": 1,
+      "explanation": "Sir Shanti Swarup Bhatnagar was the first Director-General of CSIR and is considered the architect of India's national laboratory system."
+    },
+    {
+      "id": "csir-q24",
+      "difficulty": "hard",
+      "q": "CSIR-CCMB, a leading molecular and cell biology institute, is located in which city?",
+      "options": ["Kochi", "Indore", "Patna", "Hyderabad"],
+      "answer": 3,
+      "explanation": "The CSIR-Centre for Cellular and Molecular Biology (CCMB) is located in Hyderabad."
+    },
+    {
+      "id": "csir-q25",
+      "difficulty": "hard",
+      "q": "The CSIR-Indian Institute of Petroleum (IIP) is located in which city?",
+      "options": ["Ahmedabad", "Dehradun", "Coimbatore", "Ranchi"],
+      "answer": 1,
+      "explanation": "CSIR-IIP, which works on petroleum refining and fuel technology, is based in Dehradun."
+    },
+    {
+      "id": "csir-q26",
+      "difficulty": "hard",
+      "q": "Which CSIR laboratory is India's custodian of national measurement standards and timekeeping (the national time scale)?",
+      "options": ["CSIR-NPL (National Physical Laboratory)", "CSIR-CECRI (Central Electrochemical Research Institute)", "CSIR-NIO (National Institute of Oceanography)", "CSIR-IICT (Indian Institute of Chemical Technology)"],
+      "answer": 0,
+      "explanation": "CSIR-NPL in New Delhi maintains India's national standards of measurement and the Indian Standard Time scale."
+    },
+    {
+      "id": "csir-q27",
+      "difficulty": "hard",
+      "q": "The CSIR-National Institute of Oceanography (NIO), studying India's seas and oceans, is headquartered in which location?",
+      "options": ["Port Blair", "Kochi", "Dona Paula, Goa", "Chennai"],
+      "answer": 2,
+      "explanation": "CSIR-NIO is headquartered at Dona Paula in Goa, with regional centres along the Indian coast."
+    },
+    {
+      "id": "csir-q28",
+      "difficulty": "hard",
+      "q": "Which CSIR institute, located in Pune, is known for cutting-edge research in chemistry and chemical sciences?",
+      "options": ["CSIR-Central Leather Research Institute (CLRI)", "CSIR-Central Building Research Institute (CBRI)", "CSIR-National Chemical Laboratory (NCL)", "CSIR-Central Mining Research Institute"],
+      "answer": 2,
+      "explanation": "The CSIR-National Chemical Laboratory (NCL) in Pune is a premier centre for chemical and materials research in India."
+    },
+    {
+      "id": "csir-q29",
+      "difficulty": "hard",
+      "q": "CSIR-CIMAP, which researches medicinal and aromatic plants, is headquartered in which city?",
+      "options": ["Jodhpur", "Lucknow", "Shillong", "Mangaluru"],
+      "answer": 1,
+      "explanation": "The CSIR-Central Institute of Medicinal and Aromatic Plants (CIMAP) is headquartered in Lucknow."
+    },
+    {
+      "id": "csir-q30",
+      "difficulty": "hard",
+      "q": "The CSIR-Central Leather Research Institute (CLRI), one of the world's largest leather research bodies, is located in which city?",
+      "options": ["Kanpur", "Kolkata", "Agra", "Chennai"],
+      "answer": 3,
+      "explanation": "CSIR-CLRI is located in Chennai and is among the largest leather research institutes in the world."
+    }
+  ]
+}

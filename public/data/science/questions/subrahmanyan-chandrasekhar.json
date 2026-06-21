@@ -1,0 +1,245 @@
+{
+  "cardId": "subrahmanyan-chandrasekhar",
+  "questions": [
+    {
+      "id": "subrahmanyan-chandrasekhar-q01",
+      "difficulty": "easy",
+      "q": "Subrahmanyan Chandrasekhar is best known for his work in which field of science?",
+      "options": ["Organic chemistry", "Astrophysics", "Microbiology", "Plate tectonics"],
+      "answer": 1,
+      "explanation": "Chandrasekhar was a theoretical astrophysicist renowned for his work on the structure and evolution of stars."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q02",
+      "difficulty": "easy",
+      "q": "What major award did Chandrasekhar win in 1983?",
+      "options": ["The Fields Medal", "The Turing Award", "The Nobel Prize in Physics", "The Abel Prize"],
+      "answer": 2,
+      "explanation": "Chandrasekhar shared the 1983 Nobel Prize in Physics for his theoretical studies of the structure and evolution of stars."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q03",
+      "difficulty": "easy",
+      "q": "The limit named after Chandrasekhar applies to which kind of star?",
+      "options": ["A white dwarf", "A red giant", "A pulsar", "A protostar"],
+      "answer": 0,
+      "explanation": "The Chandrasekhar limit is the maximum mass a stable white dwarf star can have."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q04",
+      "difficulty": "easy",
+      "q": "Approximately how many solar masses is the Chandrasekhar limit?",
+      "options": ["About 0.5", "About 3.0", "About 1.4", "About 10"],
+      "answer": 2,
+      "explanation": "A white dwarf above roughly 1.4 times the mass of the Sun cannot support itself and collapses."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q05",
+      "difficulty": "easy",
+      "q": "In which country was Chandrasekhar born?",
+      "options": ["India", "England", "United States", "Sri Lanka"],
+      "answer": 0,
+      "explanation": "Chandrasekhar was born in Lahore in British India in 1910."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q06",
+      "difficulty": "easy",
+      "q": "Chandrasekhar was the nephew of which earlier Indian Nobel laureate?",
+      "options": ["Homi Bhabha", "Satyendra Nath Bose", "Meghnad Saha", "C. V. Raman"],
+      "answer": 3,
+      "explanation": "C. V. Raman, winner of the 1930 Nobel Prize in Physics, was Chandrasekhar's uncle."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q07",
+      "difficulty": "easy",
+      "q": "With which American university was Chandrasekhar associated for most of his career?",
+      "options": ["Harvard University", "Stanford University", "The University of Chicago", "Caltech"],
+      "answer": 2,
+      "explanation": "Chandrasekhar spent the bulk of his career at the University of Chicago."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q08",
+      "difficulty": "easy",
+      "q": "By what short name was Chandrasekhar widely known to colleagues?",
+      "options": ["Chandra", "Subbu", "Sekhar", "Raman"],
+      "answer": 0,
+      "explanation": "He was affectionately known as 'Chandra,' and NASA's Chandra X-ray Observatory is named after him."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q09",
+      "difficulty": "easy",
+      "q": "What pressure prevents a white dwarf below the Chandrasekhar limit from collapsing?",
+      "options": ["Radiation pressure from fusion", "Magnetic pressure", "Electron degeneracy pressure", "Thermal gas pressure"],
+      "answer": 2,
+      "explanation": "Electron degeneracy pressure, a quantum effect, supports white dwarfs against gravitational collapse."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q10",
+      "difficulty": "easy",
+      "q": "A NASA space observatory named after Chandrasekhar observes the universe in what kind of light?",
+      "options": ["Radio waves", "Visible light", "Microwaves", "X-rays"],
+      "answer": 3,
+      "explanation": "The Chandra X-ray Observatory, launched in 1999, studies the universe in X-rays."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q11",
+      "difficulty": "medium",
+      "q": "In what year was Chandrasekhar born?",
+      "options": ["1888", "1925", "1910", "1937"],
+      "answer": 2,
+      "explanation": "Chandrasekhar was born on 19 October 1910 in Lahore."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q12",
+      "difficulty": "medium",
+      "q": "Chandrasekhar reportedly made his key insight about white dwarf mass during which journey?",
+      "options": ["A sea voyage from India to England", "A train journey across India", "A flight to the United States", "A walk in the Himalayas"],
+      "answer": 0,
+      "explanation": "He worked out the mass limit as a young man during his 1930 ship voyage from India to Cambridge."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q13",
+      "difficulty": "medium",
+      "q": "Which famous astronomer publicly ridiculed Chandrasekhar's collapse theory in the 1930s?",
+      "options": ["Edwin Hubble", "Harlow Shapley", "Arthur Eddington", "Fred Hoyle"],
+      "answer": 2,
+      "explanation": "Sir Arthur Eddington dismissed Chandrasekhar's result, a clash that delayed acceptance of the theory for years."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q14",
+      "difficulty": "medium",
+      "q": "At which English university did Chandrasekhar earn his PhD?",
+      "options": ["Oxford", "Imperial College London", "Manchester", "Cambridge"],
+      "answer": 3,
+      "explanation": "Chandrasekhar completed his doctorate at Trinity College, Cambridge, in 1933."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q15",
+      "difficulty": "medium",
+      "q": "Chandrasekhar's Nobel Prize work showed that a star above the limit must end as which of these?",
+      "options": ["A stable white dwarf forever", "A main-sequence star", "A neutron star or black hole", "A brown dwarf"],
+      "answer": 2,
+      "explanation": "Above the limit, electron degeneracy fails and the remnant collapses into a neutron star or black hole."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q16",
+      "difficulty": "medium",
+      "q": "Chandrasekhar served for nearly two decades as managing editor of which leading journal?",
+      "options": ["Nature", "Physical Review", "Science", "The Astrophysical Journal"],
+      "answer": 3,
+      "explanation": "He edited The Astrophysical Journal from 1952 to 1971, shaping it into a premier publication."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q17",
+      "difficulty": "medium",
+      "q": "With whom did Chandrasekhar share the 1983 Nobel Prize in Physics?",
+      "options": ["Hans Bethe", "Steven Weinberg", "William Fowler", "He won it alone"],
+      "answer": 2,
+      "explanation": "He shared the prize with William A. Fowler, who was honored for work on the formation of chemical elements."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q18",
+      "difficulty": "medium",
+      "q": "Which late-career book by Chandrasekhar examined a topic in classical literature alongside science?",
+      "options": ["A Brief History of Time", "Cosmos", "The Tao of Physics", "Newton's Principia for the Common Reader"],
+      "answer": 3,
+      "explanation": "His last book, 'Newton's Principia for the Common Reader,' reflected his lifelong study of Newton's work."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q19",
+      "difficulty": "medium",
+      "q": "The physics underlying the Chandrasekhar limit combines gravity with which area of physics?",
+      "options": ["Quantum mechanics and special relativity", "Classical thermodynamics only", "Electromagnetism only", "Fluid dynamics only"],
+      "answer": 0,
+      "explanation": "The limit arises from applying quantum statistics and special relativity to a degenerate electron gas."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q20",
+      "difficulty": "medium",
+      "q": "Chandrasekhar's wide-ranging research included a major treatise on which fluid topic?",
+      "options": ["Hydrodynamic and hydromagnetic stability", "Tidal energy harvesting", "Ocean current mapping", "Aerodynamic drag of cars"],
+      "answer": 0,
+      "explanation": "His book 'Hydrodynamic and Hydromagnetic Stability' (1961) became a classic reference in the field."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q21",
+      "difficulty": "medium",
+      "q": "In which city was Chandrasekhar born, then part of British India?",
+      "options": ["Madras", "Calcutta", "Bombay", "Lahore"],
+      "answer": 3,
+      "explanation": "He was born in Lahore, which is now in Pakistan."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q22",
+      "difficulty": "medium",
+      "q": "Chandrasekhar's discovery was important for understanding which type of stellar explosion?",
+      "options": ["Solar flares", "Gamma-ray bursts from collapsars", "Type Ia supernovae", "Novae from comet impacts"],
+      "answer": 2,
+      "explanation": "A white dwarf reaching the Chandrasekhar mass triggers a Type Ia supernova, used as a cosmic distance marker."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q23",
+      "difficulty": "hard",
+      "q": "Chandrasekhar's mass limit depends on a property of the star's composition called the:",
+      "options": ["Albedo", "Metallicity index", "Surface gravity constant", "Mean molecular weight per electron"],
+      "answer": 3,
+      "explanation": "The limit scales inversely with the square of the mean molecular weight per electron of the stellar material."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q24",
+      "difficulty": "hard",
+      "q": "In which year did Chandrasekhar first publish his result on the maximum mass of white dwarfs?",
+      "options": ["1921", "1948", "1931", "1962"],
+      "answer": 2,
+      "explanation": "He published the mass-limit result in 1931, shortly after arriving in Cambridge."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q25",
+      "difficulty": "hard",
+      "q": "Chandrasekhar's 1939 book that became a foundational text was titled:",
+      "options": ["An Introduction to the Study of Stellar Structure", "Principles of Stellar Dynamics", "Radiative Transfer", "The Mathematical Theory of Black Holes"],
+      "answer": 0,
+      "explanation": "'An Introduction to the Study of Stellar Structure' (1939) consolidated his early work on stellar interiors."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q26",
+      "difficulty": "hard",
+      "q": "Late in his career, Chandrasekhar wrote an influential 1983 monograph on which exotic objects?",
+      "options": ["Quasars", "Dark matter halos", "Black holes", "Cosmic strings"],
+      "answer": 2,
+      "explanation": "'The Mathematical Theory of Black Holes' (1983) was a landmark study of black hole physics."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q27",
+      "difficulty": "hard",
+      "q": "The CFS instability of rotating stars carries Chandrasekhar's name alongside Schutz and which other physicist?",
+      "options": ["Eddington", "Kelvin", "Hubble", "Friedman"],
+      "answer": 3,
+      "explanation": "The Chandrasekhar-Friedman-Schutz (CFS) instability describes how rotating stars can become unstable through gravitational radiation."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q28",
+      "difficulty": "hard",
+      "q": "Which highest U.S. civilian science honor did Chandrasekhar receive in 1966?",
+      "options": ["The Presidential Medal of Freedom", "The Enrico Fermi Award", "The National Medal of Science", "The Copley Medal"],
+      "answer": 2,
+      "explanation": "He was awarded the U.S. National Medal of Science in 1966 (he also later received the Copley Medal in 1984)."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q29",
+      "difficulty": "hard",
+      "q": "Chandrasekhar's early stellar work treated the electron gas in a white dwarf as which kind of gas at high density?",
+      "options": ["A non-relativistic ideal gas", "A classical Maxwell-Boltzmann gas", "A photon gas", "A relativistic degenerate gas"],
+      "answer": 3,
+      "explanation": "He recognized that at high density the degenerate electrons become relativistic, which is what produces a finite mass limit."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar-q30",
+      "difficulty": "hard",
+      "q": "In what year did Chandrasekhar pass away?",
+      "options": ["1985", "1995", "2001", "2010"],
+      "answer": 1,
+      "explanation": "Chandrasekhar died in Chicago in 1995 at the age of 84."
+    }
+  ]
+}
