@@ -1,0 +1,1007 @@
+{
+  "category": "science",
+  "name": "Science & Innovation",
+  "questionsPerCard": 30,
+  "cards": [
+    {
+      "id": "aryabhata",
+      "order": 1,
+      "title": "Aryabhata",
+      "subtitle": "The First Great Astronomer",
+      "type": "character",
+      "emblem": "star",
+      "palette": "dusk",
+      "description": "The 5th-century mathematician-astronomer whose Aryabhatiya gave a place-value system, an accurate value of pi, and the idea that the Earth rotates on its axis."
+    },
+    {
+      "id": "brahmagupta",
+      "order": 2,
+      "title": "Brahmagupta",
+      "subtitle": "Master of Zero",
+      "type": "character",
+      "emblem": "scroll",
+      "palette": "dusk",
+      "description": "The 7th-century mathematician who, in the Brahmasphutasiddhanta, first set out rules for arithmetic with zero and negative numbers."
+    },
+    {
+      "id": "bhaskara-ii",
+      "order": 3,
+      "title": "Bhaskara II",
+      "subtitle": "Bhaskaracharya",
+      "type": "character",
+      "emblem": "scroll",
+      "palette": "royal",
+      "description": "The 12th-century mathematician whose Lilavati and Siddhanta Shiromani anticipated ideas of calculus and the derivative centuries before Europe."
+    },
+    {
+      "id": "bhaskara-i",
+      "order": 4,
+      "title": "Bhaskara I",
+      "subtitle": "The Sine Approximator",
+      "type": "character",
+      "emblem": "scroll",
+      "palette": "dusk",
+      "description": "The 7th-century astronomer, the first to write numbers in the Hindu place-value system with a circle for zero, famous for a remarkably accurate sine formula."
+    },
+    {
+      "id": "varahamihira",
+      "order": 5,
+      "title": "Varahamihira",
+      "subtitle": "The Polymath of Ujjain",
+      "type": "character",
+      "emblem": "sun",
+      "palette": "dusk",
+      "description": "The 6th-century astronomer-polymath whose Pancha-Siddhantika and Brihat Samhita compiled astronomy, astrology and natural science."
+    },
+    {
+      "id": "madhava-of-sangamagrama",
+      "order": 6,
+      "title": "Madhava of Sangamagrama",
+      "subtitle": "Founder of the Kerala School",
+      "type": "character",
+      "emblem": "star",
+      "palette": "forest",
+      "description": "The 14th-century mathematician who discovered infinite series for pi and the trigonometric functions, anticipating calculus by some 250 years."
+    },
+    {
+      "id": "sushruta",
+      "order": 7,
+      "title": "Sushruta",
+      "subtitle": "The Father of Surgery",
+      "type": "character",
+      "emblem": "serpent",
+      "palette": "forest",
+      "description": "The ancient surgeon whose Sushruta Samhita describes hundreds of operations and instruments, including rhinoplasty and cataract surgery."
+    },
+    {
+      "id": "charaka",
+      "order": 8,
+      "title": "Charaka",
+      "subtitle": "The Father of Medicine",
+      "type": "character",
+      "emblem": "lotus",
+      "palette": "forest",
+      "description": "The ancient physician whose Charaka Samhita is a foundational text of Ayurveda, covering diagnosis, digestion, immunity and ethics."
+    },
+    {
+      "id": "kanada",
+      "order": 9,
+      "title": "Kanada",
+      "subtitle": "The Atom Philosopher",
+      "type": "character",
+      "emblem": "eye",
+      "palette": "dusk",
+      "description": "The ancient sage who founded the Vaisheshika school and proposed that all matter is made of indivisible particles called anu (atoms)."
+    },
+    {
+      "id": "pingala",
+      "order": 10,
+      "title": "Pingala",
+      "subtitle": "The First Binary Thinker",
+      "type": "character",
+      "emblem": "dice",
+      "palette": "dusk",
+      "description": "The ancient scholar whose Chandahshastra used a binary system and arrays that prefigured Pascal's triangle and the Fibonacci sequence."
+    },
+    {
+      "id": "baudhayana",
+      "order": 11,
+      "title": "Baudhayana",
+      "subtitle": "Geometer of the Altars",
+      "type": "character",
+      "emblem": "scroll",
+      "palette": "dusk",
+      "description": "The author of the Sulba Sutras, which stated a form of the Pythagorean theorem and an accurate approximation of the square root of two."
+    },
+    {
+      "id": "panini",
+      "order": 12,
+      "title": "Panini",
+      "subtitle": "The Grammar Machine",
+      "type": "character",
+      "emblem": "scroll",
+      "palette": "dusk",
+      "description": "The ancient grammarian whose Ashtadhyayi described Sanskrit with nearly 4,000 formal rules, a system admired as a forerunner of computer science."
+    },
+    {
+      "id": "jagadish-chandra-bose",
+      "order": 13,
+      "title": "Jagadish Chandra Bose",
+      "subtitle": "Pioneer of Radio & Plant Science",
+      "type": "character",
+      "emblem": "tree",
+      "palette": "forest",
+      "description": "The polymath who demonstrated millimetre radio waves and showed that plants respond to stimuli, inventing the crescograph to measure their growth."
+    },
+    {
+      "id": "cv-raman",
+      "order": 14,
+      "title": "C. V. Raman",
+      "subtitle": "The Raman Effect",
+      "type": "character",
+      "emblem": "eye",
+      "palette": "ocean",
+      "description": "The physicist who discovered the scattering of light that bears his name, winning the 1930 Nobel Prize — the first for an Asian in the sciences."
+    },
+    {
+      "id": "srinivasa-ramanujan",
+      "order": 15,
+      "title": "Srinivasa Ramanujan",
+      "subtitle": "The Man Who Knew Infinity",
+      "type": "character",
+      "emblem": "dice",
+      "palette": "flame",
+      "description": "The self-taught mathematical genius who, in a short life, produced thousands of results in number theory, partitions and infinite series."
+    },
+    {
+      "id": "satyendra-nath-bose",
+      "order": 16,
+      "title": "Satyendra Nath Bose",
+      "subtitle": "Father of the Boson",
+      "type": "character",
+      "emblem": "star",
+      "palette": "ocean",
+      "description": "The physicist whose work on quantum statistics, developed with Einstein, gave rise to Bose-Einstein statistics and the particle class called bosons."
+    },
+    {
+      "id": "meghnad-saha",
+      "order": 17,
+      "title": "Meghnad Saha",
+      "subtitle": "Reader of the Stars",
+      "type": "character",
+      "emblem": "sun",
+      "palette": "ocean",
+      "description": "The astrophysicist whose Saha ionization equation linked the spectra of stars to their temperature, transforming stellar astrophysics."
+    },
+    {
+      "id": "homi-bhabha",
+      "order": 18,
+      "title": "Homi J. Bhabha",
+      "subtitle": "Father of the Nuclear Programme",
+      "type": "character",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "The physicist who founded India's atomic energy programme and TIFR, known for Bhabha scattering in particle physics."
+    },
+    {
+      "id": "vikram-sarabhai",
+      "order": 19,
+      "title": "Vikram Sarabhai",
+      "subtitle": "Father of the Space Programme",
+      "type": "character",
+      "emblem": "arrow",
+      "palette": "ocean",
+      "description": "The visionary physicist who founded ISRO and the Physical Research Laboratory, launching India into the space age."
+    },
+    {
+      "id": "subrahmanyan-chandrasekhar",
+      "order": 20,
+      "title": "Subrahmanyan Chandrasekhar",
+      "subtitle": "The Chandrasekhar Limit",
+      "type": "character",
+      "emblem": "star",
+      "palette": "dusk",
+      "description": "The astrophysicist who showed that a white dwarf above about 1.4 solar masses must collapse, winning the 1983 Nobel Prize in Physics."
+    },
+    {
+      "id": "har-gobind-khorana",
+      "order": 21,
+      "title": "Har Gobind Khorana",
+      "subtitle": "Cracker of the Genetic Code",
+      "type": "character",
+      "emblem": "lotus",
+      "palette": "forest",
+      "description": "The biochemist who helped decipher how the genetic code directs protein synthesis, sharing the 1968 Nobel Prize in Medicine."
+    },
+    {
+      "id": "venkatraman-ramakrishnan",
+      "order": 22,
+      "title": "Venkatraman Ramakrishnan",
+      "subtitle": "Mapper of the Ribosome",
+      "type": "character",
+      "emblem": "lotus",
+      "palette": "forest",
+      "description": "The structural biologist who shared the 2009 Nobel Prize in Chemistry for revealing the atomic structure of the ribosome."
+    },
+    {
+      "id": "prafulla-chandra-ray",
+      "order": 23,
+      "title": "Prafulla Chandra Ray",
+      "subtitle": "Father of Indian Chemistry",
+      "type": "character",
+      "emblem": "vessel",
+      "palette": "flame",
+      "description": "The chemist who discovered mercurous nitrite and founded Bengal Chemicals, India's first pharmaceutical company."
+    },
+    {
+      "id": "shanti-swarup-bhatnagar",
+      "order": 24,
+      "title": "Shanti Swarup Bhatnagar",
+      "subtitle": "Architect of Indian R&D",
+      "type": "character",
+      "emblem": "vessel",
+      "palette": "flame",
+      "description": "The chemist who built the network of national laboratories under the CSIR, after whom India's top science prize is named."
+    },
+    {
+      "id": "birbal-sahni",
+      "order": 25,
+      "title": "Birbal Sahni",
+      "subtitle": "Reader of Ancient Plants",
+      "type": "character",
+      "emblem": "tree",
+      "palette": "forest",
+      "description": "The palaeobotanist who studied India's fossil plants and founded the institute of palaeosciences that bears his name."
+    },
+    {
+      "id": "salim-ali",
+      "order": 26,
+      "title": "Salim Ali",
+      "subtitle": "The Birdman of India",
+      "type": "character",
+      "emblem": "garuda",
+      "palette": "forest",
+      "description": "The ornithologist whose surveys and writings transformed the study of Indian birds and shaped the country's conservation movement."
+    },
+    {
+      "id": "janaki-ammal",
+      "order": 27,
+      "title": "E. K. Janaki Ammal",
+      "subtitle": "Pioneering Botanist",
+      "type": "character",
+      "emblem": "lotus",
+      "palette": "forest",
+      "description": "The botanist and cytogeneticist celebrated for her work on sugarcane and plant chromosomes; a magnolia is named in her honour."
+    },
+    {
+      "id": "anna-mani",
+      "order": 28,
+      "title": "Anna Mani",
+      "subtitle": "The Weather Woman of India",
+      "type": "character",
+      "emblem": "sun",
+      "palette": "ocean",
+      "description": "The physicist and meteorologist who designed instruments to measure solar radiation, ozone and wind, modernising Indian weather science."
+    },
+    {
+      "id": "kamala-sohonie",
+      "order": 29,
+      "title": "Kamala Sohonie",
+      "subtitle": "A Door Opened for Women",
+      "type": "character",
+      "emblem": "lotus",
+      "palette": "dawn",
+      "description": "The biochemist who, against great resistance, became the first Indian woman to earn a PhD in a scientific field, studying nutrition and the drink neera."
+    },
+    {
+      "id": "gn-ramachandran",
+      "order": 30,
+      "title": "G. N. Ramachandran",
+      "subtitle": "The Ramachandran Plot",
+      "type": "character",
+      "emblem": "eye",
+      "palette": "ocean",
+      "description": "The biophysicist who proposed the triple-helix structure of collagen and devised the Ramachandran plot used to study protein structure."
+    },
+    {
+      "id": "yellapragada-subbarow",
+      "order": 31,
+      "title": "Yellapragada Subbarow",
+      "subtitle": "Quiet Conqueror of Disease",
+      "type": "character",
+      "emblem": "serpent",
+      "palette": "forest",
+      "description": "The biochemist whose discoveries underpinned ATP energy chemistry and yielded the drugs methotrexate and synthetic folic acid."
+    },
+    {
+      "id": "ms-swaminathan",
+      "order": 32,
+      "title": "M. S. Swaminathan",
+      "subtitle": "Father of the Green Revolution",
+      "type": "character",
+      "emblem": "tree",
+      "palette": "forest",
+      "description": "The agricultural scientist whose high-yield wheat varieties helped India move from famine to food self-sufficiency."
+    },
+    {
+      "id": "verghese-kurien",
+      "order": 33,
+      "title": "Verghese Kurien",
+      "subtitle": "The Milkman of India",
+      "type": "character",
+      "emblem": "vessel",
+      "palette": "dawn",
+      "description": "The engineer who led Operation Flood and the Amul cooperative model, making India the world's largest milk producer."
+    },
+    {
+      "id": "raj-reddy",
+      "order": 34,
+      "title": "Raj Reddy",
+      "subtitle": "A Pioneer of AI",
+      "type": "character",
+      "emblem": "eye",
+      "palette": "ocean",
+      "description": "The computer scientist and Turing Award laureate who pioneered large-scale speech recognition and artificial intelligence."
+    },
+    {
+      "id": "ec-george-sudarshan",
+      "order": 35,
+      "title": "E. C. George Sudarshan",
+      "subtitle": "The Overlooked Genius",
+      "type": "character",
+      "emblem": "star",
+      "palette": "dusk",
+      "description": "The theoretical physicist behind the V-A theory of the weak force and the quantum theory of optical coherence."
+    },
+    {
+      "id": "harish-chandra",
+      "order": 36,
+      "title": "Harish-Chandra",
+      "subtitle": "Architect of Representation Theory",
+      "type": "character",
+      "emblem": "scroll",
+      "palette": "royal",
+      "description": "The mathematician whose deep work on harmonic analysis and the representation theory of Lie groups shaped modern mathematics."
+    },
+    {
+      "id": "cr-rao",
+      "order": 37,
+      "title": "C. R. Rao",
+      "subtitle": "A Giant of Statistics",
+      "type": "character",
+      "emblem": "dice",
+      "palette": "ocean",
+      "description": "The statistician whose Cramer-Rao bound and Rao-Blackwell theorem are cornerstones of modern statistical theory."
+    },
+    {
+      "id": "pc-mahalanobis",
+      "order": 38,
+      "title": "P. C. Mahalanobis",
+      "subtitle": "Founder of Indian Statistics",
+      "type": "character",
+      "emblem": "dice",
+      "palette": "ocean",
+      "description": "The scientist who founded the Indian Statistical Institute, devised the Mahalanobis distance and shaped national economic planning."
+    },
+    {
+      "id": "satish-dhawan",
+      "order": 39,
+      "title": "Satish Dhawan",
+      "subtitle": "Builder of Indian Rocketry",
+      "type": "character",
+      "emblem": "arrow",
+      "palette": "ocean",
+      "description": "The aerospace engineer and ISRO chairman who guided India's launch-vehicle programme; the Sriharikota spaceport is named for him."
+    },
+    {
+      "id": "ur-rao",
+      "order": 40,
+      "title": "U. R. Rao",
+      "subtitle": "The Satellite Man",
+      "type": "character",
+      "emblem": "star",
+      "palette": "ocean",
+      "description": "The space scientist who led the building of Aryabhata, India's first satellite, and later chaired ISRO."
+    },
+    {
+      "id": "apj-abdul-kalam",
+      "order": 41,
+      "title": "A. P. J. Abdul Kalam",
+      "subtitle": "The Missile Man",
+      "type": "character",
+      "emblem": "arrow",
+      "palette": "flame",
+      "description": "The aerospace engineer who led the SLV-III and India's missile programme before serving as President; a beloved teacher of science."
+    },
+    {
+      "id": "asima-chatterjee",
+      "order": 42,
+      "title": "Asima Chatterjee",
+      "subtitle": "Chemist of Healing Plants",
+      "type": "character",
+      "emblem": "lotus",
+      "palette": "forest",
+      "description": "The organic chemist renowned for work on alkaloids and anti-epileptic and anti-malarial drugs; the first Indian woman to earn a Doctor of Science."
+    },
+    {
+      "id": "obaid-siddiqi",
+      "order": 43,
+      "title": "Obaid Siddiqi",
+      "subtitle": "Founder of Indian Molecular Biology",
+      "type": "character",
+      "emblem": "lotus",
+      "palette": "ocean",
+      "description": "The molecular biologist and neurogeneticist who founded India's molecular biology research and the National Centre for Biological Sciences."
+    },
+    {
+      "id": "tessy-thomas",
+      "order": 44,
+      "title": "Tessy Thomas",
+      "subtitle": "The Missile Woman",
+      "type": "character",
+      "emblem": "arrow",
+      "palette": "flame",
+      "description": "The aerospace scientist who became the first woman to lead an Indian missile project, directing the long-range Agni programme."
+    },
+    {
+      "id": "raja-ramanna",
+      "order": 45,
+      "title": "Raja Ramanna",
+      "subtitle": "The Nuclear Mind",
+      "type": "character",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "The nuclear physicist who led the team behind India's first nuclear test, the 1974 Smiling Buddha at Pokhran."
+    },
+    {
+      "id": "jayant-narlikar",
+      "order": 46,
+      "title": "Jayant Narlikar",
+      "subtitle": "Questioner of the Big Bang",
+      "type": "character",
+      "emblem": "star",
+      "palette": "dusk",
+      "description": "The astrophysicist, co-author of the Hoyle-Narlikar theory of gravity, who founded the centre for astronomy and astrophysics at Pune."
+    },
+    {
+      "id": "narinder-singh-kapany",
+      "order": 47,
+      "title": "Narinder Singh Kapany",
+      "subtitle": "Father of Fibre Optics",
+      "type": "character",
+      "emblem": "eye",
+      "palette": "ocean",
+      "description": "The physicist whose pioneering work on light transmission through glass fibres founded the field of fibre optics."
+    },
+    {
+      "id": "kalpana-chawla",
+      "order": 48,
+      "title": "Kalpana Chawla",
+      "subtitle": "Among the Stars",
+      "type": "character",
+      "emblem": "star",
+      "palette": "ocean",
+      "description": "The aerospace engineer and first woman of Indian origin in space, who died aboard the Space Shuttle Columbia in 2003."
+    },
+    {
+      "id": "rakesh-sharma",
+      "order": 49,
+      "title": "Rakesh Sharma",
+      "subtitle": "The First Indian in Space",
+      "type": "character",
+      "emblem": "star",
+      "palette": "ocean",
+      "description": "The air-force pilot who in 1984 became the first Indian citizen in space, famously calling his homeland 'Saare Jahan Se Achha' from orbit."
+    },
+    {
+      "id": "vainu-bappu",
+      "order": 50,
+      "title": "M. K. Vainu Bappu",
+      "subtitle": "A Light for Indian Astronomy",
+      "type": "character",
+      "emblem": "moon",
+      "palette": "dusk",
+      "description": "The astronomer who revived modern observational astronomy in India and after whom a great optical telescope is named."
+    },
+    {
+      "id": "isro",
+      "order": 51,
+      "title": "ISRO",
+      "subtitle": "The Indian Space Research Organisation",
+      "type": "place",
+      "emblem": "arrow",
+      "palette": "ocean",
+      "description": "India's national space agency, founded in 1969, known for low-cost launches, lunar and Mars missions, and the PSLV workhorse."
+    },
+    {
+      "id": "drdo",
+      "order": 52,
+      "title": "DRDO",
+      "subtitle": "Defence Research & Development",
+      "type": "place",
+      "emblem": "shield",
+      "palette": "flame",
+      "description": "India's defence research organisation, founded in 1958, behind missiles, radars, aircraft and strategic systems."
+    },
+    {
+      "id": "iisc-bangalore",
+      "order": 53,
+      "title": "Indian Institute of Science",
+      "subtitle": "The Tata Institute",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "forest",
+      "description": "India's premier research institute, founded in 1909 at Bengaluru with the vision of Jamsetji Tata."
+    },
+    {
+      "id": "tifr",
+      "order": 54,
+      "title": "TIFR",
+      "subtitle": "Tata Institute of Fundamental Research",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "ocean",
+      "description": "The Mumbai institute founded by Homi Bhabha in 1945, a leading centre for physics, mathematics and biology."
+    },
+    {
+      "id": "barc",
+      "order": 55,
+      "title": "BARC",
+      "subtitle": "Bhabha Atomic Research Centre",
+      "type": "place",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "India's premier nuclear research facility at Trombay, home to its research reactors and atomic energy programme."
+    },
+    {
+      "id": "csir",
+      "order": 56,
+      "title": "CSIR",
+      "subtitle": "Council of Scientific & Industrial Research",
+      "type": "place",
+      "emblem": "vessel",
+      "palette": "royal",
+      "description": "The vast network of national laboratories, set up in 1942, that drives India's industrial and applied science research."
+    },
+    {
+      "id": "iit",
+      "order": 57,
+      "title": "The IITs",
+      "subtitle": "Indian Institutes of Technology",
+      "type": "place",
+      "emblem": "palace",
+      "palette": "royal",
+      "description": "India's elite engineering and technology institutes, beginning with Kharagpur in 1951, now a global byword for talent."
+    },
+    {
+      "id": "indian-statistical-institute",
+      "order": 58,
+      "title": "Indian Statistical Institute",
+      "subtitle": "The Home of Indian Statistics",
+      "type": "place",
+      "emblem": "dice",
+      "palette": "ocean",
+      "description": "The Kolkata institute founded by P. C. Mahalanobis in 1931, a world centre for statistics and data science."
+    },
+    {
+      "id": "physical-research-laboratory",
+      "order": 59,
+      "title": "Physical Research Laboratory",
+      "subtitle": "Cradle of Space Science",
+      "type": "place",
+      "emblem": "star",
+      "palette": "ocean",
+      "description": "The Ahmedabad laboratory founded by Vikram Sarabhai in 1947, the birthplace of India's space research."
+    },
+    {
+      "id": "raman-research-institute",
+      "order": 60,
+      "title": "Raman Research Institute",
+      "subtitle": "Raman's Own Institute",
+      "type": "place",
+      "emblem": "eye",
+      "palette": "ocean",
+      "description": "The Bengaluru institute founded by C. V. Raman in 1948 to pursue fundamental research in physics."
+    },
+    {
+      "id": "aryabhata-satellite",
+      "order": 61,
+      "title": "Aryabhata",
+      "subtitle": "India's First Satellite",
+      "type": "event",
+      "emblem": "star",
+      "palette": "ocean",
+      "description": "India's first satellite, built by ISRO and launched in 1975, marking the country's entry into space."
+    },
+    {
+      "id": "chandrayaan-1",
+      "order": 62,
+      "title": "Chandrayaan-1",
+      "subtitle": "India Reaches the Moon",
+      "type": "event",
+      "emblem": "moon",
+      "palette": "dusk",
+      "description": "India's first lunar mission, launched in 2008, whose instruments confirmed the presence of water on the Moon."
+    },
+    {
+      "id": "chandrayaan-2",
+      "order": 63,
+      "title": "Chandrayaan-2",
+      "subtitle": "Orbiter, Lander and Rover",
+      "type": "event",
+      "emblem": "moon",
+      "palette": "dusk",
+      "description": "The ambitious 2019 lunar mission whose orbiter still studies the Moon, though its lander did not survive touchdown."
+    },
+    {
+      "id": "chandrayaan-3",
+      "order": 64,
+      "title": "Chandrayaan-3",
+      "subtitle": "Triumph at the South Pole",
+      "type": "event",
+      "emblem": "moon",
+      "palette": "ocean",
+      "description": "The 2023 mission that made India the first nation to land near the Moon's south pole and the fourth to soft-land at all."
+    },
+    {
+      "id": "mangalyaan",
+      "order": 65,
+      "title": "Mangalyaan",
+      "subtitle": "The Mars Orbiter Mission",
+      "type": "event",
+      "emblem": "arrow",
+      "palette": "flame",
+      "description": "The 2013-14 mission that made India the first country to reach Mars orbit on its very first attempt, and at remarkably low cost."
+    },
+    {
+      "id": "aditya-l1",
+      "order": 66,
+      "title": "Aditya-L1",
+      "subtitle": "India's Sun Watcher",
+      "type": "event",
+      "emblem": "sun",
+      "palette": "flame",
+      "description": "India's first dedicated solar observatory, launched in 2023 to study the Sun from the L1 Lagrange point."
+    },
+    {
+      "id": "smiling-buddha",
+      "order": 67,
+      "title": "Smiling Buddha",
+      "subtitle": "India's First Nuclear Test",
+      "type": "event",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "Code name of India's first nuclear test, conducted at Pokhran in 1974."
+    },
+    {
+      "id": "pokhran-ii",
+      "order": 68,
+      "title": "Pokhran-II",
+      "subtitle": "Operation Shakti",
+      "type": "event",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "The series of nuclear tests at Pokhran in 1998 that established India as a declared nuclear power."
+    },
+    {
+      "id": "green-revolution",
+      "order": 69,
+      "title": "The Green Revolution",
+      "subtitle": "From Famine to Surplus",
+      "type": "event",
+      "emblem": "tree",
+      "palette": "forest",
+      "description": "The transformation of Indian agriculture in the 1960s and 70s through high-yield seeds, irrigation and fertilisers."
+    },
+    {
+      "id": "white-revolution",
+      "order": 70,
+      "title": "The White Revolution",
+      "subtitle": "Operation Flood",
+      "type": "event",
+      "emblem": "vessel",
+      "palette": "dawn",
+      "description": "The dairy cooperative movement that made India the world's largest milk producer, led by Verghese Kurien."
+    },
+    {
+      "id": "slv-3",
+      "order": 71,
+      "title": "SLV-3",
+      "subtitle": "India's First Launch Vehicle",
+      "type": "event",
+      "emblem": "arrow",
+      "palette": "ocean",
+      "description": "India's first satellite launch vehicle, which in 1980 placed the Rohini satellite in orbit under project director A. P. J. Abdul Kalam."
+    },
+    {
+      "id": "record-104-satellites",
+      "order": 72,
+      "title": "104 Satellites",
+      "subtitle": "A World Record Launch",
+      "type": "event",
+      "emblem": "arrow",
+      "palette": "ocean",
+      "description": "The 2017 PSLV flight that launched 104 satellites in a single mission, a world record at the time."
+    },
+    {
+      "id": "gaganyaan",
+      "order": 73,
+      "title": "Gaganyaan",
+      "subtitle": "India's Crewed Spaceflight",
+      "type": "event",
+      "emblem": "arrow",
+      "palette": "ocean",
+      "description": "India's programme to send astronauts to orbit aboard an indigenous spacecraft, its first human spaceflight effort."
+    },
+    {
+      "id": "apsara-reactor",
+      "order": 74,
+      "title": "Apsara",
+      "subtitle": "Asia's First Reactor",
+      "type": "event",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "Commissioned at Trombay in 1956, Apsara was the first nuclear research reactor in Asia."
+    },
+    {
+      "id": "the-zero",
+      "order": 75,
+      "title": "Zero",
+      "subtitle": "The Number That Changed the World",
+      "type": "concept",
+      "emblem": "chakra",
+      "palette": "dusk",
+      "description": "The treatment of zero as a number in its own right, formalised in India, which made modern mathematics possible."
+    },
+    {
+      "id": "decimal-place-value",
+      "order": 76,
+      "title": "The Decimal System",
+      "subtitle": "The Power of Place",
+      "type": "concept",
+      "emblem": "dice",
+      "palette": "dusk",
+      "description": "The base-ten place-value notation, developed in India and carried west as the Hindu-Arabic numerals used worldwide."
+    },
+    {
+      "id": "raman-effect",
+      "order": 77,
+      "title": "The Raman Effect",
+      "subtitle": "Why the Sea is Blue",
+      "type": "concept",
+      "emblem": "eye",
+      "palette": "ocean",
+      "description": "The inelastic scattering of light by molecules, discovered by C. V. Raman, now a key tool for identifying materials."
+    },
+    {
+      "id": "bose-einstein-statistics",
+      "order": 78,
+      "title": "Bose-Einstein Statistics",
+      "subtitle": "The Physics of Bosons",
+      "type": "concept",
+      "emblem": "star",
+      "palette": "ocean",
+      "description": "The quantum statistics, founded on S. N. Bose's work, that govern particles called bosons and predict the Bose-Einstein condensate."
+    },
+    {
+      "id": "saha-equation",
+      "order": 79,
+      "title": "The Saha Equation",
+      "subtitle": "The Chemistry of Stars",
+      "type": "concept",
+      "emblem": "sun",
+      "palette": "ocean",
+      "description": "Meghnad Saha's equation linking the ionisation of a gas to its temperature and pressure, the foundation of stellar spectroscopy."
+    },
+    {
+      "id": "chandrasekhar-limit",
+      "order": 80,
+      "title": "The Chandrasekhar Limit",
+      "subtitle": "When a Star Must Die",
+      "type": "concept",
+      "emblem": "star",
+      "palette": "dusk",
+      "description": "The maximum mass, about 1.4 times the Sun, that a white dwarf can have before collapsing into a neutron star or black hole."
+    },
+    {
+      "id": "ramanujan-1729",
+      "order": 81,
+      "title": "The Number 1729",
+      "subtitle": "The Taxicab Number",
+      "type": "concept",
+      "emblem": "dice",
+      "palette": "flame",
+      "description": "The Hardy-Ramanujan number, the smallest expressible as a sum of two cubes in two different ways, made famous by Ramanujan."
+    },
+    {
+      "id": "ramachandran-plot",
+      "order": 82,
+      "title": "The Ramachandran Plot",
+      "subtitle": "The Map of Proteins",
+      "type": "concept",
+      "emblem": "eye",
+      "palette": "ocean",
+      "description": "A diagram devised by G. N. Ramachandran that maps the allowed twists of a protein's backbone, central to structural biology."
+    },
+    {
+      "id": "mahalanobis-distance",
+      "order": 83,
+      "title": "The Mahalanobis Distance",
+      "subtitle": "Measuring the Unusual",
+      "type": "concept",
+      "emblem": "dice",
+      "palette": "ocean",
+      "description": "A statistical measure of how far a point lies from a distribution, devised by P. C. Mahalanobis and widely used in data science."
+    },
+    {
+      "id": "ayurveda",
+      "order": 84,
+      "title": "Ayurveda",
+      "subtitle": "The Science of Life",
+      "type": "concept",
+      "emblem": "lotus",
+      "palette": "forest",
+      "description": "One of the world's oldest systems of medicine, built on balance among the doshas and on diet, herbs and lifestyle."
+    },
+    {
+      "id": "kerala-school",
+      "order": 85,
+      "title": "The Kerala School",
+      "subtitle": "Calculus Before Newton",
+      "type": "concept",
+      "emblem": "scroll",
+      "palette": "forest",
+      "description": "The medieval school of mathematics, led by Madhava, that developed infinite series for pi and trigonometric functions."
+    },
+    {
+      "id": "indian-trigonometry",
+      "order": 86,
+      "title": "The Sine Function",
+      "subtitle": "From Jya to Sine",
+      "type": "concept",
+      "emblem": "star",
+      "palette": "dusk",
+      "description": "The Indian functions jya and kojya, ancestors of the modern sine and cosine, passed through Arabic into world mathematics."
+    },
+    {
+      "id": "upi",
+      "order": 87,
+      "title": "UPI",
+      "subtitle": "A Payments Revolution",
+      "type": "concept",
+      "emblem": "chakra",
+      "palette": "royal",
+      "description": "The Unified Payments Interface, an Indian-built real-time system that turned the country into a world leader in digital payments."
+    },
+    {
+      "id": "aadhaar",
+      "order": 88,
+      "title": "Aadhaar",
+      "subtitle": "The World's Largest ID System",
+      "type": "concept",
+      "emblem": "eye",
+      "palette": "royal",
+      "description": "India's biometric digital identity programme, the largest of its kind in the world."
+    },
+    {
+      "id": "pslv",
+      "order": 89,
+      "title": "PSLV",
+      "subtitle": "The Workhorse of ISRO",
+      "type": "artifact",
+      "emblem": "arrow",
+      "palette": "ocean",
+      "description": "The Polar Satellite Launch Vehicle, ISRO's reliable rocket that has launched hundreds of satellites for India and the world."
+    },
+    {
+      "id": "gslv",
+      "order": 90,
+      "title": "GSLV",
+      "subtitle": "The Cryogenic Rocket",
+      "type": "artifact",
+      "emblem": "arrow",
+      "palette": "ocean",
+      "description": "India's Geosynchronous Satellite Launch Vehicle, which mastered the difficult indigenous cryogenic engine."
+    },
+    {
+      "id": "param-8000",
+      "order": 91,
+      "title": "PARAM 8000",
+      "subtitle": "India's First Supercomputer",
+      "type": "artifact",
+      "emblem": "eye",
+      "palette": "royal",
+      "description": "The indigenous supercomputer built by C-DAC in 1991 after India was denied imported machines, launching the PARAM series."
+    },
+    {
+      "id": "jaipur-foot",
+      "order": 92,
+      "title": "The Jaipur Foot",
+      "subtitle": "Mobility for Millions",
+      "type": "artifact",
+      "emblem": "tree",
+      "palette": "dawn",
+      "description": "The low-cost, rugged prosthetic limb developed in India that has restored mobility to millions of amputees worldwide."
+    },
+    {
+      "id": "crescograph",
+      "order": 93,
+      "title": "The Crescograph",
+      "subtitle": "Bose's Plant Recorder",
+      "type": "artifact",
+      "emblem": "tree",
+      "palette": "forest",
+      "description": "Jagadish Chandra Bose's instrument that magnified and recorded the minute growth and responses of plants."
+    },
+    {
+      "id": "brahmos",
+      "order": 94,
+      "title": "BrahMos",
+      "subtitle": "The Supersonic Cruise Missile",
+      "type": "artifact",
+      "emblem": "arrow",
+      "palette": "flame",
+      "description": "The India-Russia supersonic cruise missile, among the fastest of its kind in service."
+    },
+    {
+      "id": "agni-missile",
+      "order": 95,
+      "title": "The Agni Missile",
+      "subtitle": "India's Long Reach",
+      "type": "artifact",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "DRDO's family of long-range ballistic missiles, a pillar of India's strategic deterrent."
+    },
+    {
+      "id": "tejas",
+      "order": 96,
+      "title": "Tejas",
+      "subtitle": "The Light Combat Aircraft",
+      "type": "artifact",
+      "emblem": "arrow",
+      "palette": "ocean",
+      "description": "India's indigenous lightweight multirole fighter jet, developed over decades and inducted into the air force."
+    },
+    {
+      "id": "wootz-steel",
+      "order": 97,
+      "title": "Wootz Steel",
+      "subtitle": "The Steel of Legends",
+      "type": "artifact",
+      "emblem": "fire",
+      "palette": "flame",
+      "description": "The high-carbon crucible steel made in ancient South India, prized across the world and the basis of fabled Damascus blades."
+    },
+    {
+      "id": "seamless-celestial-globe",
+      "order": 98,
+      "title": "The Seamless Celestial Globe",
+      "subtitle": "A Metallurgical Marvel",
+      "type": "artifact",
+      "emblem": "moon",
+      "palette": "dusk",
+      "description": "Hollow metal globes cast in one seamless piece by Mughal-era metalworkers in Kashmir and Sialkot, long thought impossible to make."
+    },
+    {
+      "id": "aryabhatiya",
+      "order": 99,
+      "title": "The Aryabhatiya",
+      "subtitle": "A Treatise of the Cosmos",
+      "type": "artifact",
+      "emblem": "scroll",
+      "palette": "dusk",
+      "description": "Aryabhata's compact 5th-century treatise on mathematics and astronomy, written in verse, that influenced scholars for centuries."
+    },
+    {
+      "id": "bakhshali-manuscript",
+      "order": 100,
+      "title": "The Bakhshali Manuscript",
+      "subtitle": "An Ancient Zero",
+      "type": "artifact",
+      "emblem": "scroll",
+      "palette": "dawn",
+      "description": "An ancient birch-bark mathematical manuscript whose dotted symbol is among the earliest known uses of zero."
+    }
+  ]
+}
