@@ -1,0 +1,395 @@
+{
+  "cardId": "aryabhatiya",
+  "questions": [
+    {
+      "id": "aryabhatiya-q01",
+      "difficulty": "easy",
+      "q": "Who is the author of the Aryabhatiya?",
+      "options": [
+        "Brahmagupta",
+        "Aryabhata",
+        "Bhaskara II",
+        "Varahamihira"
+      ],
+      "answer": 1,
+      "explanation": "The Aryabhatiya was composed by the Indian mathematician and astronomer Aryabhata."
+    },
+    {
+      "id": "aryabhatiya-q02",
+      "difficulty": "easy",
+      "q": "In which century was the Aryabhatiya written?",
+      "options": [
+        "9th century CE",
+        "5th century CE",
+        "12th century CE",
+        "3rd century CE"
+      ],
+      "answer": 1,
+      "explanation": "Aryabhata completed the Aryabhatiya around 499 CE, in the 5th century."
+    },
+    {
+      "id": "aryabhatiya-q03",
+      "difficulty": "easy",
+      "q": "The Aryabhatiya is primarily a treatise on which two subjects?",
+      "options": [
+        "Grammar and poetry",
+        "Law and ethics",
+        "Medicine and chemistry",
+        "Mathematics and astronomy"
+      ],
+      "answer": 3,
+      "explanation": "The Aryabhatiya is a compact work covering both mathematics and astronomy."
+    },
+    {
+      "id": "aryabhatiya-q04",
+      "difficulty": "easy",
+      "q": "In what literary form was the Aryabhatiya written?",
+      "options": [
+        "Prose essays",
+        "Verse (poetic stanzas)",
+        "Tabular charts only",
+        "Dialogues"
+      ],
+      "answer": 1,
+      "explanation": "The Aryabhatiya was written in compact Sanskrit verse, which made it easy to memorize."
+    },
+    {
+      "id": "aryabhatiya-q05",
+      "difficulty": "easy",
+      "q": "In which language was the Aryabhatiya originally composed?",
+      "options": [
+        "Pali",
+        "Persian",
+        "Tamil",
+        "Sanskrit"
+      ],
+      "answer": 3,
+      "explanation": "Like most classical Indian scientific texts, the Aryabhatiya was written in Sanskrit."
+    },
+    {
+      "id": "aryabhatiya-q06",
+      "difficulty": "easy",
+      "q": "What bold astronomical idea did Aryabhata propose in the Aryabhatiya to explain the apparent daily motion of the stars?",
+      "options": [
+        "The Earth rotates on its own axis",
+        "The stars themselves orbit the Earth daily",
+        "The Sun moves around a stationary sky",
+        "The heavens are pushed by wind"
+      ],
+      "answer": 0,
+      "explanation": "Aryabhata argued that the Earth rotates on its axis, making the stars only appear to move."
+    },
+    {
+      "id": "aryabhatiya-q07",
+      "difficulty": "easy",
+      "q": "According to the Aryabhatiya, what is the true cause of a solar or lunar eclipse?",
+      "options": [
+        "Clouds blocking the light",
+        "Shadows cast by the Earth and Moon",
+        "A demon swallowing the body",
+        "The Sun temporarily dimming"
+      ],
+      "answer": 1,
+      "explanation": "Aryabhata explained eclipses scientifically as shadows: the Moon entering Earth's shadow and the Moon's shadow falling on Earth."
+    },
+    {
+      "id": "aryabhatiya-q08",
+      "difficulty": "easy",
+      "q": "The Aryabhatiya gives a famously accurate value for which mathematical constant?",
+      "options": [
+        "Pi (the ratio of circumference to diameter)",
+        "Euler's number",
+        "The square root of 2 only",
+        "The golden ratio"
+      ],
+      "answer": 0,
+      "explanation": "Aryabhata gave an approximation of pi (about 3.1416), remarkably accurate for his era."
+    },
+    {
+      "id": "aryabhatiya-q09",
+      "difficulty": "easy",
+      "q": "The Aryabhatiya is regarded as a foundational text from which classical period of Indian science?",
+      "options": [
+        "The colonial period",
+        "The Gupta era",
+        "The Vedic period",
+        "The Mughal era"
+      ],
+      "answer": 1,
+      "explanation": "Aryabhata worked during the Gupta era, a flourishing period for Indian mathematics and astronomy."
+    },
+    {
+      "id": "aryabhatiya-q10",
+      "difficulty": "easy",
+      "q": "How would the Aryabhatiya best be described in terms of length?",
+      "options": [
+        "A compact, concise treatise",
+        "A single short poem",
+        "A vast multi-volume encyclopedia",
+        "A collection of letters"
+      ],
+      "answer": 0,
+      "explanation": "The Aryabhatiya is notably compact, condensing much mathematics and astronomy into a small number of verses."
+    },
+    {
+      "id": "aryabhatiya-q11",
+      "difficulty": "medium",
+      "q": "Approximately what year is the Aryabhatiya dated to?",
+      "options": [
+        "About 628 CE",
+        "About 350 CE",
+        "About 1150 CE",
+        "About 499 CE"
+      ],
+      "answer": 3,
+      "explanation": "Aryabhata states he was 23 years old when he composed the work, dating it to about 499 CE."
+    },
+    {
+      "id": "aryabhatiya-q12",
+      "difficulty": "medium",
+      "q": "How old does Aryabhata say he was when he composed the Aryabhatiya?",
+      "options": [
+        "30",
+        "17",
+        "23",
+        "45"
+      ],
+      "answer": 2,
+      "explanation": "In the text Aryabhata records that he was 23 years old at the time of its composition."
+    },
+    {
+      "id": "aryabhatiya-q13",
+      "difficulty": "medium",
+      "q": "The Aryabhatiya is traditionally said to be divided into how many sections (padas)?",
+      "options": [
+        "Two",
+        "Twelve",
+        "Four",
+        "Seven"
+      ],
+      "answer": 2,
+      "explanation": "The Aryabhatiya is organized into four sections, including the Gitikapada, Ganitapada, Kalakriyapada, and Golapada."
+    },
+    {
+      "id": "aryabhatiya-q14",
+      "difficulty": "medium",
+      "q": "Which section (pada) of the Aryabhatiya is devoted to mathematics?",
+      "options": [
+        "Gitikapada",
+        "Golapada",
+        "Ganitapada",
+        "Kalakriyapada"
+      ],
+      "answer": 2,
+      "explanation": "The Ganitapada is the mathematics section, covering arithmetic, algebra, and geometry."
+    },
+    {
+      "id": "aryabhatiya-q15",
+      "difficulty": "medium",
+      "q": "Aryabhata's value of pi in the Aryabhatiya is closest to which number?",
+      "options": [
+        "3.0",
+        "3.5",
+        "3.1623",
+        "3.1416"
+      ],
+      "answer": 3,
+      "explanation": "Aryabhata gave pi as approximately 3.1416, which is accurate to four decimal places."
+    },
+    {
+      "id": "aryabhatiya-q16",
+      "difficulty": "medium",
+      "q": "Regarding his value of pi, what did Aryabhata notably suggest about it?",
+      "options": [
+        "That it is approximate ('asanna')",
+        "That it equals exactly 22/7",
+        "That it cannot be computed",
+        "That it is exactly 3"
+      ],
+      "answer": 0,
+      "explanation": "Aryabhata used the word 'asanna' (approaching/approximate), suggesting an awareness that the value is not exact."
+    },
+    {
+      "id": "aryabhatiya-q17",
+      "difficulty": "medium",
+      "q": "The Aryabhatiya contains an early systematic treatment of which trigonometric concept?",
+      "options": [
+        "Logarithms",
+        "Hyperbolic functions",
+        "The tangent table only",
+        "Tables of sine (jya) values"
+      ],
+      "answer": 3,
+      "explanation": "Aryabhata gave a table of sine (jya) differences, an important early contribution to trigonometry."
+    },
+    {
+      "id": "aryabhatiya-q18",
+      "difficulty": "medium",
+      "q": "The Sanskrit term 'jya' used in the Aryabhatiya is the ancestor of which modern mathematical word?",
+      "options": [
+        "Logarithm",
+        "Cosine",
+        "Sine",
+        "Radian"
+      ],
+      "answer": 2,
+      "explanation": "The term 'jya' was transmitted through Arabic and Latin to become the modern word 'sine'."
+    },
+    {
+      "id": "aryabhatiya-q19",
+      "difficulty": "medium",
+      "q": "Beyond Indian scholars, the Aryabhatiya later influenced astronomy in which broader tradition through translation?",
+      "options": [
+        "The Islamic (Arabic) scientific tradition",
+        "The ancient Egyptian tradition",
+        "The Chinese imperial tradition",
+        "The Mayan tradition"
+      ],
+      "answer": 0,
+      "explanation": "Translated into Arabic, the work influenced Islamic astronomers and through them later European science."
+    },
+    {
+      "id": "aryabhatiya-q20",
+      "difficulty": "medium",
+      "q": "What did Aryabhata correctly state in the Aryabhatiya about how the Moon and planets shine?",
+      "options": [
+        "They generate their own light",
+        "They shine by reflected sunlight",
+        "They glow from internal fire",
+        "They are illuminated by the stars"
+      ],
+      "answer": 1,
+      "explanation": "Aryabhata stated that the Moon and planets shine by reflecting sunlight rather than producing their own light."
+    },
+    {
+      "id": "aryabhatiya-q21",
+      "difficulty": "medium",
+      "q": "Aryabhata is most closely associated with which ancient center of learning, often linked to his work?",
+      "options": [
+        "Takshashila",
+        "Kanchipuram",
+        "Kusumapura (near Pataliputra)",
+        "Ujjain"
+      ],
+      "answer": 2,
+      "explanation": "Aryabhata is associated with Kusumapura, near Pataliputra (modern Patna), a major center of learning."
+    },
+    {
+      "id": "aryabhatiya-q22",
+      "difficulty": "medium",
+      "q": "Which of these mathematical problems is addressed in the Aryabhatiya?",
+      "options": [
+        "Set theory",
+        "Calculus of variations",
+        "Fourier analysis",
+        "Solving indeterminate (Diophantine-type) equations via the kuttaka method"
+      ],
+      "answer": 3,
+      "explanation": "The Aryabhatiya describes the 'kuttaka' (pulverizer) method for solving indeterminate linear equations."
+    },
+    {
+      "id": "aryabhatiya-q23",
+      "difficulty": "hard",
+      "q": "In the Aryabhatiya, Aryabhata used an unusual alphabetic system to compactly represent large numbers. What is it called?",
+      "options": [
+        "The Katapayadi system",
+        "The Brahmi tally system",
+        "The Kharosthi system",
+        "The Aryabhata alphabetic numeral (varga/avarga) system"
+      ],
+      "answer": 3,
+      "explanation": "Aryabhata devised his own alphabetic numeral notation using Sanskrit consonants and vowels to encode numbers in verse."
+    },
+    {
+      "id": "aryabhatiya-q24",
+      "difficulty": "hard",
+      "q": "Which later mathematician wrote a famous and influential commentary (bhashya) on the Aryabhatiya in the 7th century?",
+      "options": [
+        "Mahavira",
+        "Bhaskara I",
+        "Sridhara",
+        "Madhava of Sangamagrama"
+      ],
+      "answer": 1,
+      "explanation": "Bhaskara I wrote an important 629 CE commentary on the Aryabhatiya, helping preserve and explain it."
+    },
+    {
+      "id": "aryabhatiya-q25",
+      "difficulty": "hard",
+      "q": "The opening section of the Aryabhatiya, which presents astronomical constants in verse, is called the:",
+      "options": [
+        "Kalakriyapada",
+        "Ganitapada",
+        "Gitikapada",
+        "Golapada"
+      ],
+      "answer": 2,
+      "explanation": "The Gitikapada is the introductory section presenting cosmological and astronomical parameters in a metrical form."
+    },
+    {
+      "id": "aryabhatiya-q26",
+      "difficulty": "hard",
+      "q": "The section of the Aryabhatiya dealing with the celestial sphere and the geometry of the heavens is the:",
+      "options": [
+        "Gitikapada",
+        "Golapada",
+        "Ganitapada",
+        "Kalakriyapada"
+      ],
+      "answer": 1,
+      "explanation": "The Golapada ('sphere section') treats the celestial sphere, the spherical Earth, and related geometry."
+    },
+    {
+      "id": "aryabhatiya-q27",
+      "difficulty": "hard",
+      "q": "Which section of the Aryabhatiya is concerned with the reckoning of time and planetary positions?",
+      "options": [
+        "Kalakriyapada",
+        "Golapada",
+        "Ganitapada",
+        "Gitikapada"
+      ],
+      "answer": 0,
+      "explanation": "The Kalakriyapada ('reckoning of time') deals with units of time, planetary motions, and calendrical calculations."
+    },
+    {
+      "id": "aryabhatiya-q28",
+      "difficulty": "hard",
+      "q": "Aryabhata's value for the length of the sidereal year in the Aryabhatiya was remarkable because it was:",
+      "options": [
+        "Accurate to within minutes of the modern value",
+        "Wildly inaccurate by several months",
+        "Exactly 360 days",
+        "Based purely on guesswork"
+      ],
+      "answer": 0,
+      "explanation": "Aryabhata's estimate of the sidereal year was extremely close to the modern measured value, accurate within minutes."
+    },
+    {
+      "id": "aryabhatiya-q29",
+      "difficulty": "hard",
+      "q": "India's first satellite, launched in 1975, was named in honor of the author of the Aryabhatiya. What was it called?",
+      "options": [
+        "Aryabhata",
+        "Bhaskara",
+        "Apple",
+        "Rohini"
+      ],
+      "answer": 0,
+      "explanation": "India's first satellite, launched in 1975, was named 'Aryabhata' to honor the ancient astronomer."
+    },
+    {
+      "id": "aryabhatiya-q30",
+      "difficulty": "hard",
+      "q": "Which formula given in the Aryabhatiya for the area of a triangle is correct?",
+      "options": [
+        "The product of all three sides",
+        "The square of the longest side",
+        "Half the product of the base and the height (perpendicular)",
+        "The sum of the three sides divided by two"
+      ],
+      "answer": 2,
+      "explanation": "Aryabhata correctly stated that a triangle's area equals half the product of its base and its perpendicular height."
+    }
+  ]
+}

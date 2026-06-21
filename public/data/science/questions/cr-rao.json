@@ -1,0 +1,245 @@
+{
+  "cardId": "cr-rao",
+  "questions": [
+    {
+      "id": "cr-rao-q01",
+      "difficulty": "easy",
+      "q": "In which field did C. R. Rao make his most celebrated contributions?",
+      "options": ["Organic chemistry", "Statistics", "Plant genetics", "Geology"],
+      "answer": 1,
+      "explanation": "C. R. Rao was a statistician whose work forms cornerstones of modern statistical theory."
+    },
+    {
+      "id": "cr-rao-q02",
+      "difficulty": "easy",
+      "q": "Which famous lower bound on the variance of an estimator carries C. R. Rao's name?",
+      "options": ["The Heisenberg bound", "The Chernoff bound", "The Cramer-Rao bound", "The Markov bound"],
+      "answer": 2,
+      "explanation": "The Cramer-Rao bound (or inequality) sets a lower limit on the variance of any unbiased estimator."
+    },
+    {
+      "id": "cr-rao-q03",
+      "difficulty": "easy",
+      "q": "Which theorem for improving an estimator is named jointly for Rao and another statistician?",
+      "options": ["The Rao-Blackwell theorem", "The Bayes-Laplace theorem", "The Gauss-Markov theorem", "The Neyman-Pearson lemma"],
+      "answer": 0,
+      "explanation": "The Rao-Blackwell theorem describes how to improve an estimator using a sufficient statistic."
+    },
+    {
+      "id": "cr-rao-q04",
+      "difficulty": "easy",
+      "q": "What does the initials 'C. R.' stand for in C. R. Rao's name?",
+      "options": ["Calyampudi Radhakrishna", "Chandra Raman", "Chandrasekhara Ramanujan", "Chetan Ravi"],
+      "answer": 0,
+      "explanation": "His full name was Calyampudi Radhakrishna Rao."
+    },
+    {
+      "id": "cr-rao-q05",
+      "difficulty": "easy",
+      "q": "C. R. Rao was associated for decades with which pioneering Indian statistical institution?",
+      "options": ["Tata Institute of Fundamental Research", "Indian Institute of Science", "Bhabha Atomic Research Centre", "Indian Statistical Institute"],
+      "answer": 3,
+      "explanation": "Rao spent much of his career at the Indian Statistical Institute (ISI) in Kolkata."
+    },
+    {
+      "id": "cr-rao-q06",
+      "difficulty": "easy",
+      "q": "C. R. Rao was a citizen and native of which country?",
+      "options": ["India", "Sri Lanka", "Bangladesh", "United Kingdom"],
+      "answer": 0,
+      "explanation": "C. R. Rao was born in India and is one of its most celebrated scientists."
+    },
+    {
+      "id": "cr-rao-q07",
+      "difficulty": "easy",
+      "q": "The Cramer-Rao bound is most directly concerned with which property of an estimator?",
+      "options": ["Its color", "The lower limit of its variance", "Its computational speed", "Its memory usage"],
+      "answer": 1,
+      "explanation": "The Cramer-Rao bound gives a theoretical lower bound on the variance of an unbiased estimator."
+    },
+    {
+      "id": "cr-rao-q08",
+      "difficulty": "easy",
+      "q": "Which mathematical quantity is central to the Cramer-Rao bound?",
+      "options": ["Avogadro's number", "The golden ratio", "Fisher information", "The Reynolds number"],
+      "answer": 2,
+      "explanation": "The Cramer-Rao bound expresses the variance limit as the inverse of the Fisher information."
+    },
+    {
+      "id": "cr-rao-q09",
+      "difficulty": "easy",
+      "q": "C. R. Rao is best described as which of the following?",
+      "options": ["An astronomer", "A statistician and mathematician", "A surgeon", "A botanist"],
+      "answer": 1,
+      "explanation": "Rao was a mathematician and statistician renowned for foundational results in estimation theory."
+    },
+    {
+      "id": "cr-rao-q10",
+      "difficulty": "easy",
+      "q": "The Rao-Blackwell theorem improves an estimator by conditioning on what kind of statistic?",
+      "options": ["A random statistic", "A sufficient statistic", "An inconsistent statistic", "A biased statistic"],
+      "answer": 1,
+      "explanation": "Rao-Blackwellization conditions an estimator on a sufficient statistic to reduce its variance."
+    },
+    {
+      "id": "cr-rao-q11",
+      "difficulty": "medium",
+      "q": "In which decade did C. R. Rao publish the seminal results that led to the Cramer-Rao bound and Rao-Blackwell theorem?",
+      "options": ["The 1910s", "The 1940s", "The 1980s", "The 2000s"],
+      "answer": 1,
+      "explanation": "Rao's foundational papers appeared in the mid-1940s, around 1945."
+    },
+    {
+      "id": "cr-rao-q12",
+      "difficulty": "medium",
+      "q": "C. R. Rao earned his PhD at the University of Cambridge under which renowned statistician?",
+      "options": ["Ronald A. Fisher", "Karl Pearson", "Jerzy Neyman", "William Gosset"],
+      "answer": 0,
+      "explanation": "Rao completed his doctorate at Cambridge with R. A. Fisher as his adviser."
+    },
+    {
+      "id": "cr-rao-q13",
+      "difficulty": "medium",
+      "q": "Which test, used to compare nested statistical models, is named after Rao?",
+      "options": ["Student's t-test", "Levene's test", "Rao's score test", "Tukey's range test"],
+      "answer": 2,
+      "explanation": "Rao's score test (the Lagrange multiplier test) is a classic large-sample hypothesis test he introduced."
+    },
+    {
+      "id": "cr-rao-q14",
+      "difficulty": "medium",
+      "q": "Who is the 'Cramer' in the Cramer-Rao bound, discovered independently around the same time?",
+      "options": ["Gabriel Cramer", "Carl Cramer", "Hans Cramer", "Harald Cramer"],
+      "answer": 3,
+      "explanation": "The Swedish statistician Harald Cramer derived the same inequality independently of Rao."
+    },
+    {
+      "id": "cr-rao-q15",
+      "difficulty": "medium",
+      "q": "Which prestigious U.S. honor did C. R. Rao receive in 2002 for his statistical achievements?",
+      "options": ["The Fields Medal", "The Turing Award", "The Pulitzer Prize", "The U.S. National Medal of Science"],
+      "answer": 3,
+      "explanation": "In 2002 Rao was awarded the U.S. National Medal of Science, the country's highest scientific honor."
+    },
+    {
+      "id": "cr-rao-q16",
+      "difficulty": "medium",
+      "q": "In 2023, C. R. Rao received which award often called the 'Nobel Prize of statistics'?",
+      "options": ["The Abel Prize", "The International Prize in Statistics", "The Wolf Prize", "The Breakthrough Prize"],
+      "answer": 1,
+      "explanation": "Rao was awarded the 2023 International Prize in Statistics, widely regarded as statistics' top honor."
+    },
+    {
+      "id": "cr-rao-q17",
+      "difficulty": "medium",
+      "q": "Who was the founder of the Indian Statistical Institute where Rao spent much of his career?",
+      "options": ["P. C. Mahalanobis", "Satyendra Nath Bose", "Homi Bhabha", "Meghnad Saha"],
+      "answer": 0,
+      "explanation": "P. C. Mahalanobis founded the Indian Statistical Institute, where Rao worked and rose to prominence."
+    },
+    {
+      "id": "cr-rao-q18",
+      "difficulty": "medium",
+      "q": "The Cramer-Rao bound is satisfied with equality by which class of estimators when they exist?",
+      "options": ["Inadmissible estimators", "Efficient (minimum-variance) estimators", "Maximally biased estimators", "Random guesses"],
+      "answer": 1,
+      "explanation": "An estimator that attains the Cramer-Rao bound is called efficient, achieving the minimum possible variance."
+    },
+    {
+      "id": "cr-rao-q19",
+      "difficulty": "medium",
+      "q": "Rao made early contributions to which area concerning the geometry of statistical models?",
+      "options": ["Algebraic topology", "Fluid dynamics", "Information geometry", "Number theory of primes"],
+      "answer": 2,
+      "explanation": "Rao's use of the Fisher information as a Riemannian metric helped launch information geometry."
+    },
+    {
+      "id": "cr-rao-q20",
+      "difficulty": "medium",
+      "q": "Which distance measure between probability distributions bears Rao's name?",
+      "options": ["The Hamming distance", "The Rao distance", "The Manhattan distance", "The Levenshtein distance"],
+      "answer": 1,
+      "explanation": "The Rao distance is a geodesic distance on a statistical manifold derived from the Fisher information metric."
+    },
+    {
+      "id": "cr-rao-q21",
+      "difficulty": "medium",
+      "q": "Beyond estimation theory, Rao contributed influential methods to which applied field?",
+      "options": ["Stage magic", "Architecture", "Weather forecasting hardware", "Multivariate analysis and biometry"],
+      "answer": 3,
+      "explanation": "Rao made major contributions to multivariate statistical analysis and its applications in biometry."
+    },
+    {
+      "id": "cr-rao-q22",
+      "difficulty": "medium",
+      "q": "C. R. Rao's influential textbook is commonly titled 'Linear Statistical Inference and Its ___'.",
+      "options": ["History", "Applications", "Philosophy", "Limitations"],
+      "answer": 1,
+      "explanation": "Rao authored the classic text 'Linear Statistical Inference and Its Applications'."
+    },
+    {
+      "id": "cr-rao-q23",
+      "difficulty": "hard",
+      "q": "Who is the 'Blackwell' associated with the Rao-Blackwell theorem?",
+      "options": ["Maurice Blackwell", "David Blackwell", "Henry Blackwell", "Otis Blackwell"],
+      "answer": 1,
+      "explanation": "American statistician David Blackwell independently derived the variance-reduction result, hence Rao-Blackwell."
+    },
+    {
+      "id": "cr-rao-q24",
+      "difficulty": "hard",
+      "q": "When the sufficient statistic used in Rao-Blackwellization is also complete, the result is strengthened by which theorem?",
+      "options": ["The Lehmann-Scheffe theorem", "The central limit theorem", "The Glivenko-Cantelli theorem", "Bayes' theorem"],
+      "answer": 0,
+      "explanation": "With a complete sufficient statistic, the Lehmann-Scheffe theorem guarantees a unique minimum-variance unbiased estimator."
+    },
+    {
+      "id": "cr-rao-q25",
+      "difficulty": "hard",
+      "q": "The 'Rao' in the matrix concept 'Moore-Penrose / Rao' work relates to which area of linear algebra he advanced?",
+      "options": ["Eigenvalue ray tracing", "Fast Fourier transforms", "Generalized inverses of matrices", "Sorting algorithms"],
+      "answer": 2,
+      "explanation": "Rao contributed extensively to the theory and applications of generalized (g-) inverses of matrices."
+    },
+    {
+      "id": "cr-rao-q26",
+      "difficulty": "hard",
+      "q": "In approximately which year was C. R. Rao born?",
+      "options": ["1920", "1935", "1905", "1948"],
+      "answer": 0,
+      "explanation": "C. R. Rao was born in 1920 in present-day Karnataka, India."
+    },
+    {
+      "id": "cr-rao-q27",
+      "difficulty": "hard",
+      "q": "Rao's classification using a measure of 'diversity' and its decomposition is known as which entropy/diversity quantity?",
+      "options": ["Shannon's first theorem", "Rao's quadratic entropy", "The Gini-Simpson constant", "Boltzmann's H-function"],
+      "answer": 1,
+      "explanation": "Rao's quadratic entropy is a diversity measure that generalizes several classical indices and allows decomposition."
+    },
+    {
+      "id": "cr-rao-q28",
+      "difficulty": "hard",
+      "q": "The Cramer-Rao bound's role in physics-style estimation problems makes it foundational to which engineering discipline?",
+      "options": ["Civil bridge design", "Petroleum refining", "Textile manufacturing", "Signal processing and parameter estimation"],
+      "answer": 3,
+      "explanation": "The Cramer-Rao bound is a standard benchmark for estimator performance in signal processing."
+    },
+    {
+      "id": "cr-rao-q29",
+      "difficulty": "hard",
+      "q": "From which Indian university did C. R. Rao earn his master's degree in mathematics before studying statistics?",
+      "options": ["University of Delhi", "Andhra University", "Banaras Hindu University", "University of Bombay"],
+      "answer": 1,
+      "explanation": "Rao earned an MSc in mathematics from Andhra University, then an MA in statistics from the University of Calcutta before going to Cambridge."
+    },
+    {
+      "id": "cr-rao-q30",
+      "difficulty": "hard",
+      "q": "The Cramer-Rao inequality is most naturally derived using which fundamental inequality from analysis?",
+      "options": ["The triangle inequality alone", "Jensen's inequality only", "Chebyshev's sum inequality", "The Cauchy-Schwarz inequality"],
+      "answer": 3,
+      "explanation": "The classical proof of the Cramer-Rao bound applies the Cauchy-Schwarz inequality to the score and the estimator."
+    }
+  ]
+}

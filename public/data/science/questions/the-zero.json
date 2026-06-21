@@ -1,0 +1,245 @@
+{
+  "cardId": "the-zero",
+  "questions": [
+    {
+      "id": "the-zero-q01",
+      "difficulty": "easy",
+      "q": "Which number, treated as a value in its own right, was formalised in India and is celebrated as one of its greatest contributions to mathematics?",
+      "options": ["Pi", "Zero", "Infinity", "The golden ratio"],
+      "answer": 1,
+      "explanation": "The treatment of zero as a number in its own right was formalised in India, making modern positional mathematics possible."
+    },
+    {
+      "id": "the-zero-q02",
+      "difficulty": "easy",
+      "q": "What is the result when zero is added to any number?",
+      "options": ["The number is unchanged", "The result is always zero", "The number is doubled", "The result is one"],
+      "answer": 0,
+      "explanation": "Zero is the additive identity: adding zero to any number leaves that number unchanged."
+    },
+    {
+      "id": "the-zero-q03",
+      "difficulty": "easy",
+      "q": "What happens when any number is multiplied by zero?",
+      "options": ["The result equals the number", "The result is one", "The result is zero", "The number is unchanged"],
+      "answer": 2,
+      "explanation": "Multiplying any number by zero always gives zero."
+    },
+    {
+      "id": "the-zero-q04",
+      "difficulty": "easy",
+      "q": "Which 7th-century Indian mathematician is famous for giving the first systematic rules for arithmetic with zero?",
+      "options": ["Aryabhata", "Bhaskara II", "Brahmagupta", "Ramanujan"],
+      "answer": 2,
+      "explanation": "Brahmagupta, in his 628 CE work Brahmasphutasiddhanta, set out the earliest known systematic rules for calculating with zero."
+    },
+    {
+      "id": "the-zero-q05",
+      "difficulty": "easy",
+      "q": "In the modern decimal system, what role does zero play in a number like 305?",
+      "options": ["It marks the end of the number", "It acts as a placeholder showing no tens", "It rounds the number up", "It is purely decorative"],
+      "answer": 1,
+      "explanation": "Zero acts as a placeholder, indicating that a particular place value (here, the tens) is empty, which is essential to positional notation."
+    },
+    {
+      "id": "the-zero-q06",
+      "difficulty": "easy",
+      "q": "Which everyday symbol do we use today to write zero?",
+      "options": ["A dot", "A dash", "The digit 0", "The letter O only"],
+      "answer": 2,
+      "explanation": "The numeral 0 is the standard modern symbol for zero, descended from Indian numeral forms."
+    },
+    {
+      "id": "the-zero-q07",
+      "difficulty": "easy",
+      "q": "Zero is described in mathematics as which kind of number with respect to being positive or negative?",
+      "options": ["Positive", "Negative", "Neither positive nor negative", "Both positive and negative"],
+      "answer": 2,
+      "explanation": "Zero is neither positive nor negative; it is the dividing point between positive and negative numbers."
+    },
+    {
+      "id": "the-zero-q08",
+      "difficulty": "easy",
+      "q": "What is the result of subtracting a number from itself?",
+      "options": ["One", "Zero", "The number itself", "Two"],
+      "answer": 1,
+      "explanation": "Any number minus itself equals zero, a fundamental property tied to zero being the additive identity."
+    },
+    {
+      "id": "the-zero-q09",
+      "difficulty": "easy",
+      "q": "The widely used digit symbols including 0 are commonly called what?",
+      "options": ["Roman numerals", "Hindu-Arabic numerals", "Greek numerals", "Babylonian numerals"],
+      "answer": 1,
+      "explanation": "The decimal digits 0-9, including zero, are known as Hindu-Arabic numerals because they originated in India and reached Europe via the Arab world."
+    },
+    {
+      "id": "the-zero-q10",
+      "difficulty": "easy",
+      "q": "Why is zero considered so important for modern mathematics and computing?",
+      "options": ["It makes numbers look neater", "It enables place-value notation and binary code", "It speeds up handwriting", "It replaced Roman numerals overnight"],
+      "answer": 1,
+      "explanation": "Zero underpins place-value notation and the binary system (0 and 1) on which all modern computing is built."
+    },
+    {
+      "id": "the-zero-q11",
+      "difficulty": "medium",
+      "q": "In which of Brahmagupta's works were the first rules for arithmetic with zero recorded?",
+      "options": ["Aryabhatiya", "Brahmasphutasiddhanta", "Lilavati", "Siddhanta Shiromani"],
+      "answer": 1,
+      "explanation": "Brahmagupta's Brahmasphutasiddhanta (628 CE) contains the earliest known systematic rules for operating with zero and negative numbers."
+    },
+    {
+      "id": "the-zero-q12",
+      "difficulty": "medium",
+      "q": "What is the oldest undisputed inscriptional use of a written zero symbol in India, found in a temple?",
+      "options": ["The Bakhshali manuscript", "The Gwalior inscription", "The Ashoka pillar", "The Iron Pillar of Delhi"],
+      "answer": 1,
+      "explanation": "The 9th-century Gwalior inscription contains one of the oldest firmly dated uses of the zero symbol as we know it, written as a small circle."
+    },
+    {
+      "id": "the-zero-q13",
+      "difficulty": "medium",
+      "q": "Which ancient Indian manuscript, dated by carbon analysis, contains some of the earliest known uses of a dot symbol for zero?",
+      "options": ["The Bakhshali manuscript", "The Rhind papyrus", "The Surya Siddhanta", "The Vedanga Jyotisha"],
+      "answer": 0,
+      "explanation": "The Bakhshali manuscript uses a dot as a placeholder for zero; radiocarbon dating has placed parts of it among the earliest such usages."
+    },
+    {
+      "id": "the-zero-q14",
+      "difficulty": "medium",
+      "q": "The Sanskrit word commonly used for zero, meaning 'empty' or 'void', is which of the following?",
+      "options": ["Ganita", "Shunya", "Yukti", "Bija"],
+      "answer": 1,
+      "explanation": "The Sanskrit term 'shunya' means empty or void and was the word used for zero in Indian mathematics."
+    },
+    {
+      "id": "the-zero-q15",
+      "difficulty": "medium",
+      "q": "Which mathematician's writings helped transmit Indian numerals, including zero, to the Islamic world, and gave us the word 'algorithm'?",
+      "options": ["Euclid", "Al-Khwarizmi", "Fibonacci", "Diophantus"],
+      "answer": 1,
+      "explanation": "Al-Khwarizmi's 9th-century works spread Indian numerals through the Islamic world, and the Latinisation of his name gave us the word 'algorithm'."
+    },
+    {
+      "id": "the-zero-q16",
+      "difficulty": "medium",
+      "q": "Which European mathematician popularised Hindu-Arabic numerals, including zero, in Europe through his 1202 book Liber Abaci?",
+      "options": ["Fibonacci (Leonardo of Pisa)", "Isaac Newton", "Rene Descartes", "Blaise Pascal"],
+      "answer": 0,
+      "explanation": "Fibonacci's Liber Abaci (1202) introduced Hindu-Arabic numerals and the use of zero to a wide European audience."
+    },
+    {
+      "id": "the-zero-q17",
+      "difficulty": "medium",
+      "q": "According to standard modern arithmetic, what is the value of any nonzero number raised to the power of zero?",
+      "options": ["Zero", "The number itself", "One", "Undefined"],
+      "answer": 2,
+      "explanation": "By convention any nonzero number raised to the power zero equals one, which keeps the laws of exponents consistent."
+    },
+    {
+      "id": "the-zero-q18",
+      "difficulty": "medium",
+      "q": "Earlier civilisations such as the Babylonians used a placeholder, but what crucial step did Indian mathematicians take that they did not?",
+      "options": ["They invented counting", "They treated zero as a number that could be used in calculations", "They wrote numbers from right to left", "They abolished fractions"],
+      "answer": 1,
+      "explanation": "Indian mathematicians went beyond a mere placeholder and treated zero as a number in its own right, with defined rules for arithmetic."
+    },
+    {
+      "id": "the-zero-q19",
+      "difficulty": "medium",
+      "q": "In the binary number system used by computers, which two digits are used?",
+      "options": ["1 and 2", "0 and 1", "0 and 9", "1 and 10"],
+      "answer": 1,
+      "explanation": "The binary system uses only the digits 0 and 1, so the concept of zero is fundamental to all digital computing."
+    },
+    {
+      "id": "the-zero-q20",
+      "difficulty": "medium",
+      "q": "Which civilisation in the Americas independently developed a symbol for zero in its calendar and counting system?",
+      "options": ["The Inca", "The Maya", "The Aztec", "The Olmec only"],
+      "answer": 1,
+      "explanation": "The Maya independently developed a zero symbol used in their vigesimal (base-20) counting and Long Count calendar."
+    },
+    {
+      "id": "the-zero-q21",
+      "difficulty": "medium",
+      "q": "What is the additive identity in the set of integers?",
+      "options": ["One", "Zero", "Negative one", "Infinity"],
+      "answer": 1,
+      "explanation": "Zero is the additive identity, because adding it to any integer leaves that integer unchanged."
+    },
+    {
+      "id": "the-zero-q22",
+      "difficulty": "medium",
+      "q": "Brahmagupta correctly stated rules for adding and subtracting zero, but his attempt to define which operation involving zero was flawed by modern standards?",
+      "options": ["Addition by zero", "Subtraction of zero", "Division by zero", "Multiplication by zero"],
+      "answer": 2,
+      "explanation": "Brahmagupta's rules for division by zero were incorrect by modern standards; division by zero is now considered undefined."
+    },
+    {
+      "id": "the-zero-q23",
+      "difficulty": "hard",
+      "q": "What did Brahmagupta call the result of subtracting a number from itself, which is one of the earliest explicit definitions of zero?",
+      "options": ["A debt", "A fortune", "Cipher or shunya", "An imaginary value"],
+      "answer": 2,
+      "explanation": "Brahmagupta defined zero (shunya) as the result of subtracting a number from itself, giving an explicit arithmetic definition of zero."
+    },
+    {
+      "id": "the-zero-q24",
+      "difficulty": "hard",
+      "q": "Which 12th-century Indian mathematician discussed dividing a number by zero and associated the result with the idea of infinity (khahara)?",
+      "options": ["Bhaskara II", "Aryabhata", "Madhava", "Varahamihira"],
+      "answer": 0,
+      "explanation": "Bhaskara II, in the Lilavati and Bijaganita, discussed division by zero and linked it to an infinite quantity he called khahara."
+    },
+    {
+      "id": "the-zero-q25",
+      "difficulty": "hard",
+      "q": "In modern mathematics, why is division by zero left undefined?",
+      "options": ["Because zero is not a real number", "Because there is no unique number that, multiplied by zero, gives the dividend", "Because it always equals infinity", "Because computers cannot store it"],
+      "answer": 1,
+      "explanation": "Division by zero is undefined because no single number multiplied by zero can yield a nonzero dividend, and any value works for zero divided by zero."
+    },
+    {
+      "id": "the-zero-q26",
+      "difficulty": "hard",
+      "q": "The word 'shunya' for zero was translated into Arabic as 'sifr'; this Arabic term is the root of which two English words?",
+      "options": ["Number and digit", "Cipher and zero", "Sum and total", "Count and tally"],
+      "answer": 1,
+      "explanation": "The Arabic 'sifr' (empty), a translation of shunya, gave rise to both the English words 'cipher' and 'zero'."
+    },
+    {
+      "id": "the-zero-q27",
+      "difficulty": "hard",
+      "q": "Which early Indian astronomer-mathematician used a place-value system and a word for emptiness ('kha') in his work around 499 CE, foreshadowing zero?",
+      "options": ["Aryabhata", "Brahmagupta", "Bhaskara I", "Mahavira"],
+      "answer": 0,
+      "explanation": "Aryabhata (c. 499 CE) used a place-value system and the concept of emptiness ('kha'), laying groundwork that Brahmagupta later formalised with explicit rules for zero."
+    },
+    {
+      "id": "the-zero-q28",
+      "difficulty": "hard",
+      "q": "What is true about the value of zero factorial (0!)?",
+      "options": ["It is undefined", "It equals zero", "It equals one", "It equals infinity"],
+      "answer": 2,
+      "explanation": "By definition zero factorial equals one, a convention that keeps formulas for permutations and combinations consistent."
+    },
+    {
+      "id": "the-zero-q29",
+      "difficulty": "hard",
+      "q": "Approximately which century is the Brahmasphutasiddhanta, containing the first rules for zero, dated to?",
+      "options": ["3rd century CE", "7th century CE", "10th century CE", "12th century CE"],
+      "answer": 1,
+      "explanation": "Brahmagupta composed the Brahmasphutasiddhanta in 628 CE, placing it firmly in the 7th century CE."
+    },
+    {
+      "id": "the-zero-q30",
+      "difficulty": "hard",
+      "q": "On the standard number line, zero serves as which key reference point?",
+      "options": ["The smallest possible number", "The largest possible number", "The origin separating positive and negative numbers", "An endpoint with no neighbours"],
+      "answer": 2,
+      "explanation": "Zero is the origin of the number line, the reference point separating the positive numbers from the negative numbers."
+    }
+  ]
+}

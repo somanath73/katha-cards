@@ -1,0 +1,245 @@
+{
+  "cardId": "jagadish-chandra-bose",
+  "questions": [
+    {
+      "id": "jagadish-chandra-bose-q01",
+      "difficulty": "easy",
+      "q": "In which country was Jagadish Chandra Bose born?",
+      "options": ["England", "India", "Japan", "United States"],
+      "answer": 1,
+      "explanation": "Bose was born in 1858 in Bengal, in British India (in present-day Bangladesh)."
+    },
+    {
+      "id": "jagadish-chandra-bose-q02",
+      "difficulty": "easy",
+      "q": "Jagadish Chandra Bose is best known as a pioneer in the study of which kind of waves?",
+      "options": ["Sound waves", "Ocean waves", "Radio waves", "Earthquake waves"],
+      "answer": 2,
+      "explanation": "Bose was a pioneer in generating and studying very short radio (microwave) waves."
+    },
+    {
+      "id": "jagadish-chandra-bose-q03",
+      "difficulty": "easy",
+      "q": "Bose famously demonstrated that which living things respond to stimuli?",
+      "options": ["Plants", "Rocks", "Stars", "Metals only"],
+      "answer": 0,
+      "explanation": "Bose showed that plants react to stimuli such as light, touch, and injury, a then-radical idea."
+    },
+    {
+      "id": "jagadish-chandra-bose-q04",
+      "difficulty": "easy",
+      "q": "What instrument did Bose invent to measure plant growth?",
+      "options": ["Seismograph", "Crescograph", "Telegraph", "Barometer"],
+      "answer": 1,
+      "explanation": "Bose invented the crescograph, which could magnify and record the tiny movements of plant growth."
+    },
+    {
+      "id": "jagadish-chandra-bose-q05",
+      "difficulty": "easy",
+      "q": "In which broad field did Bose work, combining physics with the study of life?",
+      "options": ["Astronomy", "Geology", "Biophysics", "Chemistry of metals only"],
+      "answer": 2,
+      "explanation": "Bose bridged physics and biology, making him a key early figure in biophysics."
+    },
+    {
+      "id": "jagadish-chandra-bose-q06",
+      "difficulty": "easy",
+      "q": "Bose is often described as a 'polymath.' What does that mean?",
+      "options": ["A person skilled in many fields", "A person who studies only maths", "A type of telescope", "A kind of plant"],
+      "answer": 0,
+      "explanation": "A polymath is someone whose expertise spans many subjects, which fit Bose's work in physics and botany."
+    },
+    {
+      "id": "jagadish-chandra-bose-q07",
+      "difficulty": "easy",
+      "q": "The crescograph was mainly used to study what aspect of plants?",
+      "options": ["Their color", "Their growth and movement", "Their smell", "Their seeds"],
+      "answer": 1,
+      "explanation": "The crescograph recorded the minute, slow growth and movements of plants by magnifying them enormously."
+    },
+    {
+      "id": "jagadish-chandra-bose-q08",
+      "difficulty": "easy",
+      "q": "Bose carried out his pioneering radio-wave experiments in which city?",
+      "options": ["London", "Calcutta (Kolkata)", "Tokyo", "Paris"],
+      "answer": 1,
+      "explanation": "Bose conducted his famous microwave experiments at Presidency College in Calcutta in the 1890s."
+    },
+    {
+      "id": "jagadish-chandra-bose-q09",
+      "difficulty": "easy",
+      "q": "Which honour did Bose receive from the British Crown?",
+      "options": ["A knighthood", "A peerage as a Duke", "Poet Laureate", "A military medal for battle"],
+      "answer": 0,
+      "explanation": "Bose was knighted in 1917, becoming Sir Jagadish Chandra Bose."
+    },
+    {
+      "id": "jagadish-chandra-bose-q10",
+      "difficulty": "easy",
+      "q": "Bose founded a research institute in Calcutta named after himself. What is it called?",
+      "options": ["Indian Institute of Science", "Bose Institute", "Tata Institute", "Raman Research Institute"],
+      "answer": 1,
+      "explanation": "Bose founded the Bose Institute in Calcutta in 1917 to advance scientific research."
+    },
+    {
+      "id": "jagadish-chandra-bose-q11",
+      "difficulty": "medium",
+      "q": "In which year was Jagadish Chandra Bose born?",
+      "options": ["1888", "1901", "1837", "1858"],
+      "answer": 3,
+      "explanation": "Bose was born on 30 November 1858."
+    },
+    {
+      "id": "jagadish-chandra-bose-q12",
+      "difficulty": "medium",
+      "q": "At which college in Calcutta did Bose serve as a professor of physics?",
+      "options": ["Hindu College", "Presidency College", "Scottish Church College", "Serampore College"],
+      "answer": 1,
+      "explanation": "Bose was a professor of physics at Presidency College, Calcutta, where he did his radio research."
+    },
+    {
+      "id": "jagadish-chandra-bose-q13",
+      "difficulty": "medium",
+      "q": "At which famous university did Bose study natural sciences after leaving India?",
+      "options": ["University of Oxford", "University of Cambridge", "Harvard University", "University of Edinburgh"],
+      "answer": 1,
+      "explanation": "Bose studied natural sciences at Christ's College, University of Cambridge."
+    },
+    {
+      "id": "jagadish-chandra-bose-q14",
+      "difficulty": "medium",
+      "q": "Roughly how short were the radio wavelengths Bose worked with, which we now call microwaves?",
+      "options": ["Several kilometres", "About a few millimetres", "Hundreds of metres", "About a metre"],
+      "answer": 1,
+      "explanation": "Bose generated very short waves of around 5 millimetres, well into the microwave range."
+    },
+    {
+      "id": "jagadish-chandra-bose-q15",
+      "difficulty": "medium",
+      "q": "Bose developed an early device to detect radio waves. What general type of detector was it?",
+      "options": ["A coherer", "A vacuum tube", "A transistor", "A laser diode"],
+      "answer": 0,
+      "explanation": "Bose built and improved the coherer, an early detector used to sense radio waves."
+    },
+    {
+      "id": "jagadish-chandra-bose-q16",
+      "difficulty": "medium",
+      "q": "Which scientific society in London elected Bose as a Fellow in 1920?",
+      "options": ["The Royal Society", "The Linnean Society only", "The British Academy", "The Royal Geographical Society"],
+      "answer": 0,
+      "explanation": "Bose was elected a Fellow of the Royal Society (FRS) in 1920, a rare honour for an Indian scientist of his era."
+    },
+    {
+      "id": "jagadish-chandra-bose-q17",
+      "difficulty": "medium",
+      "q": "Bose famously chose not to do which of the following with most of his inventions?",
+      "options": ["Publish them", "Patent them for profit", "Demonstrate them publicly", "Discuss them with colleagues"],
+      "answer": 1,
+      "explanation": "Bose was reluctant to patent his inventions, preferring to share his work freely with the world."
+    },
+    {
+      "id": "jagadish-chandra-bose-q18",
+      "difficulty": "medium",
+      "q": "Bose argued that the response of living tissue and certain inanimate materials showed which surprising similarity?",
+      "options": ["Identical chemical formulas", "Similar response curves to stimuli", "The same color under light", "Equal electrical resistance always"],
+      "answer": 1,
+      "explanation": "Bose found that metals, plants, and animal tissue gave similar fatigue and response curves when stimulated."
+    },
+    {
+      "id": "jagadish-chandra-bose-q19",
+      "difficulty": "medium",
+      "q": "Where did Bose give a landmark 1895 public demonstration of his wireless waves?",
+      "options": ["Town Hall in Calcutta", "Buckingham Palace", "The Eiffel Tower", "The University of Tokyo"],
+      "answer": 0,
+      "explanation": "In 1895 at the Town Hall in Calcutta, Bose used radio waves to ring a bell and ignite gunpowder at a distance."
+    },
+    {
+      "id": "jagadish-chandra-bose-q20",
+      "difficulty": "medium",
+      "q": "Bose's 1895 demonstration showed radio waves could pass through walls and a person's body to do what at a distance?",
+      "options": ["Charge a battery", "Ring a bell and trigger an explosion", "Send a photograph", "Produce sound recordings"],
+      "answer": 1,
+      "explanation": "His remote signalling rang a bell and set off a small charge, proving wireless transmission worked through obstacles."
+    },
+    {
+      "id": "jagadish-chandra-bose-q21",
+      "difficulty": "medium",
+      "q": "Besides physics, in which area of biology did Bose make major contributions?",
+      "options": ["Plant physiology", "Marine zoology", "Human genetics", "Entomology"],
+      "answer": 0,
+      "explanation": "Bose made pioneering contributions to plant physiology, studying how plants respond to environment and stimuli."
+    },
+    {
+      "id": "jagadish-chandra-bose-q22",
+      "difficulty": "medium",
+      "q": "In which year did Jagadish Chandra Bose die?",
+      "options": ["1920", "1958", "1937", "1945"],
+      "answer": 2,
+      "explanation": "Bose died on 23 November 1937, just before his 79th birthday."
+    },
+    {
+      "id": "jagadish-chandra-bose-q23",
+      "difficulty": "hard",
+      "q": "Bose used a semiconductor crystal as a detector of radio waves. What modern device does this anticipate?",
+      "options": ["The cathode-ray tube", "The fibre-optic cable", "The photographic plate", "The transistor or semiconductor diode"],
+      "answer": 3,
+      "explanation": "Bose's use of galena and other crystals to detect waves anticipated semiconductor diodes and point-contact devices."
+    },
+    {
+      "id": "jagadish-chandra-bose-q24",
+      "difficulty": "hard",
+      "q": "Bose presented his radio research to the Royal Institution in London in 1897 in a lecture often associated with which scientist's earlier electromagnetic work?",
+      "options": ["Isaac Newton", "James Clerk Maxwell and Heinrich Hertz", "Galileo Galilei", "Michael Faraday alone"],
+      "answer": 1,
+      "explanation": "Bose's work built on the electromagnetic theory of Maxwell and the wave experiments of Hertz."
+    },
+    {
+      "id": "jagadish-chandra-bose-q25",
+      "difficulty": "hard",
+      "q": "Which apparatus did Bose build to study the optical properties of his very short radio waves, mirroring tools used for light?",
+      "options": ["A spectroscope for visible light", "Prisms, lenses, and polarisers for microwaves", "A radio telescope", "A diffraction grating for X-rays"],
+      "answer": 1,
+      "explanation": "Bose built waveguides, horn antennas, prisms, lenses, and polarisers to show his microwaves behaved like light."
+    },
+    {
+      "id": "jagadish-chandra-bose-q26",
+      "difficulty": "hard",
+      "q": "Bose's plant-response work led him to claim that plants possess what kind of system analogous to animals?",
+      "options": ["A nervous-like signalling mechanism", "A circulatory heart", "Lungs for breathing", "A skeletal frame"],
+      "answer": 0,
+      "explanation": "Bose argued plants have electrical signalling resembling a nervous system, recording electrical responses to stimuli."
+    },
+    {
+      "id": "jagadish-chandra-bose-q27",
+      "difficulty": "hard",
+      "q": "Which 2009 IEEE recognition acknowledged Bose's role in early radio science?",
+      "options": ["He was named among the fathers of radio/wireless science", "He won a Nobel Prize posthumously", "He was given the Fields Medal", "He received the Turing Award"],
+      "answer": 0,
+      "explanation": "The IEEE has credited Bose among the early pioneers of radio science, recognising his millimetre-wave work."
+    },
+    {
+      "id": "jagadish-chandra-bose-q28",
+      "difficulty": "hard",
+      "q": "Bose published a notable scientific book in 1902 dealing with which subject?",
+      "options": ["Response in the living and non-living", "The structure of the atom", "The origin of species", "The theory of relativity"],
+      "answer": 0,
+      "explanation": "His 1902 book 'Response in the Living and Non-Living' compared stimulus responses across matter and tissue."
+    },
+    {
+      "id": "jagadish-chandra-bose-q29",
+      "difficulty": "hard",
+      "q": "A lunar crater was named in honour of Bose. On which body is this crater located?",
+      "options": ["Mars", "The Moon", "Venus", "Mercury"],
+      "answer": 1,
+      "explanation": "A crater on the far side of the Moon is named 'Bose' in his honour."
+    },
+    {
+      "id": "jagadish-chandra-bose-q30",
+      "difficulty": "hard",
+      "q": "Bose's improved coherer and crystal detectors mark him as an early figure in which technology, decades ahead of its time?",
+      "options": ["Solid-state electronics", "Nuclear fission", "Steam power", "Photography"],
+      "answer": 0,
+      "explanation": "By using crystals to detect radio waves, Bose foreshadowed solid-state electronics long before transistors existed."
+    }
+  ]
+}

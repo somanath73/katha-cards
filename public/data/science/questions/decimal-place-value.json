@@ -1,0 +1,245 @@
+{
+  "cardId": "decimal-place-value",
+  "questions": [
+    {
+      "id": "decimal-place-value-q01",
+      "difficulty": "easy",
+      "q": "The decimal system that spread worldwide is based on which number as its base?",
+      "options": ["Base 10", "Base 2", "Base 12", "Base 60"],
+      "answer": 0,
+      "explanation": "The decimal system is a base-ten place-value notation, using ten digits and powers of ten."
+    },
+    {
+      "id": "decimal-place-value-q02",
+      "difficulty": "easy",
+      "q": "In which region did the modern base-ten place-value numeral system originate?",
+      "options": ["Ancient Greece", "Ancient Egypt", "India", "Mesopotamia"],
+      "answer": 2,
+      "explanation": "The decimal place-value notation was developed in India before spreading westward."
+    },
+    {
+      "id": "decimal-place-value-q03",
+      "difficulty": "easy",
+      "q": "The numerals used worldwide today, which originated in India and passed through the Arab world, are commonly called what?",
+      "options": ["Roman numerals", "Greek numerals", "Babylonian numerals", "Hindu-Arabic numerals"],
+      "answer": 3,
+      "explanation": "They are known as Hindu-Arabic numerals because they were developed in India and transmitted to Europe via Arab mathematicians."
+    },
+    {
+      "id": "decimal-place-value-q04",
+      "difficulty": "easy",
+      "q": "How many distinct digit symbols are used in the decimal system?",
+      "options": ["Nine", "Twelve", "Ten", "Two"],
+      "answer": 2,
+      "explanation": "The decimal system uses ten digits, 0 through 9."
+    },
+    {
+      "id": "decimal-place-value-q05",
+      "difficulty": "easy",
+      "q": "In place-value notation, what determines the value contributed by a digit?",
+      "options": ["Only the digit's shape", "The color of the digit", "The order it was written", "The digit's position (place) as well as its value"],
+      "answer": 3,
+      "explanation": "Place-value means a digit's contribution depends on both its value and its position within the number."
+    },
+    {
+      "id": "decimal-place-value-q06",
+      "difficulty": "easy",
+      "q": "A crucial symbol that made the Indian place-value system fully powerful was which of the following?",
+      "options": ["A symbol for infinity", "A symbol for negative numbers", "A symbol for zero", "A decimal point"],
+      "answer": 2,
+      "explanation": "The use of zero as a placeholder and a number completed the place-value system."
+    },
+    {
+      "id": "decimal-place-value-q07",
+      "difficulty": "easy",
+      "q": "In the number 305, the digit 3 represents which value because of its place?",
+      "options": ["3", "30", "300", "3000"],
+      "answer": 2,
+      "explanation": "In 305 the 3 is in the hundreds place, so it represents 300."
+    },
+    {
+      "id": "decimal-place-value-q08",
+      "difficulty": "easy",
+      "q": "Which civilization carried Indian numerals westward toward Europe?",
+      "options": ["The Romans", "The Greeks", "Arab/Islamic scholars", "The Vikings"],
+      "answer": 2,
+      "explanation": "Arab scholars adopted the Indian numerals and transmitted them to medieval Europe, hence Hindu-Arabic numerals."
+    },
+    {
+      "id": "decimal-place-value-q09",
+      "difficulty": "easy",
+      "q": "What is the value of the digit in the tens place in the number 47?",
+      "options": ["4", "7", "40", "70"],
+      "answer": 2,
+      "explanation": "In 47 the digit 4 is in the tens place, representing 40."
+    },
+    {
+      "id": "decimal-place-value-q10",
+      "difficulty": "easy",
+      "q": "In a base-ten number, moving one place to the left multiplies the place value by what factor?",
+      "options": ["2", "5", "10", "100"],
+      "answer": 2,
+      "explanation": "Each place to the left is worth ten times the place to its right in a base-ten system."
+    },
+    {
+      "id": "decimal-place-value-q11",
+      "difficulty": "medium",
+      "q": "Which Indian mathematician and astronomer's 5th-century work reflects an early decimal place-value system and rules for calculation?",
+      "options": ["Aryabhata", "Pythagoras", "Euclid", "Al-Khwarizmi"],
+      "answer": 0,
+      "explanation": "Aryabhata (c. 476 CE) used a place-value-based system in his astronomical and mathematical work."
+    },
+    {
+      "id": "decimal-place-value-q12",
+      "difficulty": "medium",
+      "q": "Which Indian astronomer-mathematician wrote a text in 628 CE that gave explicit rules for arithmetic with zero?",
+      "options": ["Bhaskara II", "Aryabhata", "Madhava", "Brahmagupta"],
+      "answer": 3,
+      "explanation": "Brahmagupta's Brahmasphutasiddhanta (628 CE) gave the first systematic rules for computing with zero and negative numbers."
+    },
+    {
+      "id": "decimal-place-value-q13",
+      "difficulty": "medium",
+      "q": "The English word 'zero' and 'cipher' ultimately trace back to which Sanskrit term for the concept?",
+      "options": ["Ganita", "Sankhya", "Shunya", "Yantra"],
+      "answer": 2,
+      "explanation": "The Sanskrit 'shunya' (emptiness/void) became Arabic 'sifr', which gave rise to both 'zero' and 'cipher'."
+    },
+    {
+      "id": "decimal-place-value-q14",
+      "difficulty": "medium",
+      "q": "Which Persian mathematician's ~825 CE work helped spread the Indian decimal system in the Islamic world?",
+      "options": ["Omar Khayyam", "Al-Biruni", "Ibn Sina", "Al-Khwarizmi"],
+      "answer": 3,
+      "explanation": "Al-Khwarizmi wrote on Indian (Hindu) numerals, popularizing the decimal system in the Arab world."
+    },
+    {
+      "id": "decimal-place-value-q15",
+      "difficulty": "medium",
+      "q": "The word 'algorithm' is derived from the name of which scholar associated with spreading decimal arithmetic?",
+      "options": ["Aristotle", "Archimedes", "Al-Khwarizmi", "Fibonacci"],
+      "answer": 2,
+      "explanation": "'Algorithm' comes from the Latinized name of Al-Khwarizmi, whose work explained calculation with Indian numerals."
+    },
+    {
+      "id": "decimal-place-value-q16",
+      "difficulty": "medium",
+      "q": "Which Italian mathematician's 1202 book Liber Abaci helped introduce Hindu-Arabic numerals to Europe?",
+      "options": ["Fibonacci (Leonardo of Pisa)", "Cardano", "Galileo", "Pacioli"],
+      "answer": 0,
+      "explanation": "Fibonacci's Liber Abaci (1202) promoted the Hindu-Arabic numeral system to European merchants and scholars."
+    },
+    {
+      "id": "decimal-place-value-q17",
+      "difficulty": "medium",
+      "q": "The Bakhshali manuscript, an ancient Indian mathematical document, is notable for containing an early form of which symbol?",
+      "options": ["The equals sign", "The square root sign", "A dot used for zero", "The infinity symbol"],
+      "answer": 2,
+      "explanation": "The Bakhshali manuscript uses a dot as a placeholder, regarded as an early written form of zero."
+    },
+    {
+      "id": "decimal-place-value-q18",
+      "difficulty": "medium",
+      "q": "Numerals written from right to left grouped by place into ones, tens, hundreds, thousands reflect which key idea?",
+      "options": ["Tally counting", "Roman additive notation", "Binary encoding", "Positional (place-value) notation"],
+      "answer": 3,
+      "explanation": "Grouping digits by powers of ten according to position is the essence of positional, or place-value, notation."
+    },
+    {
+      "id": "decimal-place-value-q19",
+      "difficulty": "medium",
+      "q": "Compared with Roman numerals, a major advantage of the decimal place-value system is that it makes which task much easier?",
+      "options": ["Carving numbers in stone", "Counting on fingers", "Writing numbers shorter for the value 1", "Arithmetic such as multiplication and division"],
+      "answer": 3,
+      "explanation": "Place-value notation makes written arithmetic far simpler than the additive Roman system."
+    },
+    {
+      "id": "decimal-place-value-q20",
+      "difficulty": "medium",
+      "q": "In the decimal number 6,042, which place is occupied by the digit 0?",
+      "options": ["Ones", "Tens", "Hundreds", "Thousands"],
+      "answer": 2,
+      "explanation": "In 6,042 the digits from right are 2 (ones), 4 (tens), 0 (hundreds), 6 (thousands), so 0 is in the hundreds place."
+    },
+    {
+      "id": "decimal-place-value-q21",
+      "difficulty": "medium",
+      "q": "Ancient Indians had distinct Sanskrit names for very large powers of ten. This naming tradition emphasized which feature of their number system?",
+      "options": ["Use of base 60", "Avoidance of zero", "Counting only up to one thousand", "A decimal (powers-of-ten) structure for large numbers"],
+      "answer": 3,
+      "explanation": "Sanskrit terms for successive powers of ten reflect the deeply decimal structure of the Indian number system."
+    },
+    {
+      "id": "decimal-place-value-q22",
+      "difficulty": "medium",
+      "q": "European users initially called the new digits brought from the East by a name that became which English word for the numeral system?",
+      "options": ["Tallies", "Glyphs", "Runes", "Figures/ciphers"],
+      "answer": 3,
+      "explanation": "The numerals became known as 'figures' or 'ciphers', the latter from Arabic sifr for zero."
+    },
+    {
+      "id": "decimal-place-value-q23",
+      "difficulty": "hard",
+      "q": "Which inscription provides one of the oldest dated uses of a zero symbol in India?",
+      "options": ["The Gwalior inscription (9th century CE)", "The Rosetta Stone", "The Behistun inscription", "The Ashoka pillar edicts"],
+      "answer": 0,
+      "explanation": "The Gwalior temple inscription (dated to 876 CE) contains one of the oldest unambiguous dated uses of the zero symbol as a circle."
+    },
+    {
+      "id": "decimal-place-value-q24",
+      "difficulty": "hard",
+      "q": "In Brahmagupta's 628 CE rules, what did he state results from dividing a number by zero, an idea later refined by mathematicians?",
+      "options": ["He correctly defined it as undefined", "He banned zero from division entirely", "He attempted to define it, an early though flawed treatment", "He said it always equals one"],
+      "answer": 2,
+      "explanation": "Brahmagupta gave early rules for zero including attempts at division by zero, which were imperfect and later corrected."
+    },
+    {
+      "id": "decimal-place-value-q25",
+      "difficulty": "hard",
+      "q": "Which 7th-century work is credited with treating zero as a number in its own right, not merely a placeholder?",
+      "options": ["Euclid's Elements", "Ptolemy's Almagest", "Al-Khwarizmi's Algebra", "Brahmagupta's Brahmasphutasiddhanta"],
+      "answer": 3,
+      "explanation": "Brahmagupta's Brahmasphutasiddhanta (628 CE) treated zero as a number with arithmetic rules, a conceptual leap."
+    },
+    {
+      "id": "decimal-place-value-q26",
+      "difficulty": "hard",
+      "q": "Aryabhata represented numbers in his work using a system based on which feature?",
+      "options": ["Purely pictographic symbols", "Knotted cords", "Roman-style additive letters", "Sanskrit syllables encoding place values"],
+      "answer": 3,
+      "explanation": "Aryabhata used an alphabetic/syllabic notation in which syllables encoded digits and their decimal places."
+    },
+    {
+      "id": "decimal-place-value-q27",
+      "difficulty": "hard",
+      "q": "Latin texts that taught calculation with Hindu-Arabic numerals were known by a term derived from Al-Khwarizmi; these were called what?",
+      "options": ["Abaci", "Codices", "Algorisms", "Tabulae"],
+      "answer": 2,
+      "explanation": "Medieval European manuals on Hindu-Arabic computation were called 'algorisms', from the Latinized Al-Khwarizmi."
+    },
+    {
+      "id": "decimal-place-value-q28",
+      "difficulty": "hard",
+      "q": "Radiocarbon dating reported in 2017 suggested some folios of which manuscript may date to around the 3rd-4th century CE, bearing on the history of zero?",
+      "options": ["The Bakhshali manuscript", "The Surya Siddhanta", "The Lilavati", "The Sulba Sutras"],
+      "answer": 0,
+      "explanation": "A 2017 study dated portions of the Bakhshali manuscript surprisingly early, relevant to the history of the placeholder dot for zero."
+    },
+    {
+      "id": "decimal-place-value-q29",
+      "difficulty": "hard",
+      "q": "Before the placeholder zero, positional systems like the Babylonian sexagesimal one suffered from which ambiguity that an explicit zero resolved?",
+      "options": ["Numbers could not exceed sixty", "Digits had no fixed shapes", "Only addition was possible", "Empty positions were unmarked, making numbers ambiguous"],
+      "answer": 3,
+      "explanation": "Without a zero symbol, an empty place could not be distinguished, creating ambiguity that the Indian zero placeholder solved."
+    },
+    {
+      "id": "decimal-place-value-q30",
+      "difficulty": "hard",
+      "q": "The decimal place-value system is sometimes called positional notation because the value of a numeral depends on its position relative to which reference?",
+      "options": ["The units (ones) place", "The largest digit present", "The leftmost digit only", "The number of digits used"],
+      "answer": 0,
+      "explanation": "Positional value is reckoned by a digit's distance from the units place, each step left multiplying the value by the base ten."
+    }
+  ]
+}

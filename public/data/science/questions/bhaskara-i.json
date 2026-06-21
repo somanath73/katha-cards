@@ -1,0 +1,245 @@
+{
+  "cardId": "bhaskara-i",
+  "questions": [
+    {
+      "id": "bhaskara-i-q01",
+      "difficulty": "easy",
+      "q": "Bhaskara I is best remembered as a master of which two fields?",
+      "options": ["Medicine and botany", "Poetry and grammar", "Mathematics and astronomy", "Chemistry and metallurgy"],
+      "answer": 2,
+      "explanation": "Bhaskara I was a 7th-century Indian mathematician and astronomer."
+    },
+    {
+      "id": "bhaskara-i-q02",
+      "difficulty": "easy",
+      "q": "Bhaskara I is most famous for an accurate approximation formula for which function?",
+      "options": ["The logarithm", "The square root", "The exponential", "The sine"],
+      "answer": 3,
+      "explanation": "He is celebrated for a remarkably accurate rational approximation of the sine function."
+    },
+    {
+      "id": "bhaskara-i-q03",
+      "difficulty": "easy",
+      "q": "In which century did Bhaskara I live and work?",
+      "options": ["The 7th century CE", "The 12th century CE", "The 4th century BCE", "The 15th century CE"],
+      "answer": 0,
+      "explanation": "Bhaskara I lived in roughly 600 to 680 CE, the 7th century."
+    },
+    {
+      "id": "bhaskara-i-q04",
+      "difficulty": "easy",
+      "q": "Bhaskara I was a leading follower and expounder of the work of which earlier astronomer?",
+      "options": ["Brahmagupta", "Varahamihira", "Aryabhata", "Bhaskara II"],
+      "answer": 2,
+      "explanation": "Bhaskara I was the most important member of the school of Aryabhata and championed his ideas."
+    },
+    {
+      "id": "bhaskara-i-q05",
+      "difficulty": "easy",
+      "q": "Bhaskara I is often credited as the first to write numbers in which numeral system?",
+      "options": ["Roman numerals", "Babylonian base-60", "The Hindu place-value (decimal) system", "Egyptian hieroglyphic numerals"],
+      "answer": 2,
+      "explanation": "His 629 CE work is the earliest known text writing numbers in the Hindu decimal place-value system."
+    },
+    {
+      "id": "bhaskara-i-q06",
+      "difficulty": "easy",
+      "q": "What symbol did Bhaskara I use to represent zero in his place-value notation?",
+      "options": ["A dot", "A small circle", "A blank space", "A cross"],
+      "answer": 1,
+      "explanation": "He used a small circle to denote zero in the positional decimal system."
+    },
+    {
+      "id": "bhaskara-i-q07",
+      "difficulty": "easy",
+      "q": "To avoid confusion with the later Bhaskara II, Bhaskara I is sometimes distinguished by adding which qualifier?",
+      "options": ["'The Elder' or '7th century'", "'The Younger'", "'of Baghdad'", "'the Greek'"],
+      "answer": 0,
+      "explanation": "He is called Bhaskara the Elder or specified as the 7th-century Bhaskara to distinguish him from the 12th-century Bhaskara II."
+    },
+    {
+      "id": "bhaskara-i-q08",
+      "difficulty": "easy",
+      "q": "Bhaskara I and the other classical Indian astronomers belonged to which broad tradition of astronomy?",
+      "options": ["Modern observational astrophysics", "Siddhanta (mathematical astronomy)", "Astrology of the zodiac alone", "Greek geocentric tables only"],
+      "answer": 1,
+      "explanation": "He worked within the Siddhanta tradition of mathematical astronomy in ancient India."
+    },
+    {
+      "id": "bhaskara-i-q09",
+      "difficulty": "easy",
+      "q": "Bhaskara I's surviving works are written primarily in which language?",
+      "options": ["Persian", "Greek", "Tamil", "Sanskrit"],
+      "answer": 3,
+      "explanation": "Like other classical Indian mathematical texts, his works were composed in Sanskrit."
+    },
+    {
+      "id": "bhaskara-i-q10",
+      "difficulty": "easy",
+      "q": "Bhaskara I's sine approximation lets one calculate sine values without needing what?",
+      "options": ["Detailed lookup tables", "Any numbers at all", "A telescope", "Negative numbers"],
+      "answer": 0,
+      "explanation": "His simple rational formula gives close sine values directly, avoiding the need for extensive tables."
+    },
+    {
+      "id": "bhaskara-i-q11",
+      "difficulty": "medium",
+      "q": "In 629 CE, Bhaskara I wrote an influential commentary on which foundational text?",
+      "options": ["Brahmagupta's Brahmasphutasiddhanta", "Euclid's Elements", "Aryabhata's Aryabhatiya", "Varahamihira's Pancha-Siddhantika"],
+      "answer": 2,
+      "explanation": "His Aryabhatiyabhasya of 629 CE is a detailed commentary on Aryabhata's Aryabhatiya."
+    },
+    {
+      "id": "bhaskara-i-q12",
+      "difficulty": "medium",
+      "q": "Which of these is one of Bhaskara I's two major astronomical treatises?",
+      "options": ["Lilavati", "Mahabhaskariya", "Brahmasphutasiddhanta", "Surya Siddhanta"],
+      "answer": 1,
+      "explanation": "The Mahabhaskariya (Greater Book of Bhaskara) is one of his principal astronomical works."
+    },
+    {
+      "id": "bhaskara-i-q13",
+      "difficulty": "medium",
+      "q": "Besides the Mahabhaskariya, which shorter astronomical work is also attributed to Bhaskara I?",
+      "options": ["Ganitasarasangraha", "Siddhanta Shiromani", "Laghubhaskariya", "Aryabhatiya"],
+      "answer": 2,
+      "explanation": "The Laghubhaskariya (Smaller Book of Bhaskara) is his abridged companion treatise."
+    },
+    {
+      "id": "bhaskara-i-q14",
+      "difficulty": "medium",
+      "q": "Bhaskara I's sine approximation is a ratio of two polynomials, that is, what kind of function?",
+      "options": ["A logarithmic function", "A rational function", "A trigonometric series", "A piecewise constant function"],
+      "answer": 1,
+      "explanation": "His formula approximates sine as a ratio of quadratic expressions, a rational function."
+    },
+    {
+      "id": "bhaskara-i-q15",
+      "difficulty": "medium",
+      "q": "Bhaskara I's commentary is regarded as one of the earliest known prose works in Sanskrit on which subject?",
+      "options": ["Grammar", "Mathematics and astronomy", "Medicine", "Law"],
+      "answer": 1,
+      "explanation": "The Aryabhatiyabhasya is among the oldest surviving Sanskrit prose works dealing with mathematics and astronomy."
+    },
+    {
+      "id": "bhaskara-i-q16",
+      "difficulty": "medium",
+      "q": "In his commentary, Bhaskara I famously discussed and gave solutions related to which type of equation studied in number theory?",
+      "options": ["Quadratic equations only", "Indeterminate (Diophantine) equations", "Differential equations", "Logarithmic equations"],
+      "answer": 1,
+      "explanation": "He treated first-order indeterminate equations (the kuttaka method) for integer solutions."
+    },
+    {
+      "id": "bhaskara-i-q17",
+      "difficulty": "medium",
+      "q": "Which statement best describes the role of Aryabhata in Bhaskara I's career?",
+      "options": ["Aryabhata was his student", "Aryabhata's work was the foundation Bhaskara I expounded and defended", "Aryabhata refuted Bhaskara I", "They never referenced each other"],
+      "answer": 1,
+      "explanation": "Bhaskara I built upon, explained, and defended Aryabhata's astronomical system."
+    },
+    {
+      "id": "bhaskara-i-q18",
+      "difficulty": "medium",
+      "q": "Bhaskara I shares his name with the later Bhaskara II. What separates the two?",
+      "options": ["They are the same person", "About five centuries and different works", "Bhaskara II preceded Bhaskara I", "Only their birthplaces differ"],
+      "answer": 1,
+      "explanation": "Bhaskara I (7th century) and Bhaskara II (12th century) are different scholars separated by roughly 500 years."
+    },
+    {
+      "id": "bhaskara-i-q19",
+      "difficulty": "medium",
+      "q": "Bhaskara I's astronomy, following Aryabhata, supported which then-unusual idea about the Earth?",
+      "options": ["That the Earth is flat", "That the Earth is the only body in the universe", "That the Earth rotates on its own axis", "That the Sun orbits a fixed Earth daily because the sky spins"],
+      "answer": 2,
+      "explanation": "Following Aryabhata, his school favored the idea that the apparent daily motion of the sky is due to the Earth's rotation."
+    },
+    {
+      "id": "bhaskara-i-q20",
+      "difficulty": "medium",
+      "q": "Bhaskara I's works deal extensively with computing which astronomical phenomena?",
+      "options": ["Chemical reactions", "Planetary positions, eclipses and lunar visibility", "Earthquakes", "Tides of distant oceans only"],
+      "answer": 1,
+      "explanation": "His treatises address calculating planetary longitudes, eclipses, and the visibility of the Moon."
+    },
+    {
+      "id": "bhaskara-i-q21",
+      "difficulty": "medium",
+      "q": "Why is Bhaskara I's 629 CE text historically important for the numeral system used worldwide today?",
+      "options": ["It abolished the decimal system", "It is the earliest dated text clearly using the decimal place-value system with a zero symbol", "It introduced Roman numerals to India", "It rejected the use of zero"],
+      "answer": 1,
+      "explanation": "It is the oldest known dated document unambiguously employing the Hindu decimal place-value notation with zero."
+    },
+    {
+      "id": "bhaskara-i-q22",
+      "difficulty": "medium",
+      "q": "The subtitle 'The Sine Approximator' for Bhaskara I refers to his work on what mathematical idea?",
+      "options": ["Approximating areas of circles", "Approximating the values of the sine function", "Approximating prime numbers", "Approximating the speed of light"],
+      "answer": 1,
+      "explanation": "He devised a famous, surprisingly accurate approximation for sine values."
+    },
+    {
+      "id": "bhaskara-i-q23",
+      "difficulty": "hard",
+      "q": "In Bhaskara I's sine approximation, sin(x) for an angle x (in degrees, 0 to 180) is approximated using which quantity in the formula?",
+      "options": ["x(180 - x)", "x squared minus 180", "180 divided by x", "the cube of x"],
+      "answer": 0,
+      "explanation": "His formula uses the product x(180 - x), giving sin(x) approximately 4x(180-x) / (40500 - x(180-x))."
+    },
+    {
+      "id": "bhaskara-i-q24",
+      "difficulty": "hard",
+      "q": "Bhaskara I's sine approximation appears in which of his works?",
+      "options": ["The Brahmasphutasiddhanta", "The Lilavati", "Euclid's Elements", "The Mahabhaskariya"],
+      "answer": 3,
+      "explanation": "The famous sine approximation formula is stated in his Mahabhaskariya."
+    },
+    {
+      "id": "bhaskara-i-q25",
+      "difficulty": "hard",
+      "q": "Bhaskara I's birthplace is often associated with which region, sometimes giving him the epithet relating to Saurashtra/Asmaka?",
+      "options": ["Possibly the Saurashtra or Asmaka region of India", "Alexandria in Egypt", "Baghdad in Iraq", "Athens in Greece"],
+      "answer": 0,
+      "explanation": "He is thought to have been born in the Saurashtra/Asmaka area of India, though details are uncertain."
+    },
+    {
+      "id": "bhaskara-i-q26",
+      "difficulty": "hard",
+      "q": "The Sanskrit name 'Aryabhatiyabhasya' for Bhaskara I's 629 CE work literally indicates that it is what?",
+      "options": ["A poem about Aryabhata", "A commentary (bhasya) on the Aryabhatiya", "A refutation of Aryabhata", "A star catalogue"],
+      "answer": 1,
+      "explanation": "'Bhasya' means commentary, so the title denotes his commentary on Aryabhata's Aryabhatiya."
+    },
+    {
+      "id": "bhaskara-i-q27",
+      "difficulty": "hard",
+      "q": "A notable feature of Bhaskara I's mathematics is his use of word-numerals and verses, but his 629 commentary is especially valued because it also uses what?",
+      "options": ["Decimal place-value numerals with a circle for zero", "Only Greek letters for numbers", "No numbers at all", "A purely tally-mark system"],
+      "answer": 0,
+      "explanation": "Alongside word-numerals, he wrote numbers in the decimal positional system using a circle for zero."
+    },
+    {
+      "id": "bhaskara-i-q28",
+      "difficulty": "hard",
+      "q": "Which contemporary 7th-century Indian mathematician, known for rules on zero and negative numbers, was a near-contemporary of Bhaskara I?",
+      "options": ["Bhaskara II", "Ramanujan", "Madhava of Sangamagrama", "Brahmagupta"],
+      "answer": 3,
+      "explanation": "Brahmagupta (born 598 CE) was a near-contemporary, and the two represented different schools of the era."
+    },
+    {
+      "id": "bhaskara-i-q29",
+      "difficulty": "hard",
+      "q": "How accurate is Bhaskara I's sine approximation compared with true sine values over its range?",
+      "options": ["It is off by a factor of ten", "It agrees to within a couple of percent", "It is only correct at 0 and 180 degrees", "It gives values larger than one for all angles"],
+      "answer": 1,
+      "explanation": "His formula is remarkably accurate, with a maximum relative error of under about two percent (and a maximum absolute error around 0.0016) across 0 to 180 degrees."
+    },
+    {
+      "id": "bhaskara-i-q30",
+      "difficulty": "hard",
+      "q": "Within the history of trigonometry, Bhaskara I's contribution is significant because it provided an early what?",
+      "options": ["Closed-form rational approximation of a trigonometric function", "Proof that pi is irrational", "Mechanical computing device", "Use of imaginary numbers"],
+      "answer": 0,
+      "explanation": "He gave one of the earliest known closed-form rational approximations of the sine function."
+    }
+  ]
+}

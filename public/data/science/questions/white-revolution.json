@@ -1,0 +1,245 @@
+{
+  "cardId": "white-revolution",
+  "questions": [
+    {
+      "id": "white-revolution-q01",
+      "difficulty": "easy",
+      "q": "The White Revolution in India made the country the world's largest producer of which commodity?",
+      "options": ["Wheat", "Milk", "Cotton", "Tea"],
+      "answer": 1,
+      "explanation": "The White Revolution transformed India into the world's largest milk producer, hence the name referring to the colour of milk."
+    },
+    {
+      "id": "white-revolution-q02",
+      "difficulty": "easy",
+      "q": "Who is widely regarded as the 'Father of the White Revolution' in India?",
+      "options": ["M. S. Swaminathan", "Homi Bhabha", "Vikram Sarabhai", "Verghese Kurien"],
+      "answer": 3,
+      "explanation": "Verghese Kurien led the dairy cooperative movement and is celebrated as the Father of the White Revolution."
+    },
+    {
+      "id": "white-revolution-q03",
+      "difficulty": "easy",
+      "q": "What was the name of the massive dairy development programme that drove the White Revolution?",
+      "options": ["Operation Flood", "Operation Greenfield", "Operation Milkway", "Operation Harvest"],
+      "answer": 0,
+      "explanation": "Operation Flood, launched in 1970, was the programme that created a national milk grid and powered the White Revolution."
+    },
+    {
+      "id": "white-revolution-q04",
+      "difficulty": "easy",
+      "q": "Which iconic dairy brand, famous for its 'Utterly Butterly Delicious' butter, is associated with the White Revolution?",
+      "options": ["Mother Dairy", "Nestle", "Amul", "Britannia"],
+      "answer": 2,
+      "explanation": "Amul, the cooperative brand from Gujarat, became the flagship of India's dairy cooperative movement."
+    },
+    {
+      "id": "white-revolution-q05",
+      "difficulty": "easy",
+      "q": "The White Revolution was based on a model of which kind of organisation owned by milk producers?",
+      "options": ["Private corporations", "Government factories", "Cooperatives", "Foreign joint ventures"],
+      "answer": 2,
+      "explanation": "The movement was built on dairy cooperatives owned and controlled by the farmers who supplied the milk."
+    },
+    {
+      "id": "white-revolution-q06",
+      "difficulty": "easy",
+      "q": "In which Indian state did the Amul cooperative and the seeds of the White Revolution originate?",
+      "options": ["Punjab", "Kerala", "Gujarat", "Maharashtra"],
+      "answer": 2,
+      "explanation": "Amul began in the Kaira (Kheda) district of Gujarat, where the cooperative dairy model was pioneered."
+    },
+    {
+      "id": "white-revolution-q07",
+      "difficulty": "easy",
+      "q": "The word 'Amul' is derived from a Sanskrit word meaning what?",
+      "options": ["Priceless", "Pure", "White", "Strong"],
+      "answer": 0,
+      "explanation": "'Amul' comes from the Sanskrit 'Amulya', meaning priceless or invaluable."
+    },
+    {
+      "id": "white-revolution-q08",
+      "difficulty": "easy",
+      "q": "Operation Flood was launched in which decade?",
+      "options": ["1950s", "1970s", "1960s", "1990s"],
+      "answer": 1,
+      "explanation": "Operation Flood was launched in 1970, kicking off the multi-phase White Revolution."
+    },
+    {
+      "id": "white-revolution-q09",
+      "difficulty": "easy",
+      "q": "The White Revolution primarily benefited which group of people economically?",
+      "options": ["Urban industrialists", "Foreign exporters", "Small rural milk farmers", "Tea plantation owners"],
+      "answer": 2,
+      "explanation": "By cutting out middlemen, the cooperatives ensured fair prices flowed directly to millions of small rural milk producers."
+    },
+    {
+      "id": "white-revolution-q10",
+      "difficulty": "easy",
+      "q": "Verghese Kurien is often nicknamed by which title related to milk?",
+      "options": ["The Milk Baron", "The Dairy King", "The Cattle Lord", "The Milkman of India"],
+      "answer": 3,
+      "explanation": "Kurien is popularly known as the 'Milkman of India' for his role in the dairy revolution."
+    },
+    {
+      "id": "white-revolution-q11",
+      "difficulty": "medium",
+      "q": "Which national institution did Verghese Kurien found in 1965 to replicate the Anand cooperative model across India?",
+      "options": ["Indian Council of Agricultural Research", "Food Corporation of India", "National Dairy Development Board", "National Cooperative Union of India"],
+      "answer": 2,
+      "explanation": "Kurien founded the National Dairy Development Board (NDDB) in 1965 to spread the Anand-pattern cooperatives nationally."
+    },
+    {
+      "id": "white-revolution-q12",
+      "difficulty": "medium",
+      "q": "The cooperative structure used in the White Revolution is famously known as the 'Anand pattern,' named after a town in which state?",
+      "options": ["Rajasthan", "Tamil Nadu", "Karnataka", "Gujarat"],
+      "answer": 3,
+      "explanation": "Anand in Gujarat was the home of Amul and gave its name to the three-tier cooperative model."
+    },
+    {
+      "id": "white-revolution-q13",
+      "difficulty": "medium",
+      "q": "What is the full name of the cooperative whose abbreviation gives the brand 'Amul'?",
+      "options": ["Anand Milk Union Limited", "Amul Milk Udyog Limited", "Agricultural Milk United League", "Anand Milkmen United Ltd"],
+      "answer": 0,
+      "explanation": "Amul stands for the Anand Milk Union Limited (formally the Kaira District Co-operative Milk Producers' Union)."
+    },
+    {
+      "id": "white-revolution-q14",
+      "difficulty": "medium",
+      "q": "Operation Flood was funded in part by selling donated dairy commodities from which international source?",
+      "options": ["The World Bank only", "The European Economic Community's surplus milk powder and butter oil", "The United States Marshall Plan", "Soviet agricultural aid"],
+      "answer": 1,
+      "explanation": "Surplus skimmed milk powder and butter oil donated by the European Economic Community (via the World Food Programme) were sold to fund Operation Flood."
+    },
+    {
+      "id": "white-revolution-q15",
+      "difficulty": "medium",
+      "q": "A key technical breakthrough credited to Kurien's team was making milk powder from which type of milk, previously thought impossible?",
+      "options": ["Goat milk", "Camel milk", "Sheep milk", "Buffalo milk"],
+      "answer": 3,
+      "explanation": "Kurien's collaborator H. M. Dalaya pioneered producing skimmed milk powder from buffalo milk, a major innovation since most Indian milk came from buffaloes."
+    },
+    {
+      "id": "white-revolution-q16",
+      "difficulty": "medium",
+      "q": "Which engineer-technologist worked closely with Kurien and is credited with the buffalo-milk powder process at Amul?",
+      "options": ["Tribhuvandas Patel", "M. S. Swaminathan", "H. M. Dalaya", "Norman Borlaug"],
+      "answer": 2,
+      "explanation": "Harichand Megha Dalaya developed the process to make milk powder and condensed milk from buffalo milk."
+    },
+    {
+      "id": "white-revolution-q17",
+      "difficulty": "medium",
+      "q": "Operation Flood aimed to link rural milk producers to urban consumers through what nationwide system?",
+      "options": ["A National Milk Grid", "A milk rationing scheme", "State-run milk depots only", "Door-to-door cattle sales"],
+      "answer": 0,
+      "explanation": "Operation Flood created a National Milk Grid connecting producers in villages to consumers in over 700 towns and cities."
+    },
+    {
+      "id": "white-revolution-q18",
+      "difficulty": "medium",
+      "q": "Which cooperative leader and farmer first invited Kurien to help organise the dairy farmers of Kaira district?",
+      "options": ["Tribhuvandas Patel", "Sardar Vallabhbhai Patel", "Morarji Desai", "Jawaharlal Nehru"],
+      "answer": 0,
+      "explanation": "Tribhuvandas Patel, the cooperative's first chairman, recruited Kurien to support the Kaira farmers' movement."
+    },
+    {
+      "id": "white-revolution-q19",
+      "difficulty": "medium",
+      "q": "The Kaira farmers' cooperative was originally formed to challenge the monopoly of which private dairy?",
+      "options": ["Nestle India", "Britannia Dairy", "Glaxo Milk", "Polson Dairy"],
+      "answer": 3,
+      "explanation": "The cooperative arose from farmers' resistance to exploitation by the Polson dairy monopoly in the 1940s."
+    },
+    {
+      "id": "white-revolution-q20",
+      "difficulty": "medium",
+      "q": "Which prestigious international award, often called the 'Asian Nobel Prize,' did Verghese Kurien receive in 1963?",
+      "options": ["Magsaysay Award", "Templeton Prize", "Right Livelihood Award", "World Food Prize"],
+      "answer": 0,
+      "explanation": "Kurien received the Ramon Magsaysay Award in 1963 for Community Leadership."
+    },
+    {
+      "id": "white-revolution-q21",
+      "difficulty": "medium",
+      "q": "Verghese Kurien was also a recipient of which global food-focused prize in 1989?",
+      "options": ["Nobel Prize in Economics", "Borlaug Award", "World Food Prize", "Wolf Prize"],
+      "answer": 2,
+      "explanation": "Kurien won the World Food Prize in 1989 in recognition of his contribution to India's dairy development."
+    },
+    {
+      "id": "white-revolution-q22",
+      "difficulty": "medium",
+      "q": "Operation Flood was implemented in how many distinct phases?",
+      "options": ["Two phases", "Three phases", "Four phases", "Five phases"],
+      "answer": 1,
+      "explanation": "Operation Flood was carried out in three phases between 1970 and 1996."
+    },
+    {
+      "id": "white-revolution-q23",
+      "difficulty": "hard",
+      "q": "In which year did Verghese Kurien arrive at the government creamery in Anand that set him on his dairy career?",
+      "options": ["1939", "1949", "1959", "1965"],
+      "answer": 1,
+      "explanation": "Kurien arrived at the government research creamery in Anand in 1949 after returning from his engineering studies in the United States."
+    },
+    {
+      "id": "white-revolution-q24",
+      "difficulty": "hard",
+      "q": "The donated commodities used to fund Operation Flood were channelled into India through which UN agency?",
+      "options": ["UNESCO", "FAO directly", "World Food Programme", "UNDP"],
+      "answer": 2,
+      "explanation": "The European surplus dairy gifts were routed through the United Nations World Food Programme to bootstrap Operation Flood."
+    },
+    {
+      "id": "white-revolution-q25",
+      "difficulty": "hard",
+      "q": "The Amul advertising mascot, the 'Amul Girl,' first appeared in which decade, becoming a long-running topical campaign?",
+      "options": ["1940s", "1980s", "1960s", "2000s"],
+      "answer": 2,
+      "explanation": "The polka-dotted Amul Girl was introduced in 1966 (the 1960s) and became one of the world's longest-running ad campaigns."
+    },
+    {
+      "id": "white-revolution-q26",
+      "difficulty": "hard",
+      "q": "The Anand-pattern cooperative is a three-tier structure consisting of village societies, district unions, and what at the top?",
+      "options": ["A national export council", "A central government ministry", "A state-level marketing federation", "A private holding company"],
+      "answer": 2,
+      "explanation": "The three-tier model has village dairy cooperative societies, district milk unions, and a state milk marketing federation (such as GCMMF in Gujarat)."
+    },
+    {
+      "id": "white-revolution-q27",
+      "difficulty": "hard",
+      "q": "Which state federation markets the Amul brand on behalf of Gujarat's milk cooperatives?",
+      "options": ["GCMMF", "KMF", "RCDF", "TCMPF"],
+      "answer": 0,
+      "explanation": "The Gujarat Co-operative Milk Marketing Federation (GCMMF) markets products under the Amul brand."
+    },
+    {
+      "id": "white-revolution-q28",
+      "difficulty": "hard",
+      "q": "Verghese Kurien originally went to the United States on a government scholarship to study which subject before his dairy career?",
+      "options": ["Agricultural economics", "Metallurgical and mechanical engineering", "Veterinary science", "Food chemistry"],
+      "answer": 1,
+      "explanation": "Kurien studied mechanical/metallurgical engineering (with dairy engineering) at Michigan State University before being posted to Anand."
+    },
+    {
+      "id": "white-revolution-q29",
+      "difficulty": "hard",
+      "q": "Approximately by which year had Operation Flood's third and final phase concluded?",
+      "options": ["1985", "2005", "1996", "2010"],
+      "answer": 2,
+      "explanation": "Operation Flood's three phases ran from 1970 to 1996, when the programme formally concluded."
+    },
+    {
+      "id": "white-revolution-q30",
+      "difficulty": "hard",
+      "q": "Beyond economics, a major social impact of the White Revolution cooperatives was the empowerment of which group through dairy income?",
+      "options": ["Urban factory workers", "Foreign investors", "Plantation landlords", "Rural women"],
+      "answer": 3,
+      "explanation": "Dairy cooperatives gave millions of rural women direct income and a stake in their village societies, advancing rural women's empowerment."
+    }
+  ]
+}

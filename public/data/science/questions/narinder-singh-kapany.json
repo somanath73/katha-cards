@@ -1,0 +1,245 @@
+{
+  "cardId": "narinder-singh-kapany",
+  "questions": [
+    {
+      "id": "narinder-singh-kapany-q01",
+      "difficulty": "easy",
+      "q": "Narinder Singh Kapany is widely known as the 'Father of' which field?",
+      "options": ["Fibre optics", "Nuclear physics", "Quantum computing", "Aerodynamics"],
+      "answer": 0,
+      "explanation": "Kapany's pioneering work on transmitting light through glass fibres earned him the title 'Father of Fibre Optics'."
+    },
+    {
+      "id": "narinder-singh-kapany-q02",
+      "difficulty": "easy",
+      "q": "In which country was Narinder Singh Kapany born?",
+      "options": ["United States", "India", "United Kingdom", "Canada"],
+      "answer": 1,
+      "explanation": "Kapany was born in India, in Moga in the Punjab region, in 1926."
+    },
+    {
+      "id": "narinder-singh-kapany-q03",
+      "difficulty": "easy",
+      "q": "Kapany's work focused on transmitting what through thin glass fibres?",
+      "options": ["Sound", "Electricity", "Light", "Heat"],
+      "answer": 2,
+      "explanation": "His central achievement was demonstrating that light could be carried efficiently along bent glass fibres."
+    },
+    {
+      "id": "narinder-singh-kapany-q04",
+      "difficulty": "easy",
+      "q": "The term 'fiber optics' is generally credited to which scientist?",
+      "options": ["Narinder Singh Kapany", "Albert Einstein", "C. V. Raman", "Charles Townes"],
+      "answer": 0,
+      "explanation": "Kapany is credited with coining the term 'fiber optics' in an article he published in 1960."
+    },
+    {
+      "id": "narinder-singh-kapany-q05",
+      "difficulty": "easy",
+      "q": "Fibre optic cables are most famous today for carrying which kind of signals over long distances?",
+      "options": ["Radioactive particles", "Communications and internet data", "Magnetic fields", "Ocean currents"],
+      "answer": 1,
+      "explanation": "Optical fibres form the backbone of modern telecommunications, carrying internet, phone and TV data as pulses of light."
+    },
+    {
+      "id": "narinder-singh-kapany-q06",
+      "difficulty": "easy",
+      "q": "In which broad branch of science did Narinder Singh Kapany primarily work?",
+      "options": ["Botany", "Optical physics", "Marine geology", "Economics"],
+      "answer": 1,
+      "explanation": "Kapany was a physicist who specialized in optics, the study of light and its behaviour."
+    },
+    {
+      "id": "narinder-singh-kapany-q07",
+      "difficulty": "easy",
+      "q": "Besides being a scientist, Kapany was also notable as a:",
+      "options": ["Poet", "Entrepreneur who founded companies", "Professional cricketer", "Film director"],
+      "answer": 1,
+      "explanation": "Kapany founded and led several technology companies, blending his scientific work with entrepreneurship."
+    },
+    {
+      "id": "narinder-singh-kapany-q08",
+      "difficulty": "easy",
+      "q": "Optical fibres guide light by repeatedly bouncing it inside the fibre through a process called:",
+      "options": ["Nuclear fission", "Radioactive decay", "Photosynthesis", "Total internal reflection"],
+      "answer": 3,
+      "explanation": "Light stays trapped in a fibre because of total internal reflection at the boundary of the glass core."
+    },
+    {
+      "id": "narinder-singh-kapany-q09",
+      "difficulty": "easy",
+      "q": "Kapany spent much of his professional career in which country, where he built his companies?",
+      "options": ["Australia", "Japan", "United States", "Brazil"],
+      "answer": 2,
+      "explanation": "Kapany emigrated to the United States, settling in California where he founded technology firms in Silicon Valley."
+    },
+    {
+      "id": "narinder-singh-kapany-q10",
+      "difficulty": "easy",
+      "q": "The thin strands at the heart of fibre optics are made primarily of what material?",
+      "options": ["Copper", "Glass (and sometimes plastic)", "Iron", "Rubber"],
+      "answer": 1,
+      "explanation": "Optical fibres are drawn from very pure glass (silica), with plastic fibres used in some applications."
+    },
+    {
+      "id": "narinder-singh-kapany-q11",
+      "difficulty": "medium",
+      "q": "At which British institution did Kapany conduct his pioneering doctoral research on fibre optics?",
+      "options": ["University of Cambridge", "Imperial College London", "University of Oxford", "University of Edinburgh"],
+      "answer": 1,
+      "explanation": "Kapany earned his PhD at Imperial College London, where he carried out his early fibre optics experiments."
+    },
+    {
+      "id": "narinder-singh-kapany-q12",
+      "difficulty": "medium",
+      "q": "Kapany worked at Imperial College with which optics researcher on the landmark fibre bundle experiments?",
+      "options": ["Harold Hopkins", "Dennis Gabor", "George Gabriel Stokes", "James Clerk Maxwell"],
+      "answer": 0,
+      "explanation": "Kapany collaborated with Harold Hopkins on transmitting images through bundles of glass fibres."
+    },
+    {
+      "id": "narinder-singh-kapany-q13",
+      "difficulty": "medium",
+      "q": "Kapany and Hopkins published a key 1954 paper in which journal demonstrating image transmission through fibre bundles?",
+      "options": ["Science", "Physical Review", "The Lancet", "Nature"],
+      "answer": 3,
+      "explanation": "Their 1954 paper in Nature reported transmitting an image through an aligned bundle of glass fibres."
+    },
+    {
+      "id": "narinder-singh-kapany-q14",
+      "difficulty": "medium",
+      "q": "Kapany's widely cited 1960 article that helped popularize the field appeared in which magazine?",
+      "options": ["Time", "Popular Mechanics", "Scientific American", "National Geographic"],
+      "answer": 2,
+      "explanation": "His 1960 Scientific American article on 'Fiber Optics' brought the term and the technology to a broad audience."
+    },
+    {
+      "id": "narinder-singh-kapany-q15",
+      "difficulty": "medium",
+      "q": "In which decade did Kapany carry out the fibre optics work that established the field?",
+      "options": ["1910s", "1930s", "1950s", "1990s"],
+      "answer": 2,
+      "explanation": "Kapany's foundational experiments and the term 'fiber optics' date from the 1950s."
+    },
+    {
+      "id": "narinder-singh-kapany-q16",
+      "difficulty": "medium",
+      "q": "One of the earliest major practical uses of fibre optic bundles that Kapany helped enable was in:",
+      "options": ["Weather forecasting", "Medical endoscopes for viewing inside the body", "Satellite propulsion", "Earthquake prediction"],
+      "answer": 1,
+      "explanation": "Flexible fibre bundles allowed doctors to see inside the body, leading to modern endoscopes."
+    },
+    {
+      "id": "narinder-singh-kapany-q17",
+      "difficulty": "medium",
+      "q": "Kapany founded which pioneering fibre optics company in California in 1960?",
+      "options": ["Optics Technology Inc.", "Bell Labs", "Corning Glass", "Texas Instruments"],
+      "answer": 0,
+      "explanation": "Kapany founded Optics Technology Inc. in 1960 to commercialize optics and fibre optics research."
+    },
+    {
+      "id": "narinder-singh-kapany-q18",
+      "difficulty": "medium",
+      "q": "In approximately what year was Narinder Singh Kapany born?",
+      "options": ["1906", "1926", "1946", "1966"],
+      "answer": 1,
+      "explanation": "Kapany was born on 31 October 1926 in Moga, Punjab."
+    },
+    {
+      "id": "narinder-singh-kapany-q19",
+      "difficulty": "medium",
+      "q": "Kapany was awarded the Padma Vibhushan, one of India's highest civilian honours, in what year?",
+      "options": ["1985", "2021", "1972", "2010"],
+      "answer": 1,
+      "explanation": "Kapany was honoured with the Padma Vibhushan in 2021, awarded posthumously, recognizing his contributions."
+    },
+    {
+      "id": "narinder-singh-kapany-q20",
+      "difficulty": "medium",
+      "q": "A 1999 Fortune magazine feature on 'unsung heroes' of the 20th century highlighted Kapany for his role in:",
+      "options": ["Inventing the laser", "Pioneering fibre optics", "Discovering penicillin", "Building the transistor"],
+      "answer": 1,
+      "explanation": "Fortune named Kapany among the unsung heroes of the century for his foundational work in fibre optics."
+    },
+    {
+      "id": "narinder-singh-kapany-q21",
+      "difficulty": "medium",
+      "q": "Kapany was a noted collector and patron of art from which community, to which he belonged?",
+      "options": ["Sikh art", "Mughal miniatures only", "Ancient Greek pottery", "Renaissance frescoes"],
+      "answer": 0,
+      "explanation": "Kapany, a Sikh, was a major collector and promoter of Sikh art and helped establish Sikh art collections in museums."
+    },
+    {
+      "id": "narinder-singh-kapany-q22",
+      "difficulty": "medium",
+      "q": "What did Kapany's teacher reportedly tell him in school that he set out to disprove, inspiring his career?",
+      "options": ["That light only travels in straight lines", "That glass cannot be melted", "That sound cannot travel in water", "That the Earth is flat"],
+      "answer": 0,
+      "explanation": "A schoolteacher's claim that light travels only in straight lines spurred Kapany to show light could be guided along curved fibres."
+    },
+    {
+      "id": "narinder-singh-kapany-q23",
+      "difficulty": "hard",
+      "q": "In an optical fibre, the central light-carrying region is surrounded by a layer with a lower refractive index called the:",
+      "options": ["Jacket", "Cladding", "Ferrule", "Buffer gas"],
+      "answer": 1,
+      "explanation": "The cladding has a lower refractive index than the core, enabling total internal reflection that keeps light confined."
+    },
+    {
+      "id": "narinder-singh-kapany-q24",
+      "difficulty": "hard",
+      "q": "The 2009 Nobel Prize in Physics for fibre optic communication was awarded to which scientist, sometimes contrasted with Kapany's earlier work?",
+      "options": ["Charles K. Kao", "Subrahmanyan Chandrasekhar", "Abdus Salam", "Venkatraman Ramakrishnan"],
+      "answer": 0,
+      "explanation": "Charles K. Kao won the 2009 Nobel Prize for low-loss optical fibres; Kapany's earlier foundational role was widely noted but unawarded."
+    },
+    {
+      "id": "narinder-singh-kapany-q25",
+      "difficulty": "hard",
+      "q": "Kapany endowed a chair in optoelectronics and supported Sikh studies at which University of California campus?",
+      "options": ["UC Berkeley", "UC San Diego", "UC Davis", "UC Santa Cruz"],
+      "answer": 3,
+      "explanation": "Kapany endowed positions at UC Santa Cruz, including support for optoelectronics and Sikh and Punjab studies."
+    },
+    {
+      "id": "narinder-singh-kapany-q26",
+      "difficulty": "hard",
+      "q": "Kapany authored an influential 1967 textbook with which title that helped define the field?",
+      "options": ["Principles of Optics", "Fiber Optics: Principles and Applications", "The Feynman Lectures on Optics", "Introduction to Photonics"],
+      "answer": 1,
+      "explanation": "His 1967 book 'Fiber Optics: Principles and Applications' became a foundational text in the discipline."
+    },
+    {
+      "id": "narinder-singh-kapany-q27",
+      "difficulty": "hard",
+      "q": "Kapany later founded which company, reflecting his ongoing entrepreneurship in optical technologies?",
+      "options": ["Kaptron Inc.", "Fairchild Semiconductor", "Hewlett-Packard", "Raytheon"],
+      "answer": 0,
+      "explanation": "Kapany founded Kaptron Inc., one of several companies he started to develop fibre optic components."
+    },
+    {
+      "id": "narinder-singh-kapany-q28",
+      "difficulty": "hard",
+      "q": "In which city in Punjab was Narinder Singh Kapany born?",
+      "options": ["Amritsar", "Ludhiana", "Moga", "Patiala"],
+      "answer": 2,
+      "explanation": "Kapany was born in Moga, in the Punjab region of India."
+    },
+    {
+      "id": "narinder-singh-kapany-q29",
+      "difficulty": "hard",
+      "q": "A practical challenge that limited early long-distance fibre optics, later overcome with ultra-pure glass, was high:",
+      "options": ["Light loss (attenuation) in the glass", "Radioactivity of the fibres", "Magnetic interference inside glass", "Boiling point of silica"],
+      "answer": 0,
+      "explanation": "Early fibres lost too much light over distance; reducing attenuation with purer glass made long-haul optical communication possible."
+    },
+    {
+      "id": "narinder-singh-kapany-q30",
+      "difficulty": "hard",
+      "q": "In which year did Narinder Singh Kapany pass away?",
+      "options": ["2005", "2015", "2020", "2023"],
+      "answer": 2,
+      "explanation": "Kapany died in December 2020 at the age of 94 in California."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "bose-einstein-statistics",
+  "questions": [
+    {
+      "id": "bose-einstein-statistics-q01",
+      "difficulty": "easy",
+      "q": "Bose-Einstein statistics is named partly after which Indian physicist?",
+      "options": ["Satyendra Nath Bose", "C. V. Raman", "Meghnad Saha", "Homi Bhabha"],
+      "answer": 0,
+      "explanation": "The statistics grew out of Satyendra Nath Bose's 1924 work on light quanta, which he sent to Einstein."
+    },
+    {
+      "id": "bose-einstein-statistics-q02",
+      "difficulty": "easy",
+      "q": "The class of particles that obey Bose-Einstein statistics is called what?",
+      "options": ["Leptons", "Bosons", "Fermions", "Hadrons"],
+      "answer": 1,
+      "explanation": "Particles governed by Bose-Einstein statistics are named bosons in honour of S. N. Bose."
+    },
+    {
+      "id": "bose-einstein-statistics-q03",
+      "difficulty": "easy",
+      "q": "Which famous physicist worked with Bose to extend his ideas, giving the statistics its hyphenated name?",
+      "options": ["Niels Bohr", "Max Planck", "Albert Einstein", "Werner Heisenberg"],
+      "answer": 2,
+      "explanation": "Albert Einstein translated and extended Bose's paper, so the statistics carries both their names."
+    },
+    {
+      "id": "bose-einstein-statistics-q04",
+      "difficulty": "easy",
+      "q": "In which decade did Bose carry out the work that led to Bose-Einstein statistics?",
+      "options": ["1900s", "1910s", "1920s", "1940s"],
+      "answer": 2,
+      "explanation": "Bose's key paper was written in 1924, in the 1920s, during the birth of quantum theory."
+    },
+    {
+      "id": "bose-einstein-statistics-q05",
+      "difficulty": "easy",
+      "q": "The exotic state of matter predicted by this theory, formed when bosons cool to near absolute zero, is called what?",
+      "options": ["A plasma", "A Bose-Einstein condensate", "A superconductor", "A neutron star"],
+      "answer": 1,
+      "explanation": "At extremely low temperatures bosons can collapse into a single quantum state called a Bose-Einstein condensate."
+    },
+    {
+      "id": "bose-einstein-statistics-q06",
+      "difficulty": "easy",
+      "q": "Bose-Einstein statistics describes the behaviour of particles in which branch of physics?",
+      "options": ["Classical mechanics", "Quantum physics", "Thermodynamics of engines", "Fluid dynamics"],
+      "answer": 1,
+      "explanation": "It is a form of quantum statistics governing how identical quantum particles are distributed among energy states."
+    },
+    {
+      "id": "bose-einstein-statistics-q07",
+      "difficulty": "easy",
+      "q": "Which everyday particle of light is an example of a boson?",
+      "options": ["The electron", "The proton", "The photon", "The neutron"],
+      "answer": 2,
+      "explanation": "The photon, the quantum of light, is a boson, and Bose's original work was a new derivation of Planck's law for photons."
+    },
+    {
+      "id": "bose-einstein-statistics-q08",
+      "difficulty": "easy",
+      "q": "Bose was a physicist from which country?",
+      "options": ["India", "Germany", "Britain", "Italy"],
+      "answer": 0,
+      "explanation": "Satyendra Nath Bose was an Indian physicist, born in Calcutta (now Kolkata)."
+    },
+    {
+      "id": "bose-einstein-statistics-q09",
+      "difficulty": "easy",
+      "q": "Unlike fermions, any number of bosons are allowed to occupy what?",
+      "options": ["Different atoms", "The same quantum state", "Opposite spins only", "Separate orbitals"],
+      "answer": 1,
+      "explanation": "Bosons do not obey the Pauli exclusion principle, so many can crowd into the same quantum state."
+    },
+    {
+      "id": "bose-einstein-statistics-q10",
+      "difficulty": "easy",
+      "q": "The two main types of quantum statistics are Bose-Einstein statistics and which other?",
+      "options": ["Maxwell statistics", "Fermi-Dirac statistics", "Boltzmann statistics", "Gauss statistics"],
+      "answer": 1,
+      "explanation": "Fermi-Dirac statistics governs fermions, complementing Bose-Einstein statistics for bosons."
+    },
+    {
+      "id": "bose-einstein-statistics-q11",
+      "difficulty": "medium",
+      "q": "Bose's original 1924 paper gave a new derivation of which fundamental radiation law?",
+      "options": ["Newton's law of cooling", "Planck's law of black-body radiation", "Ohm's law", "Hubble's law"],
+      "answer": 1,
+      "explanation": "Bose derived Planck's black-body radiation law purely from counting photon states, without classical electromagnetism."
+    },
+    {
+      "id": "bose-einstein-statistics-q12",
+      "difficulty": "medium",
+      "q": "What is the defining property, related to intrinsic angular momentum, that makes a particle a boson?",
+      "options": ["It has integer spin", "It has half-integer spin", "It has zero charge", "It has zero mass"],
+      "answer": 0,
+      "explanation": "Bosons have integer spin (0, 1, 2, ...), whereas fermions have half-integer spin."
+    },
+    {
+      "id": "bose-einstein-statistics-q13",
+      "difficulty": "medium",
+      "q": "When Bose's paper was rejected by a journal, what did he do that changed his career?",
+      "options": ["Abandoned the work entirely", "Sent it directly to Einstein in Germany", "Rewrote it as a textbook", "Submitted it to Niels Bohr"],
+      "answer": 1,
+      "explanation": "Bose mailed his manuscript to Einstein, who recognised its importance, translated it and arranged publication."
+    },
+    {
+      "id": "bose-einstein-statistics-q14",
+      "difficulty": "medium",
+      "q": "At which Indian university was Bose teaching when he produced his landmark work?",
+      "options": ["University of Bombay", "Banaras Hindu University", "University of Dhaka", "Aligarh Muslim University"],
+      "answer": 2,
+      "explanation": "Bose was a reader in physics at the University of Dhaka when he wrote his famous paper in 1924."
+    },
+    {
+      "id": "bose-einstein-statistics-q15",
+      "difficulty": "medium",
+      "q": "Einstein extended Bose's photon statistics to predict the condensate for which kind of particles?",
+      "options": ["Massless light only", "Massive atoms (a gas of bosonic atoms)", "Electrons in metals", "Quarks in nuclei"],
+      "answer": 1,
+      "explanation": "Einstein applied Bose's method to a gas of massive bosonic atoms, predicting their condensation at low temperature."
+    },
+    {
+      "id": "bose-einstein-statistics-q16",
+      "difficulty": "medium",
+      "q": "Bose-Einstein statistics helps explain which property of liquid helium-4 at very low temperatures?",
+      "options": ["Superfluidity", "Magnetism", "Radioactivity", "Combustion"],
+      "answer": 0,
+      "explanation": "Helium-4 atoms are bosons, and their Bose-Einstein character underlies the superfluid flow seen below about 2.17 K."
+    },
+    {
+      "id": "bose-einstein-statistics-q17",
+      "difficulty": "medium",
+      "q": "Which device that produces coherent light relies on bosons crowding into the same state?",
+      "options": ["The transistor", "The laser", "The diode rectifier", "The thermocouple"],
+      "answer": 1,
+      "explanation": "Lasers work because photons are bosons that readily pile into one mode, producing coherent stimulated emission."
+    },
+    {
+      "id": "bose-einstein-statistics-q18",
+      "difficulty": "medium",
+      "q": "The first gaseous Bose-Einstein condensate was created in a laboratory in which year?",
+      "options": ["1938", "1964", "1995", "2012"],
+      "answer": 2,
+      "explanation": "Eric Cornell and Carl Wieman produced the first atomic Bose-Einstein condensate in 1995 using rubidium atoms."
+    },
+    {
+      "id": "bose-einstein-statistics-q19",
+      "difficulty": "medium",
+      "q": "The 2001 Nobel Prize in Physics was awarded for achieving Bose-Einstein condensation. Which name did NOT win?",
+      "options": ["Eric Cornell", "Carl Wieman", "Wolfgang Ketterle", "Satyendra Nath Bose"],
+      "answer": 3,
+      "explanation": "The 2001 prize went to Cornell, Wieman and Ketterle; Bose had died in 1974 and never received a Nobel Prize."
+    },
+    {
+      "id": "bose-einstein-statistics-q20",
+      "difficulty": "medium",
+      "q": "Bose's title in his original paper concerned the quanta of which entity?",
+      "options": ["Sound", "Light (Planck's law and the light-quantum hypothesis)", "Gravity", "Magnetism"],
+      "answer": 1,
+      "explanation": "His paper, often titled on Planck's law and the light-quantum hypothesis, treated light quanta as identical particles."
+    },
+    {
+      "id": "bose-einstein-statistics-q21",
+      "difficulty": "medium",
+      "q": "A famous boson, central to the Standard Model and confirmed at CERN in 2012, is named after which physicist?",
+      "options": ["Peter Higgs", "Paul Dirac", "Enrico Fermi", "Richard Feynman"],
+      "answer": 0,
+      "explanation": "The Higgs boson, predicted by Peter Higgs and others, is a boson and so obeys Bose-Einstein statistics."
+    },
+    {
+      "id": "bose-einstein-statistics-q22",
+      "difficulty": "medium",
+      "q": "Why did Bose never receive the Nobel Prize despite his foundational contribution?",
+      "options": ["He declined it", "He was disqualified for nationality", "He was nominated but never selected by the committee", "He published nothing else"],
+      "answer": 2,
+      "explanation": "Bose was nominated several times but the Nobel committee never awarded him the prize, a frequently noted omission."
+    },
+    {
+      "id": "bose-einstein-statistics-q23",
+      "difficulty": "hard",
+      "q": "What conceptual step in counting did Bose make that classical Maxwell-Boltzmann statistics did not?",
+      "options": ["He treated identical photons as indistinguishable", "He assumed photons have mass", "He used negative probabilities", "He ignored energy conservation"],
+      "answer": 0,
+      "explanation": "Bose counted states by treating identical photons as fundamentally indistinguishable, a radical departure from classical counting."
+    },
+    {
+      "id": "bose-einstein-statistics-q24",
+      "difficulty": "hard",
+      "q": "In the Bose-Einstein distribution, the average occupation number of a state contains which characteristic term in its denominator?",
+      "options": ["A plus one term (exp(...) + 1)", "A minus one term (exp(...) - 1)", "A factor of one half", "A squared exponential"],
+      "answer": 1,
+      "explanation": "The Bose-Einstein distribution has the form 1/(exp((E-mu)/kT) - 1), with a minus one distinguishing it from Fermi-Dirac's plus one."
+    },
+    {
+      "id": "bose-einstein-statistics-q25",
+      "difficulty": "hard",
+      "q": "Which 2001 Nobel laureate independently produced a Bose-Einstein condensate using sodium atoms at MIT?",
+      "options": ["Wolfgang Ketterle", "Steven Chu", "Claude Cohen-Tannoudji", "William Phillips"],
+      "answer": 0,
+      "explanation": "Wolfgang Ketterle created a sodium condensate months after the rubidium result and shared the 2001 Nobel Prize."
+    },
+    {
+      "id": "bose-einstein-statistics-q26",
+      "difficulty": "hard",
+      "q": "The link between integer spin and Bose-Einstein statistics is formalised by which physics theorem?",
+      "options": ["The fluctuation-dissipation theorem", "The spin-statistics theorem", "The equipartition theorem", "Noether's theorem"],
+      "answer": 1,
+      "explanation": "The spin-statistics theorem proves that integer-spin particles must obey Bose-Einstein statistics."
+    },
+    {
+      "id": "bose-einstein-statistics-q27",
+      "difficulty": "hard",
+      "q": "The wave function of a system of identical bosons has which symmetry under exchange of two particles?",
+      "options": ["It is symmetric (unchanged)", "It is antisymmetric (changes sign)", "It vanishes entirely", "It becomes complex conjugated"],
+      "answer": 0,
+      "explanation": "Bosonic wave functions are symmetric under particle exchange, while fermionic ones are antisymmetric."
+    },
+    {
+      "id": "bose-einstein-statistics-q28",
+      "difficulty": "hard",
+      "q": "Apart from helium-4, the W and Z particles that carry the weak nuclear force are examples of what?",
+      "options": ["Quarks", "Gauge bosons", "Neutrinos", "Mesons that are fermions"],
+      "answer": 1,
+      "explanation": "The W and Z are spin-1 gauge bosons, force carriers that obey Bose-Einstein statistics."
+    },
+    {
+      "id": "bose-einstein-statistics-q29",
+      "difficulty": "hard",
+      "q": "Composite particles such as the helium-4 atom behave as bosons because they contain what?",
+      "options": ["An even number of fermions", "An odd number of fermions", "No electrons", "Only photons"],
+      "answer": 0,
+      "explanation": "Helium-4 has an even total of fermions (protons, neutrons, electrons), so their combined spin is integer and the atom is a boson."
+    },
+    {
+      "id": "bose-einstein-statistics-q30",
+      "difficulty": "hard",
+      "q": "Which term, used in particle physics for whole classes of particles, was coined by Paul Dirac in honour of S. N. Bose?",
+      "options": ["Lepton", "Boson", "Baryon", "Hyperon"],
+      "answer": 1,
+      "explanation": "Paul Dirac coined the word boson, naming the entire family of integer-spin particles after Satyendra Nath Bose."
+    }
+  ]
+}

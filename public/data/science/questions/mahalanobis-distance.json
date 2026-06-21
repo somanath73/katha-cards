@@ -1,0 +1,245 @@
+{
+  "cardId": "mahalanobis-distance",
+  "questions": [
+    {
+      "id": "mahalanobis-distance-q01",
+      "difficulty": "easy",
+      "q": "The Mahalanobis distance is named after which Indian scientist?",
+      "options": ["Satyendra Nath Bose", "Prasanta Chandra Mahalanobis", "C. R. Rao", "Homi Bhabha"],
+      "answer": 1,
+      "explanation": "The measure was devised by Prasanta Chandra Mahalanobis, the Indian statistician often called the father of Indian statistics."
+    },
+    {
+      "id": "mahalanobis-distance-q02",
+      "difficulty": "easy",
+      "q": "In which field of study is the Mahalanobis distance primarily used?",
+      "options": ["Chemistry", "Statistics", "Astronomy", "Geology"],
+      "answer": 1,
+      "explanation": "The Mahalanobis distance is a statistical measure used to quantify how far a point lies from a distribution."
+    },
+    {
+      "id": "mahalanobis-distance-q03",
+      "difficulty": "easy",
+      "q": "What does the Mahalanobis distance essentially measure?",
+      "options": ["The speed of a moving particle", "How far a point is from the centre of a distribution", "The temperature of a gas", "The mass of an atom"],
+      "answer": 1,
+      "explanation": "It measures the distance of a point from the mean of a distribution, accounting for the spread and correlations of the data."
+    },
+    {
+      "id": "mahalanobis-distance-q04",
+      "difficulty": "easy",
+      "q": "P. C. Mahalanobis founded which famous Indian institute in 1931?",
+      "options": ["Indian Institute of Science", "Indian Statistical Institute", "Tata Institute of Fundamental Research", "Indian Institute of Technology"],
+      "answer": 1,
+      "explanation": "Mahalanobis founded the Indian Statistical Institute (ISI) in Kolkata in 1931."
+    },
+    {
+      "id": "mahalanobis-distance-q05",
+      "difficulty": "easy",
+      "q": "The Mahalanobis distance is widely applied in which modern discipline?",
+      "options": ["Data science", "Poetry", "Architecture", "Music theory"],
+      "answer": 0,
+      "explanation": "It is widely used in data science for tasks such as outlier detection and classification."
+    },
+    {
+      "id": "mahalanobis-distance-q06",
+      "difficulty": "easy",
+      "q": "A key advantage of the Mahalanobis distance over ordinary straight-line distance is that it accounts for the data's:",
+      "options": ["Colour", "Correlations and scale", "Alphabetical order", "Age"],
+      "answer": 1,
+      "explanation": "Unlike Euclidean distance, the Mahalanobis distance accounts for the correlations and differing scales of the variables."
+    },
+    {
+      "id": "mahalanobis-distance-q07",
+      "difficulty": "easy",
+      "q": "In which country was P. C. Mahalanobis born and did most of his work?",
+      "options": ["United Kingdom", "United States", "India", "Germany"],
+      "answer": 2,
+      "explanation": "Mahalanobis was born in Calcutta (Kolkata), India, and carried out most of his statistical work there."
+    },
+    {
+      "id": "mahalanobis-distance-q08",
+      "difficulty": "easy",
+      "q": "One common practical use of the Mahalanobis distance is detecting:",
+      "options": ["Outliers in data", "Earthquakes", "Star brightness", "Sound pitch"],
+      "answer": 0,
+      "explanation": "Because it measures how unusual a point is relative to a distribution, it is commonly used to flag outliers."
+    },
+    {
+      "id": "mahalanobis-distance-q09",
+      "difficulty": "easy",
+      "q": "When all variables are uncorrelated and have equal variance, the Mahalanobis distance reduces to which familiar distance?",
+      "options": ["Manhattan distance", "Euclidean distance", "Hamming distance", "Cosine distance"],
+      "answer": 1,
+      "explanation": "With an identity covariance matrix, the Mahalanobis distance simplifies to the ordinary Euclidean distance."
+    },
+    {
+      "id": "mahalanobis-distance-q10",
+      "difficulty": "easy",
+      "q": "The Mahalanobis distance is best described as a measure of what kind of relationship?",
+      "options": ["Between a point and a distribution", "Between two colours", "Between two musical notes", "Between two languages"],
+      "answer": 0,
+      "explanation": "It generalises the idea of distance to describe how far a single point lies from an entire distribution of data."
+    },
+    {
+      "id": "mahalanobis-distance-q11",
+      "difficulty": "medium",
+      "q": "In what year did P. C. Mahalanobis first introduce the distance measure that bears his name?",
+      "options": ["1908", "1936", "1947", "1965"],
+      "answer": 1,
+      "explanation": "Mahalanobis introduced the measure in a 1936 paper presented to the National Institute of Sciences of India."
+    },
+    {
+      "id": "mahalanobis-distance-q12",
+      "difficulty": "medium",
+      "q": "The matrix used in the Mahalanobis distance to account for variable spread and correlation is the:",
+      "options": ["Identity matrix", "Inverse covariance matrix", "Rotation matrix", "Permutation matrix"],
+      "answer": 1,
+      "explanation": "The Mahalanobis distance uses the inverse of the covariance matrix to weight the differences between coordinates."
+    },
+    {
+      "id": "mahalanobis-distance-q13",
+      "difficulty": "medium",
+      "q": "Mahalanobis originally developed the measure while working on a problem in which field?",
+      "options": ["Anthropometry (measurements of human body)", "Quantum mechanics", "Organic chemistry", "Plate tectonics"],
+      "answer": 0,
+      "explanation": "He developed the measure to compare and classify groups using anthropometric (body-measurement) data."
+    },
+    {
+      "id": "mahalanobis-distance-q14",
+      "difficulty": "medium",
+      "q": "If the covariance matrix is the identity, the squared Mahalanobis distance equals:",
+      "options": ["The squared Euclidean distance", "Zero always", "The number of variables", "The mean of the data"],
+      "answer": 0,
+      "explanation": "With an identity covariance matrix the formula collapses to the ordinary squared Euclidean distance."
+    },
+    {
+      "id": "mahalanobis-distance-q15",
+      "difficulty": "medium",
+      "q": "P. C. Mahalanobis is widely regarded as the founder of which discipline in India?",
+      "options": ["Modern statistics in India", "Indian astronomy", "Indian botany", "Indian seismology"],
+      "answer": 0,
+      "explanation": "He is regarded as the founder of modern statistics in India and pioneered large-scale sample surveys."
+    },
+    {
+      "id": "mahalanobis-distance-q16",
+      "difficulty": "medium",
+      "q": "Besides the distance measure, Mahalanobis pioneered which statistical technique on a large scale in India?",
+      "options": ["Sample surveys", "Spectroscopy", "Carbon dating", "Genetic sequencing"],
+      "answer": 0,
+      "explanation": "Mahalanobis pioneered large-scale random sample surveys, work that gained him international recognition."
+    },
+    {
+      "id": "mahalanobis-distance-q17",
+      "difficulty": "medium",
+      "q": "The Mahalanobis distance is closely associated with which family of probability distributions when used for classification?",
+      "options": ["Multivariate normal (Gaussian)", "Poisson", "Geometric", "Uniform discrete"],
+      "answer": 0,
+      "explanation": "It arises naturally from the multivariate normal distribution, where contours of equal probability are ellipsoids of constant Mahalanobis distance."
+    },
+    {
+      "id": "mahalanobis-distance-q18",
+      "difficulty": "medium",
+      "q": "National Statistics Day in India is observed on Mahalanobis's birthday, which falls on:",
+      "options": ["29 June", "15 August", "26 January", "2 October"],
+      "answer": 0,
+      "explanation": "India observes National Statistics Day on 29 June, the birth anniversary of P. C. Mahalanobis."
+    },
+    {
+      "id": "mahalanobis-distance-q19",
+      "difficulty": "medium",
+      "q": "Which highly influential statistician collaborated with Mahalanobis at the Indian Statistical Institute early in his career?",
+      "options": ["C. R. Rao", "Karl Pearson", "Ronald Fisher only", "John von Neumann"],
+      "answer": 0,
+      "explanation": "C. R. Rao worked at the ISI under Mahalanobis and became one of the most influential statisticians of the 20th century."
+    },
+    {
+      "id": "mahalanobis-distance-q20",
+      "difficulty": "medium",
+      "q": "In machine learning, the Mahalanobis distance is often preferred over Euclidean distance because it is:",
+      "options": ["Scale-invariant and correlation-aware", "Faster to compute with no matrix", "Always between 0 and 1", "Independent of the data"],
+      "answer": 0,
+      "explanation": "By incorporating the covariance structure, it is invariant to scaling and accounts for correlations between features."
+    },
+    {
+      "id": "mahalanobis-distance-q21",
+      "difficulty": "medium",
+      "q": "Mahalanobis played a major role in shaping which aspect of newly independent India?",
+      "options": ["The Second Five-Year Plan", "The national railway gauge", "The first nuclear reactor design", "The national cricket board"],
+      "answer": 0,
+      "explanation": "Mahalanobis was a key architect of India's Second Five-Year Plan, contributing the influential Mahalanobis model of economic planning."
+    },
+    {
+      "id": "mahalanobis-distance-q22",
+      "difficulty": "medium",
+      "q": "The geometric shape of a set of points at constant Mahalanobis distance from the mean of a multivariate normal distribution is:",
+      "options": ["A sphere always", "An ellipsoid", "A cube", "A straight line"],
+      "answer": 1,
+      "explanation": "Contours of constant Mahalanobis distance form ellipsoids whose axes are determined by the covariance matrix."
+    },
+    {
+      "id": "mahalanobis-distance-q23",
+      "difficulty": "hard",
+      "q": "For a point x, mean vector mu, and covariance matrix S, the squared Mahalanobis distance is given by:",
+      "options": ["(x - mu)^T S (x - mu)", "(x - mu)^T S^{-1} (x - mu)", "(x + mu)^T S^{-1} (x + mu)", "|x - mu| / S"],
+      "answer": 1,
+      "explanation": "The squared Mahalanobis distance is (x - mu) transpose times the inverse covariance matrix times (x - mu)."
+    },
+    {
+      "id": "mahalanobis-distance-q24",
+      "difficulty": "hard",
+      "q": "If the data are first standardised to be uncorrelated with unit variance (whitened), the Mahalanobis distance in the original space equals which distance in the transformed space?",
+      "options": ["Euclidean distance", "Chebyshev distance", "Minkowski distance with p=3", "Jaccard distance"],
+      "answer": 0,
+      "explanation": "Whitening the data with the inverse covariance makes the Mahalanobis distance equivalent to the Euclidean distance in the transformed coordinates."
+    },
+    {
+      "id": "mahalanobis-distance-q25",
+      "difficulty": "hard",
+      "q": "Under multivariate normality, the squared Mahalanobis distance of points from the mean approximately follows which distribution?",
+      "options": ["Chi-squared distribution", "Exponential distribution", "Binomial distribution", "Beta distribution"],
+      "answer": 0,
+      "explanation": "For multivariate normal data, the squared Mahalanobis distance follows a chi-squared distribution with degrees of freedom equal to the number of variables."
+    },
+    {
+      "id": "mahalanobis-distance-q26",
+      "difficulty": "hard",
+      "q": "The Mahalanobis distance is mathematically central to which classical classification rule?",
+      "options": ["Linear/Quadratic Discriminant Analysis", "k-means initialisation only", "Naive Bayes with no covariance", "Random forests"],
+      "answer": 0,
+      "explanation": "Discriminant analysis assigns a point to the class whose distribution gives it the smallest Mahalanobis distance, assuming Gaussian classes."
+    },
+    {
+      "id": "mahalanobis-distance-q27",
+      "difficulty": "hard",
+      "q": "For the Mahalanobis distance to be well defined, the covariance matrix S must be:",
+      "options": ["Singular", "Invertible (non-singular)", "Diagonal only", "An identity matrix"],
+      "answer": 1,
+      "explanation": "The formula requires the inverse of the covariance matrix, so S must be non-singular (invertible)."
+    },
+    {
+      "id": "mahalanobis-distance-q28",
+      "difficulty": "hard",
+      "q": "The journal Sankhya, an important outlet for statistical research, was founded in 1933 by:",
+      "options": ["R. A. Fisher", "P. C. Mahalanobis", "Karl Pearson", "Jerzy Neyman"],
+      "answer": 1,
+      "explanation": "Mahalanobis founded the journal Sankhya: The Indian Journal of Statistics in 1933."
+    },
+    {
+      "id": "mahalanobis-distance-q29",
+      "difficulty": "hard",
+      "q": "An earlier related distance Mahalanobis proposed in the 1920s, used in anthropometry, is sometimes called the:",
+      "options": ["D-squared statistic (generalised distance)", "F-statistic", "t-statistic", "p-value"],
+      "answer": 0,
+      "explanation": "His generalised distance, often denoted D-squared, predates and led to the formal Mahalanobis distance of 1936."
+    },
+    {
+      "id": "mahalanobis-distance-q30",
+      "difficulty": "hard",
+      "q": "A robust variant of the Mahalanobis distance for outlier detection typically replaces the sample mean and covariance with estimators that are:",
+      "options": ["More sensitive to outliers", "Resistant to outliers (robust estimators)", "Always zero", "Computed without the data"],
+      "answer": 1,
+      "explanation": "Robust versions use outlier-resistant estimators of location and scatter (such as the Minimum Covariance Determinant) so that outliers do not distort the estimated distribution."
+    }
+  ]
+}

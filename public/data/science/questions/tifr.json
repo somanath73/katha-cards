@@ -1,0 +1,395 @@
+{
+  "cardId": "tifr",
+  "questions": [
+    {
+      "id": "tifr-q01",
+      "difficulty": "easy",
+      "q": "What does the acronym TIFR stand for?",
+      "options": [
+        "Tata Institute for Rocketry",
+        "Tata Institute of Fundamental Research",
+        "Technical Institute of Fundamental Research",
+        "Tata Institute of Frontier Research"
+      ],
+      "answer": 1,
+      "explanation": "TIFR stands for the Tata Institute of Fundamental Research, a centre for the natural sciences and mathematics."
+    },
+    {
+      "id": "tifr-q02",
+      "difficulty": "easy",
+      "q": "Who founded TIFR?",
+      "options": [
+        "C. V. Raman",
+        "Vikram Sarabhai",
+        "Homi J. Bhabha",
+        "Satyendra Nath Bose"
+      ],
+      "answer": 2,
+      "explanation": "The physicist Homi J. Bhabha founded TIFR and served as its first director."
+    },
+    {
+      "id": "tifr-q03",
+      "difficulty": "easy",
+      "q": "In which year was TIFR established?",
+      "options": [
+        "1909",
+        "1945",
+        "1958",
+        "1969"
+      ],
+      "answer": 1,
+      "explanation": "TIFR was founded in 1945, shortly before Indian independence."
+    },
+    {
+      "id": "tifr-q04",
+      "difficulty": "easy",
+      "q": "In which city is the main campus of TIFR located?",
+      "options": [
+        "Mumbai",
+        "Bengaluru",
+        "Pune",
+        "Hyderabad"
+      ],
+      "answer": 0,
+      "explanation": "TIFR's main campus is in Mumbai (Bombay), along the Colaba seafront."
+    },
+    {
+      "id": "tifr-q05",
+      "difficulty": "easy",
+      "q": "Which industrial house provided the early philanthropic backing that gives TIFR its name?",
+      "options": [
+        "The Birla family",
+        "The Godrej family",
+        "The Tata family",
+        "The Ambani family"
+      ],
+      "answer": 2,
+      "explanation": "The Sir Dorabji Tata Trust provided the initial funding, and the institute carries the Tata name."
+    },
+    {
+      "id": "tifr-q06",
+      "difficulty": "easy",
+      "q": "TIFR is primarily a centre for research in which broad areas?",
+      "options": [
+        "Law and economics",
+        "Physics, mathematics and biology",
+        "Agriculture and forestry",
+        "History and archaeology"
+      ],
+      "answer": 1,
+      "explanation": "TIFR is a leading centre for the physical, mathematical and biological sciences along with computer science."
+    },
+    {
+      "id": "tifr-q07",
+      "difficulty": "easy",
+      "q": "Homi Bhabha, the founder of TIFR, is best remembered as the father of which national programme?",
+      "options": [
+        "India's space programme",
+        "India's Green Revolution",
+        "India's nuclear programme",
+        "India's IT services industry"
+      ],
+      "answer": 2,
+      "explanation": "Homi Bhabha is regarded as the father of the Indian nuclear programme."
+    },
+    {
+      "id": "tifr-q08",
+      "difficulty": "easy",
+      "q": "TIFR is recognised as a Deemed University and functions as a National Centre of Excellence under which government department?",
+      "options": [
+        "Department of Atomic Energy",
+        "Ministry of Railways",
+        "Ministry of Agriculture",
+        "Ministry of External Affairs"
+      ],
+      "answer": 0,
+      "explanation": "TIFR is funded by and operates under the Department of Atomic Energy of the Government of India."
+    },
+    {
+      "id": "tifr-q09",
+      "difficulty": "easy",
+      "q": "What kind of academic institution is TIFR primarily known as?",
+      "options": [
+        "An undergraduate liberal arts college",
+        "A postgraduate research institute granting PhDs",
+        "A vocational training centre",
+        "A medical hospital"
+      ],
+      "answer": 1,
+      "explanation": "TIFR is a postgraduate research institution focused on doctoral research, not undergraduate teaching."
+    },
+    {
+      "id": "tifr-q10",
+      "difficulty": "easy",
+      "q": "TIFR's main building stands along the seafront of which Mumbai neighbourhood?",
+      "options": [
+        "Bandra",
+        "Andheri",
+        "Colaba",
+        "Powai"
+      ],
+      "answer": 2,
+      "explanation": "The Mumbai campus is located at Colaba, by the Arabian Sea."
+    },
+    {
+      "id": "tifr-q11",
+      "difficulty": "medium",
+      "q": "Before settling in its present Colaba building, TIFR initially started its operations within the campus of which institution?",
+      "options": [
+        "Indian Institute of Technology Bombay",
+        "Indian Institute of Science, Bengaluru",
+        "University of Delhi",
+        "Banaras Hindu University"
+      ],
+      "answer": 1,
+      "explanation": "TIFR began in 1945 in rented space at the Indian Institute of Science in Bengaluru before moving to Bombay."
+    },
+    {
+      "id": "tifr-q12",
+      "difficulty": "medium",
+      "q": "TIFR's School of Mathematics is renowned worldwide especially for its contributions to which field?",
+      "options": [
+        "Number theory and algebraic geometry",
+        "Veterinary science",
+        "Civil engineering",
+        "Marine navigation"
+      ],
+      "answer": 0,
+      "explanation": "The TIFR School of Mathematics earned global renown in pure mathematics, including number theory and algebraic geometry."
+    },
+    {
+      "id": "tifr-q13",
+      "difficulty": "medium",
+      "q": "TIFR served as the cradle for India's atomic energy effort and is considered the birthplace of which national agency?",
+      "options": [
+        "The Indian Space Research Organisation",
+        "The Atomic Energy Establishment, Trombay (later BARC)",
+        "The Defence Research and Development Organisation",
+        "The Council of Scientific and Industrial Research"
+      ],
+      "answer": 1,
+      "explanation": "Atomic energy research started at TIFR and led to the Atomic Energy Establishment, Trombay, later renamed BARC."
+    },
+    {
+      "id": "tifr-q14",
+      "difficulty": "medium",
+      "q": "The National Centre for Biological Sciences (NCBS), a part of TIFR, is located in which city?",
+      "options": [
+        "Mumbai",
+        "Bengaluru",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": 1,
+      "explanation": "NCBS, a centre of TIFR devoted to the biological sciences, is located in Bengaluru."
+    },
+    {
+      "id": "tifr-q15",
+      "difficulty": "medium",
+      "q": "TIFR runs a centre dedicated to interdisciplinary sciences in Hyderabad. What is it called?",
+      "options": [
+        "TIFR Centre for Applicable Mathematics",
+        "TIFR Hyderabad (a campus of TIFR)",
+        "National Centre for Radio Astrophysics",
+        "Homi Bhabha Centre for Science Education"
+      ],
+      "answer": 1,
+      "explanation": "TIFR established a campus in Hyderabad pursuing interdisciplinary research across physics, chemistry and biology."
+    },
+    {
+      "id": "tifr-q16",
+      "difficulty": "medium",
+      "q": "The Homi Bhabha Centre for Science Education (HBCSE), associated with TIFR, is best known for which activity?",
+      "options": [
+        "Building nuclear reactors",
+        "Science and mathematics education and the Olympiad programmes",
+        "Launching satellites",
+        "Manufacturing telescopes for export"
+      ],
+      "answer": 1,
+      "explanation": "HBCSE focuses on science and mathematics education and coordinates India's Science Olympiad programmes."
+    },
+    {
+      "id": "tifr-q17",
+      "difficulty": "medium",
+      "q": "TIFR operates the Giant Metrewave Radio Telescope (GMRT) through which of its centres?",
+      "options": [
+        "National Centre for Radio Astrophysics (NCRA)",
+        "National Centre for Biological Sciences",
+        "TIFR Centre for Applicable Mathematics",
+        "Homi Bhabha Centre for Science Education"
+      ],
+      "answer": 0,
+      "explanation": "The GMRT near Pune is operated by TIFR's National Centre for Radio Astrophysics (NCRA)."
+    },
+    {
+      "id": "tifr-q18",
+      "difficulty": "medium",
+      "q": "The Giant Metrewave Radio Telescope (GMRT), built under TIFR, is located near which city in Maharashtra?",
+      "options": [
+        "Nagpur",
+        "Pune",
+        "Nashik",
+        "Aurangabad"
+      ],
+      "answer": 1,
+      "explanation": "The GMRT array of dish antennas is sited at Khodad near Pune, Maharashtra."
+    },
+    {
+      "id": "tifr-q19",
+      "difficulty": "medium",
+      "q": "One of TIFR's early major achievements in the 1950s and 1960s was India's pioneering cosmic-ray research conducted in mines and balloon flights. This reflects which school of TIFR?",
+      "options": [
+        "School of Technology and Computer Science",
+        "Department of Astronomy and Astrophysics",
+        "School of Natural Sciences (physics, including cosmic rays)",
+        "School of Mathematics"
+      ],
+      "answer": 2,
+      "explanation": "TIFR physicists were pioneers in cosmic-ray studies, part of its School of Natural Sciences."
+    },
+    {
+      "id": "tifr-q20",
+      "difficulty": "medium",
+      "q": "One of India's earliest digital computers was built at TIFR in the 1950s. What was it called?",
+      "options": [
+        "PARAM",
+        "TIFRAC",
+        "ANURAG",
+        "FLOSOLVER"
+      ],
+      "answer": 1,
+      "explanation": "TIFRAC (TIFR Automatic Calculator) was one of India's first indigenous digital computers, developed at TIFR."
+    },
+    {
+      "id": "tifr-q21",
+      "difficulty": "medium",
+      "q": "TIFR Centre for Applicable Mathematics (CAM), a centre of TIFR, is located in which city?",
+      "options": [
+        "Bengaluru",
+        "Mumbai",
+        "Pune",
+        "Hyderabad"
+      ],
+      "answer": 0,
+      "explanation": "The TIFR Centre for Applicable Mathematics (CAM) is based in Bengaluru."
+    },
+    {
+      "id": "tifr-q22",
+      "difficulty": "medium",
+      "q": "TIFR's lobby famously displays murals and an art collection acquired under the guidance of which founder, who was a patron of modern Indian art?",
+      "options": [
+        "Vikram Sarabhai",
+        "Homi J. Bhabha",
+        "Jamsetji Tata",
+        "Meghnad Saha"
+      ],
+      "answer": 1,
+      "explanation": "Homi Bhabha, himself an accomplished artist, built TIFR's celebrated collection of modern Indian art."
+    },
+    {
+      "id": "tifr-q23",
+      "difficulty": "hard",
+      "q": "Which mathematician, long associated with TIFR's School of Mathematics, won the King Faisal International Prize for Science in 2006 (with Simon Donaldson) for work in geometry?",
+      "options": [
+        "Harish-Chandra",
+        "M. S. Narasimhan",
+        "Manjul Bhargava",
+        "S. R. Srinivasa Varadhan"
+      ],
+      "answer": 1,
+      "explanation": "M. S. Narasimhan of the TIFR School of Mathematics shared the 2006 King Faisal International Prize for Science with Simon Donaldson for work linking geometry and physics."
+    },
+    {
+      "id": "tifr-q24",
+      "difficulty": "hard",
+      "q": "TIFR mathematician M. S. Narasimhan is especially celebrated for a theorem (with C. S. Seshadri) on which mathematical objects?",
+      "options": [
+        "Prime number distributions",
+        "Stable vector bundles on Riemann surfaces",
+        "Knot invariants",
+        "Differential equations of fluid flow"
+      ],
+      "answer": 1,
+      "explanation": "The Narasimhan-Seshadri theorem characterises stable vector bundles on compact Riemann surfaces."
+    },
+    {
+      "id": "tifr-q25",
+      "difficulty": "hard",
+      "q": "Who was appointed the first director of TIFR?",
+      "options": [
+        "M. G. K. Menon",
+        "Homi J. Bhabha",
+        "B. M. Udgaonkar",
+        "Virendra Singh"
+      ],
+      "answer": 1,
+      "explanation": "Homi Bhabha, the founder, was also TIFR's first director, serving until his death in 1966."
+    },
+    {
+      "id": "tifr-q26",
+      "difficulty": "hard",
+      "q": "After Homi Bhabha's death in 1966, which physicist succeeded him as director of TIFR?",
+      "options": [
+        "M. G. K. Menon",
+        "Vikram Sarabhai",
+        "Raja Ramanna",
+        "Yash Pal"
+      ],
+      "answer": 0,
+      "explanation": "M. G. K. Menon, a cosmic-ray physicist, became director of TIFR following Bhabha's death in 1966."
+    },
+    {
+      "id": "tifr-q27",
+      "difficulty": "hard",
+      "q": "The mathematician Harish-Chandra, after whom a major Indian research institute is named, was associated early in his career with which scientist who founded TIFR?",
+      "options": [
+        "He was a student assistant to Homi Bhabha",
+        "He co-founded TIFR with Bhabha",
+        "He was Bhabha's first director successor",
+        "He had no connection to Bhabha"
+      ],
+      "answer": 0,
+      "explanation": "Harish-Chandra worked as a research student under Homi Bhabha before turning fully to mathematics."
+    },
+    {
+      "id": "tifr-q28",
+      "difficulty": "hard",
+      "q": "TIFR led one of the deepest underground experiments in the world during the 1960s, detecting atmospheric neutrinos. Where was this experiment carried out?",
+      "options": [
+        "The Kolar Gold Fields mines in Karnataka",
+        "The Jaduguda uranium mines in Jharkhand",
+        "The Neyveli lignite mines in Tamil Nadu",
+        "The Singareni coal mines in Telangana"
+      ],
+      "answer": 0,
+      "explanation": "TIFR's deep-mine experiments at the Kolar Gold Fields recorded among the first atmospheric neutrino interactions in 1965."
+    },
+    {
+      "id": "tifr-q29",
+      "difficulty": "hard",
+      "q": "TIFR's main Colaba building, an architectural landmark, was designed by Helmut Bartsch of which renowned American architectural firm?",
+      "options": [
+        "Skidmore, Owings & Merrill",
+        "Holabird & Root",
+        "Frank Lloyd Wright Associates",
+        "Foster + Partners"
+      ],
+      "answer": 1,
+      "explanation": "TIFR's Colaba building was designed by Helmut Bartsch of the Chicago firm Holabird & Root (Holabird, Root and Burgee), commissioned by Bhabha."
+    },
+    {
+      "id": "tifr-q30",
+      "difficulty": "hard",
+      "q": "The TIFR-affiliated International Centre for Theoretical Sciences (ICTS) was established in 2007 in which city?",
+      "options": [
+        "Mumbai",
+        "Bengaluru",
+        "Pune",
+        "Chennai"
+      ],
+      "answer": 1,
+      "explanation": "The International Centre for Theoretical Sciences (ICTS-TIFR) was set up in Bengaluru as a centre of TIFR."
+    }
+  ]
+}

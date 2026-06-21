@@ -1,0 +1,245 @@
+{
+  "cardId": "baudhayana",
+  "questions": [
+    {
+      "id": "baudhayana-q01",
+      "difficulty": "easy",
+      "q": "Baudhayana is best known as the author of which set of ancient Indian texts?",
+      "options": ["The Sulba Sutras", "The Vedas", "The Puranas", "The Arthashastra"],
+      "answer": 0,
+      "explanation": "Baudhayana composed the Baudhayana Sulba Sutra, the oldest of the surviving Sulba Sutras."
+    },
+    {
+      "id": "baudhayana-q02",
+      "difficulty": "easy",
+      "q": "The Sulba Sutras are primarily concerned with the geometry of constructing what?",
+      "options": ["Temples", "Fire altars", "Palaces", "Bridges"],
+      "answer": 1,
+      "explanation": "The Sulba Sutras give rules for building Vedic fire altars (vedis) of precise shapes and areas."
+    },
+    {
+      "id": "baudhayana-q03",
+      "difficulty": "easy",
+      "q": "A statement equivalent to which famous geometric theorem appears in Baudhayana's Sulba Sutra?",
+      "options": ["The binomial theorem", "Fermat's theorem", "The Pythagorean theorem", "The fundamental theorem of calculus"],
+      "answer": 2,
+      "explanation": "Baudhayana stated a form of what is now called the Pythagorean theorem, centuries before Pythagoras."
+    },
+    {
+      "id": "baudhayana-q04",
+      "difficulty": "easy",
+      "q": "The word 'sulba' (or 'shulba') in 'Sulba Sutras' refers to what?",
+      "options": ["A cord or rope", "A star", "A flame", "A stone"],
+      "answer": 0,
+      "explanation": "'Sulba' means cord or rope, the measuring tool used to lay out the altars geometrically."
+    },
+    {
+      "id": "baudhayana-q05",
+      "difficulty": "easy",
+      "q": "Baudhayana gave an accurate approximation for the square root of which number?",
+      "options": ["Three", "Five", "Ten", "Two"],
+      "answer": 3,
+      "explanation": "Baudhayana provided a remarkably accurate approximation of the square root of two."
+    },
+    {
+      "id": "baudhayana-q06",
+      "difficulty": "easy",
+      "q": "In what broad civilization and tradition did Baudhayana work?",
+      "options": ["Ancient Greek philosophy", "Ancient Indian Vedic tradition", "Ancient Egyptian astronomy", "Ancient Chinese mathematics"],
+      "answer": 1,
+      "explanation": "Baudhayana belonged to the Vedic tradition of ancient India and wrote in Sanskrit."
+    },
+    {
+      "id": "baudhayana-q07",
+      "difficulty": "easy",
+      "q": "The Sulba Sutras are considered part of which larger body of ritual literature?",
+      "options": ["The Kalpa Sutras (Vedanga)", "The Upanishads", "The Ramayana", "The Mahabharata"],
+      "answer": 0,
+      "explanation": "The Sulba Sutras form part of the Kalpa, a Vedanga concerned with ritual procedure."
+    },
+    {
+      "id": "baudhayana-q08",
+      "difficulty": "easy",
+      "q": "Baudhayana's work is written in which language?",
+      "options": ["Pali", "Tamil", "Sanskrit", "Prakrit"],
+      "answer": 2,
+      "explanation": "The Sulba Sutras were composed in Sanskrit, the language of Vedic ritual texts."
+    },
+    {
+      "id": "baudhayana-q09",
+      "difficulty": "easy",
+      "q": "Baudhayana is regarded today primarily as an early figure in which field?",
+      "options": ["Medicine", "Mathematics and geometry", "Linguistics", "Astronomy of comets"],
+      "answer": 1,
+      "explanation": "He is celebrated as one of the earliest mathematicians and geometers of ancient India."
+    },
+    {
+      "id": "baudhayana-q10",
+      "difficulty": "easy",
+      "q": "Baudhayana lived and wrote roughly during which broad period?",
+      "options": ["The European Renaissance", "The first millennium CE", "The first millennium BCE", "The 19th century CE"],
+      "answer": 2,
+      "explanation": "Baudhayana is generally dated to the first millennium BCE, well before the Common Era."
+    },
+    {
+      "id": "baudhayana-q11",
+      "difficulty": "medium",
+      "q": "Baudhayana's Sulba Sutra is generally considered to be which among the Sulba Sutras?",
+      "options": ["The oldest", "The shortest", "The most recent", "The only one ever written"],
+      "answer": 0,
+      "explanation": "The Baudhayana Sulba Sutra is the oldest of the surviving Sulba Sutra texts."
+    },
+    {
+      "id": "baudhayana-q12",
+      "difficulty": "medium",
+      "q": "Which of these later authors also composed a Sulba Sutra, after Baudhayana?",
+      "options": ["Aryabhata", "Apastamba", "Bhaskara II", "Panini"],
+      "answer": 1,
+      "explanation": "Apastamba, along with Katyayana and Manava, composed later Sulba Sutras."
+    },
+    {
+      "id": "baudhayana-q13",
+      "difficulty": "medium",
+      "q": "Baudhayana's rule for the diagonal of a rectangle effectively states that the square on the diagonal equals what?",
+      "options": ["The sum of the squares on the two sides", "Twice the product of the sides", "The square on the longer side only", "Half the sum of the sides"],
+      "answer": 0,
+      "explanation": "He stated that the diagonal's square equals the sum of the squares on the length and breadth, the Pythagorean relation."
+    },
+    {
+      "id": "baudhayana-q14",
+      "difficulty": "medium",
+      "q": "Approximately how accurate is Baudhayana's value for the square root of two?",
+      "options": ["Wrong by about 10 percent", "Correct to about five decimal places", "Rounded to a whole number", "Expressed only as a fraction one-half"],
+      "answer": 1,
+      "explanation": "His approximation matches the true value of root two to about five decimal places, a striking accuracy."
+    },
+    {
+      "id": "baudhayana-q15",
+      "difficulty": "medium",
+      "q": "Why did Vedic priests need precise geometric rules like those in the Sulba Sutras?",
+      "options": ["To navigate at sea", "To build altars of exact shapes and areas for rituals", "To survey kingdom borders", "To predict eclipses"],
+      "answer": 1,
+      "explanation": "Ritual required altars of specific shapes and exact areas, demanding accurate geometric construction."
+    },
+    {
+      "id": "baudhayana-q16",
+      "difficulty": "medium",
+      "q": "Which everyday geometric task is addressed by the Sulba Sutras?",
+      "options": ["Constructing a square equal in area to a given circle", "Calculating compound interest", "Measuring time with a pendulum", "Charting planetary orbits"],
+      "answer": 0,
+      "explanation": "The Sulba Sutras give methods to 'square the circle' approximately, converting between square and circular altars."
+    },
+    {
+      "id": "baudhayana-q17",
+      "difficulty": "medium",
+      "q": "Baudhayana's geometric knowledge of the right-triangle relation predates the Greek mathematician Pythagoras by roughly how long?",
+      "options": ["A few decades", "Several centuries", "About a year", "It came after Pythagoras"],
+      "answer": 1,
+      "explanation": "Baudhayana's statement predates Pythagoras by several centuries, given his first-millennium-BCE dating."
+    },
+    {
+      "id": "baudhayana-q18",
+      "difficulty": "medium",
+      "q": "The literary style of the Sulba Sutras, like other sutras, is best described as which?",
+      "options": ["Long narrative epic", "Concise aphoristic rules", "Lyric poetry", "Dramatic dialogue"],
+      "answer": 1,
+      "explanation": "Sutra literature uses terse, aphoristic statements meant to be memorized and expanded by commentary."
+    },
+    {
+      "id": "baudhayana-q19",
+      "difficulty": "medium",
+      "q": "Which shape transformation problem is characteristic of the Sulba Sutras' altar geometry?",
+      "options": ["Folding a cube into a cylinder", "Converting a rectangle into a square of equal area", "Inflating a sphere", "Twisting a triangle into a spiral"],
+      "answer": 1,
+      "explanation": "The texts describe transforming a rectangle into a square of equal area, a core area-preservation problem."
+    },
+    {
+      "id": "baudhayana-q20",
+      "difficulty": "medium",
+      "q": "Besides the Sulba Sutra on geometry, the broader Baudhayana corpus also includes texts on what?",
+      "options": ["Naval engineering", "Ritual and religious law (Dharma and Srauta sutras)", "Metallurgy of bronze", "Coinage and minting"],
+      "answer": 1,
+      "explanation": "The Baudhayana tradition also produced Srauta, Grihya and Dharma sutras dealing with ritual and law."
+    },
+    {
+      "id": "baudhayana-q21",
+      "difficulty": "medium",
+      "q": "Which statement about the role of the Pythagorean-type rule in Baudhayana's text is correct?",
+      "options": ["It was used only as abstract philosophy", "It was applied practically to lay out perpendicular sides and diagonals of altars", "It was used to weigh gold", "It was unrelated to construction"],
+      "answer": 1,
+      "explanation": "The rule was applied practically to construct right angles and correct diagonals for altar layouts."
+    },
+    {
+      "id": "baudhayana-q22",
+      "difficulty": "medium",
+      "q": "What does the term 'sutra' indicate about the form of Baudhayana's writings?",
+      "options": ["They are illustrated with diagrams", "They are sung hymns", "They are threads of compact, rule-like statements", "They are translated foreign works"],
+      "answer": 2,
+      "explanation": "'Sutra' literally means thread, denoting a compact rule that threads together ritual or geometric instruction."
+    },
+    {
+      "id": "baudhayana-q23",
+      "difficulty": "hard",
+      "q": "Baudhayana's approximation of the square root of two is expressed as a sum of unit fractions. Which expression matches it?",
+      "options": ["1 + 1/3 + 1/(3·4) − 1/(3·4·34)", "1 + 1/2 + 1/4", "2 − 1/7", "1 + 1/5 − 1/25"],
+      "answer": 0,
+      "explanation": "His rule gives root two as 1 + 1/3 + 1/(3·4) − 1/(3·4·34), accurate to about five decimals."
+    },
+    {
+      "id": "baudhayana-q24",
+      "difficulty": "hard",
+      "q": "Which of these Pythagorean triples is among those that appear or are usable in the Sulba Sutra constructions?",
+      "options": ["(2, 3, 4)", "(3, 4, 5)", "(1, 1, 2)", "(4, 5, 6)"],
+      "answer": 1,
+      "explanation": "The (3, 4, 5) right triangle is a classic triple consistent with the Sulba Sutra diagonal rule."
+    },
+    {
+      "id": "baudhayana-q25",
+      "difficulty": "hard",
+      "q": "The Baudhayana Sulba Sutra is attached as an appendix to which Srauta tradition?",
+      "options": ["The Rigveda's Aitareya", "The Krishna (Black) Yajurveda tradition", "The Samaveda's Jaiminiya", "The Atharvaveda's Saunaka"],
+      "answer": 1,
+      "explanation": "The Baudhayana Sulba Sutra belongs to the Taittiriya school of the Krishna (Black) Yajurveda."
+    },
+    {
+      "id": "baudhayana-q26",
+      "difficulty": "hard",
+      "q": "Which famous fire-altar of complex shape required especially advanced geometry described in the Sulba tradition?",
+      "options": ["The falcon-shaped (syena) altar", "A perfectly spherical altar", "A pyramid altar", "A cube altar"],
+      "answer": 0,
+      "explanation": "The falcon-shaped syena altar, built from many bricks to an exact area, demanded sophisticated geometric construction."
+    },
+    {
+      "id": "baudhayana-q27",
+      "difficulty": "hard",
+      "q": "When the area of an altar had to be increased while keeping its shape, the Sulba Sutras effectively scaled lengths by what factor for a doubling of area?",
+      "options": ["By two", "By the square root of two", "By four", "By one-half"],
+      "answer": 1,
+      "explanation": "Doubling the area while preserving shape requires scaling each linear dimension by the square root of two, motivating that approximation."
+    },
+    {
+      "id": "baudhayana-q28",
+      "difficulty": "hard",
+      "q": "How do scholars approximately date the Baudhayana Sulba Sutra?",
+      "options": ["Around 800 to 500 BCE", "Around 200 CE", "Around 1000 CE", "Around 3000 BCE"],
+      "answer": 0,
+      "explanation": "Most scholars place the Baudhayana Sulba Sutra around the 8th to 5th centuries BCE."
+    },
+    {
+      "id": "baudhayana-q29",
+      "difficulty": "hard",
+      "q": "Which limitation best characterizes the Sulba Sutras' treatment of results like the square root of two and circle-squaring?",
+      "options": ["They give formal proofs in the Greek axiomatic style", "They give practical construction rules and approximations without formal proofs", "They use modern algebraic notation", "They ignore geometry entirely"],
+      "answer": 1,
+      "explanation": "The Sulba Sutras present practical rules and approximations rather than formal axiomatic proofs."
+    },
+    {
+      "id": "baudhayana-q30",
+      "difficulty": "hard",
+      "q": "What is the historical significance of Baudhayana's diagonal rule for the history of mathematics?",
+      "options": ["It is the earliest known calculus text", "It is among the earliest known statements of the Pythagorean relationship", "It introduced the decimal place-value system", "It first defined the number zero"],
+      "answer": 1,
+      "explanation": "Baudhayana's rule is one of the earliest known statements of the Pythagorean relationship, predating Pythagoras."
+    }
+  ]
+}

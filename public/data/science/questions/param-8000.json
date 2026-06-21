@@ -1,0 +1,395 @@
+{
+  "cardId": "param-8000",
+  "questions": [
+    {
+      "id": "param-8000-q01",
+      "difficulty": "easy",
+      "q": "What kind of machine was PARAM 8000?",
+      "options": [
+        "A nuclear reactor",
+        "A supercomputer",
+        "A satellite",
+        "A telescope"
+      ],
+      "answer": 1,
+      "explanation": "PARAM 8000 was a supercomputer, widely regarded as India's first indigenously developed supercomputer."
+    },
+    {
+      "id": "param-8000-q02",
+      "difficulty": "easy",
+      "q": "Which Indian organisation developed PARAM 8000?",
+      "options": [
+        "ISRO",
+        "DRDO",
+        "C-DAC",
+        "BARC"
+      ],
+      "answer": 2,
+      "explanation": "PARAM 8000 was built by the Centre for Development of Advanced Computing (C-DAC)."
+    },
+    {
+      "id": "param-8000-q03",
+      "difficulty": "easy",
+      "q": "In which year was PARAM 8000 unveiled?",
+      "options": [
+        "1985",
+        "1991",
+        "1998",
+        "2005"
+      ],
+      "answer": 1,
+      "explanation": "PARAM 8000 was developed and demonstrated in 1991."
+    },
+    {
+      "id": "param-8000-q04",
+      "difficulty": "easy",
+      "q": "PARAM 8000 launched which famous family of Indian supercomputers?",
+      "options": [
+        "The Cray series",
+        "The ANURAG series",
+        "The Flosolver series",
+        "The PARAM series"
+      ],
+      "answer": 3,
+      "explanation": "PARAM 8000 was the first machine in C-DAC's long-running PARAM series of supercomputers."
+    },
+    {
+      "id": "param-8000-q05",
+      "difficulty": "easy",
+      "q": "PARAM 8000 was developed largely because India was denied imported supercomputers from which country?",
+      "options": [
+        "The Soviet Union",
+        "Japan",
+        "The United States",
+        "Germany"
+      ],
+      "answer": 2,
+      "explanation": "The United States restricted exports of the Cray supercomputer to India, spurring an indigenous effort."
+    },
+    {
+      "id": "param-8000-q06",
+      "difficulty": "easy",
+      "q": "What does the word 'PARAM' broadly signify, fitting the machine's role?",
+      "options": [
+        "A scientist's surname",
+        "A city name",
+        "A type of chip",
+        "'Supreme' in Sanskrit"
+      ],
+      "answer": 3,
+      "explanation": "'PARAM' is a Sanskrit word meaning 'supreme', reflecting its status as a high-performance computer."
+    },
+    {
+      "id": "param-8000-q07",
+      "difficulty": "easy",
+      "q": "C-DAC, the organisation behind PARAM 8000, is based primarily in which Indian city?",
+      "options": [
+        "Pune",
+        "Chennai",
+        "Kolkata",
+        "Ahmedabad"
+      ],
+      "answer": 0,
+      "explanation": "C-DAC was established with its main centre in Pune, Maharashtra."
+    },
+    {
+      "id": "param-8000-q08",
+      "difficulty": "easy",
+      "q": "PARAM 8000 is best described as which type of computing architecture?",
+      "options": [
+        "A single-processor mainframe",
+        "A parallel-processing supercomputer",
+        "A pocket calculator",
+        "An analog computer"
+      ],
+      "answer": 1,
+      "explanation": "PARAM 8000 was a parallel-processing machine that combined many processors to achieve high performance."
+    },
+    {
+      "id": "param-8000-q09",
+      "difficulty": "easy",
+      "q": "Building PARAM 8000 was significant because it demonstrated India's ability to do what?",
+      "options": [
+        "Mine rare minerals",
+        "Launch humans to space",
+        "Build high-performance computers indigenously",
+        "Refine crude oil"
+      ],
+      "answer": 2,
+      "explanation": "It proved India could design and build supercomputers on its own despite export restrictions."
+    },
+    {
+      "id": "param-8000-q10",
+      "difficulty": "easy",
+      "q": "In which decade did India develop its first indigenous supercomputer, PARAM 8000?",
+      "options": [
+        "The 1970s",
+        "The 1980s",
+        "The 1990s",
+        "The 2000s"
+      ],
+      "answer": 2,
+      "explanation": "PARAM 8000 was developed in 1991, placing it in the early 1990s."
+    },
+    {
+      "id": "param-8000-q11",
+      "difficulty": "medium",
+      "q": "C-DAC was set up in 1988 under which Indian government department/ministry?",
+      "options": [
+        "Ministry of Defence",
+        "Department of Electronics",
+        "Department of Atomic Energy",
+        "Ministry of Railways"
+      ],
+      "answer": 1,
+      "explanation": "C-DAC was created in 1988 under the Department of Electronics (later part of the Ministry of Electronics and IT)."
+    },
+    {
+      "id": "param-8000-q12",
+      "difficulty": "medium",
+      "q": "Which computer scientist is widely credited as the key figure who led the development of PARAM 8000?",
+      "options": [
+        "Raj Reddy",
+        "Narendra Karmarkar",
+        "Vikram Sarabhai",
+        "Vijay P. Bhatkar"
+      ],
+      "answer": 3,
+      "explanation": "Dr. Vijay P. Bhatkar, the founder-director of C-DAC, led the team that built PARAM 8000."
+    },
+    {
+      "id": "param-8000-q13",
+      "difficulty": "medium",
+      "q": "Which family of microprocessors was used as the building block in PARAM 8000?",
+      "options": [
+        "Intel x86 CPUs",
+        "Inmos Transputers",
+        "Sun SPARC chips",
+        "IBM PowerPC chips"
+      ],
+      "answer": 1,
+      "explanation": "PARAM 8000 was built around Inmos Transputer processors connected in parallel."
+    },
+    {
+      "id": "param-8000-q14",
+      "difficulty": "medium",
+      "q": "The transputer-based design of PARAM 8000 reflected which broad approach to high-performance computing?",
+      "options": [
+        "Massively parallel processing",
+        "Single-instruction serial processing",
+        "Mechanical computation",
+        "Quantum computing"
+      ],
+      "answer": 0,
+      "explanation": "PARAM 8000 used a massively parallel, message-passing design linking many transputer nodes."
+    },
+    {
+      "id": "param-8000-q15",
+      "difficulty": "medium",
+      "q": "Roughly what peak performance class was PARAM 8000 designed to reach?",
+      "options": [
+        "A few kiloflops",
+        "About a gigaflop",
+        "About an exaflop",
+        "About a petaflop"
+      ],
+      "answer": 1,
+      "explanation": "PARAM 8000 was designed to deliver performance on the order of one gigaflop (a billion floating-point operations per second)."
+    },
+    {
+      "id": "param-8000-q16",
+      "difficulty": "medium",
+      "q": "Which US-restricted supercomputer was India seeking to import before deciding to build PARAM indigenously?",
+      "options": [
+        "A Fujitsu VP",
+        "An NEC SX",
+        "An IBM Blue Gene",
+        "A Cray supercomputer"
+      ],
+      "answer": 3,
+      "explanation": "India had sought a Cray supercomputer, but US export controls (citing dual-use concerns) blocked the deal."
+    },
+    {
+      "id": "param-8000-q17",
+      "difficulty": "medium",
+      "q": "After PARAM 8000, C-DAC's PARAM line continued with which notable successor in the mid-1990s?",
+      "options": [
+        "PARAM 10000",
+        "PARAM Yuva",
+        "PARAM Shivay",
+        "PARAM Siddhi"
+      ],
+      "answer": 0,
+      "explanation": "PARAM 10000, delivering around 100 gigaflops, was a major successor unveiled in 1998."
+    },
+    {
+      "id": "param-8000-q18",
+      "difficulty": "medium",
+      "q": "What was a key goal of developing PARAM 8000 beyond raw computing power?",
+      "options": [
+        "Replacing all personal computers",
+        "Building a weather balloon",
+        "Achieving self-reliance in supercomputing",
+        "Mining cryptocurrency"
+      ],
+      "answer": 2,
+      "explanation": "A central aim was technological self-reliance after India was denied access to foreign supercomputers."
+    },
+    {
+      "id": "param-8000-q19",
+      "difficulty": "medium",
+      "q": "PARAM 8000 used which communication model among its many processing nodes?",
+      "options": [
+        "Shared single clock only",
+        "Message passing between nodes",
+        "Punch-card exchange",
+        "Telephone modems"
+      ],
+      "answer": 1,
+      "explanation": "Its transputer nodes communicated by passing messages, characteristic of distributed parallel systems."
+    },
+    {
+      "id": "param-8000-q20",
+      "difficulty": "medium",
+      "q": "Which of these scientific tasks is a typical application for a supercomputer like the PARAM series?",
+      "options": [
+        "Sending text messages",
+        "Printing newspapers",
+        "Storing photographs only",
+        "Weather and climate modelling"
+      ],
+      "answer": 3,
+      "explanation": "Supercomputers such as the PARAM machines are used for weather forecasting, simulations, and scientific modelling."
+    },
+    {
+      "id": "param-8000-q21",
+      "difficulty": "medium",
+      "q": "The success of PARAM 8000 helped position India among which group of nations?",
+      "options": [
+        "Nations capable of building supercomputers",
+        "Nations with no computer industry",
+        "Nations banning computers",
+        "Nations importing all electronics"
+      ],
+      "answer": 0,
+      "explanation": "PARAM 8000 placed India among the small set of countries able to build their own supercomputers."
+    },
+    {
+      "id": "param-8000-q22",
+      "difficulty": "medium",
+      "q": "C-DAC is best described as which kind of institution?",
+      "options": [
+        "A private bank",
+        "A movie studio",
+        "A premier R&D organisation for IT and electronics",
+        "An airline"
+      ],
+      "answer": 2,
+      "explanation": "C-DAC is India's premier research and development organisation in advanced computing, electronics and IT."
+    },
+    {
+      "id": "param-8000-q23",
+      "difficulty": "hard",
+      "q": "An early PARAM prototype was benchmarked at a 1990 international supercomputing show held in which city, where it ranked second only to a US machine?",
+      "options": [
+        "Tokyo",
+        "Zurich",
+        "Sydney",
+        "Toronto"
+      ],
+      "answer": 1,
+      "explanation": "A PARAM prototype was benchmarked at the 1990 Zurich Supercomputing Show, where it came second only to a machine from the United States, drawing attention to India's capability."
+    },
+    {
+      "id": "param-8000-q24",
+      "difficulty": "hard",
+      "q": "The transputers used in PARAM 8000 were designed by which company?",
+      "options": [
+        "Motorola",
+        "Texas Instruments",
+        "Zilog",
+        "Inmos"
+      ],
+      "answer": 3,
+      "explanation": "The transputer was a parallel-computing microprocessor developed by the British company Inmos."
+    },
+    {
+      "id": "param-8000-q25",
+      "difficulty": "hard",
+      "q": "A distinctive feature of the transputer architecture used in PARAM 8000 was that each chip had built-in what?",
+      "options": [
+        "Communication links for connecting to other transputers",
+        "A display screen",
+        "A hard disk drive",
+        "A loudspeaker"
+      ],
+      "answer": 0,
+      "explanation": "Transputers integrated serial communication links on-chip, making it easy to wire many together into parallel machines."
+    },
+    {
+      "id": "param-8000-q26",
+      "difficulty": "hard",
+      "q": "Approximately how long did C-DAC take to deliver PARAM 8000 after the project began, a notably short timeframe?",
+      "options": [
+        "About fifteen years",
+        "About thirty years",
+        "About three years",
+        "About six months only by accident"
+      ],
+      "answer": 2,
+      "explanation": "C-DAC, founded in 1988, delivered PARAM 8000 by 1991, roughly a three-year development effort."
+    },
+    {
+      "id": "param-8000-q27",
+      "difficulty": "hard",
+      "q": "Which programming/parallel-computing concept is central to extracting performance from a transputer-based machine like PARAM 8000?",
+      "options": [
+        "Single-threaded batch printing",
+        "Concurrency and parallel decomposition of tasks",
+        "Manual punch-card sorting",
+        "Analog signal amplification"
+      ],
+      "answer": 1,
+      "explanation": "Performance depends on splitting work into concurrent tasks distributed across the parallel transputer nodes."
+    },
+    {
+      "id": "param-8000-q28",
+      "difficulty": "hard",
+      "q": "Dr. Vijay Bhatkar, who led PARAM 8000, was later honoured with which of India's high civilian awards?",
+      "options": [
+        "Bharat Ratna",
+        "Param Vir Chakra",
+        "Ashoka Chakra",
+        "Padma Bhushan"
+      ],
+      "answer": 3,
+      "explanation": "Vijay Bhatkar was awarded the Padma Bhushan (and earlier the Padma Shri) for his contributions to supercomputing."
+    },
+    {
+      "id": "param-8000-q29",
+      "difficulty": "hard",
+      "q": "Which later C-DAC PARAM supercomputer reached petaflop-scale performance, continuing the legacy begun by PARAM 8000?",
+      "options": [
+        "PARAM Siddhi-AI",
+        "PARAM 8000 Mk II",
+        "PARAM 8600",
+        "PARAM Lite"
+      ],
+      "answer": 0,
+      "explanation": "PARAM Siddhi-AI is a much later petaflop-class system in the PARAM lineage that PARAM 8000 began in 1991."
+    },
+    {
+      "id": "param-8000-q30",
+      "difficulty": "hard",
+      "q": "The PARAM 8000 effort is often cited as a milestone in India's pursuit of which broader national policy goal in technology?",
+      "options": [
+        "Outsourcing all manufacturing abroad",
+        "Abandoning scientific research",
+        "Atmanirbharta (self-reliance) in strategic technology",
+        "Importing only finished electronics"
+      ],
+      "answer": 2,
+      "explanation": "PARAM 8000 became a symbol of India's drive for self-reliance in critical, export-restricted technologies."
+    }
+  ]
+}

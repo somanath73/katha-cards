@@ -1,0 +1,395 @@
+{
+  "cardId": "cv-raman",
+  "questions": [
+    {
+      "id": "cv-raman-q01",
+      "difficulty": "easy",
+      "q": "What does the 'C. V.' in C. V. Raman's name stand for?",
+      "options": [
+        "Chandrashekhar Venkat",
+        "Chittoor Venkateswara",
+        "Chinnaswami Vaidyanathan",
+        "Chandrasekhara Venkata"
+      ],
+      "answer": 3,
+      "explanation": "His full name was Chandrasekhara Venkata Raman."
+    },
+    {
+      "id": "cv-raman-q02",
+      "difficulty": "easy",
+      "q": "In which scientific field did C. V. Raman make his most famous discovery?",
+      "options": [
+        "Chemistry",
+        "Biology",
+        "Physics",
+        "Mathematics"
+      ],
+      "answer": 2,
+      "explanation": "Raman was a physicist whose work on the scattering of light earned him the Nobel Prize in Physics."
+    },
+    {
+      "id": "cv-raman-q03",
+      "difficulty": "easy",
+      "q": "The phenomenon Raman discovered is famously known as the:",
+      "options": [
+        "Raman Wave",
+        "Raman Reaction",
+        "Raman Effect",
+        "Raman Principle"
+      ],
+      "answer": 2,
+      "explanation": "His discovery of inelastic scattering of light is called the Raman Effect."
+    },
+    {
+      "id": "cv-raman-q04",
+      "difficulty": "easy",
+      "q": "In which year did C. V. Raman win the Nobel Prize?",
+      "options": [
+        "1921",
+        "1930",
+        "1945",
+        "1954"
+      ],
+      "answer": 1,
+      "explanation": "Raman was awarded the Nobel Prize in Physics in 1930."
+    },
+    {
+      "id": "cv-raman-q05",
+      "difficulty": "easy",
+      "q": "C. V. Raman was the first person from which continent to win a Nobel Prize in the sciences?",
+      "options": [
+        "Africa",
+        "South America",
+        "Australia",
+        "Asia"
+      ],
+      "answer": 3,
+      "explanation": "Raman was the first Asian to win a Nobel Prize in any of the sciences."
+    },
+    {
+      "id": "cv-raman-q06",
+      "difficulty": "easy",
+      "q": "The Raman Effect describes the scattering of what?",
+      "options": [
+        "Sound",
+        "Electrons",
+        "Heat",
+        "Light"
+      ],
+      "answer": 3,
+      "explanation": "The Raman Effect concerns the inelastic scattering of light by molecules."
+    },
+    {
+      "id": "cv-raman-q07",
+      "difficulty": "easy",
+      "q": "What is the name of the day celebrated in India to commemorate Raman's discovery?",
+      "options": [
+        "National Physics Day",
+        "National Science Day",
+        "National Light Day",
+        "National Innovation Day"
+      ],
+      "answer": 1,
+      "explanation": "National Science Day is celebrated in India on 28 February, the date Raman announced his discovery in 1928."
+    },
+    {
+      "id": "cv-raman-q08",
+      "difficulty": "easy",
+      "q": "In which country was C. V. Raman born?",
+      "options": [
+        "Sri Lanka",
+        "United Kingdom",
+        "India",
+        "Myanmar"
+      ],
+      "answer": 2,
+      "explanation": "Raman was born in Tiruchirappalli (then Trichinopoly), in southern India."
+    },
+    {
+      "id": "cv-raman-q09",
+      "difficulty": "easy",
+      "q": "Observations of the blue colour of which natural feature partly inspired Raman's research on light scattering?",
+      "options": [
+        "A volcano",
+        "A forest",
+        "A desert",
+        "The sea"
+      ],
+      "answer": 3,
+      "explanation": "Raman became fascinated by the blue colour of the Mediterranean Sea on a 1921 voyage, sparking his studies of light scattering."
+    },
+    {
+      "id": "cv-raman-q10",
+      "difficulty": "easy",
+      "q": "What civilian honour, India's highest, was conferred on C. V. Raman in 1954?",
+      "options": [
+        "Padma Shri",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Param Vir Chakra"
+      ],
+      "answer": 2,
+      "explanation": "Raman was among the first recipients of the Bharat Ratna, India's highest civilian award, in 1954."
+    },
+    {
+      "id": "cv-raman-q11",
+      "difficulty": "medium",
+      "q": "On what date in 1928 did Raman announce his discovery of the effect, now commemorated as National Science Day?",
+      "options": [
+        "28 February",
+        "15 August",
+        "5 September",
+        "26 January"
+      ],
+      "answer": 0,
+      "explanation": "Raman announced the discovery on 28 February 1928, which India observes as National Science Day."
+    },
+    {
+      "id": "cv-raman-q12",
+      "difficulty": "medium",
+      "q": "Which younger Indian physicist worked closely with Raman and co-observed the effect in 1928?",
+      "options": [
+        "Satyendra Nath Bose",
+        "K. S. Krishnan",
+        "Meghnad Saha",
+        "Homi Bhabha"
+      ],
+      "answer": 1,
+      "explanation": "K. S. Krishnan was Raman's collaborator in the 1928 experiments that revealed the Raman Effect."
+    },
+    {
+      "id": "cv-raman-q13",
+      "difficulty": "medium",
+      "q": "At which Kolkata institution did Raman conduct much of his early research before moving to Bangalore?",
+      "options": [
+        "Indian Statistical Institute",
+        "Bose Institute",
+        "Presidency College Mumbai",
+        "Indian Association for the Cultivation of Science"
+      ],
+      "answer": 3,
+      "explanation": "Raman did pioneering work at the Indian Association for the Cultivation of Science (IACS) in Calcutta."
+    },
+    {
+      "id": "cv-raman-q14",
+      "difficulty": "medium",
+      "q": "Before becoming a full-time physicist, Raman worked for a decade in which profession?",
+      "options": [
+        "Medicine",
+        "Law",
+        "Government finance/accounts service",
+        "Journalism"
+      ],
+      "answer": 2,
+      "explanation": "Raman served in the Indian Finance Department (Accounts Service) for about ten years while pursuing physics in his spare time."
+    },
+    {
+      "id": "cv-raman-q15",
+      "difficulty": "medium",
+      "q": "When the Raman Effect occurs, the scattered light differs from the incident light in what property?",
+      "options": [
+        "Only its direction",
+        "Its frequency (wavelength)",
+        "Only its polarization angle by exactly 90 degrees",
+        "Nothing measurable"
+      ],
+      "answer": 1,
+      "explanation": "In Raman scattering a small fraction of light is shifted in frequency (wavelength) due to energy exchange with molecular vibrations."
+    },
+    {
+      "id": "cv-raman-q16",
+      "difficulty": "medium",
+      "q": "Which prestigious British scientific fellowship was Raman elected to in 1924?",
+      "options": [
+        "Fellow of the British Academy",
+        "Fellow of the Linnean Society",
+        "Knight Commander of the Order of the Bath",
+        "Fellow of the Royal Society (FRS)"
+      ],
+      "answer": 3,
+      "explanation": "Raman was elected a Fellow of the Royal Society (FRS) in 1924."
+    },
+    {
+      "id": "cv-raman-q17",
+      "difficulty": "medium",
+      "q": "Raman founded which research institute in Bangalore, which bears his name?",
+      "options": [
+        "Tata Institute of Fundamental Research",
+        "Indian Institute of Science",
+        "Saha Institute of Nuclear Physics",
+        "Raman Research Institute"
+      ],
+      "answer": 3,
+      "explanation": "Raman founded the Raman Research Institute in Bangalore in 1948."
+    },
+    {
+      "id": "cv-raman-q18",
+      "difficulty": "medium",
+      "q": "Raman became the first Indian director of which institution in 1933?",
+      "options": [
+        "University of Calcutta",
+        "Presidency College, Madras",
+        "Aligarh Muslim University",
+        "Indian Institute of Science, Bangalore"
+      ],
+      "answer": 3,
+      "explanation": "In 1933 Raman became the first Indian director of the Indian Institute of Science (IISc), Bangalore."
+    },
+    {
+      "id": "cv-raman-q19",
+      "difficulty": "medium",
+      "q": "The honorific title 'Sir' was conferred on Raman because he received what British honour in 1929?",
+      "options": [
+        "A knighthood",
+        "A peerage",
+        "The Order of Merit",
+        "A baronetcy"
+      ],
+      "answer": 0,
+      "explanation": "Raman was knighted in 1929, after which he was styled Sir C. V. Raman."
+    },
+    {
+      "id": "cv-raman-q20",
+      "difficulty": "medium",
+      "q": "The astrophysicist Subrahmanyan Chandrasekhar, also a Nobel laureate, was related to Raman as his:",
+      "options": [
+        "Brother",
+        "Son",
+        "Nephew",
+        "Father"
+      ],
+      "answer": 2,
+      "explanation": "Nobel laureate Subrahmanyan Chandrasekhar was C. V. Raman's nephew."
+    },
+    {
+      "id": "cv-raman-q21",
+      "difficulty": "medium",
+      "q": "Raman scattering is most commonly studied today using what intense, monochromatic light source?",
+      "options": [
+        "Candle flame",
+        "Laser",
+        "Incandescent bulb",
+        "Sunlight through a prism"
+      ],
+      "answer": 1,
+      "explanation": "Modern Raman spectroscopy uses lasers, which provide the intense monochromatic light needed to detect the weak Raman signal."
+    },
+    {
+      "id": "cv-raman-q22",
+      "difficulty": "medium",
+      "q": "Raman spectroscopy is widely used today because it reveals information about a sample's:",
+      "options": [
+        "Electrical resistance only",
+        "Radioactivity",
+        "Molecular vibrations and chemical structure",
+        "Magnetic field strength"
+      ],
+      "answer": 2,
+      "explanation": "Raman spectroscopy probes molecular vibrational modes, making it a powerful tool for identifying chemical structure and composition."
+    },
+    {
+      "id": "cv-raman-q23",
+      "difficulty": "hard",
+      "q": "In Raman scattering, scattered photons that have lost energy (shifted to lower frequency) produce what type of lines?",
+      "options": [
+        "Anti-Stokes lines",
+        "Stokes lines",
+        "Rayleigh lines",
+        "Fraunhofer lines"
+      ],
+      "answer": 1,
+      "explanation": "Photons that lose energy to the molecule give Stokes lines (lower frequency); those that gain energy give anti-Stokes lines."
+    },
+    {
+      "id": "cv-raman-q24",
+      "difficulty": "hard",
+      "q": "The dominant, unshifted scattering of light by molecules (without frequency change) is named after which scientist?",
+      "options": [
+        "Compton",
+        "Brillouin",
+        "Rayleigh",
+        "Tyndall"
+      ],
+      "answer": 2,
+      "explanation": "Elastic, unshifted scattering is Rayleigh scattering; the Raman Effect is the much weaker inelastic component."
+    },
+    {
+      "id": "cv-raman-q25",
+      "difficulty": "hard",
+      "q": "An analogous inelastic scattering effect for X-rays, discovered earlier, that influenced thinking about the Raman Effect was named after:",
+      "options": [
+        "Niels Bohr",
+        "Max Planck",
+        "J. J. Thomson",
+        "Arthur Compton"
+      ],
+      "answer": 3,
+      "explanation": "The Compton Effect (inelastic X-ray scattering by electrons) was a conceptual precursor to the optical Raman Effect."
+    },
+    {
+      "id": "cv-raman-q26",
+      "difficulty": "hard",
+      "q": "In which year was the Raman Effect first theoretically predicted by Adolf Smekal, before Raman observed it experimentally?",
+      "options": [
+        "1923",
+        "1928",
+        "1915",
+        "1933"
+      ],
+      "answer": 0,
+      "explanation": "Adolf Smekal predicted inelastic light scattering in 1923, several years before Raman's 1928 experimental confirmation."
+    },
+    {
+      "id": "cv-raman-q27",
+      "difficulty": "hard",
+      "q": "Besides light scattering, Raman also did notable scientific research on the physics of which musical instruments?",
+      "options": [
+        "Electric guitars",
+        "Pipe organs",
+        "Synthesizers",
+        "Indian drums and stringed instruments"
+      ],
+      "answer": 3,
+      "explanation": "Early in his career Raman studied the acoustics of Indian musical instruments such as the tabla, mridangam and violin."
+    },
+    {
+      "id": "cv-raman-q28",
+      "difficulty": "hard",
+      "q": "Raman's explanation of the blue colour of the sea corrected an earlier claim by Lord Rayleigh that the colour was merely:",
+      "options": [
+        "Caused by dissolved salts",
+        "A reflection of the sky",
+        "Due to marine algae",
+        "An optical illusion"
+      ],
+      "answer": 1,
+      "explanation": "Raman showed the sea's blue arises from molecular scattering of light by water, not merely a reflection of the sky as Rayleigh had suggested."
+    },
+    {
+      "id": "cv-raman-q29",
+      "difficulty": "hard",
+      "q": "Raman reportedly was so confident of winning the Nobel Prize that, well before the 1930 announcement, he booked passage to which event location?",
+      "options": [
+        "London",
+        "Geneva",
+        "Stockholm",
+        "Vienna"
+      ],
+      "answer": 2,
+      "explanation": "Raman is famously said to have booked tickets to Stockholm months in advance, confident he would receive the prize awarded there."
+    },
+    {
+      "id": "cv-raman-q30",
+      "difficulty": "hard",
+      "q": "Roughly what fraction of incident photons undergoes Raman (inelastic) scattering, making the effect notoriously weak?",
+      "options": [
+        "About 1 in 10",
+        "About half",
+        "About 1 in 100",
+        "About 1 in a million"
+      ],
+      "answer": 3,
+      "explanation": "Only roughly one in a million scattered photons is Raman-shifted, which is why detecting the effect required careful experiments and now uses lasers."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "birbal-sahni",
+  "questions": [
+    {
+      "id": "birbal-sahni-q01",
+      "difficulty": "easy",
+      "q": "In which scientific field did Birbal Sahni do his pioneering work?",
+      "options": ["Astrophysics", "Palaeobotany", "Marine biology", "Nuclear physics"],
+      "answer": 1,
+      "explanation": "Birbal Sahni was a palaeobotanist, a scientist who studies the fossils of ancient plants."
+    },
+    {
+      "id": "birbal-sahni-q02",
+      "difficulty": "easy",
+      "q": "What does a palaeobotanist like Birbal Sahni primarily study?",
+      "options": ["Living tropical flowers", "Fossils of ancient plants", "The chemistry of soils", "The behaviour of birds"],
+      "answer": 1,
+      "explanation": "Palaeobotany is the study of fossil plants, which is the area in which Sahni made his name."
+    },
+    {
+      "id": "birbal-sahni-q03",
+      "difficulty": "easy",
+      "q": "The research institute that bears Birbal Sahni's name today specialises in what?",
+      "options": ["Palaeosciences", "Rocket propulsion", "Vaccine development", "Radio astronomy"],
+      "answer": 0,
+      "explanation": "He founded the institute of palaeosciences in Lucknow that now carries his name, the Birbal Sahni Institute of Palaeosciences."
+    },
+    {
+      "id": "birbal-sahni-q04",
+      "difficulty": "easy",
+      "q": "Birbal Sahni was a scientist from which country?",
+      "options": ["Sri Lanka", "Nepal", "Bangladesh", "India"],
+      "answer": 3,
+      "explanation": "Birbal Sahni was an Indian palaeobotanist who studied India's fossil plants."
+    },
+    {
+      "id": "birbal-sahni-q05",
+      "difficulty": "easy",
+      "q": "In which Indian city is the Birbal Sahni Institute of Palaeosciences located?",
+      "options": ["Lucknow", "Chennai", "Pune", "Bhopal"],
+      "answer": 0,
+      "explanation": "The institute he founded is located in Lucknow, Uttar Pradesh."
+    },
+    {
+      "id": "birbal-sahni-q06",
+      "difficulty": "easy",
+      "q": "Fossil plants are most often preserved in which kind of material?",
+      "options": ["Liquid water", "Rock and coal", "Open air", "Live tree bark"],
+      "answer": 1,
+      "explanation": "Plant fossils are typically preserved in rock and coal deposits, which palaeobotanists like Sahni examined."
+    },
+    {
+      "id": "birbal-sahni-q07",
+      "difficulty": "easy",
+      "q": "Birbal Sahni's nickname on his card describes him as a 'Reader of Ancient ___'.",
+      "options": ["Stars", "Plants", "Texts", "Oceans"],
+      "answer": 1,
+      "explanation": "He is called the 'Reader of Ancient Plants' because he interpreted the fossil flora of the geological past."
+    },
+    {
+      "id": "birbal-sahni-q08",
+      "difficulty": "easy",
+      "q": "Which natural specimens were central to Birbal Sahni's research?",
+      "options": ["Fossilised plant remains", "Meteorite fragments", "Snake venoms", "Crystal lattices"],
+      "answer": 0,
+      "explanation": "Sahni's career centred on studying fossilised plant remains preserved in India's rocks."
+    },
+    {
+      "id": "birbal-sahni-q09",
+      "difficulty": "easy",
+      "q": "Birbal Sahni is best remembered as a founder of an institution dedicated to what broad area?",
+      "options": ["The study of ancient life and Earth", "Modern computer science", "Aerospace engineering", "Banking and finance"],
+      "answer": 0,
+      "explanation": "He founded an institute devoted to palaeosciences, the study of ancient life and Earth history."
+    },
+    {
+      "id": "birbal-sahni-q10",
+      "difficulty": "easy",
+      "q": "Studying fossils helps scientists like Birbal Sahni understand what?",
+      "options": ["Future stock prices", "Life of the geological past", "The speed of light", "Human languages"],
+      "answer": 1,
+      "explanation": "Fossils reveal the life of the geological past, which is exactly what palaeobotany seeks to reconstruct."
+    },
+    {
+      "id": "birbal-sahni-q11",
+      "difficulty": "medium",
+      "q": "In which year was Birbal Sahni born?",
+      "options": ["1875", "1891", "1905", "1918"],
+      "answer": 1,
+      "explanation": "Birbal Sahni was born in 1891 in Bhera, in present-day Pakistan."
+    },
+    {
+      "id": "birbal-sahni-q12",
+      "difficulty": "medium",
+      "q": "Birbal Sahni pursued advanced studies in botany at which famous British university?",
+      "options": ["Oxford", "Cambridge", "Edinburgh", "Manchester"],
+      "answer": 1,
+      "explanation": "He studied at the University of Cambridge, where he worked under the botanist A. C. Seward."
+    },
+    {
+      "id": "birbal-sahni-q13",
+      "difficulty": "medium",
+      "q": "At which Indian university did Birbal Sahni serve for most of his career as professor and head of botany?",
+      "options": ["University of Calcutta", "University of Lucknow", "Banaras Hindu University", "University of Madras"],
+      "answer": 1,
+      "explanation": "Sahni spent most of his career at the University of Lucknow, where he was professor and head of the botany department."
+    },
+    {
+      "id": "birbal-sahni-q14",
+      "difficulty": "medium",
+      "q": "Which influential palaeobotanist at Cambridge was Birbal Sahni's mentor?",
+      "options": ["Albert Charles Seward", "Charles Darwin", "Joseph Hooker", "D. H. Scott"],
+      "answer": 0,
+      "explanation": "Sahni studied under Albert Charles Seward, a leading palaeobotanist at Cambridge."
+    },
+    {
+      "id": "birbal-sahni-q15",
+      "difficulty": "medium",
+      "q": "In what year was Birbal Sahni elected a Fellow of the Royal Society (FRS) of London?",
+      "options": ["1925", "1936", "1948", "1952"],
+      "answer": 1,
+      "explanation": "He was elected a Fellow of the Royal Society in 1936, a rare honour for an Indian scientist of his time."
+    },
+    {
+      "id": "birbal-sahni-q16",
+      "difficulty": "medium",
+      "q": "Birbal Sahni founded the Birbal Sahni Institute (originally the Institute of Palaeobotany) in which year?",
+      "options": ["1929", "1939", "1946", "1955"],
+      "answer": 2,
+      "explanation": "He established the institute in 1946; it was later named in his honour after his death."
+    },
+    {
+      "id": "birbal-sahni-q17",
+      "difficulty": "medium",
+      "q": "Besides plants, Birbal Sahni also took a keen interest in which other field that used scientific dating?",
+      "options": ["Numismatics (the study of ancient coins)", "Stamp collecting", "Astrology", "Genealogy"],
+      "answer": 0,
+      "explanation": "Sahni studied ancient coins and coin-moulds, applying scientific methods to numismatics."
+    },
+    {
+      "id": "birbal-sahni-q18",
+      "difficulty": "medium",
+      "q": "Birbal Sahni's father, Ruchi Ram Sahni, was himself notable as a teacher of which subject?",
+      "options": ["Chemistry and science", "Sanskrit literature", "Law", "Music"],
+      "answer": 0,
+      "explanation": "His father Ruchi Ram Sahni was a noted science educator and chemist who inspired Birbal's scientific interests."
+    },
+    {
+      "id": "birbal-sahni-q19",
+      "difficulty": "medium",
+      "q": "Birbal Sahni was a founding figure and first president of which Indian scientific body, the Palaeobotanical Society?",
+      "options": ["A society devoted to fossil plant research", "A society for stargazing", "A trade union of farmers", "An association of medical doctors"],
+      "answer": 0,
+      "explanation": "He helped found and led the Palaeobotanical Society, the body devoted to fossil plant research in India."
+    },
+    {
+      "id": "birbal-sahni-q20",
+      "difficulty": "medium",
+      "q": "Much of Sahni's work focused on the fossil flora of which ancient supercontinent that included peninsular India?",
+      "options": ["Laurasia", "Gondwana", "Pangaea Ultima", "Atlantis"],
+      "answer": 1,
+      "explanation": "He extensively studied the Gondwana flora, the ancient plant life of the southern supercontinent that included India."
+    },
+    {
+      "id": "birbal-sahni-q21",
+      "difficulty": "medium",
+      "q": "In which year did Birbal Sahni die, shortly after laying the foundation stone of his new institute?",
+      "options": ["1949", "1951", "1953", "1957"],
+      "answer": 1,
+      "explanation": "Sahni died in 1949 (April), only days after the foundation stone of the new institute building was laid."
+    },
+    {
+      "id": "birbal-sahni-q22",
+      "difficulty": "medium",
+      "q": "Which genus of fossil plant did Birbal Sahni describe and is named after him?",
+      "options": ["Birbalsahnia", "Sahnioxylon", "Lucknowia", "Indianthus"],
+      "answer": 1,
+      "explanation": "The fossil wood genus Sahnioxylon was named in his honour for his palaeobotanical contributions."
+    },
+    {
+      "id": "birbal-sahni-q23",
+      "difficulty": "hard",
+      "q": "In which town, located in present-day Pakistan, was Birbal Sahni born?",
+      "options": ["Bhera", "Multan", "Sialkot", "Peshawar"],
+      "answer": 0,
+      "explanation": "He was born in 1891 in Bhera, in the Shahpur district of present-day Punjab, Pakistan."
+    },
+    {
+      "id": "birbal-sahni-q24",
+      "difficulty": "hard",
+      "q": "Birbal Sahni proposed and studied a new group of fossil plants combining features of two major groups; what did he name this order?",
+      "options": ["Bennettitales", "Pentoxyleae", "Cycadeoidea", "Glossopteridales"],
+      "answer": 1,
+      "explanation": "Sahni established the Pentoxyleae (Pentoxylales), a distinctive group of Mesozoic gymnosperms, based on fossils from the Rajmahal Hills."
+    },
+    {
+      "id": "birbal-sahni-q25",
+      "difficulty": "hard",
+      "q": "Fossils that formed the basis of Sahni's Pentoxyleae work came chiefly from which hills in eastern India?",
+      "options": ["Nilgiri Hills", "Rajmahal Hills", "Aravalli Hills", "Shillong Hills"],
+      "answer": 1,
+      "explanation": "The Jurassic plant fossils of the Rajmahal Hills in Bihar/Jharkhand were central to his Pentoxyleae studies."
+    },
+    {
+      "id": "birbal-sahni-q26",
+      "difficulty": "hard",
+      "q": "Birbal Sahni earned his doctorate (DSc) from which institution?",
+      "options": ["Harvard University", "University of Munich", "University of Tokyo", "University of London"],
+      "answer": 3,
+      "explanation": "He was awarded the Doctor of Science (DSc) degree by the University of London in 1919."
+    },
+    {
+      "id": "birbal-sahni-q27",
+      "difficulty": "hard",
+      "q": "Sahni's research on ancient coin-moulds at Rohtak helped clarify the minting techniques of which period of Indian history?",
+      "options": ["The Mughal era", "The colonial British era", "The early historic period (around the turn of the Common Era)", "The Vedic age"],
+      "answer": 2,
+      "explanation": "His study of die-struck coins and casting moulds shed light on early historic Indian minting around the turn of the Common Era."
+    },
+    {
+      "id": "birbal-sahni-q28",
+      "difficulty": "hard",
+      "q": "Before settling at Lucknow, Birbal Sahni briefly held a professorship of botany at which other Indian university?",
+      "options": ["Banaras Hindu University", "Punjab University", "Aligarh Muslim University", "University of Allahabad"],
+      "answer": 0,
+      "explanation": "He served as the first professor of botany at Banaras Hindu University before moving to the University of Lucknow."
+    },
+    {
+      "id": "birbal-sahni-q29",
+      "difficulty": "hard",
+      "q": "Who laid the foundation stone of Birbal Sahni's institute building in Lucknow in 1949, an event preceding his death?",
+      "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "C. V. Raman", "Rabindranath Tagore"],
+      "answer": 0,
+      "explanation": "Prime Minister Jawaharlal Nehru laid the foundation stone of the institute's new building in April 1949, days before Sahni died."
+    },
+    {
+      "id": "birbal-sahni-q30",
+      "difficulty": "hard",
+      "q": "Birbal Sahni's wife, Savitri Sahni, was important to his legacy chiefly because she did what after his death?",
+      "options": ["Continued to guide and support the institute he founded", "Discovered a new dinosaur species", "Became Prime Minister of India", "Won a Nobel Prize in Chemistry"],
+      "answer": 0,
+      "explanation": "After his death, Savitri Sahni helped sustain and develop the institute he founded, ensuring his legacy continued."
+    }
+  ]
+}

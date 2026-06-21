@@ -1,0 +1,245 @@
+{
+  "cardId": "smiling-buddha",
+  "questions": [
+    {
+      "id": "smiling-buddha-q01",
+      "difficulty": "easy",
+      "q": "\"Smiling Buddha\" was the code name for what event?",
+      "options": ["India's first satellite launch", "India's first nuclear test", "India's first Moon mission", "India's first supercomputer"],
+      "answer": 1,
+      "explanation": "Smiling Buddha was the code name of India's first nuclear weapon test, conducted in 1974."
+    },
+    {
+      "id": "smiling-buddha-q02",
+      "difficulty": "easy",
+      "q": "In which year was the Smiling Buddha test conducted?",
+      "options": ["1974", "1962", "1968", "1980"],
+      "answer": 0,
+      "explanation": "India detonated its first nuclear device on 18 May 1974."
+    },
+    {
+      "id": "smiling-buddha-q03",
+      "difficulty": "easy",
+      "q": "At which test site was Smiling Buddha conducted?",
+      "options": ["Pokhran", "Sriharikota", "Trombay", "Kalpakkam"],
+      "answer": 0,
+      "explanation": "The test took place at the Pokhran Test Range in the Thar Desert of Rajasthan."
+    },
+    {
+      "id": "smiling-buddha-q04",
+      "difficulty": "easy",
+      "q": "In which Indian state is the Pokhran test site located?",
+      "options": ["Gujarat", "Rajasthan", "Madhya Pradesh", "Maharashtra"],
+      "answer": 1,
+      "explanation": "Pokhran is in the Thar Desert region of Rajasthan."
+    },
+    {
+      "id": "smiling-buddha-q05",
+      "difficulty": "easy",
+      "q": "Smiling Buddha made India the member of which exclusive group of nations?",
+      "options": ["Nations with a space station", "The first to land on the Moon", "Nations that had detonated a nuclear device", "Nations that abolished nuclear weapons"],
+      "answer": 2,
+      "explanation": "With Smiling Buddha, India became the sixth nation to successfully test a nuclear device."
+    },
+    {
+      "id": "smiling-buddha-q06",
+      "difficulty": "easy",
+      "q": "Which type of device was tested in Smiling Buddha?",
+      "options": ["A hydrogen (thermonuclear) bomb", "A neutron bomb", "A chemical weapon", "A fission (atomic) device"],
+      "answer": 3,
+      "explanation": "Smiling Buddha was a plutonium-based fission (implosion) device."
+    },
+    {
+      "id": "smiling-buddha-q07",
+      "difficulty": "easy",
+      "q": "What was the date of the Smiling Buddha test?",
+      "options": ["26 January 1974", "15 August 1974", "18 May 1974", "2 October 1974"],
+      "answer": 2,
+      "explanation": "The test was carried out on 18 May 1974, the day of Buddha Purnima."
+    },
+    {
+      "id": "smiling-buddha-q08",
+      "difficulty": "easy",
+      "q": "Who was the Prime Minister of India when Smiling Buddha was conducted?",
+      "options": ["Jawaharlal Nehru", "Indira Gandhi", "Morarji Desai", "Lal Bahadur Shastri"],
+      "answer": 1,
+      "explanation": "Indira Gandhi was Prime Minister and authorized the 1974 test."
+    },
+    {
+      "id": "smiling-buddha-q09",
+      "difficulty": "easy",
+      "q": "India officially described the Smiling Buddha test as what kind of explosion?",
+      "options": ["A weapons demonstration", "A peaceful nuclear explosion", "An accidental detonation", "A naval test"],
+      "answer": 1,
+      "explanation": "India termed it a \"peaceful nuclear explosion\" (PNE)."
+    },
+    {
+      "id": "smiling-buddha-q10",
+      "difficulty": "easy",
+      "q": "Smiling Buddha was India's nuclear test of what ordinal rank for the country?",
+      "options": ["Its first", "Its second", "Its fifth", "Its tenth"],
+      "answer": 0,
+      "explanation": "It was India's very first nuclear test, preceding the 1998 Pokhran-II series."
+    },
+    {
+      "id": "smiling-buddha-q11",
+      "difficulty": "medium",
+      "q": "The date 18 May 1974 coincided with which Buddhist festival, inspiring the code name?",
+      "options": ["Diwali", "Buddha Purnima", "Bodhi Day", "Vesak eve only in Sri Lanka"],
+      "answer": 1,
+      "explanation": "The test fell on Buddha Purnima (Buddha Jayanti), which inspired the name Smiling Buddha."
+    },
+    {
+      "id": "smiling-buddha-q12",
+      "difficulty": "medium",
+      "q": "Which fissile material was used in the Smiling Buddha device?",
+      "options": ["Highly enriched uranium", "Plutonium", "Thorium", "Deuterium-tritium fuel"],
+      "answer": 1,
+      "explanation": "The device used plutonium produced in the CIRUS research reactor."
+    },
+    {
+      "id": "smiling-buddha-q13",
+      "difficulty": "medium",
+      "q": "The plutonium for the test was largely produced in which research reactor?",
+      "options": ["Dhruva", "CIRUS", "Apsara", "Kamini"],
+      "answer": 1,
+      "explanation": "The CIRUS reactor at Trombay supplied the plutonium for the device."
+    },
+    {
+      "id": "smiling-buddha-q14",
+      "difficulty": "medium",
+      "q": "Which Indian organization led the design and execution of the Smiling Buddha device?",
+      "options": ["ISRO", "Bhabha Atomic Research Centre (BARC)", "DRDO alone", "CSIR"],
+      "answer": 1,
+      "explanation": "The Bhabha Atomic Research Centre (BARC) developed and assembled the device."
+    },
+    {
+      "id": "smiling-buddha-q15",
+      "difficulty": "medium",
+      "q": "Who was the director of BARC and a key scientific leader of the 1974 test?",
+      "options": ["Homi J. Bhabha", "Vikram Sarabhai", "Satish Dhawan", "Raja Ramanna"],
+      "answer": 3,
+      "explanation": "Raja Ramanna led the team that designed and tested the device."
+    },
+    {
+      "id": "smiling-buddha-q16",
+      "difficulty": "medium",
+      "q": "Approximately how was the Smiling Buddha device deployed for the test?",
+      "options": ["Dropped from an aircraft", "Detonated underground in a shaft", "Fired from a missile", "Detonated on a tower in open air"],
+      "answer": 1,
+      "explanation": "The device was placed in a shaft about 100 metres deep and detonated underground."
+    },
+    {
+      "id": "smiling-buddha-q17",
+      "difficulty": "medium",
+      "q": "Which famous Indian nuclear physicist had founded the program but died in 1966, before the 1974 test?",
+      "options": ["C. V. Raman", "Meghnad Saha", "Homi J. Bhabha", "Satyendra Nath Bose"],
+      "answer": 2,
+      "explanation": "Homi J. Bhabha, founder of India's nuclear program, died in a 1966 plane crash."
+    },
+    {
+      "id": "smiling-buddha-q18",
+      "difficulty": "medium",
+      "q": "What was the reported coded message sent to Indira Gandhi to confirm the successful test?",
+      "options": ["\"The eagle has landed\"", "\"The Buddha is smiling\"", "\"Mission accomplished\"", "\"Operation complete\""],
+      "answer": 1,
+      "explanation": "The success was reportedly confirmed with the phrase \"The Buddha is smiling.\""
+    },
+    {
+      "id": "smiling-buddha-q19",
+      "difficulty": "medium",
+      "q": "A major international consequence of the 1974 test was the formation of which body?",
+      "options": ["The International Atomic Energy Agency (IAEA)", "The United Nations Security Council", "The Nuclear Suppliers Group (NSG)", "The Comprehensive Test Ban Treaty Organization"],
+      "answer": 2,
+      "explanation": "The test prompted the creation of the Nuclear Suppliers Group to control nuclear exports."
+    },
+    {
+      "id": "smiling-buddha-q20",
+      "difficulty": "medium",
+      "q": "The 1974 test placed strain on India's relations and led to sanctions especially affecting cooperation with which two countries?",
+      "options": ["France and Germany", "Japan and Australia", "China and the USSR", "Canada and the United States"],
+      "answer": 3,
+      "explanation": "Canada (which supplied CIRUS) and the United States curtailed nuclear cooperation after the test."
+    },
+    {
+      "id": "smiling-buddha-q21",
+      "difficulty": "medium",
+      "q": "Which engineer-administrator headed the Atomic Energy Commission of India at the time of the 1974 test?",
+      "options": ["Homi Sethna", "A. P. J. Abdul Kalam", "M. G. K. Menon", "P. K. Iyengar"],
+      "answer": 0,
+      "explanation": "Homi Sethna chaired the Atomic Energy Commission and oversaw the 1974 program."
+    },
+    {
+      "id": "smiling-buddha-q22",
+      "difficulty": "medium",
+      "q": "Pokhran, the site of Smiling Buddha, lies within which desert?",
+      "options": ["Gobi Desert", "Rann of Kutch", "Thar Desert", "Sahara"],
+      "answer": 2,
+      "explanation": "Pokhran is located in the Thar Desert of western Rajasthan."
+    },
+    {
+      "id": "smiling-buddha-q23",
+      "difficulty": "hard",
+      "q": "What was the approximate official yield reported by India for the Smiling Buddha device?",
+      "options": ["About 0.5 kilotons", "About 12 kilotons (India's stated figure)", "About 50 kilotons", "About 150 kilotons"],
+      "answer": 1,
+      "explanation": "India officially reported a yield of about 12 kilotons, though independent estimates and later admissions put it lower (around 4-10 kilotons)."
+    },
+    {
+      "id": "smiling-buddha-q24",
+      "difficulty": "hard",
+      "q": "The CIRUS reactor that produced the plutonium was built with assistance primarily from which country?",
+      "options": ["United States", "Canada", "United Kingdom", "Soviet Union"],
+      "answer": 1,
+      "explanation": "CIRUS (Canada-India Reactor) was built with Canadian assistance, with the US supplying heavy water."
+    },
+    {
+      "id": "smiling-buddha-q25",
+      "difficulty": "hard",
+      "q": "Which physicist, later associated with later tests, was a young member of the 1974 device team and led work on its design aspects?",
+      "options": ["P. K. Iyengar", "Vikram Sarabhai", "S. Chandrasekhar", "Jayant Narlikar"],
+      "answer": 0,
+      "explanation": "P. K. Iyengar was a key member of the 1974 design team and later became AEC chairman."
+    },
+    {
+      "id": "smiling-buddha-q26",
+      "difficulty": "hard",
+      "q": "Roughly how deep was the shaft in which the Smiling Buddha device was emplaced?",
+      "options": ["About 10 metres", "About 100 metres", "About 500 metres", "About 1,000 metres"],
+      "answer": 1,
+      "explanation": "The device was placed at the bottom of a shaft approximately 100 metres deep."
+    },
+    {
+      "id": "smiling-buddha-q27",
+      "difficulty": "hard",
+      "q": "The 1974 test is sometimes also referred to internally by which other designation?",
+      "options": ["Operation Shakti", "Pokhran-I", "Operation Vijay", "Project Brahma"],
+      "answer": 1,
+      "explanation": "It is retrospectively called Pokhran-I, distinguishing it from the 1998 Pokhran-II tests."
+    },
+    {
+      "id": "smiling-buddha-q28",
+      "difficulty": "hard",
+      "q": "Which nuclear physicist worked on the 1974 device and later led India's 1998 nuclear tests?",
+      "options": ["A. P. J. Abdul Kalam", "Raja Ramanna", "Homi Sethna", "Rajagopala Chidambaram"],
+      "answer": 3,
+      "explanation": "Nuclear physicist Rajagopala Chidambaram worked on the 1974 device's design and later led the 1998 Pokhran-II tests."
+    },
+    {
+      "id": "smiling-buddha-q29",
+      "difficulty": "hard",
+      "q": "Smiling Buddha made India the first country outside which group to detonate a nuclear device?",
+      "options": ["The G7 economies", "The five permanent members of the UN Security Council (P5)", "The NATO alliance", "The non-aligned movement"],
+      "answer": 1,
+      "explanation": "India became the first nation outside the five recognized nuclear-weapon states (the UN P5) to test a device."
+    },
+    {
+      "id": "smiling-buddha-q30",
+      "difficulty": "hard",
+      "q": "Following the 1974 test, India did NOT conduct another nuclear test until which year?",
+      "options": ["1980", "1989", "1998", "2002"],
+      "answer": 2,
+      "explanation": "India's next nuclear tests were the Pokhran-II (Operation Shakti) series in 1998."
+    }
+  ]
+}

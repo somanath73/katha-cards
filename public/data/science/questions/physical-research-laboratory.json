@@ -1,0 +1,245 @@
+{
+  "cardId": "physical-research-laboratory",
+  "questions": [
+    {
+      "id": "physical-research-laboratory-q01",
+      "difficulty": "easy",
+      "q": "In which Indian city is the Physical Research Laboratory (PRL) located?",
+      "options": ["Bengaluru", "Ahmedabad", "Hyderabad", "Pune"],
+      "answer": 1,
+      "explanation": "The Physical Research Laboratory was established and is headquartered in Ahmedabad, Gujarat."
+    },
+    {
+      "id": "physical-research-laboratory-q02",
+      "difficulty": "easy",
+      "q": "Who founded the Physical Research Laboratory in 1947?",
+      "options": ["Homi J. Bhabha", "C. V. Raman", "Vikram Sarabhai", "Satish Dhawan"],
+      "answer": 2,
+      "explanation": "Physicist Vikram Sarabhai founded PRL in 1947, and it became the cradle of India's space research."
+    },
+    {
+      "id": "physical-research-laboratory-q03",
+      "difficulty": "easy",
+      "q": "In which year was the Physical Research Laboratory founded?",
+      "options": ["1947", "1957", "1969", "1935"],
+      "answer": 0,
+      "explanation": "PRL was founded in 1947, the same year India gained independence."
+    },
+    {
+      "id": "physical-research-laboratory-q04",
+      "difficulty": "easy",
+      "q": "PRL is widely described as the 'Cradle' of which field in India?",
+      "options": ["Nuclear weapons", "Genetics", "Petroleum engineering", "Space science"],
+      "answer": 3,
+      "explanation": "PRL is known as the cradle of space science in India, the birthplace of the country's space research."
+    },
+    {
+      "id": "physical-research-laboratory-q05",
+      "difficulty": "easy",
+      "q": "Vikram Sarabhai, the founder of PRL, is best remembered as the father of which Indian programme?",
+      "options": ["India's nuclear programme", "India's space programme", "India's Green Revolution", "India's IT industry"],
+      "answer": 1,
+      "explanation": "Vikram Sarabhai is widely regarded as the father of the Indian space programme."
+    },
+    {
+      "id": "physical-research-laboratory-q06",
+      "difficulty": "easy",
+      "q": "PRL today functions as a research institution under which Indian government department?",
+      "options": ["Department of Atomic Energy", "Ministry of Earth Sciences", "Department of Biotechnology", "Department of Space"],
+      "answer": 3,
+      "explanation": "PRL operates under the Department of Space, Government of India."
+    },
+    {
+      "id": "physical-research-laboratory-q07",
+      "difficulty": "easy",
+      "q": "Which branch of physics did the early research at PRL primarily focus on?",
+      "options": ["Cosmic rays and the upper atmosphere", "Particle accelerators", "Condensed-matter superconductivity", "Plasma fusion reactors"],
+      "answer": 0,
+      "explanation": "Early PRL research concentrated on cosmic rays and properties of the upper atmosphere, Sarabhai's specialty."
+    },
+    {
+      "id": "physical-research-laboratory-q08",
+      "difficulty": "easy",
+      "q": "Which institution did Vikram Sarabhai's family help found in the same city, supporting management education there?",
+      "options": ["IIM Ahmedabad", "IIT Bombay", "IISc Bangalore", "TIFR Mumbai"],
+      "answer": 0,
+      "explanation": "Vikram Sarabhai was a key force behind the establishment of the Indian Institute of Management, Ahmedabad."
+    },
+    {
+      "id": "physical-research-laboratory-q09",
+      "difficulty": "easy",
+      "q": "PRL is regarded as a forerunner institution to which Indian space agency?",
+      "options": ["DRDO", "ISRO", "BARC", "CSIR"],
+      "answer": 1,
+      "explanation": "Work begun at PRL led directly to the creation of ISRO, the Indian Space Research Organisation."
+    },
+    {
+      "id": "physical-research-laboratory-q10",
+      "difficulty": "easy",
+      "q": "In which Indian state is PRL situated?",
+      "options": ["Maharashtra", "Karnataka", "Gujarat", "Telangana"],
+      "answer": 2,
+      "explanation": "PRL is located in Ahmedabad, which is in the state of Gujarat."
+    },
+    {
+      "id": "physical-research-laboratory-q11",
+      "difficulty": "medium",
+      "q": "Two organizations jointly provided the initial financial support to establish PRL in 1947. One was the Karmkshetra Educational Foundation; what was the other?",
+      "options": ["Tata Trusts", "Ahmedabad Education Society", "Birla Education Trust", "Wadia Institute"],
+      "answer": 1,
+      "explanation": "PRL was initially supported by the Karmkshetra Educational Foundation and the Ahmedabad Education Society."
+    },
+    {
+      "id": "physical-research-laboratory-q12",
+      "difficulty": "medium",
+      "q": "At which institution did Vikram Sarabhai conduct his early cosmic-ray research before returning to India to found PRL?",
+      "options": ["University of Cambridge", "Indian Institute of Science, Bangalore", "California Institute of Technology", "Imperial College London"],
+      "answer": 1,
+      "explanation": "Sarabhai did early cosmic-ray work at the Indian Institute of Science in Bangalore under C. V. Raman, and later earned his doctorate from Cambridge."
+    },
+    {
+      "id": "physical-research-laboratory-q13",
+      "difficulty": "medium",
+      "q": "PRL operates a major astronomical observatory at Mount Abu. In which state is Mount Abu?",
+      "options": ["Gujarat", "Madhya Pradesh", "Uttarakhand", "Rajasthan"],
+      "answer": 3,
+      "explanation": "PRL runs the Mount Abu Infrared Observatory in Rajasthan, used for infrared and optical astronomy."
+    },
+    {
+      "id": "physical-research-laboratory-q14",
+      "difficulty": "medium",
+      "q": "Vikram Sarabhai earned his PhD from the University of Cambridge on a thesis concerning which subject?",
+      "options": ["Quantum electrodynamics", "Cosmic rays", "Stellar nucleosynthesis", "Crystallography"],
+      "answer": 1,
+      "explanation": "Sarabhai's Cambridge doctoral work was on cosmic ray investigations, the field that shaped PRL's early research."
+    },
+    {
+      "id": "physical-research-laboratory-q15",
+      "difficulty": "medium",
+      "q": "After Vikram Sarabhai's death in 1971, which eminent geophysicist took over as director of PRL, serving from 1972 to 1983?",
+      "options": ["K. R. Ramanathan", "Devendra Lal", "Yash Pal", "Satish Dhawan"],
+      "answer": 1,
+      "explanation": "Devendra Lal became director of PRL in 1972, succeeding Vikram Sarabhai, and led the institute until 1983. (K. R. Ramanathan was PRL's first director, before Sarabhai.)"
+    },
+    {
+      "id": "physical-research-laboratory-q16",
+      "difficulty": "medium",
+      "q": "PRL scientists contributed to analyzing lunar samples. From which historic mission did such samples first become widely available to researchers worldwide?",
+      "options": ["Soviet Luna 2", "NASA's Apollo program", "Chandrayaan-1", "China's Chang'e 5"],
+      "answer": 1,
+      "explanation": "NASA's Apollo missions returned lunar samples, and PRL was among institutions that studied them."
+    },
+    {
+      "id": "physical-research-laboratory-q17",
+      "difficulty": "medium",
+      "q": "Which of these research areas is a recognized focus at PRL today?",
+      "options": ["Marine biology", "Civil engineering", "Planetary sciences and astronomy", "Pharmaceutical chemistry"],
+      "answer": 2,
+      "explanation": "Modern PRL conducts research in astronomy, astrophysics, planetary sciences, atmospheric science, geosciences and theoretical physics."
+    },
+    {
+      "id": "physical-research-laboratory-q18",
+      "difficulty": "medium",
+      "q": "PRL was instrumental in setting up India's first rocket-launching station in 1963 at which coastal location?",
+      "options": ["Sriharikota", "Thumba", "Balasore", "Veraval"],
+      "answer": 1,
+      "explanation": "Sarabhai and PRL helped establish the Thumba Equatorial Rocket Launching Station (TERLS) near Thiruvananthapuram in 1963."
+    },
+    {
+      "id": "physical-research-laboratory-q19",
+      "difficulty": "medium",
+      "q": "Which subject area, central to atmospheric and space physics, was a hallmark of PRL's research on the ionized upper atmosphere?",
+      "options": ["Robotics", "Nuclear fission", "Ionospheric physics", "Materials metallurgy"],
+      "answer": 2,
+      "explanation": "PRL was a leading center for ionospheric and upper-atmosphere physics, building on Sarabhai's cosmic-ray interests."
+    },
+    {
+      "id": "physical-research-laboratory-q20",
+      "difficulty": "medium",
+      "q": "Vikram Sarabhai, PRL's founder, was awarded which of India's high civilian honours?",
+      "options": ["Bharat Ratna only", "Padma Bhushan and the posthumous Padma Vibhushan", "Nobel Prize in Physics", "Padma Shri only"],
+      "answer": 1,
+      "explanation": "Sarabhai received the Padma Bhushan in 1966 and was awarded the Padma Vibhushan posthumously in 1972."
+    },
+    {
+      "id": "physical-research-laboratory-q21",
+      "difficulty": "medium",
+      "q": "The PRL-operated observatory at Mount Abu is particularly noted for observations in which part of the spectrum?",
+      "options": ["Gamma-ray", "Infrared", "Radio", "X-ray"],
+      "answer": 1,
+      "explanation": "The Mount Abu Infrared Observatory specializes in infrared astronomy, along with optical work."
+    },
+    {
+      "id": "physical-research-laboratory-q22",
+      "difficulty": "medium",
+      "q": "PRL's PARAS spectrograph, mounted on the Mount Abu telescope, is designed primarily to detect what?",
+      "options": ["Gravitational waves", "Solar neutrinos", "Cosmic microwave background", "Exoplanets via radial velocity"],
+      "answer": 3,
+      "explanation": "The PARAS (PRL Advanced Radial-velocity Abu-sky Search) spectrograph is used to discover and characterize exoplanets."
+    },
+    {
+      "id": "physical-research-laboratory-q23",
+      "difficulty": "hard",
+      "q": "Using the PARAS instrument, PRL scientists announced the discovery of an exoplanet around which star, a notable Indian exoplanet detection?",
+      "options": ["HD 209458", "K2-236 / EPIC 211945201", "51 Pegasi", "TRAPPIST-1"],
+      "answer": 1,
+      "explanation": "In 2018 PRL announced the discovery of the sub-Saturn exoplanet K2-236b (around EPIC 211945201) using the PARAS spectrograph."
+    },
+    {
+      "id": "physical-research-laboratory-q24",
+      "difficulty": "hard",
+      "q": "Devendra Lal, a celebrated PRL scientist and later director, was internationally renowned for pioneering work in which area?",
+      "options": ["Cosmogenic nuclides and isotope geophysics", "Quantum field theory", "Semiconductor lasers", "Plasma confinement"],
+      "answer": 0,
+      "explanation": "Devendra Lal was a world authority on cosmic-ray-produced (cosmogenic) nuclides and their use in Earth and ocean sciences."
+    },
+    {
+      "id": "physical-research-laboratory-q25",
+      "difficulty": "hard",
+      "q": "K. R. Ramanathan, PRL's first director, made early-career contributions to the study of which atmospheric phenomenon, related to C. V. Raman's work?",
+      "options": ["Auroral displays", "Molecular scattering of light in the atmosphere", "Lightning discharge", "Cloud microphysics"],
+      "answer": 1,
+      "explanation": "Ramanathan worked on molecular scattering of light and atmospheric ozone, linking to Raman's scattering research."
+    },
+    {
+      "id": "physical-research-laboratory-q26",
+      "difficulty": "hard",
+      "q": "PRL maintains a noble-gas and isotope laboratory used in meteorite studies. Analysis of meteorites at PRL primarily helps reconstruct what?",
+      "options": ["Future climate forecasts", "The early history and age of the Solar System", "Terrestrial earthquake prediction", "Ocean current circulation"],
+      "answer": 1,
+      "explanation": "PRL's noble-gas and isotope work on meteorites helps determine ages and processes from the early Solar System."
+    },
+    {
+      "id": "physical-research-laboratory-q27",
+      "difficulty": "hard",
+      "q": "Besides Mount Abu, PRL operates a high-altitude research facility for atmospheric and astronomical studies at Udaipur, known by what name?",
+      "options": ["Udaipur Solar Observatory", "Udaipur Radio Array", "Udaipur Gamma-ray Telescope", "Udaipur Neutrino Detector"],
+      "answer": 0,
+      "explanation": "The Udaipur Solar Observatory, associated with PRL's solar physics research, studies the Sun from a lake-island site."
+    },
+    {
+      "id": "physical-research-laboratory-q28",
+      "difficulty": "hard",
+      "q": "Vikram Sarabhai, who founded PRL, also concurrently chaired which national commission at the time of his death in 1971?",
+      "options": ["University Grants Commission", "Atomic Energy Commission of India", "Planning Commission", "Election Commission"],
+      "answer": 1,
+      "explanation": "Sarabhai succeeded Homi Bhabha as Chairman of the Atomic Energy Commission of India, a post he held until his death in 1971."
+    },
+    {
+      "id": "physical-research-laboratory-q29",
+      "difficulty": "hard",
+      "q": "PRL contributed scientific payloads and analysis to India's first lunar mission. Which mission was this?",
+      "options": ["Aryabhata", "Chandrayaan-1", "Mangalyaan (Mars Orbiter Mission)", "Astrosat"],
+      "answer": 1,
+      "explanation": "PRL contributed to Chandrayaan-1, India's first lunar mission, and continues to support planetary exploration efforts."
+    },
+    {
+      "id": "physical-research-laboratory-q30",
+      "difficulty": "hard",
+      "q": "The Mars Orbiter Mission carried an instrument with PRL involvement to study the Martian atmosphere. Which Martian gas, of astrobiological interest, was a key target of such atmospheric studies?",
+      "options": ["Helium", "Methane", "Neon", "Krypton"],
+      "answer": 1,
+      "explanation": "The Mars Orbiter Mission included a methane sensor; methane is of strong astrobiological interest, and PRL contributed to Martian atmospheric science."
+    }
+  ]
+}

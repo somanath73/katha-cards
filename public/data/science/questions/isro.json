@@ -1,0 +1,245 @@
+{
+  "cardId": "isro",
+  "questions": [
+    {
+      "id": "isro-q01",
+      "difficulty": "easy",
+      "q": "What does the abbreviation ISRO stand for?",
+      "options": ["Indian Satellite Research Office", "Indian Space Research Organisation", "International Space Resources Organisation", "Indian Space Rocketry Organisation"],
+      "answer": 1,
+      "explanation": "ISRO stands for the Indian Space Research Organisation, India's national space agency."
+    },
+    {
+      "id": "isro-q02",
+      "difficulty": "easy",
+      "q": "In which year was ISRO founded?",
+      "options": ["1947", "1958", "1975", "1969"],
+      "answer": 3,
+      "explanation": "ISRO was established in 1969, succeeding the earlier Indian National Committee for Space Research."
+    },
+    {
+      "id": "isro-q03",
+      "difficulty": "easy",
+      "q": "Which physicist is regarded as the founder and father of India's space programme and ISRO?",
+      "options": ["Vikram Sarabhai", "Homi Bhabha", "C. V. Raman", "Satish Dhawan"],
+      "answer": 0,
+      "explanation": "Vikram Sarabhai is widely regarded as the father of the Indian space programme and the founder of ISRO."
+    },
+    {
+      "id": "isro-q04",
+      "difficulty": "easy",
+      "q": "ISRO's reliable, workhorse rocket for launching satellites into polar orbit is known by which name?",
+      "options": ["GSLV", "SLV-3", "PSLV", "ASLV"],
+      "answer": 2,
+      "explanation": "The Polar Satellite Launch Vehicle (PSLV) is ISRO's dependable workhorse rocket."
+    },
+    {
+      "id": "isro-q05",
+      "difficulty": "easy",
+      "q": "What was the name of India's first satellite, built by ISRO and launched in 1975?",
+      "options": ["Rohini", "Bhaskara", "Aryabhata", "INSAT-1A"],
+      "answer": 2,
+      "explanation": "India's first satellite, named Aryabhata, was launched in 1975, marking the country's entry into space."
+    },
+    {
+      "id": "isro-q06",
+      "difficulty": "easy",
+      "q": "ISRO's series of missions to the Moon is collectively called by what name?",
+      "options": ["Mangalyaan", "Chandrayaan", "Gaganyaan", "Aditya"],
+      "answer": 1,
+      "explanation": "ISRO's lunar exploration programme is called Chandrayaan, meaning 'Moon craft' in Sanskrit."
+    },
+    {
+      "id": "isro-q07",
+      "difficulty": "easy",
+      "q": "ISRO is the space agency of which country?",
+      "options": ["China", "India", "Japan", "Indonesia"],
+      "answer": 1,
+      "explanation": "ISRO is the national space agency of India, headquartered in Bengaluru."
+    },
+    {
+      "id": "isro-q08",
+      "difficulty": "easy",
+      "q": "ISRO's Mars Orbiter Mission is popularly known by which nickname?",
+      "options": ["Mangalyaan", "Chandrayaan", "Aryabhata", "Rohini"],
+      "answer": 0,
+      "explanation": "The Mars Orbiter Mission is popularly known as Mangalyaan, meaning 'Mars craft'."
+    },
+    {
+      "id": "isro-q09",
+      "difficulty": "easy",
+      "q": "In which Indian city is ISRO's headquarters located?",
+      "options": ["New Delhi", "Mumbai", "Bengaluru", "Chennai"],
+      "answer": 2,
+      "explanation": "ISRO's headquarters is located in Bengaluru (Bangalore), Karnataka."
+    },
+    {
+      "id": "isro-q10",
+      "difficulty": "easy",
+      "q": "Which 2023 ISRO mission achieved a successful soft landing on the Moon?",
+      "options": ["Chandrayaan-1", "Chandrayaan-2", "Mangalyaan", "Chandrayaan-3"],
+      "answer": 3,
+      "explanation": "Chandrayaan-3 successfully soft-landed on the Moon in August 2023."
+    },
+    {
+      "id": "isro-q11",
+      "difficulty": "medium",
+      "q": "ISRO's main launch facility, the Satish Dhawan Space Centre, is located at which site?",
+      "options": ["Thumba", "Sriharikota", "Trombay", "Hassan"],
+      "answer": 1,
+      "explanation": "ISRO launches its rockets from the Satish Dhawan Space Centre at Sriharikota in Andhra Pradesh."
+    },
+    {
+      "id": "isro-q12",
+      "difficulty": "medium",
+      "q": "ISRO was created in 1969 by reorganising which earlier body, set up in 1962?",
+      "options": ["Department of Space", "INCOSPAR (Indian National Committee for Space Research)", "Physical Research Laboratory", "Space Commission"],
+      "answer": 1,
+      "explanation": "ISRO was formed in 1969 from INCOSPAR, the Indian National Committee for Space Research established in 1962."
+    },
+    {
+      "id": "isro-q13",
+      "difficulty": "medium",
+      "q": "Chandrayaan-1, launched in 2008, is famous for confirming the presence of what on the Moon?",
+      "options": ["Helium-3 deposits", "Water (and hydroxyl molecules)", "Active volcanoes", "A magnetic field"],
+      "answer": 1,
+      "explanation": "Chandrayaan-1's instruments confirmed the presence of water and hydroxyl molecules on the lunar surface."
+    },
+    {
+      "id": "isro-q14",
+      "difficulty": "medium",
+      "q": "What made ISRO's 2013-14 Mars Orbiter Mission especially remarkable in spaceflight history?",
+      "options": ["It carried a crew to Mars", "India reached Mars orbit on its first attempt", "It landed a rover on Mars", "It returned samples from Mars"],
+      "answer": 1,
+      "explanation": "Mangalyaan made India the first nation to reach Mars orbit on its very first attempt, and at remarkably low cost."
+    },
+    {
+      "id": "isro-q15",
+      "difficulty": "medium",
+      "q": "Which ISRO launch vehicle is notable for mastering an indigenous cryogenic upper-stage engine?",
+      "options": ["PSLV", "SLV-3", "GSLV", "ASLV"],
+      "answer": 2,
+      "explanation": "The Geosynchronous Satellite Launch Vehicle (GSLV) mastered India's difficult indigenous cryogenic engine."
+    },
+    {
+      "id": "isro-q16",
+      "difficulty": "medium",
+      "q": "In 2017, a single ISRO PSLV flight set a world record by launching how many satellites at once?",
+      "options": ["37 satellites", "68 satellites", "104 satellites", "150 satellites"],
+      "answer": 2,
+      "explanation": "In 2017 a PSLV launched 104 satellites in a single mission, a world record at the time."
+    },
+    {
+      "id": "isro-q17",
+      "difficulty": "medium",
+      "q": "What is the name of ISRO's planned human spaceflight programme to send astronauts into orbit?",
+      "options": ["Gaganyaan", "Aditya-L1", "Mangalyaan", "Vyommitra"],
+      "answer": 0,
+      "explanation": "Gaganyaan is ISRO's programme to send astronauts to orbit aboard an indigenous spacecraft."
+    },
+    {
+      "id": "isro-q18",
+      "difficulty": "medium",
+      "q": "ISRO's Aditya-L1 mission, launched in 2023, is designed to study which celestial body?",
+      "options": ["The Moon", "Mars", "The Sun", "Venus"],
+      "answer": 2,
+      "explanation": "Aditya-L1 is India's first dedicated solar observatory, sent to study the Sun from the L1 Lagrange point."
+    },
+    {
+      "id": "isro-q19",
+      "difficulty": "medium",
+      "q": "Chandrayaan-3's 2023 landing earned India which distinction at the Moon?",
+      "options": ["First crewed lunar landing", "First nation to land near the Moon's south pole", "First lunar sample return", "First far-side landing"],
+      "answer": 1,
+      "explanation": "Chandrayaan-3 made India the first nation to soft-land near the Moon's south pole."
+    },
+    {
+      "id": "isro-q20",
+      "difficulty": "medium",
+      "q": "India's first satellite launch vehicle, SLV-3, placed the Rohini satellite in orbit in 1980 under which project director?",
+      "options": ["U. R. Rao", "Satish Dhawan", "A. P. J. Abdul Kalam", "Vikram Sarabhai"],
+      "answer": 2,
+      "explanation": "A. P. J. Abdul Kalam was the project director of SLV-3, which launched the Rohini satellite in 1980."
+    },
+    {
+      "id": "isro-q21",
+      "difficulty": "medium",
+      "q": "Which ISRO mission's lander, Vikram, failed to make a soft landing in 2019, though its orbiter still studies the Moon?",
+      "options": ["Chandrayaan-1", "Chandrayaan-2", "Chandrayaan-3", "Mangalyaan"],
+      "answer": 1,
+      "explanation": "Chandrayaan-2's Vikram lander did not survive touchdown in 2019, but its orbiter continues to study the Moon."
+    },
+    {
+      "id": "isro-q22",
+      "difficulty": "medium",
+      "q": "ISRO functions under which Indian government department?",
+      "options": ["Department of Science and Technology", "Ministry of Defence", "Department of Atomic Energy", "Department of Space"],
+      "answer": 3,
+      "explanation": "ISRO operates under the Department of Space, which reports directly to the Prime Minister of India."
+    },
+    {
+      "id": "isro-q23",
+      "difficulty": "hard",
+      "q": "Who was the first chairman of ISRO when it was established in 1969?",
+      "options": ["Satish Dhawan", "Vikram Sarabhai", "U. R. Rao", "K. Sivan"],
+      "answer": 1,
+      "explanation": "Vikram Sarabhai, who founded ISRO, served as its first chairman from 1969 until his death in 1971."
+    },
+    {
+      "id": "isro-q24",
+      "difficulty": "hard",
+      "q": "India's earliest sounding-rocket launches in the 1960s took place from a station near Thiruvananthapuram named after which location?",
+      "options": ["Sriharikota", "Thumba", "Balasore", "Hassan"],
+      "answer": 1,
+      "explanation": "The Thumba Equatorial Rocket Launching Station near Thiruvananthapuram hosted India's first sounding-rocket launches in 1963."
+    },
+    {
+      "id": "isro-q25",
+      "difficulty": "hard",
+      "q": "What is the name of ISRO's heavy-lift launch vehicle, formerly called the GSLV Mk III?",
+      "options": ["LVM3", "PSLV-XL", "SSLV", "RLV-TD"],
+      "answer": 0,
+      "explanation": "The heavy-lift GSLV Mk III was renamed LVM3 (Launch Vehicle Mark-3), used for missions like Chandrayaan-3."
+    },
+    {
+      "id": "isro-q26",
+      "difficulty": "hard",
+      "q": "Aditya-L1 was placed near the L1 Lagrange point. Roughly how far from Earth is this point, toward the Sun?",
+      "options": ["About 36,000 km", "About 1.5 million km", "About 384,000 km", "About 150 million km"],
+      "answer": 1,
+      "explanation": "The Sun-Earth L1 Lagrange point lies about 1.5 million kilometres from Earth in the direction of the Sun."
+    },
+    {
+      "id": "isro-q27",
+      "difficulty": "hard",
+      "q": "Which Indian regional satellite navigation system is operated by ISRO?",
+      "options": ["GPS", "NavIC (IRNSS)", "GLONASS", "Galileo"],
+      "answer": 1,
+      "explanation": "ISRO operates NavIC, the Indian Regional Navigation Satellite System (IRNSS)."
+    },
+    {
+      "id": "isro-q28",
+      "difficulty": "hard",
+      "q": "Who chaired ISRO during the Chandrayaan-2 mission and the lead-up to Chandrayaan-3 planning?",
+      "options": ["K. Sivan", "S. Somanath", "A. S. Kiran Kumar", "G. Madhavan Nair"],
+      "answer": 0,
+      "explanation": "K. Sivan was the ISRO chairman during the Chandrayaan-2 mission in 2019."
+    },
+    {
+      "id": "isro-q29",
+      "difficulty": "hard",
+      "q": "ISRO's master control facility for geostationary satellites and a deep space network are located in which Karnataka towns?",
+      "options": ["Hassan and Byalalu", "Sriharikota and Mahendragiri", "Thumba and Trombay", "Ahmedabad and Dehradun"],
+      "answer": 0,
+      "explanation": "ISRO's Master Control Facility is at Hassan, and its Deep Space Network antenna is at Byalalu near Bengaluru."
+    },
+    {
+      "id": "isro-q30",
+      "difficulty": "hard",
+      "q": "ISRO launched a small, low-cost rocket aimed at the small-satellite market called by which abbreviation?",
+      "options": ["RLV", "SSLV", "ASLV", "ULV"],
+      "answer": 1,
+      "explanation": "The Small Satellite Launch Vehicle (SSLV) is ISRO's low-cost rocket designed for the small-satellite market."
+    }
+  ]
+}

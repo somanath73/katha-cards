@@ -1,0 +1,245 @@
+{
+  "cardId": "ramanujan-1729",
+  "questions": [
+    {
+      "id": "ramanujan-1729-q01",
+      "difficulty": "easy",
+      "q": "Which Indian mathematician is famously associated with the number 1729?",
+      "options": ["Srinivasa Ramanujan", "C. V. Raman", "Aryabhata", "Satyendra Nath Bose"],
+      "answer": 0,
+      "explanation": "Srinivasa Ramanujan instantly recognized 1729's special property, giving rise to the famous anecdote."
+    },
+    {
+      "id": "ramanujan-1729-q02",
+      "difficulty": "easy",
+      "q": "What is special about the number 1729?",
+      "options": ["It is a perfect square", "It is the largest known Fibonacci number", "It is a prime number", "It is the smallest number expressible as a sum of two cubes in two different ways"],
+      "answer": 3,
+      "explanation": "1729 is the smallest positive integer that can be written as a sum of two positive cubes in two distinct ways."
+    },
+    {
+      "id": "ramanujan-1729-q03",
+      "difficulty": "easy",
+      "q": "The number 1729 is commonly known by what nickname?",
+      "options": ["The golden number", "The Euler number", "The Hardy-Ramanujan number", "The magic constant"],
+      "answer": 2,
+      "explanation": "It is called the Hardy-Ramanujan number after the famous conversation between the two mathematicians."
+    },
+    {
+      "id": "ramanujan-1729-q04",
+      "difficulty": "easy",
+      "q": "Which British mathematician was visiting Ramanujan when the 1729 anecdote took place?",
+      "options": ["Isaac Newton", "Bertrand Russell", "G. H. Hardy", "Alan Turing"],
+      "answer": 2,
+      "explanation": "G. H. Hardy recounted arriving in a taxicab numbered 1729 and finding the number dull, prompting Ramanujan's reply."
+    },
+    {
+      "id": "ramanujan-1729-q05",
+      "difficulty": "easy",
+      "q": "Because of the taxicab in the famous story, numbers like 1729 are also called what?",
+      "options": ["Taxicab numbers", "Bus numbers", "Train numbers", "Carriage numbers"],
+      "answer": 0,
+      "explanation": "Numbers expressible as a sum of two cubes in multiple ways are known as taxicab numbers, after Hardy's taxi."
+    },
+    {
+      "id": "ramanujan-1729-q06",
+      "difficulty": "easy",
+      "q": "Ramanujan, associated with 1729, was a mathematician from which country?",
+      "options": ["England", "Germany", "France", "India"],
+      "answer": 3,
+      "explanation": "Srinivasa Ramanujan was an Indian mathematician, born in Erode in Tamil Nadu."
+    },
+    {
+      "id": "ramanujan-1729-q07",
+      "difficulty": "easy",
+      "q": "In the famous story, why did Hardy say the number 1729 seemed uninteresting?",
+      "options": ["It was too large", "It seemed a rather dull number with no obvious special property", "It was negative", "It was a fraction"],
+      "answer": 1,
+      "explanation": "Hardy remarked that 1729 seemed a dull number, hoping it was not an unfavourable omen."
+    },
+    {
+      "id": "ramanujan-1729-q08",
+      "difficulty": "easy",
+      "q": "The operation central to the property of 1729 involves adding two of what?",
+      "options": ["Squares", "Factorials", "Cubes", "Primes"],
+      "answer": 2,
+      "explanation": "1729 is famous as a sum of two cubes expressible in two different ways."
+    },
+    {
+      "id": "ramanujan-1729-q09",
+      "difficulty": "easy",
+      "q": "At which English university did the Hardy-Ramanujan collaboration mainly take place?",
+      "options": ["Oxford", "Edinburgh", "Manchester", "Cambridge"],
+      "answer": 3,
+      "explanation": "Ramanujan worked with Hardy at the University of Cambridge, primarily at Trinity College."
+    },
+    {
+      "id": "ramanujan-1729-q10",
+      "difficulty": "easy",
+      "q": "The number 1729 is most closely connected to which branch of mathematics?",
+      "options": ["Number theory", "Calculus", "Statistics", "Geometry"],
+      "answer": 0,
+      "explanation": "The property of being a sum of two cubes in multiple ways belongs to number theory."
+    },
+    {
+      "id": "ramanujan-1729-q11",
+      "difficulty": "medium",
+      "q": "Which pair of cubes sums to 1729 using the smaller cube roots?",
+      "options": ["1³ + 12³", "2³ + 11³", "3³ + 10³", "5³ + 9³"],
+      "answer": 0,
+      "explanation": "1729 = 1³ + 12³ = 1 + 1728, one of its two distinct cube representations."
+    },
+    {
+      "id": "ramanujan-1729-q12",
+      "difficulty": "medium",
+      "q": "Which is the second pair of cubes that also sums to 1729?",
+      "options": ["6³ + 11³", "4³ + 12³", "7³ + 10³", "9³ + 10³"],
+      "answer": 3,
+      "explanation": "1729 = 9³ + 10³ = 729 + 1000, the second of its two distinct representations."
+    },
+    {
+      "id": "ramanujan-1729-q13",
+      "difficulty": "medium",
+      "q": "In what year did the famous 1729 hospital conversation between Hardy and Ramanujan reportedly occur?",
+      "options": ["Around 1900", "Around 1919", "Around 1935", "Around 1950"],
+      "answer": 1,
+      "explanation": "Hardy's account places the visit around 1918-1919, while Ramanujan was ill in a nursing home near London."
+    },
+    {
+      "id": "ramanujan-1729-q14",
+      "difficulty": "medium",
+      "q": "The general numbers expressible as a sum of two positive cubes in n different ways are denoted Ta(n). What is Ta(2)?",
+      "options": ["1729", "4104", "13832", "91"],
+      "answer": 0,
+      "explanation": "Ta(2) = 1729 is the smallest number expressible as a sum of two positive cubes in two ways."
+    },
+    {
+      "id": "ramanujan-1729-q15",
+      "difficulty": "medium",
+      "q": "What was the mathematical specialty for which Ramanujan is most renowned?",
+      "options": ["Differential geometry", "Mathematical logic", "Number theory and infinite series", "Fluid dynamics"],
+      "answer": 2,
+      "explanation": "Ramanujan made profound contributions to number theory, infinite series, continued fractions and partitions."
+    },
+    {
+      "id": "ramanujan-1729-q16",
+      "difficulty": "medium",
+      "q": "Which honour did Ramanujan receive in 1918, making him one of the youngest to be so elected at the time?",
+      "options": ["Nobel Prize in Physics", "Fields Medal", "Knighthood", "Fellowship of the Royal Society (FRS)"],
+      "answer": 3,
+      "explanation": "Ramanujan was elected a Fellow of the Royal Society in 1918 for his work in elliptic functions and number theory."
+    },
+    {
+      "id": "ramanujan-1729-q17",
+      "difficulty": "medium",
+      "q": "In which Indian city was Ramanujan working as a clerk before Hardy invited him to Cambridge?",
+      "options": ["Kolkata", "Delhi", "Madras (Chennai)", "Mumbai"],
+      "answer": 2,
+      "explanation": "Ramanujan worked at the Madras Port Trust before his correspondence with Hardy led to Cambridge."
+    },
+    {
+      "id": "ramanujan-1729-q18",
+      "difficulty": "medium",
+      "q": "1729 is also a Harshad number, meaning it is divisible by what?",
+      "options": ["Its first digit", "The product of its digits", "The sum of its digits", "The number of its digits"],
+      "answer": 2,
+      "explanation": "A Harshad number is divisible by the sum of its digits; 1+7+2+9 = 19, and 1729 = 19 × 91."
+    },
+    {
+      "id": "ramanujan-1729-q19",
+      "difficulty": "medium",
+      "q": "The next taxicab number after 1729, expressible as a sum of two positive cubes in two ways, is which of these?",
+      "options": ["2197", "4104", "3375", "5832"],
+      "answer": 1,
+      "explanation": "4104 = 2³ + 16³ = 9³ + 15³ is the second-smallest such number after 1729."
+    },
+    {
+      "id": "ramanujan-1729-q20",
+      "difficulty": "medium",
+      "q": "Ramanujan's date of birth, 22 December, is now commemorated in India as which day?",
+      "options": ["National Science Day", "Engineers' Day", "Teachers' Day", "National Mathematics Day"],
+      "answer": 3,
+      "explanation": "India observes National Mathematics Day on 22 December to mark Ramanujan's birth anniversary."
+    },
+    {
+      "id": "ramanujan-1729-q21",
+      "difficulty": "medium",
+      "q": "What is the prime factorization of 1729?",
+      "options": ["7 × 13 × 19", "3 × 11 × 53", "11 × 157", "29 × 59"],
+      "answer": 0,
+      "explanation": "1729 = 7 × 13 × 19, the product of three distinct primes."
+    },
+    {
+      "id": "ramanujan-1729-q22",
+      "difficulty": "medium",
+      "q": "Which 2015 biographical film about Ramanujan helped popularize the 1729 story to wider audiences?",
+      "options": ["A Beautiful Mind", "The Imitation Game", "Good Will Hunting", "The Man Who Knew Infinity"],
+      "answer": 3,
+      "explanation": "The Man Who Knew Infinity, based on Robert Kanigel's biography, dramatizes Ramanujan's life and the 1729 anecdote."
+    },
+    {
+      "id": "ramanujan-1729-q23",
+      "difficulty": "hard",
+      "q": "Long before 1729 became famous, the French mathematician who noted it as the smallest sum of two cubes in two ways (in 1657) was?",
+      "options": ["Pierre de Fermat", "Blaise Pascal", "René Descartes", "Bernard Frénicle de Bessy"],
+      "answer": 3,
+      "explanation": "Bernard Frénicle de Bessy recorded this property of 1729 in 1657, long before the Hardy-Ramanujan anecdote."
+    },
+    {
+      "id": "ramanujan-1729-q24",
+      "difficulty": "hard",
+      "q": "The sum of the digits of 1729 is 19, and 1729 = 19 × 91. What is special about the second factor, 91?",
+      "options": ["It is a prime number", "It is the digits of the digit-sum (19) written in reverse", "It is a perfect square", "It is itself a cube"],
+      "answer": 1,
+      "explanation": "1+7+2+9 = 19, and 1729 = 19 × 91; the factor 91 is simply the digits of 19 reversed."
+    },
+    {
+      "id": "ramanujan-1729-q25",
+      "difficulty": "hard",
+      "q": "1729 is a Carmichael number, a composite number that fools Fermat's primality test for every base coprime to it. For this reason a Carmichael number is also called an absolute what?",
+      "options": ["Absolute prime", "Absolute square", "Absolute pseudoprime", "Absolute composite"],
+      "answer": 2,
+      "explanation": "A Carmichael number such as 1729 is an absolute Fermat pseudoprime, passing Fermat's primality test for every base coprime to it."
+    },
+    {
+      "id": "ramanujan-1729-q26",
+      "difficulty": "hard",
+      "q": "The taxicab number Ta(3) = 87539319 is the smallest expressible as a sum of two positive cubes in how many distinct ways?",
+      "options": ["Two ways", "Three ways", "Four ways", "Five ways"],
+      "answer": 1,
+      "explanation": "By definition Ta(3) is the smallest number expressible as a sum of two positive cubes in three different ways."
+    },
+    {
+      "id": "ramanujan-1729-q27",
+      "difficulty": "hard",
+      "q": "Ramanujan reportedly hinted that 1729 relates to a near-counterexample of Fermat's Last Theorem because 1³ + 12³ is very close to which cube?",
+      "options": ["10³", "11³", "12³", "13³"],
+      "answer": 2,
+      "explanation": "12³ = 1728, just one less than 1729, illustrating how close 1³ + 12³ comes to another cube."
+    },
+    {
+      "id": "ramanujan-1729-q28",
+      "difficulty": "hard",
+      "q": "Generalizing the taxicab idea, numbers that are a sum of two cubes in n ways with the cubes allowed to be negative are called what?",
+      "options": ["Cabtaxi numbers", "Reverse taxicab numbers", "Negative cubes", "Anti-taxicab numbers"],
+      "answer": 0,
+      "explanation": "Cabtaxi numbers allow positive and negative cubes, and the smallest non-trivial cabtaxi number is 91."
+    },
+    {
+      "id": "ramanujan-1729-q29",
+      "difficulty": "hard",
+      "q": "Which mathematician rediscovered Ramanujan's 'lost notebook' in 1976, reviving interest in his unpublished work?",
+      "options": ["Bruce Berndt", "George Andrews", "John Littlewood", "Atle Selberg"],
+      "answer": 1,
+      "explanation": "George Andrews found Ramanujan's lost notebook in the Wren Library at Trinity College, Cambridge, in 1976."
+    },
+    {
+      "id": "ramanujan-1729-q30",
+      "difficulty": "hard",
+      "q": "At what young age did Ramanujan, the mathematician behind the 1729 story, die in 1920?",
+      "options": ["32", "45", "58", "27"],
+      "answer": 0,
+      "explanation": "Ramanujan died in 1920 at the age of 32, after returning to India from England in poor health."
+    }
+  ]
+}

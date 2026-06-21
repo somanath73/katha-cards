@@ -1,0 +1,245 @@
+{
+  "cardId": "pingala",
+  "questions": [
+    {
+      "id": "pingala-q01",
+      "difficulty": "easy",
+      "q": "Pingala is best remembered as an ancient scholar of which subject?",
+      "options": ["Marine biology", "Painting", "The study of poetic metre (prosody)", "Naval warfare"],
+      "answer": 2,
+      "explanation": "Pingala is renowned as the author of the Chandahshastra, the foundational ancient Indian treatise on prosody, the study of poetic metre."
+    },
+    {
+      "id": "pingala-q02",
+      "difficulty": "easy",
+      "q": "What is the name of the famous treatise attributed to Pingala?",
+      "options": ["Aryabhatiya", "Lilavati", "Chandahshastra", "Brahmasphutasiddhanta"],
+      "answer": 2,
+      "explanation": "Pingala's work is the Chandahshastra (also called Chandah-sutra), a treatise on Sanskrit poetic metres."
+    },
+    {
+      "id": "pingala-q03",
+      "difficulty": "easy",
+      "q": "The Chandahshastra is a treatise dealing primarily with the metres of which language?",
+      "options": ["Tamil", "Persian", "Greek", "Sanskrit"],
+      "answer": 3,
+      "explanation": "The Chandahshastra analyses the metres of Sanskrit verse, the classical literary language of ancient India."
+    },
+    {
+      "id": "pingala-q04",
+      "difficulty": "easy",
+      "q": "Pingala's method of classifying syllables as either light or heavy is often described as an early form of which number system?",
+      "options": ["The Roman numeral system", "The binary system", "Calculus", "Logarithms"],
+      "answer": 1,
+      "explanation": "Pingala represented metres using two syllable types (laghu and guru), a scheme widely regarded as an early use of a binary system."
+    },
+    {
+      "id": "pingala-q05",
+      "difficulty": "easy",
+      "q": "In Pingala's analysis of metre, syllables are divided into how many basic categories?",
+      "options": ["Five", "Ten", "Two", "Three"],
+      "answer": 2,
+      "explanation": "Pingala classified syllables into just two kinds, light (laghu) and heavy (guru), the basis of his two-state system."
+    },
+    {
+      "id": "pingala-q06",
+      "difficulty": "easy",
+      "q": "Pingala's combinatorial arrays are seen as an early appearance of which famous triangle of binomial coefficients?",
+      "options": ["The Sierpinski triangle", "Pascal's triangle", "The Penrose triangle", "Euler's triangle"],
+      "answer": 1,
+      "explanation": "Pingala's Meru-prastara, an arrangement for counting syllable combinations, prefigures what the West calls Pascal's triangle."
+    },
+    {
+      "id": "pingala-q07",
+      "difficulty": "easy",
+      "q": "Which famous numerical sequence is connected to Pingala's work on counting metres of a given length?",
+      "options": ["The prime numbers", "The Fibonacci sequence", "The square numbers", "The triangular numbers"],
+      "answer": 1,
+      "explanation": "The counting of metres by syllable patterns in Pingala's tradition is linked to what is now called the Fibonacci sequence."
+    },
+    {
+      "id": "pingala-q08",
+      "difficulty": "easy",
+      "q": "Pingala's two syllable categories, laghu and guru, refer respectively to syllables that are:",
+      "options": ["Loud and soft", "Light and heavy", "First and last", "Sung and spoken"],
+      "answer": 1,
+      "explanation": "Laghu means light (short) and guru means heavy (long), the two states Pingala used to encode metres."
+    },
+    {
+      "id": "pingala-q09",
+      "difficulty": "easy",
+      "q": "The Chandahshastra is traditionally regarded as one of the auxiliary disciplines (Vedanga) associated with which body of texts?",
+      "options": ["The Puranas", "The Vedas", "The epics", "The law codes"],
+      "answer": 1,
+      "explanation": "Prosody (chandas) is one of the six Vedanga, the auxiliary sciences attached to the study of the Vedas."
+    },
+    {
+      "id": "pingala-q10",
+      "difficulty": "easy",
+      "q": "Pingala's reputation rests mainly on combining poetry with which other field?",
+      "options": ["Geography", "Sculpture", "Astrology of the planets", "Mathematics"],
+      "answer": 3,
+      "explanation": "Pingala is celebrated because his treatise on poetic metre employs mathematical ideas such as combinatorics and binary representation."
+    },
+    {
+      "id": "pingala-q11",
+      "difficulty": "medium",
+      "q": "Pingala's combinatorial methods address which type of mathematical problem?",
+      "options": ["Calculating planetary orbits", "Counting the number of possible metre patterns (combinatorics)", "Measuring the area of altars", "Finding square roots"],
+      "answer": 1,
+      "explanation": "By counting how many ways light and heavy syllables can be arranged, Pingala laid early foundations of combinatorics."
+    },
+    {
+      "id": "pingala-q12",
+      "difficulty": "medium",
+      "q": "Because each syllable in a metre can be one of two states, the number of distinct metres with n syllables follows which rule?",
+      "options": ["n squared", "2 raised to the power n", "n factorial", "n times 10"],
+      "answer": 1,
+      "explanation": "With two choices per syllable, an n-syllable metre has 2 to the power n possible patterns, a key result implicit in Pingala's system."
+    },
+    {
+      "id": "pingala-q13",
+      "difficulty": "medium",
+      "q": "The triangular array used by Pingala's commentators to count syllable combinations is traditionally called the:",
+      "options": ["Vimana-yantra", "Surya-siddhanta", "Meru-prastara", "Jyotisha-chakra"],
+      "answer": 2,
+      "explanation": "The Meru-prastara (Mount Meru staircase) is the Indian name for the triangle of binomial coefficients found in this tradition."
+    },
+    {
+      "id": "pingala-q14",
+      "difficulty": "medium",
+      "q": "Pingala's work is generally dated to roughly which era?",
+      "options": ["The medieval period around 1200 CE", "Around the last few centuries BCE", "The 18th century CE", "The 5th century CE"],
+      "answer": 1,
+      "explanation": "Scholars generally place Pingala in the centuries before the Common Era, making his binary and combinatorial ideas remarkably ancient."
+    },
+    {
+      "id": "pingala-q15",
+      "difficulty": "medium",
+      "q": "Which later mathematician wrote an influential commentary that elaborated the combinatorial mathematics in Pingala's Chandahshastra?",
+      "options": ["Halayudha", "Bhaskara I", "Varahamihira", "Panini"],
+      "answer": 0,
+      "explanation": "The 10th-century scholar Halayudha wrote the Mritasanjivani commentary, which made the Meru-prastara and combinatorics in Pingala explicit."
+    },
+    {
+      "id": "pingala-q16",
+      "difficulty": "medium",
+      "q": "The concept of using a special marker for an empty position (akin to zero) appears in the context of which scholar's prosody tradition?",
+      "options": ["Sushruta's", "Charaka's", "Pingala's", "Salim Ali's"],
+      "answer": 2,
+      "explanation": "The word 'shunya' (void/zero) appears as a marker in Pingala's tradition, linking his work to the early history of zero."
+    },
+    {
+      "id": "pingala-q17",
+      "difficulty": "medium",
+      "q": "Pingala devised an algorithm, often discussed by commentators, for finding the total number of metres possible across all syllable counts. This relates to summing which quantities?",
+      "options": ["The first n prime numbers", "Powers of two", "Perfect squares", "Cube roots"],
+      "answer": 1,
+      "explanation": "Counting all metres up to a length involves summing powers of two, reflecting the binary nature of Pingala's syllable encoding."
+    },
+    {
+      "id": "pingala-q18",
+      "difficulty": "medium",
+      "q": "In modern terms, Pingala's scheme of representing a metre as a sequence of light and heavy syllables is analogous to representing a number using which digits?",
+      "options": ["1 through 9", "0 and 1", "Roman letters", "0 through 9"],
+      "answer": 1,
+      "explanation": "Light and heavy syllables map naturally onto the two digits 0 and 1, which is why the system is seen as binary."
+    },
+    {
+      "id": "pingala-q19",
+      "difficulty": "medium",
+      "q": "Pingala's Chandahshastra introduces a systematic set of procedures called pratyaya for enumerating metres. These pratyaya are essentially:",
+      "options": ["Combinatorial algorithms", "Religious rituals", "Astronomical tables", "Musical scales"],
+      "answer": 0,
+      "explanation": "The pratyayas are step-by-step procedures (algorithms) for listing and counting metre patterns, an early algorithmic approach to combinatorics."
+    },
+    {
+      "id": "pingala-q20",
+      "difficulty": "medium",
+      "q": "Pingala is sometimes nicknamed which of the following in modern science writing?",
+      "options": ["The Father of Surgery", "The Birdman of India", "The First Binary Thinker", "The Master of Zero"],
+      "answer": 2,
+      "explanation": "Because his metre encoding uses two states, Pingala is popularly described as an early binary thinker."
+    },
+    {
+      "id": "pingala-q21",
+      "difficulty": "medium",
+      "q": "The Fibonacci-like numbers that arise in Pingala's tradition were described in Sanskrit prosody under the name:",
+      "options": ["Yajna-vidhi", "Ganita-sara", "Surya-prajnapti", "Maatra-meru (matrameru)"],
+      "answer": 3,
+      "explanation": "Sanskrit prosodists referred to the Fibonacci-type counting of moraic metres as the matrameru, linking the sequence to Pingala's lineage."
+    },
+    {
+      "id": "pingala-q22",
+      "difficulty": "medium",
+      "q": "Pingala's system counts metres based on the arrangement of syllables. This makes his work an early example of which branch of mathematics, alongside number representation?",
+      "options": ["Enumerative combinatorics", "Differential geometry", "Trigonometry", "Topology"],
+      "answer": 0,
+      "explanation": "Systematically counting arrangements of syllables is the essence of enumerative combinatorics, which Pingala pioneered."
+    },
+    {
+      "id": "pingala-q23",
+      "difficulty": "hard",
+      "q": "In Pingala's prosody, the metres counted by matra (moraic) length, where a heavy syllable equals two morae and a light syllable one, generate which sequence?",
+      "options": ["The factorial sequence", "The Catalan numbers", "The Fibonacci sequence", "The Mersenne primes"],
+      "answer": 2,
+      "explanation": "Counting moraic metres (where guru = 2 morae, laghu = 1) yields the recurrence f(n) = f(n-1) + f(n-2), i.e. the Fibonacci sequence."
+    },
+    {
+      "id": "pingala-q24",
+      "difficulty": "hard",
+      "q": "The pratyaya in Pingala's Chandahshastra that gives the total number of metres of a given length is most closely identified by which name?",
+      "options": ["Prastara", "Sankhya", "Nashta", "Adhvayoga"],
+      "answer": 1,
+      "explanation": "Sankhya is the pratyaya that yields the total count (number) of metres for a given number of syllables, equal to 2 to the power n."
+    },
+    {
+      "id": "pingala-q25",
+      "difficulty": "hard",
+      "q": "Pingala's pratyaya called 'prastara' performs which specific operation?",
+      "options": ["Listing all metre patterns in a fixed order (an enumeration table)", "Computing the cube of a number", "Measuring the altitude of a star", "Tuning a musical instrument"],
+      "answer": 0,
+      "explanation": "The prastara is the procedure for systematically laying out (tabulating) every possible metre pattern of a given length in order."
+    },
+    {
+      "id": "pingala-q26",
+      "difficulty": "hard",
+      "q": "Pingala's 'nashta' and 'uddishta' pratyayas allow one to convert between a metre's pattern and its ordinal position in the table. In computing terms these are equivalent to:",
+      "options": ["Calculating a logarithm", "Solving a quadratic equation", "Converting between a binary number and its decimal index", "Finding a least common multiple"],
+      "answer": 2,
+      "explanation": "Nashta finds the pattern given its row number and uddishta finds the row number given the pattern, exactly like binary-to-decimal conversion and back."
+    },
+    {
+      "id": "pingala-q27",
+      "difficulty": "hard",
+      "q": "Halayudha's commentary on Pingala, the Mritasanjivani, is significant in mathematics history because it gives an early explicit description of:",
+      "options": ["The heliocentric model", "The decimal logarithm", "The law of universal gravitation", "Pascal's triangle (the Meru-prastara) and its construction"],
+      "answer": 3,
+      "explanation": "Halayudha's commentary lays out the Meru-prastara, the triangle of binomial coefficients, centuries before Pascal."
+    },
+    {
+      "id": "pingala-q28",
+      "difficulty": "hard",
+      "q": "Pingala's method of representing a long syllable and a short syllable corresponds, in modern combinatorics, to compositions of an integer using which parts?",
+      "options": ["Parts of size 0 and 5", "Parts of size 1 and 2", "Only prime parts", "Only even parts"],
+      "answer": 1,
+      "explanation": "Moraic metres are compositions of an integer into parts of 1 (laghu) and 2 (guru), the classic setup that produces Fibonacci numbers."
+    },
+    {
+      "id": "pingala-q29",
+      "difficulty": "hard",
+      "q": "The connection between Pingala's matra-counting and the Fibonacci sequence is often credited in the Indian tradition to prosodists such as:",
+      "options": ["Aryabhata, Brahmagupta and Bhaskara", "Madhava, Nilakantha and Jyeshtadeva", "Virahanka, Gopala and Hemachandra", "Charaka, Sushruta and Vagbhata"],
+      "answer": 2,
+      "explanation": "Later prosodists Virahanka, Gopala and Hemachandra elaborated the Fibonacci-type recurrence rooted in Pingala's metrical counting."
+    },
+    {
+      "id": "pingala-q30",
+      "difficulty": "hard",
+      "q": "Within tradition Pingala is sometimes associated with the grammarian Panini as a relative; both are foundational because their works are admired today as forerunners of which modern field?",
+      "options": ["Formal systems in computer science", "Plate tectonics", "Quantum field theory", "Genetic engineering"],
+      "answer": 0,
+      "explanation": "Pingala's binary/combinatorial encoding and Panini's rule-based grammar are both celebrated as early formal systems that anticipate computer science."
+    }
+  ]
+}

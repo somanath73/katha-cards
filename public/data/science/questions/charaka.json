@@ -1,0 +1,245 @@
+{
+  "cardId": "charaka",
+  "questions": [
+    {
+      "id": "charaka-q01",
+      "difficulty": "easy",
+      "q": "Charaka is traditionally honoured with which title?",
+      "options": ["The Father of Surgery", "The Father of Medicine", "The Father of Astronomy", "The Father of Chemistry"],
+      "answer": 1,
+      "explanation": "Charaka is traditionally called the Father of Medicine for his foundational work on internal medicine in Ayurveda."
+    },
+    {
+      "id": "charaka-q02",
+      "difficulty": "easy",
+      "q": "Which famous medical text is associated with Charaka?",
+      "options": ["Sushruta Samhita", "Ashtanga Hridaya", "Charaka Samhita", "Brihat Samhita"],
+      "answer": 2,
+      "explanation": "The Charaka Samhita is the principal text attributed to Charaka and named after him."
+    },
+    {
+      "id": "charaka-q03",
+      "difficulty": "easy",
+      "q": "The Charaka Samhita is a foundational text of which system of medicine?",
+      "options": ["Unani", "Ayurveda", "Homeopathy", "Siddha"],
+      "answer": 1,
+      "explanation": "The Charaka Samhita is one of the foundational classical texts of Ayurveda, the traditional Indian system of medicine."
+    },
+    {
+      "id": "charaka-q04",
+      "difficulty": "easy",
+      "q": "What does the word 'Ayurveda', the system Charaka's text belongs to, broadly mean?",
+      "options": ["Science of stars", "Science of war", "Science of life", "Science of numbers"],
+      "answer": 2,
+      "explanation": "Ayurveda derives from 'ayur' (life) and 'veda' (knowledge or science), meaning the science or knowledge of life."
+    },
+    {
+      "id": "charaka-q05",
+      "difficulty": "easy",
+      "q": "Charaka's work focuses primarily on which branch of medicine?",
+      "options": ["Surgery (shalya)", "Internal medicine (kayachikitsa)", "Eye and ear treatment", "Dentistry"],
+      "answer": 1,
+      "explanation": "The Charaka Samhita emphasizes kayachikitsa, internal medicine, in contrast to the surgical focus of the Sushruta Samhita."
+    },
+    {
+      "id": "charaka-q06",
+      "difficulty": "easy",
+      "q": "Charaka is most often paired and contrasted with which other ancient Indian medical author?",
+      "options": ["Sushruta", "Aryabhata", "Kanada", "Panini"],
+      "answer": 0,
+      "explanation": "Charaka, the master of internal medicine, is classically paired with Sushruta, the master of surgery."
+    },
+    {
+      "id": "charaka-q07",
+      "difficulty": "easy",
+      "q": "The Charaka Samhita is written mainly in which classical language?",
+      "options": ["Pali", "Tamil", "Sanskrit", "Persian"],
+      "answer": 2,
+      "explanation": "Like other classical Ayurvedic treatises, the Charaka Samhita is composed in Sanskrit."
+    },
+    {
+      "id": "charaka-q08",
+      "difficulty": "easy",
+      "q": "In Ayurveda as set out in the Charaka Samhita, the three fundamental bodily humours are called the:",
+      "options": ["Gunas", "Doshas", "Chakras", "Vedas"],
+      "answer": 1,
+      "explanation": "Ayurveda is built around three doshas, the bodily humours whose balance is central to Charaka's medicine."
+    },
+    {
+      "id": "charaka-q09",
+      "difficulty": "easy",
+      "q": "Which of the following is NOT one of the three doshas described in classical Ayurveda?",
+      "options": ["Vata", "Pitta", "Kapha", "Soma"],
+      "answer": 3,
+      "explanation": "The three doshas are Vata, Pitta and Kapha; 'Soma' is not one of them."
+    },
+    {
+      "id": "charaka-q10",
+      "difficulty": "easy",
+      "q": "Besides diagnosis and treatment, the Charaka Samhita is also noted for discussing which area?",
+      "options": ["Naval navigation", "Temple architecture", "Coinage", "Medical ethics and the conduct of physicians"],
+      "answer": 3,
+      "explanation": "The Charaka Samhita devotes attention to the ethics and duties of the physician, an early code of medical conduct."
+    },
+    {
+      "id": "charaka-q11",
+      "difficulty": "medium",
+      "q": "Charaka is believed to have lived and worked roughly in which broad period?",
+      "options": ["Around the 15th century CE", "Around the 2nd century BCE to 2nd century CE", "Around the 8th century BCE", "Around the 10th century CE"],
+      "answer": 1,
+      "explanation": "Charaka is generally dated to roughly the 2nd century BCE through the early centuries CE, though precise dates are uncertain."
+    },
+    {
+      "id": "charaka-q12",
+      "difficulty": "medium",
+      "q": "The Charaka Samhita is regarded as a redaction and expansion of an earlier work attributed to whom?",
+      "options": ["Vagbhata", "Atreya (Punarvasu Atreya)", "Nagarjuna", "Bhela"],
+      "answer": 1,
+      "explanation": "Tradition holds that Charaka redacted teachings of Agnivesha, which derived from the sage Atreya (Punarvasu Atreya)."
+    },
+    {
+      "id": "charaka-q13",
+      "difficulty": "medium",
+      "q": "Whose earlier compendium (the Agnivesha Tantra) is said to have been revised by Charaka into the Charaka Samhita?",
+      "options": ["Agnivesha", "Dridhabala", "Sushruta", "Vagbhata"],
+      "answer": 0,
+      "explanation": "Charaka is said to have redacted the Agnivesha Tantra, the work of Atreya's pupil Agnivesha."
+    },
+    {
+      "id": "charaka-q14",
+      "difficulty": "medium",
+      "q": "Later portions of the surviving Charaka Samhita that had been lost are traditionally credited to which scholar who restored them?",
+      "options": ["Dridhabala", "Charaka himself", "Madhava", "Vagbhata"],
+      "answer": 0,
+      "explanation": "The scholar Dridhabala is traditionally credited with restoring and completing missing sections of the Charaka Samhita."
+    },
+    {
+      "id": "charaka-q15",
+      "difficulty": "medium",
+      "q": "The Charaka Samhita, Sushruta Samhita and the works of Vagbhata together form which celebrated triad of Ayurveda?",
+      "options": ["Trisutra", "Brihat-trayi (the Great Triad)", "Tridosha", "Triphala"],
+      "answer": 1,
+      "explanation": "These three classical texts are known as the Brihat-trayi, the 'Great Triad' of Ayurvedic literature."
+    },
+    {
+      "id": "charaka-q16",
+      "difficulty": "medium",
+      "q": "Roughly how many major sections (sthanas) is the Charaka Samhita organized into?",
+      "options": ["Three", "Five", "Eight", "Twelve"],
+      "answer": 2,
+      "explanation": "The Charaka Samhita is divided into eight sthanas (sections), such as Sutrasthana, Nidanasthana and Chikitsasthana."
+    },
+    {
+      "id": "charaka-q17",
+      "difficulty": "medium",
+      "q": "The Charaka Samhita gives detailed attention to which physiological process as central to health?",
+      "options": ["Blood circulation through the heart", "Nerve conduction speed", "Digestion and metabolism (agni)", "Cellular mitosis"],
+      "answer": 2,
+      "explanation": "Charaka emphasizes 'agni', the digestive and metabolic fire, treating proper digestion as fundamental to health."
+    },
+    {
+      "id": "charaka-q18",
+      "difficulty": "medium",
+      "q": "Which Charaka Samhita section name corresponds to the part dealing chiefly with treatment of diseases?",
+      "options": ["Sharirasthana", "Indriyasthana", "Vimanasthana", "Chikitsasthana"],
+      "answer": 3,
+      "explanation": "The Chikitsasthana is the section of the Charaka Samhita devoted mainly to therapeutics and the treatment of diseases."
+    },
+    {
+      "id": "charaka-q19",
+      "difficulty": "medium",
+      "q": "Which of these concepts is strongly emphasized in the Charaka Samhita as key to maintaining health?",
+      "options": ["Strict avoidance of all plant remedies", "Balance of the doshas through diet and lifestyle", "Reliance on surgery for most ailments", "Worship as the sole cure"],
+      "answer": 1,
+      "explanation": "Charaka stresses keeping the doshas in balance through diet, regimen and lifestyle as the basis of health."
+    },
+    {
+      "id": "charaka-q20",
+      "difficulty": "medium",
+      "q": "The Charaka Samhita is notable for its early discussion of which preventive idea?",
+      "options": ["Mendelian genetics", "Vaccination with weakened viruses", "Maintaining the body's resistance to disease (the concept of immunity, bala/vyadhikshamatva)", "Antibiotic resistance"],
+      "answer": 2,
+      "explanation": "Charaka discusses the body's natural resistance to disease, an early conceptual treatment of what we would call immunity."
+    },
+    {
+      "id": "charaka-q21",
+      "difficulty": "medium",
+      "q": "The Charaka Samhita was later translated into which language, helping spread Indian medicine westward in the medieval period?",
+      "options": ["Greek and Latin only", "Arabic (and Persian)", "Chinese only", "Old English"],
+      "answer": 1,
+      "explanation": "The Charaka Samhita was translated into Arabic and Persian, influencing medieval Islamic and later Western medicine."
+    },
+    {
+      "id": "charaka-q22",
+      "difficulty": "medium",
+      "q": "According to tradition associated with the Charaka Samhita, the science of Ayurveda was passed down beginning from which divine source?",
+      "options": ["Indra alone", "Brahma, then transmitted through sages", "Surya the Sun god alone", "Yama, god of death"],
+      "answer": 1,
+      "explanation": "Ayurvedic tradition traces the knowledge to Brahma, transmitted through a lineage of gods and sages to human teachers."
+    },
+    {
+      "id": "charaka-q23",
+      "difficulty": "hard",
+      "q": "By tradition, Charaka is sometimes associated with the court of which dynasty's ruler?",
+      "options": ["The Maurya emperors", "The Kushan ruler Kanishka", "The Gupta emperor Chandragupta II", "The Chola kings"],
+      "answer": 1,
+      "explanation": "A later tradition links Charaka as a court physician to the Kushan emperor Kanishka, though this is not firmly established."
+    },
+    {
+      "id": "charaka-q24",
+      "difficulty": "hard",
+      "q": "In the Charaka Samhita's account of disease and treatment, which logical/diagnostic framework is emphasized?",
+      "options": ["Pure trial-and-error without reasoning", "Examination through means of knowledge such as perception, inference and authority", "Astrological charts as the only diagnosis", "Random selection of remedies"],
+      "answer": 1,
+      "explanation": "Charaka stresses systematic examination using pramanas like direct perception (pratyaksha), inference (anumana) and authoritative testimony."
+    },
+    {
+      "id": "charaka-q25",
+      "difficulty": "hard",
+      "q": "Which Charaka Samhita section, the Vimanasthana, is especially noted for discussing what?",
+      "options": ["The chemistry of metals", "Construction of temples", "Methods, measurement, ethics and a description of medical training/debate", "Tax administration"],
+      "answer": 2,
+      "explanation": "The Vimanasthana covers methodology, measurement, the ethics of practice and the training and conduct of physicians."
+    },
+    {
+      "id": "charaka-q26",
+      "difficulty": "hard",
+      "q": "The Charaka Samhita classifies the basic 'tastes' (rasa) used in therapy and diet into how many?",
+      "options": ["Three", "Four", "Six", "Ten"],
+      "answer": 2,
+      "explanation": "Ayurveda as in the Charaka Samhita recognizes six tastes (shad rasa): sweet, sour, salty, pungent, bitter and astringent."
+    },
+    {
+      "id": "charaka-q27",
+      "difficulty": "hard",
+      "q": "Charaka's text describes a fivefold purification therapy used to remove imbalances. What is this group called?",
+      "options": ["Rasayana", "Panchakarma", "Trimarma", "Snehana"],
+      "answer": 1,
+      "explanation": "Panchakarma is the set of five purification therapies described in classical Ayurveda for cleansing and rebalancing the body."
+    },
+    {
+      "id": "charaka-q28",
+      "difficulty": "hard",
+      "q": "The Charaka Samhita devotes a section to 'Rasayana'. What does Rasayana chiefly concern?",
+      "options": ["Setting fractured bones", "Removal of cataracts", "Rejuvenation, longevity and vitality", "Battlefield first aid"],
+      "answer": 2,
+      "explanation": "Rasayana is the branch dealing with rejuvenation, promotion of longevity, strength and vitality."
+    },
+    {
+      "id": "charaka-q29",
+      "difficulty": "hard",
+      "q": "Which statement best reflects the Charaka Samhita's overall approach to medicine?",
+      "options": ["Surgery as the only valid therapy", "Treatment based purely on supernatural exorcism", "Medicine identical to modern germ theory", "A holistic approach linking body, mind, diet and lifestyle"],
+      "answer": 3,
+      "explanation": "The Charaka Samhita takes a holistic view, integrating diet, lifestyle, mind and the balance of doshas in health and treatment."
+    },
+    {
+      "id": "charaka-q30",
+      "difficulty": "hard",
+      "q": "The classical scholarly tradition holds that the Charaka Samhita reached its surviving form through a chain of authorship. Which order best reflects that tradition?",
+      "options": ["Sushruta, then Vagbhata, then Charaka", "Agnivesha's compendium, redacted by Charaka, later restored by Dridhabala", "Dridhabala, then Atreya, then Agnivesha", "Vagbhata alone composed the whole text"],
+      "answer": 1,
+      "explanation": "Tradition holds that Agnivesha's compendium was redacted by Charaka and later partly restored and completed by Dridhabala."
+    }
+  ]
+}

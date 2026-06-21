@@ -1,0 +1,395 @@
+{
+  "cardId": "slv-3",
+  "questions": [
+    {
+      "id": "slv-3-q01",
+      "difficulty": "easy",
+      "q": "What was the SLV-3?",
+      "options": [
+        "India's first nuclear reactor",
+        "India's first satellite launch vehicle",
+        "India's first supercomputer",
+        "India's first fighter jet"
+      ],
+      "answer": 1,
+      "explanation": "SLV-3 (Satellite Launch Vehicle-3) was India's first indigenous launch vehicle capable of placing a satellite into orbit."
+    },
+    {
+      "id": "slv-3-q02",
+      "difficulty": "easy",
+      "q": "Which Indian space agency developed the SLV-3?",
+      "options": [
+        "ISRO",
+        "DRDO",
+        "BARC",
+        "NASA"
+      ],
+      "answer": 0,
+      "explanation": "The SLV-3 was designed and built by the Indian Space Research Organisation (ISRO)."
+    },
+    {
+      "id": "slv-3-q03",
+      "difficulty": "easy",
+      "q": "Who was the project director of the SLV-3?",
+      "options": [
+        "Vikram Sarabhai",
+        "Satish Dhawan",
+        "A. P. J. Abdul Kalam",
+        "Homi Bhabha"
+      ],
+      "answer": 2,
+      "explanation": "A. P. J. Abdul Kalam served as the project director of the SLV-3 programme."
+    },
+    {
+      "id": "slv-3-q04",
+      "difficulty": "easy",
+      "q": "Which satellite did the SLV-3 successfully place into orbit in 1980?",
+      "options": [
+        "Aryabhata",
+        "Bhaskara",
+        "Rohini",
+        "INSAT-1A"
+      ],
+      "answer": 2,
+      "explanation": "The successful 1980 flight of the SLV-3 placed the Rohini (RS-1) satellite into orbit."
+    },
+    {
+      "id": "slv-3-q05",
+      "difficulty": "easy",
+      "q": "In which year did the SLV-3 achieve its first successful orbital launch?",
+      "options": [
+        "1975",
+        "1980",
+        "1984",
+        "1969"
+      ],
+      "answer": 1,
+      "explanation": "The SLV-3 successfully placed a satellite into orbit on 18 July 1980."
+    },
+    {
+      "id": "slv-3-q06",
+      "difficulty": "easy",
+      "q": "The success of the SLV-3 made India the member of which exclusive group of nations?",
+      "options": [
+        "Nations capable of launching satellites into orbit",
+        "Nations with nuclear weapons",
+        "Nations with aircraft carriers",
+        "Nations producing crude oil"
+      ],
+      "answer": 0,
+      "explanation": "With SLV-3's success, India joined the small group of nations able to launch a satellite using their own launch vehicle."
+    },
+    {
+      "id": "slv-3-q07",
+      "difficulty": "easy",
+      "q": "What type of propulsion did all stages of the SLV-3 use?",
+      "options": [
+        "Liquid propellant",
+        "Cryogenic propellant",
+        "Solid propellant",
+        "Nuclear thermal"
+      ],
+      "answer": 2,
+      "explanation": "The SLV-3 was an all-solid-propellant rocket, using solid fuel motors in all of its stages."
+    },
+    {
+      "id": "slv-3-q08",
+      "difficulty": "easy",
+      "q": "From which Indian launch site was the SLV-3 launched?",
+      "options": [
+        "Thumba, near Thiruvananthapuram",
+        "Sriharikota (SHAR)",
+        "Wheeler Island",
+        "Balasore"
+      ],
+      "answer": 1,
+      "explanation": "The SLV-3 was launched from the Sriharikota Range (SHAR) on the east coast of India."
+    },
+    {
+      "id": "slv-3-q09",
+      "difficulty": "easy",
+      "q": "How many stages did the SLV-3 launch vehicle have?",
+      "options": [
+        "Two stages",
+        "Four stages",
+        "Six stages",
+        "One stage"
+      ],
+      "answer": 1,
+      "explanation": "The SLV-3 was a four-stage rocket, all using solid propellant."
+    },
+    {
+      "id": "slv-3-q10",
+      "difficulty": "easy",
+      "q": "The SLV-3 was a milestone in which area of India's scientific effort?",
+      "options": [
+        "Agriculture",
+        "Medicine",
+        "Space and rocketry",
+        "Telecommunications software"
+      ],
+      "answer": 2,
+      "explanation": "The SLV-3 was a landmark achievement in India's space and rocketry programme."
+    },
+    {
+      "id": "slv-3-q11",
+      "difficulty": "medium",
+      "q": "On what date did the SLV-3 successfully orbit the Rohini satellite?",
+      "options": [
+        "18 July 1980",
+        "10 August 1979",
+        "19 April 1975",
+        "3 April 1984"
+      ],
+      "answer": 0,
+      "explanation": "The successful SLV-3 flight (designated SLV-3 E2) took place on 18 July 1980."
+    },
+    {
+      "id": "slv-3-q12",
+      "difficulty": "medium",
+      "q": "What happened during the first experimental flight of the SLV-3 in August 1979?",
+      "options": [
+        "It placed Rohini in a perfect orbit",
+        "It was a partial failure and did not achieve orbit",
+        "It exploded on the launch pad",
+        "It was cancelled before liftoff"
+      ],
+      "answer": 1,
+      "explanation": "The first SLV-3 flight on 10 August 1979 (SLV-3 E1) failed to reach orbit due to a second-stage control problem; the satellite fell into the sea."
+    },
+    {
+      "id": "slv-3-q13",
+      "difficulty": "medium",
+      "q": "Approximately how much payload could the SLV-3 carry to low Earth orbit?",
+      "options": [
+        "About 40 kg",
+        "About 1,000 kg",
+        "About 5,000 kg",
+        "About 250 kg"
+      ],
+      "answer": 0,
+      "explanation": "The SLV-3 could place a payload of roughly 40 kg into a low Earth orbit."
+    },
+    {
+      "id": "slv-3-q14",
+      "difficulty": "medium",
+      "q": "Roughly how tall was the SLV-3 launch vehicle?",
+      "options": [
+        "About 22 metres",
+        "About 8 metres",
+        "About 60 metres",
+        "About 100 metres"
+      ],
+      "answer": 0,
+      "explanation": "The SLV-3 stood about 22 metres tall and weighed around 17 tonnes at liftoff."
+    },
+    {
+      "id": "slv-3-q15",
+      "difficulty": "medium",
+      "q": "Which earlier US rocket did the four-stage solid SLV-3 broadly resemble in configuration?",
+      "options": [
+        "The Saturn V",
+        "The Scout rocket",
+        "The Space Shuttle",
+        "The Atlas rocket"
+      ],
+      "answer": 1,
+      "explanation": "The SLV-3's four-stage, all-solid design was comparable in concept and class to the American Scout launch vehicle."
+    },
+    {
+      "id": "slv-3-q16",
+      "difficulty": "medium",
+      "q": "Who was the chairman of ISRO who oversaw the SLV-3 programme to its success?",
+      "options": [
+        "U. R. Rao",
+        "Satish Dhawan",
+        "K. Sivan",
+        "S. Somanath"
+      ],
+      "answer": 1,
+      "explanation": "Satish Dhawan was the ISRO chairman during the SLV-3 development and its successful 1980 flight."
+    },
+    {
+      "id": "slv-3-q17",
+      "difficulty": "medium",
+      "q": "What was the primary purpose of building the SLV-3?",
+      "options": [
+        "To carry astronauts into space",
+        "To demonstrate India's ability to launch its own satellites",
+        "To test long-range ballistic missiles only",
+        "To land a probe on the Moon"
+      ],
+      "answer": 1,
+      "explanation": "The SLV-3's main goal was to develop and prove India's indigenous capability to place satellites into orbit."
+    },
+    {
+      "id": "slv-3-q18",
+      "difficulty": "medium",
+      "q": "Which series of launch vehicles directly built upon the technology proven by the SLV-3?",
+      "options": [
+        "The Agni missile series",
+        "The ASLV and later PSLV",
+        "The BrahMos series",
+        "The Tejas aircraft programme"
+      ],
+      "answer": 1,
+      "explanation": "Experience from the SLV-3 led to the Augmented Satellite Launch Vehicle (ASLV) and ultimately the PSLV."
+    },
+    {
+      "id": "slv-3-q19",
+      "difficulty": "medium",
+      "q": "The Rohini satellite launched by the SLV-3 was used mainly for what purpose?",
+      "options": [
+        "Crewed habitation",
+        "Experimental and scientific data collection",
+        "Direct-to-home television broadcasting",
+        "Deep-space exploration of Jupiter"
+      ],
+      "answer": 1,
+      "explanation": "The Rohini satellite was an experimental payload used to gather technical and scientific data and validate the launch."
+    },
+    {
+      "id": "slv-3-q20",
+      "difficulty": "medium",
+      "q": "How many flights did the SLV-3 programme conduct in total?",
+      "options": [
+        "Four flights",
+        "Ten flights",
+        "Two flights",
+        "Twenty flights"
+      ],
+      "answer": 0,
+      "explanation": "The SLV-3 programme conducted four flights between 1979 and 1983, the first being a failure and later ones succeeding."
+    },
+    {
+      "id": "slv-3-q21",
+      "difficulty": "medium",
+      "q": "Whose early vision of an indigenous Indian space programme set the stage for projects like the SLV-3?",
+      "options": [
+        "C. V. Raman",
+        "Vikram Sarabhai",
+        "Meghnad Saha",
+        "S. N. Bose"
+      ],
+      "answer": 1,
+      "explanation": "Vikram Sarabhai, the founder of ISRO, laid the foundations for India's space programme that produced the SLV-3."
+    },
+    {
+      "id": "slv-3-q22",
+      "difficulty": "medium",
+      "q": "What does the abbreviation 'SLV' stand for?",
+      "options": [
+        "Solid Launch Vehicle",
+        "Satellite Launch Vehicle",
+        "Space Lift Vehicle",
+        "Strategic Launch Vector"
+      ],
+      "answer": 1,
+      "explanation": "SLV stands for Satellite Launch Vehicle, indicating its purpose of orbiting satellites."
+    },
+    {
+      "id": "slv-3-q23",
+      "difficulty": "hard",
+      "q": "What kind of orbit did the SLV-3 place the Rohini RS-1 satellite into in 1980?",
+      "options": [
+        "Geostationary orbit",
+        "Low Earth orbit",
+        "A solar orbit",
+        "Lunar transfer orbit"
+      ],
+      "answer": 1,
+      "explanation": "The SLV-3 placed Rohini RS-1 into a low Earth orbit, the only regime it was designed to reach."
+    },
+    {
+      "id": "slv-3-q24",
+      "difficulty": "hard",
+      "q": "What was the chief technical reason the first SLV-3 flight (E1) in 1979 failed to reach orbit?",
+      "options": [
+        "A second-stage control and guidance failure",
+        "Engine ignition never occurred",
+        "The payload fairing failed to separate",
+        "The launch pad collapsed"
+      ],
+      "answer": 0,
+      "explanation": "The 1979 maiden flight failed because of a problem in the second-stage control system, causing the vehicle to plunge into the sea."
+    },
+    {
+      "id": "slv-3-q25",
+      "difficulty": "hard",
+      "q": "Approximately how much did the SLV-3 weigh at liftoff?",
+      "options": [
+        "About 17 tonnes",
+        "About 300 tonnes",
+        "About 2 tonnes",
+        "About 90 tonnes"
+      ],
+      "answer": 0,
+      "explanation": "The SLV-3 had a liftoff mass of roughly 17 tonnes, making it a comparatively small launch vehicle."
+    },
+    {
+      "id": "slv-3-q26",
+      "difficulty": "hard",
+      "q": "After the success of the SLV-3, which augmented vehicle added strap-on boosters to increase payload capacity?",
+      "options": [
+        "GSLV Mk III",
+        "ASLV",
+        "PSLV-XL",
+        "SLV-4"
+      ],
+      "answer": 1,
+      "explanation": "The Augmented Satellite Launch Vehicle (ASLV) added strap-on boosters to the SLV-3 core to lift heavier payloads."
+    },
+    {
+      "id": "slv-3-q27",
+      "difficulty": "hard",
+      "q": "Which two satellites were launched by the later, repeat flights of the SLV-3 after the 1980 success?",
+      "options": [
+        "Aryabhata and Bhaskara",
+        "Rohini RS-D1 and RS-D2",
+        "INSAT-1A and INSAT-1B",
+        "Cartosat and Oceansat"
+      ],
+      "answer": 1,
+      "explanation": "The later SLV-3 development flights in 1981 and 1983 carried the Rohini RS-D1 and RS-D2 satellites."
+    },
+    {
+      "id": "slv-3-q28",
+      "difficulty": "hard",
+      "q": "Which institution led the development of the SLV-3, where Abdul Kalam worked as project director?",
+      "options": [
+        "Vikram Sarabhai Space Centre (VSSC)",
+        "Bhabha Atomic Research Centre",
+        "Indian Statistical Institute",
+        "Physical Research Laboratory"
+      ],
+      "answer": 0,
+      "explanation": "The SLV-3 was developed primarily at the Vikram Sarabhai Space Centre (VSSC) in Thiruvananthapuram, where Kalam led the project."
+    },
+    {
+      "id": "slv-3-q29",
+      "difficulty": "hard",
+      "q": "The Rohini satellite series launched by the SLV-3 was named after what?",
+      "options": [
+        "A famous Indian river",
+        "A star or asterism in Indian tradition",
+        "A type of rocket fuel",
+        "An ancient Indian king"
+      ],
+      "answer": 1,
+      "explanation": "Rohini is the traditional Indian name for a star (in the constellation Taurus), reflecting ISRO's habit of naming satellites after celestial objects."
+    },
+    {
+      "id": "slv-3-q30",
+      "difficulty": "hard",
+      "q": "How did the SLV-3 experience benefit India's strategic missile programme?",
+      "options": [
+        "It had no connection to missiles",
+        "Its solid-rocket and guidance know-how informed later missile development",
+        "It directly became the Agni-V missile",
+        "It was converted into a fighter jet engine"
+      ],
+      "answer": 1,
+      "explanation": "The solid-propulsion and guidance expertise gained from the SLV-3 contributed to the technological base later used in India's missile programmes."
+    }
+  ]
+}

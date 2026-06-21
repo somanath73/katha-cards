@@ -1,0 +1,245 @@
+{
+  "cardId": "harish-chandra",
+  "questions": [
+    {
+      "id": "harish-chandra-q01",
+      "difficulty": "easy",
+      "q": "In which field of study did Harish-Chandra make his most celebrated contributions?",
+      "options": ["Chemistry", "Mathematics", "Geology", "Botany"],
+      "answer": 1,
+      "explanation": "Harish-Chandra was a mathematician renowned for his work in representation theory and harmonic analysis."
+    },
+    {
+      "id": "harish-chandra-q02",
+      "difficulty": "easy",
+      "q": "Harish-Chandra is regarded as one of the great architects of which area of mathematics?",
+      "options": ["Number theory", "Representation theory", "Knot theory", "Graph theory"],
+      "answer": 1,
+      "explanation": "He is celebrated as a founder of the modern representation theory of semisimple Lie groups."
+    },
+    {
+      "id": "harish-chandra-q03",
+      "difficulty": "easy",
+      "q": "Harish-Chandra was born in which country?",
+      "options": ["England", "United States", "France", "India"],
+      "answer": 3,
+      "explanation": "Harish-Chandra was born in 1923 in Kanpur, in present-day Uttar Pradesh, India."
+    },
+    {
+      "id": "harish-chandra-q04",
+      "difficulty": "easy",
+      "q": "Before turning fully to mathematics, Harish-Chandra was trained as a what?",
+      "options": ["Chemist", "Physicist", "Engineer", "Astronomer"],
+      "answer": 1,
+      "explanation": "He began his career as a theoretical physicist before switching to pure mathematics."
+    },
+    {
+      "id": "harish-chandra-q05",
+      "difficulty": "easy",
+      "q": "Harish-Chandra did his doctoral work under which famous physicist?",
+      "options": ["Albert Einstein", "Paul Dirac", "Niels Bohr", "Erwin Schrödinger"],
+      "answer": 1,
+      "explanation": "He earned his PhD at Cambridge under the supervision of Paul Dirac."
+    },
+    {
+      "id": "harish-chandra-q06",
+      "difficulty": "easy",
+      "q": "Much of Harish-Chandra's work concerns the harmonic analysis and representations of which kind of groups?",
+      "options": ["Finite groups", "Lie groups", "Permutation groups", "Abelian groups only"],
+      "answer": 1,
+      "explanation": "His central achievements lie in the harmonic analysis and representation theory of Lie groups."
+    },
+    {
+      "id": "harish-chandra-q07",
+      "difficulty": "easy",
+      "q": "At which prestigious institution did Harish-Chandra spend much of his career in the United States?",
+      "options": ["NASA", "Institute for Advanced Study, Princeton", "MIT Media Lab", "Bell Labs"],
+      "answer": 1,
+      "explanation": "He was a professor at the Institute for Advanced Study in Princeton, New Jersey."
+    },
+    {
+      "id": "harish-chandra-q08",
+      "difficulty": "easy",
+      "q": "In which century did Harish-Chandra carry out his major mathematical work?",
+      "options": ["18th century", "19th century", "20th century", "17th century"],
+      "answer": 2,
+      "explanation": "Harish-Chandra worked in the 20th century, with his peak contributions from the 1950s through the 1970s."
+    },
+    {
+      "id": "harish-chandra-q09",
+      "difficulty": "easy",
+      "q": "Harish-Chandra completed his PhD at which university?",
+      "options": ["University of Oxford", "Harvard University", "University of Cambridge", "University of Delhi"],
+      "answer": 2,
+      "explanation": "He received his doctorate from the University of Cambridge in 1947."
+    },
+    {
+      "id": "harish-chandra-q10",
+      "difficulty": "easy",
+      "q": "Harish-Chandra is best described as which kind of mathematician?",
+      "options": ["An applied statistician", "A pure mathematician", "A numerical analyst", "A computer scientist"],
+      "answer": 1,
+      "explanation": "He was a pure mathematician working on abstract structures in analysis and algebra."
+    },
+    {
+      "id": "harish-chandra-q11",
+      "difficulty": "medium",
+      "q": "Harish-Chandra completed his undergraduate and master's studies at which Indian institution?",
+      "options": ["University of Allahabad", "Indian Institute of Science", "University of Madras", "Banaras Hindu University"],
+      "answer": 0,
+      "explanation": "He studied at the University of Allahabad, earning his master's degree there before moving to Cambridge."
+    },
+    {
+      "id": "harish-chandra-q12",
+      "difficulty": "medium",
+      "q": "The 'Harish-Chandra isomorphism' describes the center of which mathematical object?",
+      "options": ["A group ring", "The universal enveloping algebra", "A polynomial ring over the integers", "A matrix algebra"],
+      "answer": 1,
+      "explanation": "The Harish-Chandra isomorphism identifies the center of the universal enveloping algebra of a semisimple Lie algebra."
+    },
+    {
+      "id": "harish-chandra-q13",
+      "difficulty": "medium",
+      "q": "Harish-Chandra was awarded the Cole Prize in Algebra by which organization?",
+      "options": ["Royal Society", "European Mathematical Society", "Indian National Science Academy", "American Mathematical Society"],
+      "answer": 3,
+      "explanation": "He received the American Mathematical Society's Cole Prize in Algebra in 1954."
+    },
+    {
+      "id": "harish-chandra-q14",
+      "difficulty": "medium",
+      "q": "Harish-Chandra developed a celebrated formula for the characters of representations of semisimple Lie groups. This is known as the:",
+      "options": ["Pythagorean theorem", "Euler product formula", "Harish-Chandra character formula", "Gauss-Bonnet formula"],
+      "answer": 2,
+      "explanation": "His work produced the Harish-Chandra character formula for representations of semisimple Lie groups."
+    },
+    {
+      "id": "harish-chandra-q15",
+      "difficulty": "medium",
+      "q": "Which physicist, who supervised Harish-Chandra, is famous for the equation describing the electron?",
+      "options": ["Paul Dirac", "Wolfgang Pauli", "Max Planck", "Richard Feynman"],
+      "answer": 0,
+      "explanation": "Paul Dirac, who supervised Harish-Chandra, is renowned for the Dirac equation of the electron."
+    },
+    {
+      "id": "harish-chandra-q16",
+      "difficulty": "medium",
+      "q": "Harish-Chandra was elected a Fellow of which famous British scientific society?",
+      "options": ["The Royal Geographical Society", "The Royal Society", "The Royal Society of Chemistry", "The British Academy"],
+      "answer": 1,
+      "explanation": "He was elected a Fellow of the Royal Society of London in 1973."
+    },
+    {
+      "id": "harish-chandra-q17",
+      "difficulty": "medium",
+      "q": "A major theme of Harish-Chandra's work was extending harmonic analysis from real numbers to which setting?",
+      "options": ["Quantum computers", "Non-commutative Lie groups", "Weather modeling", "Stock markets"],
+      "answer": 1,
+      "explanation": "He generalized classical Fourier (harmonic) analysis to non-commutative semisimple Lie groups."
+    },
+    {
+      "id": "harish-chandra-q18",
+      "difficulty": "medium",
+      "q": "Harish-Chandra's deep results on Lie groups became foundational for which influential modern research program in mathematics?",
+      "options": ["The Langlands program", "The Erlangen program", "The Bourbaki project", "The Hilbert program only"],
+      "answer": 0,
+      "explanation": "His representation theory of reductive groups is a cornerstone of the Langlands program in number theory and automorphic forms."
+    },
+    {
+      "id": "harish-chandra-q19",
+      "difficulty": "medium",
+      "q": "Harish-Chandra spent the final decades of his career mainly in which country?",
+      "options": ["Canada", "India", "United Kingdom", "United States"],
+      "answer": 3,
+      "explanation": "He settled in the United States, working at the Institute for Advanced Study in Princeton."
+    },
+    {
+      "id": "harish-chandra-q20",
+      "difficulty": "medium",
+      "q": "Harish-Chandra co-authored a seminal paper on arithmetic subgroups of algebraic groups with which mathematician at the Institute for Advanced Study?",
+      "options": ["John Nash", "Armand Borel", "Andrew Wiles", "Alan Turing"],
+      "answer": 1,
+      "explanation": "Harish-Chandra and Armand Borel co-authored an influential 1962 paper on arithmetic subgroups of algebraic groups."
+    },
+    {
+      "id": "harish-chandra-q21",
+      "difficulty": "medium",
+      "q": "In what decade was Harish-Chandra born?",
+      "options": ["1900s", "1910s", "1920s", "1940s"],
+      "answer": 2,
+      "explanation": "Harish-Chandra was born in 1923, in the 1920s."
+    },
+    {
+      "id": "harish-chandra-q22",
+      "difficulty": "medium",
+      "q": "A research institute in Allahabad (Prayagraj), India, devoted to mathematics and physics is named in his honor. It is the:",
+      "options": ["Tata Institute of Fundamental Research", "Raman Research Institute", "Harish-Chandra Research Institute", "Saha Institute"],
+      "answer": 2,
+      "explanation": "The Harish-Chandra Research Institute (HRI) in Prayagraj is named after him."
+    },
+    {
+      "id": "harish-chandra-q23",
+      "difficulty": "hard",
+      "q": "Harish-Chandra's celebrated 'Plancherel formula' for semisimple Lie groups gives an explicit decomposition of which space?",
+      "options": ["The space of integers", "The regular representation (square-integrable functions on the group)", "The set of prime numbers", "Euclidean three-space"],
+      "answer": 1,
+      "explanation": "His Plancherel formula explicitly decomposes the regular representation, i.e. L-squared functions on a semisimple Lie group."
+    },
+    {
+      "id": "harish-chandra-q24",
+      "difficulty": "hard",
+      "q": "Harish-Chandra introduced an important class of representations that occur discretely in the Plancherel decomposition. These are called:",
+      "options": ["Trivial representations", "Finite-dimensional representations only", "Permutation representations", "Discrete series representations"],
+      "answer": 3,
+      "explanation": "He classified the discrete series representations, which appear discretely (with positive measure as atoms) in the Plancherel formula."
+    },
+    {
+      "id": "harish-chandra-q25",
+      "difficulty": "hard",
+      "q": "Harish-Chandra's work showed that the characters of irreducible representations of a semisimple Lie group, though initially distributions, are actually represented by what kind of function?",
+      "options": ["A discontinuous step function", "A locally integrable function (analytic on the regular set)", "A constant function", "A purely imaginary function"],
+      "answer": 1,
+      "explanation": "He proved characters are locally integrable functions that are real-analytic on the regular semisimple elements."
+    },
+    {
+      "id": "harish-chandra-q26",
+      "difficulty": "hard",
+      "q": "Harish-Chandra introduced a key tool in his harmonic analysis for studying asymptotic behavior of matrix coefficients. It is widely known as the:",
+      "options": ["Riemann zeta function", "Harish-Chandra c-function", "Gamma function", "Bessel function"],
+      "answer": 1,
+      "explanation": "The Harish-Chandra c-function appears in the Plancherel measure and governs asymptotics of spherical functions."
+    },
+    {
+      "id": "harish-chandra-q27",
+      "difficulty": "hard",
+      "q": "Harish-Chandra defined a class of well-behaved functions central to his analysis on semisimple groups, now named after him. They are the:",
+      "options": ["Step functions", "Heaviside functions", "Harish-Chandra Schwartz functions", "Dirac delta functions"],
+      "answer": 2,
+      "explanation": "The Harish-Chandra Schwartz space provides the rapidly decreasing functions used to formulate the Plancherel theorem."
+    },
+    {
+      "id": "harish-chandra-q28",
+      "difficulty": "hard",
+      "q": "Harish-Chandra spent his earliest research period working under another notable physicist in India before going to Cambridge. Who was this mentor associated with cosmic-ray and theoretical physics?",
+      "options": ["C. V. Raman", "Satyendra Nath Bose", "Homi J. Bhabha", "Meghnad Saha"],
+      "answer": 2,
+      "explanation": "Early in his career he worked as a research assistant to Homi J. Bhabha in Bangalore."
+    },
+    {
+      "id": "harish-chandra-q29",
+      "difficulty": "hard",
+      "q": "The 'Harish-Chandra homomorphism' sends an element of the center of the enveloping algebra to a polynomial that is invariant under the action of which group?",
+      "options": ["The symmetric group of all permutations", "The Weyl group", "The general linear group over the reals", "The Galois group"],
+      "answer": 1,
+      "explanation": "The Harish-Chandra homomorphism maps onto the Weyl-group-invariant polynomials on the Cartan subalgebra."
+    },
+    {
+      "id": "harish-chandra-q30",
+      "difficulty": "hard",
+      "q": "Harish-Chandra's monumental program reduced the harmonic analysis of a general semisimple Lie group largely to understanding which special subclass of representations attached to cuspidal data?",
+      "options": ["One-dimensional representations only", "Representations of finite cyclic groups", "Only the trivial representation", "The discrete series of Levi (parabolic) subgroups"],
+      "answer": 3,
+      "explanation": "Via parabolic induction from cuspidal data, he reduced the full Plancherel formula to the discrete series of Levi subgroups."
+    }
+  ]
+}

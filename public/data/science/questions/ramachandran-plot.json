@@ -1,0 +1,245 @@
+{
+  "cardId": "ramachandran-plot",
+  "questions": [
+    {
+      "id": "ramachandran-plot-q01",
+      "difficulty": "easy",
+      "q": "The Ramachandran plot is a key diagram in which field of science?",
+      "options": ["Astronomy", "Structural biology", "Geology", "Meteorology"],
+      "answer": 1,
+      "explanation": "The Ramachandran plot is a foundational tool in structural biology for analysing protein conformations."
+    },
+    {
+      "id": "ramachandran-plot-q02",
+      "difficulty": "easy",
+      "q": "After whom is the Ramachandran plot named?",
+      "options": ["C. V. Raman", "S. Chandrasekhar", "G. N. Ramachandran", "Har Gobind Khorana"],
+      "answer": 2,
+      "explanation": "The plot is named after the Indian physicist and biophysicist Gopalasamudram Narayana Ramachandran."
+    },
+    {
+      "id": "ramachandran-plot-q03",
+      "difficulty": "easy",
+      "q": "G. N. Ramachandran was a scientist from which country?",
+      "options": ["India", "United States", "Germany", "Japan"],
+      "answer": 0,
+      "explanation": "G. N. Ramachandran was an Indian scientist, celebrated as a pioneer of molecular biophysics in India."
+    },
+    {
+      "id": "ramachandran-plot-q04",
+      "difficulty": "easy",
+      "q": "What kind of molecule does the Ramachandran plot primarily describe?",
+      "options": ["Lipids", "Carbohydrates", "Proteins", "Metals"],
+      "answer": 2,
+      "explanation": "The plot maps the allowed conformations of the backbone of protein molecules."
+    },
+    {
+      "id": "ramachandran-plot-q05",
+      "difficulty": "easy",
+      "q": "The Ramachandran plot maps the allowed twists of what part of a protein?",
+      "options": ["Its sugar coating", "Its backbone", "Its metal core", "Its lipid tail"],
+      "answer": 1,
+      "explanation": "The plot describes the allowed rotations of a protein's polypeptide backbone."
+    },
+    {
+      "id": "ramachandran-plot-q06",
+      "difficulty": "easy",
+      "q": "Proteins are built from chains of which building blocks, whose arrangement the plot studies?",
+      "options": ["Nucleotides", "Fatty acids", "Monosaccharides", "Amino acids"],
+      "answer": 3,
+      "explanation": "Proteins are polymers of amino acids, and the plot examines the backbone geometry of these chains."
+    },
+    {
+      "id": "ramachandran-plot-q07",
+      "difficulty": "easy",
+      "q": "What is the Ramachandran plot in form?",
+      "options": ["A chemical equation", "A two-dimensional diagram or graph", "A microscope", "A laboratory reagent"],
+      "answer": 1,
+      "explanation": "It is a two-dimensional plot of backbone dihedral angles used to visualise allowed conformations."
+    },
+    {
+      "id": "ramachandran-plot-q08",
+      "difficulty": "easy",
+      "q": "The Ramachandran plot helps determine which conformations of a protein are which?",
+      "options": ["Colourful or dull", "Sterically allowed or disallowed", "Hot or cold", "Magnetic or non-magnetic"],
+      "answer": 1,
+      "explanation": "It identifies which backbone angle combinations are sterically allowed versus disallowed due to atomic clashes."
+    },
+    {
+      "id": "ramachandran-plot-q09",
+      "difficulty": "easy",
+      "q": "G. N. Ramachandran is best known as a pioneer in India of which discipline?",
+      "options": ["Molecular biophysics", "Marine biology", "Volcanology", "Cryptography"],
+      "answer": 0,
+      "explanation": "Ramachandran is regarded as a founder of molecular biophysics and crystallography research in India."
+    },
+    {
+      "id": "ramachandran-plot-q10",
+      "difficulty": "easy",
+      "q": "The Ramachandran plot is widely used today to check the quality of what?",
+      "options": ["Weather forecasts", "Protein structure models", "Stock prices", "Star catalogues"],
+      "answer": 1,
+      "explanation": "Crystallographers routinely use the plot to validate that experimentally determined protein structures are geometrically reasonable."
+    },
+    {
+      "id": "ramachandran-plot-q11",
+      "difficulty": "medium",
+      "q": "The two backbone dihedral angles plotted on the Ramachandran plot are commonly denoted by which Greek letters?",
+      "options": ["Alpha and beta", "Sigma and tau", "Phi and psi", "Lambda and mu"],
+      "answer": 2,
+      "explanation": "The axes of the plot are the phi (φ) and psi (ψ) dihedral angles of the polypeptide backbone."
+    },
+    {
+      "id": "ramachandran-plot-q12",
+      "difficulty": "medium",
+      "q": "The angles phi and psi describe rotation around bonds on either side of which backbone atom?",
+      "options": ["The carbonyl oxygen", "The alpha-carbon (Cα)", "A side-chain sulphur", "A bound water molecule"],
+      "answer": 1,
+      "explanation": "Phi and psi are the rotations about the N–Cα and Cα–C bonds flanking the alpha-carbon of each residue."
+    },
+    {
+      "id": "ramachandran-plot-q13",
+      "difficulty": "medium",
+      "q": "The Ramachandran plot was first introduced in a landmark paper published in approximately which year?",
+      "options": ["1953", "1963", "1981", "1995"],
+      "answer": 1,
+      "explanation": "Ramachandran, Ramakrishnan and Sasisekharan introduced the conformational map in their 1963 paper."
+    },
+    {
+      "id": "ramachandran-plot-q14",
+      "difficulty": "medium",
+      "q": "At which Indian institution did G. N. Ramachandran build his renowned group while developing the plot?",
+      "options": ["University of Madras", "IIT Kharagpur", "BARC Mumbai", "University of Calcutta"],
+      "answer": 0,
+      "explanation": "Ramachandran led influential biophysics research at the University of Madras during the early 1960s."
+    },
+    {
+      "id": "ramachandran-plot-q15",
+      "difficulty": "medium",
+      "q": "Two co-authors who helped develop the original Ramachandran plot were:",
+      "options": ["Bohr and Heisenberg", "Watson and Crick", "Pauling and Corey", "Ramakrishnan and Sasisekharan"],
+      "answer": 3,
+      "explanation": "The 1963 plot was developed by Ramachandran together with C. Ramakrishnan and V. Sasisekharan."
+    },
+    {
+      "id": "ramachandran-plot-q16",
+      "difficulty": "medium",
+      "q": "Before his work on protein conformation, Ramachandran was famous for proposing the molecular structure of which protein?",
+      "options": ["Haemoglobin", "Collagen (the triple helix)", "Insulin", "Myoglobin"],
+      "answer": 1,
+      "explanation": "Ramachandran, with Gopinath Kartha, proposed the triple-helical structure of collagen in the 1950s."
+    },
+    {
+      "id": "ramachandran-plot-q17",
+      "difficulty": "medium",
+      "q": "On the Ramachandran plot, one prominent allowed region corresponds to which common secondary structure?",
+      "options": ["The alpha-helix", "The lipid bilayer", "The DNA double helix", "The micelle"],
+      "answer": 0,
+      "explanation": "Right-handed alpha-helices cluster in a distinct allowed region of the phi-psi map."
+    },
+    {
+      "id": "ramachandran-plot-q18",
+      "difficulty": "medium",
+      "q": "Besides the alpha-helix region, another major allowed cluster on the plot corresponds to which structure?",
+      "options": ["Beta-sheet (extended) conformation", "Phospholipid heads", "Ribose rings", "Heme groups"],
+      "answer": 0,
+      "explanation": "Extended beta-sheet conformations occupy a separate large allowed region of the Ramachandran plot."
+    },
+    {
+      "id": "ramachandran-plot-q19",
+      "difficulty": "medium",
+      "q": "Which amino acid is exceptional on the Ramachandran plot because its ring restricts its phi angle severely?",
+      "options": ["Glycine", "Proline", "Alanine", "Leucine"],
+      "answer": 1,
+      "explanation": "Proline's cyclic side chain locks its phi angle near about minus 60 degrees, giving it a restricted region."
+    },
+    {
+      "id": "ramachandran-plot-q20",
+      "difficulty": "medium",
+      "q": "Which amino acid can access a much larger area of the Ramachandran plot because it lacks a side chain?",
+      "options": ["Tryptophan", "Tyrosine", "Cysteine", "Glycine"],
+      "answer": 3,
+      "explanation": "Glycine has only a hydrogen as its side chain, so it has far less steric hindrance and occupies extra allowed regions."
+    },
+    {
+      "id": "ramachandran-plot-q21",
+      "difficulty": "medium",
+      "q": "The original allowed and disallowed regions on the plot were determined primarily by considering what?",
+      "options": ["Electric charge alone", "Steric clashes between atoms (hard-sphere contacts)", "Magnetic spin", "Radioactive decay"],
+      "answer": 1,
+      "explanation": "Ramachandran and colleagues modelled atoms as hard spheres and ruled out angle combinations causing atomic overlaps."
+    },
+    {
+      "id": "ramachandran-plot-q22",
+      "difficulty": "medium",
+      "q": "In modern crystallography, a residue falling in a disallowed region of the plot usually signals what?",
+      "options": ["A perfect structure", "A new element", "A possible modelling error or unusual strained conformation", "A faster computer"],
+      "answer": 2,
+      "explanation": "Outliers in disallowed regions typically flag potential errors in a model, though some are genuine strained residues."
+    },
+    {
+      "id": "ramachandran-plot-q23",
+      "difficulty": "hard",
+      "q": "The third backbone dihedral angle, omega (ω), describing the peptide bond, is usually fixed near which value?",
+      "options": ["0 degrees", "45 degrees", "180 degrees", "270 degrees"],
+      "answer": 2,
+      "explanation": "The peptide bond is planar and predominantly trans, so omega is normally close to 180 degrees, which is why the plot focuses on phi and psi."
+    },
+    {
+      "id": "ramachandran-plot-q24",
+      "difficulty": "hard",
+      "q": "Ramachandran founded the Molecular Biophysics Unit at which Indian institution in the early 1970s?",
+      "options": ["Indian Institute of Science, Bangalore", "Tata Institute of Fundamental Research", "Indian Statistical Institute", "Raman Research Institute"],
+      "answer": 0,
+      "explanation": "Ramachandran established the Molecular Biophysics Unit at the Indian Institute of Science (IISc), Bangalore."
+    },
+    {
+      "id": "ramachandran-plot-q25",
+      "difficulty": "hard",
+      "q": "The collagen triple-helix model that preceded the plot was based on X-ray diffraction data from which tissue?",
+      "options": ["Brain tissue", "Tendon/connective tissue", "Blood plasma", "Bone marrow"],
+      "answer": 1,
+      "explanation": "Ramachandran's collagen work used X-ray fibre diffraction patterns from collagen-rich connective tissue such as tendon."
+    },
+    {
+      "id": "ramachandran-plot-q26",
+      "difficulty": "hard",
+      "q": "In addition to fully allowed regions, the classic Ramachandran plot also marks regions that are which?",
+      "options": ["Magnetically charged", "Outer (partially) allowed under relaxed contact criteria", "Permanently forbidden by charge", "Reserved for metals"],
+      "answer": 1,
+      "explanation": "The plot distinguishes 'fully allowed' from larger 'partially allowed' (outer-limit) regions defined by slightly relaxed contact distances."
+    },
+    {
+      "id": "ramachandran-plot-q27",
+      "difficulty": "hard",
+      "q": "Glycine's special status arises because its side chain is which atom?",
+      "options": ["A hydrogen atom", "A methyl group", "A hydroxyl group", "A benzene ring"],
+      "answer": 0,
+      "explanation": "Glycine's side chain is a single hydrogen, minimising steric clashes and broadening its allowed conformational space."
+    },
+    {
+      "id": "ramachandran-plot-q28",
+      "difficulty": "hard",
+      "q": "G. N. Ramachandran earned his doctoral training in X-ray crystallography under which Nobel laureate at Cambridge?",
+      "options": ["Linus Pauling", "Sir Lawrence Bragg", "Max Perutz", "Dorothy Hodgkin"],
+      "answer": 1,
+      "explanation": "Ramachandran worked at Cambridge under Sir Lawrence Bragg, a pioneer of X-ray crystallography and Nobel laureate."
+    },
+    {
+      "id": "ramachandran-plot-q29",
+      "difficulty": "hard",
+      "q": "Which statement best describes a residue plotted in the broad alpha-helical basin of the plot?",
+      "options": ["It has positive phi and positive psi near 180", "It has roughly phi near minus 60 and psi near minus 45", "It has phi and psi both near zero", "Its omega angle is near 90"],
+      "answer": 1,
+      "explanation": "Right-handed alpha-helical residues typically have phi about minus 60 degrees and psi about minus 45 degrees."
+    },
+    {
+      "id": "ramachandran-plot-q30",
+      "difficulty": "hard",
+      "q": "Why is the Ramachandran plot considered a cornerstone validation tool rather than merely descriptive?",
+      "options": ["It predicts a protein's colour", "It objectively flags backbone geometry that violates known steric limits", "It measures protein mass", "It sequences the genome"],
+      "answer": 1,
+      "explanation": "Because the allowed regions reflect physical steric limits, deviations provide an objective check on the correctness of a structural model."
+    }
+  ]
+}

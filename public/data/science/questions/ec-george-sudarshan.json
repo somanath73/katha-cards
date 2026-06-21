@@ -1,0 +1,245 @@
+{
+  "cardId": "ec-george-sudarshan",
+  "questions": [
+    {
+      "id": "ec-george-sudarshan-q01",
+      "difficulty": "easy",
+      "q": "E. C. George Sudarshan is best known for his work in which field of science?",
+      "options": ["Marine biology", "Theoretical physics", "Geology", "Botany"],
+      "answer": 1,
+      "explanation": "Sudarshan was a theoretical physicist celebrated for contributions to particle physics and quantum optics."
+    },
+    {
+      "id": "ec-george-sudarshan-q02",
+      "difficulty": "easy",
+      "q": "In which country was E. C. George Sudarshan born?",
+      "options": ["India", "United States", "England", "Sri Lanka"],
+      "answer": 0,
+      "explanation": "Sudarshan was born in 1931 in Kerala, India."
+    },
+    {
+      "id": "ec-george-sudarshan-q03",
+      "difficulty": "easy",
+      "q": "Sudarshan co-developed a famous theory describing which of the four fundamental forces?",
+      "options": ["Gravity", "The strong force", "The weak force", "Magnetism"],
+      "answer": 2,
+      "explanation": "He co-formulated the V-A (vector minus axial-vector) theory of the weak interaction."
+    },
+    {
+      "id": "ec-george-sudarshan-q04",
+      "difficulty": "easy",
+      "q": "The 'V-A' theory that Sudarshan helped create describes which kind of interaction?",
+      "options": ["Gravitational interaction", "Weak interaction", "Electrostatic interaction", "Nuclear strong interaction"],
+      "answer": 1,
+      "explanation": "The V-A theory is the foundational description of the weak nuclear force responsible for processes like beta decay."
+    },
+    {
+      "id": "ec-george-sudarshan-q05",
+      "difficulty": "easy",
+      "q": "Besides particle physics, Sudarshan made landmark contributions to which other area of physics?",
+      "options": ["Quantum optics", "Fluid dynamics", "Seismology", "Crystallography"],
+      "answer": 0,
+      "explanation": "Sudarshan founded much of the modern quantum theory of optical coherence."
+    },
+    {
+      "id": "ec-george-sudarshan-q06",
+      "difficulty": "easy",
+      "q": "Sudarshan is often described in his card subtitle as which kind of figure?",
+      "options": ["A celebrated Nobel laureate", "The Overlooked Genius", "A government minister", "A famous experimentalist"],
+      "answer": 1,
+      "explanation": "He is widely remembered as an overlooked genius, repeatedly passed over for the Nobel Prize."
+    },
+    {
+      "id": "ec-george-sudarshan-q07",
+      "difficulty": "easy",
+      "q": "The letters 'V' and 'A' in Sudarshan's V-A theory stand for which terms?",
+      "options": ["Voltage and amperage", "Vector and axial-vector", "Velocity and acceleration", "Valence and atomic"],
+      "answer": 1,
+      "explanation": "V-A refers to the vector minus axial-vector structure of the weak interaction's coupling."
+    },
+    {
+      "id": "ec-george-sudarshan-q08",
+      "difficulty": "easy",
+      "q": "Which prestigious prize did Sudarshan never receive despite many believing he deserved it?",
+      "options": ["The Fields Medal", "The Nobel Prize", "The Turing Award", "The Abel Prize"],
+      "answer": 1,
+      "explanation": "Sudarshan was nominated multiple times but never awarded the Nobel Prize, a frequent point of controversy."
+    },
+    {
+      "id": "ec-george-sudarshan-q09",
+      "difficulty": "easy",
+      "q": "Sudarshan spent much of his American academic career as a professor at which university in Texas?",
+      "options": ["Rice University", "Texas A&M University", "The University of Texas at Austin", "Baylor University"],
+      "answer": 2,
+      "explanation": "He was a long-serving professor of physics at the University of Texas at Austin."
+    },
+    {
+      "id": "ec-george-sudarshan-q10",
+      "difficulty": "easy",
+      "q": "Sudarshan's work spanned both particle physics and the physics of which everyday phenomenon?",
+      "options": ["Sound", "Light", "Heat conduction", "Friction"],
+      "answer": 1,
+      "explanation": "His quantum theory of optical coherence concerns the fundamental quantum nature of light."
+    },
+    {
+      "id": "ec-george-sudarshan-q11",
+      "difficulty": "medium",
+      "q": "With which physicist did Sudarshan co-author the V-A theory of the weak interaction in 1957-58?",
+      "options": ["Richard Feynman", "Murray Gell-Mann", "Robert Marshak", "Julian Schwinger"],
+      "answer": 2,
+      "explanation": "Sudarshan developed the V-A theory together with his doctoral adviser Robert Marshak."
+    },
+    {
+      "id": "ec-george-sudarshan-q12",
+      "difficulty": "medium",
+      "q": "The representation of quantum states of light that bears Sudarshan's name is commonly called the:",
+      "options": ["Wigner function", "Husimi Q-function", "Bloch sphere", "Sudarshan-Glauber P-representation"],
+      "answer": 3,
+      "explanation": "The Sudarshan-Glauber P-representation expresses quantum optical states in terms of coherent states."
+    },
+    {
+      "id": "ec-george-sudarshan-q13",
+      "difficulty": "medium",
+      "q": "In 2005, the Nobel Prize in Physics for quantum optical coherence went to Roy Glauber, sparking controversy because many felt who had been overlooked?",
+      "options": ["C. V. Raman", "Sudarshan", "S. N. Bose", "Meghnad Saha"],
+      "answer": 1,
+      "explanation": "Many physicists protested that Sudarshan's foundational work on optical coherence was unjustly omitted from the 2005 Nobel."
+    },
+    {
+      "id": "ec-george-sudarshan-q14",
+      "difficulty": "medium",
+      "q": "Sudarshan helped propose the existence of hypothetical particles that travel faster than light, known as:",
+      "options": ["Gravitons", "Magnetic monopoles", "Tachyons", "Axions"],
+      "answer": 2,
+      "explanation": "Sudarshan was a leading proponent of tachyons, hypothetical superluminal particles."
+    },
+    {
+      "id": "ec-george-sudarshan-q15",
+      "difficulty": "medium",
+      "q": "A counterintuitive quantum phenomenon Sudarshan co-described, in which frequent observation freezes a system's evolution, is the:",
+      "options": ["Casimir effect", "Hall effect", "Meissner effect", "Quantum Zeno effect"],
+      "answer": 3,
+      "explanation": "With B. Misra, Sudarshan formulated the quantum Zeno effect, where continuous measurement inhibits a system's change."
+    },
+    {
+      "id": "ec-george-sudarshan-q16",
+      "difficulty": "medium",
+      "q": "The V-A theory established that the weak interaction violates which symmetry?",
+      "options": ["Parity (mirror symmetry)", "Electric charge conservation", "Energy conservation", "Rotational symmetry"],
+      "answer": 0,
+      "explanation": "The V-A structure built in maximal parity violation, reflecting that the weak force distinguishes left from right."
+    },
+    {
+      "id": "ec-george-sudarshan-q17",
+      "difficulty": "medium",
+      "q": "Sudarshan earned his PhD in the United States from which university?",
+      "options": ["Harvard University", "University of Rochester", "Princeton University", "Caltech"],
+      "answer": 1,
+      "explanation": "He completed his doctorate at the University of Rochester under Robert Marshak."
+    },
+    {
+      "id": "ec-george-sudarshan-q18",
+      "difficulty": "medium",
+      "q": "In which broad century did Sudarshan carry out his most influential research?",
+      "options": ["The 17th century", "The 19th century", "The 20th century", "The 18th century"],
+      "answer": 2,
+      "explanation": "Sudarshan's major work, beginning in the 1950s, took place in the second half of the 20th century."
+    },
+    {
+      "id": "ec-george-sudarshan-q19",
+      "difficulty": "medium",
+      "q": "Before moving to the University of Texas, Sudarshan held a long professorship at which New York university?",
+      "options": ["Cornell University", "Columbia University", "Syracuse University", "New York University"],
+      "answer": 2,
+      "explanation": "He was a professor at Syracuse University before joining the University of Texas at Austin."
+    },
+    {
+      "id": "ec-george-sudarshan-q20",
+      "difficulty": "medium",
+      "q": "Sudarshan's 'diagonal' P-representation was significant because it showed that:",
+      "options": ["Light has no wave properties", "Any quantum optical state can be described using coherent states", "Photons cannot be counted", "Lasers are impossible"],
+      "answer": 1,
+      "explanation": "His diagonal representation demonstrated that arbitrary quantum states of light can be expanded over coherent states."
+    },
+    {
+      "id": "ec-george-sudarshan-q21",
+      "difficulty": "medium",
+      "q": "Which Indian civilian honour was conferred on Sudarshan by the Government of India?",
+      "options": ["The Bharat Ratna", "The Param Vir Chakra", "The Padma Vibhushan", "The Ashoka Chakra"],
+      "answer": 2,
+      "explanation": "Sudarshan was awarded the Padma Vibhushan, one of India's highest civilian honours."
+    },
+    {
+      "id": "ec-george-sudarshan-q22",
+      "difficulty": "medium",
+      "q": "The weak-interaction theory Sudarshan and Marshak proposed is sometimes called the 'universal' theory of the weak force because it:",
+      "options": ["Applied a single common form to all weak processes", "Worked only for the neutron", "Unified gravity with electromagnetism", "Described nuclear fusion in stars"],
+      "answer": 0,
+      "explanation": "The V-A theory provided a single universal current-current form covering all known weak decays."
+    },
+    {
+      "id": "ec-george-sudarshan-q23",
+      "difficulty": "hard",
+      "q": "Sudarshan's contributions to the dynamics of open quantum systems are reflected in which named master equation?",
+      "options": ["The Schrodinger equation", "The Gorini-Kossakowski-Sudarshan-Lindblad (GKSL) equation", "The Dirac equation", "The Klein-Gordon equation"],
+      "answer": 1,
+      "explanation": "The GKSL (Lindblad) master equation, bearing Sudarshan's name, governs the evolution of open quantum systems."
+    },
+    {
+      "id": "ec-george-sudarshan-q24",
+      "difficulty": "hard",
+      "q": "The V-A theory of Sudarshan and Marshak was published around the same time that Feynman and Gell-Mann independently proposed an equivalent theory. In which years did this occur?",
+      "options": ["1957-1958", "1925-1926", "1971-1972", "1983-1984"],
+      "answer": 0,
+      "explanation": "Both formulations of the V-A weak-interaction theory appeared in 1957-58."
+    },
+    {
+      "id": "ec-george-sudarshan-q25",
+      "difficulty": "hard",
+      "q": "The result establishing that Sudarshan's P-representation and Glauber's coherent-state description are mathematically equivalent is sometimes called the:",
+      "options": ["Spin-statistics theorem", "Bell's theorem", "Optical equivalence theorem", "No-cloning theorem"],
+      "answer": 2,
+      "explanation": "The optical equivalence theorem links Sudarshan's diagonal P-representation to the description of optical coherence."
+    },
+    {
+      "id": "ec-george-sudarshan-q26",
+      "difficulty": "hard",
+      "q": "Sudarshan introduced the concept of dynamical maps to describe which process in quantum systems?",
+      "options": ["The collapse of a black hole", "Radioactive alpha decay rates", "The expansion of the universe", "Evolution of a system interacting with its environment"],
+      "answer": 3,
+      "explanation": "His work on completely positive dynamical maps describes how open quantum systems evolve while coupled to an environment."
+    },
+    {
+      "id": "ec-george-sudarshan-q27",
+      "difficulty": "hard",
+      "q": "Negative values appearing in Sudarshan's P-function are used as a signature of what property of light?",
+      "options": ["Polarization", "High intensity", "Nonclassical (quantum) behaviour", "Thermal equilibrium"],
+      "answer": 2,
+      "explanation": "A P-function that fails to be a true probability distribution signals genuinely nonclassical states of light."
+    },
+    {
+      "id": "ec-george-sudarshan-q28",
+      "difficulty": "hard",
+      "q": "Sudarshan's collaborator on the quantum Zeno effect, with whom he published the 1977 paper, was:",
+      "options": ["Roy Glauber", "Baidyanath Misra", "Abdus Salam", "John Wheeler"],
+      "answer": 1,
+      "explanation": "Sudarshan and B. Misra introduced and named the quantum Zeno effect (Zeno's paradox in quantum theory) in 1977."
+    },
+    {
+      "id": "ec-george-sudarshan-q29",
+      "difficulty": "hard",
+      "q": "The V-A theory replaced an earlier, incorrect assumption that the weak interaction had which coupling structure?",
+      "options": ["Scalar and tensor (S, T)", "Pure gravitational", "Purely electromagnetic", "Strong color charge"],
+      "answer": 0,
+      "explanation": "Sudarshan and Marshak argued against the then-favoured scalar-tensor couplings in favour of vector minus axial-vector."
+    },
+    {
+      "id": "ec-george-sudarshan-q30",
+      "difficulty": "hard",
+      "q": "Sudarshan also contributed a group-theoretic approach to particle classification, co-authoring an influential text on which subject?",
+      "options": ["Classical and quantum mechanics, and symmetry/group theory in physics", "Organic chemistry synthesis", "Continental drift", "Population genetics"],
+      "answer": 0,
+      "explanation": "Sudarshan co-authored noted texts on the role of symmetry and group theory in classical and quantum dynamics."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "agni-missile",
+  "questions": [
+    {
+      "id": "agni-missile-q01",
+      "difficulty": "easy",
+      "q": "The Agni missile is developed by which Indian organisation?",
+      "options": ["ISRO", "DRDO", "HAL", "BARC"],
+      "answer": 1,
+      "explanation": "The Agni family of ballistic missiles is developed by the Defence Research and Development Organisation (DRDO)."
+    },
+    {
+      "id": "agni-missile-q02",
+      "difficulty": "easy",
+      "q": "What type of weapon is the Agni?",
+      "options": ["Cruise missile", "Ballistic missile", "Air-to-air missile", "Anti-tank missile"],
+      "answer": 1,
+      "explanation": "Agni is a family of surface-to-surface ballistic missiles forming a pillar of India's strategic deterrent."
+    },
+    {
+      "id": "agni-missile-q03",
+      "difficulty": "easy",
+      "q": "The word 'Agni' is a Sanskrit word meaning what?",
+      "options": ["Wind", "Water", "Fire", "Earth"],
+      "answer": 2,
+      "explanation": "'Agni' means 'fire' in Sanskrit, also the name of the Vedic fire deity."
+    },
+    {
+      "id": "agni-missile-q04",
+      "difficulty": "easy",
+      "q": "The Agni programme was developed under which major Indian missile development initiative launched in the 1980s?",
+      "options": ["Integrated Guided Missile Development Programme (IGMDP)", "Light Combat Aircraft Programme", "Polar Satellite Launch Programme", "Strategic Forces Command Programme"],
+      "answer": 0,
+      "explanation": "Agni was one of the missiles developed under the Integrated Guided Missile Development Programme (IGMDP) started in 1983."
+    },
+    {
+      "id": "agni-missile-q05",
+      "difficulty": "easy",
+      "q": "Which scientist, later President of India, is closely associated with leading India's missile programmes including Agni?",
+      "options": ["Vikram Sarabhai", "Homi Bhabha", "A. P. J. Abdul Kalam", "Satish Dhawan"],
+      "answer": 2,
+      "explanation": "A. P. J. Abdul Kalam led the IGMDP and is popularly called the 'Missile Man of India'."
+    },
+    {
+      "id": "agni-missile-q06",
+      "difficulty": "easy",
+      "q": "The Agni missiles are primarily designed to deliver what kind of payload?",
+      "options": ["Surveillance equipment", "Nuclear and conventional warheads", "Communication satellites", "Weather sensors"],
+      "answer": 1,
+      "explanation": "Agni missiles are capable of carrying nuclear as well as conventional warheads, central to India's deterrent."
+    },
+    {
+      "id": "agni-missile-q07",
+      "difficulty": "easy",
+      "q": "What characteristic of the Agni missiles is emphasised by the card's subtitle 'India's Long Reach'?",
+      "options": ["Their long range", "Their low cost", "Their small size", "Their slow speed"],
+      "answer": 0,
+      "explanation": "The Agni family provides India with long-range strike capability, hence 'India's Long Reach'."
+    },
+    {
+      "id": "agni-missile-q08",
+      "difficulty": "easy",
+      "q": "In which decade did the first Agni missile have its initial test flight?",
+      "options": ["1960s", "1970s", "1980s", "2000s"],
+      "answer": 2,
+      "explanation": "Agni-I (Agni Technology Demonstrator) was first test-fired in 1989, during the 1980s."
+    },
+    {
+      "id": "agni-missile-q09",
+      "difficulty": "easy",
+      "q": "Agni missiles are a key part of which aspect of India's defence posture?",
+      "options": ["Coastal patrol", "Strategic nuclear deterrent", "Border fencing", "Disaster relief"],
+      "answer": 1,
+      "explanation": "The Agni series is a pillar of India's strategic nuclear deterrent."
+    },
+    {
+      "id": "agni-missile-q10",
+      "difficulty": "easy",
+      "q": "Which Indian armed forces command operates the Agni nuclear-capable missiles?",
+      "options": ["Strategic Forces Command", "Coast Guard", "Territorial Army", "National Cadet Corps"],
+      "answer": 0,
+      "explanation": "India's Strategic Forces Command (SFC) is responsible for the nuclear-capable Agni missiles."
+    },
+    {
+      "id": "agni-missile-q11",
+      "difficulty": "medium",
+      "q": "Which Agni variant is widely regarded as India's first intercontinental-range ballistic missile with a range of about 5,000 km or more?",
+      "options": ["Agni-I", "Agni-II", "Agni-V", "Agni-P"],
+      "answer": 2,
+      "explanation": "Agni-V has a range exceeding 5,000 km, giving India intercontinental-range capability."
+    },
+    {
+      "id": "agni-missile-q12",
+      "difficulty": "medium",
+      "q": "In which year was the Agni-V first successfully test-fired?",
+      "options": ["2008", "2012", "2016", "2021"],
+      "answer": 1,
+      "explanation": "Agni-V was first successfully flight-tested on 19 April 2012."
+    },
+    {
+      "id": "agni-missile-q13",
+      "difficulty": "medium",
+      "q": "The original Agni Technology Demonstrator (Agni-I prototype) of 1989 used a combination of stages drawn from which two existing programmes?",
+      "options": ["A SLV-3 first stage with a Prithvi-derived second stage", "A PSLV booster with a cruise missile", "Two solid Akash boosters", "A liquid-fuelled Nag stage"],
+      "answer": 0,
+      "explanation": "The 1989 Agni demonstrator combined a solid SLV-3 derived first stage with a Prithvi-derived liquid second stage."
+    },
+    {
+      "id": "agni-missile-q14",
+      "difficulty": "medium",
+      "q": "Which Agni variant is a newer canisterised, rail- and road-mobile, two-stage missile with a range of roughly 1,000-2,000 km, first tested in 2021?",
+      "options": ["Agni-IV", "Agni-V", "Agni-P (Agni-Prime)", "Agni-III"],
+      "answer": 2,
+      "explanation": "Agni-P (Agni-Prime) is a newer canisterised medium-range missile with a range of about 1,000-2,000 km, first tested in June 2021."
+    },
+    {
+      "id": "agni-missile-q15",
+      "difficulty": "medium",
+      "q": "Roughly what is the range class of the Agni-III missile?",
+      "options": ["About 150 km", "About 700 km", "About 3,000-5,000 km", "About 12,000 km"],
+      "answer": 2,
+      "explanation": "Agni-III is an intermediate-range ballistic missile with a range of roughly 3,000-5,000 km."
+    },
+    {
+      "id": "agni-missile-q16",
+      "difficulty": "medium",
+      "q": "What propulsion type do the operational Agni missiles primarily use in their later, fully solid versions?",
+      "options": ["Liquid propellant in all stages", "Solid propellant", "Ramjet", "Nuclear thermal"],
+      "answer": 1,
+      "explanation": "Modern Agni variants (Agni-II onward) use solid-propellant stages, allowing faster readiness and easier handling."
+    },
+    {
+      "id": "agni-missile-q17",
+      "difficulty": "medium",
+      "q": "Agni-V is reported to be capable of carrying MIRVs. What does MIRV stand for?",
+      "options": ["Multiple Independently-targetable Re-entry Vehicles", "Mobile Integrated Radar Vehicle", "Multi-stage Inertial Rocket Vehicle", "Maritime Interception Reconnaissance Vehicle"],
+      "answer": 0,
+      "explanation": "MIRV stands for Multiple Independently-targetable Re-entry Vehicles, allowing one missile to strike several targets."
+    },
+    {
+      "id": "agni-missile-q18",
+      "difficulty": "medium",
+      "q": "In March 2024 DRDO announced the first successful flight test of Agni-V equipped with MIRV technology. What was the codename of that mission?",
+      "options": ["Mission Shakti", "Mission Divyastra", "Mission Pralay", "Mission Vijay"],
+      "answer": 1,
+      "explanation": "The maiden MIRV-capable Agni-V test in March 2024 was named Mission Divyastra."
+    },
+    {
+      "id": "agni-missile-q19",
+      "difficulty": "medium",
+      "q": "Agni-V is canisterised, meaning the missile is stored and launched from a sealed container. What is a key operational advantage of this?",
+      "options": ["It increases the missile's blast yield", "It enables faster launch readiness and easier transport/storage", "It makes the missile lighter than air", "It removes the need for any guidance system"],
+      "answer": 1,
+      "explanation": "Canisterisation seals the missile for long storage and allows quick launch readiness and mobile deployment."
+    },
+    {
+      "id": "agni-missile-q20",
+      "difficulty": "medium",
+      "q": "From which site off the Odisha coast are Agni missiles typically test-launched?",
+      "options": ["Sriharikota (SHAR)", "Dr. A. P. J. Abdul Kalam Island (Wheeler Island)", "Thumba", "Pokhran"],
+      "answer": 1,
+      "explanation": "Agni tests are usually conducted from the Integrated Test Range at Dr. A. P. J. Abdul Kalam Island (formerly Wheeler Island), Odisha."
+    },
+    {
+      "id": "agni-missile-q21",
+      "difficulty": "medium",
+      "q": "Which guidance technology is central to the Agni missiles' ability to reach their targets accurately?",
+      "options": ["Wire guidance", "Inertial navigation system (with onboard computers)", "Manual radio control", "Sonar homing"],
+      "answer": 1,
+      "explanation": "Agni missiles rely on inertial navigation systems, with later variants adding ring-laser gyros and satellite updates for accuracy."
+    },
+    {
+      "id": "agni-missile-q22",
+      "difficulty": "medium",
+      "q": "Agni-II, an upgrade over Agni-I, is generally classed as which type of ballistic missile by range?",
+      "options": ["Short-range (SRBM)", "Medium/Intermediate-range (MRBM/IRBM)", "Intercontinental (ICBM)", "Sub-kilometre tactical"],
+      "answer": 1,
+      "explanation": "Agni-II is a medium/intermediate-range ballistic missile with a range of around 2,000-3,000 km."
+    },
+    {
+      "id": "agni-missile-q23",
+      "difficulty": "hard",
+      "q": "Agni-I is generally classified as which type of ballistic missile, with a range of roughly 700-900 km?",
+      "options": ["Intercontinental ballistic missile", "Short-range ballistic missile", "Submarine-launched ballistic missile", "Anti-ballistic missile"],
+      "answer": 1,
+      "explanation": "The operational Agni-I is a single-stage, road/rail-mobile short-range ballistic missile (~700-900 km)."
+    },
+    {
+      "id": "agni-missile-q24",
+      "difficulty": "hard",
+      "q": "Agni-IV (initially referred to during development by another designation) is a two-stage missile with a range of about 3,500-4,000 km. By what earlier name was it sometimes referred during development?",
+      "options": ["Agni-II Prime", "Prithvi-IV", "Surya-I", "Trishul-IV"],
+      "answer": 0,
+      "explanation": "Agni-IV was during development referred to as 'Agni-II Prime' before being officially designated Agni-IV."
+    },
+    {
+      "id": "agni-missile-q25",
+      "difficulty": "hard",
+      "q": "What technology demonstrated on Agni reentry vehicles allows them to survive the extreme heat of atmospheric reentry?",
+      "options": ["Active liquid cooling jackets", "Carbon-carbon composite heat shielding", "Inflatable balloon shrouds", "Ceramic tiles identical to the Space Shuttle"],
+      "answer": 1,
+      "explanation": "Agni reentry vehicles use indigenously developed carbon-carbon composite heat shields to withstand reentry temperatures."
+    },
+    {
+      "id": "agni-missile-q26",
+      "difficulty": "hard",
+      "q": "Which later Agni variant introduced a compact ring-laser gyroscope-based inertial navigation system and a micro navigation system to improve accuracy?",
+      "options": ["Agni-I", "Agni-IV", "The original 1989 demonstrator", "Agni-II's first flight"],
+      "answer": 1,
+      "explanation": "Agni-IV introduced advanced avionics including a ring-laser gyro inertial navigation system and micro navigation system."
+    },
+    {
+      "id": "agni-missile-q27",
+      "difficulty": "hard",
+      "q": "Reports describe a planned/future Agni variant aimed at even greater intercontinental ranges (over 10,000 km). By what name has this proposed missile sometimes been referred?",
+      "options": ["Agni-VI", "Agni-Zero", "Agni-Mini", "Agni-Lite"],
+      "answer": 0,
+      "explanation": "Agni-VI is the reported future variant intended for ranges beyond Agni-V, with development discussed by DRDO."
+    },
+    {
+      "id": "agni-missile-q28",
+      "difficulty": "hard",
+      "q": "Agni-V's first 2012 test flight reached intercontinental range largely because it used how many stages of solid propulsion?",
+      "options": ["One stage", "Two stages", "Three stages", "Five stages"],
+      "answer": 2,
+      "explanation": "Agni-V is a three-stage, all-solid-fuel missile, enabling its 5,000+ km range."
+    },
+    {
+      "id": "agni-missile-q29",
+      "difficulty": "hard",
+      "q": "Under the IGMDP launched in 1983, Agni was developed alongside several other missiles. Which of the following was NOT one of the original IGMDP missiles?",
+      "options": ["Prithvi", "Akash", "Trishul", "BrahMos"],
+      "answer": 3,
+      "explanation": "The original IGMDP missiles were Prithvi, Agni, Akash, Trishul and Nag; BrahMos was a later India-Russia joint venture, not part of IGMDP."
+    },
+    {
+      "id": "agni-missile-q30",
+      "difficulty": "hard",
+      "q": "Why is the Agni-V's road-mobile, canisterised configuration considered significant for India's deterrence doctrine of credible minimum deterrence?",
+      "options": ["It makes the missile cheaper to build than a satellite", "It enhances survivability and second-strike capability by being hard to locate and quick to launch", "It allows the missile to be launched from aircraft only", "It removes the need for a warhead"],
+      "answer": 1,
+      "explanation": "A mobile, canisterised missile is harder to detect and pre-empt, strengthening survivable second-strike capability under credible minimum deterrence."
+    }
+  ]
+}

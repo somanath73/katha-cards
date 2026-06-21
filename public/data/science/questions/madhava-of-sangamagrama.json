@@ -1,0 +1,245 @@
+{
+  "cardId": "madhava-of-sangamagrama",
+  "questions": [
+    {
+      "id": "madhava-of-sangamagrama-q01",
+      "difficulty": "easy",
+      "q": "In which century did Madhava of Sangamagrama live and work?",
+      "options": ["12th century", "14th century", "17th century", "9th century"],
+      "answer": 1,
+      "explanation": "Madhava lived roughly from 1340 to 1425 CE, placing him in the 14th and early 15th centuries."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q02",
+      "difficulty": "easy",
+      "q": "Madhava is regarded as the founder of which influential school of mathematics and astronomy?",
+      "options": ["The Kerala School", "The Ujjain School", "The Nalanda School", "The Takshashila School"],
+      "answer": 0,
+      "explanation": "Madhava founded the Kerala School of astronomy and mathematics, which flourished for centuries after him."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q03",
+      "difficulty": "easy",
+      "q": "In which present-day Indian state did Madhava and his school flourish?",
+      "options": ["Gujarat", "Bihar", "Kerala", "Rajasthan"],
+      "answer": 2,
+      "explanation": "Madhava and the Kerala School were based in the region of present-day Kerala in southern India."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q04",
+      "difficulty": "easy",
+      "q": "Madhava is most famous for discovering infinite series for which mathematical constant?",
+      "options": ["e", "pi", "the golden ratio", "the square root of 2"],
+      "answer": 1,
+      "explanation": "Madhava found infinite series expansions that allow pi to be computed to high accuracy."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q05",
+      "difficulty": "easy",
+      "q": "Madhava's discoveries are widely seen as anticipating which branch of mathematics, developed in Europe centuries later?",
+      "options": ["Group theory", "Topology", "Statistics", "Calculus"],
+      "answer": 3,
+      "explanation": "His work on infinite series and power series anticipated key ideas of calculus by roughly 250 years."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q06",
+      "difficulty": "easy",
+      "q": "Besides pi, Madhava developed infinite series for which kind of functions?",
+      "options": ["Logarithmic functions", "Trigonometric functions", "Exponential functions", "Hyperbolic functions"],
+      "answer": 1,
+      "explanation": "Madhava derived power-series expansions for trigonometric functions such as sine and cosine."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q07",
+      "difficulty": "easy",
+      "q": "The place name 'Sangamagrama' associated with Madhava refers to what?",
+      "options": ["A type of manuscript", "His town or place of origin", "A mathematical theorem", "An astronomical instrument"],
+      "answer": 1,
+      "explanation": "Sangamagrama denotes the town Madhava was from, generally identified with a place near present-day Kerala."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q08",
+      "difficulty": "easy",
+      "q": "Roughly how many years before European calculus pioneers did Madhava's series work appear?",
+      "options": ["About 25 years", "About 250 years", "About 1000 years", "About 50 years"],
+      "answer": 1,
+      "explanation": "Madhava's series predate the calculus of Newton and Leibniz by about two and a half centuries."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q09",
+      "difficulty": "easy",
+      "q": "Madhava's main field of study combined mathematics with which other discipline?",
+      "options": ["Medicine", "Astronomy", "Architecture", "Metallurgy"],
+      "answer": 1,
+      "explanation": "Like the Kerala School broadly, Madhava worked in both mathematics and astronomy."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q10",
+      "difficulty": "easy",
+      "q": "What kind of mathematical expression, summing infinitely many terms, is central to Madhava's pi and sine results?",
+      "options": ["A finite polynomial", "An infinite series", "A simple fraction", "A geometric construction only"],
+      "answer": 1,
+      "explanation": "Madhava expressed pi and trigonometric functions as infinite series of terms."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q11",
+      "difficulty": "medium",
+      "q": "The series pi/4 = 1 - 1/3 + 1/5 - 1/7 + ... is often named after Madhava and which European mathematician?",
+      "options": ["Euler", "Newton", "Fermat", "Leibniz"],
+      "answer": 3,
+      "explanation": "This alternating series is commonly called the Madhava-Leibniz series, as Leibniz rediscovered it in Europe."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q12",
+      "difficulty": "medium",
+      "q": "The power series for sine and cosine that Madhava discovered are today usually attributed in the West to which mathematician?",
+      "options": ["Brook Taylor", "Carl Friedrich Gauss", "Pierre-Simon Laplace", "Joseph Fourier"],
+      "answer": 0,
+      "explanation": "These are now known as the Taylor (Maclaurin) series for sine and cosine, which Madhava had already found."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q13",
+      "difficulty": "medium",
+      "q": "Which prominent later astronomer of the Kerala School wrote works that preserved and credited Madhava's results?",
+      "options": ["Aryabhata", "Bhaskara II", "Brahmagupta", "Nilakantha Somayaji"],
+      "answer": 3,
+      "explanation": "Nilakantha Somayaji, a key Kerala School figure, cited Madhava and recorded many of his discoveries."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q14",
+      "difficulty": "medium",
+      "q": "Madhava's arctangent series can be written as arctan(x) = x - x^3/3 + x^5/5 - ... This is the basis for computing pi by setting x equal to what value?",
+      "options": ["x = 0", "x = 1", "x = pi", "x = 2"],
+      "answer": 1,
+      "explanation": "Setting x = 1 in the arctangent series gives arctan(1) = pi/4, yielding the Madhava-Leibniz series."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q15",
+      "difficulty": "medium",
+      "q": "A major text that transmitted Kerala School mathematics, including Madhava's series, was the Yuktibhasa, written by whom?",
+      "options": ["Jyeshtadeva", "Varahamihira", "Sushruta", "Madhava himself"],
+      "answer": 0,
+      "explanation": "Jyeshtadeva's Yuktibhasa (c. 1530) systematically explained and proved many results originating with Madhava."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q16",
+      "difficulty": "medium",
+      "q": "Madhava devised correction terms added to the partial sums of his pi series in order to do what?",
+      "options": ["Speed up convergence and improve accuracy", "Make the series diverge", "Convert it into a finite sum", "Eliminate the need for fractions"],
+      "answer": 0,
+      "explanation": "Madhava added end-correction terms to the slowly converging series so fewer terms gave more accurate values of pi."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q17",
+      "difficulty": "medium",
+      "q": "Why are very few works directly written by Madhava himself available to historians today?",
+      "options": ["He never wrote anything down", "Most are known through quotations by his successors", "They were translated into Latin and lost", "He wrote only in a secret code"],
+      "answer": 1,
+      "explanation": "Most of Madhava's results survive through citations and elaborations by later Kerala School mathematicians rather than his own surviving texts."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q18",
+      "difficulty": "medium",
+      "q": "Madhava produced a notably accurate value of pi correct to roughly how many decimal places?",
+      "options": ["About 2", "About 50", "About 11", "About 100"],
+      "answer": 2,
+      "explanation": "Using his series and corrections, Madhava gave a value of pi accurate to about eleven decimal places."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q19",
+      "difficulty": "medium",
+      "q": "The Kerala School compiled accurate tables of which trigonometric quantities, building on Madhava's series?",
+      "options": ["Sine values", "Logarithm values", "Probability values", "Prime numbers"],
+      "answer": 0,
+      "explanation": "Madhava's series let the Kerala School compute highly accurate sine (and cosine) tables."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q20",
+      "difficulty": "medium",
+      "q": "In which language were Madhava's and the Kerala School's mathematical works primarily composed?",
+      "options": ["Persian", "Latin", "Arabic", "Sanskrit (with Malayalam commentaries)"],
+      "answer": 3,
+      "explanation": "The works were written in Sanskrit, often verse, with later commentaries such as the Yuktibhasa in Malayalam."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q21",
+      "difficulty": "medium",
+      "q": "Madhava's contributions place him at the start of a lineage of mathematicians spanning which approximate period?",
+      "options": ["14th to 16th centuries", "1st to 3rd centuries", "18th to 20th centuries", "10th to 11th centuries"],
+      "answer": 0,
+      "explanation": "The Kerala School he founded was active from roughly the 14th through the 16th centuries."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q22",
+      "difficulty": "medium",
+      "q": "Which of these is NOT something Madhava is credited with developing?",
+      "options": ["Infinite series for pi", "Power series for sine and cosine", "The decimal place-value system itself", "Correction terms to improve series convergence"],
+      "answer": 2,
+      "explanation": "The decimal place-value system predates Madhava by many centuries; his fame rests on infinite series, not the numeral system."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q23",
+      "difficulty": "hard",
+      "q": "Madhava's series for arctangent, sine, and cosine are special cases of what modern concept?",
+      "options": ["Continued fractions", "Power series (Taylor expansions)", "Matrix decompositions", "Fourier transforms"],
+      "answer": 1,
+      "explanation": "Each of Madhava's expansions is a power series, i.e. a Taylor-type expansion of the respective function."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q24",
+      "difficulty": "hard",
+      "q": "The honorific 'Golavid', sometimes linked to Madhava, indicates expertise in what?",
+      "options": ["Spherical astronomy (the sphere)", "Poetry", "Surgery", "Architecture"],
+      "answer": 0,
+      "explanation": "'Golavid' means master of the sphere, reflecting Madhava's standing in spherical astronomy."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q25",
+      "difficulty": "hard",
+      "q": "Madhava's town Sangamagrama is most commonly identified with which locality in Kerala?",
+      "options": ["Thrissur", "Irinjalakuda (Kudallur/Sangamagrama)", "Kollam", "Kannur"],
+      "answer": 1,
+      "explanation": "Sangamagrama is generally identified with the area of Irinjalakuda in central Kerala."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q26",
+      "difficulty": "hard",
+      "q": "Beyond pure mathematics, Madhava applied his methods to compute accurate positions of which celestial bodies?",
+      "options": ["Comets only", "Distant galaxies", "The Moon and planets", "Black holes"],
+      "answer": 2,
+      "explanation": "Madhava used his trigonometric series to improve calculations of the positions of the Moon and planets."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q27",
+      "difficulty": "hard",
+      "q": "Which of these results is specifically associated with Madhava's name in the history of analysis?",
+      "options": ["The Madhava-Gregory series for arctangent", "The Pythagorean theorem", "Euclid's algorithm", "The binomial theorem of Newton"],
+      "answer": 0,
+      "explanation": "The arctangent series is known as the Madhava-Gregory (or Madhava-Gregory-Leibniz) series after its independent rediscoverers."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q28",
+      "difficulty": "hard",
+      "q": "What estimate of Madhava's birth and death years is most commonly cited by historians?",
+      "options": ["c. 1340 - c. 1425", "c. 476 - c. 550", "c. 1114 - c. 1185", "c. 598 - c. 668"],
+      "answer": 0,
+      "explanation": "Madhava is generally dated to about 1340-1425 CE; the other ranges belong to Aryabhata, Bhaskara II, and Brahmagupta."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q29",
+      "difficulty": "hard",
+      "q": "One title attributed to Madhava is a work on the Moon's positions. What general theme do his attributed works share?",
+      "options": ["Computational astronomy and trigonometry", "Grammar and linguistics", "Ayurvedic medicine", "Temple architecture"],
+      "answer": 0,
+      "explanation": "Madhava's attributed works center on computational astronomy and the trigonometric methods underpinning it."
+    },
+    {
+      "id": "madhava-of-sangamagrama-q30",
+      "difficulty": "hard",
+      "q": "Why is Madhava's work historically significant in the global development of mathematics?",
+      "options": ["It first introduced Roman numerals", "It demonstrated infinite-series methods centuries before they appeared in Europe", "It proved Fermat's Last Theorem", "It invented the abacus"],
+      "answer": 1,
+      "explanation": "Madhava's infinite-series techniques foreshadowed core methods of European calculus by roughly two and a half centuries, marking a major early advance in analysis."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "cardId": "apsara-reactor",
+  "questions": [
+    {
+      "id": "apsara-reactor-q01",
+      "difficulty": "easy",
+      "q": "Apsara holds the distinction of being the first nuclear reactor in which region?",
+      "options": [
+        "Africa",
+        "Asia",
+        "South America",
+        "Australia"
+      ],
+      "answer": 1,
+      "explanation": "Apsara, commissioned in 1956, was the first nuclear research reactor built in Asia."
+    },
+    {
+      "id": "apsara-reactor-q02",
+      "difficulty": "easy",
+      "q": "In which year was the Apsara reactor commissioned?",
+      "options": [
+        "1948",
+        "1962",
+        "1974",
+        "1956"
+      ],
+      "answer": 3,
+      "explanation": "Apsara attained criticality and was commissioned in 1956."
+    },
+    {
+      "id": "apsara-reactor-q03",
+      "difficulty": "easy",
+      "q": "At which location near Mumbai was the Apsara reactor built?",
+      "options": [
+        "Tarapur",
+        "Kalpakkam",
+        "Trombay",
+        "Kakrapar"
+      ],
+      "answer": 2,
+      "explanation": "Apsara was built at Trombay, the site that later became the Bhabha Atomic Research Centre."
+    },
+    {
+      "id": "apsara-reactor-q04",
+      "difficulty": "easy",
+      "q": "What type of facility is Apsara?",
+      "options": [
+        "A nuclear research reactor",
+        "A commercial power plant",
+        "A particle accelerator",
+        "A radio telescope"
+      ],
+      "answer": 0,
+      "explanation": "Apsara is a research reactor, used for research, isotope production and training rather than commercial electricity generation."
+    },
+    {
+      "id": "apsara-reactor-q05",
+      "difficulty": "easy",
+      "q": "The driving force behind India's atomic energy programme and the Apsara project was which physicist?",
+      "options": [
+        "C. V. Raman",
+        "Meghnad Saha",
+        "Vikram Sarabhai",
+        "Homi J. Bhabha"
+      ],
+      "answer": 3,
+      "explanation": "Homi J. Bhabha, founder of India's nuclear programme, led the establishment of Apsara at Trombay."
+    },
+    {
+      "id": "apsara-reactor-q06",
+      "difficulty": "easy",
+      "q": "Apsara is named after a class of beings from Indian mythology. What are apsaras?",
+      "options": [
+        "Celestial nymphs",
+        "Warrior kings",
+        "Sacred rivers",
+        "Mountain spirits"
+      ],
+      "answer": 0,
+      "explanation": "Apsaras are celestial water nymphs in Hindu and Buddhist mythology, and the reactor was poetically named after them."
+    },
+    {
+      "id": "apsara-reactor-q07",
+      "difficulty": "easy",
+      "q": "Apsara was built primarily for which broad purpose?",
+      "options": [
+        "Generating electricity for Mumbai",
+        "Producing weapons-grade plutonium for bombs",
+        "Research, training and isotope production",
+        "Desalinating seawater"
+      ],
+      "answer": 2,
+      "explanation": "As a low-power research reactor, Apsara supported scientific research, training of personnel and production of radioisotopes."
+    },
+    {
+      "id": "apsara-reactor-q08",
+      "difficulty": "easy",
+      "q": "Apsara is best classified as which kind of reactor based on the material that slows its neutrons?",
+      "options": [
+        "A graphite-moderated reactor",
+        "A fast breeder reactor",
+        "A molten-salt reactor",
+        "A water-moderated (swimming pool type) reactor"
+      ],
+      "answer": 3,
+      "explanation": "Apsara is a swimming-pool type reactor that uses water as both moderator and coolant."
+    },
+    {
+      "id": "apsara-reactor-q09",
+      "difficulty": "easy",
+      "q": "The Apsara reactor was a milestone in the history of which country's science programme?",
+      "options": [
+        "India",
+        "China",
+        "Japan",
+        "Pakistan"
+      ],
+      "answer": 0,
+      "explanation": "Apsara was a landmark achievement of India's atomic energy programme."
+    },
+    {
+      "id": "apsara-reactor-q10",
+      "difficulty": "easy",
+      "q": "The Trombay site where Apsara was built is now home to which major institution?",
+      "options": [
+        "Indian Institute of Science (IISc)",
+        "Indian Space Research Organisation (ISRO)",
+        "Tata Institute of Fundamental Research (TIFR)",
+        "Bhabha Atomic Research Centre (BARC)"
+      ],
+      "answer": 3,
+      "explanation": "The Trombay establishment later became the Bhabha Atomic Research Centre (BARC)."
+    },
+    {
+      "id": "apsara-reactor-q11",
+      "difficulty": "medium",
+      "q": "What kind of reactor design is Apsara, characterised by its core sitting at the bottom of an open pool of water?",
+      "options": [
+        "Pressurised water reactor",
+        "Boiling water reactor",
+        "Swimming-pool type reactor",
+        "Pebble-bed reactor"
+      ],
+      "answer": 2,
+      "explanation": "Apsara is a swimming-pool type research reactor, with the core submerged in a pool that provides cooling and shielding."
+    },
+    {
+      "id": "apsara-reactor-q12",
+      "difficulty": "medium",
+      "q": "The organisation that operated Apsara at Trombay was originally known by which name before being renamed BARC?",
+      "options": [
+        "Atomic Energy Establishment, Trombay (AEET)",
+        "Indian Rare Earths Limited",
+        "Nuclear Power Corporation of India",
+        "Saha Institute of Nuclear Physics"
+      ],
+      "answer": 0,
+      "explanation": "The Trombay facility was the Atomic Energy Establishment, Trombay (AEET), renamed Bhabha Atomic Research Centre in 1967."
+    },
+    {
+      "id": "apsara-reactor-q13",
+      "difficulty": "medium",
+      "q": "What was the approximate thermal power rating of the original Apsara reactor?",
+      "options": [
+        "1 megawatt (thermal)",
+        "100 megawatts (thermal)",
+        "500 megawatts (thermal)",
+        "1000 megawatts (thermal)"
+      ],
+      "answer": 0,
+      "explanation": "Apsara was a low-power research reactor with a thermal output of about 1 MW."
+    },
+    {
+      "id": "apsara-reactor-q14",
+      "difficulty": "medium",
+      "q": "On which day did Apsara first attain criticality in 1956?",
+      "options": [
+        "26 January",
+        "15 August",
+        "2 October",
+        "4 August"
+      ],
+      "answer": 3,
+      "explanation": "Apsara achieved its first criticality on 4 August 1956."
+    },
+    {
+      "id": "apsara-reactor-q15",
+      "difficulty": "medium",
+      "q": "The original Apsara reactor used enriched uranium fuel obtained with assistance from which country?",
+      "options": [
+        "The Soviet Union",
+        "France",
+        "The United Kingdom",
+        "Canada"
+      ],
+      "answer": 2,
+      "explanation": "The enriched uranium fuel for the original Apsara was supplied by the United Kingdom, while the reactor itself was designed and built in India."
+    },
+    {
+      "id": "apsara-reactor-q16",
+      "difficulty": "medium",
+      "q": "Who is credited with conceiving the name 'Apsara' for the reactor?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Vikram Sarabhai",
+        "Homi J. Bhabha",
+        "S. S. Bhatnagar"
+      ],
+      "answer": 2,
+      "explanation": "Homi Bhabha is credited with naming the reactor Apsara, after the celestial nymphs of Indian mythology."
+    },
+    {
+      "id": "apsara-reactor-q17",
+      "difficulty": "medium",
+      "q": "Apsara's commissioning made India among the earliest nations in which group?",
+      "options": [
+        "Countries with manned spaceflight",
+        "Countries operating their own nuclear research reactor",
+        "Countries with supersonic aircraft",
+        "Countries with commercial nuclear power exports"
+      ],
+      "answer": 1,
+      "explanation": "With Apsara, India became one of the early countries to design, build and operate its own nuclear research reactor."
+    },
+    {
+      "id": "apsara-reactor-q18",
+      "difficulty": "medium",
+      "q": "Research reactors like Apsara are valuable chiefly because they produce intense beams or fluxes of which particles?",
+      "options": [
+        "Protons",
+        "Alpha particles",
+        "Muons",
+        "Neutrons"
+      ],
+      "answer": 3,
+      "explanation": "Research reactors are sources of neutrons, used for materials research, activation analysis and isotope production."
+    },
+    {
+      "id": "apsara-reactor-q19",
+      "difficulty": "medium",
+      "q": "Which Prime Minister led India at the time Apsara was commissioned in 1956?",
+      "options": [
+        "Lal Bahadur Shastri",
+        "Indira Gandhi",
+        "Jawaharlal Nehru",
+        "Rajendra Prasad"
+      ],
+      "answer": 2,
+      "explanation": "Jawaharlal Nehru was Prime Minister in 1956 and was a strong patron of India's atomic energy programme."
+    },
+    {
+      "id": "apsara-reactor-q20",
+      "difficulty": "medium",
+      "q": "In a swimming-pool reactor like Apsara, the deep layer of water above the core mainly serves what additional function besides cooling?",
+      "options": [
+        "Radiation shielding",
+        "Electricity generation",
+        "Fuel enrichment",
+        "Neutron acceleration"
+      ],
+      "answer": 0,
+      "explanation": "The water in a swimming-pool reactor provides radiation shielding as well as cooling and moderation, letting operators work safely above the core."
+    },
+    {
+      "id": "apsara-reactor-q21",
+      "difficulty": "medium",
+      "q": "Apsara's success in 1956 directly paved the way for which larger Trombay research reactor that went critical in 1960?",
+      "options": [
+        "Dhruva",
+        "Kamini",
+        "Purnima",
+        "CIRUS"
+      ],
+      "answer": 3,
+      "explanation": "CIRUS, a larger 40 MW research reactor at Trombay, went critical in 1960, following Apsara's pioneering role."
+    },
+    {
+      "id": "apsara-reactor-q22",
+      "difficulty": "medium",
+      "q": "Apsara fell under the authority of which Indian government body responsible for the nuclear programme?",
+      "options": [
+        "Department of Atomic Energy (DAE)",
+        "Council of Scientific and Industrial Research (CSIR)",
+        "Defence Research and Development Organisation (DRDO)",
+        "Indian Council of Medical Research (ICMR)"
+      ],
+      "answer": 0,
+      "explanation": "Apsara was operated under the Department of Atomic Energy, established in 1954 to oversee India's nuclear activities."
+    },
+    {
+      "id": "apsara-reactor-q23",
+      "difficulty": "hard",
+      "q": "After decades of operation, the original Apsara was shut down in 2009 and replaced by an upgraded reactor commissioned in 2018. By what name is the new reactor known?",
+      "options": [
+        "Apsara-2",
+        "Apsara-Upgraded (Apsara-U)",
+        "Apsara-Plus",
+        "New Apsara"
+      ],
+      "answer": 1,
+      "explanation": "The original reactor was decommissioned in 2009; an upgraded version, Apsara-U (Apsara-Upgraded), was made critical in 2018."
+    },
+    {
+      "id": "apsara-reactor-q24",
+      "difficulty": "hard",
+      "q": "The upgraded Apsara reactor (Apsara-U) was made critical in which year?",
+      "options": [
+        "2010",
+        "2014",
+        "2018",
+        "2021"
+      ],
+      "answer": 2,
+      "explanation": "Apsara-U attained criticality in September 2018 after the original was retired in 2009."
+    },
+    {
+      "id": "apsara-reactor-q25",
+      "difficulty": "hard",
+      "q": "Apsara is often described as having been designed and built largely by Indian engineers and scientists with imported fuel. What does this reflect about the project?",
+      "options": [
+        "India had no role in the reactor's construction",
+        "India demonstrated significant indigenous capability in reactor engineering",
+        "The reactor was entirely a foreign turnkey installation",
+        "The reactor was built without any moderator"
+      ],
+      "answer": 1,
+      "explanation": "Although the enriched fuel was imported, the reactor was designed and constructed by Indian scientists, showcasing early indigenous nuclear engineering capability."
+    },
+    {
+      "id": "apsara-reactor-q26",
+      "difficulty": "hard",
+      "q": "The original Apsara reactor was fuelled with which form of uranium?",
+      "options": [
+        "Natural uranium metal",
+        "Enriched uranium",
+        "Uranium hexafluoride gas",
+        "Depleted uranium"
+      ],
+      "answer": 1,
+      "explanation": "The original Apsara ran on enriched uranium fuel, supplied with assistance from the United Kingdom."
+    },
+    {
+      "id": "apsara-reactor-q27",
+      "difficulty": "hard",
+      "q": "A distinctive visible feature reported when a swimming-pool reactor such as Apsara operates at power is a faint blue glow in the water. This glow is known as what?",
+      "options": [
+        "Bremsstrahlung",
+        "Cherenkov radiation",
+        "Synchrotron radiation",
+        "Fluorescence"
+      ],
+      "answer": 1,
+      "explanation": "The characteristic blue glow seen in pool-type reactors is Cherenkov radiation, emitted when charged particles travel faster than light's speed in water."
+    },
+    {
+      "id": "apsara-reactor-q28",
+      "difficulty": "hard",
+      "q": "Apsara's role included producing radioisotopes that were used in which fields?",
+      "options": [
+        "Only in astronomy",
+        "Medicine, agriculture and industry",
+        "Only in cryptography",
+        "Only in meteorology"
+      ],
+      "answer": 1,
+      "explanation": "Radioisotopes from Apsara supported applications in medicine, agriculture and industry, as well as basic research."
+    },
+    {
+      "id": "apsara-reactor-q29",
+      "difficulty": "hard",
+      "q": "Apsara was commissioned only a couple of years after which key 1954 institutional milestone in India's nuclear administration?",
+      "options": [
+        "Founding of ISRO",
+        "Creation of the Department of Atomic Energy",
+        "Establishment of the IITs",
+        "Founding of CSIR"
+      ],
+      "answer": 1,
+      "explanation": "India's Department of Atomic Energy was created in 1954, and Apsara followed in 1956 as one of its first major achievements."
+    },
+    {
+      "id": "apsara-reactor-q30",
+      "difficulty": "hard",
+      "q": "Which statement best captures Apsara's lasting historical significance?",
+      "options": [
+        "It was the first reactor to ever generate commercial power worldwide",
+        "It was Asia's first nuclear research reactor and a foundation of India's nuclear science",
+        "It was a fusion reactor that achieved net energy gain",
+        "It was a reactor built solely to produce nuclear weapons"
+      ],
+      "answer": 1,
+      "explanation": "Apsara's enduring significance is as Asia's first nuclear research reactor and a cornerstone of India's nuclear science and training programme."
+    }
+  ]
+}

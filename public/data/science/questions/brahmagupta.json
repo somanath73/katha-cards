@@ -1,0 +1,245 @@
+{
+  "cardId": "brahmagupta",
+  "questions": [
+    {
+      "id": "brahmagupta-q01",
+      "difficulty": "easy",
+      "q": "Brahmagupta is best remembered for being one of the first to set out rules for arithmetic involving which number?",
+      "options": ["One", "Zero", "Infinity", "Pi"],
+      "answer": 1,
+      "explanation": "Brahmagupta gave the earliest known systematic rules for arithmetic with zero, earning him the nickname 'Master of Zero'."
+    },
+    {
+      "id": "brahmagupta-q02",
+      "difficulty": "easy",
+      "q": "In which century did Brahmagupta live and work?",
+      "options": ["3rd century", "5th century", "7th century", "11th century"],
+      "answer": 2,
+      "explanation": "Brahmagupta was a 7th-century mathematician and astronomer, born around 598 CE."
+    },
+    {
+      "id": "brahmagupta-q03",
+      "difficulty": "easy",
+      "q": "What was Brahmagupta's primary profession besides mathematics?",
+      "options": ["Astronomer", "Physician", "Poet", "General"],
+      "answer": 0,
+      "explanation": "Brahmagupta was an astronomer who headed an observatory and wrote major works on astronomy as well as mathematics."
+    },
+    {
+      "id": "brahmagupta-q04",
+      "difficulty": "easy",
+      "q": "What is the title of Brahmagupta's most famous treatise?",
+      "options": ["Aryabhatiya", "Lilavati", "Brahmasphutasiddhanta", "Siddhanta Shiromani"],
+      "answer": 2,
+      "explanation": "The Brahmasphutasiddhanta ('Correctly Established Doctrine of Brahma'), written in 628 CE, is Brahmagupta's landmark work."
+    },
+    {
+      "id": "brahmagupta-q05",
+      "difficulty": "easy",
+      "q": "Brahmagupta was among the first to formulate rules for arithmetic with which kind of numbers, besides zero?",
+      "options": ["Imaginary numbers", "Negative numbers", "Prime numbers", "Irrational numbers"],
+      "answer": 1,
+      "explanation": "Brahmagupta gave systematic rules for operating with negative numbers, which he described using the language of debts and fortunes."
+    },
+    {
+      "id": "brahmagupta-q06",
+      "difficulty": "easy",
+      "q": "Brahmagupta is celebrated as a great figure in the history of which country's mathematics?",
+      "options": ["Greece", "Egypt", "India", "China"],
+      "answer": 2,
+      "explanation": "Brahmagupta was an Indian mathematician and astronomer, a central figure in classical Indian mathematics."
+    },
+    {
+      "id": "brahmagupta-q07",
+      "difficulty": "easy",
+      "q": "According to Brahmagupta's rules, what is the result of adding zero to a number?",
+      "options": ["The number stays unchanged", "The number becomes zero", "The number doubles", "The result is undefined"],
+      "answer": 0,
+      "explanation": "Brahmagupta correctly stated that a number remains unchanged when zero is added to it."
+    },
+    {
+      "id": "brahmagupta-q08",
+      "difficulty": "easy",
+      "q": "Brahmagupta described positive and negative numbers using which everyday concepts?",
+      "options": ["Heat and cold", "Fortunes and debts", "Day and night", "Land and water"],
+      "answer": 1,
+      "explanation": "Brahmagupta framed positive quantities as 'fortunes' and negative quantities as 'debts', a practical way to explain signed arithmetic."
+    },
+    {
+      "id": "brahmagupta-q09",
+      "difficulty": "easy",
+      "q": "In what language was Brahmagupta's Brahmasphutasiddhanta originally written?",
+      "options": ["Persian", "Arabic", "Sanskrit", "Latin"],
+      "answer": 2,
+      "explanation": "Like most classical Indian scientific works, the Brahmasphutasiddhanta was composed in Sanskrit, largely in verse."
+    },
+    {
+      "id": "brahmagupta-q10",
+      "difficulty": "easy",
+      "q": "Brahmagupta's work primarily belongs to which broad fields of study?",
+      "options": ["Chemistry and medicine", "Mathematics and astronomy", "Geography and botany", "Music and grammar"],
+      "answer": 1,
+      "explanation": "Brahmagupta made major contributions to both mathematics and astronomy, the two fields his treatises cover."
+    },
+    {
+      "id": "brahmagupta-q11",
+      "difficulty": "medium",
+      "q": "In which year was the Brahmasphutasiddhanta composed?",
+      "options": ["499 CE", "628 CE", "712 CE", "850 CE"],
+      "answer": 1,
+      "explanation": "Brahmagupta completed the Brahmasphutasiddhanta in 628 CE, when he was about 30 years old."
+    },
+    {
+      "id": "brahmagupta-q12",
+      "difficulty": "medium",
+      "q": "Brahmagupta is traditionally associated with working in which region of India?",
+      "options": ["Bhillamala (modern Bhinmal) in Rajasthan", "Pataliputra in Bihar", "Ujjain in Madhya Pradesh", "Kanchipuram in Tamil Nadu"],
+      "answer": 0,
+      "explanation": "Brahmagupta lived in Bhillamala (modern Bhinmal, Rajasthan); he later also worked at the astronomical center of Ujjain."
+    },
+    {
+      "id": "brahmagupta-q13",
+      "difficulty": "medium",
+      "q": "Brahmagupta's famous formula gives the area of which kind of figure?",
+      "options": ["A right triangle", "A cyclic quadrilateral", "A regular hexagon", "An ellipse"],
+      "answer": 1,
+      "explanation": "Brahmagupta's formula computes the area of a cyclic quadrilateral from its four side lengths."
+    },
+    {
+      "id": "brahmagupta-q14",
+      "difficulty": "medium",
+      "q": "Brahmagupta's formula for a cyclic quadrilateral with sides a, b, c, d and semiperimeter s gives the area as:",
+      "options": ["√(s(s−a)(s−b)(s−c))", "√((s−a)(s−b)(s−c)(s−d))", "s(s−a)(s−b)(s−c)(s−d)", "(a+b+c+d)/2"],
+      "answer": 1,
+      "explanation": "Brahmagupta's formula is Area = √((s−a)(s−b)(s−c)(s−d)), generalizing Heron's formula for triangles."
+    },
+    {
+      "id": "brahmagupta-q15",
+      "difficulty": "medium",
+      "q": "Brahmagupta's formula is often described as a generalization of which earlier result?",
+      "options": ["The Pythagorean theorem", "Heron's formula for triangle area", "Euclid's algorithm", "Archimedes' approximation of pi"],
+      "answer": 1,
+      "explanation": "Brahmagupta's formula reduces to Heron's formula when one side of the quadrilateral shrinks to zero, leaving a triangle."
+    },
+    {
+      "id": "brahmagupta-q16",
+      "difficulty": "medium",
+      "q": "What did Brahmagupta correctly state about the product of two negative numbers?",
+      "options": ["It is negative", "It is positive", "It is zero", "It is undefined"],
+      "answer": 1,
+      "explanation": "Brahmagupta stated that the product (or quotient) of two negatives is positive, while a positive times a negative is negative."
+    },
+    {
+      "id": "brahmagupta-q17",
+      "difficulty": "medium",
+      "q": "Which of these statements about division by zero did Brahmagupta attempt, even though it was not fully correct by modern standards?",
+      "options": ["He proved division by zero is impossible", "He gave rules for dividing a number by zero", "He ignored zero entirely", "He defined zero divided by zero as one"],
+      "answer": 1,
+      "explanation": "Brahmagupta tried to give rules for arithmetic involving division by zero, an early but imperfect attempt later refined by Bhaskara II."
+    },
+    {
+      "id": "brahmagupta-q18",
+      "difficulty": "medium",
+      "q": "Brahmagupta worked on solving which type of equation, now often named after a European mathematician?",
+      "options": ["Cubic equations", "Pell's equation (Nx² + 1 = y²)", "Differential equations", "Cauchy equations"],
+      "answer": 1,
+      "explanation": "Brahmagupta studied the equation Nx² + 1 = y², the so-called Pell's equation, providing methods to generate solutions."
+    },
+    {
+      "id": "brahmagupta-q19",
+      "difficulty": "medium",
+      "q": "Brahmagupta's identity concerns the product of two numbers, each of which is a sum involving squares of what form?",
+      "options": ["x² + Ny²", "x² + y³", "x³ + y³", "x! + y!"],
+      "answer": 0,
+      "explanation": "Brahmagupta's identity shows that the product of two numbers of the form x² + Ny² is again of that same form."
+    },
+    {
+      "id": "brahmagupta-q20",
+      "difficulty": "medium",
+      "q": "Roughly when was Brahmagupta born?",
+      "options": ["Around 476 CE", "Around 598 CE", "Around 1114 CE", "Around 1340 CE"],
+      "answer": 1,
+      "explanation": "Brahmagupta was born around 598 CE, placing his career in the early-to-mid 7th century."
+    },
+    {
+      "id": "brahmagupta-q21",
+      "difficulty": "medium",
+      "q": "The Brahmasphutasiddhanta also contained early work in which branch of mathematics dealing with unknowns?",
+      "options": ["Algebra", "Topology", "Set theory", "Calculus"],
+      "answer": 0,
+      "explanation": "Brahmagupta advanced algebra, including methods for solving linear and quadratic equations and handling unknowns."
+    },
+    {
+      "id": "brahmagupta-q22",
+      "difficulty": "medium",
+      "q": "Brahmagupta gave a general solution method for which type of equation in one unknown?",
+      "options": ["Linear equations only", "Quadratic equations", "Quintic equations", "Trigonometric equations"],
+      "answer": 1,
+      "explanation": "Brahmagupta provided a general rule equivalent to the quadratic formula for solving quadratic equations."
+    },
+    {
+      "id": "brahmagupta-q23",
+      "difficulty": "hard",
+      "q": "How did the Brahmasphutasiddhanta influence mathematics in the wider medieval world?",
+      "options": ["It was translated into Arabic and helped spread Indian numerals and zero", "It was lost until the 19th century", "It was never translated outside India", "It was translated only into Chinese"],
+      "answer": 0,
+      "explanation": "The work was translated into Arabic in the 8th century (notably under al-Mansur), helping transmit the decimal system and zero to the Islamic world and later Europe."
+    },
+    {
+      "id": "brahmagupta-q24",
+      "difficulty": "hard",
+      "q": "Which later Indian mathematician built on Brahmagupta's work and is also celebrated for treatment of zero and Pell's equation?",
+      "options": ["Aryabhata", "Bhaskara II", "Madhava of Sangamagrama", "Varahamihira"],
+      "answer": 1,
+      "explanation": "Bhaskara II, in the 12th century, extended Brahmagupta's results on zero, negative numbers, and the equation Nx² + 1 = y²."
+    },
+    {
+      "id": "brahmagupta-q25",
+      "difficulty": "hard",
+      "q": "Brahmagupta's later astronomical work, the Khandakhadyaka, was written approximately when?",
+      "options": ["Around 499 CE", "Around 628 CE", "Around 665 CE", "Around 850 CE"],
+      "answer": 2,
+      "explanation": "Brahmagupta composed the Khandakhadyaka, a practical astronomical handbook, around 665 CE, decades after the Brahmasphutasiddhanta."
+    },
+    {
+      "id": "brahmagupta-q26",
+      "difficulty": "hard",
+      "q": "What is one error in Brahmagupta's rules for zero, as judged by modern mathematics?",
+      "options": ["He said adding zero changes a number", "He effectively claimed zero divided by zero equals zero", "He denied that zero exists", "He said zero times a number is the number"],
+      "answer": 1,
+      "explanation": "Brahmagupta stated that zero divided by zero is zero, which modern mathematics regards as undefined (indeterminate)."
+    },
+    {
+      "id": "brahmagupta-q27",
+      "difficulty": "hard",
+      "q": "Brahmagupta is associated with which special class of cyclic quadrilaterals named in his honor?",
+      "options": ["Brahmagupta triangles", "Brahmagupta quadrilaterals (cyclic with perpendicular diagonals)", "Brahmagupta circles", "Brahmagupta spirals"],
+      "answer": 1,
+      "explanation": "A Brahmagupta quadrilateral is a cyclic quadrilateral with perpendicular diagonals and rational sides, diagonals, and area."
+    },
+    {
+      "id": "brahmagupta-q28",
+      "difficulty": "hard",
+      "q": "Beyond pure mathematics, Brahmagupta also discussed which physical idea in his astronomical writings?",
+      "options": ["Gravity as a force of attraction toward the Earth", "The heliocentric solar system", "The speed of light", "Electromagnetic waves"],
+      "answer": 0,
+      "explanation": "Brahmagupta described a notion of gravity, stating that bodies fall toward the Earth because it is the Earth's nature to attract them."
+    },
+    {
+      "id": "brahmagupta-q29",
+      "difficulty": "hard",
+      "q": "Brahmagupta's chord/sine computations and interpolation methods contributed to which area of mathematics used in astronomy?",
+      "options": ["Trigonometry", "Probability", "Graph theory", "Number theory of primes"],
+      "answer": 0,
+      "explanation": "Brahmagupta produced sine tables and an interpolation formula, advancing the trigonometry needed for astronomical calculation."
+    },
+    {
+      "id": "brahmagupta-q30",
+      "difficulty": "hard",
+      "q": "Which method, important for solving Pell-type equations, is attributed in part to Brahmagupta and later perfected by Bhaskara II?",
+      "options": ["The chakravala (cyclic) method", "The Newton-Raphson method", "Gaussian elimination", "The sieve of Eratosthenes"],
+      "answer": 0,
+      "explanation": "Brahmagupta laid groundwork for the chakravala (cyclic) method for Nx² + 1 = y², which Bhaskara II later completed."
+    }
+  ]
+}

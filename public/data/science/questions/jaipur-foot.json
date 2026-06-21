@@ -1,0 +1,245 @@
+{
+  "cardId": "jaipur-foot",
+  "questions": [
+    {
+      "id": "jaipur-foot-q01",
+      "difficulty": "easy",
+      "q": "What kind of device is the Jaipur Foot?",
+      "options": ["A hearing aid", "An artificial limb (prosthetic foot/leg)", "A wheelchair", "A pacemaker"],
+      "answer": 1,
+      "explanation": "The Jaipur Foot is a rubber-based prosthetic limb that restores mobility to people who have lost a leg or foot."
+    },
+    {
+      "id": "jaipur-foot-q02",
+      "difficulty": "easy",
+      "q": "The Jaipur Foot is named after which Indian city?",
+      "options": ["Mumbai", "Jaipur", "Chennai", "Kolkata"],
+      "answer": 1,
+      "explanation": "The prosthesis takes its name from Jaipur, the Rajasthan city where it was developed."
+    },
+    {
+      "id": "jaipur-foot-q03",
+      "difficulty": "easy",
+      "q": "What is the Jaipur Foot most famous for being?",
+      "options": ["The most expensive prosthetic in the world", "A low-cost, affordable prosthetic limb", "A purely cosmetic device that cannot bear weight", "A digital electronic robotic limb"],
+      "answer": 1,
+      "explanation": "Its great achievement is providing a rugged, functional artificial limb at very low cost, making it affordable to the poor."
+    },
+    {
+      "id": "jaipur-foot-q04",
+      "difficulty": "easy",
+      "q": "In which country was the Jaipur Foot developed?",
+      "options": ["India", "United States", "Japan", "Germany"],
+      "answer": 0,
+      "explanation": "The Jaipur Foot was designed and developed in India, in the city of Jaipur."
+    },
+    {
+      "id": "jaipur-foot-q05",
+      "difficulty": "easy",
+      "q": "Who are the main beneficiaries of the Jaipur Foot?",
+      "options": ["People with hearing loss", "Amputees who have lost a limb", "People who are visually impaired", "People recovering from heart surgery"],
+      "answer": 1,
+      "explanation": "The Jaipur Foot is designed for amputees, restoring their ability to walk after losing a leg or foot."
+    },
+    {
+      "id": "jaipur-foot-q06",
+      "difficulty": "easy",
+      "q": "Roughly how many people are said to have benefited from the Jaipur Foot worldwide?",
+      "options": ["A few hundred", "A few thousand", "Just a dozen", "Millions"],
+      "answer": 3,
+      "explanation": "The device has restored mobility to millions of amputees in India and around the world."
+    },
+    {
+      "id": "jaipur-foot-q07",
+      "difficulty": "easy",
+      "q": "What everyday flexible material is central to the design of the Jaipur Foot?",
+      "options": ["Glass", "Porcelain", "Rubber", "Paper"],
+      "answer": 2,
+      "explanation": "The Jaipur Foot is built largely from rubber, giving it flexibility and durability at low cost."
+    },
+    {
+      "id": "jaipur-foot-q08",
+      "difficulty": "easy",
+      "q": "A key practical advantage of the Jaipur Foot for users in India is that it allows them to do what?",
+      "options": ["Swim competitively", "Walk barefoot and squat on uneven ground", "Fly an aircraft", "Type faster"],
+      "answer": 1,
+      "explanation": "Its rugged, flexible design lets users walk barefoot, squat, and move on rough or uneven terrain common in rural India."
+    },
+    {
+      "id": "jaipur-foot-q09",
+      "difficulty": "easy",
+      "q": "Compared with imported Western prosthetic limbs, the Jaipur Foot is generally:",
+      "options": ["Far more expensive", "Much cheaper", "About the same price", "Available only to the wealthy"],
+      "answer": 1,
+      "explanation": "The Jaipur Foot is dramatically cheaper than conventional Western prostheses, which is the heart of its impact."
+    },
+    {
+      "id": "jaipur-foot-q10",
+      "difficulty": "easy",
+      "q": "The Jaipur Foot is best described as an example of which kind of innovation?",
+      "options": ["Frugal, affordable engineering for social good", "Luxury consumer technology", "Military weapons technology", "High-fashion design"],
+      "answer": 0,
+      "explanation": "It is a classic example of frugal innovation: a simple, cheap, effective solution to a major human need."
+    },
+    {
+      "id": "jaipur-foot-q11",
+      "difficulty": "medium",
+      "q": "Which Indian craftsman is widely credited as the master technician who, together with a doctor, created the Jaipur Foot?",
+      "options": ["Ram Chandra Sharma", "Verghese Kurien", "Homi Bhabha", "Narinder Singh Kapany"],
+      "answer": 0,
+      "explanation": "Master craftsman Ram Chandra Sharma developed the rubber foot's design alongside the orthopaedic surgeon."
+    },
+    {
+      "id": "jaipur-foot-q12",
+      "difficulty": "medium",
+      "q": "Which orthopaedic surgeon is credited as the medical force behind the Jaipur Foot?",
+      "options": ["Dr. Pramod Karan Sethi", "Dr. Har Gobind Khorana", "Dr. M. S. Swaminathan", "Dr. Yellapragada Subbarow"],
+      "answer": 0,
+      "explanation": "Orthopaedic surgeon Dr. Pramod Karan Sethi worked with Ram Chandra Sharma to develop the Jaipur Foot."
+    },
+    {
+      "id": "jaipur-foot-q13",
+      "difficulty": "medium",
+      "q": "In which decade was the Jaipur Foot first developed?",
+      "options": ["1920s", "1990s", "1960s", "2010s"],
+      "answer": 2,
+      "explanation": "The Jaipur Foot was developed in the late 1960s, around 1968, in Jaipur."
+    },
+    {
+      "id": "jaipur-foot-q14",
+      "difficulty": "medium",
+      "q": "Dr. Pramod Karan Sethi received which major Indian award in 1981, in part for the Jaipur Foot work?",
+      "options": ["Bharat Ratna", "Ramon Magsaysay Award", "Param Vir Chakra", "Dronacharya Award"],
+      "answer": 1,
+      "explanation": "Dr. P. K. Sethi was honoured with the Ramon Magsaysay Award in 1981 for the Jaipur Foot's social impact."
+    },
+    {
+      "id": "jaipur-foot-q15",
+      "difficulty": "medium",
+      "q": "Which charitable organisation is most associated with manufacturing and distributing the Jaipur Foot free of charge?",
+      "options": ["Indian Space Research Organisation", "Council of Scientific and Industrial Research", "Bhagwan Mahaveer Viklang Sahayata Samiti (BMVSS)", "Bharat Heavy Electricals Limited"],
+      "answer": 2,
+      "explanation": "The Jaipur-based BMVSS organisation has long fitted Jaipur Feet to amputees free of charge."
+    },
+    {
+      "id": "jaipur-foot-q16",
+      "difficulty": "medium",
+      "q": "Why was the Jaipur Foot especially suited to Indian conditions compared with rigid foreign designs?",
+      "options": ["It required electric charging stations", "It allowed barefoot walking, squatting and sitting cross-legged", "It only worked on paved roads", "It needed daily replacement"],
+      "answer": 1,
+      "explanation": "Its flexibility let users walk barefoot, squat and sit cross-legged, matching everyday Indian life and worship."
+    },
+    {
+      "id": "jaipur-foot-q17",
+      "difficulty": "medium",
+      "q": "A notable feature of the Jaipur Foot's design is that it is:",
+      "options": ["Fully waterproof and lightweight enough for fieldwork and wet ground", "Made entirely of solid steel", "Powered by a small petrol engine", "Only usable while seated"],
+      "answer": 0,
+      "explanation": "It is waterproof and rugged, so users can work in paddy fields, mud and water, unlike many imported limbs."
+    },
+    {
+      "id": "jaipur-foot-q18",
+      "difficulty": "medium",
+      "q": "The Jaipur Foot was deliberately designed so that it could be fitted to a patient in a very short time. Roughly how long does fitting typically take?",
+      "options": ["Several months", "About a single day or even hours", "Exactly one year", "Two weeks of hospital stay"],
+      "answer": 1,
+      "explanation": "A major advantage is that a Jaipur Foot can often be made and fitted within a day, sometimes in just hours."
+    },
+    {
+      "id": "jaipur-foot-q19",
+      "difficulty": "medium",
+      "q": "The colour and appearance of the Jaipur Foot were chosen so that it would:",
+      "options": ["Glow in the dark", "Resemble a natural human foot in shape and skin tone", "Be bright neon for visibility", "Change colour with temperature"],
+      "answer": 1,
+      "explanation": "It was moulded to look like a natural foot, helping users feel less self-conscious and walk barefoot."
+    },
+    {
+      "id": "jaipur-foot-q20",
+      "difficulty": "medium",
+      "q": "Which of these best describes the Jaipur Foot's intellectual-property approach?",
+      "options": ["It was patented and sold at premium prices", "Its design was kept open and made widely accessible to maximise reach", "It was a military secret", "It was licensed only to one foreign company"],
+      "answer": 1,
+      "explanation": "Its creators prioritised affordability and broad access over profit, allowing the design to spread widely."
+    },
+    {
+      "id": "jaipur-foot-q21",
+      "difficulty": "medium",
+      "q": "The Jaipur Foot programme has carried out fitment camps not only in India but also in many other:",
+      "options": ["Developing countries across Asia, Africa and Latin America", "Antarctic research stations only", "Outer-space habitats", "Underwater laboratories"],
+      "answer": 0,
+      "explanation": "BMVSS has held camps in numerous developing countries, extending the Jaipur Foot's reach worldwide."
+    },
+    {
+      "id": "jaipur-foot-q22",
+      "difficulty": "medium",
+      "q": "What problem with traditional Western prosthetic feet did the Jaipur Foot specifically aim to overcome for Indian users?",
+      "options": ["They were too colourful", "They required wearing shoes and could not handle squatting or uneven ground", "They were too light to feel", "They worked only in cold climates"],
+      "answer": 1,
+      "explanation": "Western SACH feet needed shoes and rigid gait; the Jaipur Foot allowed barefoot, flexible movement on rough terrain."
+    },
+    {
+      "id": "jaipur-foot-q23",
+      "difficulty": "hard",
+      "q": "The Jaipur Foot is often contrasted with which standard Western prosthetic foot design?",
+      "options": ["The cochlear implant", "The artificial heart valve", "The pacemaker electrode", "The SACH (Solid Ankle Cushion Heel) foot"],
+      "answer": 3,
+      "explanation": "Western prosthetics commonly used the rigid SACH foot, whereas the Jaipur Foot offered greater flexibility and barefoot use."
+    },
+    {
+      "id": "jaipur-foot-q24",
+      "difficulty": "hard",
+      "q": "In which year is the Jaipur Foot generally said to have been developed?",
+      "options": ["1947", "1968", "1991", "2008"],
+      "answer": 1,
+      "explanation": "The Jaipur Foot is traditionally dated to 1968, created by Ram Chandra Sharma and Dr. P. K. Sethi."
+    },
+    {
+      "id": "jaipur-foot-q25",
+      "difficulty": "hard",
+      "q": "The Jaipur Foot's design allows a flexible ankle joint that mimics which natural foot motions?",
+      "options": ["Dorsiflexion, plantarflexion and some inversion/eversion", "Only forward sliding", "No movement at all", "Rotation a full 360 degrees"],
+      "answer": 0,
+      "explanation": "Its rubber construction permits up-down and side-to-side ankle movement, closely imitating a real foot."
+    },
+    {
+      "id": "jaipur-foot-q26",
+      "difficulty": "hard",
+      "q": "Beyond rubber, the Jaipur Foot's body has traditionally incorporated which inexpensive locally available materials?",
+      "options": ["Gold and silver leaf", "Wood and cushioning materials with a rubber exterior", "Pure titanium alloy", "Carbon-fibre composite only"],
+      "answer": 1,
+      "explanation": "The classic Jaipur Foot combined a wooden keel and cushioning with vulcanised rubber, all cheap and locally sourced."
+    },
+    {
+      "id": "jaipur-foot-q27",
+      "difficulty": "hard",
+      "q": "The Jaipur Foot has been recognised internationally; it has notably been featured or supported in collaborations with which kind of institutions?",
+      "options": ["Leading engineering and research institutions seeking to refine its materials", "Only fashion houses", "Stock exchanges", "Sports betting agencies"],
+      "answer": 0,
+      "explanation": "Engineering and research bodies have collaborated with the Jaipur Foot programme to improve materials and design."
+    },
+    {
+      "id": "jaipur-foot-q28",
+      "difficulty": "hard",
+      "q": "What social impact, beyond physical mobility, is most often attributed to the Jaipur Foot?",
+      "options": ["It improved telephone networks", "It increased crop yields", "It restored dignity and the ability to earn a livelihood for amputees", "It reduced air pollution"],
+      "answer": 2,
+      "explanation": "By restoring the ability to walk and work, the Jaipur Foot returned independence, dignity and earning power to amputees."
+    },
+    {
+      "id": "jaipur-foot-q29",
+      "difficulty": "hard",
+      "q": "Which statement about the durability of the Jaipur Foot is accurate?",
+      "options": ["It must be discarded after a single use", "It is rugged enough to withstand years of hard daily use in rough conditions", "It dissolves in water", "It can only be used indoors on carpet"],
+      "answer": 1,
+      "explanation": "The Jaipur Foot was engineered to be tough and long-lasting, surviving mud, water and demanding rural labour."
+    },
+    {
+      "id": "jaipur-foot-q30",
+      "difficulty": "hard",
+      "q": "The Jaipur Foot is celebrated as an example of which broader Indian contribution to global technology?",
+      "options": ["Affordable, humane biomedical innovation accessible to the poor", "Supersonic missile technology", "Cryogenic rocket engines", "High-frequency stock trading"],
+      "answer": 0,
+      "explanation": "It stands as a landmark of low-cost, socially driven biomedical innovation that reached the world's poorest amputees."
+    }
+  ]
+}

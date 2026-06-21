@@ -72,7 +72,7 @@ export const CATEGORIES = [
     tagline: 'From Aryabhata to ISRO',
     emblem: 'moon',
     palette: 'ocean',
-    live: false,
+    live: true,
   },
   {
     id: 'festivals',

@@ -1,0 +1,245 @@
+{
+  "cardId": "indian-trigonometry",
+  "questions": [
+    {
+      "id": "indian-trigonometry-q01",
+      "difficulty": "easy",
+      "q": "The modern trigonometric word 'sine' is historically descended from which Indian mathematical term?",
+      "options": ["bija", "jya", "shunya", "yukti"],
+      "answer": 1,
+      "explanation": "The Sanskrit term 'jya' (and 'ardha-jya', half-chord) is the direct ancestor of the modern 'sine'."
+    },
+    {
+      "id": "indian-trigonometry-q02",
+      "difficulty": "easy",
+      "q": "In classical Indian mathematics, what does 'kojya' correspond to in modern trigonometry?",
+      "options": ["tangent", "secant", "cotangent", "cosine"],
+      "answer": 3,
+      "explanation": "'Kojya' (the koti-jya) is the ancestor of the modern cosine."
+    },
+    {
+      "id": "indian-trigonometry-q03",
+      "difficulty": "easy",
+      "q": "The Sanskrit term 'jya-ardha' or 'ardha-jya' literally refers to what geometric quantity?",
+      "options": ["The full chord", "The radius", "The diameter", "The half-chord of an arc"],
+      "answer": 3,
+      "explanation": "Indian astronomers worked with the half-chord (ardha-jya) of an arc, which is exactly the modern sine times the radius."
+    },
+    {
+      "id": "indian-trigonometry-q04",
+      "difficulty": "easy",
+      "q": "In which language did Indian mathematicians originally write their trigonometric works?",
+      "options": ["Persian", "Arabic", "Sanskrit", "Greek"],
+      "answer": 2,
+      "explanation": "Classical Indian astronomical and mathematical texts were composed in Sanskrit."
+    },
+    {
+      "id": "indian-trigonometry-q05",
+      "difficulty": "easy",
+      "q": "The Indian sine concept passed into world mathematics chiefly through translation into which language before reaching Latin Europe?",
+      "options": ["Arabic", "Chinese", "Hebrew", "Tamil"],
+      "answer": 0,
+      "explanation": "Indian works were translated into Arabic, and from Arabic the sine function eventually reached medieval Europe."
+    },
+    {
+      "id": "indian-trigonometry-q06",
+      "difficulty": "easy",
+      "q": "Indian astronomers primarily developed trigonometry as a tool to support which field of study?",
+      "options": ["Music theory", "Architecture", "Astronomy", "Medicine"],
+      "answer": 2,
+      "explanation": "Indian trigonometry arose mainly to serve astronomical calculations of planetary and stellar positions."
+    },
+    {
+      "id": "indian-trigonometry-q07",
+      "difficulty": "easy",
+      "q": "Which 5th-6th century Indian astronomer-mathematician is famous for tabulating sine (jya) values in his work?",
+      "options": ["Ramanujan", "C. V. Raman", "Panini", "Aryabhata"],
+      "answer": 3,
+      "explanation": "Aryabhata, in the Aryabhatiya (499 CE), gave one of the earliest known tables of sine differences."
+    },
+    {
+      "id": "indian-trigonometry-q08",
+      "difficulty": "easy",
+      "q": "Aryabhata's famous astronomical and mathematical treatise is known by what title?",
+      "options": ["Lilavati", "Aryabhatiya", "Surya Siddhanta", "Brahmasphutasiddhanta"],
+      "answer": 1,
+      "explanation": "The Aryabhatiya, composed around 499 CE, contains Aryabhata's sine table and other results."
+    },
+    {
+      "id": "indian-trigonometry-q09",
+      "difficulty": "easy",
+      "q": "The Latin word 'sinus', source of English 'sine', originally means which of the following?",
+      "options": ["Star", "Circle", "Shadow", "Bay, fold or bosom"],
+      "answer": 3,
+      "explanation": "Latin 'sinus' means a fold or bay, chosen by translators to render the Arabic word derived from the Indian 'jya'."
+    },
+    {
+      "id": "indian-trigonometry-q10",
+      "difficulty": "easy",
+      "q": "In modern terms, the Indian 'jya' of an arc equals the radius multiplied by which function of the corresponding angle?",
+      "options": ["cosine", "tangent", "sine", "secant"],
+      "answer": 2,
+      "explanation": "Jya was the half-chord, equal to R times the sine of the half-arc's angle."
+    },
+    {
+      "id": "indian-trigonometry-q11",
+      "difficulty": "medium",
+      "q": "The Greeks generally used which trigonometric quantity, in contrast to the Indian preference for the half-chord (sine)?",
+      "options": ["The full chord", "The tangent", "The versine", "The secant"],
+      "answer": 0,
+      "explanation": "Greek astronomers like Ptolemy worked with the chord of the full arc, whereas Indians used the more convenient half-chord."
+    },
+    {
+      "id": "indian-trigonometry-q12",
+      "difficulty": "medium",
+      "q": "The Arabic word that translators eventually rendered as Latin 'sinus' arose from a transliteration of 'jya' into the consonantal form 'jiba/jaib'. What did the Arabic reader take 'jaib' to mean?",
+      "options": ["Arc", "Triangle", "Number", "Pocket, bosom or fold"],
+      "answer": 3,
+      "explanation": "The unvoweled Arabic 'jb' was read as 'jaib' (pocket/bosom), which Latin translators rendered with 'sinus', also meaning a fold or bosom."
+    },
+    {
+      "id": "indian-trigonometry-q13",
+      "difficulty": "medium",
+      "q": "Indian astronomers also used 'utkrama-jya' (or 'sara'). Which modern quantity does this correspond to?",
+      "options": ["The cosine", "The cotangent", "The cosecant", "The versine (1 minus cosine, times R)"],
+      "answer": 3,
+      "explanation": "Utkrama-jya, the 'reversed sine' or sara, corresponds to the versed sine, R(1 - cos)."
+    },
+    {
+      "id": "indian-trigonometry-q14",
+      "difficulty": "medium",
+      "q": "Aryabhata's sine table was constructed for arcs measured in units where a quarter circle is divided into how many parts (giving 24 tabulated values)?",
+      "options": ["90 parts of 1 degree", "60 parts of 1.5 degrees", "24 equal arcs of 225 minutes each", "100 parts"],
+      "answer": 2,
+      "explanation": "Aryabhata tabulated 24 sine differences at intervals of 225 minutes of arc (3.75 degrees), covering the quarter circle."
+    },
+    {
+      "id": "indian-trigonometry-q15",
+      "difficulty": "medium",
+      "q": "Which medieval Persian/Central Asian scholar wrote extensively on Indian sciences and helped transmit Indian trigonometry into the Islamic world around the 11th century?",
+      "options": ["Al-Khwarizmi", "Omar Khayyam", "Al-Biruni", "Ibn Sina"],
+      "answer": 2,
+      "explanation": "Al-Biruni (973-1048) studied and documented Indian astronomy and mathematics, aiding transmission of Indian methods."
+    },
+    {
+      "id": "indian-trigonometry-q16",
+      "difficulty": "medium",
+      "q": "Which 7th-century Indian mathematician, author of the Brahmasphutasiddhanta, gave an interpolation formula useful for computing sine values between tabulated entries?",
+      "options": ["Bhaskara II", "Varahamihira", "Madhava", "Brahmagupta"],
+      "answer": 3,
+      "explanation": "Brahmagupta (598-668 CE) provided a second-order interpolation method for sine values in the Brahmasphutasiddhanta."
+    },
+    {
+      "id": "indian-trigonometry-q17",
+      "difficulty": "medium",
+      "q": "The standard radius (R) used in Indian sine tables, such as Aryabhata's, was approximately what value (in minutes of arc), chosen so the full circle measured 21600 minutes?",
+      "options": ["360", "3600", "3438", "60"],
+      "answer": 2,
+      "explanation": "Indian astronomers used R = 3438 minutes, the radius whose circumference of 21600 minutes matches the 360-degree circle."
+    },
+    {
+      "id": "indian-trigonometry-q18",
+      "difficulty": "medium",
+      "q": "Which Latin term for the cosine, still echoed in some older texts, reflects the idea of the 'sine of the complement', mirroring the Indian relationship between jya and kojya?",
+      "options": ["sinus rectus", "sinus versus", "sinus totus", "sinus complementi (sinus of the complement)"],
+      "answer": 3,
+      "explanation": "Cosine derives from 'complementi sinus', the sine of the complementary angle, paralleling the Indian koti-jya."
+    },
+    {
+      "id": "indian-trigonometry-q19",
+      "difficulty": "medium",
+      "q": "The 12th-century mathematician Bhaskara II, who also worked with sine functions and gave results approaching the derivative of sine, authored which celebrated mathematical text?",
+      "options": ["Lilavati", "Aryabhatiya", "Sulba Sutras", "Vedanga Jyotisha"],
+      "answer": 0,
+      "explanation": "Bhaskara II (1114-1185) wrote the Lilavati and the Siddhanta Shiromani, advancing work related to sines."
+    },
+    {
+      "id": "indian-trigonometry-q20",
+      "difficulty": "medium",
+      "q": "Which European translator/astronomer of the 12th century is traditionally credited with the Latin coinage 'sinus' when translating Arabic astronomical works?",
+      "options": ["Gerard of Cremona", "Fibonacci", "Regiomontanus", "Copernicus"],
+      "answer": 0,
+      "explanation": "Gerard of Cremona's 12th-century Latin translations are commonly credited with introducing 'sinus' for the Arabic 'jaib'."
+    },
+    {
+      "id": "indian-trigonometry-q21",
+      "difficulty": "medium",
+      "q": "The Surya Siddhanta, an important early Indian astronomical text, is notable in the history of trigonometry for containing what?",
+      "options": ["A proof of the Pythagorean theorem", "The first use of zero as a number", "A decimal logarithm table", "Early sine (jya) tables and rules"],
+      "answer": 3,
+      "explanation": "The Surya Siddhanta presents sine tables and trigonometric rules central to early Indian astronomy."
+    },
+    {
+      "id": "indian-trigonometry-q22",
+      "difficulty": "medium",
+      "q": "In Indian usage, the term 'koti' (in koti-jya for cosine) refers to which part of a right triangle relative to the arc?",
+      "options": ["The hypotenuse", "The chord", "The complementary side (the 'upright' leg)", "The diameter"],
+      "answer": 2,
+      "explanation": "'Koti' denotes the perpendicular/complementary leg, so koti-jya is the sine of the complementary arc, i.e. the cosine."
+    },
+    {
+      "id": "indian-trigonometry-q23",
+      "difficulty": "hard",
+      "q": "The Kerala School mathematician Madhava of Sangamagrama (c. 14th-15th century) is credited with what advance directly involving the sine function?",
+      "options": ["Inventing the protractor", "Discovering the law of sines", "Proving sine is irrational", "Deriving the infinite (power) series for sine and cosine"],
+      "answer": 3,
+      "explanation": "Madhava developed infinite series expansions for sine and cosine, anticipating later European Taylor series results."
+    },
+    {
+      "id": "indian-trigonometry-q24",
+      "difficulty": "hard",
+      "q": "Aryabhata's sine table is often described as listing not the sines themselves but which related set of values?",
+      "options": ["The reciprocals of sines", "The squares of the sines", "The logarithms of the sines", "The successive differences of the sines"],
+      "answer": 3,
+      "explanation": "The Aryabhatiya famously encodes the table as successive sine differences, from which the sines are accumulated."
+    },
+    {
+      "id": "indian-trigonometry-q25",
+      "difficulty": "hard",
+      "q": "The 'jaib' misreading that produced Latin 'sinus' is a classic example of what kind of transmission feature of Arabic script?",
+      "options": ["Right-to-left numbering", "Use of abjad numerals", "Lack of a symbol for zero", "Omission of short-vowel marks leaving consonantal skeletons ambiguous"],
+      "answer": 3,
+      "explanation": "Arabic often omits short vowels, so the consonants 'j-y-b' (from jya) could be read as 'jaib', meaning bosom/fold."
+    },
+    {
+      "id": "indian-trigonometry-q26",
+      "difficulty": "hard",
+      "q": "Which Kerala School text, attributed to Jyeshtadeva (c. 1530), systematically presented the sine and cosine series and is sometimes called the first 'calculus textbook'?",
+      "options": ["Tantrasangraha", "Karanapaddhati", "Aryabhatiya", "Yuktibhasa"],
+      "answer": 3,
+      "explanation": "The Yuktibhasa by Jyeshtadeva gives reasoned derivations of the sine and cosine series of the Kerala School."
+    },
+    {
+      "id": "indian-trigonometry-q27",
+      "difficulty": "hard",
+      "q": "The infinite series for sine known to the Kerala School corresponds in modern notation to which expansion?",
+      "options": ["x - x^3/3! + x^5/5! - ...", "1 + x + x^2/2! + ...", "1 - x^2/2! + x^4/4! - ...", "x + x^2 + x^3 + ..."],
+      "answer": 0,
+      "explanation": "The Madhava sine series matches x - x^3/3! + x^5/5! - ..., the modern Maclaurin series for sine."
+    },
+    {
+      "id": "indian-trigonometry-q28",
+      "difficulty": "hard",
+      "q": "Nilakantha Somayaji, a Kerala School astronomer who used and refined sine series, authored which major work around 1500 CE?",
+      "options": ["Tantrasangraha", "Lilavati", "Brahmasphutasiddhanta", "Pancha-Siddhantika"],
+      "answer": 0,
+      "explanation": "Nilakantha Somayaji wrote the Tantrasangraha (c. 1500), which uses and extends the school's trigonometric series."
+    },
+    {
+      "id": "indian-trigonometry-q29",
+      "difficulty": "hard",
+      "q": "Varahamihira's 6th-century work the Pancha-Siddhantika is significant for trigonometry because it records which fact?",
+      "options": ["The earliest decimal place-value notation", "Some of the earliest Indian sine values and the relation sin^2 + cos^2 = R^2-type identities", "The first negative numbers", "A method for cube roots"],
+      "answer": 1,
+      "explanation": "Varahamihira (c. 505 CE) recorded early sine values and relations equivalent to the Pythagorean identity scaled by R."
+    },
+    {
+      "id": "indian-trigonometry-q30",
+      "difficulty": "hard",
+      "q": "Why was the Indian half-chord (jya) a practical improvement over the Greek full chord for astronomical computation?",
+      "options": ["It required no tables", "It directly related an arc to a right triangle, simplifying calculations", "It avoided the use of fractions entirely", "It eliminated the need for the radius"],
+      "answer": 1,
+      "explanation": "Using the half-chord ties an angle directly to a right triangle, making computations more direct than with full chords."
+    }
+  ]
+}

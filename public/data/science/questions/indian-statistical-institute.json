@@ -1,0 +1,245 @@
+{
+  "cardId": "indian-statistical-institute",
+  "questions": [
+    {
+      "id": "indian-statistical-institute-q01",
+      "difficulty": "easy",
+      "q": "Who founded the Indian Statistical Institute?",
+      "options": ["C. V. Raman", "Homi Bhabha", "Satyendra Nath Bose", "P. C. Mahalanobis"],
+      "answer": 3,
+      "explanation": "The Indian Statistical Institute was founded by the statistician Prasanta Chandra Mahalanobis."
+    },
+    {
+      "id": "indian-statistical-institute-q02",
+      "difficulty": "easy",
+      "q": "In which year was the Indian Statistical Institute founded?",
+      "options": ["1909", "1947", "1931", "1956"],
+      "answer": 2,
+      "explanation": "The Indian Statistical Institute was established in 1931."
+    },
+    {
+      "id": "indian-statistical-institute-q03",
+      "difficulty": "easy",
+      "q": "In which city is the headquarters of the Indian Statistical Institute located?",
+      "options": ["Mumbai", "Delhi", "Kolkata", "Bengaluru"],
+      "answer": 2,
+      "explanation": "The institute's main campus and headquarters are in Kolkata (Calcutta)."
+    },
+    {
+      "id": "indian-statistical-institute-q04",
+      "difficulty": "easy",
+      "q": "The Indian Statistical Institute is best known as a world centre for which field?",
+      "options": ["Astronomy", "Geology", "Botany", "Statistics"],
+      "answer": 3,
+      "explanation": "The ISI is internationally renowned as a centre for statistics and, more recently, data science."
+    },
+    {
+      "id": "indian-statistical-institute-q05",
+      "difficulty": "easy",
+      "q": "The Indian Statistical Institute is commonly known by which abbreviation?",
+      "options": ["ISI", "IISc", "IIT", "TIFR"],
+      "answer": 0,
+      "explanation": "The Indian Statistical Institute is widely abbreviated as ISI."
+    },
+    {
+      "id": "indian-statistical-institute-q06",
+      "difficulty": "easy",
+      "q": "P. C. Mahalanobis, the institute's founder, was primarily a specialist in which subject?",
+      "options": ["Chemistry", "Zoology", "Statistics", "Linguistics"],
+      "answer": 2,
+      "explanation": "Mahalanobis was a pioneering statistician, often called the father of modern statistics in India."
+    },
+    {
+      "id": "indian-statistical-institute-q07",
+      "difficulty": "easy",
+      "q": "The ISI is most closely associated with which broad area of study?",
+      "options": ["Marine biology", "Volcanology", "Theology", "Data and statistics"],
+      "answer": 3,
+      "explanation": "The institute focuses on the development and application of statistics and data science."
+    },
+    {
+      "id": "indian-statistical-institute-q08",
+      "difficulty": "easy",
+      "q": "National Statistics Day in India is observed on the birthday of which person linked to the ISI?",
+      "options": ["Jawaharlal Nehru", "C. R. Rao", "A. P. J. Abdul Kalam", "P. C. Mahalanobis"],
+      "answer": 3,
+      "explanation": "National Statistics Day is celebrated on 29 June, the birth anniversary of P. C. Mahalanobis."
+    },
+    {
+      "id": "indian-statistical-institute-q09",
+      "difficulty": "easy",
+      "q": "The Indian Statistical Institute primarily grants degrees and conducts research in which type of disciplines?",
+      "options": ["Performing arts", "Quantitative and mathematical sciences", "Culinary studies", "Maritime law"],
+      "answer": 1,
+      "explanation": "The ISI specialises in statistics, mathematics, computer science and related quantitative fields."
+    },
+    {
+      "id": "indian-statistical-institute-q10",
+      "difficulty": "easy",
+      "q": "Which Indian statistician who built his reputation at the ISI has a famous formula named after him?",
+      "options": ["C. R. Rao", "Vikram Sarabhai", "Meghnad Saha", "S. Chandrasekhar"],
+      "answer": 0,
+      "explanation": "C. R. Rao, long associated with the ISI, gave his name to results such as the Cramer-Rao bound and Rao-Blackwell theorem."
+    },
+    {
+      "id": "indian-statistical-institute-q11",
+      "difficulty": "medium",
+      "q": "Which statistical distance measure is named after the ISI's founder?",
+      "options": ["Euclidean distance", "Hamming distance", "Mahalanobis distance", "Manhattan distance"],
+      "answer": 2,
+      "explanation": "The Mahalanobis distance, a measure that accounts for correlations between variables, is named after P. C. Mahalanobis."
+    },
+    {
+      "id": "indian-statistical-institute-q12",
+      "difficulty": "medium",
+      "q": "In which year did the Indian Statistical Institute receive the status of an Institution of National Importance through an Act of Parliament?",
+      "options": ["1931", "1972", "1959", "1991"],
+      "answer": 2,
+      "explanation": "The Indian Statistical Institute Act of 1959 declared the ISI an institution of national importance."
+    },
+    {
+      "id": "indian-statistical-institute-q13",
+      "difficulty": "medium",
+      "q": "Which renowned scientific journal was founded by Mahalanobis at the ISI in 1933?",
+      "options": ["Current Science", "Pramana", "Resonance", "Sankhya"],
+      "answer": 3,
+      "explanation": "Mahalanobis founded Sankhya: The Indian Journal of Statistics in 1933."
+    },
+    {
+      "id": "indian-statistical-institute-q14",
+      "difficulty": "medium",
+      "q": "The ISI played a central role in designing which technique used in India's large-scale national surveys?",
+      "options": ["Carbon dating", "Genome sequencing", "Large-scale sample surveys", "Spectroscopy"],
+      "answer": 2,
+      "explanation": "Mahalanobis and the ISI pioneered large-scale sample survey methodology, influencing surveys worldwide."
+    },
+    {
+      "id": "indian-statistical-institute-q15",
+      "difficulty": "medium",
+      "q": "Which national survey organisation in India grew out of Mahalanobis's pioneering survey work at the ISI?",
+      "options": ["Census of India", "Geological Survey of India", "National Sample Survey", "Survey of India"],
+      "answer": 2,
+      "explanation": "The National Sample Survey (NSS), launched in 1950, emerged from Mahalanobis's survey methodology at the ISI."
+    },
+    {
+      "id": "indian-statistical-institute-q16",
+      "difficulty": "medium",
+      "q": "Mahalanobis is credited with developing a two-sector economic model that shaped which of India's Five-Year Plans?",
+      "options": ["The First Five-Year Plan", "The Fifth Five-Year Plan", "The Tenth Five-Year Plan", "The Second Five-Year Plan"],
+      "answer": 3,
+      "explanation": "The Mahalanobis model formed the basis of India's Second Five-Year Plan, emphasising heavy industry."
+    },
+    {
+      "id": "indian-statistical-institute-q17",
+      "difficulty": "medium",
+      "q": "Which prestigious undergraduate degree, focused on statistics, is offered at the ISI?",
+      "options": ["B.Pharm", "LL.B", "B.Arch", "B.Stat"],
+      "answer": 3,
+      "explanation": "The ISI offers the well-regarded Bachelor of Statistics (B.Stat) degree along with the M.Stat."
+    },
+    {
+      "id": "indian-statistical-institute-q18",
+      "difficulty": "medium",
+      "q": "Where did Mahalanobis study, an experience that sparked his lifelong interest in statistics?",
+      "options": ["Oxford", "Harvard", "Cambridge", "Sorbonne"],
+      "answer": 2,
+      "explanation": "Mahalanobis studied at the University of Cambridge, where he encountered the journal Biometrika and the field of statistics."
+    },
+    {
+      "id": "indian-statistical-institute-q19",
+      "difficulty": "medium",
+      "q": "The ISI established a notable early research group in which computing-related field within Indian science?",
+      "options": ["Quantum computing", "Computer science and machine learning", "Cryptocurrency", "Bioinformatics only"],
+      "answer": 1,
+      "explanation": "The ISI became a leading Indian centre for computer science, statistical computing and machine learning research."
+    },
+    {
+      "id": "indian-statistical-institute-q20",
+      "difficulty": "medium",
+      "q": "Apart from Kolkata, the ISI has major academic centres in which set of Indian cities?",
+      "options": ["Chennai and Pune", "Hyderabad and Jaipur", "Delhi and Bengaluru", "Lucknow and Patna"],
+      "answer": 2,
+      "explanation": "Besides Kolkata, the ISI operates important centres in Delhi and Bengaluru, among others."
+    },
+    {
+      "id": "indian-statistical-institute-q21",
+      "difficulty": "medium",
+      "q": "The ISI was originally founded within which department of Presidency College, Calcutta?",
+      "options": ["The Physics Laboratory", "The Statistical Laboratory", "The Botany Wing", "The Chemistry Annexe"],
+      "answer": 1,
+      "explanation": "The ISI grew out of the Statistical Laboratory that Mahalanobis set up in his rooms at Presidency College, Calcutta."
+    },
+    {
+      "id": "indian-statistical-institute-q22",
+      "difficulty": "medium",
+      "q": "Which Indian government ministry does the Indian Statistical Institute primarily operate under?",
+      "options": ["Ministry of Defence", "Ministry of Home Affairs", "Ministry of External Affairs", "Ministry of Statistics and Programme Implementation"],
+      "answer": 3,
+      "explanation": "The ISI functions largely under the Ministry of Statistics and Programme Implementation."
+    },
+    {
+      "id": "indian-statistical-institute-q23",
+      "difficulty": "hard",
+      "q": "C. R. Rao, associated with the ISI, co-developed which theorem that improves an estimator using a sufficient statistic?",
+      "options": ["Bayes' theorem", "The Rao-Blackwell theorem", "The central limit theorem", "Bell's theorem"],
+      "answer": 1,
+      "explanation": "The Rao-Blackwell theorem, co-named for C. R. Rao, shows how to improve an estimator by conditioning on a sufficient statistic."
+    },
+    {
+      "id": "indian-statistical-institute-q24",
+      "difficulty": "hard",
+      "q": "The ISI's full name in its founding era reflected work in 'pilot surveys.' What term did Mahalanobis coin for repeatedly resurveying part of a sample to control errors?",
+      "options": ["Interpenetrating samples", "Random walks", "Bootstrap resampling", "Cluster pruning"],
+      "answer": 0,
+      "explanation": "Mahalanobis introduced the technique of interpenetrating samples (subsamples) to assess and control survey errors."
+    },
+    {
+      "id": "indian-statistical-institute-q25",
+      "difficulty": "hard",
+      "q": "Which famous British statistician collaborated with Mahalanobis and visited the ISI, helping shape its early statistical research?",
+      "options": ["Ronald Fisher", "Karl Pearson", "Both Ronald Fisher and Karl Pearson", "John Tukey"],
+      "answer": 2,
+      "explanation": "Mahalanobis corresponded and worked with both Karl Pearson and Ronald Fisher, who influenced the ISI's development."
+    },
+    {
+      "id": "indian-statistical-institute-q26",
+      "difficulty": "hard",
+      "q": "Mahalanobis applied statistics early in his career to a study of which physical phenomenon over Calcutta?",
+      "options": ["Earthquakes", "Anthropometry and meteorology", "Tides", "Solar eclipses"],
+      "answer": 1,
+      "explanation": "Mahalanobis made his early statistical contributions in anthropometry (e.g., Anglo-Indian measurements) and meteorology."
+    },
+    {
+      "id": "indian-statistical-institute-q27",
+      "difficulty": "hard",
+      "q": "The ISI is one of the few institutions in India that has long combined teaching with which two other core functions in a single mandate?",
+      "options": ["Research and the application of statistics to national problems", "Manufacturing and exports", "Defence production and policing", "Agriculture extension and forestry"],
+      "answer": 0,
+      "explanation": "The ISI's mandate uniquely unites teaching, research and the practical application of statistics to national problems."
+    },
+    {
+      "id": "indian-statistical-institute-q28",
+      "difficulty": "hard",
+      "q": "C. R. Rao's name also appears in which fundamental lower bound on the variance of an unbiased estimator?",
+      "options": ["The Chernoff bound", "The Hoeffding bound", "The Markov bound", "The Cramer-Rao bound"],
+      "answer": 3,
+      "explanation": "The Cramer-Rao bound, co-named for C. R. Rao of the ISI, gives a lower bound on the variance of any unbiased estimator."
+    },
+    {
+      "id": "indian-statistical-institute-q29",
+      "difficulty": "hard",
+      "q": "Mahalanobis served as honorary statistical adviser to which body, reflecting the ISI's national influence?",
+      "options": ["The Reserve Bank of India", "The Cabinet of the Government of India", "The Supreme Court", "The Election Commission"],
+      "answer": 1,
+      "explanation": "Mahalanobis was appointed honorary statistical adviser to the Cabinet of the Government of India."
+    },
+    {
+      "id": "indian-statistical-institute-q30",
+      "difficulty": "hard",
+      "q": "Which mathematical geometry concept underlies the Mahalanobis distance that makes it differ from ordinary Euclidean distance?",
+      "options": ["The curvature of spacetime", "The covariance (correlation) structure of the data", "Prime factorization", "Fractal dimension"],
+      "answer": 1,
+      "explanation": "The Mahalanobis distance scales by the data's covariance matrix, accounting for correlations between variables unlike Euclidean distance."
+    }
+  ]
+}

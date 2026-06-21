@@ -1,0 +1,245 @@
+{
+  "cardId": "chandrayaan-1",
+  "questions": [
+    {
+      "id": "chandrayaan-1-q01",
+      "difficulty": "easy",
+      "q": "Chandrayaan-1 was which country's first mission to the Moon?",
+      "options": ["China", "India", "Japan", "South Korea"],
+      "answer": 1,
+      "explanation": "Chandrayaan-1 was India's first dedicated lunar mission."
+    },
+    {
+      "id": "chandrayaan-1-q02",
+      "difficulty": "easy",
+      "q": "Which space agency built and launched Chandrayaan-1?",
+      "options": ["ISRO", "NASA", "ESA", "Roscosmos"],
+      "answer": 0,
+      "explanation": "Chandrayaan-1 was developed and launched by the Indian Space Research Organisation (ISRO)."
+    },
+    {
+      "id": "chandrayaan-1-q03",
+      "difficulty": "easy",
+      "q": "In which year was Chandrayaan-1 launched?",
+      "options": ["2005", "2011", "2014", "2008"],
+      "answer": 3,
+      "explanation": "Chandrayaan-1 was launched in October 2008."
+    },
+    {
+      "id": "chandrayaan-1-q04",
+      "difficulty": "easy",
+      "q": "What celestial body did Chandrayaan-1 explore?",
+      "options": ["Mars", "Venus", "The Moon", "An asteroid"],
+      "answer": 2,
+      "explanation": "Chandrayaan-1 was a lunar mission that orbited the Moon."
+    },
+    {
+      "id": "chandrayaan-1-q05",
+      "difficulty": "easy",
+      "q": "What major discovery is Chandrayaan-1 best known for?",
+      "options": ["Confirming water on the Moon", "Finding life on the Moon", "Discovering a new moon of Earth", "Detecting volcanoes erupting on the Moon"],
+      "answer": 0,
+      "explanation": "Chandrayaan-1's instruments confirmed the presence of water on the Moon."
+    },
+    {
+      "id": "chandrayaan-1-q06",
+      "difficulty": "easy",
+      "q": "What does the word 'Chandrayaan' mean?",
+      "options": ["Moon craft / Moon vehicle", "Star traveller", "Sky walker", "Space wanderer"],
+      "answer": 0,
+      "explanation": "'Chandrayaan' is derived from Sanskrit, meaning 'Moon craft' or 'Moon vehicle'."
+    },
+    {
+      "id": "chandrayaan-1-q07",
+      "difficulty": "easy",
+      "q": "Chandrayaan-1 was primarily what kind of spacecraft?",
+      "options": ["A lunar rover", "A crewed capsule", "A lunar orbiter", "A sample-return lander"],
+      "answer": 2,
+      "explanation": "Chandrayaan-1 was an uncrewed orbiter that circled the Moon."
+    },
+    {
+      "id": "chandrayaan-1-q08",
+      "difficulty": "easy",
+      "q": "Which launch vehicle carried Chandrayaan-1 into space?",
+      "options": ["GSLV Mk III", "Ariane 5", "Falcon 9", "PSLV"],
+      "answer": 3,
+      "explanation": "Chandrayaan-1 was launched aboard ISRO's Polar Satellite Launch Vehicle (PSLV-XL)."
+    },
+    {
+      "id": "chandrayaan-1-q09",
+      "difficulty": "easy",
+      "q": "Chandrayaan-1 carried a small probe that was deliberately crashed onto the Moon. What was it called?",
+      "options": ["Moon Lander", "Moon Impact Probe", "Lunar Crasher", "Surya Probe"],
+      "answer": 1,
+      "explanation": "The Moon Impact Probe (MIP) was released and impacted the lunar surface."
+    },
+    {
+      "id": "chandrayaan-1-q10",
+      "difficulty": "easy",
+      "q": "Did Chandrayaan-1 carry astronauts?",
+      "options": ["Yes, two astronauts", "Yes, one astronaut", "No, it was uncrewed", "Yes, but only animals"],
+      "answer": 2,
+      "explanation": "Chandrayaan-1 was an uncrewed robotic spacecraft with no astronauts aboard."
+    },
+    {
+      "id": "chandrayaan-1-q11",
+      "difficulty": "medium",
+      "q": "From which spaceport was Chandrayaan-1 launched?",
+      "options": ["Thumba, Kerala", "Cape Canaveral, USA", "Sriharikota (Satish Dhawan Space Centre)", "Baikonur, Kazakhstan"],
+      "answer": 2,
+      "explanation": "Chandrayaan-1 lifted off from the Satish Dhawan Space Centre at Sriharikota."
+    },
+    {
+      "id": "chandrayaan-1-q12",
+      "difficulty": "medium",
+      "q": "Which NASA instrument aboard Chandrayaan-1 detected hydroxyl and water molecules on the Moon?",
+      "options": ["Mini-SAR", "HySI", "Moon Mineralogy Mapper (M3)", "Chandra's X-ray Spectrometer"],
+      "answer": 2,
+      "explanation": "NASA's Moon Mineralogy Mapper (M3) detected absorption features indicating water and hydroxyl."
+    },
+    {
+      "id": "chandrayaan-1-q13",
+      "difficulty": "medium",
+      "q": "The Moon Impact Probe carried which national symbol painted on its sides?",
+      "options": ["The ISRO logo only", "A map of India", "The Ashoka Chakra alone", "The Indian national flag"],
+      "answer": 3,
+      "explanation": "The Moon Impact Probe bore the Indian national flag, symbolically placing India's flag on the Moon."
+    },
+    {
+      "id": "chandrayaan-1-q14",
+      "difficulty": "medium",
+      "q": "Who was the Chairman of ISRO when Chandrayaan-1 was launched in 2008?",
+      "options": ["K. Sivan", "A. S. Kiran Kumar", "G. Madhavan Nair", "S. Somanath"],
+      "answer": 2,
+      "explanation": "G. Madhavan Nair was the ISRO Chairman during the Chandrayaan-1 mission."
+    },
+    {
+      "id": "chandrayaan-1-q15",
+      "difficulty": "medium",
+      "q": "Roughly how many scientific instruments (payloads) did Chandrayaan-1 carry?",
+      "options": ["Around 3", "Around 25", "Around 40", "Around 11"],
+      "answer": 3,
+      "explanation": "Chandrayaan-1 carried 11 scientific payloads from India and international partners."
+    },
+    {
+      "id": "chandrayaan-1-q16",
+      "difficulty": "medium",
+      "q": "Chandrayaan-1 was placed into what kind of lunar orbit for its primary observations?",
+      "options": ["An equatorial orbit", "A geostationary orbit", "A polar orbit", "A highly elliptical capture orbit only"],
+      "answer": 2,
+      "explanation": "Chandrayaan-1 operated in a polar orbit around the Moon, enabling near-global mapping."
+    },
+    {
+      "id": "chandrayaan-1-q17",
+      "difficulty": "medium",
+      "q": "Besides ISRO and NASA, agencies from which region also contributed instruments to Chandrayaan-1?",
+      "options": ["China", "Brazil", "Australia", "Europe (ESA)"],
+      "answer": 3,
+      "explanation": "The European Space Agency (ESA) and Bulgaria contributed payloads alongside ISRO and NASA."
+    },
+    {
+      "id": "chandrayaan-1-q18",
+      "difficulty": "medium",
+      "q": "Approximately how long did Chandrayaan-1 remain operational before contact was lost?",
+      "options": ["About 10 months", "About one week", "About five years", "About one decade"],
+      "answer": 0,
+      "explanation": "Chandrayaan-1 operated for roughly 10 months (launched Oct 2008, contact lost Aug 2009)."
+    },
+    {
+      "id": "chandrayaan-1-q19",
+      "difficulty": "medium",
+      "q": "Why did the Chandrayaan-1 mission end earlier than planned?",
+      "options": ["It crashed into the Moon", "It ran out of fuel during launch", "Radio contact was lost with the spacecraft", "It was destroyed by a meteor"],
+      "answer": 2,
+      "explanation": "ISRO lost radio communication with the orbiter in August 2009, ending the mission."
+    },
+    {
+      "id": "chandrayaan-1-q20",
+      "difficulty": "medium",
+      "q": "In which crater region did the Moon Impact Probe target its descent?",
+      "options": ["Near the lunar equator", "On the far side near Tycho", "Inside the Sea of Tranquility", "Near the Moon's south pole (Shackleton area)"],
+      "answer": 3,
+      "explanation": "The Moon Impact Probe descended near the lunar south pole, close to Shackleton crater."
+    },
+    {
+      "id": "chandrayaan-1-q21",
+      "difficulty": "medium",
+      "q": "The data confirming water on the Moon from Chandrayaan-1 was published in which year?",
+      "options": ["2009", "2006", "2012", "2016"],
+      "answer": 0,
+      "explanation": "The findings on lunar water and hydroxyl were announced and published in 2009."
+    },
+    {
+      "id": "chandrayaan-1-q22",
+      "difficulty": "medium",
+      "q": "Chandrayaan-1 helped pave the way for which follow-up Indian lunar mission?",
+      "options": ["Mangalyaan", "Aditya-L1", "Gaganyaan", "Chandrayaan-2"],
+      "answer": 3,
+      "explanation": "Chandrayaan-1's success led directly to the Chandrayaan-2 mission with an orbiter, lander and rover."
+    },
+    {
+      "id": "chandrayaan-1-q23",
+      "difficulty": "hard",
+      "q": "On what date was Chandrayaan-1 launched?",
+      "options": ["22 October 2008", "15 August 2008", "5 November 2008", "1 January 2009"],
+      "answer": 0,
+      "explanation": "Chandrayaan-1 was launched on 22 October 2008 aboard a PSLV-XL."
+    },
+    {
+      "id": "chandrayaan-1-q24",
+      "difficulty": "hard",
+      "q": "Which Chandrayaan-1 instrument was a Synthetic Aperture Radar provided by NASA to look for ice in polar craters?",
+      "options": ["Moon Mineralogy Mapper", "SARA", "Mini-SAR", "C1XS"],
+      "answer": 2,
+      "explanation": "Mini-SAR (Miniature Synthetic Aperture Radar) was NASA's radar instrument probing permanently shadowed polar craters."
+    },
+    {
+      "id": "chandrayaan-1-q25",
+      "difficulty": "hard",
+      "q": "What was the approximate altitude of Chandrayaan-1's planned circular mapping orbit above the Moon?",
+      "options": ["About 100 km", "About 10 km", "About 1,000 km", "About 36,000 km"],
+      "answer": 0,
+      "explanation": "Chandrayaan-1's nominal mapping orbit was a roughly 100 km circular polar orbit around the Moon."
+    },
+    {
+      "id": "chandrayaan-1-q26",
+      "difficulty": "hard",
+      "q": "Years after contact was lost, the still-orbiting Chandrayaan-1 spacecraft was relocated in 2016 using radar by which agency?",
+      "options": ["ESA", "JAXA", "NASA", "CNSA"],
+      "answer": 2,
+      "explanation": "In 2016 NASA used ground-based radar (transmitting from Goldstone, with Green Bank and Arecibo receiving) to relocate the dormant Chandrayaan-1 in lunar orbit."
+    },
+    {
+      "id": "chandrayaan-1-q27",
+      "difficulty": "hard",
+      "q": "Which Chandrayaan-1 X-ray instrument was contributed by the European Space Agency to map the Moon's surface chemistry?",
+      "options": ["C1XS (Chandrayaan-1 X-ray Spectrometer)", "HySI", "TMC", "M3"],
+      "answer": 0,
+      "explanation": "C1XS, the Chandrayaan-1 X-ray Spectrometer, was an ESA-contributed instrument mapping elemental abundances."
+    },
+    {
+      "id": "chandrayaan-1-q28",
+      "difficulty": "hard",
+      "q": "What was the approximate launch mass of the Chandrayaan-1 spacecraft?",
+      "options": ["About 590 kg", "About 1,380 kg", "About 3,000 kg", "About 5,000 kg"],
+      "answer": 1,
+      "explanation": "Chandrayaan-1 had a launch mass of roughly 1,380 kg."
+    },
+    {
+      "id": "chandrayaan-1-q29",
+      "difficulty": "hard",
+      "q": "The Indian-built Terrain Mapping Camera (TMC) on Chandrayaan-1 was designed mainly to do what?",
+      "options": ["Measure lunar magnetism", "Detect radiation", "Produce a 3D map of the lunar surface", "Search for radio signals"],
+      "answer": 2,
+      "explanation": "The Terrain Mapping Camera captured stereo imagery to build a three-dimensional atlas of the Moon's surface."
+    },
+    {
+      "id": "chandrayaan-1-q30",
+      "difficulty": "hard",
+      "q": "Chandrayaan-1's polar mapping orbit was later raised to about what altitude after instrument overheating concerns?",
+      "options": ["About 200 km", "About 50 km", "About 500 km", "About 2,000 km"],
+      "answer": 0,
+      "explanation": "Due to thermal issues, Chandrayaan-1's orbit was raised from about 100 km to about 200 km in 2009."
+    }
+  ]
+}

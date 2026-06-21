@@ -1,0 +1,245 @@
+{
+  "cardId": "bakhshali-manuscript",
+  "questions": [
+    {
+      "id": "bakhshali-manuscript-q01",
+      "difficulty": "easy",
+      "q": "The Bakhshali Manuscript is famous in the history of mathematics chiefly for containing one of the earliest known uses of which concept?",
+      "options": ["The symbol for pi", "Zero", "The square root of two", "Negative infinity"],
+      "answer": 1,
+      "explanation": "The manuscript's dotted placeholder symbol is among the earliest recorded uses of zero."
+    },
+    {
+      "id": "bakhshali-manuscript-q02",
+      "difficulty": "easy",
+      "q": "On what material was the Bakhshali Manuscript written?",
+      "options": ["Palm leaves", "Birch bark", "Papyrus", "Animal parchment"],
+      "answer": 1,
+      "explanation": "The manuscript was written on fragments of birch bark, a common writing surface in ancient northwest India."
+    },
+    {
+      "id": "bakhshali-manuscript-q03",
+      "difficulty": "easy",
+      "q": "What kind of document is the Bakhshali Manuscript?",
+      "options": ["A religious hymn collection", "A mathematical text", "A royal land grant", "A medical treatise"],
+      "answer": 1,
+      "explanation": "It is a mathematical manuscript dealing with arithmetic, algebra and related problems."
+    },
+    {
+      "id": "bakhshali-manuscript-q04",
+      "difficulty": "easy",
+      "q": "In the Bakhshali Manuscript, zero was originally represented by which mark?",
+      "options": ["A small circle", "A dot", "A vertical stroke", "A cross"],
+      "answer": 1,
+      "explanation": "Zero appears in the manuscript as a dot, an early form that later evolved into the hollow circle symbol."
+    },
+    {
+      "id": "bakhshali-manuscript-q05",
+      "difficulty": "easy",
+      "q": "The Bakhshali Manuscript is named after Bakhshali, a village now located in which country?",
+      "options": ["India", "Pakistan", "Nepal", "Afghanistan"],
+      "answer": 1,
+      "explanation": "Bakhshali is a village near Mardan in present-day Pakistan, then part of British India."
+    },
+    {
+      "id": "bakhshali-manuscript-q06",
+      "difficulty": "easy",
+      "q": "In what century was the Bakhshali Manuscript discovered?",
+      "options": ["17th century", "18th century", "19th century", "20th century"],
+      "answer": 2,
+      "explanation": "The manuscript was unearthed in 1881, in the 19th century."
+    },
+    {
+      "id": "bakhshali-manuscript-q07",
+      "difficulty": "easy",
+      "q": "How was the Bakhshali Manuscript found in 1881?",
+      "options": ["Recovered from a sunken ship", "Dug up from a field by a farmer", "Found sealed inside a temple wall", "Purchased from a market stall"],
+      "answer": 1,
+      "explanation": "A farmer digging in a field at Bakhshali uncovered the birch-bark fragments in 1881."
+    },
+    {
+      "id": "bakhshali-manuscript-q08",
+      "difficulty": "easy",
+      "q": "The concept whose early form the Bakhshali Manuscript records became essential to which everyday numbering system?",
+      "options": ["Roman numerals", "The place-value decimal system", "Tally marks", "Binary code"],
+      "answer": 1,
+      "explanation": "Zero is the keystone of the Hindu-Arabic place-value decimal system used worldwide today."
+    },
+    {
+      "id": "bakhshali-manuscript-q09",
+      "difficulty": "easy",
+      "q": "Where is the Bakhshali Manuscript kept today?",
+      "options": ["The British Museum", "The Bodleian Library, Oxford", "The Louvre", "The National Museum, New Delhi"],
+      "answer": 1,
+      "explanation": "Since the early 20th century the manuscript has been housed at the Bodleian Library in Oxford."
+    },
+    {
+      "id": "bakhshali-manuscript-q10",
+      "difficulty": "easy",
+      "q": "The Bakhshali Manuscript's mathematics is written mainly in which ancient language?",
+      "options": ["Tamil", "Sanskrit", "Persian", "Pali"],
+      "answer": 1,
+      "explanation": "The text is composed largely in a form of Sanskrit, the scholarly language of ancient Indian mathematics."
+    },
+    {
+      "id": "bakhshali-manuscript-q11",
+      "difficulty": "medium",
+      "q": "A 2017 radiocarbon dating study of the Bakhshali Manuscript was carried out by researchers associated with which institution?",
+      "options": ["Cambridge University", "The University of Oxford", "Harvard University", "The Indian Statistical Institute"],
+      "answer": 1,
+      "explanation": "Oxford's Bodleian Libraries commissioned the 2017 radiocarbon dating of the manuscript."
+    },
+    {
+      "id": "bakhshali-manuscript-q12",
+      "difficulty": "medium",
+      "q": "The 2017 radiocarbon study surprised scholars by finding that the manuscript's birch-bark folios were not all from the same period. What did this suggest?",
+      "options": ["The manuscript was a modern forgery", "It was made of leaves from several different centuries", "It had never been written on", "It was younger than 1881"],
+      "answer": 1,
+      "explanation": "The carbon dating returned three widely separated date ranges, indicating the folios came from different centuries."
+    },
+    {
+      "id": "bakhshali-manuscript-q13",
+      "difficulty": "medium",
+      "q": "According to the 2017 radiocarbon dating, the oldest birch-bark folios of the manuscript date to approximately which period?",
+      "options": ["The 8th-12th centuries CE", "The 3rd-4th centuries CE", "The 14th-15th centuries CE", "The 1st century BCE"],
+      "answer": 1,
+      "explanation": "The oldest folios were dated to roughly 224-383 CE, making the manuscript's earliest leaves several centuries old."
+    },
+    {
+      "id": "bakhshali-manuscript-q14",
+      "difficulty": "medium",
+      "q": "Why is the dot in the Bakhshali Manuscript considered a milestone in the development of zero?",
+      "options": ["It is the first ever written number", "It is among the oldest known uses of a symbol as a numerical placeholder", "It proves zero was invented in Europe", "It shows zero used only in religious texts"],
+      "answer": 1,
+      "explanation": "The dotted symbol is one of the earliest physical examples of a written placeholder that later became the number zero."
+    },
+    {
+      "id": "bakhshali-manuscript-q15",
+      "difficulty": "medium",
+      "q": "What types of mathematical problems does the Bakhshali Manuscript mainly contain?",
+      "options": ["Geometry proofs only", "Arithmetic, algebra and practical computation rules", "Trigonometric tables only", "Calculus and limits"],
+      "answer": 1,
+      "explanation": "The manuscript is a handbook of arithmetic and algebraic rules with worked examples for practical calculation."
+    },
+    {
+      "id": "bakhshali-manuscript-q16",
+      "difficulty": "medium",
+      "q": "Who first formally edited and studied the Bakhshali Manuscript, publishing scholarly work on it in the early 20th century?",
+      "options": ["G. R. Kaye", "Srinivasa Ramanujan", "Aryabhata", "Brahmagupta"],
+      "answer": 0,
+      "explanation": "British scholar G. R. Kaye produced an influential early edition and study of the manuscript."
+    },
+    {
+      "id": "bakhshali-manuscript-q17",
+      "difficulty": "medium",
+      "q": "Before the 2017 dating, scholars had debated the manuscript's age, with estimates ranging widely. The new evidence pushed the earliest date how far back compared to many earlier guesses?",
+      "options": ["Several centuries earlier", "About a decade later", "Into the future", "It remained exactly the same"],
+      "answer": 0,
+      "explanation": "The radiocarbon results placed the oldest folios centuries earlier than many prior scholarly estimates."
+    },
+    {
+      "id": "bakhshali-manuscript-q18",
+      "difficulty": "medium",
+      "q": "The Bakhshali Manuscript's dot symbol for zero initially served what role rather than being treated as a number in its own right?",
+      "options": ["A unit of currency", "A placeholder marking an empty position", "A punctuation mark", "A symbol for infinity"],
+      "answer": 1,
+      "explanation": "In the manuscript the dot functioned as a placeholder for an empty position in place-value notation."
+    },
+    {
+      "id": "bakhshali-manuscript-q19",
+      "difficulty": "medium",
+      "q": "Which later Indian mathematician is famous for treating zero as a number with its own arithmetic rules, building on the placeholder tradition the Bakhshali dot represents?",
+      "options": ["Brahmagupta", "Euclid", "Fibonacci", "Pythagoras"],
+      "answer": 0,
+      "explanation": "Brahmagupta, in the 7th century, set out formal rules for arithmetic with zero as a number."
+    },
+    {
+      "id": "bakhshali-manuscript-q20",
+      "difficulty": "medium",
+      "q": "The Bakhshali Manuscript survives only as a fragmentary set of around how many folios?",
+      "options": ["Several thousand pages", "About seventy birch-bark folios", "A single page", "Exactly five hundred folios"],
+      "answer": 1,
+      "explanation": "Only a few dozen damaged birch-bark folios (around seventy) of the original manuscript survive."
+    },
+    {
+      "id": "bakhshali-manuscript-q21",
+      "difficulty": "medium",
+      "q": "The script used to write the Bakhshali Manuscript is a form of which ancient Indian writing system?",
+      "options": ["Brahmi-derived Sharada", "Cuneiform", "Hieroglyphic", "Greek alphabet"],
+      "answer": 0,
+      "explanation": "The manuscript is written in a Sharada-type script descended from the ancient Brahmi family of scripts."
+    },
+    {
+      "id": "bakhshali-manuscript-q22",
+      "difficulty": "medium",
+      "q": "Why did the 2017 multi-century dating result spark debate among historians of mathematics?",
+      "options": ["It suggested the surviving manuscript may be a later copy compiling older material", "It proved zero was never used in India", "It dated the manuscript to the future", "It showed the birch bark was plastic"],
+      "answer": 0,
+      "explanation": "Mixed dates suggested the surviving object may combine folios copied over different eras, complicating claims about a single origin date."
+    },
+    {
+      "id": "bakhshali-manuscript-q23",
+      "difficulty": "hard",
+      "q": "The three radiocarbon date ranges reported for the manuscript's folios in 2017 spanned roughly which overall span of centuries?",
+      "options": ["The 3rd to the 10th centuries CE", "The 15th to the 18th centuries CE", "The 5th to the 3rd centuries BCE", "The 11th to the 13th centuries CE"],
+      "answer": 0,
+      "explanation": "The folios were dated to roughly the 3rd-4th, 7th-8th, and 9th-10th centuries CE, spanning that broad window."
+    },
+    {
+      "id": "bakhshali-manuscript-q24",
+      "difficulty": "hard",
+      "q": "Compared with the famous zero inscription at the Chaturbhuj temple in Gwalior, the oldest folios of the Bakhshali Manuscript, per the 2017 dating, are believed to be which?",
+      "options": ["Centuries older", "Exactly the same age", "Several centuries younger", "From the 20th century"],
+      "answer": 0,
+      "explanation": "The Gwalior zero dates to the 9th century CE, whereas the manuscript's oldest folios were dated centuries earlier."
+    },
+    {
+      "id": "bakhshali-manuscript-q25",
+      "difficulty": "hard",
+      "q": "The Bakhshali Manuscript contains an iterative approximation method useful for computing which quantity?",
+      "options": ["Square roots", "Prime factorizations", "Logarithms", "Derivatives"],
+      "answer": 0,
+      "explanation": "It records a formula that gives close approximations to square roots, a notable algorithmic achievement."
+    },
+    {
+      "id": "bakhshali-manuscript-q26",
+      "difficulty": "hard",
+      "q": "Which feature of the Bakhshali Manuscript helps scholars recognize a developed place-value system at work?",
+      "options": ["Use of a placeholder symbol within multi-digit numbers", "Use of Roman numerals", "Absence of any numbers", "Use of only fractions written as words"],
+      "answer": 0,
+      "explanation": "A placeholder dot within multi-digit numbers is direct evidence of a positional, place-value numeral system."
+    },
+    {
+      "id": "bakhshali-manuscript-q27",
+      "difficulty": "hard",
+      "q": "The manuscript was acquired for scholarly study after 1881 by an official who passed it on to academic hands; it ultimately entered which collection?",
+      "options": ["The Bodleian Library at Oxford", "The Vatican Library", "The Library of Congress", "The Bibliotheque nationale de France"],
+      "answer": 0,
+      "explanation": "After early study the manuscript was deposited at Oxford's Bodleian Library, where it remains."
+    },
+    {
+      "id": "bakhshali-manuscript-q28",
+      "difficulty": "hard",
+      "q": "What is the chief reason a precise single date for the Bakhshali Manuscript remains contested even after radiocarbon analysis?",
+      "options": ["The folios returned multiple different ages", "Radiocarbon cannot date birch bark", "It was never tested", "The manuscript was lost"],
+      "answer": 0,
+      "explanation": "Because individual folios dated to different centuries, no single age cleanly describes the whole manuscript."
+    },
+    {
+      "id": "bakhshali-manuscript-q29",
+      "difficulty": "hard",
+      "q": "The evolution of the zero symbol illustrated by the manuscript went from a dot to which later written form?",
+      "options": ["A hollow circle or oval", "A triangle", "A square bracket", "A wavy line"],
+      "answer": 0,
+      "explanation": "Over time the solid dot used for zero developed into the open circle shape recognizable today."
+    },
+    {
+      "id": "bakhshali-manuscript-q30",
+      "difficulty": "hard",
+      "q": "Why is the Bakhshali Manuscript significant beyond India in the global history of mathematics?",
+      "options": ["It documents an early stage of the zero concept that underpins modern mathematics and computing", "It contains the first map of the world", "It records the first use of the printing press", "It is the oldest known book of any kind"],
+      "answer": 0,
+      "explanation": "It preserves an early stage in the development of zero, a concept foundational to modern mathematics and computing."
+    }
+  ]
+}

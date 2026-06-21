@@ -1,0 +1,245 @@
+{
+  "cardId": "green-revolution",
+  "questions": [
+    {
+      "id": "green-revolution-q01",
+      "difficulty": "easy",
+      "q": "The Green Revolution in India primarily transformed which sector?",
+      "options": ["Manufacturing", "Agriculture", "Information technology", "Mining"],
+      "answer": 1,
+      "explanation": "The Green Revolution was the dramatic increase in agricultural productivity, especially of food grains, in India."
+    },
+    {
+      "id": "green-revolution-q02",
+      "difficulty": "easy",
+      "q": "During which decades did India's Green Revolution mainly take place?",
+      "options": ["The 1960s and 1970s", "The 1920s and 1930s", "The 1940s and 1950s", "The 1990s and 2000s"],
+      "answer": 0,
+      "explanation": "The Green Revolution in India unfolded chiefly during the 1960s and 1970s."
+    },
+    {
+      "id": "green-revolution-q03",
+      "difficulty": "easy",
+      "q": "Which Indian scientist is widely known as the 'Father of the Green Revolution in India'?",
+      "options": ["M. S. Swaminathan", "Homi Bhabha", "Vikram Sarabhai", "C. V. Raman"],
+      "answer": 0,
+      "explanation": "M. S. Swaminathan is regarded as the Father of the Green Revolution in India for his pioneering work on high-yielding crops."
+    },
+    {
+      "id": "green-revolution-q04",
+      "difficulty": "easy",
+      "q": "The Green Revolution introduced what kind of seeds to boost crop output?",
+      "options": ["Organic heirloom seeds", "Genetically modified BT seeds", "High-yielding variety seeds", "Wild ancestral seeds"],
+      "answer": 2,
+      "explanation": "It relied on high-yielding variety (HYV) seeds that produced far more grain than traditional varieties."
+    },
+    {
+      "id": "green-revolution-q05",
+      "difficulty": "easy",
+      "q": "Which two food grains saw the greatest production gains during India's Green Revolution?",
+      "options": ["Maize and millet", "Barley and oats", "Wheat and rice", "Sorghum and pulses"],
+      "answer": 2,
+      "explanation": "Wheat and rice were the principal crops whose yields surged during the Green Revolution."
+    },
+    {
+      "id": "green-revolution-q06",
+      "difficulty": "easy",
+      "q": "Which Indian state is most strongly associated with the early success of the Green Revolution?",
+      "options": ["Kerala", "Odisha", "Assam", "Punjab"],
+      "answer": 3,
+      "explanation": "Punjab, along with Haryana and western Uttar Pradesh, became the heartland of the early Green Revolution."
+    },
+    {
+      "id": "green-revolution-q07",
+      "difficulty": "easy",
+      "q": "Besides better seeds, which inputs were central to the Green Revolution?",
+      "options": ["Irrigation and chemical fertilisers", "Solar power and drones", "Crop rotation alone", "Reduced water use"],
+      "answer": 0,
+      "explanation": "Expanded irrigation and heavy use of chemical fertilisers (and pesticides) were key drivers of higher yields."
+    },
+    {
+      "id": "green-revolution-q08",
+      "difficulty": "easy",
+      "q": "The Green Revolution helped India move from food shortages to what condition in grain supply?",
+      "options": ["Permanent rationing", "Total dependence on imports", "Famine", "Self-sufficiency and surplus"],
+      "answer": 3,
+      "explanation": "It transformed India from a food-deficit nation reliant on imports into one that achieved grain self-sufficiency and surplus."
+    },
+    {
+      "id": "green-revolution-q09",
+      "difficulty": "easy",
+      "q": "The American agronomist often called the 'Father of the Green Revolution' worldwide was who?",
+      "options": ["Gregor Mendel", "Norman Borlaug", "Louis Pasteur", "Charles Darwin"],
+      "answer": 1,
+      "explanation": "Norman Borlaug, whose dwarf wheat varieties spread globally, is called the Father of the Green Revolution and won the 1970 Nobel Peace Prize."
+    },
+    {
+      "id": "green-revolution-q10",
+      "difficulty": "easy",
+      "q": "What was the main goal of India's Green Revolution?",
+      "options": ["To reduce farmland area", "To export rice only", "To increase food grain production", "To replace farming with industry"],
+      "answer": 2,
+      "explanation": "Its central aim was to sharply raise food grain production and overcome chronic food shortages."
+    },
+    {
+      "id": "green-revolution-q11",
+      "difficulty": "medium",
+      "q": "Norman Borlaug, key to the Green Revolution, received which major honour in 1970?",
+      "options": ["The Nobel Prize in Chemistry", "The Nobel Peace Prize", "The Fields Medal", "The Turing Award"],
+      "answer": 1,
+      "explanation": "Borlaug won the 1970 Nobel Peace Prize for his contributions to world food supply through high-yield crops."
+    },
+    {
+      "id": "green-revolution-q12",
+      "difficulty": "medium",
+      "q": "A defining trait of the new HYV wheat introduced during the Green Revolution was that the plants were:",
+      "options": ["Very tall with weak stems", "Perennial and woody", "Semi-dwarf with short, sturdy stems", "Unable to respond to fertiliser"],
+      "answer": 2,
+      "explanation": "Semi-dwarf varieties had short, strong stems that could carry heavy grain heads and respond well to fertiliser without lodging."
+    },
+    {
+      "id": "green-revolution-q13",
+      "difficulty": "medium",
+      "q": "From which international research centre in Mexico did much of the dwarf wheat germplasm originate?",
+      "options": ["IRRI", "ICRISAT", "FAO", "CIMMYT"],
+      "answer": 3,
+      "explanation": "CIMMYT (the International Maize and Wheat Improvement Center) in Mexico developed the dwarf wheat lines associated with Borlaug."
+    },
+    {
+      "id": "green-revolution-q14",
+      "difficulty": "medium",
+      "q": "The high-yielding rice varieties that aided India's Green Revolution drew heavily on work at which institute?",
+      "options": ["The Pasteur Institute", "CERN", "The International Rice Research Institute (IRRI)", "The Max Planck Institute"],
+      "answer": 2,
+      "explanation": "IRRI in the Philippines developed semi-dwarf rice varieties such as IR8, central to the rice side of the Green Revolution."
+    },
+    {
+      "id": "green-revolution-q15",
+      "difficulty": "medium",
+      "q": "The famous high-yielding rice variety released by IRRI in 1966, nicknamed 'miracle rice', was:",
+      "options": ["Basmati-370", "Pusa-1", "IR8", "Sona Masuri"],
+      "answer": 2,
+      "explanation": "IR8, released by IRRI in 1966, was dubbed 'miracle rice' for its dramatically higher yields."
+    },
+    {
+      "id": "green-revolution-q16",
+      "difficulty": "medium",
+      "q": "Which Indian agriculture minister of the 1960s is credited with championing Green Revolution policies?",
+      "options": ["Jagjivan Ram", "Morarji Desai", "T. T. Krishnamachari", "C. Subramaniam"],
+      "answer": 3,
+      "explanation": "C. Subramaniam, as Food and Agriculture Minister, drove the policy push that enabled the Green Revolution."
+    },
+    {
+      "id": "green-revolution-q17",
+      "difficulty": "medium",
+      "q": "The term 'Green Revolution' was coined in 1968 by which official?",
+      "options": ["William Gaud of USAID", "Robert McNamara", "Indira Gandhi", "Lester Brown"],
+      "answer": 0,
+      "explanation": "William Gaud, administrator of USAID, coined the phrase 'Green Revolution' in a 1968 speech."
+    },
+    {
+      "id": "green-revolution-q18",
+      "difficulty": "medium",
+      "q": "Which severe events of the early-to-mid 1960s increased the urgency for India's Green Revolution?",
+      "options": ["Droughts and food crises", "Industrial strikes", "Stock market crashes", "Cyclones only"],
+      "answer": 0,
+      "explanation": "Severe droughts and looming food crises in the mid-1960s, with heavy reliance on food imports, spurred the drive for higher domestic output."
+    },
+    {
+      "id": "green-revolution-q19",
+      "difficulty": "medium",
+      "q": "M. S. Swaminathan collaborated closely with which American scientist on Indian wheat improvement?",
+      "options": ["James Watson", "Linus Pauling", "Norman Borlaug", "Thomas Hunt Morgan"],
+      "answer": 2,
+      "explanation": "Swaminathan worked with Norman Borlaug to introduce and adapt high-yielding dwarf wheat varieties in India."
+    },
+    {
+      "id": "green-revolution-q20",
+      "difficulty": "medium",
+      "q": "The dairy counterpart to the Green Revolution in India was known as the:",
+      "options": ["Blue Revolution", "Yellow Revolution", "White Revolution", "Pink Revolution"],
+      "answer": 2,
+      "explanation": "The White Revolution, or Operation Flood, was India's dairy development programme, distinct from the grain-focused Green Revolution."
+    },
+    {
+      "id": "green-revolution-q21",
+      "difficulty": "medium",
+      "q": "Which Indian institution, established in 1929 and reorganised over the decades, coordinated much of the agricultural research behind the Green Revolution?",
+      "options": ["ISRO", "CSIR", "DRDO", "ICAR (Indian Council of Agricultural Research)"],
+      "answer": 3,
+      "explanation": "The Indian Council of Agricultural Research (ICAR) coordinated the crop research and breeding central to the Green Revolution."
+    },
+    {
+      "id": "green-revolution-q22",
+      "difficulty": "medium",
+      "q": "A widely cited environmental criticism of the Green Revolution is that it led to:",
+      "options": ["Depletion of groundwater and soil degradation", "Cooler local climates", "An increase in biodiversity", "Reduced fertiliser use"],
+      "answer": 0,
+      "explanation": "Intensive irrigation and chemical input use are blamed for falling water tables, soil degradation and reduced crop diversity."
+    },
+    {
+      "id": "green-revolution-q23",
+      "difficulty": "hard",
+      "q": "M. S. Swaminathan won which inaugural international prize in 1987 for his work on hunger and food security?",
+      "options": ["The Nobel Prize in Medicine", "The World Food Prize", "The Borlaug Award", "The Lasker Award"],
+      "answer": 1,
+      "explanation": "Swaminathan received the first-ever World Food Prize in 1987 for his contributions to increasing food production."
+    },
+    {
+      "id": "green-revolution-q24",
+      "difficulty": "hard",
+      "q": "Which Indian agricultural university, established in 1960 at Pantnagar, is often called the cradle of India's Green Revolution?",
+      "options": ["Banaras Hindu University", "Tamil Nadu Agricultural University", "G. B. Pant University of Agriculture and Technology", "Jawaharlal Nehru University"],
+      "answer": 2,
+      "explanation": "The G. B. Pant University of Agriculture and Technology at Pantnagar, India's first agricultural university, is widely called the cradle of the Green Revolution."
+    },
+    {
+      "id": "green-revolution-q25",
+      "difficulty": "hard",
+      "q": "Two important Indian-bred dwarf wheat varieties released in the late 1960s, derived from Mexican lines, were:",
+      "options": ["Kalyan Sona and Sonalika", "IR8 and IR20", "Pusa Basmati and Sona Masuri", "Swarna and Samba Mahsuri"],
+      "answer": 0,
+      "explanation": "Kalyan Sona and Sonalika were prominent high-yielding dwarf wheat varieties bred in India from Mexican germplasm."
+    },
+    {
+      "id": "green-revolution-q26",
+      "difficulty": "hard",
+      "q": "A genetic feature underlying the success of dwarf cereals in the Green Revolution was reduced sensitivity to which plant hormone?",
+      "options": ["Auxin", "Cytokinin", "Ethylene", "Gibberellin"],
+      "answer": 3,
+      "explanation": "Semi-dwarf varieties carried genes (such as the Rht and sd1 genes) affecting gibberellin response, producing short, sturdy stems."
+    },
+    {
+      "id": "green-revolution-q27",
+      "difficulty": "hard",
+      "q": "In which Indian Five-Year Plan period did the High-Yielding Varieties Programme (HYVP) get formally launched?",
+      "options": ["During the First Five-Year Plan (1951-56)", "Around 1966-67, between the Third Plan and the plan holidays", "During the Ninth Plan (1997-2002)", "During the Tenth Plan (2002-07)"],
+      "answer": 1,
+      "explanation": "The High-Yielding Varieties Programme was introduced around 1966-67, marking the formal start of India's Green Revolution strategy."
+    },
+    {
+      "id": "green-revolution-q28",
+      "difficulty": "hard",
+      "q": "Critics like Vandana Shiva have argued the Green Revolution disproportionately benefited which group?",
+      "options": ["Landless labourers", "Larger, well-irrigated farms over small and rain-fed farmers", "Forest-dwelling communities", "Urban factory workers"],
+      "answer": 1,
+      "explanation": "A common critique is that the input-intensive model favoured larger farmers with irrigation and capital, widening regional and economic inequalities."
+    },
+    {
+      "id": "green-revolution-q29",
+      "difficulty": "hard",
+      "q": "The 'Evergreen Revolution', a concept advocating sustainable productivity gains, was coined by whom?",
+      "options": ["Norman Borlaug", "Verghese Kurien", "Indira Gandhi", "M. S. Swaminathan"],
+      "answer": 3,
+      "explanation": "M. S. Swaminathan coined the term 'Evergreen Revolution' to call for productivity increases without ecological harm."
+    },
+    {
+      "id": "green-revolution-q30",
+      "difficulty": "hard",
+      "q": "Which dairy pioneer led India's White Revolution, the counterpart to the Green Revolution?",
+      "options": ["Verghese Kurien", "M. S. Swaminathan", "C. Subramaniam", "Norman Borlaug"],
+      "answer": 0,
+      "explanation": "Verghese Kurien, the 'Father of the White Revolution', led Operation Flood, India's dairy transformation alongside the grain-focused Green Revolution."
+    }
+  ]
+}

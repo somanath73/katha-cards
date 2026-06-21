@@ -1,0 +1,395 @@
+{
+  "cardId": "drdo",
+  "questions": [
+    {
+      "id": "drdo-q01",
+      "difficulty": "easy",
+      "q": "What does the abbreviation DRDO stand for?",
+      "options": [
+        "Department of Rocket Development Operations",
+        "Defence Research and Development Organisation",
+        "Directorate of Research in Defence Ordnance",
+        "Defence Resources and Deployment Office"
+      ],
+      "answer": 1,
+      "explanation": "DRDO stands for the Defence Research and Development Organisation, India's premier military R&D agency."
+    },
+    {
+      "id": "drdo-q02",
+      "difficulty": "easy",
+      "q": "In which year was DRDO established?",
+      "options": [
+        "1947",
+        "1969",
+        "1958",
+        "1980"
+      ],
+      "answer": 2,
+      "explanation": "DRDO was formed in 1958 by merging earlier defence research bodies into a single organisation."
+    },
+    {
+      "id": "drdo-q03",
+      "difficulty": "easy",
+      "q": "Under which Indian ministry does DRDO function?",
+      "options": [
+        "Ministry of Home Affairs",
+        "Ministry of Science and Technology",
+        "Ministry of External Affairs",
+        "Ministry of Defence"
+      ],
+      "answer": 3,
+      "explanation": "DRDO works under the Department of Defence Research and Development within the Ministry of Defence."
+    },
+    {
+      "id": "drdo-q04",
+      "difficulty": "easy",
+      "q": "Which famous family of long-range ballistic missiles was developed by DRDO?",
+      "options": [
+        "Trishul",
+        "Agni",
+        "Nag",
+        "Akash"
+      ],
+      "answer": 1,
+      "explanation": "The Agni series of long-range ballistic missiles is one of DRDO's flagship strategic programmes."
+    },
+    {
+      "id": "drdo-q05",
+      "difficulty": "easy",
+      "q": "Which DRDO-developed missile is a supersonic cruise missile made jointly with Russia?",
+      "options": [
+        "Prithvi",
+        "Astra",
+        "BrahMos",
+        "Nirbhay"
+      ],
+      "answer": 2,
+      "explanation": "BrahMos is a supersonic cruise missile developed by BrahMos Aerospace, a DRDO joint venture with Russia's NPO Mashinostroyeniya."
+    },
+    {
+      "id": "drdo-q06",
+      "difficulty": "easy",
+      "q": "DRDO's headquarters are located in which Indian city?",
+      "options": [
+        "Mumbai",
+        "Bengaluru",
+        "New Delhi",
+        "Hyderabad"
+      ],
+      "answer": 2,
+      "explanation": "DRDO is headquartered at DRDO Bhawan in New Delhi."
+    },
+    {
+      "id": "drdo-q07",
+      "difficulty": "easy",
+      "q": "Which former Indian President was a key aerospace scientist associated with DRDO's missile programme?",
+      "options": [
+        "Homi Bhabha",
+        "Vikram Sarabhai",
+        "C. V. Raman",
+        "A. P. J. Abdul Kalam"
+      ],
+      "answer": 3,
+      "explanation": "A. P. J. Abdul Kalam, the 'Missile Man of India', led DRDO's Integrated Guided Missile Development Programme."
+    },
+    {
+      "id": "drdo-q08",
+      "difficulty": "easy",
+      "q": "The indigenous Light Combat Aircraft associated with DRDO's design work is named?",
+      "options": [
+        "Rafale",
+        "MiG-21",
+        "Tejas",
+        "Sukhoi"
+      ],
+      "answer": 2,
+      "explanation": "Tejas is India's indigenous Light Combat Aircraft, developed with DRDO's Aeronautical Development Agency."
+    },
+    {
+      "id": "drdo-q09",
+      "difficulty": "easy",
+      "q": "What kind of systems is DRDO best known for developing?",
+      "options": [
+        "Consumer electronics",
+        "Missiles, radars and military aircraft",
+        "Telecommunication networks for the public",
+        "Agricultural seed varieties"
+      ],
+      "answer": 1,
+      "explanation": "DRDO develops missiles, radars, aircraft, armaments and other strategic defence systems for India's armed forces."
+    },
+    {
+      "id": "drdo-q10",
+      "difficulty": "easy",
+      "q": "DRDO operates a network of what kind of facilities across India?",
+      "options": [
+        "Commercial banks",
+        "Research laboratories",
+        "Public hospitals",
+        "Shopping complexes"
+      ],
+      "answer": 1,
+      "explanation": "DRDO runs a large network of specialised defence research laboratories spread across the country."
+    },
+    {
+      "id": "drdo-q11",
+      "difficulty": "medium",
+      "q": "Which integrated programme launched in 1983 produced missiles like Prithvi, Agni, Akash, Trishul and Nag?",
+      "options": [
+        "Light Combat Aircraft Programme",
+        "Project Devil",
+        "Integrated Guided Missile Development Programme",
+        "Operation Shakti"
+      ],
+      "answer": 2,
+      "explanation": "The Integrated Guided Missile Development Programme (IGMDP), launched in 1983 under A. P. J. Abdul Kalam, produced Prithvi, Agni, Akash, Trishul and Nag."
+    },
+    {
+      "id": "drdo-q12",
+      "difficulty": "medium",
+      "q": "Which DRDO missile under the IGMDP is a short-range surface-to-surface ballistic missile?",
+      "options": [
+        "Akash",
+        "Trishul",
+        "Prithvi",
+        "Nag"
+      ],
+      "answer": 2,
+      "explanation": "Prithvi is DRDO's short-range surface-to-surface ballistic missile developed under the IGMDP."
+    },
+    {
+      "id": "drdo-q13",
+      "difficulty": "medium",
+      "q": "Akash, developed by DRDO, is what type of missile system?",
+      "options": [
+        "Anti-tank guided missile",
+        "Medium-range surface-to-air missile",
+        "Intercontinental ballistic missile",
+        "Anti-ship cruise missile"
+      ],
+      "answer": 1,
+      "explanation": "Akash is a medium-range surface-to-air missile system developed by DRDO to defend against aerial threats."
+    },
+    {
+      "id": "drdo-q14",
+      "difficulty": "medium",
+      "q": "The DRDO missile 'Nag' is designed primarily for which role?",
+      "options": [
+        "Air-to-air combat",
+        "Submarine-launched ballistic missile",
+        "Anti-tank guided missile",
+        "Anti-satellite weapon"
+      ],
+      "answer": 2,
+      "explanation": "Nag is a third-generation, fire-and-forget anti-tank guided missile developed by DRDO."
+    },
+    {
+      "id": "drdo-q15",
+      "difficulty": "medium",
+      "q": "Which DRDO laboratory in Hyderabad is the lead facility for missile development?",
+      "options": [
+        "Aeronautical Development Establishment",
+        "Naval Physical and Oceanographic Laboratory",
+        "Defence Food Research Laboratory",
+        "Defence Research and Development Laboratory (DRDL)"
+      ],
+      "answer": 3,
+      "explanation": "The Defence Research and Development Laboratory (DRDL) in Hyderabad is DRDO's principal missile-development lab."
+    },
+    {
+      "id": "drdo-q16",
+      "difficulty": "medium",
+      "q": "Astra, developed by DRDO, is what kind of missile?",
+      "options": [
+        "Surface-to-surface cruise missile",
+        "Beyond-visual-range air-to-air missile",
+        "Coastal anti-ship missile",
+        "Man-portable air-defence missile"
+      ],
+      "answer": 1,
+      "explanation": "Astra is India's first indigenous beyond-visual-range air-to-air missile, developed by DRDO."
+    },
+    {
+      "id": "drdo-q17",
+      "difficulty": "medium",
+      "q": "In March 2019 DRDO demonstrated India's anti-satellite capability in a test code-named?",
+      "options": [
+        "Operation Vijay",
+        "Project Kusha",
+        "Mission Shakti",
+        "Mission Pralay"
+      ],
+      "answer": 2,
+      "explanation": "Mission Shakti was DRDO's March 2019 anti-satellite (ASAT) test that destroyed a satellite in low Earth orbit."
+    },
+    {
+      "id": "drdo-q18",
+      "difficulty": "medium",
+      "q": "Which DRDO laboratory specialises in research on high-altitude and extreme-environment physiology and food?",
+      "options": [
+        "Defence Metallurgical Research Laboratory",
+        "Defence Institute of Physiology and Allied Sciences",
+        "Electronics and Radar Development Establishment",
+        "Solid State Physics Laboratory"
+      ],
+      "answer": 1,
+      "explanation": "The Defence Institute of Physiology and Allied Sciences (DIPAS) studies human performance in extreme environments such as high altitude."
+    },
+    {
+      "id": "drdo-q19",
+      "difficulty": "medium",
+      "q": "Which DRDO programme developed the indigenous airborne early warning and control system known as 'Netra'?",
+      "options": [
+        "IGMDP",
+        "Project Kaveri",
+        "Tactical Communication System",
+        "AEW&C programme"
+      ],
+      "answer": 3,
+      "explanation": "DRDO's Airborne Early Warning and Control (AEW&C) programme produced the 'Netra' system mounted on Embraer aircraft."
+    },
+    {
+      "id": "drdo-q20",
+      "difficulty": "medium",
+      "q": "The indigenous gas turbine engine project that DRDO developed for fighter aircraft is named?",
+      "options": [
+        "Shakti",
+        "Kaveri",
+        "Tejas",
+        "Marut"
+      ],
+      "answer": 1,
+      "explanation": "The Kaveri engine is DRDO's indigenous gas turbine engine project, originally intended for the Tejas fighter."
+    },
+    {
+      "id": "drdo-q21",
+      "difficulty": "medium",
+      "q": "DRDO was formed in 1958 by combining the Defence Science Organisation with what?",
+      "options": [
+        "The Indian Space Research Organisation",
+        "The Atomic Energy Commission",
+        "The existing technical development establishments of the armed services",
+        "The Council of Scientific and Industrial Research"
+      ],
+      "answer": 2,
+      "explanation": "DRDO was created in 1958 by amalgamating the Defence Science Organisation with the technical development establishments and directorates of the armed services."
+    },
+    {
+      "id": "drdo-q22",
+      "difficulty": "medium",
+      "q": "The senior official who heads DRDO also serves in which advisory capacity to the government?",
+      "options": [
+        "Cabinet Secretary",
+        "Chief of Defence Staff",
+        "National Security Adviser",
+        "Scientific Adviser to the Raksha Mantri (Defence Minister)"
+      ],
+      "answer": 3,
+      "explanation": "The DRDO Chairman traditionally also serves as the Scientific Adviser to the Defence Minister (Raksha Mantri)."
+    },
+    {
+      "id": "drdo-q23",
+      "difficulty": "hard",
+      "q": "DRDO's first major missile project, begun in the early 1970s to develop a surface-to-air missile, was code-named?",
+      "options": [
+        "Project Valiant",
+        "Project Kusha",
+        "Project Devil",
+        "Project Sankalp"
+      ],
+      "answer": 2,
+      "explanation": "Project Devil was DRDO's early effort to reverse-engineer a surface-to-air missile, providing experience that later fed into the IGMDP."
+    },
+    {
+      "id": "drdo-q24",
+      "difficulty": "hard",
+      "q": "DRDO's early ballistic-missile technology effort that ran alongside Project Devil was code-named?",
+      "options": [
+        "Project Trishul",
+        "Project Brahma",
+        "Project Valiant",
+        "Project Garuda"
+      ],
+      "answer": 2,
+      "explanation": "Project Valiant was DRDO's early programme aimed at developing long-range ballistic-missile technology."
+    },
+    {
+      "id": "drdo-q25",
+      "difficulty": "hard",
+      "q": "The first missile of the Agni series, Agni-I, was first test-fired (as a technology demonstrator) in which year?",
+      "options": [
+        "1983",
+        "1989",
+        "1998",
+        "2002"
+      ],
+      "answer": 1,
+      "explanation": "The Agni technology demonstrator was first successfully test-fired in 1989, validating India's re-entry and propulsion technology."
+    },
+    {
+      "id": "drdo-q26",
+      "difficulty": "hard",
+      "q": "Which DRDO laboratory developed the metallurgical and materials technology, including special alloys, for India's strategic systems?",
+      "options": [
+        "Naval Materials Research Laboratory",
+        "Defence Bioengineering and Electromedical Laboratory",
+        "Defence Metallurgical Research Laboratory (DMRL)",
+        "Centre for Fire, Explosive and Environment Safety"
+      ],
+      "answer": 2,
+      "explanation": "The Defence Metallurgical Research Laboratory (DMRL) in Hyderabad develops advanced alloys and materials for India's defence systems."
+    },
+    {
+      "id": "drdo-q27",
+      "difficulty": "hard",
+      "q": "Agni-V, DRDO's longest-range ballistic missile, is generally classified as which type?",
+      "options": [
+        "Short-range ballistic missile",
+        "Cruise missile",
+        "Anti-ship ballistic missile",
+        "Intercontinental-range / intermediate-range ballistic missile"
+      ],
+      "answer": 3,
+      "explanation": "Agni-V is DRDO's longest-range missile, with a reach of over 5,000 km placing it in the intercontinental/intermediate-range class."
+    },
+    {
+      "id": "drdo-q28",
+      "difficulty": "hard",
+      "q": "Which DRDO-developed subsonic cruise missile is designed for long-range, terrain-hugging strikes?",
+      "options": [
+        "Akash",
+        "Astra",
+        "Trishul",
+        "Nirbhay"
+      ],
+      "answer": 3,
+      "explanation": "Nirbhay is DRDO's long-range, subsonic cruise missile capable of low-altitude terrain-following flight."
+    },
+    {
+      "id": "drdo-q29",
+      "difficulty": "hard",
+      "q": "DRDO's Electronics and Radar Development Establishment (LRDE) is located in which city?",
+      "options": [
+        "Pune",
+        "Chandigarh",
+        "Bengaluru",
+        "Kolkata"
+      ],
+      "answer": 2,
+      "explanation": "The Electronics and Radar Development Establishment (LRDE), DRDO's lead radar lab, is based in Bengaluru."
+    },
+    {
+      "id": "drdo-q30",
+      "difficulty": "hard",
+      "q": "DRDO has developed a two-tiered Ballistic Missile Defence system using which pair of interceptors?",
+      "options": [
+        "Akash and Trishul",
+        "Prithvi Air Defence (PAD) and Advanced Air Defence (AAD)",
+        "Agni and Prithvi",
+        "Nag and Helina"
+      ],
+      "answer": 1,
+      "explanation": "DRDO's Ballistic Missile Defence programme uses the Prithvi Air Defence (PAD) for exo-atmospheric and the Advanced Air Defence (AAD) for endo-atmospheric interception."
+    }
+  ]
+}

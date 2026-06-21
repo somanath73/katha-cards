@@ -1,0 +1,245 @@
+{
+  "cardId": "vikram-sarabhai",
+  "questions": [
+    {
+      "id": "vikram-sarabhai-q01",
+      "difficulty": "easy",
+      "q": "Vikram Sarabhai is widely regarded as the father of which national programme?",
+      "options": ["India's space programme", "India's missile programme", "India's nuclear submarine programme", "India's railway programme"],
+      "answer": 0,
+      "explanation": "Vikram Sarabhai is honoured as the father of the Indian space programme for founding and shaping ISRO."
+    },
+    {
+      "id": "vikram-sarabhai-q02",
+      "difficulty": "easy",
+      "q": "Which space organisation did Vikram Sarabhai play the leading role in founding?",
+      "options": ["NASA", "DRDO", "CSIR", "ISRO"],
+      "answer": 3,
+      "explanation": "Sarabhai was instrumental in establishing the Indian Space Research Organisation (ISRO) in 1969."
+    },
+    {
+      "id": "vikram-sarabhai-q03",
+      "difficulty": "easy",
+      "q": "In which Indian city did Vikram Sarabhai establish the Physical Research Laboratory (PRL)?",
+      "options": ["Mumbai", "Bengaluru", "Ahmedabad", "Chennai"],
+      "answer": 2,
+      "explanation": "Sarabhai founded the Physical Research Laboratory in Ahmedabad in 1947."
+    },
+    {
+      "id": "vikram-sarabhai-q04",
+      "difficulty": "easy",
+      "q": "What was Vikram Sarabhai's primary field of scientific training?",
+      "options": ["Physics", "Botany", "Geology", "Chemistry"],
+      "answer": 0,
+      "explanation": "Sarabhai was trained as a physicist and did research in cosmic rays."
+    },
+    {
+      "id": "vikram-sarabhai-q05",
+      "difficulty": "easy",
+      "q": "In which Indian state was Vikram Sarabhai born?",
+      "options": ["Maharashtra", "Gujarat", "Tamil Nadu", "Punjab"],
+      "answer": 1,
+      "explanation": "Vikram Sarabhai was born in Ahmedabad in the state of Gujarat in 1919."
+    },
+    {
+      "id": "vikram-sarabhai-q06",
+      "difficulty": "easy",
+      "q": "Which kind of natural high-energy radiation did Sarabhai study for his doctoral research?",
+      "options": ["Radio waves", "Sound waves", "Cosmic rays", "Microwaves"],
+      "answer": 2,
+      "explanation": "Sarabhai's research focused on cosmic rays, the high-energy particles arriving from space."
+    },
+    {
+      "id": "vikram-sarabhai-q07",
+      "difficulty": "easy",
+      "q": "Vikram Sarabhai's family was well known for being prominent in which area of business?",
+      "options": ["Steel", "Textiles", "Shipping", "Tea"],
+      "answer": 1,
+      "explanation": "The Sarabhai family were leading industrialists in the textile business in Ahmedabad."
+    },
+    {
+      "id": "vikram-sarabhai-q08",
+      "difficulty": "easy",
+      "q": "ISRO's launch centre at Thumba and many institutions honour Sarabhai because he is seen as a pioneer of what?",
+      "options": ["Indian space research", "Indian aviation", "Indian telegraphy", "Indian metallurgy"],
+      "answer": 0,
+      "explanation": "Sarabhai pioneered Indian space research, which is why ISRO centres carry his legacy."
+    },
+    {
+      "id": "vikram-sarabhai-q09",
+      "difficulty": "easy",
+      "q": "Sarabhai believed space technology should be used to solve the real problems of which group of people?",
+      "options": ["Only scientists", "The common people of the nation", "Foreign governments", "Military commanders only"],
+      "answer": 1,
+      "explanation": "Sarabhai argued that space technology should serve the genuine problems of ordinary people and national development."
+    },
+    {
+      "id": "vikram-sarabhai-q10",
+      "difficulty": "easy",
+      "q": "Vikram Sarabhai was married to a celebrated figure from which art form?",
+      "options": ["Classical dance", "Painting", "Sculpture", "Cinema acting"],
+      "answer": 0,
+      "explanation": "He was married to Mrinalini Sarabhai, a renowned classical dancer."
+    },
+    {
+      "id": "vikram-sarabhai-q11",
+      "difficulty": "medium",
+      "q": "In which year was the Physical Research Laboratory (PRL) founded by Sarabhai?",
+      "options": ["1937", "1947", "1957", "1969"],
+      "answer": 1,
+      "explanation": "Sarabhai established the PRL in Ahmedabad in 1947, the year of India's independence."
+    },
+    {
+      "id": "vikram-sarabhai-q12",
+      "difficulty": "medium",
+      "q": "Sarabhai founded an Ahmedabad centre, rooted in his 1966 earth station, that became which ISRO research centre?",
+      "options": ["Space Applications Centre (SAC)", "Liquid Propulsion Systems Centre", "ISRO Telemetry, Tracking and Command Network", "National Remote Sensing Centre"],
+      "answer": 0,
+      "explanation": "Sarabhai set up an experimental satellite communication earth station in Ahmedabad in 1966; its units later merged in 1972 to form ISRO's Space Applications Centre (SAC)."
+    },
+    {
+      "id": "vikram-sarabhai-q13",
+      "difficulty": "medium",
+      "q": "In which year was the Indian Space Research Organisation (ISRO) formed under Sarabhai's leadership?",
+      "options": ["1962", "1972", "1975", "1969"],
+      "answer": 3,
+      "explanation": "ISRO was established in 1969, with Sarabhai as a driving force in its creation."
+    },
+    {
+      "id": "vikram-sarabhai-q14",
+      "difficulty": "medium",
+      "q": "Sarabhai helped set up India's first rocket launching station at Thumba. Near which city is Thumba located?",
+      "options": ["Thiruvananthapuram", "Hyderabad", "Sriharikota", "Pune"],
+      "answer": 0,
+      "explanation": "The Thumba Equatorial Rocket Launching Station (TERLS) is near Thiruvananthapuram in Kerala."
+    },
+    {
+      "id": "vikram-sarabhai-q15",
+      "difficulty": "medium",
+      "q": "Thumba was chosen as a rocket launching site largely because of its proximity to what?",
+      "options": ["The geomagnetic equator", "The Himalayas", "A major airport", "The Tropic of Cancer"],
+      "answer": 0,
+      "explanation": "Thumba lies close to the geomagnetic equator, making it ideal for upper-atmosphere and ionospheric studies."
+    },
+    {
+      "id": "vikram-sarabhai-q16",
+      "difficulty": "medium",
+      "q": "Sarabhai conceived a landmark project to broadcast educational programmes to villages via satellite. What was it called?",
+      "options": ["INSAT", "SITE (Satellite Instructional Television Experiment)", "Aryabhata", "EDUSAT"],
+      "answer": 1,
+      "explanation": "Sarabhai envisioned the Satellite Instructional Television Experiment (SITE) to bring educational TV to rural India."
+    },
+    {
+      "id": "vikram-sarabhai-q17",
+      "difficulty": "medium",
+      "q": "After whose death in 1966 did Sarabhai become chairman of India's Atomic Energy Commission?",
+      "options": ["Meghnad Saha", "Satyendra Nath Bose", "Homi J. Bhabha", "C. V. Raman"],
+      "answer": 2,
+      "explanation": "Sarabhai succeeded Homi J. Bhabha as chairman of the Atomic Energy Commission after Bhabha's death in 1966."
+    },
+    {
+      "id": "vikram-sarabhai-q18",
+      "difficulty": "medium",
+      "q": "Which prestigious Indian civilian honour was conferred on Vikram Sarabhai?",
+      "options": ["Bharat Ratna only", "Padma Bhushan and the posthumous Padma Vibhushan", "Param Vir Chakra", "No civilian honour"],
+      "answer": 1,
+      "explanation": "Sarabhai received the Padma Bhushan in 1966 and was awarded the Padma Vibhushan posthumously in 1972."
+    },
+    {
+      "id": "vikram-sarabhai-q19",
+      "difficulty": "medium",
+      "q": "Sarabhai was a co-founder of which premier Indian management institute?",
+      "options": ["IIM Ahmedabad", "IIT Bombay", "ISB Hyderabad", "XLRI Jamshedpur"],
+      "answer": 0,
+      "explanation": "Sarabhai was a key co-founder of the Indian Institute of Management (IIM) Ahmedabad in 1961."
+    },
+    {
+      "id": "vikram-sarabhai-q20",
+      "difficulty": "medium",
+      "q": "In which year did Vikram Sarabhai pass away?",
+      "options": ["1966", "1975", "1980", "1971"],
+      "answer": 3,
+      "explanation": "Vikram Sarabhai died on 30 December 1971 at Kovalam in Kerala."
+    },
+    {
+      "id": "vikram-sarabhai-q21",
+      "difficulty": "medium",
+      "q": "ISRO's lead launch-vehicle centre in Thiruvananthapuram, the former Space Science and Technology Centre at Thumba, is named after Sarabhai as the:",
+      "options": ["U R Rao Satellite Centre", "Vikram Sarabhai Space Centre", "Satish Dhawan Space Centre", "Bhabha Atomic Research Centre"],
+      "answer": 1,
+      "explanation": "The Vikram Sarabhai Space Centre (VSSC) in Thiruvananthapuram, ISRO's lead launch-vehicle development centre, is named in his memory; the Bengaluru satellite centre (ISAC) is instead named the U R Rao Satellite Centre."
+    },
+    {
+      "id": "vikram-sarabhai-q22",
+      "difficulty": "medium",
+      "q": "Which research institute focused on textiles did Sarabhai help establish in Ahmedabad?",
+      "options": ["ATIRA (Ahmedabad Textile Industry's Research Association)", "TIFR", "NCL", "CSIO"],
+      "answer": 0,
+      "explanation": "Sarabhai was instrumental in founding the Ahmedabad Textile Industry's Research Association (ATIRA) in 1947."
+    },
+    {
+      "id": "vikram-sarabhai-q23",
+      "difficulty": "hard",
+      "q": "At which university did Sarabhai earn his PhD, with a thesis on cosmic ray investigations?",
+      "options": ["University of Oxford", "University of Cambridge", "Imperial College London", "University of Edinburgh"],
+      "answer": 1,
+      "explanation": "Sarabhai earned his doctorate from the University of Cambridge for work on cosmic ray investigations in tropical latitudes."
+    },
+    {
+      "id": "vikram-sarabhai-q24",
+      "difficulty": "hard",
+      "q": "Sarabhai's first sounding rocket was launched from Thumba in 1963. From which country was that rocket?",
+      "options": ["The Soviet Union", "The United States", "France", "The United Kingdom"],
+      "answer": 1,
+      "explanation": "India's first sounding rocket, an American Nike-Apache, was launched from Thumba on 21 November 1963."
+    },
+    {
+      "id": "vikram-sarabhai-q25",
+      "difficulty": "hard",
+      "q": "Before ISRO, India's space activities were guided by a national committee Sarabhai chaired from 1962. What was it called?",
+      "options": ["INCOSPAR", "ARDB", "AERB", "NRSA"],
+      "answer": 0,
+      "explanation": "Sarabhai chaired the Indian National Committee for Space Research (INCOSPAR), set up in 1962 as the precursor to ISRO."
+    },
+    {
+      "id": "vikram-sarabhai-q26",
+      "difficulty": "hard",
+      "q": "The SITE satellite-TV experiment Sarabhai championed was eventually carried out in 1975-76 using a satellite from which space agency?",
+      "options": ["NASA (USA)", "ESA (Europe)", "JAXA (Japan)", "Roscosmos (USSR)"],
+      "answer": 0,
+      "explanation": "SITE used NASA's ATS-6 satellite to beam educational television to thousands of Indian villages in 1975-76."
+    },
+    {
+      "id": "vikram-sarabhai-q27",
+      "difficulty": "hard",
+      "q": "Sarabhai's doctoral and early cosmic-ray work began at which Indian institution before he founded PRL?",
+      "options": ["Indian Institute of Science, Bangalore", "Presidency College, Kolkata", "Banaras Hindu University", "Aligarh Muslim University"],
+      "answer": 0,
+      "explanation": "Sarabhai began cosmic-ray studies at the Indian Institute of Science in Bangalore under C. V. Raman before completing his PhD."
+    },
+    {
+      "id": "vikram-sarabhai-q28",
+      "difficulty": "hard",
+      "q": "Which well-known textile-and-design institution in Ahmedabad did Sarabhai help found in 1961?",
+      "options": ["National Institute of Design (NID)", "National Institute of Fashion Technology", "Sir J. J. School of Art", "Faculty of Fine Arts, MSU Baroda"],
+      "answer": 0,
+      "explanation": "Sarabhai was a founding figure behind the National Institute of Design (NID) in Ahmedabad in 1961."
+    },
+    {
+      "id": "vikram-sarabhai-q29",
+      "difficulty": "hard",
+      "q": "A prominent lunar feature on the Moon's near side was named 'Sarabhai' in his honour. What type of feature is it?",
+      "options": ["A mountain range", "An impact crater", "A lunar sea (mare)", "A rille (valley)"],
+      "answer": 1,
+      "explanation": "The crater 'Sarabhai' on the Moon, located in Mare Serenitatis, was named to honour Vikram Sarabhai."
+    },
+    {
+      "id": "vikram-sarabhai-q30",
+      "difficulty": "hard",
+      "q": "India's lander as part of Chandrayaan-2 (2019) was named to honour Sarabhai. What was the lander called?",
+      "options": ["Pragyan", "Vikram", "Aryabhata", "Bhaskara"],
+      "answer": 1,
+      "explanation": "The Chandrayaan-2 lander was named 'Vikram' in honour of Vikram Sarabhai, the father of the Indian space programme."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "cardId": "gaganyaan",
+  "questions": [
+    {
+      "id": "gaganyaan-q01",
+      "difficulty": "easy",
+      "q": "What is the main goal of the Gaganyaan programme?",
+      "options": ["To land a rover on Mars", "To send Indian astronauts into orbit", "To build a lunar base", "To deploy a fleet of communication satellites"],
+      "answer": 1,
+      "explanation": "Gaganyaan is India's programme to send astronauts to orbit aboard an indigenous spacecraft, its first human spaceflight effort."
+    },
+    {
+      "id": "gaganyaan-q02",
+      "difficulty": "easy",
+      "q": "Which space agency is developing the Gaganyaan mission?",
+      "options": ["NASA", "ESA", "ISRO", "Roscosmos"],
+      "answer": 2,
+      "explanation": "Gaganyaan is being developed by the Indian Space Research Organisation (ISRO)."
+    },
+    {
+      "id": "gaganyaan-q03",
+      "difficulty": "easy",
+      "q": "What does the word 'Gaganyaan' broadly mean?",
+      "options": ["Sky craft or sky vehicle", "Moon walker", "Star gazer", "Sun chariot"],
+      "answer": 0,
+      "explanation": "'Gaganyaan' derives from Sanskrit words meaning sky ('gagan') and vehicle/craft ('yaan')."
+    },
+    {
+      "id": "gaganyaan-q04",
+      "difficulty": "easy",
+      "q": "Gaganyaan would make India which country to independently launch humans into space?",
+      "options": ["The first", "The second", "The third", "The fourth"],
+      "answer": 3,
+      "explanation": "After the Soviet Union/Russia, the United States, and China, India would become the fourth nation to independently send humans to space."
+    },
+    {
+      "id": "gaganyaan-q05",
+      "difficulty": "easy",
+      "q": "Crew members trained for human spaceflight missions like Gaganyaan are generally called what?",
+      "options": ["Navigators", "Engineers", "Pilots", "Astronauts"],
+      "answer": 3,
+      "explanation": "The crew selected and trained for spaceflight are astronauts; India sometimes uses the term 'Gaganyatri' for them."
+    },
+    {
+      "id": "gaganyaan-q06",
+      "difficulty": "easy",
+      "q": "Where will the Gaganyaan crewed missions be launched from?",
+      "options": ["Sriharikota (Satish Dhawan Space Centre)", "Thumba near Thiruvananthapuram", "Bengaluru", "Ahmedabad"],
+      "answer": 0,
+      "explanation": "ISRO launches its orbital missions from the Satish Dhawan Space Centre at Sriharikota in Andhra Pradesh."
+    },
+    {
+      "id": "gaganyaan-q07",
+      "difficulty": "easy",
+      "q": "What is the target environment for the Gaganyaan crewed flight?",
+      "options": ["The surface of the Moon", "The surface of Mars", "Low Earth orbit", "A Lagrange point near the Sun"],
+      "answer": 2,
+      "explanation": "Gaganyaan is designed to carry astronauts into low Earth orbit and return them safely."
+    },
+    {
+      "id": "gaganyaan-q08",
+      "difficulty": "easy",
+      "q": "How is the Gaganyaan crew capsule planned to return to Earth?",
+      "options": ["Runway landing like an aeroplane", "Vertical rocket-powered landing", "It does not return", "Splashdown in the sea with parachutes"],
+      "answer": 3,
+      "explanation": "The Gaganyaan crew module is designed to descend under parachutes and splash down in the sea for recovery."
+    },
+    {
+      "id": "gaganyaan-q09",
+      "difficulty": "easy",
+      "q": "From which historic landmark did the Prime Minister announce the Gaganyaan human spaceflight goal?",
+      "options": ["The Red Fort during an Independence Day address", "The Parliament building", "The Gateway of India", "India Gate"],
+      "answer": 0,
+      "explanation": "Prime Minister Narendra Modi announced India's human spaceflight ambition from the Red Fort during his Independence Day speech in 2018."
+    },
+    {
+      "id": "gaganyaan-q10",
+      "difficulty": "easy",
+      "q": "Which country has Gaganyaan been a major symbol of national pride for?",
+      "options": ["Japan", "Brazil", "Canada", "India"],
+      "answer": 3,
+      "explanation": "Gaganyaan is India's first indigenous human spaceflight programme and a milestone in its space ambitions."
+    },
+    {
+      "id": "gaganyaan-q11",
+      "difficulty": "medium",
+      "q": "Which launch vehicle is being human-rated to carry the Gaganyaan crew to orbit?",
+      "options": ["PSLV", "GSLV Mk II", "LVM3 (GSLV Mk III)", "SSLV"],
+      "answer": 2,
+      "explanation": "ISRO's most powerful operational rocket, the LVM3 (formerly GSLV Mk III), is being human-rated for Gaganyaan."
+    },
+    {
+      "id": "gaganyaan-q12",
+      "difficulty": "medium",
+      "q": "In which year did the Indian government formally approve significant funding for the Gaganyaan programme?",
+      "options": ["2008", "2022", "2018", "2025"],
+      "answer": 2,
+      "explanation": "The Union Cabinet approved the Gaganyaan programme in late 2018, the same year it was announced from the Red Fort."
+    },
+    {
+      "id": "gaganyaan-q13",
+      "difficulty": "medium",
+      "q": "What is the name of ISRO's humanoid robot built to fly on uncrewed Gaganyaan test missions?",
+      "options": ["Vikram", "Pragyan", "Vyommitra", "Rohini"],
+      "answer": 2,
+      "explanation": "Vyommitra is a half-humanoid robot developed by ISRO to fly aboard uncrewed Gaganyaan test flights and simulate crew functions."
+    },
+    {
+      "id": "gaganyaan-q14",
+      "difficulty": "medium",
+      "q": "What term has ISRO used for the Indian astronauts of the Gaganyaan programme?",
+      "options": ["Cosmonauts", "Taikonauts", "Gaganyatris", "Spacewalkers"],
+      "answer": 2,
+      "explanation": "ISRO and Indian officials have referred to the Gaganyaan crew as 'Gaganyatris' (sky travellers)."
+    },
+    {
+      "id": "gaganyaan-q15",
+      "difficulty": "medium",
+      "q": "Roughly how many crew members is the Gaganyaan capsule designed to carry on an orbital mission?",
+      "options": ["Up to 1", "Up to 6", "Up to 3", "Up to 10"],
+      "answer": 2,
+      "explanation": "The Gaganyaan crew module is designed to carry up to three astronauts to low Earth orbit."
+    },
+    {
+      "id": "gaganyaan-q16",
+      "difficulty": "medium",
+      "q": "What is the typical planned duration of the first crewed Gaganyaan orbital mission?",
+      "options": ["A few minutes (suborbital hop)", "About one month", "About six months", "Up to about three days"],
+      "answer": 3,
+      "explanation": "The planned crewed Gaganyaan mission is a short orbital flight of up to about three days before return."
+    },
+    {
+      "id": "gaganyaan-q17",
+      "difficulty": "medium",
+      "q": "Which two main parts make up the Gaganyaan orbital module?",
+      "options": ["Lander and rover", "Booster and fairing", "Crew module and service module", "Orbiter and probe"],
+      "answer": 2,
+      "explanation": "The Gaganyaan orbital module consists of a crew module (which houses the astronauts) and a service module that supports it in orbit."
+    },
+    {
+      "id": "gaganyaan-q18",
+      "difficulty": "medium",
+      "q": "Where were the first group of Indian astronaut-candidates for Gaganyaan given initial training before specialised preparation in India?",
+      "options": ["The United States", "France", "Russia", "Japan"],
+      "answer": 2,
+      "explanation": "The four shortlisted Indian Air Force pilots underwent initial astronaut training in Russia before continuing preparation in India."
+    },
+    {
+      "id": "gaganyaan-q19",
+      "difficulty": "medium",
+      "q": "From which branch of the Indian armed forces were the first Gaganyaan astronaut-designates primarily drawn?",
+      "options": ["Indian Navy", "Indian Army", "Indian Air Force", "Coast Guard"],
+      "answer": 2,
+      "explanation": "The astronaut-designates announced for Gaganyaan were test pilots from the Indian Air Force."
+    },
+    {
+      "id": "gaganyaan-q20",
+      "difficulty": "medium",
+      "q": "What critical safety system does Gaganyaan use to pull the crew module to safety if the rocket fails during launch?",
+      "options": ["A glide chute on the booster", "An ejection seat for each astronaut", "A backup second rocket", "A Crew Escape System (abort system)"],
+      "answer": 3,
+      "explanation": "Gaganyaan uses a Crew Escape System that can rapidly pull the crew module away from the launch vehicle in an emergency."
+    },
+    {
+      "id": "gaganyaan-q21",
+      "difficulty": "medium",
+      "q": "What is the name of ISRO's planned crewed orbital outpost that Gaganyaan technology is meant to support in the long term?",
+      "options": ["Bharatiya Antariksha Station", "Tiangong", "Mir-2", "Kalpana Station"],
+      "answer": 0,
+      "explanation": "India has announced plans for the Bharatiya Antariksha Station (Indian Space Station), with Gaganyaan as a key building block."
+    },
+    {
+      "id": "gaganyaan-q22",
+      "difficulty": "medium",
+      "q": "Before crewed flights, what kind of test missions does ISRO plan to fly under the Gaganyaan programme?",
+      "options": ["Only ground tests", "Crewed flights from the very first launch", "Uncrewed orbital and abort test flights", "Lunar landing tests"],
+      "answer": 2,
+      "explanation": "ISRO is conducting uncrewed test flights and in-flight abort tests to validate systems before flying humans."
+    },
+    {
+      "id": "gaganyaan-q23",
+      "difficulty": "hard",
+      "q": "What was the name of the first in-flight abort demonstration flight (Test Vehicle Demonstration) for Gaganyaan, flown in 2023?",
+      "options": ["TV-D1", "PSLV-C37", "GSLV-F12", "SSLV-D2"],
+      "answer": 0,
+      "explanation": "The Test Vehicle Abort Mission-1, designated TV-D1, was successfully flown in October 2023 to demonstrate the Crew Escape System."
+    },
+    {
+      "id": "gaganyaan-q24",
+      "difficulty": "hard",
+      "q": "Which engine, used in the LVM3's cryogenic upper stage, is part of the human-rating effort for Gaganyaan?",
+      "options": ["The RD-180", "The CE-20 cryogenic engine", "The Merlin 1D", "The Raptor engine"],
+      "answer": 1,
+      "explanation": "The LVM3's upper stage uses the indigenous CE-20 cryogenic engine, which is being qualified to human-rating standards for Gaganyaan."
+    },
+    {
+      "id": "gaganyaan-q25",
+      "difficulty": "hard",
+      "q": "What is the approximate target orbital altitude for the crewed Gaganyaan low Earth orbit mission?",
+      "options": ["About 40 km", "About 4,000 km", "About 400 km", "About 36,000 km"],
+      "answer": 2,
+      "explanation": "The Gaganyaan crewed mission is planned to operate in low Earth orbit at an altitude of roughly 400 kilometres."
+    },
+    {
+      "id": "gaganyaan-q26",
+      "difficulty": "hard",
+      "q": "Which Indian Air Force officer was named as the designated astronaut for India's flight to the International Space Station under a related collaboration ahead of Gaganyaan?",
+      "options": ["Rakesh Sharma", "Ravish Malhotra", "Prasanth Nair", "Shubhanshu Shukla"],
+      "answer": 3,
+      "explanation": "Group Captain Shubhanshu Shukla, one of the Gaganyaan astronaut-designates, was assigned to fly to the ISS as part of an India-US collaboration."
+    },
+    {
+      "id": "gaganyaan-q27",
+      "difficulty": "hard",
+      "q": "Who was the first Indian citizen to travel to space, decades before Gaganyaan, aboard a Soviet mission in 1984?",
+      "options": ["Kalpana Chawla", "Rakesh Sharma", "Sunita Williams", "Wing Commander Ravish Malhotra"],
+      "answer": 1,
+      "explanation": "Rakesh Sharma flew aboard the Soviet Soyuz T-11 in 1984, becoming the first Indian in space, long before the indigenous Gaganyaan effort."
+    },
+    {
+      "id": "gaganyaan-q28",
+      "difficulty": "hard",
+      "q": "What was a key purpose of the Pad Abort Test ISRO conducted in 2018 ahead of Gaganyaan?",
+      "options": ["To test a Mars landing", "To validate the crew escape system from the launch pad", "To deploy a navigation satellite", "To test a reusable winged spaceplane"],
+      "answer": 1,
+      "explanation": "ISRO's 2018 Pad Abort Test demonstrated the crew escape system's ability to lift the crew module away from a failing rocket while still on the pad."
+    },
+    {
+      "id": "gaganyaan-q29",
+      "difficulty": "hard",
+      "q": "Which ISRO chairman oversaw major Gaganyaan milestones including the TV-D1 abort test in 2023?",
+      "options": ["K. Sivan", "S. Somanath", "A. S. Kiran Kumar", "G. Madhavan Nair"],
+      "answer": 1,
+      "explanation": "S. Somanath was ISRO Chairman during the 2023 Gaganyaan test-vehicle abort demonstration and the announcement of the astronaut-designates."
+    },
+    {
+      "id": "gaganyaan-q30",
+      "difficulty": "hard",
+      "q": "What broad category of spacecraft does the Gaganyaan crew module belong to, in terms of re-entry design?",
+      "options": ["A winged spaceplane", "A blunt-body capsule with a heat shield", "A lifting-body glider", "An inflatable habitat"],
+      "answer": 1,
+      "explanation": "The Gaganyaan crew module is a blunt-body capsule that uses an ablative heat shield to survive atmospheric re-entry before parachute splashdown."
+    }
+  ]
+}
