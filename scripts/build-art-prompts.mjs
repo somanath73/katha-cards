@@ -151,6 +151,23 @@ const RECIPES = {
       }
     },
   },
+  // Photoreal architectural look so AI fallbacks blend with the real Wikimedia
+  // photos that cover most of the deck.
+  monuments: {
+    style:
+      'Photorealistic high-resolution travel photograph, razor-sharp focus, warm natural daylight, clear ' +
+      'blue sky, ultra-detailed stonework and architecture, vivid true-to-life colour, professional ' +
+      'architectural and landscape photography, epic wide establishing shot, subtle depth of field. No text, ' +
+      'no lettering, no captions, no watermark, no signage, no tourists in the foreground. Vertical portrait orientation.',
+    lead: (c) => {
+      switch (c.type) {
+        case 'place': return `A stunning photorealistic travel photograph of ${c.title}, ${c.subtitle}, a famous heritage monument in India.`
+        case 'artifact': return `A photorealistic, detailed photograph of ${c.title}, ${c.subtitle}, a famous Indian monument, as the central subject.`
+        case 'concept': return `A photorealistic, evocative photograph representing ${c.title}, ${c.subtitle}, an Indian heritage site.`
+        default: return `A photorealistic photograph of ${c.title}, ${c.subtitle}, a famous monument in India.`
+      }
+    },
+  },
 }
 
 const recipe = RECIPES[recipeKey]
